@@ -29,7 +29,7 @@ Every game tag used in `rangoric-srd`: what it means, what it goes on, and how m
 | `background` | Skills | Useful to a normal person; 1 background point per level, and the first one picked is a class skill | [[rangoric-srd/skills/Skills Overview\|Skills Overview]] | 7 skills (Craft, Profession, Performance, Appraise, Animal Handling, Linguistics, Lore) | In use (2026-10-30) |
 | `knowledge` | Skills | A knowledge skill. Rules can say "any Knowledge skill" or "all Knowledge skills" | [[rangoric-srd/skills/Knowledge\|Knowledge]] | 8 skills (Arcana, Dungeoneering, Lore, Nature, Psionics, Society, Tactics, Theology) | In use (2026-10-30) |
 | `magic` | Skills | A Magic skill: Arcana, Theology, Nature, Psionics. A "Magic skill check" uses whichever one fits (Identifying Magic), and each casting class lists its own | [[rangoric-srd/skills/Identifying Magic\|Identifying Magic]] | 4 skills | In use (2026-10-30) |
-| `first-aid` | Actions | A First Aid action: either Fieldcraft or Medicine can make the check | [[rangoric-srd/actions/First Aid\|First Aid]] | 7 actions | In use (2026-10-31) |
+| `first-aid` | Actions | A First Aid action: either Fieldcraft or Medicine can make the check | [[rangoric-srd/actions/First Aid\|First Aid]] | 8 actions | In use (2026-10-31) |
 
 ## Candidates for later
 

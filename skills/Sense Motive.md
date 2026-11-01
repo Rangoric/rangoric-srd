@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Wis"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Sense Motive|Sense Motive (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -45,3 +46,15 @@ The character can discern a target’s alignment and even detect surface thought
 *Discern Full Alignment*: This use of the skill lets a character determine both components of a target’s alignment. The character can’t retry the check. The target must be visible and within 30 feet of the character.
 
 *Detect Surface Thoughts*: This lets a character read the surface thoughts of a single target (as the 3rd-round effect of the detect thoughts spell). There is no saving throw to resist this effect, though the target can use Deception to disguise his or her surface thoughts (see the Deception skill description), in which case this becomes an opposed check (any result lower than 100 automatically fails). The target must be visible and within 30 feet of the character.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: If you were aware of an opponent before rolling initiative (such as when you ambush an enemy or negotiations break down into combat, but not when both sides happen upon each other or you are surprised), you can attempt a Sense Motive check as part of your initiative check (DC = 11 + the highest Deception modifier among your opponents or DC 15, whichever is higher). If you succeed, you gain a +1 bonus on the initiative check, plus an additional +1 for every 5 by which you exceeded the DC.
+
+**10 Ranks**: After 1 minute of conversation, you can read a creature's surface thoughts (as detect thoughts)by attempting a Sense Motive check at a –20 penalty opposed by the creature's Deception check.
+
+**15 Ranks**: You can read surface thoughts as above after 1 round. In addition, when attacked, you can attempt a Sense Motive check as an immediate action opposed by your target's attack roll. A successful check grants a +2 insight bonus to your AC against attacks from that specific opponent for 1 minute.
+
+**20 Ranks**: You can read surface thoughts as above as a standard action. A successful check to gain an insight bonus to your AC also negates the attack that triggered it.

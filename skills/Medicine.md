@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Int"
 trained-only: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[modern srd 3.5/skills/Treat Injury|Treat Injury (Modern)]]"
   - "[[star srd 3.5/rules/Skills|Skills (Starfinder)]]"
   - "[[fantasy srd 3.5/skills/Craft|Craft (3.5)]]"
@@ -19,7 +20,7 @@ Medicine is the trained study of the body and how to mend it: treating wounds an
 
 ## First Aid
 
-Medicine can take any [[rangoric-srd/actions/First Aid|First Aid]] action: stabilizing the dying, long-term care, and treating wounds, poison and disease.
+Medicine can take any [[rangoric-srd/actions/First Aid|First Aid]] action: stabilizing the dying, long-term care, and treating wounds, deadly wounds, poison and disease.
 
 ## Restoring Hit Points
 
@@ -50,3 +51,15 @@ You make antitoxin and other remedies with Medicine instead of Craft (alchemy), 
 **Try Again**: Yes for restoring hit points, reviving and surgery.
 
 **Special**: Without the right kit or tools you take a –4 penalty. You can restore your own hit points with a –5 penalty, but you can’t revive yourself or operate on yourself.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the target recovers hit points and ability damage as if it had rested for a full day.
+
+**10 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the target recovers hit points as if it had rested for a full day with long-term care.
+
+**15 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the creature recovers hit point and ability damage as if it had rested for 3 days.
+
+**20 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the target recovers hit point and ability damage as if it had rested for 3 days with long-term care.

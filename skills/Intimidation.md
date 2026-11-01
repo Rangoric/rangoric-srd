@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Cha"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Intimidate|Intimidate (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -32,3 +33,15 @@ A character immune to fear can’t be intimidated, nor can nonintelligent creatu
 ## Advanced Uses
 
 *Special*: The DC to intimidate any creature whose attitude is fanatic is increased by +20.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: If you exceed the DC to demoralize a target by at least 10, it is frightened for 1 round and shaken thereafter.\* A Will save (DC = 10 + your number of ranks in Intimidation) negates the frightened condition, but the target is still shaken, even if it has the stalwart ability.
+
+**10 Ranks**: If you exceed the DC to demoralize a target by at least 10, it is panicked for 1 round or frightened for 1d4 rounds (your choice) and shaken thereafter.\* A Will save (DC = 10 + your number of ranks in Intimidation) negates the frightened or panicked condition, but the target is still shaken, even if it has the stalwart ability.
+
+**15 Ranks**: If you exceed the DC to demoralize a target by at least 20, it is cowering for 1 round or panicked for 1d4 rounds (your choice) and frightened thereafter.\* A Will save (DC = 10 + your number of ranks in Intimidation) negates the cowering, panicked, and frightened conditions, but the target is still shaken, even if it has the stalwart ability.
+
+**20 Ranks**: If you exceed the DC to demoralize a target by at least 20, it is cowering for 1d4 rounds and panicked thereafter.\* A Will save (DC = 10 + your number of ranks in Intimidation) negates the cowering and panicked conditions, but the target is still shaken, even if it has the stalwart ability.

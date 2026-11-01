@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Wis"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Survival|Survival (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
   - "[[fantasy srd 3.5/skills/Heal (Skill)|Heal (Skill) (3.5)]]"
@@ -63,7 +64,7 @@ With a successful check, the character knows the direction to the desired locati
 
 ## Healing
 
-Fieldcraft can take any [[rangoric-srd/actions/First Aid|First Aid]] action: stabilizing the dying, long-term care, treating wounds, poison and disease, and at high ranks quickening a patient’s recovery. [[rangoric-srd/skills/Medicine|Medicine]] can take them too, and has uses of its own.
+Fieldcraft can take any [[rangoric-srd/actions/First Aid|First Aid]] action: stabilizing the dying, long-term care, treating wounds, deadly wounds, poison and disease, and at high ranks quickening a patient’s recovery. [[rangoric-srd/skills/Medicine|Medicine]] can take them too, and has uses of its own.
 
 ## Ropes
 
@@ -100,3 +101,27 @@ The character can splice ropes together quickly, tie unique knots, and even anim
 *Tie Unique Knot*: The character can tie a knot that only he or she knows how to untie. This doesn’t affect any Escape Artist checks made to escape these bindings.
 
 *Animate Held Rope*: The character can command any rope he or she holds as if it had the animate rope spell cast upon it (except that using the skill in this way doesn’t grant any bonus on Fieldcraft checks made with the animated rope). Each command requires a separate Fieldcraft check. Because the effect isn’t magical, it can’t be dispelled.  
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+### Survival
+
+**5 Ranks**: You reduce all nonlethal damage you take from heat, cold, starvation, or thirst by 1 point for every 5 ranks you possess in Fieldcraft.
+
+**10 Ranks**: You can track creatures that leave no tracks, including flying and swimming creatures and creatures using trackless step or *pass without trace,* taking a –20 penalty on your Fieldcraft check.
+
+**15 Ranks**: Once per day, you can spend 1 hour and attempt a DC 30 Fieldcraft check. Success grants you cold resistance or fire resistance 5 for 24 hours. You can share this with one ally for every 5 by which you exceeded the check.
+
+**20 Ranks**: You take only a –10 penalty when tracking creatures that leave no tracks.
+
+### Healing
+
+**5 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the target recovers hit points and ability damage as if it had rested for a full day.
+
+**10 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the target recovers hit points as if it had rested for a full day with long-term care.
+
+**15 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the creature recovers hit point and ability damage as if it had rested for 3 days.
+
+**20 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the target recovers hit point and ability damage as if it had rested for 3 days with long-term care.

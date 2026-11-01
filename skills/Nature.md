@@ -29,3 +29,5 @@ It is a [[rangoric-srd/skills/Knowledge|Knowledge skill]], so its checks work as
 **Identifying Creatures**: Nature identifies animals, fey, giants, monstrous humanoids, plants and vermin; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
 
 **Magic Skill**: Nature is the [[rangoric-srd/skills/Identifying Magic|Magic skill]] for divine spells that come from nature: those of druids and rangers; see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]].
+
+**Unlocks**: Nature uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]) and the Magic skills’ unlocks (in [[rangoric-srd/skills/Identifying Magic#Unlocks|Identifying Magic]]).

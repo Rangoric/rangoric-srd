@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Craft|Craft (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -112,3 +113,15 @@ The character can craft items more quickly than normal.
 | Sunrod           | Glows for 12 hours                           |
 | Tanglefoot bag   | Becomes brittle and fragile after 20 minutes |
 | Tindertwig        | No effect                                    |
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: When determining your weekly progress, double the result of your Craft check before multiplying the result by the item's DC.
+
+**10 Ranks**: You do not ruin any of your raw materials unless you fail a check by 10 or more.
+
+**15 Ranks**: When you determine your progress, the result of your check is how much work you complete each day in silver pieces.
+
+**20 Ranks**: You can craft magic armor, magic weapons, magic rings, and wondrous items that fall under your category of Craft using the normal Craft rules.

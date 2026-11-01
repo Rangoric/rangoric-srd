@@ -2,6 +2,7 @@
 srd-type: "overview"
 section: "Skills"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Spellcraft|Spellcraft (3.5)]]"
   - "[[fantasy srd 3.5/skills/Psicraft|Psicraft (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -93,3 +94,15 @@ A class that casts spells or manifests powers lists its Magic skill. Wherever a 
 | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] | Psion, psychic warrior, wilder |
 
 A prestige class lists a Magic skill only if it has spellcasting of its own. One that advances another class’s casting, such as the mystic theurge, uses the Magic skills of the classes it advances.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]]. These are shared by every Magic skill, and each Magic skill counts as its own skill for them. They came from Pathfinder’s Spellcraft.
+
+**5 Ranks**: Identifying magic items takes 1 full round, and the time required to learn a spell from a spellbook is halved.
+
+**10 Ranks**: You can identify magic items without using *detect magic,* though the DC is increased by 10.
+
+**15 Ranks**: Identifying magic items is a standard action, and the time required to learn a new spell from a spellbook is reduced to 1 minute per spell level.
+
+**20 Ranks**: Whenever you attempt a caster level check, attempt a Magic skill check at a –20 penalty at the same DC. If the Magic skill check succeeds, you gain a +2 circumstance bonus on your caster level check.
