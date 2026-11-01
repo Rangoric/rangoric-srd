@@ -2,6 +2,7 @@
 srd-type: "overview"
 section: "Skills"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Skills Overview|Skills Overview (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -25,6 +26,8 @@ tags: [rangoric, rangoric/overview]
 **Background Points**: Each level, including 1st, you also get 1 background point, which can be spent only on Background skills. Your class’s skill points, including those from your Intelligence modifier, can be spent on Core or Background skills; background points can’t be spent on Core skills. A background point works like a skill point: it gets you 1 rank, up to the same maximum. ^background-points
 
 **Your First Background Skill**: The first Background skill you put a rank in counts as a class skill for you, so it gets the +3 bonus. Other Background skills are class skills only if your class lists them. ^first-background-skill
+
+**Skill Unlocks**: Reaching 5, 10, 15 and 20 ranks in a skill can unlock new abilities with it, listed in the Unlocks section of the skill’s note. The Knowledge skills share one set, in [[rangoric-srd/skills/Knowledge|Knowledge]], and the Magic skills share one, in [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]. You get a skill’s unlocks only through the [[rangoric-srd/feats/Signature Skill|Signature Skill]] feat or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]. Once you have them, you gain each tier’s unlock as soon as you have enough ranks. ^skill-unlocks
 
 **Using Skills**: To make a skill check, roll:
 
