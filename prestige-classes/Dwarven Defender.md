@@ -5,6 +5,7 @@ hit-die: "d12"
 alignment: "Any lawful"
 skill-points: "2 + Int modifier"
 based-on:
+  - "[[path srd 3.5/classes/Stalwart Defender|Stalwart Defender (PF1)]]"
   - "[[fantasy srd 3.5/prestige-classes/Dwarven Defender|Dwarven Defender (3.5)]]"
 status: draft
 change: modified
@@ -32,7 +33,7 @@ To qualify to become a defender, a character must fulfill all the following crit
 
 ###### Class Skills
 
-The defender’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
+The defender’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
