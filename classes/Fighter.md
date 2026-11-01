@@ -5,6 +5,7 @@ alignment: "Any"
 hit-die: "d10"
 skill-points: "2 + Int modifier"
 based-on:
+  - "[[path srd 3.5/classes/Fighter|Fighter (PF1)]]"
   - "[[fantasy srd 3.5/classes/Fighter|Fighter (3.5)]]"
 status: draft
 change: modified
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/class]
 
 ###### Class Skills
 
-The fighter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
+The fighter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
