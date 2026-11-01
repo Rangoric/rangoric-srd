@@ -1,0 +1,39 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Universal"
+level:
+  - "Brd 0"
+  - "Sor/Wiz 0"
+components:
+  - "V"
+  - "S"
+casting-time: "1 standard action"
+range: "10 ft."
+target-effect-or-area: "See text"
+duration: "1 hour"
+saving-throw: "See text"
+spell-resistance: "No"
+based-on:
+  - "[[fantasy srd 3.5/spells/Prestidigitation|Prestidigitation (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/spell]
+---
+
+# Prestidigitation
+
+*Universal*
+
+  - **Level**: Brd 0, Sor/Wiz 0
+  - **Components**: V, S
+  - **Casting Time**: 1 standard action
+  - **Range**: 10 ft.
+
+Target, Effect, or Area: See text  
+Duration: 1 hour  
+Saving Throw: See text  
+Spell Resistance: No
+
+Prestidigitations are minor tricks that novice spellcasters use for practice. Once cast, a prestidigitation spell enables you to perform simple magical effects for 1 hour. The effects are minor and have severe limitations. A prestidigitation can slowly lift 1 pound of material. It can color, clean, or soil items in a 1-foot cube each round. It can chill, warm, or flavor 1 pound of nonliving material. It cannot deal damage or affect the concentration of spellcasters. Prestidigitation can create small objects, but they look crude and artificial. The materials created by a prestidigitation spell are extremely fragile, and they cannot be used as tools, weapons, or spell components. Finally, a prestidigitation lacks the power to duplicate any other spell effects. Any actual change to an object (beyond just moving, cleaning, or soiling it) persists only 1 hour.

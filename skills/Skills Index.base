@@ -1,0 +1,45 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/skills")
+    - file.hasTag("rangoric/skill")
+    - note.status != "replaced"
+views:
+  - type: table
+    name: All skills
+    order:
+      - file.name
+      - key-ability
+      - trained-only
+      - armor-check-penalty
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Core skills
+    filters:
+      and:
+        - file.hasTag("core")
+    order:
+      - file.name
+      - key-ability
+      - trained-only
+      - armor-check-penalty
+      - source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Background skills
+    filters:
+      and:
+        - file.hasTag("background")
+    order:
+      - file.name
+      - key-ability
+      - trained-only
+      - armor-check-penalty
+      - source
+    sort:
+      - property: file.name
+        direction: ASC

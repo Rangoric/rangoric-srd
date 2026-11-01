@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd")
+    - file.ext == "md"
+views:
+  - type: table
+    name: Flagged
+    filters:
+      and:
+        - note["pi-review"] == "flagged"
+    order:
+      - file.name
+      - pi-flags
+      - file.folder
+    sort:
+      - property: file.folder
+        direction: ASC
+  - type: table
+    name: All by review status
+    groupBy:
+      property: pi-review
+      direction: ASC
+    order:
+      - file.name
+      - pi-flags
+      - file.folder

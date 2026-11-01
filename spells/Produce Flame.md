@@ -1,0 +1,44 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Evocation"
+descriptor:
+  - "Fire"
+level:
+  - "Drd 1"
+  - "Fire 2"
+components:
+  - "V"
+  - "S"
+casting-time: "1 standard action"
+range: "0 ft."
+effect: "Flame in your palm"
+duration: "1 min./level (D)"
+saving-throw: "None"
+spell-resistance: "Yes"
+based-on:
+  - "[[fantasy srd 3.5/spells/Produce Flame|Produce Flame (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/spell]
+---
+
+# Produce Flame
+
+*Evocation \[Fire\]*
+
+  - **Level**: Drd 1, Fire 2
+  - **Components**: V, S
+  - **Casting Time**: 1 standard action
+  - **Range**: 0 ft.
+  - **Effect**: Flame in your palm
+  - **Duration**: 1 min./level (D)
+  - **Saving Throw**: None
+  - **Spell Resistance**: Yes
+
+Flames as bright as a torch appear in your open hand. The flames harm neither you nor your equipment.
+
+In addition to providing illumination, the flames can be hurled or used to touch enemies. You can strike an opponent with a melee touch attack, dealing fire damage equal to 1d6 +1 point per caster level (maximum +5). Alternatively, you can hurl the flames up to 120 feet as a thrown weapon. When doing so, you attack with a ranged touch attack (with no range penalty) and deal the same damage as with the melee attack. No sooner do you hurl the flames than a new set appears in your hand. Each attack you make reduces the remaining duration by 1 minute. If an attack reduces the remaining duration to 0 minutes or less, the spell ends after the attack resolves.
+
+This spell does not function underwater.

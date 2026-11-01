@@ -1,0 +1,75 @@
+---
+srd-type: "overview"
+section: "Spells"
+based-on:
+  - "[[fantasy srd 3.5/spells/Spells M to O|Spells M to O (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/overview]
+---
+
+## Spells
+
+## Mage Armor - Owl's Wisdom
+
+  - [[rangoric-srd/spells/Mage Armor|Mage Armor]]
+  - [[rangoric-srd/spells/Mage Hand|Mage Hand]]
+  - [[rangoric-srd/spells/Mage’s Disjunction|Mage’s Disjunction]]
+  - [[rangoric-srd/spells/Mage’s Faithful Hound|Mage’s Faithful Hound]]
+  - [[rangoric-srd/spells/Mage’s Lucubration|Mage’s Lucubration]]
+  - [[rangoric-srd/spells/Mage’s Magnificent Mansion|Mage’s Magnificent Mansion]]
+  - [[rangoric-srd/spells/Mage’s Private Sanctum|Mage’s Private Sanctum]]
+  - [[rangoric-srd/spells/Mage’s Sword|Mage’s Sword]]
+  - [[rangoric-srd/spells/Magic Aura|Magic Aura]]
+  - [[rangoric-srd/spells/Magic Circle against Chaos|Magic Circle against Chaos]]
+  - [[rangoric-srd/spells/Magic Circle against Evil|Magic Circle against Evil]]
+  - [[rangoric-srd/spells/Magic Circle against Good|Magic Circle against Good]]
+  - [[rangoric-srd/spells/Magic Circle against Law|Magic Circle against Law]]
+  - [[rangoric-srd/spells/Magic Fang|Magic Fang]]
+  - [[rangoric-srd/spells/Magic Fang, Greater|Magic Fang, Greater]]
+  - [[rangoric-srd/spells/Magic Jar|Magic Jar]]
+  - [[rangoric-srd/spells/Magic Missile|Magic Missile]]
+  - [[rangoric-srd/spells/Magic Mouth|Magic Mouth]]
+  - [[rangoric-srd/spells/Magic Stone|Magic Stone]]
+  - [[rangoric-srd/spells/Magic Vestment|Magic Vestment]]
+  - [[rangoric-srd/spells/Magic Weapon|Magic Weapon]]
+  - [[rangoric-srd/spells/Magic Weapon, Greater|Magic Weapon, Greater]]
+  - [[rangoric-srd/spells/Major Creation|Major Creation]]
+  - [[rangoric-srd/spells/Major Image|Major Image]]
+  - [[rangoric-srd/spells/Make Whole|Make Whole]]
+  - [[rangoric-srd/spells/Mark of Justice|Mark of Justice]]
+
+###### Mass (Spell Name)
+
+*Any spell whose name begins with mass is alphabetized in this chapter according to the second word of the spell name. Thus, the description of a mass spell appears near the description of the spell on which it is based. Spell chains that have mass spells in them include those based on the spells bear’s endurance, bull’s strength, cat’s grace, charm monster, cure critical wounds, cure light wounds, cure moderate wounds, cure serious wounds, eagle’s splendor, enlarge person, fox’s cunning, heal, hold monster, hold person, inflict critical wounds, inflict light wounds, inflict moderate wounds, inflict serious wounds, invisibility, owl’s wisdom, reduce person, and suggestion.*
+
+  - [[rangoric-srd/spells/Maze|Maze]]
+  - [[rangoric-srd/spells/Meld into Stone|Meld into Stone]]
+  - [[rangoric-srd/spells/Mending|Mending]]
+  - [[rangoric-srd/spells/Message|Message]]
+  - [[rangoric-srd/spells/Meteor Swarm|Meteor Swarm]]
+  - [[rangoric-srd/spells/Mind Blank|Mind Blank]]
+  - [[rangoric-srd/spells/Mind Fog|Mind Fog]]
+  - [[rangoric-srd/spells/Minor Creation|Minor Creation]]
+  - [[rangoric-srd/spells/Minor Image|Minor Image]]
+  - [[rangoric-srd/spells/Miracle|Miracle]]
+  - [[rangoric-srd/spells/Mirage Arcana|Mirage Arcana]]
+  - [[rangoric-srd/spells/Mirror Image|Mirror Image]]
+  - [[rangoric-srd/spells/Misdirection|Misdirection]]
+  - [[rangoric-srd/spells/Mislead|Mislead]]
+  - [[rangoric-srd/spells/Mnemonic Enhancer|Mnemonic Enhancer]]
+  - [[rangoric-srd/spells/Modify Memory|Modify Memory]]
+  - [[rangoric-srd/spells/Moment of Prescience|Moment of Prescience]]
+  - [[rangoric-srd/spells/Mount|Mount]]
+  - [[rangoric-srd/spells/Move Earth|Move Earth]]
+  - [[rangoric-srd/spells/Neutralize Poison|Neutralize Poison]]
+  - [[rangoric-srd/spells/Nightmare (Spell)|Nightmare (Spell)]]
+  - [[rangoric-srd/spells/Nondetection|Nondetection]]
+  - [[rangoric-srd/spells/Obscure Object|Obscure Object]]
+  - [[rangoric-srd/spells/Obscuring Mist|Obscuring Mist]]
+  - [[rangoric-srd/spells/Open-Close|Open-Close]]
+  - [[rangoric-srd/spells/Order’s Wrath|Order’s Wrath]]
+  - [[rangoric-srd/spells/Overland Flight|Overland Flight]]
+  - [[rangoric-srd/spells/Owl’s Wisdom|Owl’s Wisdom]]
+  - [[rangoric-srd/spells/Owl’s Wisdom, Mass|Owl’s Wisdom, Mass]]

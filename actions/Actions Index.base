@@ -1,0 +1,25 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/actions")
+views:
+  - type: table
+    name: "All actions"
+    filters:
+      and:
+        - file.hasTag("rangoric/action")
+    order:
+      - file.name
+      - note.action
+      - note.skills
+      - note.provokes
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.srd-type
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/feats")
+    - file.hasTag("rangoric/feat")
+views:
+  - type: table
+    name: "All feats"
+    order:
+      - file.name
+      - note.feat-type
+      - note.prerequisites
+      - note.source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By type"
+    groupBy:
+      property: note.feat-type
+      direction: ASC
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC

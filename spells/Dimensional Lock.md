@@ -1,0 +1,40 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Abjuration"
+level:
+  - "Clr 8"
+  - "Sor/Wiz 8"
+components:
+  - "V"
+  - "S"
+casting-time: "1 standard action"
+range: "Medium (100 ft. + 10 ft./level)"
+area: "20-ft.-radius emanation centered on a point in space"
+duration: "One day/level"
+saving-throw: "None"
+spell-resistance: "Yes"
+based-on:
+  - "[[fantasy srd 3.5/spells/Dimensional Lock|Dimensional Lock (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/spell]
+---
+
+# Dimensional Lock
+
+*Abjuration*
+
+  - **Level**: Clr 8, Sor/Wiz 8
+  - **Components**: V, S
+  - **Casting Time**: 1 standard action
+  - **Range**: Medium (100 ft. + 10 ft./level)
+  - **Area**: 20-ft.-radius emanation centered on a point in space
+  - **Duration**: One day/level
+  - **Saving Throw**: None
+  - **Spell Resistance**: Yes
+
+You create a shimmering emerald barrier that completely blocks extradimensional travel. Forms of movement barred include astral projection, blink, dimension door, ethereal jaunt, etherealness, gate, maze, plane shift, shadow walk, teleport, and similar spell-like or psionic abilities. Once dimensional lock is in place, extradimensional travel into or out of the area is not possible.
+
+A dimensional lock does not interfere with the movement of creatures already in ethereal or astral form when the spell is cast, nor does it block extradimensional perception or attack forms. Also, the spell does not prevent summoned creatures from disappearing at the end of a summoning spell.

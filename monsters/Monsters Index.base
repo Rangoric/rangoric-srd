@@ -1,0 +1,50 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/monsters")
+    - file.hasTag("rangoric/monster")
+views:
+  - type: table
+    name: "All monsters"
+    order:
+      - file.name
+      - note.size
+      - note.creature-type
+      - note.subtypes
+      - note.challenge-rating
+      - note.hit-dice
+      - note.armor-class
+      - note.environment
+      - note.alignment
+      - note.group
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By type"
+    groupBy:
+      property: note.creature-type
+      direction: ASC
+    order:
+      - file.name
+      - note.size
+      - note.subtypes
+      - note.challenge-rating
+      - note.environment
+      - note.group
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By challenge rating"
+    groupBy:
+      property: note.challenge-rating
+      direction: ASC
+    order:
+      - file.name
+      - note.size
+      - note.creature-type
+      - note.hit-dice
+      - note.environment
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,27 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Epic Staff"
+aliases:
+  - "Fiery Power"
+caster-level: 25
+prerequisites: "Craft Staff, Craft Epic Staff, Extend Spell, Heighten Spell, Improved Heighten Spell, Intensify Spell, Spell Focus (Evocation), continual flame, delayed blast fireball, meteor swarm, protection from energy, summon monster IX, wall of fire"
+price: "500,000 gp"
+based-on:
+  - "[[fantasy srd 3.5/magic-items/staffs/Staff of Fiery Power|Staff of Fiery Power (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Staff of Fiery Power
+
+This +5 flaming quarterstaff grants its wielder fire resistance 30 whenever held. In addition, it has the following powers.  
+
+  - Wall of fire (extended, 1 charge, DC 18)
+  - Delayed blast fireball (intensified to 240 points of damage, 2 charges, DC 22)
+  - Meteor swarm (heightened to 12th, 2 charges, DC 30)
+  - Summon monster IX (extended, 2 charges, elder fire elemental only) A staff of fiery power can be broken in a retributive strike. The breaking of the staff must be purposeful and declared by the wielder. All charges currently in the staff are instantly released in a 30-foot- radius globe. All within 10 feet of the broken staff take points of damage equal to eight times the number of charges in the staff, those between 11 feet and 20 feet away take six times the number of charges in damage, and those 21 feet to 30 feet distant take four times the number of charges in damage. Successful Reflex saving throws (DC 17) reduce the damage sustained by half. The character breaking the staff has a 50% chance of traveling to another plane of existence; if he or she does not, the explosive release of spell energy destroys him or her. After all charges are used up from the staff, it remains a +5 quarterstaff with no special abilities. (Once empty of charges, it cannot be broken in a retributive strike.)  
+
+Caster Level: 25th; Prerequisites: Craft Staff, Craft Epic Staff, Extend Spell, Heighten Spell, Improved Heighten Spell, Intensify Spell, Spell Focus (Evocation), continual flame, delayed blast fireball, meteor swarm, protection from energy, summon monster IX, wall of fire; Market Price: 500,000 gp.

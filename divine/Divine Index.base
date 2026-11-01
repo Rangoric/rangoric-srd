@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/divine")
+views:
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.srd-type
+      - note.source
+    sort:
+      - property: file.name
+        direction: ASC

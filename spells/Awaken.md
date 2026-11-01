@@ -1,0 +1,49 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Transmutation"
+level:
+  - "Drd 5"
+components:
+  - "V"
+  - "S"
+  - "DF"
+  - "XP"
+casting-time: "24 hours"
+range: "Touch"
+target: "Animal or tree touched"
+duration: "Instantaneous"
+saving-throw: "Will negates"
+spell-resistance: "Yes"
+based-on:
+  - "[[fantasy srd 3.5/spells/Awaken|Awaken (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/spell]
+---
+
+# Awaken
+
+*Transmutation*
+
+  - **Level**: Drd 5
+  - **Components**: V, S, DF, XP
+  - **Casting Time**: 24 hours
+  - **Range**: Touch
+  - **Target**: Animal or tree touched
+  - **Duration**: Instantaneous
+  - **Saving Throw**: Will negates
+  - **Spell Resistance**: Yes
+
+You awaken a tree or animal to humanlike sentience. To succeed, you must make a Will save (DC 10 + the animal’s current HD, or the HD the tree will have once awakened).
+
+The awakened animal or tree is friendly toward you. You have no special empathy or connection with a creature you awaken, although it serves you in specific tasks or endeavors if you communicate your desires to it.
+
+An awakened tree has characteristics as if it were an animated object, except that it gains the plant type and its Intelligence, Wisdom, and Charisma scores are each 3d6. An awakened plant gains the ability to move its limbs, roots, vines, creepers, and so forth, and it has senses similar to a human’s.
+
+An awakened animal gets 3d6 Intelligence, +1d3 Charisma, and +2 HD. Its type becomes magical beast (augmented animal). An awakened animal can’t serve as an animal companion, familiar, or special mount.
+
+An awakened tree or animal can speak one language that you know, plus one additional language that you know per point of Intelligence bonus (if any).
+
+*XP Cost*: 250 XP.

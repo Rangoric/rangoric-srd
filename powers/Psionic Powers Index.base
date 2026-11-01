@@ -1,0 +1,36 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/powers")
+    - file.hasTag("rangoric/power")
+views:
+  - type: table
+    name: "All powers"
+    order:
+      - file.name
+      - note.discipline
+      - note.subdiscipline
+      - note.descriptor
+      - note.level
+      - note.display
+      - note.manifesting-time
+      - note.range
+      - note.duration
+      - note.saving-throw
+      - note.power-points
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By discipline"
+    groupBy:
+      property: note.discipline
+      direction: ASC
+    order:
+      - file.name
+      - note.subdiscipline
+      - note.descriptor
+      - note.level
+      - note.power-points
+    sort:
+      - property: file.name
+        direction: ASC

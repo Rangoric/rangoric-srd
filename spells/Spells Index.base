@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/spells")
+    - file.hasTag("rangoric/spell")
+views:
+  - type: table
+    name: "All spells"
+    order:
+      - file.name
+      - note.school
+      - note.subschool
+      - note.descriptor
+      - note.level
+      - note.components
+      - note.casting-time
+      - note.range
+      - note.duration
+      - note.saving-throw
+      - note.spell-resistance
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By school"
+    groupBy:
+      property: note.school
+      direction: ASC
+    order:
+      - file.name
+      - note.subschool
+      - note.descriptor
+      - note.level
+      - note.range
+      - note.duration
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,75 @@
+---
+srd-type: "overview"
+section: "Spells"
+based-on:
+  - "[[fantasy srd 3.5/spells/Spells C|Spells C (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/overview]
+---
+
+## Spells
+
+## Call Lightning - Curse Water
+
+  - [[rangoric-srd/spells/Call Lightning|Call Lightning]]
+  - [[rangoric-srd/spells/Call Lightning Storm|Call Lightning Storm]]
+  - [[rangoric-srd/spells/Calm Animals|Calm Animals]]
+  - [[rangoric-srd/spells/Calm Emotions|Calm Emotions]]
+  - [[rangoric-srd/spells/Cat’s Grace|Cat’s Grace]]
+  - [[rangoric-srd/spells/Cat’s Grace, Mass|Cat’s Grace, Mass]]
+  - [[rangoric-srd/spells/Cause Fear|Cause Fear]]
+  - [[rangoric-srd/spells/Chain Lightning|Chain Lightning]]
+  - [[rangoric-srd/spells/Changestaff|Changestaff]]
+  - [[rangoric-srd/spells/Chaos Hammer|Chaos Hammer]]
+  - [[rangoric-srd/spells/Charm Animal|Charm Animal]]
+  - [[rangoric-srd/spells/Charm Monster|Charm Monster]]
+  - [[rangoric-srd/spells/Charm Monster, Mass|Charm Monster, Mass]]
+  - [[rangoric-srd/spells/Charm Person|Charm Person]]
+  - [[rangoric-srd/spells/Chill Metal|Chill Metal]]
+  - [[rangoric-srd/spells/Chill Touch|Chill Touch]]
+  - [[rangoric-srd/spells/Circle of Death|Circle of Death]]
+  - [[rangoric-srd/spells/Clairaudience-Clairvoyance|Clairaudience-Clairvoyance]]
+  - [[rangoric-srd/spells/Clenched Fist|Clenched Fist]]
+  - [[rangoric-srd/spells/Cloak of Chaos|Cloak of Chaos]]
+  - [[rangoric-srd/spells/Clone|Clone]]
+  - [[rangoric-srd/spells/Cloudkill|Cloudkill]]
+  - [[rangoric-srd/spells/Color Spray|Color Spray]]
+  - [[rangoric-srd/spells/Command|Command]]
+  - [[rangoric-srd/spells/Command, Greater|Command, Greater]]
+  - [[rangoric-srd/spells/Command Plants|Command Plants]]
+  - [[rangoric-srd/spells/Command Undead|Command Undead]]
+  - [[rangoric-srd/spells/Commune|Commune]]
+  - [[rangoric-srd/spells/Commune with Nature|Commune with Nature]]
+  - [[rangoric-srd/spells/Comprehend Languages|Comprehend Languages]]
+  - [[rangoric-srd/spells/Cone of Cold|Cone of Cold]]
+  - [[rangoric-srd/spells/Confusion|Confusion]]
+  - [[rangoric-srd/spells/Confusion, Lesser|Confusion, Lesser]]
+  - [[rangoric-srd/spells/Consecrate|Consecrate]]
+  - [[rangoric-srd/spells/Contact Other Plane|Contact Other Plane]]
+  - [[rangoric-srd/spells/Contagion|Contagion]]
+  - [[rangoric-srd/spells/Contingency|Contingency]]
+  - [[rangoric-srd/spells/Continual Flame|Continual Flame]]
+  - [[rangoric-srd/spells/Control Plants|Control Plants]]
+  - [[rangoric-srd/spells/Control Undead|Control Undead]]
+  - [[rangoric-srd/spells/Control Water|Control Water]]
+  - [[rangoric-srd/spells/Control Weather|Control Weather]]
+  - [[rangoric-srd/spells/Control Winds|Control Winds]]
+  - [[rangoric-srd/spells/Create Food and Water|Create Food and Water]]
+  - [[rangoric-srd/spells/Create Greater Undead|Create Greater Undead]]
+  - [[rangoric-srd/spells/Create Undead|Create Undead]]
+  - [[rangoric-srd/spells/Create Water|Create Water]]
+  - [[rangoric-srd/spells/Creeping Doom|Creeping Doom]]
+  - [[rangoric-srd/spells/Crushing Despair|Crushing Despair]]
+  - [[rangoric-srd/spells/Crushing Hand|Crushing Hand]]
+  - [[rangoric-srd/spells/Cure Critical Wounds|Cure Critical Wounds]]
+  - [[rangoric-srd/spells/Cure Critical Wounds, Mass|Cure Critical Wounds, Mass]]
+  - [[rangoric-srd/spells/Cure Light Wounds|Cure Light Wounds]]
+  - [[rangoric-srd/spells/Cure Light Wounds, Mass|Cure Light Wounds, Mass]]
+  - [[rangoric-srd/spells/Cure Minor Wounds|Cure Minor Wounds]]
+  - [[rangoric-srd/spells/Cure Moderate Wounds|Cure Moderate Wounds]]
+  - [[rangoric-srd/spells/Cure Moderate Wounds, Mass|Cure Moderate Wounds, Mass]]
+  - [[rangoric-srd/spells/Cure Serious Wounds|Cure Serious Wounds]]
+  - [[rangoric-srd/spells/Cure Serious Wounds, Mass|Cure Serious Wounds, Mass]]
+  - [[rangoric-srd/spells/Curse Water|Curse Water]]

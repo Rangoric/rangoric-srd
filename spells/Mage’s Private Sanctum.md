@@ -1,0 +1,46 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Abjuration"
+level:
+  - "Sor/Wiz 5"
+components:
+  - "V"
+  - "S"
+  - "M"
+casting-time: "10 minutes"
+range: "Close (25 ft. + 5 ft./2 levels)"
+area: "30-ft. cube/level (S)"
+duration: "24 hours (D)"
+saving-throw: "None"
+spell-resistance: "No"
+based-on:
+  - "[[fantasy srd 3.5/spells/Mage’s Private Sanctum|Mage’s Private Sanctum (3.5)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/spell]
+---
+
+# Mage’s Private Sanctum
+
+*Abjuration*
+
+  - **Level**: Sor/Wiz 5
+  - **Components**: V, S, M
+  - **Casting Time**: 10 minutes
+  - **Range**: Close (25 ft. + 5 ft./2 levels)
+  - **Area**: 30-ft. cube/level (S)
+  - **Duration**: 24 hours (D)
+  - **Saving Throw**: None
+  - **Spell Resistance**: No
+
+This spell ensures privacy. Anyone looking into the area from outside sees only a dark, foggy mass. Darkvision cannot penetrate it. No sounds, no matter how loud, can escape the area, so nobody can eavesdrop from outside. Those inside can see out normally.
+
+Divination (scrying) spells cannot perceive anything within the area, and those within are immune to detect thoughts. The ward prevents speech between those inside and those outside (because it blocks sound), but it does not prevent other communication, such as a sending or message spell, or telepathic communication, such as that between a wizard and her familiar.
+
+The spell does not prevent creatures or objects from moving into and out of the area.
+
+Mage’s private sanctum can be made permanent with a permanency spell.
+
+*Material Component*: A thin sheet of lead, a piece of opaque glass, a wad of cotton or cloth, and powdered chrysolite.

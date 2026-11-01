@@ -1,0 +1,31 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/magic-items")
+    - file.hasTag("rangoric/magic-item")
+views:
+  - type: table
+    name: "All items"
+    order:
+      - file.name
+      - note.item-type
+      - note.aura
+      - note.caster-level
+      - note.price
+      - note.prerequisites
+      - note.source
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By type"
+    groupBy:
+      property: note.item-type
+      direction: ASC
+    order:
+      - file.name
+      - note.aura
+      - note.caster-level
+      - note.price
+    sort:
+      - property: file.name
+        direction: ASC
