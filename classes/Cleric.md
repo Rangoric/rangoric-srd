@@ -5,6 +5,7 @@ alignment: "A cleric’s alignment must be within one step of his deity’s (tha
 hit-die: "d8"
 skill-points: "2 + Int modifier"
 based-on:
+  - "[[path srd 3.5/classes/Cleric|Cleric (PF1)]]"
   - "[[fantasy srd 3.5/classes/Cleric|Cleric (3.5)]]"
 status: draft
 change: modified
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/class]
 
 ###### Class Skills
 
-The cleric’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
+The cleric’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the cleric’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the cleric’s Magic skill checks and wherever a rule says “your Magic skill”.
 
