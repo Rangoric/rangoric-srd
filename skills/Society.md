@@ -27,3 +27,5 @@ Society covers people and how they live, now and in the past. It took over from 
 It is a [[rangoric-srd/skills/Knowledge|Knowledge skill]], so its checks work as described there. Reading unfamiliar writing is [[rangoric-srd/skills/Linguistics|Linguistics]].
 
 **Identifying Creatures**: Society identifies humanoids; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
+
+**Unlocks**: Society uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]).

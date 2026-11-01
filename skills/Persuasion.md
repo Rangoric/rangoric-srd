@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Cha"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Diplomacy|Diplomacy (3.5)]]"
   - "[[fantasy srd 3.5/skills/Gather Information|Gather Information (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -74,3 +75,15 @@ The character can gather information without eliciting suspicion.
 | Avoid suspicion | -20           |
 
 *Avoid Suspicion*: By accepting a -20 penalty on his or her Persuasion check, a character can avoid any suspicions that might otherwise be aroused by someone pursuing sensitive information.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: The time required to influence a creature's attitude or gather information is halved.
+
+**10 Ranks**: You can attempt to adjust a creature's attitude in 1 round by taking a –10 penalty. If you take 1 minute to adjust a creature's attitude, add your Charisma bonus to the number of hours that attitude change persists.
+
+**15 Ranks**: You can attempt to adjust a creature's attitude in 1 round with no penalty. If you take 1 minute to adjust a creature's attitude, the duration of the resulting change is measured in days, not hours. You can gather information in 10 minutes by taking a –5 penalty.
+
+**20 Ranks**: You can attempt to adjust a creature's attitude in 1 round with no penalty. If you take 1 minute to adjust a creature's attitude, the duration of the resulting change is measured in weeks, not hours. You can gather information in 1d4 minutes with no penalty.

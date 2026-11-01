@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Cha"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Perform|Perform (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -52,3 +53,15 @@ In addition to using the Performance skill, you can entertain people with sleigh
 ## Advanced Uses
 
 The character can sway an audience’s attitude with his or her performance, up to making them fanatic: use the attitudes and DCs in the [[rangoric-srd/skills/Persuasion|Persuasion]] tables, which include the fanatic attitude and what it does.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: Whenever you attempt a Deception, Persuasion, Animal Handling, or Intimidation check, you can attempt a DC 20 Performance check to gain a +2 circumstance bonus on the check.
+
+**10 Ranks**: Whenever you cast a spell with the emotion or language-dependent descriptor, you can attempt a DC 25 Performance check to increase the save DC by 1.
+
+**15 Ranks**: Whenever you cast a spell with the emotion or language-dependent descriptor, you can attempt a DC 30 Performance check to increase your caster level by 1. You must choose whether to use this ability or the ability unlocked at 10 ranks when casting the spell.
+
+**20 Ranks**: Choose one of the following skills: Deception, Persuasion, or Intimidation. When you attempt a skill check with that skill, you can also attempt a Performance check and use the better result to determine the success of that skill check.

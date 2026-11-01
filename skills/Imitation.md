@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Disguise|Disguise (3.5)]]"
   - "[[fantasy srd 3.5/skills/Forgery|Forgery (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -89,3 +90,15 @@ A document that contradicts procedure, orders, or previous knowledge, or one tha
 The character can forge handwriting he or she haven’t even seen.  
 
 *Forge Document without Sample*: The character can forge a document without having seen a similar document or having a sample of the handwriting to be copied.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: You can create a disguise in 1d3 minutes.
+
+**10 Ranks**: You can create a disguise in 1d3 rounds. If you take the full normal amount of time to create your disguise, you take no penalty for disguising your gender, race, or age category.
+
+**15 Ranks**: You can create a disguise as a full-round action.
+
+**20 Ranks**: You can create a disguise as a standard action, or as a full-round action combined with a Deception check to create a diversion to hide.

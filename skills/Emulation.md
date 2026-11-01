@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Cha"
 trained-only: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Use Magic Device|Use Magic Device (3.5)]]"
   - "[[fantasy srd 3.5/skills/Use Psionic Device|Use Psionic Device (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -112,3 +113,14 @@ Special: You cannot take 10 with this skill.
 
 You can’t aid another on Emulation checks. Only the user of the item can attempt such a check.
 
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: You can use the aid another action to assist another creature's Emulation check by attempting a check against the item's Emulation DC.
+
+**10 Ranks**: If you roll a natural 1 when activating an item, you take a –10 penalty on Emulation checks with that item for 24 hours instead of being unable to activate it. This penalty stacks with itself.
+
+**15 Ranks**: You can use this skill to emulate two races or two alignments simultaneously.
+
+**20 Ranks**: If you roll a natural 1 when activating an item, you can reroll the check at a –10 penalty to activate the item. You must take the result of the second check, even if it is worse, and you can't reroll it again.

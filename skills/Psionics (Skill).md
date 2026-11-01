@@ -20,3 +20,5 @@ Psionics covers ancient mysteries, psionic traditions, psychic symbols, cryptic 
 **Magic Skill**: Psionics is the [[rangoric-srd/skills/Identifying Magic|Magic skill]] for psionic powers: those of psions, psychic warriors and wilders. Identifying powers as they are manifested, or powers already in place, is in [[rangoric-srd/skills/Identifying Magic#Psionic Powers|Identifying Magic]].
 
 **Special**: A [[rangoric-srd/psionics/Psion#Psionic Disciplines|psion]] is better at Psionics checks involving his discipline; see the psion.
+
+**Unlocks**: Psionics uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]) and the Magic skills’ unlocks (in [[rangoric-srd/skills/Identifying Magic#Unlocks|Identifying Magic]]).

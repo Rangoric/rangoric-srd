@@ -18,3 +18,5 @@ Arcana covers ancient mysteries, magic traditions, arcane symbols, cryptic phras
 **Identifying Creatures**: Arcana identifies magical constructs, dragons and magical beasts; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
 
 **Magic Skill**: Arcana is the [[rangoric-srd/skills/Identifying Magic|Magic skill]] for arcane spells: those of wizards, sorcerers and bards; see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]].
+
+**Unlocks**: Arcana uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]) and the Magic skills’ unlocks (in [[rangoric-srd/skills/Identifying Magic#Unlocks|Identifying Magic]]).

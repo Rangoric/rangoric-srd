@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Int"
 trained-only: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Disable Device|Disable Device (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -72,3 +73,15 @@ The character can rush his or her Engineering attempt, reducing the amount of ti
 | 1 round                | +20        |
 | Move-equivalent action | +50        |
 | Free action            | +100       |
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: Reduce the time required to disarm a trap or open a lock by taking a –5 penalty on your Engineering check for each step by which you reduce the time required: 2d4 rounds, 1d4 rounds, 1 round, a standard action, a move action, a swift action.
+
+**10 Ranks**: You can disarm magical traps at a –10 penalty even if you lack the trapfinding ability. If you possess the trapfinding ability, when attempting to disable magic traps, you never trigger them, even if you perform the trigger action (such as looking at a *symbol*). If you fail the check, you can still trigger the trap, and you can't use this ability to bypass it.
+
+**15 Ranks**: When attacked by a trap, you can attempt a Engineering check as an immediate action (adding your trap sense bonus, if any) opposed by the trap's attack roll or its save DC. If you succeed, you take half damage (or no damage if you exceed the DC by at least 10).
+
+**20 Ranks**: You halve the penalties for performing a quick disarm as described in the 5 Ranks entry. If you possess the trapfinding ability and accept a –20 penalty while using the ability unlocked at 15 ranks, all nearby allies gain the benefit, and you disable the trap as an immediate action before it can trigger if you exceed the DC by at least 10.

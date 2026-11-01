@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Dex"
 armor-check-penalty: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[path srd 3.5/skills/Fly (Skill)|Fly (Skill) (PF1)]]"
   - "[[fantasy srd 3.5/skills/Balance|Balance (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -137,3 +138,27 @@ The character can fall from great heights without taking damage, move greater di
 **Try Again**: Varies. You can try the same maneuver in later rounds. If you fly with wings and fail a check by 5 or more, you plummet to the ground, taking falling damage.
 
 **Special**: A creature with a fly speed treats Acrobatics as a class skill.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+### Acrobatics
+
+**5 Ranks**: You can move at normal speed through a threatened square without provoking an attack of opportunity by increasing the DC of the check by 5 (instead of by 10). You aren't denied your Dexterity bonus when attempting Acrobatics checks with DCs of 20 or lower.
+
+**10 Ranks**: You can attempt an Acrobatics check at a –10 penalty and use the result as your CMD against trip maneuvers. You can also attempt an Acrobatics check at a –10 penalty in place of a Reflex save to avoid falling. You must choose to use this ability before the trip attempt or Reflex save is rolled. With a successful DC 20 Acrobatics check, you treat an unintentional fall as 10 feet shorter plus 10 feet for every 10 by which you exceed the DC, and treat an intentional fall as 10 feet shorter for every 10 by which you exceed the DC.
+
+**15 Ranks**: You do not provoke attacks of opportunity when standing up from prone.
+
+**20 Ranks**: You double the result of any Acrobatics check when jumping and never fall prone at the end of a fall as long as you remain conscious.
+
+### Flying
+
+**5 Ranks**: A successful DC 20 Acrobatics check allows you to make a 45-degree turn without sacrificing movement.
+
+**10 Ranks**: A successful DC 30 Acrobatics check allows you to ascend at a 45-degree angle at full speed. You treat falls after midair collisions as 10 feet shorter with a successful DC 10 Acrobatics check, plus 10 feet for every 10 points by which you exceed the DC.
+
+**15 Ranks**: A successful DC 30 Acrobatics check allows you to make a 90-degree turn without sacrificing movement, or a 180-degree turn by sacrificing 5 feet of movement. You are considered one size category larger when determining wind effects on flying checks.
+
+**20 Ranks**: A successful DC 35 Acrobatics check allows you to fly straight up at full speed. You are considered two size categories larger when determining wind effects on flying checks.

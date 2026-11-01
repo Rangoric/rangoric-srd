@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Dex"
 armor-check-penalty: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Escape Artist|Escape Artist (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -47,3 +48,15 @@ The character can pass through spaces smaller than his or her head, or even thro
 *Extremely Tight Space*: This is the DC for getting through a space when one’s head shouldn’t even be able to fit; this can be as small as 2 inches square for Medium-size creatures. Halve this limit for each size category less than Medium-size; double it for each size category greater than Medium-size. If the space is long, such as in a chimney, multiple checks may be called for.
 
 *Pass through Wall of Force*: This allows a character to find a gap of weakness in a wall of force (or similar force effect) and squeeze through it.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: If you take a –10 penalty, the time required to use this skill is halved; escaping a grapple or pin is a move action, and escaping a net, animate rope, *command plants,* or control plants spell is a standard action.
+
+**10 Ranks**: You can attempt to escape from any entangling effect as a standard action with an Escape Artist check (DC = the effect's save DC + 10). You can attempt an Escape Artist check as a move action to set the DC for a creature to escape from ropes or bindings; you gain a +10 bonus on the check if you instead attempt it as a full-round action.
+
+**15 Ranks**: You can escape any entangling effect (as above) as a move action. As a standard action, you can attempt an Escape Artist check (DC = the effect's save DC + 20) to suppress a *slow* or paralysis effect for 1 round, plus 1 round for every 5 by which you exceed the DC. This action counts as purely mental for the purpose of being able to take it while paralyzed.
+
+**20 Ranks**: You can escape being entangled, grappled, or pinned as an immediate action with an Escape Artist check (DC = the effect's DC + 10 or the attacker's CMB + 10). You can attempt to suppress a *slow* or paralysis effect as a standard action (increasing the DC by 10), a move action (increasing the DC by 15), or an immediate action (increasing the DC by 20).

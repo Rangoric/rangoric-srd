@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Cha"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Bluff|Bluff (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
@@ -66,3 +67,15 @@ The character can implant a nonmagical suggestion in a target, display a false a
 *Display False Alignment*: The character can fool alignment-sensing effects by displaying a false alignment of his or her choice. Once set, a false alignment remains as long as the character remains conscious and awake. Setting or changing a false alignment requires a full-round action.
 
 *Imitation Surface Thoughts*: The character can fool spells such as detect thoughts (or similar effects) by displaying false surface thoughts. While the character can’t completely mask the presence of his or her thoughts, he or she can change his or her apparent Intelligence score (and thus the character’s apparent mental strength) by as much as 10 points and can place any thought in his or her “surface thoughts” to be read by such spells or effects. If a character attempts to use Sense Motive to detect his or her surface thoughts (see the Sense Motive skill description), this becomes an opposed check (though any result lower than 100 automatically fails).
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: The penalty to Deception a creature after a failed check is halved unless you failed by 5 or more.
+
+**10 Ranks**: You take no penalty to Deception a creature after a failed check unless you failed by 5 or more.
+
+**15 Ranks**: Creatures magically attempting to read your thoughts, detect your alignment, or reveal when you are lying must attempt a caster level check (DC = 11 + your ranks in Deception) or the effect reveals nothing.
+
+**20 Ranks**: As a full-round action, you can make a *suggestion* (as the spell, maximum duration 1 hour) to a creature within 30 feet (Will negates, DC = 15 + your Charisma modifier). A creature that saves against your *suggestion* is immune to further uses of this effect for 24 hours, and whenever the suggested creature is specifically confronted with proof of your manipulation, it receives another saving throw. This is an extraordinary mind-affecting compulsion.

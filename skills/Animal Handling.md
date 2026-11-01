@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Cha"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Handle Animal|Handle Animal (3.5)]]"
   - "[[fantasy srd 3.5/skills/Ride|Ride (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -179,3 +180,27 @@ The character can stand upon his or her mount in combat.
 *Unconscious Control*: As a free action, the character can attempt to control a light horse, pony, or heavy horse while in combat. If the character fails, he or she controls the mount as a move-equivalent action. A character does not need to roll for warhorses or warponies.
 
 *Attack from Cover*: The character can react instantly to drop down and hang alongside his or her mount, using it as one-half cover. The character can attack and cast spells while using his or her mount as cover without penalty. If the character fails, he or she doesn’t get the cover benefit.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+### Handling Animals
+
+**5 Ranks**: Creatures you have trained gain a +2 bonus on Will saves when adjacent to you.
+
+**10 Ranks**: Creatures you have trained gain a +2 bonus on Will saves whenever you are within 30 feet and clearly visible. You can teach a trick in 1 day by increasing the DC by 20.
+
+**15 Ranks**: You can train an animal to understand your speech (as speak with animals) with 1 week of effort and a successful DC 30 Animal Handling check. Its actions are still limited by its Intelligence. You can teach a trick in 1 day (increasing the DC by 10) or 1 hour (increasing the DC by 20).
+
+**20 Ranks**: You can make your speech understandable to any animal for 24 hours with a successful DC 30 Animal Handling check (DC 40 for magical beasts or vermin). You can teach a trick in 1 day, 1 hour (increasing the DC by 10), or 1 minute (increasing the DC by 20).
+
+### Riding
+
+**5 Ranks**: Your mount gains a +2 bonus on Fortitude saves or Constitution checks to avoid becoming fatigued or exhausted. This bonus increases by 1 for every 5 ranks beyond 5 you possess in Animal Handling.
+
+**10 Ranks**: When you spur your mount, its speed is increased by 20 feet, and it gains a +2 bonus on Reflex saves and a +2 dodge bonus to AC.
+
+**15 Ranks**: When an opponent targets you or your mount with a bull rush, drag, overrun, reposition, or trip combat maneuver while you are mounted, you can substitute the result of a Animal Handling check in place of your (or your mount's) CMD.
+
+**20 Ranks**: When you spur your mount, its speed is increased by 30 feet, and it gains a +4 bonus on Reflex saves and a +4 dodge bonus to AC.

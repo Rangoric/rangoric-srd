@@ -18,3 +18,5 @@ Theology covers gods and goddesses, mythic history, ecclesiastic tradition, holy
 **Identifying Creatures**: Theology identifies undead, outsiders and elementals; see [[rangoric-srd/skills/Identifying Creatures|Identifying Creatures]].
 
 **Magic Skill**: Theology is the [[rangoric-srd/skills/Identifying Magic|Magic skill]] for divine spells that come from gods: those of clerics, paladins and adepts; see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]].
+
+**Unlocks**: Theology uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]) and the Magic skills’ unlocks (in [[rangoric-srd/skills/Identifying Magic#Unlocks|Identifying Magic]]).

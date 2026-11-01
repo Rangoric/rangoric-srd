@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Int"
 trained-only: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Decipher Script|Decipher Script (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
   - "[[fantasy srd 3.5/skills/Speak Language|Speak Language (3.5)]]"
@@ -70,3 +71,15 @@ Languages work as follows.
 | Sylvan      | Dryads, brownies, leprechauns             | Elven     |
 | Terran      | Xorns and other earth-based creatures     | Dwarven   |
 | Undercommon | Drow                                      | Elven     |
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: You can use Linguistics instead of Sense Motive to intercept and interpret secret messages (as the Deception skill). You gain a +1 insight bonus on Perception and Engineering checks to detect or disarm written magical traps*.* This bonus increases by 1 for every 5 ranks beyond 5 you possess in Linguistics.
+
+**10 Ranks**: If you succeed at a Linguistics check by at least 10 when examining writing, you can learn the precise meaning rather than general content, and you never draw false conclusions on a failed check. A successful DC 30 Linguistics check reveals the general meaning of speech, a successful DC 35 check reveals 1d4 pieces of specific information, and a successful DC 40 check reveals exact meaning.
+
+**15 Ranks**: You can decipher magical writings (as read magic) by succeeding at a Linguistics check (DC = 25 + caster level). If you identify a written magical trap in this way, you gain a +2 circumstance bonus on Engineering checks to disarm it.
+
+**20 Ranks**: You can attempt to decipher magical or nonmagical text at a rate of one page per round. If you instead spend 1 minute per page, roll twice and take the better result.

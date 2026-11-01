@@ -5,6 +5,7 @@ key-ability: "Dex"
 trained-only: true
 armor-check-penalty: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Sleight of Hand|Sleight of Hand (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
   - "[[fantasy srd 3.5/skills/Open Lock|Open Lock (3.5)]]"
@@ -70,3 +71,15 @@ The character can open locks more quickly than normal.
 | ---------------------- | ----------- |
 | Move-equivalent action | +20        |
 | Free action            | +50        |
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: When attempting a disarm or steal maneuver, a successful Sleight of Hand check against your target's CMD grants a +2 circumstance bonus on your combat maneuver check.
+
+**10 Ranks**: The penalty for attempting a Sleight of Hand check (including drawing a hidden weapon) as a move action is reduced to –10.
+
+**15 Ranks**: You can attempt a Sleight of Hand check (including drawing a hidden weapon) as a swift action at a –20 penalty.
+
+**20 Ranks**: You take no penalty for using Sleight of Hand as a move action, and take only a –10 penalty when using it as a swift action.

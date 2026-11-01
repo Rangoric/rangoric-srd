@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Str"
 armor-check-penalty: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Climb|Climb (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
   - "[[fantasy srd 3.5/skills/Jump (Skill)|Jump (Skill) (3.5)]]"
@@ -189,3 +190,27 @@ The character can swim up vertical surfaces, or swim much faster than normal.
 | Speed swimming | -20           |
 
 *Speed Swimming*: By taking a -20 penalty on the check, a character can swim his or her speed as a move-equivalent action, or double his or her speed as a full-round action.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+### Climbing
+
+**5 Ranks**: You are no longer denied your Dexterity bonus when climbing.
+
+**10 Ranks**: You gain a natural climb speed (but not the +8 racial bonus on Athletics checks to climb) of 10 feet, but only on surfaces with a climbing DC of 20 or lower.
+
+**15 Ranks**: You gain a natural climb speed (but not the +8 racial bonus on Athletics checks to climb) equal to your base speed on surfaces with a climbing DC of 20 or lower, and of 10 feet on all other surfaces.
+
+**20 Ranks**: You gain a natural climb speed equal to your base speed on all surfaces. If you have both hands free, you gain a +8 racial bonus on Athletics checks to climb.
+
+### Swimming
+
+**5 Ranks**: You gain a swim speed of 10 feet, but only in water with a swimming DC of 15 or lower.
+
+**10 Ranks**: You gain a swim speed (though you do not gain the +8 racial bonus on Athletics checks to swim) equal to your base speed in water with a swimming DC of 15 or lower, or 10 feet in all other water.
+
+**15 Ranks**: You ignore the penalties for using slashing or bludgeoning weapons underwater, as *freedom of movement.*
+
+**20 Ranks**: You gain a swim speed equal to your base speed in all water. If you have both hands free, you gain a +8 racial bonus on Athletics checks to swim.

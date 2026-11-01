@@ -4,6 +4,7 @@ section: "Skills"
 key-ability: "Dex"
 armor-check-penalty: true
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Hide|Hide (3.5)]]"
   - "[[fantasy srd 3.5/skills/Move Silently|Move Silently (3.5)]]"
   - "[[path srd 3.5/skills/Stealth|Stealth (PF1)]]"
@@ -56,3 +57,15 @@ The character can hide others as well as hiding him or herself.
 | Hide another | -30           |
 
 *Hide Another*: By accepting a -30 penalty on his or her Stealth check, a character can hide another adjacent creature whose size is no more than one category larger than the character’s own. Modifiers to the check for the size of the creature still apply, as do all other penalties, including those for moving faster than half speed. Likewise, a character can only hide another creature when it is not under direct observation by a third party. The creature the character hides remains hidden until it is spotted or it takes some other action that breaks its concealment, as normal.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: Reduce the Stealth penalty from sniping by 10.
+
+**10 Ranks**: Stealth check penalties for moving quickly are halved, including the ability unlocked at 5 ranks, moving full speed, and reaching concealment after creating a distraction.
+
+**15 Ranks**: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the end of your turn.
+
+**20 Ranks**: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the beginning of your next turn.

@@ -2,6 +2,7 @@
 srd-type: "overview"
 section: "Actions"
 based-on:
+  - "[[path srd 3.5/skills/Heal (Skill)|Heal (Skill) (PF1)]]"
   - "[[fantasy srd 3.5/skills/Heal (Skill)|Heal (Skill) (3.5)]]"
   - "[[modern srd 3.5/skills/Treat Injury|Treat Injury (Modern)]]"
 status: draft
@@ -18,6 +19,7 @@ The First Aid actions (tag *first-aid*) keep people alive and help them recover.
 | --- | --- | --- |
 | [[rangoric-srd/actions/Stabilize\|Stabilize]] | Standard action | 15 |
 | [[rangoric-srd/actions/Long-Term Care\|Long-Term Care]] | 8 hours of light activity | 15 |
+| [[rangoric-srd/actions/Treat Deadly Wounds\|Treat Deadly Wounds]] | 1 hour | 20 |
 | [[rangoric-srd/actions/Treat Wound\|Treat Wound]] | Standard action (10 minutes for spike growth or spike stones) | 15 or the spell’s save DC |
 | [[rangoric-srd/actions/Treat Poison\|Treat Poison]] | Standard action | The poison’s save DC |
 | [[rangoric-srd/actions/Treat Disease\|Treat Disease]] | 10 minutes | The disease’s save DC |

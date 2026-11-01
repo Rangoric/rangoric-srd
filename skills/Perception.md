@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Wis"
 based-on:
+  - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Spot|Spot (3.5)]]"
   - "[[fantasy srd 3.5/skills/Listen|Listen (3.5)]]"
   - "[[path srd 3.5/skills/Perception|Perception (PF1)]]"
@@ -92,3 +93,15 @@ The character can pinpoint the location of an invisible creature, or detect an i
 | Pronounce unfamiliar language              | +20        |
 
 *Pronounce Unfamiliar Language*: This use of the skill allows a character to repeat the speech of an observed creature, potentially allowing a comrade to translate the speech. It doesn’t grant the character any ability to understand the language spoken.
+
+## Unlocks
+
+You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
+
+**5 Ranks**: You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks when you are sleeping is halved. The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 20 feet.
+
+**10 Ranks**: The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 30 feet. In addition, you gain a +5 bonus on Perception checks to notice or locate an invisible creature or object.
+
+**15 Ranks**: You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks when you are sleeping doesn't apply to you. The distance modifier on the DC of your Perception checks is reduced to +1 per 40 feet.
+
+**20 Ranks**: You gain a +10 bonus on Perception checks to notice invisible creatures or objects. The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 60 feet.

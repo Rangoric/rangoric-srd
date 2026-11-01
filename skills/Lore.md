@@ -22,3 +22,5 @@ A Lore subject has to be narrow, far narrower than the Knowledge skill it sits i
 A Lore about one kind of creature (dragons, undead, the giants of one range) can be used to identify creatures of that kind, as a Knowledge skill can.
 
 **Special**: Lore is a Background skill and a Knowledge skill (see [[rangoric-srd/skills/Skills Overview#^core-and-background|Core and Background Skills]]), so it can be bought with background points, and it counts wherever a rule says "any Knowledge skill".
+
+**Unlocks**: Lore uses the Knowledge skills’ unlocks (in [[rangoric-srd/skills/Knowledge#Unlocks|Knowledge]]).
