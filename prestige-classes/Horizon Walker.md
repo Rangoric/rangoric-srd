@@ -4,6 +4,7 @@ section: "Prestige Classes"
 hit-die: "d8"
 skill-points: "4 + Int modifier"
 based-on:
+  - "[[path srd 3.5/classes/Horizon Walker|Horizon Walker (PF1)]]"
   - "[[fantasy srd 3.5/prestige-classes/Horizon Walker|Horizon Walker (3.5)]]"
 status: draft
 change: modified
@@ -27,7 +28,7 @@ To qualify to become a horizon walker, a character must fulfill all the followin
 
 ###### Class Skills
 
-The horizon walker’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The horizon walker’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
