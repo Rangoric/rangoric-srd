@@ -5,6 +5,7 @@ alignment: "Any"
 hit-die: "d6"
 skill-points: "8 + Int modifier"
 based-on:
+  - "[[path srd 3.5/classes/Rogue (Unchained)|Rogue (Unchained) (PF1)]]"
   - "[[fantasy srd 3.5/classes/Rogue|Rogue (3.5)]]"
 status: draft
 change: modified
@@ -34,22 +35,22 @@ The rogue’s class skills (and the key ability for each skill) are [[rangoric-s
 | 2nd   | +1               | +0       | +3      | +0       | Evasion                             |
 | 3rd   | +2               | +1       | +3      | +1       | Sneak attack +2d6, trap sense +1    |
 | 4th   | +3               | +1       | +4      | +1       | Uncanny dodge                       |
-| 5th   | +3               | +1       | +4      | +1       | Sneak attack +3d6                   |
+| 5th   | +3               | +1       | +4      | +1       | Sneak attack +3d6, rogue’s edge     |
 | 6th   | +4               | +2       | +5      | +2       | Trap sense +2                       |
 | 7th   | +5               | +2       | +5      | +2       | Sneak attack +4d6                   |
 | 8th   | +6/+1            | +2       | +6      | +2       | Improved uncanny dodge              |
 | 9th   | +6/+1            | +3       | +6      | +3       | Sneak attack +5d6, trap sense +3    |
-| 10th  | +7/+2            | +3       | +7      | +3       | Special ability                     |
+| 10th  | +7/+2            | +3       | +7      | +3       | Special ability, rogue’s edge       |
 | 11th  | +8/+3            | +3       | +7      | +3       | Sneak attack +6d6                   |
 | 12th  | +9/+4            | +4       | +8      | +4       | Trap sense +4                       |
 | 13th  | +9/+4            | +4       | +8      | +4       | Sneak attack +7d6, special ability  |
 | 14th  | +10/+5           | +4       | +9      | +4       | —                                   |
-| 15th  | +11/+6/+1        | +5       | +9      | +5       | Sneak attack +8d6, trap sense +5    |
+| 15th  | +11/+6/+1        | +5       | +9      | +5       | Sneak attack +8d6, trap sense +5, rogue’s edge |
 | 16th  | +12/+7/+2        | +5       | +10     | +5       | Special ability                     |
 | 17th  | +12/+7/+2        | +5       | +10     | +5       | Sneak attack +9d6                   |
 | 18th  | +13/+8/+3        | +6       | +11     | +6       | Trap sense +6                       |
 | 19th  | +14/+9/+4        | +6       | +11     | +6       | Sneak attack +10d6, special ability |
-| 20th  | +15/+10/+5       | +6       | +12     | +6       | —                                   |
+| 20th  | +15/+10/+5       | +6       | +12     | +6       | Rogue’s edge                        |
 
 ###### Class Features
 
@@ -80,6 +81,8 @@ Trap sense bonuses gained from multiple classes stack.
 **Uncanny Dodge (Ex)**: Starting at 4th level, a rogue can react to danger before her senses would normally allow her to do so. She retains her Dexterity bonus to AC (if any) even if she is caught [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] or struck by an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] attacker. However, she still loses her Dexterity bonus to AC if immobilized. ^rogue-uncanny-dodge
 
 If a rogue already has uncanny dodge from a different class she automatically gains improved uncanny dodge (see below) instead.
+
+**Rogue’s Edge (Ex)**: At 5th level, a rogue has mastered a single skill beyond that skill’s normal boundaries. She gains the skill’s [[rangoric-srd/skills/Skills Overview#^skill-unlocks|unlocks]], as appropriate for her ranks in it. At 10th, 15th and 20th level, she chooses another skill and gains its unlocks as well. Each must be a skill she doesn’t already have unlocks for, such as from [[rangoric-srd/feats/Signature Skill|Signature Skill]]. ^rogue-edge
 
 **Improved Uncanny Dodge (Ex)**: A rogue of 8th level or higher can no longer be flanked. This defense denies another rogue the ability to sneak attack the character by flanking her, unless the attacker has at least four more rogue levels than the target does. ^rogue-improved-uncanny-dodge
 
