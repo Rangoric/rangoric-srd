@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-01 | Rangoric SRD's sources table lists Faeries (Bastion Press) under individual books, now that Lore uses it. | [[Rangoric SRD]] | 1 note | Missed in [[Fey and Folk Tale Lore]]; made on main with Wilson's agreement |
 | 2026-11-01 | Lore gets example topics Lore (fey) and Lore (folk tales), from Bastion Press's Faeries (Knowledge (Fey) and Knowledge (Folk Tales)); Lore (fey) identifies fey alongside Nature and can spot crossings into the fey realm. Faeries' copyright notice and Open Content declaration added to the legal notes. | [[FL Batch 1 Changes]] | 4 notes | [[Fey and Folk Tale Lore]] |
 | 2026-11-01 | Prestige class skill lists widened from Pathfinder's versions: the dragon disciple adds Acrobatics; the horizon walker adds Nature and Theology; the dwarven defender adds Acrobatics, Athletics and Intimidation (from the stalwart defender). The other prestige classes already cover Pathfinder's lists. | [[PC Batch 1 Changes]] | 3 notes | [[Widening Prestige Class Skill Lists]] |
 | 2026-11-01 | Thin class skill lists widened from Pathfinder's class lists: the sorcerer adds Acrobatics, Emulation and Intimidation (2 class skills to 5); the fighter adds Dungeoneering, Engineering and Fieldcraft (3 to 6); the cleric adds Sense Motive. Skill points per level unchanged. | [[WC Batch 1 Changes]] | 3 notes | [[Widening Thin Class Skill Lists]] |

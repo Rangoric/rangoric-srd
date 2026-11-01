@@ -15,7 +15,7 @@ My combined rules: one version of each rule, starting from the whole 3.5 SRD and
 | Pathfinder 1e (Foundry) | `path srd 3.5 foundry` | Later rulebooks, Occult, Unchained classes |
 | Starfinder | `star srd 3.5` | Simpler stat blocks, universal creature rules, stamina/resolve |
 | Modern SRD | `modern srd 3.5` | Generic classes, defense bonus, non-fantasy content |
-| Individual books | `individual books/*` | Arms & Armor, Alchemy & Herbalists, Spells & Magic |
+| Individual books | `individual books/*` | Arms & Armor, Alchemy & Herbalists, Spells & Magic, Faeries |
 
 ## How it gets built
 
