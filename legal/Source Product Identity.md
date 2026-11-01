@@ -34,6 +34,8 @@ From the PRD license page (raw `legacy prd unchained/OGL.html`). Paizo's books u
 
 > The entire contents of ***Arms & Armor v3.5*** is considered Open Game Content, except for the cover, artwork, and other graphics. The cover, artwork, and graphic elements are considered Product Identity of Bastion Press, Inc.
 
+> The entire contents of ***Faeries*** are Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and graphic elements are Product Identity owned solely by Bastion Press, Inc.
+
 > The entire contents of ***Spells & Magic v3.0*** is considered Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and other graphic elements are Product Identity and owned solely by Bastion Press, Inc.
 
 ### Other notices
@@ -48,7 +50,7 @@ Names to search for when reviewing a file. Not complete; add to it whenever a re
 
 ### Trademarks and product names
 
-Dungeons & Dragons, D&D, Dungeon Master, Monster Manual, d20 System, Wizards of the Coast, Pathfinder, Starfinder, Paizo, Pathfinder Society, Starfinder Society, Golarion, Inner Sea, Absalom, Pact Worlds, Bastion Press
+Dungeons & Dragons, D&D, Dungeon Master, Monster Manual, d20 System, Wizards of the Coast, Pathfinder, Starfinder, Paizo, Pathfinder Society, Starfinder Society, Golarion, Inner Sea, Absalom, Pact Worlds, Bastion Press, Oathbound
 
 ### Wizards of the Coast names
 
