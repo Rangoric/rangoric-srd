@@ -23,4 +23,4 @@ You can use a Knowledge skill (or, for technological constructs, Computers) to i
 | [[rangoric-srd/skills/Society\|Society]] | Humanoids |
 | [[rangoric-srd/skills/Theology\|Theology]] | Undead, outsiders, elementals |
 
-A [[rangoric-srd/skills/Lore|Lore]] about one kind of creature can identify creatures of that kind.
+A [[rangoric-srd/skills/Lore|Lore]] about one kind of creature can identify creatures of that kind. For example, [[rangoric-srd/skills/Lore|Lore (fey)]] identifies fey, alongside Nature.

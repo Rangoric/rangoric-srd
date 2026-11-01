@@ -3,6 +3,8 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Int"
 based-on:
+  - "[[individual books/Faeries/skills/Knowledge (Fey) (Int; trained only)|Knowledge (Fey) (Faeries)]]"
+  - "[[individual books/Faeries/skills/Knowledge (Folk Tales) (Int; trained only)|Knowledge (Folk Tales) (Faeries)]]"
   - "[[path srd 3.5/rules/pathfinder-unchained/Background Skills|Background Skills (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Knowledge|Knowledge (3.5)]]"
 status: draft
@@ -20,6 +22,11 @@ A Lore subject has to be narrow, far narrower than the Knowledge skill it sits i
 **Check**: Lore checks work like any Knowledge check; see [[rangoric-srd/skills/Knowledge|Knowledge]] for the DCs, the action, trying again and untrained checks. Most questions about a narrow subject don’t get harder as you go up in level.
 
 A Lore about one kind of creature (dragons, undead, the giants of one range) can be used to identify creatures of that kind, as a Knowledge skill can.
+
+**Example Topics**:
+
+- *Lore (fey)*: fey creatures and their courts, customs, bargains and weaknesses, the fey realm, and the places where it touches the world. A DC 15 check tells you whether a place is apt to be used as a crossing into the fey realm. It identifies fey, as Nature does.
+- *Lore (folk tales)*: the folklore and myths of one people or region, and where its uncommon place names come from.
 
 **Special**: Lore is a Background skill and a Knowledge skill (see [[rangoric-srd/skills/Skills Overview#^core-and-background|Core and Background Skills]]), so it can be bought with background points, and it counts wherever a rule says "any Knowledge skill".
 
