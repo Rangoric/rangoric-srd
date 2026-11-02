@@ -12,8 +12,8 @@ initiative: "-1 (Dex)"
 speed: "20 ft., burrow 40 ft."
 armor-class: "49 (-8 size, -1 Dex, +48 natural)"
 base-attack: "+48"
-cmb: "+72"
-cmd: "81"
+cmb: "+72 (+74 sunder)"
+cmd: "81 (83 vs. sunder)"
 attack: "Slam +57 (4d10+24/19-20) melee"
 full-attack: "2 slams +57 (4d10+24/19-20) melee"
 space-reach: "30 ft./30 ft."
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: -1 (Dex)
   - **Speed**: 20 ft., burrow 40 ft.
   - **Armor Class**: 49 (-8 size, -1 Dex, +48 natural)
-  - **Base Attack**: +48; **CMB**: +72; **CMD**: 81
+  - **Base Attack**: +48; **CMB**: +72 (+74 sunder); **CMD**: 81 (83 vs. sunder)
   - **Attack**: Slam +57 (4d10+24/19-20) melee
   - **Full Attack**: 2 slams +57 (4d10+24/19-20) melee
   - **Space/Reach**: 30 ft./30 ft.

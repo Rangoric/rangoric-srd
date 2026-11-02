@@ -12,8 +12,8 @@ initiative: "+1"
 speed: "10 ft. (2 squares), swim 90 ft."
 armor-class: "24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23"
 base-attack: "+15"
-cmb: "+22 (+26 grapple)"
-cmd: "34 (38 vs. trip)"
+cmb: "+22 (+26 grapple, +24 sunder)"
+cmd: "34 (36 vs. sunder, 38 vs. trip)"
 attack: "Bite +20 melee (4d6+6)"
 full-attack: "Bite +20 melee (4d6+6) and 2 claws +15 melee (1d8+3)"
 space-reach: "10 ft./5 ft."
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 10 ft. (2 squares), swim 90 ft.
   - **Armor Class**: 24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23
-  - **Base Attack**: +15; **CMB**: +22 (+26 grapple); **CMD**: 34 (38 vs. trip)
+  - **Base Attack**: +15; **CMB**: +22 (+26 grapple, +24 sunder); **CMD**: 34 (36 vs. sunder, 38 vs. trip)
   - **Attack**: Bite +20 melee (4d6+6)
   - **Full Attack**: Bite +20 melee (4d6+6) and 2 claws +15 melee (1d8+3)
   - **Space/Reach**: 10 ft./5 ft.

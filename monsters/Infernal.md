@@ -8,8 +8,8 @@ initiative: "+11 (+7 Dex, +4 Improved Initiative)"
 speed: "80 ft., fly 240 ft. (perfect)"
 armor-class: "50 (+7 Dex, -1 size, +34 natural)"
 base-attack: "+40"
-cmb: "+57 (+61 grapple)"
-cmd: "74"
+cmb: "+57 (+61 grapple, +59 sunder)"
+cmd: "74 (76 vs. sunder)"
 attack: "+58 claw (4d6+16) melee"
 full-attack: "2 claws +58 (4d6+16) melee, 1 bite +52 (4d8+8 +spell suck) melee, 2 wings +50 (2d6+8) melee, 1 tail slam +50 (4d8+8) melee"
 space-reach: "10ft./10 ft."
@@ -43,7 +43,7 @@ Hit Dice: 40d8+360 (680 hp)    
 Initiative: +11 (+7 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 80 ft., fly 240 ft. (perfect)      
 AC: 50 (+7 Dex, -1 size, +34 natural)      
-Base Attack: +40; CMB: +57 (+61 grapple); CMD: 74     
+Base Attack: +40; CMB: +57 (+61 grapple, +59 sunder); CMD: 74 (76 vs. sunder)     
 Attack: +58 claw (4d6+16) melee     
 Full Attack: 2 claws +58 (4d6+16) melee, 1 bite +52 (4d8+8 +spell suck) melee, 2 wings +50 (2d6+8) melee, 1 tail slam +50 (4d8+8) melee     
 Space/Reach: 10ft./10 ft.      

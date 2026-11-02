@@ -12,8 +12,8 @@ initiative: "–1"
 speed: "30 ft. (6 squares)"
 armor-class: "22 (–2 size, –1 Dex, +15 natural), touch 7, flat-footed 22"
 base-attack: "+18"
-cmb: "+31"
-cmd: "40"
+cmb: "+31 (+33 bull rush, +33 sunder)"
+cmd: "40 (42 vs. bull rush and sunder)"
 attack: "Slam +27 melee (2d10+11/19–20)"
 full-attack: "2 slams +27 melee (2d10+11/19–20)"
 space-reach: "15 ft./15 ft."
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –1
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 22 (–2 size, –1 Dex, +15 natural), touch 7, flat-footed 22
-  - **Base Attack**: +18; **CMB**: +31; **CMD**: 40
+  - **Base Attack**: +18; **CMB**: +31 (+33 bull rush, +33 sunder); **CMD**: 40 (42 vs. bull rush and sunder)
   - **Attack**: Slam +27 melee (2d10+11/19–20)
   - **Full Attack**: 2 slams +27 melee (2d10+11/19–20)
   - **Space/Reach**: 15 ft./15 ft.

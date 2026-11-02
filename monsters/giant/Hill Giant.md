@@ -9,8 +9,8 @@ initiative: "–1"
 speed: "30 ft. in hide armor (6 squares); base speed 40 ft."
 armor-class: "20 (–1 size, –1 Dex, +9 natural, +3 hide armor), touch 8, flat-footed 20"
 base-attack: "+9"
-cmb: "+17"
-cmd: "26"
+cmb: "+17 (+19 bull rush, +19 sunder)"
+cmd: "26 (28 vs. bull rush and sunder)"
 attack: "Greatclub +16 melee (2d8+10) or slam +15 melee (1d4+7) or rock +8 ranged (2d6+7)"
 full-attack: "Greatclub +16/+11 melee (2d8+10) or 2 slams +15 melee (1d4+7) or rock +8 ranged (2d6+7)"
 space-reach: "10 ft./10 ft."
@@ -43,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –1
   - **Speed**: 30 ft. in hide armor (6 squares); base speed 40 ft.
   - **Armor Class**: 20 (–1 size, –1 Dex, +9 natural, +3 hide armor), touch 8, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +17; **CMD**: 26
+  - **Base Attack**: +9; **CMB**: +17 (+19 bull rush, +19 sunder); **CMD**: 26 (28 vs. bull rush and sunder)
   - **Attack**: Greatclub +16 melee (2d8+10) or slam +15 melee (1d4+7) or rock +8 ranged (2d6+7)
   - **Full Attack**: Greatclub +16/+11 melee (2d8+10) or 2 slams +15 melee (1d4+7) or rock +8 ranged (2d6+7)
   - **Space/Reach**: 10 ft./10 ft.

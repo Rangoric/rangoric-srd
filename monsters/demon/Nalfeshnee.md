@@ -13,8 +13,8 @@ initiative: "+1"
 speed: "30 ft. (6 squares), fly 40 ft. (poor)"
 armor-class: "27 (–2 size, +1 Dex, +18 natural) touch 9, flat-footed 26"
 base-attack: "+14"
-cmb: "+23"
-cmd: "34"
+cmb: "+23 (+25 bull rush)"
+cmd: "34 (36 vs. bull rush)"
 attack: "Bite +20 melee (2d8+7)"
 full-attack: "Bite +20 melee (2d8+7) and 2 claws +17 melee (1d8+3)"
 space-reach: "15 ft./15 ft."
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares), fly 40 ft. (poor)
   - **Armor Class**: 27 (–2 size, +1 Dex, +18 natural) touch 9, flat-footed 26
-  - **Base Attack**: +14; **CMB**: +23; **CMD**: 34
+  - **Base Attack**: +14; **CMB**: +23 (+25 bull rush); **CMD**: 34 (36 vs. bull rush)
   - **Attack**: Bite +20 melee (2d8+7)
   - **Full Attack**: Bite +20 melee (2d8+7) and 2 claws +17 melee (1d8+3)
   - **Space/Reach**: 15 ft./15 ft.

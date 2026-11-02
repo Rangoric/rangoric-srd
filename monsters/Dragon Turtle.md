@@ -10,8 +10,8 @@ initiative: "+0"
 speed: "20 ft. (4 squares), swim 30 ft."
 armor-class: "25 (–2 size, +17 natural), touch 8, flat-footed 25"
 base-attack: "+12"
-cmb: "+22"
-cmd: "32 (36 vs. trip)"
+cmb: "+22 (+24 bull rush)"
+cmd: "32 (34 vs. bull rush, 36 vs. trip)"
 attack: "Bite +18 melee (4d6+8)"
 full-attack: "Bite +18 melee (4d6+8) and 2 claws +13 melee (2d8+4)"
 space-reach: "15 ft./10 ft."
@@ -44,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 20 ft. (4 squares), swim 30 ft.
   - **Armor Class**: 25 (–2 size, +17 natural), touch 8, flat-footed 25
-  - **Base Attack**: +12; **CMB**: +22; **CMD**: 32 (36 vs. trip)
+  - **Base Attack**: +12; **CMB**: +22 (+24 bull rush); **CMD**: 32 (34 vs. bull rush, 36 vs. trip)
   - **Attack**: Bite +18 melee (4d6+8)
   - **Full Attack**: Bite +18 melee (4d6+8) and 2 claws +13 melee (2d8+4)
   - **Space/Reach**: 15 ft./10 ft.
