@@ -133,7 +133,7 @@ tags: [rangoric, rangoric/overview]
  ^half-giant-fire-acclimated
 
   - Powerful Build: The physical stature of half-giants lets them function in many ways as if they were one size category larger.  
-    Whenever a half-giant is subject to a size modifier or special size modifier for an opposed check (such as during [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks, [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rush]] attempts, and [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]] attempts), the half-giant is treated as one size larger if doing so is advantageous to him.  
+    Whenever a half-giant is subject to a size modifier or special size modifier for an opposed check or a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] (such as its CMB and CMD for a grapple, bull rush or trip), the half-giant is treated as one size larger if doing so is advantageous to him.  
     A half-giant is also considered to be one size larger when determining whether a creature’s special attacks based on size (such as improved grab or swallow whole) can affect him. A half-giant can use weapons designed for a creature one size larger without penalty. However, his space and reach remain those of a creature of his actual size. The benefits of this racial trait stack with the effects of powers, abilities, and spells that change the subject’s size category.
 
  ^half-giant-powerful-build
