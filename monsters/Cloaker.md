@@ -7,7 +7,9 @@ hit-dice: "6d8+18 (45 hp)"
 initiative: "+7"
 speed: "10 ft. (2 squares), fly 40 ft. (average)"
 armor-class: "19 (–1 size, +3 Dex, +7 natural), touch 12, flat-footed 16"
-base-attack-grapple: "+4/+13"
+base-attack: "+4"
+cmb: "+10"
+cmd: "23 (can't be tripped)"
 attack: "Tail slap +8 melee (1d6+5)"
 full-attack: "Tail slap +8 melee (1d6+5) and bite +3 melee (1d4+2)"
 space-reach: "10 ft./10 ft. (5 ft. with bite)"
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
   - **Armor Class**: 19 (–1 size, +3 Dex, +7 natural), touch 12, flat-footed 16
-  - **Base Attack/Grapple**: +4/+13
+  - **Base Attack**: +4; **CMB**: +10; **CMD**: 23 (can't be tripped)
   - **Attack**: Tail slap +8 melee (1d6+5)
   - **Full Attack**: Tail slap +8 melee (1d6+5) and bite +3 melee (1d4+2)
   - **Space/Reach**: 10 ft./10 ft. (5 ft. with bite)
@@ -79,7 +81,7 @@ Cloakers usually lie still, watching and listening for prey. If facing a single 
 
 *Stupor*: A single creature within 30 feet of the cloaker must succeed on a DC 15 Fortitude save or be affected as though by a [[rangoric-srd/spells/Hold Monster|hold monster]] spell for 5 rounds. Even after a successful save, the creature must repeat the save if the cloaker uses this effect again.
 
-**Engulf (Ex)**: A cloaker can try to wrap a Medium or smaller creature in its body as a standard action. The cloaker attempts a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] that does not provoke an attack of opportunity. If it wins the grapple check, it establishes a hold and bites the engulfed victim with a +4 bonus on its attack roll. It can still use its whiplike tail to strike at other targets.
+**Engulf (Ex)**: A cloaker can try to wrap a Medium or smaller creature in its body as a standard action. The cloaker attempts a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] that does not provoke an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and bites the engulfed victim with a +4 bonus on its attack roll. It can still use its whiplike tail to strike at other targets.
 
 Attacks that hit an engulfing cloaker deal half their damage to the monster and half to the trapped victim.
 

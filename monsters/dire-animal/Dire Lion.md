@@ -8,7 +8,9 @@ hit-dice: "8d8+24 (60 hp)"
 initiative: "+2"
 speed: "40 ft. (8 squares)"
 armor-class: "15 (–1 size, +2 Dex, +4 natural), touch 11, flat-footed 13"
-base-attack-grapple: "+6/+17"
+base-attack: "+6"
+cmb: "+14 (+18 grapple)"
+cmd: "26 (30 vs. trip)"
 attack: "Claw +13 melee (1d6+7)"
 full-attack: "2 claws +13 melee (1d6+7) and bite +7 melee (1d8+3)"
 space-reach: "10 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 15 (–1 size, +2 Dex, +4 natural), touch 11, flat-footed 13
-  - **Base Attack/Grapple**: +6/+17
+  - **Base Attack**: +6; **CMB**: +14 (+18 grapple); **CMD**: 26 (30 vs. trip)
   - **Attack**: Claw +13 melee (1d6+7)
   - **Full Attack**: 2 claws +13 melee (1d6+7) and bite +7 melee (1d8+3)
   - **Space/Reach**: 10 ft./5 ft.
@@ -67,7 +69,7 @@ Dire lions grow to be up to 15 feet long and weigh up to 3,500 pounds.
 
 A dire lion attacks by running at prey, leaping, and clawing and biting as it rakes with its rear claws. It often jumps onto a creature larger than itself.
 
-**Improved Grab (Ex)**: To use this ability, a dire lion must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a dire lion must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Pounce (Ex)**: If a dire lion charges, it can make a full attack, including two rake attacks.
 

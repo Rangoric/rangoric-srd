@@ -7,7 +7,9 @@ hit-dice: "4d6 (14 hp)"
 initiative: "+4"
 speed: "30 ft. (6 squares)"
 armor-class: "17 (+4 Dex, +3 natural), touch 14, flat-footed 13"
-base-attack-grapple: "+2/+2"
+base-attack: "+2"
+cmb: "+2"
+cmd: "16"
 attack: "Dagger +6 melee (1d4/19–20) or masterwork longbow +7 ranged (1d8/x3)"
 full-attack: "Dagger +6 melee (1d4/19–20) or masterwork longbow +7 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 17 (+4 Dex, +3 natural), touch 14, flat-footed 13
-  - **Base Attack/Grapple**: +2/+2
+  - **Base Attack**: +2; **CMB**: +2; **CMD**: 16
   - **Attack**: Dagger +6 melee (1d4/19–20) or masterwork longbow +7 ranged (1d8/x3)
   - **Full Attack**: Dagger +6 melee (1d4/19–20) or masterwork longbow +7 ranged (1d8/x3)
   - **Space/Reach**: 5 ft./5 ft.

@@ -9,7 +9,9 @@ hit-dice: "9d8+18 (58 hp)"
 initiative: "+7"
 speed: "20 ft. (4 squares), fly 60 ft. (good)"
 armor-class: "21 (–1 size, +3 Dex, +9 natural), touch 12, flat-footed 18"
-base-attack-grapple: "+9/+17"
+base-attack: "+9"
+cmb: "+14 (+18 grapple)"
+cmd: "28 (can't be tripped)"
 attack: "Bite +12 melee (1d3+6 plus poison)"
 full-attack: "Bite +12 melee (1d3+6 plus poison)"
 space-reach: "10 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
   - **Armor Class**: 21 (–1 size, +3 Dex, +9 natural), touch 12, flat-footed 18
-  - **Base Attack/Grapple**: +9/+17
+  - **Base Attack**: +9; **CMB**: +14 (+18 grapple); **CMD**: 28 (can't be tripped)
   - **Attack**: Bite +12 melee (1d3+6 plus poison)
   - **Full Attack**: Bite +12 melee (1d3+6 plus poison)
   - **Space/Reach**: 10 ft./5 ft.
@@ -72,7 +74,7 @@ A couatl uses its [[rangoric-srd/spells/Detect Thoughts|detect thoughts]] abilit
 
 **Constrict (Ex)**: A couatl deals 2d8+6 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
 
-**Improved Grab (Ex)**: To use this ability, a couatl must hit a creature of up to two size categories larger with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a couatl must hit a creature of up to two size categories larger with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Poison (Ex)**: Injury, Fortitude DC 16, initial damage 2d4 Str, secondary damage 4d4 Str. The save DC is Constitution-based.
 

@@ -11,7 +11,9 @@ hit-dice: "40d8+360 (700 hp)"
 initiative: "+3 (Dex)"
 speed: "80 ft.; fly 240 ft. (perfect)"
 armor-class: "52 (-1 size, +3 Dex, +40 natural)"
-base-attack-grapple: "+40/+60"
+base-attack: "+40"
+cmb: "+57 (+61 grapple)"
+cmd: "70 (can't be tripped)"
 attack: "Bite +56 (4d8+16)melee"
 full-attack: "Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (4d6+8) melee, 4 claws +53 (4d6+8) melee"
 space-reach: "10 ft./10 ft."
@@ -45,7 +47,7 @@ Hit Dice: 40d8+360 (700 hp)    
 Initiative: +3 (Dex)      
 Speed: 80 ft.; fly 240 ft. (perfect)      
 AC: 52 (-1 size, +3 Dex, +40 natural)      
-Base Attack/Grapple: +40/+60     
+Base Attack: +40; CMB: +57 (+61 grapple); CMD: 70 (can't be tripped)     
 Attack: Bite +56 (4d8+16)melee     
 Full Attack: Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (4d6+8) melee, 4 claws +53 (4d6+8) melee     
 Space/Reach: 10 ft./10 ft.      

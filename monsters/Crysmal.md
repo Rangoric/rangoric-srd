@@ -10,7 +10,9 @@ hit-dice: "6d8+6 (33 hp)"
 initiative: "+2"
 speed: "30 ft. (6 squares), burrow 20 ft."
 armor-class: "21 (+1 size, +2 Dex, +8 natural), touch 13, flat-footed 19"
-base-attack-grapple: "+4/+2"
+base-attack: "+4"
+cmb: "+5"
+cmd: "17 (29 vs. trip)"
 attack: "Sting +7 melee (1d3+3)"
 full-attack: "Sting +7 melee (1d3+3)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
 **Initiative:** +2     
 **Speed:** 30 ft. (6 squares), burrow 20 ft.     
 **Armor Class:** 21 (+1 size, +2 Dex, +8 natural), touch 13, flat-footed 19     
-**Base Attack/Grapple:** +4/+2     
+**Base Attack:** +4; **CMB:** +5; **CMD:** 17 (29 vs. trip)     
 **Attack:** Sting +7 melee (1d3+3)     
 Full **Attack:** Sting +7 melee (1d3+3)     
 **Space/Reach:** 5 ft./5 ft.     

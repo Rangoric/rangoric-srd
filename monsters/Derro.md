@@ -7,7 +7,9 @@ hit-dice: "3d8+3 (16 hp)"
 initiative: "+6"
 speed: "20 ft. (4 squares)"
 armor-class: "19 (+1 size, +2 Dex, +2 natural, +3 studded leather armor, +1 buckler), touch 13, flat-footed 17"
-base-attack-grapple: "+3/–1"
+base-attack: "+3"
+cmb: "+2"
+cmd: "14"
 attack: "Short sword +4 melee (1d4/19–20) or repeating light crossbow +6 ranged (1d6/19–20 plus poison)"
 full-attack: "Short sword +4 melee (1d4/19–20) or repeating light crossbow +6 ranged (1d6/19–20 plus poison)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 19 (+1 size, +2 Dex, +2 natural, +3 studded leather armor, +1 buckler), touch 13, flat-footed 17
-  - **Base Attack/Grapple**: +3/–1
+  - **Base Attack**: +3; **CMB**: +2; **CMD**: 14
   - **Attack**: Short sword +4 melee (1d4/19–20) or repeating light crossbow +6 ranged (1d6/19–20 plus poison)
   - **Full Attack**: Short sword +4 melee (1d4/19–20) or repeating light crossbow +6 ranged (1d6/19–20 plus poison)
   - **Space/Reach**: 5 ft./5 ft.

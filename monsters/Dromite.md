@@ -9,7 +9,9 @@ hit-dice: "1d10+1 (6 hp)"
 initiative: "+0"
 speed: "20 ft. (4 squares)"
 armor-class: "18 (+1 size, +3 natural armor, +3 studded leather, +1 light shield), touch 11, flat-footed 18"
-base-attack-grapple: "+1/-3"
+base-attack: "+1"
+cmb: "+0"
+cmd: "10"
 attack: "Longsword +3 melee (1d6/19-20) or light crossbow +2 ranged (1d6/19-20)"
 full-attack: "Longsword +3 melee (1d6/19-20) or light crossbow +2 ranged (1d6/19-20)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mo
 **Initiative:** +0     
 **Speed:** 20 ft. (4 squares)     
 **Armor Class:** 18 (+1 size, +3 natural armor, +3 studded leather, +1 light shield), touch 11, flat-footed 18     
-**Base Attack/Grapple:** +1/-3     
+**Base Attack:** +1; **CMB:** +0; **CMD:** 10     
 **Attack:** Longsword +3 melee (1d6/19-20) or light crossbow +2 ranged (1d6/19-20)     
 Full **Attack:** Longsword +3 melee (1d6/19-20) or light crossbow +2 ranged (1d6/19-20)     
 **Space/Reach:** 5 ft./5 ft.     

@@ -9,7 +9,9 @@ hit-dice: "3d8+3 (16 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "17 (+1 Dex, +3 natural, +2 leather armor, +1 light wooden shield), touch 11, flat-footed 16"
-base-attack-grapple: "+2/+4"
+base-attack: "+2"
+cmb: "+4"
+cmd: "15"
 attack: "Morningstar +5 melee (1d8+2) or javelin +3 ranged (1d6+2)"
 full-attack: "Morningstar +5 melee (1d8+2) or javelin +3 ranged (1d6+2)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 17 (+1 Dex, +3 natural, +2 leather armor, +1 light wooden shield), touch 11, flat-footed 16
-  - **Base Attack/Grapple**: +2/+4
+  - **Base Attack**: +2; **CMB**: +4; **CMD**: 15
   - **Attack**: Morningstar +5 melee (1d8+2) or javelin +3 ranged (1d6+2)
   - **Full Attack**: Morningstar +5 melee (1d8+2) or javelin +3 ranged (1d6+2)
   - **Space/Reach**: 5 ft./5 ft.

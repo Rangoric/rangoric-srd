@@ -9,7 +9,9 @@ hit-dice: "8d8+40 (76 hp)"
 initiative: "+1"
 speed: "10 ft. (2 squares), swim 60 ft."
 armor-class: "16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15"
-base-attack-grapple: "+6/+22"
+base-attack: "+6"
+cmb: "+16"
+cmd: "27 (can't be tripped)"
 attack: "Tentacle +12 melee (1d6+8 plus slime)"
 full-attack: "4 tentacles +12 melee (1d6+8 plus slime)"
 space-reach: "15 ft./10 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 10 ft. (2 squares), swim 60 ft.
   - **Armor Class**: 16 (–2 size, +1 Dex, +7 natural), touch 9, flat-footed 15
-  - **Base Attack/Grapple**: +6/+22
+  - **Base Attack**: +6; **CMB**: +16; **CMD**: 27 (can't be tripped)
   - **Attack**: Tentacle +12 melee (1d6+8 plus slime)
   - **Full Attack**: 4 tentacles +12 melee (1d6+8 plus slime)
   - **Space/Reach**: 15 ft./10 ft.

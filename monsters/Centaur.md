@@ -7,7 +7,9 @@ hit-dice: "4d8+8 (26 hp)"
 initiative: "+2"
 speed: "50 ft. (10 squares)"
 armor-class: "14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12"
-base-attack-grapple: "+4/+12"
+base-attack: "+4"
+cmb: "+9"
+cmd: "22 (26 vs. trip)"
 attack: "Longsword +7 melee (2d6+6/19–20) or composite longbow (+4 Str bonus) +5 ranged (2d6+4/x3)"
 full-attack: "Longsword +7 melee (2d6+6/19–20) and 2 hooves +3 melee (1d6+2); or composite longbow (+4 Str bonus) +5 ranged (2d6+4/x3)"
 space-reach: "10 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 50 ft. (10 squares)
   - **Armor Class**: 14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12
-  - **Base Attack/Grapple**: +4/+12
+  - **Base Attack**: +4; **CMB**: +9; **CMD**: 22 (26 vs. trip)
   - **Attack**: Longsword +7 melee (2d6+6/19–20) or composite longbow (+4 Str bonus) +5 ranged (2d6+4/x3)
   - **Full Attack**: Longsword +7 melee (2d6+6/19–20) and 2 hooves +3 melee (1d6+2); or composite longbow (+4 Str bonus) +5 ranged (2d6+4/x3)
   - **Space/Reach**: 10 ft./5 ft.

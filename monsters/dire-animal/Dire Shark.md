@@ -10,7 +10,9 @@ hit-dice: "18d8+66 (147 hp)"
 initiative: "+2"
 speed: "Swim 60 ft. (12 squares)"
 armor-class: "17 (–2 size, +2 Dex, +7 natural), touch 10, flat-footed 15"
-base-attack-grapple: "+13/+27"
+base-attack: "+13"
+cmb: "+21 (+25 grapple)"
+cmd: "33"
 attack: "Bite +18 melee (2d8+9)"
 full-attack: "Bite +18 melee (2d8+9)"
 space-reach: "15 ft./10 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: Swim 60 ft. (12 squares)
   - **Armor Class**: 17 (–2 size, +2 Dex, +7 natural), touch 10, flat-footed 15
-  - **Base Attack/Grapple**: +13/+27
+  - **Base Attack**: +13; **CMB**: +21 (+25 grapple); **CMD**: 33
   - **Attack**: Bite +18 melee (2d8+9)
   - **Full Attack**: Bite +18 melee (2d8+9)
   - **Space/Reach**: 15 ft./10 ft.
@@ -69,7 +71,7 @@ This monstrous fish can grow to a length of 25 feet and weigh more than 20,000 p
 
 Dire sharks bite with their powerful jaws, swallowing smaller creatures in one gulp.
 
-**Improved Grab (Ex)**: To use this ability, a dire shark must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe in the following round.
+**Improved Grab (Ex)**: To use this ability, a dire shark must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the foe in the following round.
 
 **Swallow Whole (Ex)**: A dire shark can try to swallow a grabbed opponent of up to one size smaller by making a successful grapple check. Once inside, the opponent takes 2d6+6 points of bludgeoning damage plus 1d8+4 points of acid damage per round from the shark’s digestive juices. A swallowed creature can cut its way out using a light slashing or piercing weapon by dealing 25 points of damage to the shark’s digestive tract (AC 13). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
 

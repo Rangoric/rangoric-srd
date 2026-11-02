@@ -12,7 +12,9 @@ hit-dice: "8d8+16 (52 hp)"
 initiative: "+6"
 speed: "30 ft. (6 squares)"
 armor-class: "20 (+2 Dex, +8 natural), touch 12, flat-footed 18"
-base-attack-grapple: "+8/+10"
+base-attack: "+8"
+cmb: "+10"
+cmd: "22"
 attack: "Chain +10 melee (2d4+2/19–20)"
 full-attack: "2 chains +10 melee (2d4+2/19–20)"
 space-reach: "5 ft./5 ft. (10 ft. with chains)"
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 20 (+2 Dex, +8 natural), touch 12, flat-footed 18
-  - **Base Attack/Grapple**: +8/+10
+  - **Base Attack**: +8; **CMB**: +10; **CMD**: 22
   - **Attack**: Chain +10 melee (2d4+2/19–20)
   - **Full Attack**: 2 chains +10 melee (2d4+2/19–20)
   - **Space/Reach**: 5 ft./5 ft. (10 ft. with chains)

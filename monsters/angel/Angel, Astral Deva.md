@@ -12,7 +12,9 @@ hit-dice: "12d8+48 (102 hp)"
 initiative: "+8"
 speed: "50 ft. (10 squares), fly 100 ft. (good)"
 armor-class: "29 (+4 Dex, +15 natural), touch 14, flat-footed 25"
-base-attack-grapple: "+12/+18"
+base-attack: "+12"
+cmb: "+18"
+cmd: "32"
 attack: "+3 heavy mace of disruption +21 melee (1d8+12 plus stun) or slam +18 melee (1d8+9)"
 full-attack: "+3 heavy mace of disruption +21/+16/+11 melee (1d8+12 plus stun) or slam +18 melee (1d8+9)"
 space-reach: "5 ft./5 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +8
   - **Speed**: 50 ft. (10 squares), fly 100 ft. (good)
   - **Armor Class**: 29 (+4 Dex, +15 natural), touch 14, flat-footed 25
-  - **Base Attack/Grapple**: +12/+18
+  - **Base Attack**: +12; **CMB**: +18; **CMD**: 32
   - **Attack**: +3 heavy mace of disruption +21 melee (1d8+12 plus stun) or slam +18 melee (1d8+9)
   - **Full Attack**: +3 heavy mace of disruption +21/+16/+11 melee (1d8+12 plus stun) or slam +18 melee (1d8+9)
   - **Space/Reach**: 5 ft./5 ft.

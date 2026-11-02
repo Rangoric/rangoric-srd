@@ -9,7 +9,9 @@ hit-dice: "11d8+44 (93 hp)"
 initiative: "+7"
 speed: "30 ft. (6 squares), swim 20 ft."
 armor-class: "22 (–1 size, +3 Dex, +10 natural), touch 12, flat-footed 19"
-base-attack-grapple: "+8/+17"
+base-attack: "+8"
+cmb: "+14 (+18 grapple)"
+cmd: "27 (31 vs. trip)"
 attack: "Claw +12 melee (2d6+5)"
 full-attack: "2 claws +12 melee (2d6+5)"
 space-reach: "10 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 30 ft. (6 squares), swim 20 ft.
   - **Armor Class**: 22 (–1 size, +3 Dex, +10 natural), touch 12, flat-footed 19
-  - **Base Attack/Grapple**: +8/+17
+  - **Base Attack**: +8; **CMB**: +14 (+18 grapple); **CMD**: 27 (31 vs. trip)
   - **Attack**: Claw +12 melee (2d6+5)
   - **Full Attack**: 2 claws +12 melee (2d6+5)
   - **Space/Reach**: 10 ft./5 ft.
@@ -70,7 +72,7 @@ A chuul prefers to wait by the shore, submerged in murky water, until it hears n
 
 **Constrict (Ex)**: On a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check, a chuul deals 3d6+5 points of damage.
 
-**Improved Grab (Ex)**: To use this ability, a chuul must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict or on its next turn transfer a grabbed opponent to its tentacles.
+**Improved Grab (Ex)**: To use this ability, a chuul must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict or on its next turn transfer a grabbed opponent to its tentacles.
 
 **Paralytic Tentacles (Ex)**: A chuul can transfer grabbed victims from a claw to its tentacles as a move action. The tentacles [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] with the same strength as the claw but deal no damage. However, they exude a paralytic secretion. Anyone held in the tentacles must succeed on a DC 19 Fortitude save each round on the chuul’s turn or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 6 rounds. The save DC is Constitution-based. While held in the tentacles, paralyzed or not, a victim automatically takes 1d8+2 points of damage each round from the creature’s mandibles.
 
