@@ -5,7 +5,7 @@ size: "Medium"
 creature-type: "Humanoid"
 subtypes:
   - "Orc"
-hit-dice: "1d8+1 (5 hp)"
+hit-dice: "1d10+1 (6 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "13 (+3 studded leather armor), touch 10, flat-footed 13"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
   - Orc, 1st-Level Warrior  
     Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Orc)
-  - **Hit Dice**: 1d8+1 (5 hp)
+  - **Hit Dice**: 1d10+1 (6 hp)
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 13 (+3 studded leather armor), touch 10, flat-footed 13

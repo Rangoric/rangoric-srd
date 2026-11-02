@@ -6,7 +6,7 @@ size: "Medium"
 creature-type: "Humanoid"
 subtypes:
   - "Dwarf"
-hit-dice: "1d8+5 (9 hp)"
+hit-dice: "1d10+5 (10 hp)"
 initiative: "+0"
 speed: "20 ft. in chainmail (4 squares); base speed 20 ft."
 armor-class: "17 (+5 chainmail, +2 heavy shield), touch 10, flat-footed 17"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 # Duergar, 1st-Level Warrior
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 1d8+5 (9 hp)
+  - **Hit Dice**: 1d10+5 (10 hp)
   - **Initiative**: +0
   - **Speed**: 20 ft. in chainmail (4 squares); base speed 20 ft.
   - **Armor Class**: 17 (+5 chainmail, +2 heavy shield), touch 10, flat-footed 17

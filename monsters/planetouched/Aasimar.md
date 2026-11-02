@@ -6,7 +6,7 @@ size: "Medium"
 creature-type: "Outsider"
 subtypes:
   - "Native"
-hit-dice: "1d8+1 (5 hp)"
+hit-dice: "1d10+1 (6 hp)"
 initiative: "+4"
 speed: "20 ft. in scale mail (4 squares); base speed 30 ft."
 armor-class: "16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16"
@@ -40,7 +40,7 @@ tags: [rangoric, rangoric/monster]
 
   - Aasimar, 1st-Level Warrior  
     Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^native|Native]])
-  - **Hit Dice**: 1d8+1 (5 hp)
+  - **Hit Dice**: 1d10+1 (6 hp)
   - **Initiative**: +4
   - **Speed**: 20 ft. in scale mail (4 squares); base speed 30 ft.
   - **Armor Class**: 16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16

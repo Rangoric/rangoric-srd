@@ -6,7 +6,7 @@ size: "Medium"
 creature-type: "Humanoid"
 subtypes:
   - "Dwarf"
-hit-dice: "1d8+2 (6 hp)"
+hit-dice: "1d10+2 (7 hp)"
 initiative: "+0"
 speed: "20 ft. in scale mail (4 squares); base speed 20 ft."
 armor-class: "16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 # Dwarf, 1st-Level Warrior
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Dwarf)
-  - **Hit Dice**: 1d8+2 (6 hp)
+  - **Hit Dice**: 1d10+2 (7 hp)
   - **Initiative**: +0
   - **Speed**: 20 ft. in scale mail (4 squares); base speed 20 ft.
   - **Armor Class**: 16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16

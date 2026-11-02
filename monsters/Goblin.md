@@ -5,7 +5,7 @@ size: "Small"
 creature-type: "Humanoid"
 subtypes:
   - "Goblinoid"
-hit-dice: "1d8+1 (5 hp)"
+hit-dice: "1d10+1 (6 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+1 size, +1 Dex, +2 leather armor, +1 light shield), touch 12, flat-footed 14"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
   - Goblin, 1st-Level Warrior  
     Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|Goblinoid]])
-  - **Hit Dice**: 1d8+1 (5 hp)
+  - **Hit Dice**: 1d10+1 (6 hp)
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+1 size, +1 Dex, +2 leather armor, +1 light shield), touch 12, flat-footed 14

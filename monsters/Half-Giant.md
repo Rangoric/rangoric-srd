@@ -5,7 +5,7 @@ size: "Medium"
 creature-type: "Giant"
 subtypes:
   - "Psionic"
-hit-dice: "1d8+2 (6 hp)"
+hit-dice: "1d10+2 (7 hp)"
 initiative: "-1"
 speed: "30 ft. (6 squares)"
 armor-class: "13 (-1 Dex, +4 scale mail), touch 9, flat-footed 13"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 Half-Giant, 1st-Level Warrior      
 Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|Giant]] (Psionic)      
-**Hit Dice:** 1d8+2 (6 hp)     
+**Hit Dice:** 1d10+2 (7 hp)     
 **Initiative:** -1     
 **Speed:** 30 ft. (6 squares)     
 **Armor Class:** 13 (-1 Dex, +4 scale mail), touch 9, flat-footed 13     
