@@ -649,6 +649,8 @@ Also see [[#Ability Score Loss|Ability Score Loss]].
 Also see [[#Ability Score Loss|Ability Score Loss]].  
  ^ability-drained
 
+**Bleed**: Takes damage at the beginning of each turn; see [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]]. ^bleed
+
 **Blinded**: The character cannot see. He takes a –2 penalty to Armor Class, loses his Dexterity bonus to AC (if any), moves at half speed, and takes a –4 penalty on [[rangoric-srd/skills/Investigation|Investigation]] checks and on most Strength- and Dexterity-based skill checks. All checks and activities that rely on vision (such as reading and [[rangoric-srd/skills/Perception|Perception]] checks) automatically fail. All opponents are considered to have total concealment (50% miss chance) to the blinded character. Characters who remain blinded for a long time grow accustomed to these drawbacks and can overcome some of them. ^blinded
 
 **Blown Away**: Depending on its size, a creature can be blown away by winds of high velocity. A creature on the ground that is blown away is [[#^knocked-down|knocked down]] and rolls 1d4 x 10 feet, taking 1d4 points of nonlethal damage per 10 feet. A flying creature that is blown away is blown back 2d6 x 10 feet and takes 2d6 points of nonlethal damage due to battering and buffering. ^blown-away
