@@ -1,8 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Armor Proficiency (Light)|Armor Proficiency (Light) (3.5)]]"
 status: draft

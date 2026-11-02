@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Wis 13, Wilding."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Wilding Senses|Wilding Senses (PF1)]]"
 status: draft

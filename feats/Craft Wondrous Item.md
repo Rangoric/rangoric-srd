@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Caster level 3rd."
-feat-type:
-  - "Item Creation"
 based-on:
   - "[[fantasy srd 3.5/feats/Craft Wondrous Item|Craft Wondrous Item (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, item-creation]
 ---
 
 # Craft Wondrous Item

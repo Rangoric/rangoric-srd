@@ -3,8 +3,6 @@ srd-type: "feat"
 section: "Feats"
 aliases:
   - "Animal Affinity"
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Animal Affinity (Feat)|Animal Affinity (Feat) (3.5)]]"
 replaced-by: "[[rangoric-srd/feats/Skill Focus|Skill Focus (Animal Handling)]]"

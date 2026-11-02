@@ -1,14 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Epic"
 based-on:
   - "[[fantasy srd 3.5/feats/Terrifying Rage|Terrifying Rage (3.5)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, epic]
 ---
 
 # Terrifying Rage

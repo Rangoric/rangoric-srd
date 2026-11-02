@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Endurance."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Deep Diver|Deep Diver (PF1)]]"
 status: draft

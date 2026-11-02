@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Improved Feint|Improved Feint (3.5)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, fighter-bonus]
 ---
 
 # Improved Feint

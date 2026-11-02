@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fly speed."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Wingover|Wingover (3.5)]]"
 status: draft

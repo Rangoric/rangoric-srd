@@ -1,14 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Metamagic"
 based-on:
   - "[[fantasy srd 3.5/feats/Subdual Substitution|Subdual Substitution (3.5)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, metamagic]
 ---
 
 # Subdual Substitution

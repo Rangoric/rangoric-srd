@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Any neutral alignment, taken at 1st level."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Wilding|Wilding (PF1)]]"
 status: draft

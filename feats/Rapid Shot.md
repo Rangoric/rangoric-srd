@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, Point Blank Shot."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Rapid Shot|Rapid Shot (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, fighter-bonus]
 ---
 
 # Rapid Shot

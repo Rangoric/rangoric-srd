@@ -2,12 +2,10 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Ability to turn or rebuke creatures."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Extra Turning|Extra Turning (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat]
 ---

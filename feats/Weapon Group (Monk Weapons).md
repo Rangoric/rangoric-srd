@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Improved Unarmed Strike."
-feat-type:
-  - "Fighter Bonus"
 based-on:
   - "[[fantasy srd 3.5/feats/Weapon Group (Monk Weapons)|Weapon Group (Monk Weapons) (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, fighter-bonus]
 ---
 
 # Weapon Group (Monk Weapons)

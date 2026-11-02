@@ -1,8 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Magical Aptitude|Magical Aptitude (3.5)]]"
   - "[[fantasy srd 3.5/feats/Psionic Affinity|Psionic Affinity (3.5)]]"

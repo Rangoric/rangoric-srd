@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Shield Proficiency."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Tower Shield Proficiency|Tower Shield Proficiency (3.5)]]"
 status: draft

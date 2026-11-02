@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Quadruped animal or magical beast."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Sure-Footed (Feat)|Sure-Footed (PF1)]]"
 status: draft

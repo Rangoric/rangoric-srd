@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 15."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Deep Breath|Deep Breath (PF1)]]"
 status: draft

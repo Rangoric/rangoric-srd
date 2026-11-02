@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Acrobatics 2 ranks."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/City Sprinter|City Sprinter (PF1)]]"
 status: draft

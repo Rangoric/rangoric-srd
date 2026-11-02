@@ -1,15 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Wild"
-  - "Epic"
 based-on:
   - "[[fantasy srd 3.5/feats/Diminutive Wild Shape|Diminutive Wild Shape (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, epic, wild]
 ---
 
 # Diminutive Wild Shape

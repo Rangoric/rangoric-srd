@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Fly speed."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5/feats/Hover|Hover (PF1)]]"
   - "[[fantasy srd 3.5/feats/Hover|Hover (3.5)]]"

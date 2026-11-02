@@ -1,14 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Psionic"
 based-on:
   - "[[fantasy srd 3.5/feats/Psionic Meditation|Psionic Meditation (3.5)]]"
 status: draft
 change: new
 pi-review: 2026-10-22
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, psionic]
 ---
 
 # Quickened Focus
