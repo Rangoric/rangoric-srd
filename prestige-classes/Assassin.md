@@ -1,14 +1,15 @@
 ---
 srd-type: "class"
 section: "Prestige Classes"
-hit-die: "d6"
+hit-die: "d8"
 alignment: "Any evil"
 skill-points: "4 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Assassin|Assassin (3.5)]]"
+  - "[[path srd 3.5/classes/Assassin|Assassin (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---
 
@@ -16,7 +17,15 @@ tags: [rangoric, rangoric/class]
 
 ### Assassin
 
-**Hit Die**: d6.
+A mercenary undertaking his task with cold, professional detachment, the assassin is equally adept at espionage, bounty hunting, and terrorism. At his core, an assassin is an artisan, and his medium is death. Trained in a variety of killing techniques, assassins are among the most feared classes.
+
+While nearly any class is capable of becoming an assassin, rogues suit the part more than any other, from both an ability viewpoint and an ideological one. Though they make excellent allies during combat, assassins excel in more clandestine situations, and the best assassins are the ones the victims never knew existed.
+
+**Role**: Assassins tend to be loners by nature, seeing companions as liabilities at best. Sometimes an assassin's missions put him in the company of adventurers for long stretches at a time, but few people are comfortable trusting a professional assassin to watch their backs in a fight, and are more likely to let the emotionless killer scout ahead or help prepare ambushes.
+
+**Alignment**: Due to its necessary selfishness and callous indifference toward taking lives, the assassin class attracts those with evil alignments more than any others. Because the profession requires a degree of self-discipline, chaotic characters are ill suited to becoming these shadowy killers. Neutral characters sometimes become assassins, frequently thinking of themselves as simple professionals performing a job, yet the nature of their duties inevitably pushes them toward an evil alignment.
+
+**Hit Die**: d8.
 
 ###### Requirements
 
@@ -43,13 +52,13 @@ The assassin's class skills (and the key ability for each skill) are [[rangoric-
 | 1st   | +0               | +0       | +2      | +0       | Sneak attack +1d6, death attack, poison use, spells | 0                   | —                   | —                   | —                   |
 | 2nd   | +1               | +0       | +3      | +0       | +1 save against poison, uncanny dodge              | 1                   | —                   | —                   | —                   |
 | 3rd   | +2               | +1       | +3      | +1       | Sneak attack +2d6                                   | 2                   | 0                   | —                   | —                   |
-| 4th   | +3               | +1       | +4      | +1       | +2 save against poison                             | 3                   | 1                   | —                   | —                   |
+| 4th   | +3               | +1       | +4      | +1       | +2 save against poison, hidden weapons, true death                             | 3                   | 1                   | —                   | —                   |
 | 5th   | +3               | +1       | +4      | +1       | Improved uncanny dodge, sneak attack +3d6           | 3                   | 2                   | 0                   | —                   |
-| 6th   | +4               | +2       | +5      | +2       | +3 save against poison                             | 3                   | 3                   | 1                   | —                   |
+| 6th   | +4               | +2       | +5      | +2       | +3 save against poison, quiet death                             | 3                   | 3                   | 1                   | —                   |
 | 7th   | +5               | +2       | +5      | +2       | Sneak attack +4d6                                   | 3                   | 3                   | 2                   | 0                   |
 | 8th   | +6               | +2       | +6      | +2       | +4 save against poison, hide in plain sight        | 3                   | 3                   | 3                   | 1                   |
-| 9th   | +6               | +3       | +6      | +3       | Sneak attack +5d6                                   | 3                   | 3                   | 3                   | 2                   |
-| 10th  | +7               | +3       | +7      | +3       | +5 save against poison                             | 3                   | 3                   | 3                   | 3                   |
+| 9th   | +6               | +3       | +6      | +3       | Sneak attack +5d6, swift death                                   | 3                   | 3                   | 3                   | 2                   |
+| 10th  | +7               | +3       | +7      | +3       | +5 save against poison, angel of death                             | 3                   | 3                   | 3                   | 3                   |
 
 ###### Class Features
 
@@ -94,13 +103,23 @@ Upon reaching 6th level, at every even-numbered level after that (8th and 10th),
 
 If a character gains uncanny dodge from a second class the character automatically gains improved uncanny dodge (see below).
 
+**Hidden Weapons (Ex)**: At 4th level, an assassin becomes a master at hiding weapons on his body. He adds his assassin level to all [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks made to prevent others from noticing them.
+
+**True Death (Su)**: Starting at 4th level, anyone slain by an assassin’s death attack becomes more difficult to bring back from the dead. Spellcasters attempting to bring a creature back from the dead using [[rangoric-srd/spells/Raise Dead|raise dead]] or similar magic must make a caster level check with a DC equal to 15 + the assassin’s level or the spell fails and the material component is wasted. Casting [[rangoric-srd/spells/Remove Curse|remove curse]] the round before attempting to bring the creature back from the dead negates this chance. The DC of the *remove curse* is 10 + the assassin’s level.
+
 **Improved Uncanny Dodge (Ex)**: At 5th level, an assassin can no longer be flanked, since he can react to opponents on opposite sides of him as easily as he can react to a single attacker. This defense denies rogues the ability to use flank attacks to sneak attack the assassin. The exception to this defense is that a rogue at least four levels higher than the assassin can flank him (and thus sneak attack him).
 
 If a character gains uncanny dodge (see above) from a second class the character automatically gains improved uncanny dodge, and the levels from those classes stack to determine the minimum rogue level required to flank the character.
 
+**Quiet Death (Ex)**: At 6th level, whenever an assassin kills a creature using his death attack during a surprise round, he can also make a [[rangoric-srd/skills/Stealth|Stealth]] check, opposed by [[rangoric-srd/skills/Perception|Perception]] checks of those in the vicinity to prevent them from identifying him as the assailant. If successful, those nearby might not even notice that the target is dead for a few moments, allowing the assassin to avoid detection.
+
 **Hide in Plain Sight (Su)**: At 8th level, an assassin can use the Stealth skill even while being observed. As long as he is within 10 feet of some sort of shadow, an assassin can hide himself from view in the open without having anything to actually hide behind.
 
 He cannot, however, hide in his own shadow.
+
+**Swift Death (Ex)**: At 9th level, once per day, an assassin can make a death attack against a foe without studying the foe beforehand. He must still sneak attack his foe using a melee weapon that deals damage.
+
+**Angel of Death (Su)**: At 10th level, the assassin becomes a master of death. Once per day, when the assassin makes a successful death attack, he can cause the target’s body to crumble to dust. This prevents [[rangoric-srd/spells/Raise Dead|raise dead]] and [[rangoric-srd/spells/Resurrection|resurrection]] (although [[rangoric-srd/spells/True Resurrection|true resurrection]] works as normal). The assassin must declare the use of this ability before the attack is made. If the attack misses or the target successfully saves against the death attack, this ability is wasted with no effect.
 
 ###### Assassin Spell List
 
