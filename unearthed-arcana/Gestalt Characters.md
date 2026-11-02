@@ -119,7 +119,7 @@ At the gaming table, you may want to plan longer gaming sessions because rest pe
 
 ###### NPCs
 
-An important aspect of most campaigns is verisimilitude — which is centered on the notion that everything in the campaign world is obeying the same set of rules. Accordingly, any important NPCs in your game should also be gestalt characters. It's probably not necessary to have low-level noncombatant NPCs pick two classes, but any NPCs above 1st level should be constructed as gestalt characters. (NPCs with levels only in NPC classes - [[rangoric-srd/classes/NPC Classes#Adept|adept]], [[rangoric-srd/classes/NPC Classes#Aristocrat|aristocrat]], [[rangoric-srd/classes/NPC Classes#Commoner|commoner]], [[rangoric-srd/classes/NPC Classes#Expert|expert]], and [[rangoric-srd/classes/NPC Classes#Warrior|warrior]] - can remain standard characters.)
+An important aspect of most campaigns is verisimilitude — which is centered on the notion that everything in the campaign world is obeying the same set of rules. Accordingly, any important NPCs in your game should also be gestalt characters. It's probably not necessary to have low-level noncombatant NPCs pick two classes, but any NPCs above 1st level should be constructed as gestalt characters. (NPCs with levels only in NPC classes - [[rangoric-srd/classes/Adept|adept]], [[rangoric-srd/classes/Aristocrat|aristocrat]], [[rangoric-srd/classes/Commoner|commoner]], [[rangoric-srd/classes/Expert|expert]], and [[rangoric-srd/classes/Warrior|warrior]] - can remain standard characters.)
 
 ###### Prestige Classes
 

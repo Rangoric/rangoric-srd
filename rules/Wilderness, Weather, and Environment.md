@@ -756,7 +756,7 @@ A city typically has full-time military personnel equal to 1% of its adult popul
 
 A typical city guard force works on three eight-hour shifts, with 30% of the force on a day shift (8 A.M. to 4 P.M.), 35% on an evening shift (4 P.M. to 12 A.M.), and 35% on a night shift (12 A.M. to 8 A.M.). At any given time, 80% of the guards on duty are on the streets patrolling, while the remaining 20% are stationed at various posts throughout the city, where they can respond to nearby alarms. At least one such guard post is present within each neighborhood of a city (each neighborhood consisting of several districts).
 
-The majority of a city guard force is made up of [[rangoric-srd/classes/NPC Classes#Warrior|warriors]], mostly 1st level. Officers include higher-level warriors, fighters, a fair number of clerics, and wizards or sorcerers, as well as multiclass fighter/spellcasters.
+The majority of a city guard force is made up of [[rangoric-srd/classes/Warrior|warriors]], mostly 1st level. Officers include higher-level warriors, fighters, a fair number of clerics, and wizards or sorcerers, as well as multiclass fighter/spellcasters.
 
 ###### Siege Engines
 

@@ -89,10 +89,10 @@ Modify the results of NPCs’ and monsters’ interaction skill checks by their 
 | 19th  | +4   | +4   | +5   | +5   |
 | 20th  | +4   | +5   | +5   | +5   |
 
-1.  Use column A for [[rangoric-srd/classes/NPC Classes#Commoner|commoner]] levels.
-2.  Use column B for [[rangoric-srd/classes/Barbarian|barbarian]], [[rangoric-srd/classes/Druid|druid]], [[rangoric-srd/classes/Monk|monk]], [[rangoric-srd/classes/Ranger|ranger]], [[rangoric-srd/classes/Rogue|rogue]], and [[rangoric-srd/classes/NPC Classes#Warrior|warrior]] levels.
-3.  Use column C for [[rangoric-srd/classes/Cleric|cleric]], [[rangoric-srd/classes/Fighter|fighter]], [[rangoric-srd/classes/Sorcerer|sorcerer]], [[rangoric-srd/classes/Wizard|wizard]], [[rangoric-srd/classes/NPC Classes#Adept|adept]], and [[rangoric-srd/classes/NPC Classes#Expert|expert]] levels.
-4.  Use column D for [[rangoric-srd/classes/Bard|bard]], [[rangoric-srd/classes/Paladin|paladin]], and [[rangoric-srd/classes/NPC Classes|aristocrat]] levels.
+1.  Use column A for [[rangoric-srd/classes/Commoner|commoner]] levels.
+2.  Use column B for [[rangoric-srd/classes/Barbarian|barbarian]], [[rangoric-srd/classes/Druid|druid]], [[rangoric-srd/classes/Monk|monk]], [[rangoric-srd/classes/Ranger|ranger]], [[rangoric-srd/classes/Rogue|rogue]], and [[rangoric-srd/classes/Warrior|warrior]] levels.
+3.  Use column C for [[rangoric-srd/classes/Cleric|cleric]], [[rangoric-srd/classes/Fighter|fighter]], [[rangoric-srd/classes/Sorcerer|sorcerer]], [[rangoric-srd/classes/Wizard|wizard]], [[rangoric-srd/classes/Adept|adept]], and [[rangoric-srd/classes/Expert|expert]] levels.
+4.  Use column D for [[rangoric-srd/classes/Bard|bard]], [[rangoric-srd/classes/Paladin|paladin]], and [[rangoric-srd/classes/Aristocrat|aristocrat]] levels.
 
 A player character has a reputation score based on his class levels; [[rangoric-srd/unearthed-arcana/Reputation|Table: Reputation Scores]], summarizes this information for the standard player character and NPC classes.
 
