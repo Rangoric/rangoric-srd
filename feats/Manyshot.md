@@ -22,6 +22,4 @@ Damage reduction and other resistances apply separately against each arrow fired
 
 **Special**: Regardless of the number of arrows you fire, you apply precision-based damage only once. If you score a critical hit, only the first arrow fired deals critical damage; all others deal regular damage.
 
-A fighter may select Manyshot as one of his fighter bonus feats.
-
 A 6th-level ranger who has chosen the archery combat style is treated as having Manyshot even if he does not have the prerequisites for it, but only when he is wearing light or no armor.

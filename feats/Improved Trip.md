@@ -21,5 +21,3 @@ If you trip an opponent in melee combat, you immediately get a melee attack agai
 **Normal**: Without this feat, you provoke an attack of opportunity when you attempt to trip an opponent while you are unarmed.
 
 **Special**: At 6th level, a monk may select Improved Trip as a bonus feat, even if she does not have the prerequisites.
-
-A fighter may select Improved Trip as one of his fighter bonus feats.

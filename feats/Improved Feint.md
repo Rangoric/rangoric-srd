@@ -17,5 +17,3 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 **Benefit**: You can make a Deception check to feint in combat as a move action.
 
 **Normal**: Feinting in combat is a standard action.
-
-A fighter may select Improved Feint as one of his fighter bonus feats.

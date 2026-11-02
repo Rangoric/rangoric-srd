@@ -184,7 +184,7 @@ You are so perceptive that you practically have eyes in the back of your head.
 
 **Normal:** The penalty on Perception checks in or beyond your flank areas is -5; on Perception checks in your rear area, it’s -10.
 
-**Special:** A fighter may select Combat Awareness as one of his fighter bonus feats.
+**Special:** A fighter may select Combat Awareness as one of his [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]].
 
 ### Hex Grid
 

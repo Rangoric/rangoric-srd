@@ -12,5 +12,3 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 # Improved Initiative
 
 **Benefit**: You get a +4 bonus on initiative checks.
-
-**Special**: A fighter may select Improved Initiative as one of his fighter bonus feats.

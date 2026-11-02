@@ -472,7 +472,7 @@ Thugs are proficient with all [[rangoric-srd/feats/Simple Weapon Proficiency|sim
 
 ###### Bonus Feats
 
-A thug doesn't gain the normal fighter bonus feat at 1st level. Also, add [[#Urban Tracking (General)|Urban Tracking]] to the list of fighter bonus feats available to the thug.
+A thug doesn't gain the normal fighter bonus feat at 1st level. He can also take [[#Urban Tracking (General)|Urban Tracking]] as one of his [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]].
 
 #### Simple Variant
 

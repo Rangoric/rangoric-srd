@@ -18,6 +18,4 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 **Normal**: Without this feat, you can only get a single extra attack with an off-hand weapon.
 
-**Special**: A fighter may select Improved Two-Weapon Fighting as one of his fighter bonus feats.
-
 A 6th-level ranger who has chosen the two-weapon combat style is treated as having Improved Two-Weapon Fighting, even if he does not have the prerequisites for it, but only when he is wearing light or no armor.
