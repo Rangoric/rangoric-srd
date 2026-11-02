@@ -5,7 +5,7 @@ size: "Medium"
 creature-type: "Aberration"
 subtypes:
   - "Psionic"
-hit-dice: "1d8+1 (5 hp)"
+hit-dice: "1d10+1 (6 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 Elan, 1st-Level Warrior      
 Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] (Psionic)      
-**Hit Dice:** 1d8+1 (5 hp)     
+**Hit Dice:** 1d10+1 (6 hp)     
 **Initiative:** +0     
 **Speed:** 30 ft. (6 squares)     
 **Armor Class:** 14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14     

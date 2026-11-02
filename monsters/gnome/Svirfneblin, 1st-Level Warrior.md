@@ -6,7 +6,7 @@ size: "Small"
 creature-type: "Humanoid"
 subtypes:
   - "Gnome"
-hit-dice: "1d8+4 (8 hp)"
+hit-dice: "1d10+4 (9 hp)"
 initiative: "+1"
 speed: "15 ft. in banded mail armor (3 squares); base speed 20 ft."
 armor-class: "23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat-footed 18"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 # Svirfneblin, 1st-Level Warrior
 
   - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnome)
-  - **Hit Dice**: 1d8+4 (8 hp)
+  - **Hit Dice**: 1d10+4 (9 hp)
   - **Initiative**: +1
   - **Speed**: 15 ft. in banded mail armor (3 squares); base speed 20 ft.
   - **Armor Class**: 23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat-footed 18

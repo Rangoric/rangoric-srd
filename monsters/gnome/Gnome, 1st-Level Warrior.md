@@ -6,7 +6,7 @@ size: "Small"
 creature-type: "Humanoid"
 subtypes:
   - "Gnome"
-hit-dice: "1d8+2 (6 hp)"
+hit-dice: "1d10+2 (7 hp)"
 initiative: "+0"
 speed: "20 ft. (4 squares)"
 armor-class: "16 (+1 size, +4 chain shirt, +1 light shield), touch 11, flat-footed 16"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 # Gnome, 1st-Level Warrior
 
   - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnome)
-  - **Hit Dice**: 1d8+2 (6 hp)
+  - **Hit Dice**: 1d10+2 (7 hp)
   - **Initiative**: +0
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 16 (+1 size, +4 chain shirt, +1 light shield), touch 11, flat-footed 16

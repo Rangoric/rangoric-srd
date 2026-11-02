@@ -5,7 +5,7 @@ size: "Medium"
 creature-type: "Humanoid"
 subtypes:
   - "Aquatic"
-hit-dice: "1d8+2 (6 hp)"
+hit-dice: "1d10+2 (7 hp)"
 initiative: "+1"
 speed: "5 ft. (1 square), swim 50 ft."
 armor-class: "13 (+1 Dex, +2 leather), touch 11, flat-footed 12"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
   - Merfolk, 1st-Level Warrior  
     Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|Aquatic]])
-  - **Hit Dice**: 1d8+2 (6 hp)
+  - **Hit Dice**: 1d10+2 (7 hp)
   - **Initiative**: +1
   - **Speed**: 5 ft. (1 square), swim 50 ft.
   - **Armor Class**: 13 (+1 Dex, +2 leather), touch 11, flat-footed 12

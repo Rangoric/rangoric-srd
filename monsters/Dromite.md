@@ -5,7 +5,7 @@ size: "Small"
 creature-type: "Monstrous Humanoid"
 subtypes:
   - "Psionic"
-hit-dice: "1d8+1 (5 hp)"
+hit-dice: "1d10+1 (6 hp)"
 initiative: "+0"
 speed: "20 ft. (4 squares)"
 armor-class: "18 (+1 size, +3 natural armor, +3 studded leather, +1 light shield), touch 11, flat-footed 18"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 Dromite, 1st-Level Warrior      
 Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Psionic)     
-**Hit Dice:** 1d8+1 (5 hp)     
+**Hit Dice:** 1d10+1 (6 hp)     
 **Initiative:** +0     
 **Speed:** 20 ft. (4 squares)     
 **Armor Class:** 18 (+1 size, +3 natural armor, +3 studded leather, +1 light shield), touch 11, flat-footed 18     

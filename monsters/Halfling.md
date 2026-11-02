@@ -5,7 +5,7 @@ size: "Small"
 creature-type: "Humanoid"
 subtypes:
   - "Halfling"
-hit-dice: "1d8+1 (5 hp)"
+hit-dice: "1d10+1 (6 hp)"
 initiative: "+1"
 speed: "20 ft. (4 squares)"
 armor-class: "16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat-footed 15"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
   - Halfling, 1st-Level Warrior  
     Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Halfling)
-  - **Hit Dice**: 1d8+1 (5 hp)
+  - **Hit Dice**: 1d10+1 (6 hp)
   - **Initiative**: +1
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat-footed 15

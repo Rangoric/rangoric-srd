@@ -5,7 +5,7 @@ size: "Medium"
 creature-type: "Humanoid"
 subtypes:
   - "Goblinoid"
-hit-dice: "1d8+2 (6 hp)"
+hit-dice: "1d10+2 (7 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
   - Hobgoblin, 1st-Level Warrior  
     Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|Goblinoid]])
-  - **Hit Dice**: 1d8+2 (6 hp)
+  - **Hit Dice**: 1d10+2 (7 hp)
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14
