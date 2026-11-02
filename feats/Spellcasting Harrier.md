@@ -1,14 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Epic"
 based-on:
   - "[[fantasy srd 3.5/feats/Spellcasting Harrier|Spellcasting Harrier (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, fighter-bonus, epic]
 ---
 
 # Spellcasting Harrier

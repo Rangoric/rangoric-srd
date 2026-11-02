@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 19, Point Blank Shot, Precise Shot, base attack bonus +11."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Improved Precise Shot|Improved Precise Shot (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, fighter-bonus]
 ---
 
 # Improved Precise Shot

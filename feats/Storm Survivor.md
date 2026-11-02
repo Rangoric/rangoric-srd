@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Nature 2 ranks, Fieldcraft 2 ranks."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Storm Survivor|Storm Survivor (PF1)]]"
 status: draft

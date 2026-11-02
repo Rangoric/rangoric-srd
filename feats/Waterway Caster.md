@@ -1,8 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Waterway Caster|Waterway Caster (PF1)]]"
 status: draft

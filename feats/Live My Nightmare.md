@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Exposure to phantasmal killer spell."
-feat-type:
-  - "Spelltouched"
 based-on:
   - "[[fantasy srd 3.5/feats/Live My Nightmare|Live My Nightmare (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, spelltouched]
 ---
 
 # Live My Nightmare

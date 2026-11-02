@@ -1,8 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Blindsight,5-Ft.radius|Blindsight,5-Ft.radius (3.5)]]"
 status: draft

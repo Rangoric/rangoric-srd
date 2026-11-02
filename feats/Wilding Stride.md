@@ -2,8 +2,6 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Con 13, Wilding."
-feat-type:
-  - "General"
 based-on:
   - "[[path srd 3.5 foundry/feats/Wilding Stride|Wilding Stride (PF1)]]"
 status: draft

@@ -2,12 +2,10 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Dex 13, three or more hands."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Multiweapon Fighting|Multiweapon Fighting (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat]
 ---

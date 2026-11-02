@@ -2,12 +2,10 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Endurance."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Diehard|Diehard (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/feat]
 ---

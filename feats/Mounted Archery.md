@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Animal Handling 1 rank, Mounted Combat."
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Mounted Archery|Mounted Archery (3.5)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, fighter-bonus]
 ---
 
 # Mounted Archery

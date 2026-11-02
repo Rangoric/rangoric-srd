@@ -1,14 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Item Creation"
 based-on:
   - "[[fantasy srd 3.5/feats/Imprint Stone|Imprint Stone (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, item-creation]
 ---
 
 # Imprint Stone

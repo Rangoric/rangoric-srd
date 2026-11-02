@@ -7,17 +7,104 @@ views:
     name: "All feats"
     order:
       - file.name
-      - note.feat-type
+      - note.tags
       - note.prerequisites
-      - note.source
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "By type"
-    groupBy:
-      property: note.feat-type
-      direction: ASC
+    name: "fighter-bonus"
+    filters:
+      and:
+        - file.hasTag("fighter-bonus")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "item-creation"
+    filters:
+      and:
+        - file.hasTag("item-creation")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "metamagic"
+    filters:
+      and:
+        - file.hasTag("metamagic")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "epic"
+    filters:
+      and:
+        - file.hasTag("epic")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "divine"
+    filters:
+      and:
+        - file.hasTag("divine")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "wild"
+    filters:
+      and:
+        - file.hasTag("wild")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "psionic"
+    filters:
+      and:
+        - file.hasTag("psionic")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "metapsionic"
+    filters:
+      and:
+        - file.hasTag("metapsionic")
+    order:
+      - file.name
+      - note.prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "spelltouched"
+    filters:
+      and:
+        - file.hasTag("spelltouched")
     order:
       - file.name
       - note.prerequisites

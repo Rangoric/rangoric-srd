@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Exposure to scrying or greater scrying spell."
-feat-type:
-  - "Spelltouched"
 based-on:
   - "[[fantasy srd 3.5/feats/Eyes to the Sky|Eyes to the Sky (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, spelltouched]
 ---
 
 # Eyes to the Sky

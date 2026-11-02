@@ -1,15 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Epic"
-  - "Psionic"
 based-on:
   - "[[fantasy srd 3.5/feats/Improved Metapsionics|Improved Metapsionics (3.5)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, epic, psionic]
 ---
 
 # Improved Metapsionics

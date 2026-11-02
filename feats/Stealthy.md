@@ -1,8 +1,6 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "General"
 based-on:
   - "[[fantasy srd 3.5/feats/Stealthy|Stealthy (3.5)]]"
 replaced-by: "[[rangoric-srd/feats/Skill Focus|Skill Focus (Stealth)]]"

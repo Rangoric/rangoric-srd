@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Feats"
 based-on:
   - "[[fantasy srd 3.5/feats/Feats Overview|Feats Overview (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -21,9 +21,11 @@ A character can’t use a feat if he or she has lost a prerequisite.
 
 Some feats are general, meaning that no special rules govern them as a group. Others are item creation feats, which allow spellcasters to create magic items of all sorts. A metamagic feat lets a spellcaster prepare and cast a spell with greater effect, albeit as if the spell were a higher spell level than it actually is.
 
+A feat's type is a [[rangoric-srd/Tag Register|tag]] on its note, such as *fighter-bonus* or *metamagic*. General feats have no type tag. Epic, divine and wild feats are described in [[rangoric-srd/epic/Epic Feats#Types of Epic Feats|Epic Feats]], psionic and metapsionic feats in [[rangoric-srd/psionics/Psionic Feats|Psionic Feats]], and spelltouched feats in [[rangoric-srd/unearthed-arcana/Spelltouched Feats|Spelltouched Feats]].
+
 ##### Fighter Bonus Feats
 
-Any feat designated as a fighter feat can be selected as a fighter’s bonus feat. This designation does not restrict characters of other classes from selecting these feats, assuming that they meet any prerequisites.
+Any feat with the tag *fighter-bonus* can be selected as a fighter’s bonus feat. This designation does not restrict characters of other classes from selecting these feats, assuming that they meet any prerequisites.
 
 ##### Item Creation Feats
 

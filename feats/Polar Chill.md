@@ -2,14 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Exposure to cone of cold or ice storm spell."
-feat-type:
-  - "Spelltouched"
 based-on:
   - "[[fantasy srd 3.5/feats/Polar Chill|Polar Chill (3.5)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, spelltouched]
 ---
 
 # Polar Chill

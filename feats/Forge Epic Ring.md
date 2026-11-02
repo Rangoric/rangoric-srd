@@ -1,15 +1,12 @@
 ---
 srd-type: "feat"
 section: "Feats"
-feat-type:
-  - "Item Creation"
-  - "Epic"
 based-on:
   - "[[fantasy srd 3.5/feats/Forge Epic Ring|Forge Epic Ring (3.5)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, item-creation, epic]
 ---
 
 # Forge Epic Ring
