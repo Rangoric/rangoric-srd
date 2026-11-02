@@ -2,6 +2,7 @@
 srd-type: "feat"
 section: "Feats"
 based-on:
+  - "[[path srd 3.5/feats/Improved Disarm|Improved Disarm (PF1)]]"
   - "[[fantasy srd 3.5/feats/Improved Disarm|Improved Disarm (3.5)]]"
 status: draft
 change: modified
@@ -11,10 +12,10 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 # Improved Disarm
 
-Prerequisites: Int 13, Combat Expertise.
+**Prerequisites**: Int 13, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]].
 
-**Benefit**: You do not provoke an attack of opportunity when you attempt to disarm an opponent, nor does the opponent have a chance to disarm you. You also gain a +4 bonus on the opposed attack roll you make to disarm your opponent.
+**Benefit**: You don’t provoke an attack of opportunity when you attempt a [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]]. You gain a +2 bonus on checks to disarm a foe, and a +2 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] when an opponent tries to disarm you. If your disarm attempt fails by 10 or more, you don’t drop your weapon.
 
-**Normal**: See the normal disarm rules.
+**Normal**: You provoke an attack of opportunity when you attempt a disarm combat maneuver.
 
-A monk may select Improved Disarm as a bonus feat at 6th level, even if she does not meet the prerequisites.
+**Special**: A monk may select Improved Disarm as a bonus feat at 6th level, even if she does not meet the prerequisites.

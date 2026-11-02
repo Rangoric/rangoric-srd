@@ -3,6 +3,7 @@ srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise."
 based-on:
+  - "[[path srd 3.5/feats/Improved Trip|Improved Trip (PF1)]]"
   - "[[fantasy srd 3.5/feats/Improved Trip|Improved Trip (3.5)]]"
 status: draft
 change: modified
@@ -12,12 +13,10 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 # Improved Trip
 
-**Prerequisites**: Int 13, Combat Expertise.
+**Prerequisites**: Int 13, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]].
 
-**Benefit**: You do not provoke an attack of opportunity when you attempt to trip an opponent while you are unarmed. You also gain a +4 bonus on your Strength check to trip your opponent.
+**Benefit**: You don’t provoke an attack of opportunity when you attempt a [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]]. You gain a +2 bonus on checks to trip a foe, and a +2 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] when an opponent tries to trip you. If you trip an opponent in melee, you immediately get a melee attack against it, as if you hadn’t used your attack for the trip.
 
-If you trip an opponent in melee combat, you immediately get a melee attack against that opponent as if you hadn’t used your attack for the trip attempt.
-
-**Normal**: Without this feat, you provoke an attack of opportunity when you attempt to trip an opponent while you are unarmed.
+**Normal**: You provoke an attack of opportunity when you attempt a trip combat maneuver.
 
 **Special**: At 6th level, a monk may select Improved Trip as a bonus feat, even if she does not have the prerequisites.

@@ -1,8 +1,9 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Str 13, Power Attack."
+prerequisites: "Str 13, Power Attack, base attack bonus +1."
 based-on:
+  - "[[path srd 3.5/feats/Improved Sunder|Improved Sunder (PF1)]]"
   - "[[fantasy srd 3.5/feats/Improved Sunder|Improved Sunder (3.5)]]"
 status: draft
 change: modified
@@ -12,10 +13,8 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 # Improved Sunder
 
-**Prerequisites**: Str 13, Power Attack.
+**Prerequisites**: Str 13, [[rangoric-srd/feats/Power Attack|Power Attack]], base attack bonus +1.
 
-**Benefit**: When you strike at an object held or carried by an opponent (such as a weapon or shield), you do not provoke an attack of opportunity (see Sunder, page 158).
+**Benefit**: You don’t provoke an attack of opportunity when you attempt a [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]]. You gain a +2 bonus on checks to sunder an item, and a +2 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] when an opponent tries to sunder your gear.
 
-You also gain a +4 bonus on any attack roll made to attack an object held or carried by another character.
-
-**Normal**: Without this feat, you provoke an attack of opportunity when you strike at an object held or carried by another character.
+**Normal**: You provoke an attack of opportunity when you attempt a sunder combat maneuver.

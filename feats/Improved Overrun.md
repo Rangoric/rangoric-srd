@@ -1,8 +1,9 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Str 13, Power Attack."
+prerequisites: "Str 13, Power Attack, base attack bonus +1."
 based-on:
+  - "[[path srd 3.5/feats/Improved Overrun|Improved Overrun (PF1)]]"
   - "[[fantasy srd 3.5/feats/Improved Overrun|Improved Overrun (3.5)]]"
 status: draft
 change: modified
@@ -12,8 +13,8 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 # Improved Overrun
 
-**Prerequisites**: Str 13, Power Attack.
+**Prerequisites**: Str 13, [[rangoric-srd/feats/Power Attack|Power Attack]], base attack bonus +1.
 
-**Benefit**: When you attempt to overrun an opponent, the target may not choose to avoid you. You also gain a +4 bonus on your Strength check to knock down your opponent.
+**Benefit**: You don’t provoke an attack of opportunity when you attempt a [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]]. You gain a +2 bonus on checks to overrun a foe, and a +2 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] when an opponent tries to overrun you. Targets of your overrun can’t choose to avoid you.
 
-**Normal**: Without this feat, the target of an overrun can choose to avoid you or to block you.
+**Normal**: You provoke an attack of opportunity when you attempt a overrun combat maneuver.
