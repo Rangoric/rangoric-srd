@@ -13,8 +13,8 @@ initiative: "+11 (+7 Dex. +4 Improved Initiative)"
 speed: "140 ft."
 armor-class: "58 (-8 size, +1 Dex, +55 natural)"
 base-attack: "+72"
-cmb: "+108"
-cmd: "120"
+cmb: "+108 (+110 sunder)"
+cmd: "120 (122 vs. sunder)"
 attack: "Claw +95 (2d8+28/19-20) melee"
 full-attack: "2 claws +95 (2d8+28/19-20) melee, bite +89 (4d6+14) melee, stamp +89 (4d6+14) melee"
 space-reach: "50 ft./50 ft."
@@ -48,7 +48,7 @@ Hit Dice: 72d8+1,080 (1,676 hp)    
 Initiative: +11 (+7 Dex. +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 140 ft.      
 AC: 58 (-8 size, +1 Dex, +55 natural)      
-Base Attack: +72; CMB: +108; CMD: 120     
+Base Attack: +72; CMB: +108 (+110 sunder); CMD: 120 (122 vs. sunder)     
 Attack: Claw +95 (2d8+28/19-20) melee     
 Full Attack: 2 claws +95 (2d8+28/19-20) melee, bite +89 (4d6+14) melee, stamp +89 (4d6+14) melee      
 Space/Reach: 50 ft./50 ft.      

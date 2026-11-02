@@ -11,8 +11,8 @@ initiative: "+5"
 speed: "30 ft. in +2 full plate armor (6 squares); base speed 40 ft."
 armor-class: "29 (-1 size, +1 Dex, +9 natural, +10 +2 full plate armor) touch 10, flat-footed 28"
 base-attack: "+18"
-cmb: "+30"
-cmd: "41"
+cmb: "+30 (+32 sunder)"
+cmd: "41 (43 vs. sunder)"
 attack: "+2 frost greataxe +30 melee (3d6+18/×3 plus 1d6 cold) or slam +28 melee (1d4+11) or rock +18 ranged (2d6+11)"
 full-attack: "+2 frost greataxe +30/+25/+20/+15 melee (3d6+18/×3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11)"
 space-reach: "10 ft./10 ft."
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +5
   - **Speed**: 30 ft. in +2 full plate armor (6 squares); base speed 40 ft.
   - **Armor Class**: 29 (-1 size, +1 Dex, +9 natural, +10 +2 full plate armor) touch 10, flat-footed 28
-  - **Base Attack**: +18; **CMB**: +30; **CMD**: 41
+  - **Base Attack**: +18; **CMB**: +30 (+32 sunder); **CMD**: 41 (43 vs. sunder)
   - **Attack**: +2 frost greataxe +30 melee (3d6+18/×3 plus 1d6 cold) or slam +28 melee (1d4+11) or rock +18 ranged (2d6+11)
   - **Full Attack**: +2 frost greataxe +30/+25/+20/+15 melee (3d6+18/×3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11)
   - **Space/Reach**: 10 ft./10 ft.

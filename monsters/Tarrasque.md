@@ -8,8 +8,8 @@ initiative: "+7"
 speed: "20 ft. (4 squares)"
 armor-class: "35 (–8 size, +3 Dex, +30 natural), touch 5, flat-footed 32"
 base-attack: "+48"
-cmb: "+73 (+77 grapple)"
-cmd: "87"
+cmb: "+73 (+75 bull rush, +77 grapple)"
+cmd: "87 (89 vs. bull rush)"
 attack: "Bite +57 melee (4d8+17/18–20/x3)"
 full-attack: "Bite +57 melee (4d8+17/18–20/x3) and 2 horns +52 melee (1d10+8) and 2 claws +52 melee (1d12+8) and tail slap +52 melee (3d8+8)"
 space-reach: "30 ft./20 ft."
@@ -42,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 35 (–8 size, +3 Dex, +30 natural), touch 5, flat-footed 32
-  - **Base Attack**: +48; **CMB**: +73 (+77 grapple); **CMD**: 87
+  - **Base Attack**: +48; **CMB**: +73 (+75 bull rush, +77 grapple); **CMD**: 87 (89 vs. bull rush)
   - **Attack**: Bite +57 melee (4d8+17/18–20/x3)
   - **Full Attack**: Bite +57 melee (4d8+17/18–20/x3) and 2 horns +52 melee (1d10+8) and 2 claws +52 melee (1d12+8) and tail slap +52 melee (3d8+8)
   - **Space/Reach**: 30 ft./20 ft.

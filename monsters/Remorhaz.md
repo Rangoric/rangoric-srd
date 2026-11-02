@@ -8,8 +8,8 @@ initiative: "+1"
 speed: "30 ft. (6 squares), burrow 20 ft."
 armor-class: "20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19"
 base-attack: "+7"
-cmb: "+17 (+21 grapple)"
-cmd: "28 (can't be tripped)"
+cmb: "+17 (+19 bull rush, +21 grapple)"
+cmd: "28 (30 vs. bull rush, can't be tripped)"
 attack: "Bite +13 melee (2d8+12)"
 full-attack: "Bite +13 melee (2d8+12)"
 space-reach: "15 ft./10 ft."
@@ -42,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares), burrow 20 ft.
   - **Armor Class**: 20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +17 (+21 grapple); **CMD**: 28 (can't be tripped)
+  - **Base Attack**: +7; **CMB**: +17 (+19 bull rush, +21 grapple); **CMD**: 28 (30 vs. bull rush, can't be tripped)
   - **Attack**: Bite +13 melee (2d8+12)
   - **Full Attack**: Bite +13 melee (2d8+12)
   - **Space/Reach**: 15 ft./10 ft.

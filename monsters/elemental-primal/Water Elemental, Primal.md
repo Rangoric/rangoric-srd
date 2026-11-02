@@ -12,8 +12,8 @@ initiative: "+14 (Dex)"
 speed: "20 ft., swim 90 ft."
 armor-class: "64 (-8 size, +14 Dex, +48 natural)"
 base-attack: "+48"
-cmb: "+72"
-cmd: "97"
+cmb: "+72 (+74 sunder)"
+cmd: "97 (99 vs. sunder)"
 attack: "Slam +57 (4d10+24/19-20)"
 full-attack: "2 slam +57 (4d10+24/19-20)"
 space-reach: "30 ft./30 ft."
@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +14 (Dex)
   - **Speed**: 20 ft., swim 90 ft.
   - **Armor Class**: 64 (-8 size, +14 Dex, +48 natural)
-  - **Base Attack**: +48; **CMB**: +72; **CMD**: 97
+  - **Base Attack**: +48; **CMB**: +72 (+74 sunder); **CMD**: 97 (99 vs. sunder)
   - **Attack**: Slam +57 (4d10+24/19-20)
   - **Full Attack**: 2 slam +57 (4d10+24/19-20)
   - **Space/Reach**: 30 ft./30 ft.

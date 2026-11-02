@@ -10,7 +10,7 @@ initiative: "+4"
 speed: "Swim 20 ft. (4 squares)"
 armor-class: "20 (–4 size, +14 natural), touch 6, flat-footed 20"
 base-attack: "+20"
-cmb: "+36 (+40 grapple)"
+cmb: "+36 (+40 grapple, +38 trip)"
 cmd: "46 (can't be tripped)"
 attack: "Tentacle +28 melee (2d8+12/19–20)"
 full-attack: "2 tentacles +28 melee (2d8+12/19–20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6)"
@@ -44,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: Swim 20 ft. (4 squares)
   - **Armor Class**: 20 (–4 size, +14 natural), touch 6, flat-footed 20
-  - **Base Attack**: +20; **CMB**: +36 (+40 grapple); **CMD**: 46 (can't be tripped)
+  - **Base Attack**: +20; **CMB**: +36 (+40 grapple, +38 trip); **CMD**: 46 (can't be tripped)
   - **Attack**: Tentacle +28 melee (2d8+12/19–20)
   - **Full Attack**: 2 tentacles +28 melee (2d8+12/19–20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6)
   - **Space/Reach**: 20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm)

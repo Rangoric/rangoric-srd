@@ -13,8 +13,8 @@ initiative: "+6"
 speed: "30 ft. (6 squares)"
 armor-class: "29 (+6 Dex, +13 natural) touch 16, flat-footed 23"
 base-attack: "+12"
-cmb: "+18 (+26 grapple)"
-cmd: "34"
+cmb: "+18 (+24 grapple)"
+cmd: "34 (36 vs. grapple)"
 attack: "Claw +18 melee (2d8+6 plus fear)"
 full-attack: "2 claws +18 melee (2d8+6 plus fear)"
 space-reach: "5 ft./5 ft."
@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 29 (+6 Dex, +13 natural) touch 16, flat-footed 23
-  - **Base Attack**: +12; **CMB**: +18 (+26 grapple); **CMD**: 34
+  - **Base Attack**: +12; **CMB**: +18 (+24 grapple); **CMD**: 34 (36 vs. grapple)
   - **Attack**: Claw +18 melee (2d8+6 plus fear)
   - **Full Attack**: 2 claws +18 melee (2d8+6 plus fear)
   - **Space/Reach**: 5 ft./5 ft.

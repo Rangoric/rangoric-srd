@@ -8,8 +8,8 @@ initiative: "+11 (+7 Dex, +4 Improved Initiative)"
 speed: "50 ft., fly 90 ft. (perfect)"
 armor-class: "40 (+3 Dex, -1 size, +24 natural)"
 base-attack: "+31"
-cmb: "+44"
-cmd: "62"
+cmb: "+44 (+46 bull rush)"
+cmd: "62 (64 vs. bull rush)"
 attack: "Sting +43 (1d6+12/19-20 plus poison) melee"
 full-attack: "Sting +43 (1d6+12/19-20 plus poison) melee, 4 pincers +41 (2d8+6/19-20) melee, bite +40 (3d6+6 plus poison) melee"
 space-reach: "5 ft./5 ft."
@@ -43,7 +43,7 @@ Hit Dice: 42d8+546 (735 hp)    
 Initiative: +11 (+7 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])     
 Speed: 50 ft., fly 90 ft. (perfect)      
 AC: 40 (+3 Dex, -1 size, +24 natural)      
-Base Attack: +31; CMB: +44; CMD: 62     
+Base Attack: +31; CMB: +44 (+46 bull rush); CMD: 62 (64 vs. bull rush)     
 Attack: Sting +43 (1d6+12/19-20 plus poison) melee     
 Full Attack: Sting +43 (1d6+12/19-20 plus poison) melee, 4 pincers +41 (2d8+6/19-20) melee, bite +40 (3d6+6 plus poison) melee     
 Space/Reach: 5 ft./5 ft.     

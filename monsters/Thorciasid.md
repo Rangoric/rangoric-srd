@@ -8,8 +8,8 @@ initiative: "+22 (+14 Dex, +8 Superior Initiative)"
 speed: "70 ft."
 armor-class: "42 (+14 Dex, +18 natural)"
 base-attack: "+21"
-cmb: "+27"
-cmd: "52 (can't be tripped)"
+cmb: "+27 (+29 disarm)"
+cmd: "52 (54 vs. disarm, can't be tripped)"
 attack: "Forelimb +36 (0 plus ability drain) melee touch"
 full-attack: "2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch"
 space-reach: "5 ft./5 ft."
@@ -43,7 +43,7 @@ Hit Dice: 29d8+348 (478 hp)    
 Initiative: +22 (+14 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 70 ft.      
 AC: 42 (+14 Dex, +18 natural)      
-Base Attack: +21; CMB: +27; CMD: 52 (can't be tripped)     
+Base Attack: +21; CMB: +27 (+29 disarm); CMD: 52 (54 vs. disarm, can't be tripped)     
 Attack: Forelimb +36 (0 plus ability drain) melee touch     
 Full Attack: 2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch     
 Space/Reach: 5 ft./5 ft.      

@@ -11,8 +11,8 @@ initiative: "-1"
 speed: "40 ft. (8 squares)"
 armor-class: "21 (-1 size, -1 Dex, +9 natural, +4 chain shirt) touch 8, flat-footed 21"
 base-attack: "+10"
-cmb: "+20"
-cmd: "29"
+cmb: "+20 (+22 overrun, +22 sunder)"
+cmd: "29 (31 vs. overrun and sunder)"
 attack: "Greataxe +18 melee (3d6+13/x3) or slam +18 melee (1d4+9) or rock +9 ranged (2d6+9)"
 full-attack: "Huge greataxe +18/+13 melee (3d6+13/x3) or 2 slams +18 melee (1d4+9) or rock +9 ranged (2d6+9)"
 space-reach: "10 ft./10 ft."
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: -1
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 21 (-1 size, -1 Dex, +9 natural, +4 chain shirt) touch 8, flat-footed 21
-  - **Base Attack**: +10; **CMB**: +20; **CMD**: 29
+  - **Base Attack**: +10; **CMB**: +20 (+22 overrun, +22 sunder); **CMD**: 29 (31 vs. overrun and sunder)
   - **Attack**: Greataxe +18 melee (3d6+13/x3) or slam +18 melee (1d4+9) or rock +9 ranged (2d6+9)
   - **Full Attack**: Huge greataxe +18/+13 melee (3d6+13/x3) or 2 slams +18 melee (1d4+9) or rock +9 ranged (2d6+9)
   - **Space/Reach**: 10 ft./10 ft.

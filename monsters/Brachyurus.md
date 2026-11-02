@@ -8,8 +8,8 @@ initiative: "+18 (+14 Dex, +4 Improved Initiative)"
 speed: "80 ft."
 armor-class: "40 (+14 Dex, -1 size, +17 natural)"
 base-attack: "+38"
-cmb: "+49"
-cmd: "73 (77 vs. trip)"
+cmb: "+49 (+51 bull rush, +51 trip)"
+cmd: "73 (75 vs. bull rush, 79 vs. trip)"
 attack: "Claw +48 (2d6+10/19-20) melee"
 full-attack: "2 claws +48 (2d6+10/19-20) melee, 1 bite +46 (3d6+5/19-20) melee"
 space-reach: "10 ft./5 ft."
@@ -43,7 +43,7 @@ Hit Dice: 38d10+684 (893 hp)    
 Initiative: +18 (+14 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 80 ft.      
 AC: 40 (+14 Dex, -1 size, +17 natural)      
-Base Attack: +38; CMB: +49; CMD: 73 (77 vs. trip)      
+Base Attack: +38; CMB: +49 (+51 bull rush, +51 trip); CMD: 73 (75 vs. bull rush, 79 vs. trip)      
 Attack: Claw +48 (2d6+10/19-20) melee     
 Full Attack: 2 claws +48 (2d6+10/19-20) melee, 1 bite +46 (3d6+5/19-20) melee     
 Space/Reach: 10 ft./5 ft.      
