@@ -2,11 +2,12 @@
 srd-type: "overview"
 section: "Spells"
 based-on:
+  - "[[path srd 3.5/rules/core-rulebook/magic/Spell Descriptions#Polymorph|Spell Descriptions (PF1)]]"
   - "[[fantasy srd 3.5/spells/Schools of Magic|Schools of Magic (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-02
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -113,3 +114,115 @@ Necromancy spells manipulate the power of death, unlife, and the life force. Spe
 ###### Transmutation
 
 Transmutation spells change the properties of some creature, thing, or condition.
+
+**Polymorph**: These rules, from Pathfinder, are for spells of the polymorph subschool, such as [[rangoric-srd/spells/Beast Shape I|beast shape]], [[rangoric-srd/spells/Elemental Body I|elemental body]] and [[rangoric-srd/spells/Form of the Dragon I|form of the dragon]]. The 3.5 shape-changing spells (such as [[rangoric-srd/spells/Alter Self|alter self]], [[rangoric-srd/spells/Polymorph|polymorph]] and [[rangoric-srd/spells/Shapechange|shapechange]]) have no subschool and work as each one says. ^polymorph
+
+A polymorph spell transforms your physical body to take on the shape of another creature. While these spells make you appear to be the creature, granting you a +10 bonus on Imitation checks, they do not grant you all of the abilities and powers of the creature. Each polymorph spell allows you to assume the form of a creature of a specific type, granting you a number of bonuses to your ability scores and a bonus to your natural armor. In addition, each polymorph spell can grant you a number of other benefits, including movement types, resistances, and senses. If the form you choose grants these benefits, or a greater ability of the same type, you gain the listed benefit. If the form grants a lesser ability of the same type, you gain the lesser ability instead. Your base speed changes to match that of the form you assume. If the form grants a swim or burrow speed, you maintain the ability to breathe if you are swimming or burrowing. The DC for any of these abilities equals your DC for the polymorph spell used to change you into that form.
+
+In addition to these benefits, you gain any of the natural attacks of the base creature, including proficiency in those attacks. These attacks are based on your base attack bonus, modified by your Strength or Dexterity as appropriate, and use your Strength modifier for determining damage bonuses.
+
+If a polymorph spell causes you to change size, apply the size modifiers appropriately, changing your armor class, attack bonus, Combat Maneuver Bonus, and Stealth modifiers. Your ability scores are not modified by this change unless noted by the spell.
+
+Unless otherwise noted, polymorph spells cannot be used to change into specific individuals. Although many of the fine details can be controlled, your appearance is always that of a generic member of that creature's type. Polymorph spells cannot be used to assume the form of a creature with a template or an advanced version of a creature.
+
+When you cast a polymorph spell that changes you into a creature of the animal, dragon, elemental, magical beast, plant, or vermin type, all of your gear melds into your body. Items that provide constant bonuses and do not need to be activated continue to function while melded in this way (with the exception of armor and shield bonuses, which cease to function). Items that require activation cannot be used while you maintain that form. While in such a form, you cannot cast any spells that require material components (unless you have the Eschew Materials or Natural Spell feat), and can only cast spells with somatic or verbal components if the form you choose has the capability to make such movements or speak, such as a dragon. Other polymorph spells might be subject to this restriction as well, if they change you into a form that is unlike your original form (subject to GM discretion). If your new form does not cause your equipment to meld into your form, the equipment resizes to match your new size.
+
+While under the effects of a polymorph spell, you lose all extraordinary and supernatural abilities that depend on your original form (such as keen senses, scent, and darkvision), as well as any natural attacks and movement types possessed by your original form. You also lose any class features that depend upon form, but those that allow you to add features (such as sorcerers that can grow claws) still function. While most of these should be obvious, the GM is the final arbiter of what abilities depend on form and are lost when a new form is assumed. Your new form might restore a number of these abilities if they are possessed by the new form.
+
+You can only be affected by one polymorph spell at a time. If a new polymorph spell is cast on you (or you activate a polymorph effect, such as wild shape), you can decide whether or not to allow it to affect you, taking the place of the old spell. In addition, other spells that change your size have no effect on you while you are under the effects of a polymorph spell.
+
+If a polymorph spell is cast on a creature that is smaller than Small or larger than Medium, first adjust its ability scores to one of these two sizes using the following table before applying the bonuses granted by the polymorph spell.
+
+| Creature's Original Size | Str | Dex | Con | Adjusted Size |
+|--------------------------|-----|-----|-----|---------------|
+| Fine                     | +6  | –6  | —   | Small         |
+| Diminutive               | +6  | –4  | —   | Small         |
+| Tiny                     | +4  | –2  | —   | Small         |
+| Large                    | –4  | +2  | –2  | Medium        |
+| Huge                     | –8  | +4  | –4  | Medium        |
+| Gargantuan               | –12 | +4  | –6  | Medium        |
+| Colossal                 | –16 | +4  | –8  | Medium        |
+
+## \[Descriptor\]
+
+Appearing on the same line as the school and subschool, when applicable, is a descriptor that further categorizes the spell in some way. Some spells have more than one descriptor.
+
+The descriptors are acid, air, chaotic, cold, darkness, death, earth, electricity, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, sonic, and water.
+
+Most of these descriptors have no game effect by themselves, but they govern how the spell interacts with other spells, with special abilities, with unusual creatures, with alignment, and so on.
+
+A language-dependent spell uses intelligible language as a medium for communication. If the target cannot understand or cannot hear what the caster of a language-dependent spell says, the spell fails.
+
+A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
+
+**Level**: The next line of a spell description gives the spell's level, a number between 0 and 9 that defines the spell's relative power. This number is preceded by a list of classes whose members can cast the spell. A spell's level affects the DC for any save allowed against its effects.
+
+## Components
+
+A spell's components explain what you must do or possess to cast the spell. The components entry in a spell description includes abbreviations that tell you what type of components it requires. Specifics for material and focus components are given at the end of the descriptive text. Usually you don't need to worry about components, but when you can't use a component for some reason or when a material or focus component is expensive, then the components are important.
+
+**Verbal**: A verbal component is a spoken incantation. To provide a verbal component, you must be able to speak in a strong voice. A *[[rangoric-srd/spells/Silence|silence]]* spell or a gag spoils the incantation (and thus the spell). A spellcaster who has been deafened has a 20% chance of spoiling any spell with a verbal component that he tries to cast.
+
+**Somatic**: A somatic component is a measured and precise movement of the hand. You must have at least one hand free to provide a somatic component.
+
+**Material**: A material component consists of one or more physical substances or objects that are annihilated by the spell energies in the casting process. Unless a cost is given for a material component, the cost is negligible. Don't bother to keep track of material components with negligible cost. Assume you have all you need as long as you have your spell component pouch.
+
+**Focus**: A focus component is a prop of some sort. Unlike a material component, a focus is not consumed when the spell is cast and can be reused. As with material components, the cost for a focus is negligible unless a price is given. Assume that focus components of negligible cost are in your spell component pouch.
+
+### Divine Focus
+
+A divine focus component is an item of spiritual significance. The divine focus for a cleric or a paladin is a holy symbol appropriate to the character's faith. The divine focus for a druid or a ranger is a sprig of holly, or some other sacred plant.
+
+If the Components line includes F/DF or M/DF, the arcane version of the spell has a focus component or a material component (the abbreviation before the slash) and the divine version has a divine focus component (the abbreviation after the slash).
+
+## Casting Time
+
+Most spells have a casting time of 1 standard action. Others take 1 round or more, while a few require only a swift action.
+
+A spell that takes 1 round to cast is a full-round action. It comes into effect just before the beginning of your turn in the round after you began casting the spell. You then act normally after the spell is completed.
+
+A spell that takes 1 minute to cast comes into effect just before your turn 1 minute later (and for each of those 10 rounds, you are casting a spell as a full-round action, just as noted above for 1-round casting times). These actions must be consecutive and uninterrupted, or the spell automatically fails.
+
+When you begin a spell that takes 1 round or longer to cast, you must continue the concentration from the current round to just before your turn in the next round (at least). If you lose concentration before the casting is complete, you lose the spell.
+
+A spell with a casting time of 1 swift action doesn't count against your normal limit of one spell per round. However, you may cast such a spell only once per round. Casting a spell with a casting time of 1 swift action doesn't provoke attacks of opportunity.
+
+You make all pertinent decisions about a spell (range, target, area, effect, version, and so forth) when the spell comes into effect.
+
+## Range
+
+A spell's range indicates how far from you it can reach, as defined in the range entry of the spell description. A spell's range is the maximum distance from you that the spell's effect can occur, as well as the maximum distance at which you can designate the spell's point of origin. If any portion of the spell's area would extend beyond this range, that area is wasted. Standard ranges include the following.
+
+**Personal**: The spell affects only you.
+
+**Touch**: You must touch a creature or object to affect it. A touch spell that deals damage can score a critical hit just as a weapon can. A touch spell threatens a critical hit on a natural roll of 20 and deals double damage on a successful critical hit. Some touch spells allow you to touch multiple targets. You can touch up to 6 willing targets as part of the casting, but all targets of the spell must be touched in the same round that you finish casting the spell. If the spell allows you to touch targets over multiple rounds, touching 6 creatures is a full-round action.
+
+**Close**: The spell reaches as far as 25 feet away from you. The maximum range increases by 5 feet for every two full caster levels.
+
+**Medium**: The spell reaches as far as 100 feet + 10 feet per caster level.
+
+**Long**: The spell reaches as far as 400 feet + 40 feet per caster level.
+
+**Unlimited**: The spell reaches anywhere on the same plane of existence.
+
+**Range Expressed in Feet**: Some spells have no standard range category, just a range expressed in feet.
+
+## Aiming a Spell
+
+You must make choices about whom a spell is to affect or where an effect is to originate, depending on a spell's type. The next entry in a spell description defines the spell's target (or targets), its effect, or its area, as appropriate.
+
+### Target or Targets
+
+Some spells have a target or targets. You cast these spells on creatures or objects, as defined by the spell itself. You must be able to see or touch the target, and you must specifically choose that target. You do not have to select your target until you finish casting the spell.
+
+If the target of a spell is yourself (the Target line of the spell description includes “You”), you do not receive a saving throw, and spell resistance does not apply. The saving throw and spell resistance lines are omitted from such spells.
+
+Some spells restrict you to willing targets only. Declaring yourself as a willing target is something that can be done at any time (even if you're flat-footed or it isn't your turn). Unconscious creatures are automatically considered willing, but a character who is conscious but immobile or helpless (such as one who is bound, cowering, grappling, paralyzed, pinned, or stunned) is not automatically willing.
+
+Some spells allow you to redirect the effect to new targets or areas after you cast the spell. Redirecting a spell is a move action that does not provoke attacks of opportunity.
+
+### Effect
+
+Some spells create or summon things rather than affecting things that are already present.
+
+You must designate the location where these things are to appear, either by seeing it or defining it. Range determines how far away an effect can appear, but if the effect is mobile, after it appears it can move regardless of the spell's range.
