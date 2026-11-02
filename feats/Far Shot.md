@@ -15,5 +15,3 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 **Prerequisite**: Point Blank Shot.
 
 **Benefit**: When you use a projectile weapon, such as a bow, its range increment increases by one-half (multiply by 1-1/2). When you use a thrown weapon, its range increment is doubled.
-
-**Special**: A fighter may select Far Shot as one of his fighter bonus feats.

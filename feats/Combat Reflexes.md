@@ -19,6 +19,4 @@ With this feat, you may also make attacks of opportunity while flat-footed.
 
 **Special**: The Combat Reflexes feat does not allow a rogue to use her opportunist ability more than once per round.
 
-A fighter may select Combat Reflexes as one of his fighter bonus feats.
-
 A monk may select Combat Reflexes as a bonus feat at 2nd level.

@@ -19,5 +19,3 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 You also gain a +4 bonus on any attack roll made to attack an object held or carried by another character.
 
 **Normal**: Without this feat, you provoke an attack of opportunity when you strike at an object held or carried by another character.
-
-**Special**: A fighter may select Improved Sunder as one of his fighter bonus feats (see page 38).

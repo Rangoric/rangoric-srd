@@ -21,5 +21,3 @@ Choose one type of weapon for which you have already selected Weapon Focus. You 
 **Special**: You can gain Greater Weapon Focus multiple times. Its effects do not stack. Each time you take the feat, it applies to a new type of weapon.
 
 A fighter must have Greater Weapon Focus with a given weapon to gain the Greater Weapon Specialization feat for that weapon.
-
-A fighter may select Greater Weapon Focus as one of his fighter bonus feats.

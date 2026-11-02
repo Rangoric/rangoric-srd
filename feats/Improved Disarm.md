@@ -17,6 +17,4 @@ Prerequisites: Int 13, Combat Expertise.
 
 **Normal**: See the normal disarm rules.
 
-**Special**: A fighter may select Improved Disarm as one of his fighter bonus feats.
-
 A monk may select Improved Disarm as a bonus feat at 6th level, even if she does not meet the prerequisites.

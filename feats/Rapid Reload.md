@@ -23,5 +23,3 @@ If you have selected this feat for hand crossbow or light crossbow, you may fire
 **Normal**: A character without this feat needs a move action to reload a hand or light crossbow, or a full-round action to reload a heavy crossbow.
 
 **Special**: You can gain Rapid Reload multiple times. Each time you take the feat, it applies to a new type of crossbow.
-
-A fighter may select Rapid Reload as one of his fighter bonus feats.

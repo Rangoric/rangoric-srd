@@ -160,9 +160,9 @@ Hit Die: d10
 
 Skill Points at Each Additional Level: 2 + Int modifier
 
-Bonus Feats: The epic fighter gains a bonus feat (selected from the list of epic fighter bonus feats) every two levels after 20th.
+Bonus Feats: The epic fighter gains a bonus feat (selected from the [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]], epic ones included) every two levels after 20th.
 
-Epic Fighter Bonus Feat List: Armor Skin, Combat Archery, Damage Reduction, Devastating Critical, Dire Charge, Distant Shot, Energy Resistance, Epic Endurance, Epic Leadership, Epic Prowess, Epic Toughness, Epic Weapon Focus, Epic Weapon Specialization, Exceptional Deflection, Improved Combat Reflexes, Improved Manyshot, Improved Stunning Fist, Improved Whirlwind Attack, Infinite Deflection, Instant Reload, Legendary Commander, Legendary Rider, Legendary Wrestler, Overwhelming Critical, Penetrate Damage Reduction, Perfect Two-Weapon Fighting, Reflect Arrows, Spellcasting Harrier, Storm of Throws, Superior Initiative, Swarm of Arrows, Two-Weapon Rend, Uncanny Accuracy. In addition to the feats on this list, the fighter may treat any feat designated as a fighter bonus feat, but not listed here, as being on his or her bonus feat list.
+Epic Fighter Bonus Feats: any feat with the tag *fighter-bonus*. Every epic feat that was on the epic fighter's list has it.
 
 Table: THE EPIC FIGHTER  
 

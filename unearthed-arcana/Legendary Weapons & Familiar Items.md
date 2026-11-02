@@ -98,7 +98,7 @@ The battle scion’s class skills (and the key ability for each skill) are [[ran
 
 The following are class features of the battle scion prestige class. A legendary weapon associated with the class provides a unique set of additional special abilities, which are detailed in the weapon’s description. (For an example, see [[#Drakeblade|Drakeblade]], below.) These abilities accrue in addition to those already noted in the Special column on [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items|Table: The Battle Scion]]. However, because those abilities are functions of the weapon rather than the wielder, they are lost if the legendary weapon that granted them is lost. The features mentioned on Table: The Battle Scion are retained even if the weapon is lost.
 
-**Bonus Feats:** At 1st level, a battle scion receives a bonus feat. Thereafter, he gains an additional bonus feat at 4th, 7th, and 10th level. These bonus feats must be drawn from the [[rangoric-srd/feats/Feats Fighter Bonus|fighter bonus feat]] list. A battle scion must still meet all prerequisites to take a bonus feat.
+**Bonus Feats:** At 1st level, a battle scion receives a bonus feat. Thereafter, he gains an additional bonus feat at 4th, 7th, and 10th level. These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] (the tag *fighter-bonus*). A battle scion must still meet all prerequisites to take a bonus feat.
 
 ###### Drakeblade
 

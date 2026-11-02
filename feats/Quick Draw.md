@@ -19,5 +19,3 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 A character who has selected this feat may throw weapons at his full normal rate of attacks (much like a character with a bow).
 
 **Normal**: Without this feat, you may draw a weapon as a move action, or (if your base attack bonus is +1 or higher) as a free action as part of movement. Without this feat, you can draw a hidden weapon as a standard action.
-
-**Special**: A fighter may select Quick Draw as one of his fighter bonus feats.

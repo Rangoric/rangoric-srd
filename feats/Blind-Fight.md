@@ -20,5 +20,3 @@ You take only half the usual penalty to speed for being unable to see. Darkness 
 **Normal**: Regular attack roll modifiers for invisible attackers trying to hit you apply, and you lose your Dexterity bonus to AC. The speed reduction for darkness and poor visibility also applies.
 
 **Special**: The Blind-Fight feat is of no use against a character who is the subject of a blink spell.
-
-A fighter may select Blind-Fight as one of his fighter bonus feats.
