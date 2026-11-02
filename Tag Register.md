@@ -32,7 +32,7 @@ Every game tag used in `rangoric-srd`: what it means, what it goes on, and how m
 | `first-aid` | Actions | A First Aid action: either Fieldcraft or Medicine can make the check | [[rangoric-srd/actions/First Aid\|First Aid]] | 8 actions | In use (2026-10-31) |
 | `fighter-bonus` | Feats | A fighter can take it as a bonus feat, including the epic fighter's list. Pathfinder's Combat type will be a tag of its own | [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats\|Feats Overview]] | 101 feats | In use (2026-11-01) |
 | `item-creation` | Feats | An item creation feat: lets its owner make a kind of magic or psionic item | [[rangoric-srd/feats/Feats Overview#Item Creation Feats\|Feats Overview]] | 23 feats | In use (2026-11-01) |
-| `metamagic` | Feats | A metamagic feat: changes a spell, which then takes a higher-level slot | [[rangoric-srd/feats/Feats Overview#Metamagic Feats\|Feats Overview]] | 18 feats | In use (2026-11-01) |
+| `metamagic` | Feats | A metamagic feat: changes a spell, which then takes a higher-level slot | [[rangoric-srd/feats/Feats Overview#Metamagic Feats\|Feats Overview]] | 43 feats | In use (2026-11-01) |
 | `epic` | Feats | An epic feat: taken only at 21st level or higher | [[rangoric-srd/epic/Epic Feats#Acquiring Epic Feats\|Epic Feats]] | 158 feats | In use (2026-11-01) |
 | `divine` | Feats | A divine feat: needs the ability to turn or rebuke undead, and spends uses of it | [[rangoric-srd/epic/Epic Feats#Divine Feats\|Epic Feats]] | 5 feats | In use (2026-11-01) |
 | `wild` | Feats | A wild feat: needs wild shape, and usually spends uses of it | [[rangoric-srd/epic/Epic Feats#Wild Feats\|Epic Feats]] | 10 feats | In use (2026-11-01) |
