@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Improving Monsters|Improving Monsters (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -133,7 +133,7 @@ A template’s description provides a set of instructions for altering an existi
 
 If a template changes the base creature’s type, the creature also acquires the augmented subtype unless the template description indicates otherwise. The augmented subtype is always paired with the creature’s original type. Unless a template indicates otherwise, the new creature has the traits of the new type but the features of the original type.
 
-If a template changes a creature’s size, use Table: Changes to Statistics by Size to calculate changes to natural armor, Armor Class, attack rolls, and grapple bonus.
+If a template changes a creature’s size, use Table: Changes to Statistics by Size to calculate changes to natural armor, Armor Class, and attack rolls. Its CMB and CMD change with the [[rangoric-srd/combat/Combat Maneuvers#^special-size-modifier|special size modifier]].
 
 **Hit Dice and Hit Points**: Most templates do not change the number of Hit Dice a monster has, but some do. Some templates change the size of a creature’s Hit Dice (usually by changing the creature type). A few templates change previously acquired Hit Dice, and continue to change Hit Dice gained with class levels, but most templates that change Hit Dice change only the creature’s original HD and leave class Hit Dice unchanged.
 
@@ -145,7 +145,7 @@ If the Hit Dice entry in a template description is missing, Hit Dice and hit poi
 
 **Armor Class**: If a template changes the creature’s size, see Table: Changes to Statistics by Size to determine its new Armor Class and to see whether its natural armor changes. In some cases the method of determining Armor Class changes radically; the template description explains how to adjust the creature’s AC.
 
-**Base Attack/Grapple**: Templates usually do not change a creature’s base attack bonus. If a template modifies a creature’s base attack bonus, the template description states how that happens. Changes to a creature’s Strength score can change a creature’s grapple bonus, as can changes to its size.
+**Base Attack, CMB and CMD**: Templates usually do not change a creature’s base attack bonus. If a template modifies a creature’s base attack bonus, the template description states how that happens. Changes to a creature’s Strength or Dexterity score can change its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]], as can changes to its size.
 
 **Attack and Full Attack**: Most templates do not change a creature’s attack bonus or modes of attack, even when the creature’s type changes (the creature’s base attack bonus is the same as a creature of the original type). Of course, any change in ability scores may affect attack bonuses. If Strength or Dexterity changes, use the new modifier to determine attack bonuses. A change in a monster’s size also changes its attack bonus; see Table: Changes to Statistics by Size.
 

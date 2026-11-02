@@ -47,7 +47,7 @@ A lycanthrope uses either the base creature’s or the base animal’s statistic
 
 **Armor Class**: The base creature’s natural armor bonus increases by +2 in all forms. In hybrid form, the lycanthrope’s natural armor bonus is equal to the natural armor bonus of the base animal or the base creature, whichever is better.
 
-**Base Attack/Grapple**: Add the base attack bonus for the base animal to the base attack bonus for the base creature. The lycanthrope’s [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] bonus uses its attack bonus and modifiers for Strength and size depending on the lycanthrope’s form.
+**Base Attack, CMB and CMD**: Add the base attack bonus for the base animal to the base attack bonus for the base creature. The lycanthrope’s [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] use its base attack bonus and its Strength, Dexterity and size depending on the lycanthrope’s form.
 
 **Attacks**: Same as the base creature or base animal, depending on which form the lycanthrope is using. A lycanthrope in hybrid form gains two claw attacks and a bite attack as natural weapons. These weapons deal damage based on the hybrid form’s size. A hybrid may attack with a weapon and a bite, or may attack with its natural weapons. The bite attack of a hybrid is a secondary attack.
 
