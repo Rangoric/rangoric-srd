@@ -10,7 +10,9 @@ hit-dice: "35d12 (227 hp)"
 initiative: "+17 (+9 Dex, +8 Superior Initiative)"
 speed: "Fly 60 ft. (perfect)"
 armor-class: "48 (-1 size, +9 Dex, +10 deflection, +20 insight)"
-base-attack-grapple: "+17/-"
+base-attack: "+17"
+cmb: "—"
+cmd: "68"
 attack: "Incorporeal touch +25 (2d6 plus blightfire) melee"
 full-attack: "Incorporeal touch +25 (2d6 plus blightfire) melee"
 space-reach: "10 ft./10 ft."
@@ -44,7 +46,7 @@ Hit Dice: 35d12 (227 hp)    
 Initiative: +17 (+9 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: Fly 60 ft. (perfect)      
 AC: 48 (-1 size, +9 Dex, +10 deflection, +20 insight)      
-Base Attack/Grapple: +17/-     
+Base Attack: +17; CMB: —; CMD: 68     
 Attack: Incorporeal touch +25 (2d6 plus blightfire) melee     
 Full Attack: Incorporeal touch +25 (2d6 plus blightfire) melee     
 Space/Reach: 10 ft./10 ft.      

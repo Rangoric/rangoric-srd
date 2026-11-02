@@ -8,7 +8,9 @@ hit-dice: "6d8+6d8+72 (130 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "21 (-1 size, +1 Dex, +6 natural, +5 +1 chain shirt), touch 10, flat-footed 20"
-base-attack-grapple: "+10/+21"
+base-attack: "+10"
+cmb: "+18"
+cmd: "29"
 attack: "Claw +16 melee (1d6+7) or +1 battleaxe +17 melee (2d6+8/×3) or javelin +10 ranged (1d8+7)"
 full-attack: "2 claws +16 melee (1d6+7) and bite +11 melee (1d6+3); or +1 battleaxe +17/+12 melee (2d6+8/×3) and claw +12 melee (1d6+3) and bite +12 (1d6+3); or javelin +10 ranged (1d8+7)"
 space-reach: "10 ft./10 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 21 (-1 size, +1 Dex, +6 natural, +5 +1 chain shirt), touch 10, flat-footed 20
-  - **Base Attack/Grapple**: +10/+21
+  - **Base Attack**: +10; **CMB**: +18; **CMD**: 29
   - **Attack**: Claw +16 melee (1d6+7) or +1 battleaxe +17 melee (2d6+8/×3) or javelin +10 ranged (1d8+7)
   - **Full Attack**: 2 claws +16 melee (1d6+7) and bite +11 melee (1d6+3); or +1 battleaxe +17/+12 melee (2d6+8/×3) and claw +12 melee (1d6+3) and bite +12 (1d6+3); or javelin +10 ranged (1d8+7)
   - **Space/Reach**: 10 ft./10 ft.

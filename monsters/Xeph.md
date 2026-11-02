@@ -10,7 +10,9 @@ hit-dice: "1d10+1 (6 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14"
-base-attack-grapple: "+1/+1"
+base-attack: "+1"
+cmb: "+1"
+cmd: "12"
 attack: "Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3)"
 full-attack: "Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^h
 **Initiative:** +1     
 **Speed:** 30 ft. (6 squares)     
 **Armor Class:** 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14     
-**Base Attack/Grapple:** +1/+1     
+**Base Attack:** +1; **CMB:** +1; **CMD:** 12     
 **Attack:** Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3)     
 Full **Attack:** Rapier +2 melee (1d6/18-20) or longbow +2 ranged (1d8/x3)      
 **Space/Reach:** 5 ft./5 ft.     

@@ -9,7 +9,9 @@ hit-dice: "8d8+16 (52 hp)"
 initiative: "+7"
 speed: "40 ft. (8 squares)"
 armor-class: "15 (-1 size, +3 Dex, +3 natural), touch 12, flat-footed 12"
-base-attack-grapple: "+6/+11"
+base-attack: "+6"
+cmb: "+8 (+12 grapple)"
+cmd: "22"
 attack: "Claw +6 melee (1d6+1)"
 full-attack: "4 claws +6 melee (1d6+1) and bite +1 melee (1d8) and horn +1 melee (1d4)"
 space-reach: "10 ft./10 ft."
@@ -42,7 +44,7 @@ Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ab
 **Initiative:** +7     
 **Speed:** 40 ft. (8 squares)     
 **Armor Class:** 15 (-1 size, +3 Dex, +3 natural), touch 12, flat-footed 12     
-**Base Attack/Grapple:** +6/+11     
+**Base Attack:** +6; **CMB:** +8 (+12 grapple); **CMD:** 22     
 **Attack:** Claw +6 melee (1d6+1)     
 Full **Attack:** 4 claws +6 melee (1d6+1) and bite +1 melee (1d8) and horn +1 melee (1d4)     
 **Space/Reach:** 10 ft./10 ft.     
@@ -64,7 +66,7 @@ Temporal filchers do not speak.
 
 #### Combat
 
-Improved Grab (Ex): To use this ability, a temporal filcher must hit a creature of Large size or smaller with two claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking attacks of opportunity. If it wins the grapple check, it establishes a hold and uses its time filch ability.
+Improved Grab (Ex): To use this ability, a temporal filcher must hit a creature of Large size or smaller with two claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking attacks of opportunity. If it succeeds on the grapple check, it establishes a hold and uses its time filch ability.
 
 Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Chameleon|chameleon]], [[rangoric-srd/powers/Distract|distract]] (DC 13), [[rangoric-srd/psionics/Psion Discipline List|psionic dimension door]], [[rangoric-srd/powers/Levitate, Psionic|psionic levitate]], [[rangoric-srd/powers/Wall Walker|wall walker]]; 3/day - [[rangoric-srd/powers/Mental Barrier|mental barrier]]. Manifester level 8th. The save DC is Charisma-based.
 

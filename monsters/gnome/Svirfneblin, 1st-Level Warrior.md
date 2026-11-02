@@ -10,7 +10,9 @@ hit-dice: "1d10+4 (9 hp)"
 initiative: "+1"
 speed: "15 ft. in banded mail armor (3 squares); base speed 20 ft."
 armor-class: "23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat-footed 18"
-base-attack-grapple: "+1/–3"
+base-attack: "+1"
+cmb: "+0"
+cmd: "15"
 attack: "Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)"
 full-attack: "Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 15 ft. in banded mail armor (3 squares); base speed 20 ft.
   - **Armor Class**: 23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat-footed 18
-  - **Base Attack/Grapple**: +1/–3
+  - **Base Attack**: +1; **CMB**: +0; **CMD**: 15
   - **Attack**: Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)
   - **Full Attack**: Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)
   - **Space/Reach**: 5 ft./5 ft.

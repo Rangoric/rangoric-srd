@@ -10,7 +10,9 @@ hit-dice: "3d8+3 (16 hp)"
 initiative: "+0"
 speed: "5 ft. (1 square), swim 40 ft."
 armor-class: "16 (+6 natural), touch 10, flat-footed 16"
-base-attack-grapple: "+3/+4"
+base-attack: "+3"
+cmb: "+4"
+cmd: "14"
 attack: "Trident +4 melee (1d8+1) or heavy crossbow +3 ranged (1d10/19–20)"
 full-attack: "Trident +4 melee (1d8+1) or heavy crossbow +3 ranged (1d10/19–20)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 5 ft. (1 square), swim 40 ft.
   - **Armor Class**: 16 (+6 natural), touch 10, flat-footed 16
-  - **Base Attack/Grapple**: +3/+4
+  - **Base Attack**: +3; **CMB**: +4; **CMD**: 14
   - **Attack**: Trident +4 melee (1d8+1) or heavy crossbow +3 ranged (1d10/19–20)
   - **Full Attack**: Trident +4 melee (1d8+1) or heavy crossbow +3 ranged (1d10/19–20)
   - **Space/Reach**: 5 ft./5 ft.

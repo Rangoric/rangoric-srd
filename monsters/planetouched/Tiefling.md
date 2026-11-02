@@ -10,7 +10,9 @@ hit-dice: "1d10+1 (6 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14"
-base-attack-grapple: "+1/+2"
+base-attack: "+1"
+cmb: "+2"
+cmd: "13"
 attack: "Rapier +3 melee (1d6+1/18–20) or light crossbow +2 ranged (1d8/19–20)"
 full-attack: "Rapier +3 melee (1d6+1/18–20) or light crossbow +2 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14
-  - **Base Attack/Grapple**: +1/+2
+  - **Base Attack**: +1; **CMB**: +2; **CMD**: 13
   - **Attack**: Rapier +3 melee (1d6+1/18–20) or light crossbow +2 ranged (1d8/19–20)
   - **Full Attack**: Rapier +3 melee (1d6+1/18–20) or light crossbow +2 ranged (1d8/19–20)
   - **Space/Reach**: 5 ft./5 ft.

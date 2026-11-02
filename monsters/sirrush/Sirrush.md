@@ -7,7 +7,9 @@ hit-dice: "40d10+680 (900 hp)"
 initiative: "+23 (+15 Dex, +8 Superior Initiative)"
 speed: "90 ft."
 armor-class: "44 (+15 Dex, -1 size, +20 natural)"
-base-attack-grapple: "+40/+60"
+base-attack: "+40"
+cmb: "+57"
+cmd: "82 (86 vs. trip)"
 attack: "Claw +56 (2d6+16/19-20 (+1d6 on critical hit)) melee"
 full-attack: "4 claws +56 (2d6+16/19-20 (+1d6 on critical hit)) melee, bite +54 (4d6+8) melee"
 space-reach: "10 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +23 (+15 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])
   - **Speed**: 90 ft.
   - **Armor Class**: 44 (+15 Dex, -1 size, +20 natural)
-  - **Base Attack/Grapple**: +40/+60
+  - **Base Attack**: +40; **CMB**: +57; **CMD**: 82 (86 vs. trip)
   - **Attack**: Claw +56 (2d6+16/19-20 (+1d6 on critical hit)) melee
   - **Full Attack**: 4 claws +56 (2d6+16/19-20 (+1d6 on critical hit)) melee, bite +54 (4d6+8) melee
   - **Space/Reach**: 10 ft./5 ft.

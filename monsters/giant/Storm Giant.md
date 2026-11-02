@@ -8,7 +8,9 @@ hit-dice: "19d8+114 (199 hp)"
 initiative: "+2"
 speed: "35 ft. (7 squares), swim 30 ft. (6 squares) in breastplate; base speed 50 ft., swim 40 ft."
 armor-class: "27 (–2 size, +2 Dex, +12 natural, +5 breastplate) touch 10, flat-footed 25"
-base-attack-grapple: "+14/+36"
+base-attack: "+14"
+cmb: "+30"
+cmd: "42"
 attack: "Greatsword +26 melee (4d6+21/19–20) or slam +26 melee (1d6+14) or composite longbow (+14 Str bonus) +14 ranged (3d6+14/x3)"
 full-attack: "Greatsword +26/+21/+16 melee (4d6+21/19–20) or 2 slams +26 melee (1d6+14) or composite longbow (+14 Str bonus) +14/+9/+4 ranged (3d6+14/x3)"
 space-reach: "15 ft./15 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 35 ft. (7 squares), swim 30 ft. (6 squares) in breastplate; base speed 50 ft., swim 40 ft.
   - **Armor Class**: 27 (–2 size, +2 Dex, +12 natural, +5 breastplate) touch 10, flat-footed 25
-  - **Base Attack/Grapple**: +14/+36
+  - **Base Attack**: +14; **CMB**: +30; **CMD**: 42
   - **Attack**: Greatsword +26 melee (4d6+21/19–20) or slam +26 melee (1d6+14) or composite longbow (+14 Str bonus) +14 ranged (3d6+14/x3)
   - **Full Attack**: Greatsword +26/+21/+16 melee (4d6+21/19–20) or 2 slams +26 melee (1d6+14) or composite longbow (+14 Str bonus) +14/+9/+4 ranged (3d6+14/x3)
   - **Space/Reach**: 15 ft./15 ft.

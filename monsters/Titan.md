@@ -10,7 +10,9 @@ hit-dice: "20d8+280 (370 hp)"
 initiative: "+1"
 speed: "40 ft. in half-plate armor (8 squares); base speed 60 ft."
 armor-class: "38 (–2 size, +19 natural, +11 +4 half-plate armor), touch 8, flat-footed 38"
-base-attack-grapple: "+20/+44"
+base-attack: "+20"
+cmb: "+38"
+cmd: "49"
 attack: "Gargantuan +3 adamantine warhammer +37 melee (4d6+27/x3) or +3 javelin +22 ranged (2d6+19) or slam +34 (1d8+16)"
 full-attack: "Gargantuan +3 adamantine warhammer +37/+32/+27/+22 melee (4d6+27/x3) or +3 javelin +22 ranged (2d6+19) or 2 slams +34 (1d8+16)"
 space-reach: "15 ft./15 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 40 ft. in half-plate armor (8 squares); base speed 60 ft.
   - **Armor Class**: 38 (–2 size, +19 natural, +11 +4 half-plate armor), touch 8, flat-footed 38
-  - **Base Attack/Grapple**: +20/+44
+  - **Base Attack**: +20; **CMB**: +38; **CMD**: 49
   - **Attack**: Gargantuan +3 adamantine warhammer +37 melee (4d6+27/x3) or +3 javelin +22 ranged (2d6+19) or slam +34 (1d8+16)
   - **Full Attack**: Gargantuan +3 adamantine warhammer +37/+32/+27/+22 melee (4d6+27/x3) or +3 javelin +22 ranged (2d6+19) or 2 slams +34 (1d8+16)
   - **Space/Reach**: 15 ft./15 ft.

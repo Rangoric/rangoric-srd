@@ -7,7 +7,9 @@ hit-dice: "6d8+18 (45 hp)"
 initiative: "+2"
 speed: "40 ft. (8 squares)"
 armor-class: "14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12"
-base-attack-grapple: "+4/+14"
+base-attack: "+4"
+cmb: "+11 (+15 grapple)"
+cmd: "23 (27 vs. trip)"
 attack: "Claw +9 melee (1d8+6)"
 full-attack: "2 claws +9 melee (1d8+6) and bite +4 melee (2d6+3)"
 space-reach: "10 ft./5 ft."
@@ -38,7 +40,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 14 (–1 size, +2 Dex, +3 natural), touch 11, flat-footed 12
-  - **Base Attack/Grapple**: +4/+14
+  - **Base Attack**: +4; **CMB**: +11 (+15 grapple); **CMD**: 23 (27 vs. trip)
   - **Attack**: Claw +9 melee (1d8+6)
   - **Full Attack**: 2 claws +9 melee (1d8+6) and bite +4 melee (2d6+3)
   - **Space/Reach**: 10 ft./5 ft.
@@ -58,7 +60,7 @@ These great cats stand more than 3 feet tall at the shoulder and are about 9 fee
 
 #### Combat
 
-**Improved Grab (Ex)**: To use this ability, a tiger must hit with a claw or bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a tiger must hit with a claw or bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Pounce (Ex)**: If a tiger charges a foe, it can make a full attack, including two rake attacks.
 

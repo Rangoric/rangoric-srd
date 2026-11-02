@@ -10,7 +10,9 @@ hit-dice: "38d8+646 (817 hp)"
 initiative: "+14 (Dex)"
 speed: "80 ft., climb 40 ft."
 armor-class: "52 (+14 Dex, -1 size, +29 natural)"
-base-attack-grapple: "+38/+56"
+base-attack: "+38"
+cmb: "+53"
+cmd: "77"
 attack: "Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee"
 full-attack: "Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee"
 space-reach: "10 ft./10 ft."
@@ -44,7 +46,7 @@ Hit Dice: 38d8+646 (817 hp)    
 Initiative: +14 (Dex)      
 Speed: 80 ft., climb 40 ft.      
 AC: 52 (+14 Dex, -1 size, +29 natural)      
-Base Attack/Grapple: +38/+56     
+Base Attack: +38; CMB: +53; CMD: 77     
 Attack: Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee     
 Full Attack: Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee     
 Space/Reach: 10 ft./10 ft.      

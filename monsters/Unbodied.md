@@ -10,7 +10,9 @@ hit-dice: "4d8+4 (22 hp)"
 initiative: "+1"
 speed: "Fly 30 ft. (good) (6 squares)"
 armor-class: "13 (+1 Dex, +2 deflection), touch 13, flatfooted 12"
-base-attack-grapple: "+4/-"
+base-attack: "+4"
+cmb: "—"
+cmd: "17"
 attack: "Incorporeal touch +5 melee (1d6)"
 full-attack: "Incorporeal touch +5 melee (1d6)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^m
 **Initiative:** +1     
 **Speed:** Fly 30 ft. (good) (6 squares)     
 **Armor Class:** 13 (+1 Dex, +2 deflection), touch 13, flatfooted 12     
-**Base Attack/Grapple:** +4/-     
+**Base Attack:** +4; **CMB:** —; **CMD:** 17     
 **Attack:** Incorporeal touch +5 melee (1d6)     
 Full **Attack:** Incorporeal touch +5 melee (1d6)     
 **Space/Reach:** 5 ft./5 ft.     

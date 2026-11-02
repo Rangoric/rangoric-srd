@@ -8,7 +8,9 @@ hit-dice: "18d8+99 (180 hp)"
 initiative: "+1"
 speed: "40 ft. (8 squares)"
 armor-class: "14 (–2 size, +1 Dex, +5 natural) touch 9, flat-footed 13"
-base-attack-grapple: "+13/+30"
+base-attack: "+13"
+cmb: "+24 (+28 grapple)"
+cmd: "35"
 attack: "Bite +20 melee (3d6+13)"
 full-attack: "Bite +20 melee (3d6+13)"
 space-reach: "15 ft./10 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 14 (–2 size, +1 Dex, +5 natural) touch 9, flat-footed 13
-  - **Base Attack/Grapple**: +13/+30
+  - **Base Attack**: +13; **CMB**: +24 (+28 grapple); **CMD**: 35
   - **Attack**: Bite +20 melee (3d6+13)
   - **Full Attack**: Bite +20 melee (3d6+13)
   - **Space/Reach**: 15 ft./10 ft.
@@ -65,7 +67,7 @@ Despite its enormous size and 6-ton weight, a tyrannosaurus is a swift runner. I
 
 A tyrannosaurus pursues and eats just about anything it sees. Its tactics are simple—charge in and bite.
 
-**Improved Grab (Ex)**: To use this ability, a tyrannosaurus must hit an opponent of up to one size smaller with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
+**Improved Grab (Ex)**: To use this ability, a tyrannosaurus must hit an opponent of up to one size smaller with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the foe the following round.
 
 **Swallow Whole (Ex)**: A tyrannosaurus can try to swallow a grabbed opponent of up to two sizes smaller by making a successful grapple check. The swallowed creature takes 2d8+8 points of bludgeoning damage and 8 points of acid damage per round from the tyrannosaurus’s gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 12). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
 

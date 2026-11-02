@@ -7,7 +7,9 @@ hit-dice: "5d6+5 (22 hp)"
 initiative: "+1"
 speed: "40 ft. (8 squares)"
 armor-class: "15 (+1 Dex, +4 natural), touch 11, flat-footed 14"
-base-attack-grapple: "+2/+2"
+base-attack: "+2"
+cmb: "+2"
+cmd: "14"
 attack: "Head butt +2 melee (1d6) or shortbow +3 ranged (1d6/x3)"
 full-attack: "Head butt +2 melee (1d6) and dagger –3 melee (1d4/19–20); or shortbow +3 ranged (1d6/x3)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack/Grapple**: +2/+2
+  - **Base Attack**: +2; **CMB**: +2; **CMD**: 14
   - **Attack**: Head butt +2 melee (1d6) or shortbow +3 ranged (1d6/x3)
   - **Full Attack**: Head butt +2 melee (1d6) and dagger –3 melee (1d4/19–20); or shortbow +3 ranged (1d6/x3)
   - **Space/Reach**: 5 ft./5 ft.
