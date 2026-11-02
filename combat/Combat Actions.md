@@ -66,7 +66,7 @@ Some full-round actions can be taken as standard actions, but only in situations
 | Feint                                            | No                        |
 | Light a torch with a tindertwig                  | Yes                       |
 | Lower spell resistance                           | No                        |
-| Make a dying friend stable (see [[rangoric-srd/actions/Stabilize\|Stabilize]]) | Yes                       |
+| Make a dying friend stable (see [[rangoric-srd/actions/Stabilize (Action)\|Stabilize]]) | Yes                       |
 | Read a scroll                                    | Yes                       |
 | Ready (triggers a standard action)               | No                        |
 | Sunder an object (attack)                        | Maybe (3)                 |
