@@ -12,7 +12,9 @@ hit-dice: "12d10+27 (93 hp)"
 initiative: "+10"
 speed: "5 ft. (1 square), fly 40 ft. (Good)"
 armor-class: "20 (+4 size, +6 Dex), touch 20, flat-footed 14"
-base-attack-grapple: "+12/—"
+base-attack: "+12"
+cmb: "—"
+cmd: "—"
 attack: "Swarm (3d6 plus poison)"
 full-attack: "Swarm (3d6 plus poison)"
 space-reach: "10 ft./0 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +10
   - **Speed**: 5 ft. (1 square), fly 40 ft. (Good)
   - **Armor Class**: 20 (+4 size, +6 Dex), touch 20, flat-footed 14
-  - **Base Attack/Grapple**: +12/—
+  - **Base Attack**: +12; **CMB**: —; **CMD**: —
   - **Attack**: Swarm (3d6 plus poison)
   - **Full Attack**: Swarm (3d6 plus poison)
   - **Space/Reach**: 10 ft./0 ft.

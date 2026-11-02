@@ -10,7 +10,9 @@ hit-dice: "9d12 (58 hp)"
 initiative: "+2"
 speed: "Fly 40 ft. (good) (8 squares)"
 armor-class: "14 (+2 Dex, +2 deflection), touch 14, flat-footed 12"
-base-attack-grapple: "+4/—"
+base-attack: "+4"
+cmb: "—"
+cmd: "19"
 attack: "Incorporeal touch +6 melee (1d8 Str)"
 full-attack: "Incorporeal touch +6 melee (1d8 Str)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: Fly 40 ft. (good) (8 squares)
   - **Armor Class**: 14 (+2 Dex, +2 deflection), touch 14, flat-footed 12
-  - **Base Attack/Grapple**: +4/—
+  - **Base Attack**: +4; **CMB**: —; **CMD**: 19
   - **Attack**: Incorporeal touch +6 melee (1d8 Str)
   - **Full Attack**: Incorporeal touch +6 melee (1d8 Str)
   - **Space/Reach**: 5 ft./5 ft.

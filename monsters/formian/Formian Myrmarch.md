@@ -11,7 +11,9 @@ hit-dice: "12d8+48 (102 hp)"
 initiative: "+8"
 speed: "50 ft. (10 squares)"
 armor-class: "28 (–1 size, +4 Dex, +15 natural), touch 13, flat-footed 24"
-base-attack-grapple: "+12/+20"
+base-attack: "+12"
+cmb: "+17"
+cmd: "32 (36 vs. trip)"
 attack: "Sting +15 melee (2d4+4 plus poison) or javelin +15 ranged (1d6+4)"
 full-attack: "Sting +15 melee (2d4+4 plus poison) and bite +13 melee (2d6+2); or javelin +15/+10 ranged (1d6+4)"
 space-reach: "10 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +8
   - **Speed**: 50 ft. (10 squares)
   - **Armor Class**: 28 (–1 size, +4 Dex, +15 natural), touch 13, flat-footed 24
-  - **Base Attack/Grapple**: +12/+20
+  - **Base Attack**: +12; **CMB**: +17; **CMD**: 32 (36 vs. trip)
   - **Attack**: Sting +15 melee (2d4+4 plus poison) or javelin +15 ranged (1d6+4)
   - **Full Attack**: Sting +15 melee (2d4+4 plus poison) and bite +13 melee (2d6+2); or javelin +15/+10 ranged (1d6+4)
   - **Space/Reach**: 10 ft./5 ft.

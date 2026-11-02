@@ -12,7 +12,9 @@ hit-dice: "9d8+45 (85 hp)"
 initiative: "+5"
 speed: "30 ft. (6 squares), fly 50 ft. (good)"
 armor-class: "23 (+5 Dex, +8 natural) touch 15, flat-footed 18"
-base-attack-grapple: "+9/+14"
+base-attack: "+9"
+cmb: "+14"
+cmd: "30"
 attack: "Longsword +14 melee (1d8+5/19–20) or +1 flaming composite longbow (+5 Str bonus) +15 ranged (1d8+6/x3 plus 1d6 fire) or rope +14 ranged (entangle)"
 full-attack: "Longsword +14/+9 melee (1d8+5/19–20) or +1 flaming composite longbow (+5 Str bonus) +15/+10 ranged (1d8+6/x3 plus 1d6 fire) or rope +14 ranged (entangle)"
 space-reach: "5 ft./5 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +5
   - **Speed**: 30 ft. (6 squares), fly 50 ft. (good)
   - **Armor Class**: 23 (+5 Dex, +8 natural) touch 15, flat-footed 18
-  - **Base Attack/Grapple**: +9/+14
+  - **Base Attack**: +9; **CMB**: +14; **CMD**: 30
   - **Attack**: Longsword +14 melee (1d8+5/19–20) or +1 flaming composite longbow (+5 Str bonus) +15 ranged (1d8+6/x3 plus 1d6 fire) or rope +14 ranged (entangle)
   - **Full Attack**: Longsword +14/+9 melee (1d8+5/19–20) or +1 flaming composite longbow (+5 Str bonus) +15/+10 ranged (1d8+6/x3 plus 1d6 fire) or rope +14 ranged (entangle)
   - **Space/Reach**: 5 ft./5 ft.

@@ -9,7 +9,9 @@ hit-dice: "2d10 (11 hp)"
 initiative: "+5"
 speed: "40 ft. (8 squares)"
 armor-class: "14 (+1 Dex, +3 natural), touch 11, flat-footed 13"
-base-attack-grapple: "+2/+4"
+base-attack: "+2"
+cmb: "+4"
+cmd: "15"
 attack: "Bite +4 melee (1d6+3)"
 full-attack: "Bite +4 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +5
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-  - **Base Attack/Grapple**: +2/+4
+  - **Base Attack**: +2; **CMB**: +4; **CMD**: 15
   - **Attack**: Bite +4 melee (1d6+3)
   - **Full Attack**: Bite +4 melee (1d6+3)
   - **Space/Reach**: 5 ft./5 ft.

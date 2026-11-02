@@ -7,7 +7,9 @@ hit-dice: "9d10+36 (85 hp)"
 initiative: "-1"
 speed: "40 ft. (8 squares)"
 armor-class: "20 (-2 size, -1 Dex, +13 natural), touch 7, flatfooted 20"
-base-attack-grapple: "+9/+25"
+base-attack: "+9"
+cmb: "+19"
+cmd: "28 (32 vs. trip)"
 attack: "Bite +15 melee (2d8+8)"
 full-attack: "Bite +15 melee (2d8+8) and 2 claws +10 melee (2d6+4)"
 space-reach: "15 ft./10 ft."
@@ -40,7 +42,7 @@ Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mag
 **Initiative:** -1     
 **Speed:** 40 ft. (8 squares)     
 **Armor Class:** 20 (-2 size, -1 Dex, +13 natural), touch 7, flatfooted 20     
-**Base Attack/Grapple:** +9/+25     
+**Base Attack:** +9; **CMB:** +19; **CMD:** 28 (32 vs. trip)     
 **Attack:** Bite +15 melee (2d8+8)     
 Full **Attack:** Bite +15 melee (2d8+8) and 2 claws +10 melee (2d6+4)     
 **Space/Reach:** 15 ft./10 ft.     

@@ -11,7 +11,9 @@ hit-dice: "4d8+8 (26 hp)"
 initiative: "+3"
 speed: "40 ft. (8 squares)"
 armor-class: "18 (+3 Dex, +5 natural), touch 13, flat-footed 15"
-base-attack-grapple: "+4/+7"
+base-attack: "+4"
+cmb: "+7"
+cmd: "21 (25 vs. trip)"
 attack: "Sting +7 melee (2d4+3 plus poison)"
 full-attack: "Sting +7 melee (2d4+3 plus poison) and 2 claws +5 melee (1d6+1) and bite +5 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 18 (+3 Dex, +5 natural), touch 13, flat-footed 15
-  - **Base Attack/Grapple**: +4/+7
+  - **Base Attack**: +4; **CMB**: +7; **CMD**: 21 (25 vs. trip)
   - **Attack**: Sting +7 melee (2d4+3 plus poison)
   - **Full Attack**: Sting +7 melee (2d4+3 plus poison) and 2 claws +5 melee (1d6+1) and bite +5 melee (1d4+1)
   - **Space/Reach**: 5 ft./5 ft.

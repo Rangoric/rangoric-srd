@@ -10,7 +10,9 @@ hit-dice: "12d10+36 (102 hp)"
 initiative: "+8 (+4 Dex, +4 Improved Initiative)"
 speed: "40 ft., fly 90 ft. (good)"
 armor-class: "23 (-1 size, +4 Dex, +10 natural)"
-base-attack-grapple: "+12/+22"
+base-attack: "+12"
+cmb: "+19"
+cmd: "33 (37 vs. trip)"
 attack: "Hoof +17 (3d6+6) melee"
 full-attack: "2 hooves +17 (3d6+6) melee, bite +15 (5d8+3) melee"
 space-reach: "10 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +8 (+4 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])
   - **Speed**: 40 ft., fly 90 ft. (good)
   - **Armor Class**: 23 (-1 size, +4 Dex, +10 natural)
-  - **Base Attack/Grapple**: +12/+22
+  - **Base Attack**: +12; **CMB**: +19; **CMD**: 33 (37 vs. trip)
   - **Attack**: Hoof +17 (3d6+6) melee
   - **Full Attack**: 2 hooves +17 (3d6+6) melee, bite +15 (5d8+3) melee
   - **Space/Reach**: 10 ft./5 ft.

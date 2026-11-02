@@ -10,7 +10,9 @@ hit-dice: "15d8+75 (142 hp)"
 initiative: "–1"
 speed: "30 ft. in half-plate armor (6 squares); base speed 40 ft."
 armor-class: "23 (–1 size, –1 Dex, +8 natural, +7 half-plate armor) touch 8, flat-footed 23"
-base-attack-grapple: "+11/+25"
+base-attack: "+11"
+cmb: "+22"
+cmd: "31"
 attack: "Greatsword +20 melee (3d6+15) or slam +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire)"
 full-attack: "Greatsword +20/+15/+10 melee (3d6+15) or 2 slams +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire)"
 space-reach: "10 ft./10 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –1
   - **Speed**: 30 ft. in half-plate armor (6 squares); base speed 40 ft.
   - **Armor Class**: 23 (–1 size, –1 Dex, +8 natural, +7 half-plate armor) touch 8, flat-footed 23
-  - **Base Attack/Grapple**: +11/+25
+  - **Base Attack**: +11; **CMB**: +22; **CMD**: 31
   - **Attack**: Greatsword +20 melee (3d6+15) or slam +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire)
   - **Full Attack**: Greatsword +20/+15/+10 melee (3d6+15) or 2 slams +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire)
   - **Space/Reach**: 10 ft./10 ft.

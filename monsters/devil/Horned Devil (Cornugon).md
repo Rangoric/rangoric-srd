@@ -12,7 +12,9 @@ hit-dice: "15d8+105 (172 hp)"
 initiative: "+7"
 speed: "20 ft. (4 squares), fly 50 ft. (average)"
 armor-class: "35 (–1 size, +7 Dex, +19 natural) touch 16, flat-footed 28"
-base-attack-grapple: "+15/+29"
+base-attack: "+15"
+cmb: "+26"
+cmd: "43"
 attack: "Spiked chain +25 melee (2d6+15 plus stun) or claw +24 melee (2d6+10) or tail +24 melee (2d6+10 plus infernal wound)"
 full-attack: "Spiked chain +25/+20/+15 melee (2d6+15 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound); or 2 claws +24 melee (2d6+10) and bite + 22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound)"
 space-reach: "10 ft./10 ft. (20 ft. with spiked chain)"
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 20 ft. (4 squares), fly 50 ft. (average)
   - **Armor Class**: 35 (–1 size, +7 Dex, +19 natural) touch 16, flat-footed 28
-  - **Base Attack/Grapple**: +15/+29
+  - **Base Attack**: +15; **CMB**: +26; **CMD**: 43
   - **Attack**: Spiked chain +25 melee (2d6+15 plus stun) or claw +24 melee (2d6+10) or tail +24 melee (2d6+10 plus infernal wound)
   - **Full Attack**: Spiked chain +25/+20/+15 melee (2d6+15 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound); or 2 claws +24 melee (2d6+10) and bite + 22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound)
   - **Space/Reach**: 10 ft./10 ft. (20 ft. with spiked chain)

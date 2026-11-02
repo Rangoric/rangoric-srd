@@ -8,7 +8,9 @@ hit-dice: "1d12 (6 hp)"
 initiative: "+5"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+1 Dex, +2 natural, +2 heavy steel shield), touch 11, flat-footed 14"
-base-attack-grapple: "+0/+1"
+base-attack: "+0"
+cmb: "+1"
+cmd: "12"
 attack: "Scimitar +1 melee (1d6+1/18–20) or claw +1 melee (1d4+1)"
 full-attack: "Scimitar +1 melee (1d6+1/18–20) or 2 claws +1 melee (1d4+1)"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +5
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+1 Dex, +2 natural, +2 heavy steel shield), touch 11, flat-footed 14
-  - **Base Attack/Grapple**: +0/+1
+  - **Base Attack**: +0; **CMB**: +1; **CMD**: 12
   - **Attack**: Scimitar +1 melee (1d6+1/18–20) or claw +1 melee (1d4+1)
   - **Full Attack**: Scimitar +1 melee (1d6+1/18–20) or 2 claws +1 melee (1d4+1)
   - **Space/Reach**: 5 ft./5 ft.

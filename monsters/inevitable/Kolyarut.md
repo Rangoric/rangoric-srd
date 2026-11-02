@@ -11,7 +11,9 @@ hit-dice: "13d10+20 (91 hp)"
 initiative: "+1"
 speed: "20 ft. in banded mail (4 squares); base speed 30 ft."
 armor-class: "27 (+1 Dex, +10 natural, +6 banded mail) touch 11, flat-footed 26"
-base-attack-grapple: "+9/+11"
+base-attack: "+9"
+cmb: "+11"
+cmd: "22"
 attack: "Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13 melee (1d8+5/19–20) or slam +11 melee (1d6+3)"
 full-attack: "Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19–20) or slam +11/+6 melee (1d6+3)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 20 ft. in banded mail (4 squares); base speed 30 ft.
   - **Armor Class**: 27 (+1 Dex, +10 natural, +6 banded mail) touch 11, flat-footed 26
-  - **Base Attack/Grapple**: +9/+11
+  - **Base Attack**: +9; **CMB**: +11; **CMD**: 22
   - **Attack**: Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13 melee (1d8+5/19–20) or slam +11 melee (1d6+3)
   - **Full Attack**: Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19–20) or slam +11/+6 melee (1d6+3)
   - **Space/Reach**: 5 ft./5 ft.

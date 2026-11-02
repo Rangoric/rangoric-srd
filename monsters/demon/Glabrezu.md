@@ -12,7 +12,9 @@ hit-dice: "12d8+120 (174 hp)"
 initiative: "+0"
 speed: "40 ft. (8 squares)"
 armor-class: "27 (–2 size, +19 natural) touch 8, flat-footed 27"
-base-attack-grapple: "+12/+30"
+base-attack: "+12"
+cmb: "+24 (+28 grapple)"
+cmd: "34"
 attack: "Pincers +20 melee (2d8+10)"
 full-attack: "2 pincers +20 melee (2d8+10) and 2 claws +18 melee (1d6+5) and bite +18 melee (1d8+5)"
 space-reach: "15 ft./15 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 27 (–2 size, +19 natural) touch 8, flat-footed 27
-  - **Base Attack/Grapple**: +12/+30
+  - **Base Attack**: +12; **CMB**: +24 (+28 grapple); **CMD**: 34
   - **Attack**: Pincers +20 melee (2d8+10)
   - **Full Attack**: 2 pincers +20 melee (2d8+10) and 2 claws +18 melee (1d6+5) and bite +18 melee (1d8+5)
   - **Space/Reach**: 15 ft./15 ft.

@@ -11,7 +11,9 @@ hit-dice: "52d8+572 (1028 hp)"
 initiative: "+10 (+2 Dex, +8 Superior Initiative)"
 speed: "100 ft."
 armor-class: "70 (-2 size, +30 natural, +20 insight, +12 armor [+5 half plate])"
-base-attack-grapple: "+52/+80"
+base-attack: "+52"
+cmb: "+74"
+cmd: "106"
 attack: "Greatsword +73 (2d6+20/17-20) melee; or boulder +55 (2d8+20/19-20) ranged"
 full-attack: "100 greatswords +73 (2d6+20/17-20) melee; or 100 boulders +55 (2d8+20/19-20) ranged"
 space-reach: "15 ft./15 ft."
@@ -45,7 +47,7 @@ Hit Dice: 52d8+572 (1028 hp)    
 Initiative: +10 (+2 Dex, +8 Superior Initiative)      
 Speed: 100 ft.      
 AC: 70 (-2 size, +30 natural, +20 insight, +12 armor \[+5 half plate\])      
-Base Attack/Grapple: +52/+80     
+Base Attack: +52; CMB: +74; CMD: 106     
 Attack: Greatsword +73 (2d6+20/17-20) melee; or boulder +55 (2d8+20/19-20) ranged     
 Full Attack: 100 greatswords +73 (2d6+20/17-20) melee; or 100 boulders +55 (2d8+20/19-20) ranged     
 Space/Reach: 15 ft./15 ft.      
