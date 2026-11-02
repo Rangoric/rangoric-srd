@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Combat"
 based-on:
   - "[[fantasy srd 3.5/combat/Combat Actions|Combat Actions (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/combat/Actions In Combat|Actions In Combat (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -56,7 +57,6 @@ Some full-round actions can be taken as standard actions, but only in situations
 | Attack (unarmed)                                 | Yes                       |
 | Activate a magic item other than a potion or oil | No                        |
 | Aid another                                      | Maybe (2)                 |
-| Bull rush                                        | No                        |
 | Cast a spell (1 standard action casting time)    | Yes                       |
 | Concentrate to maintain an active spell          | No                        |
 | Dismiss a spell                                  | No                        |
@@ -67,10 +67,8 @@ Some full-round actions can be taken as standard actions, but only in situations
 | Light a torch with a tindertwig                  | Yes                       |
 | Lower spell resistance                           | No                        |
 | Make a dying friend stable (see [[rangoric-srd/actions/Stabilize\|Stabilize]]) | Yes                       |
-| Overrun                                          | No                        |
 | Read a scroll                                    | Yes                       |
 | Ready (triggers a standard action)               | No                        |
-| Sunder a weapon (attack)                         | Yes                       |
 | Sunder an object (attack)                        | Maybe (3)                 |
 | Total defense                                    | No                        |
 | Turn or rebuke undead                            | No                        |
@@ -127,9 +125,7 @@ Some full-round actions can be taken as standard actions, but only in situations
 
 | Action Type Varies   | Attack of Opportunity (1) |
 | -------------------- | ------------------------- |
-| Disarm (7)           | Yes                       |
-| Grapple (7)          | Yes                       |
-| Trip an opponent (7) | No                        |
+| Perform a [[rangoric-srd/combat/Combat Maneuvers\|combat maneuver]] (7) | Yes |
 | Use feat (8)         | Varies                    |
 
 1 *Regardless of the action, if you move out of a threatened square, you usually provoke an attack of opportunity. This column indicates whether the action itself, not moving, provokes an attack of opportunity.*
@@ -144,7 +140,7 @@ Some full-round actions can be taken as standard actions, but only in situations
 
 6 *Unless the component is an extremely large or awkward item.*
 
-7 *These attack forms substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity.*
+7 *Some combat maneuvers substitute for a melee attack, not an action. As melee attacks, they can be used once in an attack or charge action, one or more times in a full attack action, or even as an attack of opportunity. Others are used as a separate action.*
 
 8 *The description of a feat defines its effect.*
 
@@ -208,7 +204,7 @@ Most spells require 1 standard action to cast. You can cast such a spell either 
 
 **Spell Components**: To cast a spell with a verbal (V) component, your character must speak in a firm voice. If you’re gagged or in the area of a silence spell, you can’t cast such a spell. A spellcaster who has been deafened has a 20% chance to spoil any spell he tries to cast if that spell has a verbal component. ^spell-components
 
-To cast a spell with a somatic (S) component, you must gesture freely with at least one hand. You can’t cast a spell of this type while bound, grappling, or with both your hands full or occupied.
+To cast a spell with a somatic (S) component, you must gesture freely with at least one hand. You can’t cast a spell of this type while bound, [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]], or with both your hands full or occupied. While [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]], you can, with a successful [[rangoric-srd/rules/Concentration (Check)|Concentration check]].
 
 To cast a spell with a material (M), focus (F), or divine focus (DF) component, you have to have the proper materials, as described by the spell. Unless these materials are elaborate preparing these materials is a free action. For material components and focuses whose costs are not listed, you can assume that you have them if you have your spell component pouch.
 

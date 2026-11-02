@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Combat"
 based-on:
   - "[[fantasy srd 3.5/combat/Combat Modifiers|Combat Modifiers (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/combat/Combat Modifiers|Combat Modifiers (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -44,10 +45,10 @@ tags: [rangoric, rangoric/overview]
 | Cowering                                             | –2 (1)              | –2 (1)    |
 | Entangled                                            | +0 (2)             | +0 (2)   |
 | Flat-footed (such as surprised, balancing, climbing) | +0 (1)             | +0 (1)   |
-| Grappling (but attacker is not)                      | +0 (1)             | +0 (1,3) |
-| Helpless (such as paralyzed, sleeping, or bound)     | –4 (4)              | +0 (4)   |
+| [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] (but attacker is not) | +0 | +0 |
+| Helpless (such as paralyzed, sleeping, or bound)     | –4 (3)              | +0 (3)   |
 | Kneeling or sitting                                  | –2                  | +2       |
-| Pinned                                               | –4 (4)              | +0 (4)   |
+| [[rangoric-srd/rules/conditions/Pinned (Condition)\|Pinned]] | –4 (1) | –4 (1) |
 | Prone                                                | –4                  | +4       |
 | Squeezing through a space                            | –4                  | –4        |
 | Stunned                                              | –2 (1)              | –2 (1)    |
@@ -56,9 +57,7 @@ tags: [rangoric, rangoric/overview]
 
 2 *An entangled character takes a –4 penalty to Dexterity.*
 
-3 *Roll randomly to see which grappling combatant you strike. That defender loses any Dexterity bonus to AC.*
-
-4 *Treat the defender’s Dexterity as 0 (–5 modifier). Rogues can sneak attack helpless or pinned defenders.*
+3 *Treat the defender’s Dexterity as 0 (–5 modifier). Rogues can sneak attack helpless defenders.*
 
 ##### Cover
 

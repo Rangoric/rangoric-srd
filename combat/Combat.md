@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Combat"
 based-on:
   - "[[fantasy srd 3.5/combat/Combat|Combat (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -54,6 +54,10 @@ With a ranged weapon, your attack bonus is:
 | Huge       | –2            | Diminutive | +4           |
 | Large      | –1            | Fine       | +8           |
 | Medium     | +0           |            |               |
+
+##### Combat Maneuver Bonus and Defense
+
+Bull rush, grapple, trip and the other [[rangoric-srd/combat/Combat Maneuvers|combat maneuvers]] use your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|combat maneuver bonus]] (CMB) in place of your attack bonus, against the target’s [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|combat maneuver defense]] (CMD).
 
 ##### Damage
 
