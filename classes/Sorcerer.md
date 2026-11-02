@@ -112,6 +112,8 @@ Each bloodline gives:
 - **Bloodline feats**: at 7th level, and every six levels thereafter, a sorcerer receives one bonus feat, chosen from a list specific to each bloodline. The sorcerer must meet the prerequisites for these bonus feats.
 - **Bloodline arcana**: an ability that is always on.
 
+The bloodlines are in [[rangoric-srd/class-options/bloodlines/Bloodlines|Bloodlines]]: [[rangoric-srd/class-options/bloodlines/Aberrant Bloodline|aberrant]], [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|abyssal]], [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|arcane]], [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|celestial]], [[rangoric-srd/class-options/bloodlines/Destined Bloodline|destined]], [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|draconic]], [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|elemental]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|fey]], [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|infernal]], [[rangoric-srd/class-options/bloodlines/Undead Bloodline|undead]].
+
 **Familiar**: A sorcerer can obtain a [[rangoric-srd/classes/Wizard#Familiars|familiar]]. Doing so takes 24 hours and uses up magical materials that cost 100 gp. A familiar is a magical beast that resembles a small animal and is unusually tough and intelligent. The creature serves as a companion and servant. ^sorcerer-familiar
 
 The sorcerer chooses the kind of familiar he gets. As the sorcerer advances in level, his familiar also increases in power.

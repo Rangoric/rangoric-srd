@@ -223,7 +223,8 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Contagion\|Contagion]]:                                               | Infects subject with chosen disease.                                                                                               |
 |               | [[rangoric-srd/spells/Enervation\|Enervation]]:                                             | Subject gains 1d4 negative levels.                                                                                                 |
 |               | [[rangoric-srd/spells/Fear\|Fear]]:                                                         | Subjects within cone flee for 1 round/level.                                                                                       |
-| Transmutation | [[rangoric-srd/spells/Enlarge Person, Mass\|Enlarge Person, Mass]]:                         | Enlarges several creatures.                                                                                                        |
+| Transmutation | [[rangoric-srd/spells/Elemental Body I\|Elemental Body I]] (M): | You become a Small elemental. |
+|               | [[rangoric-srd/spells/Enlarge Person, Mass\|Enlarge Person, Mass]]:                         | Enlarges several creatures.                                                                                                        |
 |               | [[rangoric-srd/spells/Mnemonic Enhancer\|Mnemonic Enhancer]] (F):                           | Wizard only. Prepares extra spells or retains one just cast.                                                                       |
 |               | [[rangoric-srd/spells/Polymorph\|Polymorph]]:                                               | Gives one willing subject a new form.                                                                                              |
 |               | [[rangoric-srd/spells/Reduce Person, Mass\|Reduce Person, Mass]]:                           | Reduces several creatures.                                                                                                         |
@@ -269,6 +270,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Waves of Fatigue\|Waves of Fatigue]]:             | Several targets become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued\|fatigued]]. |
 | Transmutation | [[rangoric-srd/spells/Animal Growth\|Animal Growth]]:                   | One animal/two levels doubles in size.                                                                 |
 |               | [[rangoric-srd/spells/Baleful Polymorph\|Baleful Polymorph]]:           | Transforms subject into harmless animal.                                                               |
+|               | [[rangoric-srd/spells/Elemental Body II\|Elemental Body II]] (M): | You become a Small or Medium elemental. |
 |               | [[rangoric-srd/spells/Fabricate\|Fabricate]]:                           | Transforms raw materials into finished items.                                                          |
 |               | [[rangoric-srd/spells/Overland Flight\|Overland Flight]]:               | You fly at a speed of 40 ft. and can hustle over long distances.                                       |
 |               | [[rangoric-srd/spells/Passwall\|Passwall]]:                             | Creates passage through wood or stone wall.                                                            |
@@ -317,6 +319,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Control Water\|Control Water]]:                       | Raises or lowers bodies of water.                                                                                                                                                            |
 |               | [[rangoric-srd/spells/Disintegrate\|Disintegrate]]:                         | Makes one creature or object vanish.                                                                                                                                                         |
 |               | [[rangoric-srd/spells/Eagle’s Splendor, Mass\|Eagle’s Splendor, Mass]]:     | As eagle’s splendor, affects one subject/level.                                                                                                                                              |
+|               | [[rangoric-srd/spells/Elemental Body III\|Elemental Body III]] (M): | You become a Small, Medium or Large elemental. |
 |               | [[rangoric-srd/spells/Flesh to Stone\|Flesh to Stone]]:                     | Turns subject creature into statue.                                                                                                                                                          |
 |               | [[rangoric-srd/spells/Form of the Dragon I\|Form of the Dragon I]] (M): | You become a Medium dragon. |
 |               | [[rangoric-srd/spells/Fox’s Cunning, Mass\|Fox’s Cunning, Mass]]:           | As fox’s cunning, affects one subject/ level.                                                                                                                                                |
@@ -361,6 +364,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Symbol of Weakness\|Symbol of Weakness]] (M):                 | Triggered rune weakens nearby creatures.                                                                                                     |
 |               | [[rangoric-srd/spells/Waves of Exhaustion\|Waves of Exhaustion]]:                   | Several targets become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted\|exhausted]].                                     |
 | Transmutation | [[rangoric-srd/spells/Control Weather\|Control Weather]]:                           | Changes weather in local area.                                                                                                               |
+|               | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M): | You become a Small to Huge elemental. |
 |               | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]]:                             | You become ethereal for 1 round/level.                                                                                                       |
 |               | [[rangoric-srd/spells/Form of the Dragon II\|Form of the Dragon II]] (M): | You become a Medium or Large dragon. |
 |               | [[rangoric-srd/spells/Reverse Gravity\|Reverse Gravity]]:                           | Objects and creatures fall upward.                                                                                                           |
@@ -403,7 +407,8 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Create Greater Undead\|Create Greater Undead]] (M):     | Create shadows, wraiths, spectres, or devourers.                                                                               |
 |               | [[rangoric-srd/spells/Horrid Wilting\|Horrid Wilting]]:                       | Deals 1d6/level damage within 30 ft.                                                                                           |
 |               | [[rangoric-srd/spells/Symbol of Death\|Symbol of Death]] (M):                 | Triggered rune slays nearby creatures.                                                                                         |
-| Transmutation | [[rangoric-srd/spells/Iron Body\|Iron Body]]:                                 | Your body becomes living iron.                                                                                                 |
+| Transmutation | [[rangoric-srd/spells/Form of the Dragon III\|Form of the Dragon III]] (M): | You become a Medium, Large or Huge dragon. |
+|               | [[rangoric-srd/spells/Iron Body\|Iron Body]]:                                 | Your body becomes living iron.                                                                                                 |
 |               | [[rangoric-srd/spells/Polymorph Any Object\|Polymorph Any Object]]:           | Changes any subject into anything else.                                                                                        |
 |               | [[rangoric-srd/spells/Temporal Stasis\|Temporal Stasis]] (M):                 | Puts subject into suspended animation.                                                                                         |
 
