@@ -10,7 +10,9 @@ hit-dice: "1d10+2 (7 hp)"
 initiative: "+0"
 speed: "20 ft. in scale mail (4 squares); base speed 20 ft."
 armor-class: "16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16"
-base-attack-grapple: "+1/+2"
+base-attack: "+1"
+cmb: "+2"
+cmd: "12 (16 vs. bull rush and trip)"
 attack: "Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)"
 full-attack: "Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 20 ft. in scale mail (4 squares); base speed 20 ft.
   - **Armor Class**: 16 (+4 scale mail, +2 heavy shield), touch 10, flat-footed 16
-  - **Base Attack/Grapple**: +1/+2
+  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12 (16 vs. bull rush and trip)
   - **Attack**: Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
   - **Full Attack**: Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
   - **Space/Reach**: 5 ft./5 ft.

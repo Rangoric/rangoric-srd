@@ -9,7 +9,9 @@ hit-dice: "1d10+2 (7 hp)"
 initiative: "-1"
 speed: "30 ft. (6 squares)"
 armor-class: "13 (-1 Dex, +4 scale mail), touch 9, flat-footed 13"
-base-attack-grapple: "+1/+7"
+base-attack: "+1"
+cmb: "+4"
+cmd: "13"
 attack: "Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ranged (1d8+2)"
 full-attack: "Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ranged (1d8+2)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^g
 **Initiative:** -1     
 **Speed:** 30 ft. (6 squares)     
 **Armor Class:** 13 (-1 Dex, +4 scale mail), touch 9, flat-footed 13     
-**Base Attack/Grapple:** +1/+7     
+**Base Attack:** +1; **CMB:** +4; **CMD:** 13     
 **Attack:** Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ranged (1d8+2)     
 Full **Attack:** Large greatsword +4 melee (3d6+3/19-20) or Large javelin +0 ranged (1d8+2)     
 **Space/Reach:** 5 ft./5 ft.     

@@ -10,7 +10,9 @@ hit-dice: "1d4+2 plus 4 (10 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "16 (+1 size, +1 Dex, +4 inertial armor), touch 11, flatfooted 15"
-base-attack-grapple: "+0/-6"
+base-attack: "+0"
+cmb: "–3"
+cmd: "9"
 attack: "Quarterstaff -2 melee (1d4-2) or light crossbow +1 ranged (1d6/19-20)"
 full-attack: "Quarterstaff -2 melee (1d4-2) or light crossbow +1 ranged (1d6/19-20)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^hu
 **Initiative:** +1    
 **Speed:** 30 ft. (6 squares)     
 **Armor Class:** 16 (+1 size, +1 Dex, +4 inertial armor), touch 11, flatfooted 15     
-**Base Attack/Grapple:** +0/-6     
+**Base Attack:** +0; **CMB:** –3; **CMD:** 9     
 **Attack:** Quarterstaff -2 melee (1d4-2) or light crossbow +1 ranged (1d6/19-20)     
 **Full Attack:** Quarterstaff -2 melee (1d4-2) or light crossbow +1 ranged (1d6/19-20)     
 **Space/Reach:** 5 ft./5 ft.     

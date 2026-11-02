@@ -8,7 +8,9 @@ hit-dice: "2d8+2 (11 hp)"
 initiative: "–5"
 speed: "0 ft."
 armor-class: "8 (–5 Dex, +3 natural), touch 5, flat-footed 8"
-base-attack-grapple: "+1/–4"
+base-attack: "+1"
+cmb: "—"
+cmd: "11 (can't be tripped)"
 attack: "—"
 full-attack: "—"
 space-reach: "5 ft./0 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –5
   - **Speed**: 0 ft.
   - **Armor Class**: 8 (–5 Dex, +3 natural), touch 5, flat-footed 8
-  - **Base Attack/Grapple**: +1/–4
+  - **Base Attack**: +1; **CMB**: —; **CMD**: 11 (can't be tripped)
   - **Attack**: —
   - **Full Attack**: —
   - **Space/Reach**: 5 ft./0 ft.

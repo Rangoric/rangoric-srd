@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters|Monsters (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -49,11 +49,11 @@ The Armor Class line gives the creature’s AC for normal combat and includes a 
 
 A creature’s armor proficiencies (if it has any) depend on its type, but in general a creature is automatically proficient with any kind of armor it is described as wearing (light, medium, or heavy), and with all lighter kinds of armor.
 
-###### Base Attack/Grapple
+###### Base Attack, CMB and CMD
 
-The number before the slash on this line is the creature’s base attack bonus (before any modifiers are applied). This number won’t often be used, but it can be handy sometimes, especially if the creature has the Power Attack or Combat Expertise feats.
+The first number on this line is the creature’s base attack bonus (before any modifiers are applied). This number won’t often be used, but it can be handy sometimes, especially if the creature has the Power Attack or Combat Expertise feats.
 
-The number after the slash is the creature’s grapple bonus, which is used when the creature makes a grapple attack or when someone tries to grapple the creature. The grapple bonus includes all modifiers that apply to the creature’s grapple checks (base attack bonus, Strength modifier, special size modifier, and any other applicable modifier, such as a racial bonus on grapple checks).
+CMB is the creature’s [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|combat maneuver bonus]], used when it attempts a combat maneuver such as a grapple or trip, and CMD is its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|combat maneuver defense]], the DC for a combat maneuver against it. A bonus that applies only to some maneuvers follows in parentheses, such as “+15 grapple” for a creature with improved grab or a racial bonus on grapple checks, or “27 vs. trip” for a creature with more than two legs. A “—” means the creature can’t perform combat maneuvers, or for CMD, can’t be the target of one.
 
 ###### Attack
 

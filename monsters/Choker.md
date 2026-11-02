@@ -7,7 +7,9 @@ hit-dice: "3d8+3 (16 hp)"
 initiative: "+6"
 speed: "20 ft. (4 squares), climb 10 ft."
 armor-class: "17 (+1 size, +2 Dex, +4 natural), touch 13, flat-footed 15"
-base-attack-grapple: "+2/+5"
+base-attack: "+2"
+cmb: "+4 (+12 grapple)"
+cmd: "16"
 attack: "Tentacle +6 melee (1d3+3)"
 full-attack: "2 tentacles +6 melee (1d3+3)"
 space-reach: "5 ft./10 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares), climb 10 ft.
   - **Armor Class**: 17 (+1 size, +2 Dex, +4 natural), touch 13, flat-footed 15
-  - **Base Attack/Grapple**: +2/+5
+  - **Base Attack**: +2; **CMB**: +4 (+12 grapple); **CMD**: 16
   - **Attack**: Tentacle +6 melee (1d3+3)
   - **Full Attack**: 2 tentacles +6 melee (1d3+3)
   - **Space/Reach**: 5 ft./10 ft.
@@ -68,7 +70,7 @@ A choker likes to perch near the ceiling, often at intersections, archways, well
 
 **Constrict (Ex)**: A choker deals 1d3+3 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check against a Large or smaller creature. Because it seizes its victim by the neck, a creature in the choker’s grasp cannot speak or cast spells with verbal components.
 
-**Improved Grab (Ex)**: To use this ability, a choker must hit a Large or smaller opponent with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict. Chokers receive a +4 racial bonus on grapple checks, which is already included in the statistics block.
+**Improved Grab (Ex)**: To use this ability, a choker must hit a Large or smaller opponent with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict. Chokers receive a +4 racial bonus on grapple checks, which is already included in the statistics block.
 
 **Quickness (Su)**: Although not particularly dexterous, a choker is supernaturally quick. It can take an extra standard action or move action during its turn each round.
 
