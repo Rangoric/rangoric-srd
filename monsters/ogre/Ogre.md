@@ -7,7 +7,9 @@ hit-dice: "4d8+11 (29 hp)"
 initiative: "-1"
 speed: "30 ft. in hide armor (6 squares); base speed 40 ft."
 armor-class: "16 (-1 size, -1 Dex, +5 natural, +3 hide armor), touch 8, flat-footed 16"
-base-attack-grapple: "+3/+12"
+base-attack: "+3"
+cmb: "+9"
+cmd: "18"
 attack: "Greatclub +8 melee (2d8+7) or javelin +1 ranged (1d8+5)"
 full-attack: "Greatclub +8 melee (2d8+7) or javelin +1 ranged (1d8+5)"
 space-reach: "10 ft./10 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: -1
   - **Speed**: 30 ft. in hide armor (6 squares); base speed 40 ft.
   - **Armor Class**: 16 (-1 size, -1 Dex, +5 natural, +3 hide armor), touch 8, flat-footed 16
-  - **Base Attack/Grapple**: +3/+12
+  - **Base Attack**: +3; **CMB**: +9; **CMD**: 18
   - **Attack**: Greatclub +8 melee (2d8+7) or javelin +1 ranged (1d8+5)
   - **Full Attack**: Greatclub +8 melee (2d8+7) or javelin +1 ranged (1d8+5)
   - **Space/Reach**: 10 ft./10 ft.

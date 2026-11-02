@@ -9,7 +9,9 @@ hit-dice: "25d8+200 (312 hp)"
 initiative: "+2"
 speed: "20 ft. (4 squares)"
 armor-class: "28 (-4 size, -2 Dex, +24 natural), touch 4, flatfooted 28"
-base-attack-grapple: "+18/+40"
+base-attack: "+18"
+cmb: "+32 (+36 grapple)"
+cmd: "40 (can't be tripped)"
 attack: "Tentacle rake +24 melee (2d6+10/19-20)"
 full-attack: "4 tentacle rakes +24 melee (2d6+10/19-20)"
 space-reach: "30 ft./30 ft."
@@ -42,7 +44,7 @@ Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilitie
 **Initiative:** +2     
 **Speed:** 20 ft. (4 squares)     
 **Armor Class:** 28 (-4 size, -2 Dex, +24 natural), touch 4, flatfooted 28     
-**Base Attack/Grapple:** +18/+40     
+**Base Attack:** +18; **CMB:** +32 (+36 grapple); **CMD:** 40 (can't be tripped)     
 **Attack:** Tentacle rake +24 melee (2d6+10/19-20)     
 Full **Attack:** 4 tentacle rakes +24 melee (2d6+10/19-20)     
 **Space/Reach:** 30 ft./30 ft.     

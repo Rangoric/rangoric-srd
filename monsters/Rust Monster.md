@@ -7,7 +7,9 @@ hit-dice: "5d8+5 (27 hp)"
 initiative: "+3"
 speed: "40 ft. (8 squares)"
 armor-class: "18 (+3 Dex, +5 natural), touch 13, flat-footed 15"
-base-attack-grapple: "+3/+3"
+base-attack: "+3"
+cmb: "+3"
+cmd: "16 (20 vs. trip)"
 attack: "Antennae touch +3 melee (rust)"
 full-attack: "Antennae touch +3 melee (rust) and bite –2 melee (1d3)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 18 (+3 Dex, +5 natural), touch 13, flat-footed 15
-  - **Base Attack/Grapple**: +3/+3
+  - **Base Attack**: +3; **CMB**: +3; **CMD**: 16 (20 vs. trip)
   - **Attack**: Antennae touch +3 melee (rust)
   - **Full Attack**: Antennae touch +3 melee (rust) and bite –2 melee (1d3)
   - **Space/Reach**: 5 ft./5 ft.

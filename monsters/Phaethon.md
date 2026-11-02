@@ -11,7 +11,9 @@ hit-dice: "62d8+806 (1,362 hp)"
 initiative: "+15 (+7 Dex, +8 Superior Initiative)"
 speed: "120 ft., burrow 120 ft."
 armor-class: "47 (-4 size, +7 Dex, +34 natural)"
-base-attack-grapple: "+62/+98"
+base-attack: "+62"
+cmb: "+90 (+94 grapple)"
+cmd: "107"
 attack: "pseudopod slam +85 (4d8+24 plus fire damage) melee"
 full-attack: "8 pseudopod slams +85 (4d8+24 plus fire damage) melee"
 space-reach: "20 ft./10 ft."
@@ -45,7 +47,7 @@ Hit Dice: 62d8+806 (1,362 hp)    
 Initiative: +15 (+7 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 120 ft., burrow 120 ft.      
 AC: 47 (-4 size, +7 Dex, +34 natural)      
-Base Attack/Grapple: +62/+98     
+Base Attack: +62; CMB: +90 (+94 grapple); CMD: 107     
 Attack: pseudopod slam +85 (4d8+24 plus fire damage) melee     
 Full Attack: 8 pseudopod slams +85 (4d8+24 plus fire damage) melee      
 Space/Reach: 20 ft./10 ft.      

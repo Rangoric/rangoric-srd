@@ -9,7 +9,9 @@ hit-dice: "3d8+3 (16 hp)"
 initiative: "+4"
 speed: "20 ft. (4 squares), fly 60 ft. (perfect)"
 armor-class: "25 (+15 natural), touch 10, flat-footed 25"
-base-attack-grapple: "+3/+4"
+base-attack: "+3"
+cmb: "+4"
+cmd: "14 (can't be tripped)"
 attack: "Tail slap +4 melee (1d6+1 plus positive energy) or tail touch +4 melee touch (positive energy)"
 full-attack: "Tail slap +4 melee (1d6+1 plus positive energy) and claw +2 melee (1d4 plus positive energy); or tail touch +4 melee touch (positive energy) and claw touch +2 melee touch (positive energy)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: 20 ft. (4 squares), fly 60 ft. (perfect)
   - **Armor Class**: 25 (+15 natural), touch 10, flat-footed 25
-  - **Base Attack/Grapple**: +3/+4
+  - **Base Attack**: +3; **CMB**: +4; **CMD**: 14 (can't be tripped)
   - **Attack**: Tail slap +4 melee (1d6+1 plus positive energy) or tail touch +4 melee touch (positive energy)
   - **Full Attack**: Tail slap +4 melee (1d6+1 plus positive energy) and claw +2 melee (1d4 plus positive energy); or tail touch +4 melee touch (positive energy) and claw touch +2 melee touch (positive energy)
   - **Space/Reach**: 5 ft./5 ft.

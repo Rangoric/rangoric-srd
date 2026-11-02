@@ -7,7 +7,9 @@ hit-dice: "35d8+315 (472 hp)"
 initiative: "+5 (-3 Dex, +8 Superior Initiative)"
 speed: "40 ft."
 armor-class: "27 (-3 Dex, -8 size, +28 natural)"
-base-attack-grapple: "+26/+55"
+base-attack: "+26"
+cmb: "+47 (+51 grapple)"
+cmd: "54 (can't be tripped)"
 attack: "Tendril +31 (2d6+13/19-20) melee"
 full-attack: "4 tendrils +31 (2d6+13/19-20) melee, 1 bite +26 (4d6+6/19-20) melee"
 space-reach: "30 ft./30 ft."
@@ -41,7 +43,7 @@ Hit Dice: 35d8+315 (472 hp)    
 Initiative: +5 (-3 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 40 ft.      
 AC: 27 (-3 Dex, -8 size, +28 natural)      
-Base Attack/Grapple: +26/+55     
+Base Attack: +26; CMB: +47 (+51 grapple); CMD: 54 (can't be tripped)     
 Attack: Tendril +31 (2d6+13/19-20) melee     
 Full Attack: 4 tendrils +31 (2d6+13/19-20) melee, 1 bite +26 (4d6+6/19-20) melee     
 Space/Reach: 30 ft./30 ft.      

@@ -9,7 +9,9 @@ hit-dice: "1d10+1 (6 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "13 (+3 studded leather armor), touch 10, flat-footed 13"
-base-attack-grapple: "+1/+4"
+base-attack: "+1"
+cmb: "+4"
+cmd: "14"
 attack: "Falchion +4 melee (2d4+4/18–20) or javelin +1 ranged (1d6+3)"
 full-attack: "Falchion +4 melee (2d4+4/18–20) or javelin +1 ranged (1d6+3)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 13 (+3 studded leather armor), touch 10, flat-footed 13
-  - **Base Attack/Grapple**: +1/+4
+  - **Base Attack**: +1; **CMB**: +4; **CMD**: 14
   - **Attack**: Falchion +4 melee (2d4+4/18–20) or javelin +1 ranged (1d6+3)
   - **Full Attack**: Falchion +4 melee (2d4+4/18–20) or javelin +1 ranged (1d6+3)
   - **Space/Reach**: 5 ft./5 ft.

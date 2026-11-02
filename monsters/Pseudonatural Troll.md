@@ -9,7 +9,9 @@ hit-dice: "6d8+66 (114 hp)"
 initiative: "+7 (Dex)"
 speed: "60 ft."
 armor-class: "51 (-1 size, +7 Dex, +35 natural)"
-base-attack-grapple: "+4/+40"
+base-attack: "+4"
+cmb: "+22 (+26 grapple)"
+cmd: "39"
 attack: "Tentacle rake +35 (2d8+17) melee"
 full-attack: "5 tentacle rakes +35 (2d8+17) melee"
 space-reach: "10 ft./10 ft."
@@ -42,7 +44,7 @@ Hit Dice: 6d8+66 (114 hp)    
 Initiative: +7 (Dex)      
 Speed: 60 ft.      
 AC: 51 (-1 size, +7 Dex, +35 natural)      
-Base Attack/Grapple: +4/+40     
+Base Attack: +4; CMB: +22 (+26 grapple); CMD: 39     
 Attack: Tentacle rake +35 (2d8+17) melee     
 Full Attack: 5 tentacle rakes +35 (2d8+17) melee     
 Space/Reach: 10 ft./10 ft.      

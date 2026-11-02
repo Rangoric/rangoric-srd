@@ -10,7 +10,9 @@ hit-dice: "10d10+80 (135 hp)"
 initiative: "+3"
 speed: "50 ft. (10 squares)"
 armor-class: "21 (–2 size, +3 Dex, +10 natural), touch 11, flat-footed 18"
-base-attack-grapple: "+7/+25"
+base-attack: "+7"
+cmb: "+19 (+23 grapple)"
+cmd: "32 (36 vs. trip)"
 attack: "Claw +15 melee (2d6+10) and eye ray +8 ranged touch"
 full-attack: "4 claws +15 melee (2d6+10) and bite +10 melee (1d8+5) and eye ray +8 ranged touch"
 space-reach: "15 ft./10 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 50 ft. (10 squares)
   - **Armor Class**: 21 (–2 size, +3 Dex, +10 natural), touch 11, flat-footed 18
-  - **Base Attack/Grapple**: +7/+25
+  - **Base Attack**: +7; **CMB**: +19 (+23 grapple); **CMD**: 32 (36 vs. trip)
   - **Attack**: Claw +15 melee (2d6+10) and eye ray +8 ranged touch
   - **Full Attack**: 4 claws +15 melee (2d6+10) and bite +10 melee (1d8+5) and eye ray +8 ranged touch
   - **Space/Reach**: 15 ft./10 ft.
@@ -81,4 +83,4 @@ The four eye effects are:
 
 **Find Target (Sp)**: When ordered to find an item or a creature, a retriever does so unerringly, as though guided by [[rangoric-srd/spells/Discern Location|discern location]]. The being giving the order must have seen (or must have an item belonging to) the creature to be found, or must have touched the object to be located. This ability is the equivalent of an 8th-level spell.
 
-**Improved Grab (Ex)**: To use this ability, a retriever must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and grips the opponent fast in its mouth. This is the method by which it usually “retrieves” things.
+**Improved Grab (Ex)**: To use this ability, a retriever must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and grips the opponent fast in its mouth. This is the method by which it usually “retrieves” things.

@@ -12,7 +12,9 @@ hit-dice: "36d8+324 (612 hp)"
 initiative: "+11 (+7 Dex, +4 Improved Initiative)"
 speed: "80 ft., fly 120 ft. (perfect)"
 armor-class: "50 (-1 size, +7 Dex, +11 deflection, +23 insight)"
-base-attack-grapple: "+36/­­-"
+base-attack: "+36"
+cmb: "—"
+cmd: "89"
 attack: "Incorporeal touch +43 (1d6 plus stasis touch) melee"
 full-attack: "Incorporeal touch +43 (1d6 plus stasis touch) melee"
 space-reach: "10 ft./10 ft."
@@ -46,7 +48,7 @@ Hit Dice: 36d8+324 (612 hp)    
 Initiative: +11 (+7 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 80 ft., fly 120 ft. (perfect)      
 AC: 50 (-1 size, +7 Dex, +11 deflection, +23 insight)      
-Base Attack/Grapple: +36/­­-     
+Base Attack: +36; CMB: —; CMD: 89     
 Attack: Incorporeal touch +43 (1d6 plus stasis touch) melee     
 Full Attack: Incorporeal touch +43 (1d6 plus stasis touch) melee     
 Space/Reach: 10 ft./10 ft.      

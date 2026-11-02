@@ -7,7 +7,9 @@ hit-dice: "5d8+10 (32 hp)"
 initiative: "+3"
 speed: "40 ft. (8 squares)"
 armor-class: "15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12"
-base-attack-grapple: "+3/+12"
+base-attack: "+3"
+cmb: "+9 (+13 grapple)"
+cmd: "22 (26 vs. trip)"
 attack: "Claw +7 melee (1d4+5)"
 full-attack: "2 claws +7 melee (1d4+5) and bite +2 melee (1d8+2)"
 space-reach: "10 ft./5 ft."
@@ -38,7 +40,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12
-  - **Base Attack/Grapple**: +3/+12
+  - **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 22 (26 vs. trip)
   - **Attack**: Claw +7 melee (1d4+5)
   - **Full Attack**: 2 claws +7 melee (1d4+5) and bite +2 melee (1d8+2)
   - **Space/Reach**: 10 ft./5 ft.
@@ -60,7 +62,7 @@ The statistics presented here describe a male African lion, which is 5 to 8 feet
 
 **Pounce (Ex)**: If a lion charges a foe, it can make a full attack, including two rake attacks.
 
-**Improved Grab (Ex)**: To use this ability, a lion must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a lion must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Rake (Ex)**: Attack bonus +7 melee, damage 1d4+2.
 

@@ -9,7 +9,9 @@ hit-dice: "50d8+500 (725 hp)"
 initiative: "+16"
 speed: "20 ft., climb 20 ft., fly 90 ft. (perfect)"
 armor-class: "30 (+2 size, +16 Dex, +2 natural), touch 28, flatfooted 14"
-base-attack-grapple: "+37/-"
+base-attack: "+37"
+cmb: "—"
+cmd: "—"
 attack: "Swarm (5d6)"
 full-attack: "Swarm (5d6)"
 space-reach: "10 ft./0 ft."
@@ -42,7 +44,7 @@ Hit Dice: 50d8+500 (725 hp)   
 Initiative: +16     
 Speed: 20 ft., climb 20 ft., fly 90 ft. (perfect)     
 Armor Class: 30 (+2 size, +16 Dex, +2 natural), touch 28, flatfooted 14     
-Base Attack/Grapple: +37/-     
+Base Attack: +37; CMB: —; CMD: —     
 Attack: Swarm (5d6)     
 Full Attack: Swarm (5d6)     
 Space/Reach: 10 ft./0 ft.     

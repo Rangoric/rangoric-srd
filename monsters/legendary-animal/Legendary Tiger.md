@@ -8,7 +8,9 @@ hit-dice: "26d8+188 (305 hp)"
 initiative: "+8 (+4 Dex, +4 Improved Initiative)"
 speed: "50 ft."
 armor-class: "23 (-1 size, +4 Dex, +10 natural)"
-base-attack-grapple: "+19/+34"
+base-attack: "+19"
+cmb: "+31 (+35 grapple)"
+cmd: "45 (49 vs. trip)"
 attack: "Claw +29 (2d6+11) melee"
 full-attack: "2 claws +29 (2d6+11) melee, bite +24 (2d8+5) melee"
 space-reach: "10 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +8 (+4 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])
   - **Speed**: 50 ft.
   - **Armor Class**: 23 (-1 size, +4 Dex, +10 natural)
-  - **Base Attack/Grapple**: +19/+34
+  - **Base Attack**: +19; **CMB**: +31 (+35 grapple); **CMD**: 45 (49 vs. trip)
   - **Attack**: Claw +29 (2d6+11) melee
   - **Full Attack**: 2 claws +29 (2d6+11) melee, bite +24 (2d8+5) melee
   - **Space/Reach**: 10 ft./5 ft.

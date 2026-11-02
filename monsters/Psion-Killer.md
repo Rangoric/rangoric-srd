@@ -7,7 +7,9 @@ hit-dice: "15d10+30 (112 hp)"
 initiative: "+0"
 speed: "20 ft. (4 squares)"
 armor-class: "28 (-1 size, +19 natural), touch 9, flat-footed 28"
-base-attack-grapple: "+11/+25"
+base-attack: "+11"
+cmb: "+22"
+cmd: "32"
 attack: "Slam +20 melee (2d10+10)"
 full-attack: "2 slams +20 melee (2d10+10)"
 space-reach: "10 ft./10 ft."
@@ -40,7 +42,7 @@ Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^co
 **Initiative:** +0     
 **Speed:** 20 ft. (4 squares)     
 **Armor Class:** 28 (-1 size, +19 natural), touch 9, flat-footed 28     
-**Base Attack/Grapple:** +11/+25     
+**Base Attack:** +11; **CMB:** +22; **CMD:** 32     
 **Attack:** Slam +20 melee (2d10+10)     
 Full **Attack:** 2 slams +20 melee (2d10+10)     
 **Space/Reach:** 10 ft./10 ft.     

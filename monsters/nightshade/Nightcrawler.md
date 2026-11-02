@@ -10,7 +10,9 @@ hit-dice: "25d12+50 (212 hp)"
 initiative: "+4"
 speed: "30 ft. (6 squares), burrow 60 ft."
 armor-class: "35 (–4 size, +29 natural), touch 6, flat-footed 35"
-base-attack-grapple: "+12/+45"
+base-attack: "+12"
+cmb: "+35"
+cmd: "45 (can't be tripped)"
 attack: "Bite +29 melee (4d6+21)"
 full-attack: "Bite +29 melee (4d6+21/19–20) and sting +24 melee (2d8+11/19–20 plus poison)"
 space-reach: "20 ft./15 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: 30 ft. (6 squares), burrow 60 ft.
   - **Armor Class**: 35 (–4 size, +29 natural), touch 6, flat-footed 35
-  - **Base Attack/Grapple**: +12/+45
+  - **Base Attack**: +12; **CMB**: +35; **CMD**: 45 (can't be tripped)
   - **Attack**: Bite +29 melee (4d6+21)
   - **Full Attack**: Bite +29 melee (4d6+21/19–20) and sting +24 melee (2d8+11/19–20 plus poison)
   - **Space/Reach**: 20 ft./15 ft.
@@ -74,7 +76,7 @@ A nightcrawler’s natural weapons are treated as magic weapons for the purpose 
 
 **Energy Drain (Su)**: Living creatures inside a nightcrawler’s gizzard gain one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]] each round. The DC is 26 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the nightcrawler gains 5 temporary hit points.
 
-**Improved Grab (Ex)**: To use this ability, a nightcrawler must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
+**Improved Grab (Ex)**: To use this ability, a nightcrawler must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
 
 **Poison (Ex)**: Injury, Fortitude DC 22, initial and secondary damage 2d6 Str. The save DC is Constitution-based.
 

@@ -7,7 +7,9 @@ hit-dice: "As master’s HD (hp 1/2 master’s)"
 initiative: "+2"
 speed: "30 ft. (6 squares), climb 20 ft.*"
 armor-class: "16 (+4 size, +2 Dex*), touch 16, flatfooted 14"
-base-attack-grapple: "+0/-17"
+base-attack: "+0"
+cmb: "–2"
+cmd: "3 (can't be tripped)"
 attack: "-"
 full-attack: "-"
 space-reach: "1 ft./0 ft."
@@ -39,7 +41,7 @@ Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilitie
 **Initiative:** +2     
 **Speed:** 30 ft. (6 squares), climb 20 ft.\*     
 **Armor Class:** 16 (+4 size, +2 Dex\*), touch 16, flatfooted 14     
-**Base Attack/Grapple:** +0/-17     
+**Base Attack:** +0; **CMB:** –2; **CMD:** 3 (can't be tripped)     
 **Attack:** -     
 Full **Attack:** -     
 **Space/Reach:** 1 ft./0 ft.     

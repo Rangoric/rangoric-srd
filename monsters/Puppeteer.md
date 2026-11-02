@@ -9,7 +9,9 @@ hit-dice: "1/4 d10 (1 hp)"
 initiative: "+2"
 speed: "5 ft. (1 square)"
 armor-class: "20 (+8 size, +2 Dex), touch 20, flat-footed 18"
-base-attack-grapple: "+1/-20"
+base-attack: "+1"
+cmb: "–5"
+cmd: "0 (8 vs. trip)"
 attack: "Bite +4 melee (1d2-5)"
 full-attack: "Bite +4 melee (1d2-5)"
 space-reach: "1/2 ft./0 ft."
@@ -42,7 +44,7 @@ Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mag
 **Initiative:** +2     
 **Speed:** 5 ft. (1 square)     
 **Armor Class:** 20 (+8 size, +2 Dex), touch 20, flat-footed 18     
-**Base Attack/Grapple:** +1/-20     
+**Base Attack:** +1; **CMB:** –5; **CMD:** 0 (8 vs. trip)     
 **Attack:** Bite +4 melee (1d2-5)     
 Full **Attack:** Bite +4 melee (1d2-5)     
 **Space/Reach:** 1/2 ft./0 ft.     

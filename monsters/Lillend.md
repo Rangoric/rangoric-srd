@@ -11,7 +11,9 @@ hit-dice: "7d8+14 (45 hp)"
 initiative: "+3"
 speed: "20 ft. (4 squares), fly 70 ft. (average)"
 armor-class: "17 (–1 size, +3 Dex, +5 natural), touch 12, flat-footed 14"
-base-attack-grapple: "+7/+16"
+base-attack: "+7"
+cmb: "+13 (+17 grapple)"
+cmd: "26 (can't be tripped)"
 attack: "Short sword +11 melee (1d8+5/19–20)"
 full-attack: "Short sword +11/+6 melee (1d8+5/19–20) and tail slap +6 melee (2d6+2)"
 space-reach: "10 ft./10 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 20 ft. (4 squares), fly 70 ft. (average)
   - **Armor Class**: 17 (–1 size, +3 Dex, +5 natural), touch 12, flat-footed 14
-  - **Base Attack/Grapple**: +7/+16
+  - **Base Attack**: +7; **CMB**: +13 (+17 grapple); **CMD**: 26 (can't be tripped)
   - **Attack**: Short sword +11 melee (1d8+5/19–20)
   - **Full Attack**: Short sword +11/+6 melee (1d8+5/19–20) and tail slap +6 melee (2d6+2)
   - **Space/Reach**: 10 ft./10 ft.
@@ -75,7 +77,7 @@ A lillend’s natural weapons, as well as any weapons it wields, are treated as 
 
 **Constrict (Ex)**: A lillend deals 2d6+5 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. Constricting uses the entire lower portion of its body, so it cannot take any move actions when constricting, though it can still attack with its sword.
 
-**Improved Grab (Ex)**: To use this ability, a lillend must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a lillend must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Spells**: A lillend casts arcane spells as a 6th-level bard.
 

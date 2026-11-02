@@ -9,7 +9,9 @@ hit-dice: "2d8 (9 hp)"
 initiative: "+1"
 speed: "10 ft. (2 squares), swim 60 ft."
 armor-class: "14 (+1 Dex, +3 natural), touch 11, flat-footed 13"
-base-attack-grapple: "+1/+1"
+base-attack: "+1"
+cmb: "+1"
+cmd: "12"
 attack: "Longspear +2 melee (1d8/x3) or light crossbow +2 ranged (1d8/19–20)"
 full-attack: "Longspear +2 melee (1d8/x3) or light crossbow +2 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 10 ft. (2 squares), swim 60 ft.
   - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-  - **Base Attack/Grapple**: +1/+1
+  - **Base Attack**: +1; **CMB**: +1; **CMD**: 12
   - **Attack**: Longspear +2 melee (1d8/x3) or light crossbow +2 ranged (1d8/19–20)
   - **Full Attack**: Longspear +2 melee (1d8/x3) or light crossbow +2 ranged (1d8/19–20)
   - **Space/Reach**: 5 ft./5 ft.

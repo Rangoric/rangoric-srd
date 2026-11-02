@@ -7,7 +7,9 @@ hit-dice: "50d6+650 (825 hp)"
 initiative: "+21 (+17 Dex, +4 Improved Initiative)"
 speed: "40 ft."
 armor-class: "52 (+17 Dex, +20 insight, +5 natural armor)"
-base-attack-grapple: "+25/+30"
+base-attack: "+25"
+cmb: "+30"
+cmd: "78"
 attack: "+10 keen brilliant energy bastard sword +53 (1d10+15/17-20) melee"
 full-attack: "2 +10 keen brilliant energy bastard swords +53/+48/+43/+38 (1d10+15/17-20) melee"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ Hit Dice: 50d6+650 (825 hp)    
 Initiative: +21 (+17 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 40 ft.      
 AC: 52 (+17 Dex, +20 insight, +5 natural armor)      
-Base Attack/Grapple: +25/+30     
+Base Attack: +25; CMB: +30; CMD: 78     
 Attack: +10 keen brilliant energy bastard sword +53 (1d10+15/17-20) melee     
 Full Attack: 2 +10 keen brilliant energy bastard swords +53/+48/+43/+38 (1d10+15/17-20) melee     
 Space/Reach: 5 ft./5 ft.      

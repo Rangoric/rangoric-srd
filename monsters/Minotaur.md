@@ -7,7 +7,9 @@ hit-dice: "6d8+12 (39 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "14 (–1 size, +5 natural), touch 9, flat-footed — (see text)"
-base-attack-grapple: "+6/+14"
+base-attack: "+6"
+cmb: "+11"
+cmd: "21"
 attack: "Greataxe +9 melee (3d6+6/x3) or gore +9 melee (1d8+4)"
 full-attack: "Greataxe +9/+4 melee (3d6+6/x3) and gore +4 melee (1d8+2)"
 space-reach: "10 ft./10 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 14 (–1 size, +5 natural), touch 9, flat-footed — (see text)
-  - **Base Attack/Grapple**: +6/+14
+  - **Base Attack**: +6; **CMB**: +11; **CMD**: 21
   - **Attack**: Greataxe +9 melee (3d6+6/x3) or gore +9 melee (1d8+4)
   - **Full Attack**: Greataxe +9/+4 melee (3d6+6/x3) and gore +4 melee (1d8+2)
   - **Space/Reach**: 10 ft./10 ft.
