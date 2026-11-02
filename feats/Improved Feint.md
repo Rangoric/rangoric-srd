@@ -3,6 +3,7 @@ srd-type: "feat"
 section: "Feats"
 prerequisites: "Int 13, Combat Expertise."
 based-on:
+  - "[[path srd 3.5/feats/Improved Feint|Improved Feint (PF1)]]"
   - "[[fantasy srd 3.5/feats/Improved Feint|Improved Feint (3.5)]]"
 status: draft
 change: modified
