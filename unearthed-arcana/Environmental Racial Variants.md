@@ -608,7 +608,7 @@ Jungle races avoid heavily populated areas, settling in remote areas of wilderne
 
 ###### Religion
 
-Members of the jungle races tend to be more superstitious than religious. Most rely on religious leaders (some of whom are actually [[rangoric-srd/classes/NPC Classes#Adept|adepts]] of great power) to give them spiritual guidance. Individuals may pray to aspects of animal and nature deities, but only rarely does one of them achieve true communion with such a deity.
+Members of the jungle races tend to be more superstitious than religious. Most rely on religious leaders (some of whom are actually [[rangoric-srd/classes/Adept|adepts]] of great power) to give them spiritual guidance. Individuals may pray to aspects of animal and nature deities, but only rarely does one of them achieve true communion with such a deity.
 
 ###### Adventurers
 

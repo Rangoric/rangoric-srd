@@ -244,7 +244,7 @@ A bardic sage's powers of inspiration are not as persistent as those of a tradit
 
 #### Divine Bard
 
-Not all [[rangoric-srd/classes/Bard|bards]] are arcanists; some derive their special powers from a divine tradition. In many primitive cultures, the divine bard takes the place of the [[rangoric-srd/classes/Cleric|cleric]] or the [[rangoric-srd/classes/NPC Classes#Adept|adept]] as the guide of the people's religious beliefs.
+Not all [[rangoric-srd/classes/Bard|bards]] are arcanists; some derive their special powers from a divine tradition. In many primitive cultures, the divine bard takes the place of the [[rangoric-srd/classes/Cleric|cleric]] or the [[rangoric-srd/classes/Adept|adept]] as the guide of the people's religious beliefs.
 
 ##### Class Features
 

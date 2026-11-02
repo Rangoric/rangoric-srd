@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-01 | NPC classes get one note each (Adept, Aristocrat, Commoner, Expert, Warrior); NPC Classes becomes an overview embedding them. From Pathfinder: Commoner d6, Expert d8 and Warrior d10 Hit Dice; Investigation for the aristocrat and commoner; the adept's list adds new spells *stabilize* and *enemy's heart*. | [[rangoric-srd/classes/NPC Classes\|NPC Classes]] and the five class notes | PSRD's NPC classes | [[Merging NPC Classes]] |
 | 2026-11-01 | 12 new feats from Pathfinder's terrain and travel feats: City Sprinter, Deep Breath, Deep Diver, Moontouched, Storm Survivor, Sure-Footed, Tree Leaper, Waterway Caster and the four Wilding feats. The first batch of Feat Topics. | [[FT Batch 1 Changes]] | 12 new | [[Feat Topics]] |
 | 2026-11-01 | The 34 replaced skill notes (Move Silently, Search and the rest) are deleted; git keeps them. Links to them in history notes (this Changelog, research, finished plans) are plain text now. Agent SRD Rules says when a replaced note can be deleted. | [[DS Batch 1 Changes]] | 34 deleted, 77 changed | [[Deleting Replaced Skill Notes]] |
 | 2026-11-01 | Rangoric SRD's sources table lists Faeries (Bastion Press) under individual books, now that Lore uses it. | [[Rangoric SRD]] | 1 note | Missed in [[Fey and Folk Tale Lore]]; made on main with Wilson's agreement |

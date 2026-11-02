@@ -1,0 +1,54 @@
+---
+srd-type: "class"
+section: "Classes"
+hit-die: "d6"
+skill-points: "2 + Int modifier"
+based-on:
+  - "[[fantasy srd 3.5/classes/NPC Classes#Commoner|NPC Classes (3.5)]]"
+  - "[[path srd 3.5/classes/Commoner|Commoner (PF1)]]"
+status: draft
+change: modified
+pi-review: 2026-11-01
+tags: [rangoric, rangoric/class]
+---
+
+# Commoner
+
+**Hit Die**: d6.
+
+## Class Skills
+
+The commoner’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
+
+**Skill Points at Each Level**: 2 + Int modifier.
+
+**Table: The Commoner**
+
+| NPC Level | Base Attack Bonus | Fort Save | Ref Save | Will Save |
+| --------- | ----------------- | --------- | -------- | --------- |
+| 1st       | +0               | +0       | +0      | +0       |
+| 2nd       | +1               | +0       | +0      | +0       |
+| 3rd       | +1               | +1       | +1      | +1       |
+| 4th       | +2               | +1       | +1      | +1       |
+| 5th       | +2               | +1       | +1      | +1       |
+| 6th       | +3               | +2       | +2      | +2       |
+| 7th       | +3               | +2       | +2      | +2       |
+| 8th       | +4               | +2       | +2      | +2       |
+| 9th       | +4               | +3       | +3      | +3       |
+| 10th      | +5               | +3       | +3      | +3       |
+| 11th      | +5               | +3       | +3      | +3       |
+| 12th      | +6/+1            | +4       | +4      | +4       |
+| 13th      | +6/+1            | +4       | +4      | +4       |
+| 14th      | +7/+2            | +4       | +4      | +4       |
+| 15th      | +7/+2            | +5       | +5      | +5       |
+| 16th      | +8/+3            | +5       | +5      | +5       |
+| 17th      | +8/+3            | +5       | +5      | +5       |
+| 18th      | +9/+4            | +6       | +6      | +6       |
+| 19th      | +9/+4            | +6       | +6      | +6       |
+| 20th      | +10/+5           | +6       | +6      | +6       |
+
+## Class Features
+
+The following is a class feature of the commoner NPC class.
+
+**Weapon and Armor Proficiency**: The commoner is proficient with one simple weapon. He is not proficient with any other weapons, nor is he proficient with any type of armor or shields.
