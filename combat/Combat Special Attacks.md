@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Combat"
 based-on:
   - "[[fantasy srd 3.5/combat/Combat Special Attacks|Combat Special Attacks (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/combat/Special Attacks|Special Attacks (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -18,16 +19,20 @@ tags: [rangoric, rangoric/overview]
 | Special Attack                                   | Brief Description                                                  |
 | ------------------------------------------------ | ------------------------------------------------------------------ |
 | [[#Aid Another\|Aid another]]                    | Grant an ally a +2 bonus on attacks or AC                          |
-| [[#Bull Rush\|Bull rush]]                        | Push an opponent back 5 feet or more                               |
+| [[#Bull Rush\|Bull rush]] | Push an opponent back 5 feet or more (combat maneuver) |
 | [[#Charge\|Charge]]                              | Move up to twice your speed and attack with +2 bonus               |
-| [[#Disarm\|Disarm]]                              | Knock a weapon from your opponent’s hands                          |
+| [[#Disarm\|Disarm]] | Make an opponent drop what it’s holding (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Dirty Trick\|Dirty trick]] | Blind, dazzle, deafen, entangle, shake or sicken an opponent briefly (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Drag\|Drag]] | Pull an opponent along behind you (combat maneuver) |
 | [[#Feint\|Feint]]                                | Negate your opponent’s Dex bonus to AC                             |
-| [[#Grapple\|Grapple]]                            | Wrestle with an opponent                                           |
+| [[#Grapple\|Grapple]] | Hold an opponent (combat maneuver) |
 | [[#Mounted Combat\|Mounted Combat]]              | Fight while riding a mount.                                        |
-| [[#Overrun\|Overrun]]                            | Plow past or over an opponent as you move                          |
-| [[#Sunder\|Sunder]]                              | Strike an opponent’s weapon or shield                              |
+| [[#Overrun\|Overrun]] | Move through an opponent’s space (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Reposition\|Reposition]] | Move an opponent within your reach (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Steal\|Steal]] | Take an item an opponent isn’t holding (combat maneuver) |
+| [[#Sunder\|Sunder]] | Damage an item an opponent holds or wears (combat maneuver) |
 | [[#Throw Splash Weapon\|Throw splash weapon]]    | Throw container of dangerous liquid at target                      |
-| [[#Trip\|Trip]]                                  | Trip an opponent                                                   |
+| [[#Trip\|Trip]] | Knock an opponent prone (combat maneuver) |
 | [[#Turn or Rebuke Undead\|Turn (rebuke) undead]] | Channel positive (or negative) energy to turn away (or awe) undead |
 | [[#Two-Weapon Fighting\|Two-weapon fighting]]    | Fight with a weapon in each hand                                   |
 
@@ -39,15 +44,7 @@ You can also use this standard action to help a friend in other ways, such as wh
 
 ##### Bull Rush
 
-You can make a bull rush as a standard action (an attack) or as part of a charge (see [[#Charge|Charge]], below). When you make a bull rush, you attempt to push an opponent straight back instead of damaging him. You can only bull rush an opponent who is one size category larger than you, the same size, or smaller.
-
-**Initiating a Bull Rush**: First, you move into the defender’s space. Doing this provokes an attack of opportunity from each opponent that threatens you, including the defender. (If you have the Improved Bull Rush feat, you don’t provoke an attack of opportunity from the defender.) Any attack of opportunity made by anyone other than the defender against you during a bull rush has a 25% chance of accidentally targeting the defender instead, and any attack of opportunity by anyone other than you against the defender likewise has a 25% chance of accidentally targeting you. (When someone makes an attack of opportunity, make the attack roll and then roll to see whether the attack went astray.)
-
-Second, you and the defender make opposed Strength checks. You each add a +4 bonus for each size category you are larger than Medium or a –4 penalty for each size category you are smaller than Medium. You get a +2 bonus if you are charging. The defender gets a +4 bonus if he has more than two legs or is otherwise exceptionally stable.
-
-**Bull Rush Results**: If you beat the defender’s Strength check result, you push him back 5 feet. If you wish to move with the defender, you can push him back an additional 5 feet for each 5 points by which your check result is greater than the defender’s check result. You can’t, however, exceed your normal movement limit. (Note: The defender provokes attacks of opportunity if he is moved. So do you, if you move with him. The two of you do not provoke attacks of opportunity from each other, however.)
-
-If you fail to beat the defender’s Strength check result, you move 5 feet straight back to where you were before you moved into his space. If that space is occupied, you fall prone in that space.
+A bull rush is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|Bull Rush]].
 
 ##### Charge
 
@@ -63,7 +60,7 @@ If you are able to take only a standard action or a move action on your turn, yo
 
 **Attacking on a Charge**: After moving, you may make a single melee attack. You get a +2 bonus on the attack roll. and take a –2 penalty to your AC until the start of your next turn.
 
-A charging character gets a +2 bonus on the Strength check made to bull rush an opponent (see [[#Bull Rush|Bull Rush]], above).
+You can make a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] in place of the attack, or an [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] as part of the charge.
 
 Even if you have extra attacks, such as from having a high enough base attack bonus or from using multiple weapons, you only get to make one attack during a charge.
 
@@ -73,25 +70,7 @@ Weapons Readied against a Charge: Spears, tridents, and certain other piercing w
 
 ##### Disarm
 
-As a melee attack, you may attempt to disarm your opponent. If you do so with a weapon, you knock the opponent’s weapon out of his hands and to the ground. If you attempt the disarm while unarmed, you end up with the weapon in your hand.
-
-If you’re attempting to disarm a melee weapon, follow the steps outlined here. If the item you are attempting to disarm isn’t a melee weapon the defender may still oppose you with an attack roll, but takes a penalty and can’t attempt to disarm you in return if your attempt fails.
-
-**Step 1: Attack of Opportunity**. You provoke an attack of opportunity from the target you are trying to disarm. (If you have the Improved Disarm feat, you don’t incur an attack of opportunity for making a disarm attempt.) If the defender’s attack of opportunity deals any damage, your disarm attempt fails.
-
-**Step 2: Opposed Rolls**. You and the defender make opposed attack rolls with your respective weapons. The wielder of a two-handed weapon on a disarm attempt gets a +4 bonus on this roll, and the wielder of a light weapon takes a –4 penalty. (An unarmed strike is considered a light weapon, so you always take a penalty when trying to disarm an opponent by using an unarmed strike.) If the combatants are of different sizes, the larger combatant gets a bonus on the attack roll of +4 per difference in size category. If the targeted item isn’t a melee weapon, the defender takes a –4 penalty on the roll.
-
-**Step Three: Consequences**. If you beat the defender, the defender is disarmed. If you attempted the disarm action unarmed, you now have the weapon. If you were armed, the defender’s weapon is on the ground in the defender’s square.
-
-If you fail on the disarm attempt, the defender may immediately react and attempt to disarm you with the same sort of opposed melee attack roll. His attempt does not provoke an attack of opportunity from you. If he fails his disarm attempt, you do not subsequently get a free disarm attempt against him.
-
-*Note*: A defender wearing spiked gauntlets can’t be disarmed. A defender using a weapon attached to a locked gauntlet gets a +10 bonus to resist being disarmed.
-
-###### Grabbing Items
-
-You can use a disarm action to snatch an item worn by the target. If you want to have the item in your hand, the disarm must be made as an unarmed attack. If the item is poorly secured or otherwise easy to snatch or cut away the attacker gets a +4 bonus. Unlike on a normal disarm attempt, failing the attempt doesn’t allow the defender to attempt to disarm you. This otherwise functions identically to a disarm attempt, as noted above.
-
-You can’t snatch an item that is well secured unless you have pinned the wearer (see [[#Grapple|Grapple]]). Even then, the defender gains a +4 bonus on his roll to resist the attempt.
+A disarm is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[rangoric-srd/combat/Combat Maneuvers#Disarm|Disarm]].
 
 ##### Feint
 
@@ -105,97 +84,7 @@ Feinting in combat does not provoke attacks of opportunity.
 
 ##### Grapple
 
-###### Grapple Checks
-
-Repeatedly in a grapple, you need to make opposed grapple checks against an opponent. A grapple check is like a melee attack roll. Your attack bonus on a grapple check is:
-
-**Base attack bonus + Strength modifier + special size modifier**
-
-**Special Size Modifier**: The special size modifier for a grapple check is as follows: Colossal +16, Gargantuan +12, Huge +8, Large +4, Medium +0, Small –4, Tiny –8, Diminutive –12, Fine –16. Use this number in place of the normal size modifier you use when making an attack roll.
-
-###### Starting a Grapple
-
-To start a grapple, you need to grab and hold your target. Starting a grapple requires a successful melee attack roll. If you get multiple attacks, you can attempt to start a grapple multiple times (at successively lower base attack bonuses).
-
-**Step 1: Attack of Opportunity**. You provoke an attack of opportunity from the target you are trying to grapple. If the attack of opportunity deals damage, the grapple attempt fails. (Certain monsters do not provoke attacks of opportunity when they attempt to grapple, nor do characters with the Improved Grapple feat.) If the attack of opportunity misses or fails to deal damage, proceed to Step 2.
-
-**Step 2: Grab**. You make a melee touch attack to grab the target. If you fail to hit the target, the grapple attempt fails. If you succeed, proceed to Step 3.
-
-**Step 3: Hold**. Make an opposed grapple check as a free action. If you succeed, you and your target are now grappling, and you deal damage to the target as if with an unarmed strike.
-
-If you lose, you fail to start the grapple. You automatically lose an attempt to hold if the target is two or more size categories larger than you are.
-
-In case of a tie, the combatant with the higher grapple check modifier wins. If this is a tie, roll again to break the tie.
-
-**Step 4: Maintain Grapple**. To maintain the grapple for later rounds, you must move into the target’s space. (This movement is free and doesn’t count as part of your movement in the round.) Moving, as normal, provokes attacks of opportunity from threatening opponents, but not from your target.
-
-If you can’t move into your target’s space, you can’t maintain the grapple and must immediately let go of the target. To grapple again, you must begin at Step 1.
-
-###### Grappling Consequences
-
-While you’re grappling, your ability to attack others and defend yourself is limited.
-
-**No Threatened Squares**: You don’t threaten any squares while grappling.
-
-**No Dexterity Bonus**: You lose your Dexterity bonus to AC (if you have one) against opponents you aren’t grappling. (You can still use it against opponents you are grappling.)
-
-**No Movement**: You can’t move normally while grappling. You may, however, make an opposed grapple check (see below) to move while grappling.
-
-###### If You’re Grappling
-
-When you are grappling (regardless of who started the grapple), you can perform any of the following actions. Some of these actions take the place of an attack (rather than being a standard action or a move action). If your base attack bonus allows you multiple attacks, you can attempt one of these actions in place of each of your attacks, but at successively lower base attack bonuses.
-
-**Activate a Magic Item**: You can activate a magic item, as long as the item doesn’t require a spell completion trigger. You don’t need to make a grapple check to activate the item.
-
-**Attack Your Opponent**: You can make an attack with an unarmed strike, natural weapon, or light weapon against another character you are grappling. You take a –4 penalty on such attacks. You can’t attack with two weapons while grappling, even if both are light weapons.
-
-**Cast a Spell**: You can attempt to cast a spell while grappling or even while pinned (see below), provided its casting time is no more than 1 standard action, it has no somatic component, and you have in hand any material components or focuses you might need. Any spell that requires precise and careful action is impossible to cast while grappling or being pinned. If the spell is one that you can cast while grappling, you must make a [[rangoric-srd/rules/Concentration (Check)|Concentration check]] or lose the spell. You don’t have to make a successful grapple check to cast the spell.
-
-**Damage Your Opponent**: While grappling, you can deal damage to your opponent equivalent to an unarmed strike. Make an opposed grapple check in place of an attack. If you win, you deal nonlethal damage as normal for your unarmed strike (1d3 points for Medium attackers or 1d2 points for Small attackers, plus Strength modifiers). If you want to deal lethal damage, you take a –4 penalty on your grapple check.
-
-*Exception*: Monks deal more damage on an unarmed strike than other characters, and the damage is lethal. However, they can choose to deal their damage as nonlethal damage when grappling without taking the usual –4 penalty for changing lethal damage to nonlethal damage.
-
-**Draw a Light Weapon**: You can draw a light weapon as a move action with a successful grapple check.
-
-**Escape from Grapple**: You can escape a grapple by winning an opposed grapple check in place of making an attack. You can make an Escape Artist check in place of your grapple check if you so desire, but this requires a standard action. If more than one opponent is grappling you, your grapple check result has to beat all their individual check results to escape. (Opponents don’t have to try to hold you if they don’t want to.) If you escape, you finish the action by moving into any space adjacent to your opponent(s).
-
-**Move**: You can move half your speed (bringing all others engaged in the grapple with you) by winning an opposed grapple check. This requires a standard action, and you must beat all the other individual check results to move the grapple.
-
-*Note*: You get a +4 bonus on your grapple check to move a pinned opponent, but only if no one else is involved in the grapple.
-
-**Retrieve a Spell Component**: You can produce a spell component from your pouch while grappling by using a full-round action. Doing so does not require a successful grapple check.
-
-**Pin Your Opponent**: You can hold your opponent immobile for 1 round by winning an opposed grapple check (made in place of an attack). Once you have an opponent pinned, you have a few options available to you (see below).
-
-**Break Another’s Pin**: If you are grappling an opponent who has another character pinned, you can make an opposed grapple check in place of an attack. If you win, you break the hold that the opponent has over the other character. The character is still grappling, but is no longer pinned.
-
-**Use Opponent’s Weapon**: If your opponent is holding a light weapon, you can use it to attack him. Make an opposed grapple check (in place of an attack). If you win, make an attack roll with the weapon with a –4 penalty (doing this doesn’t require another action). You don’t gain possession of the weapon by performing this action.
-
-###### If You’re Pinning an Opponent
-
-You can attempt to damage your opponent with an opposed grapple check, you can attempt to use your opponent’s weapon against him, or you can attempt to move the grapple (all described above). At your option, you can prevent a pinned opponent from speaking.
-
-You can use a disarm action to remove or grab away a well secured object worn by a pinned opponent, but he gets a +4 bonus on his roll to resist your attempt (see [[#Disarm|Disarm]]).
-
-You may voluntarily release a pinned character as a free action; if you do so, you are no longer considered to be grappling that character (and vice versa).
-
-You can’t draw or use a weapon (against the pinned character or any other character), escape another’s grapple, retrieve a spell component, pin another character, or break another’s pin while you are pinning an opponent.
-
-###### If You’re Pinned by an Opponent
-
-When an opponent has pinned you, you are held immobile (but not helpless) for 1 round. While you’re pinned, you take a –4 penalty to your AC against opponents other than the one pinning you. At your opponent’s option, you may also be unable to speak. On your turn, you can try to escape the pin by making an opposed grapple check in place of an attack. You can make an Escape Artist check in place of your grapple check if you want, but this requires a standard action. If you win, you escape the pin, but you’re still grappling.
-
-###### Joining a Grapple
-
-If your target is already grappling someone else, you can use an attack to start a grapple, as above, except that the target doesn’t get an attack of opportunity against you, and your grab automatically succeeds. You still have to make a successful opposed grapple check to become part of the grapple.
-
-If there are multiple opponents involved in the grapple, you pick one to make the opposed grapple check against.
-
-###### Multiple Grapplers
-
-Several combatants can be in a single grapple. Up to four combatants can grapple a single opponent in a given round. Creatures that are one or more size categories smaller than you count for half, creatures that are one size category larger than you count double, and creatures two or more size categories larger count quadruple.
-
-When you are grappling with multiple opponents, you choose one opponent to make an opposed check against. The exception is an attempt to escape from the grapple; to successfully escape, your grapple check must beat the check results of each opponent.
+A grapple is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[rangoric-srd/combat/Combat Maneuvers#Grapple|Grapple]].
 
 ##### Mounted Combat
 
@@ -221,60 +110,11 @@ You can use ranged weapons while your mount is taking a double move, but at a �
 
 ##### Overrun
 
-You can attempt an overrun as a standard action taken during your move. (In general, you cannot take a standard action during a move; this is an exception.) With an overrun, you attempt to plow past or over your opponent (and move through his square) as you move. You can only overrun an opponent who is one size category larger than you, the same size, or smaller. You can make only one overrun attempt per round.
-
-If you’re attempting to overrun an opponent, follow these steps.
-
-**Step 1: Attack of Opportunity**. Since you begin the overrun by moving into the defender’s space, you provoke an attack of opportunity from the defender.
-
-**Step 2: Opponent Avoids**? The defender has the option to simply avoid you. If he avoids you, he doesn’t suffer any ill effect and you may keep moving (You can always move through a square occupied by someone who lets you by.) The overrun attempt doesn’t count against your actions this round (except for any movement required to enter the opponent’s square). If your opponent doesn’t avoid you, move to Step 3.
-
-**Step 3: Opponent Blocks**? If your opponent blocks you, make a Strength check opposed by the defender’s Dexterity or Strength check (whichever ability score has the higher modifier). A combatant gets a +4 bonus on the check for every size category he is larger than Medium or a –4 penalty for every size category he is smaller than Medium. The defender gets a +4 bonus on his check if he has more than two legs or is otherwise more stable than a normal humanoid. If you win, you knock the defender prone. If you lose, the defender may immediately react and make a Strength check opposed by your Dexterity or Strength check (including the size modifiers noted above, but no other modifiers) to try to knock you prone.
-
-**Step 4: Consequences**. If you succeed in knocking your opponent prone, you can continue your movement as normal. If you fail and are knocked prone in turn, you have to move 5 feet back the way you came and fall prone, ending your movement there. If you fail but are not knocked prone, you have to move 5 feet back the way you came, ending your movement there. If that square is occupied, you fall prone in that square.
-
-**Improved Overrun**: If you have the Improved Overrun feat, your target may not choose to avoid you.
-
-**Mounted Overrun (Trample)**: If you attempt an overrun while mounted, your mount makes the Strength check to determine the success or failure of the overrun attack (and applies its size modifier, rather than yours). If you have the Trample feat and attempt an overrun while mounted, your target may not choose to avoid you, and if you knock your opponent prone with the overrun, your mount may make one hoof attack against your opponent.
+An overrun is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[rangoric-srd/combat/Combat Maneuvers#Overrun|Overrun]].
 
 ##### Sunder
 
-You can use a melee attack with a slashing or bludgeoning weapon to strike a weapon or shield that your opponent is holding. If you’re attempting to sunder a weapon or shield, follow the steps outlined here. (Attacking held objects other than weapons or shields is covered below.)
-
-**Table: Common Armor, Weapon, and Shield Hardness and Hit Points**
-
-| Weapon or Shield               | Hardness    | HP (1)          |
-| ------------------------------ | ----------- | --------------- |
-| Light blade                    | 10          | 2               |
-| One-handed blade               | 10          | 5               |
-| Two-handed blade               | 10          | 10              |
-| Light metal-hafted weapon      | 10          | 10              |
-| One-handed metal-hafted weapon | 10          | 20              |
-| Light hafted weapon            | 5           | 2               |
-| One-handed hafted weapon       | 5           | 5               |
-| Two-handed hafted weapon       | 5           | 10              |
-| Projectile weapon              | 5           | 5               |
-| Armor                          | special (2) | armor bonus x 5 |
-| Buckler                        | 10          | 5               |
-| Light wooden shield            | 5           | 7               |
-| Heavy wooden shield            | 5           | 15              |
-| Light steel shield             | 10          | 10              |
-| Heavy steel shield             | 10          | 20              |
-| Tower shield                   | 5           | 20              |
-
-1 *The hp value given is for Medium armor, weapons, and shields. Divide by 2 for each size category of the item smaller than Medium, or multiply it by 2 for each size category larger than Medium.*
-
-2 *Varies by material.*
-
-**Step 1: Attack of Opportunity**. You provoke an attack of opportunity from the target whose weapon or shield you are trying to sunder. (If you have the Improved Sunder feat, you don’t incur an attack of opportunity for making the attempt.)
-
-**Step 2: Opposed Rolls**. You and the defender make opposed attack rolls with your respective weapons. The wielder of a two-handed weapon on a sunder attempt gets a +4 bonus on this roll, and the wielder of a light weapon takes a –4 penalty. If the combatants are of different sizes, the larger combatant gets a bonus on the attack roll of +4 per difference in size category.
-
-**Step 3: Consequences**. If you beat the defender, roll damage and deal it to the weapon or shield. See Table: Common Armor, Weapon, and Shield Hardness and Hit Points to determine how much damage you must deal to destroy the weapon or shield.
-
-If you fail the sunder attempt, you don’t deal any damage.
-
-*Sundering a Carried or Worn Object*: You don’t use an opposed attack roll to damage a carried or worn object. Instead, just make an attack roll against the object’s AC. A carried or worn object’s AC is equal to 10 + its size modifier + the Dexterity modifier of the carrying or wearing character. Attacking a carried or worn object provokes an attack of opportunity just as attacking a held object does. To attempt to snatch away an item worn by a defender rather than damage it, see [[#Disarm|Disarm]]. You can’t sunder armor worn by another character.
+A sunder is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[rangoric-srd/combat/Combat Maneuvers#Sunder|Sunder]].
 
 ##### Throw Splash Weapon
 
@@ -288,19 +128,7 @@ After you determine where the weapon landed, it deals splash damage to all creat
 
 ##### Trip
 
-You can try to trip an opponent as an unarmed melee attack. You can only trip an opponent who is one size category larger than you, the same size, or smaller.
-
-**Making a Trip Attack**: Make an unarmed melee touch attack against your target. This provokes an attack of opportunity from your target as normal for unarmed attacks.
-
-If your attack succeeds, make a Strength check opposed by the defender’s Dexterity or Strength check (whichever ability score has the higher modifier). A combatant gets a +4 bonus for every size category he is larger than Medium or a –4 penalty for every size category he is smaller than Medium. The defender gets a +4 bonus on his check if he has more than two legs or is otherwise more stable than a normal humanoid. If you win, you trip the defender. If you lose, the defender may immediately react and make a Strength check opposed by your Dexterity or Strength check to try to trip you.
-
-*Avoiding Attacks of Opportunity*: If you have the Improved Trip feat, or if you are tripping with a weapon (see below), you don’t provoke an attack of opportunity for making a trip attack.
-
-**Being Tripped (Prone)**: A tripped character is prone. Standing up is a move action.
-
-**Tripping a Mounted Opponent**: You may make a trip attack against a mounted opponent. The defender may make an Animal Handling check in place of his Dexterity or Strength check. If you succeed, you pull the rider from his mount.
-
-**Tripping with a Weapon**: Some weapons can be used to make trip attacks. In this case, you make a melee touch attack with the weapon instead of an unarmed melee touch attack, and you don’t provoke an attack of opportunity. If you are tripped during your own trip attempt, you can drop the weapon to avoid being tripped.
+A trip is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[rangoric-srd/combat/Combat Maneuvers#Trip|Trip]].
 
 ##### Turn or Rebuke Undead
 

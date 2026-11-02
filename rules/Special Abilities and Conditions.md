@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/glossary/Conditions|Conditions (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -690,9 +691,7 @@ Alos see [[#Energy Drain and Negative Levels|Energy Drain and Negative Levels]].
 **Frightened**: A frightened creature flees from the source of its fear as best it can. If unable to flee, it may fight. A frightened creature takes a –2 penalty on all attack rolls, saving throws, skill checks, and ability checks. A frightened creature can use special abilities, including spells, to flee; indeed, the creature must use such means if they are the only way to escape.  
 Frightened is like [[#^shaken|shaken]], except that the creature must flee if possible. [[#^panicked|Panicked]] is a more extreme state of fear. ^frightened
 
-**Grappling**: Engaged in wrestling or some other form of hand-to-hand struggle with one or more attackers. A grappling character can undertake only a limited number of actions. He does not threaten any squares, and loses his Dexterity bonus to AC (if any) against opponents he isn’t grappling.  
-Also see the [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] rules.  
- ^grappling
+**Grappled**: Held in a grapple; see [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]]. ^grappling
 
 **Helpless**: A helpless character is [[#^paralyzed|paralyzed]], held, bound, sleeping, [[#^unconscious|unconscious]], or otherwise completely at an opponent’s mercy. A helpless target is treated as having a Dexterity of 0 (–5 modifier). Melee attacks against a helpless target get a +4 bonus (equivalent to attacking a [[#^prone|prone]] target). Ranged attacks gets no special bonus against helpless targets. Rogues can sneak attack helpless targets. ^helpless
 
@@ -719,7 +718,7 @@ Panicked is a more extreme state of fear than [[#^shaken|shaken]] or [[#^frighte
 
 **Petrified**: A petrified character has been turned to stone and is considered [[#^unconscious|unconscious]]. If a petrified character cracks or breaks, but the broken pieces are joined with the body as he returns to flesh, he is unharmed. If the character’s petrified body is incomplete when it returns to flesh, the body is likewise incomplete and there is some amount of permanent hit point loss and/or debilitation. ^petrified
 
-**Pinned**: Held immobile (but not [[#^helpless|helpless]]) in a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]]. ^pinned
+**Pinned**: Held tightly in a grapple; see [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]]. ^pinned
 
 **Prone**: The character is on the ground. An attacker who is prone has a –4 penalty on melee attack rolls and cannot use a ranged weapon (except for a crossbow). A defender who is prone gains a +4 bonus to Armor Class against ranged attacks, but takes a –4 penalty to AC against melee attacks.  
 Standing up is a move-equivalent action that provokes an attack of opportunity. ^prone
