@@ -9,7 +9,9 @@ hit-dice: "3d8 (13 hp)"
 initiative: "+8"
 speed: "40 ft. (8 squares)"
 armor-class: "17 (+1 size, +4 Dex, +2 natural), touch 15, flatfooted 13"
-base-attack-grapple: "+2/-1"
+base-attack: "+2"
+cmb: "+2"
+cmd: "16 (20 vs. trip)"
 attack: "+4 melee touch (eat thoughts)"
 full-attack: "+4 melee touch (eat thoughts)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ab
 **Initiative:** +8     
 **Speed:** 40 ft. (8 squares)     
 **Armor Class:** 17 (+1 size, +4 Dex, +2 natural), touch 15, flatfooted 13     
-**Base Attack/Grapple:** +2/-1     
+**Base Attack:** +2; **CMB:** +2; **CMD:** 16 (20 vs. trip)     
 **Attack:** +4 melee touch (eat thoughts)     
 Full **Attack:** +4 melee touch (eat thoughts)     
 **Space/Reach:** 5 ft./5 ft.     

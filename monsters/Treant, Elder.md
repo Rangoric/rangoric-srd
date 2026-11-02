@@ -7,7 +7,9 @@ hit-dice: "50d8+880 (1,105 hp)"
 initiative: "+3 (-1 Dex, +4 Improved Initiative)"
 speed: "60 ft."
 armor-class: "41 (-1 Dex, -8 size, +40 natural)"
-base-attack-grapple: "+37/+72"
+base-attack: "+37"
+cmb: "+64"
+cmd: "73"
 attack: "Slam +51 (10d6+19/19-20(+1d6 on critical hit)) melee"
 full-attack: "2 slams +51 (10d6+19/19-20 (+1d6 on a critical hit)) melee"
 space-reach: "30 ft./30 ft."
@@ -41,7 +43,7 @@ Hit Dice: 50d8+880 (1,105 hp)    
 Initiative: +3 (-1 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 60 ft.      
 AC: 41 (-1 Dex, -8 size, +40 natural)      
-Base Attack/Grapple: +37/+72     
+Base Attack: +37; CMB: +64; CMD: 73     
 Attack: Slam +51 (10d6+19/19-20(+1d6 on critical hit)) melee     
 Full Attack: 2 slams +51 (10d6+19/19-20 (+1d6 on a critical hit)) melee     
 Attacks: 2 slams +49 melee      

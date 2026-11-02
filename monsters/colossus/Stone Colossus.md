@@ -8,7 +8,9 @@ hit-dice: "64d10 (432 hp)"
 initiative: "-3 (Dex)"
 speed: "40 ft. (can’t run)"
 armor-class: "44 (-8 size, -3 Dex, +45 natural)"
-base-attack-grapple: "+48/+94"
+base-attack: "+48"
+cmb: "+86"
+cmd: "93"
 attack: "Slam +70 (8d6+30) melee"
 full-attack: "2 slams +70 (8d6+30) melee"
 space-reach: "30 ft./30 ft."
@@ -39,7 +41,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: -3 (Dex)
   - **Speed**: 40 ft. (can’t run)
   - **Armor Class**: 44 (-8 size, -3 Dex, +45 natural)
-  - **Base Attack/Grapple**: +48/+94
+  - **Base Attack**: +48; **CMB**: +86; **CMD**: 93
   - **Attack**: Slam +70 (8d6+30) melee
   - **Full Attack**: 2 slams +70 (8d6+30) melee
   - **Space/Reach**: 30 ft./30 ft.

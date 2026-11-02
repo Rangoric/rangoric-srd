@@ -7,7 +7,9 @@ hit-dice: "48d10+594 (858 hp)"
 initiative: "+7"
 speed: "20 ft. (4 squares)"
 armor-class: "35 (–8 size, +3 Dex, +30 natural), touch 5, flat-footed 32"
-base-attack-grapple: "+48/+81"
+base-attack: "+48"
+cmb: "+73 (+77 grapple)"
+cmd: "87"
 attack: "Bite +57 melee (4d8+17/18–20/x3)"
 full-attack: "Bite +57 melee (4d8+17/18–20/x3) and 2 horns +52 melee (1d10+8) and 2 claws +52 melee (1d12+8) and tail slap +52 melee (3d8+8)"
 space-reach: "30 ft./20 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 35 (–8 size, +3 Dex, +30 natural), touch 5, flat-footed 32
-  - **Base Attack/Grapple**: +48/+81
+  - **Base Attack**: +48; **CMB**: +73 (+77 grapple); **CMD**: 87
   - **Attack**: Bite +57 melee (4d8+17/18–20/x3)
   - **Full Attack**: Bite +57 melee (4d8+17/18–20/x3) and 2 horns +52 melee (1d10+8) and 2 claws +52 melee (1d12+8) and tail slap +52 melee (3d8+8)
   - **Space/Reach**: 30 ft./20 ft.
@@ -72,7 +74,7 @@ The tarrasque’s natural weapons are treated as epic weapons for the purpose of
 
 **Frightful Presence (Su)**: The tarrasque can inspire terror by charging or attacking. Affected creatures must succeed on a DC 36 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]], remaining in that condition as long as they remain with 60 feet of the tarrasque. The save DC is Charisma-based.
 
-**Improved Grab (Ex)**: To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the foe the following round.
+**Improved Grab (Ex)**: To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the foe the following round.
 
 **Rush (Ex)**: Once per minute, the normally slow-moving tarrasque can move at a speed of 150 feet.
 

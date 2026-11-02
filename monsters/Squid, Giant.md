@@ -9,7 +9,9 @@ hit-dice: "12d8+18 (72 hp)"
 initiative: "+3"
 speed: "Swim 80 ft. (16 squares)"
 armor-class: "17 (–2 size, +3 Dex, +6 natural), touch 11, flat-footed 14"
-base-attack-grapple: "+9/+29"
+base-attack: "+9"
+cmb: "+19 (+27 grapple)"
+cmd: "32"
 attack: "Tentacle +15 melee (1d6+8)"
 full-attack: "10 tentacles +15 melee (1d6+8) and bite +10 melee (2d8+4)"
 space-reach: "15 ft./15 ft. (30 ft. with tentacle)"
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: Swim 80 ft. (16 squares)
   - **Armor Class**: 17 (–2 size, +3 Dex, +6 natural), touch 11, flat-footed 14
-  - **Base Attack/Grapple**: +9/+29
+  - **Base Attack**: +9; **CMB**: +19 (+27 grapple); **CMD**: 32
   - **Attack**: Tentacle +15 melee (1d6+8)
   - **Full Attack**: 10 tentacles +15 melee (1d6+8) and bite +10 melee (2d8+4)
   - **Space/Reach**: 15 ft./15 ft. (30 ft. with tentacle)
@@ -64,7 +66,7 @@ An opponent can attack a giant squid’s tentacles with a sunder attempt as if t
 
 **Constrict (Ex)**: A giant squid deals 1d6+8 points of damage with a successful grapple check.
 
-**Improved Grab (Ex)**: To use this ability, a giant squid must hit an opponent of any size with a tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a giant squid must hit an opponent of any size with a tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 \*A giant squid has a +4 racial bonus on grapple checks.
 

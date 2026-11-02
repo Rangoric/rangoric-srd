@@ -7,7 +7,9 @@ hit-dice: "57d10 +120 (433 hp)"
 initiative: "+18 (+10 Dex, +8 Superior Initiative)"
 speed: "Fly 90 ft. (perfect)"
 armor-class: "40 (+10 Dex, +20 natural)"
-base-attack-grapple: "+42/+42"
+base-attack: "+42"
+cmb: "+42"
+cmd: "62 (can't be tripped)"
 attack: "Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch"
 full-attack: "Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ Hit Dice: 57d10 +120 (433 hp)    
 Initiative: +18 (+10 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: Fly 90 ft. (perfect)      
 AC: 40 (+10 Dex, +20 natural)      
-Base Attack/Grapple: +42/+42     
+Base Attack: +42; CMB: +42; CMD: 62 (can't be tripped)     
 Attack: Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch     
 Full Attack: Disintegrating touch +42 (5d6 plus disintegrating touch (Fort DC 38)) melee touch     
 Space/Reach: 5 ft./5 ft.     

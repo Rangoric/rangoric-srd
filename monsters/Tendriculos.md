@@ -7,7 +7,9 @@ hit-dice: "9d8+54 (94 hp)"
 initiative: "–1"
 speed: "20 ft. (4 squares)"
 armor-class: "16 (–2 size, –1 Dex, +9 natural), touch 7, flat-footed 16"
-base-attack-grapple: "+6/+23"
+base-attack: "+6"
+cmb: "+17 (+21 grapple)"
+cmd: "26 (can't be tripped)"
 attack: "Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4)"
 full-attack: "Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4)"
 space-reach: "15 ft./15 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –1
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 16 (–2 size, –1 Dex, +9 natural), touch 7, flat-footed 16
-  - **Base Attack/Grapple**: +6/+23
+  - **Base Attack**: +6; **CMB**: +17 (+21 grapple); **CMD**: 26 (can't be tripped)
   - **Attack**: Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4)
   - **Full Attack**: Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4)
   - **Space/Reach**: 15 ft./15 ft.
@@ -66,9 +68,9 @@ Animals and other plant creatures are unnerved by the presence of a tendriculos;
 
 Prowling deep forests or waiting in vegetated areas (looking like nothing more than a small hillock), a tendriculos attacks savagely, showing no fear. It attempts to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow]] as much flesh as it can, as quickly as it can.
 
-**Improved Grab (Ex)**: To use this ability, a tendriculos must hit a creature at least one size smaller than itself with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
+**Improved Grab (Ex)**: To use this ability, a tendriculos must hit a creature at least one size smaller than itself with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
 
-A tendriculos can also use its improved grab ability on a tendril attack. If it wins the grapple check, it establishes a hold, picks up the opponent, and transfers it to the mouth as a free action, automatically dealing bite damage.
+A tendriculos can also use its improved grab ability on a tendril attack. If it succeeds on the grapple check, it establishes a hold, picks up the opponent, and transfers it to the mouth as a free action, automatically dealing bite damage.
 
 **Swallow Whole/Paralysis (Ex)**: A tendriculos can try to swallow a grabbed opponent by making a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. Once inside the plant’s mass, the opponent must succeed on a DC 20 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 3d6 rounds by the tendriculos’s digestive juices, taking 2d6 points of acid damage per round. A new save is required each round inside the plant. The save DC is Constitution-based.
 

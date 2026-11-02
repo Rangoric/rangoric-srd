@@ -7,7 +7,9 @@ hit-dice: "29d8+348 (478 hp)"
 initiative: "+22 (+14 Dex, +8 Superior Initiative)"
 speed: "70 ft."
 armor-class: "42 (+14 Dex, +18 natural)"
-base-attack-grapple: "+21/+27"
+base-attack: "+21"
+cmb: "+27"
+cmd: "52 (can't be tripped)"
 attack: "Forelimb +36 (0 plus ability drain) melee touch"
 full-attack: "2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ Hit Dice: 29d8+348 (478 hp)    
 Initiative: +22 (+14 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 70 ft.      
 AC: 42 (+14 Dex, +18 natural)      
-Base Attack/Grapple: +21/+27     
+Base Attack: +21; CMB: +27; CMD: 52 (can't be tripped)     
 Attack: Forelimb +36 (0 plus ability drain) melee touch     
 Full Attack: 2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch     
 Space/Reach: 5 ft./5 ft.      
@@ -66,7 +68,7 @@ A thorciasid’s natural weapons are treated as epic for the purpose of overcomi
 
 #### Combat
 
-Cocoon (Ex): A thorciasid can eject a stream of noxious goo that hardens on contact, potentially fixing a subject in place and hindering its movement and actions. Using a standard action, the thorciasid makes a ranged touch attack against any foe it can see up to 60 feet away. If it succeeds at the ranged touch attack, the subject makes a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check against the cocoon. This is accomplished as if the thorciasid itself were making the grapple check with a competence bonus of +10, for a total check modifier of +37. On a failed check for the subject, the goo hardens into a partial cocoon, and the victim is treated as if grappled (even though the thorciasid is free to do as it desires). The subject can attempt to break the grapple of the cocoon (or use [[rangoric-srd/skills/Escape Artist|Escape Artist]]) each round, making an opposed grapple check against the cocoon (check modifier +37 for the cocoon). A thorciasid can reinforce a partial cocoon by spending a standard action secreting additional goo. Each action so spent provides an additional +5 to the cocoon’s grapple check modifier. Visually, the victim becomes more and more covered and is finally completely encased in a cocoon. Even fully encased victims can still breathe, and a thorciasid can drain a victim’s life force at its leisure.
+Cocoon (Ex): A thorciasid can eject a stream of noxious goo that hardens on contact, potentially fixing a subject in place and hindering its movement and actions. Using a standard action, the thorciasid makes a ranged touch attack against any foe it can see up to 60 feet away. If it succeeds at the ranged touch attack, the subject makes a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check against the cocoon. This is accomplished as if the thorciasid itself were making the grapple check with a competence bonus of +10, for a total check modifier of +37. On a failed check for the subject, the goo hardens into a partial cocoon, and the victim is treated as if grappled (even though the thorciasid is free to do as it desires). The subject can attempt to break the grapple of the cocoon (or use [[rangoric-srd/skills/Escape Artist|Escape Artist]]) each round, making a combat maneuver check or Escape Artist check against the cocoon's [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] of 47. A thorciasid can reinforce a partial cocoon by spending a standard action secreting additional goo. Each action so spent provides an additional +5 to the cocoon’s grapple check modifier. Visually, the victim becomes more and more covered and is finally completely encased in a cocoon. Even fully encased victims can still breathe, and a thorciasid can drain a victim’s life force at its leisure.
 
 Ability Drain (Su): On a successful melee touch attack with a forelimb, the thorciasid permanently [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 1d4+1 points of Strength, 1d4+1 points of Dexterity, and 1 point of Constitution from the victim. The thorciasid regains 20 lost hit points with each successful ability drain.
 

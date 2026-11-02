@@ -9,7 +9,9 @@ hit-dice: "70d8+700 (1,015 hp)"
 initiative: "+0"
 speed: "150 ft."
 armor-class: "58 (-8 size, +32 natural, +24 insight)"
-base-attack-grapple: "+70/+104"
+base-attack: "+70"
+cmb: "+95"
+cmd: "129"
 attack: "Colossal +5 warhammer +87 (4d8+30/19-20 (+2d6 on critical hit)) melee; or Colossal +5 javelin +70 (2d10+22/19-20) ranged"
 full-attack: "Colossal +5 warhammer +87/+82/+77/+72 (4d8+30/19-20 (+2d6 on critical hit)) melee; or Colossal +5 javelin +70/+65/+60/+55 (2d10+22/19-20) ranged"
 space-reach: "30 ft./30 ft."
@@ -43,7 +45,7 @@ Hit Dice: 70d8+700 (1,015 hp)    
 Initiative: +0      
 Speed: 150 ft.      
 AC: 58 (-8 size, +32 natural, +24 insight)      
-Base Attack/Grapple: +70/+104     
+Base Attack: +70; CMB: +95; CMD: 129     
 Attack: Colossal +5 warhammer +87 (4d8+30/19-20 (+2d6 on critical hit)) melee; or Colossal +5 javelin +70 (2d10+22/19-20) ranged     
 Full Attack: Colossal +5 warhammer +87/+82/+77/+72 (4d8+30/19-20 (+2d6 on critical hit)) melee; or Colossal +5 javelin +70/+65/+60/+55 (2d10+22/19-20) ranged     
 Space/Reach: 30 ft./30 ft.      

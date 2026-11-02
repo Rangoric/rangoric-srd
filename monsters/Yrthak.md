@@ -7,7 +7,9 @@ hit-dice: "12d10+36 (102 hp)"
 initiative: "+6"
 speed: "20 ft. (4 squares), fly 60 ft. (average)"
 armor-class: "18 (–2 size, +2 Dex, +8 natural), touch 10, flat-footed 16"
-base-attack-grapple: "+12/+25"
+base-attack: "+12"
+cmb: "+19"
+cmd: "31 (35 vs. trip)"
 attack: "Bite +15 melee (2d8+5) or sonic lance +12 ranged touch (6d6)"
 full-attack: "Bite +15 melee (2d8+5) and 2 claws +13 melee (1d6+2); or sonic lance +12 ranged touch (6d6)"
 space-reach: "15 ft./10 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares), fly 60 ft. (average)
   - **Armor Class**: 18 (–2 size, +2 Dex, +8 natural), touch 10, flat-footed 16
-  - **Base Attack/Grapple**: +12/+25
+  - **Base Attack**: +12; **CMB**: +19; **CMD**: 31 (35 vs. trip)
   - **Attack**: Bite +15 melee (2d8+5) or sonic lance +12 ranged touch (6d6)
   - **Full Attack**: Bite +15 melee (2d8+5) and 2 claws +13 melee (1d6+2); or sonic lance +12 ranged touch (6d6)
   - **Space/Reach**: 15 ft./10 ft.

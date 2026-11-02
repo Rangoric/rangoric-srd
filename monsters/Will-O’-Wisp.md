@@ -9,7 +9,9 @@ hit-dice: "9d8 (40 hp)"
 initiative: "+13"
 speed: "Fly 50 ft. (perfect) (10 squares)"
 armor-class: "29 (+1 size, +9 Dex, +9 deflection), touch 29, flat-footed 20"
-base-attack-grapple: "+6/–3"
+base-attack: "+6"
+cmb: "+0"
+cmd: "29"
 attack: "Shock +16 melee touch (2d8 electricity)"
 full-attack: "Shock +16 melee touch (2d8 electricity)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +13
   - **Speed**: Fly 50 ft. (perfect) (10 squares)
   - **Armor Class**: 29 (+1 size, +9 Dex, +9 deflection), touch 29, flat-footed 20
-  - **Base Attack/Grapple**: +6/–3
+  - **Base Attack**: +6; **CMB**: +0; **CMD**: 29
   - **Attack**: Shock +16 melee touch (2d8 electricity)
   - **Full Attack**: Shock +16 melee touch (2d8 electricity)
   - **Space/Reach**: 5 ft./5 ft.

@@ -10,7 +10,9 @@ hit-dice: "14d8+56 (119 hp)"
 initiative: "+2"
 speed: "30 ft. in hide armor (6 squares); base speed 40 ft."
 armor-class: "25 (–1 size, +2 Dex, +11 natural, +3 hide), touch 11, flat-footed 23"
-base-attack-grapple: "+10/+22"
+base-attack: "+10"
+cmb: "+19"
+cmd: "31"
 attack: "Greatclub +17 melee (2d8+12) or slam +17 melee (1d4+8) or rock +11 ranged (2d8+12)"
 full-attack: "Greatclub +17/+12 melee (2d8+12) or 2 slams +17 melee (1d4+8) or rock +11 ranged (2d8+12)"
 space-reach: "10 ft./10 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 30 ft. in hide armor (6 squares); base speed 40 ft.
   - **Armor Class**: 25 (–1 size, +2 Dex, +11 natural, +3 hide), touch 11, flat-footed 23
-  - **Base Attack/Grapple**: +10/+22
+  - **Base Attack**: +10; **CMB**: +19; **CMD**: 31
   - **Attack**: Greatclub +17 melee (2d8+12) or slam +17 melee (1d4+8) or rock +11 ranged (2d8+12)
   - **Full Attack**: Greatclub +17/+12 melee (2d8+12) or 2 slams +17 melee (1d4+8) or rock +11 ranged (2d8+12)
   - **Space/Reach**: 10 ft./10 ft.

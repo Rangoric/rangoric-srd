@@ -7,7 +7,9 @@ hit-dice: "8d8+24 (60 hp)"
 initiative: "+0"
 speed: "20 ft. (4 squares), swim 20 ft."
 armor-class: "20 (–1 size, +11 natural), touch 9, flat-footed 20"
-base-attack-grapple: "+6/+15"
+base-attack: "+6"
+cmb: "+12 (+16 grapple)"
+cmd: "22"
 attack: "Slam +11 melee (2d6+5)"
 full-attack: "2 slams +11 melee (2d6+5)"
 space-reach: "10 ft./10 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 20 ft. (4 squares), swim 20 ft.
   - **Armor Class**: 20 (–1 size, +11 natural), touch 9, flat-footed 20
-  - **Base Attack/Grapple**: +6/+15
+  - **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 22
   - **Attack**: Slam +11 melee (2d6+5)
   - **Full Attack**: 2 slams +11 melee (2d6+5)
   - **Space/Reach**: 10 ft./10 ft.
@@ -68,7 +70,7 @@ A shambler’s body has an 8-foot girth and is about 6 feet tall when the creatu
 
 A shambling mound batters or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constricts]] its opponents with two huge, armlike appendages.
 
-**Improved Grab (Ex)**: To use this ability, a shambler must hit with both slam attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a shambler must hit with both slam attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Constrict (Ex)**: A shambler deals 2d6+7 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
 

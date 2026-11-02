@@ -8,7 +8,9 @@ hit-dice: "2d8+6 (15 hp)"
 initiative: "–1"
 speed: "10 ft. (2 squares)"
 armor-class: "13 (–1 Dex, +4 natural), touch 9, flat-footed 13"
-base-attack-grapple: "+1/+3"
+base-attack: "+1"
+cmb: "+3"
+cmd: "12"
 attack: "Tentacle +3 melee (1d6+2 plus poison)"
 full-attack: "4 tentacles +3 melee (1d6+2 plus poison)"
 space-reach: "5 ft./10 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –1
   - **Speed**: 10 ft. (2 squares)
   - **Armor Class**: 13 (–1 Dex, +4 natural), touch 9, flat-footed 13
-  - **Base Attack/Grapple**: +1/+3
+  - **Base Attack**: +1; **CMB**: +3; **CMD**: 12
   - **Attack**: Tentacle +3 melee (1d6+2 plus poison)
   - **Full Attack**: 4 tentacles +3 melee (1d6+2 plus poison)
   - **Space/Reach**: 5 ft./10 ft.

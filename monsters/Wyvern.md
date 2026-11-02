@@ -7,7 +7,9 @@ hit-dice: "7d12+14 (59 hp)"
 initiative: "+1"
 speed: "20 ft. (4 squares), fly 60 ft. (poor)"
 armor-class: "18 (–1 size, +1 Dex, +8 natural), touch 10, flat-footed 17"
-base-attack-grapple: "+7/+15"
+base-attack: "+7"
+cmb: "+12 (+16 grapple)"
+cmd: "23"
 attack: "Sting +10 melee (1d6+4 plus poison) or talon +10 melee (2d6+4) or bite +10 melee (2d8+4)"
 full-attack: "Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4)"
 space-reach: "10 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 20 ft. (4 squares), fly 60 ft. (poor)
   - **Armor Class**: 18 (–1 size, +1 Dex, +8 natural), touch 10, flat-footed 17
-  - **Base Attack/Grapple**: +7/+15
+  - **Base Attack**: +7; **CMB**: +12 (+16 grapple); **CMD**: 23
   - **Attack**: Sting +10 melee (1d6+4 plus poison) or talon +10 melee (2d6+4) or bite +10 melee (2d8+4)
   - **Full Attack**: Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4)
   - **Space/Reach**: 10 ft./5 ft.
@@ -71,7 +73,7 @@ Wyverns are rather stupid but always aggressive: They attack nearly anything tha
 
 A wyvern can slash with its talons only when making a [[rangoric-srd/feats/Flyby Attack|flyby attack]].
 
-**Improved Grab (Ex)**: To use this ability, a wyvern must hit with its talons. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and stings.
+**Improved Grab (Ex)**: To use this ability, a wyvern must hit with its talons. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and stings.
 
 **Poison (Ex)**: Injury, Fortitude DC 17, initial and secondary damage 2d6 Con. The save DC is Constitution-based.
 

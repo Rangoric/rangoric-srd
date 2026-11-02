@@ -9,7 +9,9 @@ hit-dice: "5d8+10 (32 hp)"
 initiative: "+7"
 speed: "40 ft. (8 squares)"
 armor-class: "20 (+3 Dex, +7 natural), touch 13, flat-footed 17"
-base-attack-grapple: "+5/+7"
+base-attack: "+5"
+cmb: "+7 (+11 grapple)"
+cmd: "20"
 attack: "Short sword +7 melee (1d6+2/19–20) or claw +7 melee (1d4+2) or longbow +8 ranged (1d8/x3)"
 full-attack: "2 short swords +5 melee (1d6+2/19–20, 1d6+1/19–20) and 2 claws +5 melee (1d4+1); or 4 claws +5 melee (1d4+2, 1d4+1); or 2 longbows +4 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 20 (+3 Dex, +7 natural), touch 13, flat-footed 17
-  - **Base Attack/Grapple**: +5/+7
+  - **Base Attack**: +5; **CMB**: +7 (+11 grapple); **CMD**: 20
   - **Attack**: Short sword +7 melee (1d6+2/19–20) or claw +7 melee (1d4+2) or longbow +8 ranged (1d8/x3)
   - **Full Attack**: 2 short swords +5 melee (1d6+2/19–20, 1d6+1/19–20) and 2 claws +5 melee (1d4+1); or 4 claws +5 melee (1d4+2, 1d4+1); or 2 longbows +4 ranged (1d8/x3)
   - **Space/Reach**: 5 ft./5 ft.
@@ -72,7 +74,7 @@ Xills typically lie in wait on the Ethereal Plane for suitable prey to happen by
 
 **Implant (Ex)**: As a standard action, a xill can lay eggs inside a [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] creature. The young emerge about 90 days later, literally devouring the host from inside. A remove disease spell rids a victim of the egg, as does a DC 25 Fieldcraft check. If the check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
 
-**Improved Grab (Ex)**: To use this ability, a xill must hit with one or more claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. It receives a +2 bonus on the grapple check for each claw that hits. If it wins the grapple check and maintains the hold in the next round, it automatically bites the foe at that time. The bite deals no damage but injects a paralyzing venom.
+**Improved Grab (Ex)**: To use this ability, a xill must hit with one or more claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. It receives a +2 bonus on the grapple check for each claw that hits. If it succeeds on the grapple check and maintains the hold in the next round, it automatically bites the foe at that time. The bite deals no damage but injects a paralyzing venom.
 
 **Paralysis (Ex)**: Those bitten by a xill must succeed on a DC 14 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 hours. The save DC is Constitution-based.
 

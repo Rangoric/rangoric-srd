@@ -11,7 +11,9 @@ hit-dice: "3d8+3 (16 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares), burrow 20 ft."
 armor-class: "18 (+1 Dex, +7 natural), touch 11, flat-footed 17"
-base-attack-grapple: "+2/+4"
+base-attack: "+2"
+cmb: "+4"
+cmd: "15 (can't be tripped)"
 attack: "Slam +4 melee (1d6+3 plus 2d6 fire)"
 full-attack: "Slam +4 melee (1d6+3 plus 2d6 fire)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares), burrow 20 ft.
   - **Armor Class**: 18 (+1 Dex, +7 natural), touch 11, flat-footed 17
-  - **Base Attack/Grapple**: +2/+4
+  - **Base Attack**: +2; **CMB**: +4; **CMD**: 15 (can't be tripped)
   - **Attack**: Slam +4 melee (1d6+3 plus 2d6 fire)
   - **Full Attack**: Slam +4 melee (1d6+3 plus 2d6 fire)
   - **Space/Reach**: 5 ft./5 ft.

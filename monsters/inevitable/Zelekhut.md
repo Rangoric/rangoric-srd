@@ -11,7 +11,9 @@ hit-dice: "8d10+30 (74 hp)"
 initiative: "+0"
 speed: "35 ft. in plate barding (7 squares), fly 40 ft. (average) in plate barding (8 squares); base speed 50 ft., fly 60 ft. (average)"
 armor-class: "27 (–1 size, +10 natural, +8 plate barding), touch 9, flat-footed 27"
-base-attack-grapple: "+6/+15"
+base-attack: "+6"
+cmb: "+12"
+cmd: "22 (26 vs. trip)"
 attack: "Spiked chain +10 melee (2d6+5 plus 1d6 electricity)"
 full-attack: "2 spiked chains +10 melee (2d6+5 plus 1d6 electricity)"
 space-reach: "10 ft./10 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 35 ft. in plate barding (7 squares), fly 40 ft. (average) in plate barding (8 squares); base speed 50 ft., fly 60 ft. (average)
   - **Armor Class**: 27 (–1 size, +10 natural, +8 plate barding), touch 9, flat-footed 27
-  - **Base Attack/Grapple**: +6/+15
+  - **Base Attack**: +6; **CMB**: +12; **CMD**: 22 (26 vs. trip)
   - **Attack**: Spiked chain +10 melee (2d6+5 plus 1d6 electricity)
   - **Full Attack**: 2 spiked chains +10 melee (2d6+5 plus 1d6 electricity)
   - **Space/Reach**: 10 ft./10 ft.
