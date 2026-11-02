@@ -55,7 +55,7 @@ On the next turn after a character is reduced to between –1 and –9 hit point
 
 If the character’s hit points drop to –10 or lower, he’s dead.
 
-You can keep a dying character from losing any more hit points and make him stable with the [[rangoric-srd/actions/Stabilize|Stabilize]] action, a [[rangoric-srd/actions/First Aid|First Aid]] action.
+You can keep a dying character from losing any more hit points and make him stable with the [[rangoric-srd/actions/Stabilize (Action)|Stabilize]] action, a [[rangoric-srd/actions/First Aid|First Aid]] action.
 
 If any sort of healing cures the dying character of even 1 point of damage, he stops losing hit points and becomes stable.
 

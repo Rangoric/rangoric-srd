@@ -17,7 +17,7 @@ The First Aid actions (tag *first-aid*) keep people alive and help them recover.
 
 | Action | Takes | DC |
 | --- | --- | --- |
-| [[rangoric-srd/actions/Stabilize\|Stabilize]] | Standard action | 15 |
+| [[rangoric-srd/actions/Stabilize (Action)\|Stabilize]] | Standard action | 15 |
 | [[rangoric-srd/actions/Long-Term Care\|Long-Term Care]] | 8 hours of light activity | 15 |
 | [[rangoric-srd/actions/Treat Deadly Wounds\|Treat Deadly Wounds]] | 1 hour | 20 |
 | [[rangoric-srd/actions/Treat Wound\|Treat Wound]] | Standard action (10 minutes for spike growth or spike stones) | 15 or the spell’s save DC |
