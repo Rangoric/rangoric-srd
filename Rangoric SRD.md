@@ -35,6 +35,7 @@ The 3.5 SRD's layout, as copied:
 | `combat` | Actions, initiative, attacks of opportunity, movement, special attacks, injury and death |
 | `classes`, `prestige-classes` | Base, NPC and prestige classes |
 | `skills`, `feats` | One note per skill and feat |
+| `class-options` | One note per class option (bloodlines, and later rage powers, talents, hexes…), in a folder per kind (added 2026-11-02) |
 | `spells`, `powers` | One note per spell and psionic power, plus the class lists |
 | `equipment`, `magic-items` | Weapons, armor, gear, materials; one note per magic item in type folders |
 | `monsters` | One note per creature, with group folders (angel, demon, dragon, ghoul…) |
