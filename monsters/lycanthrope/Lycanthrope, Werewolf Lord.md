@@ -79,7 +79,7 @@ Alternate Form (Su): A werewolf lord can assume a bipedal hybrid form or the for
 
 Curse of Lycanthropy (Su): Any humanoid or giant hit by a werewolf lord’s bite attack in wolf or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
 
-Trip (Ex): A werewolf lord in dire wolf form that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]] the opponent (+15 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the werewolf lord.
+Trip (Ex): A werewolf lord in dire wolf form that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent (+15 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the werewolf lord.
 
 Wolf Empathy (Ex): Communicate with wolves and dire wolves, and +4 racial bonus on Charisma-based checks against wolves and dire wolves.
 

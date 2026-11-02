@@ -69,7 +69,7 @@ Most mohrgs are 5 to 6 feet tall and weigh about 120 pounds.
 
 Like zombies, mohrgs attack by slamming enemies with their fists. They often catch opponents flat-footed, for they move much faster than zombies.
 
-**Improved Grab (Ex)**: To use this ability, a mohrg must hit a creature of its size or smaller with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, a mohrg must hit a creature of its size or smaller with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 **Paralyzing Touch (Su)**: A mohrg lashes out with its tongue in combat. An opponent the tongue touches must succeed on a DC 17 Fortitude save or become [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 minutes. The save DC is Charisma-based.
 

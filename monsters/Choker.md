@@ -66,11 +66,11 @@ Chokers speak Undercommon.
 
 ### Combat
 
-A choker likes to perch near the ceiling, often at intersections, archways, wells, or staircases, and reach down to attack its prey. A choker attacks creatures of almost any size, but prefers lone prey of its size or larger. If one is very hungry, it may attack a group, but it waits to [[rangoric-srd/combat/Combat Special Attacks#Grapple|grab]] the last creature in line.
+A choker likes to perch near the ceiling, often at intersections, archways, wells, or staircases, and reach down to attack its prey. A choker attacks creatures of almost any size, but prefers lone prey of its size or larger. If one is very hungry, it may attack a group, but it waits to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grab]] the last creature in line.
 
-**Constrict (Ex)**: A choker deals 1d3+3 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check against a Large or smaller creature. Because it seizes its victim by the neck, a creature in the choker’s grasp cannot speak or cast spells with verbal components.
+**Constrict (Ex)**: A choker deals 1d3+3 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check against a Large or smaller creature. Because it seizes its victim by the neck, a creature in the choker’s grasp cannot speak or cast spells with verbal components.
 
-**Improved Grab (Ex)**: To use this ability, a choker must hit a Large or smaller opponent with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict. Chokers receive a +4 racial bonus on grapple checks, which is already included in the statistics block.
+**Improved Grab (Ex)**: To use this ability, a choker must hit a Large or smaller opponent with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict. Chokers receive a +4 racial bonus on grapple checks, which is already included in the statistics block.
 
 **Quickness (Su)**: Although not particularly dexterous, a choker is supernaturally quick. It can take an extra standard action or move action during its turn each round.
 

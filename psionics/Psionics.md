@@ -62,7 +62,7 @@ Once you know which creatures (or objects or areas) are affected, and whether th
 
 Certain special features apply to all powers.
 
-Attacks: Some powers refer to attacking. All offensive combat actions, even those that don’t damage opponents, such as [[rangoric-srd/combat/Combat Special Attacks#Disarm|disarm]] and [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rush]], are considered attacks. All powers that opponents can resist with saving throws, that deal damage, or that otherwise harm or hamper subjects are considered attacks. Astral construct and similar powers are not considered attacks because the powers themselves don’t harm anyone.
+Attacks: Some powers refer to attacking. All offensive combat actions, even those that don’t damage opponents, such as [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] and [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], are considered attacks. All powers that opponents can resist with saving throws, that deal damage, or that otherwise harm or hamper subjects are considered attacks. Astral construct and similar powers are not considered attacks because the powers themselves don’t harm anyone.
 
 Bonus Types: Many powers give creatures bonuses to ability scores, Armor Class, attacks, and other attributes. Each bonus has a type that indicates how the power grants the bonus. The important aspect of bonus types is that two bonuses of the same type don’t generally stack. With the exception of dodge bonuses, most circumstance bonuses, and racial bonuses, only the better bonus works (see Combining Psionic and Magical Effects, below). The same principle applies to penalties - a character taking two or more penalties of the same type applies only the worst one.
 

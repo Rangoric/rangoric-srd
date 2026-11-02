@@ -66,19 +66,19 @@ Behirs speak Common.
 
 ### Combat
 
-A behir usually bites and [[rangoric-srd/combat/Combat Special Attacks#Grapple|grabs]] its prey first, then either [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallows]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constricts]] the opponent. It can employ its claws only against foes caught in its coils. If beset by a large number of foes, it uses its breath weapon.
+A behir usually bites and [[rangoric-srd/combat/Combat Maneuvers#Grapple|grabs]] its prey first, then either [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallows]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constricts]] the opponent. It can employ its claws only against foes caught in its coils. If beset by a large number of foes, it uses its breath weapon.
 
 **Breath Weapon (Su)**: 20-foot line, once every 10 rounds, damage 7d6 electricity, Reflex DC 19 half. The save DC is Constitution-based.
 
-**Constrict (Ex)**: A behir deals 2d8+8 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. It can make six rake attacks against a grappled foe as well.
+**Constrict (Ex)**: A behir deals 2d8+8 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. It can make six rake attacks against a grappled foe as well.
 
-**Improved Grab (Ex)**: To use this ability, a behir must hit a creature of any size with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, a behir must hit a creature of any size with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 If it succeeds on the grapple check, it it establishes a hold and can attempt to constrict the opponent or swallow the opponent in the following round.
 
 **Rake (Ex)**: Six claws, attack bonus +15 melee, damage 1d4+4.
 
-**Swallow Whole (Ex)**: A behir can try to swallow a grabbed Medium or smaller opponent by making a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. A behir that swallows an opponent can use its Cleave feat to bite and grab another opponent.
+**Swallow Whole (Ex)**: A behir can try to swallow a grabbed Medium or smaller opponent by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. A behir that swallows an opponent can use its Cleave feat to bite and grab another opponent.
 
 A swallowed creature takes 2d8+8 points of bludgeoning damage and 8 points of acid damage per round from the behir’s gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 15). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
 

@@ -73,7 +73,7 @@ When a monk reaches 11th level, her flurry of blows ability improves. In additio
 
 **Unarmed Strike**: At 1st level, a monk gains Improved Unarmed Strike as a bonus feat. A monk’s attacks may be with either fist interchangeably or even from elbows, knees, and feet. This means that a monk may even make unarmed strikes with her hands full. There is no such thing as an off-hand attack for a monk striking unarmed. A monk may thus apply her full Strength bonus on damage rolls for all her unarmed strikes. ^unarmed-strike
 
-Usually a monk’s unarmed strikes deal lethal damage, but she can choose to deal nonlethal damage instead with no penalty on her attack roll. She has the same choice to deal lethal or nonlethal damage while [[rangoric-srd/rules/Special Abilities and Conditions#^grappling|grappling]].
+Usually a monk’s unarmed strikes deal lethal damage, but she can choose to deal nonlethal damage instead with no penalty on her attack roll. She has the same choice to deal lethal or nonlethal damage while [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]].
 
 A monk’s unarmed strike is treated both as a manufactured weapon and a natural weapon for the purpose of spells and effects that enhance or improve either manufactured weapons or natural weapons.
 

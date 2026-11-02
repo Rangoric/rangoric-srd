@@ -77,7 +77,7 @@ In wolf form, a werewolf can trip just as a normal wolf does. A werewolf in hybr
 
 **Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a werewolf’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
 
-**Trip (Ex)**: A werewolf in animal form that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]] the opponent (+2 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the werewolf.
+**Trip (Ex)**: A werewolf in animal form that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent (+2 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the werewolf.
 
 **Wolf Empathy (Ex)**: Communicate with wolves and dire wolves, and +4 racial bonus on Charisma-based checks against wolves and dire wolves.
 

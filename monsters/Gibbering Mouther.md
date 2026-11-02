@@ -74,14 +74,14 @@ A gibbering mouther attacks by shooting out strings of protoplasmic flesh, each 
 
 **Spittle (Ex)**: As a free action every round, a gibbering mouther fires a stream of spittle at one opponent within 30 feet. The mouther makes a ranged touch attack; if it hits, it deals 1d4 points of acid damage, and the target must succeed on a DC 18 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d4 rounds. Eyeless creatures are immune to the blinding effect, but are still subject to the acid damage. The save DC is Constitution-based.
 
-Improved Grab (Ex): To use this ability, a gibbering mouther must hit a Medium or smaller foe with a bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+Improved Grab (Ex): To use this ability, a gibbering mouther must hit a Medium or smaller foe with a bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
-Swallow Whole (Ex): The gibbering mouther can attempt to swallow a grappled opponent of Medium or smaller size by making a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. (The gibbering mouther doesn’t actually “swallow” the opponent—it engulfs it within its amorphous form—but the effect is essentially the same.) Once inside, the gibbering mouther can use its blood drain ability. A swallowed creature can cut its way out by dealing 5 points of damage to the gibbering mouther (same AC).  
+Swallow Whole (Ex): The gibbering mouther can attempt to swallow a grappled opponent of Medium or smaller size by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. (The gibbering mouther doesn’t actually “swallow” the opponent—it engulfs it within its amorphous form—but the effect is essentially the same.) Once inside, the gibbering mouther can use its blood drain ability. A swallowed creature can cut its way out by dealing 5 points of damage to the gibbering mouther (same AC).  
 The gibbering mouther’s body can hold 1 Medium, 2 Small, 8 Tiny, 32 Diminutive, or 128 Fine creatures.
 
 Blood Drain (Ex): A swallowed opponent automatically takes 1d4 points of Constitution damage each round.
 
-**Ground Manipulation (Su)**: At will, as a standard action, a gibbering mouther can cause stone and earth in all adjacent squares to become a morass akin to quicksand. Softening earth, sand, or the like takes 1 round, while stone takes 2 rounds. Anyone other than the mouther in that area must take a move-equivalent action to avoid becoming mired (treat as being [[rangoric-srd/rules/Special Abilities and Conditions#^pinned|pinned]]).
+**Ground Manipulation (Su)**: At will, as a standard action, a gibbering mouther can cause stone and earth in all adjacent squares to become a morass akin to quicksand. Softening earth, sand, or the like takes 1 round, while stone takes 2 rounds. Anyone other than the mouther in that area must take a move-equivalent action to avoid becoming mired (treat as being [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]]).
 
 **Amorphous (Ex)**: A gibbering mouther is not subject to critical hits. It cannot be flanked.
 

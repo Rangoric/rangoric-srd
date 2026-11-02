@@ -64,6 +64,6 @@ An owlbear’s coat ranges in color from brown-black to yellowish brown; its bea
 
 ### Combat
 
-Owlbears attack prey - any creature bigger than a mouse - on sight, always fighting to the death. They slash with claws and beak, trying to [[rangoric-srd/combat/Combat Special Attacks#Grapple|grab]] their prey and rip it apart.
+Owlbears attack prey - any creature bigger than a mouse - on sight, always fighting to the death. They slash with claws and beak, trying to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grab]] their prey and rip it apart.
 
-**Improved Grab (Ex)**: To use this ability, an owlbear must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, an owlbear must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.

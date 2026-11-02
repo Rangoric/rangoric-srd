@@ -70,7 +70,7 @@ A roper hunts by standing very still and imitating a bit of rock. This tactic of
 
 **Drag (Ex)**: If a roper hits with a strand attack, the strand latches onto the opponent’s body. This deals no damage but drags the stuck opponent 10 feet closer each subsequent round (provoking no attack of opportunity) unless that creature breaks free, which requires a DC 23 Escape Artist check or a DC 19 Strength check. The check DCs are Strength-based, and the [[rangoric-srd/skills/Escape Artist|Escape Artist]] DC includes a +4 racial bonus. A roper can draw in a creature within 10 feet of itself and bite with a +4 attack bonus in the same round.
 
-A strand has 10 hit points and can be attacked by making a successful [[rangoric-srd/combat/Combat Special Attacks#Sunder|sunder]] attempt. However, attacking a roper’s strand does not provoke an attack of opportunity. If the strand is currently attached to a target, the roper takes a –4 penalty on its opposed attack roll to resist the sunder attempt. Severing a strand deals no damage to a roper.
+A strand has 10 hit points and can be attacked by making a successful [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempt. However, attacking a roper’s strand does not provoke an attack of opportunity. If the strand is currently attached to a target, the roper takes a –4 penalty on its opposed attack roll to resist the sunder attempt. Severing a strand deals no damage to a roper.
 
 **Strands (Ex)**: Most encounters with a roper begin when it fires strong, sticky strands. The creature can have up to six strands at once, and they can strike up to 50 feet away (no range increment). If a strand is severed, the roper can extrude a new one on its next turn as a free action.
 

@@ -64,7 +64,7 @@ Treasure:  1/5 coins; 50% goods; 50% items   
 
 #### Combat
 
-An udoroot can be killed only if its root is dug up or exposed, then burned, hacked apart, or otherwise destroyed. Severing or destroying all six crowns puts the plant out of commission, allowing excavation of the [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] root. The crowns are Medium objects with a hardness of 5 and 7 hit points. To sever a crown, an opponent must use the [[rangoric-srd/combat/Combat Special Attacks#Sunder|sunder]] action. The crowns can also be affected by spells or effects that affect an area or targeted by spells that affect an individual target.  
+An udoroot can be killed only if its root is dug up or exposed, then burned, hacked apart, or otherwise destroyed. Severing or destroying all six crowns puts the plant out of commission, allowing excavation of the [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] root. The crowns are Medium objects with a hardness of 5 and 7 hit points. To sever a crown, an opponent must use the [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] action. The crowns can also be affected by spells or effects that affect an area or targeted by spells that affect an individual target.  
 
 An udoroot takes no damage from having a crown severed or destroyed. A severed crown dies and can no longer be used to attack, but the udoroot takes no other penalties.  As long as the root system remains intact, the crown regrows in about a month.
 

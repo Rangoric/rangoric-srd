@@ -81,7 +81,7 @@ Cloakers usually lie still, watching and listening for prey. If facing a single 
 
 *Stupor*: A single creature within 30 feet of the cloaker must succeed on a DC 15 Fortitude save or be affected as though by a [[rangoric-srd/spells/Hold Monster|hold monster]] spell for 5 rounds. Even after a successful save, the creature must repeat the save if the cloaker uses this effect again.
 
-**Engulf (Ex)**: A cloaker can try to wrap a Medium or smaller creature in its body as a standard action. The cloaker attempts a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] that does not provoke an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and bites the engulfed victim with a +4 bonus on its attack roll. It can still use its whiplike tail to strike at other targets.
+**Engulf (Ex)**: A cloaker can try to wrap a Medium or smaller creature in its body as a standard action. The cloaker attempts a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] that does not provoke an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and bites the engulfed victim with a +4 bonus on its attack roll. It can still use its whiplike tail to strike at other targets.
 
 Attacks that hit an engulfing cloaker deal half their damage to the monster and half to the trapped victim.
 

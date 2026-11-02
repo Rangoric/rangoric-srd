@@ -70,7 +70,7 @@ Vampire spawn speak Common.
 
 Vampire spawn use their inhuman strength when engaging mortals, hammering their foes with powerful blows and dashing them against rocks or walls. They also use their [[rangoric-srd/spells/Gaseous Form|gaseous form]] and flight abilities to strike where opponents are most vulnerable.
 
-**Blood Drain (Ex)**: A vampire spawn can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round. On each such successful drain attack, the vampire spawn gains 5 temporary hit pints.
+**Blood Drain (Ex)**: A vampire spawn can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round. On each such successful drain attack, the vampire spawn gains 5 temporary hit pints.
 
 **Domination (Su)**: A vampire spawn can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attack, except that the vampire must take a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a DC 14 Will save or fall instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell from a 5th level caster. The ability has a range of 30 feet. The save DC is Charisma-based.
 

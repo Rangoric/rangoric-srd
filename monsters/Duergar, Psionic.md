@@ -43,7 +43,7 @@ Duergar characters possess the following racial traits.
 
   - \+2 racial bonus on saves against spells and spell-like effects.
 
-  - Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus on ability checks made to resist being [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Special Attacks#Trip|tripped]]when standing on the ground (but not when climbing, flying, riding or otherwise not standing firmly on the ground).
+  - Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus on ability checks made to resist being [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Maneuvers#Trip|tripped]]when standing on the ground (but not when climbing, flying, riding or otherwise not standing firmly on the ground).
 
   - Stonecunning: This ability grants a duergar a +2 racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks to notice unusual stonework, such as sliding walls, stonework, traps, new construction (even when built to match the old), unsafe stone surfaces, shaky stone ceilings, and the like. Something that isn’t stone but that is disguised as stone also counts as unusual stonework. A gray dwarf who merely comes within 10 feet of unusual stonework can make an Investigation check as if he were actively searching, and a duergar can use the Investigation skill to find stonework traps as a rogue can. A duergar can also intuit depth, sensing his approximate depth underground as naturally as a human can sense which way is up.  
     Duergar have a sixth sense about stonework, an innate ability that they get plenty of opportunity to practice and hone in their underground homes.

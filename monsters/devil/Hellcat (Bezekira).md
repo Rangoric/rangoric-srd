@@ -76,7 +76,7 @@ A hellcat can hold its own in combat thanks to sharp claws and wicked fangs. It 
 
 A hellcat’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Improved Grab (Ex)**: To use this ability, a hellcat must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a hellcat must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Pounce (Ex)**: If a hellcat [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]], it can make a full attack, including two rake attacks.
 

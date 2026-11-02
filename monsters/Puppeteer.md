@@ -77,6 +77,6 @@ Blindsight (Ex): A puppeteer can ascertain creatures by nonvisual means within 6
 
 Hide Mind (Su): A puppeteer cannot be identified as psionic by divination spells or clairsentience powers.
 
-Host Protection (Ex): A puppeteer in control of a host is treated as an attended magic item for the purpose of making saving throws, even if the puppeteer is specifically targeted. A puppeteer that is attached to its host is treated as a creature in a [[rangoric-srd/rules/Special Abilities and Conditions#^grappling|grapple]] for the purpose of striking at the puppeteer instead of the host (but the host is not considered grappled in turn).
+Host Protection (Ex): A puppeteer in control of a host is treated as an attended magic item for the purpose of making saving throws, even if the puppeteer is specifically targeted. A puppeteer that is attached to its host is treated as a creature in a [[rangoric-srd/rules/conditions/Grappled (Condition)|grapple]] for the purpose of striking at the puppeteer instead of the host (but the host is not considered grappled in turn).
 
 Telepathy (Su): A puppeteer can communicate telepathically with any creature within 20 feet that has a language.

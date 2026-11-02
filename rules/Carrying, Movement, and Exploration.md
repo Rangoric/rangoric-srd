@@ -310,7 +310,7 @@ Characters with darkvision (dwarves and half-orcs) can see lit areas normally as
 
 ###### Smashing an Object
 
-Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished by the [[rangoric-srd/combat/Combat Special Attacks#Sunder|sunder]] special attack. Smashing an object is a lot like sundering a weapon or shield, except that your attack roll is opposed by the object’s AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.
+Smashing a weapon or shield with a slashing or bludgeoning weapon is accomplished by the [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] special attack. Smashing an object is a lot like sundering a weapon or shield, except that your attack roll is opposed by the object’s AC. Generally, you can smash an object only with a bludgeoning or slashing weapon.
 
 **Armor Class**: Objects are easier to hit than creatures because they usually don’t move, but many are tough enough to shrug off some damage from each blow. An object’s Armor Class is equal to 10 + its size modifier + its Dexterity modifier. An inanimate object has not only a Dexterity of 0 (–5 penalty to AC), but also an additional –2 penalty to its AC. Furthermore, if you take a full-round action to line up a shot, you get an automatic hit with a melee weapon and a +5 bonus on attack rolls with a ranged weapon.
 
@@ -346,7 +346,7 @@ Magic items always get saving throws. A magic item’s Fortitude, Reflex, and Wi
 
 ###### Breaking Items
 
-When a character tries to break something with sudden force rather than by dealing damage, use a Strength check (rather than an attack roll and damage roll, as with the [[rangoric-srd/combat/Combat Special Attacks#Sunder|sunder]] special attack) to see whether he or she succeeds. The DC depends more on the construction of the item than on the material.
+When a character tries to break something with sudden force rather than by dealing damage, use a Strength check (rather than an attack roll and damage roll, as with the [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] special attack) to see whether he or she succeeds. The DC depends more on the construction of the item than on the material.
 
 If an item has lost half or more of its hit points, the DC to break it drops by 2.
 

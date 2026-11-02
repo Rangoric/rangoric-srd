@@ -76,7 +76,7 @@ A nightcrawler’s natural weapons are treated as magic weapons for the purpose 
 
 **Energy Drain (Su)**: Living creatures inside a nightcrawler’s gizzard gain one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]] each round. The DC is 26 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the nightcrawler gains 5 temporary hit points.
 
-**Improved Grab (Ex)**: To use this ability, a nightcrawler must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
+**Improved Grab (Ex)**: To use this ability, a nightcrawler must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
 
 **Poison (Ex)**: Injury, Fortitude DC 22, initial and secondary damage 2d6 Str. The save DC is Constitution-based.
 
@@ -90,6 +90,6 @@ At will - [[rangoric-srd/spells/Contagion|contagion]] (DC 18), [[rangoric-srd/sp
 
 **Summon Undead (Su)**: A nightcrawler can summon undead creatures once per night: 9–16 [[rangoric-srd/monsters/shadow/Shadow|shadows]], 3–6 [[rangoric-srd/monsters/shadow/Shadow|greater shadows]], or 2–4 [[rangoric-srd/monsters/wraith/Wraith|dread wraiths]]. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
 
-**Swallow Whole (Ex)**: A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by making a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 12 points of acid damage per round from the nightcrawler’s gizzard and is subject to the creature’s energy drain. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the gizzard (AC 21). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
+**Swallow Whole (Ex)**: A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 12 points of acid damage per round from the nightcrawler’s gizzard and is subject to the creature’s energy drain. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the gizzard (AC 21). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
 
 A nightcrawler’s interior can hold 2 Huge, 8 Large, 32 Medium, 128 Small, 512 Tiny or smaller opponents.

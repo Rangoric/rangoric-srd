@@ -36,7 +36,7 @@ Earth elementals speak Terran.
 
 Earth Mastery (Ex): An earth elemental gains a +1 attack and damage bonus if both it and its foe touch the ground. If an opponent is airborne or water-borne, the elemental takes a -4 penalty on attack and damage rolls. (These modifiers are not included in the statistics block.)
 
-Push (Ex): An earth elemental can start a [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rush]] maneuver without provoking an attack of opportunity. The combat modifiers given for earth mastery, above, also apply to the elemental’s opposed Strength checks.  
+Push (Ex): An earth elemental can start a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] maneuver without provoking an attack of opportunity. The combat modifiers given for earth mastery, above, also apply to the elemental’s opposed Strength checks.  
 
 ### Primal Fire Elemental
 

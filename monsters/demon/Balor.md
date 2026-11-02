@@ -90,7 +90,7 @@ At will - [[rangoric-srd/spells/Blasphemy|blasphemy]] (DC 25), [[rangoric-srd/sp
 
 **Summon Demon (Sp)**: Once per day a balor can automatically summon 4d10 [[rangoric-srd/monsters/demon/Dretch|dretches]], 1d4 [[rangoric-srd/monsters/demon/Hezrou|hezrous]], or one [[rangoric-srd/monsters/demon/Nalfeshnee|nalfeshnee]], [[rangoric-srd/monsters/demon/Glabrezu|glabrezu]], [[rangoric-srd/monsters/demon/Marilith|marilith]], or balor. This ability is the equivalent of a 9th-level spell.
 
-**Flaming Body (Su)**: The body of a balor is wreathed in flame. Anyone [[rangoric-srd/rules/Special Abilities and Conditions#^grappling|grappling]] a balor takes 6d6 points of fire damage each round.
+**Flaming Body (Su)**: The body of a balor is wreathed in flame. Anyone [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]] a balor takes 6d6 points of fire damage each round.
 
 **True Seeing (Su)**: Balors have a continuous [[rangoric-srd/spells/True Seeing|true seeing]] ability, as the spell (caster level 20th).
 

@@ -125,7 +125,7 @@ A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the bear totem does 
   - A 1st-level bear-totem barbarian gains [[rangoric-srd/feats/Toughness|Toughness]] as a bonus feat.
   - At 2nd level, a bear-totem barbarian gains [[rangoric-srd/feats/Improved Grapple|Improved Grapple]] as a bonus feat, even if he doesn't meet the normal prerequisites.
   - A 3rd-level bear-totem barbarian gains [[rangoric-srd/feats/Great Fortitude|Great Fortitude]] as a bonus feat.
-  - Beginning at 5th level, a bear-totem barbarian gains a +4 bonus on [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks when raging.
+  - Beginning at 5th level, a bear-totem barbarian gains a +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks when raging.
 
 ##### Boar Totem Class Features
 
@@ -521,7 +521,7 @@ The Denying Stance monk seeks to neutralize the opponent's maneuvers, thwarting 
 | 1st-Level Feat:          | [[rangoric-srd/feats/Improved Grapple\|Improved Grapple]].                                                                                                                                                                                                                             |
 | 2nd-Level Feat:          | [[rangoric-srd/feats/Combat Reflexes\|Combat Reflexes]].                                                                                                                                                                                                                               |
 | 6th-Level Feat:          | [[rangoric-srd/feats/Improved Disarm\|Improved Disarm]].                                                                                                                                                                                                                               |
-| 6th-Level Bonus Ability: | When fighting defensively or using the [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]] feat, you gain a +2 bonus on [[rangoric-srd/combat/Combat Special Attacks#Grapple\|grapple]] checks and [[rangoric-srd/combat/Combat Special Attacks#Disarm\|disarm]] attempts. |
+| 6th-Level Bonus Ability: | When fighting defensively or using the [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]] feat, you gain a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple\|grapple]] checks and [[rangoric-srd/combat/Combat Maneuvers#Disarm\|disarm]] attempts. |
 | Prerequisites:           | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] 6 ranks, [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]].                                                                                                                                                                           |
 
 ##### Hand and Foot
@@ -534,7 +534,7 @@ Students of the Hand and Foot style learn to use their appendages for both offen
 | 1st-Level Feat:          | [[rangoric-srd/feats/Stunning Fist\|Stunning Fist]].                                                                                                                                                                                                                                                                 |
 | 2nd-Level Feat:          | [[rangoric-srd/feats/Deflect Arrows\|Deflect Arrows]].                                                                                                                                                                                                                                                               |
 | 6th-Level Feat:          | [[rangoric-srd/feats/Improved Trip\|Improved Trip]].                                                                                                                                                                                                                                                                 |
-| 6th-Level Bonus Ability: | You gain a +2 bonus on attacks of opportunity made against an opponent attempting to [[rangoric-srd/combat/Combat Special Attacks#Bull Rush\|bull rush]] or [[rangoric-srd/combat/Combat Special Attacks#Trip\|trip]] you, and a +4 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense\|CMD]] against trip and bull rush. |
+| 6th-Level Bonus Ability: | You gain a +2 bonus on attacks of opportunity made against an opponent attempting to [[rangoric-srd/combat/Combat Maneuvers#Bull Rush\|bull rush]] or [[rangoric-srd/combat/Combat Maneuvers#Trip\|trip]] you, and a +4 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense\|CMD]] against trip and bull rush. |
 | Prerequisites:           | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] 6 ranks.                                                                                                                                                                                                                  |
 
 ##### Invisible Eye

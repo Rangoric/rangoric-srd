@@ -70,11 +70,11 @@ A subterranean version of the assassin vine grows near hot springs, volcanic ven
 
 An assassin vine uses simple tactics. It lies still until prey comes within reach, then attacks. It uses its entangle ability both to catch prey and to deter counterattacks.
 
-**Constrict (Ex)**: An assassin vine deals 1d6+7 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
+**Constrict (Ex)**: An assassin vine deals 1d6+7 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
 **Entangle (Su)**: An assassin vine can animate plants within 30 feet of itself as a free action (Ref DC 13 partial). The effect lasts until the vine dies or decides to end it (also a free action). The save DC is Wisdom-based. The ability is otherwise similar to [[rangoric-srd/spells/Entangle|entangle]] (caster level 4th).
 
-**Improved Grab (Ex)**: To use this ability, an assassin vine must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, an assassin vine must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Blindsight (Ex)**: Assassin vines have no visual organs but can ascertain all foes within 30 feet using sound, scent, and vibration.
 

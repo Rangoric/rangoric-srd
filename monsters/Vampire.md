@@ -49,7 +49,7 @@ A vampire uses all the base creature’s statistics and special abilities except
 
 **Special Attacks**: A vampire retains all the special attacks of the base creature and gains those described below. Saves have a DC of 10 + 1/2 vampire’s HD + vampire’s Cha modifier unless noted otherwise.
 
-*Blood Drain (Ex)*: A vampire can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
+*Blood Drain (Ex)*: A vampire can suck blood from a living victim with its fangs by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. If it pins the foe, it drains blood, dealing 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]] each round the pin is maintained. On each such successful attack, the vampire gains 5 temporary hit points.
 
 *Children of the Night (Su)*: Vampires command the lesser creatures of the world and once per day can call forth 1d6+1 [[rangoric-srd/monsters/swarm/Rat Swarm|rat swarms]], 1d4+1 [[rangoric-srd/monsters/swarm/Bat Swarm|bat swarms]], or a pack of 3d6 [[rangoric-srd/monsters/Wolf|wolves]] as a standard action. (If the base creature is not terrestrial, this power might summon other creatures of similar power.) These creatures arrive in 2d6 rounds and serve the vampire for up to 1 hour.
 

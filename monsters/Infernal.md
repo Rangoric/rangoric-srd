@@ -66,7 +66,7 @@ An infernal’s natural weapons are treated as epic, evil, and chaotic-aligned o
 
 #### Combat
 
-Improved Grab (Ex): If an infernal hits with a claw, it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. Infernals can use this ability on Large and smaller creatures. The infernal has the option to conduct the grapple normally, or simply use its claw to hold the opponent. Each successful grapple check it makes during successive rounds automatically deals standard claw damage, in addition to automatic spell suck damage.
+Improved Grab (Ex): If an infernal hits with a claw, it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. Infernals can use this ability on Large and smaller creatures. The infernal has the option to conduct the grapple normally, or simply use its claw to hold the opponent. Each successful grapple check it makes during successive rounds automatically deals standard claw damage, in addition to automatic spell suck damage.
 
 Spell Suck (Su): If an infernal bites a foe, the foe loses one of its highest-level prepared spells or one of the spell slots for this day that it has not used. The victim chooses the prepared spell to lose. If the victim has no prepared spells or unused spell slots (either because it has exhausted its spellcasting for the day or because the victim is not a spellcaster), the bite instead deals 2 points of temporary Intelligence [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]].
 

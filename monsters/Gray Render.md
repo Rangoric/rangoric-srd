@@ -70,8 +70,8 @@ A unique quality of the gray render is its tendency to bond with, protect, and p
 
 A gray render attacks to kill, whether to bring down prey or to protect itself or those it has adopted. When hunting, it sometimes attempts to [[rangoric-srd/skills/Stealth|hide]] and wait for prey to wander close.
 
-**Improved Grab (Ex)**: To use this ability, a gray render must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, a gray render must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
-**Rend (Ex)**: A gray render that wins a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check after a successful bite attack establishes a hold, latching onto the opponent’s body and tearing the flesh. This attack automatically deals 2d6+9 points of damage.
+**Rend (Ex)**: A gray render that wins a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check after a successful bite attack establishes a hold, latching onto the opponent’s body and tearing the flesh. This attack automatically deals 2d6+9 points of damage.
 
 **Skills**: Gray renders have a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks due to their six keen eyes.

@@ -19,20 +19,20 @@ tags: [rangoric, rangoric/overview]
 | Special Attack                                   | Brief Description                                                  |
 | ------------------------------------------------ | ------------------------------------------------------------------ |
 | [[#Aid Another\|Aid another]]                    | Grant an ally a +2 bonus on attacks or AC                          |
-| [[#Bull Rush\|Bull rush]] | Push an opponent back 5 feet or more (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Bull Rush\|Bull rush]] | Push an opponent back 5 feet or more (combat maneuver) |
 | [[#Charge\|Charge]]                              | Move up to twice your speed and attack with +2 bonus               |
-| [[#Disarm\|Disarm]] | Make an opponent drop what it’s holding (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Disarm\|Disarm]] | Make an opponent drop what it’s holding (combat maneuver) |
 | [[rangoric-srd/combat/Combat Maneuvers#Dirty Trick\|Dirty trick]] | Blind, dazzle, deafen, entangle, shake or sicken an opponent briefly (combat maneuver) |
 | [[rangoric-srd/combat/Combat Maneuvers#Drag\|Drag]] | Pull an opponent along behind you (combat maneuver) |
 | [[#Feint\|Feint]]                                | Negate your opponent’s Dex bonus to AC                             |
-| [[#Grapple\|Grapple]] | Hold an opponent (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Grapple\|Grapple]] | Hold an opponent (combat maneuver) |
 | [[#Mounted Combat\|Mounted Combat]]              | Fight while riding a mount.                                        |
-| [[#Overrun\|Overrun]] | Move through an opponent’s space (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Overrun\|Overrun]] | Move through an opponent’s space (combat maneuver) |
 | [[rangoric-srd/combat/Combat Maneuvers#Reposition\|Reposition]] | Move an opponent within your reach (combat maneuver) |
 | [[rangoric-srd/combat/Combat Maneuvers#Steal\|Steal]] | Take an item an opponent isn’t holding (combat maneuver) |
-| [[#Sunder\|Sunder]] | Damage an item an opponent holds or wears (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Sunder\|Sunder]] | Damage an item an opponent holds or wears (combat maneuver) |
 | [[#Throw Splash Weapon\|Throw splash weapon]]    | Throw container of dangerous liquid at target                      |
-| [[#Trip\|Trip]] | Knock an opponent prone (combat maneuver) |
+| [[rangoric-srd/combat/Combat Maneuvers#Trip\|Trip]] | Knock an opponent prone (combat maneuver) |
 | [[#Turn or Rebuke Undead\|Turn (rebuke) undead]] | Channel positive (or negative) energy to turn away (or awe) undead |
 | [[#Two-Weapon Fighting\|Two-weapon fighting]]    | Fight with a weapon in each hand                                   |
 

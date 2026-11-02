@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/salamander/Salamander|Salamander (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -21,11 +21,11 @@ Salamanders speak Ignan. Some average salamanders and all nobles also speak Comm
 
 If a salamander has damage reduction, its natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Constrict (Ex)**: A salamander deals automatic tail slap damage (including fire damage) with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. A noble salamander can constrict multiple creatures simultaneously, provided they are all at least two sizes smaller than it.
+**Constrict (Ex)**: A salamander deals automatic tail slap damage (including fire damage) with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. A noble salamander can constrict multiple creatures simultaneously, provided they are all at least two sizes smaller than it.
 
 **Heat (Ex)**: A salamander generates so much heat that its mere touch deals additional fire damage. Salamanders’ metallic weapons also conduct this heat.
 
-**Improved Grab (Ex)**: To use this ability, a salamander must hit a creature of up to one size larger than itself with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a salamander must hit a creature of up to one size larger than itself with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
 
 **Spell-Like Abilities**: (Noble salamanders only) Caster level 15th. The save DCs are Charisma-based.  
 

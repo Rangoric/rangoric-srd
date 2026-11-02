@@ -76,7 +76,7 @@ A yeth hound’s natural weapons, as well as any weapons it wields, are treated 
 
 **Bay (Su)**: When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 11 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound’s bay for 24 hours. The save DC is Charisma-based.
 
-**Trip (Ex)**: A yeth hound that hits with its bite attack can attempt to [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]] the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the yeth hound.
+**Trip (Ex)**: A yeth hound that hits with its bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the yeth hound.
 
 **Flight (Su)**: A yeth hound can cease or resume flight as a free action.
 

@@ -75,9 +75,9 @@ Lillends are generally peaceful unless they intend vengeance against someone the
 
 A lillend’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Constrict (Ex)**: A lillend deals 2d6+5 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. Constricting uses the entire lower portion of its body, so it cannot take any move actions when constricting, though it can still attack with its sword.
+**Constrict (Ex)**: A lillend deals 2d6+5 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Constricting uses the entire lower portion of its body, so it cannot take any move actions when constricting, though it can still attack with its sword.
 
-**Improved Grab (Ex)**: To use this ability, a lillend must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a lillend must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Spells**: A lillend casts arcane spells as a 6th-level bard.
 

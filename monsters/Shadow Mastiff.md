@@ -75,7 +75,7 @@ Shadow mastiffs prefer fighting in shadows or dark conditions, which gives them 
 
 **Bay (Su)**: When a shadow mastiff howls or barks, all creatures except evil outsiders within a 300-foot spread must succeed on a DC 13 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same mastiff ’s bay for 24 hours. The save DC is Charisma-based.
 
-**Trip (Ex)**: A shadow mastiff that hits with its bite attack can attempt to [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]] the opponent as a free action (+3 check modifier) without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the shadow mastiff.
+**Trip (Ex)**: A shadow mastiff that hits with its bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent as a free action (+3 check modifier) without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the shadow mastiff.
 
 **Shadow Blend (Su)**: In any condition of illumination other than full daylight, a shadow mastiff can disappear into the shadows, giving it total concealment. Artificial illumination, even a [[rangoric-srd/spells/Light|light]] or [[rangoric-srd/spells/Continual Flame|continual flame]] spell, does not negate this ability. A [[rangoric-srd/spells/Daylight|daylight]] spell, however, will.
 

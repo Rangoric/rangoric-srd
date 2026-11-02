@@ -69,7 +69,7 @@ Adults are about 10-1/2 feet tall and weigh about 1,100 pounds. Hill giants can 
 
 Hill giants prefer to fight from high, rocky outcroppings, where they can pelt opponents with rocks and boulders while limiting the risk to themselves.
 
-Hill giants love to make [[rangoric-srd/combat/Combat Special Attacks#Overrun|overrun]] attacks against smaller creatures when they first join battle. Thereafter, they stand fast and swing away with their massive clubs.
+Hill giants love to make [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] attacks against smaller creatures when they first join battle. Thereafter, they stand fast and swing away with their massive clubs.
 
 **Rock Throwing (Ex)**: The range increment is 120 feet for a hill giant’s thrown rocks.
 
@@ -81,7 +81,7 @@ Hill giant characters possess the following racial traits.
 
   - \+14 Strength, –2 Dexterity, +8 Constitution, –4 Intelligence, –4 Charisma.
 
-  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
+  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
 
   - Space/Reach: 10 feet/10 feet.
 

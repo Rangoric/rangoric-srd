@@ -70,7 +70,7 @@ An ankheg usually lies 5 to 10 feet below the surface until its antennae detect 
 
 Clusters of ankhegs share the same territory but do not cooperate.
 
-**Improved Grab (Ex)**: To use this ability, an ankheg must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If the ankheg is damaged after grabbing its prey, it retreats backward down its tunnel at its land speed (not its burrow speed), dragging the victim with it.
+**Improved Grab (Ex)**: To use this ability, an ankheg must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If the ankheg is damaged after grabbing its prey, it retreats backward down its tunnel at its land speed (not its burrow speed), dragging the victim with it.
 
 **Spit Acid (Ex)**: 30-ft. line, once every 6 hours; damage 4d4 acid, Reflex DC 14 half. One such attack depletes the ankheg’s acid supply for 6 hours. It cannot spit acid or deal acid damage during this time. The save DC is Constitution-based.
 

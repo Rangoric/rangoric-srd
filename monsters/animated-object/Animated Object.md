@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/animated-object/Animated Object|Animated Object (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -27,9 +27,9 @@ Animated objects fight only as directed by the animator. They follow orders with
 
 An animated object can have one or more of the following special abilities, depending on its form.
 
-**Blind (Ex)**: A sheetlike animated object such as a carpet or tapestry can [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] an opponent up to three sizes larger than itself. The object makes a normal grapple check. If it wins, it wraps itself around the opponent’s head, causing that creature to be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] until removed.
+**Blind (Ex)**: A sheetlike animated object such as a carpet or tapestry can [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] an opponent up to three sizes larger than itself. The object makes a normal grapple check. If it wins, it wraps itself around the opponent’s head, causing that creature to be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] until removed.
 
-**Constrict (Ex)**: A flexible animated object such as a rope, vine, or rug deals damage equal to its slam damage value plus 1- 1/2 times its Strength bonus with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check against a creature up to one size larger than itself.
+**Constrict (Ex)**: A flexible animated object such as a rope, vine, or rug deals damage equal to its slam damage value plus 1- 1/2 times its Strength bonus with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check against a creature up to one size larger than itself.
 
 An object of at least Large size can make constriction attacks against multiple creatures at once, if they all are at least two sizes smaller than the object and can fit under it.
 

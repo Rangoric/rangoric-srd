@@ -69,7 +69,7 @@ An annis stands some 8 feet tall and weighs about 325 pounds.
 
 Though physically powerful, these hags do not favor simple assaults but try to divide and confuse their foes before combat. They love to pose as commoners or gentlefolk to lull their victims into a sense of false security before they attack.
 
-**Improved Grab (Ex)**: To use this ability, an annis must hit a Large or smaller opponent with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, an annis must hit a Large or smaller opponent with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 **Rake (Ex)**: Attack bonus +13 melee, damage 1d6+7. An annis can attack a [[rangoric-srd/rules/Special Abilities and Conditions|grappled]] foe with both claws at no penalty.
 

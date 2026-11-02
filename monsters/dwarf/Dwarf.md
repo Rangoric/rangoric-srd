@@ -38,7 +38,7 @@ Dwarves are experts in combat, effectively using their environment and executing
 
   - Weapon Familiarity: Dwarves treat dwarven waraxes and dwarven urgroshes as martial weapons, rather than exotic weapons.
 
-  - Stability: Dwarves are exceptionally stable on their feet. A dwarf has a +4 bonus on ability checks made to resist being [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Special Attacks#Trip|tripped]] when standing on the ground (but not when climbing, flying, riding, or otherwise not standing firmly on the ground).
+  - Stability: Dwarves are exceptionally stable on their feet. A dwarf has a +4 bonus on ability checks made to resist being [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Maneuvers#Trip|tripped]] when standing on the ground (but not when climbing, flying, riding, or otherwise not standing firmly on the ground).
 
   - \+2 racial bonus on saving throws against poison. \*Not reflected in the saving throw numbers given here.
 

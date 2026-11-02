@@ -73,7 +73,7 @@ Wyverns are rather stupid but always aggressive: They attack nearly anything tha
 
 A wyvern can slash with its talons only when making a [[rangoric-srd/feats/Flyby Attack|flyby attack]].
 
-**Improved Grab (Ex)**: To use this ability, a wyvern must hit with its talons. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and stings.
+**Improved Grab (Ex)**: To use this ability, a wyvern must hit with its talons. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and stings.
 
 **Poison (Ex)**: Injury, Fortitude DC 17, initial and secondary damage 2d6 Con. The save DC is Constitution-based.
 

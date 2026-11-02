@@ -23,7 +23,7 @@ Tojanidas speak Aquan and can be loquacious, but usually only on the subject of 
 
 ### Combat
 
-**Improved Grab (Ex)**: To use this ability, a tojanida must hit with a bite or claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. Underwater, a tojanida can tow a grabbed victim of its own size or smaller at its swim speed (but it cannot run). A favorite tactic is to grab a single opponent, then withdraw, hauling the opponent away from its allies.
+**Improved Grab (Ex)**: To use this ability, a tojanida must hit with a bite or claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. Underwater, a tojanida can tow a grabbed victim of its own size or smaller at its swim speed (but it cannot run). A favorite tactic is to grab a single opponent, then withdraw, hauling the opponent away from its allies.
 
 **Ink Cloud (Ex)**: A tojanida can emit a spherical cloud of jet-black ink with a radius of 30 feet once per minute as a free action. The effect is otherwise similar to [[rangoric-srd/spells/Fog Cloud|fog cloud]] cast by an individual of a level equal to the tojanida’s Hit Dice. Out of water, the ink emerges in a stream up to 30 feet long, which a tojanida can squirt into an opponent’s eyes. The affected creature must succeed on a Reflex save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1 round. The save DC is 13 against a juvenile, 15 against an adult, and 21 against an elder. The save DCs are Constitution based.
 

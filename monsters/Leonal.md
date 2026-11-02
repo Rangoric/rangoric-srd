@@ -74,7 +74,7 @@ A leonal’s natural weapons, as well as any weapons it wields, are treated as g
 
 **Pounce (Ex)**: If a leonal charges a foe, it can make a full attack, including two [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks.
 
-**Improved Grab (Ex)**: To use this ability, a leonal must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a leonal must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Rake (Ex)**: Attack bonus +20 melee, damage 1d6+8.
 
