@@ -2,14 +2,14 @@
 srd-type: "class"
 section: "Classes"
 alignment: "Any"
-hit-die: "d4"
+hit-die: "d6"
 skill-points: "2 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Sorcerer|Sorcerer (PF1)]]"
   - "[[fantasy srd 3.5/classes/Sorcerer|Sorcerer (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---
 
@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class]
 
 **Alignment**: Any.
 
-**Hit Die**: d4.
+**Hit Die**: d6.
 
 ###### Class Skills
 
@@ -31,28 +31,28 @@ The sorcerer’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Sorcerer** ^table-the-sorcerer
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| ----- | ----------------- | --------- | -------- | --------- | --------------- | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +0               | +0       | +0      | +2       | Summon familiar | 5                 | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 2nd   | +1               | +0       | +0      | +3       |                 | 6                 | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 3rd   | +1               | +1       | +1      | +3       |                 | 6                 | 5                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 4th   | +2               | +1       | +1      | +4       |                 | 6                 | 6                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 5th   | +2               | +1       | +1      | +4       |                 | 6                 | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 6th   | +3               | +2       | +2      | +5       |                 | 6                 | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 7th   | +3               | +2       | +2      | +5       |                 | 6                 | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 8th   | +4               | +2       | +2      | +6       |                 | 6                 | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
-| 9th   | +4               | +3       | +3      | +6       |                 | 6                 | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   |
-| 10th  | +5               | +3       | +3      | +7       |                 | 6                 | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
-| 11th  | +5               | +3       | +3      | +7       |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   |
-| 12th  | +6/+1            | +4       | +4      | +8       |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
-| 13th  | +6/+1            | +4       | +4      | +8       |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   |
-| 14th  | +7/+2            | +4       | +4      | +9       |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
-| 15th  | +7/+2            | +5       | +5      | +9       |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   |
-| 16th  | +8/+3            | +5       | +5      | +10      |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
-| 17th  | +8/+3            | +5       | +5      | +10      |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   |
-| 18th  | +9/+4            | +6       | +6      | +11      |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
-| 19th  | +9/+4            | +6       | +6      | +11      |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   |
-| 20th  | +10/+5           | +6       | +6      | +12      |                 | 6                 | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   |
+| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special         | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | ----------------- | --------- | -------- | --------- | --------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | +0               | +0       | +0      | +2       | Bloodline power, cantrips, Eschew Materials, summon familiar | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 2nd   | +1               | +0       | +0      | +3       |  | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 3rd   | +1               | +1       | +1      | +3       | Bloodline power, bloodline spell | 5                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 4th   | +2               | +1       | +1      | +4       |  | 6                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 5th   | +2               | +1       | +1      | +4       | Bloodline spell | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 6th   | +3               | +2       | +2      | +5       |  | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 7th   | +3               | +2       | +2      | +5       | Bloodline feat, bloodline spell | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   | —                   |
+| 8th   | +4               | +2       | +2      | +6       |  | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   | —                   |
+| 9th   | +4               | +3       | +3      | +6       | Bloodline power, bloodline spell | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   | —                   |
+| 10th  | +5               | +3       | +3      | +7       |  | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   | —                   |
+| 11th  | +5               | +3       | +3      | +7       | Bloodline spell | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   | —                   |
+| 12th  | +6/+1            | +4       | +4      | +8       |  | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   | —                   |
+| 13th  | +6/+1            | +4       | +4      | +8       | Bloodline feat, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   | —                   |
+| 14th  | +7/+2            | +4       | +4      | +9       |  | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   | —                   |
+| 15th  | +7/+2            | +5       | +5      | +9       | Bloodline power, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   | —                   |
+| 16th  | +8/+3            | +5       | +5      | +10      |  | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   | —                   |
+| 17th  | +8/+3            | +5       | +5      | +10      | Bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   | —                   |
+| 18th  | +9/+4            | +6       | +6      | +11      |  | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 5                   | 3                   |
+| 19th  | +9/+4            | +6       | +6      | +11      | Bloodline feat, bloodline spell | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 4                   |
+| 20th  | +10/+5           | +6       | +6      | +12      | Bloodline power | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   | 6                   |
 
 **Table: Sorcerer Spells Known** ^table-sorcerer-spells-known
 
@@ -97,6 +97,20 @@ A sorcerer’s selection of spells is extremely limited. A sorcerer begins play 
 Upon reaching 4th level, and at every even-numbered sorcerer level after that (6th, 8th, and so on), a sorcerer can choose to learn a new spell in place of one he already knows. In effect, the sorcerer “loses” the old spell in exchange for the new one. The new spell’s level must be the same as that of the spell being exchanged, and it must be at least two levels lower than the highest-level sorcerer spell the sorcerer can cast. A sorcerer may swap only a single spell at any given level, and must choose whether or not to swap the spell at the same time that he gains new spells known for the level.
 
 Unlike a wizard or a cleric, a sorcerer need not prepare his spells in advance. He can cast any spell he knows at any time, assuming he has not yet used up his spells per day for that spell level. He does not have to decide ahead of time which spells he’ll cast.
+
+**Cantrips**: A sorcerer learns a number of cantrips, or 0-level spells, as noted on Table: Sorcerer Spells Known. These spells are cast like any other spell, but they do not use up spell slots and can be cast again and again.
+
+**Eschew Materials**: A sorcerer gains [[rangoric-srd/feats/Eschew Materials|Eschew Materials]] as a bonus feat at 1st level.
+
+**Bloodline**: Each sorcerer has a source of magic somewhere in his heritage that grants him spells, bonus feats, an additional class skill, and other special abilities. This source can represent a blood relation or an extreme event involving a creature somewhere in the family’s past. For example, a sorcerer might have a dragon as a distant relative or his grandfather might have signed a terrible contract with a devil. Regardless of the source, this influence manifests in a number of ways as the sorcerer gains levels. A sorcerer must pick one bloodline upon taking his first level of sorcerer. Once made, this choice cannot be changed.
+
+Each bloodline gives:
+
+- **Class skill**: one more class skill.
+- **Bloodline powers**: at 1st, 3rd, 9th, 15th, and 20th level.
+- **Bloodline spells**: at 3rd level, and every two levels thereafter, a sorcerer learns an additional spell, derived from his bloodline. These spells are in addition to the number of spells given on Table: Sorcerer Spells Known. They cannot be exchanged for different spells at higher levels.
+- **Bloodline feats**: at 7th level, and every six levels thereafter, a sorcerer receives one bonus feat, chosen from a list specific to each bloodline. The sorcerer must meet the prerequisites for these bonus feats.
+- **Bloodline arcana**: an ability that is always on.
 
 **Familiar**: A sorcerer can obtain a [[rangoric-srd/classes/Wizard#Familiars|familiar]]. Doing so takes 24 hours and uses up magical materials that cost 100 gp. A familiar is a magical beast that resembles a small animal and is unusually tough and intelligent. The creature serves as a companion and servant. ^sorcerer-familiar
 
