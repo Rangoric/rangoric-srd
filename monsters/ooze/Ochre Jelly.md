@@ -8,7 +8,9 @@ hit-dice: "6d10+36 (69 hp)"
 initiative: "–5"
 speed: "10 ft. (2 squares), climb 10 ft."
 armor-class: "4 (–1 size, –5 Dex), touch 4, flat-footed 4"
-base-attack-grapple: "+4/+10"
+base-attack: "+4"
+cmb: "+7 (+11 grapple)"
+cmd: "12 (can't be tripped)"
 attack: "Slam +5 melee (2d4+3 plus 1d4 acid)"
 full-attack: "Slam +5 melee (2d4+3 plus 1d4 acid)"
 space-reach: "10 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –5
   - **Speed**: 10 ft. (2 squares), climb 10 ft.
   - **Armor Class**: 4 (–1 size, –5 Dex), touch 4, flat-footed 4
-  - **Base Attack/Grapple**: +4/+10
+  - **Base Attack**: +4; **CMB**: +7 (+11 grapple); **CMD**: 12 (can't be tripped)
   - **Attack**: Slam +5 melee (2d4+3 plus 1d4 acid)
   - **Full Attack**: Slam +5 melee (2d4+3 plus 1d4 acid)
   - **Space/Reach**: 10 ft./5 ft.
@@ -69,7 +71,7 @@ An ochre jelly attempts to envelop and squeeze its prey.
 
 **Constrict (Ex)**: An ochre jelly deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
 
-**Improved Grab (Ex)**: To use this ability, an ochre jelly must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, an ochre jelly must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Split (Ex)**: Slashing and piercing weapons and electricity attacks deal no damage to an ochre jelly. Instead the creature splits into two identical jellies, each with half of the original’s current hit points (round down). A jelly with 10 hit points or less cannot be further split and dies if reduced to 0 it points.
 

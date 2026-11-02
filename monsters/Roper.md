@@ -7,7 +7,9 @@ hit-dice: "10d10+30 (85 hp)"
 initiative: "+5"
 speed: "10 ft. (2 squares)"
 armor-class: "24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23"
-base-attack-grapple: "+10/+18"
+base-attack: "+10"
+cmb: "+15"
+cmd: "26 (can't be tripped)"
 attack: "Strand +11 ranged touch (drag) or bite +13 melee (2d6+6)"
 full-attack: "6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6)"
 space-reach: "10 ft./10 ft. (50 ft. with strand)"
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +5
   - **Speed**: 10 ft. (2 squares)
   - **Armor Class**: 24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23
-  - **Base Attack/Grapple**: +10/+18
+  - **Base Attack**: +10; **CMB**: +15; **CMD**: 26 (can't be tripped)
   - **Attack**: Strand +11 ranged touch (drag) or bite +13 melee (2d6+6)
   - **Full Attack**: 6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6)
   - **Space/Reach**: 10 ft./10 ft. (50 ft. with strand)

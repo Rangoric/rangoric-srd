@@ -7,7 +7,9 @@ hit-dice: "7d8+21 (52 hp)"
 initiative: "+2 (Dex)"
 speed: "30 ft."
 armor-class: "15 (-1 size, +2 Dex, +4 natural)"
-base-attack-grapple: "+7/+13"
+base-attack: "+7"
+cmb: "+10"
+cmd: "22"
 attack: "Masterwork falchion +9(2d4+3) melee"
 full-attack: "Masterwork falchion +9/+4 (2d4+3) melee"
 space-reach: "10 ft./10 ft."
@@ -40,7 +42,7 @@ Hit Dice: 7d8+21 (52 hp)    
 Initiative: +2 (Dex)      
 Speed: 30 ft.      
 AC: 15 (-1 size, +2 Dex, +4 natural)      
-Base Attack/Grapple: +7/+13     
+Base Attack: +7; CMB: +10; CMD: 22     
 Attack: Masterwork falchion +9(2d4+3) melee     
 Full Attack: Masterwork falchion +9/+4 (2d4+3) melee      
 Space/Reach: 10 ft./10 ft.      

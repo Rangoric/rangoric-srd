@@ -10,7 +10,9 @@ hit-dice: "32d8+192 (336 hp)"
 initiative: "+12 (+4 Dex, +8 Superior Initiative)"
 speed: "60 ft. or via dimension door"
 armor-class: "35 (-2 size, +4 Dex, +3 deflection, +20 insight)"
-base-attack-grapple: "+24/-"
+base-attack: "+24"
+cmb: "—"
+cmd: "64 (72 vs. trip)"
 attack: "Bite +26 (4d10 + 12 plus poison) melee"
 full-attack: "Bite +26 (4d10 + 12 plus poison ) melee, 10 head-tentacles +21 (2d10 plus ability drain ) melee touch attack"
 space-reach: "15 ft./10 ft."
@@ -44,7 +46,7 @@ Hit Dice: 32d8+192 (336 hp)    
 Initiative: +12 (+4 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 60 ft. or via dimension door      
 AC: 35 (-2 size, +4 Dex, +3 deflection, +20 insight)      
-Base Attack/Grapple: +24/-     
+Base Attack: +24; CMB: —; CMD: 64 (72 vs. trip)     
 Attack: Bite +26 (4d10 + 12 plus poison) melee     
 Full Attack: Bite +26 (4d10 + 12 plus poison ) melee, 10 head-tentacles +21 (2d10 plus ability drain ) melee touch attack     
 Space/Reach: 15 ft./10 ft.      

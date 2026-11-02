@@ -9,7 +9,9 @@ hit-dice: "8d8+11 (47 hp)"
 initiative: "+2"
 speed: "20 ft. (4 squares), swim 30 ft."
 armor-class: "18 (–1 size, +2 Dex, +7 natural), touch 11, flat-footed 16"
-base-attack-grapple: "+6/+15"
+base-attack: "+6"
+cmb: "+12 (+16 grapple)"
+cmd: "24 (can't be tripped)"
 attack: "Tentacle +10 melee (1d4+5)"
 full-attack: "8 tentacles +10 melee (1d4+5) and bite +5 melee (1d8+2)"
 space-reach: "10 ft./10 ft. (20 ft. with tentacle)"
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 20 ft. (4 squares), swim 30 ft.
   - **Armor Class**: 18 (–1 size, +2 Dex, +7 natural), touch 11, flat-footed 16
-  - **Base Attack/Grapple**: +6/+15
+  - **Base Attack**: +6; **CMB**: +12 (+16 grapple); **CMD**: 24 (can't be tripped)
   - **Attack**: Tentacle +10 melee (1d4+5)
   - **Full Attack**: 8 tentacles +10 melee (1d4+5) and bite +5 melee (1d8+2)
   - **Space/Reach**: 10 ft./10 ft. (20 ft. with tentacle)
@@ -64,7 +66,7 @@ An opponent can attack a giant octopus’s tentacles with a sunder attempt as if
 
 **Constrict (Ex)**: A giant octopus deals 2d8+6 points of damage with a successful grapple check.
 
-**Improved Grab (Ex)**: To use this ability, a giant octopus must hit an opponent of any size with a tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a giant octopus must hit an opponent of any size with a tentacle attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Ink Cloud (Ex)**: A giant octopus can emit a cloud of jet-black ink 20 feet high by 20 feet wide by 20 feet long once per minute as a free action. The cloud provides total concealment, which the octopus normally uses to escape a losing fight. All vision within the cloud is obscured.
 

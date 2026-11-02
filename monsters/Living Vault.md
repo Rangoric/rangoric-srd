@@ -7,7 +7,9 @@ hit-dice: "96d10+80 (608 hp)"
 initiative: "-2 (Dex)"
 speed: "10 ft. (can’t run)"
 armor-class: "60 (-8 size, -2 Dex, +60 natural)"
-base-attack-grapple: "+72/+123"
+base-attack: "+72"
+cmb: "+115"
+cmd: "123"
 attack: "Slam +99 (10d6+35) melee"
 full-attack: "2 slams +99 (10d6+35) melee"
 space-reach: "30 ft./20 ft."
@@ -39,7 +41,7 @@ Hit Dice: 96d10+80 (608 hp)   
 Initiative: -2 (Dex)      
 Speed: 10 ft. (can’t run)      
 AC: 60 (-8 size, -2 Dex, +60 natural)      
-Base Attack/Grapple: +72/+123     
+Base Attack: +72; CMB: +115; CMD: 123     
 Attack: Slam +99 (10d6+35) melee     
 Full Attack: 2 slams +99 (10d6+35) melee     
 Space/Reach: 30 ft./20 ft.      

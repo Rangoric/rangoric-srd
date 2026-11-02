@@ -10,7 +10,9 @@ hit-dice: "2d8+2 (11 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "17 (+1 size, +6 natural), touch 11, flat-footed 17"
-base-attack-grapple: "+1/–1"
+base-attack: "+1"
+cmb: "+2"
+cmd: "12"
 attack: "Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion)"
 full-attack: "Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 17 (+1 size, +6 natural), touch 11, flat-footed 17
-  - **Base Attack/Grapple**: +1/–1
+  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12
   - **Attack**: Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion)
   - **Full Attack**: Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion)
   - **Space/Reach**: 5 ft./5 ft.

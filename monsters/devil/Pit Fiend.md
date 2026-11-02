@@ -12,7 +12,9 @@ hit-dice: "18d8+144 (225 hp)"
 initiative: "+12"
 speed: "40 ft. (8 squares), fly 60 ft. (average)"
 armor-class: "40 (–1 size, +8 Dex, +23 natural) touch 17, flat-footed 32"
-base-attack-grapple: "+18/+35"
+base-attack: "+18"
+cmb: "+32 (+36 grapple)"
+cmd: "50"
 attack: "Claw +30 melee (2d8+13)"
 full-attack: "2 claws +30 melee (2d8+13) and 2 wings +28 melee (2d6+6) and bite +28 melee (4d6+6 plus poison plus disease) and tail slap +28 melee (2d8+6)"
 space-reach: "10 ft./10 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +12
   - **Speed**: 40 ft. (8 squares), fly 60 ft. (average)
   - **Armor Class**: 40 (–1 size, +8 Dex, +23 natural) touch 17, flat-footed 32
-  - **Base Attack/Grapple**: +18/+35
+  - **Base Attack**: +18; **CMB**: +32 (+36 grapple); **CMD**: 50
   - **Attack**: Claw +30 melee (2d8+13)
   - **Full Attack**: 2 claws +30 melee (2d8+13) and 2 wings +28 melee (2d6+6) and bite +28 melee (4d6+6 plus poison plus disease) and tail slap +28 melee (2d8+6)
   - **Space/Reach**: 10 ft./10 ft.
@@ -82,7 +84,7 @@ A pit fiend’s natural weapons, as well as any weapons it wields, are treated a
 
 **Improved Grab (Ex)**: To use this ability, a pit fiend must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
-If it wins the grapple check, it establishes a hold and can constrict.
+If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Poison (Ex)**: Injury, Fortitude DC 27, initial damage 1d6 Con, secondary damage death. The save DC is Constitution-based.
 

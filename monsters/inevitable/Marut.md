@@ -11,7 +11,9 @@ hit-dice: "15d10+30 (112 hp)"
 initiative: "+1"
 speed: "30 ft. in full plate armor (6 squares); base speed 40 ft."
 armor-class: "34 (–1 size, +1 Dex, +16 natural, +8 full plate armor), touch 10, flat-footed 33"
-base-attack-grapple: "+11/+27"
+base-attack: "+11"
+cmb: "+24"
+cmd: "35"
 attack: "Slam +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)"
 full-attack: "2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)"
 space-reach: "10 ft./10 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. in full plate armor (6 squares); base speed 40 ft.
   - **Armor Class**: 34 (–1 size, +1 Dex, +16 natural, +8 full plate armor), touch 10, flat-footed 33
-  - **Base Attack/Grapple**: +11/+27
+  - **Base Attack**: +11; **CMB**: +24; **CMD**: 35
   - **Attack**: Slam +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)
   - **Full Attack**: 2 slams +22 melee (2d6+12 plus 3d6 sonic or 3d6 electricity)
   - **Space/Reach**: 10 ft./10 ft.

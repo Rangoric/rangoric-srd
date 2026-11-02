@@ -9,7 +9,9 @@ hit-dice: "2d8+2 (11 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+5 natural) or 17 (+5 natural, +2 heavy shield), touch 10, flat-footed 15 or 17"
-base-attack-grapple: "+1/+2"
+base-attack: "+1"
+cmb: "+2"
+cmd: "12"
 attack: "Claw +2 melee (1d4+1) or club +2 melee (1d6+1) or javelin +1 ranged (1d6+1)"
 full-attack: "2 claws +2 melee (1d4+1) and bite +0 melee (1d4); or club +2 melee (1d6+1) and bite +0 melee (1d4); or javelin +1 ranged (1d6+1)"
 special-attacks: "—"
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+5 natural) or 17 (+5 natural, +2 heavy shield), touch 10, flat-footed 15 or 17
-  - **Base Attack/Grapple**: +1/+2
+  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12
   - **Attack**: Claw +2 melee (1d4+1) or club +2 melee (1d6+1) or javelin +1 ranged (1d6+1)
   - **Full Attack**: 2 claws +2 melee (1d4+1) and bite +0 melee (1d4); or club +2 melee (1d6+1) and bite +0 melee (1d4); or javelin +1 ranged (1d6+1)
   - **Special Attacks**: —

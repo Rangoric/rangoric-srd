@@ -10,7 +10,9 @@ hit-dice: "1d6 (3 hp)"
 initiative: "+3"
 speed: "20 ft. (4 squares), swim 30 ft."
 armor-class: "14 (+1 size, +3 Dex), touch 14, flat-footed 11"
-base-attack-grapple: "+0/–6"
+base-attack: "+0"
+cmb: "–3"
+cmd: "11"
 attack: "Short sword +4 melee (1d4–2/19–20) or light crossbow +4 ranged (1d6/19–20)"
 full-attack: "Short sword +4 melee (1d4–2/19–20) or light crossbow +4 ranged (1d6/19–20)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 20 ft. (4 squares), swim 30 ft.
   - **Armor Class**: 14 (+1 size, +3 Dex), touch 14, flat-footed 11
-  - **Base Attack/Grapple**: +0/–6
+  - **Base Attack**: +0; **CMB**: –3; **CMD**: 11
   - **Attack**: Short sword +4 melee (1d4–2/19–20) or light crossbow +4 ranged (1d6/19–20)
   - **Full Attack**: Short sword +4 melee (1d4–2/19–20) or light crossbow +4 ranged (1d6/19–20)
   - **Space/Reach**: 5 ft./5 ft.

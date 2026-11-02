@@ -12,7 +12,9 @@ hit-dice: "16d8+144 (216 hp)"
 initiative: "+4"
 speed: "40 ft. (8 squares)"
 armor-class: "29 (–1 size, +4 Dex, +16 natural), touch 13, flat-footed 25"
-base-attack-grapple: "+16/+29"
+base-attack: "+16"
+cmb: "+26 (+30 grapple)"
+cmd: "40 (can't be tripped)"
 attack: "Longsword +25 melee (2d6+9/19–20) or slam +24 melee (1d8+9) or tail slap +24 melee (4d6+9)"
 full-attack: "Primary longsword +25/+20/+15/+10 melee (2d6+9/19–20) and 5 longswords +25 melee (2d6+4/19–20) and tail slap +22 melee (4d6+4); or 6 slams +24 melee (1d8+9) and tail slap +22 melee (4d6+4)"
 space-reach: "10 ft./10 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 29 (–1 size, +4 Dex, +16 natural), touch 13, flat-footed 25
-  - **Base Attack/Grapple**: +16/+29
+  - **Base Attack**: +16; **CMB**: +26 (+30 grapple); **CMD**: 40 (can't be tripped)
   - **Attack**: Longsword +25 melee (2d6+9/19–20) or slam +24 melee (1d8+9) or tail slap +24 melee (4d6+9)
   - **Full Attack**: Primary longsword +25/+20/+15/+10 melee (2d6+9/19–20) and 5 longswords +25 melee (2d6+4/19–20) and tail slap +22 melee (4d6+4); or 6 slams +24 melee (1d8+9) and tail slap +22 melee (4d6+4)
   - **Space/Reach**: 10 ft./10 ft.

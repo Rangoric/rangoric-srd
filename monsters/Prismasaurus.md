@@ -7,7 +7,9 @@ hit-dice: "60d10+620 (950 hp)"
 initiative: "+15 (+7 Dex, +8 Superior Initiative)"
 speed: "30 ft."
 armor-class: "55 (-2 size, +7 Dex, +40 natural)"
-base-attack-grapple: "+60/+79"
+base-attack: "+60"
+cmb: "+73"
+cmd: "91 (95 vs. trip)"
 attack: "Bite +72 (8d10+11/ 19-20 (+1d6 on critical hit)) melee"
 full-attack: "Bite +72 melee (8d10+11/ 19-20 (+1d6 on critical hit)), tail +67 (10d6+5) melee"
 space-reach: "15 ft./10 ft."
@@ -41,7 +43,7 @@ Hit Dice: 60d10+620 (950 hp)    
 Initiative: +15 (+7 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 30 ft.      
 AC: 55 (-2 size, +7 Dex, +40 natural)      
-Base Attack/Grapple: +60/+79     
+Base Attack: +60; CMB: +73; CMD: 91 (95 vs. trip)     
 Attack: Bite +72 (8d10+11/ 19-20 (+1d6 on critical hit)) melee     
 Full Attack: Bite +72 melee (8d10+11/ 19-20 (+1d6 on critical hit)), tail +67 (10d6+5) melee     
 Space/Reach: 15 ft./10 ft.      

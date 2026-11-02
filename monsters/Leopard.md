@@ -7,7 +7,9 @@ hit-dice: "3d8+6 (19 hp)"
 initiative: "+4"
 speed: "40 ft (8 squares), climb 20 ft."
 armor-class: "15 (+4 Dex, +1 natural), touch 14, flat-footed 11"
-base-attack-grapple: "+2/+5"
+base-attack: "+2"
+cmb: "+5 (+9 grapple)"
+cmd: "19 (23 vs. trip)"
 attack: "Bite +6 melee (1d6+3)"
 full-attack: "Bite +6 melee (1d6+3) and 2 claws +1 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
@@ -38,7 +40,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: 40 ft (8 squares), climb 20 ft.
   - **Armor Class**: 15 (+4 Dex, +1 natural), touch 14, flat-footed 11
-  - **Base Attack/Grapple**: +2/+5
+  - **Base Attack**: +2; **CMB**: +5 (+9 grapple); **CMD**: 19 (23 vs. trip)
   - **Attack**: Bite +6 melee (1d6+3)
   - **Full Attack**: Bite +6 melee (1d6+3) and 2 claws +1 melee (1d3+1)
   - **Space/Reach**: 5 ft./5 ft.
@@ -60,7 +62,7 @@ The statistics presented here can describe any feline of similar size, such as j
 
 #### Combat
 
-**Improved Grab (Ex)**: To use this ability, a leopard must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a leopard must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Pounce (Ex)**: If a leopard charges a foe, it can make a full attack, including two rake attacks.
 

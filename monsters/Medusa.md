@@ -7,7 +7,9 @@ hit-dice: "6d8+6 (33 hp)"
 initiative: "+2"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+2 Dex, +3 natural), touch 12, flat-footed 13"
-base-attack-grapple: "+6/+6"
+base-attack: "+6"
+cmb: "+6"
+cmd: "18"
 attack: "Shortbow +8 ranged (1d6/x3) or dagger +8 melee (1d4/19–20) or snakes +8 melee (1d4 plus poison)"
 full-attack: "Shortbow +8/+3 ranged (1d6/x3); or dagger +8/+3 melee (1d4/19–20) and snakes +3 melee (1d4 plus poison)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack/Grapple**: +6/+6
+  - **Base Attack**: +6; **CMB**: +6; **CMD**: 18
   - **Attack**: Shortbow +8 ranged (1d6/x3) or dagger +8 melee (1d4/19–20) or snakes +8 melee (1d4 plus poison)
   - **Full Attack**: Shortbow +8/+3 ranged (1d6/x3); or dagger +8/+3 melee (1d4/19–20) and snakes +3 melee (1d4 plus poison)
   - **Space/Reach**: 5 ft./5 ft.

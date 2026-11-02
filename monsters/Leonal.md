@@ -10,7 +10,9 @@ hit-dice: "12d8+60 (114 hp)"
 initiative: "+3"
 speed: "60 ft. (12 squares)"
 armor-class: "27 (+3 Dex, +14 natural)"
-base-attack-grapple: "+12/+20"
+base-attack: "+12"
+cmb: "+20 (+24 grapple)"
+cmd: "34 (38 vs. trip)"
 attack: "Claw +20 melee (1d6+8)"
 full-attack: "2 claws +20 melee (1d6+8) and bite +15 melee (1d8+4)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 60 ft. (12 squares)
   - **Armor Class**: 27 (+3 Dex, +14 natural)
-  - **Base Attack/Grapple**: +12/+20
+  - **Base Attack**: +12; **CMB**: +20 (+24 grapple); **CMD**: 34 (38 vs. trip)
   - **Attack**: Claw +20 melee (1d6+8)
   - **Full Attack**: 2 claws +20 melee (1d6+8) and bite +15 melee (1d8+4)
   - **Space/Reach**: 5 ft./5 ft.
@@ -72,7 +74,7 @@ A leonal’s natural weapons, as well as any weapons it wields, are treated as g
 
 **Pounce (Ex)**: If a leonal charges a foe, it can make a full attack, including two [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks.
 
-**Improved Grab (Ex)**: To use this ability, a leonal must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a leonal must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Rake (Ex)**: Attack bonus +20 melee, damage 1d6+8.
 

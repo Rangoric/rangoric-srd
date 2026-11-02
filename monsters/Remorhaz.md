@@ -7,7 +7,9 @@ hit-dice: "7d10+35 (73 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares), burrow 20 ft."
 armor-class: "20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19"
-base-attack-grapple: "+7/+23"
+base-attack: "+7"
+cmb: "+17 (+21 grapple)"
+cmd: "28 (can't be tripped)"
 attack: "Bite +13 melee (2d8+12)"
 full-attack: "Bite +13 melee (2d8+12)"
 space-reach: "15 ft./10 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares), burrow 20 ft.
   - **Armor Class**: 20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19
-  - **Base Attack/Grapple**: +7/+23
+  - **Base Attack**: +7; **CMB**: +17 (+21 grapple); **CMD**: 28 (can't be tripped)
   - **Attack**: Bite +13 melee (2d8+12)
   - **Full Attack**: Bite +13 melee (2d8+12)
   - **Space/Reach**: 15 ft./10 ft.
@@ -66,7 +68,7 @@ Remorhazes cannot speak.
 
 Remorhazes hide under the snow and ice until they hear movement above them, then attack from below and surprise prey.
 
-**Improved Grab (Ex)**: To use this ability, a remorhaz must hit an opponent least one size category smaller than itself with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can attempt to swallow the opponent the following round.
+**Improved Grab (Ex)**: To use this ability, a remorhaz must hit an opponent least one size category smaller than itself with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can attempt to swallow the opponent the following round.
 
 **Swallow Whole (Ex)**: When a remorhaz begins its turn with a grappled opponent in its mouth, it can swallow that opponent with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 8d6 points of fire damage per round from the remorhaz’s gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 15). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A Huge remorhaz’s interior can hold 2 Large, 4 Medium, 8 Small, 32 Tiny, 128 Diminutive, or 512 Fine or smaller opponents.
 

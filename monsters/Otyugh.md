@@ -7,7 +7,9 @@ hit-dice: "6d8+9 (36 hp)"
 initiative: "+0"
 speed: "20 ft. (4 squares)"
 armor-class: "17 (–1 size, +8 natural), touch 9, flat-footed 17"
-base-attack-grapple: "+4/+8"
+base-attack: "+4"
+cmb: "+5 (+9 grapple)"
+cmd: "15 (17 vs. trip)"
 attack: "Tentacle +4 melee (1d6)"
 full-attack: "2 tentacles +4 melee (1d6) and bite –2 melee (1d4)"
 space-reach: "10 ft./10 ft. (15 ft. with tentacle)"
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 17 (–1 size, +8 natural), touch 9, flat-footed 17
-  - **Base Attack/Grapple**: +4/+8
+  - **Base Attack**: +4; **CMB**: +5 (+9 grapple); **CMD**: 15 (17 vs. trip)
   - **Attack**: Tentacle +4 melee (1d6)
   - **Full Attack**: 2 tentacles +4 melee (1d6) and bite –2 melee (1d4)
   - **Space/Reach**: 10 ft./10 ft. (15 ft. with tentacle)
@@ -70,6 +72,6 @@ An otyugh attacks living creatures if it feels threatened or if it is hungry; ot
 
 **Disease (Ex)**: Filth fever - bite, Fortitude DC 14, incubation period 1d3 days; damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
 
-**Improved Grab (Ex)**: To use this ability, an otyugh must hit with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, an otyugh must hit with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Skills**: \*An otyugh has a +8 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks when in its lair, due to its natural coloration.
