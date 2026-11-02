@@ -50,4 +50,4 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **15 Ranks**: Determining the most expensive object as above is a move action. You can substitute an Appraise check at a –10 penalty for a Will save to disbelieve a figment or glamer.
 
-**20 Ranks**: Determining the most expensive object as above is a move action, and if the check succeeds, you gain a +2 circumstance bonus on combat maneuver checks to steal that object or disarm a creature of that object for 1 minute.
+**20 Ranks**: Determining the most expensive object as above is a move action, and if the check succeeds, you gain a +2 circumstance bonus on [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] checks to [[rangoric-srd/combat/Combat Maneuvers#Steal|steal]] that object or disarm a creature of that object for 1 minute.

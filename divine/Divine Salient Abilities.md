@@ -862,7 +862,7 @@ Suggested Portfolio Elements: Magic.
 
 Prerequisite: Str 40, Strength domain.  
 
-Benefit: If required to make an opposed roll involving Strength (including [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks), the deity receives a divine bonus of +25 on its roll. This bonus stacks with the normal divine rank bonus.
+Benefit: If required to make an opposed roll involving Strength, or a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] check, the deity receives a divine bonus of +25 on its roll. This bonus stacks with the normal divine rank bonus.
 
 Suggested Portfolio Elements: Strength.
 

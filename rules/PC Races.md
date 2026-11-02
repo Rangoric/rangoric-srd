@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
+  - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -72,7 +73,7 @@ A Small character must use smaller weapons than a Medium character.
 
  ^dwarf-weapon-familiarity
 
-  - Stability: A dwarf gains a +4 bonus on ability checks made to resist being [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Special Attacks|tripped]] when standing on the ground (but not when climbing, flying, riding, or otherwise not standing firmly on the ground).
+  - Stability: A dwarf gains a +4 bonus to its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] when standing on the ground (but not when climbing, flying, riding, or otherwise not standing firmly on the ground).
 
  ^stability
 

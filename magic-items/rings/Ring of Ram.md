@@ -10,8 +10,9 @@ prerequisites: "Forge Ring, bull’s strength, telekinesis"
 price: "8,600 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/rings/Ring of Ram|Ring of Ram (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/items/rings/Ring of the Ram|Ring of the Ram (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -22,7 +23,7 @@ The ring of the ram is an ornate ring forged of hard metal, usually iron or an i
 
 The wearer can command the ring to give forth a ramlike force, manifested by a vaguely discernible shape that resembles the head of a ram or a goat. This force strikes a single target, dealing 1d6 points of damage if 1 charge is expended, 2d6 points if 2 charges are used, or 3d6 points if 3 charges (the maximum) are used. Treat this as a ranged attack with a 50-foot maximum range and no penalties for distance.
 
-The force of the blow is considerable, and those struck by the ring are subject to a bull rush if within 30 feet of the ring-wearer. (The ram has Strength 25 and is Large.) The ram gains a +1 bonus on the bull rush attempt if 2 charges are expended, or +2 if 3 charges are expended.
+The force of the blow is considerable, and those struck by the ring are subject to a bull rush if within 30 feet of the ring-wearer. The ram is Large and uses the ring’s caster level as its base attack bonus with a Strength of 25, giving it a [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] of its caster level + 8. The ram gains a +1 bonus on the bull rush attempt if 2 charges are expended, or +2 if 3 charges are expended.
 
 In addition to its attack mode, the ring of the ram also has the power to open doors as if it were a character with Strength 25. If 2 charges are expended, the effect is equivalent to a character with Strength 27. If 3 charges are expended, the effect is that of a character with Strength 29.
 

@@ -21,8 +21,9 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Freedom of Movement|Freedom of Movement (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/spells/Freedom Of Movement|Freedom of Movement (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -40,7 +41,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-This spell enables you or a creature you touch to move and attack normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis, solid fog, slow, and web. The subject automatically succeeds on any [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check made to resist a grapple attempt, as well as on grapple checks or [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks made to escape a grapple or a pin.
+This spell enables you or a creature you touch to move and attack normally for the duration of the spell, even under the influence of magic that usually impedes movement, such as paralysis, solid fog, slow, and web. All [[rangoric-srd/combat/Combat Maneuvers#Grapple|combat maneuver checks made to grapple]] the target automatically fail. The subject automatically succeeds on any combat maneuver checks and [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks made to escape a grapple or a pin.
 
 The spell also allows the subject to move and attack normally while underwater, even with slashing weapons such as axes and swords or with bludgeoning weapons such as flails, hammers, and maces, provided that the weapon is wielded in the hand rather than hurled. The freedom of movement spell does not, however, allow water breathing.
 

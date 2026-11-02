@@ -76,7 +76,7 @@ The character can open locks more quickly than normal.
 
 You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill]] or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]; see [[rangoric-srd/skills/Skills Overview#^skill-unlocks|Skill Unlocks]].
 
-**5 Ranks**: When attempting a disarm or steal maneuver, a successful Sleight of Hand check against your target's CMD grants a +2 circumstance bonus on your combat maneuver check.
+**5 Ranks**: When attempting a [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] or [[rangoric-srd/combat/Combat Maneuvers#Steal|steal]] maneuver, a successful Sleight of Hand check against your target's CMD grants a +2 circumstance bonus on your combat maneuver check.
 
 **10 Ranks**: The penalty for attempting a Sleight of Hand check (including drawing a hidden weapon) as a move action is reduced to –10.
 

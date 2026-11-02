@@ -7,6 +7,7 @@ based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Escape Artist|Escape Artist (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
+  - "[[path srd 3.5/skills/Escape Artist|Escape Artist (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/skill, core]
 
 *Tight Space*: The DC noted on the table is for getting through a space where your head fits but your shoulders don’t. If the space is long you may need to make multiple checks. You can’t get through a space that your head does not fit through.
 
-*Grappler*: You can make an Escape Artist check opposed by your enemy’s [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check to get out of a grapple or out of a [[rangoric-srd/rules/Special Abilities and Conditions#^pinned|pinned]] condition (so that you’re only [[rangoric-srd/rules/Special Abilities and Conditions#^grappling|grappling]]).
+*Grappler*: You can make an Escape Artist check against your enemy’s [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] to get out of a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] or out of the [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]] condition (so that you’re only [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]]).
 
 | Restraint                                                                              | Escape Artist DC                |
 | -------------------------------------------------------------------------------------- | ------------------------------- |
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/skill, core]
 | Manacles                                                                               | 30                              |
 | Tight space                                                                            | 30                              |
 | Masterwork manacles                                                                    | 35                              |
-| Grappler                                                                               | Grappler’s grapple check result |
+| Grappler                                                                               | Grappler’s CMD                  |
 | Extremely tight space | 80 |
 | Pass through a wall of force | 120 |
 

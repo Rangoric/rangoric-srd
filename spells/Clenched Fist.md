@@ -13,6 +13,7 @@ components:
   - "F/DF"
 based-on:
   - "[[fantasy srd 3.5/spells/Clenched Fist|Clenched Fist (3.5)]]"
+  - "[[path srd 3.5/spells/Clenched Fist|Clenched Fist (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -30,7 +31,7 @@ This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing han
 
 The hand attacks once per round, and its attack bonus equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for a wizard, cleric, or sorcerer, respectively), +11 for the hand’s Strength score (33), –1 for being Large. The hand deals 1d8+11 points of damage on each attack, and any creature struck must make a Fortitude save (against this spell’s save DC) or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1 round. Directing the spell to a new target is a move action.
 
-The clenched fist can also interpose itself as interposing hand does, or it can [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rush]] an opponent as forceful hand does, but at a +15 bonus on the Strength check.
+The clenched fist can also interpose itself as interposing hand does, or it can [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] an opponent as forceful hand does. Its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] for bull rush checks uses your caster level in place of its base attack bonus, with a +11 bonus for its Strength score and a +1 bonus for being Large.
 
 Clerics who cast this spell name it for their deities.
 

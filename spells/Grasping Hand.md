@@ -13,8 +13,9 @@ components:
   - "F/DF"
 based-on:
   - "[[fantasy srd 3.5/spells/Grasping Hand|Grasping Hand (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/spells/Grasping Hand|Grasping Hand (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,13 +27,13 @@ tags: [rangoric, rangoric/spell]
   - **Level**: Sor/Wiz 7, Strength 7
   - **Components**: V, S, F/DF
 
-This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except the hand can also [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] one opponent that you select. The grasping hand gets one grapple attack per round.
+This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except the hand can also [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] one opponent that you select. The grasping hand gets one grapple attack per round. This attack does not provoke an attack of opportunity.
 
-Its attack bonus to make contact equals your caster level + your Intelligence, Wisdom, or Charisma modifier (for wizards, clerics, and sorcerers, respectively), +10 for the hand’s Strength score (31), –1 for being Large. Its grapple bonus is this same figure, except with a +4 modifier for being Large instead of –1. The hand holds but does not harm creatures it grapples.
+Its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] for grapple checks use your caster level in place of its base attack bonus, with a +10 bonus for its Strength (31) score and a +1 bonus for being Large (its Dexterity is 10, granting no bonus on the Combat Maneuver Defense). The hand holds but does not harm creatures it grapples.
 
 Directing the spell to a new target is a move action.
 
-The grasping hand can also [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rush]] an opponent as forceful hand does, but at a +16 bonus on the Strength check (+10 for Strength 35, +4 for being Large, and a +2 bonus for charging, which it always gets), or interpose itself as interposing hand does.
+The grasping hand can also [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] an opponent as forceful hand does, using the same bonuses outlined above, or interpose itself as interposing hand does.
 
 Clerics who cast this spell name it for their deities.
 

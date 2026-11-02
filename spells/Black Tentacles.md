@@ -17,8 +17,9 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Black Tentacles|Black Tentacles (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/spells/Black Tentacles|Black Tentacles (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -38,10 +39,10 @@ tags: [rangoric, rangoric/spell]
 
 This spell conjures a field of rubbery black tentacles, each 10 feet long. These waving members seem to spring forth from the earth, floor, or whatever surface is underfoot—including water. They grasp and entwine around creatures that enter the area, holding them fast and crushing them with great strength.
 
-Every creature within the area of the spell must make a grapple check, opposed by the [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check of the tentacles. Treat the tentacles attacking a particular target as a Large creature with a base attack bonus equal to your caster level and a Strength score of 19. Thus, its grapple check modifier is equal to your caster level +8. The tentacles are immune to all types of damage.
+Every creature within the area of the spell is the target of a [[rangoric-srd/combat/Combat Maneuvers#Grapple|combat maneuver check made to grapple]] each round at the beginning of your turn, including the round that black tentacles is cast. Creatures that enter the area of effect are also automatically attacked. The tentacles do not provoke attacks of opportunity. When determining the tentacles’ [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]], the tentacles use your caster level as their base attack bonus and receive a +4 bonus due to their Strength and a +1 size bonus. Roll only once for the entire spell effect each round and apply the result to all creatures in the area of effect.
 
-Once the tentacles grapple an opponent, they may make a grapple check each round on your turn to deal 1d6+4 points of bludgeoning damage. The tentacles continue to crush the opponent until the spell ends or the opponent escapes.
+If the tentacles succeed in grappling a foe, that foe takes 1d6+4 points of damage and gains the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition. Grappled opponents cannot move without first breaking the grapple. All other movement is prohibited unless the creature breaks the grapple first. The black tentacles spell receives a +5 bonus on grapple checks made against opponents it is already grappling, but cannot move foes or pin foes. Each round that black tentacles succeeds on a grapple check, it deals an additional 1d6+4 points of damage. The [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] of black tentacles, for the purposes of escaping the grapple, is equal to 10 + its CMB.
 
-Any creature that enters the area of the spell is immediately attacked by the tentacles. Even creatures who aren’t [[rangoric-srd/rules/Special Abilities and Conditions#^grappling|grappling]] with the tentacles may move through the area at only half normal speed.
+The tentacles created by this spell cannot be damaged, but they can be dispelled as normal. The entire area of effect is considered difficult terrain while the tentacles last.
 
 *Material Component*: A piece of tentacle from a giant octopus or a giant squid.

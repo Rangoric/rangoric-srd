@@ -45,7 +45,7 @@ In this table, *level* is the level of the spell you're casting or the power you
 
 **Motion**: Vigorous motion is riding a moving mount, a bouncy wagon ride, a small boat in rough water, being below decks in a storm-tossed ship, or being jostled in a similar way. Violent motion is a galloping horse, a very rough wagon ride, a small boat in rapids or a storm, being on deck in a storm-tossed ship, or being tossed roughly about in a similar way.
 
-**Grappling or Pinned**: Which spells can be cast at all while grappling is in [[rangoric-srd/combat/Combat Special Attacks#Grapple|grappling]].
+**Grappled or Pinned**: Which spells can be cast at all is in the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] and [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]] conditions, and under Spell Components in [[rangoric-srd/combat/Combat Actions#^spell-components|Combat Actions]].
 
 **On the Defensive**: Casting a spell, manifesting a power, or using a spell-like or psi-like ability on the defensive doesn't provoke attacks of opportunity, but takes this check. Failure loses the spell or power; a spell-like ability counts as used.
 

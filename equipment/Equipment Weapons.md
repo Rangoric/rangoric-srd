@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Equipment"
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -235,7 +235,7 @@ Weapons found on Table: Weapons that have special options for the wielder (“yo
 
 You can make trip attacks with the chain. If you are tripped during your own trip attempt, you can drop the chain to avoid being tripped.
 
-When using a spiked chain, you get a +2 bonus on opposed attack rolls made to disarm an opponent (including the roll to avoid being disarmed if such an attempt fails).
+When using a spiked chain, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an opponent.
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a spiked chain sized for you, even though it isn’t a light weapon for you.
 
@@ -259,11 +259,11 @@ You can fire a repeating crossbow with one hand or fire a repeating crossbow in 
 
 **Flail, Dire**: A dire flail is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a dire flail in one hand can’t use it as a double weapon— only one end of the weapon can be used in any given round.
 
-When using a dire flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the opposed attack roll to avoid being disarmed if such an attempt fails).
+When using a dire flail, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 
 You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the dire flail to avoid being tripped.
 
-**Flail or Heavy Flail**: With a flail, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails).
+**Flail or Heavy Flail**: With a flail, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 
 You can also use this weapon to make trip attacks. If you are tripped during your own trip attempt, you can drop the flail to avoid being tripped.
 
@@ -313,7 +313,7 @@ A net is useful only against creatures within one size category of you.
 
 A net must be folded to be thrown effectively. The first time you throw your net in a fight, you make a normal ranged touch attack roll. After the net is unfolded, you take a –4 penalty on attack rolls with it. It takes 2 rounds for a proficient user to fold a net and twice that long for a nonproficient one to do so.
 
-**Nunchaku**: The nunchaku is a special monk weapon. This designation gives a monk wielding a nunchaku special options. With a nunchaku, you get a +2 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails).
+**Nunchaku**: The nunchaku is a special monk weapon. This designation gives a monk wielding a nunchaku special options. With a nunchaku, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 
 **Quarterstaff**: A quarterstaff is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a quarterstaff in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
 
@@ -321,11 +321,11 @@ The quarterstaff is a special monk weapon. This designation gives a monk wieldin
 
 **Ranseur**: A ranseur has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
 
-With a ranseur, you get a +2 bonus on opposed attack rolls made to disarm an opponent (including the roll to avoid being disarmed if such an attempt fails).
+With a ranseur, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an opponent.
 
 **Rapier**: You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a rapier sized for you, even though it isn’t a light weapon for you. You can’t wield a rapier in two hands in order to apply 1-1/2 times your Strength bonus to damage.
 
-**Sai**: With a sai, you get a +4 bonus on opposed attack rolls made to disarm an enemy (including the roll to avoid being disarmed if such an attempt fails).
+**Sai**: With a sai, you get a +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an enemy.
 
 The sai is a special monk weapon. This designation gives a monk wielding a sai special options.
 
@@ -383,7 +383,7 @@ Using a whip provokes an attack of opportunity, just as if you had used a ranged
 
 You can make trip attacks with a whip. If you are tripped during your own trip attempt, you can drop the whip to avoid being tripped.
 
-When using a whip, you get a +2 bonus on opposed attack rolls made to disarm an opponent (including the roll to keep from being disarmed if the attack fails).
+When using a whip, you get a +2 bonus on [[rangoric-srd/combat/Combat Maneuvers#Disarm|combat maneuver checks]] made to disarm an opponent.
 
 You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier to attack rolls with a whip sized for you, even though it isn’t a light weapon for you.
 

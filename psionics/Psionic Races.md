@@ -57,7 +57,7 @@ tags: [rangoric, rangoric/overview]
 
   - \+2 racial bonus on saves against spells and spell-like effects.
 
-  - Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus on ability checks made to resist being [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushed]]or [[rangoric-srd/combat/Combat Special Attacks#Trip|tripped]] when standing on the ground (but not when climbing, flying, riding or otherwise not standing firmly on the ground).
+  - Stability: Duergar are exceptionally stable on their feet. A duergar receives a +4 bonus to its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] when standing on the ground (but not when climbing, flying, riding or otherwise not standing firmly on the ground).
 
  ^duergar-stability
 
