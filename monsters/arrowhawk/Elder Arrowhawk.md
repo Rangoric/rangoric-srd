@@ -11,7 +11,9 @@ hit-dice: "15d8+45 (112 hp)"
 initiative: "+5"
 speed: "Fly 60 ft. (perfect) (12 squares)"
 armor-class: "22 (–1 size, +5 Dex, +8 natural), touch 14, flat-footed 17"
-base-attack-grapple: "+15/+25"
+base-attack: "+15"
+cmb: "+22"
+cmd: "38 (can't be tripped)"
 attack: "Electricity ray +19 ranged touch (2d8) or bite +21 melee (2d6+9)"
 full-attack: "Electricity ray +19 ranged touch (2d8) or bite +20 melee (2d6+9)"
 space-reach: "10 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +5
   - **Speed**: Fly 60 ft. (perfect) (12 squares)
   - **Armor Class**: 22 (–1 size, +5 Dex, +8 natural), touch 14, flat-footed 17
-  - **Base Attack/Grapple**: +15/+25
+  - **Base Attack**: +15; **CMB**: +22; **CMD**: 38 (can't be tripped)
   - **Attack**: Electricity ray +19 ranged touch (2d8) or bite +21 melee (2d6+9)
   - **Full Attack**: Electricity ray +19 ranged touch (2d8) or bite +20 melee (2d6+9)
   - **Space/Reach**: 10 ft./5 ft.

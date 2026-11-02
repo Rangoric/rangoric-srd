@@ -9,7 +9,9 @@ hit-dice: "1d10 (5 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+1 size, +1 Dex, +1 natural, +2 leather), touch 12, flat-footed 14"
-base-attack-grapple: "+1/–4"
+base-attack: "+1"
+cmb: "–1"
+cmd: "10"
 attack: "Spear +1 melee (1d6–1/x3) or sling +3 ranged (1d3)"
 full-attack: "Spear +1 melee (1d6–1/x3) or sling +3 ranged (1d3)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+1 size, +1 Dex, +1 natural, +2 leather), touch 12, flat-footed 14
-  - **Base Attack/Grapple**: +1/–4
+  - **Base Attack**: +1; **CMB**: –1; **CMD**: 10
   - **Attack**: Spear +1 melee (1d6–1/x3) or sling +3 ranged (1d3)
   - **Full Attack**: Spear +1 melee (1d6–1/x3) or sling +3 ranged (1d3)
   - **Space/Reach**: 5 ft./5 ft.

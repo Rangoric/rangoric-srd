@@ -7,7 +7,9 @@ hit-dice: "70d10+1,400 (1,785 hp)"
 initiative: "-2 (Dex)"
 speed: "5 ft., burrow 5 ft."
 armor-class: "0 (-2 Dex, -8 size)"
-base-attack-grapple: "+52/+88"
+base-attack: "+52"
+cmb: "+80 (+84 grapple)"
+cmd: "88 (can't be tripped)"
 attack: "Slam +64 (4d10+20) melee"
 full-attack: "10 slam +64 (4d10+20) melee"
 space-reach: "Varies (see text)"
@@ -39,7 +41,7 @@ Hit Dice: 70d10+1,400 (1,785 hp)    
 Initiative: -2 (Dex)      
 Speed: 5 ft., burrow 5 ft.      
 AC: 0 (-2 Dex, -8 size)      
-Base Attack/Grapple: +52/+88     
+Base Attack: +52; CMB: +80 (+84 grapple); CMD: 88 (can't be tripped)     
 Attack: Slam +64 (4d10+20) melee     
 Full Attack: 10 slam +64 (4d10+20) melee     
 Space/Reach: Varies (see text)      

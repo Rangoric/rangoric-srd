@@ -8,7 +8,9 @@ hit-dice: "4d10+32 (54 hp)"
 initiative: "–5"
 speed: "15 ft. (3 squares)"
 armor-class: "4 (–1 size, –5 Dex), touch 4, flat-footed 4"
-base-attack-grapple: "+3/+7"
+base-attack: "+3"
+cmb: "+4"
+cmd: "9 (can't be tripped)"
 attack: "Slam +2 melee (1d6 plus 1d6 acid)"
 full-attack: "Slam +2 melee (1d6 plus 1d6 acid)"
 space-reach: "10 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –5
   - **Speed**: 15 ft. (3 squares)
   - **Armor Class**: 4 (–1 size, –5 Dex), touch 4, flat-footed 4
-  - **Base Attack/Grapple**: +3/+7
+  - **Base Attack**: +3; **CMB**: +4; **CMD**: 9 (can't be tripped)
   - **Attack**: Slam +2 melee (1d6 plus 1d6 acid)
   - **Full Attack**: Slam +2 melee (1d6 plus 1d6 acid)
   - **Space/Reach**: 10 ft./5 ft.

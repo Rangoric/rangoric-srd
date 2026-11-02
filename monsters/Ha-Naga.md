@@ -7,7 +7,9 @@ hit-dice: "20d8+220 (310 hp)"
 initiative: "+14 (Dex)"
 speed: "60 ft., fly 120 ft. (perfect)"
 armor-class: "40 (-8 size, +14 Dex, +24 natural armor)"
-base-attack-grapple: "+15/+39"
+base-attack: "+15"
+cmb: "+31 (+35 grapple)"
+cmd: "56 (can't be tripped)"
 attack: "Coil whip +21 (4d6+8) melee"
 full-attack: "Coil whip +21 (4d6+8) melee, sting +19 (2d8+4 plus poison) melee, bite +13 (4d8+4) melee"
 space-reach: "30 ft./ 20 ft."
@@ -40,7 +42,7 @@ Hit Dice: 20d8+220 (310 hp)    
 Initiative: +14 (Dex)      
 Speed: 60 ft., fly 120 ft. (perfect)      
 AC: 40 (-8 size, +14 Dex, +24 natural armor)      
-Base Attack/Grapple: +15/+39     
+Base Attack: +15; CMB: +31 (+35 grapple); CMD: 56 (can't be tripped)     
 Attack: Coil whip +21 (4d6+8) melee     
 Full Attack: Coil whip +21 (4d6+8) melee, sting +19 (2d8+4 plus poison) melee, bite +13 (4d8+4) melee     
 Space/Reach: 30 ft./ 20 ft.      

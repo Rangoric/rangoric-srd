@@ -7,7 +7,9 @@ hit-dice: "3d10+9 (25 hp)"
 initiative: "+2"
 speed: "50 ft. (10 squares), fly 100 ft. (average)"
 armor-class: "15 (–1 size, +2 Dex, +4 natural), touch 11, flat-footed 13"
-base-attack-grapple: "+3/+11"
+base-attack: "+3"
+cmb: "+8"
+cmd: "21"
 attack: "Claw +6 melee (1d4+4)"
 full-attack: "2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2)"
 space-reach: "10 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 50 ft. (10 squares), fly 100 ft. (average)
   - **Armor Class**: 15 (–1 size, +2 Dex, +4 natural), touch 11, flat-footed 13
-  - **Base Attack/Grapple**: +3/+11
+  - **Base Attack**: +3; **CMB**: +8; **CMD**: 21
   - **Attack**: Claw +6 melee (1d4+4)
   - **Full Attack**: 2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2)
   - **Space/Reach**: 10 ft./5 ft.

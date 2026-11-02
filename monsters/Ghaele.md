@@ -11,7 +11,9 @@ hit-dice: "10d8+20 (65 hp)"
 initiative: "+5"
 speed: "50 ft. (10 squares), fly 150 ft. (perfect)"
 armor-class: "25 (+1 Dex, +14 natural), touch 11, flat-footed 24, or 14 (+1 Dex, +3 deflection), touch 14, flat-footed 13"
-base-attack-grapple: "+10/+17"
+base-attack: "+10"
+cmb: "+17"
+cmd: "28"
 attack: "+4 holy greatsword +21 melee (2d6+14/19–20) or light ray +11 ranged touch (2d12)"
 full-attack: "+4 holy greatsword +21/+16 melee (2d6+14/19–20) or 2 light rays +11 ranged touch (2d12)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +5
   - **Speed**: 50 ft. (10 squares), fly 150 ft. (perfect)
   - **Armor Class**: 25 (+1 Dex, +14 natural), touch 11, flat-footed 24, or 14 (+1 Dex, +3 deflection), touch 14, flat-footed 13
-  - **Base Attack/Grapple**: +10/+17
+  - **Base Attack**: +10; **CMB**: +17; **CMD**: 28
   - **Attack**: +4 holy greatsword +21 melee (2d6+14/19–20) or light ray +11 ranged touch (2d12)
   - **Full Attack**: +4 holy greatsword +21/+16 melee (2d6+14/19–20) or 2 light rays +11 ranged touch (2d12)
   - **Space/Reach**: 5 ft./5 ft.

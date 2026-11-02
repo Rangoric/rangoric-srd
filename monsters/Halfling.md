@@ -9,7 +9,9 @@ hit-dice: "1d10+1 (6 hp)"
 initiative: "+1"
 speed: "20 ft. (4 squares)"
 armor-class: "16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat-footed 15"
-base-attack-grapple: "+1/–3"
+base-attack: "+1"
+cmb: "+0"
+cmd: "11"
 attack: "Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)"
 full-attack: "Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 16 (+1 size, +1 Dex, +3 studded leather, +1 light shield), touch 12, flat-footed 15
-  - **Base Attack/Grapple**: +1/–3
+  - **Base Attack**: +1; **CMB**: +0; **CMD**: 11
   - **Attack**: Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
   - **Full Attack**: Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/19–20)
   - **Space/Reach**: 5 ft./5 ft.

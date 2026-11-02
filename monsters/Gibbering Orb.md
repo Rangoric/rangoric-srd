@@ -7,7 +7,9 @@ hit-dice: "27d8+216 (337 hp)"
 initiative: "+20 (+12 Dex, +8 Superior Initiative)"
 speed: "5 ft., fly 20 ft. (good)"
 armor-class: "48 (+12 Dex, -2 size, +16 natural armor, +12 insight)"
-base-attack-grapple: "+20/+39"
+base-attack: "+20"
+cmb: "+33 (+37 grapple)"
+cmd: "67 (can't be tripped)"
 attack: "24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19-20) melee"
 full-attack: "24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19-20) melee"
 space-reach: "15 ft./10 ft."
@@ -41,7 +43,7 @@ Hit Dice: 27d8+216 (337 hp)    
 Initiative: +20 (+12 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 5 ft., fly 20 ft. (good)      
 AC: 48 (+12 Dex, -2 size, +16 natural armor, +12 insight)      
-Base Attack/Grapple: +20/+39     
+Base Attack: +20; CMB: +33 (+37 grapple); CMD: 67 (can't be tripped)     
 Attack: 24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19-20) melee     
 Full Attack: 24 eye rays +31 ranged touch, 12 bites +28 (2d8+5/19-20) melee     
 Space/Reach: 15 ft./10 ft.      

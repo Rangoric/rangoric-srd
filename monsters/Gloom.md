@@ -7,7 +7,9 @@ hit-dice: "25d8+225 (337 hp)"
 initiative: "+26 (+18 Dex, +8 Superior Initiative)"
 speed: "30 ft."
 armor-class: "40 (+18 Dex, +12 insight)"
-base-attack-grapple: "+25/+36"
+base-attack: "+25"
+cmb: "+36"
+cmd: "77"
 attack: "+10 keen dagger of human dread +54 (1d4+21/17-20) melee"
 full-attack: "+10 keen dagger of human dread +54/+49/+44/+39 (1d4+21/17-20) melee"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ Hit Dice: 25d8+225 (337 hp)    
 Initiative: +26 (+18 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])      
 Speed: 30 ft.      
 AC: 40 (+18 Dex, +12 insight)      
-Base Attack/Grapple: +25/+36     
+Base Attack: +25; CMB: +36; CMD: 77     
 Attack: +10 keen dagger of human dread +54 (1d4+21/17-20) melee     
 Full Attack: +10 keen dagger of human dread +54/+49/+44/+39 (1d4+21/17-20) melee     
 Space/Reach: 5 ft./5 ft.      

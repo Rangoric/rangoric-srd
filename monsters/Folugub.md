@@ -7,7 +7,9 @@ hit-dice: "4d8+12 (30 hp)"
 initiative: "+3"
 speed: "40 ft. (8 squares)"
 armor-class: "18 (+3 Dex, +5 natural), touch 13, flatfooted 15"
-base-attack-grapple: "+3/+3"
+base-attack: "+3"
+cmb: "+3"
+cmd: "16 (20 vs. trip)"
 attack: "Tongue +6 melee touch (liquefy crystal)"
 full-attack: "Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ Medium-Size [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abiliti
 **Initiative:** +3     
 **Speed:** 40 ft. (8 squares)     
 **Armor Class:** 18 (+3 Dex, +5 natural), touch 13, flatfooted 15     
-**Base Attack/Grapple:** +3/+3     
+**Base Attack:** +3; **CMB:** +3; **CMD:** 16 (20 vs. trip)     
 **Attack:** Tongue +6 melee touch (liquefy crystal)     
 Full **Attack:** Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4)     
 **Space/Reach:** 5 ft./5 ft.     

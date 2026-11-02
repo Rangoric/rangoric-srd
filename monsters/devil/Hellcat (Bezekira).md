@@ -12,7 +12,9 @@ hit-dice: "8d8+24 (60 hp)"
 initiative: "+9"
 speed: "40 ft. (8 squares)"
 armor-class: "21 (–1 size, +5 Dex, +7 natural), touch 14, flat-footed 16"
-base-attack-grapple: "+8/+18"
+base-attack: "+8"
+cmb: "+15 (+19 grapple)"
+cmd: "31 (35 vs. trip)"
 attack: "Claw +13 melee (1d8+6)"
 full-attack: "2 claws +13 melee (1d8+6) and bite +8 melee (2d8+3)"
 space-reach: "10 ft./5 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +9
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 21 (–1 size, +5 Dex, +7 natural), touch 14, flat-footed 16
-  - **Base Attack/Grapple**: +8/+18
+  - **Base Attack**: +8; **CMB**: +15 (+19 grapple); **CMD**: 31 (35 vs. trip)
   - **Attack**: Claw +13 melee (1d8+6)
   - **Full Attack**: 2 claws +13 melee (1d8+6) and bite +8 melee (2d8+3)
   - **Space/Reach**: 10 ft./5 ft.
@@ -74,7 +76,7 @@ A hellcat can hold its own in combat thanks to sharp claws and wicked fangs. It 
 
 A hellcat’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Improved Grab (Ex)**: To use this ability, a hellcat must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a hellcat must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Pounce (Ex)**: If a hellcat [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]], it can make a full attack, including two rake attacks.
 

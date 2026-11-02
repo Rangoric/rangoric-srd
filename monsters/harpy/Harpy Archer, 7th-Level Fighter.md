@@ -8,7 +8,9 @@ hit-dice: "7d8 + 7d10 + 28 (103 hp)"
 initiative: "+9"
 speed: "20 ft. (4 squares), fly 80 ft. (average)"
 armor-class: "23 (+5 Dex, +1 natural, +6 +3 studded leather, +1 ring of protection +1), touch 16, flat-footed 18"
-base-attack-grapple: "+14/+15"
+base-attack: "+14"
+cmb: "+15"
+cmd: "30"
 attack: "+1 frost composite longbow (+1 Str bonus) +22 ranged (1d8+4/19-20/×3 plus 1d6 cold) or claw +15 melee (1d3+1)"
 full-attack: "+1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+4/19-20/×3 plus 1d6 cold) or 2 claws +15 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +9
   - **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
   - **Armor Class**: 23 (+5 Dex, +1 natural, +6 +3 studded leather, +1 ring of protection +1), touch 16, flat-footed 18
-  - **Base Attack/Grapple**: +14/+15
+  - **Base Attack**: +14; **CMB**: +15; **CMD**: 30
   - **Attack**: +1 frost composite longbow (+1 Str bonus) +22 ranged (1d8+4/19-20/×3 plus 1d6 cold) or claw +15 melee (1d3+1)
   - **Full Attack**: +1 frost composite longbow (+1 Str bonus) +22/+17/+12 ranged (1d8+4/19-20/×3 plus 1d6 cold) or 2 claws +15 melee (1d3+1)
   - **Space/Reach**: 5 ft./5 ft.

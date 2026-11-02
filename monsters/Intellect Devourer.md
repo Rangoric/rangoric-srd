@@ -10,7 +10,9 @@ hit-dice: "6d8+15 (42 hp)"
 initiative: "+5"
 speed: "40 ft. (8 squares)"
 armor-class: "21 (+1 size, +5 Dex, +5 natural), touch 16, flat-footed 16"
-base-attack-grapple: "+4/+1"
+base-attack: "+4"
+cmb: "+4"
+cmd: "19 (23 vs. trip)"
 attack: "Claw +6 melee (1d3+1)"
 full-attack: "4 claws +6 melee (1d3+1)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ab
 **Initiative:** +5     
 **Speed:** 40 ft. (8 squares)     
 **Armor Class:** 21 (+1 size, +5 Dex, +5 natural), touch 16, flat-footed 16     
-**Base Attack/Grapple:** +4/+1     
+**Base Attack:** +4; **CMB:** +4; **CMD:** 19 (23 vs. trip)     
 **Attack:** Claw +6 melee (1d3+1)     
 Full **Attack:** 4 claws +6 melee (1d3+1)     
 **Space/Reach:** 5 ft./5 ft.     

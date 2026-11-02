@@ -8,7 +8,9 @@ hit-dice: "100d10 (630 hp) or as controlling spirit"
 initiative: "+2 (-2 Dex, +4 Improved Initiative)"
 speed: "40 ft. (can’t run)"
 armor-class: "45 (-8 size, -2 Dex, +25 natural, +20 profane)"
-base-attack-grapple: "+75/+103"
+base-attack: "+75"
+cmb: "+95"
+cmd: "123"
 attack: "Colossal club +79 (6d6+18) melee or slam +79 (4d6+12) melee or thrown object (weighing 10 tons or less) +65 (4d6+12) ranged"
 full-attack: "Colossal club +79 (6d6+18) melee or 2 slams +79 (4d6+12) melee or thrown object (weighing 10 tons or less) +65 (4d6+12) ranged"
 space-reach: "30 ft./30 ft."
@@ -39,7 +41,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2 (-2 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])
   - **Speed**: 40 ft. (can’t run)
   - **Armor Class**: 45 (-8 size, -2 Dex, +25 natural, +20 profane)
-  - **Base Attack/Grapple**: +75/+103
+  - **Base Attack**: +75; **CMB**: +95; **CMD**: 123
   - **Attack**: Colossal club +79 (6d6+18) melee or slam +79 (4d6+12) melee or thrown object (weighing 10 tons or less) +65 (4d6+12) ranged
   - **Full Attack**: Colossal club +79 (6d6+18) melee or 2 slams +79 (4d6+12) melee or thrown object (weighing 10 tons or less) +65 (4d6+12) ranged
   - **Space/Reach**: 30 ft./30 ft.

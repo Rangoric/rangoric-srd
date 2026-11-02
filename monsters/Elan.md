@@ -9,7 +9,9 @@ hit-dice: "1d10+1 (6 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14"
-base-attack-grapple: "+1/+2"
+base-attack: "+1"
+cmb: "+2"
+cmd: "12"
 attack: "Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)"
 full-attack: "Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^a
 **Initiative:** +0     
 **Speed:** 30 ft. (6 squares)     
 **Armor Class:** 14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14     
-**Base Attack/Grapple:** +1/+2     
+**Base Attack:** +1; **CMB:** +2; **CMD:** 12     
 **Attack:** Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)     
 Full **Attack:** Warhammer +3 melee (1d8+1/x3) or longbow +1 ranged (1d8/x3)     
 **Space/Reach:** 5 ft./5 ft.     

@@ -7,7 +7,9 @@ hit-dice: "50d12+3 (603 hp)"
 initiative: "+16 (+12 Dex, +4 Improved Initiative)"
 speed: "100 ft."
 armor-class: "52 (+12 Dex, +20 natural, +10 insight)"
-base-attack-grapple: "+25/+43"
+base-attack: "+25"
+cmb: "+43"
+cmd: "76"
 attack: "Slam +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)"
 full-attack: "2 slams +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ Hit Dice: 50d12+3 (603 hp)    
 Initiative: +16 (+12 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])     
 Speed: 100 ft.      
 AC: 52 (+12 Dex, +20 natural, +10 insight)      
-Base Attack/Grapple: +25/+43     
+Base Attack: +25; CMB: +43; CMD: 76     
 Attack: Slam +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)     
 Full Attack: 2 slams +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)     
 Space/Reach: 5 ft./5 ft.      

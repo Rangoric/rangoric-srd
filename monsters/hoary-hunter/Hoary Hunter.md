@@ -9,7 +9,9 @@ hit-dice: "46d6+598 (759 hp)"
 initiative: "+19 (+11 Dex, +8 Superior Initiative)"
 speed: "30 ft."
 armor-class: "46 (+11 Dex, +15 insight, +10 natural)"
-base-attack-grapple: "+23/+37"
+base-attack: "+23"
+cmb: "+37"
+cmd: "73"
 attack: "+6 keen longsword of binding +46 (1d8+27/17-20 plus 1d6 plus binding) melee"
 full-attack: "+6 keen longsword of binding +46/+41/+36/+31 (1d8+27/17-20 plus 1d6 plus binding) melee"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +19 (+11 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])
   - **Speed**: 30 ft.
   - **Armor Class**: 46 (+11 Dex, +15 insight, +10 natural)
-  - **Base Attack/Grapple**: +23/+37
+  - **Base Attack**: +23; **CMB**: +37; **CMD**: 73
   - **Attack**: +6 keen longsword of binding +46 (1d8+27/17-20 plus 1d6 plus binding) melee
   - **Full Attack**: +6 keen longsword of binding +46/+41/+36/+31 (1d8+27/17-20 plus 1d6 plus binding) melee
   - **Space/Reach**: 5 ft./5 ft.

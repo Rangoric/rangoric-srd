@@ -9,7 +9,9 @@ hit-dice: "20d10+180 (290 hp)"
 initiative: "+4"
 speed: "Swim 20 ft. (4 squares)"
 armor-class: "20 (–4 size, +14 natural), touch 6, flat-footed 20"
-base-attack-grapple: "+20/+44"
+base-attack: "+20"
+cmb: "+36 (+40 grapple)"
+cmd: "46 (can't be tripped)"
 attack: "Tentacle +28 melee (2d8+12/19–20)"
 full-attack: "2 tentacles +28 melee (2d8+12/19–20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6)"
 space-reach: "20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm)"
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: Swim 20 ft. (4 squares)
   - **Armor Class**: 20 (–4 size, +14 natural), touch 6, flat-footed 20
-  - **Base Attack/Grapple**: +20/+44
+  - **Base Attack**: +20; **CMB**: +36 (+40 grapple); **CMD**: 46 (can't be tripped)
   - **Attack**: Tentacle +28 melee (2d8+12/19–20)
   - **Full Attack**: 2 tentacles +28 melee (2d8+12/19–20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6)
   - **Space/Reach**: 20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm)
@@ -68,7 +70,7 @@ Krakens speak Common and Aquan.
 
 Krakens strike their opponents with their barbed tentacles, then [[rangoric-srd/combat/Combat Special Attacks#Grapple|grab]] and crush with their arms or drag victims into their huge jaws. An opponent can make [[rangoric-srd/combat/Combat Special Attacks#Sunder|sunder]] attempts against a kraken’s tentacles or arms as if they were weapons. A kraken’s tentacles have 20 hit points, and its arms have 10 hit points. If a kraken is currently [[rangoric-srd/rules/Special Abilities and Conditions#^grappling|grappling]] a target with one tentacle or arm, it usually uses another limb to make its attack of opportunity against the sunder attempt. Severing a kraken’s tentacle or arm deals damage to the kraken equal to half the limb’s full normal hit points. A kraken usually withdraws from combat if it loses both tentacles or three of its arms. A kraken regrows severed limbs in 1d10+10 days.
 
-**Improved Grab (Ex)**: To use this ability, the kraken must hit with an arm or tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, the kraken must hit with an arm or tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Constrict (Ex)**: A kraken deals automatic arm or tentacle damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
 

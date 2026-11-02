@@ -9,7 +9,9 @@ hit-dice: "2d8+2 (11 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares)"
 armor-class: "15 (+1 natural, +2 leather armor, +2 heavy steel shield), touch 10, flat-footed 15"
-base-attack-grapple: "+1/+3"
+base-attack: "+1"
+cmb: "+3"
+cmd: "13"
 attack: "Battleaxe +3 melee (1d8+2/x3) or shortbow +1 ranged (1d6/x3)"
 full-attack: "Battleaxe +3 melee (1d8+2/x3) or shortbow +1 ranged (1d6/x3)"
 space-reach: "5 ft./5 ft."
@@ -42,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 15 (+1 natural, +2 leather armor, +2 heavy steel shield), touch 10, flat-footed 15
-  - **Base Attack/Grapple**: +1/+3
+  - **Base Attack**: +1; **CMB**: +3; **CMD**: 13
   - **Attack**: Battleaxe +3 melee (1d8+2/x3) or shortbow +1 ranged (1d6/x3)
   - **Full Attack**: Battleaxe +3 melee (1d8+2/x3) or shortbow +1 ranged (1d6/x3)
   - **Space/Reach**: 5 ft./5 ft.

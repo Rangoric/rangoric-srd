@@ -8,7 +8,9 @@ hit-dice: "3d10+15 (31 hp)"
 initiative: "–5"
 speed: "10 ft. (2 squares)"
 armor-class: "5 (–5 Dex), touch 5, flat-footed 5"
-base-attack-grapple: "+2/+3"
+base-attack: "+2"
+cmb: "+3 (+7 grapple)"
+cmd: "8 (can't be tripped)"
 attack: "Slam +3 melee (1d6+1 plus 1d6 acid)"
 full-attack: "Slam +3 melee (1d6+1 plus 1d6 acid)"
 space-reach: "5 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –5
   - **Speed**: 10 ft. (2 squares)
   - **Armor Class**: 5 (–5 Dex), touch 5, flat-footed 5
-  - **Base Attack/Grapple**: +2/+3
+  - **Base Attack**: +2; **CMB**: +3 (+7 grapple); **CMD**: 8 (can't be tripped)
   - **Attack**: Slam +3 melee (1d6+1 plus 1d6 acid)
   - **Full Attack**: Slam +3 melee (1d6+1 plus 1d6 acid)
   - **Space/Reach**: 5 ft./5 ft.
@@ -71,6 +73,6 @@ The ooze’s acidic touch deals 16 points of damage per round to wooden or metal
 
 **Constrict (Ex)**: A gray ooze deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. The opponent’s clothing and armor take a –4 penalty on Reflex saves against the acid.
 
-**Improved Grab (Ex)**: To use this ability, a gray ooze must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a gray ooze must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Transparent (Ex)**: A gray ooze is hard to identify, even under ideal conditions, and it takes a DC 15 [[rangoric-srd/skills/Perception|Perception]] check to notice one. Creatures who fail to notice a gray ooze and walk into it are automatically hit with a melee attack for slam and acid damage.

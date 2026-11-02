@@ -10,7 +10,9 @@ hit-dice: "6d8+6 (33 hp)"
 initiative: "+6"
 speed: "20 ft. (4 squares), fly 15 ft. (perfect) in chainmail; base land speed 30 ft., base fly speed 20 ft. (perfect)"
 armor-class: "18 (+2 Dex, +1 natural, +5 chainmail), touch 12, flat-footed 16"
-base-attack-grapple: "+6/+9"
+base-attack: "+6"
+cmb: "+9"
+cmd: "22"
 attack: "Scimitar +9 melee (1d6+4/18–20) or longbow +8 ranged (1d8/x3)"
 full-attack: "Scimitar +9/+4 melee (1d6+4/18–20) or longbow +8/+3 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares), fly 15 ft. (perfect) in chainmail; base land speed 30 ft., base fly speed 20 ft. (perfect)
   - **Armor Class**: 18 (+2 Dex, +1 natural, +5 chainmail), touch 12, flat-footed 16
-  - **Base Attack/Grapple**: +6/+9
+  - **Base Attack**: +6; **CMB**: +9; **CMD**: 22
   - **Attack**: Scimitar +9 melee (1d6+4/18–20) or longbow +8 ranged (1d8/x3)
   - **Full Attack**: Scimitar +9/+4 melee (1d6+4/18–20) or longbow +8/+3 ranged (1d8/x3)
   - **Space/Reach**: 5 ft./5 ft.
