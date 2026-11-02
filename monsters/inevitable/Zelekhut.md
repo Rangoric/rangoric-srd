@@ -70,7 +70,7 @@ A zelekhut may initially appear rather non-threatening—but when it is about to
 
 ## Combat
 
-Once it has found its fugitive, a zelekhut uses its speed and its spell-like abilities to cover the most likely escape routes. Then it immobilizes any defenders while attempting to protect any innocent bystanders. Finally, it apprehends the fugitive with its spiked chains, [[rangoric-srd/combat/Combat Special Attacks#Trip|tripping]] or [[rangoric-srd/combat/Combat Special Attacks#Disarm|disarming]] the foe as needed.
+Once it has found its fugitive, a zelekhut uses its speed and its spell-like abilities to cover the most likely escape routes. Then it immobilizes any defenders while attempting to protect any innocent bystanders. Finally, it apprehends the fugitive with its spiked chains, [[rangoric-srd/combat/Combat Maneuvers#Trip|tripping]] or [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarming]] the foe as needed.
 
 A zelekhut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 

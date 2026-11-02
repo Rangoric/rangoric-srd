@@ -71,9 +71,9 @@ A black pudding attacks by grabbing and squeezing their prey.
 
 The pudding’s acidic touch deals 21 points of damage per round to wooden or metal objects, but the ooze must remain in contact with the object for 1 full round to deal this damage.
 
-**Constrict (Ex)**: A black pudding deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. The opponent’s clothing and armor take a –4 penalty on Reflex saves against the acid.
+**Constrict (Ex)**: A black pudding deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. The opponent’s clothing and armor take a –4 penalty on Reflex saves against the acid.
 
-**Improved Grab (Ex)**: To use this ability, a black pudding must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a black pudding must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Split (Ex)**: Slashing and piercing weapons deal no damage to a black pudding. Instead the creature splits into two identical puddings, each with half of the original’s current hit points (round down). A pudding with 10 hit points or less cannot be further split and dies if reduced to 0 hit points.
 

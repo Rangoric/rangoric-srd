@@ -68,7 +68,7 @@ A stirge’s body is about 1 foot long, with a wingspan of about 2 feet. It weig
 
 A stirge attacks by landing on a victim, finding a vulnerable spot, and plunging its proboscis into the flesh. This is a touch attack and can target only Small or larger creatures.
 
-**Attach (Ex)**: If a stirge hits with a touch attack, it uses its eight pincers to latch onto the opponent’s body. An attached stirge is effectively grappling its prey. The stirge loses its Dexterity bonus to AC and has an AC of 12, but holds on with great tenacity. Stirges have a +12 racial bonus on [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks (already figured into the CMB entry above).
+**Attach (Ex)**: If a stirge hits with a touch attack, it uses its eight pincers to latch onto the opponent’s body. An attached stirge is effectively grappling its prey. The stirge loses its Dexterity bonus to AC and has an AC of 12, but holds on with great tenacity. Stirges have a +12 racial bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks (already figured into the CMB entry above).
 
 An attached stirge can be struck with a weapon or grappled itself. To remove an attached stirge through grappling, the opponent must achieve a pin against the stirge.
 

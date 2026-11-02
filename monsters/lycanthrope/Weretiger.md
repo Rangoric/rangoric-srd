@@ -77,7 +77,7 @@ Weretigers can assume a hybrid form as well as an animal form. In tiger form, th
 
 **Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a weretiger’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
 
-**Improved Grab (Ex)**: To use this ability, a weretiger in tiger form must hit with a claw or bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
+**Improved Grab (Ex)**: To use this ability, a weretiger in tiger form must hit with a claw or bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 
 **Pounce (Ex)**: If a weretiger in tiger form [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]] an opponent, it can make a full attack, including two [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks.
 

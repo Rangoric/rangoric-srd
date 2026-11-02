@@ -69,9 +69,9 @@ An ochre jelly attempts to envelop and squeeze its prey.
 
 **Acid (Ex)**: An ochre jelly secretes a digestive acid that dissolves only flesh. Any melee hit or constrict attack deals acid damage.
 
-**Constrict (Ex)**: An ochre jelly deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
+**Constrict (Ex)**: An ochre jelly deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
-**Improved Grab (Ex)**: To use this ability, an ochre jelly must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, an ochre jelly must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Split (Ex)**: Slashing and piercing weapons and electricity attacks deal no damage to an ochre jelly. Instead the creature splits into two identical jellies, each with half of the original’s current hit points (round down). A jelly with 10 hit points or less cannot be further split and dies if reduced to 0 it points.
 

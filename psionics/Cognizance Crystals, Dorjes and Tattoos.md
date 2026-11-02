@@ -88,7 +88,7 @@ The following rules govern the use of psionic tattoos.
 
   - A creature must have an appropriate physical surface on which to scribe the pattern (thus, incorporeal creatures or creatures with impermanent flesh, such as fire elementals, cannot use psionic tattoos).
 
-  - Tapping a psionic tattoo provokes attacks of opportunity. A successful attack (including [[rangoric-srd/combat/Combat Special Attacks#Grapple|grappling]] attacks) against the wearer forces a [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] check. A wearer who fails this check cannot concentrate effectively on the tattoo to use it. The tattoo remains untapped, and the wearer can make another attempt.
+  - Tapping a psionic tattoo provokes attacks of opportunity. A successful attack (including [[rangoric-srd/combat/Combat Maneuvers#Grapple|grappling]] attacks) against the wearer forces a [[rangoric-srd/psionics/Psionics#Concentration|Concentration]] check. A wearer who fails this check cannot concentrate effectively on the tattoo to use it. The tattoo remains untapped, and the wearer can make another attempt.
 
   - A character can trigger the effects of another’s psionic tattoo if the other wearer is unconscious. It is a full-round action to find, touch, and concentrate on an unconscious creature’s tattoo in order to tap it.
 

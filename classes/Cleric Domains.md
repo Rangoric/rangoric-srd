@@ -622,7 +622,7 @@ Use this ability a total number of times per day equal to 3 + Charisma modifier.
 | 4 [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]:   | Subject is immune to one spell per four levels.                                                            |
 | 5 [[rangoric-srd/spells/Righteous Might\|Righteous Might]]: | Your size increases, and you gain combat bonuses.                                                          |
 | 6 [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M):         | Ignore 10 points of damage per attack.                                                                     |
-| 7 [[rangoric-srd/spells/Grasping Hand\|Grasping Hand]]:     | Large hand provides cover, pushes, or [[rangoric-srd/combat/Combat Special Attacks#Grapple\|grapples]]. |
+| 7 [[rangoric-srd/spells/Grasping Hand\|Grasping Hand]]:     | Large hand provides cover, pushes, or [[rangoric-srd/combat/Combat Maneuvers#Grapple\|grapples]]. |
 | 8 [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]]:     | Large hand provides cover, pushes, or attacks your foes.                                                   |
 | 9 [[rangoric-srd/spells/Crushing Hand\|Crushing Hand]]:     | Large hand provides cover, pushes, or crushes your foes.                                                   |
 

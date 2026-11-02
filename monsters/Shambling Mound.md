@@ -70,9 +70,9 @@ A shambler’s body has an 8-foot girth and is about 6 feet tall when the creatu
 
 A shambling mound batters or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constricts]] its opponents with two huge, armlike appendages.
 
-**Improved Grab (Ex)**: To use this ability, a shambler must hit with both slam attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a shambler must hit with both slam attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
-**Constrict (Ex)**: A shambler deals 2d6+7 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
+**Constrict (Ex)**: A shambler deals 2d6+7 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
 **Immunity to Electricity (Ex)**: Shamblers take no damage from electricity. Instead, any electricity attack used against a shambler temporarily grants it 1d4 points of Constitution. The shambler loses these points at the rate of 1 per hour.
 

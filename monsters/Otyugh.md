@@ -68,10 +68,10 @@ Otyughs speak Common.
 
 An otyugh attacks living creatures if it feels threatened or if it is hungry; otherwise it is content to remain hidden. Otyughs slash and squeeze opponents with their tentacles, which they also use to drag prey into their mouths.
 
-**Constrict (Ex)**: An otyugh deals automatic tentacle damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
+**Constrict (Ex)**: An otyugh deals automatic tentacle damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
 **Disease (Ex)**: Filth fever - bite, Fortitude DC 14, incubation period 1d3 days; damage 1d3 Dex and 1d3 Con. The save DC is Constitution-based.
 
-**Improved Grab (Ex)**: To use this ability, an otyugh must hit with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, an otyugh must hit with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Skills**: \*An otyugh has a +8 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks when in its lair, due to its natural coloration.

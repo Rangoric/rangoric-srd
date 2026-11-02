@@ -74,6 +74,6 @@ Winter wolves typically hunt in packs. Their size, cunning, and formidable breat
 
 **Freezing Bite (Su)**: A winter wolf deals an extra 1d6 points of cold damage every time it bites an opponent, as if its bite were a frost weapon.
 
-**Trip (Ex)**: A winter wolf that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]] the opponent (+8 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the winter wolf.
+**Trip (Ex)**: A winter wolf that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent (+8 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the winter wolf.
 
 **Skills**: Winter wolves have a +1 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks and a +2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks. \*Their natural coloration gives them +5 more on Stealth checks in areas of snow and ice. A winter wolf has a +4 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks when tracking by scent.

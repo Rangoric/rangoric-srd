@@ -521,7 +521,7 @@ Mountains have an important terrain element, the rock wall, that is marked on th
 
 **Cliff**: These terrain elements also function like their hills terrain counterparts, but they’re typically 2d6×10 feet tall. Cliffs taller than 80 feet take up 20 feet of horizontal space.
 
-**Chasm**: Usually formed by natural geological processes, chasms function like pits in a dungeon setting. Chasms aren’t hidden, so characters won’t fall into them by accident (although [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushes]] are another story). A typical chasm is 2d4×10 feet deep, at least 20 feet long, and anywhere from 5 feet to 20 feet wide. It takes a DC 15 [[rangoric-srd/skills/Athletics|Athletics]] check to climb out of a chasm.
+**Chasm**: Usually formed by natural geological processes, chasms function like pits in a dungeon setting. Chasms aren’t hidden, so characters won’t fall into them by accident (although [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rushes]] are another story). A typical chasm is 2d4×10 feet deep, at least 20 feet long, and anywhere from 5 feet to 20 feet wide. It takes a DC 15 [[rangoric-srd/skills/Athletics|Athletics]] check to climb out of a chasm.
 
 In forbidding mountain terrain, chasms are typically 2d8×10 feet deep.
 
@@ -657,7 +657,7 @@ Plains terrain provides no bonuses or penalties on [[rangoric-srd/skills/Percept
 
 ##### Aquatic Terrain
 
-Aquatic terrain is the least hospitable to most PCs, because they can’t breathe there. Aquatic terrain doesn’t offer the variety that land terrain does. The ocean floor holds many marvels, including undersea analogues of any of the terrain elements described earlier in this section. But if characters find themselves in the water because they were [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushed]] off the deck of a pirate ship, the tall kelp beds hundreds of feet below them don’t matter.
+Aquatic terrain is the least hospitable to most PCs, because they can’t breathe there. Aquatic terrain doesn’t offer the variety that land terrain does. The ocean floor holds many marvels, including undersea analogues of any of the terrain elements described earlier in this section. But if characters find themselves in the water because they were [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rushed]] off the deck of a pirate ship, the tall kelp beds hundreds of feet below them don’t matter.
 
 Accordingly, these rules simply divide aquatic terrain into two categories: flowing water (such as streams and rivers) and nonflowing water (such as lakes and oceans).
 
@@ -697,7 +697,7 @@ The surface of a body of water blocks line of effect for any fire spell. If the 
 | Firm footing (3)      | –2/half                                            | –2/half                         | half                | No               |
 | None of the above     | –2/half                                            | –2/half                         | normal              | Yes              |
 
-1 *A creature without a freedom of movement effects or a swim speed makes [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks underwater at a –2 penalty, but deals damage normally when [[rangoric-srd/rules/Special Abilities and Conditions#^grappling|grappling]].*
+1 *A creature without a freedom of movement effects or a swim speed makes [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks underwater at a –2 penalty, but deals damage normally when [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]].*
 
 2 *A successful Athletics check lets a creature move one-quarter its speed as a move action or one-half its speed as a full-round action.*
 

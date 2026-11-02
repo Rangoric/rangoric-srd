@@ -70,9 +70,9 @@ A darkmantle attacks by dropping onto its prey and wrapping its tentacles around
 
 **Darkness (Su)**: Once per day a darkmantle can cause [[rangoric-srd/spells/Darkness|darkness]] as the darkness spell (caster level 5th). It most often uses this ability just before attacking.
 
-**Improved Grab (Ex)**: To use this ability, a darkmantle must hit a Large or smaller creature with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it attaches to the opponent’s head and can constrict.
+**Improved Grab (Ex)**: To use this ability, a darkmantle must hit a Large or smaller creature with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it attaches to the opponent’s head and can constrict.
 
-**Constrict (Ex)**: A darkmantle deals 1d4+4 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
+**Constrict (Ex)**: A darkmantle deals 1d4+4 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
 **Blindsight (Ex)**: A darkmantle can “see” by emitting high-frequency sounds, inaudible to most other creatures, that allows it to ascertain objects and creatures within 90 feet. A [[rangoric-srd/spells/Silence|silence]] spell negates this ability and effectively [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinds]] the darkmantle.
 

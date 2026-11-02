@@ -35,7 +35,7 @@ The table below provides space and reach statistics for dragons of various sizes
 
 **Tail Slap**: The dragon can slap one opponent each round with its tail. A tail slap deals the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down) and is treated as a secondary attack.
 
-**Crush (Ex)**: This special attack allows a flying or jumping dragon of at least Huge size to land on opponents as a standard action, using its whole body to crush them. Crush attacks are effective only against opponents three or more size categories smaller than the dragon (though it can attempt normal [[rangoric-srd/combat/Combat Special Attacks#Overrun|overrun]] or [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] attacks against larger opponents).
+**Crush (Ex)**: This special attack allows a flying or jumping dragon of at least Huge size to land on opponents as a standard action, using its whole body to crush them. Crush attacks are effective only against opponents three or more size categories smaller than the dragon (though it can attempt normal [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] or [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] attacks against larger opponents).
 
 A crush attack affects as many creatures as can fit under the dragon’s body. Creatures in the affected area must succeed on a Reflex save (DC equal to that of the dragon’s breath weapon) or be pinned, automatically taking bludgeoning damage during the next round unless the dragon moves off them. If the dragon chooses to maintain the pin, treat it as a normal grapple attack. Pinned opponents take damage from the crush each round if they don’t escape.
 

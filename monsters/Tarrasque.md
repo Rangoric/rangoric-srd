@@ -74,11 +74,11 @@ The tarrasque’s natural weapons are treated as epic weapons for the purpose of
 
 **Frightful Presence (Su)**: The tarrasque can inspire terror by charging or attacking. Affected creatures must succeed on a DC 36 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]], remaining in that condition as long as they remain with 60 feet of the tarrasque. The save DC is Charisma-based.
 
-**Improved Grab (Ex)**: To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the foe the following round.
+**Improved Grab (Ex)**: To use this ability, the tarrasque must hit a Huge or smaller opponent with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the foe the following round.
 
 **Rush (Ex)**: Once per minute, the normally slow-moving tarrasque can move at a speed of 150 feet.
 
-**Swallow Whole (Ex)**: The tarrasque can try to swallow a grabbed opponent of Huge or smaller size by making a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. Once inside, the opponent takes 2d8+8 points of crushing damage plus 2d8+6 points of acid damage per round from the tarrasque’s digestive juices. A swallowed creature can cut its way out by dealing 50 points of damage to the tarrasque’s digestive tract (AC 25). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
+**Swallow Whole (Ex)**: The tarrasque can try to swallow a grabbed opponent of Huge or smaller size by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Once inside, the opponent takes 2d8+8 points of crushing damage plus 2d8+6 points of acid damage per round from the tarrasque’s digestive juices. A swallowed creature can cut its way out by dealing 50 points of damage to the tarrasque’s digestive tract (AC 25). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
 
 The tarrasque’s gullet can hold 2 Huge, 8 Large, 32 Medium, 128 Small, or 512 Tiny or smaller creatures.
 

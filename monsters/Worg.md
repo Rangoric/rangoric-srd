@@ -68,7 +68,7 @@ More intelligent than their smaller cousins, worgs speak their own language. Som
 
 Mated pairs or packs work together to bring down large game, while lone worgs usually chase down creatures smaller than themselves. Both often use hit-and-run tactics to exhaust their quarry. A pack usually circles a larger opponent: Each wolf attacks in turn, biting and retreating, until the creature is exhausted, at which point the pack moves in for the kill. If they get impatient or heavily outnumber the opponent, worgs attempt to pin it.
 
-**Trip (Ex)**: A worg that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]] the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the worg.
+**Trip (Ex)**: A worg that hits with a bite attack can attempt to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] the opponent (+3 check modifier) as a free action without making a touch attack or provoking an attack of opportunity. If the attempt fails, the opponent cannot react to trip the worg.
 
 **Skills**: A worg has a +1 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks and a +2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 

@@ -79,7 +79,7 @@ Werebears fight just as brown bears do in animal form. In humanoid or hybrid for
 
 **Curse of Lycanthropy (Su)**: Any humanoid or giant hit by a werebear’s bite attack in animal or hybrid form must succeed on a DC 15 Fortitude save or contract lycanthropy.
 
-**Improved Grab (Ex)**: To use this ability, a werebear must be in bear form and must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, a werebear must be in bear form and must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 **Skills**: Werebears have a +4 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks in any bear form.
 

@@ -28,7 +28,7 @@ Gnomes prefer misdirection and deception over direct confrontation. They would r
 
   - \+2 Constitution, –2 Strength.
 
-  - Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
+  - Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
 
   - A gnome’s base land speed is 20 feet.
 

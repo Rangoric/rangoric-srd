@@ -72,9 +72,9 @@ A couatl uses its [[rangoric-srd/spells/Detect Thoughts|detect thoughts]] abilit
 
 **Change Shape (Su):** A couatl can assume the form of any Small or Medium humanoid.
 
-**Constrict (Ex)**: A couatl deals 2d8+6 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
+**Constrict (Ex)**: A couatl deals 2d8+6 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
-**Improved Grab (Ex)**: To use this ability, a couatl must hit a creature of up to two size categories larger with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a couatl must hit a creature of up to two size categories larger with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Poison (Ex)**: Injury, Fortitude DC 16, initial damage 2d4 Str, secondary damage 4d4 Str. The save DC is Constitution-based.
 

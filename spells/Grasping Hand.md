@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/spell]
   - **Level**: Sor/Wiz 7, Strength 7
   - **Components**: V, S, F/DF
 
-This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except the hand can also [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] one opponent that you select. The grasping hand gets one grapple attack per round. This attack does not provoke an attack of opportunity.
+This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except the hand can also [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] one opponent that you select. The grasping hand gets one grapple attack per round. This attack does not provoke an attack of opportunity.
 
 Its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] and [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] for grapple checks use your caster level in place of its base attack bonus, with a +10 bonus for its Strength (31) score and a +1 bonus for being Large (its Dexterity is 10, granting no bonus on the Combat Maneuver Defense). The hand holds but does not harm creatures it grapples.
 

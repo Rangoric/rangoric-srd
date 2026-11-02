@@ -101,13 +101,13 @@ Titans enjoy combat and usually close with their foes. If that proves ineffectiv
 
 *Prior to combat*: [[rangoric-srd/spells/Invisibility Purge|Invisibility purge]] or [[rangoric-srd/spells/Invisibility|invisibility]].
 
-*Round 1*: [[rangoric-srd/combat/Combat Special Attacks#Charge|Charge]] and attempt to [[rangoric-srd/combat/Combat Special Attacks#Sunder|sunder]] the weapon of the most dangerous foe. Hurl [[rangoric-srd/spells/Chain Lightning|chain lightning]] at opponents standing away from the fight.
+*Round 1*: [[rangoric-srd/combat/Combat Special Attacks#Charge|Charge]] and attempt to [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] the weapon of the most dangerous foe. Hurl [[rangoric-srd/spells/Chain Lightning|chain lightning]] at opponents standing away from the fight.
 
 *Round 2*: Full attack against the disarmed opponent, and hurl [[rangoric-srd/spells/Chain Lightning|chain lightning]] at other opponents.
 
 *Round 3*: Back away from first opponent and use [[rangoric-srd/spells/Maze|maze]] or [[rangoric-srd/spells/Meteor Swarm|meteor swarm]] on any spellcaster causing trouble.
 
-*Round 4*: [[rangoric-srd/combat/Combat Special Attacks#Sunder|Sunder]] the weapon of the next most effective combatant, or use [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]] on all nearby opponents.
+*Round 4*: [[rangoric-srd/combat/Combat Maneuvers#Sunder|Sunder]] the weapon of the next most effective combatant, or use [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]] on all nearby opponents.
 
 *Round 5*: Full attack against any nearby opponent, or use [[rangoric-srd/spells/Fire Storm|fire storm]].
 

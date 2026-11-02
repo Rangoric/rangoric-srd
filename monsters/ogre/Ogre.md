@@ -96,7 +96,7 @@ Ogre characters possess the following racial traits.
 
   - \+10 Strength, –2 Dexterity, +4 Constitution, –4 Intelligence, –4 Charisma.
 
-  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
+  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
 
   - Space/Reach: 10 feet/10 feet.
 

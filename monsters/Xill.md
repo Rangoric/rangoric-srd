@@ -74,7 +74,7 @@ Xills typically lie in wait on the Ethereal Plane for suitable prey to happen by
 
 **Implant (Ex)**: As a standard action, a xill can lay eggs inside a [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] creature. The young emerge about 90 days later, literally devouring the host from inside. A remove disease spell rids a victim of the egg, as does a DC 25 Fieldcraft check. If the check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
 
-**Improved Grab (Ex)**: To use this ability, a xill must hit with one or more claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. It receives a +2 bonus on the grapple check for each claw that hits. If it succeeds on the grapple check and maintains the hold in the next round, it automatically bites the foe at that time. The bite deals no damage but injects a paralyzing venom.
+**Improved Grab (Ex)**: To use this ability, a xill must hit with one or more claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. It receives a +2 bonus on the grapple check for each claw that hits. If it succeeds on the grapple check and maintains the hold in the next round, it automatically bites the foe at that time. The bite deals no damage but injects a paralyzing venom.
 
 **Paralysis (Ex)**: Those bitten by a xill must succeed on a DC 14 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 hours. The save DC is Constitution-based.
 

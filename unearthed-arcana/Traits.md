@@ -133,7 +133,7 @@ You are quick to initiate combat, and you tend to press the attack once battle i
 
 You naturally move close to your opponents when fighting, instinctively grabbing and punching rather than striking with weapons.
 
-**Benefit:** You gain a +1 bonus on unarmed attack rolls and [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks.
+**Benefit:** You gain a +1 bonus on unarmed attack rolls and [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks.
 
 **Drawback:** You take a -1 penalty on all other attack rolls.
 
@@ -391,9 +391,9 @@ You are very slender for your race.
 
 You are less adept at grappling and wrestling than others of your size and strength, but you are adept at slipping out of another's hold.
 
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks to escape a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] and on grapple checks to escape a grapple, and to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against being grappled.
+**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks to escape a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] and on grapple checks to escape a grapple, and to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against being grappled.
 
-**Drawback:** You take a -1 penalty on all other [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks.
+**Drawback:** You take a -1 penalty on all other [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks.
 
 **Roleplaying Ideas:** Characters with this trait might fear close combat, knowing they are less adept grapplers than most opponents. On the other hand, good escape artists with this trait might enjoy baiting larger foes into grappling them, knowing they can easily slip out of the grasp of most foes.
 

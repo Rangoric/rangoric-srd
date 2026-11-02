@@ -211,7 +211,7 @@ With this system, a character still takes as much damage from a hit as in the no
 
 However, healing spells become potentially doubly effective, since they heal an equal amount of lethal and nonlethal damage.
 
-Nonlethal attacks become less frightening to armored opponents. A fighter in full plate simply has no fear of unarmed opponents, since they have little chance of injuring him. (Of course, they can still [[rangoric-srd/combat/Combat Special Attacks#Overrun|overrun]], [[rangoric-srd/combat/Combat Special Attacks#Trip|trip]], or [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] him, so he’d be wise to keep and eye on them all the same.)
+Nonlethal attacks become less frightening to armored opponents. A fighter in full plate simply has no fear of unarmed opponents, since they have little chance of injuring him. (Of course, they can still [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]], [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]], or [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] him, so he’d be wise to keep and eye on them all the same.)
 
 Another effect is that defeated foes remain alive (and unconscious) unless dispatched after the fight. This can decrease character mortality dramatically — since most characters who fall in battle will be merely unconscious, but not dying — but it also introduces the potentially ugly postcombat scene of the characters feeling it necessary to slit the throats of their unconscious foes. Some characters, particulary paladins or other chivalrous types, may suffer serious moral qualms.
 

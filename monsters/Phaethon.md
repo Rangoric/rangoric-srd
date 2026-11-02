@@ -72,11 +72,11 @@ A phaethon’s natural weapons are treated as epic and evil for the purpose of o
 
 Fiery Touch (Ex): Touching or being touched by a phaethon deals 2d6 points of fire damage.
 
-Fiery Overrun (Ex): A foe who is successfully [[rangoric-srd/combat/Combat Special Attacks#Overrun|overrun]] by a phaethon is treated as if swallowed whole.
+Fiery Overrun (Ex): A foe who is successfully [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] by a phaethon is treated as if swallowed whole.
 
-Improved Grab (Ex): If the phaethon hits with a pseudopod, it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. Phaethons can use improved grab on a Huge or smaller creature. The phaethon has the option to conduct the grapple normally, simply maintaining a pseudopod hold, or attempting to absorb the opponent by swallowing the foe whole. Each successful grapple check it makes during successive rounds automatically deals the damage listed for the pseudopod.
+Improved Grab (Ex): If the phaethon hits with a pseudopod, it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. Phaethons can use improved grab on a Huge or smaller creature. The phaethon has the option to conduct the grapple normally, simply maintaining a pseudopod hold, or attempting to absorb the opponent by swallowing the foe whole. Each successful grapple check it makes during successive rounds automatically deals the damage listed for the pseudopod.
 
-Swallow Whole (Ex): The phaethon can absorb opponents it holds with a second successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check after a grab. The opponent must be Huge or smaller. Absorbed creatures take 20d6 points of fire damage and 10d6 points of bludgeoning damage each round they remain inside a phaethon. Victims must make a successful grapple check to “swim” free of the living magma of the phaethon.
+Swallow Whole (Ex): The phaethon can absorb opponents it holds with a second successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check after a grab. The opponent must be Huge or smaller. Absorbed creatures take 20d6 points of fire damage and 10d6 points of bludgeoning damage each round they remain inside a phaethon. Victims must make a successful grapple check to “swim” free of the living magma of the phaethon.
 
 Spell-Like Abilities: Caster level 34th; save DC 24 + spell level.  
 

@@ -87,7 +87,7 @@ Stone giant characters possess the following racial traits.
 
   - \+16 Strength, +4 Dexterity, +8 Constitution, +2 Wisdom.
 
-  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
+  - Large size. –1 penalty to Armor Class, –1 penalty on attack rolls, –4 penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks, +4 bonus on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits double those of Medium characters.
 
   - Space/Reach: 10 feet/10 feet.
 

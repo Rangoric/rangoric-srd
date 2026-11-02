@@ -72,7 +72,7 @@ Chameleon Ability (Ex): Ha-nagas can blend in with their surroundings, giving th
 
 Improved Grab (Ex): To use this ability, the ha-naga must hit with its coil whip attack. If it succeeds, it can constrict.
 
-Constrict (Ex): A ha-naga deals 4d6+12 points Damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] attack against Huge or smaller opponents.
+Constrict (Ex): A ha-naga deals 4d6+12 points Damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] attack against Huge or smaller opponents.
 
 Poison (Ex): Sting, Fort save (DC 31); initial and secondary Damage 2d8 temporary Con.  The DC is Constitution-based.
 

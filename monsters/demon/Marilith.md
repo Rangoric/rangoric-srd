@@ -76,9 +76,9 @@ Though mariliths thrive on grand strategy and army-level tactics, they love phys
 
 A marilith’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Constrict (Ex)**: A marilith deals 4d6+13 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. The constricted creature must succeed on a DC 27 Fortitude save or [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|lose consciousness]] for as long as it remains in the coils and for 2d4 rounds thereafter. The save DC is Strength-based.
+**Constrict (Ex)**: A marilith deals 4d6+13 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. The constricted creature must succeed on a DC 27 Fortitude save or [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|lose consciousness]] for as long as it remains in the coils and for 2d4 rounds thereafter. The save DC is Strength-based.
 
-**Improved Grab (Ex)**: To use this ability, a marilith must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it can constrict.
+**Improved Grab (Ex)**: To use this ability, a marilith must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it can constrict.
 
 **Spell-Like Abilities**: Caster level 16th. The save DCs are Charisma-based.  
 

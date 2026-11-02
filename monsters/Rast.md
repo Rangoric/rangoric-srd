@@ -74,7 +74,7 @@ Rasts paralyze as many of their foes as possible, then attack any that are still
 
 **Paralyzing Gaze (Su)**: [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|Paralysis]] for 1d6 rounds, 30 feet, Fortitude DC 13 negates. The save DC is Charisma-based.
 
-**Improved Grab (Ex)**: To use this ability, a rast must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, a rast must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 **Blood Drain (Ex)**: A rast drains blood from a grabbed opponent, dealing 1 point of Constitution damage each round it maintains the hold.
 

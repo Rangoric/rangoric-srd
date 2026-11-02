@@ -68,7 +68,7 @@ Azers are dwarflike beings native to the Elemental Plane of Fire. They wear kilt
 
 ### Combat
 
-Azers use broad-headed spears or well-crafted hammers in combat. When unarmed, they attempt to [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] foes.
+Azers use broad-headed spears or well-crafted hammers in combat. When unarmed, they attempt to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] foes.
 
 Although unfriendly and taciturn, azers rarely provoke a fight except to relieve a foe of gems, which they love. If threatened, they fight to the death, but they see the value of taking prisoners themselves.
 

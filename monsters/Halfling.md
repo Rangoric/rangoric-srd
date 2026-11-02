@@ -79,7 +79,7 @@ Halflings prefer to fight defensively, usually hiding and launching ranged attac
 
   - \+2 Dexterity, –2 Strength.
 
-  - Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
+  - Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
 
   - A halfling’s base land speed is 20 feet.
 

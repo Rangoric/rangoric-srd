@@ -66,7 +66,7 @@ Temporal filchers do not speak.
 
 #### Combat
 
-Improved Grab (Ex): To use this ability, a temporal filcher must hit a creature of Large size or smaller with two claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking attacks of opportunity. If it succeeds on the grapple check, it establishes a hold and uses its time filch ability.
+Improved Grab (Ex): To use this ability, a temporal filcher must hit a creature of Large size or smaller with two claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking attacks of opportunity. If it succeeds on the grapple check, it establishes a hold and uses its time filch ability.
 
 Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Chameleon|chameleon]], [[rangoric-srd/powers/Distract|distract]] (DC 13), [[rangoric-srd/psionics/Psion Discipline List|psionic dimension door]], [[rangoric-srd/powers/Levitate, Psionic|psionic levitate]], [[rangoric-srd/powers/Wall Walker|wall walker]]; 3/day - [[rangoric-srd/powers/Mental Barrier|mental barrier]]. Manifester level 8th. The save DC is Charisma-based.
 

@@ -76,7 +76,7 @@ Hezrous enjoy melee combat even more than vrocks do. They eagerly press an attac
 
 A hezrou’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Improved Grab (Ex)**: To use this ability, a hezrou must hit with both claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, a hezrou must hit with both claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 **Spell-Like Abilities**: Caster level 13th. The save DCs are Charisma-based.  
 

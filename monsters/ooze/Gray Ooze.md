@@ -71,8 +71,8 @@ A gray ooze strikes like a snake, slamming opponents with its body.
 
 The ooze’s acidic touch deals 16 points of damage per round to wooden or metal objects, but the ooze must remain in contact with the object for 1 full round to deal this damage.
 
-**Constrict (Ex)**: A gray ooze deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check. The opponent’s clothing and armor take a –4 penalty on Reflex saves against the acid.
+**Constrict (Ex)**: A gray ooze deals automatic slam and acid damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. The opponent’s clothing and armor take a –4 penalty on Reflex saves against the acid.
 
-**Improved Grab (Ex)**: To use this ability, a gray ooze must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, a gray ooze must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Transparent (Ex)**: A gray ooze is hard to identify, even under ideal conditions, and it takes a DC 15 [[rangoric-srd/skills/Perception|Perception]] check to notice one. Creatures who fail to notice a gray ooze and walk into it are automatically hit with a melee attack for slam and acid damage.

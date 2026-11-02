@@ -75,7 +75,7 @@ Glabrezu prefer subterfuge to combat. However, if their attempts to entice or de
 
 A glabrezu’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Improved Grab (Ex)**: To use this ability, a glabrezu must hit a Medium or smaller opponent with a pincer attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Improved Grab (Ex)**: To use this ability, a glabrezu must hit a Medium or smaller opponent with a pincer attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 **Spell-Like Abilities**: Caster level 14th. The save DCs are Charisma-based.  
 

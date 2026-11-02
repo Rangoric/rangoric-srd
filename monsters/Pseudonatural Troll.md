@@ -68,13 +68,13 @@ A pseudotroll’s natural weapons are treated as epic for the purpose of overcom
 
 #### Combat
 
-Constant Insight (Su): A pseudotroll makes all its attacks (including [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapples]]) with a +15 insight bonus (calculated into the above statistics). The creature is not affected by the miss chance that applies to attacks against a concealed target.
+Constant Insight (Su): A pseudotroll makes all its attacks (including [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapples]]) with a +15 insight bonus (calculated into the above statistics). The creature is not affected by the miss chance that applies to attacks against a concealed target.
 
-Improved Grab (Ex): If a pseudonatural troll hits an opponent smaller than it with a tentacle, it deals normal Damage and attempts to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+Improved Grab (Ex): If a pseudonatural troll hits an opponent smaller than it with a tentacle, it deals normal Damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
 Rend (Ex): If a pseudotroll hits with two or more tentacle rake attacks, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 4d8+25 points of Damage, and can be used concurrently with its improved grab ability.
 
-Rotting Constriction (Ex): Once a pseudotroll has hold of an opponent, each successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check it makes during subsequent rounds automatically [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 2d4 points of Constitution. At the same time, the pseudotroll regains 10 lost hit points.
+Rotting Constriction (Ex): Once a pseudotroll has hold of an opponent, each successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check it makes during subsequent rounds automatically [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 2d4 points of Constitution. At the same time, the pseudotroll regains 10 lost hit points.
 
 Regeneration (Ex): Fire and acid deal normal Damage to a pseudotroll. If a pseudotroll loses a tentacle or body part, the lost portion regrows in 1 minute. The creature can reattach the severed member instantly by holding it to the stump.
 
@@ -104,9 +104,9 @@ Special Attacks: A pseudonatural creature retains all the special attacks of the
 
 Constant Insight (Su): The creature makes all its attacks with a +15 insight bonus. The creature is not affected by the miss chance that applies to attacks against a concealed target.
 
-Improved Grab (Ex): If the creature hits an opponent smaller than it with a tentacle, it deals normal Damage and attempts to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+Improved Grab (Ex): If the creature hits an opponent smaller than it with a tentacle, it deals normal Damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
-Rotting Constriction (Ex): Once the creature has hold of an opponent, each successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check it makes during subsequent rounds permanently [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 2d4 points of Constitution. At the same time, the creature regains 10 lost hit points.
+Rotting Constriction (Ex): Once the creature has hold of an opponent, each successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check it makes during subsequent rounds permanently [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drains]] 2d4 points of Constitution. At the same time, the creature regains 10 lost hit points.
 
 Spell-Like Abilities: Caster level 20th.  The DCs are Charisma-based.  
 

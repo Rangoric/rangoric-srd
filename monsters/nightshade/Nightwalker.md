@@ -74,7 +74,7 @@ Nightwalkers lurk in dark areas where they can almost always surprise the unwary
 
 A nightwalker’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
 
-**Crush Item (Su)**: A nightwalker can destroy any weapon or item of Large size or smaller (even magic ones, but not artifacts) by picking it up and crushing it between its hands. The nightwalker must make a successful [[rangoric-srd/combat/Combat Special Attacks#Disarm|disarm]] attempt to grab an item held by an opponent. The item is entitled to a DC 34 Fortitude save to resist destruction. The save DC is Strength-based.
+**Crush Item (Su)**: A nightwalker can destroy any weapon or item of Large size or smaller (even magic ones, but not artifacts) by picking it up and crushing it between its hands. The nightwalker must make a successful [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] attempt to grab an item held by an opponent. The item is entitled to a DC 34 Fortitude save to resist destruction. The save DC is Strength-based.
 
 **Evil Gaze (Su)**: Fear, 30 feet. A creature that meets the nightwalker’s gaze must succeed on a DC 24 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear for 1d8 rounds. Whether or not the save is successful, that creature cannot be affected again by the same nightshade’s gaze for 24 hours. This is a mind-affecting fear effect. The save DC is Charisma-based.
 
@@ -100,7 +100,7 @@ The nightwalker is an exceedingly intelligent foe that makes the best use of all
 
 *Round 2*: Hit a spellcaster with [[rangoric-srd/spells/Finger of Death|finger of death]] and another quickened [[rangoric-srd/spells/Unholy Blight|unholy blight]].
 
-*Round 3*: Move up to engage the enemy and attempt to [[rangoric-srd/combat/Combat Special Attacks#Disarm|disarm]] an enemy fighter.
+*Round 3*: Move up to engage the enemy and attempt to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] an enemy fighter.
 
 *Round 4*: Crush the disarmed weapon (or use [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attack if disarm attempt failed).
 

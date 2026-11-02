@@ -12,8 +12,8 @@ duration: "1 round/level"
 power-points: "1"
 based-on:
   - "[[fantasy srd 3.5/powers/Grip of Iron|Grip of Iron (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -29,7 +29,7 @@ Psychometabolism
 **Duration:** 1 round/level  
 **Power Points:** 1  
 
-You can improve your chances in a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as an immediate action, gaining a +4 enhancement bonus on your grapple checks.
+You can improve your chances in a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as an immediate action, gaining a +4 enhancement bonus on your grapple checks.
 
 You can manifest this power with an instant thought, quickly enough to gain the benefit of the power in the current round. Manifesting this power is an immediate action. You can manifest this power when it isn’t your turn (if you are grappled).
 
