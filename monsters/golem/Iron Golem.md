@@ -8,7 +8,9 @@ hit-dice: "18d10+30 (129 hp)"
 initiative: "–1"
 speed: "20 ft. (4 squares)"
 armor-class: "30 (–1 size, –1 Dex, +22 natural) touch 8, flat-footed 30"
-base-attack-grapple: "+12/+28"
+base-attack: "+12"
+cmb: "+24"
+cmd: "33"
 attack: "Slam +23 melee (2d10+11)"
 full-attack: "2 slams +23 melee (2d10+11)"
 space-reach: "10 ft./10 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: –1
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 30 (–1 size, –1 Dex, +22 natural) touch 8, flat-footed 30
-  - **Base Attack/Grapple**: +12/+28
+  - **Base Attack**: +12; **CMB**: +24; **CMD**: 33
   - **Attack**: Slam +23 melee (2d10+11)
   - **Full Attack**: 2 slams +23 melee (2d10+11)
   - **Space/Reach**: 10 ft./10 ft.

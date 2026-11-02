@@ -12,7 +12,9 @@ hit-dice: "12d8+72 (126 hp)"
 initiative: "+6"
 speed: "30 ft. (6 squares)"
 armor-class: "29 (+6 Dex, +13 natural) touch 16, flat-footed 23"
-base-attack-grapple: "+12/+22"
+base-attack: "+12"
+cmb: "+18 (+26 grapple)"
+cmd: "34"
 attack: "Claw +18 melee (2d8+6 plus fear)"
 full-attack: "2 claws +18 melee (2d8+6 plus fear)"
 space-reach: "5 ft./5 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 30 ft. (6 squares)
   - **Armor Class**: 29 (+6 Dex, +13 natural) touch 16, flat-footed 23
-  - **Base Attack/Grapple**: +12/+22
+  - **Base Attack**: +12; **CMB**: +18 (+26 grapple); **CMD**: 34
   - **Attack**: Claw +18 melee (2d8+6 plus fear)
   - **Full Attack**: 2 claws +18 melee (2d8+6 plus fear)
   - **Space/Reach**: 5 ft./5 ft.
@@ -76,7 +78,7 @@ A barbed devil’s natural weapons, as well as any weapons it wields, are treate
 
 **Impale (Ex)**: A barbed devil deals 3d8+9 points of piercing damage to a grabbed opponent with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
 
-**Improved Grab (Ex)**: To use this ability, a barbed devil must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can impale the opponent on its barbed body.
+**Improved Grab (Ex)**: To use this ability, a barbed devil must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can impale the opponent on its barbed body.
 
 **Summon Devil (Sp)**: Once per day a barbed devil can attempt to summon 1d6 [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|bearded devils]] or another barbed devil with a 35% chance of success. This ability is the equivalent of a 4th-level spell.
 

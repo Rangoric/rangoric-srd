@@ -9,7 +9,9 @@ hit-dice: "3d8 (13 hp)"
 initiative: "+3"
 speed: "Swim 60 ft. (12 squares)"
 armor-class: "16 (+3 Dex, +3 natural), touch 13, flat-footed 13"
-base-attack-grapple: "+2/+8*"
+base-attack: "+2"
+cmb: "+4 (+12 grapple)"
+cmd: "17"
 attack: "Arms +4 melee (0)"
 full-attack: "Arms +4 melee (0) and bite –1 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: Swim 60 ft. (12 squares)
   - **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
-  - **Base Attack/Grapple**: +2/+8\*
+  - **Base Attack**: +2; **CMB**: +4 (+12 grapple); **CMD**: 17
   - **Attack**: Arms +4 melee (0)
   - **Full Attack**: Arms +4 melee (0) and bite –1 melee (1d6+1)
   - **Space/Reach**: 5 ft./5 ft.
@@ -60,7 +62,7 @@ These free-swimming mollusks are fairly aggressive. They are more feared than sh
 
 #### Combat
 
-**Improved Grab (Ex)**: To use this ability, a squid must hit an opponent of any size with its arms attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and automatically deals bite damage. \*A squid has a +4 racial bonus on grapple checks.
+**Improved Grab (Ex)**: To use this ability, a squid must hit an opponent of any size with its arms attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and automatically deals bite damage. \*A squid has a +4 racial bonus on grapple checks.
 
 **Ink Cloud (Ex)**: A squid can emit a cloud of jet-black ink 10 feet high by 10 feet wide by 10 feet long once per minute as a free action. The cloud provides total concealment, which the squid normally uses to escape a losing fight. All vision within the cloud is obscured.
 

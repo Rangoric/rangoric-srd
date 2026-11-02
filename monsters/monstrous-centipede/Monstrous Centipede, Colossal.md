@@ -8,7 +8,9 @@ hit-dice: "24d8+24 (132 hp)"
 initiative: "+1"
 speed: "40 ft. (8 squares), climb 40 ft."
 armor-class: "20 (–8 size, +2 Dex, +16 natural), touch 4, flat-footed 18"
-base-attack-grapple: "+18/+42"
+base-attack: "+18"
+cmb: "+34"
+cmd: "45 (can't be tripped)"
 attack: "Bite +18 melee (4d6+12 plus poison)"
 full-attack: "Bite +18 melee (4d6+12 plus poison)"
 space-reach: "30 ft./20 ft."
@@ -39,7 +41,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 40 ft. (8 squares), climb 40 ft.
   - **Armor Class**: 20 (–8 size, +2 Dex, +16 natural), touch 4, flat-footed 18
-  - **Base Attack/Grapple**: +18/+42
+  - **Base Attack**: +18; **CMB**: +34; **CMD**: 45 (can't be tripped)
   - **Attack**: Bite +18 melee (4d6+12 plus poison)
   - **Full Attack**: Bite +18 melee (4d6+12 plus poison)
   - **Space/Reach**: 30 ft./20 ft.

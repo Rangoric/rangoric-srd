@@ -9,7 +9,9 @@ hit-dice: "2d8 (9 hp)"
 initiative: "+3"
 speed: "20 ft. (4 squares), swim 30 ft."
 armor-class: "16 (+1 size, +3 Dex, +2 natural), touch 14, flat-footed 13"
-base-attack-grapple: "+1/+2"
+base-attack: "+1"
+cmb: "+1 (+9 grapple)"
+cmd: "14 (can't be tripped)"
 attack: "Arms +5 melee (0)"
 full-attack: "Arms +5 melee (0) and bite +0 melee (1d3)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 20 ft. (4 squares), swim 30 ft.
   - **Armor Class**: 16 (+1 size, +3 Dex, +2 natural), touch 14, flat-footed 13
-  - **Base Attack/Grapple**: +1/+2
+  - **Base Attack**: +1; **CMB**: +1 (+9 grapple); **CMD**: 14 (can't be tripped)
   - **Attack**: Arms +5 melee (0)
   - **Full Attack**: Arms +5 melee (0) and bite +0 melee (1d3)
   - **Space/Reach**: 5 ft./5 ft.
@@ -60,7 +62,7 @@ These bottom-dwelling sea creatures are dangerous only to their prey. If disturb
 
 #### Combat
 
-**Improved Grab (Ex)**: To use this ability, an octopus must hit an opponent of any size with its arms attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and automatically deals bite damage.
+**Improved Grab (Ex)**: To use this ability, an octopus must hit an opponent of any size with its arms attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and automatically deals bite damage.
 
 **Ink Cloud (Ex)**: An octopus can emit a cloud of jet-black ink 10 feet high by 10 feet wide by 10 feet long once per minute as a free action. The cloud provides total concealment, which the octopus normally uses to escape a losing fight. All vision within the cloud is obscured.
 

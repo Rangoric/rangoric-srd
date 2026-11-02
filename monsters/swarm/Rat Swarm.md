@@ -10,7 +10,9 @@ hit-dice: "4d8 (13 hp)"
 initiative: "+2"
 speed: "15 ft. (3 squares), climb 15 ft."
 armor-class: "14 (+2 size, +2 Dex), touch 14, flat-footed 12"
-base-attack-grapple: "+3/—"
+base-attack: "+3"
+cmb: "—"
+cmd: "—"
 attack: "Swarm (1d6 plus disease)"
 full-attack: "Swarm (1d6 plus disease)"
 space-reach: "10 ft./0 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 15 ft. (3 squares), climb 15 ft.
   - **Armor Class**: 14 (+2 size, +2 Dex), touch 14, flat-footed 12
-  - **Base Attack/Grapple**: +3/—
+  - **Base Attack**: +3; **CMB**: —; **CMD**: —
   - **Attack**: Swarm (1d6 plus disease)
   - **Full Attack**: Swarm (1d6 plus disease)
   - **Space/Reach**: 10 ft./0 ft.

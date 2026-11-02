@@ -9,7 +9,9 @@ hit-dice: "32d12 (208 hp)"
 initiative: "+12 (+8 Dex, +4 Improved Initiative)"
 speed: "60 ft."
 armor-class: "46 (+8 Dex, +28 natural)"
-base-attack-grapple: "+16/+37"
+base-attack: "+16"
+cmb: "+37"
+cmd: "55"
 attack: "Claw +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee"
 full-attack: "2 claws +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee, 1 skull butt +32 (2d6+10 plus blazefire) melee"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ Hit Dice: 32d12 (208 hp)    
 Initiative: +12 (+8 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: 60 ft.      
 AC: 46 (+8 Dex, +28 natural)      
-Base Attack/Grapple: +16/+37     
+Base Attack: +16; CMB: +37; CMD: 55     
 Attack: Claw +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee     
 Full Attack: 2 claws +40 (3d8+21/19-20 (+1d6 on critical hit) plus blazefire) melee, 1 skull butt +32 (2d6+10 plus blazefire) melee     
 Space/Reach: 5 ft./5 ft.      
