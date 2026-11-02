@@ -8,7 +8,9 @@ hit-dice: "8d10 + 7d8 + 75 (155 hp)"
 initiative: "+4"
 speed: "60 ft. (12 squares)"
 armor-class: "24 (-1 size, +4 Dex, +6 natural, +5 bracers of armor +5), touch 13, flat-footed 20"
-base-attack-grapple: "+13/+24"
+base-attack: "+13"
+cmb: "+21"
+cmd: "35 (39 vs. trip)"
 attack: "Horn +22 melee (1d8+10)"
 full-attack: "Horn +22 melee (1d8+10) and 2 hooves +14 melee (1d4+3)"
 space-reach: "10 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: 60 ft. (12 squares)
   - **Armor Class**: 24 (-1 size, +4 Dex, +6 natural, +5 bracers of armor +5), touch 13, flat-footed 20
-  - **Base Attack/Grapple**: +13/+24
+  - **Base Attack**: +13; **CMB**: +21; **CMD**: 35 (39 vs. trip)
   - **Attack**: Horn +22 melee (1d8+10)
   - **Full Attack**: Horn +22 melee (1d8+10) and 2 hooves +14 melee (1d4+3)
   - **Space/Reach**: 10 ft./5 ft.

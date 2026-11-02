@@ -11,7 +11,9 @@ hit-dice: "6d8+18 (45 hp)"
 initiative: "+8"
 speed: "40 ft. (8 squares), fly 100 ft. (perfect)"
 armor-class: "20 (+4 Dex, +6 natural), touch 14, flat-footed 16"
-base-attack-grapple: "+6/+10"
+base-attack: "+6"
+cmb: "+10"
+cmd: "24"
 attack: "+1 holy scimitar +11 melee (1d6+4/18–20) or +1 holy composite longbow (+4 Str bonus) +11 ranged (1d8+5/x3) or slam +10 melee (1d6+4)"
 full-attack: "+1 holy scimitar +11/+6 melee (1d6+4/18–20) or +1 holy composite longbow (+4 Str bonus) +11/+6 ranged (1d8+5/x3) or slam +10 melee (1d6+4)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +8
   - **Speed**: 40 ft. (8 squares), fly 100 ft. (perfect)
   - **Armor Class**: 20 (+4 Dex, +6 natural), touch 14, flat-footed 16
-  - **Base Attack/Grapple**: +6/+10
+  - **Base Attack**: +6; **CMB**: +10; **CMD**: 24
   - **Attack**: +1 holy scimitar +11 melee (1d6+4/18–20) or +1 holy composite longbow (+4 Str bonus) +11 ranged (1d8+5/x3) or slam +10 melee (1d6+4)
   - **Full Attack**: +1 holy scimitar +11/+6 melee (1d6+4/18–20) or +1 holy composite longbow (+4 Str bonus) +11/+6 ranged (1d8+5/x3) or slam +10 melee (1d6+4)
   - **Space/Reach**: 5 ft./5 ft.

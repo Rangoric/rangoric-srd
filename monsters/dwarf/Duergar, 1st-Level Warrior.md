@@ -10,7 +10,9 @@ hit-dice: "1d10+5 (10 hp)"
 initiative: "+0"
 speed: "20 ft. in chainmail (4 squares); base speed 20 ft."
 armor-class: "17 (+5 chainmail, +2 heavy shield), touch 10, flat-footed 17"
-base-attack-grapple: "+1/+2"
+base-attack: "+1"
+cmb: "+2"
+cmd: "12 (16 vs. bull rush and trip)"
 attack: "Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19–20)"
 full-attack: "Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 20 ft. in chainmail (4 squares); base speed 20 ft.
   - **Armor Class**: 17 (+5 chainmail, +2 heavy shield), touch 10, flat-footed 17
-  - **Base Attack/Grapple**: +1/+2
+  - **Base Attack**: +1; **CMB**: +2; **CMD**: 12 (16 vs. bull rush and trip)
   - **Attack**: Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19–20)
   - **Full Attack**: Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19–20)
   - **Space/Reach**: 5 ft./5 ft.

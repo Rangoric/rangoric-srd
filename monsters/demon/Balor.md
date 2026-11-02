@@ -12,7 +12,9 @@ hit-dice: "20d8+200 (290 hp)"
 initiative: "+11"
 speed: "40 ft. (8 squares), fly 90 ft. (good)"
 armor-class: "35 (–1 size, +7 Dex, +19 natural), touch 16, flat-footed 28"
-base-attack-grapple: "+20/+36"
+base-attack: "+20"
+cmb: "+33"
+cmd: "50"
 attack: "+1 vorpal longsword +33 melee (2d6+8/19–20)"
 full-attack: "+1 vorpal longsword +31/+26/+21/+16 melee (2d6+8/19–20) and +1 flaming whip +30/+25 melee (1d4+4 plus 1d6 fire plus entangle); or 2 slams +31 melee (1d10+7)"
 space-reach: "10 ft./10 ft. (20 ft. with +1 flaming whip)"
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +11
   - **Speed**: 40 ft. (8 squares), fly 90 ft. (good)
   - **Armor Class**: 35 (–1 size, +7 Dex, +19 natural), touch 16, flat-footed 28
-  - **Base Attack/Grapple**: +20/+36
+  - **Base Attack**: +20; **CMB**: +33; **CMD**: 50
   - **Attack**: +1 vorpal longsword +33 melee (2d6+8/19–20)
   - **Full Attack**: +1 vorpal longsword +31/+26/+21/+16 melee (2d6+8/19–20) and +1 flaming whip +30/+25 melee (1d4+4 plus 1d6 fire plus entangle); or 2 slams +31 melee (1d10+7)
   - **Space/Reach**: 10 ft./10 ft. (20 ft. with +1 flaming whip)
@@ -76,7 +78,7 @@ A balor’s natural weapons, as well as any weapons it wields, are treated as ch
 
 **Death Throes (Ex)**: When killed, a balor explodes in a blinding flash of light that deals 100 points of damage to anything within 100 feet (Reflex DC 30 half ). This explosion automatically destroys any weapons the balor is holding. The save DC is Constitution-based.
 
-**Entangle (Ex)**: A balor’s +1 flaming whip [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangles]] foes much like an attack with a [[rangoric-srd/equipment/Equipment Weapons#^net|net]]. The whip has 20 hit points. The whip needs no folding. If it hits, the target and the balor immediately make opposed Strength checks; if the balor wins, it drags the target against its flaming body (see below). The target remains anchored against the balor’s body until it escapes the whip.
+**Entangle (Ex)**: A balor’s +1 flaming whip [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangles]] foes much like an attack with a [[rangoric-srd/equipment/Equipment Weapons#^net|net]]. The whip has 20 hit points. The whip needs no folding. If it hits, the balor can attempt a [[rangoric-srd/combat/Combat Maneuvers#Drag|drag]] combat maneuver check against the target as a free action; if it succeeds, it drags the target against its flaming body (see below). The target remains anchored against the balor’s body until it escapes the whip.
 
 **Spell-Like Abilities**: Caster level 20th. The save DCs are Charisma-based.  
 

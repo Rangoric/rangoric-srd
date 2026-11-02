@@ -10,7 +10,9 @@ hit-dice: "38d10 (420 hp)"
 initiative: "+7 (Dex)"
 speed: "60 ft., fly 200 ft. (perfect)"
 armor-class: "37 (+7 Dex, +20 natural)"
-base-attack-grapple: "+28/+40"
+base-attack: "+28"
+cmb: "+40"
+cmd: "57"
 attack: "Spinning blade +43 (2d6+12/19-20 (plus 1d6 on critical)) or electricity ray +35 ranged touch"
 full-attack: "2 spinning blades +43 (2d6+12/19-20(plus 1d6 on critical)) melee, 2 slams +35 melee (2d6+6), shocking touch +35 melee touch (2d6+6); or electricity ray +35 ranged touch (10d6 electricity), 6 spikes +30 ranged (2d6+12) (120 ft. range increment)"
 space-reach: "5 ft./5 ft."
@@ -44,7 +46,7 @@ Hit Dice: 38d10 (420 hp)   
 Initiative: +7 (Dex)     
 Speed: 60 ft., fly 200 ft. (perfect)     
 AC: 37 (+7 Dex, +20 natural)     
-Base Attack/Grapple: +28/+40    
+Base Attack: +28; CMB: +40; CMD: 57    
 Attack: Spinning blade +43 (2d6+12/19-20 (plus 1d6 on critical)) or electricity ray +35 ranged touch    
 Full Attack: 2 spinning blades +43 (2d6+12/19-20(plus 1d6 on critical)) melee, 2 slams +35 melee (2d6+6), shocking touch +35 melee touch (2d6+6); or electricity ray +35 ranged touch (10d6 electricity), 6 spikes +30 ranged (2d6+12) (120 ft. range increment)    
 Space/Reach: 5 ft./5 ft.     

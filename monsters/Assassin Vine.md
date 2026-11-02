@@ -7,7 +7,9 @@ hit-dice: "4d8+12 (30 hp)"
 initiative: "+0"
 speed: "5 ft. (1 square)"
 armor-class: "15 (–1 size, +6 natural), touch 9, flat-footed 15"
-base-attack-grapple: "+3/+12"
+base-attack: "+3"
+cmb: "+9 (+13 grapple)"
+cmd: "19 (can't be tripped)"
 attack: "Slam +7 melee (1d6+7)"
 full-attack: "Slam +7 melee (1d6+7)"
 space-reach: "10 ft./10 ft. (20 ft. with vine)"
@@ -39,7 +41,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 5 ft. (1 square)
   - **Armor Class**: 15 (–1 size, +6 natural), touch 9, flat-footed 15
-  - **Base Attack/Grapple**: +3/+12
+  - **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 19 (can't be tripped)
   - **Attack**: Slam +7 melee (1d6+7)
   - **Full Attack**: Slam +7 melee (1d6+7)
   - **Space/Reach**: 10 ft./10 ft. (20 ft. with vine)
@@ -72,7 +74,7 @@ An assassin vine uses simple tactics. It lies still until prey comes within reac
 
 **Entangle (Su)**: An assassin vine can animate plants within 30 feet of itself as a free action (Ref DC 13 partial). The effect lasts until the vine dies or decides to end it (also a free action). The save DC is Wisdom-based. The ability is otherwise similar to [[rangoric-srd/spells/Entangle|entangle]] (caster level 4th).
 
-**Improved Grab (Ex)**: To use this ability, an assassin vine must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
+**Improved Grab (Ex)**: To use this ability, an assassin vine must hit with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
 
 **Blindsight (Ex)**: Assassin vines have no visual organs but can ascertain all foes within 30 feet using sound, scent, and vibration.
 

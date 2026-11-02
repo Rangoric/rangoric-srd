@@ -7,7 +7,9 @@ hit-dice: "21d12 (130 hp)"
 initiative: "+7 (+3 Dex, +4 Improved Initiative)"
 speed: "Fly 180 ft. (perfect)"
 armor-class: "51 (+4 size, +3 Dex, +5 natural armor, +8 bracers of armor, +2 ring of protection, +21 insight)"
-base-attack-grapple: "+10/-2"
+base-attack: "+10"
+cmb: "+9"
+cmd: "40"
 attack: "Touch +35 (10d6+20 plus paralyzing touch) melee"
 full-attack: "Touch +35 (10d6+20 plus paralyzing touch) melee"
 space-reach: "1 ft./0 ft."
@@ -41,7 +43,7 @@ Hit Dice: 21d12 (130 hp)    
 Initiative: +7 (+3 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
 Speed: Fly 180 ft. (perfect)      
 AC: 51 (+4 size, +3 Dex, +5 natural armor, +8 bracers of armor, +2 ring of protection, +21 insight)      
-Base Attack/Grapple: +10/-2     
+Base Attack: +10; CMB: +9; CMD: 40     
 Attack: Touch +35 (10d6+20 plus paralyzing touch) melee     
 Full Attack: Touch +35 (10d6+20 plus paralyzing touch) melee     
 Space/Reach: 1 ft./0 ft.      

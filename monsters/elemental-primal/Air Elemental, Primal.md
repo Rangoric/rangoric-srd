@@ -11,7 +11,9 @@ hit-dice: "64d8+576 (944 hp)"
 initiative: "+24 (+16 Dex, +8 Superior Initiative)"
 speed: "Fly 100 ft. (perfect)"
 armor-class: "66 (-8 size, +16 Dex, +48 natural)"
-base-attack-grapple: "+48/+75"
+base-attack: "+48"
+cmb: "+67"
+cmd: "94"
 attack: "Slam +57 (4d8+16) melee"
 full-attack: "2 Slams +57 (4d8+16) melee"
 space-reach: "30 ft./30 ft."
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +24 (+16 Dex, +8 [[rangoric-srd/feats/Superior Initiative|Superior Initiative]])
   - **Speed**: Fly 100 ft. (perfect)
   - **Armor Class**: 66 (-8 size, +16 Dex, +48 natural)
-  - **Base Attack/Grapple**: +48/+75
+  - **Base Attack**: +48; **CMB**: +67; **CMD**: 94
   - **Attack**: Slam +57 (4d8+16) melee
   - **Full Attack**: 2 Slams +57 (4d8+16) melee
   - **Space/Reach**: 30 ft./30 ft.

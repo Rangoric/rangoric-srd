@@ -7,7 +7,9 @@ hit-dice: "1d10+1 (6 hp)"
 initiative: "+4"
 speed: "20 ft. (4 squares), fly 30 ft. (poor)"
 armor-class: "17 (+1 size, +6 natural), touch 11, flat-footed 17"
-base-attack-grapple: "+1/+0"
+base-attack: "+1"
+cmb: "+3 (+7 grapple)"
+cmd: "13 (can't be tripped)"
 attack: "Slam +5 melee (1d4+4)"
 full-attack: "Slam +5 melee (1d4+4)"
 space-reach: "5 ft./5 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +4
   - **Speed**: 20 ft. (4 squares), fly 30 ft. (poor)
   - **Armor Class**: 17 (+1 size, +6 natural), touch 11, flat-footed 17
-  - **Base Attack/Grapple**: +1/+0
+  - **Base Attack**: +1; **CMB**: +3 (+7 grapple); **CMD**: 13 (can't be tripped)
   - **Attack**: Slam +5 melee (1d4+4)
   - **Full Attack**: Slam +5 melee (1d4+4)
   - **Space/Reach**: 5 ft./5 ft.
@@ -68,7 +70,7 @@ A darkmantle attacks by dropping onto its prey and wrapping its tentacles around
 
 **Darkness (Su)**: Once per day a darkmantle can cause [[rangoric-srd/spells/Darkness|darkness]] as the darkness spell (caster level 5th). It most often uses this ability just before attacking.
 
-**Improved Grab (Ex)**: To use this ability, a darkmantle must hit a Large or smaller creature with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it wins the grapple check, it attaches to the opponent’s head and can constrict.
+**Improved Grab (Ex)**: To use this ability, a darkmantle must hit a Large or smaller creature with its slam attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it attaches to the opponent’s head and can constrict.
 
 **Constrict (Ex)**: A darkmantle deals 1d4+4 points of damage with a successful [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] check.
 

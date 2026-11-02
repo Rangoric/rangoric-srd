@@ -11,7 +11,9 @@ hit-dice: "9d8+18 (58 hp)"
 initiative: "+1"
 speed: "20 ft. (4 squares)"
 armor-class: "18 (+1 Dex, +7 natural), touch 11, flat-footed 17"
-base-attack-grapple: "+9/+11"
+base-attack: "+9"
+cmb: "+11 (+15 grapple)"
+cmd: "22 (can't be tripped)"
 attack: "Spear +11 melee (1d8+3/x3 plus 1d6 fire)"
 full-attack: "Spear +11/+6 melee (1d8+3/x3 plus 1d6 fire) and tail slap +9 melee (2d6+1 plus 1d6 fire)"
 space-reach: "5 ft./5 ft. (10 ft. with tail)"
@@ -44,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 18 (+1 Dex, +7 natural), touch 11, flat-footed 17
-  - **Base Attack/Grapple**: +9/+11
+  - **Base Attack**: +9; **CMB**: +11 (+15 grapple); **CMD**: 22 (can't be tripped)
   - **Attack**: Spear +11 melee (1d8+3/x3 plus 1d6 fire)
   - **Full Attack**: Spear +11/+6 melee (1d8+3/x3 plus 1d6 fire) and tail slap +9 melee (2d6+1 plus 1d6 fire)
   - **Space/Reach**: 5 ft./5 ft. (10 ft. with tail)

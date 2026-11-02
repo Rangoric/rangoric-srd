@@ -8,7 +8,9 @@ hit-dice: "10d10+30 (85 hp)"
 initiative: "+0"
 speed: "30 ft. (6 squares), fly 60 ft. (poor)"
 armor-class: "20 (–1 size, +11 natural), touch 9, flat-footed 20"
-base-attack-grapple: "+10/+20"
+base-attack: "+10"
+cmb: "+17"
+cmd: "27 (31 vs. trip)"
 attack: "Gore +15 melee (2d6+6)"
 full-attack: "Gore +15 melee (2d6+6) and 2 claws +10 melee (1d6+3)"
 space-reach: "10 ft./5 ft."
@@ -41,7 +43,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares), fly 60 ft. (poor)
   - **Armor Class**: 20 (–1 size, +11 natural), touch 9, flat-footed 20
-  - **Base Attack/Grapple**: +10/+20
+  - **Base Attack**: +10; **CMB**: +17; **CMD**: 27 (31 vs. trip)
   - **Attack**: Gore +15 melee (2d6+6)
   - **Full Attack**: Gore +15 melee (2d6+6) and 2 claws +10 melee (1d6+3)
   - **Space/Reach**: 10 ft./5 ft.

@@ -10,7 +10,9 @@ hit-dice: "2d8+2 (11 hp)"
 initiative: "+1"
 speed: "20 ft. in scale mail (4 squares); base speed 30 ft."
 armor-class: "23 (+1 Dex, +6 natural, +4 scale mail, +2 heavy shield), touch 11, flat-footed 22"
-base-attack-grapple: "+2/+3"
+base-attack: "+2"
+cmb: "+3"
+cmd: "14"
 attack: "Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire)"
 full-attack: "Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire)"
 space-reach: "5 ft./5 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 20 ft. in scale mail (4 squares); base speed 30 ft.
   - **Armor Class**: 23 (+1 Dex, +6 natural, +4 scale mail, +2 heavy shield), touch 11, flat-footed 22
-  - **Base Attack/Grapple**: +2/+3
+  - **Base Attack**: +2; **CMB**: +3; **CMD**: 14
   - **Attack**: Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire)
   - **Full Attack**: Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire)
   - **Space/Reach**: 5 ft./5 ft.

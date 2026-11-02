@@ -12,7 +12,9 @@ hit-dice: "22d8+110 (209 hp)"
 initiative: "+9"
 speed: "50 ft. (10 squares), fly 150 ft. (good)"
 armor-class: "35 (–1 size, +5 Dex, +21 natural), touch 14, flat-footed 30"
-base-attack-grapple: "+22/+35"
+base-attack: "+22"
+cmb: "+32"
+cmd: "48"
 attack: "+5 dancing greatsword +35 melee (3d6+18/19–20) or +2 composite longbow (+5 Str bonus) +28 ranged (2d6+7/x3 plus slaying) or slam +30 melee (2d8+13)"
 full-attack: "+5 dancing greatsword +35/+30/+25/+20 melee (3d6+18/19–20) or +2 composite longbow (+5 Str bonus) +28/+23/+18/+13 ranged (2d6+7/x3 plus slaying) or slam +30 melee (2d8+13)"
 space-reach: "10 ft./10 ft."
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +9
   - **Speed**: 50 ft. (10 squares), fly 150 ft. (good)
   - **Armor Class**: 35 (–1 size, +5 Dex, +21 natural), touch 14, flat-footed 30
-  - **Base Attack/Grapple**: +22/+35
+  - **Base Attack**: +22; **CMB**: +32; **CMD**: 48
   - **Attack**: +5 dancing greatsword +35 melee (3d6+18/19–20) or +2 composite longbow (+5 Str bonus) +28 ranged (2d6+7/x3 plus slaying) or slam +30 melee (2d8+13)
   - **Full Attack**: +5 dancing greatsword +35/+30/+25/+20 melee (3d6+18/19–20) or +2 composite longbow (+5 Str bonus) +28/+23/+18/+13 ranged (2d6+7/x3 plus slaying) or slam +30 melee (2d8+13)
   - **Space/Reach**: 10 ft./10 ft.

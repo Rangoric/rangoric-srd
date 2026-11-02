@@ -10,7 +10,9 @@ hit-dice: 8d8+8 (44 hp)
 initiative: "+5"
 speed: 20 ft. (4 squares)
 armor-class: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
-base-attack-grapple: +8/+10
+base-attack: "+8"
+cmb: "+10"
+cmd: "22 (can't be tripped)"
 attack: Claw +10 melee (1d3+2 plus corporeal instability)
 full-attack: 2 claws +10 melee (1d3+2 plus corporeal instability)
 space-reach: 5 ft./5 ft.
@@ -45,7 +47,7 @@ tags:
   - **Initiative**: +5
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
-  - **Base Attack/Grapple**: +8/+10
+  - **Base Attack**: +8; **CMB**: +10; **CMD**: 22 (can't be tripped)
   - **Attack**: Claw +10 melee (1d3+2 plus corporeal instability)
   - **Full Attack**: 2 claws +10 melee (1d3+2 plus corporeal instability)
   - **Space/Reach**: 5 ft./5 ft.

@@ -12,7 +12,9 @@ hit-dice: "6d8+18 (45 hp)"
 initiative: "+6"
 speed: "40 ft. (8 squares)"
 armor-class: "19 (+2 Dex, +7 natural) touch 12, flat-footed 17"
-base-attack-grapple: "+6/+8"
+base-attack: "+6"
+cmb: "+8"
+cmd: "20"
 attack: "Glaive +9 melee (1d10+3 plus infernal wound) or claw +8 melee (1d6+2)"
 full-attack: "Glaive +9/+4 melee (1d10+3 plus infernal wound) or 2 claws +8 melee (1d6+2)"
 space-reach: "5 ft./5 ft. (10 ft. with glaive)"
@@ -45,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 19 (+2 Dex, +7 natural) touch 12, flat-footed 17
-  - **Base Attack/Grapple**: +6/+8
+  - **Base Attack**: +6; **CMB**: +8; **CMD**: 20
   - **Attack**: Glaive +9 melee (1d10+3 plus infernal wound) or claw +8 melee (1d6+2)
   - **Full Attack**: Glaive +9/+4 melee (1d10+3 plus infernal wound) or 2 claws +8 melee (1d6+2)
   - **Space/Reach**: 5 ft./5 ft. (10 ft. with glaive)

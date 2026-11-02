@@ -9,7 +9,9 @@ hit-dice: "1d10-2 (3 hp)"
 initiative: "+2"
 speed: "15 ft. (3 squares), burrow 15 ft."
 armor-class: "14 (+2 size, +2 Dex), touch 14, flat-footed 12"
-base-attack-grapple: "+1/-11"
+base-attack: "+1"
+cmb: "+1"
+cmd: "7 (11 vs. trip)"
 attack: "Bite +5 melee (1d3-4)"
 full-attack: "Bite +5 melee (1d3-4)"
 space-reach: "2-1/2 ft./0 ft."
@@ -42,7 +44,7 @@ Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mag
 **Initiative:** +2     
 **Speed:** 15 ft. (3 squares), burrow 15 ft.     
 **Armor Class:** 14 (+2 size, +2 Dex), touch 14, flat-footed 12     
-**Base Attack/Grapple:** +1/-11     
+**Base Attack:** +1; **CMB:** +1; **CMD:** 7 (11 vs. trip)     
 **Attack:** Bite +5 melee (1d3-4)     
 Full **Attack:** Bite +5 melee (1d3-4)     
 **Space/Reach:** 2-1/2 ft./0 ft.     

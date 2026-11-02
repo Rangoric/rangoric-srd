@@ -10,7 +10,9 @@ hit-dice: "17d8+102 (178 hp)"
 initiative: "+1"
 speed: "50 ft. (10 squares)"
 armor-class: "25 (–2 size, +1 Dex, +12 natural, +4 chain shirt), touch 9, flat-footed 24"
-base-attack-grapple: "+12/+32"
+base-attack: "+12"
+cmb: "+26"
+cmd: "37"
 attack: "Gargantuan morningstar +22 melee (4d6+18) or slam +22 melee (1d6+12) or rock +12 ranged (2d8+12)"
 full-attack: "Gargantuan morningstar +22/+17/+12 melee (4d6+18) or 2 slams +22 melee (1d6+12) or rock +12 ranged (2d8+12)"
 space-reach: "15 ft./15 ft."
@@ -43,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 50 ft. (10 squares)
   - **Armor Class**: 25 (–2 size, +1 Dex, +12 natural, +4 chain shirt), touch 9, flat-footed 24
-  - **Base Attack/Grapple**: +12/+32
+  - **Base Attack**: +12; **CMB**: +26; **CMD**: 37
   - **Attack**: Gargantuan morningstar +22 melee (4d6+18) or slam +22 melee (1d6+12) or rock +12 ranged (2d8+12)
   - **Full Attack**: Gargantuan morningstar +22/+17/+12 melee (4d6+18) or 2 slams +22 melee (1d6+12) or rock +12 ranged (2d8+12)
   - **Space/Reach**: 15 ft./15 ft.

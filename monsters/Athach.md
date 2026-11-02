@@ -7,7 +7,9 @@ hit-dice: "14d8+70 (133 hp)"
 initiative: "+1"
 speed: "35 ft. in hide armor (7 squares); base speed 50 ft."
 armor-class: "20 (–2 size, +1 Dex, +3 hide armor, +8 natural), touch 9, flat-footed 19"
-base-attack-grapple: "+10/+26"
+base-attack: "+10"
+cmb: "+20"
+cmd: "31"
 attack: "Morningstar +16 melee (3d6+8) or rock +9 ranged (2d6+8)"
 full-attack: "Morningstar +12/+7 melee (3d6+8), and 2 morningstars +12 melee (3d6+4), and bite +12 melee (2d8+4 plus poison); or rock +5 ranged (2d6+8), and 2 rocks +5 ranged (2d6+4)"
 space-reach: "15 ft./15 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 35 ft. in hide armor (7 squares); base speed 50 ft.
   - **Armor Class**: 20 (–2 size, +1 Dex, +3 hide armor, +8 natural), touch 9, flat-footed 19  
-  - **Base Attack/Grapple**: +10/+26
+  - **Base Attack**: +10; **CMB**: +20; **CMD**: 31
   - Attack: Morningstar +16 melee (3d6+8) or rock +9 ranged (2d6+8)
   - **Full Attack**: Morningstar +12/+7 melee (3d6+8), and 2 morningstars +12 melee (3d6+4), and bite +12 melee (2d8+4 plus poison); or rock +5 ranged (2d6+8), and 2 rocks +5 ranged (2d6+4)
   - **Space/Reach**: 15 ft./15 ft.

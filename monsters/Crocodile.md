@@ -7,7 +7,9 @@ hit-dice: "3d8+9 (22 hp)"
 initiative: "+1"
 speed: "20 ft. (4 squares), swim 30 ft."
 armor-class: "15 (+1 Dex, +4 natural), touch 11, flat-footed 14"
-base-attack-grapple: "+2/+6"
+base-attack: "+2"
+cmb: "+6 (+10 grapple)"
+cmd: "17 (21 vs. trip)"
 attack: "Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6)"
 full-attack: "Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6)"
 space-reach: "5 ft./5 ft."
@@ -38,7 +40,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 20 ft. (4 squares), swim 30 ft.
   - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack/Grapple**: +2/+6
+  - **Base Attack**: +2; **CMB**: +6 (+10 grapple); **CMD**: 17 (21 vs. trip)
   - **Attack**: Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6)
   - **Full Attack**: Bite +6 melee (1d8+6) or tail slap +6 melee (1d12+6)
   - **Space/Reach**: 5 ft./5 ft.
@@ -58,7 +60,7 @@ Crocodiles are aggressive predators 11 to 12 feet long. They lie mostly submerge
 
 #### Combat
 
-**Improved Grab (Ex)**: To use this ability, a crocodile must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, the crocodile establishes a hold on the opponent with its mouth and drags it into deep water, attempting to pin it to the bottom.
+**Improved Grab (Ex)**: To use this ability, a crocodile must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, the crocodile establishes a hold on the opponent with its mouth and drags it into deep water, attempting to pin it to the bottom.
 
 **Hold Breath (Ex)**: A crocodile can hold its breath for a number of rounds equal to 4 x its Constitution score before it risks drowning.
 

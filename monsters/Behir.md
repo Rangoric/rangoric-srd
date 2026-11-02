@@ -7,7 +7,9 @@ hit-dice: "9d10+45 (94 hp)"
 initiative: "+1"
 speed: "40 ft. (8 squares), climb 15 ft."
 armor-class: "20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19"
-base-attack-grapple: "+9/+25"
+base-attack: "+9"
+cmb: "+19 (+23 grapple)"
+cmd: "30 (can't be tripped)"
 attack: "Bite +15 melee (2d4+12)"
 full-attack: "Bite +15 melee (2d4+12)"
 space-reach: "15 ft./10 ft."
@@ -40,7 +42,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +1
   - **Speed**: 40 ft. (8 squares), climb 15 ft.
   - **Armor Class**: 20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19
-  - **Base Attack/Grapple**: +9/+25
+  - **Base Attack**: +9; **CMB**: +19 (+23 grapple); **CMD**: 30 (can't be tripped)
   - **Attack**: Bite +15 melee (2d4+12)
   - **Full Attack**: Bite +15 melee (2d4+12)
   - **Space/Reach**: 15 ft./10 ft.
@@ -72,7 +74,7 @@ A behir usually bites and [[rangoric-srd/combat/Combat Special Attacks#Grapple|g
 
 **Improved Grab (Ex)**: To use this ability, a behir must hit a creature of any size with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
-If it wins the grapple check, it it establishes a hold and can attempt to constrict the opponent or swallow the opponent in the following round.
+If it succeeds on the grapple check, it it establishes a hold and can attempt to constrict the opponent or swallow the opponent in the following round.
 
 **Rake (Ex)**: Six claws, attack bonus +15 melee, damage 1d4+4.
 
