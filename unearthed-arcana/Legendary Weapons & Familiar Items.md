@@ -45,9 +45,9 @@ A scion who qualifies for the appropriate Weapon Specialization feat normally (t
 
 That said, under ordinary circumstances, legendary weapons do not break: Any attempt to sunder such an item automatically fails, and the weapon is treated as having immunity to all effects that could otherwise destroy it (such as a [[rangoric-srd/spells/Disintegrate|disintegrate]] spell, a dragon’s breath weapon, and so on).
 
-If an attacker is foolish enough to attempt to sunder a legendary weapon, the combatants should still make the opposed attack rolls, however. If the scion wins, the scion may immediately deal damage to the attacker’s weapon as though the scion had initiated the attack.
+If an attacker is foolish enough to attempt to sunder a legendary weapon, the attacker should still make the [[rangoric-srd/combat/Combat Maneuvers#Sunder|combat maneuver check]], however. If it fails, the scion may immediately deal damage to the attacker’s weapon as though the scion had initiated the attack.
 
-The only exception to this rule is if the person attacking the legendary weapon is herself wielding a legendary weapon. In this case, the attacker may deal damage to the defender’s weapon if she wins the opposed attack roll. However, the defender also immediately makes his own sunder attempt against the attacker’s legendary weapon. If the defender wins this second opposed roll, he may deal damage to the attacker’s weapon — even if his own weapon was damaged or destroyed by the attacker.
+The only exception to this rule is if the person attacking the legendary weapon is herself wielding a legendary weapon. In this case, the attacker may deal damage to the defender’s weapon if her combat maneuver check succeeds. However, the defender also immediately makes his own sunder attempt against the attacker’s legendary weapon. If the defender’s check succeeds, he may deal damage to the attacker’s weapon — even if his own weapon was damaged or destroyed by the attacker.
 
 Repairing a broken legendary weapon should never be easy. It should be the result of an epic quest, perhaps involving aid from other planes, arduous rituals, and perilous voyages.
 

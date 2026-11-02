@@ -383,7 +383,7 @@ You are very slender for your race.
 
 **Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Skills All|Escape Artist]] checks.
 
-**Drawback:** You take a -2 penalty on Strength checks to avoid being [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Special Attacks#Overrun|overrun]].
+**Drawback:** You take a -2 penalty to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]].
 
 **Roleplaying Ideas:** Skinny characters tend to be pushed around by tougher types, so those with this trait might be shy, or they might be very defensive when faced with such situations.
 
@@ -391,7 +391,7 @@ You are very slender for your race.
 
 You are less adept at grappling and wrestling than others of your size and strength, but you are adept at slipping out of another's hold.
 
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks to escape a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] and on grapple checks to escape a grapple or avoid being grappled.
+**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks to escape a [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] and on grapple checks to escape a grapple, and to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against being grappled.
 
 **Drawback:** You take a -1 penalty on all other [[rangoric-srd/combat/Combat Special Attacks#Grapple|grapple]] checks.
 
@@ -433,7 +433,7 @@ You have a gift for casting spells from a certain school. Although your spells f
 
 You are heavy for your race.
 
-**Benefit:** You gain a +2 bonus on Strength checks to avoid being [[rangoric-srd/combat/Combat Special Attacks#Bull Rush|bull rushed]] or [[rangoric-srd/combat/Combat Special Attacks#Overrun|overrun]].
+**Benefit:** You gain a +2 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]].
 
 **Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks.
 

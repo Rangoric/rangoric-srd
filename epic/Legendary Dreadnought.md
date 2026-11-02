@@ -56,9 +56,9 @@ Unstoppable (Ex): At 1st level, the legendary dreadnought can concentrate his or
 
 Unmovable (Ex): At 2nd level, the legendary dreadnought can concentrate his or her power, making him or herself unmovable once per day, plus one additional time per day every five levels thereafter.  This power grants the character a +20 bonus on any one of the following:
 
-A grapple check made to avoid being grabbed with the improved grab ability.
+Its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against a grapple started with the improved grab ability.
 
-A Strength check to avoid the effects of a bull rush, trip attempt, or similar effect.
+Its CMD against a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]], [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]], or similar effect.
 
 A Strength check against any effect that would move the character either physically or magically.
 

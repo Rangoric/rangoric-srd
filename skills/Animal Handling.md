@@ -201,6 +201,6 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **10 Ranks**: When you spur your mount, its speed is increased by 20 feet, and it gains a +2 bonus on Reflex saves and a +2 dodge bonus to AC.
 
-**15 Ranks**: When an opponent targets you or your mount with a bull rush, drag, overrun, reposition, or trip combat maneuver while you are mounted, you can substitute the result of a Animal Handling check in place of your (or your mount's) CMD.
+**15 Ranks**: When an opponent targets you or your mount with a bull rush, drag, overrun, reposition, or trip [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] while you are mounted, you can substitute the result of a Animal Handling check in place of your (or your mount's) CMD.
 
 **20 Ranks**: When you spur your mount, its speed is increased by 30 feet, and it gains a +4 bonus on Reflex saves and a +4 dodge bonus to AC.
