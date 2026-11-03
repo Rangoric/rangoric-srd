@@ -1,14 +1,15 @@
 ---
 srd-type: "class"
 section: "Prestige Classes"
-hit-die: "d8"
-skill-points: "4 + Int modifier"
+hit-die: "d10"
+skill-points: "6 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Horizon Walker|Horizon Walker (PF1)]]"
   - "[[fantasy srd 3.5/prestige-classes/Horizon Walker|Horizon Walker (3.5)]]"
+  - "[[path srd 3.5/classes/Horizon Walker|Horizon Walker (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-02
 tags: [rangoric, rangoric/class]
 ---
 
@@ -16,7 +17,15 @@ tags: [rangoric, rangoric/class]
 
 ### Horizon Walker
 
-**Hit Die**: d8.
+Those whose wanderlust drives them to push the boundary of safe environments sometimes seek the calling of the horizon walker. Horizon walkers are masters of travel, always seeking to find the safe ways through inhospitable terrain. They are comfortable in places others speak of only in hushed whispers, and they can both venture forth onto untrod paths themselves and guide the less-traveled through such hazardous lands.
+
+Though rangers are most likely to be attracted to the ever-wandering life common to horizon walkers, barbarians, fighters, and rogues have also been known to find it appealing. Horizon walkers are most common in areas on the edge of civilization, where they can easily spend time away from the known and boring streets of settled lands.
+
+**Role**: Horizon walkers have the accuracy and resilience to face frontline combat. They also have the skills and abilities to make excellent scouts, often taking the role of the first member of a group into danger and the last one out. Of course, walkers shine when adventuring in areas that match their many favored terrains, but many of the tricks they pick up in specific regions have application in a wide range of situations, allowing a horizon walker to be more mobile and resourceful than typical combatants.
+
+**Alignment**: Anyone can crave new vistas and constant travel, and thus a horizon walker can be of any alignment.
+
+**Hit Die**: d10.
 
 ###### Requirements
 
@@ -28,9 +37,9 @@ To qualify to become a horizon walker, a character must fulfill all the followin
 
 ###### Class Skills
 
-The horizon walker’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
+The horizon walker’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
-**Skill Points at Each Level**: 4 + Int modifier.
+**Skill Points at Each Level**: 6 + Int modifier.
 
 **Table: The Horizon Walker**
 
