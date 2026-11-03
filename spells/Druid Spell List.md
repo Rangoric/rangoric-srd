@@ -68,6 +68,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cat’s Grace\|Cat’s Grace]]:                         | Subject gains +4 to Dex for 1 min./level.                                                                                                   |
 | [[rangoric-srd/spells/Chill Metal\|Chill Metal]]:                         | Cold metal damages those who touch it.                                                                                                      |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                       | Stops poison from harming subject for 1 hour/level.                                                                                         |
+| [[rangoric-srd/spells/Feast of Ashes\|Feast of Ashes]] (M): | A target starves with an insatiable hunger. |
 | [[rangoric-srd/spells/Fire Trap\|Fire Trap]] (M):                         | Opened object deals 1d4 +1/level damage.                                                                                                    |
 | [[rangoric-srd/spells/Flame Blade\|Flame Blade]]:                         | Touch attack deals 1d8 +1/two levels damage.                                                                                                |
 | [[rangoric-srd/spells/Flaming Sphere\|Flaming Sphere]]:                   | Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.                                                                              |
