@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 Prestige classes offer a new form of multiclassing. Unlike the basic classes, characters must meet Requirements before they can take their first level of a prestige class. The rules for level advancement apply to this system, meaning the first step of advancement is always choosing a class. If a character does not meet the Requirements for a prestige class before that first step, that character cannot take the first level of that prestige class. Taking a prestige class does not incur the experience point penalties normally associated with multiclassing.  
 
-There are 16 prestige classes here. They are:
+There are 17 prestige classes here. They are:
 
 1.  [[rangoric-srd/prestige-classes/Arcane Archer|Arcane Archer]]
 2.  [[rangoric-srd/prestige-classes/Arcane Trickster|Arcane Trickster]]
@@ -28,9 +28,10 @@ There are 16 prestige classes here. They are:
 11. [[rangoric-srd/prestige-classes/Loremaster|Loremaster]]
 12. [[rangoric-srd/prestige-classes/Master Spy|Master Spy]]
 13. [[rangoric-srd/prestige-classes/Mystic Theurge|Mystic Theurge]]
-14. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
-15. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
-16. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
+14. [[rangoric-srd/prestige-classes/Nature Warden|Nature Warden]]
+15. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
+16. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
+17. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
 
 ###### Definitions of Terms
 
