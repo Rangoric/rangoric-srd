@@ -81,7 +81,7 @@ At 5th level, and again at 10th level, a blackguard may smite good one additiona
 
 **Aura of Despair (Su)**: Beginning at 3rd level, the blackguard radiates a malign aura that causes enemies within 10 feet of him to take a –2 penalty on all saving throws.
 
-**Command Undead (Su)**: When a blackguard reaches 3rd level, he gains the supernatural ability to command and rebuke undead. He commands undead as would a cleric of two levels lower.
+**Command Undead (Su)**: When a blackguard reaches 3rd level, he gains the supernatural ability to command and rebuke undead. He commands undead as would a cleric of two levels lower. He also gains the ability to channel negative energy ([[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]]) a number of times per day equal to 3 + his Charisma modifier, with an effective cleric level two lower than his blackguard level; each rebuke or command attempt spends one of these uses.
 
 **Sneak Attack**: This ability, gained at 4th level, is like the rogue ability of the same name. The extra damage increases by +1d6 every third level beyond 4th (7th and 10th). If a blackguard gets a sneak attack bonus from another source the bonuses on damage stack.
 
