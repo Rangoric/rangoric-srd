@@ -22,7 +22,7 @@ There are 15 prestige classes defined in the SRD. They are:
 5.  Blackguard
 6.  Dragon Disciple
 7.  Duelist
-8.  Dwarven Defender
+8.  Stalwart Defender
 9.  Eldritch Knight
 10. Hierophant
 11. Horizon Walker
