@@ -71,6 +71,7 @@ Some full-round actions can be taken as standard actions, but only in situations
 | Ready (triggers a standard action)               | No                        |
 | Sunder an object (attack)                        | Maybe (3)                 |
 | Total defense                                    | No                        |
+| Channel energy                                   | No                        |
 | Turn or rebuke undead                            | No                        |
 | Use extraordinary ability                        | No                        |
 | Use skill that takes 1 action                    | Usually                   |

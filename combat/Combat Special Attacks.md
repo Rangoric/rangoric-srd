@@ -2,6 +2,7 @@
 srd-type: "overview"
 section: "Combat"
 based-on:
+  - "[[path srd 3.5/classes/Cleric|Cleric (PF1)]]"
   - "[[fantasy srd 3.5/combat/Combat Special Attacks|Combat Special Attacks (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/combat/Special Attacks|Special Attacks (PF1)]]"
 status: draft
@@ -33,6 +34,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/combat/Combat Maneuvers#Sunder\|Sunder]] | Damage an item an opponent holds or wears (combat maneuver) |
 | [[#Throw Splash Weapon\|Throw splash weapon]]    | Throw container of dangerous liquid at target                      |
 | [[rangoric-srd/combat/Combat Maneuvers#Trip\|Trip]] | Knock an opponent prone (combat maneuver) |
+| [[#Channel Energy\|Channel energy]] | Release positive (or negative) energy in a burst that heals or harms |
 | [[#Turn or Rebuke Undead\|Turn (rebuke) undead]] | Channel positive (or negative) energy to turn away (or awe) undead |
 | [[#Two-Weapon Fighting\|Two-weapon fighting]]    | Fight with a weapon in each hand                                   |
 
@@ -130,15 +132,25 @@ After you determine where the weapon landed, it deals splash damage to all creat
 
 A trip is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[rangoric-srd/combat/Combat Maneuvers#Trip|Trip]].
 
+##### Channel Energy
+
+Some characters can release a wave of energy by channeling the power of their faith through a holy (or unholy) symbol. This energy can be used to cause or heal damage, depending on the type of energy channeled and the creatures targeted. Each class that grants channel energy says how many times per day it can be used and the character’s level for channeling (an effective cleric level).
+
+**Positive and Negative Energy**: Positive energy can deal damage to undead creatures or heal living creatures. Negative energy can deal damage to living creatures or heal undead creatures. A class that grants channel energy says which kind a character channels.
+
+**Effect**: Channeling energy causes a burst that affects all creatures of one type (either undead or living) in a 30-foot radius centered on the channeler. The amount of damage dealt or healed is equal to 1d6 points of damage plus 1d6 points of damage for every two effective cleric levels beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures that take damage from channeled energy receive a Will save to halve the damage. The DC of this save is equal to 10 + 1/2 the channeler’s effective cleric level + the channeler’s Charisma modifier. Creatures healed by channeled energy cannot exceed their maximum hit point total—all excess healing is lost. Channeling energy is a standard action that does not provoke an attack of opportunity. The channeler can choose whether or not to include herself in this effect, and must be able to present her holy symbol to use this ability.
+
+**Turning Is a Use of Channel Energy**: Instead of a burst, a character with channel energy can spend one use of it to make a turning attempt (see [[#Turn or Rebuke Undead|Turn or Rebuke Undead]]): to turn, rebuke, command, or bolster undead, to dispel turning, or to turn other creatures she has the power to turn. Turning attempts have no uses per day of their own. Anything that grants extra turning attempts (such as the Extra Turning feat) grants that many extra uses of channel energy, and anything that spends turning attempts (such as the Divine Might feat) spends uses of channel energy. ^channel-energy
+
 ##### Turn or Rebuke Undead
 
-Good clerics and paladins and some neutral clerics can channel positive energy, which can halt, drive off (rout), or destroy undead. Evil clerics and some neutral clerics can channel negative energy, which can halt, awe (rebuke), control (command), or bolster undead. Regardless of the effect, the general term for the activity is “turning.” When attempting to exercise their divine control over these creatures, characters make turning checks.
+Good clerics and paladins and some neutral clerics can channel positive energy, which can halt, drive off (rout), or destroy undead. Evil clerics and some neutral clerics can channel negative energy, which can halt, awe (rebuke), control (command), or bolster undead. Regardless of the effect, the general term for the activity is “turning.” Each turning attempt spends one use of [[#Channel Energy|channel energy]]. When attempting to exercise their divine control over these creatures, characters make turning checks.
 
 ###### Turning Checks
 
 Turning undead is a supernatural ability that a character can perform as a standard action. It does not provoke attacks of opportunity. You must present your holy symbol to turn undead. Turning is considered an attack.
 
-**Times per Day**: You may attempt to turn undead a number of times per day equal to 3 + your Charisma modifier. You can increase this number by taking the Extra Turning feat.
+**Times per Day**: Each turning attempt spends one use of your [[#Channel Energy|channel energy]], so you can make as many attempts as you have uses left. The Extra Turning feat gives you more uses.
 
 **Range**: You turn the closest turnable undead first, and you can’t turn undead that are more than 60 feet away or that have total cover relative to you. You don’t need line of sight to a target, but you do need line of effect.
 
