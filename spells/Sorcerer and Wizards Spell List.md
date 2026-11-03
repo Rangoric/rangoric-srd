@@ -282,6 +282,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Beast Shape III\|Beast Shape III]] (M): | You take the form of a Diminutive or Huge animal, or Small or Medium magical beast. |
 |               | [[rangoric-srd/spells/Elemental Body II\|Elemental Body II]] (M): | You become a Small or Medium elemental. |
 |               | [[rangoric-srd/spells/Fabricate\|Fabricate]]:                           | Transforms raw materials into finished items.                                                          |
+|               | [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: |  |
 |               | [[rangoric-srd/spells/Overland Flight\|Overland Flight]]:               | You fly at a speed of 40 ft. and can hustle over long distances.                                       |
 |               | [[rangoric-srd/spells/Passwall\|Passwall]]:                             | Creates passage through wood or stone wall.                                                            |
 |               | [[rangoric-srd/spells/Plant Shape I\|Plant Shape I]] (M): | Turns you into a Small or Medium plant. |
