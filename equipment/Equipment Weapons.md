@@ -2,6 +2,7 @@
 srd-type: "overview"
 section: "Equipment"
 based-on:
+  - "[[path srd 3.5/classes/Fighter|Fighter (PF1)]]"
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
 status: draft
 change: modified
@@ -52,6 +53,38 @@ A weapon’s size category isn’t the same as its size as an object. Instead, a
 The measure of how much effort it takes to use a weapon (whether the weapon is designated as a light, one-handed, or two-handed weapon for a particular wielder) is altered by one step for each size category of difference between the wielder’s size and the size of the creature for which the weapon was designed. If a weapon’s designation would be changed to something other than light, one-handed, or two-handed by this alteration, the creature can’t wield the weapon at all.
 
 **Improvised Weapons**: Sometimes objects not crafted to be weapons nonetheless see use in combat. Because such objects are not designed for this use, any creature that uses one in combat is considered to be nonproficient with it and takes a –4 penalty on attack rolls made with that object. To determine the size category and appropriate damage for an improvised weapon, compare its relative size and damage potential to the weapon list to find a reasonable match. An improvised weapon scores a threat on a natural roll of 20 and deals double damage on a critical hit. An improvised thrown weapon has a range increment of 10 feet.
+
+##### Weapon Groups
+
+Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-training|fighter’s weapon training]], work with a group of weapons. The groups are defined as follows (GMs may add other weapons to these groups, or add entirely new groups). These groups are separate from the Weapon Group feats, which grant proficiency. ^weapon-groups
+
+**Axes**: battleaxe, dwarven waraxe, greataxe, handaxe, heavy pick, light pick, orc double axe, and throwing axe.
+
+**Blades, Heavy**: bastard sword, falchion, greatsword, longsword, scimitar, scythe, and two-bladed sword.
+
+**Blades, Light**: dagger, kama, kukri, rapier, sickle, and short sword.
+
+**Bows**: composite longbow, composite shortbow, longbow, and shortbow.
+
+**Close**: gauntlet, heavy shield, light shield, punching dagger, sap, spiked armor, spiked gauntlet, spiked shield, and unarmed strike.
+
+**Crossbows**: hand crossbow, heavy crossbow, light crossbow, heavy repeating crossbow, and light repeating crossbow.
+
+**Double**: dire flail, dwarven urgrosh, gnome hooked hammer, orc double axe, quarterstaff, and two-bladed sword.
+
+**Flails**: dire flail, flail, heavy flail, morningstar, nunchaku, spiked chain, and whip.
+
+**Hammers**: club, greatclub, heavy mace, light hammer, light mace, and warhammer.
+
+**Monk**: kama, nunchaku, quarterstaff, sai, shuriken, siangham, and unarmed strike.
+
+**Natural**: unarmed strike and all natural weapons, such as bite, claw, gore, tail, and wing.
+
+**Pole Arms**: glaive, guisarme, halberd, and ranseur.
+
+**Spears**: javelin, lance, longspear, shortspear, spear, and trident.
+
+**Thrown**: bolas, club, dagger, dart, javelin, light hammer, net, shortspear, shuriken, sling, spear, throwing axe, and trident.
 
 ##### Weapon Qualities
 
