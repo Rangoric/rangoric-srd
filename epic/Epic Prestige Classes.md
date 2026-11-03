@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/overview]
 [[#Epic Dragon Disciple|Dragon Disciple]]  
 [[#Epic Duelist|Duelist]]  
 
-[[#Epic Dwarven Defender|Dwarven Defender]]  
+[[#Epic Stalwart Defender|Stalwart Defender]]  
 [[#Epic Eldritch Knight|Eldritch Knight]]  
 [[#Epic Horizon Walker|Horizon Walker]]  
 
@@ -221,25 +221,25 @@ Table: The Epic Duelist
 | 19th  | Bonus feat          |
 | 20th  | Precise strike +4d6 |
 
-### Epic Dwarven Defender
+### Epic Stalwart Defender
 
 Hit Die: d12.
 
 Skill Points at Each Additional Level: 2 + Int modifier.
 
-Defensive Stance: The epic dwarven defender gains one additional defensive stance per day every two levels above 9th.
+Defensive Stance: The epic stalwart defender gains one additional defensive stance per day every two levels above 9th.
 
-Defensive Awareness: The dwarven defender’s defensive awareness bonus on saves against traps doesn’t increase after 10th level.
+Defensive Awareness: The stalwart defender’s defensive awareness bonus on saves against traps doesn’t increase after 10th level.
 
-Damage Reduction: The epic dwarven defender’s damage reduction increases by 3 points every four levels above 10th.
+Damage Reduction: The epic stalwart defender’s damage reduction increases by 3 points every four levels above 10th.
 
-Trap Sense (Ex): The epic dwarven defender’s bonus increases by +1 every four levels higher than 8th.
+Trap Sense (Ex): The epic stalwart defender’s bonus increases by +1 every four levels higher than 8th.
 
-Bonus Feats: The epic dwarven defender gains a bonus feat (selected from the list of epic dwarven defender feats) every five levels after 10th.
+Bonus Feats: The epic stalwart defender gains a bonus feat (selected from the list of epic stalwart defender feats) every five levels after 10th.
 
-Epic Dwarven Defender Bonus Feat List: Armor Skin, Bulwark of Defense, Damage Reduction, Devastating Critical, Energy Resistance, Epic Endurance, Epic Prowess, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Reflexes, Improved Dark-vision, Instant Reload, Mobile Defense, Overwhelming Critical, Perfect Health, Spellcasting Harrier.
+Epic Stalwart Defender Bonus Feat List: Armor Skin, Bulwark of Defense, Damage Reduction, Devastating Critical, Energy Resistance, Epic Endurance, Epic Prowess, Epic Toughness, Epic Weapon Focus, Fast Healing, Improved Combat Reflexes, Improved Dark-vision, Instant Reload, Mobile Defense, Overwhelming Critical, Perfect Health, Spellcasting Harrier.
 
-Table: The Epic Dwarven Defender
+Table: The Epic Stalwart Defender
 
 | Level | AC Bonus | Special                            |
 | ----- | -------- | ---------------------------------- |

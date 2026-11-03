@@ -74,7 +74,7 @@ Use the second coulumn if the class grants...
 
   - At least three supernatural or spell-like avilities. Examples: arcane archer, horizon walker, shadowdancer.
 
-For all other classes, use the thrid coulumn. Examples: dwarven defender, duelist.
+For all other classes, use the thrid coulumn. Examples: stalwart defender, duelist.
 
 ##### Magic Rating for Monsters
 
