@@ -13,23 +13,24 @@ tags: [rangoric, rangoric/overview]
 
 Prestige classes offer a new form of multiclassing. Unlike the basic classes, characters must meet Requirements before they can take their first level of a prestige class. The rules for level advancement apply to this system, meaning the first step of advancement is always choosing a class. If a character does not meet the Requirements for a prestige class before that first step, that character cannot take the first level of that prestige class. Taking a prestige class does not incur the experience point penalties normally associated with multiclassing.  
 
-There are 15 prestige classes defined in the SRD. They are:
+There are 16 prestige classes here. They are:
 
-1.  Arcane Archer
-2.  Arcane Trickster
-3.  Archmage
-4.  Assassin
-5.  Blackguard
-6.  Dragon Disciple
-7.  Duelist
-8.  Stalwart Defender
-9.  Eldritch Knight
-10. Hierophant
-11. Horizon Walker
-12. Loremaster
-13. Mystic Theurge
-14. Shadowdancer
-15. Thaumaturgist
+1.  [[rangoric-srd/prestige-classes/Arcane Archer|Arcane Archer]]
+2.  [[rangoric-srd/prestige-classes/Arcane Trickster|Arcane Trickster]]
+3.  [[rangoric-srd/prestige-classes/Archmage|Archmage]]
+4.  [[rangoric-srd/prestige-classes/Assassin|Assassin]]
+5.  [[rangoric-srd/prestige-classes/Blackguard|Blackguard]]
+6.  [[rangoric-srd/prestige-classes/Dragon Disciple|Dragon Disciple]]
+7.  [[rangoric-srd/prestige-classes/Duelist|Duelist]]
+8.  [[rangoric-srd/prestige-classes/Eldritch Knight|Eldritch Knight]]
+9.  [[rangoric-srd/prestige-classes/Hierophant|Hierophant]]
+10. [[rangoric-srd/prestige-classes/Horizon Walker|Horizon Walker]]
+11. [[rangoric-srd/prestige-classes/Loremaster|Loremaster]]
+12. [[rangoric-srd/prestige-classes/Master Spy|Master Spy]]
+13. [[rangoric-srd/prestige-classes/Mystic Theurge|Mystic Theurge]]
+14. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
+15. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
+16. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
 
 ###### Definitions of Terms
 
