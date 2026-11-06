@@ -46,7 +46,7 @@ A [[rangoric-srd/equipment/Equipment Goods and Services|masterwork musical instr
 
 **Try Again**: Yes. Retries are allowed, but they don’t negate previous failures, and an audience that has been unimpressed in the past is likely to be prejudiced against future performances. (Increase the DC by 2 for each previous failure.)
 
-**Special**: Each of a bard’s [[rangoric-srd/classes/Bard#^bardic-music|bardic music]] abilities needs a number of ranks in a Performance skill; see the bard.
+**Special**: A bard uses Performance for his [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] and [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]]; see the bard.
 
 In addition to using the Performance skill, you can entertain people with sleight of hand, tumbling, tightrope walking, and spells (especially illusions).
 
