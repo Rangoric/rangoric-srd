@@ -34,7 +34,7 @@ Every game tag used in `rangoric-srd`: what it means, what it goes on, and how m
 | `item-creation` | Feats | An item creation feat: lets its owner make a kind of magic or psionic item | [[rangoric-srd/feats/Feats Overview#Item Creation Feats\|Feats Overview]] | 23 feats | In use (2026-11-01) |
 | `metamagic` | Feats | A metamagic feat: changes a spell, which then takes a higher-level slot | [[rangoric-srd/feats/Feats Overview#Metamagic Feats\|Feats Overview]] | 43 feats | In use (2026-11-01) |
 | `epic` | Feats | An epic feat: taken only at 21st level or higher | [[rangoric-srd/epic/Epic Feats#Acquiring Epic Feats\|Epic Feats]] | 158 feats | In use (2026-11-01) |
-| `divine` | Feats | A divine feat: needs the ability to turn or rebuke undead, and spends uses of it | [[rangoric-srd/epic/Epic Feats#Divine Feats\|Epic Feats]] | 5 feats | In use (2026-11-01) |
+| `divine` | Feats | A divine feat: needs the ability to turn or rebuke undead, and spends uses of [[rangoric-srd/combat/Combat Special Attacks#^channel-energy\|channel energy]] | [[rangoric-srd/epic/Epic Feats#Divine Feats\|Epic Feats]] | 5 feats | In use (2026-11-01) |
 | `wild` | Feats | A wild feat: needs wild shape, and usually spends uses of it | [[rangoric-srd/epic/Epic Feats#Wild Feats\|Epic Feats]] | 10 feats | In use (2026-11-01) |
 | `psionic` | Feats | A psionic feat: only for manifesters; many use psionic focus | [[rangoric-srd/psionics/Psionic Feats\|Psionic Feats]] | 46 feats | In use (2026-11-01) |
 | `metapsionic` | Feats | A metapsionic feat: changes a power, at a higher power point cost | [[rangoric-srd/psionics/Psionic Feats#Metapsionic Feats\|Psionic Feats]] | 13 feats | In use (2026-11-01) |
