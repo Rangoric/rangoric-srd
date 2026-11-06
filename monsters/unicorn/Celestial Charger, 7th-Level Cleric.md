@@ -20,7 +20,7 @@ saves: "Fort +16, Ref +12, Will +15"
 abilities: "Str 24, Dex 18, Con 20, Int 13, Wis 27, Cha 22"
 skills: "Fieldcraft +32 (+34 aboveground)*, Nature +15, Theology +11, Perception +19, Stealth +11"
 skill-ranks: "Fieldcraft 15, Nature 14, Perception 5, Stealth 4, Theology 7"
-feats: "Combat Casting, Extra Turning, Improved Turning, Run, Skill Focus (Perception), Skill Focus (Fieldcraft)"
+feats: "Combat Casting, Extra Channel, Improved Turning, Run, Skill Focus (Perception), Skill Focus (Fieldcraft)"
 environment: "A chaotic good plane"
 organization: "Solitary"
 challenge-rating: 13
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Saves**: Fort +16, Ref +12, Will +15
   - **Abilities**: Str 24, Dex 18, Con 20, Int 13, Wis 27, Cha 22
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +32 (+34 aboveground)\*, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Turning|Extra Turning]], [[rangoric-srd/feats/Improved Turning|Improved Turning]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
+  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Turning|Improved Turning]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
   - **Environment**: A chaotic good plane
   - **Organization**: Solitary
   - **Challenge Rating**: 13

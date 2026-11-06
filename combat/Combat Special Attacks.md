@@ -140,7 +140,7 @@ Some characters can release a wave of energy by channeling the power of their fa
 
 **Effect**: Channeling energy causes a burst that affects all creatures of one type (either undead or living) in a 30-foot radius centered on the channeler. The amount of damage dealt or healed is equal to 1d6 points of damage plus 1d6 points of damage for every two effective cleric levels beyond 1st (2d6 at 3rd, 3d6 at 5th, and so on). Creatures that take damage from channeled energy receive a Will save to halve the damage. The DC of this save is equal to 10 + 1/2 the channeler’s effective cleric level + the channeler’s Charisma modifier. Creatures healed by channeled energy cannot exceed their maximum hit point total—all excess healing is lost. Channeling energy is a standard action that does not provoke an attack of opportunity. The channeler can choose whether or not to include herself in this effect, and must be able to present her holy symbol to use this ability.
 
-**Turning Is a Use of Channel Energy**: Instead of a burst, a character with channel energy can spend one use of it to make a turning attempt (see [[#Turn or Rebuke Undead|Turn or Rebuke Undead]]): to turn, rebuke, command, or bolster undead, to dispel turning, or to turn other creatures she has the power to turn. Turning attempts have no uses per day of their own. Anything that grants extra turning attempts (such as the Extra Turning feat) grants that many extra uses of channel energy, and anything that spends turning attempts (such as the Divine Might feat) spends uses of channel energy. ^channel-energy
+**Turning Is a Use of Channel Energy**: Instead of a burst, a character with channel energy can spend one use of it to make a turning attempt (see [[#Turn or Rebuke Undead|Turn or Rebuke Undead]]): to turn, rebuke, command, or bolster undead, to dispel turning, or to turn other creatures she has the power to turn. Turning attempts have no uses per day of their own. Anything that grants extra turning attempts (such as the [[rangoric-srd/feats/Extra Channel|Extra Channel]] feat) grants that many extra uses of channel energy, and anything that spends turning attempts (such as the Divine Might feat) spends uses of channel energy. ^channel-energy
 
 ##### Turn or Rebuke Undead
 
@@ -150,7 +150,7 @@ Good clerics and paladins and some neutral clerics can channel positive energy, 
 
 Turning undead is a supernatural ability that a character can perform as a standard action. It does not provoke attacks of opportunity. You must present your holy symbol to turn undead. Turning is considered an attack.
 
-**Times per Day**: Each turning attempt spends one use of your [[#Channel Energy|channel energy]], so you can make as many attempts as you have uses left. The Extra Turning feat gives you more uses.
+**Times per Day**: Each turning attempt spends one use of your [[#Channel Energy|channel energy]], so you can make as many attempts as you have uses left. The [[rangoric-srd/feats/Extra Channel|Extra Channel]] feat gives you more uses.
 
 **Range**: You turn the closest turnable undead first, and you can’t turn undead that are more than 60 feet away or that have total cover relative to you. You don’t need line of sight to a target, but you do need line of effect.
 
