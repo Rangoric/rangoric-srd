@@ -4,6 +4,7 @@ section: "Equipment"
 based-on:
   - "[[path srd 3.5/classes/Fighter|Fighter (PF1)]]"
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
+  - "[[path srd 3.5/items/weapons/Starknife|Starknife (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -62,7 +63,7 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 
 **Blades, Heavy**: bastard sword, falchion, greatsword, longsword, scimitar, scythe, and two-bladed sword.
 
-**Blades, Light**: dagger, kama, kukri, rapier, sickle, and short sword.
+**Blades, Light**: dagger, kama, kukri, rapier, sickle, starknife, and short sword.
 
 **Bows**: composite longbow, composite shortbow, longbow, and shortbow.
 
@@ -84,7 +85,7 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 
 **Spears**: javelin, lance, longspear, shortspear, spear, and trident.
 
-**Thrown**: bolas, club, dagger, dart, javelin, light hammer, net, shortspear, shuriken, sling, spear, throwing axe, and trident.
+**Thrown**: bolas, club, dagger, dart, javelin, light hammer, net, shortspear, shuriken, sling, spear, starknife, throwing axe, and trident.
 
 ##### Weapon Qualities
 
@@ -184,6 +185,7 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 | Shield, light              | special | 1d2     | 1d3     | x2       | —               | special    | Bludgeoning          |
 | Spiked armor               | special | 1d4     | 1d6     | x2       | —               | special    | Piercing             |
 | Spiked, shield light       | special | 1d3     | 1d4     | x2       | —               | special    | Piercing             |
+| Starknife                  | 24 gp   | 1d3     | 1d4     | x3       | 20 ft.          | 3 lb.      | Piercing             |
 | Sword short                | 10 gp   | 1d4     | 1d6     | 19–20/x2 | —               | 2 lb.      | Piercing             |
 | *One-Handed Melee Weapons* |         |         |         |          |                 |            |                      |
 | Battleaxe                  | 10 gp   | 1d6     | 1d8     | x3       | —               | 6 lb.      | Slashing             |
@@ -399,6 +401,8 @@ An unarmed strike is always considered a light weapon. Therefore, you can use th
 **Sword, Bastard**: A bastard sword is too large to use in one hand without special training; thus, it is an exotic weapon. A character can use a bastard sword two-handed as a martial weapon.
 
 **Sword, Two-Bladed**: A two-bladed sword is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a two-bladed sword in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
+
+**Starknife**: From a central metal ring, four tapering metal blades extend like points on a compass rose. You can stab with a starknife or throw it. ^starknife
 
 **Trident**: This weapon can be thrown. If you use a ready action to set a trident against a charge, you deal double damage on a successful hit against a charging character.
 

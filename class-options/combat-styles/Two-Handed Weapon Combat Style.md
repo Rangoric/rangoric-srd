@@ -16,5 +16,5 @@ tags: [rangoric, rangoric/class-option]
 A [[rangoric-srd/classes/Ranger#^ranger-combat-style|ranger]] who selects the two-handed weapon combat style can choose from the following feats whenever he gains a combat style feat, even if he does not have the normal prerequisites.
 
 - **From 2nd level**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]], Pushing Assault, and Shield of Swings.
-- **From 6th level**, also: Furious Focus and [[rangoric-srd/feats/Great Cleave|Great Cleave]].
-- **From 10th level**, also: Dreadful Carnage and [[rangoric-srd/feats/Improved Sunder|Improved Sunder]].
+- **From 6th level**, also: [[rangoric-srd/feats/Furious Focus|Furious Focus]] and [[rangoric-srd/feats/Great Cleave|Great Cleave]].
+- **From 10th level**, also: [[rangoric-srd/feats/Dreadful Carnage|Dreadful Carnage]] and [[rangoric-srd/feats/Improved Sunder|Improved Sunder]].
