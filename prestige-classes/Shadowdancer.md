@@ -46,13 +46,13 @@ The shadowdancer’s class skills (and the key ability for each skill) are [[ran
 | ----- | ----------------- | --------- | -------- | --------- | -------------------------------------- |
 | 1st   | +0               | +0       | +2      | +0       | Hide in plain sight                    |
 | 2nd   | +1               | +0       | +3      | +0       | Evasion, darkvision, uncanny dodge     |
-| 3rd   | +2               | +1       | +3      | +1       | Shadow illusion, summon shadow         |
+| 3rd   | +2               | +1       | +3      | +1       | Rogue talent, shadow illusion, summon shadow         |
 | 4th   | +3               | +1       | +4      | +1       | Shadow call, shadow jump 40 ft. |
 | 5th   | +3               | +1       | +4      | +1       | Defensive roll, improved uncanny dodge |
-| 6th   | +4               | +2       | +5      | +2       | Shadow jump 80 ft., summon shadow |
+| 6th   | +4               | +2       | +5      | +2       | Rogue talent, shadow jump 80 ft., summon shadow |
 | 7th   | +5               | +2       | +5      | +2       | Slippery mind                          |
 | 8th   | +6               | +2       | +6      | +2       | Shadow jump 160 ft., shadow power |
-| 9th   | +6               | +3       | +6      | +3       | Summon shadow                          |
+| 9th   | +6               | +3       | +6      | +3       | Rogue talent, summon shadow                          |
 | 10th  | +7               | +3       | +7      | +3       | Shadow jump 320 ft., improved evasion, shadow master |
 
 ###### Class Features
@@ -70,6 +70,8 @@ All of the following are features of the shadowdancer prestige class.
 **Uncanny Dodge (Ex)**: Starting at 2nd level, a shadowdancer retains her Dexterity bonus to AC (if any) regardless of being caught flat-footed or struck by an invisible attacker. (She still loses any Dexterity bonus to AC if immobilized.)
 
 If a character gains uncanny dodge from a second class, the character automatically gains improved uncanny dodge (see below).
+
+**Rogue Talent**: At 3rd level, and every three levels thereafter, a shadowdancer gains a special ability that allows her to confound her foes. This functions as the [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talent]] class feature. A shadowdancer cannot select an individual talent more than once. If a shadowdancer has the [[rangoric-srd/classes/Rogue#^rogue-advanced-talents|advanced talents]] rogue class feature, she can choose from the advanced talents list instead. ^shadowdancer-rogue-talent
 
 **Shadow Illusion (Sp)**: When a shadowdancer reaches 3rd level, she can create visual illusions. This ability’s effect is identical to that of the arcane spell [[rangoric-srd/spells/Silent Image|silent image]], using the shadowdancer’s level as the caster level. A shadowdancer can use this ability once per day for every two shadowdancer levels she has attained. The DC for this ability is Charisma-based.
 
