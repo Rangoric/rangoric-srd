@@ -35,7 +35,7 @@ As a general rule, the abilities of a multiclass character are the sum of the ab
 
 **Skills**: A skill that’s a class skill for any of a multiclass character’s classes gets the class skill bonus; see [[rangoric-srd/skills/Skills Overview#Skills Summary|Skills Overview]]. ^multiclass-skills
 
-**Class Features**: A multiclass character gets all the class features of all his or her classes but must also suffer the consequences of the special restrictions of all his or her classes. (Exception: A character who acquires the barbarian class does not become illiterate.) ^multiclass-class-features
+**Class Features**: A multiclass character gets all the class features of all his or her classes but must also suffer the consequences of the special restrictions of all his or her classes. ^multiclass-class-features
 
 In the special case of turning undead, both clerics and experienced paladins have the same ability. If the character’s paladin level is 4th or higher, her effective turning level is her cleric level plus her paladin level minus 3.
 
