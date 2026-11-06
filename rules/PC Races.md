@@ -39,20 +39,6 @@ A Small character generally moves about two-thirds as fast as a Medium character
 
 A Small character must use smaller weapons than a Medium character.
 
-### Humans
-
-  - Medium: As Medium creatures, humans have no special bonuses or penalties due to their size.
-
-  - Human base land speed is 30 feet.
-
-  - 1 extra feat at 1st level.
-
-  - 1 extra skill point at each level, including 1st.
-
-  - Automatic Language: Common. Bonus Languages: Any (other than secret languages, such as Druidic). See the [[rangoric-srd/skills/Linguistics|Linguistics]] skill.
-
-  - Favored Class: Any. When determining whether a multiclass human takes an experience point penalty, his or her highest-level class does not count.
-
 ### Dwarves
 
   - \+2 Constitution, –2 Charisma.

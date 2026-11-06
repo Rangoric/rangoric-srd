@@ -11,6 +11,4 @@ tags: [rangoric, rangoric/feat]
 
 # Toughness
 
-**Benefit**: You gain +3 hit points.
-
-**Special**: A character may gain this feat multiple times. Its effects stack.
+**Benefit**: You gain +1 hit point per level, with a minimum of +3.

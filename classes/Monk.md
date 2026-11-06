@@ -26,8 +26,21 @@ For the truly exemplary, martial skill transcends the battlefield—it is a life
 **Hit Die**: d8.
 
 ###### Class Skills
-
-The monk’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
+- [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex)
+- [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha)
+- [[rangoric-srd/skills/Arcana|Arcana]] (Int)
+- [[rangoric-srd/skills/Athletics|Athletics]] (Str)
+- [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex)
+- [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha)
+- [[rangoric-srd/skills/Investigation|Investigation]] (Int)
+- [[rangoric-srd/skills/Meditation|Meditation]] (Wis)
+- [[rangoric-srd/skills/Perception|Perception]] (Wis)
+- [[rangoric-srd/skills/Performance|Performance]] (Cha)
+- [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha)
+- [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis)
+- [[rangoric-srd/skills/Society|Society]] (Int)
+- [[rangoric-srd/skills/Stealth|Stealth]] (Dex)
+- [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

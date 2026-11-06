@@ -1,0 +1,1 @@
+Like Saving Throws, we will be using fractional BAB, so medium and weak BABs don't fall that far behind based on which level someone leaves off at.

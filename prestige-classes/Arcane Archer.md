@@ -42,20 +42,25 @@ The arcane archer’s class skills (and the key ability for each skill) are [[ra
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
+- BAB: Good
+- Fort: Good
+- Ref: Good
+- Will: Bad
+
 **Table: The Arcane Archer** ^table-the-arcane-archer
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special          | Spells per Day |
-| ----- | ----------------- | --------- | -------- | --------- | ---------------- | -------------- |
-| 1st   | +1               | +2       | +2      | +0       | Enhance arrow +1 | — |
-| 2nd   | +2               | +3       | +3      | +0       | Imbue arrow      | +1 level of existing class |
-| 3rd   | +3               | +3       | +3      | +1       | Enhance arrow +2 (elemental) | +1 level of existing class |
-| 4th   | +4               | +4       | +4      | +1       | Seeker arrow     | +1 level of existing class |
-| 5th   | +5               | +4       | +4      | +1       | Enhance arrow +3 (distance) | — |
-| 6th   | +6               | +5       | +5      | +2       | Phase arrow      | +1 level of existing class |
-| 7th   | +7               | +5       | +5      | +2       | Enhance arrow +4 (elemental burst) | +1 level of existing class |
-| 8th   | +8               | +6       | +6      | +2       | Hail of arrows   | +1 level of existing class |
-| 9th   | +9               | +6       | +6      | +3       | Enhance arrow +5 (aligned) | — |
-| 10th  | +10              | +7       | +7      | +3       | Arrow of death   | +1 level of existing class |
+| Level | Special                            | Spells per Day             |
+| ----- | ---------------------------------- | -------------------------- |
+| 1st   | Enhance arrow +1                   | —                          |
+| 2nd   | Imbue arrow                        | +1 level of existing class |
+| 3rd   | Enhance arrow +2 (elemental)       | +1 level of existing class |
+| 4th   | Seeker arrow                       | +1 level of existing class |
+| 5th   | Enhance arrow +3 (distance)        | —                          |
+| 6th   | Phase arrow                        | +1 level of existing class |
+| 7th   | Enhance arrow +4 (elemental burst) | +1 level of existing class |
+| 8th   | Hail of arrows                     | +1 level of existing class |
+| 9th   | Enhance arrow +5 (aligned)         | —                          |
+| 10th  | Arrow of death                     | +1 level of existing class |
 
 ###### Class Features
 

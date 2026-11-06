@@ -3,11 +3,11 @@ filters:
     - file.inFolder("rangoric-srd/rules")
 views:
   - type: table
-    name: "All notes"
+    name: All notes
     order:
       - file.name
-      - note.srd-type
-      - note.source
+      - srd-type
+      - source
     sort:
       - property: file.name
         direction: ASC

@@ -4,110 +4,110 @@ filters:
     - file.hasTag("rangoric/feat")
 views:
   - type: table
-    name: "All feats"
+    name: All feats
     order:
       - file.name
-      - note.tags
-      - note.prerequisites
+      - tags
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "fighter-bonus"
+    name: fighter-bonus
     filters:
       and:
         - file.hasTag("fighter-bonus")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "item-creation"
+    name: item-creation
     filters:
       and:
         - file.hasTag("item-creation")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "metamagic"
+    name: metamagic
     filters:
       and:
         - file.hasTag("metamagic")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "epic"
+    name: epic
     filters:
       and:
         - file.hasTag("epic")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "divine"
+    name: divine
     filters:
       and:
         - file.hasTag("divine")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "wild"
+    name: wild
     filters:
       and:
         - file.hasTag("wild")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "psionic"
+    name: psionic
     filters:
       and:
         - file.hasTag("psionic")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "metapsionic"
+    name: metapsionic
     filters:
       and:
         - file.hasTag("metapsionic")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC
   - type: table
-    name: "spelltouched"
+    name: spelltouched
     filters:
       and:
         - file.hasTag("spelltouched")
     order:
       - file.name
-      - note.prerequisites
+      - prerequisites
     sort:
       - property: file.name
         direction: ASC

@@ -3,14 +3,14 @@ filters:
     - file.inFolder("rangoric-srd/classes")
 views:
   - type: table
-    name: "All notes"
+    name: All notes
     order:
       - file.name
-      - note.srd-type
-      - note.hit-die
-      - note.alignment
-      - note.skill-points
-      - note.source
+      - srd-type
+      - hit-die
+      - alignment
+      - skill-points
+      - source
     sort:
       - property: file.name
         direction: ASC

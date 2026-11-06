@@ -26,7 +26,21 @@ Physical and mental perfection—that is the life goal of every monk. For these 
 
 ###### Class Skills
 
-The unchained monk’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), and [[rangoric-srd/skills/Theology|Theology]] (Int).
+The unchained monk’s class skills (and the key ability for each skill) are
+
+- [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex)
+- [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha)
+- [[rangoric-srd/skills/Athletics|Athletics]] (Str)
+- [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex)
+- [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha)
+- [[rangoric-srd/skills/Investigation|Investigation]] (Int)
+- [[rangoric-srd/skills/Perception|Perception]] (Wis)
+- [[rangoric-srd/skills/Performance|Performance]] (Cha)
+- [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis)
+- [[rangoric-srd/skills/Society|Society]] (Int)
+- [[rangoric-srd/skills/Stealth|Stealth]] (Dex)
+- [[rangoric-srd/skills/Meditation|Meditation]] (Wis)
+- [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

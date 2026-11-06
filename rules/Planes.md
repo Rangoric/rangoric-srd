@@ -8,7 +8,6 @@ change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
-
 ## Planes
 
 ##### What Is a Plane?
