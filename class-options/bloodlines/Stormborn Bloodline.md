@@ -19,7 +19,7 @@ You trace your heritage to fierce and proud spirits of storm and sky, and living
 
 **Bonus Spells**: *[[rangoric-srd/spells/Shocking Grasp|shocking grasp]]* (3rd), *[[rangoric-srd/spells/Gust of Wind|gust of wind]]* (5th), *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (7th), *[[rangoric-srd/spells/Shout|shout]]* (9th), *[[rangoric-srd/spells/Overland Flight|overland flight]]* (11th), *[[rangoric-srd/spells/Chain Lightning|chain lightning]]* (13th), *[[rangoric-srd/spells/Control Weather|control weather]]* (15th), *[[rangoric-srd/spells/Whirlwind|whirlwind]]* (17th), *[[rangoric-srd/spells/Storm of Vengeance|storm of vengeance]]* (19th).
 
-**Bonus Feats**: Deadly Aim, [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Wind Stance|Wind Stance]].
+**Bonus Feats**: [[rangoric-srd/feats/Deadly Aim|Deadly Aim]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics), [[rangoric-srd/feats/Wind Stance|Wind Stance]].
 
 **Bloodline Arcana**: Whenever you cast a spell with the electricity or sonic descriptor, increase the save DC by 1.
 
