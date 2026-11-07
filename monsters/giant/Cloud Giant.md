@@ -85,4 +85,4 @@ Cloud giants fight in well-organized units, using carefully developed battle pla
 
 Most cloud giant groups include a sorcerer or a cleric.
 
-Good-aligned clerics have access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Good]], [[rangoric-srd/classes/Cleric Domains|Healing]], [[rangoric-srd/classes/Cleric Domains|Strength]], or [[rangoric-srd/classes/Cleric Domains|Sun]]. Evil-aligned clerics have access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Death]], [[rangoric-srd/classes/Cleric Domains|Evil]], or [[rangoric-srd/classes/Cleric Domains|Trickery]].
+Good-aligned clerics have access to two of the following domains: [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]], [[rangoric-srd/class-options/domains/Strength Domain|Strength]], or [[rangoric-srd/class-options/domains/Sun Domain|Sun]]. Evil-aligned clerics have access to two of the following domains: [[rangoric-srd/class-options/domains/Death Domain|Death]], [[rangoric-srd/class-options/domains/Evil Domain|Evil]], or [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].

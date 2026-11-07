@@ -72,7 +72,7 @@ Spirit nagas meet foes boldly so as to use their [[rangoric-srd/monsters/Monster
 
 **Poison (Ex)**: Injury, Fortitude DC 18, initial and secondary damage 1d8 Con. The save DC is Constitution-based.
 
-**Spells**: Spirit nagas cast spells as 7th-level [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerers]], and can also cast spells from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]] and from the [[rangoric-srd/classes/Cleric Domains|Chaos]] and [[rangoric-srd/classes/Cleric Domains|Evil]] domains as arcane spells. The cleric spells and domain spells are considered arcane spells for a spirit naga, meaning that the creature does not need a divine focus to cast them.  
+**Spells**: Spirit nagas cast spells as 7th-level [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerers]], and can also cast spells from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]] and from the [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Evil Domain|Evil]] domains as arcane spells. The cleric spells and domain spells are considered arcane spells for a spirit naga, meaning that the creature does not need a divine focus to cast them.  
 *Typical Spells Known (6/7/7/5; save DC 13 + spell level)*:
 
 0 - [[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]], [[rangoric-srd/spells/Daze|daze]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]];

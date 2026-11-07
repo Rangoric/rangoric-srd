@@ -117,6 +117,6 @@ Vampires are always evil, which causes characters of certain classes to lose som
 
 **Clerics**: Vampire clerics lose their ability to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turn undead]] but gain the ability to rebuke undead. This ability does not affect the vampire’s controller or any other vampires that a master controls.
 
-A vampire cleric has access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Chaos]], [[rangoric-srd/classes/Cleric Domains|Destruction]], [[rangoric-srd/classes/Cleric Domains|Evil]], or [[rangoric-srd/classes/Cleric Domains|Trickery]].
+A vampire cleric has access to two of the following domains: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain|Evil]], or [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].
 
 **Sorcerers and Wizards**: Vampire sorcerers and wizards retain their class abilities, but if a character has a familiar other than a [[rangoric-srd/monsters/Rat|rat]] or [[rangoric-srd/monsters/Bat|bat]], the link between them is broken, and the familiar shuns its former companion. The character can summon another familiar, but it must be a rat or bat.

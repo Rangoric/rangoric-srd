@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 The influence of your deity guides your favored weapon.
 
-**Prerequisites**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] with your [[rangoric-srd/classes/Cleric Domains#War Domain|deity’s favored weapon]], must worship and receive spells from a deity.
+**Prerequisites**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] with your [[rangoric-srd/class-options/domains/War Domain|deity’s favored weapon]], must worship and receive spells from a deity.
 
 **Benefit**: As a swift action, you can call on your deity to guide an attack with your deity’s favored weapon. On your next attack that round with that weapon, it counts as magic for overcoming damage reduction and for striking an incorporeal creature. If the attack misses because of concealment, you can reroll the miss chance once.

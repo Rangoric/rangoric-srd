@@ -103,7 +103,7 @@ Characters who cast all their spells spontaneously - such as bards and sorcerers
 
 Characters with the ability to cast a limited nimber of spells spontaneously (such as druids, who can spontaneously cast a [[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally]] spell in place of another spell of the same level) are always treated as having those spells prepared, without spending any spell slots to do so. Thus they can cast such spells any time they have sufficien spell points.
 
-Under this sytem, the [[rangoric-srd/classes/Cleric Domains|Healing]] domain becomes a relatively poor choice for good-aligned clerics, since they gain less of a benefit for that domain. See [[rangoric-srd/unearthed-arcana/Class Variants#Spontaneous Divine Casters|Spontaneous Divine Casters]] for ways to solve that dilemma.
+Under this sytem, the [[rangoric-srd/class-options/domains/Healing Domain|Healing]] domain becomes a relatively poor choice for good-aligned clerics, since they gain less of a benefit for that domain. See [[rangoric-srd/unearthed-arcana/Class Variants#Spontaneous Divine Casters|Spontaneous Divine Casters]] for ways to solve that dilemma.
 
 ###### Regaining Spell Points
 

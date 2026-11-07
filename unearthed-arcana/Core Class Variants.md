@@ -346,7 +346,7 @@ The cloistered cleric's lack of martial training means that he uses the poor bas
 
 ###### Class Skills
 
-The cloistered cleric's class skill list includes [[rangoric-srd/skills/Linguistics|Linguistics]], and all [[rangoric-srd/skills/Knowledge|Knowledge]] skills (from the [[rangoric-srd/classes/Cleric Domains|Knowledge domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number x4 at 1st level).
+The cloistered cleric's class skill list includes [[rangoric-srd/skills/Linguistics|Linguistics]], and all [[rangoric-srd/skills/Knowledge|Knowledge]] skills (from the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge domain]], see below). The cloistered cleric gains skill points per level equal to 6 + Int modifier (and has this number x4 at 1st level).
 
 ##### Class Features
 
@@ -364,7 +364,7 @@ Thanks to long hours of study, a cloistered cleric has a wide range of stray kno
 
 Most cloistered clerics worship deities associated with knowledge and learning.
 
-In addition to any domains selected from his deity's list, a cloistered cleric automatically gains the [[rangoric-srd/classes/Cleric Domains|Knowledge domain]] as a bonus domain (even if the Knowledge domain is not normally available to clerics of that deity). He gains the Knowledge domain granted power and may select his bonus domain spell from the Knowledge domain or from one of his two regular domains.
+In addition to any domains selected from his deity's list, a cloistered cleric automatically gains the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge domain]] as a bonus domain (even if the Knowledge domain is not normally available to clerics of that deity). He gains the Knowledge domain granted power and may select his bonus domain spell from the Knowledge domain or from one of his two regular domains.
 
 ###### Spellcasting
 

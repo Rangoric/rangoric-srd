@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 You learned to use your deity's favored weapon as part of your martial arts form.
 
-**Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature, [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]] class feature, [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] with your [[rangoric-srd/classes/Cleric Domains#War Domain|deity’s favored weapon]] (a melee weapon).
+**Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature, [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]] class feature, [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] with your [[rangoric-srd/class-options/domains/War Domain|deity’s favored weapon]] (a melee weapon).
 
 **Benefit**: You can use your deity’s favored weapon as if it were a monk weapon.

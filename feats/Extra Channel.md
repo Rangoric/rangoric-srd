@@ -18,7 +18,7 @@ You can channel divine energy more often.
 
 **Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature, or another ability to turn or rebuke creatures.
 
-**Benefit**: You can channel energy four more times per day. If you have an ability to turn or rebuke creatures that has uses of its own (such as the [[rangoric-srd/classes/Cleric Domains#Plant Domain|Plant domain]]’s), it also gains four uses per day.
+**Benefit**: You can channel energy four more times per day. If you have an ability to turn or rebuke creatures that has uses of its own (such as the [[rangoric-srd/class-options/domains/Plant Domain|Plant domain]]’s), it also gains four uses per day.
 
 **Normal**: The class that grants channel energy says how many times per day you can use it.
 

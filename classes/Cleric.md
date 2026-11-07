@@ -33,7 +33,7 @@ The cleric’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the cleric’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the cleric’s Magic skill checks and wherever a rule says “your Magic skill”.
 
-**Domains and Class Skills**: A cleric who chooses the [[rangoric-srd/classes/Cleric Domains|Animal]] or [[rangoric-srd/classes/Cleric Domains|Plant]] domain adds [[rangoric-srd/skills/Nature|Nature]] (Int) to the cleric class skills listed above. A cleric who chooses the [[rangoric-srd/classes/Cleric Domains|Knowledge]] domain adds all Knowledge skills to the list. A cleric who chooses the [[rangoric-srd/classes/Cleric Domains|Travel]] domain adds [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) to the list. A cleric who chooses the [[rangoric-srd/classes/Cleric Domains|Trickery]] domain adds [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex) to the list. See Deity, Domains, and Domain Spells, below, for more information.
+**Domains and Class Skills**: A cleric who chooses the [[rangoric-srd/class-options/domains/Animal Domain|Animal]] or [[rangoric-srd/class-options/domains/Plant Domain|Plant]] domain adds [[rangoric-srd/skills/Nature|Nature]] (Int) to the cleric class skills listed above. A cleric who chooses the [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge]] domain adds all Knowledge skills to the list. A cleric who chooses the [[rangoric-srd/class-options/domains/Travel Domain|Travel]] domain adds [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) to the list. A cleric who chooses the [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain adds [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Imitation|Imitation]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex) to the list. See Deity, Domains, and Domain Spells, below, for more information.
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
@@ -71,7 +71,7 @@ All of the following are class features of the cleric.
 
 **Weapon and Armor Proficiency**: Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields). Clerics are also proficient with the favored weapon of their deity.
 
-A cleric who chooses the [[rangoric-srd/classes/Cleric Domains|War]] domain receives the [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] feat related to his deity’s weapon as a bonus feat. He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
+A cleric who chooses the [[rangoric-srd/class-options/domains/War Domain|War]] domain receives the [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] feat related to his deity’s weapon as a bonus feat. He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
 
 **Aura (Ex)**: A cleric of a chaotic, evil, good, or lawful deity has a particularly powerful aura corresponding to the deity’s alignment (see the detect evil spell for details). Clerics who don’t worship a specific deity but choose the Chaotic, Evil, Good, or Lawful domain have a similarly powerful aura of the corresponding alignment. ^cleric-aura
 
@@ -85,7 +85,7 @@ Clerics meditate or pray for their spells. Each cleric must choose a time at whi
 
 **Orisons**: Clerics can prepare a number of orisons, or 0-level spells, each day, as noted on Table: The Cleric under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again. ^cleric-orisons
 
-**Deity, Domains, and Domain Spells**: A cleric’s deity influences his alignment, what magic he can perform, his values, and how others see him. A cleric chooses two [[rangoric-srd/classes/Cleric Domains|domains]] from among those belonging to his deity. A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain.
+**Deity, Domains, and Domain Spells**: A cleric’s deity influences his alignment, what magic he can perform, his values, and how others see him. A cleric chooses two [[rangoric-srd/class-options/domains/Domains|domains]] from among those belonging to his deity. A cleric can select an alignment domain (Chaos, Evil, Good, or Law) only if his alignment matches that domain. ^cleric-domains
 
 If a cleric is not devoted to a particular deity, he still selects two domains to represent his spiritual inclinations and abilities. The restriction on alignment domains still applies.
 

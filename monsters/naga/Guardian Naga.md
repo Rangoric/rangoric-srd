@@ -71,7 +71,7 @@ Guardian nagas usually warn off intruders before attacking. If the warning is ig
 
 **Spit (Ex)**: A guardian naga can spit its venom up to 30 feet as a standard action. This is a ranged touch attack with no range increment. Opponents hit by this attack must make successful saves (see above) to avoid the effect.
 
-**Spells**: Guardian nagas cast spells as 9th-level [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerers]], and can also cast spells from the [[rangoric-srd/spells/Cleric Spell List|cleric list]] and from the [[rangoric-srd/classes/Cleric Domains|Good]] and [[rangoric-srd/classes/Cleric Domains|Law]] domains. The cleric spells and domain spells are considered arcane spells for a guardian naga, meaning that the creature does not need a divine focus to cast them.  
+**Spells**: Guardian nagas cast spells as 9th-level [[rangoric-srd/spells/Sorcerer and Wizards Spell List|sorcerers]], and can also cast spells from the [[rangoric-srd/spells/Cleric Spell List|cleric list]] and from the [[rangoric-srd/class-options/domains/Good Domain|Good]] and [[rangoric-srd/class-options/domains/Law Domain|Law]] domains. The cleric spells and domain spells are considered arcane spells for a guardian naga, meaning that the creature does not need a divine focus to cast them.  
 *Typical Spells Known (6/7/7/7/5; save DC 14 + spell level)*:  
 
 0 - [[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]], [[rangoric-srd/spells/Daze|daze]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Open-Close|open/close]], [[rangoric-srd/spells/Ray of Frost|ray of frost]], [[rangoric-srd/spells/Read Magic|read magic]];  

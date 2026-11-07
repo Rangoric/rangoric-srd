@@ -75,4 +75,4 @@ Fire giants heat their rocks in a nearby fire, geyser, or lava pools, so that th
 
 ## Fire Giant Characters
 
-Most groups of fire giants include clerics. A fire giant cleric has access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Evil]], [[rangoric-srd/classes/Cleric Domains|Law]], [[rangoric-srd/classes/Cleric Domains|Trickery]], or [[rangoric-srd/classes/Cleric Domains|War]] (most choose Trickery or War, some choose both).
+Most groups of fire giants include clerics. A fire giant cleric has access to two of the following domains: [[rangoric-srd/class-options/domains/Evil Domain|Evil]], [[rangoric-srd/class-options/domains/Law Domain|Law]], [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]], or [[rangoric-srd/class-options/domains/War Domain|War]] (most choose Trickery or War, some choose both).

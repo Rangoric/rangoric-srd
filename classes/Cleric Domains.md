@@ -3,13 +3,19 @@ srd-type: "overview"
 section: "Classes"
 based-on:
   - "[[fantasy srd 3.5/classes/Cleric Domains|Cleric Domains (3.5)]]"
-status: draft
+replaced-by: "[[rangoric-srd/class-options/domains/Domains|Domains]]"
+status: replaced
 change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
 
-## Spell List
+# Cleric Domains
+
+> [!note] Replaced by [[rangoric-srd/class-options/domains/Domains|Domains]]
+> Each domain now has its own note in `class-options/domains`, with Pathfinder’s granted powers and domain spells beside 3.5’s (2026-11-07; see [[Cleric]]). The original text is kept below for reference.
+
+## Original text
 
 ### Cleric Domains
 

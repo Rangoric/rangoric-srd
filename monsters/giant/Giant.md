@@ -41,7 +41,7 @@ A favorite tactic is to lay an ambush by hiding buried in the snow at the top of
 
 ### Frost Giant Characters
 
-Many groups of frost giants include clerics. A frost giant cleric has access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Chaos]], [[rangoric-srd/classes/Cleric Domains|Destruction]], [[rangoric-srd/classes/Cleric Domains|Evil]], or [[rangoric-srd/classes/Cleric Domains|War]] (most choose Destruction or War, some choose both).  
+Many groups of frost giants include clerics. A frost giant cleric has access to two of the following domains: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain|Evil]], or [[rangoric-srd/class-options/domains/War Domain|War]] (most choose Destruction or War, some choose both).  
 
 #### Frost Giant Jarl
 
@@ -73,7 +73,7 @@ Possessions: +2 frost greataxe, +2 full plate armor, cloak of Charisma +2, ring 
 
 #### Frost Giant Characters
 
-Many groups of frost giants include clerics. A frost giant cleric has access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Chaos]], [[rangoric-srd/classes/Cleric Domains|Destruction]], [[rangoric-srd/classes/Cleric Domains|Evil]], or [[rangoric-srd/classes/Cleric Domains|War]] (most choose Destruction or War, some choose both).  
+Many groups of frost giants include clerics. A frost giant cleric has access to two of the following domains: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain|Evil]], or [[rangoric-srd/class-options/domains/War Domain|War]] (most choose Destruction or War, some choose both).  
 
   - [[rangoric-srd/monsters/giant/Hill Giant|Hill Giant]]
   - [[rangoric-srd/monsters/giant/Stone Giant|Stone Giant]]
