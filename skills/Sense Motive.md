@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Wis"
 based-on:
+  - "[[path srd 3.5/skills/Sense Motive|Sense Motive (PF1)]]"
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Sense Motive|Sense Motive (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/skill, core]
 | Discern full alignment | 80 |
 | Detect surface thoughts | 100 |
 
-*Hunch*: This use of the skill involves making a gut assessment of the social situation. You can get the feeling from another’s behavior that something is wrong, such as when you’re talking to an impostor. Alternatively, you can get the feeling that someone is trustworthy.
+*Hunch*: This use of the skill involves making a gut assessment of the social situation. You can get the feeling from another’s behavior that something is wrong, such as when you’re talking to an impostor. Alternatively, you can get the feeling that someone is trustworthy. If you fail by 5 or more, you might infer false information.
 
 *Sense Enchantment*: You can tell that someone’s behavior is being influenced by an enchantment effect (by definition, a mind-affecting effect), even if that person isn’t aware of it. The usual DC is 25, but if the target is dominated (see dominate person), the DC is only 15 because of the limited range of the target’s activities.
 

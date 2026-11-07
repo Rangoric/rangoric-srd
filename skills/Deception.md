@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Cha"
 based-on:
+  - "[[path srd 3.5/skills/Bluff|Bluff (PF1)]]"
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Bluff|Bluff (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
@@ -36,7 +37,7 @@ Feinting in combat does not provoke an attack of opportunity.
 
 **Action**: Varies. A Deception check made as part of general interaction always takes at least 1 round (and is at least a full-round action), but it can take much longer if you try something elaborate. A Deception check made to feint in combat or create a diversion to hide is a standard action. A Deception check made to deliver a secret message doesn’t take an action; it is part of normal communication.
 
-**Try Again**: Varies. Generally, a failed Deception check in social interaction makes the target too suspicious for you to try again in the same circumstances, but you may retry freely on Deception checks made to feint in combat. Retries are also allowed when you are trying to send a message, but you may attempt such a retry only once per round. Each retry carries the same chance of miscommunication.
+**Try Again**: Varies. If you fail to deceive someone, further attempts to deceive them take a –10 penalty and may be impossible (GM’s call), but you may retry freely on Deception checks made to feint in combat. Retries are also allowed when you are trying to send a message, but you may attempt such a retry only once per round. Each retry carries the same chance of miscommunication.
 
 **Special**: A [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|ranger]] gains a bonus on Deception checks when using this skill against a favored enemy.
 

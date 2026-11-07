@@ -3,6 +3,7 @@ srd-type: "skill"
 section: "Skills"
 key-ability: "Cha"
 based-on:
+  - "[[path srd 3.5/skills/Diplomacy|Diplomacy (PF1)]]"
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Diplomacy|Diplomacy (3.5)]]"
   - "[[fantasy srd 3.5/skills/Gather Information|Gather Information (3.5)]]"
@@ -21,11 +22,15 @@ Persuasion covers changing people's attitudes and finding things out by talking 
 
 ## Influencing Attitudes
 
-**Check**: You can change the attitudes of others (nonplayer characters) with a successful Persuasion check; see the Influencing NPC Attitudes sidebar, below, for basic DCs. In negotiations, participants roll opposed Persuasion checks, and the winner gains the advantage. Opposed checks also resolve situations when two advocates or diplomats plead opposite cases in a hearing before a third party.
+**Check**: You can change the attitudes of others (nonplayer characters) with a successful Persuasion check; see the Influencing NPC Attitudes sidebar, below, for basic DCs. If your result is 5 or more below the DC to improve the creature’s attitude by one step, its attitude gets one step worse instead; this takes the place of the "Less than" entries in the table, except for a helpful creature. An attitude changed this way usually lasts 1d4 hours, though it can last much longer or shorter depending on the situation.
+
+You can’t influence a creature that doesn’t understand you or has an Intelligence of 3 or less. Persuasion is generally ineffective in combat, and against creatures that intend to harm you or your allies in the immediate future.
+
+In negotiations, participants roll opposed Persuasion checks, and the winner gains the advantage. Opposed checks also resolve situations when two advocates or diplomats plead opposite cases in a hearing before a third party.
 
 **Action**: Changing others’ attitudes with Persuasion generally takes at least 1 full minute (10 consecutive full-round actions). In some situations, this time requirement may greatly increase. A rushed Persuasion check can be made as a full-round action, but you take a –10 penalty on the check.
 
-**Try Again**: Optional, but not recommended because retries usually do not work. Even if the initial Persuasion check succeeds, the other character can be persuaded only so far, and a retry may do more harm than good. If the initial check fails, the other character has probably become more firmly committed to his position, and a retry is futile.
+**Try Again**: You can’t use Persuasion to influence a given creature’s attitude more than once in 24 hours. If a request is refused, more checks don’t change the answer, though other requests can be made.
 
 ### Influencing NPC Attitudes
 
