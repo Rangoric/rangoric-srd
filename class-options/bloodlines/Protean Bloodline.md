@@ -19,7 +19,7 @@ You have in your veins the ever-changing wildness of primal chaos, the raw essen
 
 **Bonus Spells**: *[[rangoric-srd/spells/Entropic Shield|entropic shield]]* (3rd), *[[rangoric-srd/spells/Blur|blur]]* (5th), *[[rangoric-srd/spells/Gaseous Form|gaseous form]]* (7th), *[[rangoric-srd/spells/Confusion|confusion]]* (9th), *[[rangoric-srd/spells/Major Creation|major creation]]* (11th), *[[rangoric-srd/spells/Disintegrate|disintegrate]]* (13th), *greater polymorph* (15th), *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]* (17th), *[[rangoric-srd/spells/Shapechange|shapechange]]* (19th).
 
-**Bonus Feats**: Agile Maneuvers, Defensive Combat Training, [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], Improved Great Fortitude, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft), [[rangoric-srd/feats/Spell Focus|Spell Focus]], [[rangoric-srd/feats/Toughness|Toughness]].
+**Bonus Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Enlarge Spell|Enlarge Spell]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Great Fortitude|Improved Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Craft), [[rangoric-srd/feats/Spell Focus|Spell Focus]], [[rangoric-srd/feats/Toughness|Toughness]].
 
 **Bloodline Arcana**: Your magic of creation and changing is hard to unravel. The DC to dispel transmutation or conjuration (creation) spells that you cast is increased by +4.
 

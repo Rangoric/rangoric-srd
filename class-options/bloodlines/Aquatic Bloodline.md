@@ -19,7 +19,7 @@ Your family traces its heritage back to the ocean depths, whether scions of unde
 
 **Bonus Spells**: *hydraulic push\** (3rd), *slipstream\** (5th), *aqueous orb\** (7th), *geyser\** (9th), *[[rangoric-srd/spells/Control Water|control water]]* (11th), *[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]* (13th), *[[rangoric-srd/spells/Summon Monster VII|summon monster VII]]* (15th), *seamantle\** (17th), *world wave\** (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Athletic|Athletic]], [[rangoric-srd/feats/Brew Potion|Brew Potion]], Defensive Combat Training, [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Toughness|Toughness]].
+**Bonus Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Athletics), [[rangoric-srd/feats/Toughness|Toughness]].
 
 **Bloodline Arcana**: Whenever you cast a spell of the water type, your effective caster level is increased by one, and summoned creatures with a swim speed or the aquatic or water type gain a +1 morale bonus on attack and damage rolls.
 

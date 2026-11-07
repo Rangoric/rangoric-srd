@@ -19,7 +19,7 @@ Your family is a long line of dreamers, who dream not as ordinary mortals do but
 
 **Bonus Spells**: *[[rangoric-srd/spells/Sleep|sleep]]* (3rd), *[[rangoric-srd/spells/Augury|augury]]* (5th), *[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (7th), *[[rangoric-srd/spells/Divination|divination]]* (9th), *[[rangoric-srd/spells/Dream|dream]]* (11th), *[[rangoric-srd/spells/Shadow Walk|shadow walk]]* (13th), *[[rangoric-srd/spells/Vision|vision]]* (15th), *[[rangoric-srd/spells/Moment of Prescience|moment of prescience]]* (17th), *[[rangoric-srd/spells/Astral Projection|astral projection]]* (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Alertness|Alertness]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Deceitful|Deceitful]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Persuasive|Persuasive]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Sense Motive).
+**Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation, Intimidation, Perception, Persuasion or Sense Motive).
 
 **Bloodline Arcana**: Whenever you target a single creature with a spell, you gain an insight bonus equal to half the spell's level (minimum +1) for 1 round to your AC and saving throws against any spell or attack made by that creature.
 

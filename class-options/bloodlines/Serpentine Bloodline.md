@@ -19,7 +19,7 @@ Your bloodline carries the lingering stain of ancient serpent races that ruled w
 
 **Bonus Spells**: *[[rangoric-srd/spells/Hypnotism|hypnotism]]* (3rd), *[[rangoric-srd/spells/Delay Poison|delay poison]]* (5th), *[[rangoric-srd/spells/Summon Monster III|summon monster III]]* (reptiles only) (7th), *[[rangoric-srd/spells/Poison|poison]]* (9th), *[[rangoric-srd/spells/Hold Monster|hold monster]]* (11th), *mass suggestion* (13th), *[[rangoric-srd/spells/Summon Monster VII|summon monster VII]]* (reptiles only) (15th), *[[rangoric-srd/spells/Irresistible Dance|irresistible dance]]* (17th), *[[rangoric-srd/spells/Dominate Monster|dominate monster]]* (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Deceitful|Deceitful]], [[rangoric-srd/feats/Deft Hands|Deft Hands]], [[rangoric-srd/feats/Persuasive|Persuasive]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Stealthy|Stealthy]].
+**Bonus Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Engineering, Imitation, Intimidation, Persuasion, Sleight of Hand or Stealth).
 
 **Bloodline Arcana**: Your powers of compulsion can affect even bestial creatures. Whenever you cast a mind-affecting or language-dependent spell, it affects animals, magical beasts, and monstrous humanoids as if they were humanoids who understood your language.
 

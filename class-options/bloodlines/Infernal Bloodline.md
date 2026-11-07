@@ -19,7 +19,7 @@ Somewhere in your family's history, a relative made a deal with a devil, and tha
 
 **Bonus Spells**: *[[rangoric-srd/spells/Protection from Good|protection from good]]* (3rd), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]* (5th), *[[rangoric-srd/spells/Suggestion|suggestion]]* (7th), *[[rangoric-srd/spells/Charm Monster|charm monster]]* (9th), *[[rangoric-srd/spells/Dominate Person|dominate person]]* (11th), *[[rangoric-srd/spells/Planar Binding|planar binding]]* (devils and creatures with the fiendish template only) (13th), *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (15th), *[[rangoric-srd/spells/Power Word Stun|power word stun]]* (17th), *[[rangoric-srd/spells/Meteor Swarm|meteor swarm]]* (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Deceitful|Deceitful]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Theology), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]].
+**Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation or Theology), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]].
 
 **Bloodline Arcana**: Whenever you cast a spell of the charm subschool, increase the spell's DC by +2.
 

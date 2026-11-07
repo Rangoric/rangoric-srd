@@ -15,7 +15,6 @@ tags: [rangoric, rangoric/overview]
 
 [[rangoric-srd/feats/Aligned Attack|Aligned Attack]]  
 [[rangoric-srd/feats/Antipsionic Magic|Antipsionic Magic]]  
-[[rangoric-srd/feats/Autonomous|Autonomous]]  
 [[rangoric-srd/feats/Body Fuel|Body Fuel]]  
 [[rangoric-srd/feats/Boost Construct|Boost Construct]]  
 [[rangoric-srd/feats/Burrowing Power|Burrowing Power]]  
@@ -166,7 +165,6 @@ These feat descriptions follow the standard format.
 
   - [[rangoric-srd/feats/Aligned Attack|Aligned Attack]]
   - [[rangoric-srd/feats/Antipsionic Magic|Antipsionic Magic]]
-  - [[rangoric-srd/feats/Autonomous|Autonomous]]
   - [[rangoric-srd/feats/Body Fuel|Body Fuel]]
   - [[rangoric-srd/feats/Boost Construct|Boost Construct]]
   - [[rangoric-srd/feats/Burrowing Power|Burrowing Power]]

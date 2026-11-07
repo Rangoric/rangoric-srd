@@ -29,7 +29,7 @@ Bards and rogues, with their wide range of skills, are particularly well suited 
 
 To qualify to become a master spy, a character must fulfill all the following criteria.
 
-**Feats**: [[rangoric-srd/feats/Deceitful|Deceitful]], [[rangoric-srd/feats/Iron Will|Iron Will]].
+**Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception or Imitation), [[rangoric-srd/feats/Iron Will|Iron Will]].
 
 **Skills**: [[rangoric-srd/skills/Deception|Deception]] 7 ranks, [[rangoric-srd/skills/Imitation|Imitation]] 7 ranks, [[rangoric-srd/skills/Perception|Perception]] 5 ranks, [[rangoric-srd/skills/Sense Motive|Sense Motive]] 5 ranks.
 
