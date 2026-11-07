@@ -30,6 +30,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Read Magic\|Read Magic]]:                       | Read scrolls and spellbooks.                          |
 | [[rangoric-srd/spells/Resistance\|Resistance]]:                       | Subject gains +1 bonus on saving throws.              |
 | [[rangoric-srd/spells/Spark\|Spark]]: | Ignites flammable objects. |
+| [[rangoric-srd/spells/Stabilize (Spell)\|Stabilize (Spell)]]: | Cause a dying creature to stabilize. |
 | [[rangoric-srd/spells/Virtue\|Virtue]]:                               | Subject gains 1 temporary hp.                         |
 
 ##### 1st-Level Druid Spells
@@ -60,6 +61,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Endothermic Touch\|Endothermic Touch]] (M): |  |
 | [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:                   | Exist comfortably in hot or cold environments.                             |
 | [[rangoric-srd/spells/Entangle\|Entangle]]:                                 | Plants entangle everyone in 40-ft.-radius.                                 |
+| [[rangoric-srd/spells/Expeditious Excavation\|Expeditious Excavation]] (M): | Moves 5-ft. cubes of earth. |
 | [[rangoric-srd/spells/Faerie Fire\|Faerie Fire]]:                           | Outlines subjects with light, canceling blur, concealment, and the like.   |
 | [[rangoric-srd/spells/Feather Step\|Feather Step]]: | Subject ignores adverse movement effects in difficult terrain. |
 | [[rangoric-srd/spells/Flare Burst\|Flare Burst]]: | As flare, but affects all creatures in 10 ft. |
@@ -69,6 +71,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M): | Your recall and ability to process information improve. |
 | [[rangoric-srd/spells/Hidden Spring\|Hidden Spring]] (F): | Discover a temporary spring of fresh, flowing water |
 | [[rangoric-srd/spells/Hide from Animals\|Hide from Animals]]:               | Animals can’t perceive one subject/level.                                  |
+| [[rangoric-srd/spells/Hydraulic Push\|Hydraulic Push]]: | Wave of water bull rushes an enemy. |
 | [[rangoric-srd/spells/Jump (Spell)\|Jump]]:                                 | Subject gets bonus on Athletics checks.                                         |
 | [[rangoric-srd/spells/Keen Senses\|Keen Senses]] (M): | Subject gains +2 Perception, low-light vision. |
 | [[rangoric-srd/spells/Liberating Command\|Liberating Command]]: | Target makes an Escape Artist check as an immediate action and gains a bonus on it. |
@@ -190,6 +193,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Share Language\|Share Language]] (M): | Subject understands chosen language. |
 | [[rangoric-srd/spells/Sickening Entanglement\|Sickening Entanglement]]: | As entangle, but plants have sickening sap. |
 | [[rangoric-srd/spells/Sickening Strikes\|Sickening Strikes]]: | You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. |
+| [[rangoric-srd/spells/Slipstream\|Slipstream]] (M): | Wave boosts creature's speed. |
 | [[rangoric-srd/spells/Soften Earth and Stone\|Soften Earth and Stone]]:   | Turns stone to clay or dirt to sand or mud.                                                                                                 |
 | [[rangoric-srd/spells/Spider Climb\|Spider Climb]]:                       | Grants ability to walk on walls and ceilings.                                                                                               |
 | [[rangoric-srd/spells/Steal Breath\|Steal Breath]]: | You pull the breath from a creature's lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components. |
@@ -221,6 +225,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Animal Aspect, Greater\|Animal Aspect, Greater]] (M): | As animal aspect, but you gain two animal qualities. |
 | [[rangoric-srd/spells/Anthropomorphic Animal\|Anthropomorphic Animal]] (M): | Animal becomes bipedal. |
 | [[rangoric-srd/spells/Apport Animal\|Apport Animal]]: | Send or receive a Tiny or smaller animal via teleportation. |
+| [[rangoric-srd/spells/Aqueous Orb\|Aqueous Orb]] (M): | Creates rolling sphere of water. |
 | [[rangoric-srd/spells/Ash Storm\|Ash Storm]] (M): | Hamper vision and movement. |
 | [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
 | [[rangoric-srd/spells/Badger’s Ferocity\|Badger’s Ferocity]]: | Weapons are keen while you concentrate. |
@@ -276,6 +281,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): |  |
 | [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Shifting Sand\|Shifting Sand]] (M): | Creates difficult terrain and erases tracks, can carry along some creatures and objects. |
 | [[rangoric-srd/spells/Signs of the Land\|Signs of the Land]]: | Learn up to three details about the surrounding territory |
 | [[rangoric-srd/spells/Sleet Storm\|Sleet Storm]]:                           | Hampers vision and movement.                                                                    |
 | [[rangoric-srd/spells/Snare\|Snare]]:                                       | Creates a magic booby trap.                                                                     |
@@ -333,6 +339,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Flaming Sphere, Greater\|Flaming Sphere, Greater]] (M): | Rolling ball of fire deals 6d6 fire damage and ignites targets. |
 | [[rangoric-srd/spells/Forest’s Sense\|Forest’s Sense]]: | Sense the location of a distant target that is near a plant or fungus |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:         | Subject moves normally despite impediments.                                                                  |
+| [[rangoric-srd/spells/Geyser\|Geyser]] (M): | Creates a geyser of boiling water. |
 | [[rangoric-srd/spells/Giant Vermin\|Giant Vermin]]:                       | Turns centipedes, scorpions, or spiders into giant vermin.                                                   |
 | [[rangoric-srd/spells/Grove of Respite\|Grove of Respite]] (M): | Creates trees and a small spring. |
 | [[rangoric-srd/spells/Healing Warmth\|Healing Warmth]]: | This spell grants you temporary immunity to fire damage as protection from energy. |
@@ -386,6 +393,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
 | [[rangoric-srd/spells/Hallow\|Hallow]] (M):                             | Designates location as holy.                                                                              |
+| [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: |  |
 | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]:                   | Locust swarms attack creatures.                                                                           |
 | [[rangoric-srd/spells/Old Salt’s Curse\|Old Salt’s Curse]] (M): | You inflict a curse of the roiling sea upon the target, making it permanently sickened. |
 | [[rangoric-srd/spells/Poisonous Balm\|Poisonous Balm]]: | As cure serious wounds, but leave behind a latent venom. |
@@ -496,6 +504,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Frightful Aspect\|Frightful Aspect]] (M): | You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened. |
 | [[rangoric-srd/spells/Repel Metal or Stone\|Repel Metal or Stone]]:           | Pushes away metal and stone.                                                                                     |
 | [[rangoric-srd/spells/Reverse Gravity\|Reverse Gravity]]:                     | Objects and creatures fall upward.                                                                               |
+| [[rangoric-srd/spells/Seamantle\|Seamantle]] (M): | Sheathes you in protective water. |
 | [[rangoric-srd/spells/Stormbolts\|Stormbolts]] (M): | 1d8 damage/level (max 20d8) to targets. |
 | [[rangoric-srd/spells/Summon Nature’s Ally VIII\|Summon Nature’s Ally VIII]]: | Calls creature to fight.                                                                                         |
 | [[rangoric-srd/spells/Sunburst\|Sunburst]]:                                   | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] all within 10 ft., deals 6d6 damage. |
@@ -509,6 +518,7 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                        | Brief Description                                                       |
 | --------------------------------------------------------------------------------- | ----------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Antipathy\|Antipathy]]:                                   | Object or location affected by spell repels certain creatures.          |
+| [[rangoric-srd/spells/Clashing Rocks\|Clashing Rocks]]: | 20d6 damage to target creature. |
 | [[rangoric-srd/spells/Cure Critical Wounds, Mass\|Cure Critical Wounds, Mass]]: | Cures 4d8 damage +1/level for many creatures.                           |
 | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]]:                       | Summons multiple elementals.                                            |
 | [[rangoric-srd/spells/Entice Fey, Greater\|Entice Fey, Greater]] (M): | Entice service from a fey of 18 Hit Dice or fewer. |
@@ -526,3 +536,4 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sympathy\|Sympathy]] (M):                                 | Object or location attracts certain creatures.                          |
 | [[rangoric-srd/spells/Tsunami\|Tsunami]]: | Huge wave damages and sweeps up all in its path. |
 | [[rangoric-srd/spells/Winds of Vengeance\|Winds of Vengeance]]: | Gives you the ability to fly and attack with wind. |
+| [[rangoric-srd/spells/World Wave\|World Wave]]: | Earth moves you across distances. |

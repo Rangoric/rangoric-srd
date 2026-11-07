@@ -30,6 +30,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Read Magic\|Read Magic]]:                       | Read scrolls and spellbooks.                          |
 | [[rangoric-srd/spells/Resistance\|Resistance]]:                       | Subject gains +1 on saving throws.                    |
 | [[rangoric-srd/spells/Spark\|Spark]]: | Ignites flammable objects. |
+| [[rangoric-srd/spells/Stabilize (Spell)\|Stabilize (Spell)]]: | Cause a dying creature to stabilize. |
 | [[rangoric-srd/spells/Virtue\|Virtue]]:                               | Subject gains 1 temporary hp.                         |
 
 ##### 1st-Level Cleric Spells
@@ -148,6 +149,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Eagle’s Splendor\|Eagle’s Splendor]]:               | Subject gains +4 to Cha for 1 min./level.                                                                                                    |
 | [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
 | [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Enemy’s Heart\|Enemy’s Heart]] (M): | You cut out an enemy's heart and consume it, absorbing that enemy's power as your own. |
 | [[rangoric-srd/spells/Enthrall\|Enthrall]]:                               | Captivates all within 100 ft. + 10 ft./level.                                                                                                |
 | [[rangoric-srd/spells/Find Traps\|Find Traps]]:                           | Notice traps as a rogue does.                                                                                                                |
 | [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]]:                     | Preserves one corpse.                                                                                                                        |

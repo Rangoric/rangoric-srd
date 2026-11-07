@@ -6,6 +6,7 @@ subschool: "Creation"
 descriptor:
   - "Water"
 level:
+  - "Drd 8"
   - "Sor/Wiz 8"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Water\]*
 
-  - **Level**: Sor/Wiz 8
+  - **Level**: Drd 8, Sor/Wiz 8
   - **Components**: V, S, M (a cup of water)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

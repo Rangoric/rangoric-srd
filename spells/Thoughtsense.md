@@ -35,4 +35,4 @@ tags: [rangoric, rangoric/spell]
   - **Duration**: Caster level minute(s)
   - **Spell Resistance**: No
 
-You automatically detect and locate conscious creatures within 60 feet, as if you possessed the blindsight ability. *Nondetection*, *[[rangoric-srd/spells/Mind Blank|mind blank]]*, and similar effects can block this effect. *Thoughtsense* can distinguish between sentient (Intelligence 3 or greater) and non-sentient creatures, but otherwise provides no information about the creatures it detects.
+You automatically detect and locate conscious creatures within 60 feet, as if you possessed the blindsight ability. *[[rangoric-srd/spells/Nondetection|Nondetection]]*, *[[rangoric-srd/spells/Mind Blank|mind blank]]*, and similar effects can block this effect. *Thoughtsense* can distinguish between sentient (Intelligence 3 or greater) and non-sentient creatures, but otherwise provides no information about the creatures it detects.

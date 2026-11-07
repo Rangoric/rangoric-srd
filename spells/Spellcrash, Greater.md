@@ -21,4 +21,4 @@ tags: [rangoric, rangoric/spell]
   - **Level**: Clr 8, Sor/Wiz 8
   - **Components**: 
 
-This spell functions as *lesser spellcrash*, except that it affects a 7th-level or lower prepared spell or spell slot.
+This spell functions as *[[rangoric-srd/spells/Spellcrash, Lesser|lesser spellcrash]]*, except that it affects a 7th-level or lower prepared spell or spell slot.
