@@ -37,9 +37,11 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Hero’s Defiance\|Hero’s Defiance]]: | Allows the use of lay on hands while falling unconscious. |
 | [[rangoric-srd/spells/Honeyed Tongue\|Honeyed Tongue]] (M): | Roll 2 dice when using Persuasion, take higher roll. |
 | [[rangoric-srd/spells/Horn of Pursuit\|Horn of Pursuit]]: | Create three notes heard miles away. |
+| [[rangoric-srd/spells/Ironbeard\|Ironbeard]]: | Causes a brushy beard of stiff iron to erupt from the face of a willing target. |
 | [[rangoric-srd/spells/Knight’s Calling\|Knight’s Calling]]: | Forces target to move toward you and fight you. |
 | [[rangoric-srd/spells/Know the Enemy\|Know the Enemy]]: | Gain +10 on a monster Knowledge check. |
 | [[rangoric-srd/spells/Liberating Command\|Liberating Command]]: | Target makes an Escape Artist check as an immediate action and gains a bonus on it. |
+| [[rangoric-srd/spells/Linebreaker\|Linebreaker]]: | You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to bull rush or overrun. |
 | [[rangoric-srd/spells/Litany of Sloth\|Litany of Sloth]]: | Single target cannot make attacks of opportunity for 1 round. |
 | [[rangoric-srd/spells/Longshot\|Longshot]] (M): | Grants a +10-foot bonus to the range increment for any ranged weapon fired. |
 | [[rangoric-srd/spells/Magic Weapon\|Magic Weapon]]:                                                                        | Weapon gains +1 bonus.                                                         |
@@ -53,6 +55,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Stunning Barrier\|Stunning Barrier]]: | Magical field grants a +1 bonus to AC and on saves, and stuns one creature attacking you. |
 | [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
 | [[rangoric-srd/spells/Tactical Acumen\|Tactical Acumen]] (M): | You gain an additional +1 on attack rolls or to AC due to battlefield positioning. |
+| [[rangoric-srd/spells/Veil of Heaven\|Veil of Heaven]]: | You surround yourself with a veil of positive energy, making it harder for evil outsiders to harm you. |
 | [[rangoric-srd/spells/Veil of Positive Energy\|Veil of Positive Energy]]: | +2 AC, +2 on saves vs. undead. |
 | [[rangoric-srd/spells/Virtue\|Virtue]]:                                                                                    | Subject gains 1 temporary hp.                                                  |
 | [[rangoric-srd/spells/Wartrain Mount\|Wartrain Mount]] (M): | Animal gains combat training. |
@@ -67,9 +70,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bestow Grace\|Bestow Grace]]: | Subject gains bonus on saving throws equal to Cha modifier. |
 | [[rangoric-srd/spells/Bestow Weapon Proficiency\|Bestow Weapon Proficiency]] (M): | Grants a creature proficiency in a single weapon for short period of time. |
 | [[rangoric-srd/spells/Blessing of Courage and Life\|Blessing of Courage and Life]]: | Grants a +2 bonus on saves vs. fear and death. |
+| [[rangoric-srd/spells/Blessing of Luck and Resolve\|Blessing of Luck and Resolve]]: | A favored blessing of halfling clerics, this spell grants its target a +2 morale bonus on saving throws against fear effects. |
+| [[rangoric-srd/spells/Blinding Ray\|Blinding Ray]]: | You blast your enemies with blinding rays of sunlight. |
 | [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]]:               | Subject gains +4 to Str for 1 min./level.                                |
 | [[rangoric-srd/spells/Bullet Ward\|Bullet Ward]] (F): | Adamantine bullets intercept firearm attacks. |
 | [[rangoric-srd/spells/Corruption Resistance\|Corruption Resistance]]: | Protects creature against damage from alignment-based attacks. |
+| [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                     | Stops poison from harming subject for 1 hour/level.                      |
 | [[rangoric-srd/spells/Divine Arrow\|Divine Arrow]]: | Imbues a projectile with holy energy. |
 | [[rangoric-srd/spells/Eagle’s Splendor\|Eagle’s Splendor]]:             | Subject gains +4 to Cha for 1 min./level.                                |
@@ -93,6 +99,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                   | Ignores 10 (or more) points of damage/attack from specified energy type. |
 | [[rangoric-srd/spells/Righteous Vigor\|Righteous Vigor]]: | Boosts attack bonus with each hit. |
 | [[rangoric-srd/spells/Sacred Bond\|Sacred Bond]] (F): | Cast touch healing spells from a distance. |
+| [[rangoric-srd/spells/Sacred Space\|Sacred Space]] (M): | This spell sanctifies an area with heavenly power. |
 | [[rangoric-srd/spells/Saddle Surge\|Saddle Surge]]: | Bonus damage for moving on mount. |
 | [[rangoric-srd/spells/Shield Companion\|Shield Companion]]: | As shield other, but affecting your companion creature. |
 | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F):                 | You take half of subject’s damage.                                       |
@@ -135,6 +142,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Prayer\|Prayer]]:                                         | Allies +1 bonus on most rolls, enemies –1 penalty.             |
 | [[rangoric-srd/spells/Spells P to R\|Remove Blindness/Deafness]]:               | Cures normal or magical conditions.                            |
 | [[rangoric-srd/spells/Remove Curse\|Remove Curse]]:                             | Frees object or person from curse.                             |
+| [[rangoric-srd/spells/Resilient Reservoir\|Resilient Reservoir]]: | Creates a magical well of retribution that a caster can unleash with blinding speed. |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Sanctify Armor\|Sanctify Armor]]: | +1 AC/four levels (max +5). |
 | [[rangoric-srd/spells/Shield of Fortification, Greater\|Shield of Fortification, Greater]]: |  |
@@ -147,6 +155,7 @@ tags: [rangoric, rangoric/overview]
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Bestow Grace of the Champion\|Bestow Grace of the Champion]]: | Target gains paladin abilities for 1 round/level. |
 | [[rangoric-srd/spells/Blaze of Glory\|Blaze of Glory]]: | Last stand cures good creatures, hurts evil. |
+| [[rangoric-srd/spells/Blessing of Luck and Resolve, Mass\|Blessing of Luck and Resolve, Mass]]: | Functions like blessing of luck and resolve, except that it affects multiple creatures. |
 | [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]:     | Frees subjects from enchantments, alterations, curses, and petrification. |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]: | Cures 3d8 damage +1/level (max +15).                                      |
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]:                   | Grants immunity to death spells and negative energy effects.              |
@@ -163,6 +172,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Mark of Justice\|Mark of Justice]]:         | Designates action that will trigger curse on subject.                     |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:     | Immunizes subject against poison, detoxifies venom in or on subject.      |
 | [[rangoric-srd/spells/Oath of Peace\|Oath of Peace]]: | Grants +5 AC and DR 10/evil, can't attack. |
+| [[rangoric-srd/spells/Paragon Surge\|Paragon Surge]]: | You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone. |
 | [[rangoric-srd/spells/Planeslayer’s Call\|Planeslayer’s Call]]: | Allies gain benefits against outsiders of an alignment you choose. |
 | [[rangoric-srd/spells/Raise Animal Companion\|Raise Animal Companion]] (M): | As raise dead, but on an animal. |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
