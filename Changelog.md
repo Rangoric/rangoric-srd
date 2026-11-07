@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-06 | 41 new skill feats from Pathfinder (part 2): the Misdirection feats, the Negotiator feats, Rhetorical Flourish, Parry Spell, Preferred Spell, Swipe and Stash, Walking Sleight, Master Alchemist, the Natural Poison feats and more. Perception and Sleight of Hand note where One Eye Open and Walking Sleight overlap their unlocks. | [[FT Batch 17 Changes]] | 41 new, 3 changed | [[Feat Topics]] |
 | 2026-11-06 | 91 new spells from Pathfinder's Advanced Race Guide, added to the sorcerer/wizard, druid, cleric, bard, ranger and paladin lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Pathfinder SRD spells (Advanced Race Guide) | [[Shared Spells]] |
 | 2026-11-06 | 127 new spells from Pathfinder's Advanced Class Guide, added to the sorcerer/wizard, bard, druid, cleric, ranger and paladin lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Pathfinder SRD spells (Advanced Class Guide) | [[Shared Spells]] |
 | 2026-11-06 | 45 new skill feats from Pathfinder (part 1): Conceal Spell, Antagonize, Call Truce, Cover Tracks, False Trail, Careful Sneak, Nature Magic and the nature Vital Strike feats, and more. Perception and Acrobatics note where Eagle-Eyed and Cat's Fall overlap their unlocks. | [[FT Batch 16 Changes]] | 45 new, 3 changed | [[Feat Topics]] |
