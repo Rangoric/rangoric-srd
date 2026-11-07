@@ -111,6 +111,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Hydraulic Push\|Hydraulic Push]]: | Wave of water bull rushes an enemy. |
 |               | [[rangoric-srd/spells/Magic Missile\|Magic Missile]]:                                                                                                                                                                              | 1d4+1 damage; +1 missile per two levels above 1st (max 5).                                                                                                                                                                                                                      |
 |               | [[rangoric-srd/spells/Shocking Grasp\|Shocking Grasp]]:                                                                                                                                                                            | Touch delivers 1d6/level electricity damage (max 5d6).                                                                                                                                                                                                                          |
+|               | [[rangoric-srd/spells/Snowball\|Snowball]]: | Throw a conjured ball of snow at a target |
 |               | [[rangoric-srd/spells/Thunderstomp\|Thunderstomp]]: | Trip one creature within range. |
 |               | [[rangoric-srd/spells/Touch of Combustion\|Touch of Combustion]]: | Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. |
 | Illusion      | [[rangoric-srd/spells/Alter Musical Instrument\|Alter Musical Instrument]] (F): | Make one instrument sound like a different kind of instrument. |
@@ -212,9 +213,11 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Protection from Law, Communal\|Protection from Law, Communal]]: | As protection from law, but you may divide the duration among creatures touched. |
 |               | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                   | Ignores first 10 (or more) points of damage/attack from specified energy type.                                                                                                              |
 |               | [[rangoric-srd/spells/Warding Weapon\|Warding Weapon]] (F): | The weapon you use for the focus of this spell defends you, allowing you to cast spells without provoking attacks of opportunity. |
+|               | [[rangoric-srd/spells/With the Wind\|With the Wind]]: | Protect a target from being blown away by wind of less than windstorm force |
 | Conjuration   | [[rangoric-srd/spells/Acid Arrow\|Acid Arrow]]:                         | Ranged touch attack; 2d4 damage for 1 round +1 round/three levels.                                                                                                                          |
 |               | [[rangoric-srd/spells/Apport Object\|Apport Object]]: | Send or receive a small object via teleportation. |
 |               | [[rangoric-srd/spells/Arrow Eruption\|Arrow Eruption]] (M): | Creates duplicates of killing arrow. |
+|               | [[rangoric-srd/spells/Callback\|Callback]] (M): | Teleport a familiar or spirit animal to your side when it is injured |
 |               | [[rangoric-srd/spells/Create Pit\|Create Pit]] (F): | Creates an extradimensional pit. |
 |               | [[rangoric-srd/spells/Cushioning Bands\|Cushioning Bands]]: | Force bands protect against crushing. |
 |               | [[rangoric-srd/spells/Dust of Twilight\|Dust of Twilight]] (M): | Black particles extinguish light sources within area. |
@@ -232,6 +235,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Stone Discus\|Stone Discus]] (M): | Flying discus deals bludgeoning or slashing damage. |
 |               | [[rangoric-srd/spells/Summon Monster II\|Summon Monster II]]:           | Calls extraplanar creature to fight for you.                                                                                                                                                |
 |               | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]]:                     | Summons swarm of bats, rats, or spiders.                                                                                                                                                    |
+|               | [[rangoric-srd/spells/Vine Strike\|Vine Strike]]: | Enhance one of your natural or unarmed attacks with thorny vine growth |
 |               | [[rangoric-srd/spells/Web\|Web]]:                                       | Fills 20-ft.-radius spread with sticky spiderwebs.                                                                                                                                          |
 |               | [[rangoric-srd/spells/Web Shelter\|Web Shelter]]: | Create a comfortable shelter made of webbing. |
 |               | [[rangoric-srd/spells/Whip of Spiders\|Whip of Spiders]] (M): | Create a whip made of poisonous spiders. |
@@ -350,14 +354,18 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Fleshy Facade\|Fleshy Facade]]: |  |
 |               | [[rangoric-srd/spells/Fox’s Cunning\|Fox’s Cunning]]:                   | Subject gains +4 Int for 1 min./level.                                                                                                                                                      |
 |               | [[rangoric-srd/spells/Glide\|Glide]] (M): | You take no falling damage and move 60 ft./round while falling. |
+|               | [[rangoric-srd/spells/Grasping Vine\|Grasping Vine]]: | Sprout a 20-ft long vine that can assist with numerous tasks. |
+|               | [[rangoric-srd/spells/Greensight\|Greensight]] (M): | Grant a target the ability to see through plant matter as if it were transparent |
 |               | [[rangoric-srd/spells/Kinetic Reverberation\|Kinetic Reverberation]] (M): | Channels the force of an enemy's attack back into its weapon. |
 |               | [[rangoric-srd/spells/Knock\|Knock]]:                                   | Opens locked or magically sealed door.                                                                                                                                                      |
 |               | [[rangoric-srd/spells/Levitate\|Levitate]]:                             | Subject moves up and down at your direction.                                                                                                                                                |
 |               | [[rangoric-srd/spells/Magic Siege Engine\|Magic Siege Engine]]: | Siege gains +1 on targeting and damage rolls. |
 |               | [[rangoric-srd/spells/Masterwork Transformation\|Masterwork Transformation]] (M): | Make a normal item into a masterwork one. |
+|               | [[rangoric-srd/spells/Merge with Familiar\|Merge with Familiar]]: | Merge the body of your familiar or spirit animal into your own |
 |               | [[rangoric-srd/spells/Mirror Hideaway\|Mirror Hideaway]] (M): | As many as eight creatures hide in an extradimensional space. |
 |               | [[rangoric-srd/spells/Molten Orb\|Molten Orb]]: | Molten metal splash weapon deals 2d6 fire damage plus ongoing damage. |
 |               | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                     | Subject gains +4 to Wis for 1 min./level.                                                                                                                                                   |
+|               | [[rangoric-srd/spells/Pouncing Fury\|Pouncing Fury]]: | Make a full attack with your claws after a charge |
 |               | [[rangoric-srd/spells/Pyrotechnics\|Pyrotechnics]]:                     | Turns fire into [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinding]] light or choking smoke.                                                                       |
 |               | [[rangoric-srd/spells/Recoil Fire\|Recoil Fire]] (M): | Ammunition in the targeted firearm generates excessive recoil. |
 |               | [[rangoric-srd/spells/Reinforce Armaments, Communal\|Reinforce Armaments, Communal]] (M): | As reinforce armaments, but you may divide the spell's duration among objects touched. |
@@ -396,6 +404,8 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Ash Storm\|Ash Storm]] (M): | Hamper vision and movement. |
 |               | [[rangoric-srd/spells/Conjure Carriage\|Conjure Carriage]] (M): | Create a fine carriage. |
 |               | [[rangoric-srd/spells/Gloomblind Bolts\|Gloomblind Bolts]]: | You create one or more bolts of negative energy infused with shadow pulled from the Shadow Plane. |
+|               | [[rangoric-srd/spells/Iron Stake\|Iron Stake]] (M): | Hurl a spike of cold iron at a foe |
+|               | [[rangoric-srd/spells/Leshy Swarm\|Leshy Swarm]] (M): | Call for a leshy swarm to aid you. |
 |               | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
 |               | [[rangoric-srd/spells/Nauseating Trail\|Nauseating Trail]] (M): | Creature leaves a trail of stinking cloud squares. |
 |               | [[rangoric-srd/spells/Pellet Blast\|Pellet Blast]] (M): | Creates an explosion of conjured metal pellets. |
@@ -423,6 +433,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Open Book\|Open Book]] (M): | Make it permanently easier to learn more about a target. |
 |               | [[rangoric-srd/spells/Pack Empathy\|Pack Empathy]]: | Create an empathic bond with allies. |
 |               | [[rangoric-srd/spells/Pierce Disguise\|Pierce Disguise]]: | See through low-level magical disguises. |
+|               | [[rangoric-srd/spells/Seed Spies\|Seed Spies]] (M): | Create a group of wafting seeds with magical intellect that can spy for you. |
 |               | [[rangoric-srd/spells/Seek Thoughts\|Seek Thoughts]] (M): | Detects thinking creatures' thoughts. |
 |               | [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
 |               | [[rangoric-srd/spells/Tongues\|Tongues]]:                                                                                                                                                                                                                   | Speak any language.                                                                                            |
@@ -430,6 +441,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Voluminous Vocabulary\|Voluminous Vocabulary]] (M): | Grant ability to speak, read, and write one or more languages for 8 hours. |
 | Enchantment   | [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
 |               | [[rangoric-srd/spells/Babble\|Babble]]: | Target becomes nauseated and causes nearby creatures to become fascinated. |
+|               | [[rangoric-srd/spells/Bleed for Your Master\|Bleed for Your Master]]: | Compel a companion to take damage for you |
 |               | [[rangoric-srd/spells/Contagious Zeal\|Contagious Zeal]]: | Grant bonuses and temporary hit points that spread from creature to creature. |
 |               | [[rangoric-srd/spells/Deep Slumber\|Deep Slumber]]:                                                                                                                                                                                                         | Puts 10 HD of creatures to sleep.                                                                              |
 |               | [[rangoric-srd/spells/Deflect Blame\|Deflect Blame]]: | Blame someone else for your actions. |
@@ -507,6 +519,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Darkvision, Communal\|Darkvision, Communal]] (M): | As darkvision, but you may divide the duration among creatures touched. |
 |               | [[rangoric-srd/spells/Devolution\|Devolution]] (M): | An eidolon temporarily loses 1 evolution +1/five levels. |
 |               | [[rangoric-srd/spells/Disable Construct\|Disable Construct]]: | Touch attack makes a construct helpless for 1 round/level. |
+|               | [[rangoric-srd/spells/Earth Tremor\|Earth Tremor]]: | Unleash a tremor that creates difficult terrain and can knock foes down and damage them |
 |               | [[rangoric-srd/spells/Enter Image\|Enter Image]] (M): | Transfers your consciousness to an object bearing your likeness. |
 |               | [[rangoric-srd/spells/Eruptive Pustules\|Eruptive Pustules]]: | Acid boils burst when you are attacked. |
 |               | [[rangoric-srd/spells/Excruciating Deformation\|Excruciating Deformation]]: | Target takes Dex and Con damage. |
@@ -667,6 +680,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Elemental Body I\|Elemental Body I]] (M): | You become a Small elemental. |
 |               | [[rangoric-srd/spells/Enlarge Person, Mass\|Enlarge Person, Mass]]:                         | Enlarges several creatures.                                                                                                        |
 |               | [[rangoric-srd/spells/Eyes of the Void\|Eyes of the Void]] (M): | See 60 ft. in darkness, including magical darkness. |
+|               | [[rangoric-srd/spells/Fey Form I\|Fey Form I]] (M): | Assume the form of a Small or Medium fey creature |
 |               | [[rangoric-srd/spells/Firefall\|Firefall]] (M): | Causes fire to burst up, dealing 2d6 fire damage. |
 |               | [[rangoric-srd/spells/Hellmouth Lash\|Hellmouth Lash]]: | Upon casting this spell, your tongue transforms into an energy whip weapon that can deal acid, electricity, or fire damage. |
 |               | [[rangoric-srd/spells/Magic Siege Engine, Greater\|Magic Siege Engine, Greater]] (M): | Siege engine gains +1 on targeting and damage rolls for every four caster levels. |
@@ -685,6 +699,8 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Shadowy Haven\|Shadowy Haven]] (M): | This spell functions like rope trick, except the point of entry is through a 5-foot-square instead of a rope. |
 |               | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]:                                           | Sculpts stone into any shape.                                                                                                      |
 |               | [[rangoric-srd/spells/Symbol of Slowing\|Symbol of Slowing]] (M): | Triggered rune slows creatures. |
+|               | [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
+|               | [[rangoric-srd/spells/Tailwind\|Tailwind]]: | Create a current of wind to enhance or impede flight |
 |               | [[rangoric-srd/spells/Telekinetic Maneuver\|Telekinetic Maneuver]]: | Perform a telekinetic combat maneuver. |
 |               | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M): | Take the form and some of the powers of a Small or Medium vermin. |
 
@@ -703,7 +719,9 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Unbreakable Construct\|Unbreakable Construct]] (M): | Increase construct hardness or DR. |
 |               | [[rangoric-srd/spells/Wreath of Blades\|Wreath of Blades]] (F): | Four mithral daggers speed around you, attacking nearby creatures and protecting your spellcasting from attacks of opportunity. |
 | Conjuration   | [[rangoric-srd/spells/Acidic Spray\|Acidic Spray]] (M): | 1d6/level acid damage plus 1 round of acid. |
+|               | [[rangoric-srd/spells/Callback, Greater\|Callback, Greater]] (M): | Teleport a familiar or spirit animal to your side from miles away when it is injured |
 |               | [[rangoric-srd/spells/Cloudkill\|Cloudkill]]:                           | Kills 3 HD or less; 4–6 HD save or die, 6+ HD take Con damage.                                         |
+|               | [[rangoric-srd/spells/Companion Transposition\|Companion Transposition]] (F): |  |
 |               | [[rangoric-srd/spells/Corrosive Consumption\|Corrosive Consumption]]: | Acidic patch damages an opponent. |
 |               | [[rangoric-srd/spells/Damnation Stride\|Damnation Stride]]: | This spell functions like dimension door, except you leave behind a burst of fire. |
 |               | [[rangoric-srd/spells/Geyser\|Geyser]] (M): | Creates a geyser of boiling water. |
@@ -790,18 +808,21 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
 |               | [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: |  |
 |               | [[rangoric-srd/spells/Monstrous Physique III\|Monstrous Physique III]] (M): | Take the form and some of the powers of a Diminutive or Huge monstrous humanoid. |
+|               | [[rangoric-srd/spells/Ooze Form I\|Ooze Form I]] (M): | Assume the form of a Small or Medium ooze creature |
 |               | [[rangoric-srd/spells/Overland Flight\|Overland Flight]]:               | You fly at a speed of 40 ft. and can hustle over long distances.                                       |
 |               | [[rangoric-srd/spells/Parchment Swarm\|Parchment Swarm]] (M): | Shredded parchment deals 1d6 points of damage per level, and has a spell effect if you shred a scroll. |
 |               | [[rangoric-srd/spells/Passwall\|Passwall]]:                             | Creates passage through wood or stone wall.                                                            |
 |               | [[rangoric-srd/spells/Planar Adaptation\|Planar Adaptation]]: | Resist harmful effects of other plane. |
 |               | [[rangoric-srd/spells/Plant Shape I\|Plant Shape I]] (M): | Turns you into a Small or Medium plant. |
 |               | [[rangoric-srd/spells/Rapid Repair\|Rapid Repair]]: | Construct gains fast healing 5. |
+|               | [[rangoric-srd/spells/Shapechanger’s Gift\|Shapechanger’s Gift]] (M): | Temporarily change a target into an animal, humanoid, or monstrous humanoid |
 |               | [[rangoric-srd/spells/Telekinesis\|Telekinesis]]:                       | Moves object, attacks creature, or hurls object or creature.                                           |
 |               | [[rangoric-srd/spells/Transmute Mud to Rock\|Transmute Mud to Rock]]:   | Transforms two 10-ft. cubes per level.                                                                 |
 |               | [[rangoric-srd/spells/Transmute Rock to Mud\|Transmute Rock to Mud]]:   | Transforms two 10-ft. cubes per level.                                                                 |
 |               | [[rangoric-srd/spells/Treasure Stitching\|Treasure Stitching]] (M): | Objects on cloth become embroidered. |
 |               | [[rangoric-srd/spells/Undead Anatomy II\|Undead Anatomy II]] (M): | Take the form and some of the powers of a Tiny or Large undead. |
 |               | [[rangoric-srd/spells/Vermin Shape II\|Vermin Shape II]] (M): |  |
+|               | [[rangoric-srd/spells/Waft\|Waft]] (M): | Alter the targets so they are light enough to be carried by the wind. |
 |               | [[rangoric-srd/spells/Wind Blades\|Wind Blades]]: | You harden the air around the target into jagged invisible blades that deal damage based on how fast the target moves. |
 | Universal     | [[rangoric-srd/spells/Permanency\|Permanency]] (X):                     | Makes certain spells permanent.                                                                        |
 
@@ -879,11 +900,13 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Bull’s Strength, Mass\|Bull’s Strength, Mass]]:       | As bull’s strength, affects one subject/ level.                                                                                                                                              |
 |               | [[rangoric-srd/spells/Cat’s Grace, Mass\|Cat’s Grace, Mass]]:               | As cat’s grace, affects one subject/level.                                                                                                                                                   |
 |               | [[rangoric-srd/spells/Control Water\|Control Water]]:                       | Raises or lowers bodies of water.                                                                                                                                                            |
+|               | [[rangoric-srd/spells/Delectable Flesh\|Delectable Flesh]]: | Make a creature so delicious that all others nearby are consumed by the desire to eat it. |
 |               | [[rangoric-srd/spells/Disintegrate\|Disintegrate]]:                         | Makes one creature or object vanish.                                                                                                                                                         |
 |               | [[rangoric-srd/spells/Eagle’s Splendor, Mass\|Eagle’s Splendor, Mass]]:     | As eagle’s splendor, affects one subject/level.                                                                                                                                              |
 |               | [[rangoric-srd/spells/Elemental Body III\|Elemental Body III]] (M): | You become a Small, Medium or Large elemental. |
 |               | [[rangoric-srd/spells/Enemy Hammer\|Enemy Hammer]] (M): | Allows you to telekinetically use a creature as a weapon. |
 |               | [[rangoric-srd/spells/Energy Siege Shot, Greater\|Energy Siege Shot, Greater]] (M): | As energy siege shot, but you can affect any size siege engine. |
+|               | [[rangoric-srd/spells/Fey Form II\|Fey Form II]] (M): | assume the form of a Tiny or Large fey creature |
 |               | [[rangoric-srd/spells/Flesh to Stone\|Flesh to Stone]]:                     | Turns subject creature into statue.                                                                                                                                                          |
 |               | [[rangoric-srd/spells/Fluid Form\|Fluid Form]] (M): | Gain DR 10/slashing, increases reach 10 ft., and breathe water. |
 |               | [[rangoric-srd/spells/Form of the Dragon I\|Form of the Dragon I]] (M): | You become a Medium dragon. |
@@ -891,6 +914,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Mage’s Lucubration\|Mage’s Lucubration]]:             | Wizard only. Recalls spell of 5th level or lower.                                                                                                                                            |
 |               | [[rangoric-srd/spells/Monstrous Physique IV\|Monstrous Physique IV]] (M): | As monstrous physique III, with more abilities. |
 |               | [[rangoric-srd/spells/Move Earth\|Move Earth]]:                             | Digs trenches and build hills.                                                                                                                                                               |
+|               | [[rangoric-srd/spells/Ooze Form II\|Ooze Form II]] (M): | Assume the form of a Large ooze creature |
 |               | [[rangoric-srd/spells/Owl’s Wisdom, Mass\|Owl’s Wisdom, Mass]]:             | As owl’s wisdom, affects one subject/ level.                                                                                                                                                 |
 |               | [[rangoric-srd/spells/Plant Shape II\|Plant Shape II]] (M): | Turns you into a Large plant creature. |
 |               | [[rangoric-srd/spells/Sonic Form\|Sonic Form]] (M): | Turn yourself into a creature of semisolid sound. |
@@ -971,17 +995,21 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Control Weather\|Control Weather]]:                           | Changes weather in local area.                                                                                                               |
 |               | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M): | You become a Small to Huge elemental. |
 |               | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]]:                             | You become ethereal for 1 round/level.                                                                                                       |
+|               | [[rangoric-srd/spells/Fey Form III\|Fey Form III]] (M): | Assume the form of a Diminutive or Huge fey creature |
 |               | [[rangoric-srd/spells/Firebrand\|Firebrand]]: | Allies gain flaming weapons, immunity to your fire spells, and a one-use ray of fire attack. |
 |               | [[rangoric-srd/spells/Fly, Mass\|Fly, Mass]] (F): | One creature/level gains ability to fly. |
 |               | [[rangoric-srd/spells/Form of the Dragon II\|Form of the Dragon II]] (M): | You become a Medium or Large dragon. |
 |               | [[rangoric-srd/spells/Giant Form I\|Giant Form I]] (M): | Turns you into a Large giant. |
 |               | [[rangoric-srd/spells/Ice Body\|Ice Body]]: | Your body becomes living ice. |
+|               | [[rangoric-srd/spells/Magical Beast Shape\|Magical Beast Shape]] (M): | Assume the form of a magical beast |
+|               | [[rangoric-srd/spells/Ooze Form III\|Ooze Form III]] (M): | Assume the form of a Huge ooze creature |
 |               | [[rangoric-srd/spells/Planar Adaptation, Mass\|Planar Adaptation, Mass]]: | As planar adaptation, but affects multiple creatures. |
 |               | [[rangoric-srd/spells/Plant Shape III\|Plant Shape III]] (M): | Turns you into a Huge plant. |
 |               | [[rangoric-srd/spells/Polymorph, Greater\|Polymorph, Greater]] (M): | Gives one willing subject a new, more powerful form. |
 |               | [[rangoric-srd/spells/Resonating Word\|Resonating Word]]: | Target is damaged, staggered, and stunned. |
 |               | [[rangoric-srd/spells/Reverse Gravity\|Reverse Gravity]]:                           | Objects and creatures fall upward.                                                                                                           |
 |               | [[rangoric-srd/spells/Shadow Body\|Shadow Body]]: | Turn your body into a living shadow. |
+|               | [[rangoric-srd/spells/Shapechanger’s Gift, Greater\|Shapechanger’s Gift, Greater]] (M): | Temporarily change a target into an animal, elemental, fey, humanoid, monstrous humanoid, or vermin |
 |               | [[rangoric-srd/spells/Statue\|Statue]]:                                             | Subject can become a statue at will.                                                                                                         |
 | Universal     | [[rangoric-srd/spells/Limited Wish\|Limited Wish]] (X):                             | Alters reality—within spell limits.                                                                                                          |
 
@@ -996,6 +1024,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Spellcrash, Greater\|Spellcrash, Greater]]: | Target loses a 7th-level prepared spell or spell slot. |
 | Conjuration   | [[rangoric-srd/spells/Call Construct\|Call Construct]] (M): | Summon your construct to you. |
 |               | [[rangoric-srd/spells/Create Demiplane\|Create Demiplane]] (F): | As lesser create demiplane, but larger and with planar traits. |
+|               | [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 |               | [[rangoric-srd/spells/Incendiary Cloud\|Incendiary Cloud]]:                   | Cloud deals 4d6 fire damage/round.                                                                                             |
 |               | [[rangoric-srd/spells/Instant Summons, Greater\|Instant Summons, Greater]] (M): | As instant summons, but for multiple objects and creatures. |
 |               | [[rangoric-srd/spells/Maze\|Maze]]:                                           | Traps subject in extradimensional maze.                                                                                        |
@@ -1040,6 +1069,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Polymorph Any Object\|Polymorph Any Object]]:           | Changes any subject into anything else.                                                                                        |
 |               | [[rangoric-srd/spells/Temporal Stasis\|Temporal Stasis]] (M):                 | Puts subject into suspended animation.                                                                                         |
 |               | [[rangoric-srd/spells/Undead Anatomy IV\|Undead Anatomy IV]] (M): | As undead anatomy III, but with more abilities. |
+|               | [[rangoric-srd/spells/Wandering Weather\|Wandering Weather]]: | Control weather in a large area that moves with you |
 
 ##### 9th-Level Sorcerer/Wizard Spells
 
@@ -1084,6 +1114,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Suffocation, Mass\|Suffocation, Mass]] (M): | One creature/level suffocates to death. |
 |               | [[rangoric-srd/spells/Wail of the Banshee\|Wail of the Banshee]]:       | Kills one creature/level.                                                                                        |
 | Transmutation | [[rangoric-srd/spells/Etherealness\|Etherealness]]:                     | Travel to Ethereal Plane with companions.                                                                        |
+|               | [[rangoric-srd/spells/Fey Form IV\|Fey Form IV]] (M): | Assume the form of a powerful fey creature |
 |               | [[rangoric-srd/spells/Fiery Body\|Fiery Body]]: | You gain various fire-related powers. |
 |               | [[rangoric-srd/spells/Shapechange\|Shapechange]] (F):                   | Transforms you into any creature, and change forms once per round.                                               |
 |               | [[rangoric-srd/spells/Time Stop\|Time Stop]]:                           | You act freely for 1d4+1 rounds.                                                                                 |

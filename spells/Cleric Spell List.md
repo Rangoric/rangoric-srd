@@ -64,6 +64,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:                                                                                                                             | Exist comfortably in hot or cold environments.                                           |
 | [[rangoric-srd/spells/Entropic Shield\|Entropic Shield]]:                                                                                                                             | Ranged attacks against you have 20% miss chance.                                         |
 | [[rangoric-srd/spells/Forbid Action\|Forbid Action]]: | Target obeys command to not do something. |
+| [[rangoric-srd/spells/Hidden Spring\|Hidden Spring]] (F): | Discover a temporary spring of fresh, flowing water |
 | [[rangoric-srd/spells/Hide from Undead\|Hide from Undead]]:                                                                                                                           | Undead can’t perceive one subject/level.                                                 |
 | [[rangoric-srd/spells/Inflict Light Wounds\|Inflict Light Wounds]]:                                                                                                                   | Touch deals 1d8 damage +1/level (max +5).                                                |
 | [[rangoric-srd/spells/Ironbeard\|Ironbeard]]: | Causes a brushy beard of stiff iron to erupt from the face of a willing target. |
@@ -249,6 +250,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Helping Hand\|Helping Hand]]:                              | Ghostly hand leads subject to you.                                                                                                                                            |
 | [[rangoric-srd/spells/Inflict Serious Wounds\|Inflict Serious Wounds]]:          | Touch attack, 3d8 damage +1/level (max +15).                                                                                                                                  |
 | [[rangoric-srd/spells/Invisibility Purge\|Invisibility Purge]]:                  | Dispels invisibility within 5 ft./level.                                                                                                                                      |
+| [[rangoric-srd/spells/Iron Stake\|Iron Stake]] (M): | Hurl a spike of cold iron at a foe |
 | [[rangoric-srd/spells/Ki Leech\|Ki Leech]]: | Add to your ki pool when you critically hit. |
 | [[rangoric-srd/spells/Locate Object\|Locate Object]]:                            | Senses direction toward object (specific or type).                                                                                                                            |
 | [[rangoric-srd/spells/Spells M to O\|Magic Circle against Chaos/Evil/Good/Law]]: | As protection spells, but 10-ft. radius and 10 min./level.                                                                                                                    |
@@ -353,6 +355,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Summoner Conduit\|Summoner Conduit]] (M): | The target takes damage whenever its summoned creature does. |
 | [[rangoric-srd/spells/Symbol of Revelation\|Symbol of Revelation]] (M): | Triggered symbol reveals illusions. |
 | [[rangoric-srd/spells/Symbol of Slowing\|Symbol of Slowing]] (M): | Triggered rune slows creatures. |
+| [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
+| [[rangoric-srd/spells/Tailwind\|Tailwind]]: | Create a current of wind to enhance or impede flight |
 | [[rangoric-srd/spells/Terrible Remorse\|Terrible Remorse]]: | Creature is compelled to harm itself. |
 | [[rangoric-srd/spells/Thaumaturgic Circle\|Thaumaturgic Circle]] (M): | As magic circle, but affecting a non-alignment subtype or outsider race. |
 | [[rangoric-srd/spells/Tongues\|Tongues]]:                                   | Speak any language.                                                                                                   |
@@ -418,6 +422,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Unhallow\|Unhallow]] (M):                                                                                                                                       | Designates location as unholy.                                            |
 | [[rangoric-srd/spells/Unholy Ice\|Unholy Ice]] (M): | Create wall or javelins of frozen unholy water. |
 | [[rangoric-srd/spells/Village Veil\|Village Veil]]: | You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. |
+| [[rangoric-srd/spells/Waft\|Waft]] (M): | Alter the targets so they are light enough to be carried by the wind. |
 | [[rangoric-srd/spells/Wall of Blindness-Deafness\|Wall of Blindness-Deafness]]: | Creatures that pass through a translucent wall are blinded or deafened. |
 | [[rangoric-srd/spells/Wall of Ectoplasm\|Wall of Ectoplasm]] (M): | Wall of spirits blocks movement on Material Plane and Ethereal Plane and causes fear. |
 | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]:                                                                                                                                 | Creates a stone wall that can be shaped.                                  |
@@ -514,6 +519,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Discern Location\|Discern Location]]:                           | Reveals exact location of creature or object.                   |
 | [[rangoric-srd/spells/Earthquake\|Earthquake]]:                                       | Intense tremor shakes 5-ft./level radius.                       |
 | [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |
+| [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                       | Deals 1d6/level fire damage.                                    |
 | [[rangoric-srd/spells/Frightful Aspect\|Frightful Aspect]] (M): | You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened. |
 | [[rangoric-srd/spells/Holy Aura\|Holy Aura]] (F):                                     | +4 to AC, +4 resistance, and SR 25 against evil spells.        |
@@ -530,6 +536,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Symbol of Insanity\|Symbol of Insanity]] (M):                   | Triggered rune renders nearby creatures insane.                 |
 | [[rangoric-srd/spells/True Prognostication\|True Prognostication]] (M): | Gain incredibly cryptic information for the distant future. |
 | [[rangoric-srd/spells/Unholy Aura\|Unholy Aura]] (F):                                 | +4 to AC, +4 resistance, and SR 25 against good spells.        |
+| [[rangoric-srd/spells/Wandering Weather\|Wandering Weather]]: | Control weather in a large area that moves with you |
 
 ##### 9th-Level Cleric Spells
 
