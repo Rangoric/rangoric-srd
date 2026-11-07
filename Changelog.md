@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-07 | 43 new spells from Pathfinder's Villain Codex and Planar Adventures (Foundry data), added to the sorcerer/wizard, cleric, bard, ranger, druid and paladin lists, the A–Z lists and All Spells; judgment undone names no deity or setting plane. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Foundry spells (Villain Codex, Planar Adventures) | [[Shared Spells]] |
 | 2026-11-07 | The two-skill feats Skill Focus replaced (Acrobatic, Alertness, Deceitful, Persuasive, Stealthy and the rest, 17 in all) and Autonomous are deleted. The sorcerer bloodlines and the master spy point to Skill Focus instead, and Blood Sentinel names the familiar's Skill Focus (Perception). | [[FT Batch 20 Changes]] | 18 deleted | [[Feat Topics]] |
 | 2026-11-07 | 57 new spells from Pathfinder's Ultimate Wilderness (Foundry data), added to the druid, sorcerer/wizard, ranger, bard, cleric and paladin lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Foundry spells (Ultimate Wilderness) | [[Shared Spells]] |
 | 2026-11-07 | 58 new spells from Pathfinder's Occult Adventures (Foundry data), added to the sorcerer/wizard, bard, cleric, druid and ranger lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Foundry spells (Occult Adventures) | [[Shared Spells]] |
