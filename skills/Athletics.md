@@ -197,7 +197,7 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 ### Climbing
 
-**5 Ranks**: You are no longer denied your Dexterity bonus when climbing.
+**5 Ranks**: You are no longer denied your Dexterity bonus when climbing (this overlaps the [[rangoric-srd/feats/Monkey Moves|Monkey Moves]] feat).
 
 **10 Ranks**: You gain a natural climb speed (but not the +8 racial bonus on Athletics checks to climb) of 10 feet, but only on surfaces with a climbing DC of 20 or lower.
 

@@ -21,7 +21,7 @@ A character can’t use a feat if he or she has lost a prerequisite.
 
 Some feats are general, meaning that no special rules govern them as a group. Others are item creation feats, which allow spellcasters to create magic items of all sorts. A metamagic feat lets a spellcaster prepare and cast a spell with greater effect, albeit as if the spell were a higher spell level than it actually is.
 
-A feat's type is a [[rangoric-srd/Tag Register|tag]] on its note, such as *fighter-bonus* or *metamagic*. General feats have no type tag. Epic, divine and wild feats are described in [[rangoric-srd/epic/Epic Feats#Types of Epic Feats|Epic Feats]], psionic and metapsionic feats in [[rangoric-srd/psionics/Psionic Feats|Psionic Feats]], and spelltouched feats in [[rangoric-srd/unearthed-arcana/Spelltouched Feats|Spelltouched Feats]].
+A feat's type is a [[rangoric-srd/Tag Register|tag]] on its note, such as *fighter-bonus*, *metamagic* or *style*. General feats have no type tag. Epic, divine and wild feats are described in [[rangoric-srd/epic/Epic Feats#Types of Epic Feats|Epic Feats]], psionic and metapsionic feats in [[rangoric-srd/psionics/Psionic Feats|Psionic Feats]], and spelltouched feats in [[rangoric-srd/unearthed-arcana/Spelltouched Feats|Spelltouched Feats]].
 
 ##### Fighter Bonus Feats
 
@@ -74,6 +74,10 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 **Magic Items and Metamagic Spells**: With the right item creation feat, you can store a metamagic version of a spell in a scroll, potion, or wand. Level limits for potions and wands apply to the spell’s higher spell level (after the application of the metamagic feat). A character doesn’t need the metamagic feat to activate an item storing a metamagic version of a spell.
 
 **Counterspelling Metamagic Spells**: Whether or not a spell has been enhanced by a metamagic feat does not affect its vulnerability to counterspelling or its ability to counterspell another spell.
+
+##### Style Feats
+
+A feat with the tag *style* sets a fighting stance. As a swift action, you can enter the stance of a style feat you have. You can't enter a stance before combat begins, but once you do, it lasts until you end it (a free action) or enter another. You can be in only one style's stance at a time. Feats that build on a style feat often work only "while using" that style, meaning while you are in its stance. ^style-feats
 
 ### Feat Descriptions
 
