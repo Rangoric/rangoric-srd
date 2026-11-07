@@ -17,16 +17,21 @@ tags: [rangoric, rangoric/overview]
 
 | Spell Name                                                                    | Brief Description                                                          |
 | ----------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Abundant Ammunition\|Abundant Ammunition]] (M): | Replaces nonmagical ammunition every round. |
+| [[rangoric-srd/spells/Air Bubble\|Air Bubble]] (M): | Creates a small pocket of air around your head or an object. |
 | [[rangoric-srd/spells/Alarm\|Alarm]]:                                       | Wards an area for 2 hours/level.                                           |
 | [[rangoric-srd/spells/Animal Messenger\|Animal Messenger]]:                 | Sends a Tiny animal to a specific place.                                   |
 | [[rangoric-srd/spells/Ant Haul\|Ant Haul]] (M): | Triples carrying capacity of a creature. |
 | [[rangoric-srd/spells/Anticipate Peril\|Anticipate Peril]]: | Target gains a bonus on one initiative check. |
 | [[rangoric-srd/spells/Aspect of the Falcon\|Aspect of the Falcon]]: | Gives bonuses on Perception and ranged attacks. |
+| [[rangoric-srd/spells/Bowstaff\|Bowstaff]]: | A shortbow may double as a club, or a longbow as a quarterstaff. |
 | [[rangoric-srd/spells/Call Animal\|Call Animal]]: | Makes an animal come to you. |
 | [[rangoric-srd/spells/Calm Animals\|Calm Animals]]:                         | Calms (2d4 + level) HD of animals.                                         |
 | [[rangoric-srd/spells/Charm Animal\|Charm Animal]]:                         | Makes one animal your friend.                                              |
 | [[rangoric-srd/spells/Cloak of Shade\|Cloak of Shade]] (M): | Reduces effects of intense sun exposure and environmental heat. |
+| [[rangoric-srd/spells/Compel Hostility\|Compel Hostility]] (M): | Compels opponents to attack you instead of your allies. |
 | [[rangoric-srd/spells/Dancing Lantern\|Dancing Lantern]] (F): | Animates a lantern that follows you. |
+| [[rangoric-srd/spells/Deadeye’s Lore\|Deadeye’s Lore]]: | Gain a +4 bonus on Fieldcraft and move full speed while tracking. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                         | Stops poison from harming subject for 1 hour/level.                        |
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants.                                        |
@@ -45,6 +50,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Keen Senses\|Keen Senses]] (M): | Subject gains +2 Perception, low-light vision. |
 | [[rangoric-srd/spells/Know the Enemy\|Know the Enemy]]: | Gain +10 on a monster Knowledge check. |
 | [[rangoric-srd/spells/Lead Blades\|Lead Blades]]: | Melee weapons damage as if one size bigger. |
+| [[rangoric-srd/spells/Liberating Command\|Liberating Command]]: | Target makes an Escape Artist check as an immediate action and gains a bonus on it. |
+| [[rangoric-srd/spells/Longshot\|Longshot]] (M): | Grants a +10-foot bonus to the range increment for any ranged weapon fired. |
 | [[rangoric-srd/spells/Longstrider\|Longstrider]]:                           | Increases your speed.                                                      |
 | [[rangoric-srd/spells/Magic Fang\|Magic Fang]]:                             | One natural weapon of subject creature gets +1 on attack and damage rolls. |
 | [[rangoric-srd/spells/Negate Aroma\|Negate Aroma]] (M): | Subject cannot be tracked by scent. |
@@ -52,9 +59,11 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Read Magic\|Read Magic]]:                             | Read scrolls and spellbooks.                                               |
 | [[rangoric-srd/spells/Residual Tracking\|Residual Tracking]] (M): | Tell creature's appearance by footprint. |
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                       | Ignores 10 (or more) points of damage/attack from specified energy type.   |
+| [[rangoric-srd/spells/Returning Weapon\|Returning Weapon]]: | Grants a weapon the returning special weapon quality. |
 | [[rangoric-srd/spells/Speak with Animals\|Speak with Animals]]:             | You can communicate with animals.                                          |
 | [[rangoric-srd/spells/Summon Minor Ally\|Summon Minor Ally]]: | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Nature’s Ally I\|Summon Nature’s Ally I]]:     | Calls animal to fight for you.                                             |
+| [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
 | [[rangoric-srd/spells/Tireless Pursuit\|Tireless Pursuit]] (M): | Ignore fatigue while hustling. |
 | [[rangoric-srd/spells/Wartrain Mount\|Wartrain Mount]] (M): | Animal gains combat training. |
 
@@ -65,27 +74,37 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Accelerate Poison\|Accelerate Poison]] (M): | Hastens targeted poison's onset. |
 | [[rangoric-srd/spells/Acute Senses\|Acute Senses]] (M): | Subject gains a bonus on Perception checks. |
 | [[rangoric-srd/spells/Allfood\|Allfood]] (M): | Turns item up to 5 lbs./level into food. |
+| [[rangoric-srd/spells/Animal Aspect\|Animal Aspect]] (M): | You gain some of the beneficial qualities of an animal. |
+| [[rangoric-srd/spells/Ant Haul, Communal\|Ant Haul, Communal]] (M): | As ant haul, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Arrow Eruption\|Arrow Eruption]] (M): | Creates duplicates of killing arrow. |
 | [[rangoric-srd/spells/Aspect of the Bear\|Aspect of the Bear]]: | +2 AC and combat maneuver rolls. |
 | [[rangoric-srd/spells/Badger’s Ferocity\|Badger’s Ferocity]]: | Weapons are keen while you concentrate. |
 | [[rangoric-srd/spells/Barkskin\|Barkskin]]:                               | Grants +2 (or higher) enhancement to natural armor.       |
 | [[rangoric-srd/spells/Bear’s Endurance\|Bear’s Endurance]]:               | Subject gains +4 to Con for 1 min./level.                 |
 | [[rangoric-srd/spells/Bloodhound\|Bloodhound]] (M): | Gives caster the scent special ability. |
+| [[rangoric-srd/spells/Brow Gasher\|Brow Gasher]]: | Slashing weapon deals bleed damage to an opponent's head. |
 | [[rangoric-srd/spells/Campfire Wall\|Campfire Wall]] (M): | Creates a shelter around a campfire. |
 | [[rangoric-srd/spells/Cat’s Grace\|Cat’s Grace]]:                         | Subject gains +4 to Dex for 1 min./level.                 |
 | [[rangoric-srd/spells/Chameleon Stride\|Chameleon Stride]]: | Gives a +4 bonus on Stealth checks and concealment. |
 | [[rangoric-srd/spells/Create Treasure Map\|Create Treasure Map]] (M): | Creates treasure map out of a creature's corpse. |
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:             | Cures 1d8 damage +1/level (max +5).                       |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
+| [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
+| [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Forest Friend\|Forest Friend]] (M): | Plants in a forested area become helpful instead of hindering you and your allies. |
 | [[rangoric-srd/spells/Guiding Star\|Guiding Star]] (M): | Know approximate distance from where you cast this spell. |
 | [[rangoric-srd/spells/Hide Campsite\|Hide Campsite]] (M): | Hides all traces of your campsite. |
 | [[rangoric-srd/spells/Hold Animal\|Hold Animal]]:                         | Paralyzes one animal for 1 round/level.                   |
 | [[rangoric-srd/spells/Hunter’s Eye\|Hunter’s Eye]]: | +20 on Perception checks to locate a target. |
+| [[rangoric-srd/spells/Locate Weakness\|Locate Weakness]] (M): | You roll damage twice when you roll damage for a critical hit and take the best damage. |
 | [[rangoric-srd/spells/Lockjaw\|Lockjaw]] (M): | Gives creature grab ability with a natural attack. |
 | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                       | Subject gains +4 to Wis for 1 min./level.                 |
 | [[rangoric-srd/spells/Perceive Cues\|Perceive Cues]] (M): | +5 Perception and Sense Motive 10 min./level. |
 | [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]]:   | Absorb 12 points/level of damage from one kind of energy. |
 | [[rangoric-srd/spells/Protective Spirit\|Protective Spirit]]: | Protects from attacks of opportunity. |
+| [[rangoric-srd/spells/Reloading Hands\|Reloading Hands]]: | Loads a single shot into your weapon every round. |
+| [[rangoric-srd/spells/Returning Weapon, Communal\|Returning Weapon, Communal]]: | As returning weapon, but you may divide the duration among weapons touched. |
+| [[rangoric-srd/spells/Ricochet Shot\|Ricochet Shot]] (M): | Imbues a projectile weapon to give its ammunition the ability to ricochet. |
 | [[rangoric-srd/spells/Snare\|Snare]]:                                     | Creates a magic booby trap.                               |
 | [[rangoric-srd/spells/Speak with Plants\|Speak with Plants]]:             | You can talk to normal plants and plant creatures.        |
 | [[rangoric-srd/spells/Spike Growth\|Spike Growth]]:                       | Creatures in area take 1d4 damage, may be slowed.         |
@@ -93,31 +112,39 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Summon Nature’s Ally II\|Summon Nature’s Ally II]]: | Calls animal to fight for you.                            |
 | [[rangoric-srd/spells/Versatile Weapon\|Versatile Weapon]] (M): | Weapon bypasses some DR. |
 | [[rangoric-srd/spells/Web Shelter\|Web Shelter]]: | Create a comfortable shelter made of webbing. |
+| [[rangoric-srd/spells/Wilderness Soldiers\|Wilderness Soldiers]]: | Nearby plants aid you in combat. |
 | [[rangoric-srd/spells/Wind Wall\|Wind Wall]]:                             | Deflects arrows, smaller creatures, and gases.            |
 
 ##### 3rd-Level Ranger Spells
 
 | Spell Name                                                                    | Brief Description                                                                                      |
 | ----------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| [[rangoric-srd/spells/Animal Aspect, Greater\|Animal Aspect, Greater]] (M): | As animal aspect, but you gain two animal qualities. |
 | [[rangoric-srd/spells/Aspect of the Stag\|Aspect of the Stag]]: | +2 AC against attacks of opportunity and increases speed. |
 | [[rangoric-srd/spells/Blessing of the Mole\|Blessing of the Mole]]: | 1 ally/level gains darkvision and a +2 Stealth bonus. |
 | [[rangoric-srd/spells/Bloody Claws\|Bloody Claws]]: | Gives creature the ability to deal bleed damage with natural attacks. |
 | [[rangoric-srd/spells/Burrow\|Burrow]]: | Target gains a burrow speed of 15. |
+| [[rangoric-srd/spells/Burst of Speed\|Burst of Speed]]: | You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are. |
 | [[rangoric-srd/spells/Cloak of Winds\|Cloak of Winds]]: | Creates a screen of wind around you. |
 | [[rangoric-srd/spells/Command Plants\|Command Plants]]:                     | Sway the actions of one or more plant creatures.                                                       |
+| [[rangoric-srd/spells/Companion Mind Link\|Companion Mind Link]]: | You can talk with your animal companion, and can handle it with supernatural ease. |
 | [[rangoric-srd/spells/Cure Moderate Wounds\|Cure Moderate Wounds]]:         | Cures 2d8 damage +1/level (max +10).                                                                   |
 | [[rangoric-srd/spells/Darkvision\|Darkvision]]:                             | See 60 ft. in total darkness.                                                                          |
+| [[rangoric-srd/spells/Delay Poison, Communal\|Delay Poison, Communal]]: | As delay poison, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Diminish Plants\|Diminish Plants]]:                   | Reduces size or blights growth of normal plants.                                                       |
 | [[rangoric-srd/spells/Feather Step, Mass\|Feather Step, Mass]]: | As feather step, but affects many targets rather than one. |
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
 | [[rangoric-srd/spells/Instant Enemy\|Instant Enemy]]: | Target is treated as a favored enemy type of your choice. |
 | [[rangoric-srd/spells/Life Bubble\|Life Bubble]] (M): | Protects creatures from sustained environmental effects. |
 | [[rangoric-srd/spells/Magic Fang, Greater\|Magic Fang, Greater]]:           | One natural weapon of subject creature gets +1/four caster levels on attack and damage rolls (max +5). |
+| [[rangoric-srd/spells/Named Bullet\|Named Bullet]] (M): | Imbues ammunition with accuracy against a specific creature type. |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:               | Immunizes subject against poison, detoxifies venom in or on subject.                                   |
 | [[rangoric-srd/spells/Plant Growth\|Plant Growth]]:                         | Grows vegetation, improves crops.                                                                      |
+| [[rangoric-srd/spells/Protection from Energy, Communal\|Protection from Energy, Communal]]: | As protection from energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Reduce Animal\|Reduce Animal]]:                       | Shrinks one willing animal.                                                                            |
 | [[rangoric-srd/spells/Remove Disease\|Remove Disease]]:                     | Cures all diseases affecting subject.                                                                  |
 | [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]:                         | Insects, spiders, and other vermin stay 10 ft. away.                                                   |
+| [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
 | [[rangoric-srd/spells/Summon Nature’s Ally III\|Summon Nature’s Ally III]]: | Calls animal to fight for you.                                                                         |
 | [[rangoric-srd/spells/Tireless Pursuers\|Tireless Pursuers]] (M): | As tireless pursuit, but affects many targets rather than one. |
@@ -135,10 +162,15 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bow Spirit\|Bow Spirit]]: | Summons an invisible spirit that fires your arrows for you as a swift action. |
 | [[rangoric-srd/spells/Commune with Nature\|Commune with Nature]]:         | Learn about terrain for 1 mile/level.       |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).        |
+| [[rangoric-srd/spells/Darkvision, Communal\|Darkvision, Communal]] (M): | As darkvision, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Darkvision, Greater\|Darkvision, Greater]] (M): | See 120 ft. in total darkness. |
+| [[rangoric-srd/spells/Find Quarry\|Find Quarry]]: | You can sense whether a particular creature is within 20 miles of your location. |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:         | Subject moves normally despite impediments. |
 | [[rangoric-srd/spells/Grove of Respite\|Grove of Respite]] (M): | Creates trees and a small spring. |
+| [[rangoric-srd/spells/Named Bullet, Greater\|Named Bullet, Greater]] (M): | As named bullet, but deals 2 points of damage for every caster level. |
 | [[rangoric-srd/spells/Nondetection\|Nondetection]] (M):                   | Hides subject from divination, scrying.     |
 | [[rangoric-srd/spells/Raise Animal Companion\|Raise Animal Companion]] (M): | As raise dead, but on an animal. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls animal to fight for you.              |
+| [[rangoric-srd/spells/Terrain Bond\|Terrain Bond]] (M): | Treat the terrain you are in as a favored terrain for the spell's duration. |
 | [[rangoric-srd/spells/Tree Stride\|Tree Stride]]:                         | Step from one tree to another far away.     |
+| [[rangoric-srd/spells/Water Walk, Communal\|Water Walk, Communal]]: | As water walk, but you may divide the duration among creatures touched. |

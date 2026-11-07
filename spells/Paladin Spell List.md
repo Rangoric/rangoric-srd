@@ -20,7 +20,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bless\|Bless]]:                                                                                      | Allies gain +1 on attack rolls and +1 on saves against fear.                   |
 | [[rangoric-srd/spells/Bless Water\|Bless Water]]:                                                                          | Makes holy water.                                                              |
 | [[rangoric-srd/spells/Bless Weapon\|Bless Weapon]]:                                                                        | Weapon strikes true against evil foes.                                         |
+| [[rangoric-srd/spells/Bowstaff\|Bowstaff]]: | A shortbow may double as a club, or a longbow as a quarterstaff. |
 | [[rangoric-srd/spells/Challenge Evil\|Challenge Evil]]: | Sickens creature if it refuses to fight you. |
+| [[rangoric-srd/spells/Compel Hostility\|Compel Hostility]] (M): | Compels opponents to attack you instead of your allies. |
 | [[rangoric-srd/spells/Create Water\|Create Water]]:                                                                        | Creates 2 gallons/level of pure water.                                         |
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:                                                              | Cures 1d8 damage +1/level (max +5).                                            |
 | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                                                                      | Detects poison in one creature or small object.                                |
@@ -35,6 +37,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Horn of Pursuit\|Horn of Pursuit]]: | Create three notes heard miles away. |
 | [[rangoric-srd/spells/Knight’s Calling\|Knight’s Calling]]: | Forces target to move toward you and fight you. |
 | [[rangoric-srd/spells/Know the Enemy\|Know the Enemy]]: | Gain +10 on a monster Knowledge check. |
+| [[rangoric-srd/spells/Liberating Command\|Liberating Command]]: | Target makes an Escape Artist check as an immediate action and gains a bonus on it. |
+| [[rangoric-srd/spells/Litany of Sloth\|Litany of Sloth]]: | Single target cannot make attacks of opportunity for 1 round. |
+| [[rangoric-srd/spells/Longshot\|Longshot]] (M): | Grants a +10-foot bonus to the range increment for any ranged weapon fired. |
 | [[rangoric-srd/spells/Magic Weapon\|Magic Weapon]]:                                                                        | Weapon gains +1 bonus.                                                         |
 | [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]]/[[rangoric-srd/spells/Protection from Evil\|Evil]]: | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
 | [[rangoric-srd/spells/Rally Point\|Rally Point]]: | Square gives good creatures bonuses. |
@@ -42,6 +47,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resistance\|Resistance]]:                                                                            | Subject gains +1 on saving throws.                                             |
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:                                                          | Dispels magical ability penalty or repairs 1d4 ability damage.                 |
 | [[rangoric-srd/spells/Sanctify Corpse\|Sanctify Corpse]] (M): | Prevent a corpse from becoming an undead. |
+| [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
+| [[rangoric-srd/spells/Tactical Acumen\|Tactical Acumen]] (M): | You gain an additional +1 on attack rolls or to AC due to battlefield positioning. |
 | [[rangoric-srd/spells/Veil of Positive Energy\|Veil of Positive Energy]]: | +2 AC, +2 on saves vs. undead. |
 | [[rangoric-srd/spells/Virtue\|Virtue]]:                                                                                    | Subject gains 1 temporary hp.                                                  |
 | [[rangoric-srd/spells/Wartrain Mount\|Wartrain Mount]] (M): | Animal gains combat training. |
@@ -54,17 +61,29 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Arrow of Law\|Arrow of Law]]: | Harm and possibly daze chaotic creatures. |
 | [[rangoric-srd/spells/Aura of Greater Courage\|Aura of Greater Courage]]: | Increases strength of a paladin's aura of courage. |
 | [[rangoric-srd/spells/Bestow Grace\|Bestow Grace]]: | Subject gains bonus on saving throws equal to Cha modifier. |
+| [[rangoric-srd/spells/Bestow Weapon Proficiency\|Bestow Weapon Proficiency]] (M): | Grants a creature proficiency in a single weapon for short period of time. |
 | [[rangoric-srd/spells/Blessing of Courage and Life\|Blessing of Courage and Life]]: | Grants a +2 bonus on saves vs. fear and death. |
 | [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]]:               | Subject gains +4 to Str for 1 min./level.                                |
 | [[rangoric-srd/spells/Corruption Resistance\|Corruption Resistance]]: | Protects creature against damage from alignment-based attacks. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                     | Stops poison from harming subject for 1 hour/level.                      |
+| [[rangoric-srd/spells/Divine Arrow\|Divine Arrow]]: | Imbues a projectile with holy energy. |
 | [[rangoric-srd/spells/Eagle’s Splendor\|Eagle’s Splendor]]:             | Subject gains +4 to Cha for 1 min./level.                                |
+| [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
+| [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Fire of Entanglement\|Fire of Entanglement]]: | Your ability to smite evil also entangles your foe. |
 | [[rangoric-srd/spells/Holy Shield\|Holy Shield]]: | Lend your shield's protection to another. |
 | [[rangoric-srd/spells/Instant Armor\|Instant Armor]]: | Summon armor temporarily replacing your current attire. |
 | [[rangoric-srd/spells/Light Lance\|Light Lance]]: | Creates a soaring beacon of light. |
+| [[rangoric-srd/spells/Litany of Defense\|Litany of Defense]]: | Doubles armor's enhancement bonus. |
+| [[rangoric-srd/spells/Litany of Eloquence\|Litany of Eloquence]]: | Fascinates a single creature for 1 round. |
+| [[rangoric-srd/spells/Litany of Entanglement\|Litany of Entanglement]]: | Entangles a creature for 1 round. |
+| [[rangoric-srd/spells/Litany of Righteousness\|Litany of Righteousness]]: | A single evil creature takes more damage from creatures with a good aura. |
+| [[rangoric-srd/spells/Litany of Warding\|Litany of Warding]]: | You gain two additional attacks of opportunity for 1 round. |
+| [[rangoric-srd/spells/Magic Siege Engine\|Magic Siege Engine]]: | Siege gains +1 on targeting and damage rolls. |
 | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                     | Subject gains +4 to Wis for 1 min./level.                                |
 | [[rangoric-srd/spells/Paladin’s Sacrifice\|Paladin’s Sacrifice]]: | Take the damage and effects for another creature. |
+| [[rangoric-srd/spells/Protection from Chaos, Communal\|Protection from Chaos, Communal]]: | As protection from chaos, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Protection from Evil, Communal\|Protection from Evil, Communal]] (M): | As protection from evil, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Remove Paralysis\|Remove Paralysis]]:             | Frees one or more creatures from paralysis or slow effect.               |
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                   | Ignores 10 (or more) points of damage/attack from specified energy type. |
 | [[rangoric-srd/spells/Righteous Vigor\|Righteous Vigor]]: | Boosts attack bonus with each hit. |
@@ -84,8 +103,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Archon’s Aura\|Archon’s Aura]]: | Aura penalizes enemy attacks and AC. |
 | [[rangoric-srd/spells/Blade of Bright Victory\|Blade of Bright Victory]]: | Bonded weapon gains ghost touch. |
 | [[rangoric-srd/spells/Blessing of the Mole\|Blessing of the Mole]]: | 1 ally/level gains darkvision and a +2 Stealth bonus. |
+| [[rangoric-srd/spells/Burst of Speed\|Burst of Speed]]: | You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are. |
 | [[rangoric-srd/spells/Cure Moderate Wounds\|Cure Moderate Wounds]]:             | Cures 2d8 damage +1/level (max +10).                           |
+| [[rangoric-srd/spells/Daybreak Arrow\|Daybreak Arrow]]: | Targeted ammunition exudes radiant energy. |
 | [[rangoric-srd/spells/Daylight\|Daylight]]:                                     | 60-ft. radius of bright light.                                 |
+| [[rangoric-srd/spells/Deadly Juggernaut\|Deadly Juggernaut]]: | Your might increases with every kill you make. |
+| [[rangoric-srd/spells/Delay Poison, Communal\|Delay Poison, Communal]]: | As delay poison, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Discern Lies\|Discern Lies]]:                             | Reveals deliberate falsehoods.                                 |
 | [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                             | Cancels spells and magical effects.                            |
 | [[rangoric-srd/spells/Divine Transfer\|Divine Transfer]]: | Transfer hit points and give DR/evil to target creature. |
@@ -94,6 +117,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Heal Mount\|Heal Mount]]:                                 | As heal on warhorse or other special mount.                    |
 | [[rangoric-srd/spells/Heroic Fortune\|Heroic Fortune]] (M): | Grants one hero point to a character |
 | [[rangoric-srd/spells/Holy Whisper\|Holy Whisper]]: | Whisper sickens evil creatures, gives good creatures bonuses. |
+| [[rangoric-srd/spells/Litany of Escape\|Litany of Escape]]: | Teleports a friend out of a grapple. |
+| [[rangoric-srd/spells/Litany of Sight\|Litany of Sight]]: | You can see invisible creatures and objects within 30 feet of you. |
 | [[rangoric-srd/spells/Magic Circle against Chaos\|Magic Circle against Chaos]]: | As protection from chaos, but 10-ft. radius and 10 min./level. |
 | [[rangoric-srd/spells/Magic Circle against Evil\|Magic Circle against Evil]]:   | As protection from evil, but 10-ft. radius and 10 min./level.  |
 | [[rangoric-srd/spells/Magic Weapon, Greater\|Magic Weapon, Greater]]:           | +1 bonus/four levels (max +5).                                |
@@ -101,6 +126,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Prayer\|Prayer]]:                                         | Allies +1 bonus on most rolls, enemies –1 penalty.             |
 | [[rangoric-srd/spells/Spells P to R\|Remove Blindness/Deafness]]:               | Cures normal or magical conditions.                            |
 | [[rangoric-srd/spells/Remove Curse\|Remove Curse]]:                             | Frees object or person from curse.                             |
+| [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Sanctify Armor\|Sanctify Armor]]: | +1 AC/four levels (max +5). |
 | [[rangoric-srd/spells/Wrathful Mantle\|Wrathful Mantle]]: | Subject shines and gets +1/four levels on all saves. |
 
@@ -119,6 +145,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Forced Repentance\|Forced Repentance]]: | Target falls prone and confesses sins. |
 | [[rangoric-srd/spells/Holy Sword\|Holy Sword]]:                   | Weapon becomes +5, deals +2d6 damage against evil.                        |
 | [[rangoric-srd/spells/King’s Castle\|King’s Castle]]: | Instantly switch places with a single ally. |
+| [[rangoric-srd/spells/Litany of Thunder\|Litany of Thunder]]: | A single target is deafened until the condition is removed, and is confused for 1 round. |
+| [[rangoric-srd/spells/Litany of Vengeance\|Litany of Vengeance]]: | Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round. |
+| [[rangoric-srd/spells/Magic Siege Engine, Greater\|Magic Siege Engine, Greater]] (M): | Siege engine gains +1 on targeting and damage rolls for every four caster levels. |
 | [[rangoric-srd/spells/Mark of Justice\|Mark of Justice]]:         | Designates action that will trigger curse on subject.                     |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:     | Immunizes subject against poison, detoxifies venom in or on subject.      |
 | [[rangoric-srd/spells/Oath of Peace\|Oath of Peace]]: | Grants +5 AC and DR 10/evil, can't attack. |
