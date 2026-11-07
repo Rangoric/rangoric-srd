@@ -2,13 +2,14 @@
 srd-type: "class"
 section: "Classes"
 alignment: "Any"
-hit-die: "d4"
+hit-die: "d6"
 skill-points: "2 + Int modifier"
 based-on:
+  - "[[path srd 3.5/classes/Wizard|Wizard (PF1)]]"
   - "[[fantasy srd 3.5/classes/Wizard|Wizard (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-07
 tags: [rangoric, rangoric/class]
 ---
 
@@ -16,13 +17,17 @@ tags: [rangoric, rangoric/class]
 
 ### Wizard
 
+Beyond the veil of the mundane hide the secrets of absolute power. The works of beings beyond mortals, the legends of realms where gods and spirits tread, the lore of creations both wondrous and terrible—such mysteries call to those with the ambition and the intellect to rise above the common folk to grasp true might. Such is the path of the wizard. These shrewd magic-users seek, collect, and covet esoteric knowledge, drawing on cultic arts to work wonders beyond the abilities of mere mortals. While some might choose a particular field of magical study and become masters of such powers, others embrace versatility, reveling in the unbounded wonders of all magic. In either case, wizards prove a cunning and potent lot, capable of smiting their foes, empowering their allies, and shaping the world to their every desire.
+
+**Role**: While universalist wizards might study to prepare themselves for any manner of danger, specialist wizards research schools of magic that make them exceptionally skilled within a specific focus. Yet no matter their specialty, all wizards are masters of the impossible and can aid their allies in overcoming any danger.
+
 **Alignment**: Any.
 
-**Hit Die**: d4.
+**Hit Die**: d6.
 
 ###### Class Skills
 
-The wizard’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
+The wizard’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex) and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
 
 **Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the wizard’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the wizard’s Magic skill checks and wherever a rule says “your Magic skill”.
 
@@ -32,26 +37,26 @@ The wizard’s class skills (and the key ability for each skill) are all [[rango
 
 | Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                        | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
 | ----- | ----------------- | --------- | -------- | --------- | ------------------------------ | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +0               | +0       | +0      | +2       | Summon familiar, Scribe Scroll | 3                 | 1                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 2nd   | +1               | +0       | +0      | +3       |                                | 4                 | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 3rd   | +1               | +1       | +1      | +3       |                                | 4                 | 2                   | 1                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 4th   | +2               | +1       | +1      | +4       |                                | 4                 | 3                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 5th   | +2               | +1       | +1      | +4       | Bonus feat                     | 4                 | 3                   | 2                   | 1                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 6th   | +3               | +2       | +2      | +5       |                                | 4                 | 3                   | 3                   | 2                   | —                   | —                   | —                   | —                   | —                   | —                   |
-| 7th   | +3               | +2       | +2      | +5       |                                | 4                 | 4                   | 3                   | 2                   | 1                   | —                   | —                   | —                   | —                   | —                   |
-| 8th   | +4               | +2       | +2      | +6       |                                | 4                 | 4                   | 3                   | 3                   | 2                   | —                   | —                   | —                   | —                   | —                   |
-| 9th   | +4               | +3       | +3      | +6       |                                | 4                 | 4                   | 4                   | 3                   | 2                   | 1                   | —                   | —                   | —                   | —                   |
-| 10th  | +5               | +3       | +3      | +7       | Bonus feat                     | 4                 | 4                   | 4                   | 3                   | 3                   | 2                   | —                   | —                   | —                   | —                   |
-| 11th  | +5               | +3       | +3      | +7       |                                | 4                 | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   | —                   | —                   | —                   |
-| 12th  | +6/+1            | +4       | +4      | +8       |                                | 4                 | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   | —                   | —                   | —                   |
-| 13th  | +6/+1            | +4       | +4      | +8       |                                | 4                 | 4                   | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   | —                   | —                   |
-| 14th  | +7/+2            | +4       | +4      | +9       |                                | 4                 | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   | —                   | —                   |
-| 15th  | +7/+2            | +5       | +5      | +9       | Bonus feat                     | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   | —                   |
-| 16th  | +8/+3            | +5       | +5      | +10      |                                | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   | —                   |
-| 17th  | +8/+3            | +5       | +5      | +10      |                                | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 2                   | 1                   |
-| 18th  | +9/+4            | +6       | +6      | +11      |                                | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   | 2                   |
-| 19th  | +9/+4            | +6       | +6      | +11      |                                | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 3                   | 3                   |
-| 20th  | +10/+5           | +6       | +6      | +12      | Bonus feat                     | 4                 | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   | 4                   |
+| 1st   | +0               | +0       | +0      | +2       | Arcane bond, arcane school, cantrips, Scribe Scroll | 3 | 1 | — | — | — | — | — | — | — | — |
+| 2nd   | +1               | +0       | +0      | +3       | — | 4 | 2 | — | — | — | — | — | — | — | — |
+| 3rd   | +1               | +1       | +1      | +3       | — | 4 | 2 | 1 | — | — | — | — | — | — | — |
+| 4th   | +2               | +1       | +1      | +4       | — | 4 | 3 | 2 | — | — | — | — | — | — | — |
+| 5th   | +2               | +1       | +1      | +4       | Bonus feat | 4 | 3 | 2 | 1 | — | — | — | — | — | — |
+| 6th   | +3               | +2       | +2      | +5       | — | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 7th   | +3               | +2       | +2      | +5       | — | 4 | 4 | 3 | 2 | 1 | — | — | — | — | — |
+| 8th   | +4               | +2       | +2      | +6       | — | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th   | +4               | +3       | +3      | +6       | — | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
+| 10th  | +5               | +3       | +3      | +7       | Bonus feat | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
+| 11th  | +5               | +3       | +3      | +7       | — | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
+| 12th  | +6/+1            | +4       | +4      | +8       | — | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
+| 13th  | +6/+1            | +4       | +4      | +8       | — | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
+| 14th  | +7/+2            | +4       | +4      | +9       | — | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
+| 15th  | +7/+2            | +5       | +5      | +9       | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
+| 16th  | +8/+3            | +5       | +5      | +10      | — | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
+| 17th  | +8/+3            | +5       | +5      | +10      | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
+| 18th  | +9/+4            | +6       | +6      | +11      | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
+| 19th  | +9/+4            | +6       | +6      | +11      | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
+| 20th  | +10/+5           | +6       | +6      | +12      | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
 ###### Class Features
 
@@ -69,7 +74,19 @@ Unlike a bard or sorcerer, a wizard may know any number of spells. She must choo
 
 **Bonus Languages**: A wizard may substitute Draconic for one of the bonus languages available to the character because of her race. ^wizard-bonus-languages
 
-**Familiar**: A wizard can obtain a familiar in exactly the same manner as a sorcerer can. See the sorcerer description and the information on Familiars below for details. ^wizard-familiar
+**Arcane Bond (Sp)**: At 1st level, wizards form a powerful bond with an object or a creature. This bond can take one of two forms: a familiar or a bonded object. A familiar is a magical pet that enhances the wizard's skills and senses and can aid her in magic, while a bonded object is an item a wizard can use to cast additional spells or to serve as a magical item. Once a wizard makes this choice, it is permanent and cannot be changed. Rules for bonded objects are given below; a familiar is gained in the same manner as a sorcerer’s, with the rules in Familiars, below. ^wizard-arcane-bond
+
+Wizards who select a bonded object begin play with one at no cost. Objects that are the subject of an arcane bond must fall into one of the following categories: amulet, ring, staff, wand, or weapon. These objects are always masterwork quality. Weapons acquired at 1st level are not made of any special material. If the object is an amulet or ring, it must be worn to have effect, while staves, wands, and weapons must be held in one hand. If a wizard attempts to cast a spell without her bonded object worn or in hand, she must make a [[rangoric-srd/rules/Concentration (Check)|concentration]] check or lose the spell. The DC for this check is equal to 20 + the spell's level. If the object is a ring or amulet, it occupies the ring or neck slot accordingly.
+
+A bonded object can be used once per day to cast any one spell that the wizard has in her spellbook and is capable of casting, even if the spell is not prepared. This spell is treated like any other spell cast by the wizard, including casting time, duration, and other effects dependent on the wizard's level. This spell cannot be modified by metamagic feats or other abilities. The bonded object cannot be used to cast spells from the wizard's opposition schools (see Arcane School, below).
+
+A wizard can add additional magic abilities to her bonded object as if she has the required item creation feats and if she meets the level prerequisites of the feat. For example, a wizard with a bonded dagger must be at least 5th level to add magic abilities to the dagger (see the [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]] feat). If the bonded object is a wand, it loses its wand abilities when its last charge is consumed, but it is not destroyed and it retains all of its bonded object properties and can be used to craft a new wand. The magic properties of a bonded object, including any magic abilities added to the object, only function for the wizard who owns it. If a bonded object's owner dies, or the item is replaced, the object reverts to being an ordinary masterwork item of the appropriate type.
+
+If a bonded object is damaged, it is restored to full hit points the next time the wizard prepares her spells. If the object of an arcane bond is lost or destroyed, it can be replaced after 1 week in a special ritual that costs 200 gp per wizard level plus the cost of the masterwork item. This ritual takes 8 hours to complete. Items replaced in this way do not possess any of the additional enchantments of the previous bonded item. A wizard can designate an existing magic item as her bonded item. This functions in the same way as replacing a lost or destroyed item except that the new magic item retains its abilities while gaining the benefits and drawbacks of becoming a bonded item. ^wizard-familiar
+
+**Arcane School**: At 1st level, a wizard chooses an arcane school, or takes the universalist school; see Arcane School, below. ^wizard-arcane-school-feature
+
+**Cantrips**: Wizards can prepare a number of cantrips, or 0-level spells, each day, as noted on Table: Wizard under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again. A wizard can prepare a cantrip from an opposition school, but it uses up two of her available slots (see Arcane School, below). ^wizard-cantrips
 
 **Scribe Scroll**: At 1st level, a wizard gains [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]] as a bonus feat. ^wizard-scribe-scroll
 
@@ -77,37 +94,23 @@ Unlike a bard or sorcerer, a wizard may know any number of spells. She must choo
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The wizard is not limited to the categories of [[rangoric-srd/feats/Feats Item Creation|item creation feats]], [[rangoric-srd/feats/Feats Metamagic|metamagic feats]], or [[rangoric-srd/feats/Spell Mastery|Spell Mastery]] when choosing these feats.
 
-**Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for read magic, which all wizards can prepare from memory. ^wizard-spellbooks
+**Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for *[[rangoric-srd/spells/Read Magic|read magic]]*, which all wizards can prepare from memory. ^wizard-spellbooks
 
-A wizard begins play with a spellbook containing all 0-level wizard spells (except those from her prohibited school or schools, if any; see School Specialization, below) plus three 1st-level spells of your choice. For each point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to her own.
+A wizard begins play with a spellbook containing all 0-level wizard spells plus three 1st-level spells of your choice. For each point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to her own.
 
-##### School Specialization
+##### Arcane School
 
-A school is one of eight groupings of spells, each defined by a common theme. If desired, a wizard may specialize in one school of magic (see below). Specialization allows a wizard to cast extra spells from her chosen school, but she then never learns to cast spells from some other schools.
+A wizard can choose to specialize in one school of magic, gaining additional spells and powers based on that school. This choice must be made at 1st level, and once made, it cannot be changed. A wizard that does not select a school receives the universalist school instead. ^wizard-arcane-school
 
-A specialist wizard can prepare one additional spell of her specialty school per spell level each day. She also gains a +2 bonus on checks to learn the spells of her chosen school (see [[rangoric-srd/spells/Arcane Magic#Adding Spells to a Wizard’s Spellbook|Arcane Magic]]) and on Magic skill checks when dealing with a spell or effect from it, and takes a –5 penalty on Magic skill checks when dealing with a spell or effect from a prohibited school.
+A wizard that chooses to specialize in one school of magic must select two other schools as her opposition schools, representing knowledge sacrificed in one area of arcane lore to gain mastery in another. A wizard who prepares spells from her opposition schools must use two spell slots of that level to prepare the spell. For example, a wizard with evocation as an opposition school must expend two of her available 3rd-level spell slots to prepare a *[[rangoric-srd/spells/Fireball|fireball]]*. In addition, a specialist takes a –4 penalty on any skill checks made when crafting a magic item that has a spell from one of her opposition schools as a prerequisite. A universalist wizard can prepare spells from any school without restriction.
 
-The wizard must choose whether to specialize and, if she does so, choose her specialty at 1st level. At this time, she must also give up two other schools of magic (unless she chooses to specialize in divination; see below), which become her prohibited schools. A wizard can never give up divination to fulfill this requirement. Spells of the prohibited school or schools are not available to the wizard, and she can’t even cast such spells from scrolls or fire them from wands. She may not change either her specialization or her prohibited schools later.
+Each arcane school gives the wizard a number of school powers. In addition, specialist wizards receive an additional spell slot of each spell level she can cast, from 1st on up. Each day, a wizard can prepare a spell from her specialty school in that slot. This spell must be in the wizard's spellbook. A wizard can select a spell modified by a metamagic feat to prepare in her school slot, but it uses up a higher-level spell slot. Wizards with the universalist school do not receive a school slot.
 
-The eight schools of arcane magic are abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation. Spells that do not fall into any of these schools are called universal spells.
+A specialist also gains a +2 bonus on checks to learn the spells of her chosen school (see [[rangoric-srd/spells/Arcane Magic#Adding Spells to a Wizard’s Spellbook|Arcane Magic]]) and on Magic skill checks when dealing with a spell or effect from it, and takes a –5 penalty on Magic skill checks when dealing with a spell or effect from one of her opposition schools.
 
-*Abjuration*: Spells that protect, block, or banish. An abjuration specialist is called an abjurer. ^wizard-abjuration
+The eight schools of arcane magic are abjuration, conjuration, divination, enchantment, evocation, illusion, necromancy, and transmutation. Spells that do not fall into any of these schools are called universal spells; universal is not a school, so it can be neither a specialty nor an opposition school.
 
-*Conjuration*: Spells that bring creatures or materials to the caster. A conjuration specialist is called a conjurer. ^wizard-conjuration
-
-*Divination*: Spells that reveal information. A divination specialist is called a diviner. Unlike the other specialists, a diviner must give up only one other school. ^wizard-divination
-
-*Enchantment*: Spells that imbue the recipient with some property or grant the caster power over another being. An enchantment specialist is called an enchanter. ^wizard-enchantment
-
-*Evocation*: Spells that manipulate energy or create something from nothing. An evocation specialist is called an evoker. ^wizard-evocation
-
-*Illusion*: Spells that alter perception or create false images. An illusion specialist is called an illusionist. ^wizard-illusion
-
-*Necromancy*: Spells that manipulate, create, or destroy life or life force. A necromancy specialist is called a necromancer. ^wizard-necromancy
-
-*Transmutation*: Spells that transform the recipient physically or change its properties in a more subtle way. A transmutation specialist is called a transmuter. ^wizard-transmutation
-
-*Universal*: Not a school, but a category for spells that all wizards can learn. A wizard cannot select universal as a specialty school or as a prohibited school. Only a limited number of spells fall into this category. ^wizard-universal
+The schools and their powers, one note each: [[rangoric-srd/class-options/arcane-schools/Abjuration School|abjuration]], [[rangoric-srd/class-options/arcane-schools/Conjuration School|conjuration]], [[rangoric-srd/class-options/arcane-schools/Divination School|divination]], [[rangoric-srd/class-options/arcane-schools/Enchantment School|enchantment]], [[rangoric-srd/class-options/arcane-schools/Evocation School|evocation]], [[rangoric-srd/class-options/arcane-schools/Illusion School|illusion]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|necromancy]], [[rangoric-srd/class-options/arcane-schools/Transmutation School|transmutation]], and the [[rangoric-srd/class-options/arcane-schools/Universalist School|universalist school]] (see [[rangoric-srd/class-options/arcane-schools/Arcane Schools|Arcane Schools]]).
 
 ##### Familiars
 

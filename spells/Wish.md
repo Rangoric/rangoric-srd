@@ -41,13 +41,13 @@ Even wish, however, has its limits.
 
 A wish can produce any one of the following effects.
 
-  - Duplicate any wizard or sorcerer spell of 8th level or lower, provided the spell is not of a school prohibited to you.
+  - Duplicate any wizard or sorcerer spell of 8th level or lower, provided the spell is not of one of your opposition schools.
 
-  - Duplicate any other spell of 6th level or lower, provided the spell is not of a school prohibited to you.
+  - Duplicate any other spell of 6th level or lower, provided the spell is not of one of your opposition schools.
 
-  - Duplicate any wizard or sorcerer spell of 7th level or lower even if it’s of a prohibited school.
+  - Duplicate any wizard or sorcerer spell of 7th level or lower even if it’s of one of your opposition schools.
 
-  - Duplicate any other spell of 5th level or lower even if it’s of a prohibited school.
+  - Duplicate any other spell of 5th level or lower even if it’s of one of your opposition schools.
 
   - Undo the harmful effects of many other spells, such as geas/quest or insanity.
 

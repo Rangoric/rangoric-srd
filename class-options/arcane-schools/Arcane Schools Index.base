@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/arcane-schools")
+views:
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.srd-type
+      - note.school-type
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC

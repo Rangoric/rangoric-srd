@@ -45,7 +45,7 @@ Learning a spell from a spellbook or scroll, and preparing a spell from a borrow
 
 **Try Again**: See above.
 
-**Special**: A [[rangoric-srd/classes/Wizard#School Specialization|specialist wizard]] is better at Magic skill checks involving her specialty school and worse with her prohibited schools; see the wizard.
+**Special**: A [[rangoric-srd/classes/Wizard#Arcane School|specialist wizard]] is better at Magic skill checks involving her specialty school and worse with her opposition schools; see the wizard.
 
 Additionally, certain spells allow you to gain information about magic, provided that you make a successful Magic skill check as detailed in the spell description.
 
