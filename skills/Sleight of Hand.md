@@ -82,4 +82,4 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **15 Ranks**: You can attempt a Sleight of Hand check (including drawing a hidden weapon) as a swift action at a –20 penalty.
 
-**20 Ranks**: You take no penalty for using Sleight of Hand as a move action, and take only a –10 penalty when using it as a swift action.
+**20 Ranks**: You take no penalty for using Sleight of Hand as a move action (this overlaps the [[rangoric-srd/feats/Walking Sleight|Walking Sleight]] feat), and take only a –10 penalty when using it as a swift action.

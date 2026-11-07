@@ -102,6 +102,6 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **10 Ranks**: The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 30 feet (this overlaps the [[rangoric-srd/feats/Eagle-Eyed|Eagle-Eyed]] feat). In addition, you gain a +5 bonus on Perception checks to notice or locate an invisible creature or object.
 
-**15 Ranks**: You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks when you are sleeping doesn't apply to you. The distance modifier on the DC of your Perception checks is reduced to +1 per 40 feet.
+**15 Ranks**: You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks when you are sleeping doesn't apply to you (this overlaps the [[rangoric-srd/feats/One Eye Open|One Eye Open]] feat). The distance modifier on the DC of your Perception checks is reduced to +1 per 40 feet.
 
 **20 Ranks**: You gain a +10 bonus on Perception checks to notice invisible creatures or objects. The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 60 feet.
