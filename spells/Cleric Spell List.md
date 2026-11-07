@@ -123,6 +123,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Build Trust\|Build Trust]] (M): | Gain various bonuses when interacting with the target. |
 | [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]]:                 | Subject gains +4 to Str for 1 min./level.                                                                                                    |
 | [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]:                     | Calms creatures, negating emotion effects.                                                                                                   |
+| [[rangoric-srd/spells/Calm Spirit\|Calm Spirit]]: | Postpone hostile action by a haunt or incorporeal undead. |
 | [[rangoric-srd/spells/Compassionate Ally\|Compassionate Ally]]: | Target is compelled to help injured ally. |
 | [[rangoric-srd/spells/Conditional Favor\|Conditional Favor]]: | Provide another spell whose effects reverse if the target breaks a restriction. |
 | [[rangoric-srd/spells/Consecrate\|Consecrate]] (M):                       | Fills area with positive energy, making undead weaker.                                                                                       |
@@ -145,6 +146,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Enthrall\|Enthrall]]:                               | Captivates all within 100 ft. + 10 ft./level.                                                                                                |
 | [[rangoric-srd/spells/Find Traps\|Find Traps]]:                           | Notice traps as a rogue does.                                                                                                                |
 | [[rangoric-srd/spells/Gentle Repose\|Gentle Repose]]:                     | Preserves one corpse.                                                                                                                        |
+| [[rangoric-srd/spells/Ghost Whip\|Ghost Whip]]: | Create a ghost touch whip that passes through objects. |
 | [[rangoric-srd/spells/Ghostbane Dirge\|Ghostbane Dirge]] (M): | Incorporeal creature takes half damage from nonmagical weapons. |
 | [[rangoric-srd/spells/Grace\|Grace]]: | Movement doesn't provoke attacks of opportunity. |
 | [[rangoric-srd/spells/Groundswell\|Groundswell]]: | Allows the target to cause the ground to rise up beneath him. |
@@ -222,8 +224,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spells A to B\|Blindness/Deafness]]:                       | Makes subject [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinded]] or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened\|deafened]]. |
 | [[rangoric-srd/spells/Blood Biography\|Blood Biography]] (M): | Learn about a creature with its blood. |
 | [[rangoric-srd/spells/Blood Scent\|Blood Scent]]: | You greatly magnify the target's ability to smell the presence of blood. |
+| [[rangoric-srd/spells/Catatonia\|Catatonia]]: | Make a willing target appear to be dead. |
 | [[rangoric-srd/spells/Chain of Perdition\|Chain of Perdition]] (M): | Creates a floating chain of force. |
 | [[rangoric-srd/spells/Contagion\|Contagion]]:                                    | Infects subject with chosen disease.                                                                                                                                          |
+| [[rangoric-srd/spells/Contagious Zeal\|Contagious Zeal]]: | Grant bonuses and temporary hit points that spread from creature to creature. |
 | [[rangoric-srd/spells/Continual Flame\|Continual Flame]] (M):                    | Makes a permanent, heatless torch.                                                                                                                                            |
 | [[rangoric-srd/spells/Control Vermin\|Control Vermin]] (M): |  |
 | [[rangoric-srd/spells/Create Food and Water\|Create Food and Water]]:            | Feeds three humans (or one horse)/level.                                                                                                                                      |
@@ -350,6 +354,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Symbol of Revelation\|Symbol of Revelation]] (M): | Triggered symbol reveals illusions. |
 | [[rangoric-srd/spells/Symbol of Slowing\|Symbol of Slowing]] (M): | Triggered rune slows creatures. |
 | [[rangoric-srd/spells/Terrible Remorse\|Terrible Remorse]]: | Creature is compelled to harm itself. |
+| [[rangoric-srd/spells/Thaumaturgic Circle\|Thaumaturgic Circle]] (M): | As magic circle, but affecting a non-alignment subtype or outsider race. |
 | [[rangoric-srd/spells/Tongues\|Tongues]]:                                   | Speak any language.                                                                                                   |
 | [[rangoric-srd/spells/Ward of the Season\|Ward of the Season]]: | Harnesses the power of the seasons to protect the target and grant a number of bonuses. |
 | [[rangoric-srd/spells/Water Walk, Communal\|Water Walk, Communal]]: | As water walk, but you may divide the duration among creatures touched. |
@@ -363,6 +368,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Atonement\|Atonement]] (F X):                                                                                                                                   | Removes burden of misdeeds from subject.                                  |
 | [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]:                                                                                                                         | Frees subjects from enchantments, alterations, curses, and petrification. |
 | [[rangoric-srd/spells/Breath of Life\|Breath of Life]]: | Cures 5d8 damage + 1/level and restores life to recently slain creatures. |
+| [[rangoric-srd/spells/Call Spirit\|Call Spirit]]: | Make the spirit of one creature manifest. |
 | [[rangoric-srd/spells/Cleanse\|Cleanse]]: | As heal, but only cures 4d8 damage +1/level (max +25). |
 | [[rangoric-srd/spells/Command, Greater\|Command, Greater]]:                                                                                                                           | As command, but affects one subject/level.                                |
 | [[rangoric-srd/spells/Commune\|Commune]] (X):                                                                                                                                         | Deity answers one yes-or-no question/level.                               |
@@ -394,6 +400,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Righteous Might\|Righteous Might]]:                                                                                                                             | Your size increases, and you gain combat bonuses.                         |
 | [[rangoric-srd/spells/Scrying\|Scrying]] (F):                                                                                                                                         | Spies on subject from a distance.                                         |
 | [[rangoric-srd/spells/Serenity\|Serenity]]: | Peaceful feelings harm those attempting violence. |
+| [[rangoric-srd/spells/Sessile Spirit\|Sessile Spirit]]: | Cause a spirit inhabiting a creature or an object to go dormant. |
 | [[rangoric-srd/spells/Slay Living\|Slay Living]]:                                                                                                                                     | Touch attack kills subject.                                               |
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M): | Transforms wood into snakes to fight for you. |
 | [[rangoric-srd/spells/Spawn Ward\|Spawn Ward]]: | The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect. |
@@ -412,6 +419,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Unholy Ice\|Unholy Ice]] (M): | Create wall or javelins of frozen unholy water. |
 | [[rangoric-srd/spells/Village Veil\|Village Veil]]: | You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. |
 | [[rangoric-srd/spells/Wall of Blindness-Deafness\|Wall of Blindness-Deafness]]: | Creatures that pass through a translucent wall are blinded or deafened. |
+| [[rangoric-srd/spells/Wall of Ectoplasm\|Wall of Ectoplasm]] (M): | Wall of spirits blocks movement on Material Plane and Ethereal Plane and causes fear. |
 | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]:                                                                                                                                 | Creates a stone wall that can be shaped.                                  |
 
 ##### 6th-Level Cleric Spells
@@ -464,6 +472,7 @@ tags: [rangoric, rangoric/overview]
 
 | Spell Name                                                                            | Brief Description                                                                                                                                                                                 |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Awaken Construct\|Awaken Construct]] (M): | Grant a construct humanlike sentience. |
 | [[rangoric-srd/spells/Bestow Grace of the Champion\|Bestow Grace of the Champion]]: | Target gains paladin abilities for 1 round/level. |
 | [[rangoric-srd/spells/Blasphemy\|Blasphemy]]:                                       | Kills, paralyzes, weakens, or dazes nonevil subjects.                                                                                                                                             |
 | [[rangoric-srd/spells/Circle of Clarity\|Circle of Clarity]] (F): | Emanation hampers illusions and stealth. |

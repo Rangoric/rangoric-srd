@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:           | Cures 1d8 damage +1/level (max +5).                                                                         |
 | [[rangoric-srd/spells/Dancing Lantern\|Dancing Lantern]] (F): | Animates a lantern that follows you. |
 | [[rangoric-srd/spells/Deadeye’s Lore\|Deadeye’s Lore]]: | Gain a +4 bonus on Fieldcraft and move full speed while tracking. |
+| [[rangoric-srd/spells/Decrepit Disguise\|Decrepit Disguise]]: | Make an object seem worthless. |
+| [[rangoric-srd/spells/Deja Vu\|Deja Vu]]: | Make a creature repeat its actions. |
 | [[rangoric-srd/spells/Delusional Pride\|Delusional Pride]]: | Target is penalized on attacks and checks but gains bonus against charms and compulsions. |
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
 | [[rangoric-srd/spells/Detect Secret Doors\|Detect Secret Doors]]:       | Reveals hidden doors within 60 ft.                                                                          |
@@ -106,6 +108,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Obscure Poison\|Obscure Poison]] (M): | Make it harder to detect a poison or venomous creature. |
 | [[rangoric-srd/spells/Open and Shut\|Open and Shut]] (F): | Obfuscate whether a door is open or closed. |
 | [[rangoric-srd/spells/Play Instrument\|Play Instrument]]: | Play instrument as if you were skilled. |
+| [[rangoric-srd/spells/Quintessence\|Quintessence]]: | Mask any flaws of or damage to a creature or object. |
 | [[rangoric-srd/spells/Recharge Innate Magic\|Recharge Innate Magic]]: | You channel magic energy into your own aura, recharging your innate magic abilities. |
 | [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                       | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.                    |
 | [[rangoric-srd/spells/Restful Sleep\|Restful Sleep]] (M): | Gain more hit points while sleeping. |
@@ -145,6 +148,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Animal Purpose Training\|Animal Purpose Training]] (M): | Animal gains a new general purpose. |
 | [[rangoric-srd/spells/Animal Trance\|Animal Trance]]:               | Fascinates 2d6 HD of animals.                                                                                                                                           |
 | [[rangoric-srd/spells/Anonymous Interaction\|Anonymous Interaction]]: | Creatures forget details about you and conversations with you. |
+| [[rangoric-srd/spells/Anticipate Thoughts\|Anticipate Thoughts]]: | Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature. |
+| [[rangoric-srd/spells/Apport Object\|Apport Object]]: | Send or receive a small object via teleportation. |
+| [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
+| [[rangoric-srd/spells/Babble\|Babble]]: | Target becomes nauseated and causes nearby creatures to become fascinated. |
 | [[rangoric-srd/spells/Bestow Insight\|Bestow Insight]]: | Target gains a +2 insight bonus on skill checks with a skill you have at least one rank in and is considered trained in that skill. |
 | [[rangoric-srd/spells/Spells A to B\|Blindness/Deafness]]:          | Makes subject [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blind]] or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened\|deaf]]. |
 | [[rangoric-srd/spells/Blistering Invective\|Blistering Invective]]: | Make an Intimidation check against all foes within 30 feet; those demoralized also take fire damage. |
@@ -157,10 +164,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cacophonous Call\|Cacophonous Call]] (M): | Nauseates target. |
 | [[rangoric-srd/spells/Calm Emotions\|Calm Emotions]]:               | Calms creatures, negating emotion effects.                                                                                                                              |
 | [[rangoric-srd/spells/Cat’s Grace\|Cat’s Grace]]:                   | Subject gains +4 to Dex for 1 min./level.                                                                                                                               |
+| [[rangoric-srd/spells/Catatonia\|Catatonia]]: | Make a willing target appear to be dead. |
 | [[rangoric-srd/spells/Codespeak\|Codespeak]] (M): | Speak, read, and Write a new code language. |
 | [[rangoric-srd/spells/Commune with Birds\|Commune with Birds]]: | You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can understand the responses given by birds in the area. |
 | [[rangoric-srd/spells/Compassionate Ally\|Compassionate Ally]]: | Target is compelled to help injured ally. |
 | [[rangoric-srd/spells/Conditional Favor\|Conditional Favor]]: | Provide another spell whose effects reverse if the target breaks a restriction. |
+| [[rangoric-srd/spells/Contagious Zeal\|Contagious Zeal]]: | Grant bonuses and temporary hit points that spread from creature to creature. |
 | [[rangoric-srd/spells/Contingent Action\|Contingent Action]]: | Set the condition for triggering a target's readied standard, move, or swift action. |
 | [[rangoric-srd/spells/Create Treasure Map\|Create Treasure Map]] (M): | Creates treasure map out of a creature's corpse. |
 | [[rangoric-srd/spells/Cure Moderate Wounds\|Cure Moderate Wounds]]: | Cures 2d8 damage +1/level (max +10).                                                                                                                                    |
@@ -170,6 +179,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Deflect Blame\|Deflect Blame]]: | Blame someone else for your actions. |
 | [[rangoric-srd/spells/Delay Pain\|Delay Pain]]: | Ignore pain for 1 hour/level. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                 | Stops poison from harming subject for 1 hour/ level.                                                                                                                    |
+| [[rangoric-srd/spells/Demand Offering\|Demand Offering]]: | Make a creature give you an object it’s holding. |
 | [[rangoric-srd/spells/Detect Desires\|Detect Desires]] (F): | Learn what a creatures desire. |
 | [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]: | As detect magic, but learn more information. |
 | [[rangoric-srd/spells/Detect Thoughts\|Detect Thoughts]]:           | Allows “listening” to surface thoughts.                                                                                                                                 |
@@ -180,6 +190,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Distressing Tone\|Distressing Tone]]: | Sound sickens 1d4 creatures. |
 | [[rangoric-srd/spells/Dust of Twilight\|Dust of Twilight]] (M): | Black particles extinguish light sources within area. |
 | [[rangoric-srd/spells/Eagle’s Splendor\|Eagle’s Splendor]]:         | Subject gains +4 to Cha for 1 min./level.                                                                                                                               |
+| [[rangoric-srd/spells/Enshroud Thoughts\|Enshroud Thoughts]]: | Ward yourself against thought detection and memory alteration. |
 | [[rangoric-srd/spells/Enter Image\|Enter Image]] (M): | Transfers your consciousness to an object bearing your likeness. |
 | [[rangoric-srd/spells/Enthrall\|Enthrall]]:                         | Captivates all within 100 ft. + 10 ft./level.                                                                                                                           |
 | [[rangoric-srd/spells/Escaping Ward\|Escaping Ward]]: | This ward grants you extra maneuverability when you avoid attacks against larger foes. |
@@ -207,17 +218,21 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Marching Chant\|Marching Chant]]: | Allies can hustle without penalty while you sing or chant. |
 | [[rangoric-srd/spells/Masterwork Transformation\|Masterwork Transformation]] (M): | Make a normal item into a masterwork one. |
 | [[rangoric-srd/spells/Matchmaker\|Matchmaker]] (M): | Cause two creatures to fall in love. |
+| [[rangoric-srd/spells/Mental Block\|Mental Block]]: | Prevent the target from using its skill ranks, spells, feats, and abilities. |
 | [[rangoric-srd/spells/Mindlocked Messenger\|Mindlocked Messenger]]: | Target gains a message that can be given only to its intended recipient. |
 | [[rangoric-srd/spells/Minor Image\|Minor Image]]:                   | As silent image, plus some sound.                                                                                                                                       |
 | [[rangoric-srd/spells/Mirror Image\|Mirror Image]]:                 | Creates decoy duplicates of you (1d4 +1 per three levels, max 8).                                                                                                       |
 | [[rangoric-srd/spells/Misdirection\|Misdirection]]:                 | Misleads divinations for one creature or object.                                                                                                                        |
 | [[rangoric-srd/spells/Miserable Pity\|Miserable Pity]]: | Opponents cannot attack a pathetic creature. |
 | [[rangoric-srd/spells/Muffle Sound\|Muffle Sound]]: | Allies gain a bonus on Stealth checks but risk verbal spell failure. |
+| [[rangoric-srd/spells/Oneiric Horror\|Oneiric Horror]]: | Distract and fatigue the target with a creature from its nightmares. |
 | [[rangoric-srd/spells/Open Book\|Open Book]] (M): | Make it permanently easier to learn more about a target. |
 | [[rangoric-srd/spells/Oppressive Boredom\|Oppressive Boredom]]: | Target loses its next action. |
+| [[rangoric-srd/spells/Paranoia\|Paranoia]]: | Target becomes hostile to all creatures. |
 | [[rangoric-srd/spells/Path of Glory\|Path of Glory]]: | Create an expanding glow that heals allies within it of 1 hp of damage. |
 | [[rangoric-srd/spells/Piercing Shriek\|Piercing Shriek]]: | Target is staggered by a painful sound. |
 | [[rangoric-srd/spells/Pilfering Hand\|Pilfering Hand]]: | You may seize an object or manipulate it from afar. |
+| [[rangoric-srd/spells/Psychic Reading\|Psychic Reading]]: | Read surface thoughts to learn information about a subject. |
 | [[rangoric-srd/spells/Pyrotechnics\|Pyrotechnics]]:                 | Turns fire into [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinding]] light or choking smoke.                                                   |
 | [[rangoric-srd/spells/Qualm\|Qualm]]: | Target gains penalties on ability checks, skill checks, and concentration checks until it spends an entire round doing nothing. |
 | [[rangoric-srd/spells/Rage\|Rage]]:                                 | Gives +2 to Str and Con, +1 on Will saves, –2 to AC.                                                                                                                    |
@@ -294,6 +309,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Haste\|Haste]]:                             | One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.                                         |
 | [[rangoric-srd/spells/Haunting Choir\|Haunting Choir]]: | Spirits cause wracking pain to listeners. |
 | [[rangoric-srd/spells/Hollow Heroism\|Hollow Heroism]]: | Provide a heroism effect that you can reverse at any time |
+| [[rangoric-srd/spells/Hypercognition\|Hypercognition]]: | Rapidly recall everything you know about a subject. |
 | [[rangoric-srd/spells/Illusory Script\|Illusory Script]] (M):     | Only intended reader can decipher.                                                                                 |
 | [[rangoric-srd/spells/Instant Fake\|Instant Fake]] (M): | Provide a short-term replica of an object. |
 | [[rangoric-srd/spells/Invigorate, Mass\|Invigorate, Mass]]: | As invigorate, but multiple creatures. |
@@ -380,6 +396,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Modify Memory\|Modify Memory]]:                 | Changes 5 minutes of subject’s memories.                                                                                           |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:         | Immunizes subject against poison, detoxifies venom in or on subject.                                                               |
 | [[rangoric-srd/spells/Nixie’s Lure\|Nixie’s Lure]]: | This spell creates an unearthly and infectious song that seductively summons all who hear it. |
+| [[rangoric-srd/spells/Oneiric Horror, Greater\|Oneiric Horror, Greater]]: | As oneiric horror, plus Str damage. |
 | [[rangoric-srd/spells/Path of Glory, Greater\|Path of Glory, Greater]]: | Create an expanding glow that heals allies within it of 5 hp of damage. |
 | [[rangoric-srd/spells/Phantom Steed, Communal\|Phantom Steed, Communal]]: | As phantom steed, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Primal Scream\|Primal Scream]]: | Free yourself from enchantments and paralysis effects. |
@@ -432,6 +449,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Persistent Image\|Persistent Image]]:               | As major image, but no concentration required.                                                                          |
 | [[rangoric-srd/spells/Phantasmal Web\|Phantasmal Web]]: | Catches subjects in illusory web. |
 | [[rangoric-srd/spells/Pox of Rumors\|Pox of Rumors]] (M): | Curse a creature to attract nasty rumors. |
+| [[rangoric-srd/spells/Repress Memory\|Repress Memory]]: | Remove a piece of knowledge from your mind. |
 | [[rangoric-srd/spells/Resonating Word\|Resonating Word]]: | Target is damaged, staggered, and stunned. |
 | [[rangoric-srd/spells/Scripted Hallucination\|Scripted Hallucination]]: | As complex hallucination, but without concentration. |
 | [[rangoric-srd/spells/Seeming\|Seeming]]:                                 | Changes appearance of one person per two levels.                                                                        |
@@ -442,6 +460,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Stunning Finale\|Stunning Finale]]: | Stuns 3 creatures for 1 round. |
 | [[rangoric-srd/spells/Suggestion, Mass\|Suggestion, Mass]]:               | As suggestion, plus one subject/level.                                                                                  |
 | [[rangoric-srd/spells/Summon Monster V\|Summon Monster V]]:               | Calls extraplanar creature to fight for you.                                                                            |
+| [[rangoric-srd/spells/Unshakable Zeal\|Unshakable Zeal]] (F): | Grant benefits on future attempts after failed checks, and protect against fear and emotion effects. |
 | [[rangoric-srd/spells/Unwilling Shield\|Unwilling Shield]] (M): | Subject shares wounds you receive. |
 | [[rangoric-srd/spells/Vengeful Outrage\|Vengeful Outrage]]: | Target is compelled to destroy one enemy. |
 | [[rangoric-srd/spells/Village Veil\|Village Veil]]: | You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. |
@@ -460,6 +479,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dance of a Thousand Cuts\|Dance of a Thousand Cuts]]: | As dance of a hundred cuts, plus the benefits of haste. |
 | [[rangoric-srd/spells/Deadly Finale\|Deadly Finale]]: | Deals 2d8 damage to multiple targets. |
 | [[rangoric-srd/spells/Demanding Message, Mass\|Demanding Message, Mass]] (F): | Send messages as per message with one suggestion for each creature. |
+| [[rangoric-srd/spells/Dream Council\|Dream Council]]: | Communicate with multiple sleeping creatures. |
+| [[rangoric-srd/spells/Dream Scan\|Dream Scan]]: | Read a dreaming creature’s thoughts. |
 | [[rangoric-srd/spells/Eagle’s Splendor, Mass\|Eagle’s Splendor, Mass]]:         | As eagle’s splendor, affects one subject/level.                                                                                                                                              |
 | [[rangoric-srd/spells/Entice Fey\|Entice Fey]] (M): | Entice service from a fey with 12 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |

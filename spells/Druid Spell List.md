@@ -201,7 +201,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Anchored Step\|Anchored Step]] (M): | Vines beneath your feet stabilize you but slow you down. |
 | [[rangoric-srd/spells/Animal Aspect, Greater\|Animal Aspect, Greater]] (M): | As animal aspect, but you gain two animal qualities. |
 | [[rangoric-srd/spells/Anthropomorphic Animal\|Anthropomorphic Animal]] (M): | Animal becomes bipedal. |
+| [[rangoric-srd/spells/Apport Animal\|Apport Animal]]: | Send or receive a Tiny or smaller animal via teleportation. |
 | [[rangoric-srd/spells/Ash Storm\|Ash Storm]] (M): | Hamper vision and movement. |
+| [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
 | [[rangoric-srd/spells/Badger’s Ferocity\|Badger’s Ferocity]]: | Weapons are keen while you concentrate. |
 | [[rangoric-srd/spells/Blood Scent\|Blood Scent]]: | You greatly magnify the target's ability to smell the presence of blood. |
 | [[rangoric-srd/spells/Burrow\|Burrow]]: | Target gains a burrow speed of 15. |
@@ -389,6 +391,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Owl’s Wisdom, Mass\|Owl’s Wisdom, Mass]]:           | As owl’s wisdom, affects one subject/level.                |
 | [[rangoric-srd/spells/Path of the Winds\|Path of the Winds]]: | With a sweeping gesture, you call forth mighty winds to clear a path ahead of you. |
 | [[rangoric-srd/spells/Plague Storm\|Plague Storm]]: | Cloud infects creatures like contagion. |
+| [[rangoric-srd/spells/Primal Regression\|Primal Regression]]: | Make a creature become bestial and unintelligent. |
 | [[rangoric-srd/spells/Reincarnate Spy\|Reincarnate Spy]] (M): | As reincarnate, but creating a body similar to that of a chosen creature, and you secretly keep part of the body. |
 | [[rangoric-srd/spells/Repel Wood\|Repel Wood]]:                           | Pushes away wooden objects.                                |
 | [[rangoric-srd/spells/Sirocco\|Sirocco]] (M): | Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone. |
