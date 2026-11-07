@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Leadership Subdomain|Leadership]], [[rangoric-srd/class-options/domains/Martyr Subdomain|Martyr]].
+
 ## Granted Powers
 
 You are a great leader, an inspiration to all who follow the teachings of your faith.

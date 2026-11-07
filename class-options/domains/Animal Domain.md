@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Feather Subdomain|Feather]], [[rangoric-srd/class-options/domains/Fur Subdomain|Fur]].
+
 ## Granted Powers
 
 You can speak with and befriend animals with ease. In addition, you treat Nature as a class skill.

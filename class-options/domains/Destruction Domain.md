@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Catastrophe Subdomain|Catastrophe]], [[rangoric-srd/class-options/domains/Rage Subdomain|Rage]].
+
 ## Granted Powers
 
 You revel in ruin and devastation, and can deliver particularly destructive attacks.

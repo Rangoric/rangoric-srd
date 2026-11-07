@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Decay Subdomain|Decay]], [[rangoric-srd/class-options/domains/Growth Subdomain|Growth]].
+
 ## Granted Powers
 
 You find solace in the green, can grow defensive thorns, and can communicate with plants.

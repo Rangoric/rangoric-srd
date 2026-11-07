@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Ice Subdomain|Ice]], [[rangoric-srd/class-options/domains/Oceans Subdomain|Oceans]].
+
 ## Granted Powers
 
 You can manipulate water and mist and ice, conjure creatures of water, and resist cold.

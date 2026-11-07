@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Agathion Subdomain|Agathion]], [[rangoric-srd/class-options/domains/Archon Subdomain|Archon]], [[rangoric-srd/class-options/domains/Azata Subdomain|Azata]].
+
 ## Granted Powers
 
 You have pledged your life and soul to goodness and purity.

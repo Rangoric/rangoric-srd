@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Cloud Subdomain|Cloud]], [[rangoric-srd/class-options/domains/Wind Subdomain|Wind]].
+
 ## Granted Powers
 
 You can manipulate lightning, mist, and wind, traffic with air creatures, and are resistant to electricity damage.

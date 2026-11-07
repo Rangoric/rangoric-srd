@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Defense Subdomain|Defense]], [[rangoric-srd/class-options/domains/Purity Subdomain|Purity]].
+
 ## Granted Powers
 
 Your faith is your greatest source of protection, and you can use that faith to defend others. In addition, you receive a +1 resistance bonus on saving throws. This bonus increases by 1 for every 5 levels you possess.

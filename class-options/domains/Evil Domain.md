@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Daemon Subdomain|Daemon]], [[rangoric-srd/class-options/domains/Demon Subdomain|Demon]], [[rangoric-srd/class-options/domains/Devil Subdomain|Devil]].
+
 ## Granted Powers
 
 You are sinister and cruel, and have wholly pledged your soul to the cause of evil.

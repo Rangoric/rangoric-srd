@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Insanity Subdomain|Insanity]], [[rangoric-srd/class-options/domains/Nightmare Subdomain|Nightmare]].
+
 ## Granted Powers
 
 You embrace the madness that lurks deep in your heart, and can unleash it to drive your foes insane or to sacrifice certain abilities to hone others.

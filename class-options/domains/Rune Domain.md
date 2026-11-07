@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Language Subdomain|Language]], [[rangoric-srd/class-options/domains/Wards Subdomain|Wards]].
+
 ## Granted Powers
 
 In strange and eldritch runes you find potent magic. You gain [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]] as a bonus feat.

@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Ash Subdomain|Ash]], [[rangoric-srd/class-options/domains/Smoke Subdomain|Smoke]].
+
 ## Granted Powers
 
 You can call forth fire, command creatures of the inferno, and your flesh does not burn.
