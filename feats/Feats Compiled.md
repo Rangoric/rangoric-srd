@@ -29,7 +29,6 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/feats/Automatic Quicken Spell|Automatic Quicken Spell (E)]]  
 [[rangoric-srd/feats/Automatic Silent Spell|Automatic Silent Spell (E)]]  
 [[rangoric-srd/feats/Automatic Still Spell|Automatic Still Spell (E)]]  
-[[rangoric-srd/feats/Autonomous|Autonomous (P)]]  
 [[rangoric-srd/feats/Awesome Blow|Awesome Blow (M)]]  
 
 ### B
@@ -592,7 +591,6 @@ tags: [rangoric, rangoric/overview]
 
   - [[rangoric-srd/feats/Aligned Attack|Aligned Attack]]
   - [[rangoric-srd/feats/Antipsionic Magic|Antipsionic Magic]]
-  - [[rangoric-srd/feats/Autonomous|Autonomous]]
   - [[rangoric-srd/feats/Body Fuel|Body Fuel]]
   - [[rangoric-srd/feats/Boost Construct|Boost Construct]]
   - [[rangoric-srd/feats/Burrowing Power|Burrowing Power]]

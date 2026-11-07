@@ -19,7 +19,7 @@ Spirits from the shadow plane dally at times in the world of light, and such as 
 
 **Bonus Spells**: *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (3rd), *[[rangoric-srd/spells/Darkvision|darkvision]]* (5th), *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* (7th), *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]* (9th), *[[rangoric-srd/spells/Shadow Evocation|shadow evocation]]* (11th), *[[rangoric-srd/spells/Shadow Walk|shadow walk]]* (13th), *[[rangoric-srd/spells/Power Word Blind|power word blind]]* (15th), *greater shadow evocation* (17th), *[[rangoric-srd/spells/Shades|shades]]* (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Acrobatic|Acrobatic]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Stealthy|Stealthy]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]].
+**Bonus Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics or Stealth), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]].
 
 **Bloodline Arcana**: Whenever you cast a spell with the darkness descriptor or the shadow subschool, you gain a circumstance bonus on Stealth checks equal to the spell's level for 1d4 rounds.
 

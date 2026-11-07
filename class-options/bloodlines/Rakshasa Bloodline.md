@@ -19,7 +19,7 @@ At some point in your family's history, one of your ancestors was tainted by the
 
 **Bonus Spells**: *[[rangoric-srd/spells/Charm Person|charm person]]* (3rd), *[[rangoric-srd/spells/Invisibility|invisibility]]* (5th), *[[rangoric-srd/spells/Suggestion|suggestion]]* (7th), *[[rangoric-srd/spells/Detect Scrying|detect scrying]]* (9th), *[[rangoric-srd/spells/Prying Eyes|prying eyes]]* (11th), *mass suggestion* (13th), *greater polymorph* (15th), *[[rangoric-srd/spells/Mind Blank|mind blank]]* (17th), *[[rangoric-srd/spells/Dominate Monster|dominate monster]]* (19th).
 
-**Bonus Feats**: Arcane Armor Mastery, Arcane Armor Training, [[rangoric-srd/feats/Deceitful|Deceitful]], Detect Expertise, [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]], [[rangoric-srd/feats/Stealthy|Stealthy]].
+**Bonus Feats**: Arcane Armor Mastery, [[rangoric-srd/feats/Arcane Armor Training|Arcane Armor Training]], [[rangoric-srd/feats/Detect Expertise|Detect Expertise]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Armor Proficiency (Light)|Armor Proficiency (Light)]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation or Stealth).
 
 **Bloodline Arcana**: Add half your sorcerer level to the DC of the [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks others make to identify spells you cast. If their checks fail by 5 or more, they mistakenly believe you are casting an entirely different spell (selected by you when you begin casting).
 

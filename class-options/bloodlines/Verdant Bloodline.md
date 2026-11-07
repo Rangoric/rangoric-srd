@@ -19,7 +19,7 @@ Your progenitors infused themselves with raw plant life, binding it into their o
 
 **Bonus Spells**: *[[rangoric-srd/spells/Entangle|entangle]]* (3rd), *[[rangoric-srd/spells/Barkskin|barkskin]]* (5th), *[[rangoric-srd/spells/Speak with Plants|speak with plants]]* (7th), *[[rangoric-srd/spells/Command Plants|command plants]]* (9th), *[[rangoric-srd/spells/Wall of Thorns|wall of thorns]]* (11th), *[[rangoric-srd/spells/Transport via Plants|transport via plants]]* (13th), *[[rangoric-srd/spells/Plant Shape III|plant shape III]]* (15th), *[[rangoric-srd/spells/Animate Plants|animate plants]]* (17th), *[[rangoric-srd/spells/Shambler|shambler]]* (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], Fleet, [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Nature), [[rangoric-srd/feats/Toughness|Toughness]].
+**Bonus Feats**: [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]], [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Extend Spell|Extend Spell]], [[rangoric-srd/feats/Fleet|Fleet]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Nature), [[rangoric-srd/feats/Toughness|Toughness]].
 
 **Bloodline Arcana**: Whenever you cast a spell with a range of personal, your skin toughens, granting you a natural armor bonus equal to the spell's level for 1d4 rounds. This bonus does not stack with any other natural armor bonuses you might have.
 
