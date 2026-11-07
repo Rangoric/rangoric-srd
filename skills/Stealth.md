@@ -66,6 +66,6 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **10 Ranks**: Stealth check penalties for moving quickly are halved, including the ability unlocked at 5 ranks, moving full speed, and reaching concealment after creating a distraction.
 
-**15 Ranks**: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the end of your turn.
+**15 Ranks**: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the end of your turn (this overlaps the [[rangoric-srd/feats/Owl Style|Owl Style]] feat).
 
 **20 Ranks**: If you attack after successfully using Stealth, your target is denied its Dexterity bonus against all attacks that you make before the beginning of your next turn.
