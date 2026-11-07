@@ -69,6 +69,7 @@ tags: [rangoric, rangoric/overview]
 
 | Spell Name                                                                | Brief Description                                                        |
 | ------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| [[rangoric-srd/spells/Aquatic Cavalry\|Aquatic Cavalry]]: | Summon hippocampi to serve as aquatic mounts |
 | [[rangoric-srd/spells/Arrow of Law\|Arrow of Law]]: | Harm and possibly daze chaotic creatures. |
 | [[rangoric-srd/spells/Aura of Greater Courage\|Aura of Greater Courage]]: | Increases strength of a paladin's aura of courage. |
 | [[rangoric-srd/spells/Bestow Grace\|Bestow Grace]]: | Subject gains bonus on saving throws equal to Cha modifier. |
@@ -106,6 +107,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sacred Bond\|Sacred Bond]] (F): | Cast touch healing spells from a distance. |
 | [[rangoric-srd/spells/Sacred Space\|Sacred Space]] (M): | This spell sanctifies an area with heavenly power. |
 | [[rangoric-srd/spells/Saddle Surge\|Saddle Surge]]: | Bonus damage for moving on mount. |
+| [[rangoric-srd/spells/Sea Steed\|Sea Steed]]: | Your mount adapts to an aquatic environment |
 | [[rangoric-srd/spells/Shield Companion\|Shield Companion]]: | As shield other, but affecting your companion creature. |
 | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F):                 | You take half of subject’s damage.                                       |
 | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]: | Conceals alignment for 24 hours.                                         |
@@ -153,8 +155,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Sanctify Armor\|Sanctify Armor]]: | +1 AC/four levels (max +5). |
 | [[rangoric-srd/spells/Shield of Fortification, Greater\|Shield of Fortification, Greater]]: |  |
+| [[rangoric-srd/spells/Sky Steed\|Sky Steed]]: | Grant your mount angelic wings |
 | [[rangoric-srd/spells/Stunning Barrier, Greater\|Stunning Barrier, Greater]]: | Magical field grants a +2 bonus to AC and on saves, and stuns multiple creatures attacking you. |
 | [[rangoric-srd/spells/They Know\|They Know]] (M): | Convince target that a nearby creature knows her greatest secret. |
+| [[rangoric-srd/spells/Vigilant Rest\|Vigilant Rest]] (M): | Cause a sleeping creature to retain some perception of its surroundings |
 | [[rangoric-srd/spells/Wrathful Mantle\|Wrathful Mantle]]: | Subject shines and gets +1/four levels on all saves. |
 
 ##### 4th-Level Paladin Spells
@@ -166,6 +170,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Blaze of Glory\|Blaze of Glory]]: | Last stand cures good creatures, hurts evil. |
 | [[rangoric-srd/spells/Blessing of Luck and Resolve, Mass\|Blessing of Luck and Resolve, Mass]]: | Functions like blessing of luck and resolve, except that it affects multiple creatures. |
 | [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]:     | Frees subjects from enchantments, alterations, curses, and petrification. |
+| [[rangoric-srd/spells/Companion Transposition\|Companion Transposition]] (F): |  |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]: | Cures 3d8 damage +1/level (max +15).                                      |
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]:                   | Grants immunity to death spells and negative energy effects.              |
 | [[rangoric-srd/spells/Dispel Chaos\|Dispel Chaos]]:               | +4 bonus against attacks by chaotic creatures.                           |
@@ -189,5 +194,6 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resounding Blow\|Resounding Blow]]: | Melee attack deals 1d6 more damage. |
 | [[rangoric-srd/spells/Restoration\|Restoration]] (M):             | Restores level and ability score drains.                                  |
 | [[rangoric-srd/spells/Sacrificial Oath\|Sacrificial Oath]]: | Take damage for an ally for many rounds. |
+| [[rangoric-srd/spells/Sea Stallion\|Sea Stallion]]: | You and your mount adapt to an aquatic environment |
 | [[rangoric-srd/spells/Stay the Hand\|Stay the Hand]]: | Subject cannot attack with melee weapon. |
 | [[rangoric-srd/spells/Symbol of Healing\|Symbol of Healing]] (M): | Triggered rune heals living creatures. |

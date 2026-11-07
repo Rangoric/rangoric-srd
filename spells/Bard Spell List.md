@@ -73,6 +73,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Disguise Self\|Disguise Self]]:                   | Changes your appearance.                                                                                    |
 | [[rangoric-srd/spells/Disguise Weapon\|Disguise Weapon]]: | Changes one weapon's appearance. |
 | [[rangoric-srd/spells/Ear-Piercing Scream\|Ear-Piercing Scream]]: | Deal sonic damage and daze target. |
+| [[rangoric-srd/spells/Echo\|Echo]] (F): | Cause a sound to repeat itself |
 | [[rangoric-srd/spells/Erase\|Erase]]:                                   | Mundane or magical writing vanishes.                                                                        |
 | [[rangoric-srd/spells/Expeditious Retreat\|Expeditious Retreat]]:       | Your speed increases by 30 ft.                                                                              |
 | [[rangoric-srd/spells/Fabricate Disguise\|Fabricate Disguise]]: | Create a disguise in an instant. |
@@ -121,6 +122,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sow Thought\|Sow Thought]]: | You plant an idea, concept, or suspicion in the mind of the subject. |
 | [[rangoric-srd/spells/Summon Minor Monster\|Summon Minor Monster]] (F): | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]:             | Calls extraplanar creature to fight for you.                                                                |
+| [[rangoric-srd/spells/Tamer’s Lash\|Tamer’s Lash]]: | Create a whip made of sound that damages foes and can frighten animals |
 | [[rangoric-srd/spells/Timely Inspiration\|Timely Inspiration]]: | Gives bonus on failed check/attack. |
 | [[rangoric-srd/spells/Toilsome Chant\|Toilsome Chant]]: | This spell can be cast as part of the action to begin an inspire competence bardic performance. |
 | [[rangoric-srd/spells/Touch of Gracelessness\|Touch of Gracelessness]]: | Subject loses 1d6 + 1 Dex/two levels and is prone to falling down. |
@@ -273,6 +275,7 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                          | Brief Description                                                                                                  |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------ |
 | [[rangoric-srd/spells/Adjustable Disguise\|Adjustable Disguise]]: | As disguise self, but you can change the disguise as a swift action. |
+| [[rangoric-srd/spells/Alpha Instinct\|Alpha Instinct]] (M): | Gain bonuses when you're interacting with animals |
 | [[rangoric-srd/spells/Arcane Concordance\|Arcane Concordance]] (M): | Grants metamagic to arcane spells. |
 | [[rangoric-srd/spells/Audiovisual Hallucination\|Audiovisual Hallucination]]: | Create a phantasm with auditory and visual effects. |
 | [[rangoric-srd/spells/Aura of the Unremarkable\|Aura of the Unremarkable]] (M): | Make actions seem mundane to nearby creatures. |
@@ -316,12 +319,14 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Invisibility Sphere\|Invisibility Sphere]]: | Makes everyone within 10 ft. [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]].     |
 | [[rangoric-srd/spells/Isolate\|Isolate]]: |  |
 | [[rangoric-srd/spells/Jester’s Jaunt\|Jester’s Jaunt]]: | Teleport target within 30 ft. of itself. |
+| [[rangoric-srd/spells/Leshy Swarm\|Leshy Swarm]] (M): | Call for a leshy swarm to aid you. |
 | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
 | [[rangoric-srd/spells/Magic Aura, Greater\|Magic Aura, Greater]] (F): | As magic aura, but also affects creatures and allows more options. |
 | [[rangoric-srd/spells/Major Image\|Major Image]]:                 | As silent image, plus sound, smell and thermal effects.                                                            |
 | [[rangoric-srd/spells/Malicious Spite\|Malicious Spite]] (M): | Target is compelled to plot against another. |
 | [[rangoric-srd/spells/Meticulous Match\|Meticulous Match]]: | Determine if two things are identical. |
 | [[rangoric-srd/spells/Minor Dream\|Minor Dream]]: | This spell functions as the dream spell, except as follows. |
+| [[rangoric-srd/spells/Mirage\|Mirage]] (M): | Create illusory terrain |
 | [[rangoric-srd/spells/Overwhelming Grief\|Overwhelming Grief]]: | Grieving target can take no actions and is denied its Dex bonus. |
 | [[rangoric-srd/spells/Phantom Driver\|Phantom Driver]]: | Conjures a phantom to drive vehicles. |
 | [[rangoric-srd/spells/Phantom Steed\|Phantom Steed]]:             | Magic horse appears for 1 hour/level.                                                                              |
@@ -417,6 +422,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Truespeak\|Truespeak]]: | You can communicate with any creature that is not mindless. |
 | [[rangoric-srd/spells/Utter Contempt\|Utter Contempt]] (M): | Target's attitude worsens by two categories. |
 | [[rangoric-srd/spells/Vicarious View\|Vicarious View]]: | Plant a scrying sensor that you can use to spy on a creature, object, or location. |
+| [[rangoric-srd/spells/Vigilant Rest\|Vigilant Rest]] (M): | Cause a sleeping creature to retain some perception of its surroundings |
 | [[rangoric-srd/spells/Virtuoso Performance\|Virtuoso Performance]]: | Start a second bardic performance while maintaining the first. |
 | [[rangoric-srd/spells/Wall of Blindness-Deafness\|Wall of Blindness-Deafness]]: | Creatures that pass through a translucent wall are blinded or deafened. |
 | [[rangoric-srd/spells/Wall of Sound\|Wall of Sound]] (M): | Sonic wall deflects and damages creatures. |
@@ -486,6 +492,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |
 | [[rangoric-srd/spells/Eyebite\|Eyebite]]:                                       | Target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^panicked\|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^sickened\|sickened]], and comatose. |
 | [[rangoric-srd/spells/False Vision, Greater\|False Vision, Greater]] (M): | As false vision, but moves with the target. |
+| [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 | [[rangoric-srd/spells/Find the Path\|Find the Path]]:                           | Shows most direct way to a location.                                                                                                                                                         |
 | [[rangoric-srd/spells/Fool’s Forbiddance\|Fool’s Forbiddance]] (M): | Confuses enemies who come within a magical emanation centered on you. |
 | [[rangoric-srd/spells/Fox’s Cunning, Mass\|Fox’s Cunning, Mass]]:               | As fox’s cunning, affects one subject/level.                                                                                                                                                 |
