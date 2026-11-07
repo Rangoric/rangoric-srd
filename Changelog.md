@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-06 | 217 new spells from Pathfinder's Ultimate Magic, added to the sorcerer/wizard, cleric, bard, druid, paladin and ranger lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Pathfinder SRD spells (Ultimate Magic) | [[Shared Spells]] |
 | 2026-11-06 | 29 new spellcasting feats from Pathfinder: Arcane Blast and Shield, Minor and Major Spell Expertise, Spell Perfection, Expanded Arcana, Destructive Dispel, Superior Summoning, Undead Master and more. | [[FT Batch 15 Changes]] | 29 new, 1 changed | [[Feat Topics]] |
 | 2026-11-06 | 209 new spells from Pathfinder: the Advanced Player's Guide, plus bleed and breath of life from the Core Rulebook; added to the sorcerer/wizard, bard, druid, ranger, paladin and cleric lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Pathfinder SRD spells (APG, Core Rulebook) | [[Shared Spells]] |
 | 2026-11-06 | 43 new general feats from Pathfinder: the improved save feats, Stalwart, Fast Healer, Heroic Defiance and Recovery, Spell Specialization, Elemental Focus, Flexible Wizardry, the summons feats, Spider Step and Cloud Step, and more. | [[FT Batch 14 Changes]] | 43 new | [[Feat Topics]] |
