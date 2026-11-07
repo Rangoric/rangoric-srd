@@ -3,8 +3,9 @@ srd-type: "overview"
 section: "Equipment"
 based-on:
   - "[[fantasy srd 3.5/equipment/Special Materials|Special Materials (3.5)]]"
-status: base
-change: copied
+  - "[[individual books/Arms & Armor v3.5/materials/Tensile Mercury|Tensile Mercury (Arms & Armor)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -79,3 +80,13 @@ Alchemical silver has 10 hit points per inch of thickness and hardness 8.
 | Light weapon                                        | +20 gp            |
 | One-handed weapon, or one head of a double weapon   | +90 gp            |
 | Two-handed weapon, or both heads of a double weapon | +180 gp           |
+
+**Tensile Mercury**: This silvery, psychoactive metal is found in small pools deep underground; now and then droplets of it are carried up into underground rivers and collect in ponds and streambeds. It has no magic of its own, but its wielder can command it to change shape, so it is highly prized. ^tensile-mercury
+
+Tensile mercury equipment can shrink to one-tenth of its full size and mass. Reshaping it takes training (the [[rangoric-srd/feats/Tensile Mercury Expertise|Tensile Mercury Expertise]] feat) and a standard action. Its users usually keep it as bracers (or matched arm and leg bracers, for armor) or elaborate jewelry. Stored this way, it gives none of the equipment’s usual penalties (other than its reduced weight). You still need proficiency with the weapon or armor. Shaping an exotic weapon also needs a DC 20 Craft (weaponsmithing) check, which takes the normal time; you can take 10 on it, even in a fight.
+
+Tensile mercury has hardness 15 and 30 hit points per inch of thickness. Because it is fluid, it has damage reduction 15/magic against attacks on the item itself.
+
+*Weapons*: Tensile mercury can be shaped into any weapon made mostly of metal, such as the orc double axe, throwing axe, battleaxe, spiked chain, dagger, punching dagger, dart, falchion, dire flail, heavy flail, light flail, gauntlet, spiked gauntlet, glaive, greataxe, greatsword, guisarme, halberd, gnome hooked hammer, light hammer, handaxe, kama, kukri, longsword, heavy mace, light mace, morningstar, heavy pick, light pick, ranseur, rapier, scimitar, scythe, shuriken, sickle, bastard sword, short sword, two-bladed sword, trident, dwarven urgrosh, dwarven waraxe or warhammer. A tensile mercury weapon costs 10,000 gp and can hold up to 7 points of bonuses, with at most a +4 enhancement bonus.
+
+*Armor*: Tensile mercury can be shaped into any mostly metal armor: chain shirt, scale mail, chainmail, breastplate, splint mail, banded mail, half-plate or full plate. Tensile mercury armor costs 6,000 gp and can hold up to 7 points of bonuses, with at most a +4 enhancement bonus.
