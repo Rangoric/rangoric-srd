@@ -49,6 +49,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Litany of Sloth\|Litany of Sloth]]: | Single target cannot make attacks of opportunity for 1 round. |
 | [[rangoric-srd/spells/Longshot\|Longshot]] (M): | Grants a +10-foot bonus to the range increment for any ranged weapon fired. |
 | [[rangoric-srd/spells/Magic Weapon\|Magic Weapon]]:                                                                        | Weapon gains +1 bonus.                                                         |
+| [[rangoric-srd/spells/Positive Pulse\|Positive Pulse]]: | Energy harms undead or bolsters the living |
 | [[rangoric-srd/spells/Protection from Chaos\|Protection from Chaos]]/[[rangoric-srd/spells/Protection from Evil\|Evil]]: | +2 to AC and saves, counter mind control, hedge out elementals and outsiders. |
 | [[rangoric-srd/spells/Rally Point\|Rally Point]]: | Square gives good creatures bonuses. |
 | [[rangoric-srd/spells/Read Magic\|Read Magic]]:                                                                            | Read scrolls and spellbooks.                                                   |
@@ -56,6 +57,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:                                                          | Dispels magical ability penalty or repairs 1d4 ability damage.                 |
 | [[rangoric-srd/spells/Sanctify Corpse\|Sanctify Corpse]] (M): | Prevent a corpse from becoming an undead. |
 | [[rangoric-srd/spells/Shield of Fortification\|Shield of Fortification]]: | Target gains a 50% chance to treat critical hits and sneak attacks as normal hits. |
+| [[rangoric-srd/spells/Steady Saddle\|Steady Saddle]]: | Affected saddle has reduced penalties for actions requiring focus |
 | [[rangoric-srd/spells/Stunning Barrier\|Stunning Barrier]]: | Magical field grants a +1 bonus to AC and on saves, and stuns one creature attacking you. |
 | [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
 | [[rangoric-srd/spells/Tactical Acumen\|Tactical Acumen]] (M): | You gain an additional +1 on attack rolls or to AC due to battlefield positioning. |
@@ -148,6 +150,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Magic Weapon, Greater\|Magic Weapon, Greater]]:           | +1 bonus/four levels (max +5).                                |
 | [[rangoric-srd/spells/Mantle of Calm\|Mantle of Calm]]: | Neutralize the rage effects of those who have attacked you. |
 | [[rangoric-srd/spells/Marks of Forbiddance\|Marks of Forbiddance]]: | Makes 2 creatures pass Will saves in order to attack each other. |
+| [[rangoric-srd/spells/Positive Pulse, Greater\|Positive Pulse, Greater]]: | A large pulse of positive enrgy damages undead and bolsters living creatures |
 | [[rangoric-srd/spells/Prayer\|Prayer]]:                                         | Allies +1 bonus on most rolls, enemies –1 penalty.             |
 | [[rangoric-srd/spells/Spells P to R\|Remove Blindness/Deafness]]:               | Cures normal or magical conditions.                            |
 | [[rangoric-srd/spells/Remove Curse\|Remove Curse]]:                             | Frees object or person from curse.                             |
@@ -179,6 +182,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Forced Repentance\|Forced Repentance]]: | Target falls prone and confesses sins. |
 | [[rangoric-srd/spells/Guardian of Faith\|Guardian of Faith]] (M): | Target is protected by shield of faith and a protection spell, and can transfer the effects to another creature. |
 | [[rangoric-srd/spells/Holy Sword\|Holy Sword]]:                   | Weapon becomes +5, deals +2d6 damage against evil.                        |
+| [[rangoric-srd/spells/Invoke Deity\|Invoke Deity]] (M F): | Infuse yourself with the powers of your deity's planar realm |
 | [[rangoric-srd/spells/King’s Castle\|King’s Castle]]: | Instantly switch places with a single ally. |
 | [[rangoric-srd/spells/Litany of Thunder\|Litany of Thunder]]: | A single target is deafened until the condition is removed, and is confused for 1 round. |
 | [[rangoric-srd/spells/Litany of Vengeance\|Litany of Vengeance]]: | Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round. |
@@ -195,5 +199,6 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Restoration\|Restoration]] (M):             | Restores level and ability score drains.                                  |
 | [[rangoric-srd/spells/Sacrificial Oath\|Sacrificial Oath]]: | Take damage for an ally for many rounds. |
 | [[rangoric-srd/spells/Sea Stallion\|Sea Stallion]]: | You and your mount adapt to an aquatic environment |
+| [[rangoric-srd/spells/Speak with Soul\|Speak with Soul]] (M): | Hold an extended conversation with a soul |
 | [[rangoric-srd/spells/Stay the Hand\|Stay the Hand]]: | Subject cannot attack with melee weapon. |
 | [[rangoric-srd/spells/Symbol of Healing\|Symbol of Healing]] (M): | Triggered rune heals living creatures. |

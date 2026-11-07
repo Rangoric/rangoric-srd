@@ -53,6 +53,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M): | Your recall and ability to process information improve. |
 | [[rangoric-srd/spells/Hidden Spring\|Hidden Spring]] (F): | Discover a temporary spring of fresh, flowing water |
 | [[rangoric-srd/spells/Hide from Animals\|Hide from Animals]]:               | Animals can’t perceive one subject/level.                                  |
+| [[rangoric-srd/spells/Hobble\|Hobble]] (M): | Reduce creature's speed |
 | [[rangoric-srd/spells/Horn of Pursuit\|Horn of Pursuit]]: | Create three notes heard miles away. |
 | [[rangoric-srd/spells/Hunter’s Howl\|Hunter’s Howl]]: | Treat enemies as favored for 1 round/level. |
 | [[rangoric-srd/spells/Invisibility Alarm\|Invisibility Alarm]]: | As alarm, but reacting only to invisible creatures. |
@@ -67,6 +68,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Longstrider\|Longstrider]]:                           | Increases your speed.                                                      |
 | [[rangoric-srd/spells/Magic Fang\|Magic Fang]]:                             | One natural weapon of subject creature gets +1 on attack and damage rolls. |
 | [[rangoric-srd/spells/Marid’s Mastery\|Marid’s Mastery]]: | The target gains a +1 bonus on attack and damage rolls if it and its opponent are touching water. |
+| [[rangoric-srd/spells/Nature’s Paths\|Nature’s Paths]] (M): | Learn the best way to travel overland |
 | [[rangoric-srd/spells/Negate Aroma\|Negate Aroma]] (M): | Subject cannot be tracked by scent. |
 | [[rangoric-srd/spells/Pass without Trace\|Pass without Trace]]:             | One subject/level leaves no tracks.                                        |
 | [[rangoric-srd/spells/Read Magic\|Read Magic]]:                             | Read scrolls and spellbooks.                                               |
@@ -76,6 +78,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Returning Weapon\|Returning Weapon]]: | Grants a weapon the returning special weapon quality. |
 | [[rangoric-srd/spells/Savage Maw\|Savage Maw]]: | Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. |
 | [[rangoric-srd/spells/Speak with Animals\|Speak with Animals]]:             | You can communicate with animals.                                          |
+| [[rangoric-srd/spells/Steady Saddle\|Steady Saddle]]: | Affected saddle has reduced penalties for actions requiring focus |
 | [[rangoric-srd/spells/Strong Wings\|Strong Wings]]: | The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). |
 | [[rangoric-srd/spells/Summon Minor Ally\|Summon Minor Ally]]: | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Nature’s Ally I\|Summon Nature’s Ally I]]:     | Calls animal to fight for you.                                             |
@@ -122,6 +125,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
 | [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Enemy Insight\|Enemy Insight]]: | Grant others a bonus against your favored enemies. |
+| [[rangoric-srd/spells/Escape Alarm\|Escape Alarm]] (F): | As alarm, but alerts you when a creatuer leaves the area |
 | [[rangoric-srd/spells/Escaping Ward\|Escaping Ward]]: | This ward grants you extra maneuverability when you avoid attacks against larger foes. |
 | [[rangoric-srd/spells/Forest Friend\|Forest Friend]] (M): | Plants in a forested area become helpful instead of hindering you and your allies. |
 | [[rangoric-srd/spells/Grasping Vine\|Grasping Vine]]: | Sprout a 20-ft long vine that can assist with numerous tasks. |
@@ -181,6 +185,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bleed for Your Master\|Bleed for Your Master]]: | Compel a companion to take damage for you |
 | [[rangoric-srd/spells/Blessing of the Mole\|Blessing of the Mole]]: | 1 ally/level gains darkvision and a +2 Stealth bonus. |
 | [[rangoric-srd/spells/Bloody Claws\|Bloody Claws]]: | Gives creature the ability to deal bleed damage with natural attacks. |
+| [[rangoric-srd/spells/Burning Entanglement\|Burning Entanglement]]: | As entangle, but deals fire damage and obscures the area with smoke |
 | [[rangoric-srd/spells/Burrow\|Burrow]]: | Target gains a burrow speed of 15. |
 | [[rangoric-srd/spells/Burst of Speed\|Burst of Speed]]: | You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are. |
 | [[rangoric-srd/spells/Chameleon Stride, Greater\|Chameleon Stride, Greater]]: | As chameleon stride, but affecting all nearby creatures. |
@@ -195,6 +200,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Feather Step, Mass\|Feather Step, Mass]]: | As feather step, but affects many targets rather than one. |
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
 | [[rangoric-srd/spells/Forest’s Sense\|Forest’s Sense]]: | Sense the location of a distant target that is near a plant or fungus |
+| [[rangoric-srd/spells/Geomessage\|Geomessage]] (M): | Leave a message hidden on a surface |
 | [[rangoric-srd/spells/Insect Spies\|Insect Spies]] (M): | Use magic beetles as spies. |
 | [[rangoric-srd/spells/Instant Enemy\|Instant Enemy]]: | Target is treated as a favored enemy type of your choice. |
 | [[rangoric-srd/spells/Instant Fake\|Instant Fake]] (M): | Provide a short-term replica of an object. |
@@ -213,6 +219,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Remove Disease\|Remove Disease]]:                     | Cures all diseases affecting subject.                                                                  |
 | [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]:                         | Insects, spiders, and other vermin stay 10 ft. away.                                                   |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Sand Table\|Sand Table]] (M): | Create a model of the surrounding land and the creatures nearby |
 | [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): |  |
 | [[rangoric-srd/spells/Signs of the Land\|Signs of the Land]]: | Learn up to three details about the surrounding territory |
 | [[rangoric-srd/spells/Soothing Mud\|Soothing Mud]]: | Create restorative mud that heals hit point and ability damage |
@@ -240,6 +247,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bow Spirit\|Bow Spirit]]: | Summons an invisible spirit that fires your arrows for you as a swift action. |
 | [[rangoric-srd/spells/Cloud Shape\|Cloud Shape]]: | This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30 feet. |
 | [[rangoric-srd/spells/Commune with Nature\|Commune with Nature]]:         | Learn about terrain for 1 mile/level.       |
+| [[rangoric-srd/spells/Commune with Plane\|Commune with Plane]]: | Learn about local planar terrain |
 | [[rangoric-srd/spells/Companion Transposition\|Companion Transposition]] (F): |  |
 | [[rangoric-srd/spells/Control Vermin\|Control Vermin]] (M): |  |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).        |
@@ -249,6 +257,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Find Quarry\|Find Quarry]]: | You can sense whether a particular creature is within 20 miles of your location. |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:         | Subject moves normally despite impediments. |
 | [[rangoric-srd/spells/Grove of Respite\|Grove of Respite]] (M): | Creates trees and a small spring. |
+| [[rangoric-srd/spells/Invoke Deity\|Invoke Deity]] (M F): | Infuse yourself with the powers of your deity's planar realm |
 | [[rangoric-srd/spells/Named Bullet, Greater\|Named Bullet, Greater]] (M): | As named bullet, but deals 2 points of damage for every caster level. |
 | [[rangoric-srd/spells/Nondetection\|Nondetection]] (M):                   | Hides subject from divination, scrying.     |
 | [[rangoric-srd/spells/Overwhelming Poison\|Overwhelming Poison]] (M): | Make a poison more difficult to resist. |

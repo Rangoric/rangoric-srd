@@ -79,6 +79,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Mighty Fist of the Earth\|Mighty Fist of the Earth]]: | You create a fist-sized rock that flies toward one enemy. |
 | [[rangoric-srd/spells/Monkey Fish\|Monkey Fish]]: | Gain a climb speed and a swim speed of 10 ft. for a time. |
 | [[rangoric-srd/spells/Mudball\|Mudball]]: | Conjures a single ball of sticky mud and launch it at an enemy's face as a ranged touch attack. |
+| [[rangoric-srd/spells/Nature’s Paths\|Nature’s Paths]] (M): | Learn the best way to travel overland |
 | [[rangoric-srd/spells/Nauseating Dart\|Nauseating Dart]]: | Poisonous stinger deals 1d2 damage and sickens target. |
 | [[rangoric-srd/spells/Negate Aroma\|Negate Aroma]] (M): | Subject cannot be tracked by scent. |
 | [[rangoric-srd/spells/Nereid’s Grace\|Nereid’s Grace]]: | You radiate the unearthly grace of a nereid. |
@@ -93,6 +94,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Shillelagh\|Shillelagh]]:                             | Cudgel or quarterstaff becomes +1 weapon (1d10 damage) for 1 min./level.   |
 | [[rangoric-srd/spells/Snowball\|Snowball]]: | Throw a conjured ball of snow at a target |
 | [[rangoric-srd/spells/Speak with Animals\|Speak with Animals]]:             | You can communicate with animals.                                          |
+| [[rangoric-srd/spells/Steady Saddle\|Steady Saddle]]: | Affected saddle has reduced penalties for actions requiring focus |
 | [[rangoric-srd/spells/Stone Fist\|Stone Fist]] (M): | Your unarmed strikes are lethal. |
 | [[rangoric-srd/spells/Stone Shield\|Stone Shield]]: | A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. |
 | [[rangoric-srd/spells/Strong Wings\|Strong Wings]]: | The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). |
@@ -142,6 +144,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                       | Stops poison from harming subject for 1 hour/level.                                                                                         |
 | [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]: | As detect magic, but learn more information. |
+| [[rangoric-srd/spells/Dousing Rain\|Dousing Rain]] (M): | Magical rain dampens fire but amplfies electricity |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
 | [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M): | Enables you to speak to elementals and some creatures. |
 | [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
@@ -170,6 +173,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Masterwork Transformation\|Masterwork Transformation]] (M): | Make a normal item into a masterwork one. |
 | [[rangoric-srd/spells/Mud Buddy\|Mud Buddy]] (M): |  |
 | [[rangoric-srd/spells/Natural Rhythm\|Natural Rhythm]] (M): | +1 on damage rolls with each hit (max +5). |
+| [[rangoric-srd/spells/Outbreak\|Outbreak]]: | Diseased creatures in the area become extremely contagious |
 | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                       | Subject gains +4 to Wis for 1 min./level.                                                                                                   |
 | [[rangoric-srd/spells/Pernicious Poison\|Pernicious Poison]]: | Target takes a -4 penalty against poison. |
 | [[rangoric-srd/spells/Pouncing Fury\|Pouncing Fury]]: | Make a full attack with your claws after a charge |
@@ -222,6 +226,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Badger’s Ferocity\|Badger’s Ferocity]]: | Weapons are keen while you concentrate. |
 | [[rangoric-srd/spells/Bleed for Your Master\|Bleed for Your Master]]: | Compel a companion to take damage for you |
 | [[rangoric-srd/spells/Blood Scent\|Blood Scent]]: | You greatly magnify the target's ability to smell the presence of blood. |
+| [[rangoric-srd/spells/Burning Entanglement\|Burning Entanglement]]: | As entangle, but deals fire damage and obscures the area with smoke |
 | [[rangoric-srd/spells/Burrow\|Burrow]]: | Target gains a burrow speed of 15. |
 | [[rangoric-srd/spells/Burst of Nettles\|Burst of Nettles]]: | Burst deals 3d6 damage and 1d6 acid. |
 | [[rangoric-srd/spells/Call Lightning\|Call Lightning]]:                     | Calls down lightning bolts (3d6 per bolt) from sky.                                             |
@@ -265,6 +270,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Quench\|Quench]]:                                     | Extinguishes nonmagical fires or one magic item.                                                |
 | [[rangoric-srd/spells/Raging Rubble\|Raging Rubble]]: | You animate an area of rubble, gravel, or other small stones, creating a dangerous, rolling area of debris. |
 | [[rangoric-srd/spells/Rain of Frogs\|Rain of Frogs]] (M): | Summon a swarm of poisonous frogs. |
+| [[rangoric-srd/spells/Reinvigorating Wind\|Reinvigorating Wind]] (M): | Magical wind invigorates your allies |
 | [[rangoric-srd/spells/Remove Disease\|Remove Disease]]:                     | Cures all diseases affecting subject.                                                           |
 | [[rangoric-srd/spells/Resinous Skin\|Resinous Skin]]: | You gain DR 5/piercing and +4 to CMD against disarm attempts. |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
@@ -288,6 +294,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Thunderstomp, Greater\|Thunderstomp, Greater]]: | Trip multiple creatures within range. |
 | [[rangoric-srd/spells/Transfer Regeneration\|Transfer Regeneration]]: |  |
 | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M): | Take the form and some of the powers of a Small or Medium vermin. |
+| [[rangoric-srd/spells/Virulent Miasma\|Virulent Miasma]] (M): | As fog cloud, but vapor is diseased |
 | [[rangoric-srd/spells/Ward of the Season\|Ward of the Season]]: | Harnesses the power of the seasons to protect the target and grant a number of bonuses. |
 | [[rangoric-srd/spells/Water Breathing\|Water Breathing]]:                   | Subjects can breathe underwater.                                                                |
 | [[rangoric-srd/spells/Wind Wall\|Wind Wall]]:                               | Deflects arrows, smaller creatures, and gases.                                                  |
