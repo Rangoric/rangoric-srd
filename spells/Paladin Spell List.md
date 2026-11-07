@@ -17,9 +17,11 @@ tags: [rangoric, rangoric/overview]
 
 | Spell Name                                                                                                                   | Brief Description                                                              |
 | ---------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------ |
+| [[rangoric-srd/spells/Animal Purpose Training\|Animal Purpose Training]] (M): | Animal gains a new general purpose. |
 | [[rangoric-srd/spells/Bless\|Bless]]:                                                                                      | Allies gain +1 on attack rolls and +1 on saves against fear.                   |
 | [[rangoric-srd/spells/Bless Water\|Bless Water]]:                                                                          | Makes holy water.                                                              |
 | [[rangoric-srd/spells/Bless Weapon\|Bless Weapon]]:                                                                        | Weapon strikes true against evil foes.                                         |
+| [[rangoric-srd/spells/Blessed Fist\|Blessed Fist]]: | Target doesn't provoke attacks of opportunity with unarmed strikes. |
 | [[rangoric-srd/spells/Bowstaff\|Bowstaff]]: | A shortbow may double as a club, or a longbow as a quarterstaff. |
 | [[rangoric-srd/spells/Challenge Evil\|Challenge Evil]]: | Sickens creature if it refuses to fight you. |
 | [[rangoric-srd/spells/Compel Hostility\|Compel Hostility]] (M): | Compels opponents to attack you instead of your allies. |
@@ -47,6 +49,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resistance\|Resistance]]:                                                                            | Subject gains +1 on saving throws.                                             |
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:                                                          | Dispels magical ability penalty or repairs 1d4 ability damage.                 |
 | [[rangoric-srd/spells/Sanctify Corpse\|Sanctify Corpse]] (M): | Prevent a corpse from becoming an undead. |
+| [[rangoric-srd/spells/Shield of Fortification\|Shield of Fortification]]: | Target gains a 50% chance to treat critical hits and sneak attacks as normal hits. |
+| [[rangoric-srd/spells/Stunning Barrier\|Stunning Barrier]]: | Magical field grants a +1 bonus to AC and on saves, and stuns one creature attacking you. |
 | [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
 | [[rangoric-srd/spells/Tactical Acumen\|Tactical Acumen]] (M): | You gain an additional +1 on attack rolls or to AC due to battlefield positioning. |
 | [[rangoric-srd/spells/Veil of Positive Energy\|Veil of Positive Energy]]: | +2 AC, +2 on saves vs. undead. |
@@ -64,6 +68,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bestow Weapon Proficiency\|Bestow Weapon Proficiency]] (M): | Grants a creature proficiency in a single weapon for short period of time. |
 | [[rangoric-srd/spells/Blessing of Courage and Life\|Blessing of Courage and Life]]: | Grants a +2 bonus on saves vs. fear and death. |
 | [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]]:               | Subject gains +4 to Str for 1 min./level.                                |
+| [[rangoric-srd/spells/Bullet Ward\|Bullet Ward]] (F): | Adamantine bullets intercept firearm attacks. |
 | [[rangoric-srd/spells/Corruption Resistance\|Corruption Resistance]]: | Protects creature against damage from alignment-based attacks. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                     | Stops poison from harming subject for 1 hour/level.                      |
 | [[rangoric-srd/spells/Divine Arrow\|Divine Arrow]]: | Imbues a projectile with holy energy. |
@@ -89,11 +94,13 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Righteous Vigor\|Righteous Vigor]]: | Boosts attack bonus with each hit. |
 | [[rangoric-srd/spells/Sacred Bond\|Sacred Bond]] (F): | Cast touch healing spells from a distance. |
 | [[rangoric-srd/spells/Saddle Surge\|Saddle Surge]]: | Bonus damage for moving on mount. |
+| [[rangoric-srd/spells/Shield Companion\|Shield Companion]]: | As shield other, but affecting your companion creature. |
 | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F):                 | You take half of subject’s damage.                                       |
 | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]: | Conceals alignment for 24 hours.                                         |
 | [[rangoric-srd/spells/Vestment of the Champion\|Vestment of the Champion]]: | Armor or shield gains a +1 enhancement per four levels. |
 | [[rangoric-srd/spells/Wake of Light\|Wake of Light]]: | Magical trail aids good creatures, hinders evil ones. |
 | [[rangoric-srd/spells/Weapon of Awe\|Weapon of Awe]]: | Weapon gets +2 on damage rolls. |
+| [[rangoric-srd/spells/Widen Auras\|Widen Auras]]: | Increase the range of auras bestowed by your class. |
 | [[rangoric-srd/spells/Zone of Truth\|Zone of Truth]]:                   | Subjects within range cannot lie.                                        |
 
 ##### 3rd-Level Paladin Spells
@@ -101,6 +108,7 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                        | Brief Description                                              |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [[rangoric-srd/spells/Archon’s Aura\|Archon’s Aura]]: | Aura penalizes enemy attacks and AC. |
+| [[rangoric-srd/spells/Bestow Auras\|Bestow Auras]]: | Transfer your paladin or antipaladin auras to another creature. |
 | [[rangoric-srd/spells/Blade of Bright Victory\|Blade of Bright Victory]]: | Bonded weapon gains ghost touch. |
 | [[rangoric-srd/spells/Blessing of the Mole\|Blessing of the Mole]]: | 1 ally/level gains darkvision and a +2 Stealth bonus. |
 | [[rangoric-srd/spells/Burst of Speed\|Burst of Speed]]: | You gain increased speed, and your movement ignores attacks of opportunity and allows you to move through the space of creatures larger than you are. |
@@ -122,12 +130,15 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Magic Circle against Chaos\|Magic Circle against Chaos]]: | As protection from chaos, but 10-ft. radius and 10 min./level. |
 | [[rangoric-srd/spells/Magic Circle against Evil\|Magic Circle against Evil]]:   | As protection from evil, but 10-ft. radius and 10 min./level.  |
 | [[rangoric-srd/spells/Magic Weapon, Greater\|Magic Weapon, Greater]]:           | +1 bonus/four levels (max +5).                                |
+| [[rangoric-srd/spells/Mantle of Calm\|Mantle of Calm]]: | Neutralize the rage effects of those who have attacked you. |
 | [[rangoric-srd/spells/Marks of Forbiddance\|Marks of Forbiddance]]: | Makes 2 creatures pass Will saves in order to attack each other. |
 | [[rangoric-srd/spells/Prayer\|Prayer]]:                                         | Allies +1 bonus on most rolls, enemies –1 penalty.             |
 | [[rangoric-srd/spells/Spells P to R\|Remove Blindness/Deafness]]:               | Cures normal or magical conditions.                            |
 | [[rangoric-srd/spells/Remove Curse\|Remove Curse]]:                             | Frees object or person from curse.                             |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Sanctify Armor\|Sanctify Armor]]: | +1 AC/four levels (max +5). |
+| [[rangoric-srd/spells/Shield of Fortification, Greater\|Shield of Fortification, Greater]]: |  |
+| [[rangoric-srd/spells/Stunning Barrier, Greater\|Stunning Barrier, Greater]]: | Magical field grants a +2 bonus to AC and on saves, and stuns multiple creatures attacking you. |
 | [[rangoric-srd/spells/Wrathful Mantle\|Wrathful Mantle]]: | Subject shines and gets +1/four levels on all saves. |
 
 ##### 4th-Level Paladin Spells
@@ -143,6 +154,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dispel Evil\|Dispel Evil]]:                 | +4 bonus against attacks by evil creatures.                              |
 | [[rangoric-srd/spells/Fire of Vengeance\|Fire of Vengeance]]: | Smited creature takes 3d8 damage. |
 | [[rangoric-srd/spells/Forced Repentance\|Forced Repentance]]: | Target falls prone and confesses sins. |
+| [[rangoric-srd/spells/Guardian of Faith\|Guardian of Faith]] (M): | Target is protected by shield of faith and a protection spell, and can transfer the effects to another creature. |
 | [[rangoric-srd/spells/Holy Sword\|Holy Sword]]:                   | Weapon becomes +5, deals +2d6 damage against evil.                        |
 | [[rangoric-srd/spells/King’s Castle\|King’s Castle]]: | Instantly switch places with a single ally. |
 | [[rangoric-srd/spells/Litany of Thunder\|Litany of Thunder]]: | A single target is deafened until the condition is removed, and is confused for 1 round. |
@@ -151,6 +163,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Mark of Justice\|Mark of Justice]]:         | Designates action that will trigger curse on subject.                     |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:     | Immunizes subject against poison, detoxifies venom in or on subject.      |
 | [[rangoric-srd/spells/Oath of Peace\|Oath of Peace]]: | Grants +5 AC and DR 10/evil, can't attack. |
+| [[rangoric-srd/spells/Planeslayer’s Call\|Planeslayer’s Call]]: | Allies gain benefits against outsiders of an alignment you choose. |
 | [[rangoric-srd/spells/Raise Animal Companion\|Raise Animal Companion]] (M): | As raise dead, but on an animal. |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
 | [[rangoric-srd/spells/Resounding Blow\|Resounding Blow]]: | Melee attack deals 1d6 more damage. |

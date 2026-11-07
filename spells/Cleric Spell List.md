@@ -42,6 +42,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bane\|Bane]]:                                                                                                                                                   | Enemies take –1 on attack rolls and saves against fear.                                  |
 | [[rangoric-srd/spells/Bless\|Bless]]:                                                                                                                                                 | Allies gain +1 on attack rolls and saves against fear.                                   |
 | [[rangoric-srd/spells/Bless Water\|Bless Water]] (M):                                                                                                                                 | Makes holy water.                                                                        |
+| [[rangoric-srd/spells/Blessed Fist\|Blessed Fist]]: | Target doesn't provoke attacks of opportunity with unarmed strikes. |
 | [[rangoric-srd/spells/Cause Fear\|Cause Fear]]:                                                                                                                                       | One creature of 5 HD or less flees for 1d4 rounds.                                       |
 | [[rangoric-srd/spells/Command\|Command]]:                                                                                                                                             | One subject obeys selected command for 1 round.                                          |
 | [[rangoric-srd/spells/Compel Hostility\|Compel Hostility]] (M): | Compels opponents to attack you instead of your allies. |
@@ -71,6 +72,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:                                                                                                                               | Fog surrounds you.                                                                       |
 | [[rangoric-srd/spells/Spells P to R\|Protection from Chaos/Evil/Good/Law]]:                                                                                                           | +2 to AC and saves, counter mind control, hedge out elementals and outsiders.           |
 | [[rangoric-srd/spells/Ray of Sickening\|Ray of Sickening]] (M): | Ray makes subject sickened. |
+| [[rangoric-srd/spells/Refine Improvised Weapon\|Refine Improvised Weapon]]: | Transform improvised weapon into a masterwork simple or martial weapon. |
 | [[rangoric-srd/spells/Reinforce Armaments\|Reinforce Armaments]] (M): | Temporarily mitigates the fragile quality in targeted weapon or armor. |
 | [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                                                                                                                                     | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels. |
 | [[rangoric-srd/spells/Remove Sickness\|Remove Sickness]]: | Suppress disease, nausea, and the sickened condition. |
@@ -78,6 +80,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sanctify Corpse\|Sanctify Corpse]] (M): | Prevent a corpse from becoming an undead. |
 | [[rangoric-srd/spells/Sanctuary\|Sanctuary]]:                                                                                                                                         | Opponents can’t attack you, and you can’t attack.                                        |
 | [[rangoric-srd/spells/Shield of Faith\|Shield of Faith]]:                                                                                                                             | Aura grants +2 or higher deflection bonus.                                               |
+| [[rangoric-srd/spells/Stunning Barrier\|Stunning Barrier]]: | Magical field grants a +1 bonus to AC and on saves, and stuns one creature attacking you. |
 | [[rangoric-srd/spells/Summon Minor Monster\|Summon Minor Monster]] (F): | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]:                                                                                                                           | Calls extraplanar creature to fight for you.                                             |
 | [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
@@ -87,6 +90,7 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                  | Brief Description                                                                                                                            |
 | --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Aid\|Aid]]:                                         | +1 on attack rolls and saves against fear, 1d8 temporary hp +1/level (max +10).                                                             |
+| [[rangoric-srd/spells/Air Step\|Air Step]] (M): | Tread unsteadily on air, with limitations. |
 | [[rangoric-srd/spells/Align Weapon\|Align Weapon]]:                       | Weapon becomes good, evil, lawful, or chaotic.                                                                                               |
 | [[rangoric-srd/spells/Animate Dead, Lesser\|Animate Dead, Lesser]] (M): | Create one skeleton or zombie. |
 | [[rangoric-srd/spells/Ant Haul, Communal\|Ant Haul, Communal]] (M): | As ant haul, but you may divide the duration among creatures touched. |
@@ -118,14 +122,19 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Grace\|Grace]]: | Movement doesn't provoke attacks of opportunity. |
 | [[rangoric-srd/spells/Heroic Fortune\|Heroic Fortune]] (M): | Grants one hero point to a character |
 | [[rangoric-srd/spells/Hold Person\|Hold Person]]:                         | Paralyzes one humanoid for 1 round/level.                                                                                                    |
+| [[rangoric-srd/spells/Holy Ice Weapon\|Holy Ice Weapon]] (M): | Create a masterwork weapon made of frozen holy water. |
 | [[rangoric-srd/spells/Imbue with Aura\|Imbue with Aura]]: | Target emulates your cleric aura. |
 | [[rangoric-srd/spells/Inflict Moderate Wounds\|Inflict Moderate Wounds]]: | Touch attack, 2d8 damage +1/level (max +10).                                                                                                 |
 | [[rangoric-srd/spells/Instant Armor\|Instant Armor]]: | Summon armor temporarily replacing your current attire. |
 | [[rangoric-srd/spells/Instrument of Agony\|Instrument of Agony]]: | Weapon exudes divine fury, granting a bonus on Intimidation checks. |
+| [[rangoric-srd/spells/Life Pact\|Life Pact]] (M): | Affected creatures automatically donate hp to stabilize fallen ally. |
 | [[rangoric-srd/spells/Magic Siege Engine\|Magic Siege Engine]]: | Siege gains +1 on targeting and damage rolls. |
 | [[rangoric-srd/spells/Make Whole\|Make Whole]]:                           | Repairs an object.                                                                                                                           |
+| [[rangoric-srd/spells/Marching Chant\|Marching Chant]]: | Allies can hustle without penalty while you sing or chant. |
 | [[rangoric-srd/spells/Masterwork Transformation\|Masterwork Transformation]] (M): | Make a normal item into a masterwork one. |
+| [[rangoric-srd/spells/Muffle Sound\|Muffle Sound]]: | Allies gain a bonus on Stealth checks but risk verbal spell failure. |
 | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                       | Subject gains +4 to Wis for 1 min./level.                                                                                                    |
+| [[rangoric-srd/spells/Path of Glory\|Path of Glory]]: | Create an expanding glow that heals allies within it of 1 hp of damage. |
 | [[rangoric-srd/spells/Pilfering Hand\|Pilfering Hand]]: | You may seize an object or manipulate it from afar. |
 | [[rangoric-srd/spells/Protection from Chaos, Communal\|Protection from Chaos, Communal]]: | As protection from chaos, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Protection from Evil, Communal\|Protection from Evil, Communal]] (M): | As protection from evil, but you may divide the duration among creatures touched. |
@@ -140,8 +149,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Shard of Chaos\|Shard of Chaos]]: | Harm and possibly slow lawful creatures. |
 | [[rangoric-srd/spells/Share Language\|Share Language]] (M): | Subject understands chosen language. |
 | [[rangoric-srd/spells/Shatter\|Shatter]]:                                 | Sonic vibration damages objects or crystalline creatures.                                                                                    |
+| [[rangoric-srd/spells/Shield of Fortification\|Shield of Fortification]]: | Target gains a 50% chance to treat critical hits and sneak attacks as normal hits. |
 | [[rangoric-srd/spells/Shield Other\|Shield Other]] (F):                   | You take half of subject’s damage.                                                                                                           |
 | [[rangoric-srd/spells/Silence\|Silence]]:                                 | Negates sound in 15-ft. radius.                                                                                                              |
+| [[rangoric-srd/spells/Silent Table\|Silent Table]]: | Give yourself privacy by muffling sound leaving the area. |
 | [[rangoric-srd/spells/Sound Burst\|Sound Burst]]:                         | Deals 1d8 sonic damage to subjects; may stun them.                                                                                           |
 | [[rangoric-srd/spells/Spear of Purity\|Spear of Purity]]: | Harm and possibly blind evil creatures. |
 | [[rangoric-srd/spells/Spiritual Weapon\|Spiritual Weapon]]:               | Magic weapon attacks on its own.                                                                                                             |
@@ -149,6 +160,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Summon Monster II\|Summon Monster II]]:             | Calls extraplanar creature to fight for you.                                                                                                 |
 | [[rangoric-srd/spells/Surmount Affliction\|Surmount Affliction]]: | Temporarily suppress one condition. |
 | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]:   | Conceals alignment for 24 hours.                                                                                                             |
+| [[rangoric-srd/spells/Unholy Ice Weapon\|Unholy Ice Weapon]] (M): | Create a masterwork weapon made of frozen unholy water. |
+| [[rangoric-srd/spells/Unliving Rage\|Unliving Rage]]: | As rage, except affecting only undead. |
 | [[rangoric-srd/spells/Weapon of Awe\|Weapon of Awe]]: | Weapon gets +2 on damage rolls. |
 | [[rangoric-srd/spells/Web Shelter\|Web Shelter]]: | Create a comfortable shelter made of webbing. |
 | [[rangoric-srd/spells/Zone of Truth\|Zone of Truth]]:                     | Subjects within range cannot lie.                                                                                                            |
@@ -158,8 +171,10 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                         | Brief Description                                                                                                                                                             |
 | ---------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Agonize\|Agonize]]: | Pain encourages an outsider to obey you. |
+| [[rangoric-srd/spells/Align Weapon, Communal\|Align Weapon, Communal]]: | As align weapon, but you can divide the duration among weapons touched. |
 | [[rangoric-srd/spells/Animate Dead\|Animate Dead]] (M):                          | Creates undead skeletons and zombies.                                                                                                                                         |
 | [[rangoric-srd/spells/Archon’s Aura\|Archon’s Aura]]: | Aura penalizes enemy attacks and AC. |
+| [[rangoric-srd/spells/Aura Sight\|Aura Sight]]: | Alignment auras become visible to you. |
 | [[rangoric-srd/spells/Badger’s Ferocity\|Badger’s Ferocity]]: | Weapons are keen while you concentrate. |
 | [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]:                              | –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action.                                                                           |
 | [[rangoric-srd/spells/Blessing of the Mole\|Blessing of the Mole]]: | 1 ally/level gains darkvision and a +2 Stealth bonus. |
@@ -188,6 +203,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Locate Object\|Locate Object]]:                            | Senses direction toward object (specific or type).                                                                                                                            |
 | [[rangoric-srd/spells/Spells M to O\|Magic Circle against Chaos/Evil/Good/Law]]: | As protection spells, but 10-ft. radius and 10 min./level.                                                                                                                    |
 | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]:                          | Armor or shield gains +1 enhancement per four levels.                                                                                                                         |
+| [[rangoric-srd/spells/Mantle of Calm\|Mantle of Calm]]: | Neutralize the rage effects of those who have attacked you. |
+| [[rangoric-srd/spells/Mark of Obvious Ethics\|Mark of Obvious Ethics]]: | Other creatures can determine the target's alignment. |
 | [[rangoric-srd/spells/Meld into Stone\|Meld into Stone]]:                        | You and your gear merge with stone.                                                                                                                                           |
 | [[rangoric-srd/spells/Nap Stack\|Nap Stack]] (M): | Subjects only need 2 hours for a night's sleep, and can sleep even longer for more benefits. |
 | [[rangoric-srd/spells/Obscure Object\|Obscure Object]]:                          | Masks object against scrying.                                                                                                                                                 |
@@ -205,6 +222,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Speak with Dead\|Speak with Dead]]:                        | Corpse answers one question/two levels.                                                                                                                                       |
 | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]:                                | Sculpts stone into any shape.                                                                                                                                                 |
+| [[rangoric-srd/spells/Stunning Barrier, Greater\|Stunning Barrier, Greater]]: | Magical field grants a +2 bonus to AC and on saves, and stuns multiple creatures attacking you. |
 | [[rangoric-srd/spells/Summon Monster III\|Summon Monster III]]:                  | Calls extraplanar creature to fight for you.                                                                                                                                  |
 | [[rangoric-srd/spells/Symbol of Healing\|Symbol of Healing]] (M): | Triggered rune heals living creatures. |
 | [[rangoric-srd/spells/Unravel Destiny\|Unravel Destiny]]: | Target suffers a penalty to multiple rules for every hero point they possess. |
@@ -219,8 +237,10 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                    | Brief Description                                                                                                     |
 | ----------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Air Walk\|Air Walk]]:                                 | Subject treads on air as if solid (climb at 45-degree angle).                                                         |
+| [[rangoric-srd/spells/Anti-Incorporeal Shell\|Anti-Incorporeal Shell]]: | Incorporeal creatures stay 10 ft. away from you. |
 | [[rangoric-srd/spells/Aura of Doom\|Aura of Doom]] (M): | Creatures in your aura become shaken. |
 | [[rangoric-srd/spells/Blessing of Fervor\|Blessing of Fervor]]: | Gives allies a choice of benefits. |
+| [[rangoric-srd/spells/Bloatbomb\|Bloatbomb]]: | Kill a weak creature and turn its corpse into an explosive trap. |
 | [[rangoric-srd/spells/Blood Crow Strike\|Blood Crow Strike]]: | Unarmed strikes create crows that deal fire and negative energy damage. |
 | [[rangoric-srd/spells/Control Summoned Creature\|Control Summoned Creature]]: | Direct a summoned monster as if you had summoned it. |
 | [[rangoric-srd/spells/Control Water\|Control Water]]:                       | Raises or lowers bodies of water.                                                                                     |
@@ -232,13 +252,17 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dismissal\|Dismissal]]:                               | Forces a creature to return to native plane.                                                                          |
 | [[rangoric-srd/spells/Divination\|Divination]] (M):                         | Provides useful advice for specific proposed actions.                                                                 |
 | [[rangoric-srd/spells/Divine Power\|Divine Power]]:                         | You gain attack bonus, +6 to Str, and 1 hp/level.                                                                     |
+| [[rangoric-srd/spells/Enchantment Foil\|Enchantment Foil]]: | Trick opponents who try to cast enchantments on you. |
 | [[rangoric-srd/spells/Fleshworm Infestation\|Fleshworm Infestation]]: | Worms deal hp and Dex damage. |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:           | Subject moves normally despite impediments.                                                                           |
 | [[rangoric-srd/spells/Giant Vermin\|Giant Vermin]]:                         | Turns centipedes, scorpions, or spiders into giant vermin.                                                            |
+| [[rangoric-srd/spells/Guardian of Faith\|Guardian of Faith]] (M): | Target is protected by shield of faith and a protection spell, and can transfer the effects to another creature. |
 | [[rangoric-srd/spells/Imbue with Spell Ability\|Imbue with Spell Ability]]: | Transfer spells to subject.                                                                                           |
 | [[rangoric-srd/spells/Inflict Critical Wounds\|Inflict Critical Wounds]]:   | Touch attack, 4d8 damage +1/level (max +20).                                                                          |
 | [[rangoric-srd/spells/Magic Weapon, Greater\|Magic Weapon, Greater]]:       | +1 bonus/four levels (max +5).                                                                                       |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:               | Immunizes subject against poison, detoxifies venom in or on subject.                                                  |
+| [[rangoric-srd/spells/Path of Glory, Greater\|Path of Glory, Greater]]: | Create an expanding glow that heals allies within it of 5 hp of damage. |
+| [[rangoric-srd/spells/Persistent Vigor\|Persistent Vigor]] (M): | Gain fast healing 2, immunity to bleed, and faster recovery from diseases and poisons. |
 | [[rangoric-srd/spells/Plague Carrier\|Plague Carrier]]: | Target's attacks carry filth fever. |
 | [[rangoric-srd/spells/Planar Adaptation\|Planar Adaptation]]: | Resist harmful effects of other plane. |
 | [[rangoric-srd/spells/Planar Ally, Lesser\|Planar Ally, Lesser]] (X):       | Exchange services with a 6 HD extraplanar creature.                                                                   |
@@ -249,8 +273,11 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Restoration\|Restoration]] (M):                       | Restores level and ability score [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drains]]. |
 | [[rangoric-srd/spells/Ride the Waves\|Ride the Waves]]: | Target can breathe water and swim. |
 | [[rangoric-srd/spells/Sending\|Sending]]:                                   | Delivers short message anywhere, instantly.                                                                           |
+| [[rangoric-srd/spells/Shield of Fortification, Greater\|Shield of Fortification, Greater]]: |  |
 | [[rangoric-srd/spells/Soothe Construct\|Soothe Construct]]: | Reduce the berserk chance of a construct. |
+| [[rangoric-srd/spells/Speak with Haunt\|Speak with Haunt]]: | Haunt answers one question/2 levels. |
 | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]:                     | Subject is immune to one spell per four levels.                                                                       |
+| [[rangoric-srd/spells/Spellcrash, Lesser\|Spellcrash, Lesser]]: | Target loses a 3rd-level prepared spell or spell slot. |
 | [[rangoric-srd/spells/Spiritual Ally\|Spiritual Ally]]: | Creates a divine ally to aid you. |
 | [[rangoric-srd/spells/Spit Venom\|Spit Venom]]: | Spit blinding black adder venom. |
 | [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]:               | Calls extraplanar creature to fight for you.                                                                          |
@@ -293,6 +320,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Mark of Justice\|Mark of Justice]]:                                                                                                                             | Designates action that will trigger curse on subject.                     |
 | [[rangoric-srd/spells/Pillar of Life\|Pillar of Life]]: | Created pillar heals 2d8 + 1/level (max +20). |
 | [[rangoric-srd/spells/Plane Shift\|Plane Shift]] (F):                                                                                                                                 | As many as eight subjects travel to another plane.                        |
+| [[rangoric-srd/spells/Planeslayer’s Call\|Planeslayer’s Call]]: | Allies gain benefits against outsiders of an alignment you choose. |
 | [[rangoric-srd/spells/Raise Dead\|Raise Dead]] (M):                                                                                                                                   | Restores life to subject who died as long as one day/level ago.           |
 | [[rangoric-srd/spells/Rapid Repair\|Rapid Repair]]: | Construct gains fast healing 5. |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
@@ -313,6 +341,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/True Seeing\|True Seeing]] (M):                                                                                                                                 | Lets you see all things as they really are.                               |
 | [[rangoric-srd/spells/Unhallow\|Unhallow]] (M):                                                                                                                                       | Designates location as unholy.                                            |
 | [[rangoric-srd/spells/Unholy Ice\|Unholy Ice]] (M): | Create wall or javelins of frozen unholy water. |
+| [[rangoric-srd/spells/Wall of Blindness-Deafness\|Wall of Blindness-Deafness]]: | Creatures that pass through a translucent wall are blinded or deafened. |
 | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]:                                                                                                                                 | Creates a stone wall that can be shaped.                                  |
 
 ##### 6th-Level Cleric Spells
@@ -345,6 +374,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Plague Storm\|Plague Storm]]: | Cloud infects creatures like contagion. |
 | [[rangoric-srd/spells/Planar Adaptation, Mass\|Planar Adaptation, Mass]]: | As planar adaptation, but affects multiple creatures. |
 | [[rangoric-srd/spells/Planar Ally\|Planar Ally]] (X):                                 | As lesser planar ally, but up to 12 HD.                              |
+| [[rangoric-srd/spells/Spellcrash\|Spellcrash]]: | Target loses a 5th-level prepared spell or spell slot. |
 | [[rangoric-srd/spells/Summon Monster VI\|Summon Monster VI]]:                         | Calls extraplanar creature to fight for you.                         |
 | [[rangoric-srd/spells/Symbol of Fear\|Symbol of Fear]] (M):                           | Triggered rune panics nearby creatures.                              |
 | [[rangoric-srd/spells/Symbol of Persuasion\|Symbol of Persuasion]] (M):               | Triggered rune charms nearby creatures.                              |
@@ -404,6 +434,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Inflict Critical Wounds, Mass\|Inflict Critical Wounds, Mass]]: | Deals 4d8 damage +1/level to many creatures.                    |
 | [[rangoric-srd/spells/Shield of Law\|Shield of Law]] (F):                             | +4 to AC, +4 resistance, and SR 25 against chaotic spells.     |
 | [[rangoric-srd/spells/Spell Immunity, Greater\|Spell Immunity, Greater]]:             | As spell immunity, but up to 8th-level spells.                  |
+| [[rangoric-srd/spells/Spellcrash, Greater\|Spellcrash, Greater]]: | Target loses a 7th-level prepared spell or spell slot. |
 | [[rangoric-srd/spells/Stormbolts\|Stormbolts]] (M): | 1d8 damage/level (max 20d8) to targets. |
 | [[rangoric-srd/spells/Summon Monster VIII\|Summon Monster VIII]]:                     | Calls extraplanar creature to fight for you.                    |
 | [[rangoric-srd/spells/Symbol of Death\|Symbol of Death]] (M):                         | Triggered rune slays nearby creatures.                          |

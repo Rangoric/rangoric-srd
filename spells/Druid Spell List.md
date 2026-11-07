@@ -59,7 +59,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Feather Step\|Feather Step]]: | Subject ignores adverse movement effects in difficult terrain. |
 | [[rangoric-srd/spells/Flare Burst\|Flare Burst]]: | As flare, but affects all creatures in 10 ft. |
 | [[rangoric-srd/spells/Frostbite\|Frostbite]]: | Target takes cold damage and is fatigued. |
+| [[rangoric-srd/spells/Gentle Breeze\|Gentle Breeze]]: | Light wind protects one target from clouds, gases, heat, and vapors. |
 | [[rangoric-srd/spells/Goodberry\|Goodberry]]:                               | 2d4 berries each cure 1 hp (max 8 hp/24 hours).                            |
+| [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M): | Your recall and ability to process information improve. |
 | [[rangoric-srd/spells/Hide from Animals\|Hide from Animals]]:               | Animals can’t perceive one subject/level.                                  |
 | [[rangoric-srd/spells/Jump (Spell)\|Jump]]:                                 | Subject gets bonus on Athletics checks.                                         |
 | [[rangoric-srd/spells/Keen Senses\|Keen Senses]] (M): | Subject gains +2 Perception, low-light vision. |
@@ -67,6 +69,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Longstrider\|Longstrider]]:                           | Your speed increases by 10 ft.                                             |
 | [[rangoric-srd/spells/Magic Fang\|Magic Fang]]:                             | One natural weapon of subject creature gets +1 on attack and damage rolls. |
 | [[rangoric-srd/spells/Magic Stone\|Magic Stone]]:                           | Three stones gain +1 on attack rolls, deal 1d6+1 damage.                   |
+| [[rangoric-srd/spells/Monkey Fish\|Monkey Fish]]: | Gain a climb speed and a swim speed of 10 ft. for a time. |
+| [[rangoric-srd/spells/Nauseating Dart\|Nauseating Dart]]: | Poisonous stinger deals 1d2 damage and sickens target. |
 | [[rangoric-srd/spells/Negate Aroma\|Negate Aroma]] (M): | Subject cannot be tracked by scent. |
 | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:                     | Fog surrounds you.                                                         |
 | [[rangoric-srd/spells/Pass without Trace\|Pass without Trace]]:             | One subject/level leaves no tracks.                                        |
@@ -79,7 +83,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Stone Fist\|Stone Fist]] (M): | Your unarmed strikes are lethal. |
 | [[rangoric-srd/spells/Summon Minor Ally\|Summon Minor Ally]]: | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Nature’s Ally I\|Summon Nature’s Ally I]]:     | Calls creature to fight.                                                   |
+| [[rangoric-srd/spells/Thorn Javelin\|Thorn Javelin]]: | Wield a javelin that sickens ofpponents when it strikes. |
+| [[rangoric-srd/spells/Thunderstomp\|Thunderstomp]]: | Trip one creature within range. |
 | [[rangoric-srd/spells/Touch of the Sea\|Touch of the Sea]] (M): | Swim speed becomes 30 ft. |
+| [[rangoric-srd/spells/Wave Shield\|Wave Shield]]: | Water blunts one incoming attack or fire effect. |
 | [[rangoric-srd/spells/Weaken Powder\|Weaken Powder]] (M): | Targeted firearm's ammunition halves the firearm's range and imposes a -2 penalty on damage rolls. |
 
 ##### 2nd-Level Druid Spells
@@ -87,23 +94,30 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                  | Brief Description                                                                                                                           |
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Accelerate Poison\|Accelerate Poison]] (M): | Hastens targeted poison's onset. |
+| [[rangoric-srd/spells/Aggressive Thundercloud\|Aggressive Thundercloud]] (M): | Flying storm cloud deals 3d6 electricity damage. |
+| [[rangoric-srd/spells/Air Step\|Air Step]] (M): | Tread unsteadily on air, with limitations. |
 | [[rangoric-srd/spells/Animal Aspect\|Animal Aspect]] (M): | You gain some of the beneficial qualities of an animal. |
 | [[rangoric-srd/spells/Animal Messenger\|Animal Messenger]]:               | Sends a Tiny animal to a specific place.                                                                                                    |
+| [[rangoric-srd/spells/Animal Purpose Training\|Animal Purpose Training]] (M): | Animal gains a new general purpose. |
 | [[rangoric-srd/spells/Animal Trance\|Animal Trance]]:                     | Fascinates 2d6 HD of animals.                                                                                                               |
 | [[rangoric-srd/spells/Ant Haul, Communal\|Ant Haul, Communal]] (M): | As ant haul, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Aspect of the Bear\|Aspect of the Bear]]: | +2 AC and combat maneuver rolls. |
 | [[rangoric-srd/spells/Barkskin\|Barkskin]]:                               | Grants +2 (or higher) enhancement to natural armor.                                                                                         |
 | [[rangoric-srd/spells/Bear’s Endurance\|Bear’s Endurance]]:               | Subject gains +4 to Con for 1 min./level.                                                                                                   |
+| [[rangoric-srd/spells/Beastspeak\|Beastspeak]]: | Speak normally while in animal form. |
 | [[rangoric-srd/spells/Bull’s Strength\|Bull’s Strength]]:                 | Subject gains +4 to Str for 1 min./level.                                                                                                   |
 | [[rangoric-srd/spells/Burning Gaze\|Burning Gaze]] (M): | Inflict 1d6 fire damage to creature by looking at it. |
 | [[rangoric-srd/spells/Campfire Wall\|Campfire Wall]] (M): | Creates a shelter around a campfire. |
 | [[rangoric-srd/spells/Cat’s Grace\|Cat’s Grace]]:                         | Subject gains +4 to Dex for 1 min./level.                                                                                                   |
 | [[rangoric-srd/spells/Certain Grip\|Certain Grip]] (M): | You gain a +4 competence bonus on Acrobatics and Athletics checks and to CMD. |
 | [[rangoric-srd/spells/Chill Metal\|Chill Metal]]:                         | Cold metal damages those who touch it.                                                                                                      |
+| [[rangoric-srd/spells/Climbing Beanstalk\|Climbing Beanstalk]]: | Create a beanstalk that is very easy to climb. |
+| [[rangoric-srd/spells/Companion Life Link\|Companion Life Link]] (M): | Sense whenever your companion is wounded and call out to it in a time of need. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                       | Stops poison from harming subject for 1 hour/level.                                                                                         |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
 | [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M): | Enables you to speak to elementals and some creatures. |
 | [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Euphoric Cloud\|Euphoric Cloud]] (M): | Fog obscures vision and fascinates living creatures. |
 | [[rangoric-srd/spells/Feast of Ashes\|Feast of Ashes]] (M): | A target starves with an insatiable hunger. |
 | [[rangoric-srd/spells/Fire Trap\|Fire Trap]] (M):                         | Opened object deals 1d4 +1/level damage.                                                                                                    |
 | [[rangoric-srd/spells/Flame Blade\|Flame Blade]]:                         | Touch attack deals 1d8 +1/two levels damage.                                                                                                |
@@ -127,9 +141,11 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:         | Dispels magical ability penalty or repairs 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged\|ability damage]]. |
 | [[rangoric-srd/spells/Scent Trail\|Scent Trail]] (M): | Leave trail for allies to follow. |
 | [[rangoric-srd/spells/Share Language\|Share Language]] (M): | Subject understands chosen language. |
+| [[rangoric-srd/spells/Sickening Entanglement\|Sickening Entanglement]]: | As entangle, but plants have sickening sap. |
 | [[rangoric-srd/spells/Soften Earth and Stone\|Soften Earth and Stone]]:   | Turns stone to clay or dirt to sand or mud.                                                                                                 |
 | [[rangoric-srd/spells/Spider Climb\|Spider Climb]]:                       | Grants ability to walk on walls and ceilings.                                                                                               |
 | [[rangoric-srd/spells/Stone Call\|Stone Call]]: | 2d6 damage to all creatures in area. |
+| [[rangoric-srd/spells/Stone Discus\|Stone Discus]] (M): | Flying discus deals bludgeoning or slashing damage. |
 | [[rangoric-srd/spells/Summon Nature’s Ally II\|Summon Nature’s Ally II]]: | Calls creature to fight.                                                                                                                    |
 | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]]:                       | Summons swarm of bats, rats, or spiders.                                                                                                    |
 | [[rangoric-srd/spells/Tar Ball\|Tar Ball]] (M): | Burning tar harms target and penalizes its Dex. |
@@ -138,6 +154,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Warp Wood\|Warp Wood]]:                             | Bends wood (shaft, handle, door, plank).                                                                                                    |
 | [[rangoric-srd/spells/Wartrain Mount\|Wartrain Mount]] (M): | Animal gains combat training. |
 | [[rangoric-srd/spells/Web Shelter\|Web Shelter]]: | Create a comfortable shelter made of webbing. |
+| [[rangoric-srd/spells/Whip of Spiders\|Whip of Spiders]] (M): | Create a whip made of poisonous spiders. |
 | [[rangoric-srd/spells/Wilderness Soldiers\|Wilderness Soldiers]]: | Nearby plants aid you in combat. |
 | [[rangoric-srd/spells/Wood Shape\|Wood Shape]]:                           | Rearranges wooden objects to suit you.                                                                                                      |
 
@@ -145,6 +162,8 @@ tags: [rangoric, rangoric/overview]
 
 | Spell Name                                                                    | Brief Description                                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Air Geyser\|Air Geyser]]: | Blast of air deals 2d6 bludgeoning damage and knocks opponent upward. |
+| [[rangoric-srd/spells/Anchored Step\|Anchored Step]] (M): | Vines beneath your feet stabilize you but slow you down. |
 | [[rangoric-srd/spells/Animal Aspect, Greater\|Animal Aspect, Greater]] (M): | As animal aspect, but you gain two animal qualities. |
 | [[rangoric-srd/spells/Anthropomorphic Animal\|Anthropomorphic Animal]] (M): | Animal becomes bipedal. |
 | [[rangoric-srd/spells/Ash Storm\|Ash Storm]] (M): | Hamper vision and movement. |
@@ -167,6 +186,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Hide Campsite\|Hide Campsite]] (M): | Hides all traces of your campsite. |
 | [[rangoric-srd/spells/Hydraulic Torrent\|Hydraulic Torrent]]: | Creates torrent of water that bull rushes any creature in its path. |
 | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M): | Walk across water on moving lily pads. |
+| [[rangoric-srd/spells/Longstrider, Greater\|Longstrider, Greater]] (M): | As longstrider, plus the speeds of other movement modes increase. |
 | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
 | [[rangoric-srd/spells/Magic Fang, Greater\|Magic Fang, Greater]]:           | One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5). |
 | [[rangoric-srd/spells/Meld into Stone\|Meld into Stone]]:                   | You and your gear merge with stone.                                                             |
@@ -188,8 +208,11 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spider Climb, Communal\|Spider Climb, Communal]] (M): | As spider climb, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Spike Growth\|Spike Growth]]:                         | Creatures in area take 1d4 damage, may be slowed.                                               |
 | [[rangoric-srd/spells/Spit Venom\|Spit Venom]]: | Spit blinding black adder venom. |
+| [[rangoric-srd/spells/Stench of Prey\|Stench of Prey]]: | Predatory animals must successfully save or attack the target. |
 | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]:                           | Sculpts stone into any shape.                                                                   |
 | [[rangoric-srd/spells/Summon Nature’s Ally III\|Summon Nature’s Ally III]]: | Calls creature to fight.                                                                        |
+| [[rangoric-srd/spells/Thorny Entanglement\|Thorny Entanglement]]: | As entangle, plus plants make ranged attacks. |
+| [[rangoric-srd/spells/Thunderstomp, Greater\|Thunderstomp, Greater]]: | Trip multiple creatures within range. |
 | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M): | Take the form and some of the powers of a Small or Medium vermin. |
 | [[rangoric-srd/spells/Water Breathing\|Water Breathing]]:                   | Subjects can breathe underwater.                                                                |
 | [[rangoric-srd/spells/Wind Wall\|Wind Wall]]:                               | Deflects arrows, smaller creatures, and gases.                                                  |
@@ -200,6 +223,7 @@ tags: [rangoric, rangoric/overview]
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [[rangoric-srd/spells/Absorb Toxicity\|Absorb Toxicity]] (M): | You become immune to diseases and toxins, absorb one, and then spread it to others. |
 | [[rangoric-srd/spells/Age Resistance, Lesser\|Age Resistance, Lesser]]: | Ignore penalties from middle age. |
+| [[rangoric-srd/spells/Aggressive Thundercloud, Greater\|Aggressive Thundercloud, Greater]] (M): | Flying storm cloud deals 6d6 electricity damage. |
 | [[rangoric-srd/spells/Air Walk\|Air Walk]]:                               | Subject treads on air as if solid (climb at 45-degree angle).                                                |
 | [[rangoric-srd/spells/Antiplant Shell\|Antiplant Shell]]:                 | Keeps animated plants at bay.                                                                                |
 | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]]: | Tree branches attack opponents. |
@@ -211,10 +235,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cape of Wasps\|Cape of Wasps]]: | Wasp swarm defends or carries you. |
 | [[rangoric-srd/spells/Command Plants\|Command Plants]]:                   | Sway the actions of one or more plant creatures.                                                             |
 | [[rangoric-srd/spells/Control Water\|Control Water]]:                     | Raises or lowers bodies of water.                                                                            |
+| [[rangoric-srd/spells/Creeping Ice\|Creeping Ice]]: | Sheet of ice slowly spreads outward on a horizontal surface. |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).                                                                         |
 | [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                       | Cancels spells and magical effects.                                                                          |
 | [[rangoric-srd/spells/Echolocation\|Echolocation]]: | Sonic sense gives you blindsight 40 ft. |
 | [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:                       | Smite foes with divine fire (1d6/level damage).                                                              |
+| [[rangoric-srd/spells/Flaming Sphere, Greater\|Flaming Sphere, Greater]] (M): | Rolling ball of fire deals 6d6 fire damage and ignites targets. |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:         | Subject moves normally despite impediments.                                                                  |
 | [[rangoric-srd/spells/Giant Vermin\|Giant Vermin]]:                       | Turns centipedes, scorpions, or spiders into giant vermin.                                                   |
 | [[rangoric-srd/spells/Grove of Respite\|Grove of Respite]] (M): | Creates trees and a small spring. |
@@ -230,6 +256,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/River of Wind\|River of Wind]]: | A stream of wind causes nonlethal damage and can knock down or push creatures. |
 | [[rangoric-srd/spells/Rusting Grasp\|Rusting Grasp]]:                     | Your touch corrodes iron and alloys.                                                                         |
 | [[rangoric-srd/spells/Scrying\|Scrying]] (F):                             | Spies on subject from a distance.                                                                            |
+| [[rangoric-srd/spells/Slowing Mud\|Slowing Mud]] (M): | Targets are covered in mud that blinds them and acts like slow. |
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]:                       | Creatures in area take 1d8 damage, may be slowed.                                                            |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight.                                                                                     |
@@ -273,6 +300,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Unhallow\|Unhallow]] (M):                         | Designates location as unholy.                                                                            |
 | [[rangoric-srd/spells/Wall of Fire\|Wall of Fire]]:                     | Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level. |
 | [[rangoric-srd/spells/Wall of Thorns\|Wall of Thorns]]:                 | Thorns damage anyone who tries to pass.                                                                   |
+| [[rangoric-srd/spells/Whip of Centipedes\|Whip of Centipedes]]: | Create a whip made of poisonous centipedes. |
 
 ##### 6th-Level Druid Spells
 
@@ -281,6 +309,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Age Resistance\|Age Resistance]]: | Ignore penalties from old age. |
 | [[rangoric-srd/spells/Antilife Shell\|Antilife Shell]]:                   | 10-ft.-radius field hedges out living creatures.           |
 | [[rangoric-srd/spells/Bear’s Endurance, Mass\|Bear’s Endurance, Mass]]:   | As bear’s endurance, affects one subject/ level.           |
+| [[rangoric-srd/spells/Blazing Rainbow\|Blazing Rainbow]] (M): | Create bow with brilliant energy arrows or a bridge that helps allies and hinders opponents. |
 | [[rangoric-srd/spells/Bull’s Strength, Mass\|Bull’s Strength, Mass]]:     | As bull’s strength, affects one subject/level.             |
 | [[rangoric-srd/spells/Cat’s Grace, Mass\|Cat’s Grace, Mass]]:             | As cat’s grace, affects one subject/level.                 |
 | [[rangoric-srd/spells/Cure Light Wounds, Mass\|Cure Light Wounds, Mass]]: | Cures 1d8 damage +1/level for many creatures.              |
@@ -305,6 +334,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Tar Pool\|Tar Pool]] (M): | Converts the top layer of the ground into hot tar. |
 | [[rangoric-srd/spells/Transport via Plants\|Transport via Plants]]:       | Move instantly from one plant to another of the same kind. |
 | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]:                     | Creates a stone wall that can be shaped.                   |
+| [[rangoric-srd/spells/Whip of Ants\|Whip of Ants]]: | Create a whip made of army ants. |
 
 ##### 7th-Level Druid Spells
 
@@ -316,6 +346,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Control Weather\|Control Weather]]:                       | Changes weather in local area.                                                                         |
 | [[rangoric-srd/spells/Creeping Doom\|Creeping Doom]]:                           | Swarms of centipedes attack at your command.                                                           |
 | [[rangoric-srd/spells/Cure Moderate Wounds, Mass\|Cure Moderate Wounds, Mass]]: | Cures 2d8 damage +1/level for many creatures.                                                          |
+| [[rangoric-srd/spells/Fairy Ring Retreat\|Fairy Ring Retreat]]: | Toadstool circle leads to an extradimensional meadow. |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                 | Deals 1d6/level fire damage.                                                                           |
 | [[rangoric-srd/spells/Heal (Spell)\|Heal]]:                                     | Cures 10 points/level of damage, all diseases and mental conditions.                                   |
 | [[rangoric-srd/spells/Rampart\|Rampart]] (M): | Creates 5-ft.-thick earthen barrier. |
