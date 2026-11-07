@@ -8,6 +8,7 @@ Every departure from the source rules, newest first. One line each, with links t
 
 | Date | Change | Rangoric note | Source | Why |
 | --- | --- | --- | --- | --- |
+| 2026-11-07 | 58 new spells from Pathfinder's Occult Adventures (Foundry data), added to the sorcerer/wizard, bard, cleric, druid and ranger lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Foundry spells (Occult Adventures) | [[Shared Spells]] |
 | 2026-11-07 | 22 new combat feats from Pathfinder: Bloody Assault, Death or Glory, Pushing Assault, Bashing Finish, Focused Shot, the whip and mounted follow-ons, Enforcer, Greater Blind-Fight and more. Six ranger combat styles link the feats they named, and the archery style gets Focused Shot. | [[FT Batch 19 Changes]] | 22 new, 8 changed | [[Feat Topics]] |
 | 2026-11-06 | 99 new spells from Pathfinder's Ultimate Intrigue (Foundry data), added to the sorcerer/wizard, bard, cleric, druid, ranger and paladin lists, the A–Z lists and All Spells. | [[rangoric-srd/spells/All Spells\|All Spells]] and the class spell lists | Foundry spells (Ultimate Intrigue) | [[Shared Spells]] |
 | 2026-11-06 | 9 new feats from the Bastion Press books: Tensile Mercury Expertise and Mastery (with tensile mercury in Special Materials), and from Faeries, Blood of the Fey, Insight of the Fey, Fey Spell Mastery, Fey Sense, Nature's Embrace, Concentrate Spell and Dilute Spell. | [[FT Batch 18 Changes]] | 9 new, 2 changed | [[Feat Topics]] |
