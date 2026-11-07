@@ -1,0 +1,48 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Necromancy"
+descriptor:
+  - "Evil"
+level:
+  - "Clr 2"
+  - "Sor/Wiz 2"
+components:
+  - "V"
+  - "S"
+  - "M"
+casting-time: "1 hour"
+range: "Touch"
+target: "Severed head touched"
+duration: "Permanent (D); see text"
+saving-throw: "None"
+spell-resistance: "No"
+book: "Advanced Race Guide"
+based-on:
+  - "[[path srd 3.5/spells/Sentry Skull|Sentry Skull (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-06
+tags: [rangoric, rangoric/spell]
+---
+
+# Sentry Skull
+
+*Necromancy \[Evil\]*
+
+  - **Level**: Clr 2, Sor/Wiz 2
+  - **Components**: V, S, M (an onyx gem worth at least 10 gp)
+  - **Casting Time**: 1 hour
+  - **Range**: Touch
+  - **Target**: Severed head touched
+  - **Duration**: Permanent (D); see text
+  - **Saving Throw**: None
+  - **Spell Resistance**: No
+
+You restore the senses to the severed head of a humanoid or monstrous humanoid killed within the past 24 hours, creating a grisly sentinel. The head must be affixed to a pole, spear, tree branch, or other stable object, and the spell ends if the head or its object is moved. The head has darkvision 60 feet and low-light vision, can swivel in place to look in any direction, and has a +5 bonus on Perception checks.
+
+If you are within 30 feet of the head, as a standard action you can shift your senses to it, seeing and hearing from its location and gaining the benefit of its darkvision and low-light vision, and you may use its Perception skill instead of your own. While your senses are in the severed head, your body is blind and deaf until you spend a free action to shift your senses back to your own body.
+
+When you create the head, you can imprint it with a single triggering condition, similar to *[[rangoric-srd/spells/Magic Mouth|magic mouth]]*. Once this triggering condition is set, it can never be changed. If you are within 30 feet of the head, you immediately know if it is triggered (if you have multiple active *sentry skulls*, you also know which one was triggered). This wakens you from normal sleep but does not otherwise disturb your concentration. For example, you could have a *sentry skull* alert you if any humanoid comes into view, if a particular rival approaches, if your guard animal is killed, and so on, as long as it occurs where the severed head can see it.
+
+This spell does not give the head any ability to speak, think, or take any kind of action other than to turn itself, though it is a suitable target for other spells such as *[[rangoric-srd/spells/Magic Mouth|magic mouth]]*.
