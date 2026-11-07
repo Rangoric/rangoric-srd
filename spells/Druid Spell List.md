@@ -54,6 +54,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants.                                        |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]:     | Reveals natural or primitive traps.                                        |
+| [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
 | [[rangoric-srd/spells/Endothermic Touch\|Endothermic Touch]] (M): |  |
 | [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:                   | Exist comfortably in hot or cold environments.                             |
@@ -79,6 +80,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Nauseating Dart\|Nauseating Dart]]: | Poisonous stinger deals 1d2 damage and sickens target. |
 | [[rangoric-srd/spells/Negate Aroma\|Negate Aroma]] (M): | Subject cannot be tracked by scent. |
 | [[rangoric-srd/spells/Nereid’s Grace\|Nereid’s Grace]]: | You radiate the unearthly grace of a nereid. |
+| [[rangoric-srd/spells/Obscure Poison\|Obscure Poison]] (M): | Make it harder to detect a poison or venomous creature. |
 | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:                     | Fog surrounds you.                                                         |
 | [[rangoric-srd/spells/Pass without Trace\|Pass without Trace]]:             | One subject/level leaves no tracks.                                        |
 | [[rangoric-srd/spells/Produce Flame\|Produce Flame]]:                       | 1d6 damage +1/level, touch or thrown.                                      |
@@ -97,6 +99,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Thunderstomp\|Thunderstomp]]: | Trip one creature within range. |
 | [[rangoric-srd/spells/Touch of Combustion\|Touch of Combustion]]: | Your successful melee touch attack causes the target to ignite in a violent burst of flame, dealing 1d6 points of fire damage. |
 | [[rangoric-srd/spells/Touch of the Sea\|Touch of the Sea]] (M): | Swim speed becomes 30 ft. |
+| [[rangoric-srd/spells/Underbrush Decoy\|Underbrush Decoy]]: | Create a rustling distraction to hide. |
 | [[rangoric-srd/spells/Wave Shield\|Wave Shield]]: | Water blunts one incoming attack or fire effect. |
 | [[rangoric-srd/spells/Weaken Powder\|Weaken Powder]] (M): | Targeted firearm's ammunition halves the firearm's range and imposes a -2 penalty on damage rolls. |
 | [[rangoric-srd/spells/Whispering Lore\|Whispering Lore]] (M): | Upon casting this spell, you are able to gain knowledge from the land itself. |
@@ -133,6 +136,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Control Vermin\|Control Vermin]] (M): |  |
 | [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                       | Stops poison from harming subject for 1 hour/level.                                                                                         |
+| [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]: | As detect magic, but learn more information. |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
 | [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M): | Enables you to speak to elementals and some creatures. |
 | [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
@@ -219,6 +223,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Hide Campsite\|Hide Campsite]] (M): | Hides all traces of your campsite. |
 | [[rangoric-srd/spells/Hydraulic Torrent\|Hydraulic Torrent]]: | Creates torrent of water that bull rushes any creature in its path. |
 | [[rangoric-srd/spells/Improve Trap\|Improve Trap]]: | Improves a trap with one specific element of the trap chosen at the time of casting. |
+| [[rangoric-srd/spells/Insect Spies\|Insect Spies]] (M): | Use magic beetles as spies. |
 | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M): | Walk across water on moving lily pads. |
 | [[rangoric-srd/spells/Longstrider, Greater\|Longstrider, Greater]] (M): | As longstrider, plus the speeds of other movement modes increase. |
 | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
@@ -227,7 +232,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Nature’s Exile\|Nature’s Exile]]: | Gives subject -10 on Fieldcraft checks. |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:               | Immunizes subject against poison, detoxifies venom in or on subject.                            |
 | [[rangoric-srd/spells/Nixie’s Lure\|Nixie’s Lure]]: | This spell creates an unearthly and infectious song that seductively summons all who hear it. |
+| [[rangoric-srd/spells/Pack Empathy\|Pack Empathy]]: | Create an empathic bond with allies. |
 | [[rangoric-srd/spells/Plant Growth\|Plant Growth]]:                         | Grows vegetation, improves crops.                                                               |
+| [[rangoric-srd/spells/Pocketful of Vipers\|Pocketful of Vipers]] (M): | Ward a container with summoned vipers. |
 | [[rangoric-srd/spells/Poison\|Poison]]:                                     | Touch deals 1d10 Con damage, repeats in 1 min.                                                  |
 | [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]]:     | Absorb 12 points/level of damage from one kind of energy.                                       |
 | [[rangoric-srd/spells/Pup Shape\|Pup Shape]] (M): | Transforms a single animal or magical beast into a younger and cuter version of itself for a short period of time. |
@@ -263,9 +270,11 @@ tags: [rangoric, rangoric/overview]
 | --------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 | [[rangoric-srd/spells/Absorb Toxicity\|Absorb Toxicity]] (M): | You become immune to diseases and toxins, absorb one, and then spread it to others. |
 | [[rangoric-srd/spells/Absorbing Inhalation\|Absorbing Inhalation]]: | You grant your lungs inhuman strength and capacity, allowing you to harmlessly and completely inhale one gas, fog, smoke, mist, or similar cloud-like effect. |
+| [[rangoric-srd/spells/Aerial Tracks\|Aerial Tracks]]: | Track flying creatures through the air. |
 | [[rangoric-srd/spells/Age Resistance, Lesser\|Age Resistance, Lesser]]: | Ignore penalties from middle age. |
 | [[rangoric-srd/spells/Aggressive Thundercloud, Greater\|Aggressive Thundercloud, Greater]] (M): | Flying storm cloud deals 6d6 electricity damage. |
 | [[rangoric-srd/spells/Air Walk\|Air Walk]]:                               | Subject treads on air as if solid (climb at 45-degree angle).                                                |
+| [[rangoric-srd/spells/Animal Ambassador\|Animal Ambassador]] (M): | Grant an animal messenger sentience to deliver your message. |
 | [[rangoric-srd/spells/Antiplant Shell\|Antiplant Shell]]:                 | Keeps animated plants at bay.                                                                                |
 | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]]: | Tree branches attack opponents. |
 | [[rangoric-srd/spells/Aspect of the Stag\|Aspect of the Stag]]: | +2 AC against attacks of opportunity and increases speed. |
@@ -273,6 +282,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Ball Lightning\|Ball Lightning]] (M): | Flying balls of lightning deal 3d6 electricity damage each. |
 | [[rangoric-srd/spells/Blight\|Blight]]:                                   | Withers one plant or deals 1d6/level damage to plant creature.                                               |
 | [[rangoric-srd/spells/Bloody Claws\|Bloody Claws]]: | Gives creature the ability to deal bleed damage with natural attacks. |
+| [[rangoric-srd/spells/Bountiful Banquet\|Bountiful Banquet]] (M): | Create a luxurious feast for two creatures/level. |
 | [[rangoric-srd/spells/Cape of Wasps\|Cape of Wasps]]: | Wasp swarm defends or carries you. |
 | [[rangoric-srd/spells/Cloud Shape\|Cloud Shape]]: | This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30 feet. |
 | [[rangoric-srd/spells/Command Plants\|Command Plants]]:                   | Sway the actions of one or more plant creatures.                                                             |
@@ -327,18 +337,22 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Control Winds\|Control Winds]]:                   | Change wind direction and speed.                                                                          |
 | [[rangoric-srd/spells/Cure Critical Wounds\|Cure Critical Wounds]]:     | Cures 4d8 damage +1/level (max +20).                                                                      |
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]:                         | Grants immunity to all death spells and negative energy effects.                                          |
+| [[rangoric-srd/spells/Entice Fey, Lesser\|Entice Fey, Lesser]] (M): | Entice service from a fey with 6 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
 | [[rangoric-srd/spells/Fire Snake\|Fire Snake]] (M): | Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level. |
+| [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
 | [[rangoric-srd/spells/Hallow\|Hallow]] (M):                             | Designates location as holy.                                                                              |
 | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]:                   | Locust swarms attack creatures.                                                                           |
 | [[rangoric-srd/spells/Old Salt’s Curse\|Old Salt’s Curse]] (M): | You inflict a curse of the roiling sea upon the target, making it permanently sickened. |
+| [[rangoric-srd/spells/Poisonous Balm\|Poisonous Balm]]: | As cure serious wounds, but leave behind a latent venom. |
 | [[rangoric-srd/spells/Raise Animal Companion\|Raise Animal Companion]] (M): | As raise dead, but on an animal. |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
 | [[rangoric-srd/spells/Rest Eternal\|Rest Eternal]] (M): | Dead creature cannot be revived. |
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M): | Transforms wood into snakes to fight for you. |
 | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M):                       | Ignore 10 points of damage per attack.                                                                    |
 | [[rangoric-srd/spells/Summon Nature’s Ally V\|Summon Nature’s Ally V]]: | Calls creature to fight.                                                                                  |
+| [[rangoric-srd/spells/Swallow Poison\|Swallow Poison]]: | Protect yourself against ingested poison, then spit it out in a cone. |
 | [[rangoric-srd/spells/Threefold Aspect\|Threefold Aspect]] (F): | Appear older or younger. |
 | [[rangoric-srd/spells/Transmute Mud to Rock\|Transmute Mud to Rock]]:   | Transforms two 10-ft. cubes per level.                                                                    |
 | [[rangoric-srd/spells/Transmute Rock to Mud\|Transmute Rock to Mud]]:   | Transforms two 10-ft. cubes per level.                                                                    |
@@ -367,12 +381,15 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Epidemic\|Epidemic]]: | Infect a subject with a highly contagious disease. |
 | [[rangoric-srd/spells/Find the Path\|Find the Path]]:                     | Shows most direct way to a location.                       |
 | [[rangoric-srd/spells/Fire Seeds\|Fire Seeds]]:                           | Acorns and berries become grenades and bombs.              |
+| [[rangoric-srd/spells/Insect Spies, Greater\|Insect Spies, Greater]] (M): | Use magic beetles as spies and also share their senses. |
 | [[rangoric-srd/spells/Ironwood\|Ironwood]]:                               | Magic wood is strong as steel.                             |
 | [[rangoric-srd/spells/Liveoak\|Liveoak]]:                                 | Oak becomes treant guardian.                               |
 | [[rangoric-srd/spells/Move Earth\|Move Earth]]:                           | Digs trenches and builds hills.                            |
+| [[rangoric-srd/spells/Overwhelming Poison\|Overwhelming Poison]] (M): | Make a poison more difficult to resist. |
 | [[rangoric-srd/spells/Owl’s Wisdom, Mass\|Owl’s Wisdom, Mass]]:           | As owl’s wisdom, affects one subject/level.                |
 | [[rangoric-srd/spells/Path of the Winds\|Path of the Winds]]: | With a sweeping gesture, you call forth mighty winds to clear a path ahead of you. |
 | [[rangoric-srd/spells/Plague Storm\|Plague Storm]]: | Cloud infects creatures like contagion. |
+| [[rangoric-srd/spells/Reincarnate Spy\|Reincarnate Spy]] (M): | As reincarnate, but creating a body similar to that of a chosen creature, and you secretly keep part of the body. |
 | [[rangoric-srd/spells/Repel Wood\|Repel Wood]]:                           | Pushes away wooden objects.                                |
 | [[rangoric-srd/spells/Sirocco\|Sirocco]] (M): | Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone. |
 | [[rangoric-srd/spells/Spellstaff\|Spellstaff]]:                           | Stores one spell in wooden quarterstaff.                   |
@@ -382,6 +399,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Swarm Skin\|Swarm Skin]] (M): | Turns your body into a swarm of vermin. |
 | [[rangoric-srd/spells/Tar Pool\|Tar Pool]] (M): | Converts the top layer of the ground into hot tar. |
 | [[rangoric-srd/spells/Transport via Plants\|Transport via Plants]]:       | Move instantly from one plant to another of the same kind. |
+| [[rangoric-srd/spells/Unerring Tracker\|Unerring Tracker]]: | Follow an entire trail unerringly. |
 | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]:                     | Creates a stone wall that can be shaped.                   |
 | [[rangoric-srd/spells/Whip of Ants\|Whip of Ants]]: | Create a whip made of army ants. |
 
@@ -396,6 +414,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Control Weather\|Control Weather]]:                       | Changes weather in local area.                                                                         |
 | [[rangoric-srd/spells/Creeping Doom\|Creeping Doom]]:                           | Swarms of centipedes attack at your command.                                                           |
 | [[rangoric-srd/spells/Cure Moderate Wounds, Mass\|Cure Moderate Wounds, Mass]]: | Cures 2d8 damage +1/level for many creatures.                                                          |
+| [[rangoric-srd/spells/Entice Fey\|Entice Fey]] (M): | Entice service from a fey with 12 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Fairy Ring Retreat\|Fairy Ring Retreat]]: | Toadstool circle leads to an extradimensional meadow. |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                 | Deals 1d6/level fire damage.                                                                           |
 | [[rangoric-srd/spells/Heal (Spell)\|Heal]]:                                     | Cures 10 points/level of damage, all diseases and mental conditions.                                   |
@@ -439,6 +458,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Antipathy\|Antipathy]]:                                   | Object or location affected by spell repels certain creatures.          |
 | [[rangoric-srd/spells/Cure Critical Wounds, Mass\|Cure Critical Wounds, Mass]]: | Cures 4d8 damage +1/level for many creatures.                           |
 | [[rangoric-srd/spells/Elemental Swarm\|Elemental Swarm]]:                       | Summons multiple elementals.                                            |
+| [[rangoric-srd/spells/Entice Fey, Greater\|Entice Fey, Greater]] (M): | Entice service from a fey of 18 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Foresight\|Foresight]]:                                   | “Sixth sense” warns of impending danger.                                |
 | [[rangoric-srd/spells/Polar Midnight\|Polar Midnight]]: | Cold darkness paralyzes and deals damage. |
 | [[rangoric-srd/spells/Regenerate\|Regenerate]]:                                 | Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). |
