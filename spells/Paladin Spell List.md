@@ -84,6 +84,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fire of Entanglement\|Fire of Entanglement]]: | Your ability to smite evil also entangles your foe. |
 | [[rangoric-srd/spells/Holy Shield\|Holy Shield]]: | Lend your shield's protection to another. |
 | [[rangoric-srd/spells/Instant Armor\|Instant Armor]]: | Summon armor temporarily replacing your current attire. |
+| [[rangoric-srd/spells/Ironskin\|Ironskin]] (M): |  |
 | [[rangoric-srd/spells/Light Lance\|Light Lance]]: | Creates a soaring beacon of light. |
 | [[rangoric-srd/spells/Litany of Defense\|Litany of Defense]]: | Doubles armor's enhancement bonus. |
 | [[rangoric-srd/spells/Litany of Eloquence\|Litany of Eloquence]]: | Fascinates a single creature for 1 round. |
