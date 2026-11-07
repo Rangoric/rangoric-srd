@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Deception Subdomain|Deception]], [[rangoric-srd/class-options/domains/Thievery Subdomain|Thievery]].
+
 ## Granted Powers
 
 You are a master of illusions and deceptions. [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], and [[rangoric-srd/skills/Stealth|Stealth]] are class skills.

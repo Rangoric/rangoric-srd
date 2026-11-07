@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Curse Subdomain|Curse]], [[rangoric-srd/class-options/domains/Fate Subdomain|Fate]].
+
 ## Granted Powers
 
 You are infused with luck, and your mere presence can spread good fortune.

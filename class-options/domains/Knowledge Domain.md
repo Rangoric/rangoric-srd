@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Memory Subdomain|Memory]], [[rangoric-srd/class-options/domains/Thought Subdomain|Thought]].
+
 ## Granted Powers
 
 You are a scholar and a sage of legends. In addition, you treat all [[rangoric-srd/skills/Knowledge|Knowledge skills]] as class skills.

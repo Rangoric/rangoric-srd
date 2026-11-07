@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Day Subdomain|Day]], [[rangoric-srd/class-options/domains/Light Subdomain|Light]].
+
 ## Granted Powers
 
 You see truth in the pure and burning light of the sun, and can call upon its blessing or wrath to work great deeds.

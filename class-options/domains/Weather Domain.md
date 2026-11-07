@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Seasons Subdomain|Seasons]], [[rangoric-srd/class-options/domains/Storms Subdomain|Storms]].
+
 ## Granted Powers
 
 With power over storm and sky, you can call down the wrath of the gods upon the world below.

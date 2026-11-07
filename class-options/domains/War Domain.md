@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Blood Subdomain|Blood]], [[rangoric-srd/class-options/domains/Tactics Subdomain|Tactics]].
+
 ## Granted Powers
 
 You are a crusader for your god, always ready and willing to fight to defend your faith.

@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Love Subdomain|Love]], [[rangoric-srd/class-options/domains/Lust Subdomain|Lust]].
+
 ## Granted Powers
 
 You can baffle and befuddle foes with a touch or a smile, and your beauty and grace are divine.

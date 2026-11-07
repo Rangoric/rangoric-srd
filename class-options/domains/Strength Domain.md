@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Ferocity Subdomain|Ferocity]], [[rangoric-srd/class-options/domains/Resolve Subdomain|Resolve]].
+
 ## Granted Powers
 
 In strength and brawn there is truth—your faith gives you incredible might and power.

@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Restoration Subdomain|Restoration]], [[rangoric-srd/class-options/domains/Resurrection Subdomain|Resurrection]].
+
 ## Granted Powers
 
 Your touch staves off pain and death, and your healing magic is particularly vital and potent.

@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Murder Subdomain|Murder]], [[rangoric-srd/class-options/domains/Undead Subdomain|Undead]].
+
 ## Granted Powers
 
 You can cause the living to bleed at a touch, and find comfort in the presence of the dead.

@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Loss Subdomain|Loss]], [[rangoric-srd/class-options/domains/Night Subdomain|Night]].
+
 ## Granted Powers
 
 You manipulate shadows and darkness. In addition, you receive [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] as a bonus feat.

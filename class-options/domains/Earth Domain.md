@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]], which a druid can also take through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Caves Subdomain|Caves]], [[rangoric-srd/class-options/domains/Metal Subdomain|Metal]].
+
 ## Granted Powers
 
 You have mastery over earth, metal, and stone, can fire darts of acid, and command earth creatures.

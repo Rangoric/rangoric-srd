@@ -17,6 +17,8 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Cleric#^cleric-domains|cleric domain]].*
 
+**Subdomains**: [[rangoric-srd/class-options/domains/Family Subdomain|Family]], [[rangoric-srd/class-options/domains/Home Subdomain|Home]].
+
 ## Granted Powers
 
 Your touch can heal wounds, and your presence instills unity and strengthens emotional bonds.
