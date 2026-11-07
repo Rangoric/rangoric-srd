@@ -165,6 +165,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Enter Image\|Enter Image]] (M): | Transfers your consciousness to an object bearing your likeness. |
 | [[rangoric-srd/spells/Enthrall\|Enthrall]]:                         | Captivates all within 100 ft. + 10 ft./level.                                                                                                                           |
 | [[rangoric-srd/spells/Escaping Ward\|Escaping Ward]]: | This ward grants you extra maneuverability when you avoid attacks against larger foes. |
+| [[rangoric-srd/spells/Fleshy Facade\|Fleshy Facade]]: |  |
 | [[rangoric-srd/spells/Focused Scrutiny\|Focused Scrutiny]]: | Gain skill bonuses when interacting with the target. |
 | [[rangoric-srd/spells/Fox’s Cunning\|Fox’s Cunning]]:               | Subject gains +4 to Int for 1 min./level.                                                                                                                               |
 | [[rangoric-srd/spells/Gallant Inspiration\|Gallant Inspiration]]: | +2d4 bonus on failed attack roll or skill check. |
@@ -262,6 +263,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Illusory Script\|Illusory Script]] (M):     | Only intended reader can decipher.                                                                                 |
 | [[rangoric-srd/spells/Invigorate, Mass\|Invigorate, Mass]]: | As invigorate, but multiple creatures. |
 | [[rangoric-srd/spells/Invisibility Sphere\|Invisibility Sphere]]: | Makes everyone within 10 ft. [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]].     |
+| [[rangoric-srd/spells/Isolate\|Isolate]]: |  |
 | [[rangoric-srd/spells/Jester’s Jaunt\|Jester’s Jaunt]]: | Teleport target within 30 ft. of itself. |
 | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
 | [[rangoric-srd/spells/Major Image\|Major Image]]:                 | As silent image, plus sound, smell and thermal effects.                                                            |

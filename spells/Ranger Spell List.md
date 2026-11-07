@@ -120,7 +120,9 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Hide Campsite\|Hide Campsite]] (M): | Hides all traces of your campsite. |
 | [[rangoric-srd/spells/Hold Animal\|Hold Animal]]:                         | Paralyzes one animal for 1 round/level.                   |
 | [[rangoric-srd/spells/Hunter’s Eye\|Hunter’s Eye]]: | +20 on Perception checks to locate a target. |
+| [[rangoric-srd/spells/Ice Slick\|Ice Slick]]: |  |
 | [[rangoric-srd/spells/Improve Trap\|Improve Trap]]: | Improves a trap with one specific element of the trap chosen at the time of casting. |
+| [[rangoric-srd/spells/Ironskin\|Ironskin]] (M): |  |
 | [[rangoric-srd/spells/Locate Weakness\|Locate Weakness]] (M): | You roll damage twice when you roll damage for a critical hit and take the best damage. |
 | [[rangoric-srd/spells/Lockjaw\|Lockjaw]] (M): | Gives creature grab ability with a natural attack. |
 | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                       | Subject gains +4 to Wis for 1 min./level.                 |
@@ -130,6 +132,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Reloading Hands\|Reloading Hands]]: | Loads a single shot into your weapon every round. |
 | [[rangoric-srd/spells/Returning Weapon, Communal\|Returning Weapon, Communal]]: | As returning weapon, but you may divide the duration among weapons touched. |
 | [[rangoric-srd/spells/Ricochet Shot\|Ricochet Shot]] (M): | Imbues a projectile weapon to give its ammunition the ability to ricochet. |
+| [[rangoric-srd/spells/Scale Spikes\|Scale Spikes]] (M): |  |
 | [[rangoric-srd/spells/Shield Companion\|Shield Companion]]: | As shield other, but affecting your companion creature. |
 | [[rangoric-srd/spells/Sickening Entanglement\|Sickening Entanglement]]: | As entangle, but plants have sickening sap. |
 | [[rangoric-srd/spells/Snare\|Snare]]:                                     | Creates a magic booby trap.                               |
@@ -175,6 +178,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Remove Disease\|Remove Disease]]:                     | Cures all diseases affecting subject.                                                                  |
 | [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]:                         | Insects, spiders, and other vermin stay 10 ft. away.                                                   |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): |  |
 | [[rangoric-srd/spells/Stench of Prey\|Stench of Prey]]: | Predatory animals must successfully save or attack the target. |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
 | [[rangoric-srd/spells/Summon Nature’s Ally III\|Summon Nature’s Ally III]]: | Calls animal to fight for you.                                                                         |
@@ -196,6 +200,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bow Spirit\|Bow Spirit]]: | Summons an invisible spirit that fires your arrows for you as a swift action. |
 | [[rangoric-srd/spells/Cloud Shape\|Cloud Shape]]: | This spell functions like gaseous form, except you assume the shape of a Colossal cloud with a space of 30 feet. |
 | [[rangoric-srd/spells/Commune with Nature\|Commune with Nature]]:         | Learn about terrain for 1 mile/level.       |
+| [[rangoric-srd/spells/Control Vermin\|Control Vermin]] (M): |  |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).        |
 | [[rangoric-srd/spells/Darkvision, Communal\|Darkvision, Communal]] (M): | As darkvision, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Darkvision, Greater\|Darkvision, Greater]] (M): | See 120 ft. in total darkness. |

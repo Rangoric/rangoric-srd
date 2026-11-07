@@ -55,6 +55,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants.                                        |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]:     | Reveals natural or primitive traps.                                        |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
+| [[rangoric-srd/spells/Endothermic Touch\|Endothermic Touch]] (M): |  |
 | [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:                   | Exist comfortably in hot or cold environments.                             |
 | [[rangoric-srd/spells/Entangle\|Entangle]]:                                 | Plants entangle everyone in 40-ft.-radius.                                 |
 | [[rangoric-srd/spells/Faerie Fire\|Faerie Fire]]:                           | Outlines subjects with light, canceling blur, concealment, and the like.   |
@@ -110,6 +111,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Accelerate Poison\|Accelerate Poison]] (M): | Hastens targeted poison's onset. |
 | [[rangoric-srd/spells/Aggressive Thundercloud\|Aggressive Thundercloud]] (M): | Flying storm cloud deals 3d6 electricity damage. |
 | [[rangoric-srd/spells/Air Step\|Air Step]] (M): | Tread unsteadily on air, with limitations. |
+| [[rangoric-srd/spells/Amplify Stench\|Amplify Stench]]: |  |
 | [[rangoric-srd/spells/Animal Aspect\|Animal Aspect]] (M): | You gain some of the beneficial qualities of an animal. |
 | [[rangoric-srd/spells/Animal Messenger\|Animal Messenger]]:               | Sends a Tiny animal to a specific place.                                                                                                    |
 | [[rangoric-srd/spells/Animal Purpose Training\|Animal Purpose Training]] (M): | Animal gains a new general purpose. |
@@ -128,6 +130,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Chill Metal\|Chill Metal]]:                         | Cold metal damages those who touch it.                                                                                                      |
 | [[rangoric-srd/spells/Climbing Beanstalk\|Climbing Beanstalk]]: | Create a beanstalk that is very easy to climb. |
 | [[rangoric-srd/spells/Companion Life Link\|Companion Life Link]] (M): | Sense whenever your companion is wounded and call out to it in a time of need. |
+| [[rangoric-srd/spells/Control Vermin\|Control Vermin]] (M): |  |
 | [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]:                       | Stops poison from harming subject for 1 hour/level.                                                                                         |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
@@ -149,8 +152,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Gusting Sphere\|Gusting Sphere]]: | A swirling ball of wind rolls in whichever direction you point, hurling those it strikes with great force. |
 | [[rangoric-srd/spells/Heat Metal\|Heat Metal]]:                           | Make metal so hot it damages those who touch it.                                                                                            |
 | [[rangoric-srd/spells/Hold Animal\|Hold Animal]]:                         | Paralyzes one animal for 1 round/level.                                                                                                     |
+| [[rangoric-srd/spells/Ice Slick\|Ice Slick]]: |  |
+| [[rangoric-srd/spells/Ironskin\|Ironskin]] (M): |  |
 | [[rangoric-srd/spells/Lockjaw\|Lockjaw]] (M): | Gives creature grab ability with a natural attack. |
+| [[rangoric-srd/spells/Magic Boulder\|Magic Boulder]]: |  |
 | [[rangoric-srd/spells/Masterwork Transformation\|Masterwork Transformation]] (M): | Make a normal item into a masterwork one. |
+| [[rangoric-srd/spells/Mud Buddy\|Mud Buddy]] (M): |  |
 | [[rangoric-srd/spells/Natural Rhythm\|Natural Rhythm]] (M): | +1 on damage rolls with each hit (max +5). |
 | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                       | Subject gains +4 to Wis for 1 min./level.                                                                                                   |
 | [[rangoric-srd/spells/Pernicious Poison\|Pernicious Poison]]: | Target takes a -4 penalty against poison. |
@@ -159,6 +166,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                     | Ignores 10 (or more) points of damage/attack from specified energy type.                                                                    |
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:         | Dispels magical ability penalty or repairs 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged\|ability damage]]. |
 | [[rangoric-srd/spells/Savage Maw\|Savage Maw]]: | Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. |
+| [[rangoric-srd/spells/Scale Spikes\|Scale Spikes]] (M): |  |
 | [[rangoric-srd/spells/Scent Trail\|Scent Trail]] (M): | Leave trail for allies to follow. |
 | [[rangoric-srd/spells/Share Language\|Share Language]] (M): | Subject understands chosen language. |
 | [[rangoric-srd/spells/Sickening Entanglement\|Sickening Entanglement]]: | As entangle, but plants have sickening sap. |
@@ -184,6 +192,7 @@ tags: [rangoric, rangoric/overview]
 
 | Spell Name                                                                    | Brief Description                                                                               |
 | ----------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Air Breathing\|Air Breathing]] (M): |  |
 | [[rangoric-srd/spells/Air Geyser\|Air Geyser]]: | Blast of air deals 2d6 bludgeoning damage and knocks opponent upward. |
 | [[rangoric-srd/spells/Anchored Step\|Anchored Step]] (M): | Vines beneath your feet stabilize you but slow you down. |
 | [[rangoric-srd/spells/Animal Aspect, Greater\|Animal Aspect, Greater]] (M): | As animal aspect, but you gain two animal qualities. |
@@ -228,6 +237,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Remove Disease\|Remove Disease]]:                     | Cures all diseases affecting subject.                                                           |
 | [[rangoric-srd/spells/Resinous Skin\|Resinous Skin]]: | You gain DR 5/piercing and +4 to CMD against disarm attempts. |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): |  |
 | [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Sleet Storm\|Sleet Storm]]:                           | Hampers vision and movement.                                                                    |
 | [[rangoric-srd/spells/Snare\|Snare]]:                                       | Creates a magic booby trap.                                                                     |
@@ -238,8 +248,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Stench of Prey\|Stench of Prey]]: | Predatory animals must successfully save or attack the target. |
 | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]:                           | Sculpts stone into any shape.                                                                   |
 | [[rangoric-srd/spells/Summon Nature’s Ally III\|Summon Nature’s Ally III]]: | Calls creature to fight.                                                                        |
+| [[rangoric-srd/spells/Swarm of Fangs\|Swarm of Fangs]] (M): |  |
 | [[rangoric-srd/spells/Thorny Entanglement\|Thorny Entanglement]]: | As entangle, plus plants make ranged attacks. |
 | [[rangoric-srd/spells/Thunderstomp, Greater\|Thunderstomp, Greater]]: | Trip multiple creatures within range. |
+| [[rangoric-srd/spells/Transfer Regeneration\|Transfer Regeneration]]: |  |
 | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M): | Take the form and some of the powers of a Small or Medium vermin. |
 | [[rangoric-srd/spells/Ward of the Season\|Ward of the Season]]: | Harnesses the power of the seasons to protect the target and grant a number of bonuses. |
 | [[rangoric-srd/spells/Water Breathing\|Water Breathing]]:                   | Subjects can breathe underwater.                                                                |
