@@ -78,7 +78,7 @@ If it roars a third time during the same encounter, all those within 250 feet mu
 
 Other androsphinxes are immune to these effects. The save DCs are Charisma-based.
 
-**Spells**: An androsphinx casts divine spells as a 6th-level cleric from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]] and from the [[rangoric-srd/classes/Cleric Domains|Good]], [[rangoric-srd/classes/Cleric Domains|Healing]], and [[rangoric-srd/classes/Cleric Domains|Protection]] domains.  
+**Spells**: An androsphinx casts divine spells as a 6th-level cleric from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]] and from the [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]], and [[rangoric-srd/class-options/domains/Protection Domain|Protection]] domains.  
 *Typical [[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (5/5/5/4; save DC 13 + spell level)*:  
 
 [[rangoric-srd/spells/Cleric Spell List#0-Level Cleric Spells (Orisons)|0]] - [[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Guidance|guidance]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Resistance|resistance]];  

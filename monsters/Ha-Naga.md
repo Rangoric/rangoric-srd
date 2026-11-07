@@ -76,4 +76,4 @@ Constrict (Ex): A ha-naga deals 4d6+12 points Damage with a successful [[rangori
 
 Poison (Ex): Sting, Fort save (DC 31); initial and secondary Damage 2d8 temporary Con.  The DC is Constitution-based.
 
-Spells: Ha-nagas can cast spells as 21st-level sorcerers, and can also cast [[rangoric-srd/spells/Cleric Spell List|cleric spells]] and spells from the domains of [[rangoric-srd/classes/Cleric Domains|Chaos]] and [[rangoric-srd/classes/Cleric Domains|Evil]] as [[rangoric-srd/spells/Sorcerer and Wizards Spell List|arcane spells]] (save DC 33 + spell level). The DC is Charisma-based.
+Spells: Ha-nagas can cast spells as 21st-level sorcerers, and can also cast [[rangoric-srd/spells/Cleric Spell List|cleric spells]] and spells from the domains of [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Evil Domain|Evil]] as [[rangoric-srd/spells/Sorcerer and Wizards Spell List|arcane spells]] (save DC 33 + spell level). The DC is Charisma-based.

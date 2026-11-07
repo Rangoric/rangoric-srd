@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/feat, spelltouched]
 
 You automatically try to steal the last bit of life energy from anyone nearby.
 
-**Prerequisite:** Exposure to [[rangoric-srd/classes/Cleric Domains|death touch]] domain granted power or [[rangoric-srd/spells/Death Knell|death knell]] spell.
+**Prerequisite:** Exposure to [[rangoric-srd/class-options/domains/Death Domain|death touch]] domain granted power or [[rangoric-srd/spells/Death Knell|death knell]] spell.
 
 **Benefit:** Each dying or stable creature within 30 feet of you (that is, any creature with -1 to -9 hit points) loses an additional 1 hit point at the beginning of your turn. You gain the same amount as temporary hit points that last for 10 minutes. You can't suppress this effect, which functions on both friend and foe.

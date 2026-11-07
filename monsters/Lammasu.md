@@ -67,7 +67,7 @@ A typical lammasu is about 8 feet long and weighs about 500 pounds. Lammasus spe
 
 A lammasu attacks with spells or its razor-sharp claws. It almost always enters combat if it observes a good creature being threatened by evil.
 
-**Spells**: A lammasu casts spells as a 7th-level cleric, and can choose spells from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]], plus any two of the following domains: [[rangoric-srd/classes/Cleric Domains|Good]], [[rangoric-srd/classes/Cleric Domains|Healing]], [[rangoric-srd/classes/Cleric Domains|Knowledge]], or [[rangoric-srd/classes/Cleric Domains|Law]].
+**Spells**: A lammasu casts spells as a 7th-level cleric, and can choose spells from the [[rangoric-srd/spells/Cleric Spell List|cleric spell list]], plus any two of the following domains: [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Healing Domain|Healing]], [[rangoric-srd/class-options/domains/Knowledge Domain|Knowledge]], or [[rangoric-srd/class-options/domains/Law Domain|Law]].
 
 *Typical Cleric Spells Prepared (6/6/5/4/2; save DC 13 + spell level)*:  
 

@@ -108,4 +108,4 @@ A celestial charger’s natural weapons are treated as magic weapons for the pur
 
 [[rangoric-srd/spells/Cleric Spell List#4th-Level Cleric Spells|4th]] — [[rangoric-srd/spells/Air Walk|air walk]], [[rangoric-srd/spells/Divine Power|divine power]], [[rangoric-srd/spells/Holy Smite|holy smite]]\*, [[rangoric-srd/spells/Restoration|restoration]].
 
-\*Domain spell. Domains: [[rangoric-srd/classes/Cleric Domains|Animal]] and [[rangoric-srd/classes/Cleric Domains|Good]].
+\*Domain spell. Domains: [[rangoric-srd/class-options/domains/Animal Domain|Animal]] and [[rangoric-srd/class-options/domains/Good Domain|Good]].

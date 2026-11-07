@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 Your deity blesses any strike you make with that deity's favored weapon.
 
-**Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature, [[rangoric-srd/feats/Channel Smite|Channel Smite]], proficiency with your [[rangoric-srd/classes/Cleric Domains#War Domain|deity’s favored weapon]].
+**Prerequisites**: [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|Channel energy]] class feature, [[rangoric-srd/feats/Channel Smite|Channel Smite]], proficiency with your [[rangoric-srd/class-options/domains/War Domain|deity’s favored weapon]].
 
 **Benefit**: With your deity’s favored weapon, you can use your Wisdom modifier instead of your Strength or Dexterity modifier on attack rolls.

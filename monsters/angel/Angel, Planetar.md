@@ -84,7 +84,7 @@ At will - [[rangoric-srd/spells/Continual Flame|continual flame]], [[rangoric-sr
 
 The following abilities are always active on the planetar’s person, as the spells (caster level 17th): [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]], [[rangoric-srd/spells/Discern Lies|discern lies]] (DC 20), [[rangoric-srd/spells/See Invisibility|see invisibility]], and [[rangoric-srd/spells/True Seeing|true seeing]]. They can be dispelled, but the planetar can reactivate them as a free action.
 
-**Spells**: Planetars can cast divine spells as 17th-level clerics. A planetar has access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Air]], [[rangoric-srd/classes/Cleric Domains|Destruction]], [[rangoric-srd/classes/Cleric Domains|Good]], [[rangoric-srd/classes/Cleric Domains|Law]], or [[rangoric-srd/classes/Cleric Domains|War]] (plus any others from its deity). The save DCs are Wisdom-based.
+**Spells**: Planetars can cast divine spells as 17th-level clerics. A planetar has access to two of the following domains: [[rangoric-srd/class-options/domains/Air Domain|Air]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Law Domain|Law]], or [[rangoric-srd/class-options/domains/War Domain|War]] (plus any others from its deity). The save DCs are Wisdom-based.
 
 *Typical [[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/8/8/7/7/6/6/4/3/2; save DC 16 + spell level)*:  
 [[rangoric-srd/spells/Cleric Spell List|0]]—create water, detect magic, guidance, resistance (2), virtue;

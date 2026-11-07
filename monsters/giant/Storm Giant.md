@@ -83,4 +83,4 @@ Freedom of Movement (Su)**: Storm giants have a continuous [[rangoric-srd/spells
 
 ## Storm Giant Characters
 
-About 20% of adult storm giants are sorcerers or clerics. A storm giant cleric has access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Chaos]], [[rangoric-srd/classes/Cleric Domains|Good]], [[rangoric-srd/classes/Cleric Domains|Protection]], or [[rangoric-srd/classes/Cleric Domains|War]].
+About 20% of adult storm giants are sorcerers or clerics. A storm giant cleric has access to two of the following domains: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Protection Domain|Protection]], or [[rangoric-srd/class-options/domains/War Domain|War]].

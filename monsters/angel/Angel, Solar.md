@@ -88,7 +88,7 @@ At will - [[rangoric-srd/spells/Aid|aid]], [[rangoric-srd/spells/Animate Objects
 
 The following abilities are always active on a solar’s person, as the spells (caster level 20th): [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]], [[rangoric-srd/spells/Discern Lies|discern lies]] (DC 21), [[rangoric-srd/spells/See Invisibility|see invisibility]], [[rangoric-srd/spells/True Seeing|true seeing]]. They can be dispelled, but the solar can reactivate them as a free action.
 
-**Spells**: Solars can cast divine spells as 20th-level clerics. A solar has access to two of the following domains: [[rangoric-srd/classes/Cleric Domains|Air]], [[rangoric-srd/classes/Cleric Domains|Destruction]], [[rangoric-srd/classes/Cleric Domains|Good]], [[rangoric-srd/classes/Cleric Domains|Law]], or [[rangoric-srd/classes/Cleric Domains|War]] (plus any [[rangoric-srd/classes/Cleric Domains|others]] from its deity). The save DCs are Wisdom-based.
+**Spells**: Solars can cast divine spells as 20th-level clerics. A solar has access to two of the following domains: [[rangoric-srd/class-options/domains/Air Domain|Air]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Law Domain|Law]], or [[rangoric-srd/class-options/domains/War Domain|War]] (plus any [[rangoric-srd/class-options/domains/Domains|others]] from its deity). The save DCs are Wisdom-based.
 
 *Typical [[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/8/8/8/7/7/6/6/5/5; save DC 17 + spell level)*:  
 

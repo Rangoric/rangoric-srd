@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/feat]
 
 Creatures affected by your channel energy are not affected by difficult terrain.
 
-**Prerequisites**: [[rangoric-srd/classes/Cleric Domains#Animal Domain|Animal]] or [[rangoric-srd/classes/Cleric Domains#Plant Domain|Plant]] domain; [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] class feature.
+**Prerequisites**: [[rangoric-srd/class-options/domains/Animal Domain|Animal]] or [[rangoric-srd/class-options/domains/Plant Domain|Plant]] domain; [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] class feature.
 
 **Benefit**: When you channel energy, you can spend one more use to let the creatures you affect move freely through undergrowth, as the druid’s [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], for a number of minutes equal to your Charisma modifier (minimum 1). Spending more uses this way extends the duration.

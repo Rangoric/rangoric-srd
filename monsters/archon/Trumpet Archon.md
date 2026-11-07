@@ -81,7 +81,7 @@ At will - [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells
 
 **Aura of Menace (Su)**: Will DC 21 negates.
 
-**Spells: Trumpet archons can cast divine spells as 14th-level clerics. A trumpet archon has access to two of the following domains**: [[rangoric-srd/classes/Cleric Domains|Air]], [[rangoric-srd/classes/Cleric Domains|Destruction]], [[rangoric-srd/classes/Cleric Domains|Good]], [[rangoric-srd/classes/Cleric Domains|Law]], or War (plus any others from its deity). The save DCs are Wisdom-based.
+**Spells: Trumpet archons can cast divine spells as 14th-level clerics. A trumpet archon has access to two of the following domains**: [[rangoric-srd/class-options/domains/Air Domain|Air]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Law Domain|Law]], or War (plus any others from its deity). The save DCs are Wisdom-based.
 
 *Typical [[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/7/7/6/5/4/4/3; DC 13 + spell level)*:  
 [[rangoric-srd/spells/Cleric Spell List|0]]—detect magic, light, purify food and drink, read magic, resistance (2);  
