@@ -23,11 +23,14 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bless Weapon\|Bless Weapon]]:                                                                        | Weapon strikes true against evil foes.                                         |
 | [[rangoric-srd/spells/Blessed Fist\|Blessed Fist]]: | Target doesn't provoke attacks of opportunity with unarmed strikes. |
 | [[rangoric-srd/spells/Bowstaff\|Bowstaff]]: | A shortbow may double as a club, or a longbow as a quarterstaff. |
+| [[rangoric-srd/spells/Build Trust\|Build Trust]] (M): | Gain various bonuses when interacting with the target. |
 | [[rangoric-srd/spells/Challenge Evil\|Challenge Evil]]: | Sickens creature if it refuses to fight you. |
 | [[rangoric-srd/spells/Compel Hostility\|Compel Hostility]] (M): | Compels opponents to attack you instead of your allies. |
+| [[rangoric-srd/spells/Conditional Favor\|Conditional Favor]]: | Provide another spell whose effects reverse if the target breaks a restriction. |
 | [[rangoric-srd/spells/Create Water\|Create Water]]:                                                                        | Creates 2 gallons/level of pure water.                                         |
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:                                                              | Cures 1d8 damage +1/level (max +5).                                            |
 | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                                                                      | Detects poison in one creature or small object.                                |
+| [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Detect Undead\|Detect Undead]]:                                                                      | Reveals undead within 60 ft.                                                   |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
 | [[rangoric-srd/spells/Divine Favor\|Divine Favor]]:                                                                        | You gain +1 per three levels on attack and damage rolls.                       |
@@ -39,6 +42,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Horn of Pursuit\|Horn of Pursuit]]: | Create three notes heard miles away. |
 | [[rangoric-srd/spells/Ironbeard\|Ironbeard]]: | Causes a brushy beard of stiff iron to erupt from the face of a willing target. |
 | [[rangoric-srd/spells/Knight’s Calling\|Knight’s Calling]]: | Forces target to move toward you and fight you. |
+| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Knowledge (nobility) ranks. |
 | [[rangoric-srd/spells/Know the Enemy\|Know the Enemy]]: | Gain +10 on a monster Knowledge check. |
 | [[rangoric-srd/spells/Liberating Command\|Liberating Command]]: | Target makes an Escape Artist check as an immediate action and gains a bonus on it. |
 | [[rangoric-srd/spells/Linebreaker\|Linebreaker]]: | You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to bull rush or overrun. |
@@ -125,6 +129,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Daylight\|Daylight]]:                                     | 60-ft. radius of bright light.                                 |
 | [[rangoric-srd/spells/Deadly Juggernaut\|Deadly Juggernaut]]: | Your might increases with every kill you make. |
 | [[rangoric-srd/spells/Delay Poison, Communal\|Delay Poison, Communal]]: | As delay poison, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Detect Anxieties\|Detect Anxieties]] (F): | Learn what makes a creautre anxious. |
+| [[rangoric-srd/spells/Detect Desires\|Detect Desires]] (F): | Learn what a creatures desire. |
 | [[rangoric-srd/spells/Discern Lies\|Discern Lies]]:                             | Reveals deliberate falsehoods.                                 |
 | [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                             | Cancels spells and magical effects.                            |
 | [[rangoric-srd/spells/Divine Transfer\|Divine Transfer]]: | Transfer hit points and give DR/evil to target creature. |
@@ -148,12 +154,14 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sanctify Armor\|Sanctify Armor]]: | +1 AC/four levels (max +5). |
 | [[rangoric-srd/spells/Shield of Fortification, Greater\|Shield of Fortification, Greater]]: |  |
 | [[rangoric-srd/spells/Stunning Barrier, Greater\|Stunning Barrier, Greater]]: | Magical field grants a +2 bonus to AC and on saves, and stuns multiple creatures attacking you. |
+| [[rangoric-srd/spells/They Know\|They Know]] (M): | Convince target that a nearby creature knows her greatest secret. |
 | [[rangoric-srd/spells/Wrathful Mantle\|Wrathful Mantle]]: | Subject shines and gets +1/four levels on all saves. |
 
 ##### 4th-Level Paladin Spells
 
 | Spell Name                                                          | Brief Description                                                         |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
+| [[rangoric-srd/spells/Absolution\|Absolution]] (M): | Removes enchantments and forgives actions taken under their effects. |
 | [[rangoric-srd/spells/Bestow Grace of the Champion\|Bestow Grace of the Champion]]: | Target gains paladin abilities for 1 round/level. |
 | [[rangoric-srd/spells/Blaze of Glory\|Blaze of Glory]]: | Last stand cures good creatures, hurts evil. |
 | [[rangoric-srd/spells/Blessing of Luck and Resolve, Mass\|Blessing of Luck and Resolve, Mass]]: | Functions like blessing of luck and resolve, except that it affects multiple creatures. |
@@ -176,6 +184,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Paragon Surge\|Paragon Surge]]: | You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone. |
 | [[rangoric-srd/spells/Planeslayer’s Call\|Planeslayer’s Call]]: | Allies gain benefits against outsiders of an alignment you choose. |
 | [[rangoric-srd/spells/Raise Animal Companion\|Raise Animal Companion]] (M): | As raise dead, but on an animal. |
+| [[rangoric-srd/spells/Red Hand of the Killer\|Red Hand of the Killer]] (M F): | Stain the hand of a creature's killer red. |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
 | [[rangoric-srd/spells/Resounding Blow\|Resounding Blow]]: | Melee attack deals 1d6 more damage. |
 | [[rangoric-srd/spells/Restoration\|Restoration]] (M):             | Restores level and ability score drains.                                  |
