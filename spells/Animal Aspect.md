@@ -40,7 +40,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: Yes (harmless)
 
-You gain some of the beneficial qualities of an animal. Your base form is largely unchanged and your size is unaltered, but some of your body parts are altered. Armor or gear you are wearing adjusts to your new shape for the duration of the spell. When you cast *animal aspect*, choose one of the following animals to gain the associated benefits. You can only have one *animal aspect* or *greater animal aspect* spell active on you at a time.
+You gain some of the beneficial qualities of an animal. Your base form is largely unchanged and your size is unaltered, but some of your body parts are altered. Armor or gear you are wearing adjusts to your new shape for the duration of the spell. When you cast *animal aspect*, choose one of the following animals to gain the associated benefits. You can only have one *animal aspect* or *[[rangoric-srd/spells/Animal Aspect, Greater|greater animal aspect]]* spell active on you at a time.
 
 *Frog*: Your legs become elongated and muscular. You gain a +4 competence bonus on Acrobatics checks, and you always jump as if you had a running start.
 

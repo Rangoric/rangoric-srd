@@ -159,6 +159,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Selective Alarm\|Selective Alarm]] (F): | As alarm, but only against selected creatures. |
 | [[rangoric-srd/spells/Shield Companion\|Shield Companion]]: | As shield other, but affecting your companion creature. |
 | [[rangoric-srd/spells/Sickening Entanglement\|Sickening Entanglement]]: | As entangle, but plants have sickening sap. |
+| [[rangoric-srd/spells/Slipstream\|Slipstream]] (M): | Wave boosts creature's speed. |
 | [[rangoric-srd/spells/Snare\|Snare]]:                                     | Creates a magic booby trap.                               |
 | [[rangoric-srd/spells/Speak with Plants\|Speak with Plants]]:             | You can talk to normal plants and plant creatures.        |
 | [[rangoric-srd/spells/Spike Growth\|Spike Growth]]:                       | Creatures in area take 1d4 damage, may be slowed.         |

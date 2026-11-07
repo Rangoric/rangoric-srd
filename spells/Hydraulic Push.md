@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Water"
 level:
+  - "Drd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Water\]*
 
-  - **Level**: Sor/Wiz 1
+  - **Level**: Drd 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

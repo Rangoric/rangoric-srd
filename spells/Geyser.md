@@ -7,6 +7,7 @@ descriptor:
   - "Fire"
   - "Water"
 level:
+  - "Drd 4"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Fire, Water\]*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Drd 4, Sor/Wiz 5
   - **Components**: V, S, M/DF (a piece of lava rock)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

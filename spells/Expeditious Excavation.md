@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Earth"
 level:
+  - "Drd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Sor/Wiz 1
+  - **Level**: Drd 1, Sor/Wiz 1
   - **Components**: V, S, M (tiny shovel)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -32,4 +32,4 @@ tags: [rangoric, rangoric/spell]
   - **Target**: You
   - **Duration**: 24 hours
 
-This spell functions as *lesser age resistance*, except you ignore the Strength, Dexterity, and Constitution penalties gained at middle age and old age.
+This spell functions as *[[rangoric-srd/spells/Age Resistance, Lesser|lesser age resistance]]*, except you ignore the Strength, Dexterity, and Constitution penalties gained at middle age and old age.
