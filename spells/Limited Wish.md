@@ -38,13 +38,13 @@ Spell Resistance: Yes
 
 A limited wish lets you create nearly any type of effect. For example, a limited wish can do any of the following things.
 
-  - Duplicate any sorcerer/wizard spell of 6th level or lower, provided the spell is not of a school prohibited to you.
+  - Duplicate any sorcerer/wizard spell of 6th level or lower, provided the spell is not of one of your opposition schools.
 
-  - Duplicate any other spell of 5th level or lower, provided the spell is not of a school prohibited to you.
+  - Duplicate any other spell of 5th level or lower, provided the spell is not of one of your opposition schools.
 
-  - Duplicate any sorcerer/wizard spell of 5th level or lower, even if it’s of a prohibited school.
+  - Duplicate any sorcerer/wizard spell of 5th level or lower, even if it’s of one of your opposition schools.
 
-  - Duplicate any other spell of 4th level or lower, even if it’s of a prohibited school.
+  - Duplicate any other spell of 4th level or lower, even if it’s of one of your opposition schools.
 
   - Undo the harmful effects of many spells, such as geas/quest or insanity.
 
