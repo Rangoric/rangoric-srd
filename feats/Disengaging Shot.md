@@ -17,4 +17,4 @@ You make one last attack before beating a hasty retreat.
 
 **Prerequisites**: Int 13, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Disengaging Feint|Disengaging Feint]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], [[rangoric-srd/feats/Mobility|Mobility]].
 
-**Benefit**: Whenever you use Disengaging Feint, you can make a single melee attack against one opponent you successfully feinted. That opponent is denied its Dexterity bonus to AC against the attack.
+**Benefit**: Whenever you use Disengaging Feint or [[rangoric-srd/feats/Disengaging Flourish|Disengaging Flourish]], you can make a single melee attack against one opponent you successfully feinted. That opponent is denied its Dexterity bonus to AC against the attack.
