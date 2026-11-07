@@ -70,7 +70,7 @@ You can’t use this skill if your speed has been reduced by armor, excess equip
 | 15        | Treat a fall as if it were 10 feet shorter than it really is when determining damage.                                                                                                                                                                                                                                                                                                                        |
 | 15        | Acrobatics at one-half speed as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you provoke attacks of opportunity normally. Check separately for each opponent you move past, in the order in which you pass them (player’s choice of order in case of a tie). Each additional enemy after the first adds +2 to the Acrobatics DC.                                       |
 | 25        | Acrobatics at one-half speed through an area occupied by an enemy (over, under, or around the opponent) as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you stop before entering the enemy-occupied area and provoke an attack of opportunity from that enemy. Check separately for each opponent. Each additional enemy after the first adds +2 to the Acrobatics DC. |
-| 30 | Treat a fall as if it were 20 feet shorter when determining damage. |
+| 30 | Treat a fall as if it were 20 feet shorter when determining damage (the [[rangoric-srd/feats/Cat's Fall\|Cat's Fall]] feat gives this on the DC 15 check). |
 | 35 | Free stand. |
 | 45 | Treat a fall as if it were 30 feet shorter when determining damage. |
 | 50 | Athletics vertical surface. |
