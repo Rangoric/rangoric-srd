@@ -33,7 +33,7 @@ The sour-sweet depths of bogs, marshes, and swamps are your places of power.
 | 3rd | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M) | Walk across water on moving lily pads. |
 | 4th | [[rangoric-srd/spells/Cape of Wasps\|Cape of Wasps]] | Wasp swarm defends or carries you. |
 | 5th | [[rangoric-srd/spells/Insect Plague\|Insect Plague]] | Locust swarms attack creatures. |
-| 6th | Mass Fester | As fester, but affecting multiple targets. |
+| 6th | [[rangoric-srd/spells/Fester, Mass\|Mass Fester]] (M) | As fester, but affecting multiple targets. |
 | 7th | [[rangoric-srd/spells/Animate Plants\|Animate Plants]] | One or more plants animate and fight for you. |
 | 8th | [[rangoric-srd/spells/Blood Mist\|Blood Mist]] (M) | Mist causes Wisdom damage and rage. |
 | 9th | [[rangoric-srd/spells/Shambler\|Shambler]] | Summons 1d4+2 shambling mounds to fight for you. |
