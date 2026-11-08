@@ -6,6 +6,7 @@ descriptor:
   - "Fear"
   - "Mind-Affecting"
 level:
+  - "Apl 1"
   - "Brd 1"
   - "Clr 1"
   - "Death 1"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Fear, Mind-Affecting\]*
 
-  - **Level**: Brd 1, Clr 1, Death 1, Sha 1, Sor/Wiz 1, Wit 1
+  - **Level**: Apl 1, Brd 1, Clr 1, Death 1, Sha 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

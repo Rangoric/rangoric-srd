@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Apl 2"
   - "Clr 2"
   - "Pal 2"
   - "Sor/Wiz 2"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 2, Pal 2, Sor/Wiz 2
+  - **Level**: Apl 2, Clr 2, Pal 2, Sor/Wiz 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

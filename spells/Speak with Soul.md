@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Apl 4"
   - "Clr 6"
   - "Pal 4"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 6, Pal 4
+  - **Level**: Apl 4, Clr 6, Pal 4
   - **Components**: V, S, M (a drop of candle wax)
   - **Casting Time**: 1 minute
   - **Range**: 10 ft.

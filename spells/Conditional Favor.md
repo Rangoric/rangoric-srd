@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Apl 1"
   - "Brd 2"
   - "Clr 2"
   - "Pal 1"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 2, Clr 2, Pal 1, Wit 2
+  - **Level**: Apl 1, Brd 2, Clr 2, Pal 1, Wit 2
   - **Components**: V
   - **Casting Time**: 1 swift action
   - **Range**: SeeText

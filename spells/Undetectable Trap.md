@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Apl 2"
   - "Rgr 2"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Rgr 2
+  - **Level**: Apl 2, Rgr 2
   - **Components**: V, S, M (a square of black silk worth 50 gp)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

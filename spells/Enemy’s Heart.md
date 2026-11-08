@@ -6,6 +6,7 @@ descriptor:
   - "Death"
   - "Evil"
 level:
+  - "Apl 2"
   - "Clr 2"
   - "Adept 2"
   - "Wit 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Evil\]*
 
-  - **Level**: Clr 2, Adept 2, Wit 2
+  - **Level**: Apl 2, Clr 2, Adept 2, Wit 2
   - **Components**: V, S, M (the target creature’s heart)
   - **Casting Time**: 1 full-round action; see text
   - **Range**: Touch

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Apl 2"
   - "Brd 2"
   - "Clr 2"
 components:
@@ -17,8 +18,8 @@ saving-throw: "Will negates; see text or none (object)"
 spell-resistance: "Yes; see text or no (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Silence|Silence (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 2, Clr 2
+  - **Level**: Apl 2, Brd 2, Clr 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

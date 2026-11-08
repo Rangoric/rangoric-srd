@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Poison"
 level:
+  - "Apl 2"
   - "Drd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Poison\]*
 
-  - **Level**: Drd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Apl 2, Drd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

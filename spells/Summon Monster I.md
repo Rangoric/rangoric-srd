@@ -6,6 +6,7 @@ subschool: "Summoning"
 descriptor:
   - "see text"
 level:
+  - "Apl 1"
   - "Brd 1"
   - "Clr 1"
   - "Sor/Wiz 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text\]*
 
-  - **Level**: Brd 1, Clr 1, Sor/Wiz 1, Wit 1
+  - **Level**: Apl 1, Brd 1, Clr 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

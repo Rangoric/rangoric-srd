@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Evil"
 level:
+  - "Apl 3"
   - "Clr 3"
   - "Death 3"
   - "Sha 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 3, Death 3, Sha 3, Sor/Wiz 4
+  - **Level**: Apl 3, Clr 3, Death 3, Sha 3, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

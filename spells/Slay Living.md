@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Death"
 level:
+  - "Apl 4"
   - "Clr 5"
   - "Death 5"
   - "Sha 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death\]*
 
-  - **Level**: Clr 5, Death 5, Sha 6, Wit 6
+  - **Level**: Apl 4, Clr 5, Death 5, Sha 6, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

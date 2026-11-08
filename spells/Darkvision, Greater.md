@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Apl 4"
   - "Rgr 4"
   - "Sor/Wiz 4"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Rgr 4, Sor/Wiz 4
+  - **Level**: Apl 4, Rgr 4, Sor/Wiz 4
   - **Components**: V, S, M (either a pinch of dried carrot or an agate)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

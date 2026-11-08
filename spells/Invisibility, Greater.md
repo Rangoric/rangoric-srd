@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Apl 4"
   - "Brd 4"
   - "Sor/Wiz 4"
 components:
@@ -14,8 +15,8 @@ duration: "1 round/level (D)"
 saving-throw: "Will negates (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Invisibility, Greater|Invisibility, Greater (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 4, Sor/Wiz 4
+  - **Level**: Apl 4, Brd 4, Sor/Wiz 4
   - **Components**: V, S
   - **Target**: You or creature touched
   - **Duration**: 1 round/level (D)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Apl 2"
   - "Rgr 3"
   - "Sor/Wiz 2"
 components:
@@ -17,8 +18,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Darkvision|Darkvision (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Rgr 3, Sor/Wiz 2
+  - **Level**: Apl 2, Rgr 3, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

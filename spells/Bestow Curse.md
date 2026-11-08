@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Apl 3"
   - "Clr 3"
   - "Sha 3"
   - "Sor/Wiz 4"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 3, Sha 3, Sor/Wiz 4, Wit 3
+  - **Level**: Apl 3, Clr 3, Sha 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

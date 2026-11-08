@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Apl 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Apl 4, Sor/Wiz 4
   - **Components**: V, S, M (diamond dust worth 25 gp per target)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

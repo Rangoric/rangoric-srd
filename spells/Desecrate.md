@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Evil"
 level:
+  - "Apl 2"
   - "Clr 2"
   - "Evil 2"
 components:
@@ -20,8 +21,8 @@ saving-throw: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Desecrate|Desecrate (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Evil\]*
 
-  - **Level**: Clr 2, Evil 2
+  - **Level**: Apl 2, Clr 2, Evil 2
   - **Components**: V, S, M, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

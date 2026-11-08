@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Death"
 level:
+  - "Apl 3"
   - "Clr 3"
   - "Pal 3"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death\]*
 
-  - **Level**: Clr 3, Pal 3
+  - **Level**: Apl 3, Clr 3, Pal 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

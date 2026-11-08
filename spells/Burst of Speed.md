@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Apl 3"
   - "Pal 3"
   - "Rgr 3"
 components:
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Pal 3, Rgr 3
+  - **Level**: Apl 3, Pal 3, Rgr 3
   - **Components**: V
   - **Casting Time**: 1 swift action
   - **Range**: Personal

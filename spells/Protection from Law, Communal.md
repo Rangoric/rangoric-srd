@@ -5,6 +5,7 @@ school: "Abjuration"
 descriptor:
   - "Chaotic"
 level:
+  - "Apl 2"
   - "Clr 2"
   - "Sor/Wiz 2"
 target: "Creatures touched"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Chaotic\]*
 
-  - **Level**: Clr 2, Sor/Wiz 2
+  - **Level**: Apl 2, Clr 2, Sor/Wiz 2
   - **Components**: 
   - **Target**: Creatures touched
 
