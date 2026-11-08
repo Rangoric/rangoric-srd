@@ -5,9 +5,10 @@ based-on:
   - "[[path srd 3.5/classes/Fighter|Fighter (PF1)]]"
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
   - "[[path srd 3.5/items/weapons/Starknife|Starknife (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Eastern Armor and Weapons|Eastern Armor and Weapons (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-08
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -61,9 +62,9 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 
 **Axes**: battleaxe, dwarven waraxe, greataxe, handaxe, heavy pick, light pick, orc double axe, and throwing axe.
 
-**Blades, Heavy**: bastard sword, falchion, greatsword, longsword, scimitar, scythe, and two-bladed sword.
+**Blades, Heavy**: bastard sword, falchion, greatsword, katana, longsword, scimitar, scythe, and two-bladed sword.
 
-**Blades, Light**: dagger, kama, kukri, rapier, sickle, starknife, and short sword.
+**Blades, Light**: dagger, kama, kukri, rapier, sickle, starknife, short sword, and wakizashi.
 
 **Bows**: composite longbow, composite shortbow, longbow, and shortbow.
 
@@ -73,11 +74,11 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 
 **Double**: dire flail, dwarven urgrosh, gnome hooked hammer, orc double axe, quarterstaff, and two-bladed sword.
 
-**Flails**: dire flail, flail, heavy flail, morningstar, nunchaku, spiked chain, and whip.
+**Flails**: dire flail, flail, heavy flail, kusarigama, morningstar, nunchaku, spiked chain, and whip.
 
 **Hammers**: club, greatclub, heavy mace, light hammer, light mace, and warhammer.
 
-**Monk**: kama, nunchaku, quarterstaff, sai, shuriken, siangham, and unarmed strike.
+**Monk**: kama, kusarigama, nunchaku, quarterstaff, sai, shuriken, siangham, and unarmed strike.
 
 **Natural**: unarmed strike and all natural weapons, such as bite, claw, gore, tail, and wing.
 
@@ -138,6 +139,12 @@ Some weapons deal damage of multiple types. If a weapon is of two types, the dam
 In other cases, a weapon can deal either of two types of damage. In a situation when the damage type is significant, the wielder can choose which type of damage to deal with such a weapon.
 
 **Special**: Some weapons have special features. See the weapon descriptions for details.
+
+Two special features recur, and the weapon descriptions name them:
+
+*Deadly*: When this weapon delivers a [[rangoric-srd/combat/Combat Modifiers|coup de grace]], it gains +4 to damage when calculating the DC of the Fortitude saving throw to see whether the target of the coup de grace dies from the attack. The bonus is not added to the actual damage of the coup de grace attack. ^weapon-deadly
+
+*Grapple*: On a successful critical hit with a weapon of this type, you can grapple the target of the attack. You can then attempt a combat maneuver check to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] your opponent as a free action. This grapple attempt does not provoke an attack of opportunity from the creature you are attempting to grapple if that creature is not threatening you. While you grapple the target with a grappling weapon, you can only move or damage the creature on your turn. You are still considered grappled, though you do not have to be adjacent to the creature to continue the grapple. If you move far enough away to be out of the weapon’s reach, you end the grapple with that action. ^weapon-grapple
 
 ##### Weapon Descriptions
 
@@ -227,7 +234,9 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 | Nunchaku                                                                                                                                                             | 2 gp   | 1d4     | 1d6     | x2       | —               | 2 lb.      | Bludgeoning              |  |
 | Sai                                                                                                                                                                  | 1 gp   | 1d3     | 1d4     | x2       | 10 ft.          | 1 lb.      | Bludgeoning              |  |
 | Siangham                                                                                                                                                             | 3 gp   | 1d4     | 1d6     | x2       | —               | 1 lb.      | Piercing                 |  |
+| Wakizashi | 35 gp | 1d4 | 1d6 | 18–20/x2 | — | 2 lb. | Piercing or slashing | |
 | *One-Handed Melee Weapons*                                                                                                                                           |        |         |         |          |                 |            |                          |  |
+| Katana | 50 gp | 1d6 | 1d8 | 18–20/x2 | — | 6 lb. | Slashing | |
 | Sword, bastard                                                                                                                                                       | 35 gp  | 1d8     | 1d10    | 19–20/x2 | —               | 6 lb.      | Slashing                 |  |
 | Waraxe, dwarven                                                                                                                                                      | 30 gp  | 1d8     | 1d10    | x3       | —               | 8 lb.      | Slashing                 |  |
 | Whip (4)                                                                                                                                                             | 1 gp   | 1d2 (3) | 1d3 (3) | x2       |                 | 2 lb.      | Slashing                 |  |
@@ -236,6 +245,7 @@ In other cases, a weapon can deal either of two types of damage. In a situation 
 | Chain, spiked (4)                                                                                                                                                    | 25 gp  | 1d6     | 2d4     | x2       | —               | 10 lb.     | Piercing                 |  |
 | Flail, dire (5)                                                                                                                                                      | 90 gp  | 1d6/1d6 | 1d8/1d8 | x2       | —               | 10 lb.     | Bludgeoning              |  |
 | Hammer, gnome hooked (5)                                                                                                                                             | 20 gp  | 1d6/1d4 | 1d8/1d6 | x3/x4    | —               | 6 lb.      | Bludgeoning and piercing |  |
+| Kusarigama (4, 5) | 12 gp | 1d2/1d4 | 1d3/1d6 | x2 | — | 3 lb. | Slashing or bludgeoning | |
 | Sword, two-bladed (5)                                                                                                                                                | 100 gp | 1d6/1d6 | 1d8/1d8 | 19–20/x2 | —               | 10 lb.     | Slashing                 |  |
 | Urgrosh, dwarven (5)                                                                                                                                                 | 50 gp  | 1d6/1d4 | 1d8/1d6 | x3       | —               | 12 lb.     | Slashing or piercing     |  |
 | *Ranged Weapons*                                                                                                                                                     |        |         |         |          |                 |            |                          |  |
@@ -328,6 +338,10 @@ Gnomes treat gnome hooked hammers as martial weapons.
 
 You can use a kama to make trip attacks. If you are tripped during your own trip attempt, you can drop the kama to avoid being tripped.
 
+**Katana**: Specifically constructed for samurai, katanas employ multiple types of steel combined in a distinctive forging process. The results are swords noted for their wickedly sharp yet slender, gently curved blades, designed to make graceful hacking strokes capable of severing opponents’ heads and limbs. Though finely balanced, these blades are difficult to master. A character can use a katana two-handed as a martial weapon, but must take the Exotic Weapon Proficiency (katana) feat to use it one-handed. A katana is [[rangoric-srd/equipment/Equipment Weapons#^weapon-deadly|deadly]].
+
+**Kusarigama**: This weapon has a single sickle held in the off-hand attached by 10 feet of fine chain to a weighted metal ball. The sickle is used to make trips, jabs, and blocks while the ball is whipped around at high speeds and then smashed into the opponent. A kusarigama is a double weapon (the sickle deals slashing damage, the ball bludgeoning): you can fight with it as if fighting with two weapons, with all the normal attack penalties, just as if you were using a one-handed weapon and a light weapon. It has reach. You can use a kusarigama to make [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attacks; if you are tripped during your own trip attempt, you can drop it to avoid being tripped. It is a special monk weapon, and it has the [[rangoric-srd/equipment/Equipment Weapons#^weapon-grapple|grapple]] feature.
+
 **Lance**: A lance deals double damage when used from the back of a charging mount. It has reach, so you can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
 
 While mounted, you can wield a lance with one hand.
@@ -411,6 +425,8 @@ An unarmed strike is always considered a light weapon. Therefore, you can use th
 If you use a ready action to set an urgrosh against a charge, you deal double damage if you score a hit against a charging character. If you use an urgrosh against a charging character, the spear head is the part of the weapon that deals damage.
 
 Dwarves treat dwarven urgroshes as martial weapons.
+
+**Wakizashi**: These short, slender blades are between 1 to 2 feet long. They are primarily used as back-up weapons, or to decapitate defeated enemies. These blades are specifically worn by samurai and are intended to be paired with a katana. Together, this set of blades is referred to as a daisho. A wakizashi is [[rangoric-srd/equipment/Equipment Weapons#^weapon-deadly|deadly]].
 
 **Waraxe, Dwarven**: A dwarven waraxe is too large to use in one hand without special training; thus, it is an exotic weapon. A Medium character can use a dwarven waraxe two-handed as a martial weapon, or a Large creature can use it one-handed in the same way. A dwarf treats a dwarven waraxe as a martial weapon even when using it in one hand.
 
