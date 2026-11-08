@@ -7,6 +7,7 @@ level:
   - "Clr 3"
   - "Drd 3"
   - "Rgr 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "Fortitude negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Disease|Remove Disease (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 3, Drd 3, Rgr 3
+  - **Level**: Clr 3, Drd 3, Rgr 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

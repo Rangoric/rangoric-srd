@@ -9,6 +9,7 @@ level:
   - "Drd 2"
   - "Pal 2"
   - "Rgr 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Clr 2, Drd 2, Pal 2, Rgr 2
+  - **Level**: Clr 2, Drd 2, Pal 2, Rgr 2, Wit 2
   - **Components**: V, S, DF/M (a pinch of forge soot)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

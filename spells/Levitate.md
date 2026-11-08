@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Levitate|Levitate (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Sor/Wiz 2, Wit 2
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal or close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Rgr 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Clr 1, Drd 1, Rgr 1
+  - **Level**: Clr 1, Drd 1, Rgr 1, Wit 1
   - **Components**: V, S, F
   - **Casting Time**: 1 hour
   - **Range**: Touch

@@ -122,9 +122,9 @@ The schools and their powers, one note each: [[rangoric-srd/class-options/arcane
 
 ##### Familiars
 
-A familiar is a normal animal that gains new powers and becomes a magical beast when summoned to service by a sorcerer or wizard. It retains the appearance, Hit Dice, base attack bonus, base save bonuses, skills, and feats of the normal animal it once was, but it is treated as a magical beast instead of an animal for the purpose of any effect that depends on its type. Only a normal, unmodified animal may become a familiar. An animal companion cannot also function as a familiar.
+A familiar is a normal animal that gains new powers and becomes a magical beast when summoned to service by a sorcerer, wizard, or [[rangoric-srd/classes/Witch|witch]]. It retains the appearance, Hit Dice, base attack bonus, base save bonuses, skills, and feats of the normal animal it once was, but it is treated as a magical beast instead of an animal for the purpose of any effect that depends on its type. Only a normal, unmodified animal may become a familiar. An animal companion cannot also function as a familiar.
 
-A familiar also grants special abilities to its master (a sorcerer or wizard), as given on the table below. These special abilities apply only when the master and familiar are within 1 mile of each other.
+A familiar also grants special abilities to its master (a sorcerer, wizard, or witch), as given on the table below. These special abilities apply only when the master and familiar are within 1 mile of each other.
 
 Levels of different classes that are entitled to familiars stack for the purpose of determining any familiar abilities that depend on the master’s level.
 
@@ -132,12 +132,18 @@ Levels of different classes that are entitled to familiars stack for the purpose
 | --------- | ---------------------------------------------------------------------------------------- |
 | Bat       | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks               |
 | Cat       | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks |
+| Centipede | Master gains a +3 bonus on [[rangoric-srd/skills/Stealth\|Stealth]] checks |
+| Crab | Master gains a +2 bonus on combat maneuver checks to grapple |
+| Fox | Master gains a +2 bonus on Reflex saves |
 | Hawk      | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks in bright light   |
 | Lizard    | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks                 |
+| Octopus | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to swim |
 | Owl       | Master gains a +3 bonus on Perception checks in shadows                                        |
 | Rat       | Master gains a +2 bonus on Fortitude saves                                               |
 | Raven (1) | Master gains a +3 bonus on [[rangoric-srd/skills/Appraise\|Appraise]] checks           |
+| Scorpion | Master gains a +2 bonus on initiative checks |
 | Snake (2) | Master gains a +3 bonus on [[rangoric-srd/skills/Deception\|Deception]] checks                 |
+| Spider | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to climb |
 | Toad      | Master gains +3 hit points                                                               |
 | Weasel    | Master gains a +2 bonus on Reflex saves                                                  |
 

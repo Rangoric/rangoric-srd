@@ -6,6 +6,7 @@ level:
   - "Brd 4"
   - "Clr 4"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Brd 4, Clr 4, Sor/Wiz 4
+  - **Level**: Brd 4, Clr 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M, F (a scorpion's tail)
   - **Casting Time**: 10 minutes
   - **Range**: Personal

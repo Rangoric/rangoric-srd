@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Brd 4"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "S"
 casting-time: "1 immediate action"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Sor/Wiz 4, Wit 4
   - **Components**: S
   - **Casting Time**: 1 immediate action
   - **Range**: Medium (100 ft. + 10 ft./level)

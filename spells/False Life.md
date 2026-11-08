@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -14,8 +15,8 @@ target: "You"
 duration: "1 hour/level or until discharged; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/False Life|False Life (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Sor/Wiz 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Personal

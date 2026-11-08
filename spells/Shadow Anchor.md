@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "S"
 casting-time: "1 standard action"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow) \[Shadow\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Sor/Wiz 2, Wit 2
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

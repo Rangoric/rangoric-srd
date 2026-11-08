@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[LanguageDependent, MindAffecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

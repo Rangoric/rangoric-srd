@@ -6,6 +6,7 @@ level:
   - "Clr 4"
   - "Drd 3"
   - "Rgr 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 4, Drd 3, Rgr 3
+  - **Level**: Clr 4, Drd 3, Rgr 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

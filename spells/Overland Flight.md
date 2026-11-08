@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -12,8 +13,8 @@ target: "You"
 duration: "1 hour/level"
 based-on:
   - "[[fantasy srd 3.5/spells/Overland Flight|Overland Flight (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Range**: Personal
   - **Target**: You

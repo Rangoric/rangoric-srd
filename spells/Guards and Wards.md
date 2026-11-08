@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "See text"
 spell-resistance: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Guards and Wards|Guards and Wards (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Sor/Wiz 6, Wit 6
   - **Components**: V, S, M, F
   - **Casting Time**: 30 minutes
   - **Range**: Anywhere within the area to be warded

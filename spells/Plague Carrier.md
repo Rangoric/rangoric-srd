@@ -9,6 +9,7 @@ level:
   - "Clr 4"
   - "Drd 4"
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Disease, Evil\]*
 
-  - **Level**: Clr 4, Drd 4, Sor/Wiz 5
+  - **Level**: Clr 4, Drd 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

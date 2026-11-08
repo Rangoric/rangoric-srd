@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Electricity\]*
 
-  - **Level**: Drd 2, Sor/Wiz 2
+  - **Level**: Drd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M/DF (a piece of a tree struck by lightning)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

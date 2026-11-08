@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: [[rangoric-srd/class-options/domains/Swamp Domain|Swamp]] 6 (inquisitor 6 and witch 6, once Rangoric has those classes)
+  - **Level**: [[rangoric-srd/class-options/domains/Swamp Domain|Swamp]] 6, Wit 6 (inquisitor 6, once Rangoric has that class)
   - **Components**: V, S, M (rotted meat)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

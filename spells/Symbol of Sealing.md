@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 6"
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Force\]*
 
-  - **Level**: Clr 6, Sor/Wiz 6
+  - **Level**: Clr 6, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 5,000 gp)
   - **Casting Time**: S 10 minutes
   - **Range**: 0 ft.; see text

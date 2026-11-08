@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Clr 2"
   - "Sor/Wiz 3"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "Will negates (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Gentle Repose|Gentle Repose (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 2, Sor/Wiz 3
+  - **Level**: Clr 2, Sor/Wiz 3, Wit 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

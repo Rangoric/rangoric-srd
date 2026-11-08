@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (a drop of blood)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

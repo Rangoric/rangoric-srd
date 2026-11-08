@@ -6,6 +6,7 @@ level:
   - "Drd 2"
   - "Rgr 1"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 2, Rgr 1, Sor/Wiz 2
+  - **Level**: Drd 2, Rgr 1, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M/DF (a leaf)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -9,6 +9,7 @@ level:
   - "Drd 1"
   - "Sor/Wiz 1"
   - "Water 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -20,8 +21,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Obscuring Mist|Obscuring Mist (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Air 1, Clr 1, Drd 1, Sor/Wiz 1, Water 1
+  - **Level**: Air 1, Clr 1, Drd 1, Sor/Wiz 1, Water 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 20 ft.

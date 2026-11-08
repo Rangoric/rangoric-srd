@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Clr 6"
   - "Destruction 6"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "Will half; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Harm|Harm (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 6, Destruction 6
+  - **Level**: Clr 6, Destruction 6, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

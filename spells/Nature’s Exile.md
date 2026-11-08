@@ -6,6 +6,7 @@ descriptor:
   - "Curse"
 level:
   - "Drd 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Curse\]*
 
-  - **Level**: Drd 3
+  - **Level**: Drd 3, Wit 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

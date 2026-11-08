@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Clr 7"
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow) \[Darkness, Shadow\]*
 
-  - **Level**: Clr 7, Sor/Wiz 7
+  - **Level**: Clr 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

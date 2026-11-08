@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 8
+  - **Level**: Clr 8, Wit 8
   - **Components**: V, S, M (rare incense and tonics worth 1,000 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

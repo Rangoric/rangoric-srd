@@ -8,6 +8,7 @@ level:
   - "Clr 7"
   - "Drd 7"
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -15,8 +16,8 @@ casting-time: "1 standard action"
 duration: "1 hour/level"
 based-on:
   - "[[fantasy srd 3.5/spells/Scrying, Greater|Scrying, Greater (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Brd 6, Clr 7, Drd 7, Sor/Wiz 7
+  - **Level**: Brd 6, Clr 7, Drd 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Duration**: 1 hour/level

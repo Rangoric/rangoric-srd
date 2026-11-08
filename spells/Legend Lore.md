@@ -6,6 +6,7 @@ level:
   - "Brd 4"
   - "Knowledge 7"
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ target: "You"
 duration: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Legend Lore|Legend Lore (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Knowledge 7, Sor/Wiz 6
+  - **Level**: Brd 4, Knowledge 7, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M, F
   - **Casting Time**: See text
   - **Range**: Personal

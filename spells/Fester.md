@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: — (inquisitor 3 and witch 2, once Rangoric has those classes)
+  - **Level**: Wit 2 (inquisitor 3, once Rangoric has that class)
   - **Components**: V, S, M (rotted meat)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

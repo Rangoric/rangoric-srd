@@ -7,6 +7,7 @@ level:
   - "Brd 4"
   - "Sor/Wiz 4"
   - "Travel 4"
+  - "Wit 4"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -17,8 +18,8 @@ saving-throw: "None and Will negates (object)"
 spell-resistance: "No and Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Dimension Door|Dimension Door (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Brd 4, Sor/Wiz 4, Travel 4
+  - **Level**: Brd 4, Sor/Wiz 4, Travel 4, Wit 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

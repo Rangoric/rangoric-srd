@@ -15,6 +15,8 @@ There are 11 standard character classes defined in the SRD. They are:
 
 [[rangoric-srd/classes/Barbarian|Barbarian]], [[rangoric-srd/classes/Bard|Bard]], [[rangoric-srd/classes/Cleric|Cleric]], [[rangoric-srd/classes/Druid|Druid]], [[rangoric-srd/classes/Fighter|Fighter]], [[rangoric-srd/classes/Monk|Monk]], [[rangoric-srd/classes/Paladin|Paladin]], [[rangoric-srd/classes/Ranger|Ranger]], [[rangoric-srd/classes/Rogue|Rogue]], [[rangoric-srd/classes/Sorcerer|Sorcerer]], [[rangoric-srd/classes/Wizard|Wizard]].
 
+Rangoric adds these classes from Pathfinder: [[rangoric-srd/classes/Unchained Monk|Unchained Monk]] and [[rangoric-srd/classes/Witch|Witch]].
+
 ### Multiclass Characters
 
 A character may add new classes as he or she progresses in level, thus becoming a multiclass character. The class abilities from a character’s different classes combine to determine a multiclass character’s overall abilities. Multiclassing improves a character’s versatility at the expense of focus.

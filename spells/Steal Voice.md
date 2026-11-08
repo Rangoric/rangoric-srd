@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Brd 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Sor/Wiz 2, Wit 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

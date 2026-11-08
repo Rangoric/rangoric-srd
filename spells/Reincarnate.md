@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 4"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None; see text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Reincarnate|Reincarnate (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 4
+  - **Level**: Drd 4, Wit 5
   - **Components**: V, S, M, DF
   - **Casting Time**: 10 minutes
   - **Range**: Touch

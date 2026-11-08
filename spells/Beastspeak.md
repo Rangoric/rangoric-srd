@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Drd 2"
+  - "Wit 2"
 components:
   - "S"
   - "DF"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 2
+  - **Level**: Drd 2, Wit 2
   - **Components**: S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 2"
   - "Death 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Death Knell|Death Knell (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Evil\]*
 
-  - **Level**: Clr 2, Death 2
+  - **Level**: Clr 2, Death 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

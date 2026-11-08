@@ -6,6 +6,7 @@ subschool: "Creation"
 level:
   - "Sor/Wiz 7"
   - "Travel 8"
+  - "Wit 7"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 7, Travel 8
+  - **Level**: Sor/Wiz 7, Travel 8, Wit 7
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

@@ -7,6 +7,7 @@ descriptor:
   - "Earth"
 level:
   - "Drd 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Earth\]*
 
-  - **Level**: Drd 5
+  - **Level**: Drd 5, Wit 5
   - **Components**: V, S, M (a sharp gemstone fragment worth 150 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

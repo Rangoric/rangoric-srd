@@ -4,10 +4,11 @@ section: "Spells"
 school: "Divination"
 level:
   - "Sor/Wiz 7"
+  - "Wit 7"
 based-on:
   - "[[fantasy srd 3.5/spells/Arcane Sight, Greater|Arcane Sight, Greater (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -16,7 +17,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Sor/Wiz 7, Wit 7
 
 This spell functions like [[rangoric-srd/spells/Arcane Sight|arcane sight]], except that you automatically know which spells or magical effects are active upon any individual or object you see.
 

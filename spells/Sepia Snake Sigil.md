@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Sor/Wiz 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -20,8 +21,8 @@ saving-throw: "Reflex negates"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Sepia Snake Sigil|Sepia Snake Sigil (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Brd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Touch

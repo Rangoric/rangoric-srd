@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Summoning"
 level:
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "See text"
 spell-resistance: "Yes; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Trap the Soul|Trap the Soul (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Sor/Wiz 8
+  - **Level**: Sor/Wiz 8, Wit 8
   - **Components**: V, S, M, (F); see text
   - **Casting Time**: 1 standard action or see text
   - **Range**: Close (25 ft. + 5 ft./2 levels)

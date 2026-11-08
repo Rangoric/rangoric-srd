@@ -6,6 +6,7 @@ descriptor:
   - "Language-dependent"
 level:
   - "Clr 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Language-dependent\]*
 
-  - **Level**: Clr 4
+  - **Level**: Clr 4, Wit 4
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: 10 ft. (see text)

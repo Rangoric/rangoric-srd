@@ -6,6 +6,7 @@ level:
   - "Clr 8"
   - "Drd 8"
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 8, Drd 8, Sor/Wiz 8
+  - **Level**: Clr 8, Drd 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: 2 mi.

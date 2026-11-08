@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 9"
   - "Sor/Wiz 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse, Evil\]*
 
-  - **Level**: Clr 9, Sor/Wiz 9
+  - **Level**: Clr 9, Sor/Wiz 9, Wit 9
   - **Components**: V, S, M (powdered onyx 10,000 gp), DF
   - **Casting Time**: 10 minutes
   - **Range**: Touch

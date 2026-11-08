@@ -6,6 +6,7 @@ subschool: "Teleportation"
 level:
   - "Sor/Wiz 5"
   - "Travel 5"
+  - "Wit 5"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -16,8 +17,8 @@ saving-throw: "None and Will negates (object)"
 spell-resistance: "No and Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Teleport|Teleport (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Sor/Wiz 5, Travel 5
+  - **Level**: Sor/Wiz 5, Travel 5, Wit 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal and touch

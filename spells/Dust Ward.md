@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 6"
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 6, Sor/Wiz 6
+  - **Level**: Clr 6, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M (a pinch of pumice)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

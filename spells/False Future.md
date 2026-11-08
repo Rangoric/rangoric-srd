@@ -7,6 +7,7 @@ level:
   - "Brd 3"
   - "Clr 4"
   - "Sor/Wiz 5"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 3, Clr 4, Sor/Wiz 5
+  - **Level**: Brd 3, Clr 4, Sor/Wiz 5, Wit 4
   - **Components**: V, S, M (crushed jade worth 100 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

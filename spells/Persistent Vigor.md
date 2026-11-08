@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 4
+  - **Level**: Clr 4, Wit 4
   - **Components**: V, S, M/DF (ginseng root shavings)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 1"
   - "Pal 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Good\]*
 
-  - **Level**: Clr 1, Pal 1
+  - **Level**: Clr 1, Pal 1, Wit 1
   - **Components**: V, S, DF, M (a pinch of silver dust)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

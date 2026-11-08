@@ -8,6 +8,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Clr 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Emotion, Mind-affecting\]*
 
-  - **Level**: Clr 3
+  - **Level**: Clr 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 level)

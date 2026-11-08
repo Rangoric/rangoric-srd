@@ -6,6 +6,7 @@ subschool: "Summoning"
 level:
   - "Drd 9"
   - "Clr 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Drd 9, Clr 9
+  - **Level**: Drd 9, Clr 9, Wit 9
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Long (400 ft. + 40 ft./level)

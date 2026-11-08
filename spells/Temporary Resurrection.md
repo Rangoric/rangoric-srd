@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Sor/Wiz 7, Wit 7
   - **Components**: V, S, M (diamond dust worth 500 gp)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

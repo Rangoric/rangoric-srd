@@ -10,6 +10,7 @@ level:
   - "Brd 3"
   - "Clr 3"
   - "Sor/Wiz 3"
+  - "Wit 3"
 components:
   - "V"
   - "M"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer) \[Evil, Fear\]*
 
-  - **Level**: Brd 3, Clr 3, Sor/Wiz 3
+  - **Level**: Brd 3, Clr 3, Sor/Wiz 3, Wit 3
   - **Components**: V, M (a pinch of brimstone)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

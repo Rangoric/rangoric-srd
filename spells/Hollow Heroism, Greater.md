@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 6"
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting, Ruse\]*
 
-  - **Level**: Brd 6, Sor/Wiz 7
+  - **Level**: Brd 6, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

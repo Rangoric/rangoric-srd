@@ -8,6 +8,7 @@ level:
   - "Drd 1"
   - "Rgr 1"
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "S"
   - "M"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Clr 1, Drd 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Clr 1, Drd 1, Rgr 1, Sor/Wiz 1, Wit 1
   - **Components**: S, M/DF (a small bladder filled with air)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

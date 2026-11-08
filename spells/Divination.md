@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Clr 4"
   - "Knowledge 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -15,8 +16,8 @@ target: "You"
 duration: "Instantaneous"
 based-on:
   - "[[fantasy srd 3.5/spells/Divination|Divination (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 4, Knowledge 4
+  - **Level**: Clr 4, Knowledge 4, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Personal

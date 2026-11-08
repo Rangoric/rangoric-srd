@@ -8,6 +8,7 @@ level:
   - "Clr 5"
   - "Drd 4"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -21,8 +22,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Scrying|Scrying (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Brd 3, Clr 5, Drd 4, Sor/Wiz 4
+  - **Level**: Brd 3, Clr 5, Drd 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M/DF, F
   - **Casting Time**: 1 hour
   - **Range**: See text

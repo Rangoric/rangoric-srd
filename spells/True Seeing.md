@@ -7,6 +7,7 @@ level:
   - "Drd 7"
   - "Knowledge 5"
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 5, Drd 7, Knowledge 5, Sor/Wiz 6
+  - **Level**: Clr 5, Drd 7, Knowledge 5, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

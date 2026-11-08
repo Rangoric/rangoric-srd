@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Sor/Wiz 3"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Mind-affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Sor/Wiz 3, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Unlimited

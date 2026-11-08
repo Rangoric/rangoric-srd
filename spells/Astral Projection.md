@@ -6,6 +6,7 @@ level:
   - "Clr 9"
   - "Sor/Wiz 9"
   - "Travel 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Astral Projection|Astral Projection (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 9, Sor/Wiz 9, Travel 9
+  - **Level**: Clr 9, Sor/Wiz 9, Travel 9, Wit 9
   - **Components**: V, S, M
   - **Casting Time**: 30 minutes
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Rgr 4"
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Rgr 4, Sor/Wiz 6
+  - **Level**: Rgr 4, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M/DF (an item from the selected creature or creature type)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Sor/Wiz 4"
+  - "Wit 4"
 duration: "1 day/level or until completed"
 book: "Advanced Class Guide"
 based-on:
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Sor/Wiz 4, Wit 4
   - **Components**: 
   - **Duration**: 1 day/level or until completed
 

@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 5"
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying) \[Death\]*
 
-  - **Level**: Clr 5, Sor/Wiz 5
+  - **Level**: Clr 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.; see text

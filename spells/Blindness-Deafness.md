@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Clr 3"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -16,8 +17,8 @@ saving-throw: "Fortitude negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Blindness-Deafness|Blindness-Deafness (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Brd 2, Clr 3, Sor/Wiz 2
+  - **Level**: Brd 2, Clr 3, Sor/Wiz 2, Wit 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Drd 6"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Drd 6
+  - **Level**: Drd 6, Wit 7
   - **Components**: V, S, M, DF (oils worth 2,500 gp and a possession or piece of the body of the creature to resemble)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

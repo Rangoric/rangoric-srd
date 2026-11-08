@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Drd 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Air, MindAffecting\]*
 
-  - **Level**: Brd 2, Drd 3
+  - **Level**: Brd 2, Drd 3, Wit 3
   - **Components**: V, S, M, M/DF (a flower petal)
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

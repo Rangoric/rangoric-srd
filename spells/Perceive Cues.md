@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Rgr 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Rgr 2
+  - **Level**: Rgr 2, Wit 2
   - **Components**: V, S, M (a drop of water)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

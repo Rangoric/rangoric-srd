@@ -8,6 +8,7 @@ level:
   - "Drd 6"
   - "Knowledge 6"
   - "Travel 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -20,8 +21,8 @@ saving-throw: "None or Will negates (harmless)"
 spell-resistance: "No or Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Find the Path|Find the Path (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 6, Clr 6, Drd 6, Knowledge 6, Travel 6
+  - **Level**: Brd 6, Clr 6, Drd 6, Knowledge 6, Travel 6, Wit 6
   - **Components**: V, S, F
   - **Casting Time**: 3 rounds
   - **Range**: Personal or touch

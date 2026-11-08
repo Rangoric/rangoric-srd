@@ -13,6 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Call Lightning - Curse Water
 
+  - [[rangoric-srd/spells/Cackling Skull|Cackling Skull]]
   - [[rangoric-srd/spells/Cacophonous Call|Cacophonous Call]]
   - [[rangoric-srd/spells/Cacophonous Call, Mass|Cacophonous Call, Mass]]
   - [[rangoric-srd/spells/Calcific Touch|Calcific Touch]]

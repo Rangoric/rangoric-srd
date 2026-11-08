@@ -6,6 +6,7 @@ subschool: "Summoning"
 level:
   - "Drd 3"
   - "Rgr 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Drd 3, Rgr 3
+  - **Level**: Drd 3, Rgr 3, Wit 3
   - **Components**: V, S, M (a snake scale and fang)
   - **Casting Time**: 1 round
   - **Range**: Touch

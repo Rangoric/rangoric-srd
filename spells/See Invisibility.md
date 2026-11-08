@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 3"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 3, Sor/Wiz 2
+  - **Level**: Brd 3, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Personal

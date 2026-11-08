@@ -6,6 +6,7 @@ subschool: "Teleportation"
 level:
   - "Clr 7"
   - "Sor/Wiz 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Refuge|Refuge (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Clr 7, Sor/Wiz 9
+  - **Level**: Clr 7, Sor/Wiz 9, Wit 9
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -7,6 +7,7 @@ level:
   - "Clr 7"
   - "Drd 9"
   - "Healing 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Fortitude negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Regenerate|Regenerate (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 7, Drd 9, Healing 7
+  - **Level**: Clr 7, Drd 9, Healing 7, Wit 7
   - **Components**: V, S, DF
   - **Casting Time**: 3 full rounds
   - **Range**: Touch

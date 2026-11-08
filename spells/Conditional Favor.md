@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Clr 2"
   - "Pal 1"
+  - "Wit 2"
 components:
   - "V"
 casting-time: "1 swift action"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 2, Clr 2, Pal 1
+  - **Level**: Brd 2, Clr 2, Pal 1, Wit 2
   - **Components**: V
   - **Casting Time**: 1 swift action
   - **Range**: SeeText

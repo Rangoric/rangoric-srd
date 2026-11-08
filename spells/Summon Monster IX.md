@@ -12,10 +12,11 @@ level:
   - "Good 9"
   - "Law 9"
   - "Sor/Wiz 9"
+  - "Wit 9"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Monster IX|Summon Monster IX (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text for summon monster I\]*
 
-  - **Level**: Chaos 9, Clr 9, Evil 9, Good 9, Law 9, Sor/Wiz 9
+  - **Level**: Chaos 9, Clr 9, Evil 9, Good 9, Law 9, Sor/Wiz 9, Wit 9
 
 This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster I]], except that you can summon one creature from the 9th-level list, 1d3 creatures of the same kind from the 8th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 

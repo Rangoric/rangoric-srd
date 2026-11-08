@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Drd 7"
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Air, Earth\]*
 
-  - **Level**: Drd 7, Sor/Wiz 7
+  - **Level**: Drd 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

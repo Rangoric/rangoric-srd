@@ -7,6 +7,7 @@ descriptor:
   - "Poison"
 level:
   - "Drd 1"
+  - "Wit 1"
 components:
   - "S"
   - "DF"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Poison\]*
 
-  - **Level**: Drd 1
+  - **Level**: Drd 1, Wit 1
   - **Components**: S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

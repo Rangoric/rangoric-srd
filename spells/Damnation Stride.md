@@ -7,6 +7,7 @@ descriptor:
   - "Fire"
 level:
   - "Sor/Wiz 5"
+  - "Wit 5"
 casting-time: "1 standard action"
 target: "Self and creatures within a 10-foot-radius burst (see below)"
 duration: "1 minutes/level"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation) \[Fire\]*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Wit 5
   - **Components**: 
   - **Casting Time**: 1 standard action
   - **Target**: Self and creatures within a 10-foot-radius burst (see below)

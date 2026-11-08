@@ -6,6 +6,7 @@ subschool: "Glamer"
 level:
   - "Clr 5"
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Clr 5, Sor/Wiz 5
+  - **Level**: Clr 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M (one Tiny or larger living creature)
   - **Casting Time**: 1 round
   - **Range**: Touch

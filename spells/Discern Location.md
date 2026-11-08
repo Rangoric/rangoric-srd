@@ -6,6 +6,7 @@ level:
   - "Clr 8"
   - "Knowledge 8"
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Discern Location|Discern Location (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 8, Knowledge 8, Sor/Wiz 8
+  - **Level**: Clr 8, Knowledge 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Unlimited

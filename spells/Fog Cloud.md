@@ -7,6 +7,7 @@ level:
   - "Drd 2"
   - "Sor/Wiz 2"
   - "Water 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Fog Cloud|Fog Cloud (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Drd 2, Sor/Wiz 2, Water 2
+  - **Level**: Drd 2, Sor/Wiz 2, Water 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft. level)

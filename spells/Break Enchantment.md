@@ -8,6 +8,7 @@ level:
   - "Luck 5"
   - "Pal 4"
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "See text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Break Enchantment|Break Enchantment (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 4, Clr 5, Luck 5, Pal 4, Sor/Wiz 5
+  - **Level**: Brd 4, Clr 5, Luck 5, Pal 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Close (25 ft. + 5 ft./2 levels)

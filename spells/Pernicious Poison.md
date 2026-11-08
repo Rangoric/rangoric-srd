@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Poison\]*
 
-  - **Level**: Drd 2, Sor/Wiz 2
+  - **Level**: Drd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

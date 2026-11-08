@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 2"
   - "Rgr 4"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Disease\]*
 
-  - **Level**: Drd 2, Rgr 4
+  - **Level**: Drd 2, Rgr 4, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal
