@@ -28,7 +28,7 @@ A shaman who selects the waves spirit has a fluid grace that exhibits itself whe
 
 A shaman who chooses the waves spirit as her [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] or [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] gains the following ability.
 
-**Wave Strike (Su)**: As a standard action, the shaman can perform a melee touch attack that drenches a creature and pushes it away. The opponent takes 1d6 points of nonlethal damage + 1 point for every 2 shaman levels she possesses and is pushed 5 feet directly away from the shaman. This movement does not provoke attacks of opportunity. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any melee weapon she wields is treated as if it had the *quenching* weapon special ability.
+**Wave Strike (Su)**: As a standard action, the shaman can perform a melee touch attack that drenches a creature and pushes it away. The opponent takes 1d6 points of nonlethal damage + 1 point for every 2 shaman levels she possesses and is pushed 5 feet directly away from the shaman. This movement does not provoke attacks of opportunity. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any melee weapon she wields is treated as if it had the *[[rangoric-srd/magic-items/weapon-abilities/Quenching|quenching]]* weapon special ability.
 
 ## Greater Spirit Ability
 

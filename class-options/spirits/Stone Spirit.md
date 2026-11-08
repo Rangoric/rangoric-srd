@@ -28,7 +28,7 @@ The skin of a shaman who selects the stone spirit takes on a rough, stony appear
 
 A shaman who chooses the stone spirit as her [[rangoric-srd/classes/Shaman#^shaman-spirit|spirit]] or [[rangoric-srd/classes/Shaman#^shaman-wandering-spirit|wandering spirit]] gains the following ability.
 
-**Touch of Acid (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of acid damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a *corrosive* weapon.
+**Touch of Acid (Su)**: As a standard action, the shaman can make a melee touch attack that deals 1d6 points of acid damage + 1 point for every 2 shaman levels she possesses. A shaman can use this ability a number of times per day equal to 3 + her Charisma modifier. At 11th level, any weapon she wields is treated as a *[[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]]* weapon.
 
 ## Greater Spirit Ability
 
