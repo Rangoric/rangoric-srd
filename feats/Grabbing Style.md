@@ -1,7 +1,7 @@
 ---
 srd-type: "feat"
 section: "Feats"
-prerequisites: "Improved Grapple; base attack bonus +6 or the flurry of blows class feature."
+prerequisites: "Improved Grapple; base attack bonus +6, the brawler's flurry class feature, or the flurry of blows class feature."
 based-on:
   - "[[path srd 3.5/feats/Grabbing Style|Grabbing Style (PF1)]]"
   - "[[path srd 3.5 foundry/feats/Grabbing Style|Grabbing Style (PF1)]]"
@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/feat, fighter-bonus, style]
 
 You are adept at the one-handed grab.
 
-**Prerequisites**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]]; base attack bonus +6 or the [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]] class feature.
+**Prerequisites**: [[rangoric-srd/feats/Improved Grapple|Improved Grapple]]; base attack bonus +6, the brawler’s flurry class feature, or the [[rangoric-srd/classes/Monk#^monk-flurry-of-blows|flurry of blows]] class feature.
 
 **Benefit**: While using this style, you take no penalty on combat maneuver checks to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] a foe with only one hand free, and you keep your Dexterity bonus to AC while pinning an opponent.
 
