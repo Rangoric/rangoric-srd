@@ -10,6 +10,7 @@ level:
   - "Drd 9"
   - "Earth 9"
   - "Fire 9"
+  - "Sha 9"
   - "Water 9"
   - "Wit 9"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text\]*
 
-  - **Level**: Air 9, Drd 9, Earth 9, Fire 9, Water 9, Wit 9
+  - **Level**: Air 9, Drd 9, Earth 9, Fire 9, Sha 9, Water 9, Wit 9
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Medium (100 ft. + 10 ft./level)

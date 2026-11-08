@@ -8,6 +8,7 @@ level:
   - "Clr 6"
   - "Death 6"
   - "Evil 6"
+  - "Sha 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -21,8 +22,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Create Undead|Create Undead (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 6, Death 6, Evil 6, Sor/Wiz 6
+  - **Level**: Clr 6, Death 6, Evil 6, Sha 6, Sor/Wiz 6
   - **Components**: V, S, M
   - **Casting Time**: 1 hour
   - **Range**: Close (25 ft. + 5 ft./2 levels)

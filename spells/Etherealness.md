@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 9"
+  - "Sha 9"
   - "Sor/Wiz 9"
 range: "Touch; see text"
 targets: "You and one other touched creature per three levels"
@@ -11,8 +12,8 @@ duration: "1 min./level (D)"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Etherealness|Etherealness (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 9, Sor/Wiz 9
+  - **Level**: Clr 9, Sha 9, Sor/Wiz 9
   - **Range**: Touch; see text
   - **Targets**: You and one other touched creature per three levels
   - **Duration**: 1 min./level (D)

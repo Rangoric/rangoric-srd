@@ -8,6 +8,7 @@ level:
   - "Fire 3"
   - "Pal 2"
   - "Rgr 1"
+  - "Sha 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -21,8 +22,8 @@ saving-throw: "Fortitude negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Resist Energy|Resist Energy (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 2, Drd 2, Fire 3, Pal 2, Rgr 1, Sor/Wiz 2
+  - **Level**: Clr 2, Drd 2, Fire 3, Pal 2, Rgr 1, Sha 2, Sor/Wiz 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

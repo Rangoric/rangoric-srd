@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
 level:
   - "Fire 1"
+  - "Sha 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Fire 1, Sor/Wiz 1, Wit 1
+  - **Level**: Fire 1, Sha 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 15 ft.

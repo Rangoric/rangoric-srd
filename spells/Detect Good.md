@@ -4,10 +4,11 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 1"
+  - "Sha 1"
 based-on:
   - "[[fantasy srd 3.5/spells/Detect Good|Detect Good (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -16,6 +17,6 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 1
+  - **Level**: Clr 1, Sha 1
 
 This spell functions like [[rangoric-srd/spells/Detect Evil|detect evil]], except that it detects the auras of good creatures, clerics or paladins of good deities, good spells, and good magic items, and you are vulnerable to an overwhelming good aura if you are evil. Healing potions, antidotes, and similar beneficial items are not good.

@@ -7,6 +7,7 @@ level:
   - "Drd 1"
   - "Pal 1"
   - "Rgr 1"
+  - "Sha 1"
   - "Sor/Wiz 1"
   - "Sun 1"
 components:
@@ -20,8 +21,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Endure Elements|Endure Elements (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 1, Drd 1, Pal 1, Rgr 1, Sor/Wiz 1, Sun 1
+  - **Level**: Clr 1, Drd 1, Pal 1, Rgr 1, Sha 1, Sor/Wiz 1, Sun 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

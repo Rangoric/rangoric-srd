@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 4"
   - "Drd 4"
+  - "Sha 4"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Giant Vermin|Giant Vermin (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 4, Drd 4
+  - **Level**: Clr 4, Drd 4, Sha 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Clr 5"
+  - "Sha 6"
   - "Wit 6"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 5, Wit 6
+  - **Level**: Clr 5, Sha 6, Wit 6
   - **Components**: V, S, M, DF
   - **Casting Time**: 1 minute
   - **Range**: Touch

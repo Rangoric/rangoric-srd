@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Sha 5"
   - "Wit 5"
 components:
   - "V"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Wit 5
+  - **Level**: Sha 5, Wit 5
   - **Components**: V, S, M (powdered diamond worth 400 gp)
   - **Saving Throw**: See text
   - **Spell Resistance**: No (object) and yes (see text)

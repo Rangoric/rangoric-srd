@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 3"
   - "Death 3"
+  - "Sha 3"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -20,8 +21,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Animate Dead|Animate Dead (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 3, Death 3, Sor/Wiz 4
+  - **Level**: Clr 3, Death 3, Sha 3, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

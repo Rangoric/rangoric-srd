@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Drd 6"
+  - "Sha 7"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Transport via Plants|Transport via Plants (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 *Conjuration (Teleportation)  
 *
 
-  - **Level**: Drd 6
+  - **Level**: Drd 6, Sha 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Unlimited

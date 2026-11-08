@@ -7,11 +7,12 @@ descriptor:
 level:
   - "Clr 8"
   - "Death 8"
+  - "Sha 8"
   - "Sor/Wiz 8"
 based-on:
   - "[[fantasy srd 3.5/spells/Create Greater Undead|Create Greater Undead (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -20,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 8, Death 8, Sor/Wiz 8
+  - **Level**: Clr 8, Death 8, Sha 8, Sor/Wiz 8
 
 This spell functions like [[rangoric-srd/spells/Create Undead|create undead]], except that you can create more powerful and intelligent sorts of undead: shadows, wraiths, spectres, and devourers. The type or types of undead you can create is based on your caster level, as shown on the table below.
 

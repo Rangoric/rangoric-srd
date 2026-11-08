@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 9"
   - "Drd 9"
+  - "Sha 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Air\]*
 
-  - **Level**: Clr 9, Drd 9, Sor/Wiz 9
+  - **Level**: Clr 9, Drd 9, Sha 9, Sor/Wiz 9
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

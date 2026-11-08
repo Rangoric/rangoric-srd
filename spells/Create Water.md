@@ -9,6 +9,7 @@ level:
   - "Clr 0"
   - "Drd 0"
   - "Pal 1"
+  - "Sha 0"
 components:
   - "V"
   - "S"
@@ -20,8 +21,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Create Water|Create Water (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Water\]*
 
-  - **Level**: Clr 0, Drd 0, Pal 1
+  - **Level**: Clr 0, Drd 0, Pal 1, Sha 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

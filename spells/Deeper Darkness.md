@@ -6,11 +6,12 @@ descriptor:
   - "Darkness"
 level:
   - "Clr 3"
+  - "Sha 3"
 duration: "One day/level (D)"
 based-on:
   - "[[fantasy srd 3.5/spells/Deeper Darkness|Deeper Darkness (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -19,7 +20,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Darkness\]*
 
-  - **Level**: Clr 3
+  - **Level**: Clr 3, Sha 3
   - **Duration**: One day/level (D)
 
 This spell functions like [[rangoric-srd/spells/Darkness|darkness]], except that the object radiates shadowy illumination in a 60-foot radius and the darkness lasts longer.

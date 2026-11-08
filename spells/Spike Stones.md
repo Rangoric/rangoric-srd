@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 4"
   - "Earth 4"
+  - "Sha 4"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Drd 4, Earth 4
+  - **Level**: Drd 4, Earth 4, Sha 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

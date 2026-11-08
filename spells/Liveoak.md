@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 6"
+  - "Sha 7"
 components:
   - "V"
   - "S"
@@ -15,8 +16,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Liveoak|Liveoak (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 6
+  - **Level**: Drd 6, Sha 7
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Touch

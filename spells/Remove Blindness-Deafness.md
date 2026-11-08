@@ -6,6 +6,7 @@ subschool: "Healing"
 level:
   - "Clr 3"
   - "Pal 3"
+  - "Sha 3"
   - "Wit 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 3, Pal 3, Wit 3
+  - **Level**: Clr 3, Pal 3, Sha 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

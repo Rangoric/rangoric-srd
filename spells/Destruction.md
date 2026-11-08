@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 7"
   - "Death 7"
+  - "Sha 8"
   - "Wit 8"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death\]*
 
-  - **Level**: Clr 7, Death 7, Wit 8
+  - **Level**: Clr 7, Death 7, Sha 8, Wit 8
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

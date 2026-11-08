@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Sha 7"
   - "Sor/Wiz 7"
   - "Wit 7"
 components:
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Sor/Wiz 7, Wit 7
+  - **Level**: Sha 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S, M, XP
   - **Casting Time**: 1 standard action
 

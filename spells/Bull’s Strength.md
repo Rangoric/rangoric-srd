@@ -6,6 +6,7 @@ level:
   - "Clr 2"
   - "Drd 2"
   - "Pal 2"
+  - "Sha 2"
   - "Sor/Wiz 2"
   - "Strength 2"
 components:
@@ -20,8 +21,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Bull’s Strength|Bull’s Strength (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 2, Drd 2, Pal 2, Sor/Wiz 2, Strength 2
+  - **Level**: Clr 2, Drd 2, Pal 2, Sha 2, Sor/Wiz 2, Strength 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

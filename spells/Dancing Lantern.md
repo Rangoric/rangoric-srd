@@ -9,6 +9,7 @@ level:
   - "Brd 1"
   - "Clr 1"
   - "Rgr 1"
+  - "Sha 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Fire, Light\]*
 
-  - **Level**: Brd 1, Clr 1, Rgr 1, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Clr 1, Rgr 1, Sha 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, F (a lantern)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

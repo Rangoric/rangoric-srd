@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 2"
   - "Clr 4"
+  - "Sha 4"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Clr 4, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 2, Clr 4, Sha 4, Sor/Wiz 3, Wit 3
   - **Components**: V, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

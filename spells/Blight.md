@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Drd 4"
+  - "Sha 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Drd 4, Sor/Wiz 5, Wit 5
+  - **Level**: Drd 4, Sha 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

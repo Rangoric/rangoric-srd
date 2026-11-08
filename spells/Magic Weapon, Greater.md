@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 4"
   - "Pal 3"
+  - "Sha 4"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "Will negates (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Weapon, Greater|Magic Weapon, Greater (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 4, Pal 3, Sor/Wiz 3
+  - **Level**: Clr 4, Pal 3, Sha 4, Sor/Wiz 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

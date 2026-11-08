@@ -6,6 +6,7 @@ level:
   - "Clr 0"
   - "Drd 0"
   - "Pal 1"
+  - "Sha 0"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "Fortitude negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Virtue|Virtue (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 0, Drd 0, Pal 1
+  - **Level**: Clr 0, Drd 0, Pal 1, Sha 0
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

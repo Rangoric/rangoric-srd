@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Brd 1"
   - "Clr 1"
+  - "Sha 1"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Fear|Remove Fear (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Clr 1
+  - **Level**: Brd 1, Clr 1, Sha 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

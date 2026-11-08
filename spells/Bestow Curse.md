@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 3"
+  - "Sha 3"
   - "Sor/Wiz 4"
   - "Wit 3"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 3, Sor/Wiz 4, Wit 3
+  - **Level**: Clr 3, Sha 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

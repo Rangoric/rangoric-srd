@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 3"
+  - "Sha 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Fear, Mind-Affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 3, Sha 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

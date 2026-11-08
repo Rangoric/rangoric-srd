@@ -7,6 +7,7 @@ descriptor:
   - "Water"
 level:
   - "Drd 9"
+  - "Sha 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Water\]*
 
-  - **Level**: Drd 9, Sor/Wiz 9
+  - **Level**: Drd 9, Sha 9, Sor/Wiz 9
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

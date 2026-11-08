@@ -6,6 +6,7 @@ descriptor:
   - "Water"
 level:
   - "Drd 7"
+  - "Sha 7"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Water\]*
 
-  - **Level**: Drd 7, Sor/Wiz 7
+  - **Level**: Drd 7, Sha 7, Sor/Wiz 7
   - **Components**: V, S, M/DF (a stirring spoon)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

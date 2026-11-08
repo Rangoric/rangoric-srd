@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Sha 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 4, Wit 4
+  - **Level**: Sha 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M
   - **Duration**: 1 min./level
   - **Spell Resistance**: No

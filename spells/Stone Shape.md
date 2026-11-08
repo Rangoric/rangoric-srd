@@ -8,6 +8,7 @@ level:
   - "Clr 3"
   - "Drd 3"
   - "Earth 3"
+  - "Sha 3"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -21,8 +22,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Stone Shape|Stone Shape (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Clr 3, Drd 3, Earth 3, Sor/Wiz 4
+  - **Level**: Clr 3, Drd 3, Earth 3, Sha 3, Sor/Wiz 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

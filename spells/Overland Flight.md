@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Sha 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 5, Wit 5
+  - **Level**: Sha 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Range**: Personal
   - **Target**: You

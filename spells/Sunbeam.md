@@ -6,6 +6,7 @@ descriptor:
   - "Light"
 level:
   - "Drd 7"
+  - "Sha 7"
   - "Sun 7"
 components:
   - "V"
@@ -19,8 +20,8 @@ saving-throw: "Reflex negates and Reflex half; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Sunbeam|Sunbeam (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Drd 7, Sun 7
+  - **Level**: Drd 7, Sha 7, Sun 7
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

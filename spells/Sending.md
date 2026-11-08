@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Clr 4"
+  - "Sha 4"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -17,8 +18,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Sending|Sending (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 4, Sor/Wiz 5
+  - **Level**: Clr 4, Sha 4, Sor/Wiz 5
   - **Components**: V, S, M/DF
   - **Casting Time**: 10 minutes
   - **Range**: See text

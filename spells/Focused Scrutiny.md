@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Brd 2"
+  - "Sha 2"
 components:
   - "V"
   - "S"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2
+  - **Level**: Brd 2, Sha 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

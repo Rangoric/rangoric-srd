@@ -7,6 +7,7 @@ level:
   - "Clr 8"
   - "Drd 9"
   - "Healing 8"
+  - "Sha 8"
   - "Wit 9"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Critical Wounds, Mass|Cure Critical Wounds, Mass (3.5)]]"
@@ -20,6 +21,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 8, Drd 9, Healing 8, Wit 9
+  - **Level**: Clr 8, Drd 9, Healing 8, Sha 8, Wit 9
 
 This spell functions like [[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]], except that it cures 4d8 points of damage +1 point per caster level (maximum +40).

@@ -6,6 +6,7 @@ level:
   - "Air 7"
   - "Clr 7"
   - "Drd 7"
+  - "Sha 7"
   - "Sor/Wiz 7"
   - "Wit 7"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Air 7, Clr 7, Drd 7, Sor/Wiz 7, Wit 7
+  - **Level**: Air 7, Clr 7, Drd 7, Sha 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 10 minutes; see text
   - **Range**: 2 miles

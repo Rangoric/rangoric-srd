@@ -7,6 +7,7 @@ descriptor:
   - "Poison"
 level:
   - "Drd 8"
+  - "Sha 8"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Poison\]*
 
-  - **Level**: Drd 8
+  - **Level**: Drd 8, Sha 8
   - **Components**: V, S, M (a pinch of dried red algae)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100ft. +10ft./level)

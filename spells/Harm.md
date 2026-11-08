@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Clr 6"
   - "Destruction 6"
+  - "Sha 7"
   - "Wit 7"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 6, Destruction 6, Wit 7
+  - **Level**: Clr 6, Destruction 6, Sha 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -7,6 +7,7 @@ descriptor:
   - "Sonic"
 level:
   - "Death 9"
+  - "Sha 9"
   - "Sor/Wiz 9"
   - "Wit 9"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Sonic\]*
 
-  - **Level**: Death 9, Sor/Wiz 9, Wit 9
+  - **Level**: Death 9, Sha 9, Sor/Wiz 9, Wit 9
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)
