@@ -1,0 +1,23 @@
+---
+srd-type: "overview"
+section: "Class Options"
+book: "Ultimate Combat"
+based-on:
+  - "[[path srd 3.5/classes/Ninja#Ninja Tricks|Ninja (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-08
+tags: [rangoric, rangoric/overview]
+---
+
+# Ninja Tricks
+
+The [[rangoric-srd/classes/Ninja|ninja]]’s tricks and master tricks, from Pathfinder’s *Ultimate Combat*. The class note says how they’re gained. Each note has `master`, `sneak-attack` (adds to sneak attack; one such trick per attack) and `level` (minimum ninja level). Tricks marked † share their note with the [[rangoric-srd/class-options/rogue-talents/Rogue Talents|rogue talent]] of the same name, since they say the same. A rogue can take a ninja trick with the [[rangoric-srd/class-options/rogue-talents/Ninja Trick (Rogue Talent)|ninja trick]] rogue talent.
+
+## Ninja tricks
+
+[[rangoric-srd/class-options/ninja-tricks/Acrobatic Master (Ninja Trick)|Acrobatic Master]], [[rangoric-srd/class-options/rogue-talents/Bleeding Attack (Rogue Talent)|Bleeding Attack]] †, [[rangoric-srd/class-options/ninja-tricks/Choking Bomb (Ninja Trick)|Choking Bomb]], [[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|Combat Trick]] †, [[rangoric-srd/class-options/ninja-tricks/Darkvision (Ninja Trick)|Darkvision]], [[rangoric-srd/class-options/ninja-tricks/Deadly Range (Ninja Trick)|Deadly Range]], [[rangoric-srd/class-options/ninja-tricks/Deflect Arrows (Ninja Trick)|Deflect Arrows]], [[rangoric-srd/class-options/rogue-talents/Fast Stealth (Rogue Talent)|Fast Stealth]] †, [[rangoric-srd/class-options/ninja-tricks/Feather Fall (Ninja Trick)|Feather Fall]], [[rangoric-srd/class-options/ninja-tricks/Flurry of Stars (Ninja Trick)|Flurry of Stars]], [[rangoric-srd/class-options/ninja-tricks/Forgotten Trick (Ninja Trick)|Forgotten Trick]], [[rangoric-srd/class-options/ninja-tricks/Hidden Weapons (Ninja Trick)|Hidden Weapons]], [[rangoric-srd/class-options/ninja-tricks/High Jumper (Ninja Trick)|High Jumper]], [[rangoric-srd/class-options/ninja-tricks/Ki Block (Ninja Trick)|Ki Block]], [[rangoric-srd/class-options/ninja-tricks/Ki Charge (Ninja Trick)|Ki Charge]], [[rangoric-srd/class-options/ninja-tricks/Poison Bomb (Ninja Trick)|Poison Bomb]], [[rangoric-srd/class-options/ninja-tricks/Pressure Points (Ninja Trick)|Pressure Points]], [[rangoric-srd/class-options/ninja-tricks/Rogue Talent (Ninja Trick)|Rogue Talent]], [[rangoric-srd/class-options/ninja-tricks/Shadow Clone (Ninja Trick)|Shadow Clone]], [[rangoric-srd/class-options/ninja-tricks/Slow Metabolism (Ninja Trick)|Slow Metabolism]], [[rangoric-srd/class-options/rogue-talents/Slow Reactions (Rogue Talent)|Slow Reactions]] †, [[rangoric-srd/class-options/ninja-tricks/Smoke Bomb (Ninja Trick)|Smoke Bomb]], [[rangoric-srd/class-options/ninja-tricks/Snatch Arrows (Ninja Trick)|Snatch Arrows]], [[rangoric-srd/class-options/ninja-tricks/Style Master (Ninja Trick)|Style Master]], [[rangoric-srd/class-options/ninja-tricks/Sudden Disguise (Ninja Trick)|Sudden Disguise]], [[rangoric-srd/class-options/ninja-tricks/Unarmed Combat Training (Ninja Trick)|Unarmed Combat Training]], [[rangoric-srd/class-options/ninja-tricks/Undetected Sabotage (Ninja Trick)|Undetected Sabotage]], [[rangoric-srd/class-options/ninja-tricks/Vanishing Trick (Ninja Trick)|Vanishing Trick]], [[rangoric-srd/class-options/ninja-tricks/Ventriloquism (Ninja Trick)|Ventriloquism]], [[rangoric-srd/class-options/ninja-tricks/Wall Climber (Ninja Trick)|Wall Climber]], [[rangoric-srd/class-options/rogue-talents/Weapon Training (Rogue Talent)|Weapon Training]] †
+
+## Master tricks
+
+[[rangoric-srd/class-options/ninja-tricks/Advanced Talents (Ninja Trick)|Advanced Talents]], [[rangoric-srd/class-options/ninja-tricks/Assassinate (Ninja Trick)|Assassinate]], [[rangoric-srd/class-options/ninja-tricks/Blinding Bomb (Ninja Trick)|Blinding Bomb]], [[rangoric-srd/class-options/ninja-tricks/Deadly Shuriken (Ninja Trick)|Deadly Shuriken]], [[rangoric-srd/class-options/ninja-tricks/Evasion (Ninja Trick)|Evasion]], [[rangoric-srd/class-options/rogue-talents/Feat (Rogue Talent)|Feat]] †, [[rangoric-srd/class-options/ninja-tricks/Ghost Step (Ninja Trick)|Ghost Step]], [[rangoric-srd/class-options/ninja-tricks/Invisible Blade (Ninja Trick)|Invisible Blade]], [[rangoric-srd/class-options/ninja-tricks/Master Disguise (Ninja Trick)|Master Disguise]], [[rangoric-srd/class-options/ninja-tricks/See the Unseen (Ninja Trick)|See the Unseen]], [[rangoric-srd/class-options/ninja-tricks/Shadow Split (Ninja Trick)|Shadow Split]], [[rangoric-srd/class-options/ninja-tricks/Unarmed Combat Mastery (Ninja Trick)|Unarmed Combat Mastery]], [[rangoric-srd/class-options/ninja-tricks/Unbound Steps (Ninja Trick)|Unbound Steps]]
