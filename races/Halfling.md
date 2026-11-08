@@ -1,11 +1,17 @@
+---
+srd-type: "race"
+section: "Races"
+based-on:
+  - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
+status: draft
+change: modified
+pi-review: 2026-11-08
+tags: [rangoric, rangoric/race]
+---
+
 ## Halflings
 
-Size: Small
-
-- +1 Armor Class
-- +1 Attack Rolls
-- +4 Stealth
-
+Size: [[rangoric-srd/races/PC Races#Small Characters|Small]]
 Base Speed: 20ft
 Perks:
 
@@ -21,6 +27,8 @@ Languages:
 
 - Common
 - Halfling
+
+Bonus Languages:
 
 - Dwarven
 - Elven

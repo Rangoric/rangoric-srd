@@ -44,7 +44,7 @@ Noisy surfaces, such as bogs or undergrowth, are tough to move silently across. 
 
 Higher-level [[rangoric-srd/classes/Ranger#^ranger-camouflage|rangers]] can use Stealth in natural terrain without cover or concealment, and later even while observed.
 
-Some races are better at staying hidden; see the [[rangoric-srd/rules/PC Races|race]] for its racial bonuses.
+Some races are better at staying hidden; see the [[rangoric-srd/races/PC Races|race]] for its racial bonuses.
 
 The masters of some [[rangoric-srd/classes/Wizard#Familiars|familiars]] gain a bonus on Stealth checks.
 

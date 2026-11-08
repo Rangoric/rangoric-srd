@@ -132,7 +132,7 @@ Beneath the waves, dwarves remain the masters of stone. They build massive, elab
 
 ##### Racial Traits
 
-Aquatic dwarves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all the [[rangoric-srd/rules/PC Races#Dwarves|dwarf racial traits]], as well as those noted below.
+Aquatic dwarves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all the [[rangoric-srd/races/Dwarf|dwarf racial traits]], as well as those noted below.
 
   - \+2 Strength, +2 Constitution, -4 Dexterity, -2 Charisma. Aquatic dwarves are tough enough to survive the brutal environment of the sea floor, but rely on strength and heavy armor rather than agility.
   - An aquatic dwarf has a swim speed of 20 feet.
@@ -143,7 +143,7 @@ The aquatic landscape is dotted with forests of kelp and roofed with sporadic bl
 
 ##### Racial Traits
 
-Aquatic elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above, [[rangoric-srd/rules/PC Races#Elves|elf racial traits]], and [[rangoric-srd/monsters/Elf#Aquatic Elf|aquatic elf traits]], with the following exception.
+Aquatic elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above, [[rangoric-srd/races/Elf|elf racial traits]], and [[rangoric-srd/monsters/Elf#Aquatic Elf|aquatic elf traits]], with the following exception.
 
   - No gills.
 
@@ -153,7 +153,7 @@ Aquatic gnomes travel the world beneath the waves in elaborate wood and shell ch
 
 ##### Racial Traits
 
-Aquatic gnomes have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/rules/PC Races#Gnomes|gnome racial traits]], with additions and exceptions as noted below.
+Aquatic gnomes have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
 
   - An aquatic gnome has a swim speed of 20 feet.
   - Well-Traveled: Aquatic gnomes receive a +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] and [[rangoric-srd/skills/Persuasion|Persuasion]] checks. They always know when their welcome is wearing out.
@@ -181,7 +181,7 @@ Aquatic goblins have the general [[#General Aquatic Racial Traits|aquatic racial
 
 ##### Racial Traits
 
-Aquatic half-elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/rules/PC Races#Half-Elves|half-elf racial traits]], with additions and exceptions as noted below.
+Aquatic half-elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
 
   - An aquatic half-elf has a swim speed of 40 feet.
   - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
@@ -193,7 +193,7 @@ In their remote and wild tribal homes, [[#Aquatic Orcs|aquatic orcs]] occasional
 
 ##### Racial Traits
 
-Aquatic half orcs have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/rules/PC Races#Half-Orcs|half-orc racial traits]], in addition to those noted below.
+Aquatic half orcs have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], in addition to those noted below.
 
   - An aquatic half-orc has a swim speed of 30 feet.
   - Emissaries: As emissaries for their tribes, aquatic half-orcs receive a +2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks. They aren't the best diplomats under the waves, but they're a far sight better than their orc cousins.
@@ -204,7 +204,7 @@ Aquatic halflings are much more settled than their surface-dwelling cousins. The
 
 ##### Racial Traits
 
-Aquatic halflings have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/rules/PC Races#Halflings|halfling racial traits]], in addition to those noted below.
+Aquatic halflings have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], in addition to those noted below.
 
   - An aquatic halfling has a swim speed of 20 feet.
   - Low-Light Vision: An aquatic halfling can see four times as far as a nonaquatic human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
@@ -215,7 +215,7 @@ Aquatic humans have a place beneath the surface of the sea, perhaps as descendan
 
 ##### Racial Traits
 
-Aquatic humans have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/rules/PC Races#Humans|human racial traits]], in addition to those noted below.
+Aquatic humans have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Human|human racial traits]], in addition to those noted below.
 
   - An aquatic human has a swim speed of 30 feet.
   - Low-Light Vision: An aquatic human can see four times as far as a nonaquatic human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
@@ -298,7 +298,7 @@ In the icy wastes, dwarves are the masters of both ice and stone. They build mas
 
 ##### Racial Traits
 
-Arctic dwarves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/rules/PC Races#Dwarves|dwarf racial traits]], with additions and exceptions as noted below.
+Arctic dwarves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
 
   - \+2 Strength, +2 Constitution, -4 Dexterity, -2 Charisma. Arctic dwarves are tough enough to survive the brutal environment of the arctic, but rely on strength and heavy armor rather than agility.
   - Icecunning: Arctic dwarves can apply their stonecunning benefits to structures and natural features made of ice, as well as those made of stone.
@@ -311,7 +311,7 @@ The arctic landscape is dotted here and there with permanent fog banks caused by
 
 ##### Racial Traits
 
-Arctic elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/rules/PC Races#Elves|elf racial traits]], with additions and exceptions as noted below.
+Arctic elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
 
   - \-2 Strength, +2 Dexterity: Arctic elves look down on physical exertion, preferring quick action when necessary.
   - \+2 racial bonus on any one [[rangoric-srd/skills/Craft|Craft]] skill (chosen by the character at the time of creation).
@@ -325,7 +325,7 @@ Arctic gnomes travel the ice and snow on cleverly constructed sleds pulled by im
 
 ##### Racial Traits
 
-Arctic gnomes have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/rules/PC Races#Gnomes|gnome racial traits]], with additions and exceptions as noted below.
+Arctic gnomes have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
 
   - \+2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Arctic gnomes always seem to know instinctively when their welcome is wearing out.
   - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
@@ -352,7 +352,7 @@ Arctic goblins have the general [[#General Arctic Racial Trait|arctic racial tra
 
 ##### Racial Traits
 
-Arctic half-elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/rules/PC Races#Half-Elves|half-elf racial traits]], with additions and exceptions as noted below.
+Arctic half-elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
 
   - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: Their transient nature prevents arctic half-elves from being as well trusted as their normal counterparts.
   - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Arctic half-elves spend a great deal of time traveling between elf and human settlements, and are accustomed to surviving in the wilderness.
@@ -363,7 +363,7 @@ Many tribes of [[#Arctic Orcs|arctic orcs]] eke out a living on the warm slopes 
 
 ##### Racial Traits
 
-Arctic half-orcs have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/rules/PC Races#Half-Orcs|half-orc racial traits]], with additions and exceptions as noted below.
+Arctic half-orcs have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
 
   - Low-Light Vision: An arctic half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
   - No darkvision.
@@ -375,7 +375,7 @@ Arctic Halflings are hunters and fishermen, stalking walrus and seal and putting
 
 ##### Racial Traits
 
-Arctic Halflings have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/rules/PC Races#Halflings|halfling racial traits]], with additions and exceptions as noted below.
+Arctic Halflings have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
 
   - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Arctic halflings rarely swim by choice, but are reasonably good at saving themselves from drowning.
   - No racial bonus on attack rolls with slings. Arctic Halflings do not particularly favor slings for hunting.
@@ -462,7 +462,7 @@ Because of their skill with stone and engineering, dwarves are acknowledged mast
 
 ###### Racial Traits
 
-Desert dwarves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/rules/PC Races#Dwarves|dwarf racial traits]], with additions and exceptions as noted below.
+Desert dwarves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
 
   - \-2 Dexterity, +2 Constitution: Desert dwarves are tough enough to survive the brutal environment of the desert, but they rely more on cunning and fast talk than agility.
   - No stonecunning.
@@ -477,7 +477,7 @@ In the desert, elves follow nomadic lifestyles. They herd horses, cattle, and go
 
 ##### Racial Traits
 
-Desert elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/rules/PC Races#Elves|elf racial traits]], with additions and exceptions as noted below.
+Desert elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
 
   - \-2 Strength, +2 Dexterity: Desert elves are physically weaker than their normal cousins, but are also hardier, toughened by the harsh reality of desert life.
   - Weapon Proficiency: Desert elves receive the Martial Weapon Proficiency feats for the scimitar, rapier, and shortbow (including composite shortbow) as bonus feats. Desert elves prefer the scimitar to the longsword and the shortbow to the longbow, because they can use shortbows while mounted.
@@ -490,7 +490,7 @@ Desert dwarves may dig and maintain wells, but desert gnomes pay for them. Deser
 
 ##### Racial Traits
 
-Desert gnomes have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/rules/PC Races#Gnomes|gnome racial traits]], with additions and exceptions as noted below.
+Desert gnomes have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
 
   - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Desert gnomes are skilled at haggling and negotiating.
   - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks or [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
@@ -515,7 +515,7 @@ Desert goblins have the general [[#General Desert Racial Trait|desert racial tra
 
 ##### Racial Traits
 
-Desert half-elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/rules/PC Races#Half-Elves|half-elf racial traits]], with additions and exceptions as noted below.
+Desert half-elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
 
   - \+2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: A desert half-elfs survival often relies on his ability to gauge the social situation.
   - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
@@ -526,7 +526,7 @@ Many tribes of [[#Desert Orcs|orcs]] live in isolated desert canyons or the ruin
 
 ##### Racial Traits
 
-Desert half-orcs have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/rules/PC Races#Half-Orcs|half-orc racial traits]], with additions and exceptions as noted below.
+Desert half-orcs have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
 
   - \+2 Constitution, -2 Intelligence: The desert half-orc is lean and hardy rather than muscular, but has adapted to be more socially adept than a typical half-orc.
   - Low-Light Vision: A desert half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
@@ -539,7 +539,7 @@ Like gnomes, halflings are most likely to be active during the day. Most other r
 
 ##### Racial Traits
 
-Desert halflings have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/rules/PC Races#Halflings|halfling racial traits]], with additions and exceptions as noted below.
+Desert halflings have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
 
   - \+2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks: Desert halflings are stealthy and nimble-fingered.
   - No racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks.
@@ -620,7 +620,7 @@ Because of their height, dwarves can duck under vegetation that impedes humans â
 
 ##### Racial Traits
 
-Jungle dwarves have all [[rangoric-srd/rules/PC Races#Dwarves|dwarf racial traits]], with additions and exceptions as noted below.
+Jungle dwarves have all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
 
   - Low-Light Vision: A jungle dwarf can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
   - No darkvision.
@@ -636,7 +636,7 @@ Jungle elves are somewhat more primal than their baseline counterparts. In many 
 
 ##### Racial Traits
 
-Jungle elves have all [[rangoric-srd/rules/PC Races#Elves|elf racial traits]], with additions and exceptions as noted below.
+Jungle elves have all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
 
   - Weapon Proficiency: Jungle elves receive the Martial Weapon Proficiency feats for the handaxe, rapier, shortsword, and shortbow (including composite shortbow) as bonus feats. Proficiency with a rapier is a vestige of past glories and an honored tradition among jungle elves. The other weapons are useful tools for survival in their environment.
   - \+2 racial bonus on [[rangoric-srd/skills/Society|Society]] checks: Jungle elves pride themselves on being the keepers of much lore that has been forgotten to others.
@@ -648,7 +648,7 @@ Jungle gnomes live in and along the mighty rivers that wind through the jungles.
 
 ##### Racial Traits
 
-Jungle gnomes have all [[rangoric-srd/rules/PC Races#Gnomes|gnome racial traits]], with additions and exceptions as noted below.
+Jungle gnomes have all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
 
   - No racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]].
   - No dodge bonus to Armor Class against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giants]].
@@ -680,7 +680,7 @@ Some [[#Jungle Elves|elf]] communities believe that introducing human blood into
 
 ##### Racial Traits
 
-Jungle half-elves have all [[rangoric-srd/rules/PC Races#Half-Elves|half-elf racial traits]], with additions and exceptions as noted below.
+Jungle half-elves have all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
 
   - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Jungle half-elves must maintain constant awareness of their place within society.
   - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
@@ -691,7 +691,7 @@ The jungle is a wonderful home for [[#Jungle Orcs|orcs]]. It provides them with 
 
 ##### Racial Traits
 
-Jungle half-orcs have all [[rangoric-srd/rules/PC Races#Half-Orcs|half-orc racial traits]], with additions and exceptions as noted below.
+Jungle half-orcs have all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
 
   - Low-Light Vision: A jungle half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
   - No darkvision.
@@ -703,7 +703,7 @@ Jungle Halflings live a much more settled life than their normal counterparts do
 
 ##### Racial Traits
 
-Jungle Halflings have all [[rangoric-srd/rules/PC Races#Halflings|halfling racial traits]], with additions and exceptions as noted below.
+Jungle Halflings have all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
 
   - Weapon Proficiency: Jungle Halflings receive the Martial Weapon Proficiency feats for the throwing axe, handaxe, and shortbow (including composite shortbow) as bonus feats. For jungle halflings, the axe is both a practical tool and a ceremonial item. They grow up using the other weapons for hunting and fishing.
   - [[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] Use: jungle halflings use poison extensively when hunting, and as a result never poison themselves when applying poison to a weapon or when using a poisoned weapon in combat. Jungle halflings make extensive use of poisons harvested from vermin, particularly those that damage Dexterity scores.

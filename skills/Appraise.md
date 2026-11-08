@@ -24,7 +24,7 @@ A [[rangoric-srd/equipment/Equipment Goods and Services|magnifying glass]] helps
 
 **Try Again**: No. You cannot try again on the same object, regardless of success.
 
-**Special**: Dwarves are better at appraising items made of stone or metal; see the [[rangoric-srd/rules/PC Races#Dwarves|dwarf]].
+**Special**: Dwarves are better at appraising items made of stone or metal; see the [[rangoric-srd/races/Dwarf|dwarf]].
 
 The master of a [[rangoric-srd/classes/Wizard#Familiars|raven familiar]] gains a bonus on Appraise checks.
 

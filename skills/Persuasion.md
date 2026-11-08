@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/skill, core]
 
 Persuasion covers changing people's attitudes and finding things out by talking to them. It joins Diplomacy and Gather Information.
 
-**Special**: Half-elves are better at Persuasion; see the [[rangoric-srd/rules/PC Races#Half-Elves|half-elf]].
+**Special**: Half-elves are better at Persuasion; see the [[rangoric-srd/races/Half-Elf|half-elf]].
 
 ## Influencing Attitudes
 
