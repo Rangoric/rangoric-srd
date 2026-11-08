@@ -8,7 +8,7 @@ based-on:
   - "[[fantasy srd 3.5/prestige-classes/Blackguard|Blackguard (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-08
 tags: [rangoric, rangoric/class]
 ---
 
@@ -105,7 +105,7 @@ Blackguards have access to a special spell, corrupt weapon, which is the opposin
 
 ###### Fallen Paladins
 
-Blackguards who have levels in the paladin class (that is to say, are now ex-paladins) gain extra abilities the more levels of paladin they have.
+Blackguards who have levels in the paladin class (that is to say, are now ex-paladins) gain extra abilities the more levels of paladin they have. A fallen paladin can instead trade his paladin levels for levels in the [[rangoric-srd/classes/Antipaladin#Fallen Paladins|antipaladin]] base class.
 
 A fallen paladin who becomes a blackguard gains all of the following abilities that apply, according to the number of paladin levels the character has.
 
