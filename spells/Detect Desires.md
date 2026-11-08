@@ -5,6 +5,7 @@ school: "Divination"
 descriptor:
   - "MindAffecting"
 level:
+  - "Apl 2"
   - "Brd 2"
   - "Clr 3"
   - "Pal 3"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[MindAffecting\]*
 
-  - **Level**: Brd 2, Clr 3, Pal 3, Sor/Wiz 3, Wit 3
+  - **Level**: Apl 2, Brd 2, Clr 3, Pal 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, F, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Apl 2"
   - "Drd 3"
   - "Sor/Wiz 3"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Drd 3, Sor/Wiz 3
+  - **Level**: Apl 2, Drd 3, Sor/Wiz 3
   - **Components**: V, S, M (a dried scab from a diseased creature)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Sonic"
 level:
+  - "Apl 4"
   - "Pal 4"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Pal 4
+  - **Level**: Apl 4, Pal 4
   - **Components**: V
   - **Casting Time**: 1 swift action
   - **Range**: Personal

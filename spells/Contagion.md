@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Evil"
 level:
+  - "Apl 3"
   - "Clr 3"
   - "Destruction 3"
   - "Drd 3"
@@ -20,8 +21,8 @@ saving-throw: "Fortitude negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Contagion|Contagion (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 3, Destruction 3, Drd 3, Sor/Wiz 4
+  - **Level**: Apl 3, Clr 3, Destruction 3, Drd 3, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

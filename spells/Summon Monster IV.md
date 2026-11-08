@@ -6,6 +6,7 @@ subschool: "Summoning"
 descriptor:
   - "see text for summon monster I"
 level:
+  - "Apl 4"
   - "Brd 4"
   - "Clr 4"
   - "Sor/Wiz 4"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text for summon monster I\]*
 
-  - **Level**: Brd 4, Clr 4, Sor/Wiz 4, Wit 4
+  - **Level**: Apl 4, Brd 4, Clr 4, Sor/Wiz 4, Wit 4
   - **Effect**: One or more summoned creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster I]], except that you can summon one creature from the 4th-level list, 1d3 creatures of the same kind from the 3rd-level list, or 1d4+1 creatures of the same kind from a lower-level list.

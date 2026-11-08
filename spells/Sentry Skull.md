@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Evil"
 level:
+  - "Apl 1"
   - "Clr 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 2, Sor/Wiz 2, Wit 2
+  - **Level**: Apl 1, Clr 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M (an onyx gem worth at least 10 gp)
   - **Casting Time**: 1 hour
   - **Range**: Touch

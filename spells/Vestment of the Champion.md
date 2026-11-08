@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Apl 2"
   - "Pal 2"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Pal 2
+  - **Level**: Apl 2, Pal 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

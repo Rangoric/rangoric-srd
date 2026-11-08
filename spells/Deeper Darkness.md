@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Darkness"
 level:
+  - "Apl 3"
   - "Clr 3"
   - "Sha 3"
 duration: "One day/level (D)"
@@ -20,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Darkness\]*
 
-  - **Level**: Clr 3, Sha 3
+  - **Level**: Apl 3, Clr 3, Sha 3
   - **Duration**: One day/level (D)
 
 This spell functions like [[rangoric-srd/spells/Darkness|darkness]], except that the object radiates shadowy illumination in a 60-foot radius and the darkness lasts longer.

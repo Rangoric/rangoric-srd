@@ -7,6 +7,7 @@ descriptor:
   - "Fear"
   - "Mind-Affecting"
 level:
+  - "Apl 1"
   - "Clr 1"
   - "Sha 1"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Fear, Mind-Affecting\]*
 
-  - **Level**: Clr 1, Sha 1
+  - **Level**: Apl 1, Clr 1, Sha 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 50 ft.

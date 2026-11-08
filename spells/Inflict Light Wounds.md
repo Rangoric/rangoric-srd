@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Apl 1"
   - "Clr 1"
   - "Destruction 1"
   - "Sha 1"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 1, Destruction 1, Sha 1, Wit 1
+  - **Level**: Apl 1, Clr 1, Destruction 1, Sha 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Abjuration"
 descriptor:
   - "Evil"
 level:
+  - "Apl 4"
   - "Clr 5"
   - "Evil 5"
   - "Sha 5"
@@ -20,6 +21,6 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Evil\]*
 
-  - **Level**: Clr 5, Evil 5, Sha 5
+  - **Level**: Apl 4, Clr 5, Evil 5, Sha 5
 
 This spell functions like [[rangoric-srd/spells/Dispel Evil|dispel evil]], except that you are surrounded by dark, wavering, unholy energy, and the spell affects good creatures and spells rather than evil ones.

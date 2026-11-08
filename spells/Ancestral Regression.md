@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 subschool: "Polymorph"
 level:
+  - "Apl 3"
   - "Clr 2"
   - "Sor/Wiz 3"
   - "Wit 2"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Clr 2, Sor/Wiz 3, Wit 2
+  - **Level**: Apl 3, Clr 2, Sor/Wiz 3, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

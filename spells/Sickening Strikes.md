@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Disease"
 level:
+  - "Apl 2"
   - "Drd 2"
   - "Rgr 4"
   - "Wit 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Disease\]*
 
-  - **Level**: Drd 2, Rgr 4, Wit 2
+  - **Level**: Apl 2, Drd 2, Rgr 4, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

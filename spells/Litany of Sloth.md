@@ -7,6 +7,7 @@ descriptor:
   - "Language-dependent"
   - "Mind-affecting"
 level:
+  - "Apl 1"
   - "Pal 1"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Pal 1
+  - **Level**: Apl 1, Pal 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

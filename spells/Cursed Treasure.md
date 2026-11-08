@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Curse"
 level:
+  - "Apl 3"
   - "Clr 3"
   - "Sor/Wiz 4"
   - "Wit 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Clr 3, Sor/Wiz 4, Wit 3
+  - **Level**: Apl 3, Clr 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S, M (a platinum piece)
   - **Casting Time**: 1 minute
   - **Range**: Touch

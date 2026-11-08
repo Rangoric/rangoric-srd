@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Apl 3"
   - "Rgr 4"
   - "Sor/Wiz 3"
   - "Trickery 3"
@@ -18,8 +19,8 @@ saving-throw: "Will negates (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Nondetection|Nondetection (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Rgr 4, Sor/Wiz 3, Trickery 3
+  - **Level**: Apl 3, Rgr 4, Sor/Wiz 3, Trickery 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

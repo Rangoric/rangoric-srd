@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Apl 3"
   - "Pal 3"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Pal 3
+  - **Level**: Apl 3, Pal 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 swift action
   - **Range**: Personal

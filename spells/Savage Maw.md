@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Apl 1"
   - "Clr 2"
   - "Drd 2"
   - "Rgr 1"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 2, Drd 2, Rgr 1
+  - **Level**: Apl 1, Clr 2, Drd 2, Rgr 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

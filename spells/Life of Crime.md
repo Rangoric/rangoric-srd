@@ -7,6 +7,7 @@ descriptor:
   - "Curse"
   - "MindAffecting"
 level:
+  - "Apl 4"
   - "Brd 6"
   - "Sor/Wiz 8"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Curse, MindAffecting\]*
 
-  - **Level**: Brd 6, Sor/Wiz 8
+  - **Level**: Apl 4, Brd 6, Sor/Wiz 8
   - **Components**: V, S, M (a black mask)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -17,6 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 [[rangoric-srd/monsters/Aboleth|Aboleth]]  
 [[rangoric-srd/monsters/Achaierai|Achaierai]]  
+[[rangoric-srd/monsters/Advanced Creature|Advanced Creature]]  
 [[rangoric-srd/monsters/Allip|Allip]]  
 [[rangoric-srd/monsters/angel/Angel|Angel]]  
 —[[rangoric-srd/monsters/angel/Angel, Astral Deva|Astral Deva]]  

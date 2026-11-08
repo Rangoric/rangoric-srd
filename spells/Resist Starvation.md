@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Apl 1"
   - "Clr 1"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 1
+  - **Level**: Apl 1, Clr 1
   - **Components**: V, S, M (crumb of food)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

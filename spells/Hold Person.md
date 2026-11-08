@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-Affecting"
 level:
+  - "Apl 2"
   - "Brd 2"
   - "Clr 2"
   - "Sha 2"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Clr 2, Sha 2, Sor/Wiz 3, Wit 2
+  - **Level**: Apl 2, Brd 2, Clr 2, Sha 2, Sor/Wiz 3, Wit 2
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

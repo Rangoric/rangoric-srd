@@ -7,6 +7,7 @@ descriptor:
   - "LanguageDependent"
   - "Shadow"
 level:
+  - "Apl 1"
   - "Brd 2"
   - "Clr 2"
   - "Sor/Wiz 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow) \[LanguageDependent, Shadow\]*
 
-  - **Level**: Brd 2, Clr 2, Sor/Wiz 2, Wit 2
+  - **Level**: Apl 1, Brd 2, Clr 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, F, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

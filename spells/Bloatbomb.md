@@ -6,6 +6,7 @@ descriptor:
   - "Acid"
   - "Death"
 level:
+  - "Apl 4"
   - "Clr 4"
   - "Sor/Wiz 4"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Acid, Death\]*
 
-  - **Level**: Clr 4, Sor/Wiz 4
+  - **Level**: Apl 4, Clr 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch
