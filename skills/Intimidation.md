@@ -31,6 +31,8 @@ If you fail the check by 5 or more, the target provides you with incorrect or us
 
 **Special**: You gain a +4 bonus on your Intimidation check for every size category that you are larger than your target. Conversely, you take a –4 penalty on your Intimidation check for every size category that you are smaller than your target.
 
+Half-orcs are better at Intimidation; see the [[rangoric-srd/races/Half-Orc|half-orc]].
+
 A character immune to fear can’t be intimidated, nor can nonintelligent creatures.
 
 ## Advanced Uses

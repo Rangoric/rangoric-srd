@@ -18,8 +18,6 @@ tags: [rangoric, rangoric/skill, core]
 
 Persuasion covers changing people's attitudes and finding things out by talking to them. It joins Diplomacy and Gather Information.
 
-**Special**: Half-elves are better at Persuasion; see the [[rangoric-srd/races/Half-Elf|half-elf]].
-
 ## Influencing Attitudes
 
 **Check**: You can change the attitudes of others (nonplayer characters) with a successful Persuasion check; see the Influencing NPC Attitudes sidebar, below, for basic DCs. If your result is 5 or more below the DC to improve the creature’s attitude by one step, its attitude gets one step worse instead; this takes the place of the "Less than" entries in the table, except for a helpful creature. An attitude changed this way usually lasts 1d4 hours, though it can last much longer or shorter depending on the situation.
