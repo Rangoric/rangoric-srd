@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Domains
 
-The [[rangoric-srd/classes/Cleric|cleric]]’s domains, one note each. The class note has the rules for choosing domains and preparing domain spells; the [[rangoric-srd/classes/Druid|druid]] can take one of [[rangoric-srd/class-options/domains/Air Domain|Air]], [[rangoric-srd/class-options/domains/Animal Domain|Animal]], [[rangoric-srd/class-options/domains/Earth Domain|Earth]], [[rangoric-srd/class-options/domains/Fire Domain|Fire]], [[rangoric-srd/class-options/domains/Plant Domain|Plant]], [[rangoric-srd/class-options/domains/Water Domain|Water]], or [[rangoric-srd/class-options/domains/Weather Domain|Weather]] through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].
+The [[rangoric-srd/classes/Cleric|cleric]]’s domains, one note each. The class note has the rules for choosing domains and preparing domain spells; the [[rangoric-srd/classes/Druid|druid]] can take one of [[rangoric-srd/class-options/domains/Air Domain|Air]], [[rangoric-srd/class-options/domains/Animal Domain|Animal]], [[rangoric-srd/class-options/domains/Earth Domain|Earth]], [[rangoric-srd/class-options/domains/Fire Domain|Fire]], [[rangoric-srd/class-options/domains/Plant Domain|Plant]], [[rangoric-srd/class-options/domains/Water Domain|Water]], or [[rangoric-srd/class-options/domains/Weather Domain|Weather]], one of their subdomains, or a [[#Druid Domains|druid domain]] through her [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]].
 
 Each domain has Pathfinder’s granted powers and keeps 3.5’s granted power beside them. Where Pathfinder and 3.5 give different domain spells at a level, both are listed (a spell the two put at different levels is listed only at the lower one), and the cleric prepares either one in that level’s domain spell slot. ^domains-two-spells
 
@@ -22,7 +22,7 @@ Each domain has Pathfinder’s granted powers and keeps 3.5’s granted power be
 
 ## Subdomains
 
-A subdomain is a narrower focus within a domain, from the *Advanced Player’s Guide*. Each subdomain replaces one of its domain’s granted powers and some of its domain spells; the rest of the domain stays as it is. A cleric who chooses a subdomain must have access to both the domain and the subdomain from her deity, and can’t also choose its domain as her other domain (the subdomain takes the domain’s place). A subdomain counts as its domain for any effect or prerequisite based on domains. A subdomain with two domains can be chosen for only one of them, and replaces that domain’s power. ^subdomains
+A subdomain is a narrower focus within a domain, from the *Advanced Player’s Guide*. Each subdomain replaces one of its domain’s granted powers and some of its domain spells; the rest of the domain stays as it is. A cleric who chooses a subdomain must have access to both the domain and the subdomain from her deity, and can’t also choose its domain as her other domain (the subdomain takes the domain’s place). A subdomain counts as its domain for any effect or prerequisite based on domains. A subdomain with two domains can be chosen for only one of them, and replaces that domain’s power. A druid can take a subdomain of one of her domains through her nature bond, except Metal. ^subdomains
 
 If a subdomain power calls for a saving throw, the DC is 10 + 1/2 the cleric’s level + her Wisdom modifier.
 
@@ -61,3 +61,13 @@ If a subdomain power calls for a saving throw, the DC is 10 + 1/2 the cleric’s
 | [[rangoric-srd/class-options/domains/War Domain|War]] | [[rangoric-srd/class-options/domains/Blood Subdomain|Blood]], [[rangoric-srd/class-options/domains/Tactics Subdomain|Tactics]] |
 | [[rangoric-srd/class-options/domains/Water Domain|Water]] | [[rangoric-srd/class-options/domains/Ice Subdomain|Ice]], [[rangoric-srd/class-options/domains/Oceans Subdomain|Oceans]] |
 | [[rangoric-srd/class-options/domains/Weather Domain|Weather]] | [[rangoric-srd/class-options/domains/Seasons Subdomain|Seasons]], [[rangoric-srd/class-options/domains/Storms Subdomain|Storms]] |
+
+## Druid Domains
+
+Domains only a druid can take, through her nature bond; clerics can’t take them. They work like any other domain, with the druid’s level as her cleric level. ^druid-domains
+
+**Terrain domains** (*Ultimate Magic*): [[rangoric-srd/class-options/domains/Aquatic Domain|Aquatic]], [[rangoric-srd/class-options/domains/Arctic Domain|Arctic]], [[rangoric-srd/class-options/domains/Cave Domain|Cave]], [[rangoric-srd/class-options/domains/Desert Domain|Desert]], [[rangoric-srd/class-options/domains/Jungle Domain|Jungle]], [[rangoric-srd/class-options/domains/Mountain Domain|Mountain]], [[rangoric-srd/class-options/domains/Plains Domain|Plains]], and [[rangoric-srd/class-options/domains/Swamp Domain|Swamp]].
+
+**Animal domains** (*Ultimate Magic*): [[rangoric-srd/class-options/domains/Eagle Domain|Eagle]], [[rangoric-srd/class-options/domains/Frog Domain|Frog]], [[rangoric-srd/class-options/domains/Monkey Domain|Monkey]], [[rangoric-srd/class-options/domains/Serpent Domain|Serpent]], and [[rangoric-srd/class-options/domains/Wolf Domain|Wolf]].
+
+**Ultimate Wilderness**: [[rangoric-srd/class-options/domains/Erosion Domain|Erosion]] and [[rangoric-srd/class-options/domains/Vermin Domain|Vermin]].

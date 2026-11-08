@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "subdomain"
-class: ["Cleric"]
+class: ["Cleric", "Druid"]
 domain: ["Weather"]
 book: "Advanced Player's Guide"
 based-on:
