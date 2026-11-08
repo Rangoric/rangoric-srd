@@ -20,6 +20,8 @@ Physical and mental perfection—that is the life goal of every monk. For these 
 
 **Unchained**: Pathfinder Unchained’s monk, kept beside the [[rangoric-srd/classes/Monk|monk]] to compare (2026-11-02). Much of the monk has been reworked, including its base attack bonus, Hit Die, saves, and many of its special abilities. The result is a version of the monk that not only is easier to play, but also possesses a great deal more versatility. Flurry of blows is now much simpler to use in play. Many of the higher-level abilities of the monk, such as abundant step and quivering palm, have been incorporated into the new system of ki powers. As a monk advances in level, he can select from a variety of ki powers, allowing the player to truly customize his character.
 
+**Counts as a monk**: While Rangoric keeps both versions, an unchained monk counts as a [[rangoric-srd/classes/Monk|monk]] wherever a rule names the monk: unchained monk levels count as monk levels for prerequisites (such as "monk level 4th"), and they aren’t a class other than monk (as for [[rangoric-srd/feats/Monastic Legacy|Monastic Legacy]]).
+
 **Alignment**: Any lawful.
 
 **Hit Die**: d10.
