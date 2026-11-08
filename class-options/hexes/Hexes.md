@@ -4,15 +4,18 @@ section: "Class Options"
 based-on:
   - "[[path srd 3.5/classes/Witch#Hex|Witch (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Witch (Spellcasting Class Options)#Hexes|Witch (PF1 UM)]]"
+  - "[[path srd 3.5/classes/Shaman (Class)#Hex|Shaman (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-07
+pi-review: 2026-11-08
 tags: [rangoric, rangoric/overview]
 ---
 
 # Hexes
 
-The [[rangoric-srd/classes/Witch|witch]]’s hexes, one note each. The class note has the rules: when she gains them, the action to use one and the save DC ([[rangoric-srd/classes/Witch#^witch-hex|Hex]]), and when major and grand hexes open up ([[rangoric-srd/classes/Witch#^witch-major-hex|Major Hex]], [[rangoric-srd/classes/Witch#^witch-grand-hex|Grand Hex]]). Each note has a `hex-type` property (hex, major hex or grand hex) and the `book` it comes from.
+The [[rangoric-srd/classes/Witch|witch]]’s and the [[rangoric-srd/classes/Shaman|shaman]]’s hexes, one note each. The class notes have the rules: when each gains them, the action to use one and the save DC (the witch’s [[rangoric-srd/classes/Witch#^witch-hex|Hex]] and the shaman’s [[rangoric-srd/classes/Shaman#^shaman-hex|Hex]]), and when the witch’s major and grand hexes open up ([[rangoric-srd/classes/Witch#^witch-major-hex|Major Hex]], [[rangoric-srd/classes/Witch#^witch-grand-hex|Grand Hex]]). Each note has a `hex-type` property (hex, major hex or grand hex), the `class` or classes that can take it, the `book` it comes from and, for a spirit’s hexes, its `spirit`.
+
+The witch’s hexes come first, by type and book; the shaman’s are under [[#Shaman Hexes]]. ^witch-hexes
 
 ## Hexes
 
@@ -31,3 +34,29 @@ The [[rangoric-srd/classes/Witch|witch]]’s hexes, one note each. The class not
 **Advanced Player's Guide**: [[rangoric-srd/class-options/hexes/Death Curse (Hex)|Death Curse]], [[rangoric-srd/class-options/hexes/Eternal Slumber (Hex)|Eternal Slumber]], [[rangoric-srd/class-options/hexes/Forced Reincarnation (Hex)|Forced Reincarnation]], [[rangoric-srd/class-options/hexes/Life Giver (Hex)|Life Giver]], and [[rangoric-srd/class-options/hexes/Natural Disaster (Hex)|Natural Disaster]].
 
 **Ultimate Magic**: [[rangoric-srd/class-options/hexes/Dire Prophecy (Hex)|Dire Prophecy]], [[rangoric-srd/class-options/hexes/Summon Spirit (Hex)|Summon Spirit]], and [[rangoric-srd/class-options/hexes/Witch's Hut (Hex)|Witch's Hut]].
+
+## Shaman Hexes
+
+A shaman chooses from the general shaman hexes and from her spirit’s hexes ([[rangoric-srd/classes/Shaman#^shaman-hex|Hex]]). All are from the *Advanced Class Guide*.
+
+**General**: [[rangoric-srd/class-options/hexes/Chant (Hex)|Chant]], [[rangoric-srd/class-options/hexes/Charm (Hex)|Charm]] (also the witch’s), [[rangoric-srd/class-options/hexes/Evil Eye (Hex)|Evil Eye]] (also the witch’s), [[rangoric-srd/class-options/hexes/Fetish (Hex)|Fetish]], [[rangoric-srd/class-options/hexes/Fortune (Hex)|Fortune]] (also the witch’s), [[rangoric-srd/class-options/hexes/Fury (Hex)|Fury]], [[rangoric-srd/class-options/hexes/Healing (Hex)|Healing]] (also the witch’s), [[rangoric-srd/class-options/hexes/Misfortune (Hex)|Misfortune]] (also the witch’s), [[rangoric-srd/class-options/hexes/Secret (Hex)|Secret]], [[rangoric-srd/class-options/hexes/Shapeshift (Hex)|Shapeshift]], [[rangoric-srd/class-options/hexes/Tongues (Hex)|Tongues]] (also the witch’s), [[rangoric-srd/class-options/hexes/Ward (Hex)|Ward]] (also the witch’s), and [[rangoric-srd/class-options/hexes/Witch Hex (Hex)|Witch Hex]].
+
+**[[rangoric-srd/class-options/spirits/Battle Spirit|Battle spirit]]**: [[rangoric-srd/class-options/hexes/Battle Master (Hex)|Battle Master]], [[rangoric-srd/class-options/hexes/Battle Ward (Hex)|Battle Ward]], [[rangoric-srd/class-options/hexes/Curse of Suffering (Hex)|Curse of Suffering]], [[rangoric-srd/class-options/hexes/Eyes of Battle (Hex)|Eyes of Battle]], and [[rangoric-srd/class-options/hexes/Hampering Hex (Hex)|Hampering Hex]].
+
+**[[rangoric-srd/class-options/spirits/Bones Spirit|Bones spirit]]**: [[rangoric-srd/class-options/hexes/Bone Lock (Hex)|Bone Lock]], [[rangoric-srd/class-options/hexes/Bone Ward (Hex)|Bone Ward]], [[rangoric-srd/class-options/hexes/Deathly Being (Hex)|Deathly Being]], [[rangoric-srd/class-options/hexes/Fearful Gaze (Hex)|Fearful Gaze]], and [[rangoric-srd/class-options/hexes/Grave Sight (Hex)|Grave Sight]].
+
+**[[rangoric-srd/class-options/spirits/Flame Spirit|Flame spirit]]**: [[rangoric-srd/class-options/hexes/Cinder Dance (Hex)|Cinder Dance]], [[rangoric-srd/class-options/hexes/Fire Nimbus (Hex)|Fire Nimbus]], [[rangoric-srd/class-options/hexes/Flame Curse (Hex)|Flame Curse]], [[rangoric-srd/class-options/hexes/Gaze of Flames (Hex)|Gaze of Flames]], and [[rangoric-srd/class-options/hexes/Ward of Flames (Hex)|Ward of Flames]].
+
+**[[rangoric-srd/class-options/spirits/Heavens Spirit|Heavens spirit]]**: [[rangoric-srd/class-options/hexes/Enveloping Void (Hex)|Enveloping Void]], [[rangoric-srd/class-options/hexes/Guiding Star (Hex)|Guiding Star]], [[rangoric-srd/class-options/hexes/Heaven's Leap (Hex)|Heaven's Leap]], [[rangoric-srd/class-options/hexes/Lure of the Heavens (Hex)|Lure of the Heavens]], and [[rangoric-srd/class-options/hexes/Starburn (Hex)|Starburn]].
+
+**[[rangoric-srd/class-options/spirits/Life Spirit|Life spirit]]**: [[rangoric-srd/class-options/hexes/Curse of Suffering (Hex)|Curse of Suffering]], [[rangoric-srd/class-options/hexes/Deny Succor (Hex)|Deny Succor]], [[rangoric-srd/class-options/hexes/Enhanced Cures (Hex)|Enhanced Cures]], [[rangoric-srd/class-options/hexes/Life Link (Hex)|Life Link]], and [[rangoric-srd/class-options/hexes/Life Sight (Hex)|Life Sight]].
+
+**[[rangoric-srd/class-options/spirits/Lore Spirit|Lore spirit]]**: [[rangoric-srd/class-options/hexes/Arcane Enlightenment (Hex)|Arcane Enlightenment]], [[rangoric-srd/class-options/hexes/Benefit of Wisdom (Hex)|Benefit of Wisdom]], [[rangoric-srd/class-options/hexes/Brain Drain (Hex)|Brain Drain]], [[rangoric-srd/class-options/hexes/Confusion Curse (Hex)|Confusion Curse]], and [[rangoric-srd/class-options/hexes/Share Knowledge (Hex)|Share Knowledge]].
+
+**[[rangoric-srd/class-options/spirits/Nature Spirit|Nature spirit]]**: [[rangoric-srd/class-options/hexes/Entangling Curse (Hex)|Entangling Curse]], [[rangoric-srd/class-options/hexes/Erosion Curse (Hex)|Erosion Curse]], [[rangoric-srd/class-options/hexes/Friend to Animals (Hex)|Friend to Animals]], [[rangoric-srd/class-options/hexes/Speak with Animals (Hex)|Speak with Animals]], and [[rangoric-srd/class-options/hexes/Stormwalker (Hex)|Stormwalker]].
+
+**[[rangoric-srd/class-options/spirits/Stone Spirit|Stone spirit]]**: [[rangoric-srd/class-options/hexes/Crystal Sight (Hex)|Crystal Sight]], [[rangoric-srd/class-options/hexes/Lodestone (Hex)|Lodestone]], [[rangoric-srd/class-options/hexes/Metal Curse (Hex)|Metal Curse]], [[rangoric-srd/class-options/hexes/Stone Stability (Hex)|Stone Stability]], and [[rangoric-srd/class-options/hexes/Ward of Stone (Hex)|Ward of Stone]].
+
+**[[rangoric-srd/class-options/spirits/Waves Spirit|Waves spirit]]**: [[rangoric-srd/class-options/hexes/Beckoning Chill (Hex)|Beckoning Chill]], [[rangoric-srd/class-options/hexes/Crashing Waves (Hex)|Crashing Waves]], [[rangoric-srd/class-options/hexes/Fluid Magic (Hex)|Fluid Magic]], [[rangoric-srd/class-options/hexes/Mist's Shroud (Hex)|Mist's Shroud]], and [[rangoric-srd/class-options/hexes/Water Sight (Hex)|Water Sight]].
+
+**[[rangoric-srd/class-options/spirits/Wind Spirit|Wind spirit]]**: [[rangoric-srd/class-options/hexes/Air Barrier (Hex)|Air Barrier]], [[rangoric-srd/class-options/hexes/Sparking Aura (Hex)|Sparking Aura]], [[rangoric-srd/class-options/hexes/Vortex Spells (Hex)|Vortex Spells]], [[rangoric-srd/class-options/hexes/Wind Sight (Hex)|Wind Sight]], and [[rangoric-srd/class-options/hexes/Wind Ward (Hex)|Wind Ward]].

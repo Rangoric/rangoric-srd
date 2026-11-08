@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Animal 7"
   - "Drd 8"
+  - "Sha 8"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None; see text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Animal Shapes|Animal Shapes (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Animal 7, Drd 8
+  - **Level**: Animal 7, Drd 8, Sha 8
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

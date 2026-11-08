@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 5"
   - "Fire 4"
+  - "Sha 5"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -20,8 +21,8 @@ saving-throw: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Wall of Fire|Wall of Fire (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Drd 5, Fire 4, Sor/Wiz 4
+  - **Level**: Drd 5, Fire 4, Sha 5, Sor/Wiz 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

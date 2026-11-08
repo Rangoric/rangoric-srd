@@ -8,6 +8,8 @@ views:
       - file.name
       - note.srd-type
       - note.hex-type
+      - note.class
+      - note.spirit
       - note.book
       - note.status
     sort:

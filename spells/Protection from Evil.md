@@ -8,6 +8,7 @@ level:
   - "Clr 1"
   - "Good 1"
   - "Pal 1"
+  - "Sha 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -21,8 +22,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "No; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Protection from Evil|Protection from Evil (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Good\]*
 
-  - **Level**: Clr 1, Good 1, Pal 1, Sor/Wiz 1
+  - **Level**: Clr 1, Good 1, Pal 1, Sha 1, Sor/Wiz 1
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

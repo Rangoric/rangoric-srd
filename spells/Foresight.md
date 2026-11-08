@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Drd 9"
   - "Knowledge 9"
+  - "Sha 9"
   - "Sor/Wiz 9"
   - "Wit 9"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 9, Knowledge 9, Sor/Wiz 9, Wit 9
+  - **Level**: Drd 9, Knowledge 9, Sha 9, Sor/Wiz 9, Wit 9
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal or touch

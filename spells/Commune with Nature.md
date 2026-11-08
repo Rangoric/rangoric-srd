@@ -6,6 +6,7 @@ level:
   - "Animal 5"
   - "Drd 5"
   - "Rgr 4"
+  - "Sha 5"
 components:
   - "V"
   - "S"
@@ -15,8 +16,8 @@ target: "You"
 duration: "Instantaneous"
 based-on:
   - "[[fantasy srd 3.5/spells/Commune with Nature|Commune with Nature (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Animal 5, Drd 5, Rgr 4
+  - **Level**: Animal 5, Drd 5, Rgr 4, Sha 5
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Personal

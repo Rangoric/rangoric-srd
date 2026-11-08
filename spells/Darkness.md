@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Clr 2"
+  - "Sha 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -19,8 +20,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Darkness|Darkness (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Darkness\]*
 
-  - **Level**: Brd 2, Clr 2, Sor/Wiz 2
+  - **Level**: Brd 2, Clr 2, Sha 2, Sor/Wiz 2
   - **Components**: V, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

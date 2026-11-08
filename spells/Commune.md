@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 5"
+  - "Sha 5"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ target: "You"
 duration: "1 round/level"
 based-on:
   - "[[fantasy srd 3.5/spells/Commune|Commune (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 5
+  - **Level**: Clr 5, Sha 5
   - **Components**: V, S, M, DF, XP
   - **Casting Time**: 10 minutes
   - **Range**: Personal

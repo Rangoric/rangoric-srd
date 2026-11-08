@@ -6,6 +6,7 @@ descriptor:
   - "Evil"
 level:
   - "Clr 2"
+  - "Sha 2"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 2, Sor/Wiz 3
+  - **Level**: Clr 2, Sha 2, Sor/Wiz 3
   - **Components**: V, S, M (an onyx gem worth at least 25 gp per Hit Die of the undead)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

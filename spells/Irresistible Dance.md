@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 6"
+  - "Sha 8"
   - "Sor/Wiz 8"
   - "Wit 8"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 6, Sor/Wiz 8, Wit 8
+  - **Level**: Brd 6, Sha 8, Sor/Wiz 8, Wit 8
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Touch

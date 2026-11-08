@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Clr 4"
+  - "Sha 4"
   - "War 4"
 components:
   - "V"
@@ -15,8 +16,8 @@ target: "You"
 duration: "1 round/level"
 based-on:
   - "[[fantasy srd 3.5/spells/Divine Power|Divine Power (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 4, War 4
+  - **Level**: Clr 4, Sha 4, War 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

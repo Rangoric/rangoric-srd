@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 1"
   - "Pal 1"
+  - "Sha 1"
   - "Sor/Wiz 1"
   - "War 1"
 components:
@@ -19,8 +20,8 @@ saving-throw: "Will negates (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Weapon|Magic Weapon (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 1, Pal 1, Sor/Wiz 1, War 1
+  - **Level**: Clr 1, Pal 1, Sha 1, Sor/Wiz 1, War 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

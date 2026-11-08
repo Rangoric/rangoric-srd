@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Clr 8"
   - "Knowledge 8"
+  - "Sha 8"
   - "Sor/Wiz 8"
   - "Wit 8"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 8, Knowledge 8, Sor/Wiz 8, Wit 8
+  - **Level**: Clr 8, Knowledge 8, Sha 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Unlimited

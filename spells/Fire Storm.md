@@ -8,6 +8,7 @@ level:
   - "Clr 8"
   - "Drd 7"
   - "Fire 7"
+  - "Sha 8"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Fire Storm|Fire Storm (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Clr 8, Drd 7, Fire 7
+  - **Level**: Clr 8, Drd 7, Fire 7, Sha 8
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

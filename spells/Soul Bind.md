@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 9"
+  - "Sha 9"
   - "Sor/Wiz 9"
   - "Wit 9"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 9, Sor/Wiz 9, Wit 9
+  - **Level**: Clr 9, Sha 9, Sor/Wiz 9, Wit 9
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Clr 1"
+  - "Sha 1"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Doom|Doom (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Fear, Mind-Affecting\]*
 
-  - **Level**: Clr 1
+  - **Level**: Clr 1, Sha 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

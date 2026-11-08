@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Clr 7"
+  - "Sha 7"
 components:
   - "V"
   - "S"
@@ -12,8 +13,8 @@ components:
 casting-time: "10 minutes"
 based-on:
   - "[[fantasy srd 3.5/spells/Restoration, Greater|Restoration, Greater (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 7
+  - **Level**: Clr 7, Sha 7
   - **Components**: V, S, XP
   - **Casting Time**: 10 minutes
 

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 6"
   - "Drd 7"
+  - "Sha 7"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Clr 6, Drd 7
+  - **Level**: Clr 6, Drd 7, Sha 7
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

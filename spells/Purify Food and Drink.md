@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 0"
   - "Drd 0"
+  - "Sha 0"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "Will negates (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Purify Food and Drink|Purify Food and Drink (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 0, Drd 0
+  - **Level**: Clr 0, Drd 0, Sha 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 10 ft.

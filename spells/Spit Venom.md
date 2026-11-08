@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 4"
   - "Drd 3"
+  - "Sha 4"
   - "Wit 3"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Poison\]*
 
-  - **Level**: Clr 4, Drd 3, Wit 3
+  - **Level**: Clr 4, Drd 3, Sha 4, Wit 3
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

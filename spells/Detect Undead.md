@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Clr 1"
   - "Pal 1"
+  - "Sha 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Detect Undead|Detect Undead (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 1, Pal 1, Sor/Wiz 1
+  - **Level**: Clr 1, Pal 1, Sha 1, Sor/Wiz 1
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

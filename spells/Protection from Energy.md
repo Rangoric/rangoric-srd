@@ -8,6 +8,7 @@ level:
   - "Luck 3"
   - "Protection 3"
   - "Rgr 2"
+  - "Sha 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -21,8 +22,8 @@ saving-throw: "Fortitude negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Protection from Energy|Protection from Energy (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 3, Drd 3, Luck 3, Protection 3, Rgr 2, Sor/Wiz 3
+  - **Level**: Clr 3, Drd 3, Luck 3, Protection 3, Rgr 2, Sha 3, Sor/Wiz 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

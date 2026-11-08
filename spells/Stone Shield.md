@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 1"
   - "Drd 1"
+  - "Sha 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Earth\]*
 
-  - **Level**: Clr 1, Drd 1, Sor/Wiz 1
+  - **Level**: Clr 1, Drd 1, Sha 1, Sor/Wiz 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 immediate action
   - **Range**: 0 ft.

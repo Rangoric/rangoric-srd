@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Sha 3"
   - "Wit 3"
 saving-throw: "See text"
 spell-resistance: "No (object) and yes (see text)"
@@ -19,7 +20,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Wit 3
+  - **Level**: Sha 3, Wit 3
   - **Saving Throw**: See text
   - **Spell Resistance**: No (object) and yes (see text)
 

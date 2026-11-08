@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Cold"
 level:
+  - "Sha 6"
   - "Sor/Wiz 5"
   - "Water 6"
   - "Wit 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Cold\]*
 
-  - **Level**: Sor/Wiz 5, Water 6, Wit 6
+  - **Level**: Sha 6, Sor/Wiz 5, Water 6, Wit 6
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

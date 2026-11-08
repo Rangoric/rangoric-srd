@@ -7,6 +7,7 @@ level:
   - "Clr 7"
   - "Drd 9"
   - "Healing 7"
+  - "Sha 7"
   - "Wit 7"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 7, Drd 9, Healing 7, Wit 7
+  - **Level**: Clr 7, Drd 9, Healing 7, Sha 7, Wit 7
   - **Components**: V, S, DF
   - **Casting Time**: 3 full rounds
   - **Range**: Touch

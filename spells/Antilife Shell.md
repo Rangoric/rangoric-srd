@@ -6,6 +6,7 @@ level:
   - "Animal 6"
   - "Clr 6"
   - "Drd 6"
+  - "Sha 6"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Antilife Shell|Antilife Shell (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Animal 6, Clr 6, Drd 6
+  - **Level**: Animal 6, Clr 6, Drd 6, Sha 6
   - **Components**: V, S, DF
   - **Casting Time**: 1 round
   - **Range**: 10 ft.

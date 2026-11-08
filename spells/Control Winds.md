@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Air 5"
   - "Drd 5"
+  - "Sha 5"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "Fortitude negates"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Control Winds|Control Winds (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Air 5, Drd 5
+  - **Level**: Air 5, Drd 5, Sha 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 40 ft./level

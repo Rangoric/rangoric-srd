@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Animal 9"
   - "Drd 9"
+  - "Sha 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Animal 9, Drd 9, Sor/Wiz 9
+  - **Level**: Animal 9, Drd 9, Sha 9, Sor/Wiz 9
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal

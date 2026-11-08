@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Sha 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 2, Wit 2
+  - **Level**: Sha 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal or close (25 ft. + 5 ft./2 levels)

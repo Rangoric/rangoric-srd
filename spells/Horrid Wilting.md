@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Sha 8"
   - "Sor/Wiz 8"
   - "Water 8"
   - "Wit 8"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 8, Water 8, Wit 8
+  - **Level**: Sha 8, Sor/Wiz 8, Water 8, Wit 8
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

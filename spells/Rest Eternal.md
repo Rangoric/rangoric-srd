@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 4"
   - "Drd 5"
+  - "Sha 5"
   - "Wit 5"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Clr 4, Drd 5, Wit 5
+  - **Level**: Clr 4, Drd 5, Sha 5, Wit 5
   - **Components**: V, S, M/DF (ashes and a vial of holy or unholy water)
   - **Casting Time**: 1 round
   - **Range**: Touch

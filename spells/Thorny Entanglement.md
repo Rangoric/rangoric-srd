@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Drd 3"
   - "Rgr 3"
+  - "Sha 3"
   - "Wit 3"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 3, Rgr 3, Wit 3
+  - **Level**: Drd 3, Rgr 3, Sha 3, Wit 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Saving Throw**: Reflex partial (see text)

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 4"
   - "Drd 4"
+  - "Sha 4"
   - "Sor/Wiz 6"
   - "Water 4"
 components:
@@ -21,8 +22,8 @@ saving-throw: "None; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Control Water|Control Water (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Clr 4, Drd 4, Sor/Wiz 6, Water 4
+  - **Level**: Clr 4, Drd 4, Sha 4, Sor/Wiz 6, Water 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

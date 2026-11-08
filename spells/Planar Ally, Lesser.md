@@ -7,6 +7,7 @@ descriptor:
   - "see text"
 level:
   - "Clr 4"
+  - "Sha 4"
 components:
   - "V"
   - "S"
@@ -20,8 +21,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Planar Ally, Lesser|Planar Ally, Lesser (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[see text\]*
 
-  - **Level**: Clr 4
+  - **Level**: Clr 4, Sha 4
   - **Components**: V, S, DF, XP
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Clr 3"
   - "Good 3"
   - "Pal 3"
+  - "Sha 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Good\]*
 
-  - **Level**: Clr 3, Good 3, Pal 3, Sor/Wiz 3
+  - **Level**: Clr 3, Good 3, Pal 3, Sha 3, Sor/Wiz 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch
