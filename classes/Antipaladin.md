@@ -97,7 +97,7 @@ These abilities are not cumulative. For example, a 12th-level antipaladin’s to
 
 **Channel Negative Energy (Su)**: When an antipaladin reaches 4th level, he gains the supernatural ability to channel negative energy like a cleric (see [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]]). Using this ability consumes two uses of his touch of corruption ability. An antipaladin uses his level as his effective cleric level when channeling negative energy. This is a Charisma-based ability. ^antipaladin-channel-negative-energy
 
-**Spells**: Beginning at 4th level, an antipaladin gains the ability to cast a small number of divine spells, which are drawn from the [[rangoric-srd/spells/Antipaladin Spell List|antipaladin spell list]]. An antipaladin must choose and prepare his spells in advance. ^antipaladin-spells
+**Spells**: Beginning at 4th level, an antipaladin gains the ability to cast a small number of divine spells, which are drawn from the [[rangoric-srd/spells/Antipaladin Spell List|antipaladin spell list]]. An antipaladin must choose and prepare his spells in advance. With a *[[rangoric-srd/spells/Summon Monster I|summon monster]]* spell, he can summon only evil creatures. ^antipaladin-spells
 
 To prepare or cast a spell, an antipaladin must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an antipaladin’s spell is 10 + the spell level + the antipaladin’s Charisma modifier.
 

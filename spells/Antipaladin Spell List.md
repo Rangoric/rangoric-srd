@@ -57,7 +57,7 @@ The spells an [[rangoric-srd/classes/Antipaladin#^antipaladin-spells|antipaladin
 | [[rangoric-srd/spells/Shadow Claws\|Shadow Claws]]: | Claws of shadow deal slashing damage and Strength damage |
 | [[rangoric-srd/spells/Steady Saddle\|Steady Saddle]]: | Affected saddle has reduced penalties for actions requiring focus |
 | [[rangoric-srd/spells/Summon Minor Monster\|Summon Minor Monster]] (F): | Summon 1d3 Tiny animals. |
-| [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]: | Calls extraplanar creature to fight for you. |
+| [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]: | Calls extraplanar creature to fight for you ([[rangoric-srd/classes/Antipaladin#^antipaladin-spells\|evil creatures only]]). |
 | [[rangoric-srd/spells/Wartrain Mount\|Wartrain Mount]] (M): | Animal gains combat training. |
 
 ##### 2nd-Level Antipaladin Spells
@@ -100,7 +100,7 @@ The spells an [[rangoric-srd/classes/Antipaladin#^antipaladin-spells|antipaladin
 | [[rangoric-srd/spells/Shifted Steps\|Shifted Steps]]: | Make a target sound as if elsewhere. |
 | [[rangoric-srd/spells/Sickening Strikes\|Sickening Strikes]]: | You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. |
 | [[rangoric-srd/spells/Silence\|Silence]]: | Negates sound in 15-ft. radius. |
-| [[rangoric-srd/spells/Summon Monster II\|Summon Monster II]]: | Calls extraplanar creature to fight for you. |
+| [[rangoric-srd/spells/Summon Monster II\|Summon Monster II]]: | Calls extraplanar creature to fight for you ([[rangoric-srd/classes/Antipaladin#^antipaladin-spells\|evil creatures only]]). |
 | [[rangoric-srd/spells/Toxic Gift\|Toxic Gift]]: | Target suffers the effect of the poison in you. |
 | [[rangoric-srd/spells/Unadulterated Loathing\|Unadulterated Loathing]] (M): | Target is compelled to avoid another creature. |
 | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]: | Conceals alignment for 24 hours. |
@@ -140,7 +140,7 @@ The spells an [[rangoric-srd/classes/Antipaladin#^antipaladin-spells|antipaladin
 | [[rangoric-srd/spells/Magic Weapon, Greater\|Magic Weapon, Greater]]: | +1 bonus/four levels (max +5). |
 | [[rangoric-srd/spells/Nondetection\|Nondetection]] (M): | Hides subject from divination, scrying. |
 | [[rangoric-srd/spells/Shadow Jaunt\|Shadow Jaunt]]: | Teleport, leaving an illusion of yourself in the space you left |
-| [[rangoric-srd/spells/Summon Monster III\|Summon Monster III]]: | Calls extraplanar creature to fight for you. |
+| [[rangoric-srd/spells/Summon Monster III\|Summon Monster III]]: | Calls extraplanar creature to fight for you ([[rangoric-srd/classes/Antipaladin#^antipaladin-spells\|evil creatures only]]). |
 | [[rangoric-srd/spells/Utter Contempt\|Utter Contempt]] (M): | Target's attitude worsens by two categories. |
 | [[rangoric-srd/spells/Vampiric Touch\|Vampiric Touch]]: | Touch deals 1d6/two levels damage; caster gains damage as hp. |
 | [[rangoric-srd/spells/Vigilant Rest\|Vigilant Rest]] (M): | Cause a sleeping creature to retain some perception of its surroundings |
@@ -171,7 +171,6 @@ The spells an [[rangoric-srd/classes/Antipaladin#^antipaladin-spells|antipaladin
 | [[rangoric-srd/spells/Litany of Thunder\|Litany of Thunder]]: | A single target is deafened until the condition is removed, and is confused for 1 round. |
 | [[rangoric-srd/spells/Litany of Vengeance\|Litany of Vengeance]]: | Allies attacking the target of the spell gain a +5 bonus on damage rolls for 1 round. |
 | [[rangoric-srd/spells/Magic Siege Engine, Greater\|Magic Siege Engine, Greater]] (M): | Siege engine gains +1 on targeting and damage rolls for every four caster levels. |
-| [[rangoric-srd/spells/Malediction\|Malediction]] (F): | You curse a dying creature to gain hero points. |
 | [[rangoric-srd/spells/Mark of the Reptile God\|Mark of the Reptile God]]: | Mark a creature with an acidic curse. |
 | [[rangoric-srd/spells/Nondetection, Communal\|Nondetection, Communal]] (M): | As nondetection, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Overwhelming Poison\|Overwhelming Poison]] (M): | Make a poison more difficult to resist. |
@@ -179,5 +178,5 @@ The spells an [[rangoric-srd/classes/Antipaladin#^antipaladin-spells|antipaladin
 | [[rangoric-srd/spells/Resounding Blow\|Resounding Blow]]: | Melee attack deals 1d6 more damage. |
 | [[rangoric-srd/spells/Slay Living\|Slay Living]]: | Touch attack kills subject. |
 | [[rangoric-srd/spells/Speak with Soul\|Speak with Soul]] (M): | Hold an extended conversation with a soul |
-| [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]: | Calls extraplanar creature to fight for you. |
+| [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]: | Calls extraplanar creature to fight for you ([[rangoric-srd/classes/Antipaladin#^antipaladin-spells\|evil creatures only]]). |
 | [[rangoric-srd/spells/Unholy Sword\|Unholy Sword]]: | Weapon becomes +5, deals +2d6 damage vs. good. |
