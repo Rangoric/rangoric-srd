@@ -7,6 +7,7 @@ level:
   - "Death 4"
   - "Drd 5"
   - "Pal 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Death Ward|Death Ward (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 4, Death 4, Drd 5, Pal 4
+  - **Level**: Clr 4, Death 4, Drd 5, Pal 4, Wit 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

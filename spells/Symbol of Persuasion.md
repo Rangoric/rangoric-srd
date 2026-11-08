@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 6"
   - "Sor/Wiz 6"
+  - "Wit 6"
 saving-throw: "Will negates"
 based-on:
   - "[[fantasy srd 3.5/spells/Symbol of Persuasion|Symbol of Persuasion (3.5)]]"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-Affecting\]*
 
-  - **Level**: Clr 6, Sor/Wiz 6
+  - **Level**: Clr 6, Sor/Wiz 6, Wit 6
   - **Saving Throw**: Will negates
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that all creatures within the radius of a symbol of persuasion instead become charmed by the caster (as the charm monster spell) for 1 hour per caster level.

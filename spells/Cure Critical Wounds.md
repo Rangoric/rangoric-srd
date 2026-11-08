@@ -8,10 +8,11 @@ level:
   - "Clr 4"
   - "Drd 5"
   - "Healing 4"
+  - "Wit 5"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Critical Wounds|Cure Critical Wounds (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -20,6 +21,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 4, Clr 4, Drd 5, Healing 4
+  - **Level**: Brd 4, Clr 4, Drd 5, Healing 4, Wit 5
 
 This spell functions like [[rangoric-srd/spells/Spells C|cure light wounds]], except that it cures 4d8 points of damage +1 point per caster level (maximum +20).

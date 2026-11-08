@@ -6,6 +6,7 @@ subschool: "Polymorph"
 level:
   - "Clr 6"
   - "Drd 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Clr 6, Drd 6
+  - **Level**: Clr 6, Drd 6, Wit 6
   - **Components**: V, S, M (a pinch of dust gathered from a gravestone or sacred shrine)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

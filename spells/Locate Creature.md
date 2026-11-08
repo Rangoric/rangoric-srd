@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 4"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -12,8 +13,8 @@ components:
 duration: "10 min./level"
 based-on:
   - "[[fantasy srd 3.5/spells/Locate Creature|Locate Creature (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M
   - **Duration**: 10 min./level
 

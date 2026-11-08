@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 3"
   - "Sor/Wiz 4"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Clr 3, Sor/Wiz 4
+  - **Level**: Clr 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S, M (a platinum piece)
   - **Casting Time**: 1 minute
   - **Range**: Touch

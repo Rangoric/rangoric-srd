@@ -6,6 +6,7 @@ subschool: "Creation"
 level:
   - "Brd 1"
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Brd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

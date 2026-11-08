@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Clone|Clone (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 8
+  - **Level**: Sor/Wiz 8, Wit 8
   - **Components**: V, S, M, F
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.

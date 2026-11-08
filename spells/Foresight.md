@@ -6,6 +6,7 @@ level:
   - "Drd 9"
   - "Knowledge 9"
   - "Sor/Wiz 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None or Will negates (harmless)"
 spell-resistance: "No or Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Foresight|Foresight (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 9, Knowledge 9, Sor/Wiz 9
+  - **Level**: Drd 9, Knowledge 9, Sor/Wiz 9, Wit 9
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal or touch

@@ -7,6 +7,7 @@ descriptor:
   - "Ruse"
 level:
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation) \[Ruse\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Sor/Wiz 6, Wit 6
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -6,6 +6,7 @@ level:
   - "Drd 3"
   - "Rgr 3"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 3, Rgr 3, Sor/Wiz 4
+  - **Level**: Drd 3, Rgr 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (a drop of honey)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Personal

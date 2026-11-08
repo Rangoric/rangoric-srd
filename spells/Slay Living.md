@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 5"
   - "Death 5"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "Fortitude partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Slay Living|Slay Living (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death\]*
 
-  - **Level**: Clr 5, Death 5
+  - **Level**: Clr 5, Death 5, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

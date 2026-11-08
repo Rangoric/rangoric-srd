@@ -7,6 +7,7 @@ descriptor:
   - "Evil"
 level:
   - "Sor/Wiz 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Evil\]*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Sor/Wiz 3, Wit 3
   - **Components**: V, S, F (onyx dust worth 500 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

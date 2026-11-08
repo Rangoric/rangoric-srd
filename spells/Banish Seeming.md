@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Wit 5"
 components:
   - "V"
   - "S"

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 0"
   - "Sor/Wiz 0"
+  - "Wit 0"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Message|Message (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Language-Dependent\]*
 
-  - **Level**: Brd 0, Sor/Wiz 0
+  - **Level**: Brd 0, Sor/Wiz 0, Wit 0
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

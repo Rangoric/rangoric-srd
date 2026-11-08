@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 8"
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death\]*
 
-  - **Level**: Clr 8, Sor/Wiz 8
+  - **Level**: Clr 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.; see text

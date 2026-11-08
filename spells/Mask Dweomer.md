@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Wit 1"
 components:
   - "V"
   - "S"

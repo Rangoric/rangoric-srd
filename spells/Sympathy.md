@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Drd 9"
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -20,8 +21,8 @@ saving-throw: "Will negates; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Sympathy|Sympathy (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Drd 9, Sor/Wiz 8
+  - **Level**: Drd 9, Sor/Wiz 8, Wit 8
   - **Components**: V, S, M
   - **Casting Time**: 1 hour
   - **Range**: Close (25 ft. + 5 ft./2 levels)

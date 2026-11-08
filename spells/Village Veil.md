@@ -9,6 +9,7 @@ level:
   - "Brd 5"
   - "Clr 5"
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Mind-affecting\]*
 
-  - **Level**: Brd 5, Clr 5, Sor/Wiz 5
+  - **Level**: Brd 5, Clr 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

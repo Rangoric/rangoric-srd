@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Wit 4"
 components:
   - "V"
   - "S"

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Fire 1"
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "Reflex half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Burning Hands|Burning Hands (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Fire 1, Sor/Wiz 1
+  - **Level**: Fire 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 15 ft.

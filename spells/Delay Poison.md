@@ -9,6 +9,7 @@ level:
   - "Drd 2"
   - "Pal 2"
   - "Rgr 1"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -21,8 +22,8 @@ saving-throw: "Fortitude negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Delay Poison|Delay Poison (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 2, Clr 2, Drd 2, Pal 2, Rgr 1
+  - **Level**: Brd 2, Clr 2, Drd 2, Pal 2, Rgr 1, Wit 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

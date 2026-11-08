@@ -9,6 +9,7 @@ level:
   - "Brd 4"
   - "Law 6"
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ components:
 target: "One living creature"
 based-on:
   - "[[fantasy srd 3.5/spells/Hold Monster|Hold Monster (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 4, Law 6, Sor/Wiz 5
+  - **Level**: Brd 4, Law 6, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M/DF
   - **Target**: One living creature
 

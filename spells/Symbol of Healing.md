@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 3"
   - "Pal 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing) \[Death\]*
 
-  - **Level**: Clr 3, Pal 4
+  - **Level**: Clr 3, Pal 4, Wit 4
   - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 500 gp)
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.; see text

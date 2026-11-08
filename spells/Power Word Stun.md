@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Sor/Wiz 8"
   - "War 8"
+  - "Wit 8"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Power Word Stun|Power Word Stun (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 8, War 8
+  - **Level**: Sor/Wiz 8, War 8, Wit 8
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

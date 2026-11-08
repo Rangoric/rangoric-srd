@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Summoning"
 level:
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Sor/Wiz 8
+  - **Level**: Sor/Wiz 8, Wit 8
   - **Components**: V, S, M (sapphires worth 1,000 gp each)
   - **Casting Time**: 1 standard action
   - **Range**: SeeText

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Wit 3"
 saving-throw: "See text"
 spell-resistance: "No (object) and yes (see text)"
 book: "Advanced Class Guide"

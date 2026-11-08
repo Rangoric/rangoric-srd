@@ -7,6 +7,7 @@ level:
   - "Clr 8"
   - "Drd 8"
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Clr 8, Drd 8, Sor/Wiz 8
+  - **Level**: Clr 8, Drd 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S, M (the skin of a toad)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

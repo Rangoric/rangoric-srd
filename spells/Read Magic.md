@@ -9,6 +9,7 @@ level:
   - "Pal 1"
   - "Rgr 1"
   - "Sor/Wiz 0"
+  - "Wit 0"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Pal 1, Rgr 1, Sor/Wiz 0
+  - **Level**: Brd 0, Clr 0, Drd 0, Pal 1, Rgr 1, Sor/Wiz 0, Wit 0
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal

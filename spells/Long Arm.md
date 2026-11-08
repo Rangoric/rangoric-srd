@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 1
+  - **Level**: Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

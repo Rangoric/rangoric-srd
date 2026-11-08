@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "Fortitude negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Reduce Person|Reduce Person (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 1
+  - **Level**: Sor/Wiz 1, Wit 1
   - **Components**: V, S, M
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Sor/Wiz 8"
   - "Water 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "Fortitude half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Horrid Wilting|Horrid Wilting (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 8, Water 8
+  - **Level**: Sor/Wiz 8, Water 8, Wit 8
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

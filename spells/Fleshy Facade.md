@@ -6,6 +6,7 @@ subschool: "Polymorph"
 level:
   - "Brd 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Drd 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-affecting\]*
 
-  - **Level**: Drd 1
+  - **Level**: Drd 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

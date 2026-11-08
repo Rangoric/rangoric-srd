@@ -7,6 +7,7 @@ descriptor:
   - "Fear"
 level:
   - "Drd 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse, Fear\]*
 
-  - **Level**: Drd 7
+  - **Level**: Drd 7, Wit 7
   - **Components**: V, S, M (a flask of seawater)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

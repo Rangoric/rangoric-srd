@@ -9,6 +9,7 @@ level:
   - "Drd 3"
   - "Pal 3"
   - "Rgr 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 3, Clr 3, Drd 3, Pal 3, Rgr 3
+  - **Level**: Brd 3, Clr 3, Drd 3, Pal 3, Rgr 3, Wit 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

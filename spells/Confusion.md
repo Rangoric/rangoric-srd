@@ -9,6 +9,7 @@ level:
   - "Brd 3"
   - "Sor/Wiz 4"
   - "Trickery 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -21,8 +22,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Confusion|Confusion (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4, Trickery 4
+  - **Level**: Brd 3, Sor/Wiz 4, Trickery 4, Wit 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

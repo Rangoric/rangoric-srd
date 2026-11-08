@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Sor/Wiz 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Sor/Wiz 9
+  - **Level**: Sor/Wiz 9, Wit 9
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -7,12 +7,13 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Sor/Wiz 8"
+  - "Wit 8"
 saving-throw: "Will partial"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Demand|Demand (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 8
+  - **Level**: Sor/Wiz 8, Wit 8
   - **Saving Throw**: Will partial
   - **Spell Resistance**: Yes
 

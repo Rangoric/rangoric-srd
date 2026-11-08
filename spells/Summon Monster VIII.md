@@ -8,10 +8,11 @@ descriptor:
 level:
   - "Clr 8"
   - "Sor/Wiz 8"
+  - "Wit 8"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Monster VIII|Summon Monster VIII (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -20,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text for summon monster I\]*
 
-  - **Level**: Clr 8, Sor/Wiz 8
+  - **Level**: Clr 8, Sor/Wiz 8, Wit 8
 
 This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster I]], except that you can summon one creature from the 8th-level list, 1d3 creatures of the same kind from the 7th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 

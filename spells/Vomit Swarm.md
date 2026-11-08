@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Summoning"
 level:
+  - "Wit 2"
 components:
   - "S"
 casting-time: "1 standard action"

@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Drd 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Earth\]*
 
-  - **Level**: Drd 2, Sor/Wiz 2
+  - **Level**: Drd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M (a pinch of earth or metal)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

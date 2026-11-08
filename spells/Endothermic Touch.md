@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Drd 1"
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 1, Sor/Wiz 1
+  - **Level**: Drd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M/DF (a small bit of snakeskin)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

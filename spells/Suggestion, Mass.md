@@ -9,12 +9,13 @@ descriptor:
 level:
   - "Brd 5"
   - "Sor/Wiz 6"
+  - "Wit 6"
 range: "Medium (100 ft. + 10 ft./level)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
 based-on:
   - "[[fantasy srd 3.5/spells/Suggestion, Mass|Suggestion, Mass (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Brd 5, Sor/Wiz 6
+  - **Level**: Brd 5, Sor/Wiz 6, Wit 6
   - **Range**: Medium (100 ft. + 10 ft./level)
   - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 

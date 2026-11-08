@@ -9,6 +9,7 @@ level:
   - "Clr 0"
   - "Drd 0"
   - "Sor/Wiz 0"
+  - "Wit 0"
 components:
   - "V"
   - "M/DF"
@@ -20,8 +21,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Light|Light (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Sor/Wiz 0
+  - **Level**: Brd 0, Clr 0, Drd 0, Sor/Wiz 0, Wit 0
   - **Components**: V, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

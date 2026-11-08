@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Pal 3"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Pal 3, Sor/Wiz 4
+  - **Level**: Pal 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -10,10 +10,11 @@ level:
   - "Pal 4"
   - "Rgr 4"
   - "Healing 3"
+  - "Wit 4"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Serious Wounds|Cure Serious Wounds (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,6 +23,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 3, Clr 3, Drd 4, Pal 4, Rgr 4, Healing 3
+  - **Level**: Brd 3, Clr 3, Drd 4, Pal 4, Rgr 4, Healing 3, Wit 4
 
 This spell functions like [[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], except that it cures 3d8 points of damage +1 point per caster level (maximum +15).

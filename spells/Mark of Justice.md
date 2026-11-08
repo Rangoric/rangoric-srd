@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Clr 5"
   - "Pal 4"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Mark of Justice|Mark of Justice (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 5, Pal 4
+  - **Level**: Clr 5, Pal 4, Wit 5
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Touch

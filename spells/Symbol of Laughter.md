@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-affecting\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (mercury and phosphorus, plus powdered diamond and opal worth a total of 1,000 gp)
   - **Saving Throw**: Will negates
   - **Spell Resistance**: Yes

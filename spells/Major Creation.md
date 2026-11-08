@@ -5,13 +5,14 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Sor/Wiz 5"
+  - "Wit 5"
 casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
 duration: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Major Creation|Major Creation (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -20,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Wit 5
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Duration**: See text

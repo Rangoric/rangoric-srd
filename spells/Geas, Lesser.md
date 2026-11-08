@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
 casting-time: "1 round"
@@ -19,8 +20,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Geas, Lesser|Geas, Lesser (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Sor/Wiz 4, Wit 4
   - **Components**: V
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

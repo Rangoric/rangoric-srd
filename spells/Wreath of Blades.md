@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Wit 5
   - **Components**: V, S, F (four mithral daggers, each worth at least 502 gp each)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

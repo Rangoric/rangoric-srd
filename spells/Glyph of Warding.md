@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 3
+  - **Level**: Clr 3, Wit 3
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Touch

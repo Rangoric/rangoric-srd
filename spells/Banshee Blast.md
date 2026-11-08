@@ -9,6 +9,7 @@ descriptor:
   - "Sonic"
 level:
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Fear, Mind-affecting, Sonic\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Sor/Wiz 6, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

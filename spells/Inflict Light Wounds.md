@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Clr 1"
   - "Destruction 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "Will half"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Inflict Light Wounds|Inflict Light Wounds (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 1, Destruction 1
+  - **Level**: Clr 1, Destruction 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

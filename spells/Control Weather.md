@@ -7,6 +7,7 @@ level:
   - "Clr 7"
   - "Drd 7"
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Control Weather|Control Weather (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Air 7, Clr 7, Drd 7, Sor/Wiz 7
+  - **Level**: Air 7, Clr 7, Drd 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 10 minutes; see text
   - **Range**: 2 miles

@@ -9,6 +9,7 @@ level:
   - "Drd 3"
   - "Pal 4"
   - "Rgr 3"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -21,8 +22,8 @@ saving-throw: "Will negates (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Neutralize Poison|Neutralize Poison (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 4, Clr 4, Drd 3, Pal 4, Rgr 3
+  - **Level**: Brd 4, Clr 4, Drd 3, Pal 4, Rgr 3, Wit 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

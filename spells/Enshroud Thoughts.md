@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Rgr 3"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[MindAffecting\]*
 
-  - **Level**: Brd 2, Rgr 3
+  - **Level**: Brd 2, Rgr 3, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

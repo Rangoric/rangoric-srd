@@ -9,6 +9,7 @@ descriptor:
   - "Ruse"
 level:
   - "Clr 7"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[Chaotic, Evil, Ruse\]*
 
-  - **Level**: Clr 7
+  - **Level**: Clr 7, Wit 8
   - **Components**: V, S, M, DF (diamond worth 10,000 gp)
   - **Casting Time**: 1 minute
   - **Range**: Touch

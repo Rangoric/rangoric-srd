@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
 casting-time: "10 minutes"
@@ -12,8 +13,8 @@ target: "You"
 duration: "Concentration"
 based-on:
   - "[[fantasy srd 3.5/spells/Contact Other Plane|Contact Other Plane (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Wit 5
   - **Components**: V
   - **Casting Time**: 10 minutes
   - **Range**: Personal

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Wit 5
   - **Components**: V, S, F (a gem or crystal worth at least 100 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

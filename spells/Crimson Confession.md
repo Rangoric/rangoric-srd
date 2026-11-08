@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Touch

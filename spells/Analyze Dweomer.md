@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 6"
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None or Will negates; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Analyze Dweomer|Analyze Dweomer (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 6, Sor/Wiz 6
+  - **Level**: Brd 6, Sor/Wiz 6, Wit 6
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

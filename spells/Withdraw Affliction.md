@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Wit 7"
 components:
   - "V"
   - "S"

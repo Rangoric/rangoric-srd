@@ -8,6 +8,7 @@ level:
   - "Clr 8"
   - "Drd 8"
   - "Sor/Wiz 8"
+  - "Wit 8"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Brd 6, Clr 8, Drd 8, Sor/Wiz 8
+  - **Level**: Brd 6, Clr 8, Drd 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

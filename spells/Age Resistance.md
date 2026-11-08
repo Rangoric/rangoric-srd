@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Drd 6"
   - "Sor/Wiz 6"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 6, Sor/Wiz 6
+  - **Level**: Drd 6, Sor/Wiz 6, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

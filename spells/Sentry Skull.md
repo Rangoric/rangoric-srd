@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 2, Sor/Wiz 2
+  - **Level**: Clr 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M (an onyx gem worth at least 10 gp)
   - **Casting Time**: 1 hour
   - **Range**: Touch

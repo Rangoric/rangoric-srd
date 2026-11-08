@@ -6,6 +6,7 @@ subschool: "Creation"
 level:
   - "Clr 7"
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Clr 7, Sor/Wiz 7
+  - **Level**: Clr 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S, F (a forked metal rod worth at least 500 gp)
   - **Casting Time**: 2 hours
   - **Range**: 0 ft.

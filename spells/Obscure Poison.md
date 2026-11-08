@@ -7,6 +7,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "S"
   - "M"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Clr 1, Drd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Clr 1, Drd 1, Sor/Wiz 1, Wit 1
   - **Components**: S, M (herbs used in antitoxins worth 10 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -5,11 +5,12 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Clr 7"
+  - "Wit 8"
 casting-time: "10 minutes"
 based-on:
   - "[[fantasy srd 3.5/spells/Resurrection|Resurrection (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -18,7 +19,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 7
+  - **Level**: Clr 7, Wit 8
   - **Casting Time**: 10 minutes
 
 This spell functions like [[rangoric-srd/spells/Raise Dead|raise dead]], except that you are able to restore life and complete strength to any deceased creature.

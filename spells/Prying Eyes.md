@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Sor/Wiz 5"
+  - "Wit 5"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Wit 5
   - **Components**: V, S, M
   - **Casting Time**: 1 minute
   - **Range**: One mile

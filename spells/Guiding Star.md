@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Clr 3"
   - "Rgr 2"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 3, Rgr 2
+  - **Level**: Clr 3, Rgr 2, Wit 3
   - **Components**: V, S, M (a spool of thread or string)
   - **Casting Time**: 1 minute
   - **Range**: Personal

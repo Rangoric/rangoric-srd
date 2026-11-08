@@ -4,6 +4,7 @@ section: "Spells"
 school: "Universal"
 level:
   - "Sor/Wiz 0"
+  - "Wit 0"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Universal*
 
-  - **Level**: Sor/Wiz 0
+  - **Level**: Sor/Wiz 0, Wit 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

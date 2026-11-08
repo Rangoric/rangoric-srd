@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Sor/Wiz 2, Wit 2
   - **Components**: V, S, M (a crushed grasshopper)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

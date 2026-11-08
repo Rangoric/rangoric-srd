@@ -10,13 +10,14 @@ level:
   - "Brd 6"
   - "Clr 6"
   - "Sor/Wiz 6"
+  - "Wit 6"
 casting-time: "10 minutes"
 target: "One living creature"
 saving-throw: "None"
 based-on:
   - "[[fantasy srd 3.5/spells/Geas-Quest|Geas-Quest (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Brd 6, Clr 6, Sor/Wiz 6
+  - **Level**: Brd 6, Clr 6, Sor/Wiz 6, Wit 6
   - **Casting Time**: 10 minutes
   - **Target**: One living creature
   - **Saving Throw**: None

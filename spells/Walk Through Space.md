@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Sor/Wiz 7, Wit 7
   - **Components**: V, S, M (a wren's egg)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

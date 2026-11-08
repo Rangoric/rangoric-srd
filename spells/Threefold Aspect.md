@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 5"
+  - "Wit 4"
 components:
   - "S"
   - "F"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 5
+  - **Level**: Drd 5, Wit 4
   - **Components**: S, F (silver crescent worth 5 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

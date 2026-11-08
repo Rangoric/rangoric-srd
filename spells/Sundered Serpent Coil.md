@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Sor/Wiz 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a snake scale)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Wit 2"
 components:
   - "V"
   - "S"

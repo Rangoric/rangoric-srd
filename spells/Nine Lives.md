@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 8"
+  - "Wit 8"
 casting-time: "1 standard action"
 range: "Touch"
 target: "One creature touched"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 8
+  - **Level**: Clr 8, Wit 8
   - **Components**: 
   - **Casting Time**: 1 standard action
   - **Range**: Touch

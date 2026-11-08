@@ -8,6 +8,7 @@ level:
   - "Clr 6"
   - "Pal 4"
   - "Rgr 4"
+  - "Wit 6"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[See text\]*
 
-  - **Level**: Clr 6, Pal 4, Rgr 4
+  - **Level**: Clr 6, Pal 4, Rgr 4, Wit 6
   - **Components**: V, S, M, F (incense worth 1,000 gp)
   - **Casting Time**: 1 round
   - **Range**: Personal

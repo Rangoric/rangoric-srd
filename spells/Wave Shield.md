@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 1"
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "V"
 casting-time: "1 immediate action"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Water\]*
 
-  - **Level**: Drd 1, Sor/Wiz 1
+  - **Level**: Drd 1, Sor/Wiz 1, Wit 1
   - **Components**: V
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

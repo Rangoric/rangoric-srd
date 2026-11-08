@@ -6,6 +6,7 @@ subschool: "Polymorph"
 level:
   - "Drd 8"
   - "Sor/Wiz 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Drd 8, Sor/Wiz 9
+  - **Level**: Drd 8, Sor/Wiz 9, Wit 9
   - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

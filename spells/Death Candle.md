@@ -8,6 +8,7 @@ descriptor:
   - "Fire"
 level:
   - "Clr 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Evil, Fire\]*
 
-  - **Level**: Clr 2
+  - **Level**: Clr 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Duration**: Instantaneous/1 round per HD of subject; see text

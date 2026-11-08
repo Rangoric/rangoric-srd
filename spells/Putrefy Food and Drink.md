@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Poison"
 level:
+  - "Wit 0"
 components:
   - "V"
   - "S"

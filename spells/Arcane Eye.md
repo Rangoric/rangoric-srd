@@ -5,6 +5,7 @@ school: "Divination"
 subschool: "Scrying"
 level:
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Sor/Wiz 4, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Unlimited

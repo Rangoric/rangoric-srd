@@ -8,6 +8,7 @@ level:
   - "Clr 4"
   - "Drd 4"
   - "Sor/Wiz 4"
+  - "Wit 4"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Clr 4, Drd 4, Sor/Wiz 4
+  - **Level**: Clr 4, Drd 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

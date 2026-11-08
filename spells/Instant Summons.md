@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Summoning"
 level:
   - "Sor/Wiz 7"
+  - "Wit 7"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Sor/Wiz 7, Wit 7
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: See text

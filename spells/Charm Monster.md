@@ -8,12 +8,13 @@ descriptor:
 level:
   - "Brd 3"
   - "Sor/Wiz 4"
+  - "Wit 4"
 target: "One living creature"
 duration: "One day/level"
 based-on:
   - "[[fantasy srd 3.5/spells/Charm Monster|Charm Monster (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Sor/Wiz 4, Wit 4
   - **Target**: One living creature
   - **Duration**: One day/level
 

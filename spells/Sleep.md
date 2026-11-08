@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 1"
   - "Sor/Wiz 1"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -20,8 +21,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Sleep|Sleep (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

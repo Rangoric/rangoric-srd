@@ -7,6 +7,7 @@ level:
   - "Clr 3"
   - "Pal 4"
   - "Sor/Wiz 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Clr 3, Pal 4, Sor/Wiz 3
+  - **Level**: Clr 3, Pal 4, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal (half-elf only)

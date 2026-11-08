@@ -7,6 +7,7 @@ descriptor:
   - "Curse"
   - "Mind-affecting"
 level:
+  - "Wit 1"
 components:
   - "V"
   - "S"

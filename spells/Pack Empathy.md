@@ -6,6 +6,7 @@ level:
   - "Drd 3"
   - "Rgr 2"
   - "Sor/Wiz 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 3, Rgr 2, Sor/Wiz 3
+  - **Level**: Drd 3, Rgr 2, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

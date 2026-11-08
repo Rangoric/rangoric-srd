@@ -8,12 +8,13 @@ descriptor:
 level:
   - "Brd 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "One living creature of 6 HD or less"
 based-on:
   - "[[fantasy srd 3.5/spells/Daze Monster|Daze Monster (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Sor/Wiz 2, Wit 2
   - **Range**: Medium (100 ft. + 10 ft./level)
   - **Target**: One living creature of 6 HD or less
 

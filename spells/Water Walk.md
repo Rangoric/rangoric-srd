@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 3"
   - "Rgr 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Water Walk|Water Walk (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Clr 3, Rgr 3
+  - **Level**: Clr 3, Rgr 3, Wit 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

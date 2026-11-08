@@ -10,6 +10,7 @@ level:
   - "Healing 1"
   - "Pal 1"
   - "Rgr 2"
+  - "Wit 1"
 components:
   - "V"
   - "S"
@@ -21,8 +22,8 @@ saving-throw: "Will half (harmless); see text"
 spell-resistance: "Yes (harmless); see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Light Wounds|Cure Light Wounds (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 1, Clr 1, Drd 1, Healing 1, Pal 1, Rgr 2
+  - **Level**: Brd 1, Clr 1, Drd 1, Healing 1, Pal 1, Rgr 2, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

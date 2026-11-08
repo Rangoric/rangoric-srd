@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Sor/Wiz 3"
+  - "Wit 3"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a handful of copper coins)
   - **Casting Time**: 1 standard action
   - **Range**: 40 ft.

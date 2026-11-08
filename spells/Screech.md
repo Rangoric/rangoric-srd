@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Sonic"
 level:
+  - "Wit 3"
 components:
   - "V"
 casting-time: "1 standard action"

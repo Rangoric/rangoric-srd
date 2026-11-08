@@ -11,6 +11,7 @@ level:
   - "Earth 9"
   - "Fire 9"
   - "Water 9"
+  - "Wit 9"
 components:
   - "V"
   - "S"
@@ -22,8 +23,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Elemental Swarm|Elemental Swarm (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text\]*
 
-  - **Level**: Air 9, Drd 9, Earth 9, Fire 9, Water 9
+  - **Level**: Air 9, Drd 9, Earth 9, Fire 9, Water 9, Wit 9
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Medium (100 ft. + 10 ft./level)

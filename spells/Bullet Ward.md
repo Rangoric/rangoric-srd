@@ -7,6 +7,7 @@ level:
   - "Pal 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
+  - "Wit 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 2, Pal 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Brd 2, Pal 2, Rgr 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, F (one to four adamantine bullets, each worth 61 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Personal
