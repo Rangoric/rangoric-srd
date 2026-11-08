@@ -67,7 +67,7 @@ Being [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinat
 
 A [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|ranger]] gains a bonus on Perception checks when using this skill against a favored enemy.
 
-Some races are better at noticing things; see the [[rangoric-srd/rules/PC Races|race]] for its racial bonuses.
+Some races are better at noticing things; see the [[rangoric-srd/races/PC Races|race]] for its racial bonuses.
 
 The masters of some [[rangoric-srd/classes/Wizard#Familiars|familiars]] gain a bonus on Perception checks.
 

@@ -76,11 +76,11 @@ When you use the Craft skill to make a particular sort of item, the DC for check
 
 **Try Again**: Yes, but each time you miss by 5 or more, you ruin half the raw materials and have to pay half the original raw material cost again.
 
-**Special**: Dwarves are better at Craft checks related to stone or metal; see the [[rangoric-srd/rules/PC Races#Dwarves|dwarf]].
+**Special**: Dwarves are better at Craft checks related to stone or metal; see the [[rangoric-srd/races/Dwarf|dwarf]].
 
 Antitoxin and other remedies are made with [[rangoric-srd/skills/Medicine|Medicine]] instead.
 
-Gnomes are better at Craft (alchemy) checks; see the [[rangoric-srd/rules/PC Races#Gnomes|gnome]].
+Gnomes are better at Craft (alchemy) checks; see the [[rangoric-srd/races/Gnome|gnome]].
 
 You may voluntarily add +10 to the indicated DC to craft an item. This allows you to create the item more quickly (since you’ll be multiplying this higher DC by your Craft check result to determine progress). You must decide whether to increase the DC before you make each weekly or daily check.
 

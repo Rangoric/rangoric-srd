@@ -65,7 +65,7 @@ Any time you take damage while climbing, make an Athletics check against the DC 
 
 **Special**: You can use a rope to haul a character upward (or lower a character) through sheer strength. You can lift double your maximum load in this manner.
 
-Halflings are better at climbing; see the [[rangoric-srd/rules/PC Races#Halflings|halfling]].
+Halflings are better at climbing; see the [[rangoric-srd/races/Halfling|halfling]].
 
 The master of a [[rangoric-srd/classes/Wizard#Familiars|lizard familiar]] gains a bonus on Athletics checks.
 
@@ -149,7 +149,7 @@ If you succeed on the check, you take falling damage as if you had dropped 10 fe
 
 The [[rangoric-srd/feats/Run|Run]] feat gives a bonus on Athletics checks for any jumps made after a running start.
 
-Halflings are better at jumping; see the [[rangoric-srd/rules/PC Races#Halflings|halfling]].
+Halflings are better at jumping; see the [[rangoric-srd/races/Halfling|halfling]].
 
 ## Swimming
 

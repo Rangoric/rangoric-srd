@@ -43,7 +43,7 @@ When applying multipliers to real-world values (such as weight or distance), nor
 
 ##### Ability Modifiers
 
-Each ability, after changes made because of [[rangoric-srd/rules/PC Races|race]], has a modifier ranging from –5 to +5. Table: Ability Modifiers and Bonus Spells shows the modifier for each score. It also shows bonus spells, which you’ll need to know about if your character is a spellcaster.
+Each ability, after changes made because of [[rangoric-srd/races/PC Races|race]], has a modifier ranging from –5 to +5. Table: Ability Modifiers and Bonus Spells shows the modifier for each score. It also shows bonus spells, which you’ll need to know about if your character is a spellcaster.
 
 The modifier is the number you apply to the die roll when your character tries to do something related to that ability. You also use the modifier with some numbers that aren’t die rolls. A positive modifier is called a bonus, and a negative modifier is called a penalty.
 

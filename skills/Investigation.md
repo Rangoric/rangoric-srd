@@ -31,14 +31,14 @@ Investigation is finding things, working out what they mean, and digging through
 | Find a footprint                                    | Varies (2)                              |
 | Sense magic | 60 |
 
-1 *Dwarves can also find traps built into or out of stone; see the dwarf’s [[rangoric-srd/rules/PC Races#^dwarf-stonecunning|stonecunning]].*
+1 *Dwarves can also find traps built into or out of stone; see the dwarf’s [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]].*
 
 2 *A successful Investigation check can find a footprint or similar sign of a creature’s passage,  
 but it won’t let you find or follow a trail. See the [[rangoric-srd/feats/Track|Track]] feat for the appropriate DC.*
 
 **Action**: It takes a full-round action to search a 5-foot-by-5-foot area or a volume of goods 5 feet on a side.
 
-**Special**: Elves and half-elves are better at Investigation checks, and an elf can notice a secret door just by passing near it; see the [[rangoric-srd/rules/PC Races#Elves|elf]] and [[rangoric-srd/rules/PC Races#Half-Elves|half-elf]].
+**Special**: Elves and half-elves are better at Investigation checks, and an elf can notice a secret door just by passing near it; see the [[rangoric-srd/races/Elf|elf]] and [[rangoric-srd/races/Half-Elf|half-elf]].
 
 The spells explosive runes, fire trap, glyph of warding, symbol, and teleportation circle create magic traps that a character with trapfinding can find by making a successful Investigation check and then can attempt to disarm by using [[rangoric-srd/skills/Engineering|Engineering]]. Identifying the location of a snare spell has a DC of 23. Spike growth and spike stones create magic traps that can be found using Investigation, but against which Engineering checks do not succeed. See the individual spell descriptions for details.
 
@@ -46,7 +46,7 @@ Active abjuration spells within 10 feet of each other for 24 hours or more creat
 
 **Restriction**: Anyone can use Investigation to find simple traps, but finding harder ones takes [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]]. (Exception: The spell find traps temporarily enables a cleric to use the Investigation skill as if he were a rogue.)
 
-A dwarf, even one without trapfinding, can use the Investigation skill to find difficult traps built into or out of stone; see the dwarf’s [[rangoric-srd/rules/PC Races#^dwarf-stonecunning|stonecunning]].
+A dwarf, even one without trapfinding, can use the Investigation skill to find difficult traps built into or out of stone; see the dwarf’s [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]].
 
 ## Advanced Uses
 

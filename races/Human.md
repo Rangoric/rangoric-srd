@@ -1,3 +1,14 @@
+---
+srd-type: "race"
+section: "Races"
+based-on:
+  - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
+status: draft
+change: modified
+pi-review: 2026-11-08
+tags: [rangoric, rangoric/race]
+---
+
 ## Humans
 
 Size: Medium

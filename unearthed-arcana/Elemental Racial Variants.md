@@ -63,7 +63,7 @@ Air gnomes are identical with standard gnomes, except for some differences in ra
 
 ##### Racial Traits
 
-Air gnomes have the general [[#General Traits Of Air Races|traits of air races]] described above and all [[rangoric-srd/rules/PC Races#Gnomes|gnome racial traits]], with additions and exceptions as noted below.
+Air gnomes have the general [[#General Traits Of Air Races|traits of air races]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
 
   - \+2 Dexterity, -2 Strength: Air gnomes are agile, but lack physical power.
   - No racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|goblinoids]].
@@ -98,7 +98,7 @@ Earth dwarves are identical with standard dwarves, except for some differences i
 
 ##### Racial Traits
 
-Earth dwarves have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of earth races]] described above and all [[rangoric-srd/rules/PC Races#Dwarves|dwarf racial traits]], with additions and exceptions as noted below.
+Earth dwarves have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of earth races]] described above and all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
 
   - \+2 Strength, +2 Constitution, -2 Dexterity, -2 Charisma: Earth dwarves are physically powerful, but somewhat clumsy in action and speech.
   - Improved Stonecunning: An earth dwarf's racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks to notice unusual stonework is +4 (instead of +2).
@@ -137,7 +137,7 @@ Fire elves are identical with standard elves, except for some differences in rac
 
 ##### Racial Traits
 
-Fire elves have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of fire races]] described above and all [[rangoric-srd/rules/PC Races#Elves|elf racial traits]], with additions and exceptions as noted below.
+Fire elves have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of fire races]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
 
   - \+2 Dexterity, -2 Constitution, +2 Intelligence, -2 Charisma: Fire elves are quick of action and thought, but share the standard race's frailty.
 
@@ -150,7 +150,7 @@ Fire half-elves enjoy the finer things in life, but are not as hedonistic as the
 ##### Racial Traits
 
 Fire half-elves do not have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of fire races]].  
-Fire half-elves have all [[rangoric-srd/rules/PC Races#Half-Elves|half-elf racial traits]], as well as the following traits.
+Fire half-elves have all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], as well as the following traits.
 
   - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|water]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Water]].
   - \-1 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities used by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|water]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Water]].
@@ -191,7 +191,7 @@ Water half-orcs combine the flexibility and careful consideration of their water
 ##### Racial Traits
 
 Water hald-orcs do not have the general [[#General Traits Of Water Races|traits of water races]].  
-Water half-orcs have all [[rangoric-srd/rules/PC Races#Half-Orcs|half-orc racial traits]], as well as the following traits.
+Water half-orcs have all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], as well as the following traits.
 
   - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]].
   - \-1 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities used by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]].
@@ -202,7 +202,7 @@ Water Halflings are identical with standard halflings, except for some differenc
 
 ##### Racial Traits
 
-Water Halflings have the general [[#General Traits Of Water Races|traits of water races]] described above and all [[rangoric-srd/rules/PC Races#Halflings|halfling racial traits]], with additions and exceptions as noted below.
+Water Halflings have the general [[#General Traits Of Water Races|traits of water races]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
 
   - \-2 Strength, +2 Dexterity, +2 Constitution: Water halflings are quick and healthy, but physically weak.
 
