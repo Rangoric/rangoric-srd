@@ -16,4 +16,4 @@ When you clobber an opponent with your fists, you inundate its mind with visions
 
 **Prerequisites**: Wis 15, Cha 11, [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Stunning Fist|Stunning Fist]], [[rangoric-srd/skills/Arcana|Arcana]] 4 ranks, [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] class feature, nongood alignment.
 
-**Benefit**: You gain one more Stunning Fist attempt per day. While using this style with at least 1 point in your ki pool, the DCs of your confusion, madness and insanity effects increase by 1. When you stun an opponent with Stunning Fist, it also takes 1 point of Wisdom [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]].
+**Benefit**: You gain one more Stunning Fist attempt per day. While using this style with at least 1 point in your ki pool, the DCs of your confusion, madness and insanity effects (including [[rangoric-srd/feats/Maddening Strike|Maddening Strike]]) increase by 1. When you stun an opponent with Stunning Fist, it also takes 1 point of Wisdom [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]].
