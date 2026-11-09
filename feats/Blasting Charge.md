@@ -1,0 +1,22 @@
+---
+srd-type: "feat"
+section: "Feats"
+prerequisites: "Base attack bonus +7, ability to cast 2nd-level bloodrager spells, bloodrage class feature."
+based-on:
+  - "[[path srd 3.5/feats/Blasting Charge|Blasting Charge (PF1)]]"
+  - "[[path srd 3.5 foundry/feats/Blasting Charge|Blasting Charge (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-09
+tags: [rangoric, rangoric/feat]
+---
+
+# Blasting Charge
+
+You funnel the power of your bloodrage into a strike capable of erupting with arcane power.
+
+**Prerequisites**: Base attack bonus +7, ability to cast 2nd-level [[rangoric-srd/classes/Bloodrager#^bloodrager-spells|bloodrager spells]], [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodrage|bloodrage]] class feature.
+
+**Benefit**: While you are [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodrage|bloodraging]], at the end of a [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] you can expend a bloodrager spell slot as a swift action to imbue your charge attack with extra power. You deal an additional 1d6 points of damage per level of the spell slot expended. This extra damage is force damage, and it’s not multiplied in the case of a critical hit.
+
+If your bloodline has a specific energy type associated with it (such as the [[rangoric-srd/class-options/bloodrager-bloodlines/Elemental Bloodline (Bloodrager)|elemental]] or [[rangoric-srd/class-options/bloodrager-bloodlines/Draconic Bloodline (Bloodrager)|draconic]] bloodlines), you can choose to increase the damage to 1d8 points per level of the spell slot expended, and this extra damage is of that energy type.
