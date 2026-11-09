@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Half-Elf|Half-Elf]]. **Replaces**: low-light vision.
 
-Some half-elves born of drow parents exhibit more drow traits than others—particularly many of the physical features of the drow—and have darkvision 60 feet and light blindness: abrupt exposure to bright light [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinds]] them for 1 round, and on later rounds they are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] as long as they remain in the bright light.
+Some half-elves born of drow parents exhibit more drow traits than others—particularly many of the physical features of the drow—and have [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 feet and [[rangoric-srd/rules/Special Abilities and Conditions#Light Blindness|light blindness]].

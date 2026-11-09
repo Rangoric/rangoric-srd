@@ -109,6 +109,4 @@ Stone giant characters possess the following racial traits.
 
   - Automatic Languages: Giant. Bonus Languages: Common, Draconic, Elven, Goblin, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]].
-
   - Level adjustment +4.

@@ -76,4 +76,4 @@ Skills: Mercanes receive a +4 racial bonus on [[rangoric-srd/skills/Appraise|Ap
 
 ### Mercane Characters
 
-A mercane’s favored class is [[rangoric-srd/classes/Wizard|wizard]]. Player character mercanes have a level adjustment of +7.
+Player character mercanes have a level adjustment of +7.

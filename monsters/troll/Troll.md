@@ -127,6 +127,4 @@ Troll characters possess the following racial traits.
 
   - Automatic Languages: Giant. Bonus Languages: Common, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]].
-
   - Level adjustment +5.

@@ -54,8 +54,6 @@ Dwarves are experts in combat, effectively using their environment and executing
 
   - Automatic Languages: Common, Dwarven. Bonus Languages: Giant, Gnome, Goblin, Orc, Terran, Undercommon.
 
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]].
-
 The dwarf warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 ### Subraces
@@ -109,8 +107,6 @@ Duergar speak Dwarven and Undercommon.
   - Automatic Languages: Common, Dwarven, Undercommon.
 
   - Bonus Languages: Draconic, Giant, Goblin, Orc, Terran. This trait replaces the hill dwarf ’s automatic and bonus languages.
-
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]].
 
   - Level adjustment +1
 

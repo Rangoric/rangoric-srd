@@ -107,6 +107,4 @@ Janni characters possess the following racial traits.
 
   - Automatic Languages: Common. Bonus Languages: Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran.
 
-  - Favored Class: [[rangoric-srd/classes/Rogue|Rogue]].
-
   - Level adjustment +5.

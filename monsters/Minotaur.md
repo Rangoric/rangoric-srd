@@ -106,6 +106,4 @@ Minotaur characters possess the following racial traits.
 
   - Automatic Languages: Common, Giant. Bonus Languages: Orc, Goblin, Terran.
 
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]].
-
   - Level adjustment +2.

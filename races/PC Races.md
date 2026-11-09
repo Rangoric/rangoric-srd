@@ -4,9 +4,11 @@ section: "Races"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Racial Traits|Racial Traits (APG)]]"
+  - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
+  - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-09
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -40,6 +42,10 @@ _Wizard_: Draconic.
 ##### Alternate Racial Traits
 
 Each race lists alternate racial traits, notes in `races/racial-traits`. A character can exchange one or several of their race's normal traits for alternate ones, as each alternate trait says, but can't exchange the same racial trait more than once. A race's subtypes are bundles of its alternate traits. ^alternate-racial-traits
+
+##### Defensive Training
+
+A race with defensive training gets a +4 dodge bonus to Armor Class against monsters of the giant type. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it’s caught [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]], it loses its dodge bonus, too. ^defensive-training
 
 ##### Small Characters
 

@@ -44,6 +44,23 @@ Bonus Languages:
 
 Paragon Class: [[rangoric-srd/classes/Halfling Paragon|Halfling Paragon]]
 
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 20 years | +2d4 | +3d6 | +4d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 50 years | 75 years | 100 years | +5d20 years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 2 ft. 8 in. | +2d4 | 30 lb. | × 1 lb. |
+| Female | 2 ft. 6 in. | +2d4 | 25 lb. | × 1 lb. |
+
 ### Alternate Racial Traits
 
 A halfling can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). A trait that replaces sure-footed replaces only its Acrobatics and Athletics bonus; the +2 on Stealth stays.

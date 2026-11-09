@@ -96,6 +96,4 @@ Grimlock characters possess the following racial traits.
 
   - Automatic Languages: Common, Grimlock. Bonus Languages: Draconic, Dwarven, Gnome, Terran, Undercommon.
 
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]].
-
   - Level adjustment +2.

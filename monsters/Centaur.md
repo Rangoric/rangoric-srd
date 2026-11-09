@@ -92,6 +92,4 @@ A centaur druid is usually a tribe’s designated leader and speaker. Centaur ch
 
   - Automatic Languages: Sylvan, Elven. Bonus Languages: Common, Gnome, Halfling.
 
-  - Favored Class: [[rangoric-srd/classes/Ranger|Ranger]].
-
   - Level adjustment +2.

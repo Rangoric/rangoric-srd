@@ -92,6 +92,4 @@ Gnoll characters possess the following racial traits.
 
   - Automatic Languages: Gnoll. Bonus Languages: Common, Draconic, Elven, Goblin, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Ranger|Ranger]].
-
   - Level adjustment +1.

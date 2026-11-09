@@ -94,6 +94,4 @@ Bugbear characters possess the following racial traits.
 
   - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Rogue|Rogue]].
-
   - Level adjustment +1.

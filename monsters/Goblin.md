@@ -93,6 +93,4 @@ Goblin characters possess the following racial traits.
 
   - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Rogue|Rogue]].
-
 The goblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.

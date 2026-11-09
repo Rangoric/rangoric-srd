@@ -441,7 +441,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
 
-**Low-Light Vision (Ex)**: A creature with low-light vision can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of shadowy illumination. It retains the ability to distinguish color and detail under these conditions. ^low-light-vision
+**Low-Light Vision (Ex)**: See [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^low-light-vision
 
 **Magical Beast Type**: Magical beasts are similar to animals but can have Intelligence scores higher than 2. Magical beasts usually have supernatural or extraordinary abilities, but sometimes are merely bizarre in appearance or habits. ^magical-beast
 

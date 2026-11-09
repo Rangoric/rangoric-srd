@@ -95,6 +95,4 @@ Xeph characters possess the following racial traits.
 
   - Automatic Languages: Xeph, Common.
 
-  - Favored Class: [[rangoric-srd/psionics/Soulknife|Soulknife]].
-
   - Level Adjustment: +0.

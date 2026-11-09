@@ -104,6 +104,4 @@ Gargoyle characters possess the following racial traits.
 
   - Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
 
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]].
-
   - Level adjustment +5.

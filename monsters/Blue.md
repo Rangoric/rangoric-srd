@@ -107,6 +107,4 @@ Blue characters possess the following racial traits.
 
   - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
 
-  - Favored Class: Psion.
-
   - Level Adjustment: +1.

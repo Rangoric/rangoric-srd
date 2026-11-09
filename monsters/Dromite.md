@@ -99,6 +99,4 @@ Dromite characters possess the following racial traits.
 
   - Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin, Terran.
 
-  - Favored Class: [[rangoric-srd/psionics/Wilder|Wilder]].
-
   - Level Adjustment: +1.

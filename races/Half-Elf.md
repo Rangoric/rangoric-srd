@@ -22,9 +22,9 @@ Perks:
 - +2 to one ability score of the player's choice, chosen at character creation.
 - Adaptability: Half-elves receive [[rangoric-srd/feats/Skill Focus|Skill Focus]] as a bonus feat at 1st level.
 - Elf Blood: For all effects related to race, a half-elf is considered both an [[rangoric-srd/races/Elf|elf]] and a [[rangoric-srd/races/Human|human]]. ^half-elf-elven-blood
-- Elven Immunities: Immunity to sleep spells and similar magical effects, and a +2 racial bonus on saving throws against enchantment spells or effects.
+- Elven Immunities: Half-elves have the [[rangoric-srd/races/Elf#^elf-elven-immunities|elf’s elven immunities]].
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks.
-- Low-Light Vision: A half-elf can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions. ^half-elf-low-light-vision
+- Low-Light Vision: Half-elves have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^half-elf-low-light-vision
 
 Languages:
 
@@ -36,6 +36,23 @@ Bonus Languages:
 - Any (other than secret languages, such as Druidic)
 
 Paragon Class: [[rangoric-srd/classes/Half-Elf Paragon|Half-Elf Paragon]]; after a level of it, [[rangoric-srd/classes/Elf Paragon|Elf Paragon]] or [[rangoric-srd/classes/Human Paragon|Human Paragon]] (divided ancestry)
+
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 20 years | +1d6 | +2d6 | +3d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 62 years | 93 years | 125 years | +3d20 years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 5 ft. 2 in. | +2d8 | 110 lb. | × (2d4) lb. |
+| Female | 5 ft. 0 in. | +2d8 | 90 lb. | × (2d4) lb. |
 
 ### Alternate Racial Traits
 

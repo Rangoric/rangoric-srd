@@ -39,8 +39,6 @@ tags: [rangoric, rangoric/overview]
 
   - Automatic Languages: Common. Bonus Languages: Dwarven, Gnome, Goblin, Terran.
 
-  - Favored Class: [[rangoric-srd/psionics/Wilder|Wilder]].
-
   - Level Adjustment: +1.
 
 ### Duergar
@@ -80,8 +78,6 @@ tags: [rangoric, rangoric/overview]
 
   - Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages: Draconic, Giant, Goblin, Orc, Terran.
 
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]].
-
   - Level Adjustment: +1.
 
 ### Elans
@@ -111,8 +107,6 @@ tags: [rangoric, rangoric/overview]
  ^elan-repletion
 
   - Automatic Language: Common. Bonus Languages: Any (other than secret languages, such as Druidic). Elans’ past lives expose them to wide ranges of language.
-
-  - Favored Class: [[rangoric-srd/psionics/Psion|Psion]].
 
   - Level Adjustment: +0.
 
@@ -144,8 +138,6 @@ tags: [rangoric, rangoric/overview]
 
   - Automatic Language: Common. Bonus Languages: Draconic, Giant, Gnoll, Ignan.
 
-  - Favored Class: [[rangoric-srd/psionics/Psychic Warrior|Psychic warrior]].
-
   - Level Adjustment: +1.
 
 ### Maenads
@@ -163,8 +155,6 @@ tags: [rangoric, rangoric/overview]
  ^maenad-outburst
 
   - Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic, Dwarven, Elven, Goblin. Maenads commonly know the languages of their enemies and of their friends, as well as Draconic, the language commonly found in ancient tomes of secret knowledge.
-
-  - Favored Class: Wilder.
 
   - Level Adjustment: +0
 
@@ -187,8 +177,6 @@ tags: [rangoric, rangoric/overview]
  ^xeph-burst
 
   - Automatic Languages: Common, Xeph. Bonus Languages: Draconic, Elven, Gnoll, Goblin, Halfling, Sylvan.
-
-  - Favored Class: Soulknife.
 
 ### Age, Height, and Weight
 

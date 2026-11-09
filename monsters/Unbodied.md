@@ -109,6 +109,4 @@ Unbodied characters possess the following racial traits.
 
   - Racial Feats: An unbodied’s monstrous humanoid levels give it two feats.
 
-  - Favored Class: [[rangoric-srd/psionics/Psion|Psion]] (telepath).
-
   - Level Adjustment: +4.

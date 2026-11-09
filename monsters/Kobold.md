@@ -107,6 +107,4 @@ Kobold characters possess the following racial traits.
 
   - Automatic Languages: Draconic. Bonus Languages: Common, Undercommon.
 
-  - Favored Class: [[rangoric-srd/classes/Sorcerer|Sorcerer]].
-
   - Level adjustment +0.

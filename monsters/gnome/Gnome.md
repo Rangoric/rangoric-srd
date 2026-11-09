@@ -55,8 +55,6 @@ Gnomes prefer misdirection and deception over direct confrontation. They would r
     A gnome with a Charisma score of at least 10 also has the following spell-like abilities:  
     *1/day* - [[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Spells H to L|ghost sound]], [[rangoric-srd/spells/Spells P to R|prestidigitation]].
 
-  - Favored Class: [[rangoric-srd/classes/Bard|Bard]].
-
 The gnome warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 ### Subraces
@@ -103,8 +101,6 @@ Svirfneblin speak Gnome, Common, and Undercommon.
   - \+2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Perception|Perception]] checks.
 
   - \+2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +4 underground.
-
-  - Favored Class: [[rangoric-srd/classes/Rogue|Rogue]].
 
   - Level adjustment +3.
 

@@ -91,6 +91,4 @@ Hobgoblin characters possess the following racial traits.
 
   - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Dwarven, Infernal, Giant, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]].
-
   - Level adjustment +1.

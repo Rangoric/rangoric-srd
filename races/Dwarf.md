@@ -23,8 +23,8 @@ Perks:
 - +2 Wisdom
 - -2 Charisma
 - Slow and Steady: A dwarf's speed is never modified by armor or encumbrance.
-- Darkvision: Dwarves can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and dwarves can function just fine with no light at all. ^dwarf-darkvision
-- Defensive Training: +4 dodge bonus to Armor Class against monsters of the giant type. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it’s caught [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]], it loses its dodge bonus, too.
+- Darkvision: Dwarves can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works. ^dwarf-darkvision
+- Defensive Training: Dwarves have [[rangoric-srd/races/PC Races#^defensive-training|defensive training]].
 - Craftsman: +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] checks that are related to stone or metal.
 - Greed: +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] checks that are related to stone or metal items, or made to determine the price of nonmagical goods that contain precious metals or gemstones.
 - Hatred: +1 racial bonus on attack rolls against orcs and goblinoids.
@@ -48,6 +48,23 @@ Bonus Languages:
 - Undercommon
 
 Paragon Class: [[rangoric-srd/classes/Dwarf Paragon|Dwarf Paragon]]
+
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 40 years | +3d6 | +5d6 | +7d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 125 years | 188 years | 250 years | +2d% years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 3 ft. 9 in. | +2d4 | 150 lb. | × (2d6) lb. |
+| Female | 3 ft. 7 in. | +2d4 | 120 lb. | × (2d6) lb. |
 
 ### Alternate Racial Traits
 

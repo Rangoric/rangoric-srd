@@ -21,7 +21,7 @@ Base Speed: 30ft
 Perks:
 
 - +2 to one ability score of the player's choice, chosen at character creation.
-- Darkvision: Half-orcs (and orcs) can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and half-orcs can function just fine with no light at all. ^half-orc-darkvision
+- Darkvision: Half-orcs (and orcs) can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works. ^half-orc-darkvision
 - Intimidating: +2 racial bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks.
 - Orc Blood: For all effects related to race, a half-orc is considered both a [[rangoric-srd/races/Human|human]] and an orc. ^half-orc-orc-blood
 - Orc Ferocity: Once per day, when a half-orc is brought below 0 hit points but not killed, he can fight on for one more round as if [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]]. At the end of his next turn, unless brought to above 0 hit points, he immediately falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and begins [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]].
@@ -41,6 +41,23 @@ Bonus Languages:
 - Abyssal
 
 Paragon Class: [[rangoric-srd/classes/Half-Orc Paragon|Half-Orc Paragon]]; after a level of it, [[rangoric-srd/classes/Orc Paragon|Orc Paragon]] or [[rangoric-srd/classes/Human Paragon|Human Paragon]] (divided ancestry)
+
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 14 years | +1d4 | +1d6 | +2d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 30 years | 45 years | 60 years | +2d10 years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 4 ft. 10 in. | +2d12 | 150 lb. | × (2d6) lb. |
+| Female | 4 ft. 5 in. | +2d12 | 110 lb. | × (2d6) lb. |
 
 ### Alternate Racial Traits
 

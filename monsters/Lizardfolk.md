@@ -100,6 +100,4 @@ Lizardfolk characters possess the following racial traits.
 
   - Automatic Languages: Common, Draconic. Bonus Languages: Aquan, Goblin, Gnoll, Orc.
 
-  - Favored Class: Druid.
-
   - Level adjustment +1.

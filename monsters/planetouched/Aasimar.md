@@ -101,6 +101,4 @@ Aasimar characters possess the following racial traits.
 
   - Automatic Languages: Common, Celestial. Bonus Languages: Draconic, Dwarven, Elven, Gnome, Halfling,Sylvan.
 
-  - Favored Class: [[rangoric-srd/classes/Paladin|Paladin]].
-
   - Level adjustment +1.

@@ -78,6 +78,6 @@ If the drow paragon has no levels in the class she chose, this class feature has
 
 **Improved Darkvision (Ex):** At 2nd level, a drow paragon's darkvision range increases by 30 feet. ^drow-paragon-improved-darkvision
 
-**Light Sensitivity (Ex):** A 2nd-level drow paragon's light blindness is lessened to light sensitivity. Instead of being [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] by bright light, she is merely [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright sunlight or within the radius of a [[rangoric-srd/spells/Daylight|daylight]] spell. ^drow-paragon-light-sensitivity
+**Light Sensitivity (Ex):** A 2nd-level drow paragon's [[rangoric-srd/rules/Special Abilities and Conditions#Light Blindness|light blindness]] is lessened to [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]]. ^drow-paragon-light-sensitivity
 
 **Ability Boost (Ex):** At 3rd level, a drow paragon's Dexterity score increases by 2 points. ^drow-paragon-ability-boost

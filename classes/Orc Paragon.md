@@ -68,7 +68,7 @@ All of the following are class features of the orc paragon class.
 
 **Improved Darkvision (Ex):** At 1st level, an orc paragon's darkvision range increases by 30 feet. ^orc-paragon-improved-darkvision
 
-**No Light Sensitivity:** An orc paragon loses his race's light sensitivity at 1st level. ^orc-paragon-no-light-sensitivity
+**No Light Sensitivity:** An orc paragon loses his race's [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]] at 1st level. ^orc-paragon-no-light-sensitivity
 
 **Elf Slayer (Ex):** A 2nd-level orc paragon learns to channel his hatred of the elven race. He gains a +2 bonus on weapon damage rolls against [[rangoric-srd/races/Elf|elves]]. ^orc-paragon-elf-slayer
 

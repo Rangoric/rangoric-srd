@@ -147,7 +147,7 @@ Only afflicted lycanthropes can be cured of lycanthropy.
 
 ### Lycanthropes as Characters
 
-Becoming a lycanthrope does not change a character’s favored class but usually changes alignment (see above). This alignment change may cause characters of certain classes to lose some of their class features.
+Becoming a lycanthrope usually changes a character’s alignment (see above). This alignment change may cause characters of certain classes to lose some of their class features.
 
 Lycanthrope characters possess the following racial traits.
 
@@ -174,8 +174,6 @@ Lycanthrope characters possess the following racial traits.
   - Natural lycanthrope: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/silver (in animal or hybrid form only).
 
   - Automatic Languages: As base creature.
-
-  - Favored Class: Same as the base creature.
 
   - Level adjustment: Same as the base creature +2 (afflicted) or +3 (natural).
 

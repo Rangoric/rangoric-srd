@@ -409,6 +409,14 @@ A character who loses a level instantly loses one Hit Die. The character’s bas
 
 The victim’s experience point total is immediately set to the midpoint of the previous level.
 
+##### Light Blindness
+
+Abrupt exposure to bright light [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinds]] a creature with light blindness for 1 round. On later rounds, it is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] as long as it remains in the bright light.
+
+##### Light Sensitivity
+
+A creature with light sensitivity is [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in areas of bright light or within the radius of a *[[rangoric-srd/spells/Daylight|daylight]]* spell.
+
 ##### Low-Light Vision
 
 Characters with low-light vision have eyes that are so sensitive to light that they can see twice as far as normal in dim light. Low-light vision is color vision. A spellcaster with low-light vision can read a scroll as long as even the tiniest candle flame is next to her as a source of light.

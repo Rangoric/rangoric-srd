@@ -78,7 +78,3 @@ Merfolk favor heavy crossbows of shell and coral that fire bolts fashioned from 
 **Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a merfolk is better at swimming.
 
 The merfolk warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
-
-### Merfolk Characters
-
-A merfolk’s favored class is [[rangoric-srd/classes/Bard|bard]].

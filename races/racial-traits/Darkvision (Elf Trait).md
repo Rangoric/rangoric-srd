@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Elf|Elf]]. **Replaces**: low-light vision.
 
-Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf's ancestry, and can lead to persecution within the elf's home community. Elves with this racial trait gain darkvision with a range of 60 feet, but also gain sensitivity to light and are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in areas of bright light or within the radius of a *[[rangoric-srd/spells/Daylight|daylight]]* spell.
+Though uncommon, some groups of elves are born with darkvision, rather than low-light vision. In many cases this is taken as a sign of a drow in the elf's ancestry, and can lead to persecution within the elf's home community. Elves with this racial trait gain [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] with a range of 60 feet, but also gain [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].

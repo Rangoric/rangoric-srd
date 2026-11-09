@@ -100,6 +100,4 @@ Troglodyte characters possess the following racial traits.
 
   - Automatic Languages: Draconic. Bonus Languages: Common, Giant, Goblin, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Cleric|Cleric]].
-
   - Level adjustment +2.

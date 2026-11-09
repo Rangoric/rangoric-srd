@@ -112,6 +112,4 @@ Pixie characters possess the following racial traits.
 
   - Automatic Languages: Common, Sylvan. Bonus Languages: Elven, Gnome, Halfling.
 
-  - Favored Class: [[rangoric-srd/classes/Sorcerer|Sorcerer]].
-
   - Level adjustment +4 (+6 if the pixie can use [[rangoric-srd/spells/Irresistible Dance|irresistible dance]]).

@@ -95,8 +95,6 @@ They prefer longbows, shortbows, rapiers, and longswords. In melee, elves are gr
 
   - Automatic Languages: Common, Elven. Bonus Languages: Draconic, Gnoll, Gnome, Goblin, Orc, Sylvan.
 
-  - Favored Class: [[rangoric-srd/classes/Wizard|Wizard]].
-
 The elf warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 ### Subraces
@@ -125,8 +123,6 @@ Half-elves are not truly an elf subrace, but they are often mistaken for elves. 
 
   - Automatic Languages: Common, Elven. Bonus Languages: Any (other than secret languages, such as Druidic).
 
-  - Favored Class: Any. When determining whether a multiclass half-elf takes an experience point penalty for multiclassing, her highest-level class does not count.
-
 #### Aquatic Elf
 
 Also called sea elves, these creatures are waterbreathing cousins to land-dwelling elves.
@@ -144,8 +140,6 @@ Aquatic elves fight underwater with tridents, spears, and nets.
   - Gills: Aquatic elves can survive out of the water for 1 hour per point of Constitution (after that, refer to the suffocation rules).
 
   - Superior Low-Light Vision: Aquatic elves can see four times as far as a human in starlight, moonlight, torchlight, and similar conditions of low illumination. This trait replaces the high elf ’s low-light vision.
-
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]]. This trait replaces the high elf ’s favored class.
 
 #### Drow
 
@@ -175,8 +169,6 @@ Drow usually coat their arrows with a potent venom.
 
   - Light Blindness: Abrupt exposure to bright light (such as sunlight or a daylight spell) [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinds]] drow for 1 round. On subsequent rounds, they are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] as long as they remain in the affected area.
 
-  - Favored Class: [[rangoric-srd/classes/Wizard|Wizard]] (male) or [[rangoric-srd/classes/Cleric|cleric]] (female). This trait replaces the high elf ’s favored class.
-
   - Level adjustment +2.
 
 The drow warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
@@ -201,8 +193,6 @@ Wild elves are barbaric and tribal. Wild elves’ hair color ranges from black t
 
   - \+2 Dexterity, –2 Intelligence. These adjustments replace the high elf ’s ability score adjustments.
 
-  - Favored Class: [[rangoric-srd/classes/Sorcerer|Sorcerer]]. This trait replaces the high elf ’s favored class.
-
 #### Wood Elf
 
 Their hair color ranges from yellow to a coppery red, and they are more muscular than other elves. Their clothing is in dark shades of green and earth tones to better blend in with their natural surroundings.
@@ -210,5 +200,3 @@ Their hair color ranges from yellow to a coppery red, and they are more muscular
 **Wood Elf Traits (Ex)**: These traits are in addition to the high elf traits, except where noted.
 
   - \+2 Strength, –2 Intelligence.
-
-  - Favored Class: [[rangoric-srd/classes/Ranger|Ranger]]. This trait replaces the high elf ’s favored class.
