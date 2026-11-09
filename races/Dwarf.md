@@ -47,6 +47,8 @@ Bonus Languages:
 - Terran
 - Undercommon
 
+Paragon Class: [[rangoric-srd/classes/Dwarf Paragon|Dwarf Paragon]]
+
 ### Alternate Racial Traits
 
 A dwarf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

@@ -42,6 +42,8 @@ Bonus Languages:
 - Goblin
 - Orc
 
+Paragon Class: [[rangoric-srd/classes/Halfling Paragon|Halfling Paragon]]
+
 ### Alternate Racial Traits
 
 A halfling can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). A trait that replaces sure-footed replaces only its Acrobatics and Athletics bonus; the +2 on Stealth stays.
