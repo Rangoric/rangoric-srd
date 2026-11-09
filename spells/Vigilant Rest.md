@@ -7,6 +7,7 @@ level:
   - "Brd 4"
   - "Pal 3"
   - "Rgr 3"
+  - "Skd 4"
   - "Wit 4"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Apl 3, Brd 4, Pal 3, Rgr 3, Wit 4
+  - **Level**: Apl 3, Brd 4, Pal 3, Rgr 3, Skd 4, Wit 4
   - **Components**: V, S, M (a handful of crushed glass)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

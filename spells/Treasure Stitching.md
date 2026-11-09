@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Brd 4"
   - "Clr 5"
+  - "Skd 4"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 4, Clr 5, Sor/Wiz 5
+  - **Level**: Brd 4, Clr 5, Skd 4, Sor/Wiz 5
   - **Components**: V, S, M (a piece of embroidered cloth no larger than 10-ft. square worth 100 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

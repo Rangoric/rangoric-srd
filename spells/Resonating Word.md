@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 5"
+  - "Skd 5"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Sonic\]*
 
-  - **Level**: Brd 5, Sor/Wiz 7
+  - **Level**: Brd 5, Skd 5, Sor/Wiz 7
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

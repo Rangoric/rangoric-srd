@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Brd 1"
   - "Rgr 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
 duration: "10 minutes/level"
 book: "Advanced Class Guide"
@@ -20,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Brd 1, Rgr 1, Skd 1, Sor/Wiz 1
   - **Components**: 
   - **Duration**: 10 minutes/level
 

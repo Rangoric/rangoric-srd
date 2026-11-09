@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 1"
+  - "Skd 1"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ target: "One living creature"
 duration: "1 round"
 based-on:
   - "[[fantasy srd 3.5/spells/Confusion, Lesser|Confusion, Lesser (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 1
+  - **Level**: Brd 1, Skd 1
   - **Components**: V, S, DF
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Target**: One living creature

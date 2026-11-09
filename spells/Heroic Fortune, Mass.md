@@ -5,6 +5,7 @@ school: "Evocation"
 level:
   - "Brd 4"
   - "Clr 5"
+  - "Skd 4"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Brd 4, Clr 5
+  - **Level**: Brd 4, Clr 5, Skd 4
   - **Components**: V, S, DF, M (diamond dust worth 1,000 gp)
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Targets**: One or more creatures, no two of which can be more than 30 ft. apart

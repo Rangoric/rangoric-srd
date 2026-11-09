@@ -9,6 +9,7 @@ level:
   - "Apl 3"
   - "Brd 3"
   - "Clr 3"
+  - "Skd 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 effect: "One or more summoned creatures, no two of which can be more than 30 ft. apart"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text for summon monster I\]*
 
-  - **Level**: Apl 3, Brd 3, Clr 3, Sor/Wiz 3, Wit 3
+  - **Level**: Apl 3, Brd 3, Clr 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Effect**: One or more summoned creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster I]], except that you can summon one creature from the 3rd-level list, 1d3 creatures of the same kind from the 2nd-level list, or 1d4+1 creatures of the same kind from the 1st-level list.

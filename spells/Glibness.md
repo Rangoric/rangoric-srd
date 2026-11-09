@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Brd 3"
+  - "Skd 3"
 components:
   - "S"
 casting-time: "1 standard action"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 3
+  - **Level**: Brd 3, Skd 3
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

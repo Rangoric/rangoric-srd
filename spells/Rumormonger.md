@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Brd 2"
+  - "Skd 2"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2
+  - **Level**: Brd 2, Skd 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Pal 3"
+  - "Skd 3"
   - "Wit 4"
 components:
   - "V"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, Fear\]*
 
-  - **Level**: Brd 3, Pal 3, Wit 4
+  - **Level**: Brd 3, Pal 3, Skd 3, Wit 4
   - **Components**: V, S, M (a drop of black ink)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

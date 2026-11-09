@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Figment"
 level:
   - "Brd 0"
+  - "Skd 0"
   - "Sor/Wiz 0"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "Will disbelief (if interacted with)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Ghost Sound|Ghost Sound (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 0, Sor/Wiz 0
+  - **Level**: Brd 0, Skd 0, Sor/Wiz 0
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

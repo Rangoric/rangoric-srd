@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 1"
   - "Magic 2"
+  - "Skd 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Magic 2, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Magic 2, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 hour
   - **Range**: Touch

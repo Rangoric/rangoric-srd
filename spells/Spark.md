@@ -8,6 +8,7 @@ level:
   - "Brd 0"
   - "Clr 0"
   - "Drd 0"
+  - "Skd 0"
   - "Sor/Wiz 0"
   - "Wit 0"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Sor/Wiz 0, Wit 0
+  - **Level**: Brd 0, Clr 0, Drd 0, Skd 0, Sor/Wiz 0, Wit 0
   - **Components**: V or S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

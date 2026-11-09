@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 5"
   - "Clr 7"
+  - "Skd 5"
   - "Sor/Wiz 7"
   - "Wit 7"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Curse, MindAffecting\]*
 
-  - **Level**: Brd 5, Clr 7, Sor/Wiz 7, Wit 7
+  - **Level**: Brd 5, Clr 7, Skd 5, Sor/Wiz 7, Wit 7
   - **Components**: V, S, M (a physical connection to the target; see text)
   - **Casting Time**: 8 hours
   - **Range**: SeeText

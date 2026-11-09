@@ -7,6 +7,7 @@ descriptor:
   - "Language-dependent"
 level:
   - "Brd 2"
+  - "Skd 2"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire, Language-dependent\]*
 
-  - **Level**: Brd 2
+  - **Level**: Brd 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -6,6 +6,7 @@ level:
   - "Brd 4"
   - "Drd 3"
   - "Rgr 2"
+  - "Skd 4"
 components:
   - "V"
   - "S"
@@ -15,8 +16,8 @@ target: "You"
 duration: "1 min./level"
 based-on:
   - "[[fantasy srd 3.5/spells/Speak with Plants|Speak with Plants (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Drd 3, Rgr 2
+  - **Level**: Brd 4, Drd 3, Rgr 2, Skd 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

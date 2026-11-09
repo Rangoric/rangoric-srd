@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Brd 3"
+  - "Skd 3"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 3
+  - **Level**: Brd 3, Skd 3
   - **Components**: V, S
   - **Casting Time**: 1 swift action
   - **Range**: 20 ft.

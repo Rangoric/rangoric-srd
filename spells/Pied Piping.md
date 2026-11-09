@@ -8,6 +8,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 6"
+  - "Skd 6"
 components:
   - "V"
   - "F"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting, Sonic\]*
 
-  - **Level**: Brd 6
+  - **Level**: Brd 6, Skd 6
   - **Components**: V or F (musical instrument)
   - **Casting Time**: 1 standard action
   - **Range**: 90 ft.

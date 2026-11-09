@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 4"
   - "Law 6"
+  - "Skd 4"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 4, Law 6, Sor/Wiz 5, Wit 5
+  - **Level**: Brd 4, Law 6, Skd 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M/DF
   - **Target**: One living creature
 

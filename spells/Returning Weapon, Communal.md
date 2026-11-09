@@ -7,6 +7,7 @@ level:
   - "Brd 3"
   - "Clr 3"
   - "Rgr 2"
+  - "Skd 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Brd 3, Clr 3, Rgr 2, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 3, Clr 3, Rgr 2, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

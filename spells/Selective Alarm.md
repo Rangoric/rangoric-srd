@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Brd 3"
   - "Rgr 2"
+  - "Skd 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 3, Rgr 2, Sor/Wiz 3
+  - **Level**: Brd 3, Rgr 2, Skd 3, Sor/Wiz 3
   - **Components**: V, S, F, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Sha 3"
+  - "Skd 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 range: "Close (25 ft. + 5 ft./2 levels)"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Sha 3, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Range**: Close (25 ft. + 5 ft./2 levels)
 
 This spell functions like [[rangoric-srd/spells/Sleep|sleep]], except that it affects 10 HD of creatures.

@@ -6,6 +6,7 @@ descriptor:
   - "Air"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Whispering Wind|Whispering Wind (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 1 mile/level

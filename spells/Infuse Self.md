@@ -5,6 +5,7 @@ school: "Transmutation"
 subschool: "Polymorph"
 level:
   - "Brd 3"
+  - "Skd 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Brd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Skd 3, Sor/Wiz 3
   - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Drd 2"
+  - "Skd 2"
   - "Wit 2"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Water\]*
 
-  - **Level**: Brd 2, Drd 2, Wit 2
+  - **Level**: Brd 2, Drd 2, Skd 2, Wit 2
   - **Components**: V, S, M, M/DF (a drop of water)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

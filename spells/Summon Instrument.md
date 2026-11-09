@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Summoning"
 level:
   - "Brd 0"
+  - "Skd 0"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Instrument|Summon Instrument (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Brd 0
+  - **Level**: Brd 0, Skd 0
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: 0 ft.

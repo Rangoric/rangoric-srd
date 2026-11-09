@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 6"
   - "Clr 9"
+  - "Skd 6"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
 
-  - **Level**: Brd 6, Clr 9, Sor/Wiz 9
+  - **Level**: Brd 6, Clr 9, Skd 6, Sor/Wiz 9
   - **Components**: V, S, M (a swan feather)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

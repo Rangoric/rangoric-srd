@@ -7,6 +7,7 @@ level:
   - "Brd 1"
   - "Drd 1"
   - "Rgr 1"
+  - "Skd 1"
   - "Wit 1"
 components:
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 1, Drd 1, Rgr 1, Wit 1
+  - **Level**: Brd 1, Drd 1, Rgr 1, Skd 1, Wit 1
   - **Components**: S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

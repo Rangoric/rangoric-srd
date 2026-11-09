@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Brd 1"
+  - "Skd 1"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Brd 1
+  - **Level**: Brd 1, Skd 1
   - **Components**: V, S, M (a pinch of sand)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

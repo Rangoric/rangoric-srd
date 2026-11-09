@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 range: "Medium (100 ft. + 10 ft./level)"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Range**: Medium (100 ft. + 10 ft./level)
   - **Target**: One living creature of 6 HD or less
 

@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 4"
+  - "Skd 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "Will disbelief (if interacted with)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Hallucinatory Terrain|Hallucinatory Terrain (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Long (400 ft. + 40 ft./level)

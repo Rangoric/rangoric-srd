@@ -6,6 +6,7 @@ subschool: "Figment, Glamer"
 level:
   - "Brd 5"
   - "Luck 6"
+  - "Skd 5"
   - "Sor/Wiz 6"
   - "Trickery 6"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment, Glamer)*
 
-  - **Level**: Brd 5, Luck 6, Sor/Wiz 6, Trickery 6
+  - **Level**: Brd 5, Luck 6, Skd 5, Sor/Wiz 6, Trickery 6
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

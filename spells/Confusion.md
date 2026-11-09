@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 3"
+  - "Skd 3"
   - "Sor/Wiz 4"
   - "Trickery 4"
   - "Wit 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4, Trickery 4, Wit 4
+  - **Level**: Brd 3, Skd 3, Sor/Wiz 4, Trickery 4, Wit 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

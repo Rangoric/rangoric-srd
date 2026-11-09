@@ -8,6 +8,7 @@ level:
   - "Brd 1"
   - "Clr 1"
   - "Rgr 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Apl 1, Brd 1, Clr 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Apl 1, Brd 1, Clr 1, Rgr 1, Skd 1, Sor/Wiz 1
   - **Components**: V
   - **Casting Time**: 1 swift action
   - **Range**: Personal

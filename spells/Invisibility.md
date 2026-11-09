@@ -6,6 +6,7 @@ subschool: "Glamer"
 level:
   - "Apl 2"
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
   - "Trickery 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Apl 2, Brd 2, Sor/Wiz 2, Trickery 2
+  - **Level**: Apl 2, Brd 2, Skd 2, Sor/Wiz 2, Trickery 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal or touch

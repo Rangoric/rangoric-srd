@@ -8,6 +8,7 @@ level:
   - "Drd 1"
   - "Pal 1"
   - "Rgr 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 1, Clr 1, Drd 1, Pal 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Brd 1, Clr 1, Drd 1, Pal 1, Rgr 1, Skd 1, Sor/Wiz 1
   - **Components**: V
   - **Casting Time**: 1 immediate action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

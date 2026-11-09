@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 6"
+  - "Skd 6"
   - "Sor/Wiz 8"
 components:
   - "V"
@@ -15,8 +16,8 @@ range: "60 ft."
 saving-throw: "Fortitude partial or Reflex negates (object); see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Shout, Greater|Shout, Greater (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 6, Sor/Wiz 8
+  - **Level**: Brd 6, Skd 6, Sor/Wiz 8
   - **Components**: V, S, F
   - **Range**: 60 ft.
   - **Saving Throw**: Fortitude partial or Reflex negates (object); see text

@@ -9,6 +9,7 @@ level:
   - "Brd 3"
   - "Clr 3"
   - "Pal 3"
+  - "Skd 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[MindAffecting\]*
 
-  - **Level**: Apl 2, Brd 3, Clr 3, Pal 3, Sor/Wiz 3, Wit 3
+  - **Level**: Apl 2, Brd 3, Clr 3, Pal 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, F, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

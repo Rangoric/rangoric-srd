@@ -6,6 +6,7 @@ level:
   - "Brd 6"
   - "Chaos 6"
   - "Clr 6"
+  - "Skd 6"
   - "Wit 6"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 6, Chaos 6, Clr 6, Wit 6
+  - **Level**: Brd 6, Chaos 6, Clr 6, Skd 6, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

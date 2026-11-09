@@ -7,6 +7,7 @@ descriptor:
   - "Light"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 1"
 components:
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Fire, Light\]*
 
-  - **Level**: Brd 2, Sor/Wiz 1
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 1
   - **Components**: S, V, M (a bundle of sulfur wrapped in cloth)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

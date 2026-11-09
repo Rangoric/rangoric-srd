@@ -11,6 +11,7 @@ level:
   - "Brd 3"
   - "Clr 3"
   - "Drd 2"
+  - "Skd 3"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Air, Earth, Fire, Water\]*
 
-  - **Level**: Brd 3, Clr 3, Drd 2, Sor/Wiz 2
+  - **Level**: Brd 3, Clr 3, Drd 2, Skd 3, Sor/Wiz 2
   - **Components**: V, S, M (iron filings)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

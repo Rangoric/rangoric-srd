@@ -6,6 +6,7 @@ descriptor:
   - "Evil"
 level:
   - "Brd 6"
+  - "Skd 6"
   - "Sor/Wiz 6"
   - "Wit 6"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Brd 6, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 6, Skd 6, Sor/Wiz 6, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

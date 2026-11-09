@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Brd 2"
   - "Clr 3"
+  - "Skd 2"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Brd 2, Clr 3, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 2, Clr 3, Skd 2, Sor/Wiz 3, Wit 3
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

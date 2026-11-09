@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Emotion, Mind-affecting\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

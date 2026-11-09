@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Brd 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "See text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Erase|Erase (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

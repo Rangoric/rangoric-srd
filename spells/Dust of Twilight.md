@@ -6,6 +6,7 @@ descriptor:
   - "Darkness"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration \[Darkness\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M (coal dust)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

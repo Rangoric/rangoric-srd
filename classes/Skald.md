@@ -95,7 +95,7 @@ All of the following are class features of the skald.
 
 **Cantrips**: Skalds learn a number of cantrips, or 0-level spells, as noted on Table: Skald Spells Known. These spells are cast like any other spell, but they do not consume any slots and may be used again. ^skald-cantrips
 
-**Spells**: A skald casts arcane spells drawn from the [[rangoric-srd/spells/Bard Spell List|bard spell list]]. He can cast any spell he knows without preparing it ahead of time. Every skald spell has a verbal component—these verbal components can take the form of song, recitation, or even non-verbal music like percussion. To learn or cast a spell, a skald must have a Charisma score equal to at least 10 + the spell's level. The saving throw DC against a skald's spell is 10 + the spell's level + the skald's Charisma modifier. ^skald-spells
+**Spells**: A skald casts arcane spells drawn from the [[rangoric-srd/spells/Bard Spell List|bard spell list]]; each one shows its skald level as “Skd” in its Level line. He can cast any spell he knows without preparing it ahead of time. Every skald spell has a verbal component—these verbal components can take the form of song, recitation, or even non-verbal music like percussion. To learn or cast a spell, a skald must have a Charisma score equal to at least 10 + the spell's level. The saving throw DC against a skald's spell is 10 + the spell's level + the skald's Charisma modifier. ^skald-spells
 
 Like other spellcasters, a skald can cast only a certain number of spells of each spell level per day. His base daily spell allotment is given on Table: The Skald. In addition, he receives bonus spells per day if he has a high Charisma score.
 

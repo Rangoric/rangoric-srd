@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 4"
+  - "Skd 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -17,8 +18,8 @@ saving-throw: "Fortitude partial or Reflex negates (object); see text"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Shout|Shout (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Skd 4, Sor/Wiz 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

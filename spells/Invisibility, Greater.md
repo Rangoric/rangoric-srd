@@ -6,6 +6,7 @@ subschool: "Glamer"
 level:
   - "Apl 4"
   - "Brd 4"
+  - "Skd 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Apl 4, Brd 4, Sor/Wiz 4
+  - **Level**: Apl 4, Brd 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S
   - **Target**: You or creature touched
   - **Duration**: 1 round/level (D)

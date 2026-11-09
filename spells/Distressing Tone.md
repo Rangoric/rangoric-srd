@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 2"
+  - "Skd 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 2
+  - **Level**: Brd 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

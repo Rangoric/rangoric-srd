@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 5"
+  - "Skd 5"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -14,8 +15,8 @@ area: "One 20-ft. cube/level (S)"
 duration: "Concentration +1 hour/ level (D)"
 based-on:
   - "[[fantasy srd 3.5/spells/Mirage Arcana|Mirage Arcana (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 5, Sor/Wiz 5
+  - **Level**: Brd 5, Skd 5, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Area**: One 20-ft. cube/level (S)

@@ -6,6 +6,7 @@ level:
   - "Brd 3"
   - "Drd 1"
   - "Rgr 1"
+  - "Skd 3"
 components:
   - "V"
   - "S"
@@ -15,8 +16,8 @@ target: "You"
 duration: "1 min./level"
 based-on:
   - "[[fantasy srd 3.5/spells/Speak with Animals|Speak with Animals (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 3, Drd 1, Rgr 1
+  - **Level**: Brd 3, Drd 1, Rgr 1, Skd 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal
