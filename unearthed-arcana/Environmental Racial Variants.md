@@ -151,15 +151,7 @@ Aquatic goblins have the general [[#General Aquatic Racial Traits|aquatic racial
 
 ### Aquatic Half-Elves
 
-[[#Aquatic Elves|Aquatic elves]] sometimes wed [[#Aquatic Humans|aquatic humans]], just as land-based elves sometimes marry surface dwelling humans. The aquatic results are aquatic half-elf children. They often serve as the diplomats and negotiators for either their human or elf communities, depending on where they live.
-
-##### Racial Traits
-
-Aquatic half-elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - An aquatic half-elf has a swim speed of 40 feet.
-  - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Aquatic half-elves spend a great deal of time traveling between elf and human settlements on their diplomacy work, and so are accustomed to surviving in the undersea wilderness.
+Aquatic half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Aquatic Half-Orcs
 
@@ -294,14 +286,7 @@ Arctic goblins have the general [[#General Arctic Racial Trait|arctic racial tra
 
 ### Arctic Half-Elves
 
-[[#Arctic Elves|Arctic elves]] wed humans as often as basic elves do, producing arctic half-elf children. These half-breeds tend to have great wanderlust, and are uncomfortable staying in one place for very long. They often carry messages and rumors with them as they travel between communities.
-
-##### Racial Traits
-
-Arctic half-elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: Their transient nature prevents arctic half-elves from being as well trusted as their normal counterparts.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Arctic half-elves spend a great deal of time traveling between elf and human settlements, and are accustomed to surviving in the wilderness.
+Arctic half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Arctic Half-Orcs
 
@@ -428,14 +413,7 @@ Desert goblins have the general [[#General Desert Racial Trait|desert racial tra
 
 ### Desert Half-Elves
 
-[[#Desert Elves|Desert elves]] often wed humans, just as their more common cousins do, producing desert half-elf children. These offspring often serve as diplomats and negotiators for either their human or elf communities, depending on where they live.
-
-##### Racial Traits
-
-Desert half-elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: A desert half-elfs survival often relies on his ability to gauge the social situation.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+Desert half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Desert Half-Orcs
 
@@ -562,14 +540,7 @@ Jungle goblins have [[rangoric-srd/monsters/Goblin|goblin racial traits]], with 
 
 ### Jungle Half-Elves
 
-Some [[#Jungle Elves|elf]] communities believe that introducing human blood into their families is a way to invigorate their race once again. Others prefer a mixed-race emissary to deal with outsiders, rather than a pure-blood elf. Either way, jungle half-elves are the result.
-
-##### Racial Traits
-
-Jungle half-elves have all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Jungle half-elves must maintain constant awareness of their place within society.
-  - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
+Jungle half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Jungle Half-Orcs
 

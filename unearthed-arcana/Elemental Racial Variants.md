@@ -107,17 +107,7 @@ Fire elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Fire Half-Elves
 
-Half-elves and half-orcs are part elemental race and part human. As a result, they have some of the elemental traits of their nonhuman parents-but not all of them. In appearance, they rarely possess more than one variant feature: A fire half-elf might have the charcoal gray skin, but not hair that waves like flames or large red teeth.
-
-Fire half-elves enjoy the finer things in life, but are not as hedonistic as their fire elf parents. Their human side allows them to temper their indulgences through self-control.
-
-##### Racial Traits
-
-Fire half-elves do not have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of fire races]].  
-Fire half-elves have all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], as well as the following traits.
-
-  - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|water]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Water]].
-  - \-1 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities used by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|water]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Water]].
+Fire half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Fire Hobgoblins
 
