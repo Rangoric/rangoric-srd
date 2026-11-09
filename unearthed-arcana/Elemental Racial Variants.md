@@ -111,21 +111,11 @@ Members of fire races often vary in appearance from their normal cousins. Common
 
 #### General Traits Of Fire Races
 
-All members of fire races have the following traits.
-
-  - \+1 racial bonus on attack rolls against creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|water]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Water]].
-  - \-2 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities with the water or cold subtype or used by creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|water]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Water]].
-  - Resistance to fire 5.
+These traits are now a racial-trait note: [[rangoric-srd/races/racial-traits/Fire Race Traits|Fire Race Traits]].
 
 ### Fire Elves
 
-Fire elves are identical with standard elves, except for some differences in racial traits.
-
-##### Racial Traits
-
-Fire elves have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of fire races]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Dexterity, -2 Constitution, +2 Intelligence, -2 Charisma: Fire elves are quick of action and thought, but share the standard race's frailty.
+Fire elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Fire Half-Elves
 

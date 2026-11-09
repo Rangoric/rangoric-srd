@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 Members of arctic races have a +4 racial bonus on Fortitude saves made to resist the effects of [[rangoric-srd/rules/Wilderness, Weather, and Environment#Cold Dangers|cold weather or exposure]].
 
-Used by: every arctic race subtype (Unearthed Arcana), so far the [[rangoric-srd/races/Dwarf|Dwarf]]'s arctic dwarf.
+Used by: every arctic race subtype (Unearthed Arcana): the [[rangoric-srd/races/Dwarf|Dwarf]]'s arctic dwarf; the [[rangoric-srd/races/Elf|Elf]]'s arctic elf.

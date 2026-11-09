@@ -128,13 +128,7 @@ Aquatic dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwa
 
 ### Aquatic Elves
 
-The aquatic landscape is dotted with forests of kelp and roofed with sporadic blankets of sargasso weed. Hidden among these watery groves are the ancient settlements of the elves.
-
-##### Racial Traits
-
-Aquatic elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above, [[rangoric-srd/races/Elf|elf racial traits]], and [[rangoric-srd/monsters/Elf#Aquatic Elf|aquatic elf traits]], with the following exception.
-
-  - No gills.
+Aquatic elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Aquatic Gnomes
 
@@ -285,17 +279,7 @@ Arctic dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwar
 
 ### Arctic Elves
 
-The arctic landscape is dotted here and there with permanent fog banks caused by subterranean heat interacting with snow and ice or warm springs steaming in the freezing air. Hidden in these oases of warmth are the ancient settlements of the elves.
-
-##### Racial Traits
-
-Arctic elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Dexterity: Arctic elves look down on physical exertion, preferring quick action when necessary.
-  - \+2 racial bonus on any one [[rangoric-srd/skills/Craft|Craft]] skill (chosen by the character at the time of creation).
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks made in arctic environments: Arctic elves are naturally adept at staying alive in the harsh conditions of their homeland.
-  - No racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks.
-  - No special ability to notice a secret or concealed door within 5 feet without actively looking for it.
+Arctic elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Arctic Gnomes
 
@@ -438,16 +422,7 @@ Desert dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwar
 
 ### Desert Elves
 
-In the desert, elves follow nomadic lifestyles. They herd horses, cattle, and goats across the sands, sleeping during the day and working or traveling at night. Their wandering takes them many places and puts them in contact with many cultures. As a result, they are welcome everywhere for the news and exotic trade goods they carry.
-
-##### Racial Traits
-
-Desert elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Dexterity: Desert elves are physically weaker than their normal cousins, but are also hardier, toughened by the harsh reality of desert life.
-  - Weapon Proficiency: Desert elves receive the Martial Weapon Proficiency feats for the scimitar, rapier, and shortbow (including composite shortbow) as bonus feats. Desert elves prefer the scimitar to the longsword and the shortbow to the longbow, because they can use shortbows while mounted.
-  - \+2 racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks: Desert elves spend most of their lives riding and working with animals.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+Desert elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Desert Gnomes
 
@@ -585,15 +560,7 @@ Jungle dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwar
 
 ### Jungle Elves
 
-Jungle elves are somewhat more primal than their baseline counterparts. In many jungles, ancient elven cities have been swallowed up by the voracious encroachment of trees, vines, and animals, leaving just a shadowy remnant of the population to remember the former glories of their lost civilization.
-
-##### Racial Traits
-
-Jungle elves have all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
-
-  - Weapon Proficiency: Jungle elves receive the Martial Weapon Proficiency feats for the handaxe, rapier, shortsword, and shortbow (including composite shortbow) as bonus feats. Proficiency with a rapier is a vestige of past glories and an honored tradition among jungle elves. The other weapons are useful tools for survival in their environment.
-  - \+2 racial bonus on [[rangoric-srd/skills/Society|Society]] checks: Jungle elves pride themselves on being the keepers of much lore that has been forgotten to others.
-  - No ability to notice secret or concealed doors by passing within 5 feet.
+Jungle elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Jungle Gnomes
 
