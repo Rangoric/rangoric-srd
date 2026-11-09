@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Prestige Classes"
 based-on:
   - "[[fantasy srd 3.5/prestige-classes/Prestige Classes|Prestige Classes (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -13,27 +13,31 @@ tags: [rangoric, rangoric/overview]
 
 Prestige classes offer a new form of multiclassing. Unlike the basic classes, characters must meet Requirements before they can take their first level of a prestige class. The rules for level advancement apply to this system, meaning the first step of advancement is always choosing a class. If a character does not meet the Requirements for a prestige class before that first step, that character cannot take the first level of that prestige class. Taking a prestige class does not incur the experience point penalties normally associated with multiclassing.  
 
-There are 19 prestige classes here. They are:
+There are 23 prestige classes here. They are:
 
 1.  [[rangoric-srd/prestige-classes/Arcane Archer|Arcane Archer]]
 2.  [[rangoric-srd/prestige-classes/Arcane Trickster|Arcane Trickster]]
 3.  [[rangoric-srd/prestige-classes/Archmage|Archmage]]
 4.  [[rangoric-srd/prestige-classes/Assassin|Assassin]]
-5.  [[rangoric-srd/prestige-classes/Blackguard|Blackguard]]
-6.  [[rangoric-srd/prestige-classes/Dragon Disciple|Dragon Disciple]]
-7.  [[rangoric-srd/prestige-classes/Duelist|Duelist]]
-8.  [[rangoric-srd/prestige-classes/Eldritch Knight|Eldritch Knight]]
-9.  [[rangoric-srd/prestige-classes/Hierophant|Hierophant]]
-10. [[rangoric-srd/prestige-classes/Holy Vindicator|Holy Vindicator]]
-11. [[rangoric-srd/prestige-classes/Horizon Walker|Horizon Walker]]
-12. [[rangoric-srd/prestige-classes/Loremaster|Loremaster]]
-13. [[rangoric-srd/prestige-classes/Master Spy|Master Spy]]
-14. [[rangoric-srd/prestige-classes/Mystic Theurge|Mystic Theurge]]
-15. [[rangoric-srd/prestige-classes/Nature Warden|Nature Warden]]
-16. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
-17. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
-18. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
-19. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
+5.  [[rangoric-srd/prestige-classes/Battle Scion|Battle Scion]]
+6.  [[rangoric-srd/prestige-classes/Blackguard|Blackguard]]
+7.  [[rangoric-srd/prestige-classes/Dragon Disciple|Dragon Disciple]]
+8.  [[rangoric-srd/prestige-classes/Duelist|Duelist]]
+9.  [[rangoric-srd/prestige-classes/Eldritch Knight|Eldritch Knight]]
+10. [[rangoric-srd/prestige-classes/Faith Scion|Faith Scion]]
+11. [[rangoric-srd/prestige-classes/Hierophant|Hierophant]]
+12. [[rangoric-srd/prestige-classes/Holy Vindicator|Holy Vindicator]]
+13. [[rangoric-srd/prestige-classes/Horizon Walker|Horizon Walker]]
+14. [[rangoric-srd/prestige-classes/Loremaster|Loremaster]]
+15. [[rangoric-srd/prestige-classes/Master Spy|Master Spy]]
+16. [[rangoric-srd/prestige-classes/Mystic Theurge|Mystic Theurge]]
+17. [[rangoric-srd/prestige-classes/Nature Warden|Nature Warden]]
+18. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
+19. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
+20. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
+21. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
+22. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
+23. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
 
 ###### Definitions of Terms
 

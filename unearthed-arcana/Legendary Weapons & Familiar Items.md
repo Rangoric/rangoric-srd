@@ -3,9 +3,11 @@ srd-type: "overview"
 section: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items|Legendary Weapons & Familiar Items (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Scions|Scions (Arms & Armor)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Divine Ranks#Legendary Weapons|Legendary Weapons (Arms & Armor)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-09
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -13,25 +15,27 @@ tags: [rangoric, rangoric/overview]
 
 ### Legendary Weapons
 
-This variant is a simple rule system that allows the abilities of weapons to improve along with those of their wielders. A character wielding a legendary weapon — whether that weapon is a sword, axe, bow, or even a magic staff — is eligible for one of the scion prestige classes presented below. As long as the wielder does not adopt the prestige class, the legendary weapon is simply a magic item with a small enhancement bonus (usually +1 or +2, or sometimes as high as +3 for truly powerful legendary weapons). But by taking levels in the prestige class, a character can unlock and utilize the weapon’s more advanced powers. Commonly, the wielder gains access to a suite of weapon-appropriate feats, special abilities tied to the weapon’s purpose, or even magical enhancements to the character’s own skills and abilities.
+This variant is a simple rule system that allows the abilities of weapons to improve along with those of their wielders. A character wielding a legendary weapon — whether that weapon is a sword, axe, bow, or even a magic staff — is eligible for one of the scion prestige classes (see [[#Scions|Scions]], below). As long as the wielder does not adopt the prestige class, the legendary weapon is simply a magic item with a small enhancement bonus (usually +1 or +2, or sometimes as high as +3 for truly powerful legendary weapons). But by taking levels in the prestige class, a character can unlock and utilize the weapon’s more advanced powers. Commonly, the wielder gains access to a suite of weapon-appropriate feats, special abilities tied to the weapon’s purpose, or even magical enhancements to the character’s own skills and abilities.
 
-In every case, the scion prestige class associated with a particular weapon defines which of its abilities the wielder is eligible to benefit from. The descriptions of sample legendary weapons later in this section detail the specific abilities of each weapon. Thus, every scion is different, even with only four variations of the prestige class to choose from.
+In every case, the scion prestige class associated with a particular weapon defines which of its abilities the wielder is eligible to benefit from. The sample legendary weapons, [[rangoric-srd/magic-items/legendary-weapons/Drakeblade|Drakeblade]], [[rangoric-srd/magic-items/legendary-weapons/Hammer of the Dwarffather|Hammer of the Dwarffather]], [[rangoric-srd/magic-items/legendary-weapons/Kaiein, the Blazing Staff|Kaiein, the Blazing Staff]] and [[rangoric-srd/magic-items/legendary-weapons/Nightphantom|Nightphantom]], each detail the specific abilities of one weapon. Thus, every scion is different, even with only four variations of the prestige class to choose from.
 
 ##### Scions
 
-Scions come in as many varieties as there are legendary items, but each one falls into one of four distinct groupings based on the intended wielder of the item. Each sample weapon described in this section is tied to one of the following prestige classes (and the weapon description immediately follows the prestige class description).
+Scions come in as many varieties as there are legendary items, but each one falls into one of four distinct groupings based on the intended wielder of the item. Each class has its own note, and each sample weapon is tied to one of these prestige classes (each class note shows its sample weapon at the end).
 
-**Battle Scion:** This prestige class is for the wielders of legendary weapons made for the hands of fighters, barbarians, rangers, monks, and the occasional paladin.
+**[[rangoric-srd/prestige-classes/Battle Scion|Battle Scion]]:** This prestige class is for the wielders of legendary weapons made for the hands of fighters, barbarians, rangers, monks, and the occasional paladin.
 
-**Faith Scion:** This prestige class is meant for characters who wield legendary weapons of divine power for clerics, druids, and paladins.
+**[[rangoric-srd/prestige-classes/Faith Scion|Faith Scion]]:** This prestige class is meant for characters who wield legendary weapons of divine power for clerics, druids, and paladins.
 
-**Spell Scion:** This class is for characters who wield legendary weapons designed for use by arcane spellcasters, such as wizards, sorcerers, and sometimes bards.
+**[[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]:** This class is for characters who wield legendary weapons designed for use by arcane spellcasters, such as wizards, sorcerers, and sometimes bards.
 
-**Swift Scion:** This class is for those who wield legendary weapons that make use of or improve the wielder’s stealth, speed, or dexterity (in the general sense). Rogues are excellent candidates for this class, as are bards, rangers, and the occasional monk.
+**[[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]:** This class is for those who wield legendary weapons that make use of or improve the wielder’s stealth, speed, or dexterity (in the general sense). Rogues are excellent candidates for this class, as are bards, rangers, and the occasional monk.
+
+**Blade and Staff Scions:** Each scion class covers both kinds of legendary weapon (battleblade and battlestaff scions, spellblade and spellstaff scions, and so on). A **staff scion** wields a legendary staff or rod, and a **blade scion** any other legendary weapon. The classes are the same for both, except for one 1st-level feature that differs between blade and staff scions. ^blade-and-staff-scions
 
 ###### Rules and Restrictions
 
-None of the scion prestige classes grant a character any new weapon or armor proficiencies. Thus, it is entirely possible for a scion to be not proficient with his legendary weapon unless he independently takes the necessary weapon proficiency feat.
+None of the scion prestige classes grant a character any new weapon or armor proficiencies. Thus, it is entirely possible for a scion to be not proficient with his legendary weapon unless he independently takes the necessary weapon proficiency feat. ^scion-proficiency
 
 In addition to meeting the prerequisites for the appropriate prestige class (which are dictated by the weapons themselves), a character wishing to adopt a scion class must also abide by certain other rules and restrictions.
 
@@ -41,6 +45,8 @@ A scion who qualifies for the appropriate Weapon Specialization feat normally (t
 
 **Losing a Legendary Weapon:** Legendary weapons should never become permanently lost, for fate has a way of bringing them back to their rightful wielders. On a more practical level, the loss of a legendary weapon means that the character who has invested levels in the associated prestige class is denied most of the class’s special abilities until the weapon is regained, because the abilities are specifically tied to the weapon. Thus, as the GM, you must try to ensure that the weapon and its wielder do not stay separated for long — unless, of course, the purpose of the adventure is to recover the weapon. In most cases, the weapon should turn up at the end of an encounter, or should be near enough at hand that the wielder need only make a reasonable effort to reclaim it. ^losing-a-legendary-weapon
 
+**Permanently Losing a Legendary Weapon:** Items only temporarily misplaced (until the end of the encounter or the adventure, for example) are not truly lost, and the scion suffers no lasting ill effects. A legendary weapon is permanently lost when the scion no longer possesses it for good: it was taken from him, or it was destroyed and he chose to discard it rather than attempt to repair it. When a scion permanently loses his legendary weapon, levels of another class replace his levels in the scion prestige class. His scion levels convert to levels of fighter, barbarian, paladin, or ranger (for a battle scion); wizard or sorcerer (for a spell scion); cleric, druid, or paladin (for a faith scion); or rogue, bard, or monk (for a swift scion). The player chooses which class the levels convert to, but it must be a class in which the character already has at least one level. If the character later recovers the weapon, the player can (if he wishes) at once convert all the converted levels back to the scion prestige class (no more and no fewer, even if the character has gained levels since then). ^permanently-losing-a-legendary-weapon
+
 **Destroying a Legendary Weapon:** Each legendary weapon has its own hardness and hit points. Treat the item as if it had a greater hardness and more hit points based on its maximum possible enhancement bonus, even if the wielder has not yet qualified to benefit from that high a bonus. ^destroying-a-legendary-weapon
 
 That said, under ordinary circumstances, legendary weapons do not break: Any attempt to sunder such an item automatically fails, and the weapon is treated as having immunity to all effects that could otherwise destroy it (such as a [[rangoric-srd/spells/Disintegrate|disintegrate]] spell, a dragon’s breath weapon, and so on).
@@ -49,7 +55,9 @@ If an attacker is foolish enough to attempt to sunder a legendary weapon, the at
 
 The only exception to this rule is if the person attacking the legendary weapon is herself wielding a legendary weapon. In this case, the attacker may deal damage to the defender’s weapon if her combat maneuver check succeeds. However, the defender also immediately makes his own sunder attempt against the attacker’s legendary weapon. If the defender’s check succeeds, he may deal damage to the attacker’s weapon — even if his own weapon was damaged or destroyed by the attacker.
 
-Repairing a broken legendary weapon should never be easy. It should be the result of an epic quest, perhaps involving aid from other planes, arduous rituals, and perilous voyages.
+Repairing a broken legendary weapon should never be easy. It should be the result of an epic quest, perhaps involving aid from other planes, arduous rituals, and perilous voyages. Such a quest could involve visiting the place where the weapon was created, persuading its original creator to fix it, or making some sort of sacrifice related to its purpose or powers.
+
+**A Destroyed Legendary Weapon** is one that has lost all its hit points, so that the wielder can no longer use it as it was intended: it might be broken into several pieces (which the wielder still has), or so damaged by some energy or effect that it is unrecognizable. At the GM’s discretion, a destroyed legendary weapon may still function, though sporadically. The wielder keeps his scion levels, but must succeed on a special level check to use the abilities of the class: 1d20 + scion level against a DC of 11 + the caster level of the ability he wishes to use. ^destroyed-legendary-weapon
 
 **Gaining Additional Legendary Weapons:** If the wielder of a legendary weapon somehow gains another legendary weapon linked to the same scion prestige class, she may only use the weapon as would a character with no levels in the weapon’s associated prestige class, and she may not transfer the benefits of her scion levels to the new weapon. If she were to acquire a weapon linked to a different scion prestige class, she could begin advancing levels in the scion prestige class for that weapon, assuming that she meets the requirements. ^gaining-additional-legendary-weapons
 
@@ -59,444 +67,56 @@ The level of commitment that a legendary weapon demands from its wielder does no
 
 This restriction does not prevent a scion from taking levels in another class, or from using the abilities already gained as a scion while he does so. Unless the new class in some way violates the scion prerequisites (such as by requiring a different alignment), or the weapon’s description specifies penalties for advancing in another class, then the only drawback to pursuing a different class is that the scion is not gaining new powers from the weapon.
 
-##### Battle Scion
+##### Legendary Weapons by Tier
 
-A battle scion has earned the right to fight with a particular legendary weapon, either because the weapon is an ancestral heirloom or because he upholds the principles for which the weapon was originally created. While characters of any class can eventually qualify for the battle scion class, those who wield weapons professionally — fighters, barbarians, rangers, and paladins — are ideal candidates.
+Arms & Armor offers a second way to run legendary weapons, without the scion prestige classes: the weapon grows in power by tiers as its wielder qualifies for them. ^legendary-weapons-by-tier
 
-No two battle scions are identical, by virtue of the weapons that grant them access to this prestige class. One scion might wield an heirloom weapon that provides him with the abilities needed to uphold the family’s honor. Another could be the scourge of an evil temple, using his legendary sword to prove that might does indeed make right. Yet another could be wielding an axe, hammer, or staff dedicated to his profession, or to his race, with abilities that draw on the strengths thereof.
+Legendary weapons are capable of growing with their wielder. While they might start off as rather modest magic items, they can quickly grow into powerful and respected symbols of power and prestige. For the GM, a legendary weapon can be a plot device that drives a character to unlock the keys to make the weapon better and, ultimately, make the character better. As additional encouragement for players, a legendary weapon doesn't count against the character's wealth as her power increases over the course of her career.
 
-For all the powers his sword grants him, a battle scion isn’t terribly different from any other fighter, barbarian, ranger, or paladin who uses his share of the treasure to upgrade his favorite weapon every so often. What really sets him apart is the fact that his weapon is leading him toward a particular destiny, if only by shaping his future advancement choices.
+A legendary weapon begins its existence as a +1 weapon with no other special powers. When grasped by a chosen wielder, however, the weapon's true potential is revealed. This generally shows itself through the new wielder recognizing the weapon's name, history, or potential.
 
-**Hit Die:** d10.
+**Table: Legendary Weapon Tiers**
 
-###### Requirements
+| Tier | Prerequisite | Weapon Bonus | Weapon Quality | Special |
+| --- | --- | --- | --- | --- |
+| I | Base attack bonus +3, [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (the specific weapon) | +1 | +1 | — |
+| II | Base attack bonus +5, [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] | +2 | +2 | Bonus feat |
+| III | Base attack bonus +7 | +3 | +3 | Weapon gains sentience and becomes [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Items|intelligent]]; empathic |
+| IV | Base attack bonus +9, [[rangoric-srd/feats/Improved Critical|Improved Critical]] (the specific weapon) | +4 | +4 | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Special Purpose Items|special purpose]]; capable of speech |
+| V | Base attack bonus +12, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]] | +5 | +5 | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Dedicated Power|dedicated power]]; capable of telepathic communication and reading languages; bonus feat |
+| VI | Base attack bonus +15, [[rangoric-srd/feats/Power Attack|Power Attack]] or [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]] (weapon appropriate) | +6 | +6 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|lesser powers]] for intelligent items and the ability to *read magic* at will |
+| VII | Base attack bonus +18, [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] or [[rangoric-srd/feats/Improved Disarm|Improved Disarm]] | +7 | +7 | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater power]] for intelligent items |
+| VIII | Base attack bonus +21, [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], or [[rangoric-srd/feats/Cleave|Cleave]] (weapon appropriate) | +8 | +8 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater powers]] for intelligent items; bonus feat |
+| IX | Base attack bonus +24, [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]] | +9 | +9 | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater power]] for intelligent items |
+| X | Base attack bonus +27, [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Manyshot|Manyshot]], or [[rangoric-srd/feats/Great Cleave|Great Cleave]] (weapon appropriate) | +10 | +10 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater powers]] |
 
-To qualify to become a battle scion, a character must fulfill the criteria given in his particular weapon’s entry. (For an example, see [[#Drakeblade|Drakeblade]], below.)
+^table-legendary-weapon-tiers
 
-###### Class Skills
+**Prerequisite:** The abilities the wielder must have to gain the benefits of that tier.
 
-The battle scion’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str) and [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha).
+**Weapon Bonus:** The base magical enhancement bonus of the weapon.
 
-**Skill Points at Each Level:** 2 + Int modifier.
+**Weapon Quality:** The total bonus value of the weapon's [[rangoric-srd/magic-items/Magic Armor and Weapons|weapon special abilities]]. At each tier, earlier abilities can be removed to make room for more powerful ones. Instead of taking a single high-value ability, the wielder can choose abilities worth half the tier's value or less; then she gets 1.5 times the total value (round down). For example, a Tier VI legendary weapon could have a single +6 special ability, three +3 abilities, or nine +1 abilities.
 
-**Table: The Battle Scion**
+**Bonus Feat:** At Tiers II, V and VIII, the wielder gains a bonus feat.
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special    |
-| ----- | ----------------- | --------- | -------- | --------- | ---------- |
-| 1st   | +1               | +2       | +0      | +0       | Bonus feat |
-| 2nd   | +2               | +3       | +0      | +0       | —          |
-| 3rd   | +3               | +3       | +1      | +1       | —          |
-| 4th   | +4               | +4       | +1      | +1       | Bonus feat |
-| 5th   | +5               | +4       | +1      | +1       | —          |
-| 6th   | +6               | +5       | +2      | +2       | —          |
-| 7th   | +7               | +5       | +2      | +2       | Bonus feat |
-| 8th   | +8               | +6       | +2      | +2       | —          |
-| 9th   | +9               | +6       | +3      | +3       | —          |
-| 10th  | +10              | +7       | +3      | +3       | Bonus feat |
+*Character Meets All the Prerequisites:* When a character who meets the prerequisites of a higher tier first draws the weapon and realizes its potential, the legendary weapon becomes half as powerful as it should be in her hands (half the tier she qualifies for, rounded down). Each time the character gains a level, or 30 days of wielding the weapon pass, it rises in power by one tier, until it reaches its full potential in her hands. For example, a 16th-level warrior who grasps a legendary battleaxe and qualifies for Tier VI finds that it immediately becomes a Tier III legendary weapon. After a month of wielding it, it becomes Tier IV; when she gains a level shortly afterward, Tier V; and at the end of the second month, Tier VI, the best it can be in her hands until she qualifies for Tier VII.
 
-###### Class Features
+*Character Is Missing Prerequisites:* The wielder gains the abilities of the weapon up to the tier she qualifies for (subject to the limits above). As she gains the feats and abilities to qualify for a higher tier, the weapon grows with her.
 
-The following are class features of the battle scion prestige class. A legendary weapon associated with the class provides a unique set of additional special abilities, which are detailed in the weapon’s description. (For an example, see [[#Drakeblade|Drakeblade]], below.) These abilities accrue in addition to those already noted in the Special column on [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items|Table: The Battle Scion]]. However, because those abilities are functions of the weapon rather than the wielder, they are lost if the legendary weapon that granted them is lost. The features mentioned on Table: The Battle Scion are retained even if the weapon is lost.
+*Parting with the Weapon:* If the wielder sells the weapon or willingly parts with it for more than one month, the weapon reverts to its original state and waits for a new person with legendary potential to come along; it no longer recognizes its former wielder, who has been deemed unworthy of greatness. At the GM's discretion, if the wielder is separated from the weapon for longer than 30 days for reasons beyond her control (the weapon is stolen, or she is imprisoned), the weapon accepts her back with no loss of its current abilities.
 
-**Bonus Feats:** At 1st level, a battle scion receives a bonus feat. Thereafter, he gains an additional bonus feat at 4th, 7th, and 10th level. These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] (the tag *fighter-bonus*). A battle scion must still meet all prerequisites to take a bonus feat.
+*Unbreakable:* A legendary weapon run by tiers can't be sundered, as under [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#^destroying-a-legendary-weapon|Destroying a Legendary Weapon]]; its hardness and hit points include its enhancement bonus.
 
-###### Drakeblade
+**Using Both Ways Together:** The GM can combine the two. Legendary weapons then grow by tier as above, but to gain access to the weapon's power the wielder must take levels in one of the scion prestige classes: those classes open access to the higher tiers, though the wielder must still meet each tier's prerequisites. Instead of letting a player build her own legendary weapon, the GM creates it, and the wielder gains its abilities as she advances in the prestige class, as the sample legendary weapons show.
 
-Reputedly carved from the fang of a great wyrm red dragon, the bastard sword known as *Drakeblade* has served many masters over the centuries, from bloodthirsty warlords to treasure-seeking adventurers. It is a legendary weapon that provides many benefits to its wielder, but most of the benefits apply only if the wielder has levels in the battle scion prestige class.
+##### Legends in the Campaign
 
-**Requirements:** Any character can wield *Drakeblade* as a +2 bastard sword and also gain the benefit of the bravery special ability described below. A battle scion who wields *Drakeblade* gains additional special abilities if the character fulfills the following criteria.
+The GM should place a legendary weapon into the campaign at a relatively low level, so the chosen character can grow with the weapon and work toward fulfilling its potential. A hero wielding a legendary weapon has an instinct that steers him toward the feats and skills he needs to wield the weapon to its full potential (and the weapon makes things crystal clear once it gains the power of speech). [[#^table-legendary-weapon-tiers|Table: Legendary Weapon Tiers]] shows the typical progression of a legendary weapon in a campaign.
 
-*Base Attack Bonus:* +9.
+**Why Only Typical?** Every campaign world has a different magic level, and the GM needs to craft an advancement that fits it. In a magic-rich world where platinum bubbles forth from the bodies of slain orcs, legendary weapons should advance faster to match the heroes' wealth. By the same coin, if the heroes scrounge for every copper, the progression should be toned down. A rule to follow is that the legendary weapon should be better than anything a hero could otherwise buy on his own.
 
-*Skills:* [[rangoric-srd/skills/Arcana|Arcana]] 3 ranks.
-
-*Feats:* [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bastard sword), [[rangoric-srd/feats/Iron Will|Iron Will]].
-
-**Attributes:** *Drakeblade* has the following attributes.
-
-*Hardness/Hit Points:* 20/55.
-
-*Caster Level:* 15th.
-
-*Value:* To any character other than a battle scion who meets the above requirements, *Drakeblade* appears to be worth as much as a Medium +2 bastard sword that grants the bravery special ability (market price 14,335 gp).
-
-**Table: Abilities Granted By Drakeblade**
-
-| Battle Scion Level | Ability Gained                            |
-| ------------------ | ----------------------------------------- |
-| —                  | Bravery                                   |
-| 1st                | Bane (dragons)                            |
-| 2nd                | Resistance to energy 10                   |
-| 3rd                | Enhancement bonus +3 (+5 against dragons) |
-| 4th                | Intimidating presence                     |
-| 5th                | Resistance to energy 20                   |
-| 6th                | Enhancement bonus +4 (+6 against dragons) |
-| 7th                | Dodge bonus                               |
-| 8th                | Resistance to energy 30                   |
-| 9th                | Frightful presence                        |
-| 10th               | Enhancement bonus +5 (+7 against dragons) |
-
-**Special Abilities:** *Drakeblade* provides a number of special abilities to its wielder, depending on the character’s class level in the battle scion prestige class.
-
-*Initial Abilities:* When first acquired, *Drakeblade* functions as a +2 bastard sword. Anyone who wields it, whether a battle scion or not, also benefits from the bravery ability (see below).
-
-*Bravery (Ex):* The wielder of *Drakeblade* has immunity to a dragon’s frightful presence ability. All allies within 30 feet of the wielder gain a +4 morale bonus on saves against the frightful presence of dragons.
-
-*Bane (Dragons) (Su):* When wielded by a battle scion, *Drakeblade* gains the [[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]] (dragons) special ability. Its enhancement bonus is treated as 2 points higher when attacking a dragon, and it deals an extra 2d6 points of damage on a successful strike against a dragon.
-
-**Resistance to Energy (Su):** Once per day, when a battle scion of 2nd level or higher wielding *Drakeblade* is dealt at least 1 point of damage from any type of energy (acid, cold, electricity, fire, or sonic), the scion gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance]] 10 to that form of energy for 1 hour thereafter (including against the damage that activated the ability). For example, if the scion were engulfed in a [[rangoric-srd/spells/Fireball|fireball]], the resistance would immediately take effect, reducing the damage taken by the fireball (and any other source of fire damage for the next hour) by 10 points.
-
-Once the energy type is determined, it cannot be changed for the current use of the ability. If two or more types of energy strike the scion simultaneously, he may select the energy type against which his resistance protects.
-
-When a battle scion attains 5th level, the resistance granted by this ability increases to 20 points. At 8th level, it increases to 30 points.
-
-*Intimidating Presence (Ex):* A battle scion of 4th level or higher wielding *Drakeblade* may add his class level as a bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks made against dragons (or one-half his class level as a bonus on Intimidation checks made against nondragons).
-
-*Dodge Bonus\> (Ex):* At 7th level and higher, a battle scion wielding *Drakeblade* gains a +2 dodge bonus to Armor Class against creatures at least two size categories larger than himself.
-
-*Frightful Presence (Ex):* A battle scion of 9th level or higher wielding *Drakeblade* can unsettle foes with his mere presence. This ability takes effect automatically whenever the scion attacks or charges. Creatures within a radius of 60 feet are subject to the effect if they have fewer Hit Dice than the scion’s character level.
-
-A potentially affected creature that succeeds on a Will save (DC 10 + class level + scion’s Cha modifier) remains immune to that scion’s frightful presence for one day. On a failure, creatures with 4 or less HD become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 4d6 rounds and those with 5 or more HD become [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 4d6 rounds. Even dragons can be affected by the scion’s frightful presence.
-
-##### Faith Scion
-
-A faith scion wields his legendary blade in the name of his deity — or, in the case of a druid, in the service of nature. A legendary weapon usually comes into the hands of a faith scion either as a gift from his religious order or as a blessing from his deity. Because of the divine nature of these weapons, clerics, druids and paladins are ideally suited for this prestige class, though other classes can also qualify.
-
-A divinely influenced legendary weapon should be rare and unique. Certainly no deity would create multiple copies of one weapon as a matter of course, and few religious orders can afford to do so. Thus, each weapon should grant different abilities, except in special cases. For example, duplicate weapons might be created especially to combat the enemies of a church, or perhaps to destroy (or create) undead. A divine legendary sword of an order devoted to healing might even be less a weapon than an instrument for easing the suffering of others.
-
-A faith scion usually has high status within his religious order. His possession of a legendary weapon implies that he has the favor of his deity, or that he is more in tune with nature than others of his order, in the case of a druid. Depending on the alignment of his deity, though, his ownership of the weapon could be construed as an invitation to try to take it from him.
-
-**Hit Die:** d8.
-
-###### Requirements
-
-To qualify to become a faith scion, a character must fulfill the criteria given in his particular weapon’s entry. (For an example, see [[#Hammer of the Dwarffather|Hammer of the Dwarffather]], below.)
-
-###### Class Skills
-
-The faith scion’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Theology|Theology]] (Int).
-
-**Domains and Class Skills:** A cleric who gains additional class skills from his domain can treat those skills as class skills for the faith scion class.
-
-**Skill Points at Each Level:** 2 + Int modifier.
-
-**Table: The Faith Scion**
-
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Spells per Day/Spells Known                     |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------------------------- |
-| 1st   | +0               | +2       | +0      | +2       | +1 level of existing divine spellcasting class |
-| 2nd   | +1               | +3       | +0      | +3       | +1 level of existing divine spellcasting class |
-| 3rd   | +2               | +3       | +1      | +3       | +1 level of existing divine spellcasting class |
-| 4th   | +3               | +4       | +1      | +4       | +1 level of existing divine spellcasting class |
-| 5th   | +3               | +4       | +1      | +4       | +1 level of existing divine spellcasting class |
-| 6th   | +4               | +5       | +2      | +5       | +1 level of existing divine spellcasting class |
-| 7th   | +5               | +5       | +2      | +5       | +1 level of existing divine spellcasting class |
-| 8th   | +6               | +6       | +2      | +6       | +1 level of existing divine spellcasting class |
-| 9th   | +6               | +6       | +3      | +6       | +1 level of existing divine spellcasting class |
-| 10th  | +7               | +7       | +3      | +7       | +1 level of existing divine spellcasting class |
-
-###### Class Features
-
-The following are class features of the faith scion prestige class. A legendary weapon associated with the class provides a unique set of additional special abilities, which are detailed in the weapon’s description. (For an example, see the *Hammer of the Dwarffather*, below.) These abilities accrue in addition to those already noted on [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items|Table: The Faith Scion]]. However, because those abilities are functions of the weapon rather than the wielder, they are lost if the legendary weapon that granted them is lost. The features mentioned on Table: The Faith Scion are retained even if the weapon is lost.
-
-**Spells per Day/Spells Known:** At each faith scion level, a character gains new spells per day (and spells known, if applicable) as if he had also gained a level in a spellcasting class to which he belonged before adding the prestige class level. If the character had more than one spellcasting class before becoming a faith scion, the player must decide to which class to add each faith scion level for the purpose of determining spells per day and spells known.
-
-**Special Abilities:** Faith scion levels stack with other class levels for determining the effectiveness of the following abilities: [[rangoric-srd/classes/Druid#^druid-animal-companion|animal companions]], [[rangoric-srd/classes/Paladin#^paladin-lay-on-hands|lay on hands]], [[rangoric-srd/classes/Paladin#^paladin-special-mount|special mount]], [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|turn or rebuke undead]], [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]] (including additional daily uses or increased range of sizes or creature types), and [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]]. For instance, a 5th-level druid/6th-level faith scion could assume wild shape four times per day (including Tiny creatures), and would add 11 (plus Cha modifier) to his wild empathy checks. His animal companion would be treated as that of an 11th-level druid.
-
-###### Hammer of the Dwarffather
-
-The *Hammer of the Dwarffather* is said to have been crafted by the dwarven gods and symbolizes the glory of the dwarven race.
-
-**Requirements:** Any character can wield the *Hammer of the Dwarffather* as a +2 adamantine warhammer and also gain the benefit of the Craft bonus and lore of souls special ability described below. A faith scion who wields the *Hammer of the Dwarffather* gains additional special abilities if the character fulfills the following criteria.
-
-*Race:* Dwarf.
-
-*Alignment:* Lawful good.
-
-*Base Attack Bonus:* +7.
-
-*Skills:* [[rangoric-srd/skills/Craft|Craft]] (armorsmithing) or Craft (weaponsmithing) 7 ranks.
-
-*Feats:* [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (heavy)]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (warhammer).
-
-*Spells:* Ability to cast [[rangoric-srd/spells/Protection from Evil|protection from evil]] as a divine spell.
-
-**Restrictions:** Should the wielder of the *Hammer of the Dwarffather* become an alignment other than lawful good, or attack a lawful good, lawful neutral, or neutral good-aligned dwarf, he loses all special abilities granted by the faith scion prestige class. To regain these abilities, the scion must receive an [[rangoric-srd/spells/Atonement|atonement]] spell from a dwarf cleric.
-
-**Maintenance:** A wielder of the *Hammer of the Dwarffather* must strike the hammer against an anvil at least once every seven days. Failure to perform this task reduces the hammer’s enhancement bonus by 1. Multiple failures are not cumulative (that is, if the hammer goes two weeks without striking an anvil, the reduction does not increase to 2).
-
-**Attributes:** The *Hammer of the Dwarffather* has the following attributes.
-
-*Hardness/Hit Points:* 30/76.
-
-*Caster Level:* 15th.
-
-*Value:* To any character other than a faith scion who meets the above requirements, the *Hammer of the Dwarffather* appears to be worth as much as a Medium +2 adamantine warhammer that grants the Craft bonus and lore of all souls special ability (market price 21,812 gp).
-
-**Table: Abilities Granted by the Hammer of the Dwarffather**
-
-| Faith Scion Level | Ability Gained        |
-| ----------------- | --------------------- |
-| —                 | Craft bonus           |
-| —                 | Lore of souls         |
-| 1st               | Smite evil 1/day      |
-| 2nd               | Fortitude of souls +2 |
-| 3rd               | Throw and return      |
-| 4th               | Enhancement bonus +3  |
-| 5th               | Smite evil 2/day      |
-| 6th               | Fortitude of souls +4 |
-| 7th               | Enhancement bonus +4  |
-| 8th               | Fortitude of souls +6 |
-| 9th               | Smite evil 3/day      |
-| 10th              | Enhancement bonus +5  |
-
-**Special Abilities:** The *Hammer of the Dwarffather* provides a number of special abilities to its wielder, depending on the character’s class level in the faith scion prestige class (see the table below).
-
-*Initial Abilities:* When first acquired, the *Hammer of the Dwarffather* functions as a +2 adamantine warhammer. Anyone who wields it, whether a faith scion or not, also benefits from the Craft bonus and lore of souls ability (see below).
-
-*Craft Bonus (Ex):* The owner of the *Hammer of the Dwarffather* gains a +5 insight bonus on all [[rangoric-srd/skills/Craft|Craft]] checks related to stone or metal.
-
-This bonus increases by an additional +1 for every faith scion class level gained, including 1st level.
-
-*Lore of Souls (Su):* Three times per day, the owner of the *Hammer of the Dwarffather* can use a full-round action to consult the knowledge of his dwarven ancestors. This gives the character a bonus on any one [[rangoric-srd/skills/Knowledge|Knowledge]] check (made as part of the action) equal to his faith scion level (if any) + his Wisdom bonus (if any). (At the GM’s discretion, if the Knowledge check is directly related to dwarvenkind, the bonus granted by the character’s faith scion level is doubled.) The check is treated as a trained skill check, even if the character has no ranks in that Knowledge skill.
-
-*Smite Evil (Su):* Once per day, a faith scion wielding the *Hammer of the Dwarffather* may smite evil with an attack. The attack may be a melee attack or a ranged attack, but must be delivered by the *Hammer of the Dwarffather*. The wielder adds 4 to his attack roll and deals 2 extra points of damage per faith scion level. If the wielder accidentally smites a creature that is not evil, the smite has no effect, but the ability is still used up for that day.
-
-A wielder may use this ability twice per day at 5th level and three times per day at 9th level.
-
-**Fortitude of Souls (Su):** A faith scion of 2nd level or higher wielding the *Hammer of the Dwarffather* derives endurance from the support of his ancestors, gaining a +2 enhancement bonus to Constitution. At 6th level, the bonus increases to +4, and at 8th level to +6.
-
-*Throw and Return (Su):* Three times per day, a faith scion of 3rd level or higher wielding the *Hammer of the Dwarffather* can treat the weapon as a throwing [[rangoric-srd/magic-items/weapon-abilities/Returning|returning]] weapon. Activating this ability is a free action, and it lasts for 1 round.
-
-##### Spell Scion
-
-Sometimes a magic weapon is not so much a weapon as a magic device in the shape of a weapon. The spell scion is the ideal wielder for a legendary weapon of this sort. Spellblades and similar items are weapons of significant arcane power, and their wielders often have great magical destinies. Such a character might wield a fey sword, or a demon blade, or a magic staff that is actually an important symbol of his or her arcane order.
-
-Wielding an arcane legendary weapon is a great responsibility because the weapon contains so much magical power. Arcane spellcasters who recognize a particular weapon usually afford the wielder more respect — or perhaps fear — than they might another of their ilk who was not so equipped.
-
-**Hit Die:** d6.
-
-###### Requirements
-
-To qualify to become a spell scion, a character must fulfill the criteria given in her particular weapon’s entry. (For an example, see [Kaiein](kaiein-the-blazing-staff), below.)
-
-#### Class Skills
-
-The spell scion’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
-
-**Skill Points at Each Level:** 2 + Int modifier.
-
-**Table: The Spell Scion**
-
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Spells per Day/Spells Known                     |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------------------------- |
-| 1st   | +0               | +0       | +0      | +2       | +1 level of existing arcane spellcasting class |
-| 2nd   | +1               | +0       | +0      | +3       | +1 level of existing arcane spellcasting class |
-| 3rd   | +1               | +1       | +1      | +3       | +1 level of existing arcane spellcasting class |
-| 4th   | +2               | +1       | +1      | +4       | +1 level of existing arcane spellcasting class |
-| 5th   | +2               | +1       | +1      | +4       | +1 level of existing arcane spellcasting class |
-| 6th   | +3               | +2       | +2      | +5       | +1 level of existing arcane spellcasting class |
-| 7th   | +3               | +2       | +2      | +5       | +1 level of existing arcane spellcasting class |
-| 8th   | +4               | +2       | +2      | +6       | +1 level of existing arcane spellcasting class |
-| 9th   | +4               | +3       | +3      | +6       | +1 level of existing arcane spellcasting class |
-| 10th  | +5               | +3       | +3      | +7       | +1 level of existing arcane spellcasting class |
-
-###### Class Features
-
-The following are class features of the spell scion prestige class. A legendary weapon associated with the class provides a unique set of additional special abilities, which are detailed in the weapon’s description. (For an example, see *Kaiein*, below.) These abilities accrue in addition to those already noted on [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items|Table: The Spell Scion]]. However, because those abilities are functions of the weapon rather than the wielder, they are lost if the legendary weapon that granted them is lost. The features mentioned on Table: The Spell Scion are retained even if the weapon is lost.
-
-**Spells per Day/Spells Known:** At each spell scion level, the character gains new spells per day (and spells known, if applicable) as if she had also gained a level in a spellcasting class to which she belonged before adding the prestige class level. She does not, however, gain any other benefit a character of that class would have gained (metamagic or item creation feats, and so on). If the character had more than one spellcasting class before becoming a spell scion, the player must decide to which class to add each spell scion level for the purpose of determining spells per day and spells known.
-
-###### Kaiein, the Blazing Staff
-
-Created by a wizard from pure elemental fire, *Kaiein* is a conduit between the wielder and the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]]. The staff is made of polished obsidian and is wreathed at all times in wispy blue-white flame. This flame deals no damage to the wielder.
-
-**Requirements:** Any character can wield *Kaiein* as a +1 [[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]/+1 flaming quarterstaff and also gain the benefit of the resistance to fire special ability described below. A spell scion who wields *Kaiein* gains additional special abilities if the character fulfills the following criteria.
-
-*Alignment:* Any nonlawful.
-
-*Skills:* [[rangoric-srd/skills/Arcana|Arcana]] 7 ranks, [[rangoric-srd/skills/Theology|Theology]] 2 ranks.
-
-*Feats:* [[rangoric-srd/feats/Empower Spell|Empower Spell]].
-
-*Spells:* Ability to cast 4th-level arcane spells, including at least three spells with the fire descriptor.
-
-*Special:* Must have been reduced to -1 or less hit points on at least one occasion from a hit that dealt fire damage.
-
-**Restrictions:** If *Kaiein* is grasped by a creature with [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]], the weapon’s flame goes out temporarily. This renders all the staff’s special abilities (except for its enhancement bonus) inactive. The creature grasping the staff takes 1 point of fire damage in every round when the weapon remains grasped.
-
-**Maintenance:** *Kaiein* must be kept in a warm environment to remain at full power. If the staff spends at least 1 hour in an area where the temperature is below 50°F, its flame goes out temporarily. This renders all the staff’s special abilities (except for its enhancement bonus) inactive. This loss of special abilities can be postponed by dealing at least 5 points of fire damage to *Kaiein* every hour. (Damage dealt to the staff "counts" for this purpose even if the staff actually takes no damage, such as because of its hardness.)
-
-**Attributes:** *Kaiein* has the following attributes.
-
-*Hardness/Hit Points:* 14/45.
-
-*Caster Level:* 15th.
-
-*Value:* To any character other than a spell scion who meets the above requirements, *Kaiein* appears to be worth as much as a Medium +1 [[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]/+1 flaming quarterstaff that grants the resistance to fire ability (market price 24,600 gp).
-
-**Table: Abilities Granted by Kaiein**
-
-| Spell Scion Level | Ability Gained                              |
-| ----------------- | ------------------------------------------- |
-| —                 | Resistance to fire 5                        |
-| 1st               | Resistance to fire 10, empowered spells     |
-| 2nd               | Recall spell 1/day                          |
-| 3rd               | Fire shield                                 |
-| 4th               | Resistance to fire 20                       |
-| 5th               | Enhancement bonus +2/+2, recall spell 2/day |
-| 6th               | Plane shift                                 |
-| 7th               | Resistance to fire 30                       |
-| 8th               | Recall spell 3/day                          |
-| 9th               | Enhancement bonus +3/+3                     |
-| 10th              | Immunity to fire                            |
-
-**Special Abilities:** *Kaiein* provides the following special abilities to its wielder, depending on the character’s class level in the spell scion prestige class (see the table below).
-
-*Initial Abilities:* When first acquired, *Kaiein* functions as a +1 [[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]/ +1 flaming quarterstaff. Anyone who wields it, whether a spell scion or not, also benefits from the resistance to fire ability (see below).
-
-*Resistance to Fire (Ex):* The wielder of the staff gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 5, even if she has no levels in the spell scion class.
-
-A spell scion who wields the staff gains resistance to fire 10. At 4th level, the resistance improves to 20, and at 7th level to 30. This resistance does not stack with any other resistance to fire the wielder may have.
-
-*Empowered Spells (Su):* Three times per day, a spell scion wielding *Kaiein* can empower (as the [[rangoric-srd/feats/Empower Spell|Empower Spell]] feat) any arcane spell she casts that has the fire descriptor. She may apply this effect to any spell whose level is equal to or less than her spell scion level, and may even apply it to spell-like abilities cast by the staff itself. Activating this power is a free action and has no effect on the spell’s level or its casting time.
-
-*Recall Spell (Su):* As a free action, a spell scion of 2nd level or higher can recall any arcane spell she has just cast, as long as that spell has the fire descriptor, up to a maximum spell level equal to her spell scion level. She either restores that spell to her list of prepared spells (if she prepares spells) or regains that spell slot (if she does not prepare spells). She may only recall a spell cast in the same round that she uses this ability.
-
-This ability can be used once per day at 2nd level, twice per day at 5th level, and three times per day at 8th level.
-
-*Fire Shield (Sp):* Once per day, when wielded by a spell scion of 3rd level or higher, *Kaiein* can wreathe the wielder in a warm [[rangoric-srd/spells/Fire Shield|fire shield]] of blue flames.
-
-*Enhancement Bonus (Ex):* When *Kaiein* is wielded by a spell scion of 5th level or higher, the staff’s enhancement bonus improves from +1/+1 to +2/+2. The bonus increases to +3/+3 when the wielder attains 9th level as a spell scion.
-
-*Plane Shift (Sp):* Once per day, *Kaiein* can transport a spell scion of 6th level or higher to the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]], just as if it had cast [[rangoric-srd/spells/Plane Shift|plane shift]]. Additional willing characters can accompany the scion, as described in the plane shift spell. The effect is more accurate than normal for plane shift, delivering the scion 5 to 500 yards (not miles) from her intended destination. The spell scion must have her own method of return, since *Kaiein* provides no return trip.
-
-*Immunity to Fire (Ex):* At 10th level, a spell scion wielding *Kaiein* gains immunity to fire.
-
-##### Swift Scion
-
-Some legendary weapons are meant for the hands of the quick and the silent. A swift scion might inherit her weapon or acquire it "by accident", but the weapon is no less part of her destiny than is the legendary weapon of any other scion. Characters of any class can become swift scions, but rogues, bards, rangers, and monks benefit most from the special abilities of the legendary weapons associated with this class.
-
-Swift scions wield their weapons for a wide variety of purposes. A rogue may use it to supplement her income, while a monk might merely seek to master its use. A bard could draw upon the power of her weapon’s rich history to enhance her music, while a ranger might use it as part of the hunt. Of all legendary weapons, the ones associated with the swift scion class are the most focused in their application. Each tends to favor rogues, monks, rangers, or bards specifically, rather than a broad range of classes as the other legendary weapons do.
-
-**Hit Die:** d6.
-
-###### Requirements
-
-To qualify to become a swift scion, a character must fulfill the criteria given in her particular weapon’s entry. (For an example, see [\>Nightphantom](nightphantom), below.)
-
-#### Class Skills
-
-The swift scion’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
-
-**Skill Points at Each Level:** 6 + Int modifier.
-
-**Table: The Swift Scion**
-
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special               |
-| ----- | ----------------- | --------- | -------- | --------- | --------------------- |
-| 1st   | +0               | +0       | +2      | +0       | Bonus class skill     |
-| 2nd   | +1               | +1       | +3      | +0       | Bonus special ability |
-| 3rd   | +2               | +1       | +3      | +1       | —                     |
-| 4th   | +3               | +1       | +4      | +1       | —                     |
-| 5th   | +3               | +1       | +4      | +1       | Bonus class skill     |
-| 6th   | +4               | +2       | +5      | +2       | Bonus special ability |
-| 7th   | +5               | +2       | +5      | +2       | —                     |
-| 8th   | +6               | +2       | +6      | +2       | —                     |
-| 9th   | +6               | +3       | +6      | +3       | —                     |
-| 10th  | +7               | +3       | +7      | +3       | Bonus special ability |
-
-###### Class Features
-
-The following are class features of the swift scion prestige class. A legendary weapon associated with the class provides a unique set of additional special abilities, which are detailed in the weapon’s description. (For an example, see *Nightphantom*, below.) These abilities accrue in addition to those already noted on [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items|Table: The Swift Scion]]. However, because those abilities are functions of the weapon rather than the wielder, they are lost if the legendary weapon that granted them is lost. The features mentioned on Table: The Swift Scion are retained even if the weapon is lost.
-
-**Bonus Class Skill:** At 1st level, 5th level, and 9th level, a swift scion may choose an additional class skill from the following list: [[rangoric-srd/skills/Appraise|Appraise]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), [[rangoric-srd/skills/Identifying Magic|Magic skill]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), and [[rangoric-srd/skills/Emulation|Emulation]] (Cha). Once designated, that skill is considered a class skill for the swift scion prestige class.
-
-**Bonus Special Ability:** At 2nd level, 6th level, and 10th level, a swift scion may choose an additional special ability from the following list. She may select the same ability more than once if desired, and the effects stack where appropriate.
-
-*Arcane Spells per Day/Spells Known:* A swift scion may gain a number of new spells per day and spells known (if applicable) as if she had also gained a level in a spellcasting class to which she belonged before adding the prestige class. She does not, however, gain any other benefit a character of that class would have gained (metamagic or item creation feats, and so on). If the character had more than one spellcasting class before becoming a swift scion, the player must decide to which class to add each swift scion level for the purpose of determining spells per day and spells known.
-
-*Bardic Music:* A swift scion may choose to gain an extra two daily uses of the bardic music ability, provided that she already has the ability. She doesn’t gain any new bardic music abilities, nor do her existing bardic music abilities improve in effectiveness.
-
-*Fast Movement (Ex):* If a swift scion has an enhancement bonus to her speed from a class feature, she may choose to increase this enhancement bonus by 10 feet. This enhancement bonus follows the same rules as her existing enhancement bonus to speed (for instance, a monk who selects this feature only benefits from the enhancement bonus when wearing no armor).
-
-*Improved Bardic Knowledge:* A swift scion can choose to gain a +4 bonus on bardic knowledge checks. (If the character doesn’t have the [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] class feature, this benefit has no effect.)
-
-*Improved Evasion (Ex):* A swift scion may choose to gain the [[rangoric-srd/classes/Monk#^monk-improved-evasion|improved evasion]] ability, provided that she already has the [[rangoric-srd/classes/Monk#^monk-evasion|evasion]] ability.
-
-*Improved Favored Enemy:* If a swift scion has at least one [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]], the bonus gained on damage rolls and certain skill checks against any one favored enemy improves by +2. The character doesn’t gain any additional favored enemies by selecting this ability.
-
-*Improved Unarmed Damage:* If a swift scion has the [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] feat, she may choose to increase the damage dealt by her unarmed strikes. Treat this as if the character’s monk level had increased by four. For instance, a 6th-level monk/2nd-level swift scion who selects this ability would increase her unarmed strike damage from 1d8 to 1d10. (If the character has no monk levels, she gains unarmed damage as a 4th-level monk.)
-
-*Improved Uncanny Dodge (Ex):* If a swift scion has the [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]] class feature, she may select [[rangoric-srd/classes/Rogue#^rogue-improved-uncanny-dodge|improved uncanny dodge]]. Her swift scion levels stack with her levels in other classes that grant uncanny dodge to determine the minimum rogue level required to flank the character.
-
-*Sneak Attack:* If a swift scion has the [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] ability, she may choose to increase the extra damage it deals by 2d6 points.
-
-*Swift Tracker (Ex):* If a swift scion has the [[rangoric-srd/feats/Track|Track]] feat, she may select this special ability. A swift scion with this ability can move at her normal speed while following tracks without taking the normal -5 penalty. She takes only a -10 penalty (instead of the normal -20) when moving at up to twice normal speed while tracking.
-
-*Trap Sense:* If a swift scion has the [[rangoric-srd/classes/Barbarian#^barbarian-trap-sense|trap sense]] ability, she can take this special ability to increase her bonus on Reflex saves and to AC against traps by 1.
-
-###### Nightphantom
-
-A cabal of halfling clerics created the bow called *Nightphantom* long ago. Since then, it has been passed down along a line of elite rangers and rogues, but was recently lost when its wielder was slain while away from her village.
-
-**Requirements:** Any character can wield *Nightphantom* as a +2 composite shortbow (+2 Str bonus) and also gain the benefit of the stealth special ability described below. A swift scion who wields *Nightphantom* gains additional special abilities if the character fulfills the following criteria.
-
-*Base Attack Bonus:* +6.
-
-*Skills:* [[rangoric-srd/skills/Stealth|Stealth]] 7 ranks.
-
-*Feats:* [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Far Shot|Far Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth).
-
-*Special:* The wielder must be of Small size.
-
-**Restrictions:** *Nightphantom* does not grant its stealth ability to a wielder who is not of Small size, though its enhancement bonus is still effective.
-
-**Attributes:** *Nightphantom* has the following attributes.
-
-*Hardness/Hit Points:* 15/55.
-
-*Caster Level:* 15th.
-
-*Value:* To any character other than a swift scion who meets the above requirements, *Nightphantom* appears to be worth as much as a Small +2 composite shortbow (+2 Str bonus) that grants the stealth ability (market price 10,525 gp).
-
-**Table: Abilities Granted by Nightphantom**
-
-| Swift Scion Level | Ability Gained                 |
-| ----------------- | ------------------------------ |
-| —                 | Stealth                        |
-| 1st               | Invisibility                   |
-| 2nd               | Ghost touch                    |
-| 3rd               | Ephemeral presence (trackless) |
-| 4th               | Enhancement bonus +3           |
-| 5th               | Dreamstrike arrows             |
-| 6th               | Greater invisibility           |
-| 7th               | Enhancement bonus +4           |
-| 8th               | Ephemeral presence (scentless) |
-| 9th               | Etherealness                   |
-| 10th              | Enhancement bonus +5           |
-
-**Special Abilities:** *Nightphantom* provides a number of special abilities to its wielder, depending on the character’s class level in the swift scion prestige class (see the table below).
-
-*Initial Abilities:* When it is first acquired, *Nightphantom* functions as a +2 composite shortbow (+2 Str bonus). Any Small character who wields it, whether a swift scion or not, also benefits from the stealth ability (see below).
-
-*Stealth (Su):* The wielder of *Nightphantom* may use her Wisdom bonus (if any) as a bonus on her [[rangoric-srd/skills/Stealth|Stealth]] checks.
-
-*Invisibility (Sp):* A swift scion wielding *Nightphantom* can become [[rangoric-srd/spells/Invisibility|invisible]] once per day as a free action. The effect lasts for 1 round per class level.
-
-For a swift scion of 6th level or higher, the invisibility granted by this power is the equivalent of [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]]. The duration remains 1 round per class level.
-
-*Ghost Touch (Su):* When *Nightphantom* is wielded by a swift scion of 2nd level or higher, any arrow fired from the bow can damage incorporeal creatures as if it had the [[rangoric-srd/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)|ghost touch]] special ability.
-
-*Ephemeral Presence (Su):* A swift scion of 3rd level or higher bearing *Nightphantom* leaves no trail and cannot be tracked.
-
-At 8th level, a swift scion bearing the weapon no longer gives off a scent. Creatures with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] ability cannot detect her presence by means of that ability, nor can she be tracked by scent.
-
-*Enhancement Bonus (Ex):* When *Nightphantom* is wielded by a swift scion of 4th level or higher, the bow’s enhancement bonus improves from +2 to +3. The bonus increases to +4 at 7th level and +5 at 10th level.
-
-*Dreamstrike Arrows (Su):* Three times per day (but no more than once per round), a swift scion of 5th level or higher can fire a special arrow from *Nightphantom*. The arrow strikes as a touch attack (ignoring armor, shield, and natural armor bonuses to AC). The arrow deals only half the normal damage, but the damage dealt is [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|Wisdom damage]], not hit point damage. Bonus damage dice, if any, do not apply to the damage dealt by a dreamstrike arrow.
-
-*Etherealness (Su):* At 9th level or higher, a swift scion bearing *Nightphantom* can become ethereal for up to 10 rounds per day (which need not be spent all at one time) Activating this power, or deactivating it to become material, is a standard action.
+**What About Armor?** The same system can apply to armor. Use a character's base attack bonus or access to levels of spells to regulate when he can reach a new tier with the armor. Instead of granting special abilities, grant an increase in the armor bonus, a faster movement rate, or similar benefits that suit the armor's theme.
 
 ### Item Familiars
 
