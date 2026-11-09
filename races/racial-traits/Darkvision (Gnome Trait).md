@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Gnome|Gnome]]. **Replaces**: low-light vision and keen senses.
 
-Some gnome strains have lived in the underground depths for so long they have given up on light entirely and gained darkvision with a range of 60 feet.
+Some gnome strains have lived in the underground depths for so long they have given up on light entirely and gained [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] with a range of 60 feet.

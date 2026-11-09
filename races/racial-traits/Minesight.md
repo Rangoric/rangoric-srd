@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Dwarf|Dwarf]]. **Replaces**: darkvision.
 
-Dwarves with this racial trait increase the range of their darkvision to 90 feet; however, they are automatically [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright light and take a –2 penalty on saving throws against effects with the light descriptor.
+Dwarves with this racial trait increase the range of their [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] to 90 feet; however, they are automatically [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright light and take a –2 penalty on saving throws against effects with the light descriptor.

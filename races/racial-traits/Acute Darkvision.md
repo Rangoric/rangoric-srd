@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Half-Orc|Half-Orc]]. **Replaces**: orc ferocity.
 
-Some half-orcs have exceptionally sharp darkvision, gaining darkvision 90 feet.
+Some half-orcs have exceptionally sharp darkvision, gaining [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 90 feet.

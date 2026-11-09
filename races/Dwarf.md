@@ -23,8 +23,8 @@ Perks:
 - +2 Wisdom
 - -2 Charisma
 - Slow and Steady: A dwarf's speed is never modified by armor or encumbrance.
-- Darkvision: Dwarves can see in the dark up to 60 feet. Darkvision is black and white only, but it is otherwise like normal sight, and dwarves can function just fine with no light at all. ^dwarf-darkvision
-- Defensive Training: +4 dodge bonus to Armor Class against monsters of the giant type. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it’s caught [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]], it loses its dodge bonus, too.
+- Darkvision: Dwarves can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works. ^dwarf-darkvision
+- Defensive Training: Dwarves have [[rangoric-srd/races/PC Races#^defensive-training|defensive training]].
 - Craftsman: +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] checks that are related to stone or metal.
 - Greed: +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] checks that are related to stone or metal items, or made to determine the price of nonmagical goods that contain precious metals or gemstones.
 - Hatred: +1 racial bonus on attack rolls against orcs and goblinoids.
