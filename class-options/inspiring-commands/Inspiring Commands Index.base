@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/inspiring-commands")
+views:
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.srd-type
+      - note.class
+      - note.limited-allies
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
