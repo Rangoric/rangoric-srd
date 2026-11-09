@@ -138,17 +138,7 @@ All members of water races share the following traits.
 
 ### Water Half-Orcs
 
-Half-elves and half-orcs are part elemental race and part human. As a result, they have some of the elemental traits of their nonhuman parents-but not all of them. In appearance, they rarely possess more than one variant feature: A fire half-elf might have the charcoal gray skin, but not hair that waves like flames or large red teeth.
-
-Water half-orcs combine the flexibility and careful consideration of their water orc parentage with human capacities for resolve and quick action.
-
-##### Racial Traits
-
-Water hald-orcs do not have the general [[#General Traits Of Water Races|traits of water races]].  
-Water half-orcs have all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], as well as the following traits.
-
-  - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]].
-  - \-1 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities used by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire]] creatures, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]].
+Water half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Water Halflings
 

@@ -155,14 +155,7 @@ Aquatic half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtyp
 
 ### Aquatic Half-Orcs
 
-In their remote and wild tribal homes, [[#Aquatic Orcs|aquatic orcs]] occasionally coexist with barbarian tribes of [[#Aquatic Humans|aquatic humans]]. Sometimes the two groups intermarry, producing aquatic half-orcs.
-
-##### Racial Traits
-
-Aquatic half orcs have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], in addition to those noted below.
-
-  - An aquatic half-orc has a swim speed of 30 feet.
-  - Emissaries: As emissaries for their tribes, aquatic half-orcs receive a +2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks. They aren't the best diplomats under the waves, but they're a far sight better than their orc cousins.
+Aquatic half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Aquatic Halflings
 
@@ -290,15 +283,7 @@ Arctic half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtype
 
 ### Arctic Half-Orcs
 
-Many tribes of [[#Arctic Orcs|arctic orcs]] eke out a living on the warm slopes of volcanic mountains, herding elk and caribou. often their mutual dependence on sources of fresh water and meat brings them into contact with arctic-dwelling human barbarians. The resulting offspring are sometimes welcome in places where full orcs are not, valued for their tenacity, courage, and combat prowess.
-
-##### Racial Traits
-
-Arctic half-orcs have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: An arctic half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: Arctic half-orcs often serve as emissaries for the arctic orc tribes that spawned them.
+Arctic half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Arctic Halflings
 
@@ -417,16 +402,7 @@ Desert half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtype
 
 ### Desert Half-Orcs
 
-Many tribes of [[#Desert Orcs|orcs]] live in isolated desert canyons or the ruins of ancient cities, now abandoned to the sands. Often their mutual dependence on sources of fresh water brings them into contact with desert-dwelling human barbarians. The resulting offspring valued for their tenacity, courage, and combat prowess, are often welcome in places where full-blooded orcs are not.
-
-##### Racial Traits
-
-Desert half-orcs have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Constitution, -2 Intelligence: The desert half-orc is lean and hardy rather than muscular, but has adapted to be more socially adept than a typical half-orc.
-  - Low-Light Vision: A desert half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - Run: Desert half-orcs receive [[rangoric-srd/feats/Run|Run]] as a racial bonus feat. Typically too poor to afford mounts, half-orcs learn from an early age to get from place to place by running.
+Desert half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Desert Halflings
 
@@ -544,15 +520,7 @@ Jungle half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtype
 
 ### Jungle Half-Orcs
 
-The jungle is a wonderful home for [[#Jungle Orcs|orcs]]. It provides them with places to hide, plenty of food, and as much or as little contact with other races as they want — which is always more than the other races want. On occasion, such contact with humans produces half-orcs.
-
-##### Racial Traits
-
-Jungle half-orcs have all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A jungle half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Jungle half-orcs move almost as easily through the trees of their jungle home as they do on the ground.
+Jungle half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Jungle Halflings
 
