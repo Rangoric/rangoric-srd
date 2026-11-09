@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Air"
 level:
+  - "Blr 4"
   - "Drd 4"
   - "Hun 4"
   - "Sor/Wiz 4"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Air\]*
 
-  - **Level**: Drd 4, Hun 4, Sor/Wiz 4
+  - **Level**: Blr 4, Drd 4, Hun 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 120 ft.

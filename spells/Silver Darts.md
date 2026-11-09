@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Blr 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 3, Wit 3
+  - **Level**: Blr 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a silver needle)
   - **Casting Time**: 1 standard action
   - **Range**: 15 ft.

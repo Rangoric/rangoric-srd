@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Blr 2"
   - "Brd 3"
   - "Skd 3"
   - "Sor/Wiz 2"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 2
+  - **Level**: Blr 2, Brd 3, Skd 3, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

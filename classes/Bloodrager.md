@@ -125,7 +125,7 @@ If a bloodrager already possesses uncanny dodge from a different class, he autom
 
 **Eschew Materials**: At 4th level, the bloodrager gains [[rangoric-srd/feats/Eschew Materials|Eschew Materials]] as a bonus feat. ^bloodrager-eschew-materials
 
-**Spells**: Beginning at 4th level, a bloodrager gains the ability to cast a small number of arcane spells drawn from the bloodrager spell list. To learn or cast a spell, a bloodrager must have a Charisma score equal to at least 10 + the spell level. He can cast spells he knows without preparing them ahead of time. The saving throw DC against a bloodrager’s spell is 10 + the spell level + the bloodrager’s Charisma modifier. ^bloodrager-spells
+**Spells**: Beginning at 4th level, a bloodrager gains the ability to cast a small number of arcane spells drawn from the [[rangoric-srd/spells/Bloodrager Spell List|bloodrager spell list]]. To learn or cast a spell, a bloodrager must have a Charisma score equal to at least 10 + the spell level. He can cast spells he knows without preparing them ahead of time. The saving throw DC against a bloodrager’s spell is 10 + the spell level + the bloodrager’s Charisma modifier. ^bloodrager-spells
 
 Like other spellcasters, a bloodrager can cast only a certain number of spells of each level per day. His base daily spell allotment is given on [[rangoric-srd/classes/Bloodrager#^table-the-bloodrager|Table: The Bloodrager]]. In addition, he receives bonus spells per day if he has a high Charisma score. The bloodrager does not need to prepare these spells in advance; he can cast any spell he knows at any time, assuming he hasn’t yet used up his allotment of spells per day for the spell’s level.
 

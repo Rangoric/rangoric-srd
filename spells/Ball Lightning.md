@@ -6,6 +6,7 @@ descriptor:
   - "Air"
   - "Electricity"
 level:
+  - "Blr 4"
   - "Drd 4"
   - "Hun 4"
   - "Sha 4"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Air, Electricity\]*
 
-  - **Level**: Drd 4, Hun 4, Sha 4, Sor/Wiz 4
+  - **Level**: Blr 4, Drd 4, Hun 4, Sha 4, Sor/Wiz 4
   - **Components**: V, S, M/DF (a small iron ring)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

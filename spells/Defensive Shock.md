@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Electricity"
 level:
+  - "Blr 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Electricity\]*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Blr 2, Sor/Wiz 2
   - **Components**: V, S, M (a hollow metal sphere)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

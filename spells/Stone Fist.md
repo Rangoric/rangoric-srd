@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Earth"
 level:
+  - "Blr 1"
   - "Drd 1"
   - "Hun 1"
   - "Sor/Wiz 1"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Drd 1, Hun 1, Sor/Wiz 1
+  - **Level**: Blr 1, Drd 1, Hun 1, Sor/Wiz 1
   - **Components**: V, S, M (a chip of granite)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

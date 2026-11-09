@@ -5,6 +5,7 @@ school: "Abjuration"
 descriptor:
   - "Water"
 level:
+  - "Blr 1"
   - "Drd 1"
   - "Hun 1"
   - "Sha 1"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Water\]*
 
-  - **Level**: Drd 1, Hun 1, Sha 1, Sor/Wiz 1, Wit 1
+  - **Level**: Blr 1, Drd 1, Hun 1, Sha 1, Sor/Wiz 1, Wit 1
   - **Components**: V
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Blr 1"
   - "Clr 1"
   - "Drd 1"
   - "Hun 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 1, Drd 1, Hun 1, Sor/Wiz 1, Wit 1
+  - **Level**: Blr 1, Clr 1, Drd 1, Hun 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M (a drop of sweat)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

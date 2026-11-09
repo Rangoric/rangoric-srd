@@ -5,6 +5,7 @@ school: "Conjuration"
 descriptor:
   - "Darkness"
 level:
+  - "Blr 2"
   - "Brd 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration \[Darkness\]*
 
-  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
+  - **Level**: Blr 2, Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M (coal dust)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

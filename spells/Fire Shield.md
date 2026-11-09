@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Fire or Cold"
 level:
+  - "Blr 4"
   - "Fire 5"
   - "Sor/Wiz 4"
   - "Sun 4"
@@ -18,8 +19,8 @@ target: "You"
 duration: "1 round/level (D)"
 based-on:
   - "[[fantasy srd 3.5/spells/Fire Shield|Fire Shield (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire or Cold\]*
 
-  - **Level**: Fire 5, Sor/Wiz 4, Sun 4
+  - **Level**: Blr 4, Fire 5, Sor/Wiz 4, Sun 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

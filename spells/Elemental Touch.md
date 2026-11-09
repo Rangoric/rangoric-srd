@@ -8,6 +8,7 @@ descriptor:
   - "Electricity"
   - "Fire"
 level:
+  - "Blr 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Acid, Cold, Electricity, Fire\]*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Blr 2, Sor/Wiz 2
   - **Components**: V, S, M (a bit of the chosen element: earth, water, air, or fire)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

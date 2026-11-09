@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Fire"
 level:
+  - "Blr 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Fire\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Blr 4, Sor/Wiz 4
   - **Components**: V, S, M (one fire source)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Force"
 level:
+  - "Blr 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Blr 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

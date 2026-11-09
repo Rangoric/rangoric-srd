@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Sonic"
 level:
+  - "Blr 2"
   - "Brd 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
+  - **Level**: Blr 2, Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 15 ft.

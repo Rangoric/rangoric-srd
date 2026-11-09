@@ -6,6 +6,7 @@ subschool: "Creation"
 descriptor:
   - "Cold"
 level:
+  - "Blr 3"
   - "Drd 3"
   - "Hun 3"
   - "Sha 3"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Cold\]*
 
-  - **Level**: Drd 3, Hun 3, Sha 3, Sor/Wiz 3, Wit 3
+  - **Level**: Blr 3, Drd 3, Hun 3, Sha 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

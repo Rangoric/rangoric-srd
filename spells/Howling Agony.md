@@ -6,6 +6,7 @@ descriptor:
   - "Death"
   - "Pain"
 level:
+  - "Blr 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Pain\]*
 
-  - **Level**: Sor/Wiz 3, Wit 3
+  - **Level**: Blr 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a needle and a dried eyeball)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

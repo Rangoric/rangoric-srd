@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Fire"
 level:
+  - "Blr 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Blr 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 20 ft.

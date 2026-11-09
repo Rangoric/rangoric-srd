@@ -6,6 +6,7 @@ descriptor:
   - "Earth"
 level:
   - "Apl 2"
+  - "Blr 2"
   - "Clr 2"
   - "Drd 2"
   - "Hun 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Apl 2, Clr 2, Drd 2, Hun 2, Pal 2, Rgr 2, Wit 2
+  - **Level**: Apl 2, Blr 2, Clr 2, Drd 2, Hun 2, Pal 2, Rgr 2, Wit 2
   - **Components**: V, S, DF/M (a pinch of forge soot)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

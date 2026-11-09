@@ -6,6 +6,7 @@ descriptor:
   - "Acid"
   - "Fire"
 level:
+  - "Blr 3"
   - "Clr 3"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Acid, Fire\]*
 
-  - **Level**: Clr 3, Sor/Wiz 3, Wit 3
+  - **Level**: Blr 3, Clr 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch
