@@ -19,7 +19,7 @@ The spiritual power of art and song runs strongly through your family line. This
 
 **Bonus Spells**: *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (3rd), *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (5th), *[[rangoric-srd/spells/Suggestion|suggestion]]* (7th), *[[rangoric-srd/spells/Shout|shout]]* (9th), *[[rangoric-srd/spells/Dominate Person|dominate person]]* (11th), *mass suggestion* (13th), *[[rangoric-srd/spells/Power Word Blind|power word blind]]* (15th), *greater shout* (17th), *[[rangoric-srd/spells/Wail of the Banshee|wail of the banshee]]* (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), Lingering Performance, [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation, Intimidation, Performance or Persuasion), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), Spellsong, [[rangoric-srd/feats/Still Spell|Still Spell]].
+**Bonus Feats**: [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Lingering Performance|Lingering Performance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation, Intimidation, Performance or Persuasion), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), Spellsong, [[rangoric-srd/feats/Still Spell|Still Spell]].
 
 **Bloodline Arcana**: Whenever you cast a spell with a verbal component and no somatic or material component, you treat your caster level as if it were one higher.
 
