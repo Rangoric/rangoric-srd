@@ -17,6 +17,6 @@ You are skilled at making foes overreact to your attacks.
 
 **Prerequisites**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Feint|Improved Feint]], base attack bonus +6, Int 13.
 
-**Benefit**: Whenever you feint to make an opponent lose its Dexterity bonus, it loses that bonus until the start of your next turn, as well as against your next attack ([[rangoric-srd/combat/Combat Special Attacks#Feint|feint]]).
+**Benefit**: Whenever you [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] to make an opponent lose its Dexterity bonus, it loses that bonus until the start of your next turn, as well as against the attack the feint normally covers.
 
-**Normal**: A creature you feint loses its Dexterity bonus against your next attack.
+**Normal**: A creature you feint loses its Dexterity bonus only against the attack the [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] rule gives.
