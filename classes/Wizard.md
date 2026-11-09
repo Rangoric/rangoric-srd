@@ -27,7 +27,7 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 ###### Class Skills
 
-The wizard’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex) and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
+The wizard’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Engineering|Engineering]] (Int), and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
 
 **Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the wizard’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the wizard’s Magic skill checks and wherever a rule says “your Magic skill”.
 
@@ -122,9 +122,9 @@ The schools and their powers, one note each: [[rangoric-srd/class-options/arcane
 
 ##### Familiars
 
-A familiar is a normal animal that gains new powers and becomes a magical beast when summoned to service by a sorcerer, wizard, or [[rangoric-srd/classes/Witch|witch]]. It retains the appearance, Hit Dice, base attack bonus, base save bonuses, skills, and feats of the normal animal it once was, but it is treated as a magical beast instead of an animal for the purpose of any effect that depends on its type. Only a normal, unmodified animal may become a familiar. An animal companion cannot also function as a familiar.
+A familiar is a normal animal that gains new powers and becomes a magical beast when summoned to service by a sorcerer, wizard, [[rangoric-srd/classes/Witch|witch]], or [[rangoric-srd/classes/Arcanist|arcanist]] (with the [[rangoric-srd/class-options/arcanist-exploits/Familiar (Exploit)|familiar]] exploit). It retains the appearance, Hit Dice, base attack bonus, base save bonuses, skills, and feats of the normal animal it once was, but it is treated as a magical beast instead of an animal for the purpose of any effect that depends on its type. Only a normal, unmodified animal may become a familiar. An animal companion cannot also function as a familiar.
 
-A familiar also grants special abilities to its master (a sorcerer, wizard, or witch), as given on the table below. These special abilities apply only when the master and familiar are within 1 mile of each other.
+A familiar also grants special abilities to its master (a sorcerer, wizard, witch, or arcanist), as given on the table below. These special abilities apply only when the master and familiar are within 1 mile of each other.
 
 Levels of different classes that are entitled to familiars stack for the purpose of determining any familiar abilities that depend on the master’s level.
 

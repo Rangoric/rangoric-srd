@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/overview]
 
 # Bloodlines
 
-A [[rangoric-srd/classes/Sorcerer|sorcerer]] picks one bloodline at 1st level; the Sorcerer note says what a bloodline gives and when. The following bloodlines represent only some of the possible sources of power that a sorcerer can draw upon. Unless otherwise noted, most sorcerers are assumed to have the arcane bloodline.
+A [[rangoric-srd/classes/Sorcerer|sorcerer]] picks one bloodline at 1st level; the Sorcerer note says what a bloodline gives and when. The following bloodlines represent only some of the possible sources of power that a sorcerer can draw upon. Unless otherwise noted, most sorcerers are assumed to have the arcane bloodline. An [[rangoric-srd/classes/Arcanist|arcanist]] can draw on a bloodline’s 1st-level power with the [[rangoric-srd/class-options/arcanist-exploits/Bloodline Development (Exploit)|bloodline development]] exploit.
 
 - [[rangoric-srd/class-options/bloodlines/Aberrant Bloodline|Aberrant Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Abyssal Bloodline|Abyssal Bloodline]]
