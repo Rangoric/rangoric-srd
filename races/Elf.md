@@ -4,6 +4,7 @@ section: "Races"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Elves|Elves (PF1)]]"
+  - "[[path srd 3.5/races/Elves (Advanced Race Guide)|Elves (ARG)]]"
 status: draft
 change: modified
 pi-review: 2026-11-08
@@ -39,3 +40,32 @@ Bonus Languages:
 - Goblin
 - Orc
 - Sylvan
+
+### Alternate Racial Traits
+
+An elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+
+| Trait | Replaces |
+| --- | --- |
+| [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]] | Weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Darkvision (Elf Trait)|Darkvision]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Desert Runner|Desert Runner]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Dreamspeaker|Dreamspeaker]] | Elven immunities |
+| [[rangoric-srd/races/racial-traits/Elemental Resistance|Elemental Resistance]] | Elven immunities |
+| [[rangoric-srd/races/racial-traits/Envoy|Envoy]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Eternal Grudge|Eternal Grudge]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Fleet-Footed|Fleet-Footed]] | Keen senses and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Lightbringer|Lightbringer]] | Elven immunities and elven magic |
+| [[rangoric-srd/races/racial-traits/Silent Hunter|Silent Hunter]] | Elven magic |
+| [[rangoric-srd/races/racial-traits/Spirit of the Waters|Spirit of the Waters]] | Elven magic and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Urbanite|Urbanite]] | Keen senses |
+| [[rangoric-srd/races/racial-traits/Woodcraft|Woodcraft]] | Elven magic |
+
+### Subtypes
+
+Bundles of alternate traits for elves of a particular background.
+
+- **Arctic Elf**: Born and raised in frozen lands, with nights that last for weeks: [[rangoric-srd/races/racial-traits/Darkvision (Elf Trait)|Darkvision]], [[rangoric-srd/races/racial-traits/Desert Runner|Desert Runner]], and [[rangoric-srd/races/racial-traits/Elemental Resistance|Elemental Resistance]].
+- **Dusk Elf**: Linked to the night itself and attuned to darkness and shadow, though not to evil: [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]], [[rangoric-srd/races/racial-traits/Darkvision (Elf Trait)|Darkvision]], [[rangoric-srd/races/racial-traits/Dreamspeaker|Dreamspeaker]], and [[rangoric-srd/races/racial-traits/Silent Hunter|Silent Hunter]].
+- **Savage Elf**: Adapted to lands where every day is a struggle to survive: [[rangoric-srd/races/racial-traits/Eternal Grudge|Eternal Grudge]] and [[rangoric-srd/races/racial-traits/Fleet-Footed|Fleet-Footed]].
+- **Tower Elf**: Clans who have lived for generations in schools of wizardry: [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]] and [[rangoric-srd/races/racial-traits/Urbanite|Urbanite]].
