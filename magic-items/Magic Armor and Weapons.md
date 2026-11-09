@@ -582,6 +582,7 @@ The following specific weapons usually are preconstructed with exactly the quali
   - [[rangoric-srd/magic-items/weapons/Slaying Arrow|Slaying Arrow]]
   - [[rangoric-srd/magic-items/weapons/Sleep Arrow|Sleep Arrow]]
   - [[rangoric-srd/magic-items/weapons/Sun Blade|Sun Blade]]
+  - [[rangoric-srd/magic-items/weapons/Swashbuckler’s Rapier|Swashbuckler’s Rapier]]
   - [[rangoric-srd/magic-items/weapons/Sword of Life Stealing|Sword of Life Stealing]]
   - [[rangoric-srd/magic-items/weapons/Sword of the Planes|Sword of the Planes]]
   - [[rangoric-srd/magic-items/weapons/Sword of Subtlety|Sword of Subtlety]]

@@ -3,6 +3,8 @@ srd-type: "overview"
 section: "Equipment"
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
+  - "[[path srd 3.5/items/adventuring-gear/Mess Kit|Mess Kit (PF1)]]"
+  - "[[path srd 3.5/items/adventuring-gear/Swashbuckler's Kit|Swashbuckler's Kit (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -57,6 +59,7 @@ tags: [rangoric, rangoric/overview]
 | Amazing                  | 150 gp  | 1 lb.       |
 | Manacles                 | 15 gp   | 2 lb.       |
 | Manacles, masterwork     | 50 gp   | 2 lb.       |
+| Mess kit                 | 2 sp    | 1 lb.       |
 | Mirror, small steel      | 10 gp   | 1/2 lb.     |
 | Mug/Tankard, clay        | 2 cp    | 1 lb.       |
 | Oil (1-pint flask)       | 1 sp    | 1 lb.       |
@@ -81,6 +84,7 @@ tags: [rangoric, rangoric/overview]
 | Soap (per lb.)           | 5 sp    | 1 lb.       |
 | Spade or shovel          | 2 gp    | 8 lb.       |
 | Spyglass                 | 1000 gp | 1 lb.       |
+| Swashbuckler’s kit       | 9 gp    | 29 lb.      |
 | Tent                     | 10 gp   | 20 lb. (1)  |
 | Torch                    | 1 cp    | 1 lb.       |
 | Vial ink or potion       | 1 gp    | 1/10 lb.    |
@@ -278,6 +282,8 @@ Most manacles have locks; add the cost of the lock you want to the cost of the m
 
 For the same cost, you can buy manacles for a Small creature. For a Large creature, manacles cost ten times the indicated amount, and for a Huge creature, one hundred times this amount. Gargantuan, Colossal, Tiny, Diminutive, and Fine creatures can be held only by specially made manacles.
 
+**Mess Kit**: This kit includes a plate, bowl, cup, fork, knife, and spoon, made of wood, horn, or tin. Each item has a handle or small hole, and can be tied together using the included leather cord.
+
 **Oil**: A pint of oil burns for 6 hours in a lantern. You can use a flask of oil as a splash weapon. Use the rules for alchemist’s fire, except that it takes a full round action to prepare a flask with a fuse. Once it is thrown, there is a 50% chance of the flask igniting successfully.
 
 You can pour a pint of oil on the ground to cover an area 5 feet square, provided that the surface is smooth. If lit, the oil burns for 2 rounds and deals 1d3 points of fire damage to each creature in the area.
@@ -289,6 +295,8 @@ You can pour a pint of oil on the ground to cover an area 5 feet square, provide
 **Rope, Silk**: This rope has 4 hit points and can be burst with a DC 24 Strength check. It is so supple that it provides a +2 circumstance bonus on Fieldcraft checks.
 
 **Spyglass**: Objects viewed through a spyglass are magnified to twice their size.
+
+**Swashbuckler’s Kit**: A starting kit for a [[rangoric-srd/classes/Swashbuckler|swashbuckler]]. It includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, soap, torches (10), trail rations (5 days), and a waterskin.
 
 **Torch**: A torch burns for 1 hour, clearly illuminating a 20-foot radius and providing shadowy illumination out to a 40- foot radius. If a torch is used in combat, treat it as a one-handed improvised weapon that deals bludgeoning damage equal to that of a gauntlet of its size, plus 1 point of fire damage.
 

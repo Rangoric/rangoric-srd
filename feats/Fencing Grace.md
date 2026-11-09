@@ -17,3 +17,5 @@ Your dashing style and fluid rapier forms allow you to use agility rather than b
 **Prerequisites**: Dex 13, [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (rapier).
 
 **Benefit**: When wielding a rapier one-handed, you can add your Dexterity modifier instead of your Strength modifier to that weapon’s damage. The weapon must be one made for your size. You don’t gain this benefit while fighting with two weapons or using flurry of blows, or any time your other hand is otherwise occupied.
+
+In addition, if you have the [[rangoric-srd/classes/Swashbuckler#^swashbuckler-panache|panache]] class feature, you gain a +2 bonus to your CMD against attempts to [[rangoric-srd/combat/Combat Maneuvers|disarm]] you of your rapier while you have at least 1 panache point.
