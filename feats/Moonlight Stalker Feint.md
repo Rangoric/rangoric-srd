@@ -19,4 +19,4 @@ You strike through the shadows so quickly that your opponent can barely react to
 
 **Benefit**: Once per round, against an opponent from whom you have [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]], you can spend a swift action to make a Deception check to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]].
 
-**Normal**: [[rangoric-srd/combat/Combat Special Attacks#Feint|Feinting]] is a standard action.
+**Normal**: Feinting takes the action the [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] rule gives.

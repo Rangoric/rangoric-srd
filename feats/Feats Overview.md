@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Feats"
 based-on:
   - "[[fantasy srd 3.5/feats/Feats Overview|Feats Overview (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/feats/Types of Feats (Feats)|Types of Feats (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -22,6 +23,10 @@ A character can’t use a feat if he or she has lost a prerequisite.
 Some feats are general, meaning that no special rules govern them as a group. Others are item creation feats, which allow spellcasters to create magic items of all sorts. A metamagic feat lets a spellcaster prepare and cast a spell with greater effect, albeit as if the spell were a higher spell level than it actually is.
 
 A feat's type is a [[rangoric-srd/Tag Register|tag]] on its note, such as *fighter-bonus*, *metamagic* or *style*. General feats have no type tag. Epic, divine and wild feats are described in [[rangoric-srd/epic/Epic Feats#Types of Epic Feats|Epic Feats]], psionic and metapsionic feats in [[rangoric-srd/psionics/Psionic Feats|Psionic Feats]], and spelltouched feats in [[rangoric-srd/unearthed-arcana/Spelltouched Feats|Spelltouched Feats]].
+
+##### Critical Feats
+
+A feat with the tag *critical* adds an effect to your [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hits]]. When you score a critical hit, you can apply the effect of only one critical feat to it, in addition to the damage dealt, unless you have [[rangoric-srd/feats/Critical Mastery|Critical Mastery]]. ^critical-feats
 
 ##### Fighter Bonus Feats
 
@@ -82,6 +87,10 @@ A feat with the tag *style* sets a fighting stance. As a swift action, you can e
 ### Feat Descriptions
 
 Here is the format for feat descriptions.
+
+##### Teamwork Feats
+
+A feat with the tag *teamwork* works only alongside allies who also have it. Teamwork feats grant large bonuses, but only under specific circumstances: in most cases an ally who also has the feat has to be positioned as the feat describes, and the feat gives no bonus if its conditions aren’t met. Allies who are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]], [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]], or otherwise unable to act don’t count, unless a feat says otherwise. Some abilities let allies use a teamwork feat they don’t have, such as the cavalier’s [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] and the *[[rangoric-srd/spells/Coordinated Effort|coordinated effort]]* spell. With [[rangoric-srd/feats/Pack Tactics|Pack Tactics]], an animal companion counts as having its master’s teamwork feats. ^teamwork-feats
 
 ##### Feat Name \[Type of Feat\]
 
