@@ -4,6 +4,7 @@ section: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items|Legendary Weapons & Familiar Items (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/rules/Scions|Scions (Arms & Armor)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Divine Ranks#Legendary Weapons|Legendary Weapons (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: 2026-11-09
@@ -65,6 +66,57 @@ The level of commitment that a legendary weapon demands from its wielder does no
 **Ex-Scions:** A wielder who no longer meets the prerequisites of his scion prestige class loses the ability to access the special abilities of his legendary weapon (as noted in the sample weapons below) that correspond to actual scion levels. He retains the basic features of the prestige class as given in its description (base attack bonus, base save bonuses, and even spellcaster levels, when appropriate), but the weapon supplies only the magical abilities it would grant to any wielder. Likewise, a scion who no longer possesses his legendary weapon (because of loss, destruction, theft, or some other reason) loses all the benefits that the weapon granted (though he still retains the basic features of the class). An ex-scion may not progress in the prestige class until he corrects the problem, either by once again meeting the requirements of the class or by regaining the weapon. ^ex-scions
 
 This restriction does not prevent a scion from taking levels in another class, or from using the abilities already gained as a scion while he does so. Unless the new class in some way violates the scion prerequisites (such as by requiring a different alignment), or the weapon’s description specifies penalties for advancing in another class, then the only drawback to pursuing a different class is that the scion is not gaining new powers from the weapon.
+
+##### Legendary Weapons by Tier
+
+Arms & Armor offers a second way to run legendary weapons, without the scion prestige classes: the weapon grows in power by tiers as its wielder qualifies for them. ^legendary-weapons-by-tier
+
+Legendary weapons are capable of growing with their wielder. While they might start off as rather modest magic items, they can quickly grow into powerful and respected symbols of power and prestige. For the GM, a legendary weapon can be a plot device that drives a character to unlock the keys to make the weapon better and, ultimately, make the character better. As additional encouragement for players, a legendary weapon doesn't count against the character's wealth as her power increases over the course of her career.
+
+A legendary weapon begins its existence as a +1 weapon with no other special powers. When grasped by a chosen wielder, however, the weapon's true potential is revealed. This generally shows itself through the new wielder recognizing the weapon's name, history, or potential.
+
+**Table: Legendary Weapon Tiers**
+
+| Tier | Prerequisite | Weapon Bonus | Weapon Quality | Special |
+| --- | --- | --- | --- | --- |
+| I | Base attack bonus +3, [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (the specific weapon) | +1 | +1 | — |
+| II | Base attack bonus +5, [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] | +2 | +2 | Bonus feat |
+| III | Base attack bonus +7 | +3 | +3 | Weapon gains sentience and becomes [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Items|intelligent]]; empathic |
+| IV | Base attack bonus +9, [[rangoric-srd/feats/Improved Critical|Improved Critical]] (the specific weapon) | +4 | +4 | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Special Purpose Items|special purpose]]; capable of speech |
+| V | Base attack bonus +12, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]] | +5 | +5 | Weapon gains a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Dedicated Power|dedicated power]]; capable of telepathic communication and reading languages; bonus feat |
+| VI | Base attack bonus +15, [[rangoric-srd/feats/Power Attack|Power Attack]] or [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]] (weapon appropriate) | +6 | +6 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|lesser powers]] for intelligent items and the ability to *read magic* at will |
+| VII | Base attack bonus +18, [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] or [[rangoric-srd/feats/Improved Disarm|Improved Disarm]] | +7 | +7 | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater power]] for intelligent items |
+| VIII | Base attack bonus +21, [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Rapid Shot|Rapid Shot]], or [[rangoric-srd/feats/Cleave|Cleave]] (weapon appropriate) | +8 | +8 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater powers]] for intelligent items; bonus feat |
+| IX | Base attack bonus +24, [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]] | +9 | +9 | Weapon gains one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|lesser power]] and one [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater power]] for intelligent items |
+| X | Base attack bonus +27, [[rangoric-srd/feats/Improved Precise Shot|Improved Precise Shot]], [[rangoric-srd/feats/Manyshot|Manyshot]], or [[rangoric-srd/feats/Great Cleave|Great Cleave]] (weapon appropriate) | +10 | +10 | Weapon gains two [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Intelligent Item Powers|greater powers]] |
+
+^table-legendary-weapon-tiers
+
+**Prerequisite:** The abilities the wielder must have to gain the benefits of that tier.
+
+**Weapon Bonus:** The base magical enhancement bonus of the weapon.
+
+**Weapon Quality:** The total bonus value of the weapon's [[rangoric-srd/magic-items/Magic Armor and Weapons|weapon special abilities]]. At each tier, earlier abilities can be removed to make room for more powerful ones. Instead of taking a single high-value ability, the wielder can choose abilities worth half the tier's value or less; then she gets 1.5 times the total value (round down). For example, a Tier VI legendary weapon could have a single +6 special ability, three +3 abilities, or nine +1 abilities.
+
+**Bonus Feat:** At Tiers II, V and VIII, the wielder gains a bonus feat.
+
+*Character Meets All the Prerequisites:* When a character who meets the prerequisites of a higher tier first draws the weapon and realizes its potential, the legendary weapon becomes half as powerful as it should be in her hands (half the tier she qualifies for, rounded down). Each time the character gains a level, or 30 days of wielding the weapon pass, it rises in power by one tier, until it reaches its full potential in her hands. For example, a 16th-level warrior who grasps a legendary battleaxe and qualifies for Tier VI finds that it immediately becomes a Tier III legendary weapon. After a month of wielding it, it becomes Tier IV; when she gains a level shortly afterward, Tier V; and at the end of the second month, Tier VI, the best it can be in her hands until she qualifies for Tier VII.
+
+*Character Is Missing Prerequisites:* The wielder gains the abilities of the weapon up to the tier she qualifies for (subject to the limits above). As she gains the feats and abilities to qualify for a higher tier, the weapon grows with her.
+
+*Parting with the Weapon:* If the wielder sells the weapon or willingly parts with it for more than one month, the weapon reverts to its original state and waits for a new person with legendary potential to come along; it no longer recognizes its former wielder, who has been deemed unworthy of greatness. At the GM's discretion, if the wielder is separated from the weapon for longer than 30 days for reasons beyond her control (the weapon is stolen, or she is imprisoned), the weapon accepts her back with no loss of its current abilities.
+
+*Unbreakable:* A legendary weapon run by tiers can't be sundered, as under [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#^destroying-a-legendary-weapon|Destroying a Legendary Weapon]]; its hardness and hit points include its enhancement bonus.
+
+**Using Both Ways Together:** The GM can combine the two. Legendary weapons then grow by tier as above, but to gain access to the weapon's power the wielder must take levels in one of the scion prestige classes: those classes open access to the higher tiers, though the wielder must still meet each tier's prerequisites. Instead of letting a player build her own legendary weapon, the GM creates it, and the wielder gains its abilities as she advances in the prestige class, as the sample legendary weapons show.
+
+##### Legends in the Campaign
+
+The GM should place a legendary weapon into the campaign at a relatively low level, so the chosen character can grow with the weapon and work toward fulfilling its potential. A hero wielding a legendary weapon has an instinct that steers him toward the feats and skills he needs to wield the weapon to its full potential (and the weapon makes things crystal clear once it gains the power of speech). [[#^table-legendary-weapon-tiers|Table: Legendary Weapon Tiers]] shows the typical progression of a legendary weapon in a campaign.
+
+**Why Only Typical?** Every campaign world has a different magic level, and the GM needs to craft an advancement that fits it. In a magic-rich world where platinum bubbles forth from the bodies of slain orcs, legendary weapons should advance faster to match the heroes' wealth. By the same coin, if the heroes scrounge for every copper, the progression should be toned down. A rule to follow is that the legendary weapon should be better than anything a hero could otherwise buy on his own.
+
+**What About Armor?** The same system can apply to armor. Use a character's base attack bonus or access to levels of spells to regulate when he can reach a new tier with the armor. Instead of granting special abilities, grant an increase in the armor bonus, a faster movement rate, or similar benefits that suit the armor's theme.
 
 ### Item Familiars
 
