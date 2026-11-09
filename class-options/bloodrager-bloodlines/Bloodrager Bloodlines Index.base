@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/bloodrager-bloodlines")
+views:
+  - type: table
+    name: All notes
+    order:
+      - file.name
+      - srd-type
+      - class
+      - status
+    sort:
+      - property: file.name
+        direction: ASC
