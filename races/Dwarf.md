@@ -4,6 +4,7 @@ section: "Races"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
+  - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)|Dwarves (ARG)]]"
 status: draft
 change: modified
 pi-review: 2026-11-08
@@ -43,3 +44,35 @@ Bonus Languages:
 - Orc
 - Terran
 - Undercommon
+
+### Alternate Racial Traits
+
+A dwarf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+
+| Trait | Replaces |
+| --- | --- |
+| [[rangoric-srd/races/racial-traits/Ancient Enmity|Ancient Enmity]] | Hatred |
+| [[rangoric-srd/races/racial-traits/Deep Warrior|Deep Warrior]] | Defensive training |
+| [[rangoric-srd/races/racial-traits/Giant Hunter|Giant Hunter]] | Hatred |
+| [[rangoric-srd/races/racial-traits/Lorekeeper|Lorekeeper]] | Greed |
+| [[rangoric-srd/races/racial-traits/Magic Resistant|Magic Resistant]] | Hardy |
+| [[rangoric-srd/races/racial-traits/Minesight|Minesight]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]] | Stability |
+| [[rangoric-srd/races/racial-traits/Relentless|Relentless]] | Stability |
+| [[rangoric-srd/races/racial-traits/Rock Stepper|Rock Stepper]] | Stonecunning |
+| [[rangoric-srd/races/racial-traits/Saltbeard|Saltbeard]] | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Sky Sentinel|Sky Sentinel]] | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Stonesinger|Stonesinger]] | Stonecunning |
+| [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]] | Hardy |
+| [[rangoric-srd/races/racial-traits/Surface Survivalist|Surface Survivalist]] | Darkvision |
+| [[rangoric-srd/races/racial-traits/Wyrmscourged|Wyrmscourged]] | Defensive training, hatred, and stonecunning |
+| [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] | The dwarf's normal languages |
+
+### Subtypes
+
+Bundles of alternate traits for dwarves of a particular background.
+
+- **Deep Delver**: [[rangoric-srd/races/racial-traits/Minesight|Minesight]] and [[rangoric-srd/races/racial-traits/Deep Warrior|Deep Warrior]]. Deep delver spellcasters may also take [[rangoric-srd/races/racial-traits/Stonesinger|Stonesinger]] in place of stonecunning.
+- **Elder Dwarf**: [[rangoric-srd/races/racial-traits/Ancient Enmity|Ancient Enmity]], [[rangoric-srd/races/racial-traits/Lorekeeper|Lorekeeper]], and either [[rangoric-srd/races/racial-traits/Magic Resistant|Magic Resistant]] or [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]].
+- **Exiled Dwarf**: [[rangoric-srd/races/racial-traits/Relentless|Relentless]] and [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]], and often [[rangoric-srd/races/racial-traits/Wyrmscourged|Wyrmscourged]].
+- **Mountain Dwarf**: [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]], and often [[rangoric-srd/races/racial-traits/Surface Survivalist|Surface Survivalist]]. Mountain dwarves trained to defend their homes may take [[rangoric-srd/races/racial-traits/Sky Sentinel|Sky Sentinel]] and [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] instead.
