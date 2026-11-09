@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Sonic"
 level:
+  - "Blr 4"
   - "Brd 4"
   - "Skd 4"
   - "Sor/Wiz 5"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 4, Skd 4, Sor/Wiz 5
+  - **Level**: Blr 4, Brd 4, Skd 4, Sor/Wiz 5
   - **Components**: V, S, M (a tuning fork and a quartz crystal)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

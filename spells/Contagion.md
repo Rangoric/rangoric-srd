@@ -6,6 +6,7 @@ descriptor:
   - "Evil"
 level:
   - "Apl 3"
+  - "Blr 4"
   - "Clr 3"
   - "Destruction 3"
   - "Drd 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Apl 3, Clr 3, Destruction 3, Drd 3, Hun 3, Sor/Wiz 4
+  - **Level**: Apl 3, Blr 4, Clr 3, Destruction 3, Drd 3, Hun 3, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

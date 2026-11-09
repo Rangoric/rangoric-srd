@@ -5,6 +5,7 @@ school: "Necromancy"
 descriptor:
   - "Cold"
 level:
+  - "Blr 2"
   - "Drd 2"
   - "Hun 2"
   - "Sor/Wiz 2"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Cold\]*
 
-  - **Level**: Drd 2, Hun 2, Sor/Wiz 2, Wit 2
+  - **Level**: Blr 2, Drd 2, Hun 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

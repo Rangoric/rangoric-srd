@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Water"
 level:
+  - "Blr 3"
   - "Drd 3"
   - "Hun 3"
   - "Sor/Wiz 3"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Water\]*
 
-  - **Level**: Drd 3, Hun 3, Sor/Wiz 3
+  - **Level**: Blr 3, Drd 3, Hun 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

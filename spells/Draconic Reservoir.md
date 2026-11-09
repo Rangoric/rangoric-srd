@@ -8,6 +8,7 @@ descriptor:
   - "Electricity"
   - "Fire"
 level:
+  - "Blr 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Acid, Cold, Electricity, Fire\]*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Blr 3, Sor/Wiz 3
   - **Components**: V, S, M (a scale from dragon that produces the energy you seek to absorb)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

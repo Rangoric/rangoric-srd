@@ -41,3 +41,5 @@ A [[rangoric-srd/classes/Sorcerer|sorcerer]] picks one bloodline at 1st level; t
 - [[rangoric-srd/class-options/bloodlines/Stormborn Bloodline|Stormborn Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Undead Bloodline|Undead Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Verdant Bloodline|Verdant Bloodline]]
+
+The [[rangoric-srd/classes/Bloodrager|bloodrager]] has bloodlines of its own with some of the same names but different powers, in [[rangoric-srd/class-options/bloodrager-bloodlines/Bloodrager Bloodlines|Bloodrager Bloodlines]]; a character with both classes must have the same bloodline in each.

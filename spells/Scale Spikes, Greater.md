@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Blr 4"
   - "Drd 3"
   - "Hun 3"
   - "Rgr 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 3, Hun 3, Rgr 3, Sor/Wiz 3, Wit 3
+  - **Level**: Blr 4, Drd 3, Hun 3, Rgr 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M/DF (a bit of thistle)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

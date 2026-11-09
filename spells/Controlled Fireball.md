@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
   - "Ruse"
 level:
+  - "Blr 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire, Ruse\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Blr 4, Sor/Wiz 4
   - **Components**: V, S, M (a ball of bat guano and sulfur)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

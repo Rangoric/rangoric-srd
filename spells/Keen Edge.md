@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Blr 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -15,8 +16,8 @@ saving-throw: "Will negates (harmless, object)"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Keen Edge|Keen Edge (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Blr 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

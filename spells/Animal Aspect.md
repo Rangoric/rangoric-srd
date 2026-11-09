@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 subschool: "Polymorph"
 level:
+  - "Blr 2"
   - "Drd 2"
   - "Hun 2"
   - "Rgr 2"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Blr 2, Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S, M/DF (a part of the animal)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

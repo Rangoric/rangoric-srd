@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Blr 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Protection from Arrows|Protection from Arrows (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Blr 2, Sor/Wiz 2
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Touch

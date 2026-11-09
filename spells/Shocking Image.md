@@ -6,6 +6,7 @@ subschool: "Figment"
 descriptor:
   - "Electricity"
 level:
+  - "Blr 4"
   - "Brd 4"
   - "Skd 4"
   - "Sor/Wiz 4"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Electricity\]*
 
-  - **Level**: Brd 4, Skd 4, Sor/Wiz 4
+  - **Level**: Blr 4, Brd 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

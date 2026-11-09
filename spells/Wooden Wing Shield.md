@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Blr 4"
   - "Drd 4"
   - "Hun 4"
 components:
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 4, Hun 4
+  - **Level**: Blr 4, Drd 4, Hun 4
   - **Components**: S
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
   - "Ruse"
 level:
+  - "Blr 4"
   - "Brd 3"
   - "Skd 3"
   - "Sor/Wiz 4"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting, Ruse\]*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 4, Wit 4
+  - **Level**: Blr 4, Brd 3, Skd 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Blr 3"
   - "Hun 2"
   - "Rgr 2"
   - "Sor/Wiz 3"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Hun 2, Rgr 2, Sor/Wiz 3, Wit 3
+  - **Level**: Blr 3, Hun 2, Rgr 2, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M/DF (a pickled predator's eye)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

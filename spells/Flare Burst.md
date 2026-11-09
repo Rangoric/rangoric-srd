@@ -6,6 +6,7 @@ subschool: "Light"
 descriptor:
   - "Light"
 level:
+  - "Blr 1"
   - "Brd 1"
   - "Drd 1"
   - "Hun 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation (Light) \[Light\]*
 
-  - **Level**: Brd 1, Drd 1, Hun 1, Skd 1, Sor/Wiz 1
+  - **Level**: Blr 1, Brd 1, Drd 1, Hun 1, Skd 1, Sor/Wiz 1
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

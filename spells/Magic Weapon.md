@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Apl 1"
+  - "Blr 1"
   - "Clr 1"
   - "Pal 1"
   - "Sha 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 1, Clr 1, Pal 1, Sha 1, Sor/Wiz 1, War 1
+  - **Level**: Apl 1, Blr 1, Clr 1, Pal 1, Sha 1, Sor/Wiz 1, War 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

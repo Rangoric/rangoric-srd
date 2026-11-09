@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Cold"
 level:
+  - "Blr 1"
   - "Drd 1"
   - "Hun 1"
   - "Sha 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Cold\]*
 
-  - **Level**: Drd 1, Hun 1, Sha 1, Wit 1
+  - **Level**: Blr 1, Drd 1, Hun 1, Sha 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

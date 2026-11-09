@@ -5,6 +5,7 @@ aliases:
   - "Jump"
 school: "Transmutation"
 level:
+  - "Blr 1"
   - "Drd 1"
   - "Hun 1"
   - "Rgr 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 1, Hun 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Blr 1, Drd 1, Hun 1, Rgr 1, Sor/Wiz 1
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -6,6 +6,7 @@ subschool: "Creation"
 descriptor:
   - "Shadow"
 level:
+  - "Blr 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Shadow\]*
 
-  - **Level**: Sor/Wiz 3, Wit 3
+  - **Level**: Blr 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

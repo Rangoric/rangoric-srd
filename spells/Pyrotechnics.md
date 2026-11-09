@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Blr 2"
   - "Brd 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
+  - **Level**: Blr 2, Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

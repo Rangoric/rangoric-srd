@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Blr 3"
   - "Clr 3"
   - "Drd 3"
   - "Hun 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Drd 3, Hun 3, Sha 3, Sor/Wiz 3, Water 3
+  - **Level**: Blr 3, Clr 3, Drd 3, Hun 3, Sha 3, Sor/Wiz 3, Water 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

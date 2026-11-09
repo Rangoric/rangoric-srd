@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Blr 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 1
+  - **Level**: Blr 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

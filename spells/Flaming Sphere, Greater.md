@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Fire"
 level:
+  - "Blr 4"
   - "Drd 4"
   - "Hun 4"
   - "Sor/Wiz 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Drd 4, Hun 4, Sor/Wiz 4
+  - **Level**: Blr 4, Drd 4, Hun 4, Sor/Wiz 4
   - **Components**: V, S, M/DF (tallow, brimstone, and powdered iron)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)
