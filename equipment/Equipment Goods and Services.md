@@ -6,6 +6,7 @@ based-on:
   - "[[path srd 3.5/items/adventuring-gear/Skald's Kit|Skald's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Mess Kit|Mess Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Swashbuckler's Kit|Swashbuckler's Kit (PF1)]]"
+  - "[[path srd 3.5/items/adventuring-gear/Brawler's Kit|Brawler's Kit (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -30,6 +31,7 @@ tags: [rangoric, rangoric/overview]
 | Blanket, winter          | 5 sp    | 3 lb. (1)   |
 | Block and tackle         | 5 gp    | 5 lb.       |
 | Bottle, wine glass       | 2 gp    | —           |
+| Brawler’s kit            | 9 gp    | 26 lb.      |
 | Bucket (empty)           | 5 sp    | 2 lb.       |
 | Caltrops                 | 1 gp    | 2 lb.       |
 | Candle                   | 1 cp    | —           |
@@ -247,6 +249,8 @@ tags: [rangoric, rangoric/overview]
 ##### Adventuring Gear
 
 Few of the pieces of adventuring gear found on Table: Goods and Services are described below, along with any special benefits they confer on the user (“you”).
+
+**Brawler’s Kit**: A starting kit for a [[rangoric-srd/classes/Brawler|brawler]]. It includes a backpack, a bedroll, a belt pouch, a flint and steel, rope, torches (10), trail rations (5 days), and a waterskin.
 
 **Caltrops**: A caltrop is a four-pronged iron spike crafted so that one prong faces up no matter how the caltrop comes to rest. You scatter caltrops on the ground in the hope that your enemies step on them or are at least forced to slow down to avoid them. One 2- pound bag of caltrops covers an area 5 feet square.
 
