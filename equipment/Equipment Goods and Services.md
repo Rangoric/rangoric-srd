@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Equipment"
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
+  - "[[path srd 3.5/items/adventuring-gear/Skald's Kit|Skald's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Mess Kit|Mess Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Swashbuckler's Kit|Swashbuckler's Kit (PF1)]]"
 status: draft
@@ -80,6 +81,7 @@ tags: [rangoric, rangoric/overview]
 | Sewing needle            | 5 sp    | —           |
 | Signal whistle           | 8 sp    | —           |
 | Signet ring              | 5 gp    | —           |
+| Skald’s kit              | 32 gp   | 32-1/2 lb.  |
 | Sledge                   | 1 gp    | 10 lb.      |
 | Soap (per lb.)           | 5 sp    | 1 lb.       |
 | Spade or shovel          | 2 gp    | 8 lb.       |
@@ -293,6 +295,8 @@ You can pour a pint of oil on the ground to cover an area 5 feet square, provide
 **Rope, Hempen**: This rope has 2 hit points and can be burst with a DC 23 Strength check.
 
 **Rope, Silk**: This rope has 4 hit points and can be burst with a DC 24 Strength check. It is so supple that it provides a +2 circumstance bonus on Fieldcraft checks.
+
+**Skald’s Kit**: A starting kit for a [[rangoric-srd/classes/Skald|skald]]. It includes a backpack, a bedroll, a belt pouch, a common musical instrument, a flint and steel, an iron pot, a mess kit, a mirror, rope, soap, torches (10), trail rations (5 days), and a waterskin.
 
 **Spyglass**: Objects viewed through a spyglass are magnified to twice their size.
 

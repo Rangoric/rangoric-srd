@@ -410,6 +410,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Ghostbane Dirge, Mass\|Ghostbane Dirge, Mass]] (M): | As ghostbane dirge, but affects multiple creatures. |
 | [[rangoric-srd/spells/Hallucinatory Terrain\|Hallucinatory Terrain]]: | Makes one type of terrain appear like another (field into forest, or the like).                                                    |
 | [[rangoric-srd/spells/Heroic Finale\|Heroic Finale]]: | Subject within range of your bardic performance can take an action. |
+| [[rangoric-srd/spells/Heroic Fortune, Mass\|Heroic Fortune, Mass]] (M): | As heroic fortune, but for several creatures. |
 | [[rangoric-srd/spells/Hold Monster\|Hold Monster]]:                   | As hold person, but any creature.                                                                                                  |
 | [[rangoric-srd/spells/Invisibility, Greater\|Invisibility, Greater]]: | As invisibility, but subject can attack and stay [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]]. |
 | [[rangoric-srd/spells/Legend Lore\|Legend Lore]] (M F):               | Lets you learn tales about a person, place, or thing.                                                                              |

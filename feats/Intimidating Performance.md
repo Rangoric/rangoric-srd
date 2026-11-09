@@ -15,8 +15,8 @@ tags: [rangoric, rangoric/feat]
 
 Your performance strikes fear in the hearts of foes.
 
-**Prerequisites**: Ability to start a performance (or raging song) as a move action, [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] or raging song class feature.
+**Prerequisites**: Ability to start a performance (or raging song) as a move action, [[rangoric-srd/classes/Bard#^bardic-music|bardic performance]] or [[rangoric-srd/classes/Skald#^skald-raging-song|raging song]] class feature.
 
-**Benefit**: When you start a bardic performance as a move or swift action, you can use a standard action to [[rangoric-srd/skills/Intimidation|demoralize]] a foe, attempting a [[rangoric-srd/skills/Performance|Performance]] check appropriate to your performance in place of the Intimidation check. Your performance must be one with an audible component.
+**Benefit**: When you start a bardic performance (or a [[rangoric-srd/classes/Skald#^skald-raging-song|raging song]]) as a move or swift action, you can use a standard action to [[rangoric-srd/skills/Intimidation|demoralize]] a foe, attempting a [[rangoric-srd/skills/Performance|Performance]] check appropriate to your performance in place of the Intimidation check. Your performance must be one with an audible component.
 
 If you can start a performance as a swift action and you have the [[rangoric-srd/feats/Dazzling Display|Dazzling Display]] feat, you can gain the benefit of Dazzling Display by succeeding at a Performance check in place of an Intimidation check.
