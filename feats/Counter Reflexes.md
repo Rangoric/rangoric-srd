@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 Your opponent’s advanced training in moving around you is surpassed only by your readiness for it.
 
-**Prerequisites**: [[rangoric-srd/feats/Anticipate Dodge|Anticipate Dodge]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]; base attack bonus +9, brawler level 6th, or monk level 6th.
+**Prerequisites**: [[rangoric-srd/feats/Anticipate Dodge|Anticipate Dodge]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]; base attack bonus +9, [[rangoric-srd/classes/Brawler|brawler]] level 6th, or [[rangoric-srd/classes/Monk|monk]] level 6th.
 
 **Benefit**: Opponents with the [[rangoric-srd/feats/Mobility|Mobility]] feat do not gain the dodge bonus granted by that feat when they provoke attacks of opportunity by moving out of or within your threatened area.

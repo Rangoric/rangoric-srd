@@ -472,6 +472,7 @@ Standard wondrous items are described below.
   - [[rangoric-srd/magic-items/wondrous-items/Mirror of Life Trapping|Mirror of Life Trapping]]
   - [[rangoric-srd/magic-items/wondrous-items/Mirror of Mental Prowess|Mirror of Mental Prowess]]
   - [[rangoric-srd/magic-items/wondrous-items/Mirror of Opposition|Mirror of Opposition]]
+  - [[rangoric-srd/magic-items/wondrous-items/Monk’s Robe|Monk’s Robe]]
   - [[rangoric-srd/magic-items/wondrous-items/Necklace of Adaptation|Necklace of Adaptation]]
   - [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs|Necklace of Fireballs]]
   - [[rangoric-srd/magic-items/wondrous-items/Orb of Storms|Orb of Storms]]

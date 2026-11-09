@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 With deft reflexes, you capitalize on opponents’ mistake.
 
-**Prerequisites**: Dex 18, [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike); base attack bonus +16 or brawler level 12th.
+**Prerequisites**: Dex 18, [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (unarmed strike); base attack bonus +16 or [[rangoric-srd/classes/Brawler|brawler]] level 12th.
 
 **Benefit**: Once per round, when you are fighting unarmed with both hands free and an opponent misses you with a melee attack, it provokes an attack of opportunity from you. You must use an unarmed strike for this attack of opportunity.
