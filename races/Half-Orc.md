@@ -6,6 +6,8 @@ based-on:
   - "[[path srd 3.5/races/Half-Orcs|Half-Orcs (PF1)]]"
   - "[[path srd 3.5/races/Half-Orcs (Advanced Race Guide)|Half-Orcs (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Orcs (Races)|Half-Orcs (APG)]]"
+  - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
+  - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
 status: draft
 change: modified
 pi-review: 2026-11-08
@@ -69,3 +71,11 @@ Bundles of alternate traits for half-orcs of a particular background.
 - **Feral**: Abandoned young and grown up wild, tough but uncivilized: [[rangoric-srd/races/racial-traits/Forest Walker|Forest Walker]] and [[rangoric-srd/races/racial-traits/Toothy|Toothy]].
 - **Mountain Clan**: From mountainous regions, agile and alert to echoing sounds: [[rangoric-srd/races/racial-traits/Bestial|Bestial]] and [[rangoric-srd/races/racial-traits/Rock Climber|Rock Climber]].
 - **Mystic**: Survivors of a brutal apprenticeship to an orc shaman: [[rangoric-srd/races/racial-traits/Shaman's Apprentice|Shaman's Apprentice]] and [[rangoric-srd/races/racial-traits/Sacred Tattoo|Sacred Tattoo]].
+
+**Variants from Unearthed Arcana.** A variant's ability scores take the place of the half-orc's, but keep the half-orc's +2 to one ability score.
+
+- **Water Half-Orc**: Combining the careful consideration of their water orc parents with human resolve. Not the full water race traits: +1 racial bonus on attack rolls against fire creatures, including extraplanar creatures from the Elemental Plane of Fire, and −1 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities used by fire creatures, including extraplanar creatures from the Elemental Plane of Fire.
+- **Aquatic Half-Orc**: Born where aquatic orcs and tribes of aquatic humans intermarry. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 30 feet. [[rangoric-srd/races/racial-traits/Emissaries|Emissaries]].
+- **Arctic Half-Orc**: Children of arctic orc herders and human barbarians, often emissaries for their tribes. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. Low-light vision in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
+- **Desert Half-Orc**: Lean and hardy rather than muscular, and more socially adept than most half-orcs. +2 Constitution, −2 Intelligence, and +2 to one ability score. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. Low-light vision in place of darkvision. [[rangoric-srd/feats/Run|Run]] as a racial bonus feat.
+- **Jungle Half-Orc**: Born where jungle orcs meet humans. Low-light vision in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks.

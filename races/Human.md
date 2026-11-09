@@ -5,6 +5,7 @@ based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Humans|Humans (PF1)]]"
   - "[[path srd 3.5/races/Humans (Advanced Race Guide)|Humans (ARG)]]"
+  - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
 status: draft
 change: modified
 pi-review: 2026-11-08
@@ -60,3 +61,7 @@ Bundles of alternate traits for humans of a particular background.
 - **Imperious Human**: Arrogant expansionists from an empire or a controlling city-state: [[rangoric-srd/races/racial-traits/Silver Tongued|Silver Tongued]] in place of skilled, and [[rangoric-srd/races/racial-traits/Eye for Talent|Eye for Talent]] in place of the bonus feat.
 - **Trailblazer**: Settlers with quick wits who survive new lands: [[rangoric-srd/races/racial-traits/Heart of the Wilderness|Heart of the Wilderness]] in place of skilled (or [[rangoric-srd/races/racial-traits/Heart of the Mountains|Heart of the Mountains]], [[rangoric-srd/races/racial-traits/Heart of the Sea|Heart of the Sea]], [[rangoric-srd/races/racial-traits/Heart of the Snows|Heart of the Snows]] or [[rangoric-srd/races/racial-traits/Heart of the Sun|Heart of the Sun]], by the land being settled). The ARG also swaps the bonus feat for heroic, which waits until Rangoric has hero points; until then trailblazers keep the bonus feat.
 - **Versatile Human**: Natural talent in place of training: [[rangoric-srd/races/racial-traits/Dual Talent|Dual Talent]] in place of the +2 to one ability score, skilled, and the bonus feat.
+
+**Variants from Unearthed Arcana.** Humans are adaptable enough that Unearthed Arcana gives them only one variant.
+
+- **Aquatic Human**: Perhaps descendants of island cities that sank beneath the sea; they may replace or live alongside merfolk. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 30 feet. [[rangoric-srd/races/racial-traits/Superior Low-Light Vision|Superior Low-Light Vision]].

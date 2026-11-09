@@ -128,26 +128,11 @@ Aquatic dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwa
 
 ### Aquatic Elves
 
-The aquatic landscape is dotted with forests of kelp and roofed with sporadic blankets of sargasso weed. Hidden among these watery groves are the ancient settlements of the elves.
-
-##### Racial Traits
-
-Aquatic elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above, [[rangoric-srd/races/Elf|elf racial traits]], and [[rangoric-srd/monsters/Elf#Aquatic Elf|aquatic elf traits]], with the following exception.
-
-  - No gills.
+Aquatic elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Aquatic Gnomes
 
-Aquatic gnomes travel the world beneath the waves in elaborate wood and shell chariots pulled by domesticated sea creatures. Their vehicles range in size from single-person launches to those large enough to house several families.
-
-##### Racial Traits
-
-Aquatic gnomes have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - An aquatic gnome has a swim speed of 20 feet.
-  - Well-Traveled: Aquatic gnomes receive a +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] and [[rangoric-srd/skills/Persuasion|Persuasion]] checks. They always know when their welcome is wearing out.
-  - No +1 racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]]: Aquatic gnomes do not come into combat with kobolds as frequently as their land-bound cousins. They retain their bonus against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]], however.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks or [[rangoric-srd/skills/Perception|Perception]] checks: Aquatic gnomes' visual acuity has improved at the expense of their other senses.
+Aquatic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Aquatic Goblins
 
@@ -166,48 +151,19 @@ Aquatic goblins have the general [[#General Aquatic Racial Traits|aquatic racial
 
 ### Aquatic Half-Elves
 
-[[#Aquatic Elves|Aquatic elves]] sometimes wed [[#Aquatic Humans|aquatic humans]], just as land-based elves sometimes marry surface dwelling humans. The aquatic results are aquatic half-elf children. They often serve as the diplomats and negotiators for either their human or elf communities, depending on where they live.
-
-##### Racial Traits
-
-Aquatic half-elves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - An aquatic half-elf has a swim speed of 40 feet.
-  - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Aquatic half-elves spend a great deal of time traveling between elf and human settlements on their diplomacy work, and so are accustomed to surviving in the undersea wilderness.
+Aquatic half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Aquatic Half-Orcs
 
-In their remote and wild tribal homes, [[#Aquatic Orcs|aquatic orcs]] occasionally coexist with barbarian tribes of [[#Aquatic Humans|aquatic humans]]. Sometimes the two groups intermarry, producing aquatic half-orcs.
-
-##### Racial Traits
-
-Aquatic half orcs have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], in addition to those noted below.
-
-  - An aquatic half-orc has a swim speed of 30 feet.
-  - Emissaries: As emissaries for their tribes, aquatic half-orcs receive a +2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks. They aren't the best diplomats under the waves, but they're a far sight better than their orc cousins.
+Aquatic half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Aquatic Halflings
 
-Aquatic halflings are much more settled than their surface-dwelling cousins. Their slight size means they are easily buffeted by currents that flow beneath the waves like the rivers of the surface world. Many predatory creatures think nothing of swooping down on such small prey. As a result, aquatic halflings often live among [[#Aquatic Dwarves|dwarves]] and [[#Aquatic Humans|humans]], within the defenses those races provide.
-
-##### Racial Traits
-
-Aquatic halflings have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], in addition to those noted below.
-
-  - An aquatic halfling has a swim speed of 20 feet.
-  - Low-Light Vision: An aquatic halfling can see four times as far as a nonaquatic human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
+Aquatic halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Aquatic Humans
 
-Aquatic humans have a place beneath the surface of the sea, perhaps as descendants of forgotten civilizations whose island cities sank beneath the surface. They may replace [[rangoric-srd/monsters/Merfolk|merfolk]] in such campaigns, or exist along with them.
-
-##### Racial Traits
-
-Aquatic humans have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Human|human racial traits]], in addition to those noted below.
-
-  - An aquatic human has a swim speed of 30 feet.
-  - Low-Light Vision: An aquatic human can see four times as far as a nonaquatic human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
+Aquatic humans are now a subtype of the [[rangoric-srd/races/Human#Subtypes|human]].
 
 ### Aquatic Kobolds
 
@@ -285,28 +241,11 @@ Arctic dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwar
 
 ### Arctic Elves
 
-The arctic landscape is dotted here and there with permanent fog banks caused by subterranean heat interacting with snow and ice or warm springs steaming in the freezing air. Hidden in these oases of warmth are the ancient settlements of the elves.
-
-##### Racial Traits
-
-Arctic elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Dexterity: Arctic elves look down on physical exertion, preferring quick action when necessary.
-  - \+2 racial bonus on any one [[rangoric-srd/skills/Craft|Craft]] skill (chosen by the character at the time of creation).
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks made in arctic environments: Arctic elves are naturally adept at staying alive in the harsh conditions of their homeland.
-  - No racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks.
-  - No special ability to notice a secret or concealed door within 5 feet without actively looking for it.
+Arctic elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Arctic Gnomes
 
-Arctic gnomes travel the ice and snow on cleverly constructed sleds pulled by immense woolly mammoths. The animals serve as transportation, a source of fibers for weaving, and walls against the elements. The sleds are enclosed, often transporting entire families.
-
-##### Racial Traits
-
-Arctic gnomes have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Arctic gnomes always seem to know instinctively when their welcome is wearing out.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
+Arctic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Arctic Goblins
 
@@ -326,38 +265,15 @@ Arctic goblins have the general [[#General Arctic Racial Trait|arctic racial tra
 
 ### Arctic Half-Elves
 
-[[#Arctic Elves|Arctic elves]] wed humans as often as basic elves do, producing arctic half-elf children. These half-breeds tend to have great wanderlust, and are uncomfortable staying in one place for very long. They often carry messages and rumors with them as they travel between communities.
-
-##### Racial Traits
-
-Arctic half-elves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: Their transient nature prevents arctic half-elves from being as well trusted as their normal counterparts.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Arctic half-elves spend a great deal of time traveling between elf and human settlements, and are accustomed to surviving in the wilderness.
+Arctic half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Arctic Half-Orcs
 
-Many tribes of [[#Arctic Orcs|arctic orcs]] eke out a living on the warm slopes of volcanic mountains, herding elk and caribou. often their mutual dependence on sources of fresh water and meat brings them into contact with arctic-dwelling human barbarians. The resulting offspring are sometimes welcome in places where full orcs are not, valued for their tenacity, courage, and combat prowess.
-
-##### Racial Traits
-
-Arctic half-orcs have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: An arctic half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: Arctic half-orcs often serve as emissaries for the arctic orc tribes that spawned them.
+Arctic half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Arctic Halflings
 
-Arctic Halflings are hunters and fishermen, stalking walrus and seal and putting to sea to fish, usually in the company of larger races such as humans. They are a peaceful, spiritual people whose rituals include preexpedition prayers for forgiveness from the animals they hope to kill.
-
-##### Racial Traits
-
-Arctic Halflings have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Arctic halflings rarely swim by choice, but are reasonably good at saving themselves from drowning.
-  - No racial bonus on attack rolls with slings. Arctic Halflings do not particularly favor slings for hunting.
-  - Favored Class: [[rangoric-srd/classes/Ranger|Ranger]]. A multiclass arctic halfling's ranger class does not count when determining whether she takes an experience point penalty for multiclassing. This trait replaces the base halfling's favored class.
+Arctic halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Arctic Kobolds
 
@@ -438,27 +354,11 @@ Desert dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwar
 
 ### Desert Elves
 
-In the desert, elves follow nomadic lifestyles. They herd horses, cattle, and goats across the sands, sleeping during the day and working or traveling at night. Their wandering takes them many places and puts them in contact with many cultures. As a result, they are welcome everywhere for the news and exotic trade goods they carry.
-
-##### Racial Traits
-
-Desert elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Dexterity: Desert elves are physically weaker than their normal cousins, but are also hardier, toughened by the harsh reality of desert life.
-  - Weapon Proficiency: Desert elves receive the Martial Weapon Proficiency feats for the scimitar, rapier, and shortbow (including composite shortbow) as bonus feats. Desert elves prefer the scimitar to the longsword and the shortbow to the longbow, because they can use shortbows while mounted.
-  - \+2 racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks: Desert elves spend most of their lives riding and working with animals.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+Desert elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Desert Gnomes
 
-Desert dwarves may dig and maintain wells, but desert gnomes pay for them. Desert gnomes establish and operate fortified trading posts around wells and oases, cultivating crops wherever possible and scouring the surrounding desert for the wealth of buried civilizations. Desert gnome outposts are rarely quiet, doing business both day and night.
-
-##### Racial Traits
-
-Desert gnomes have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Desert gnomes are skilled at haggling and negotiating.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks or [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
+Desert gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Desert Goblins
 
@@ -476,38 +376,15 @@ Desert goblins have the general [[#General Desert Racial Trait|desert racial tra
 
 ### Desert Half-Elves
 
-[[#Desert Elves|Desert elves]] often wed humans, just as their more common cousins do, producing desert half-elf children. These offspring often serve as diplomats and negotiators for either their human or elf communities, depending on where they live.
-
-##### Racial Traits
-
-Desert half-elves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: A desert half-elfs survival often relies on his ability to gauge the social situation.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+Desert half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Desert Half-Orcs
 
-Many tribes of [[#Desert Orcs|orcs]] live in isolated desert canyons or the ruins of ancient cities, now abandoned to the sands. Often their mutual dependence on sources of fresh water brings them into contact with desert-dwelling human barbarians. The resulting offspring valued for their tenacity, courage, and combat prowess, are often welcome in places where full-blooded orcs are not.
-
-##### Racial Traits
-
-Desert half-orcs have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Constitution, -2 Intelligence: The desert half-orc is lean and hardy rather than muscular, but has adapted to be more socially adept than a typical half-orc.
-  - Low-Light Vision: A desert half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - Run: Desert half-orcs receive [[rangoric-srd/feats/Run|Run]] as a racial bonus feat. Typically too poor to afford mounts, half-orcs learn from an early age to get from place to place by running.
+Desert half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Desert Halflings
 
-Like gnomes, halflings are most likely to be active during the day. Most other races regard them somewhat like cats, in that they appear whether invited or not, work at what they want when they want, and disappear without prior notice. A desert gnome proverb observes that “Halflings in your town are a source of trouble, but at least they don't tolerate competition.”
-
-##### Racial Traits
-
-Desert halflings have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks: Desert halflings are stealthy and nimble-fingered.
-  - No racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks.
+Desert halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Desert Kobolds
 
@@ -585,30 +462,11 @@ Jungle dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwar
 
 ### Jungle Elves
 
-Jungle elves are somewhat more primal than their baseline counterparts. In many jungles, ancient elven cities have been swallowed up by the voracious encroachment of trees, vines, and animals, leaving just a shadowy remnant of the population to remember the former glories of their lost civilization.
-
-##### Racial Traits
-
-Jungle elves have all [[rangoric-srd/races/Elf|elf racial traits]], with additions and exceptions as noted below.
-
-  - Weapon Proficiency: Jungle elves receive the Martial Weapon Proficiency feats for the handaxe, rapier, shortsword, and shortbow (including composite shortbow) as bonus feats. Proficiency with a rapier is a vestige of past glories and an honored tradition among jungle elves. The other weapons are useful tools for survival in their environment.
-  - \+2 racial bonus on [[rangoric-srd/skills/Society|Society]] checks: Jungle elves pride themselves on being the keepers of much lore that has been forgotten to others.
-  - No ability to notice secret or concealed doors by passing within 5 feet.
+Jungle elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Jungle Gnomes
 
-Jungle gnomes live in and along the mighty rivers that wind through the jungles. A gnome jungle town is often a collection of boats tied together across a river, with channels to allow passing vessels through (after they pay a toll, of course). Jungle gnomes are also seen traveling the rivers, trading what they can find to those they meet along the way.
-
-##### Racial Traits
-
-Jungle gnomes have all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - No racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]].
-  - No dodge bonus to Armor Class against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giants]].
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Jungle gnomes live their lives clambering in and out of boats, and in and out of the water.
-  - \+2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (shipbuilding) checks: A little lumber and a few simple tools make for a happy and industrious jungle gnome.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Jungle gnomes consider rope the most useful tool on their boats.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] or [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
+Jungle gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Jungle Goblins
 
@@ -629,42 +487,15 @@ Jungle goblins have [[rangoric-srd/monsters/Goblin|goblin racial traits]], with 
 
 ### Jungle Half-Elves
 
-Some [[#Jungle Elves|elf]] communities believe that introducing human blood into their families is a way to invigorate their race once again. Others prefer a mixed-race emissary to deal with outsiders, rather than a pure-blood elf. Either way, jungle half-elves are the result.
-
-##### Racial Traits
-
-Jungle half-elves have all [[rangoric-srd/races/Half-Elf|half-elf racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Jungle half-elves must maintain constant awareness of their place within society.
-  - No racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
+Jungle half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|half-elf]].
 
 ### Jungle Half-Orcs
 
-The jungle is a wonderful home for [[#Jungle Orcs|orcs]]. It provides them with places to hide, plenty of food, and as much or as little contact with other races as they want — which is always more than the other races want. On occasion, such contact with humans produces half-orcs.
-
-##### Racial Traits
-
-Jungle half-orcs have all [[rangoric-srd/races/Half-Orc|half-orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A jungle half-orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Jungle half-orcs move almost as easily through the trees of their jungle home as they do on the ground.
+Jungle half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|half-orc]].
 
 ### Jungle Halflings
 
-Jungle Halflings live a much more settled life than their normal counterparts do. They build villages along rivers and burn clearings in the jungle to plant their crops. In addition, they gather the most abundant food source in their environment, fish, and hunt with poison-tipped weapons.
-
-##### Racial Traits
-
-Jungle Halflings have all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
-
-  - Weapon Proficiency: Jungle Halflings receive the Martial Weapon Proficiency feats for the throwing axe, handaxe, and shortbow (including composite shortbow) as bonus feats. For jungle halflings, the axe is both a practical tool and a ceremonial item. They grow up using the other weapons for hunting and fishing.
-  - [[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] Use: jungle halflings use poison extensively when hunting, and as a result never poison themselves when applying poison to a weapon or when using a poisoned weapon in combat. Jungle halflings make extensive use of poisons harvested from vermin, particularly those that damage Dexterity scores.
-  - No racial bonus on saving throws. Jungle Halflings have no unusual ability to avoid mishaps.
-  - \+2 racial bonus on Fortitude saying throws against poison: Jungle Halflings have adapted a resistance to their own favorite method of bringing down prey.
-  - No morale bonus on saving throws against fear: Jungle halflings may be cunning, but they are no braver than other races.
-  - No racial bonus on attack rolls with slings.
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]]. A multiclass halfling's barbarian class does not count when determining whether she takes an experience point penalty for multiclassing. Jungle halflings live much closer to nature, and must rely on cunning, resourcefulness, persistence, courage, and mercilessness to survive. This trait replaces the normal halfling's favored class.
+Jungle halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Jungle Kobolds
 

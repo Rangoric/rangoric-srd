@@ -5,6 +5,8 @@ based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
   - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)|Gnomes (ARG)]]"
+  - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
+  - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
 status: draft
 change: modified
 pi-review: 2026-11-08
@@ -71,3 +73,11 @@ Bundles of alternate traits for gnomes of a particular background.
 - **Gear Gnomes**: Born into families that spend generations on one vast project, often clockwork: [[rangoric-srd/races/racial-traits/Academician|Academician]] and [[rangoric-srd/races/racial-traits/Master Tinker|Master Tinker]].
 - **Lava Gnomes**: Living in caverns beneath active volcanoes, and thought hot-tempered even by other gnomes: [[rangoric-srd/races/racial-traits/Darkvision (Gnome Trait)|Darkvision]] and [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]].
 - **Traveler Gnomes**: Born on the move, on a ship or in a caravan: [[rangoric-srd/races/racial-traits/Magical Linguist|Magical Linguist]] and either [[rangoric-srd/races/racial-traits/Explorer|Explorer]] or [[rangoric-srd/races/racial-traits/Gift of Tongues|Gift of Tongues]].
+
+**Variants from Unearthed Arcana.** A variant's ability scores take the place of the gnome's, but keep the gnome's +2 Charisma.
+
+- **Air Gnome**: Agile, but lacking physical power. +2 Dexterity, +2 Charisma, −2 Strength. [[rangoric-srd/races/racial-traits/Air Race Traits|Air Race Traits]]. No hatred. Defensive training is against Large or larger creatures of the earth subtype in place of giants.
+- **Aquatic Gnome**: Travelers beneath the waves in wood and shell chariots pulled by domesticated sea creatures. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 20 feet. [[rangoric-srd/races/racial-traits/Well-Traveled|Well-Traveled]]. Hatred is against goblinoids only. No obsessive and no keen senses.
+- **Arctic Gnome**: Travelers of the ice and snow in enclosed sleds pulled by woolly mammoths. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. No obsessive.
+- **Desert Gnome**: Traders who run fortified posts around wells and oases, and pay for the wells desert dwarves dig. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. No keen senses and no obsessive.
+- **Jungle Gnome**: River folk whose towns are boats tied together across a river, with a toll for passing vessels. Hatred is against goblinoids only. No defensive training. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]] (shipbuilding), and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. No keen senses and no obsessive.
