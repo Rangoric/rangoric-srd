@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Feats"
 based-on:
   - "[[fantasy srd 3.5/feats/Feats Overview|Feats Overview (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/feats/Types of Feats (Feats)|Types of Feats (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -86,6 +87,10 @@ A feat with the tag *style* sets a fighting stance. As a swift action, you can e
 ### Feat Descriptions
 
 Here is the format for feat descriptions.
+
+##### Teamwork Feats
+
+A feat with the tag *teamwork* works only alongside allies who also have it. Teamwork feats grant large bonuses, but only under specific circumstances: in most cases an ally who also has the feat has to be positioned as the feat describes, and the feat gives no bonus if its conditions aren’t met. Allies who are [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]], [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]], or otherwise unable to act don’t count, unless a feat says otherwise. Some abilities let allies use a teamwork feat they don’t have, such as the cavalier’s [[rangoric-srd/classes/Cavalier#^cavalier-tactician|tactician]] and the *[[rangoric-srd/spells/Coordinated Effort|coordinated effort]]* spell. ^teamwork-feats
 
 ##### Feat Name \[Type of Feat\]
 
