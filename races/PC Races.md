@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Races"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Racial Traits|Racial Traits (APG)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -35,6 +36,10 @@ _Cleric_: Abyssal, Celestial, Infernal.
 _Druid_: Sylvan.
 
 _Wizard_: Draconic.
+
+##### Alternate Racial Traits
+
+Each race lists alternate racial traits, notes in `races/racial-traits`. A character can exchange one or several of their race's normal traits for alternate ones, as each alternate trait says, but can't exchange the same racial trait more than once. A race's subtypes are bundles of its alternate traits. ^alternate-racial-traits
 
 ##### Small Characters
 
