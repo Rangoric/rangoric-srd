@@ -86,25 +86,11 @@ Traits associated with earth include insight and thoughtfulness. Creatures with 
 
 #### General Traits Of Earth Races
 
-All members of earth races have the following traits.
-
-  - \+1 racial bonus on attack rolls against creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|air]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Air]].
-  - \-2 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities with the air subtype or used by creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|air]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Air]].
-  - Stability: An earth creature gains a +4 bonus to its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] when standing on the ground (but not when climbing, flying, riding, or otherwise not standing firmly on the ground). If the standard race already has this ability, the bonuses stack.
+These traits are now a racial-trait note: [[rangoric-srd/races/racial-traits/Earth Race Traits|Earth Race Traits]].
 
 ### Earth Dwarves
 
-Earth dwarves are identical with standard dwarves, except for some differences in racial traits.
-
-##### Racial Traits
-
-Earth dwarves have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of earth races]] described above and all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Strength, +2 Constitution, -2 Dexterity, -2 Charisma: Earth dwarves are physically powerful, but somewhat clumsy in action and speech.
-  - Improved Stonecunning: An earth dwarf's racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks to notice unusual stonework is +4 (instead of +2).
-  - No +2 racial bonus on saving throws against spells and spell-like effects.
-  - No +1 racial bonus on attacks against [[rangoric-srd/monsters/Orc|orcs]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]].
-  - \+4 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] checks and [[rangoric-srd/skills/Craft|Craft]] checks that are related to stone or metal items: An earth dwarf has a particularly strong familiarity with objects made of the bones of the earth, hence the higher racial bonus.
+Earth dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwarf]].
 
 ### Earth Kobolds
 

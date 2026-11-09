@@ -5,6 +5,8 @@ based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)|Dwarves (ARG)]]"
+  - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
+  - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
 status: draft
 change: modified
 pi-review: 2026-11-08
@@ -76,3 +78,11 @@ Bundles of alternate traits for dwarves of a particular background.
 - **Elder Dwarf**: [[rangoric-srd/races/racial-traits/Ancient Enmity|Ancient Enmity]], [[rangoric-srd/races/racial-traits/Lorekeeper|Lorekeeper]], and either [[rangoric-srd/races/racial-traits/Magic Resistant|Magic Resistant]] or [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]].
 - **Exiled Dwarf**: [[rangoric-srd/races/racial-traits/Relentless|Relentless]] and [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]], and often [[rangoric-srd/races/racial-traits/Wyrmscourged|Wyrmscourged]].
 - **Mountain Dwarf**: [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]], and often [[rangoric-srd/races/racial-traits/Surface Survivalist|Surface Survivalist]]. Mountain dwarves trained to defend their homes may take [[rangoric-srd/races/racial-traits/Sky Sentinel|Sky Sentinel]] and [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] instead.
+
+**Variants from Unearthed Arcana.** A variant's ability scores take the place of the dwarf's, but keep the dwarf's +2 Wisdom.
+
+- **Earth Dwarf**: Physically powerful, but somewhat clumsy in action and speech. +2 Strength, +2 Constitution, +2 Wisdom, −2 Dexterity, −2 Charisma. [[rangoric-srd/races/racial-traits/Earth Race Traits|Earth Race Traits]] (its stability stacks with the dwarf's). [[rangoric-srd/races/racial-traits/Improved Stonecunning|Improved Stonecunning]]. Hardy covers poison only (no bonus against spells and spell-like effects), and no hatred. Greed and craftsman give +4 instead of +2 on items of stone or metal.
+- **Aquatic Dwarf**: Masters of stone beneath the waves, building fortresses near undersea thermal vents. +2 Strength, +2 Constitution, +2 Wisdom, −4 Dexterity, −2 Charisma. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 20 feet.
+- **Arctic Dwarf**: Masters of ice and stone, defending their mines against constant kobold raids. +2 Strength, +2 Constitution, +2 Wisdom, −4 Dexterity, −2 Charisma. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. [[rangoric-srd/races/racial-traits/Icecunning|Icecunning]]. Hatred is against kobolds in place of orcs (goblinoids stay). +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Craft|Craft]] checks related to items made of ice.
+- **Desert Dwarf**: Masters of finding water and digging wells, with the wealth and power that brings. +2 Constitution, +2 Wisdom, −2 Dexterity. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. No stonecunning and no craftsman. Hatred is against reptilian humanoids (such as kobolds and lizardfolk) and dragons (including half-dragons), in place of orcs and goblinoids. Defensive training is against dragons in place of giants. +2 racial bonus on [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] and [[rangoric-srd/skills/Profession|Profession]] (miner) checks.
+- **Jungle Dwarf**: Explorers, pathfinders and traveling merchants who live aboveground. Low-light vision in place of darkvision. No stonecunning and no craftsman. +2 bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] and [[rangoric-srd/skills/Nature|Nature]] checks, and +2 on [[rangoric-srd/skills/Perception|Perception]] checks.

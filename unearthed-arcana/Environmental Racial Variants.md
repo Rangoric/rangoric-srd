@@ -114,11 +114,7 @@ While there are plenty of adventures to be found beneath the waves, water creatu
 
 #### General Aquatic Racial Traits
 
-All aquatic races have the following racial traits.
-
-  - Aquatic: An aquatic race gains the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]]. An aquatic creature can breathe underwater. It cannot also breathe air unless it also has the amphibious special quality. An aquatic creature can hold its breath outside the water for 2 rounds per point of Constitution. After that, it begins to suffocate.
-  - Swim speed: An aquatic creature always has a swim speed. It can move through water at its swim speed without making [[rangoric-srd/skills/Athletics|Athletics]] checks to swim. It has a 8 racial bonus on any Athletics check made while swimming to perform some action or avoid a hazard. It can always choose to take 10 on an Athletics check to swim, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
-  - Bonus Language: Aquan. Aquatic races are familiar with the language of water-based creatures.
+These traits are now a racial-trait note: [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]].
 
 #### Aquatic Race Level Adjustments
 
@@ -128,14 +124,7 @@ However, when a mix of aquatic and nonaquatic characters occurs in an aquatic or
 
 ### Aquatic Dwarves
 
-Beneath the waves, dwarves remain the masters of stone. They build massive, elaborate fortresses near the mineral-rich waters that surround undersea thermal vents.
-
-##### Racial Traits
-
-Aquatic dwarves have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all the [[rangoric-srd/races/Dwarf|dwarf racial traits]], as well as those noted below.
-
-  - \+2 Strength, +2 Constitution, -4 Dexterity, -2 Charisma. Aquatic dwarves are tough enough to survive the brutal environment of the sea floor, but rely on strength and heavy armor rather than agility.
-  - An aquatic dwarf has a swim speed of 20 feet.
+Aquatic dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwarf]].
 
 ### Aquatic Elves
 
@@ -288,22 +277,11 @@ Ice dwellers must exert themselves merely to survive in the bitter climate of th
 
 #### General Arctic Racial Trait
 
-All arctic races have the following racial trait.
-
-  - Cold Endurance: Members of arctic races have a +4 racial bonus on Fortitude saves made to resist the effects of [[rangoric-srd/rules/Wilderness, Weather, and Environment#Cold Dangers|cold weather or exposure]].
+This trait is now a racial-trait note: [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]].
 
 ### Arctic Dwarves
 
-In the icy wastes, dwarves are the masters of both ice and stone. They build massive, elaborate defenses of ice and rock around the mines where they dig for copper, silver, gold, and iron.
-
-##### Racial Traits
-
-Arctic dwarves have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Strength, +2 Constitution, -4 Dexterity, -2 Charisma. Arctic dwarves are tough enough to survive the brutal environment of the arctic, but rely on strength and heavy armor rather than agility.
-  - Icecunning: Arctic dwarves can apply their stonecunning benefits to structures and natural features made of ice, as well as those made of stone.
-  - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]]: Arctic dwarves must defend against constant assaults by kobolds. This trait replaces the dwarfs racial bonus on attack rolls against [[rangoric-srd/monsters/Orc|orcs]].
-  - \+2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Craft|Craft]] checks related to items made of ice.
+Arctic dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwarf]].
 
 ### Arctic Elves
 
@@ -452,24 +430,11 @@ Opportunity for adventure is common on the burning sands. Denizens of the desert
 
 #### General Desert Racial Trait
 
-All desert races gain the following racial trait.
-
-  - Heat Endurance: Members of desert races gain a +4 racial bonus on Fortitude saves made to resist the effects of [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot weather]].
+This trait is now a racial-trait note: [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]].
 
 ### Desert Dwarves
 
-Because of their skill with stone and engineering, dwarves are acknowledged masters of locating water and digging wells. The importance of water to desert peoples gives the dwarves both great wealth and great political power.
-
-###### Racial Traits
-
-Desert dwarves have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Dexterity, +2 Constitution: Desert dwarves are tough enough to survive the brutal environment of the desert, but they rely more on cunning and fast talk than agility.
-  - No stonecunning.
-  - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoids]] of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^reptilian|reptilian subtype]] (including [[rangoric-srd/monsters/Kobold|kobolds]] and [[rangoric-srd/monsters/Lizardfolk|lizardfolk]]) and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragons]] (including [[rangoric-srd/monsters/Half-Dragon|half-dragons]]): Desert dwarves are trained in special combat techniques that allow them to fight common enemies more effectively. This bonus replaces the normal dwarfs bonus against [[rangoric-srd/monsters/Orc|orcs]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]].
-  - \+4 dodge bonus to Armor Class against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragons]]: This replaces the dwarf's dodge bonus to AC against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giants]]. Dragons are a more common threat than giants in desert climes, and desert dwarves have adapted to meet this challenge.
-  - \+2 racial bonus on [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] and [[rangoric-srd/skills/Profession|Profession]] (miner) checks: Desert dwarves protect a great deal of information about what lives beneath the desert and how to reach it.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] checks.
+Desert dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwarf]].
 
 ### Desert Elves
 
@@ -616,19 +581,7 @@ Jungle dwellers may set out into the world for a variety of reasons. They may ne
 
 ### Jungle Dwarves
 
-Because of their height, dwarves can duck under vegetation that impedes humans — yet they are stockier than gnomes or halflings, and able to bull through what they can't avoid. Hardy to a fault, jungle dwarves are explorers, pathfinders, and traveling merchants.
-
-##### Racial Traits
-
-Jungle dwarves have all [[rangoric-srd/races/Dwarf|dwarf racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A jungle dwarf can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] and [[rangoric-srd/skills/Nature|Nature]] checks: Jungle dwarves know a great deal about what lives in the jungle, and are adept at finding it (or avoiding it, as the case may be).
-  - \+2 bonus on [[rangoric-srd/skills/Perception|Perception]] checks: Jungle dwarves have keen eyesight.
-  - No stonecunning: Jungle dwarves live aboveground.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] checks related to stone or metal items.
-  - Favored Class: [[rangoric-srd/classes/Ranger|Ranger]]. A multiclass jungle dwarfs ranger class does not count when determining whether she takes an XP penalty for multiclassing. Jungle dwarves need both outdoor skills and combat proficiency to survive. This trait replaces the normal dwarfs favored class.
+Jungle dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwarf]].
 
 ### Jungle Elves
 
