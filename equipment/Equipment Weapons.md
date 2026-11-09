@@ -82,7 +82,7 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 
 **Natural**: unarmed strike and all natural weapons, such as bite, claw, gore, tail, and wing.
 
-**Pole Arms**: glaive, guisarme, halberd, and ranseur.
+**Pole Arms**: glaive, guisarme, halberd, naginata, and ranseur.
 
 **Spears**: javelin, lance, longspear, shortspear, spear, and trident.
 
@@ -215,6 +215,7 @@ Two special features recur, and the weapon descriptions name them:
 | Guisarme (4)               | 9 gp    | 1d6     | 2d4     | x3       | —               | 12 lb.     | Slashing             |
 | Halberd                    | 10 gp   | 1d8     | 1d10    | x3       | —               | 12 lb.     | Piercing or slashing |
 | Lance (4)                  | 10 gp   | 1d6     | 1d8     | x3       | —               | 10 lb.     | Piercing             |
+| Naginata (4)               | 35 gp   | 1d6     | 1d8     | x4       | —               | 9 lb.      | Slashing             |
 | Ranseur (4)                | 10 gp   | 1d6     | 2d4     | x3       | —               | 12 lb.     | Piercing             |
 | Scythe                     | 18 gp   | 1d6     | 2d4     | x4       | —               | 10 lb.     | Piercing or slashing |
 | *Ranged Weapons*           |         |         |         |          |                 |            |                      |
@@ -353,6 +354,8 @@ While mounted, you can wield a lance with one hand.
 For purposes of weapon proficiency and similar feats, a composite longbow is treated as if it were a longbow.
 
 **Longspear**: A longspear has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe. If you use a ready action to set a longspear against a charge, you deal double damage on a successful hit against a charging character.
+
+**Naginata**: The naginata consists of a 6-foot staff affixed to a 2-foot-long, swordlike slightly curved blade. The shaft is designed to keep the wielder out of reach from swords and shorter weapons. A naginata has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
 
 **Net**: A net is used to entangle enemies. When you throw a net, you make a ranged touch attack against your target. A net’s maximum range is 10 feet. If you hit, the target is entangled. An entangled creature takes a –2 penalty on attack rolls and a –4 penalty on Dexterity, can move at only half speed, and cannot charge or run. If you control the trailing rope by succeeding on an opposed Strength check while holding it, the entangled creature can move only within the limits that the rope allows. If the entangled creature attempts to cast a spell, it must make a DC 15 Concentration check or be unable to cast the spell. ^net
 
