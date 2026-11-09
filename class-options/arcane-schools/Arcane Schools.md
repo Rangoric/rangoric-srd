@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Arcane Schools
 
-The [[rangoric-srd/classes/Wizard|wizard]]’s arcane schools: the school a specialist chooses, with its powers, or the universalist school for a wizard who doesn’t specialize. The class note has the rules for specialists and opposition schools.
+The [[rangoric-srd/classes/Wizard|wizard]]’s arcane schools: the school a specialist chooses, with its powers, or the universalist school for a wizard who doesn’t specialize. The class note has the rules for specialists and opposition schools. An [[rangoric-srd/classes/Arcanist|arcanist]] can draw on a school’s 1st-level powers with the [[rangoric-srd/class-options/arcanist-exploits/School Understanding (Exploit)|school understanding]] exploit.
 
 **Core Rulebook**: [[rangoric-srd/class-options/arcane-schools/Abjuration School|Abjuration]], [[rangoric-srd/class-options/arcane-schools/Conjuration School|Conjuration]], [[rangoric-srd/class-options/arcane-schools/Divination School|Divination]], [[rangoric-srd/class-options/arcane-schools/Enchantment School|Enchantment]], [[rangoric-srd/class-options/arcane-schools/Evocation School|Evocation]], [[rangoric-srd/class-options/arcane-schools/Illusion School|Illusion]], [[rangoric-srd/class-options/arcane-schools/Necromancy School|Necromancy]], [[rangoric-srd/class-options/arcane-schools/Transmutation School|Transmutation]]; and [[rangoric-srd/class-options/arcane-schools/Universalist School|Universalist]].
 
