@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Apl 2"
   - "Drd 3"
+  - "Hun 3"
   - "Rgr 3"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Apl 2, Drd 3, Rgr 3, Sor/Wiz 3, Wit 3
+  - **Level**: Apl 2, Drd 3, Hun 3, Rgr 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 immediate action
   - **Range**: Touch

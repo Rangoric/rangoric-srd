@@ -6,6 +6,7 @@ descriptor:
   - "Earth"
 level:
   - "Drd 6"
+  - "Hun 6"
   - "Wit 6"
 target: "One creature or object/level, no two of which can be more than 30 ft. apart"
 book: "Advanced Race Guide"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Drd 6, Wit 6
+  - **Level**: Drd 6, Hun 6, Wit 6
   - **Components**: 
   - **Target**: One creature or object/level, no two of which can be more than 30 ft. apart
 

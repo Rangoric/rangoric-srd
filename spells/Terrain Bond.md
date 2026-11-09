@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Hun 4"
   - "Rgr 4"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Rgr 4
+  - **Level**: Hun 4, Rgr 4
   - **Components**: V, S, M (a pinch of earth taken from your most favored terrain)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

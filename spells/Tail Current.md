@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 4"
   - "Drd 3"
+  - "Hun 3"
   - "Rgr 3"
   - "Sor/Wiz 4"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Clr 4, Drd 3, Rgr 3, Sor/Wiz 4
+  - **Level**: Clr 4, Drd 3, Hun 3, Rgr 3, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 120 ft.

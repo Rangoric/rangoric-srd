@@ -6,6 +6,7 @@ level:
   - "Animal 6"
   - "Clr 6"
   - "Drd 6"
+  - "Hun 6"
   - "Sha 6"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Animal 6, Clr 6, Drd 6, Sha 6
+  - **Level**: Animal 6, Clr 6, Drd 6, Hun 6, Sha 6
   - **Components**: V, S, DF
   - **Casting Time**: 1 round
   - **Range**: 10 ft.

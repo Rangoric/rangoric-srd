@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Brd 2"
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Drd 2, Rgr 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Drd 2, Hun 2, Rgr 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

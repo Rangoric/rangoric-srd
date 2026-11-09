@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Drd 2, Rgr 2, Sor/Wiz 2, Wit 2
+  - **Level**: Drd 2, Hun 2, Rgr 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M/DF (a drop of eidolon ichor)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

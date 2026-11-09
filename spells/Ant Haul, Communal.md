@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 2"
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 2, Drd 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Clr 2, Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S, M/DF (a small pulley)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

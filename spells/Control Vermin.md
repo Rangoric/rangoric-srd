@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 3"
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 4"
   - "Sor/Wiz 3"
   - "Wit 2"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Drd 2, Rgr 4, Sor/Wiz 3, Wit 2
+  - **Level**: Clr 3, Drd 2, Hun 2, Rgr 4, Sor/Wiz 3, Wit 2
   - **Components**: V, S, DF/M (a beetle)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

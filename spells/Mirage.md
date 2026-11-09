@@ -6,6 +6,7 @@ subschool: "Figment"
 level:
   - "Brd 3"
   - "Drd 3"
+  - "Hun 3"
   - "Rgr 3"
   - "Skd 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 3, Drd 3, Rgr 3, Skd 3
+  - **Level**: Brd 3, Drd 3, Hun 3, Rgr 3, Skd 3
   - **Components**: V, S, M (a pinch of sand and a drop of water)
   - **Casting Time**: 10 minutes
   - **Range**: Long (400 ft. + 40 ft./level)

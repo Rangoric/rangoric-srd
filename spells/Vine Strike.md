@@ -6,6 +6,7 @@ subschool: "Creation"
 level:
   - "Apl 2"
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Apl 2, Drd 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Apl 2, Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

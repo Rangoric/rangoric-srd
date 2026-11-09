@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Drd 2, Rgr 2
+  - **Level**: Drd 2, Hun 2, Rgr 2
   - **Components**: : V, S, M (a pinch of manure)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

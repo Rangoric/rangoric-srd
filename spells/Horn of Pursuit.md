@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 1"
+  - "Hun 1"
   - "Pal 1"
   - "Rgr 1"
   - "Skd 1"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 1, Pal 1, Rgr 1, Skd 1
+  - **Level**: Brd 1, Hun 1, Pal 1, Rgr 1, Skd 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

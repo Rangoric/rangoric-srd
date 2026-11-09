@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Hun 2"
   - "Rgr 2"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Rgr 2
+  - **Level**: Hun 2, Rgr 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

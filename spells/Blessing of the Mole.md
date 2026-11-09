@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 3"
+  - "Hun 3"
   - "Pal 3"
   - "Rgr 3"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Pal 3, Rgr 3
+  - **Level**: Clr 3, Hun 3, Pal 3, Rgr 3
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 0"
   - "Drd 0"
+  - "Hun 0"
   - "Pal 1"
   - "Sha 0"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 0, Drd 0, Pal 1, Sha 0
+  - **Level**: Clr 0, Drd 0, Hun 0, Pal 1, Sha 0
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

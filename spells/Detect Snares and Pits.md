@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Rgr 1"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Detect Snares and Pits|Detect Snares and Pits (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 1, Rgr 1
+  - **Level**: Drd 1, Hun 1, Rgr 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

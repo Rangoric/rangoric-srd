@@ -8,12 +8,13 @@ descriptor:
 level:
   - "Animal 4"
   - "Drd 4"
+  - "Hun 4"
   - "Rgr 4"
 effect: "One or more creatures, no two of which can be more than 30 ft. apart"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Nature’s Ally IV|Summon Nature’s Ally IV (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text\]*
 
-*Level*: Animal 4, Drd 4, Rgr 4
+*Level*: Animal 4, Drd 4, Hun 4, Rgr 4
 
 *Effect*: One or more creatures, no two of which can be more than 30 ft. apart
 

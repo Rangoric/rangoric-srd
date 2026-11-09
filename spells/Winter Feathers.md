@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 1"
   - "Drd 1"
+  - "Hun 1"
   - "Rgr 1"
   - "Sor/Wiz 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 1, Drd 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Clr 1, Drd 1, Hun 1, Rgr 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Apl 1"
+  - "Hun 1"
   - "Pal 1"
   - "Rgr 1"
   - "Sor/Wiz 1"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 1, Pal 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Apl 1, Hun 1, Pal 1, Rgr 1, Sor/Wiz 1
   - **Components**: V, S, M/DF (a piece of fletching)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

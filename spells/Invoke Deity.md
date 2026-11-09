@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Apl 4"
   - "Clr 6"
+  - "Hun 4"
   - "Pal 4"
   - "Rgr 4"
   - "Wit 6"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[See text\]*
 
-  - **Level**: Apl 4, Clr 6, Pal 4, Rgr 4, Wit 6
+  - **Level**: Apl 4, Clr 6, Hun 4, Pal 4, Rgr 4, Wit 6
   - **Components**: V, S, M, F (incense worth 1,000 gp)
   - **Casting Time**: 1 round
   - **Range**: Personal

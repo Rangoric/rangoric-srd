@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Apl 1"
   - "Drd 1"
+  - "Hun 1"
   - "Pal 1"
   - "Rgr 1"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 1, Drd 1, Pal 1, Rgr 1
+  - **Level**: Apl 1, Drd 1, Hun 1, Pal 1, Rgr 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

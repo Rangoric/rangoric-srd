@@ -6,6 +6,7 @@ subschool: "Summoning"
 level:
   - "Brd 2"
   - "Drd 2"
+  - "Hun 2"
   - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Brd 2, Drd 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Drd 2, Hun 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M/DF (a square of red cloth)
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

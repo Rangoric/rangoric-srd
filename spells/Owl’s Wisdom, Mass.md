@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 6"
   - "Drd 6"
+  - "Hun 6"
   - "Sha 6"
   - "Sor/Wiz 6"
 range: "Close (25 ft. + 5 ft./2 levels)"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 6, Drd 6, Sha 6, Sor/Wiz 6
+  - **Level**: Clr 6, Drd 6, Hun 6, Sha 6, Sor/Wiz 6
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 

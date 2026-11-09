@@ -7,6 +7,7 @@ descriptor:
   - "Fear"
   - "Mind-affecting"
 level:
+  - "Hun 1"
   - "Rgr 1"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Emotion, Fear, Mind-affecting\]*
 
-  - **Level**: Rgr 1
+  - **Level**: Hun 1, Rgr 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 20 ft.

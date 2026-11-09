@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Skd 3"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[MindAffecting\]*
 
-  - **Level**: Brd 3, Drd 2, Rgr 2, Skd 3
+  - **Level**: Brd 3, Drd 2, Hun 2, Rgr 2, Skd 3
   - **Components**: V, S, M (a bit of musk from an alpha wolf or another socially dominant animal)
   - **Casting Time**: 10 minutes
   - **Range**: Personal

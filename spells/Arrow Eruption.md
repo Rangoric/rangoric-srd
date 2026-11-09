@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Hun 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Rgr 2, Sor/Wiz 2
+  - **Level**: Hun 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S, M (arrow or crossbow bolt)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

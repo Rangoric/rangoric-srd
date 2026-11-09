@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Sha 2"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Drd 2, Sha 2
+  - **Level**: Drd 2, Hun 2, Sha 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

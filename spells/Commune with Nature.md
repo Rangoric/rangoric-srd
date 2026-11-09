@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Animal 5"
   - "Drd 5"
+  - "Hun 4"
   - "Rgr 4"
   - "Sha 5"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Animal 5, Drd 5, Rgr 4, Sha 5
+  - **Level**: Animal 5, Drd 5, Hun 4, Rgr 4, Sha 5
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Personal

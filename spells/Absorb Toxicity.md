@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Drd 4"
+  - "Hun 4"
   - "Sor/Wiz 5"
   - "Wit 4"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Drd 4, Sor/Wiz 5, Wit 4
+  - **Level**: Drd 4, Hun 4, Sor/Wiz 5, Wit 4
   - **Components**: V, S, M (a thorn from a poisonous plant)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

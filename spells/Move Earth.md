@@ -6,6 +6,7 @@ descriptor:
   - "Earth"
 level:
   - "Drd 6"
+  - "Hun 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -19,8 +20,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Move Earth|Move Earth (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Drd 6, Sor/Wiz 6
+  - **Level**: Drd 6, Hun 6, Sor/Wiz 6
   - **Components**: V, S, M
   - **Casting Time**: See text
   - **Range**: Long (400 ft. + 40 ft./level)

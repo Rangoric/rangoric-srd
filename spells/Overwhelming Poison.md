@@ -8,6 +8,7 @@ level:
   - "Apl 4"
   - "Clr 6"
   - "Drd 6"
+  - "Hun 4"
   - "Rgr 4"
   - "Wit 6"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Poison\]*
 
-  - **Level**: Apl 4, Clr 6, Drd 6, Rgr 4, Wit 6
+  - **Level**: Apl 4, Clr 6, Drd 6, Hun 4, Rgr 4, Wit 6
   - **Components**: V, S, M (an adder's fang)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

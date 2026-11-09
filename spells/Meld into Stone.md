@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 3"
   - "Drd 3"
+  - "Hun 3"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ target: "You"
 duration: "10 min./level"
 based-on:
   - "[[fantasy srd 3.5/spells/Meld into Stone|Meld into Stone (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Clr 3, Drd 3
+  - **Level**: Clr 3, Drd 3, Hun 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

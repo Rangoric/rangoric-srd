@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Drd 3"
+  - "Hun 2"
   - "Rgr 2"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Drd 3, Rgr 2
+  - **Level**: Drd 3, Hun 2, Rgr 2
   - **Components**: V, S, M (a sprig of mistletoe, and a vial of quicksilver)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

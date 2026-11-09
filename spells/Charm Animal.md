@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Rgr 1"
   - "Sha 1"
 target: "One animal"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-Affecting\]*
 
-  - **Level**: Drd 1, Rgr 1, Sha 1
+  - **Level**: Drd 1, Hun 1, Rgr 1, Sha 1
   - **Target**: One animal
 
 This spell functions like [[rangoric-srd/spells/Charm Person|charm person]], except that it affects a creature of the animal type.

@@ -5,6 +5,7 @@ school: "Transmutation"
 subschool: "Polymorph"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Rgr 1"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Drd 1, Rgr 1
+  - **Level**: Drd 1, Hun 1, Rgr 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

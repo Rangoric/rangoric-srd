@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Rgr 1"
   - "Sor/Wiz 1"
   - "Wit 1"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 1, Rgr 1, Sor/Wiz 1, Wit 1
+  - **Level**: Drd 1, Hun 1, Rgr 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

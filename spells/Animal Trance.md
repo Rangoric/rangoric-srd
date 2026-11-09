@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Drd 2"
+  - "Hun 2"
   - "Skd 2"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting, Sonic\]*
 
-  - **Level**: Brd 2, Drd 2, Skd 2
+  - **Level**: Brd 2, Drd 2, Hun 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

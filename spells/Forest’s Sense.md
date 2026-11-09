@@ -5,6 +5,7 @@ school: "Divination"
 subschool: "Scrying"
 level:
   - "Drd 4"
+  - "Hun 3"
   - "Rgr 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Drd 4, Rgr 3
+  - **Level**: Drd 4, Hun 3, Rgr 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 1 mi.

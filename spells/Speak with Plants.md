@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 4"
   - "Drd 3"
+  - "Hun 2"
   - "Rgr 2"
   - "Skd 4"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Drd 3, Rgr 2, Skd 4
+  - **Level**: Brd 4, Drd 3, Hun 2, Rgr 2, Skd 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

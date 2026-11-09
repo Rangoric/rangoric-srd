@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
 level:
   - "Drd 5"
+  - "Hun 5"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Drd 5, Sor/Wiz 5
+  - **Level**: Drd 5, Hun 5, Sor/Wiz 5
   - **Components**: V, S, M (a snake scale)
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

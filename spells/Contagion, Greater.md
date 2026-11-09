@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 5"
   - "Drd 5"
+  - "Hun 5"
   - "Sor/Wiz 6"
   - "Wit 5"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Disease, Evil\]*
 
-  - **Level**: Clr 5, Drd 5, Sor/Wiz 6, Wit 5
+  - **Level**: Clr 5, Drd 5, Hun 5, Sor/Wiz 6, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

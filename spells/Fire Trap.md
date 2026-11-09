@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Fire\]*
 
-  - **Level**: Drd 2, Sor/Wiz 4
+  - **Level**: Drd 2, Hun 2, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Touch

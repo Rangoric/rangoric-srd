@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 3"
+  - "Hun 3"
   - "Plant 3"
   - "Rgr 3"
 components:
@@ -18,8 +19,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Plant Growth|Plant Growth (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 3, Plant 3, Rgr 3
+  - **Level**: Drd 3, Hun 3, Plant 3, Rgr 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: See text

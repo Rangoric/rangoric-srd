@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 6"
+  - "Hun 6"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "Will negates (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Spellstaff|Spellstaff (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 6
+  - **Level**: Drd 6, Hun 6
   - **Components**: V, S, F
   - **Casting Time**: 10 minutes
   - **Range**: Touch

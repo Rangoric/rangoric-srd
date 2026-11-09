@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Drd 4"
+  - "Hun 4"
   - "Sha 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Drd 4, Sha 4
+  - **Level**: Drd 4, Hun 4, Sha 4
   - **Components**: V, S, M (earth and water)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

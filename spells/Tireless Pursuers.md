@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Hun 3"
   - "Rgr 3"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Rgr 3
+  - **Level**: Hun 3, Rgr 3
   - **Components**: V, S, M (a hard biscuit broken into pieces)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

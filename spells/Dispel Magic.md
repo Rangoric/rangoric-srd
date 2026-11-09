@@ -7,6 +7,7 @@ level:
   - "Brd 3"
   - "Clr 3"
   - "Drd 4"
+  - "Hun 4"
   - "Magic 3"
   - "Pal 3"
   - "Sha 3"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Apl 3, Brd 3, Clr 3, Drd 4, Magic 3, Pal 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
+  - **Level**: Apl 3, Brd 3, Clr 3, Drd 4, Hun 4, Magic 3, Pal 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -5,6 +5,7 @@ school: "Transmutation"
 subschool: "Polymorph"
 level:
   - "Drd 4"
+  - "Hun 4"
   - "Sor/Wiz 5"
   - "Wit 4"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Drd 4, Sor/Wiz 5, Wit 4
+  - **Level**: Drd 4, Hun 4, Sor/Wiz 5, Wit 4
   - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

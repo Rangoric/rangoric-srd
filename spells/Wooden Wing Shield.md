@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 4"
+  - "Hun 4"
 components:
   - "S"
 casting-time: "1 immediate action"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 4
+  - **Level**: Drd 4, Hun 4
   - **Components**: S
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

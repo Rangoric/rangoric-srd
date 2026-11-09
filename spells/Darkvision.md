@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Apl 2"
+  - "Hun 3"
   - "Rgr 3"
   - "Sor/Wiz 2"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 2, Rgr 3, Sor/Wiz 2
+  - **Level**: Apl 2, Hun 3, Rgr 3, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

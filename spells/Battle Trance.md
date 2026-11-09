@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Apl 3"
   - "Clr 4"
+  - "Hun 3"
   - "Rgr 3"
   - "Wit 4"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
 
-  - **Level**: Apl 3, Clr 4, Rgr 3, Wit 4
+  - **Level**: Apl 3, Clr 4, Hun 3, Rgr 3, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

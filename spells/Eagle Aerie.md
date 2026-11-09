@@ -7,6 +7,7 @@ descriptor:
   - "Good"
 level:
   - "Drd 6"
+  - "Hun 6"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[Good\]*
 
-  - **Level**: Drd 6
+  - **Level**: Drd 6, Hun 6
   - **Components**: V, S, DF
   - **Casting Time**: 1 round
   - **Range**: Long (400 ft. + 40 ft./level)

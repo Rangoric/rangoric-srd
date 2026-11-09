@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Enchantment"
 level:
+  - "Hun 3"
   - "Rgr 3"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment*
 
-  - **Level**: Rgr 3
+  - **Level**: Hun 3, Rgr 3
   - **Components**: V, S
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

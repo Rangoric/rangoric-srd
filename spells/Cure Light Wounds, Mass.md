@@ -8,6 +8,7 @@ level:
   - "Clr 5"
   - "Drd 6"
   - "Healing 5"
+  - "Hun 6"
   - "Sha 5"
   - "Skd 5"
   - "Wit 6"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 5, Clr 5, Drd 6, Healing 5, Sha 5, Skd 5, Wit 6
+  - **Level**: Brd 5, Clr 5, Drd 6, Healing 5, Hun 6, Sha 5, Skd 5, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

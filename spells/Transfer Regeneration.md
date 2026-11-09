@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 3"
   - "Drd 3"
+  - "Hun 3"
   - "Wit 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Drd 3, Wit 3
+  - **Level**: Clr 3, Drd 3, Hun 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

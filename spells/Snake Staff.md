@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 5"
   - "Drd 5"
+  - "Hun 5"
   - "Sha 6"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 5, Drd 5, Sha 6
+  - **Level**: Clr 5, Drd 5, Hun 5, Sha 6
   - **Components**: V, S, M (a knife suitable for whittling)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

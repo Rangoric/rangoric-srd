@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 4"
   - "Drd 4"
+  - "Hun 3"
   - "Rgr 3"
   - "Skd 4"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Brd 4, Drd 4, Rgr 3, Skd 4
+  - **Level**: Brd 4, Drd 4, Hun 3, Rgr 3, Skd 4
   - **Components**: V, S, M (a morsel of food the animal likes)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

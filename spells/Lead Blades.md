@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Hun 1"
   - "Rgr 1"
 components:
   - "V"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Rgr 1
+  - **Level**: Hun 1, Rgr 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

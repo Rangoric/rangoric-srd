@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Drd 6"
+  - "Hun 6"
   - "Sha 7"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 *Conjuration (Teleportation)  
 *
 
-  - **Level**: Drd 6, Sha 7
+  - **Level**: Drd 6, Hun 6, Sha 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Unlimited

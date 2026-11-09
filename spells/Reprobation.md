@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 5"
   - "Drd 5"
+  - "Hun 5"
   - "Pal 4"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Curse\]*
 
-  - **Level**: Clr 5, Drd 5, Pal 4
+  - **Level**: Clr 5, Drd 5, Hun 5, Pal 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 minute
   - **Range**: Close (25 ft. + 5 ft./2 levels)

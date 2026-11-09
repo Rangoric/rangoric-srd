@@ -6,6 +6,7 @@ descriptor:
   - "Light"
 level:
   - "Drd 6"
+  - "Hun 6"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Drd 6
+  - **Level**: Drd 6, Hun 6
   - **Components**: V, S, M (a drop of rainwater)
   - **Casting Time**: 1 round
   - **Range**: 0 ft. or 10 ft./level
