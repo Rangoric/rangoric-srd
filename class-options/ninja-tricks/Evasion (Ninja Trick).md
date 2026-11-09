@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "ninja-trick"
-class: "Ninja"
+class: ["Ninja", "Slayer"]
 master: true
 sneak-attack: false
 level: 10

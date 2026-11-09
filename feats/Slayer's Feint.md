@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 You rely on your deceptive speed and agility instead of trickery to catch your opponents unprepared.
 
-**Prerequisites**: Dex 15, [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Acrobatics|Acrobatics]]) or slayer level 1st, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/skills/Acrobatics|Acrobatics]] 1 rank.
+**Prerequisites**: Dex 15, [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Acrobatics|Acrobatics]]) or [[rangoric-srd/classes/Slayer|slayer]] level 1st, [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/skills/Acrobatics|Acrobatics]] 1 rank.
 
 **Benefit**: You can use [[rangoric-srd/skills/Acrobatics|Acrobatics]] instead of [[rangoric-srd/skills/Deception|Deception]] to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] in combat.

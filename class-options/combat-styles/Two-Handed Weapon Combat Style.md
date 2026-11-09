@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "combat-style"
-class: "Ranger"
+class: ["Ranger", "Slayer"]
 based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/core-classes/Ranger (Core Classes)#New Combat Styles|Ranger (PF1 APG)]]"
 status: draft
