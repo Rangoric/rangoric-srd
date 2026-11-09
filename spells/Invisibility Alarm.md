@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Brd 1"
+  - "Hun 1"
   - "Rgr 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Rgr 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Hun 1, Rgr 1, Skd 1, Sor/Wiz 1
   - **Components**: 
   - **Duration**: 10 minutes/level
 

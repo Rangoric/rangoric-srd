@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Drd 5"
+  - "Hun 5"
   - "Plant 5"
   - "Sha 5"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Drd 5, Plant 5, Sha 5
+  - **Level**: Drd 5, Hun 5, Plant 5, Sha 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

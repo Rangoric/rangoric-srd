@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 2, Rgr 2
+  - **Level**: Drd 2, Hun 2, Rgr 2
   - **Components**: V, S
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

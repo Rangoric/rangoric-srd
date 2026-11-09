@@ -6,6 +6,7 @@ level:
   - "Clr 2"
   - "Drd 2"
   - "Fire 3"
+  - "Hun 1"
   - "Pal 2"
   - "Rgr 1"
   - "Sha 2"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 2, Drd 2, Fire 3, Pal 2, Rgr 1, Sha 2, Sor/Wiz 2
+  - **Level**: Clr 2, Drd 2, Fire 3, Hun 1, Pal 2, Rgr 1, Sha 2, Sor/Wiz 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

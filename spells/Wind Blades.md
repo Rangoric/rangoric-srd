@@ -6,6 +6,7 @@ descriptor:
   - "Air"
 level:
   - "Drd 5"
+  - "Hun 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Drd 5, Sor/Wiz 5, Wit 5
+  - **Level**: Drd 5, Hun 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -6,6 +6,7 @@ descriptor:
   - "Electricity"
 level:
   - "Drd 3"
+  - "Hun 3"
   - "Sha 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Electricity\]*
 
-  - **Level**: Drd 3, Sha 3
+  - **Level**: Drd 3, Hun 3, Sha 3
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

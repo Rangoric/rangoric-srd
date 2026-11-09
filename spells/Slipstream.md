@@ -7,6 +7,7 @@ descriptor:
   - "Water"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Water\]*
 
-  - **Level**: Drd 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S, M/DF (a few drops of oil and water)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

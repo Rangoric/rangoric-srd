@@ -6,6 +6,7 @@ subschool: "Polymorph"
 level:
   - "Clr 5"
   - "Drd 5"
+  - "Hun 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Clr 5, Drd 5, Sor/Wiz 5, Wit 5
+  - **Level**: Clr 5, Drd 5, Hun 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M/DF (oils and poisons worth 3,000 gp)
   - **Casting Time**: 1 hour
   - **Range**: Touch

@@ -6,6 +6,7 @@ level:
   - "Brd 0"
   - "Clr 0"
   - "Drd 0"
+  - "Hun 0"
   - "Sha 0"
   - "Skd 0"
   - "Sor/Wiz 0"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
+  - **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 10 ft.

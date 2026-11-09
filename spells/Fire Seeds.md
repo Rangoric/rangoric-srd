@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Drd 6"
   - "Fire 6"
+  - "Hun 6"
   - "Sha 6"
   - "Sun 6"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Fire\]*
 
-  - **Level**: Drd 6, Fire 6, Sha 6, Sun 6
+  - **Level**: Drd 6, Fire 6, Hun 6, Sha 6, Sun 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -6,6 +6,7 @@ descriptor:
   - "Air"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Air\]*
 
-  - **Level**: Drd 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

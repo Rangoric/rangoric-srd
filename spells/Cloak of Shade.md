@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Rgr 1"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Drd 1, Rgr 1
+  - **Level**: Drd 1, Hun 1, Rgr 1
   - **Components**: V, S, M (a leaf from a shade tree)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

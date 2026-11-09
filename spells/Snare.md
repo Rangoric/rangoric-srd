@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Hun 2"
   - "Rgr 2"
   - "Drd 3"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Rgr 2, Drd 3
+  - **Level**: Hun 2, Rgr 2, Drd 3
   - **Components**: V, S, DF
   - **Casting Time**: 3 rounds
   - **Range**: Touch

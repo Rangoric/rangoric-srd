@@ -6,6 +6,7 @@ descriptor:
   - "Poison"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Sha 2"
 saving-throw: "Reflex partial and Fortitude negates (see text)"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Poison\]*
 
-  - **Level**: Drd 2, Rgr 2, Sha 2
+  - **Level**: Drd 2, Hun 2, Rgr 2, Sha 2
   - **Components**: 
   - **Saving Throw**: Reflex partial and Fortitude negates (see text)
   - **Spell Resistance**: No

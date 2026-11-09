@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Hun 2"
   - "Rgr 2"
   - "Wit 2"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Rgr 2, Wit 2
+  - **Level**: Hun 2, Rgr 2, Wit 2
   - **Components**: V, S, M (a drop of water)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

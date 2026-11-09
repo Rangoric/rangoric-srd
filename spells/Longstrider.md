@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Rgr 1"
   - "Travel 1"
 components:
@@ -16,8 +17,8 @@ target: "You"
 duration: "1 hour/level (D)"
 based-on:
   - "[[fantasy srd 3.5/spells/Longstrider|Longstrider (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 1, Rgr 1, Travel 1
+  - **Level**: Drd 1, Hun 1, Rgr 1, Travel 1
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Personal

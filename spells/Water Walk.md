@@ -6,6 +6,7 @@ descriptor:
   - "Water"
 level:
   - "Clr 3"
+  - "Hun 3"
   - "Rgr 3"
   - "Sha 3"
   - "Wit 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Clr 3, Rgr 3, Sha 3, Wit 3
+  - **Level**: Clr 3, Hun 3, Rgr 3, Sha 3, Wit 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Drd 6"
+  - "Hun 6"
   - "Sha 7"
 components:
   - "V"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 6, Sha 7
+  - **Level**: Drd 6, Hun 6, Sha 7
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Personal

@@ -5,6 +5,7 @@ school: "Transmutation"
 subschool: "Polymorph"
 level:
   - "Drd 5"
+  - "Hun 4"
   - "Rgr 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Drd 5, Rgr 4
+  - **Level**: Drd 5, Hun 4, Rgr 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

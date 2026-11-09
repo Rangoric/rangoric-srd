@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Sha 2"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 2, Rgr 2, Sha 2
+  - **Level**: Drd 2, Hun 2, Rgr 2, Sha 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 minute
   - **Range**: Long (400 ft. + 40 ft./level)

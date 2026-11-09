@@ -8,6 +8,7 @@ level:
   - "Clr 3"
   - "Drd 3"
   - "Earth 3"
+  - "Hun 3"
   - "Sha 3"
   - "Sor/Wiz 4"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Clr 3, Drd 3, Earth 3, Sha 3, Sor/Wiz 4
+  - **Level**: Clr 3, Drd 3, Earth 3, Hun 3, Sha 3, Sor/Wiz 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

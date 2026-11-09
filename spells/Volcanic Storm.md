@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
 level:
   - "Drd 4"
+  - "Hun 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Drd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Drd 4, Hun 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M/DF (obsidian and ash)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

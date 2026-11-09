@@ -6,10 +6,11 @@ subschool: "Healing"
 level:
   - "Clr 0"
   - "Drd 0"
+  - "Hun 0"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Minor Wounds|Cure Minor Wounds (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -18,6 +19,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 0, Drd 0
+  - **Level**: Clr 0, Drd 0, Hun 0
 
 This spell functions like [[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], except that it cures only 1 point of damage.

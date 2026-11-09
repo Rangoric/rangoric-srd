@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Hun 2"
   - "Rgr 2"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Rgr 2
+  - **Level**: Hun 2, Rgr 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

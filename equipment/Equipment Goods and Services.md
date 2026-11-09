@@ -6,6 +6,7 @@ based-on:
   - "[[path srd 3.5/items/adventuring-gear/Skald's Kit|Skald's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Mess Kit|Mess Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Swashbuckler's Kit|Swashbuckler's Kit (PF1)]]"
+  - "[[path srd 3.5/items/adventuring-gear/Hunter's Kit|Hunter's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Brawler's Kit|Brawler's Kit (PF1)]]"
 status: draft
 change: modified
@@ -48,6 +49,7 @@ tags: [rangoric, rangoric/overview]
 | Flint and steel          | 1 gp    | —           |
 | Grappling hook           | 1 gp    | 4 lb.       |
 | Hammer                   | 5 sp    | 2 lb.       |
+| Hunter’s kit             | 9 gp    | 28 lb.      |
 | Ink (1 oz. vial)         | 8 gp    | —           |
 | Inkpen                   | 1 sp    | —           |
 | Jug, clay                | 3 cp    | 9 lb.       |
@@ -269,6 +271,8 @@ Caltrops may not be effective against unusual opponents.
 **Grappling Hook**: Throwing a grappling hook successfully requires a Fieldcraft check (DC 10, +2 per 10 feet of distance thrown).
 
 **Hammer**: If a hammer is used in combat, treat it as a one-handed improvised weapon that deals bludgeoning damage equal to that of a spiked gauntlet of its size.
+
+**Hunter’s Kit**: A starting kit for a [[rangoric-srd/classes/Hunter|hunter]]. It includes a backpack, a bedroll, a belt pouch, a flint and steel, an iron pot, a mess kit, rope, torches (10), trail rations (5 days), and a waterskin.
 
 **Ink**: This is black ink. You can buy ink in other colors, but it costs twice as much.
 

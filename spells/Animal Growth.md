@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 5"
+  - "Hun 4"
   - "Rgr 4"
   - "Sha 5"
   - "Sor/Wiz 5"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 5, Rgr 4, Sha 5, Sor/Wiz 5
+  - **Level**: Drd 5, Hun 4, Rgr 4, Sha 5, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

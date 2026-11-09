@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Drd 5"
+  - "Hun 4"
   - "Pal 4"
   - "Rgr 4"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Drd 5, Pal 4, Rgr 4
+  - **Level**: Drd 5, Hun 4, Pal 4, Rgr 4
   - **Components**: V, S, M (a diamond worth 1,000 gp)
   - **Casting Time**: 1 minute
   - **Range**: Touch

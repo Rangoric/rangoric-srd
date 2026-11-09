@@ -7,6 +7,7 @@ descriptor:
   - "Water"
 level:
   - "Drd 5"
+  - "Hun 5"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Water\]*
 
-  - **Level**: Drd 5
+  - **Level**: Drd 5, Hun 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

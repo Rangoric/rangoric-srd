@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 2"
   - "Drd 2"
+  - "Hun 2"
 target: "Up to three boulders touched"
 book: "Monster Codex"
 based-on:
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Clr 2, Drd 2
+  - **Level**: Clr 2, Drd 2, Hun 2
   - **Components**: 
   - **Target**: Up to three boulders touched
 

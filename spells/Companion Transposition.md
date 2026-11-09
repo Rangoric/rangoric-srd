@@ -6,6 +6,7 @@ subschool: "Teleportation"
 level:
   - "Apl 4"
   - "Drd 5"
+  - "Hun 4"
   - "Pal 4"
   - "Rgr 4"
   - "Sor/Wiz 5"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Apl 4, Drd 5, Pal 4, Rgr 4, Sor/Wiz 5, Wit 5
+  - **Level**: Apl 4, Drd 5, Hun 4, Pal 4, Rgr 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

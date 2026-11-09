@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Plant 1"
   - "Rgr 1"
   - "Sha 1"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 1, Plant 1, Rgr 1, Sha 1
+  - **Level**: Drd 1, Hun 1, Plant 1, Rgr 1, Sha 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

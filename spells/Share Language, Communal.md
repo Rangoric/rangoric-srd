@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Clr 3"
   - "Drd 3"
+  - "Hun 3"
   - "Skd 2"
   - "Sor/Wiz 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Clr 3, Drd 3, Skd 2, Sor/Wiz 3
+  - **Level**: Brd 2, Clr 3, Drd 3, Hun 3, Skd 2, Sor/Wiz 3
   - **Components**: V, S, M (a page from a dictionary)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

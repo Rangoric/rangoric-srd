@@ -6,6 +6,7 @@ subschool: "Summoning"
 level:
   - "Brd 3"
   - "Drd 3"
+  - "Hun 3"
   - "Sha 4"
   - "Skd 3"
   - "Sor/Wiz 3"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Brd 3, Drd 3, Sha 4, Skd 3, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 3, Drd 3, Hun 3, Sha 4, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M/DF (a square of red cloth)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

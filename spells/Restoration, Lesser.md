@@ -6,6 +6,7 @@ subschool: "Healing"
 level:
   - "Clr 2"
   - "Drd 2"
+  - "Hun 2"
   - "Pal 1"
   - "Sha 2"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 2, Drd 2, Pal 1, Sha 2
+  - **Level**: Clr 2, Drd 2, Hun 2, Pal 1, Sha 2
   - **Components**: V, S
   - **Casting Time**: 3 rounds
   - **Range**: Touch

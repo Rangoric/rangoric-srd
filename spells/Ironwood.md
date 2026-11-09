@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 6"
+  - "Hun 6"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Ironwood|Ironwood (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 6
+  - **Level**: Drd 6, Hun 6
   - **Components**: V, S, M
   - **Casting Time**: 1 minute/lb. created
   - **Range**: 0 ft.

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Brd 3"
+  - "Hun 3"
   - "Rgr 3"
   - "Skd 3"
   - "Sor/Wiz 4"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 3, Rgr 3, Skd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Hun 3, Rgr 3, Skd 3, Sor/Wiz 4
   - **Components**: V, S, M (handful of sand)
   - **Casting Time**: 10 minutes
   - **Range**: SeeText

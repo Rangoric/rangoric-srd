@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Drd 2"
+  - "Hun 2"
   - "Rgr 2"
   - "Skd 3"
   - "Sor/Wiz 3"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire, Light\]*
 
-  - **Level**: Brd 3, Drd 2, Rgr 2, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Drd 2, Hun 2, Rgr 2, Skd 3, Sor/Wiz 3
   - **Components**: V, S, M/DF (ash made from burnt thorns)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

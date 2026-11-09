@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Hun 3"
   - "Rgr 3"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Rgr 3
+  - **Level**: Hun 3, Rgr 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 5 ft.

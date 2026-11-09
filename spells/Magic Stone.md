@@ -6,6 +6,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Earth 1"
+  - "Hun 1"
   - "Sha 1"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 1, Drd 1, Earth 1, Sha 1
+  - **Level**: Clr 1, Drd 1, Earth 1, Hun 1, Sha 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

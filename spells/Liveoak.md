@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Drd 6"
+  - "Hun 6"
   - "Sha 7"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 6, Sha 7
+  - **Level**: Drd 6, Hun 6, Sha 7
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Touch

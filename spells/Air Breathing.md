@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 3"
   - "Drd 3"
+  - "Hun 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Drd 3, Sor/Wiz 3
+  - **Level**: Clr 3, Drd 3, Hun 3, Sor/Wiz 3
   - **Components**: V, S, M/DF (flower or piece of grass)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

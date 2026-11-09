@@ -6,6 +6,7 @@ descriptor:
   - "Air"
 level:
   - "Drd 4"
+  - "Hun 4"
   - "Rgr 4"
   - "Sor/Wiz 4"
 range: "Personal"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Drd 4, Rgr 4, Sor/Wiz 4
+  - **Level**: Drd 4, Hun 4, Rgr 4, Sor/Wiz 4
   - **Components**: 
   - **Range**: Personal
   - **Target**: You

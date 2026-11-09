@@ -6,6 +6,7 @@ descriptor:
   - "Water"
 level:
   - "Clr 4"
+  - "Hun 4"
   - "Rgr 4"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Clr 4, Rgr 4
+  - **Level**: Clr 4, Hun 4, Rgr 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

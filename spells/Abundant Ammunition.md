@@ -6,6 +6,7 @@ subschool: "Summoning"
 level:
   - "Brd 1"
   - "Clr 1"
+  - "Hun 1"
   - "Rgr 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Brd 1, Clr 1, Rgr 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Clr 1, Hun 1, Rgr 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, M/DF (a single piece of ammunition)
   - **Casting Time**: 1 standard action
   - **Target**: One container touched

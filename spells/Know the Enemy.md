@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 1"
+  - "Hun 1"
   - "Pal 1"
   - "Rgr 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 1, Pal 1, Rgr 1
+  - **Level**: Clr 1, Hun 1, Pal 1, Rgr 1
   - **Components**: S, V, DF
   - **Casting Time**: 1 minute
   - **Range**: Personal

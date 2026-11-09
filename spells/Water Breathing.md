@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 3"
   - "Drd 3"
+  - "Hun 3"
   - "Sha 3"
   - "Sor/Wiz 3"
   - "Water 3"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Drd 3, Sha 3, Sor/Wiz 3, Water 3
+  - **Level**: Clr 3, Drd 3, Hun 3, Sha 3, Sor/Wiz 3, Water 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

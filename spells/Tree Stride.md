@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Drd 5"
+  - "Hun 4"
   - "Rgr 4"
 components:
   - "V"
@@ -16,8 +17,8 @@ target: "You"
 duration: "1 hour/level or until expended; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Tree Stride|Tree Stride (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Drd 5, Rgr 4
+  - **Level**: Drd 5, Hun 4, Rgr 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

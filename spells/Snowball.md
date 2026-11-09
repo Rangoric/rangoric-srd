@@ -7,6 +7,7 @@ descriptor:
   - "Water"
 level:
   - "Drd 1"
+  - "Hun 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Cold, Water\]*
 
-  - **Level**: Drd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Drd 1, Hun 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

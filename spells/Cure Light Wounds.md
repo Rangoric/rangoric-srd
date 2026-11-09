@@ -8,6 +8,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Healing 1"
+  - "Hun 1"
   - "Pal 1"
   - "Rgr 2"
   - "Sha 1"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 1, Clr 1, Drd 1, Healing 1, Pal 1, Rgr 2, Sha 1, Skd 1, Wit 1
+  - **Level**: Brd 1, Clr 1, Drd 1, Healing 1, Hun 1, Pal 1, Rgr 2, Sha 1, Skd 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch
