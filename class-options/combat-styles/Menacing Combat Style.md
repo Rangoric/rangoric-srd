@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "combat-style"
-class: "Ranger"
+class: ["Ranger", "Slayer"]
 book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Menacing (Ranger, Slayer)|Menacing (PF1 F)]]"

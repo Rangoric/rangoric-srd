@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 # Rogue Talents
 
-The [[rangoric-srd/classes/Rogue|rogue]]’s talents and advanced talents. Some are also [[rangoric-srd/class-options/ninja-tricks/Ninja Tricks|ninja tricks]] (their notes say so). The class note says how they’re gained. Each note has `advanced`, `sneak-attack` (adds to sneak attack; one such talent per attack), `level` (minimum rogue level) and `book`. Where Pathfinder Unchained rewrote a Core Rulebook talent, the Core Rulebook version is used. The older talents are those Unchained lists as usable unchanged, from the Foundry data; firearm training and grit wait for firearms, and ninja trick waits for the ninja.
+The [[rangoric-srd/classes/Rogue|rogue]]’s talents and advanced talents. Some are also [[rangoric-srd/class-options/ninja-tricks/Ninja Tricks|ninja tricks]] (their notes say so). A [[rangoric-srd/classes/Slayer|slayer]] can take some of them through the [[rangoric-srd/class-options/slayer-talents/Rogue Talent (Slayer Talent)|rogue talent]] and [[rangoric-srd/class-options/slayer-talents/Rogue and Ninja Advanced Talents (Slayer Talent)|rogue and ninja advanced talents]] talents (their `class` includes the slayer). The class note says how they’re gained. Each note has `advanced`, `sneak-attack` (adds to sneak attack; one such talent per attack), `level` (minimum rogue level) and `book`. Where Pathfinder Unchained rewrote a Core Rulebook talent, the Core Rulebook version is used. The older talents are those Unchained lists as usable unchanged, from the Foundry data; firearm training and grit wait for firearms, and ninja trick waits for the ninja.
 
 ## Rogue talents
 

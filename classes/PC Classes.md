@@ -15,7 +15,7 @@ There are 11 standard character classes defined in the SRD. They are:
 
 [[rangoric-srd/classes/Barbarian|Barbarian]], [[rangoric-srd/classes/Bard|Bard]], [[rangoric-srd/classes/Cleric|Cleric]], [[rangoric-srd/classes/Druid|Druid]], [[rangoric-srd/classes/Fighter|Fighter]], [[rangoric-srd/classes/Monk|Monk]], [[rangoric-srd/classes/Paladin|Paladin]], [[rangoric-srd/classes/Ranger|Ranger]], [[rangoric-srd/classes/Rogue|Rogue]], [[rangoric-srd/classes/Sorcerer|Sorcerer]], [[rangoric-srd/classes/Wizard|Wizard]].
 
-Rangoric adds these classes from Pathfinder: [[rangoric-srd/classes/Antipaladin|Antipaladin]], [[rangoric-srd/classes/Cavalier|Cavalier]], [[rangoric-srd/classes/Ninja|Ninja]], [[rangoric-srd/classes/Samurai|Samurai]], [[rangoric-srd/classes/Shaman|Shaman]], [[rangoric-srd/classes/Unchained Monk|Unchained Monk]], and [[rangoric-srd/classes/Witch|Witch]].
+Rangoric adds these classes from Pathfinder: [[rangoric-srd/classes/Antipaladin|Antipaladin]], [[rangoric-srd/classes/Cavalier|Cavalier]], [[rangoric-srd/classes/Ninja|Ninja]], [[rangoric-srd/classes/Samurai|Samurai]], [[rangoric-srd/classes/Shaman|Shaman]], [[rangoric-srd/classes/Slayer|Slayer]], [[rangoric-srd/classes/Unchained Monk|Unchained Monk]], and [[rangoric-srd/classes/Witch|Witch]].
 
 ### Multiclass Characters
 

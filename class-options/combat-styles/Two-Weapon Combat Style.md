@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "combat-style"
-class: "Ranger"
+class: ["Ranger", "Slayer"]
 based-on:
   - "[[path srd 3.5/classes/Ranger#Combat Style Feat (Ex)|Ranger (PF1)]]"
 status: draft

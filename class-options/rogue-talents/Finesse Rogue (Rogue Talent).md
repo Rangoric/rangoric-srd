@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "rogue-talent"
-class: "Rogue"
+class: ["Rogue", "Slayer"]
 advanced: false
 sneak-attack: false
 level: 2

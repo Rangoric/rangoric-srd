@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/overview]
 
 # Combat Styles
 
-A [[rangoric-srd/classes/Ranger#^ranger-combat-style|ranger]] picks one combat style at 2nd level, and takes his combat style feats from its list. Archery and two-weapon are Pathfinder's core styles; crossbow, mounted, natural weapon, two-handed weapon and weapon and shield are from the Advanced Player's Guide; thrown weapon is from the Advanced Class Guide; deceptive, menacing and underhanded are from Ultimate Intrigue.
+A [[rangoric-srd/classes/Ranger#^ranger-combat-style|ranger]] picks one combat style at 2nd level, and takes his combat style feats from its list. A [[rangoric-srd/classes/Slayer|slayer]] can pick one through the [[rangoric-srd/class-options/slayer-talents/Ranger Combat Style (Slayer Talent)|ranger combat style]] talent. Archery and two-weapon are Pathfinder's core styles; crossbow, mounted, natural weapon, two-handed weapon and weapon and shield are from the Advanced Player's Guide; thrown weapon is from the Advanced Class Guide; deceptive, menacing and underhanded are from Ultimate Intrigue.
 
 - [[rangoric-srd/class-options/combat-styles/Archery Combat Style|Archery Combat Style]]
 - [[rangoric-srd/class-options/combat-styles/Two-Weapon Combat Style|Two-Weapon Combat Style]]
