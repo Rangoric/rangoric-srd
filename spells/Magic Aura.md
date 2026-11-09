@@ -6,6 +6,7 @@ subschool: "Glamer"
 level:
   - "Brd 1"
   - "Magic 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -19,8 +20,8 @@ saving-throw: "None; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Aura|Magic Aura (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-Level: Brd 1, Magic 1, Sor/Wiz 1  
+Level: Brd 1, Magic 1, Skd 1, Sor/Wiz 1  
 Components: V, S, F  
 Casting Time: 1 standard action  
 Range: Touch  

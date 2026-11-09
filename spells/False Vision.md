@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 5"
+  - "Skd 5"
   - "Sor/Wiz 5"
   - "Trickery 5"
 components:
@@ -19,8 +20,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/False Vision|False Vision (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 5, Sor/Wiz 5, Trickery 5
+  - **Level**: Brd 5, Skd 5, Sor/Wiz 5, Trickery 5
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

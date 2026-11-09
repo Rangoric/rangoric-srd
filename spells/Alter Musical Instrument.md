@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Figment"
 level:
   - "Brd 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, F (an instrument)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

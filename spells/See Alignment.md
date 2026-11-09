@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Brd 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, M (eye of newt)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

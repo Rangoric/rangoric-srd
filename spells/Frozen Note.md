@@ -8,6 +8,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 5"
+  - "Skd 5"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting, Sonic\]*
 
-  - **Level**: Brd 5
+  - **Level**: Brd 5, Skd 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Target**: Any number of creatures within area

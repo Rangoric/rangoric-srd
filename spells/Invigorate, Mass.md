@@ -6,6 +6,7 @@ descriptor:
   - "Figment"
 level:
   - "Brd 3"
+  - "Skd 3"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion \[Figment\]*
 
-  - **Level**: Brd 3
+  - **Level**: Brd 3, Skd 3
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Touch

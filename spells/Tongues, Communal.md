@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 3"
   - "Clr 5"
+  - "Skd 3"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 3, Clr 5, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 3, Clr 5, Skd 3, Sor/Wiz 4, Wit 4
   - **Components**: V, M/DF (a clay model of a ziggurat)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

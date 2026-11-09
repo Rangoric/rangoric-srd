@@ -6,6 +6,7 @@ subschool: "Calling"
 level:
   - "Brd 6"
   - "Drd 7"
+  - "Skd 6"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling)*
 
-  - **Level**: Brd 6, Drd 7
+  - **Level**: Brd 6, Drd 7, Skd 6
   - **Components**: V, S, M, DF (offerings worth 1,250 gp plus payment)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

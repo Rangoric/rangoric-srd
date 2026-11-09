@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 1"
   - "Sha 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-affecting\]*
 
-  - **Level**: Brd 1, Sha 1, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Sha 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, F (a copper piece)
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

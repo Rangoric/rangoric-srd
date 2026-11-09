@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 1"
+  - "Skd 1"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Brd 1, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 1, Skd 1, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

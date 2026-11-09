@@ -4,6 +4,7 @@ section: "Spells"
 school: "Universal"
 level:
   - "Brd 0"
+  - "Skd 0"
   - "Sor/Wiz 0"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "See text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Prestidigitation|Prestidigitation (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Universal*
 
-  - **Level**: Brd 0, Sor/Wiz 0
+  - **Level**: Brd 0, Skd 0, Sor/Wiz 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 10 ft.

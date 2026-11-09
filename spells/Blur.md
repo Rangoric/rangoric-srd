@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Blur|Blur (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 2,Sor/Wiz 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Touch

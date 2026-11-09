@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Brd 2"
   - "Rgr 2"
+  - "Skd 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Rgr 2
+  - **Level**: Brd 2, Rgr 2, Skd 2
   - **Components**: V, S, M (a glass lens)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

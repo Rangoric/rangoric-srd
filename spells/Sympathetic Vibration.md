@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 6"
+  - "Skd 6"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "None; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Sympathetic Vibration|Sympathetic Vibration (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 6
+  - **Level**: Brd 6, Skd 6
   - **Components**: V, S, F
   - **Casting Time**: 10 minutes
   - **Range**: Touch

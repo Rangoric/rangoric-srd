@@ -9,6 +9,7 @@ level:
   - "Chaos 2"
   - "Clr 2"
   - "Destruction 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -21,8 +22,8 @@ saving-throw: "Will negates (object); Will negates (object) or Fortitude half; s
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Shatter|Shatter (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 2, Chaos 2, Clr 2, Destruction 2, Sor/Wiz 2
+  - **Level**: Brd 2, Chaos 2, Clr 2, Destruction 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

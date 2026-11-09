@@ -6,6 +6,7 @@ subschool: "Glamer"
 level:
   - "Brd 2"
   - "Clr 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 2, Clr 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Clr 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

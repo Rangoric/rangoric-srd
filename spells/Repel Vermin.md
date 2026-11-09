@@ -8,6 +8,7 @@ level:
   - "Drd 4"
   - "Rgr 3"
   - "Sha 4"
+  - "Skd 4"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 4, Clr 4, Drd 4, Rgr 3, Sha 4
+  - **Level**: Brd 4, Clr 4, Drd 4, Rgr 3, Sha 4, Skd 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 10 ft.

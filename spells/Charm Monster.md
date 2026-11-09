@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 3"
+  - "Skd 3"
   - "Sor/Wiz 4"
   - "Wit 4"
 target: "One living creature"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 3, Skd 3, Sor/Wiz 4, Wit 4
   - **Target**: One living creature
   - **Duration**: One day/level
 

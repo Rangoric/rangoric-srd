@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "rage-power"
-class: "Barbarian"
+class: ["Barbarian", "Skald"]
 level: 12
 book: "Core Rulebook"
 based-on:

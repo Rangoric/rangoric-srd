@@ -7,6 +7,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 6"
+  - "Skd 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph) \[Sonic\]*
 
-  - **Level**: Brd 6, Sor/Wiz 6
+  - **Level**: Brd 6, Skd 6, Sor/Wiz 6
   - **Components**: V, S, M (a pinch of dust gathered from a gravestone or a sacred shrine)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

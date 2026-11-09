@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 4"
   - "Sha 5"
+  - "Skd 4"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 4, Sha 5, Sor/Wiz 5, Wit 5
+  - **Level**: Brd 4, Sha 5, Skd 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

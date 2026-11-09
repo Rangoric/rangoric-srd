@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Brd 4"
+  - "Skd 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Brd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S, M (the scroll to be triggered; see text), F (a platinum quill worth 100 gp)
   - **Casting Time**: 1 hour
   - **Range**: Touch

@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
 components:
   - "V (Brd only)"
@@ -20,8 +21,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Hypnotic Pattern|Hypnotic Pattern (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Pattern) \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V (Brd only), S, M; see text
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

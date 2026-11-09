@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Brd 4"
+  - "Skd 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 4, Skd 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M
   - **Duration**: 10 min./level
 

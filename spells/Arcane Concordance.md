@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Brd 3"
+  - "Skd 3"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Brd 3
+  - **Level**: Brd 3, Skd 3
   - **Components**: V, S, M (a spent wand)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

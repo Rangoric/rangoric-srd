@@ -6,6 +6,7 @@ descriptor:
   - "Curse"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Curse\]*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

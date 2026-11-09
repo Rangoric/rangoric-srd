@@ -7,6 +7,7 @@ level:
   - "Apl 2"
   - "Brd 2"
   - "Clr 2"
+  - "Skd 2"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Apl 2, Brd 2, Clr 2
+  - **Level**: Apl 2, Brd 2, Clr 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

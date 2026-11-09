@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Shadow"
 level:
   - "Brd 4"
+  - "Skd 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -17,8 +18,8 @@ saving-throw: "Will disbelief (if interacted with); varies; see text"
 spell-resistance: "Yes; see text"
 based-on:
   - "[[fantasy srd 3.5/spells/Shadow Conjuration|Shadow Conjuration (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow)*
 
-  - **Level**: Brd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: See text

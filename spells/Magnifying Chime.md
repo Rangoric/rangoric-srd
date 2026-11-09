@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 6"
+  - "Skd 6"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Sonic\]*
 
-  - **Level**: Brd 6
+  - **Level**: Brd 6, Skd 6
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Touch

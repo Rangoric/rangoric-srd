@@ -7,6 +7,7 @@ level:
   - "Brd 4"
   - "Clr 4"
   - "Drd 4"
+  - "Skd 4"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Brd 4, Clr 4, Drd 4
+  - **Level**: Brd 4, Clr 4, Drd 4, Skd 4
   - **Components**: V, S, M (a turkey bone)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

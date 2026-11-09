@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Apl 4"
   - "Brd 5"
+  - "Skd 5"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Apl 4, Brd 5, Sor/Wiz 7
+  - **Level**: Apl 4, Brd 5, Skd 5, Sor/Wiz 7
   - **Components**: V, S, M (a tarnished coin)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

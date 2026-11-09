@@ -6,6 +6,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment \[Mind-affecting\]*
 
-  - **Level**: Brd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, F (the page to be memorized)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

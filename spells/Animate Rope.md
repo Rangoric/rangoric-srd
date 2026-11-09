@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Brd 1"
+  - "Skd 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

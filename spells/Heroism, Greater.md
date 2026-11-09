@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 5"
+  - "Skd 5"
   - "Sor/Wiz 6"
   - "Wit 6"
 duration: "1 min./level"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 5, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 5, Skd 5, Sor/Wiz 6, Wit 6
   - **Duration**: 1 min./level
 
 This spell functions like [[rangoric-srd/spells/Heroism|heroism]], except the creature gains a +4 morale bonus on attack rolls, saves, and skill checks, immunity to fear effects, and temporary hit points equal to your caster level (maximum 20).

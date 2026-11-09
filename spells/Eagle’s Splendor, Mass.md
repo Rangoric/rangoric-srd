@@ -6,6 +6,7 @@ level:
   - "Brd 6"
   - "Clr 6"
   - "Sha 6"
+  - "Skd 6"
   - "Sor/Wiz 6"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One creature/level, no two of which can be more than 30 ft. apart"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 6, Clr 6, Sha 6, Sor/Wiz 6
+  - **Level**: Brd 6, Clr 6, Sha 6, Skd 6, Sor/Wiz 6
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Target**: One creature/level, no two of which can be more than 30 ft. apart
 

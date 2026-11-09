@@ -5,12 +5,13 @@ school: "Illusion"
 subschool: "Figment"
 level:
   - "Brd 2"
+  - "Skd 2"
   - "Sor/Wiz 2"
 duration: "Concentration +2 rounds"
 based-on:
   - "[[fantasy srd 3.5/spells/Minor Image|Minor Image (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -19,7 +20,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
   - **Duration**: Concentration +2 rounds
 
 This spell functions like [[rangoric-srd/spells/Silent Image|silent image]], except that minor image includes some minor sounds but not understandable speech.

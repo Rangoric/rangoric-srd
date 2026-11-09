@@ -6,6 +6,7 @@ subschool: "Healing"
 level:
   - "Brd 4"
   - "Clr 4"
+  - "Skd 4"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 4, Clr 4
+  - **Level**: Brd 4, Clr 4, Skd 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch (see text)

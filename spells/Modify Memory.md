@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 4"
+  - "Skd 4"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Modify Memory|Modify Memory (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 4
+  - **Level**: Brd 4, Skd 4
   - **Components**: V, S
   - **Casting Time**: 1 round; see text
   - **Range**: Close (25 ft. + 5 ft./2 levels)

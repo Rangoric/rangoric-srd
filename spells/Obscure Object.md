@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Brd 1"
   - "Clr 3"
+  - "Skd 1"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "Will negates (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Obscure Object|Obscure Object (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Clr 3, Sor/Wiz 2
+  - **Level**: Brd 1, Clr 3, Skd 1, Sor/Wiz 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

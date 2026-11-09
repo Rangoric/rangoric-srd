@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Shadow"
 level:
   - "Brd 5"
+  - "Skd 5"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -17,8 +18,8 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Shadow Walk|Shadow Walk (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow)*
 
-  - **Level**: Brd 5, Sor/Wiz 6
+  - **Level**: Brd 5, Skd 5, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

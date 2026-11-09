@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Brd 3"
+  - "Skd 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Brd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Skd 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: 10 ft.

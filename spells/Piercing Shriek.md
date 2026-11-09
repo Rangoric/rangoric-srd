@@ -7,6 +7,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 2"
+  - "Skd 2"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Pain, Sonic\]*
 
-  - **Level**: Brd 2
+  - **Level**: Brd 2, Skd 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10ft./level)

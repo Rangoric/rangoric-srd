@@ -7,6 +7,7 @@ level:
   - "Brd 1"
   - "Clr 2"
   - "Pal 2"
+  - "Skd 1"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Apl 2, Brd 1, Clr 2, Pal 2
+  - **Level**: Apl 2, Brd 1, Clr 2, Pal 2, Skd 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

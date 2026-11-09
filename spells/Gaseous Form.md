@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Air 3"
   - "Brd 3"
+  - "Skd 3"
   - "Sor/Wiz 3"
 components:
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Gaseous Form|Gaseous Form (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Air 3, Brd 3, Sor/Wiz 3
+  - **Level**: Air 3, Brd 3, Skd 3, Sor/Wiz 3
   - **Components**: S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

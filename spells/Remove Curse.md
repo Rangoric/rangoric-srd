@@ -7,6 +7,7 @@ level:
   - "Clr 3"
   - "Pal 3"
   - "Sha 3"
+  - "Skd 3"
   - "Sor/Wiz 4"
   - "Wit 3"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 3, Clr 3, Pal 3, Sha 3, Sor/Wiz 4, Wit 3
+  - **Level**: Brd 3, Clr 3, Pal 3, Sha 3, Skd 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

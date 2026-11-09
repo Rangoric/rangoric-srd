@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Brd 2"
   - "Clr 3"
+  - "Skd 2"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Clr 3, Sor/Wiz 3
+  - **Level**: Brd 2, Clr 3, Skd 2, Sor/Wiz 3
   - **Components**: V, S, M/DF (a drop of paint and a ball of clay)
   - **Casting Time**: 1 standard action
   - **Range**: 50 ft./level
