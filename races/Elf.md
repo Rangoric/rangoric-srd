@@ -43,6 +43,8 @@ Bonus Languages:
 - Orc
 - Sylvan
 
+Paragon Class: [[rangoric-srd/classes/Elf Paragon|Elf Paragon]]
+
 ### Alternate Racial Traits
 
 An elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

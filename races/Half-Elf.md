@@ -35,6 +35,8 @@ Bonus Languages:
 
 - Any (other than secret languages, such as Druidic)
 
+Paragon Class: [[rangoric-srd/classes/Half-Elf Paragon|Half-Elf Paragon]]; after a level of it, [[rangoric-srd/classes/Elf Paragon|Elf Paragon]] or [[rangoric-srd/classes/Human Paragon|Human Paragon]] (divided ancestry)
+
 ### Alternate Racial Traits
 
 A half-elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

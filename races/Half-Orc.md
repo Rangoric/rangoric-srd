@@ -40,6 +40,8 @@ Bonus Languages:
 - Goblin
 - Abyssal
 
+Paragon Class: [[rangoric-srd/classes/Half-Orc Paragon|Half-Orc Paragon]]; after a level of it, [[rangoric-srd/classes/Orc Paragon|Orc Paragon]] or [[rangoric-srd/classes/Human Paragon|Human Paragon]] (divided ancestry)
+
 ### Alternate Racial Traits
 
 A half-orc can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

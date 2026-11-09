@@ -183,6 +183,8 @@ The drow warrior presented here had the following ability scores before racial a
 
 **Challenge Rating**: Drow with levels in NPC classes have a CR equal to their character level. Drow with levels in PC classes have a CR equal to their character level +1.
 
+**Paragon Class**: drow advance as [[rangoric-srd/classes/Drow Paragon|drow paragons]], not as elf paragons.
+
 #### Gray Elf
 
 Taller and grander in physical appearance than others of their race, gray elves have a reputation for being aloof and arrogant (even by elven standards). They have either silver hair and amber eyes or pale golden hair and violet eyes. They prefer clothing of white, silver, yellow, or gold, with cloaks of deep blue or purple.

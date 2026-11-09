@@ -102,3 +102,5 @@ Tiefling characters possess the following racial traits.
   - Favored Class: Rogue.
 
   - Level adjustment +1.
+
+**Paragon Class**: tieflings can advance as [[rangoric-srd/classes/Tiefling Paragon|tiefling paragons]].

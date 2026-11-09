@@ -17,6 +17,8 @@ There are 11 standard character classes defined in the SRD. They are:
 
 Rangoric adds these classes from Pathfinder: [[rangoric-srd/classes/Antipaladin|Antipaladin]], [[rangoric-srd/classes/Cavalier|Cavalier]], [[rangoric-srd/classes/Ninja|Ninja]], [[rangoric-srd/classes/Samurai|Samurai]], [[rangoric-srd/classes/Shaman|Shaman]], [[rangoric-srd/classes/Slayer|Slayer]], [[rangoric-srd/classes/Unchained Monk|Unchained Monk]], and [[rangoric-srd/classes/Witch|Witch]].
 
+From Unearthed Arcana come the [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] classes, which only members of the matching race can take: [[rangoric-srd/classes/Drow Paragon|Drow Paragon]], [[rangoric-srd/classes/Dwarf Paragon|Dwarf Paragon]], [[rangoric-srd/classes/Elf Paragon|Elf Paragon]], [[rangoric-srd/classes/Gnome Paragon|Gnome Paragon]], [[rangoric-srd/classes/Half-Dragon Paragon|Half-Dragon Paragon]], [[rangoric-srd/classes/Half-Elf Paragon|Half-Elf Paragon]], [[rangoric-srd/classes/Half-Orc Paragon|Half-Orc Paragon]], [[rangoric-srd/classes/Halfling Paragon|Halfling Paragon]], [[rangoric-srd/classes/Human Paragon|Human Paragon]], [[rangoric-srd/classes/Orc Paragon|Orc Paragon]], [[rangoric-srd/classes/Tiefling Paragon|Tiefling Paragon]].
+
 ### Multiclass Characters
 
 A character may add new classes as he or she progresses in level, thus becoming a multiclass character. The class abilities from a character’s different classes combine to determine a multiclass character’s overall abilities. Multiclassing improves a character’s versatility at the expense of focus.

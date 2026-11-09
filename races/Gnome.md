@@ -46,6 +46,8 @@ Bonus Languages:
 - Goblin
 - Orc
 
+Paragon Class: [[rangoric-srd/classes/Gnome Paragon|Gnome Paragon]]
+
 ### Alternate Racial Traits
 
 A gnome can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

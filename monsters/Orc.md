@@ -93,6 +93,8 @@ Orcs are proficient with all simple weapons, preferring those that cause the mos
 
 The orc warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
+**Paragon Class**: orcs can advance as [[rangoric-srd/classes/Orc Paragon|orc paragons]].
+
 ### Half-Orcs
 
 These orc–human crossbreeds can be found in either orc or human society (where their status varies according to local sentiments), or in communities of their own. Half-orcs usually inherit a good blend of the physical characteristics of their parents. They are as tall as humans and a little heavier, thanks to their muscle. They have greenish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and coarse body hair. Half-orcs who have lived among or near orcs have scars, in keeping with orcish tradition.

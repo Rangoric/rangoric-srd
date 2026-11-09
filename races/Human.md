@@ -30,6 +30,8 @@ Bonus Languages:
 
 - Any (other than secret languages, such as Druidic)
 
+Paragon Class: [[rangoric-srd/classes/Human Paragon|Human Paragon]]
+
 ### Alternate Racial Traits
 
 A human can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
