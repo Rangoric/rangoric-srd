@@ -159,25 +159,11 @@ Aquatic half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtype
 
 ### Aquatic Halflings
 
-Aquatic halflings are much more settled than their surface-dwelling cousins. Their slight size means they are easily buffeted by currents that flow beneath the waves like the rivers of the surface world. Many predatory creatures think nothing of swooping down on such small prey. As a result, aquatic halflings often live among [[#Aquatic Dwarves|dwarves]] and [[#Aquatic Humans|humans]], within the defenses those races provide.
-
-##### Racial Traits
-
-Aquatic halflings have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], in addition to those noted below.
-
-  - An aquatic halfling has a swim speed of 20 feet.
-  - Low-Light Vision: An aquatic halfling can see four times as far as a nonaquatic human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
+Aquatic halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Aquatic Humans
 
-Aquatic humans have a place beneath the surface of the sea, perhaps as descendants of forgotten civilizations whose island cities sank beneath the surface. They may replace [[rangoric-srd/monsters/Merfolk|merfolk]] in such campaigns, or exist along with them.
-
-##### Racial Traits
-
-Aquatic humans have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Human|human racial traits]], in addition to those noted below.
-
-  - An aquatic human has a swim speed of 30 feet.
-  - Low-Light Vision: An aquatic human can see four times as far as a nonaquatic human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
+Aquatic humans are now a subtype of the [[rangoric-srd/races/Human#Subtypes|human]].
 
 ### Aquatic Kobolds
 
@@ -287,15 +273,7 @@ Arctic half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes
 
 ### Arctic Halflings
 
-Arctic Halflings are hunters and fishermen, stalking walrus and seal and putting to sea to fish, usually in the company of larger races such as humans. They are a peaceful, spiritual people whose rituals include preexpedition prayers for forgiveness from the animals they hope to kill.
-
-##### Racial Traits
-
-Arctic Halflings have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Arctic halflings rarely swim by choice, but are reasonably good at saving themselves from drowning.
-  - No racial bonus on attack rolls with slings. Arctic Halflings do not particularly favor slings for hunting.
-  - Favored Class: [[rangoric-srd/classes/Ranger|Ranger]]. A multiclass arctic halfling's ranger class does not count when determining whether she takes an experience point penalty for multiclassing. This trait replaces the base halfling's favored class.
+Arctic halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Arctic Kobolds
 
@@ -406,14 +384,7 @@ Desert half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes
 
 ### Desert Halflings
 
-Like gnomes, halflings are most likely to be active during the day. Most other races regard them somewhat like cats, in that they appear whether invited or not, work at what they want when they want, and disappear without prior notice. A desert gnome proverb observes that “Halflings in your town are a source of trouble, but at least they don't tolerate competition.”
-
-##### Racial Traits
-
-Desert halflings have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks: Desert halflings are stealthy and nimble-fingered.
-  - No racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks.
+Desert halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Desert Kobolds
 
@@ -524,19 +495,7 @@ Jungle half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes
 
 ### Jungle Halflings
 
-Jungle Halflings live a much more settled life than their normal counterparts do. They build villages along rivers and burn clearings in the jungle to plant their crops. In addition, they gather the most abundant food source in their environment, fish, and hunt with poison-tipped weapons.
-
-##### Racial Traits
-
-Jungle Halflings have all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
-
-  - Weapon Proficiency: Jungle Halflings receive the Martial Weapon Proficiency feats for the throwing axe, handaxe, and shortbow (including composite shortbow) as bonus feats. For jungle halflings, the axe is both a practical tool and a ceremonial item. They grow up using the other weapons for hunting and fishing.
-  - [[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] Use: jungle halflings use poison extensively when hunting, and as a result never poison themselves when applying poison to a weapon or when using a poisoned weapon in combat. Jungle halflings make extensive use of poisons harvested from vermin, particularly those that damage Dexterity scores.
-  - No racial bonus on saving throws. Jungle Halflings have no unusual ability to avoid mishaps.
-  - \+2 racial bonus on Fortitude saying throws against poison: Jungle Halflings have adapted a resistance to their own favorite method of bringing down prey.
-  - No morale bonus on saving throws against fear: Jungle halflings may be cunning, but they are no braver than other races.
-  - No racial bonus on attack rolls with slings.
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]]. A multiclass halfling's barbarian class does not count when determining whether she takes an experience point penalty for multiclassing. Jungle halflings live much closer to nature, and must rely on cunning, resourcefulness, persistence, courage, and mercilessness to survive. This trait replaces the normal halfling's favored class.
+Jungle halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Jungle Kobolds
 

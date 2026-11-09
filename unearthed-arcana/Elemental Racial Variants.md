@@ -130,11 +130,7 @@ Members of water races often vary in appearance from their typical cousins. Comm
 
 #### General Traits Of Water Races
 
-All members of water races share the following traits.
-
-  - \+1 racial bonus on attack rolls against creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]].
-  - \-2 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities with the fire subtype or used by creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]].
-  - Natural Swimmers: Members of water races have a swim speed equal to their base land speed. (If the creature already has a swim speed, it improves by 10 feet.) A water creature can move through water at its swim speed without making [[rangoric-srd/skills/Athletics|Athletics]] checks to swim. It has a +8 racial bonus on any Athletics check made while swimming to perform some special action or avoid a hazard. A water creature can always choose to take 10 on an Athletics check to swim, even if distracted or endangered. It can use the run action while swimming, provided it swims in a straight line.
+These traits are now a racial-trait note: [[rangoric-srd/races/racial-traits/Water Race Traits|Water Race Traits]].
 
 ### Water Half-Orcs
 
@@ -142,13 +138,7 @@ Water half-orcs are now a subtype of the [[rangoric-srd/races/Half-Orc#Subtypes|
 
 ### Water Halflings
 
-Water Halflings are identical with standard halflings, except for some differences in racial traits.
-
-##### Racial Traits
-
-Water Halflings have the general [[#General Traits Of Water Races|traits of water races]] described above and all [[rangoric-srd/races/Halfling|halfling racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Dexterity, +2 Constitution: Water halflings are quick and healthy, but physically weak.
+Water halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|halfling]].
 
 ### Water Orcs
 

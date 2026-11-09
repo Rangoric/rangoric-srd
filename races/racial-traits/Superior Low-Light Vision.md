@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 A creature with this trait can see four times as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. It retains the ability to distinguish color and detail under these conditions.
 
-Used by: the [[rangoric-srd/races/Elf|Elf]]'s aquatic elf subtype.
+Used by: the [[rangoric-srd/races/Elf|Elf]]'s aquatic elf subtype; the [[rangoric-srd/races/Halfling|Halfling]]'s aquatic halfling; the [[rangoric-srd/races/Human|Human]]'s aquatic human.
