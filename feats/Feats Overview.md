@@ -23,6 +23,10 @@ Some feats are general, meaning that no special rules govern them as a group. Ot
 
 A feat's type is a [[rangoric-srd/Tag Register|tag]] on its note, such as *fighter-bonus*, *metamagic* or *style*. General feats have no type tag. Epic, divine and wild feats are described in [[rangoric-srd/epic/Epic Feats#Types of Epic Feats|Epic Feats]], psionic and metapsionic feats in [[rangoric-srd/psionics/Psionic Feats|Psionic Feats]], and spelltouched feats in [[rangoric-srd/unearthed-arcana/Spelltouched Feats|Spelltouched Feats]].
 
+##### Critical Feats
+
+A feat with the tag *critical* adds an effect to your [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hits]]. When you score a critical hit, you can apply the effect of only one critical feat to it, in addition to the damage dealt, unless you have [[rangoric-srd/feats/Critical Mastery|Critical Mastery]]. ^critical-feats
+
 ##### Fighter Bonus Feats
 
 Any feat with the tag *fighter-bonus* can be selected as a fighter’s bonus feat. This designation does not restrict characters of other classes from selecting these feats, assuming that they meet any prerequisites.
