@@ -42,6 +42,23 @@ Bonus Languages:
 
 Paragon Class: [[rangoric-srd/classes/Half-Orc Paragon|Half-Orc Paragon]]; after a level of it, [[rangoric-srd/classes/Orc Paragon|Orc Paragon]] or [[rangoric-srd/classes/Human Paragon|Human Paragon]] (divided ancestry)
 
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 14 years | +1d4 | +1d6 | +2d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 30 years | 45 years | 60 years | +2d10 years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 4 ft. 10 in. | +2d12 | 150 lb. | × (2d6) lb. |
+| Female | 4 ft. 5 in. | +2d12 | 110 lb. | × (2d6) lb. |
+
 ### Alternate Racial Traits
 
 A half-orc can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

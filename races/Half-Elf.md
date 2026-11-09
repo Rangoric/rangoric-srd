@@ -37,6 +37,23 @@ Bonus Languages:
 
 Paragon Class: [[rangoric-srd/classes/Half-Elf Paragon|Half-Elf Paragon]]; after a level of it, [[rangoric-srd/classes/Elf Paragon|Elf Paragon]] or [[rangoric-srd/classes/Human Paragon|Human Paragon]] (divided ancestry)
 
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 20 years | +1d6 | +2d6 | +3d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 62 years | 93 years | 125 years | +3d20 years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 5 ft. 2 in. | +2d8 | 110 lb. | × (2d4) lb. |
+| Female | 5 ft. 0 in. | +2d8 | 90 lb. | × (2d4) lb. |
+
 ### Alternate Racial Traits
 
 A half-elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

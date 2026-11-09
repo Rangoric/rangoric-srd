@@ -49,6 +49,23 @@ Bonus Languages:
 
 Paragon Class: [[rangoric-srd/classes/Dwarf Paragon|Dwarf Paragon]]
 
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 40 years | +3d6 | +5d6 | +7d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 125 years | 188 years | 250 years | +2d% years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 3 ft. 9 in. | +2d4 | 150 lb. | × (2d6) lb. |
+| Female | 3 ft. 7 in. | +2d4 | 120 lb. | × (2d6) lb. |
+
 ### Alternate Racial Traits
 
 A dwarf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

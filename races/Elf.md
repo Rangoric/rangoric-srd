@@ -45,6 +45,23 @@ Bonus Languages:
 
 Paragon Class: [[rangoric-srd/classes/Elf Paragon|Elf Paragon]]
 
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 110 years | +4d6 | +6d6 | +10d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 175 years | 263 years | 350 years | +4d% years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 5 ft. 4 in. | +2d8 | 100 lb. | × (1d6) lb. |
+| Female | 5 ft. 4 in. | +2d6 | 90 lb. | × (1d6) lb. |
+
 ### Alternate Racial Traits
 
 An elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).

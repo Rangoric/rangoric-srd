@@ -48,6 +48,23 @@ Bonus Languages:
 
 Paragon Class: [[rangoric-srd/classes/Gnome Paragon|Gnome Paragon]]
 
+### Age, Height and Weight
+
+How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
+
+| Adulthood | Intuitive | Self-Taught | Trained |
+| --- | --- | --- | --- |
+| 40 years | +4d6 | +6d6 | +9d6 |
+
+| Middle Age | Old | Venerable | Maximum Age |
+| --- | --- | --- | --- |
+| 100 years | 150 years | 200 years | +3d% years |
+
+| Gender | Base Height | Height Modifier | Base Weight | Weight Modifier |
+| --- | --- | --- | --- | --- |
+| Male | 3 ft. 0 in. | +2d4 | 40 lb. | × 1 lb. |
+| Female | 2 ft. 10 in. | +2d4 | 35 lb. | × 1 lb. |
+
 ### Alternate Racial Traits
 
 A gnome can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
