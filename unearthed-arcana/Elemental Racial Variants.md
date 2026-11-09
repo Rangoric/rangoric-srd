@@ -51,23 +51,11 @@ Members of air races often differ in appearance from their typical cousins. Comm
 
 #### General Traits Of Air Races
 
-All members of air races have the following traits.
-
-  - \+1 racial bonus on attack rolls against creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|earth]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Earth]].
-  - \-2 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities with the earth subtype or used by creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|earth]]subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Earth]].
-  - Breathless (Ex): Members of air races do not breathe, so they have immunity to [[rangoric-srd/rules/Wilderness, Weather, and Environment#Drowning|drowning]], [[rangoric-srd/rules/Wilderness, Weather, and Environment#Suffocation|suffocation]], and attacks that require inhalation (such as some types of [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]]).
+These traits are now a racial-trait note: [[rangoric-srd/races/racial-traits/Air Race Traits|Air Race Traits]].
 
 ### Air Gnomes
 
-Air gnomes are identical with standard gnomes, except for some differences in racial traits.
-
-##### Racial Traits
-
-Air gnomes have the general [[#General Traits Of Air Races|traits of air races]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Dexterity, -2 Strength: Air gnomes are agile, but lack physical power.
-  - No racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|goblinoids]].
-  - \+4 dodge bonus to Armor Class against Large or larger creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|earth]] subtype: This bonus replaces the gnome's racial bonus to AC against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giants]].
+Air gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Air Goblins
 

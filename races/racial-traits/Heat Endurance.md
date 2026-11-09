@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 Members of desert races gain a +4 racial bonus on Fortitude saves made to resist the effects of [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot weather]].
 
-Used by: every desert race subtype (Unearthed Arcana): the [[rangoric-srd/races/Dwarf|Dwarf]]'s desert dwarf; the [[rangoric-srd/races/Elf|Elf]]'s desert elf.
+Used by: every desert race subtype (Unearthed Arcana): the [[rangoric-srd/races/Dwarf|Dwarf]]'s desert dwarf; the [[rangoric-srd/races/Elf|Elf]]'s desert elf; the [[rangoric-srd/races/Gnome|Gnome]]'s desert gnome.

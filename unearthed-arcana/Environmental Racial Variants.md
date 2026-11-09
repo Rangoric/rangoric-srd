@@ -132,16 +132,7 @@ Aquatic elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Aquatic Gnomes
 
-Aquatic gnomes travel the world beneath the waves in elaborate wood and shell chariots pulled by domesticated sea creatures. Their vehicles range in size from single-person launches to those large enough to house several families.
-
-##### Racial Traits
-
-Aquatic gnomes have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - An aquatic gnome has a swim speed of 20 feet.
-  - Well-Traveled: Aquatic gnomes receive a +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] and [[rangoric-srd/skills/Persuasion|Persuasion]] checks. They always know when their welcome is wearing out.
-  - No +1 racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]]: Aquatic gnomes do not come into combat with kobolds as frequently as their land-bound cousins. They retain their bonus against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]], however.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks or [[rangoric-srd/skills/Perception|Perception]] checks: Aquatic gnomes' visual acuity has improved at the expense of their other senses.
+Aquatic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Aquatic Goblins
 
@@ -283,14 +274,7 @@ Arctic elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Arctic Gnomes
 
-Arctic gnomes travel the ice and snow on cleverly constructed sleds pulled by immense woolly mammoths. The animals serve as transportation, a source of fibers for weaving, and walls against the elements. The sleds are enclosed, often transporting entire families.
-
-##### Racial Traits
-
-Arctic gnomes have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Arctic gnomes always seem to know instinctively when their welcome is wearing out.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
+Arctic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Arctic Goblins
 
@@ -426,14 +410,7 @@ Desert elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Desert Gnomes
 
-Desert dwarves may dig and maintain wells, but desert gnomes pay for them. Desert gnomes establish and operate fortified trading posts around wells and oases, cultivating crops wherever possible and scouring the surrounding desert for the wealth of buried civilizations. Desert gnome outposts are rarely quiet, doing business both day and night.
-
-##### Racial Traits
-
-Desert gnomes have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks: Desert gnomes are skilled at haggling and negotiating.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks or [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
+Desert gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Desert Goblins
 
@@ -564,18 +541,7 @@ Jungle elves are now a subtype of the [[rangoric-srd/races/Elf#Subtypes|elf]].
 
 ### Jungle Gnomes
 
-Jungle gnomes live in and along the mighty rivers that wind through the jungles. A gnome jungle town is often a collection of boats tied together across a river, with channels to allow passing vessels through (after they pay a toll, of course). Jungle gnomes are also seen traveling the rivers, trading what they can find to those they meet along the way.
-
-##### Racial Traits
-
-Jungle gnomes have all [[rangoric-srd/races/Gnome|gnome racial traits]], with additions and exceptions as noted below.
-
-  - No racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]].
-  - No dodge bonus to Armor Class against [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giants]].
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Jungle gnomes live their lives clambering in and out of boats, and in and out of the water.
-  - \+2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (shipbuilding) checks: A little lumber and a few simple tools make for a happy and industrious jungle gnome.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Jungle gnomes consider rope the most useful tool on their boats.
-  - No racial bonus on [[rangoric-srd/skills/Perception|Perception]] or [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
+Jungle gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Jungle Goblins
 
