@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 While every monster has the statistics that a player would need to play the creature as a character, most monsters are not suitable as PCs. Creatures who have an Intelligence score of 2 or lower, who have no way to communicate, or who are so different from other PCs that they disrupt the campaign should not be used. Some creatures have strange innate abilities or great physical power, and thus are questionable at best as characters (except in high-level campaigns).
 
-**Starting Level of a Monster PC**: Monsters suitable for play have a level adjustment given in their statistics. Add a monster’s level adjustment to its Hit Dice and class levels to get the creature’s effective character level, or ECL. Effectively, monsters with a level adjustment become multiclass character when they take class levels. A creature’s “monster class” is always a favored class, and the creature never takes XP penalties for having it.
+**Starting Level of a Monster PC**: Monsters suitable for play have a level adjustment given in their statistics. Add a monster’s level adjustment to its Hit Dice and class levels to get the creature’s effective character level, or ECL. Effectively, monsters with a level adjustment become multiclass character when they take class levels.
 
 **Humanoids and Class Levels**: Creatures with 1 or less HD replace their monster levels with their character levels. The monster loses the attack bonus, saving throw bonuses, skills, and feats granted by its 1 monster HD and gains the attack bonus, save bonuses, skills, feats, and other class abilities of a 1st-level character of the appropriate class.
 

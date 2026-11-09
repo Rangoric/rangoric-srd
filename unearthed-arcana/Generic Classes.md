@@ -226,9 +226,3 @@ Unlike the fighter, the warrior can choose a different array of class skills, ca
 **Weapon and Armor Proficiency:** All simple and martial weapons; light and medium armor; shields (but not tower shields).
 
 **Bonus Feats:**A warrior gets one bonus feat at 1st level, one at 2nd level, and another one at every second class level (4th, 6th, and so on).
-
-##### Multiclass Generic Characters
-
-With only three classes to choose from (four if you count arcane spellcasters and divine spellcasters as separate classes), multiclassing in this variant system offers a much smaller variety of combinations than in the standard game. Thus, the game master probably shouldn't apply an XP penalty for characters who multiclass.
-
-If you wish to retain the "favored class" element of the standard game, treat any race whose favored class is barbarian, fighter, monk, or paladin as having warrior as its favored class. A race whose favored class is bard, ranger, or rogue has expert as its favored class. A race that has cleric or druid as its favored class treats divine spellcaster as favored, while a race with a favored class of sorcerer or wizard treats arcane spellcaster as its favored class.

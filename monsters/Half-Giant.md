@@ -102,6 +102,4 @@ Half-Giant characters possess the following racial traits.
 
   - Automatic Language: Common. Bonus Language: Draconic, Giant, Gnoll, Ignan.
 
-  - Favored Class: [[rangoric-srd/psionics/Psychic Warrior|Psychic warrior]].
-
   - Level Adjustment: +1.

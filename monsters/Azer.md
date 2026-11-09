@@ -100,6 +100,4 @@ Azer characters possess the following racial traits.
 
   - Automatic Languages: Common, Ignan. Bonus Languages: Abyssal, Aquan, Auran, Celestial, Infernal, Terran.
 
-  - Favored Class: Fighter.
-
   - Level adjustment +4.

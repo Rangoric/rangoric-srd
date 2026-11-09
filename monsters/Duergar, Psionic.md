@@ -62,6 +62,4 @@ Duergar characters possess the following racial traits.
 
   - Automatic Languages: Common, Dwarven, Undercommon. Bonus Languages: Draconic, Giant, Goblin, Orc, Terran.
 
-  - Favored Class: [[rangoric-srd/classes/Fighter|Fighter]].
-
   - Level Adjustment: +1.

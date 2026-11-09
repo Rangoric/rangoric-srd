@@ -113,6 +113,4 @@ Ogre mage characters possess the following racial traits.
 
   - Automatic Languages: Common, Giant. Bonus Languages: Dwarven, Goblin, Infernal, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Sorcerer|Sorcerer]].
-
   - Level adjustment +7.

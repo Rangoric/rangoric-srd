@@ -402,7 +402,6 @@ Desert kobolds have the general [[#General Desert Racial Trait|desert racial tra
   - No light sensitivity.
   - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
   - No racial bonus on [[rangoric-srd/skills/Profession|Profession]] (mining) checks: Desert kobolds don't mine.
-  - Favored Class: [[rangoric-srd/classes/Rogue|Rogue]]. A multiclass desert kobold's rogue class does not count when determining whether he takes an experience point penalty for multiclassing. This trait replaces the normal kobold's favored class.
 
 ### Desert Orcs
 
@@ -483,7 +482,6 @@ Jungle goblins have [[rangoric-srd/monsters/Goblin|goblin racial traits]], with 
   - No darkvision.
   - \+4 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Jungle goblins are accomplished leapers.
   - No racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]]. A multiclass jungle goblin's barbarian class does not count when determining whether he takes an experience point penalty for multiclassing. This trait replaces the normal goblins favored class.
 
 ### Jungle Half-Elves
 

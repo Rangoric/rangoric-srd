@@ -35,7 +35,7 @@ Monsters are assumed to have completely average (or standard) ability scores—a
 
 If a creature acquires a character class, it follows the rules for multiclass characters.
 
-The creature’s Hit Dice equal the number of class levels it has plus its racial Hit Dice. A creature’s “monster class” is always a favored class, and the creature never takes XP penalties for having it. Additional Hit Dice gained from taking levels in a character class never affect a creature’s size.
+The creature’s Hit Dice equal the number of class levels it has plus its racial Hit Dice. Additional Hit Dice gained from taking levels in a character class never affect a creature’s size.
 
 **Humanoids and Class Levels**: Creatures with 1 or less HD replace their monster levels with their character levels. The monster loses the attack bonus, saving throw bonuses, skills, and feats granted by its 1 monster HD and gains the attack bonus, save bonuses, skills, feats, and other class abilities of a 1st-level character of the appropriate class.
 

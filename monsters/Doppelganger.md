@@ -110,6 +110,4 @@ Doppelganger characters possess the following racial traits.
 
   - Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
 
-  - Favored Class: [[rangoric-srd/classes/Rogue|Rogue]].
-
   - Level adjustment +4.

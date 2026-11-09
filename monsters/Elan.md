@@ -98,6 +98,4 @@ Elan characters possess the following racial traits.
 
   - Automatic Languages: Common.
 
-  - Favored Class: [[rangoric-srd/psionics/Psion|Psion]].
-
   - Level Adjustment: +0.

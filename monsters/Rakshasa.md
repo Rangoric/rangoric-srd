@@ -119,6 +119,4 @@ Rakshasa characters possess the following racial traits.
 
   - Automatic Languages: Common, Infernal. Bonus Languages: Sylvan, Undercommon.
 
-  - Favored Class: [[rangoric-srd/classes/Sorcerer|Sorcerer]].
-
   - Level adjustment +7.

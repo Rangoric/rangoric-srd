@@ -95,8 +95,6 @@ Halflings prefer to fight defensively, usually hiding and launching ranged attac
 
   - Automatic Languages: Common, Halfling. Bonus Languages: Dwarven, Elven, Gnome, Goblin, Orc.
 
-  - Favored Class: [[rangoric-srd/classes/Rogue|Rogue]].
-
 The halfling warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 ### Subraces

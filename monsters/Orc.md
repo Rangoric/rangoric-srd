@@ -89,8 +89,6 @@ Orcs are proficient with all simple weapons, preferring those that cause the mos
 
   - Automatic Languages: Common, Orc. Bonus Languages: Dwarven, Giant, Gnoll, Goblin, Undercommon.
 
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]].
-
 The orc warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 **Paragon Class**: orcs can advance as [[rangoric-srd/classes/Orc Paragon|orc paragons]].
@@ -112,5 +110,3 @@ These orc–human crossbreeds can be found in either orc or human society (where
   - Orc Blood: For all effects related to race, a half-orc is considered an orc.
 
   - Automatic Languages: Common, Orc. Bonus Languages: Draconic, Giant, Gnoll, Goblin, Abyssal.
-
-  - Favored Class: [[rangoric-srd/classes/Barbarian|Barbarian]].

@@ -99,8 +99,6 @@ Tiefling characters possess the following racial traits.
 
   - Automatic Languages: Common, Infernal. Bonus Languages: Draconic, Dwarven, Elven, Gnome, Goblin, Halfling, Orc.
 
-  - Favored Class: Rogue.
-
   - Level adjustment +1.
 
 **Paragon Class**: tieflings can advance as [[rangoric-srd/classes/Tiefling Paragon|tiefling paragons]].

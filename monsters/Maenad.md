@@ -91,6 +91,4 @@ Maenad characters possess the following racial traits.
 
   - Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic, Dwarven, Elven, Goblin.
 
-  - Favored Class: [[rangoric-srd/psionics/Wilder|Wilder]].
-
   - Level Adjustment: +0.

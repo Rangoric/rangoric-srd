@@ -104,6 +104,4 @@ Satyr characters possess the following racial traits.
 
   - Automatic Languages: Sylvan. Bonus Languages: Common, Elven, Gnome.
 
-  - Favored Class: [[rangoric-srd/classes/Bard|Bard]].
-
   - Level adjustment +2.
