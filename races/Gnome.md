@@ -4,6 +4,7 @@ section: "Races"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
+  - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)|Gnomes (ARG)]]"
 status: draft
 change: modified
 pi-review: 2026-11-08
@@ -42,3 +43,31 @@ Bonus Languages:
 - Giant
 - Goblin
 - Orc
+
+### Alternate Racial Traits
+
+A gnome can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+
+| Trait | Replaces |
+| --- | --- |
+| [[rangoric-srd/races/racial-traits/Academician|Academician]] | Obsessive |
+| [[rangoric-srd/races/racial-traits/Bond to the Land|Bond to the Land]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Darkvision (Gnome Trait)|Darkvision]] | Low-light vision and keen senses |
+| [[rangoric-srd/races/racial-traits/Eternal Hope|Eternal Hope]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Explorer|Explorer]] | Hatred and obsessive |
+| [[rangoric-srd/races/racial-traits/Fell Magic|Fell Magic]] | Gnome magic |
+| [[rangoric-srd/races/racial-traits/Gift of Tongues|Gift of Tongues]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Knack with Poison|Knack with Poison]] | Illusion resistance and obsessive |
+| [[rangoric-srd/races/racial-traits/Magical Linguist|Magical Linguist]] | Gnome magic and illusion resistance |
+| [[rangoric-srd/races/racial-traits/Master Tinker|Master Tinker]] | Defensive training and hatred |
+| [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]] | Gnome magic and illusion resistance |
+| [[rangoric-srd/races/racial-traits/Warden of Nature|Warden of Nature]] | Defensive training and hatred |
+
+### Subtypes
+
+Bundles of alternate traits for gnomes of a particular background.
+
+- **Dread Gnomes**: Moodier, less forgiving and often crueler than other gnomes, tracing their heritage to the darker lines of fey: [[rangoric-srd/races/racial-traits/Fell Magic|Fell Magic]] and [[rangoric-srd/races/racial-traits/Knack with Poison|Knack with Poison]].
+- **Gear Gnomes**: Born into families that spend generations on one vast project, often clockwork: [[rangoric-srd/races/racial-traits/Academician|Academician]] and [[rangoric-srd/races/racial-traits/Master Tinker|Master Tinker]].
+- **Lava Gnomes**: Living in caverns beneath active volcanoes, and thought hot-tempered even by other gnomes: [[rangoric-srd/races/racial-traits/Darkvision (Gnome Trait)|Darkvision]] and [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]].
+- **Traveler Gnomes**: Born on the move, on a ship or in a caravan: [[rangoric-srd/races/racial-traits/Magical Linguist|Magical Linguist]] and either [[rangoric-srd/races/racial-traits/Explorer|Explorer]] or [[rangoric-srd/races/racial-traits/Gift of Tongues|Gift of Tongues]].
