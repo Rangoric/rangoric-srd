@@ -18,4 +18,4 @@ Sometimes your second attempt at a deception does the trick.
 
 **Benefit**: When you fail to fool someone with a Deception check, you can at once try another version of the same deception against it at a –5 penalty, playing down the failed bluff and moving on to the next. You can’t if the first bluff was so outrageous that another try would be impossible. If the second try fails too, you can’t try that deception again.
 
-**Normal**: A failed Deception check makes the target too suspicious for you to try again in the same circumstances.
+**Normal**: After a failed Deception check, further tries to deceive the target are harder or impossible, as [[rangoric-srd/skills/Deception|Deception]]’s Try Again says.

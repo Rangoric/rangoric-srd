@@ -16,4 +16,4 @@ Your foxlike movements protect you from your opponents' attempts to manipulate y
 
 **Prerequisites**: Int 13, [[rangoric-srd/feats/Fox Style|Fox Style]].
 
-**Benefit**: While using Fox Style, you can use your base attack bonus in place of your ranks in Sense Motive on Sense Motive checks against feints, and creatures trying to [[rangoric-srd/skills/Intimidation|demoralize]] you don’t gain the bonus for being larger than you (they still take the penalty for being smaller). If your Intelligence is 19 or higher, creatures also take a –4 penalty on Deception checks to feint you and on Intimidation checks to demoralize you.
+**Benefit**: While using Fox Style, you can use your base attack bonus in place of your ranks in Sense Motive when working out your Sense Motive bonus for the DC to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] you, and creatures trying to [[rangoric-srd/skills/Intimidation|demoralize]] you don’t gain the bonus for being larger than you (they still take the penalty for being smaller). If your Intelligence is 19 or higher, the DC to feint you or to demoralize you also increases by 4.
