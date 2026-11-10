@@ -76,13 +76,13 @@ A disarm is a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]]; see [[ra
 
 ##### Feint
 
-Feinting is a standard action. To feint, make a Deception check opposed by a Sense Motive check by your target. The target may add his base attack bonus to this Sense Motive check. If your Deception check result exceeds your target’s Sense Motive check result, the next melee attack you make against the target does not allow him to use his Dexterity bonus to AC (if any). This attack must be made on or before your next turn.
+Feinting is a standard action. To feint, make a [[rangoric-srd/skills/Deception|Deception]] check. The DC of this check is equal to 10 + your opponent’s base attack bonus + your opponent’s Wisdom modifier. If your opponent is trained in [[rangoric-srd/skills/Sense Motive|Sense Motive]], the DC is instead equal to 10 + your opponent’s Sense Motive bonus, if higher. If your check succeeds, the next melee attack you make against the target does not allow him to use his Dexterity bonus to AC (if any). This attack must be made on or before your next turn.
 
 When feinting in this way against a nonhumanoid you take a –4 penalty. Against a creature of animal Intelligence (1 or 2), you take a –8 penalty. Against a nonintelligent creature, it’s impossible.
 
 Feinting in combat does not provoke attacks of opportunity.
 
-**Feinting as a Move Action**: With the Improved Feint feat, you can attempt a feint as a move action instead of as a standard action.
+**Feinting as a Move Action**: With the [[rangoric-srd/feats/Improved Feint|Improved Feint]] feat, you can attempt a feint as a move action instead of as a standard action.
 
 ##### Grapple
 
