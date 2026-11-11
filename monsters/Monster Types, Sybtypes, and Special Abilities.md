@@ -389,6 +389,8 @@ Allies of a creature with a gaze attack might be affected. All the creature’s 
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze Attacks]] under Special Abilities.  
 
+**Giant Subtype**: A humanoid subtype for humanoids of giant blood, such as [[rangoric-srd/races/Ogre|ogres]] played as a race, which are humanoids rather than creatures of the [[#^giant|giant type]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^giant-subtype
+
 **Giant Type**: A giant is a humanoid-shaped creature of great strength, usually of at least Large size. ^giant
 
 *Features*: A giant has the following features.
@@ -411,13 +413,15 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze
 
   - Giants eat, sleep, and breathe.
 
+**Gnoll Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnoll|gnolls]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnoll
+
 **Gnome Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnome|gnomes]] and their kin, such as [[rangoric-srd/races/Svirfneblin|svirfneblin]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnome
 
 **Goblinoid Subtype**: Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. ^goblinoid
 
 **Good Subtype**: A subtype usually applied only to outsiders native to the good-aligned Outer Planes. Most creatures that have this subtype also have good alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a good alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the good subtype overcomes damage reduction as if its natural weapons and any weapons it wields were good-aligned (see Damage Reduction, above). ^good
 
-**Grippli Subtype**: A humanoid subtype for gripplis. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^grippli
+**Grippli Subtype**: A humanoid subtype for [[rangoric-srd/races/Grippli|gripplis]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^grippli
 
 **Halfling Subtype**: A humanoid subtype for [[rangoric-srd/races/Halfling|halflings]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^halfling
 
@@ -461,7 +465,7 @@ An incorporeal creature moves silently and cannot be heard with Perception check
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|Incorporeality]] under Special Abilities.
 
-**Kitsune Subtype**: A humanoid subtype for kitsune, who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
+**Kitsune Subtype**: A humanoid subtype for [[rangoric-srd/races/Kitsune|kitsune]], who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
 
@@ -764,7 +768,7 @@ A spellcasting creature that lacks hands or arms can provide any somatic compone
 
 A spellcasting creature is not actually a member of a class unless its entry says so, and it does not gain any class abilities. A creature with access to cleric spells must prepare them in the normal manner and receives domain spells if noted, but it does not receive domain granted powers unless it has at least one level in the cleric class.
 
-**Strix Subtype**: A humanoid subtype for strix. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^strix
+**Strix Subtype**: A humanoid subtype for [[rangoric-srd/races/Strix|strix]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^strix
 
 **Summon (Sp)**: A creature with the summon ability can summon specific other creatures of its kind much as though casting a summon monster spell, but it usually has only a limited chance of success (as specified in the creature’s entry). Roll d%: On a failure, no creature answers the summons. Summoned creatures automatically return whence they came after 1 hour. A creature that has just been summoned cannot use its own summon ability for 1 hour. Most creatures with the ability to summon do not use it lightly, since it leaves them beholden to the summoned creature. In general, they use it only when necessary to save their own lives. An appropriate spell level is given for each summoning ability for purposes of [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks and attempts to dispel the summoned creature. No experience points are awarded for summoned monsters. ^summon
 
@@ -884,7 +888,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
   - Undead do not breathe, eat, or sleep.
 
-**Vanara Subtype**: A humanoid subtype for vanaras. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vanara
+**Vanara Subtype**: A humanoid subtype for [[rangoric-srd/races/Vanara|vanaras]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vanara
 
 **Vermin Type**: This type includes insects, arachnids, other arthropods, worms, and similar invertebrates. ^vermin
 
@@ -910,7 +914,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
   - Vermin breathe, eat, and sleep.
 
-**Vishkanya Subtype**: A humanoid subtype for vishkanyas. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vishkanya
+**Vishkanya Subtype**: A humanoid subtype for [[rangoric-srd/races/Vishkanya|vishkanyas]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vishkanya
 
 **Vulnerability to Energy**: Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^vulnerability-to-energy
 

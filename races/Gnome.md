@@ -74,7 +74,7 @@ A gnome can take any of these in place of the traits they replace (see [[rangori
 | --- | --- |
 | [[rangoric-srd/races/racial-traits/Academician|Academician]] | Obsessive |
 | [[rangoric-srd/races/racial-traits/Bond to the Land|Bond to the Land]] | Defensive training and hatred |
-| [[rangoric-srd/races/racial-traits/Darkvision (Gnome Trait)|Darkvision]] | Low-light vision and keen senses |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] | Low-light vision and keen senses |
 | [[rangoric-srd/races/racial-traits/Eternal Hope|Eternal Hope]] | Defensive training and hatred |
 | [[rangoric-srd/races/racial-traits/Explorer|Explorer]] | Hatred and obsessive |
 | [[rangoric-srd/races/racial-traits/Fell Magic|Fell Magic]] | Gnome magic |
@@ -91,7 +91,7 @@ Bundles of alternate traits for gnomes of a particular background.
 
 - **Dread Gnomes**: Moodier, less forgiving and often crueler than other gnomes, tracing their heritage to the darker lines of fey: [[rangoric-srd/races/racial-traits/Fell Magic|Fell Magic]] and [[rangoric-srd/races/racial-traits/Knack with Poison|Knack with Poison]].
 - **Gear Gnomes**: Born into families that spend generations on one vast project, often clockwork: [[rangoric-srd/races/racial-traits/Academician|Academician]] and [[rangoric-srd/races/racial-traits/Master Tinker|Master Tinker]].
-- **Lava Gnomes**: Living in caverns beneath active volcanoes, and thought hot-tempered even by other gnomes: [[rangoric-srd/races/racial-traits/Darkvision (Gnome Trait)|Darkvision]] and [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]].
+- **Lava Gnomes**: Living in caverns beneath active volcanoes, and thought hot-tempered even by other gnomes: [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] and [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]].
 - **Traveler Gnomes**: Born on the move, on a ship or in a caravan: [[rangoric-srd/races/racial-traits/Magical Linguist|Magical Linguist]] and either [[rangoric-srd/races/racial-traits/Explorer|Explorer]] or [[rangoric-srd/races/racial-traits/Gift of Tongues|Gift of Tongues]].
 
 **Variants from Unearthed Arcana.** A variant's ability scores take the place of the gnome's, but keep the gnome's +2 Charisma.

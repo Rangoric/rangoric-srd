@@ -70,7 +70,7 @@ An elf can take any of these in place of the traits they replace (see [[rangoric
 | Trait | Replaces |
 | --- | --- |
 | [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]] | Weapon familiarity |
-| [[rangoric-srd/races/racial-traits/Darkvision (Elf Trait)|Darkvision]] | Low-light vision |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] | Low-light vision |
 | [[rangoric-srd/races/racial-traits/Desert Runner|Desert Runner]] | Elven magic |
 | [[rangoric-srd/races/racial-traits/Dreamspeaker|Dreamspeaker]] | Elven immunities |
 | [[rangoric-srd/races/racial-traits/Elemental Resistance|Elemental Resistance]] | Elven immunities |
@@ -87,8 +87,8 @@ An elf can take any of these in place of the traits they replace (see [[rangoric
 
 Bundles of alternate traits for elves of a particular background.
 
-- **Arctic Elf**: Born and raised in frozen lands, with nights that last for weeks: [[rangoric-srd/races/racial-traits/Darkvision (Elf Trait)|Darkvision]], [[rangoric-srd/races/racial-traits/Desert Runner|Desert Runner]], and [[rangoric-srd/races/racial-traits/Elemental Resistance|Elemental Resistance]].
-- **Dusk Elf**: Linked to the night itself and attuned to darkness and shadow, though not to evil: [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]], [[rangoric-srd/races/racial-traits/Darkvision (Elf Trait)|Darkvision]], [[rangoric-srd/races/racial-traits/Dreamspeaker|Dreamspeaker]], and [[rangoric-srd/races/racial-traits/Silent Hunter|Silent Hunter]].
+- **Arctic Elf**: Born and raised in frozen lands, with nights that last for weeks: [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]], [[rangoric-srd/races/racial-traits/Desert Runner|Desert Runner]], and [[rangoric-srd/races/racial-traits/Elemental Resistance|Elemental Resistance]].
+- **Dusk Elf**: Linked to the night itself and attuned to darkness and shadow, though not to evil: [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]], [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]], [[rangoric-srd/races/racial-traits/Dreamspeaker|Dreamspeaker]], and [[rangoric-srd/races/racial-traits/Silent Hunter|Silent Hunter]].
 - **Savage Elf**: Adapted to lands where every day is a struggle to survive: [[rangoric-srd/races/racial-traits/Eternal Grudge|Eternal Grudge]] and [[rangoric-srd/races/racial-traits/Fleet-Footed|Fleet-Footed]].
 - **Tower Elf**: Clans who have lived for generations in schools of wizardry: [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]] and [[rangoric-srd/races/racial-traits/Urbanite|Urbanite]].
 
