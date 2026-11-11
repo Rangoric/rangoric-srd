@@ -24,7 +24,7 @@ Perks:
 - Low-Light Vision: Tengus have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Sneaky: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
 - Gifted Linguist: +4 racial bonus on [[rangoric-srd/skills/Linguistics|Linguistics]] checks, and tengus learn one language every time they put a rank in the Linguistics skill (instead of one per 2 ranks).
-- Swordtrained: Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including bastard swords, daggers, [[rangoric-srd/equipment/Equipment Weapons#Weapon Descriptions|elven curve blades]], falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).
+- Swordtrained: Tengus are trained from birth in swordplay, and as a result are automatically proficient with swordlike weapons (including bastard swords, daggers, [[rangoric-srd/equipment/weapons/Elven Curve Blade|elven curve blades]], falchions, greatswords, kukris, longswords, punching daggers, rapiers, scimitars, short swords, and two-bladed swords).
 - Natural Weapon: A tengu has a bite attack that deals 1d3 points of damage (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^natural-weapons|natural weapons]]).
 
 Languages:

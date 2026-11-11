@@ -1,0 +1,39 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/equipment/weapons")
+    - file.hasTag("rangoric/weapon")
+views:
+  - type: table
+    name: "All weapons"
+    order:
+      - file.name
+      - note.proficiency
+      - note.category
+      - note.cost-gp
+      - note.damage-small
+      - note.damage-medium
+      - note.critical
+      - note.range-ft
+      - note.weight-lb
+      - note.damage-type
+      - note.special
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By proficiency"
+    groupBy:
+      property: note.proficiency
+      direction: ASC
+    order:
+      - file.name
+      - note.category
+      - note.cost-gp
+      - note.damage-medium
+      - note.critical
+      - note.range-ft
+      - note.weight-lb
+      - note.damage-type
+    sort:
+      - property: file.name
+        direction: ASC

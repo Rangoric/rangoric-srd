@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Goblin|Goblin]]. **Replaces**: skilled.
 
-Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the [[rangoric-srd/equipment/Equipment Weapons#Weapon Descriptions|dogslicer]] and the [[rangoric-srd/equipment/Equipment Weapons#Weapon Descriptions|horsechopper]], and treat any weapon with the word "goblin" in it as martial weapons.
+Goblins' traditional weapons are the dogslicer and the horsechopper, weapons designed specifically to bring down their most hated foes. Goblins with this trait are proficient with the [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] and the [[rangoric-srd/equipment/weapons/Horsechopper|horsechopper]], and treat any weapon with the word "goblin" in it as martial weapons.

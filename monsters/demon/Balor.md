@@ -78,7 +78,7 @@ A balor’s natural weapons, as well as any weapons it wields, are treated as ch
 
 **Death Throes (Ex)**: When killed, a balor explodes in a blinding flash of light that deals 100 points of damage to anything within 100 feet (Reflex DC 30 half ). This explosion automatically destroys any weapons the balor is holding. The save DC is Constitution-based.
 
-**Entangle (Ex)**: A balor’s +1 flaming whip [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangles]] foes much like an attack with a [[rangoric-srd/equipment/Equipment Weapons#^net|net]]. The whip has 20 hit points. The whip needs no folding. If it hits, the balor can attempt a [[rangoric-srd/combat/Combat Maneuvers#Drag|drag]] combat maneuver check against the target as a free action; if it succeeds, it drags the target against its flaming body (see below). The target remains anchored against the balor’s body until it escapes the whip.
+**Entangle (Ex)**: A balor’s +1 flaming whip [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangles]] foes much like an attack with a [[rangoric-srd/equipment/weapons/Net|net]]. The whip has 20 hit points. The whip needs no folding. If it hits, the balor can attempt a [[rangoric-srd/combat/Combat Maneuvers#Drag|drag]] combat maneuver check against the target as a free action; if it succeeds, it drags the target against its flaming body (see below). The target remains anchored against the balor’s body until it escapes the whip.
 
 **Spell-Like Abilities**: Caster level 20th. The save DCs are Charisma-based.  
 

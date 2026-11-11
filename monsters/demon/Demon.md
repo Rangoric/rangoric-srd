@@ -39,7 +39,7 @@ A bebilith’s natural weapons, as well as any weapons it wields, are treated as
 
 **Rend Armor (Ex)**: If a bebilith hits with both claw attacks, it pulls apart any armor worn by its foe. This attack deals 4d6+18 points of damage to the opponent’s armor. Creatures not wearing armor are unaffected by this special attack. Armor reduced to 0 hit points is destroyed. Damaged armor may be repaired with a successful [[rangoric-srd/skills/Craft|Craft]] (armorsmithing) check.
 
-**Web (Ex)**: A bebilith can throw a web up to four times per day. This is similar to an attack with a [[rangoric-srd/equipment/Equipment Weapons#^net|net]] but has a maximum range of 30 feet, with a range increment of 10 feet. This attack is effective against targets of up to Gargantuan size. The web anchors the target in place, allowing no movement.
+**Web (Ex)**: A bebilith can throw a web up to four times per day. This is similar to an attack with a [[rangoric-srd/equipment/weapons/Net|net]] but has a maximum range of 30 feet, with a range increment of 10 feet. This attack is effective against targets of up to Gargantuan size. The web anchors the target in place, allowing no movement.
 
 An [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] creature can escape with a DC 24 [[rangoric-srd/skills/Escape Artist|Escape Artist]] check or burst the web with a DC 24 Strength check. The check DCs are Constitution-based. The web has 14 hit points and hardness 0. There is a 75% chance that the webbing will not burn if any sort of fire is applied to it (check each round).
 

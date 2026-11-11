@@ -1,0 +1,27 @@
+---
+srd-type: "weapon"
+section: "Equipment"
+table-name: "Axe, orc double"
+proficiency: "exotic"
+category: "two-handed"
+cost-gp: 60
+damage-small: "1d6/1d6"
+damage-medium: "1d8/1d8"
+critical: "x3"
+weight-lb: 15
+damage-type: "Slashing"
+special: ["double"]
+based-on:
+  - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapons/Axe, Orc Double|Axe, Orc Double (Arms & Armor)]]"
+status: base
+change: copied
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/weapon, weapon-group/axes, weapon-group/double]
+---
+
+# Orc Double Axe
+
+*Exotic two-handed melee weapon (double).* Cost 60 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical x3; Weight 15 lb.; Type Slashing. ^stats
+
+An orc double axe is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding an orc double axe in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
