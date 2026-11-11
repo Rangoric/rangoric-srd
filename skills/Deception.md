@@ -25,17 +25,13 @@ A successful Deception check indicates that the target reacts as you wish, at le
 
 A bluff requires interaction between you and the target. Creatures unaware of you cannot be bluffed.
 
-*Feinting in Combat*: You can also use Deception to mislead an opponent in melee combat (so that it can’t dodge your next attack effectively). To [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]], make a Deception check opposed by your target’s Sense Motive check, but in this case, the target may add its base attack bonus to the roll along with any other applicable modifiers. If your Deception check result exceeds this special Sense Motive check result, your target is denied its Dexterity bonus to AC (if any) for the next melee attack you make against it. This attack must be made on or before your next turn.
-
-Feinting in this way against a nonhumanoid is difficult because it’s harder to read a strange creature’s body language; you take a –4 penalty on your Deception check. Against a creature of animal Intelligence (1 or 2) it’s even harder; you take a –8 penalty. Against a nonintelligent creature, it’s impossible.
-
-Feinting in combat does not provoke an attack of opportunity.
+*Feinting in Combat*: You can also use Deception to mislead an opponent in combat, so that it can’t dodge your next attack effectively. A feint has a DC instead of an opposed Sense Motive check: the [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] rule gives the DC, the action it takes, and the creatures it’s harder or impossible to use against.
 
 *Creating a Diversion to Hide*: You can use the Deception skill to help you hide. A successful Deception check gives you the momentary diversion you need to attempt a [[rangoric-srd/skills/Stealth|Stealth]] check while people are aware of you. This usage does not provoke an attack of opportunity.
 
 *Delivering a Secret Message*: You can use Deception to get a message across to another character without others understanding it. The DC is 15 for simple messages, or 20 for complex messages, especially those that rely on getting across new information. Failure by 4 or less means you can’t get the message across. Failure by 5 or more means that some false information has been implied or inferred. Anyone listening to the exchange can make a Sense Motive check opposed by the Deception check you made to transmit in order to intercept your message (see Sense Motive).
 
-**Action**: Varies. A Deception check made as part of general interaction always takes at least 1 round (and is at least a full-round action), but it can take much longer if you try something elaborate. A Deception check made to feint in combat or create a diversion to hide is a standard action. A Deception check made to deliver a secret message doesn’t take an action; it is part of normal communication.
+**Action**: Varies. A Deception check made as part of general interaction always takes at least 1 round (and is at least a full-round action), but it can take much longer if you try something elaborate. Feinting takes the action the [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] rule gives. A Deception check made to create a diversion to hide is a standard action. A Deception check made to deliver a secret message doesn’t take an action; it is part of normal communication.
 
 **Try Again**: Varies. If you fail to deceive someone, further attempts to deceive them take a –10 penalty and may be impossible (GM’s call), but you may retry freely on Deception checks made to feint in combat. Retries are also allowed when you are trying to send a message, but you may attempt such a retry only once per round. Each retry carries the same chance of miscommunication.
 

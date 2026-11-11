@@ -61,15 +61,15 @@ but may otherwise act normally.*
 
 ## Tumbling
 
-You can’t use this skill if your speed has been reduced by armor, excess equipment, or loot.
+You can’t use Acrobatics to move past foes if your speed is reduced by carrying a [[rangoric-srd/rules/Carrying, Movement, and Exploration#Carrying Capacity|medium or heavy load]] or wearing [[rangoric-srd/equipment/Equipment Armor|medium or heavy armor]]. If an ability allows you to move at full speed under such conditions, you can use Acrobatics to move past foes.
 
 **Check**: You can land softly when you fall or tumble past opponents. You can also tumble to entertain an audience (as though using the Performance skill). The DCs for various tasks involving the Acrobatics skill are given on the table below.
 
 | Acrobatics DC | Task                                                                                                                                                                                                                                                                                                                                                                                                         |
 | --------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 15        | Treat a fall as if it were 10 feet shorter than it really is when determining damage.                                                                                                                                                                                                                                                                                                                        |
-| 15        | Acrobatics at one-half speed as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you provoke attacks of opportunity normally. Check separately for each opponent you move past, in the order in which you pass them (player’s choice of order in case of a tie). Each additional enemy after the first adds +2 to the Acrobatics DC.                                       |
-| 25        | Acrobatics at one-half speed through an area occupied by an enemy (over, under, or around the opponent) as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you stop before entering the enemy-occupied area and provoke an attack of opportunity from that enemy. Check separately for each opponent. Each additional enemy after the first adds +2 to the Acrobatics DC. |
+| Opponent’s [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense\|CMD]] | Acrobatics at one-half speed as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you provoke attacks of opportunity normally. Check separately for each opponent you move past, in the order in which you pass them (player’s choice of order in case of a tie). The DC increases by 2 for each additional opponent avoided in 1 round.                                       |
+| Opponent’s [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense\|CMD]] + 5 | Acrobatics at one-half speed through an area occupied by an enemy (over, under, or around the opponent) as part of normal movement, provoking no attacks of opportunity while doing so. Failure means you stop before entering the enemy-occupied area, lose the move action, and provoke an attack of opportunity from that enemy. Check separately for each opponent. The DC increases by 2 for each additional opponent avoided in 1 round. |
 | 30 | Treat a fall as if it were 20 feet shorter when determining damage (the [[rangoric-srd/feats/Cat's Fall\|Cat's Fall]] feat gives this on the DC 15 check). |
 | 35 | Free stand. |
 | 45 | Treat a fall as if it were 30 feet shorter when determining damage. |
@@ -89,7 +89,9 @@ Obstructed or otherwise treacherous surfaces, such as natural cavern floors or u
 
 1 *Tumbling is impossible in a deep bog.*
 
-*Accelerated Tumbling*: You try to tumble past or through enemies more quickly than normal. By accepting a –10 penalty on your Acrobatics checks, you can move at your full speed instead of one-half your speed.
+*Accelerated Tumbling*: You try to tumble past or through enemies more quickly than normal. By increasing the DC of the check by 10, you can move at your full speed instead of one-half your speed.
+
+*Tumbling while Prone*: You can tumble past or through enemies while [[rangoric-srd/rules/Special Abilities and Conditions#^prone|prone]], but doing so takes a full-round action to move 5 feet, and the DC increases by 5.
 
 **Action**: Not applicable. Tumbling is part of movement, so an Acrobatics check is part of a move action.
 

@@ -16,4 +16,4 @@ Like a rugged mountain, you are impassable and unmovable.
 
 **Prerequisites**: Wis 13, [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], base attack bonus +4.
 
-**Benefit**: While using this style, as long as you don’t take a move action, you gain a +4 morale bonus to your CMD and on Sense Motive checks against feints. The [[rangoric-srd/skills/Acrobatics#Tumbling|Acrobatics]] DC for creatures to move through squares you threaten without provoking attacks of opportunity also increases by 4.
+**Benefit**: While using this style, as long as you don’t take a move action, you gain a +4 morale bonus to your CMD and to the DC to [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] you. You also count as one size category larger when working out your [[rangoric-srd/combat/Combat Maneuvers#^special-size-modifier|CMD]] against [[rangoric-srd/skills/Acrobatics#Tumbling|Acrobatics]] checks to move through squares you threaten without provoking attacks of opportunity.

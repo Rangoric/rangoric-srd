@@ -16,6 +16,6 @@ Your adulation of death not only shields you from your fears, it allows you to f
 
 **Prerequisites**: Wis 19, [[rangoric-srd/feats/Deadhand Style|Deadhand Style]], [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]], [[rangoric-srd/skills/Theology|Theology]] 6 ranks, [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] class feature, nongood alignment.
 
-**Benefit**: While using Deadhand Style with at least 1 point in your ki pool, your bonus on saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] effects increases to +4, and the penalty creatures take on Intimidation checks against you increases to –8.
+**Benefit**: While using Deadhand Style with at least 1 point in your ki pool, your bonus on saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] effects increases to +4, and the DC of Intimidation checks against you increases by 8 instead.
 
 Additionally, if an enemy targets you with a fear effect, you can spend 1 point from your ki pool as an immediate action to gain a number of [[rangoric-srd/combat/Injury and Death#Temporary Hit Points|temporary hit points]] equal to twice your Hit Dice.
