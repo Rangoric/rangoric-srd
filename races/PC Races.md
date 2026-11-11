@@ -25,6 +25,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Dwarf|Dwarf]]
 - [[rangoric-srd/races/Elf|Elf]]
 - [[rangoric-srd/races/Fetchling|Fetchling]]
+- [[rangoric-srd/races/Gillman|Gillman]]
 - [[rangoric-srd/races/Gnome|Gnome]]
 - [[rangoric-srd/races/Goblin|Goblin]]
 - [[rangoric-srd/races/Half-Elf|Half-Elf]]
