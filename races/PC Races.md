@@ -48,6 +48,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Tiefling|Tiefling]]
 - [[rangoric-srd/races/Undine|Undine]]
 - [[rangoric-srd/races/Vanara|Vanara]]
+- [[rangoric-srd/races/Vishkanya|Vishkanya]]
 
 ##### Race and Languages
 

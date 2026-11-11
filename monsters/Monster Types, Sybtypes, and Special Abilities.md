@@ -910,7 +910,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
   - Vermin breathe, eat, and sleep.
 
-**Vishkanya Subtype**: A humanoid subtype for vishkanyas. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vishkanya
+**Vishkanya Subtype**: A humanoid subtype for [[rangoric-srd/races/Vishkanya|vishkanyas]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vishkanya
 
 **Vulnerability to Energy**: Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^vulnerability-to-energy
 
