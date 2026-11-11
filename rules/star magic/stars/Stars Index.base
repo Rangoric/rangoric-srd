@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/rules/star magic/stars")
+views:
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.aspect
+      - note.range
+      - note.duration
+      - note.saving-throw
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC

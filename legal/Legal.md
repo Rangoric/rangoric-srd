@@ -20,7 +20,7 @@ The Open Game License for the [[Rangoric SRD]]. Section 15 combines the copyrigh
 
 ## Product Identity in the sources
 
-What Wizards, Paizo and Bastion Press declare as Product Identity, and the names to watch for, are in [[rangoric-srd/legal/Source Product Identity|Source Product Identity]].
+What Wizards, Paizo, Bastion Press and Mongoose Publishing declare as Product Identity, and the names to watch for, are in [[rangoric-srd/legal/Source Product Identity|Source Product Identity]].
 
 ##### OPEN GAME LICENSE Version 1.0a
 
@@ -57,6 +57,8 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 15. **COPYRIGHT NOTICE**
 
 ###### Open Game License and System Reference Documents
+
+D20 System Rules & Content Copyright 2000, Wizards of the Coast, Inc.; Authors Jonathan Tweet, Monte Cook, Skip Williams, based on original material by E. Gary Gygax and Dave Arneson.
 
 Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 
@@ -2864,6 +2866,8 @@ Midgard Bestiary for Pathfinder RPG © 2012 Open Design LLC; Authors: Adam Daigl
 
 Monte Cook's Arcana Unearthed. © 2003, Monte J. Cook.
 
+Open game content from Encyclopaedia Arcane - Star Magic copyright 2002, Mongoose Publishing.
+
 Path of the Magi. © 2002 Citizen Games/Troll Lord Games; Authors: Mike McArtor, W. Jason Peck, Jeff Quick, and Sean K Reynolds.
 
 Plot & Poison © 2002, Green Ronin Publishing, LLC; Author: Matthew Sernett.
@@ -2893,3 +2897,4 @@ Sources were processed in this order, and a line already listed by an earlier so
 | Bestiary 6 | raw `bestiary6-15.txt` (from d20pfsrd.com, Bestiary 6 source page) | 1 | 1 |
 | Starfinder (Foundry) | raw `foundry-starfinder.zip` → `OGL` | 19 | 17 |
 | Starfinder (Archives of Nethys) | raw `Archives of Nethys_ Starfinder RPG Database - Licenses.html` (saved as `aonsrd-15.txt`) | 108 | 93 |
+| Encyclopaedia Arcane: Star Magic | raw `11 Rules Summary.md`, p. 64 (OGL v 1.0, D20 System Rules & Content, the book) | 3 | 2 |
