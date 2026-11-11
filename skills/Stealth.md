@@ -36,7 +36,7 @@ Noisy surfaces, such as bogs or undergrowth, are tough to move silently across. 
 
 *Sniping*: If you’ve already successfully used Stealth at least 10 feet from your target, you can make one ranged attack, then immediately use Stealth again. You take a –20 penalty on your Stealth check to conceal yourself after the shot.
 
-*Creating a Diversion to Hide*: You can use [[rangoric-srd/skills/Deception|Deception]] to help you hide. A successful Deception check can give you the momentary diversion you need to attempt a Stealth check while people are aware of you.
+*Creating a Diversion to Hide*: You can use [[rangoric-srd/skills/Deception|Deception]] to help you hide. A successful Deception check can give you the momentary diversion you need to attempt a Stealth check while people are aware of you. This usage does not provoke an attack of opportunity. ^creating-a-diversion
 
 **Action**: Usually none. Normally, you make a Stealth check as part of movement or other activity, so it doesn’t take a separate action. However, using Stealth immediately after a ranged attack (see Sniping, above) is a move action.
 

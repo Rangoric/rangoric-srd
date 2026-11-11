@@ -73,7 +73,7 @@ Tieflings are sneaky, subtle, and generally conniving. They prefer to strike fro
 
 **Darkness (Sp)**: A tiefling can use [[rangoric-srd/spells/Darkness|darkness]] once per day (caster level equal to class levels).
 
-**Skills**: A tiefling has a +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
+**Skills**: Tieflings have the [[rangoric-srd/races/Tiefling|tiefling]] race's racial bonuses on skill checks.
 
 The tiefling warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

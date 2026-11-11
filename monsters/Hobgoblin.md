@@ -73,7 +73,7 @@ Most hobgoblins encountered outside their homes are warriors; the information in
 
 These creatures have a strong grasp of strategy and tactics and are capable of carrying out sophisticated battle plans. Under the leadership of a skilled strategist or tactician, their discipline can prove a deciding factor. Hobgoblins hate elves and attack them first, in preference to other opponents.
 
-**Skills**: Hobgoblins have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+**Skills**: Hobgoblins have the [[rangoric-srd/races/Hobgoblin|hobgoblin]] race's racial bonuses on skill checks.
 
 The hobgoblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

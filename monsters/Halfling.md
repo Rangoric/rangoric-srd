@@ -17,9 +17,9 @@ full-attack: "Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/
 space-reach: "5 ft./5 ft."
 special-attacks: "Halfling traits"
 special-qualities: "Halfling traits"
-saves: "Fort +4, Ref +2, Will +0"
-abilities: "Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8"
-skills: "Athletics +4 (–2 jumping), Perception +5, Stealth +5"
+saves: "Fort +4, Ref +2, Will +1"
+abilities: "Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8"
+skills: "Athletics +4 (–2 jumping), Perception +6, Stealth +5"
 skill-ranks: "Athletics 1, Perception 1, Stealth 0"
 feats: "Weapon Focus (longsword)"
 environment: "Warm plains"
@@ -51,9 +51,9 @@ tags: [rangoric, rangoric/monster]
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Halfling traits
   - **Special Qualities**: Halfling traits
-  - **Saves**: Fort +4, Ref +2, Will +0
-  - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (–2 jumping), [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
+  - **Saves**: Fort +4, Ref +2, Will +1
+  - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (–2 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
   - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
   - **Environment**: Warm plains  
     (Deep halfling: Warm hills)  
@@ -75,25 +75,7 @@ Most halflings encountered outside their home are warriors; the information in t
 
 Halflings prefer to fight defensively, usually hiding and launching ranged attacks as the foe approaches. Their tactics are very much like those of elves but place more emphasis on cover and concealment and less on mobility.
 
-**Halfling Traits (Ex)**: Halflings possess the following racial traits.
-
-  - \+2 Dexterity, –2 Strength.
-
-  - Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
-
-  - A halfling’s base land speed is 20 feet.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
-
-  - \+1 racial bonus on all saving throws.
-
-  - \+2 morale bonus on saving throws against fear. This bonus stacks with the halfling’s +1 bonus on saving throws in general.
-
-  - \+1 racial bonus on attack rolls with thrown weapons and slings.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-  - Automatic Languages: Common, Halfling. Bonus Languages: Dwarven, Elven, Gnome, Goblin, Orc.
+**Halfling Traits (Ex)**: Halflings have the racial traits of the [[rangoric-srd/races/Halfling|halfling]] race.
 
 The halfling warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
@@ -105,11 +87,7 @@ The information above is for the lightfoot halfling, the most common halfling va
 
 Tallfellows are somewhat rare among halfling folk. Tallfellows are 4 feet tall or more and weigh between 30 and 35 pounds. They generally speak Elven in addition to Common and Halfling.
 
-**Tallfellow Traits (Ex)**: These traits are in addition to the lightfoot halfling traits, except where noted.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Perception|Perception]] checks. Like an elf, a tallfellow who merely passes within 5 feet of a secret or concealed door is entitled to an Investigation check as though actively looking for it. This trait replaces the lightfoot’s +2 bonus on Perception checks.
-
-  - Tallfellows are less athletic than lightfoot halflings and do not have a racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Tallfellows are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfling race]], which has their traits.
 
 #### Deep Halfling
 
@@ -117,12 +95,4 @@ These halflings are shorter and stockier than the more common lightfeet.
 
 Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep halflings speak Dwarven fluently.
 
-**Deep Halfling Traits (Ex)**: These traits are in addition to the lightfoot halfling traits, except where noted.
-
-  - Darkvision out to 60 feet.
-
-  - Stonecunning: Like dwarves, deep halflings have a +2 racial bonus on checks to notice unusual stonework. Something that isn’t stone but that is disguised as stone also counts as unusual stonework. A deep halfling who merely comes within 10 feet of unusual stonework can make a check as though actively searching and can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find stonework traps as a rogue can. A deep halfling can also intuit depth, sensing the approximate distance underground as naturally as a human can sense which way is up.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] checks and [[rangoric-srd/skills/Craft|Craft]] checks that are related to stone or metal.
-
-  - Deep halflings are less athletic than lightfoot halflings and do not have a racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Deep halflings are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfling race]], which has their traits.

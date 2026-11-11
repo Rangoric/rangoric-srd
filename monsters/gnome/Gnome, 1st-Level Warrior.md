@@ -19,7 +19,7 @@ space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Gnome traits"
 saves: "Fort +4, Ref +0, Will –1"
-abilities: "Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 8"
+abilities: "Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 10"
 skills: "Perception +2, Stealth +4"
 skill-ranks: "Perception 1, Stealth 1"
 feats: "Weapon Focus (light crossbow)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Attacks**: —
   - **Special Qualities**: Gnome traits
   - **Saves**: Fort +4, Ref +0, Will –1
-  - **Abilities**: Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 8
+  - **Abilities**: Str 11, Dex 11, Con 14, Int 10, Wis 9, Cha 10
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +4
   - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)
   - **Environment**: Temperate hills (Forest gnomes: Temperate forests)
