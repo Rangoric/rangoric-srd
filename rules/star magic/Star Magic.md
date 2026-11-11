@@ -110,10 +110,41 @@ Constellations are never ascendant or descendant: they call the same in every se
 
 | Season | Ascendant (+1 caster level) | Descendant (−1 caster level) |
 | --- | --- | --- |
-| Spring | Hope, Life, Oaths, Peril, Thunder, Water | Confusion, Death, Freedom, Hate, Shadow |
-| Summer | Compassion, Fire, Light, Protection, Revelation, Wind | Concealment, Darkness, Decay, Destruction, Frost, Justice, Silence |
-| Autumn | Confusion, Death, Freedom, Hate, Shadow | Hope, Life, Oaths, Peril, Thunder, Water |
-| Winter | Concealment, Darkness, Decay, Destruction, Frost, Justice, Silence | Compassion, Fire, Light, Protection, Revelation, Wind |
+| Spring | [[rangoric-srd/rules/star magic/stars/Star of Hope|Hope]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Peril|Peril]], [[rangoric-srd/rules/star magic/stars/Star of Thunder|Thunder]], [[rangoric-srd/rules/star magic/stars/Star of Water|Water]] | [[rangoric-srd/rules/star magic/stars/Star of Confusion|Confusion]], [[rangoric-srd/rules/star magic/stars/Star of Death|Death]], [[rangoric-srd/rules/star magic/stars/Star of Freedom|Freedom]], [[rangoric-srd/rules/star magic/stars/Star of Hate|Hate]], [[rangoric-srd/rules/star magic/stars/Star of Shadow|Shadow]] |
+| Summer | [[rangoric-srd/rules/star magic/stars/Star of Compassion|Compassion]], [[rangoric-srd/rules/star magic/stars/Star of Fire|Fire]], [[rangoric-srd/rules/star magic/stars/Star of Light|Light]], [[rangoric-srd/rules/star magic/stars/Star of Protection|Protection]], [[rangoric-srd/rules/star magic/stars/Star of Revelation|Revelation]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]] | [[rangoric-srd/rules/star magic/stars/Star of Concealment|Concealment]], [[rangoric-srd/rules/star magic/stars/Star of Darkness|Darkness]], [[rangoric-srd/rules/star magic/stars/Star of Decay|Decay]], [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Frost|Frost]], [[rangoric-srd/rules/star magic/stars/Star of Justice|Justice]], [[rangoric-srd/rules/star magic/stars/Star of Silence|Silence]] |
+| Autumn | [[rangoric-srd/rules/star magic/stars/Star of Confusion|Confusion]], [[rangoric-srd/rules/star magic/stars/Star of Death|Death]], [[rangoric-srd/rules/star magic/stars/Star of Freedom|Freedom]], [[rangoric-srd/rules/star magic/stars/Star of Hate|Hate]], [[rangoric-srd/rules/star magic/stars/Star of Shadow|Shadow]] | [[rangoric-srd/rules/star magic/stars/Star of Hope|Hope]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Peril|Peril]], [[rangoric-srd/rules/star magic/stars/Star of Thunder|Thunder]], [[rangoric-srd/rules/star magic/stars/Star of Water|Water]] |
+| Winter | [[rangoric-srd/rules/star magic/stars/Star of Concealment|Concealment]], [[rangoric-srd/rules/star magic/stars/Star of Darkness|Darkness]], [[rangoric-srd/rules/star magic/stars/Star of Decay|Decay]], [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Frost|Frost]], [[rangoric-srd/rules/star magic/stars/Star of Justice|Justice]], [[rangoric-srd/rules/star magic/stars/Star of Silence|Silence]] | [[rangoric-srd/rules/star magic/stars/Star of Compassion|Compassion]], [[rangoric-srd/rules/star magic/stars/Star of Fire|Fire]], [[rangoric-srd/rules/star magic/stars/Star of Light|Light]], [[rangoric-srd/rules/star magic/stars/Star of Protection|Protection]], [[rangoric-srd/rules/star magic/stars/Star of Revelation|Revelation]], [[rangoric-srd/rules/star magic/stars/Star of Wind|Wind]] |
+
+## Stars ^stars
+
+The 24 known stars, one note each in `stars` (the [[rangoric-srd/rules/star magic/stars/Stars Index.base|Stars Index]] lists them with their stats).
+
+| Star | Ascendant | Descendant |
+| --- | --- | --- |
+| [[rangoric-srd/rules/star magic/stars/Star of Compassion|Star of Compassion]] | Summer | Winter |
+| [[rangoric-srd/rules/star magic/stars/Star of Concealment|Star of Concealment]] | Winter | Summer |
+| [[rangoric-srd/rules/star magic/stars/Star of Confusion|Star of Confusion]] | Autumn | Spring |
+| [[rangoric-srd/rules/star magic/stars/Star of Darkness|Star of Darkness]] | Winter | Summer |
+| [[rangoric-srd/rules/star magic/stars/Star of Death|Star of Death]] | Autumn | Spring |
+| [[rangoric-srd/rules/star magic/stars/Star of Decay|Star of Decay]] | Winter | Summer |
+| [[rangoric-srd/rules/star magic/stars/Star of Destruction|Star of Destruction]] | Winter | Summer |
+| [[rangoric-srd/rules/star magic/stars/Star of Fire|Star of Fire]] | Summer | Winter |
+| [[rangoric-srd/rules/star magic/stars/Star of Freedom|Star of Freedom]] | Autumn | Spring |
+| [[rangoric-srd/rules/star magic/stars/Star of Frost|Star of Frost]] | Winter | Summer |
+| [[rangoric-srd/rules/star magic/stars/Star of Hate|Star of Hate]] | Autumn | Spring |
+| [[rangoric-srd/rules/star magic/stars/Star of Hope|Star of Hope]] | Spring | Autumn |
+| [[rangoric-srd/rules/star magic/stars/Star of Justice|Star of Justice]] | Winter | Summer |
+| [[rangoric-srd/rules/star magic/stars/Star of Life|Star of Life]] | Spring | Autumn |
+| [[rangoric-srd/rules/star magic/stars/Star of Light|Star of Light]] | Summer | Winter |
+| [[rangoric-srd/rules/star magic/stars/Star of Oaths|Star of Oaths]] | Spring | Autumn |
+| [[rangoric-srd/rules/star magic/stars/Star of Peril|Star of Peril]] | Spring | Autumn |
+| [[rangoric-srd/rules/star magic/stars/Star of Protection|Star of Protection]] | Summer | Winter |
+| [[rangoric-srd/rules/star magic/stars/Star of Revelation|Star of Revelation]] | Summer | Winter |
+| [[rangoric-srd/rules/star magic/stars/Star of Shadow|Star of Shadow]] | Autumn | Spring |
+| [[rangoric-srd/rules/star magic/stars/Star of Silence|Star of Silence]] | Winter | Summer |
+| [[rangoric-srd/rules/star magic/stars/Star of Thunder|Star of Thunder]] | Spring | Autumn |
+| [[rangoric-srd/rules/star magic/stars/Star of Water|Star of Water]] | Spring | Autumn |
+| [[rangoric-srd/rules/star magic/stars/Star of Wind|Star of Wind]] | Summer | Winter |
 
 ## New Stars and Constellations
 
