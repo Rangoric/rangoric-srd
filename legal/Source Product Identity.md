@@ -38,6 +38,12 @@ From the PRD license page (raw `legacy prd unchained/OGL.html`). Paizo's books u
 
 > The entire contents of ***Spells & Magic v3.0*** is considered Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and other graphic elements are Product Identity and owned solely by Bastion Press, Inc.
 
+### Mongoose Publishing
+
+> *Encyclopaedia Arcane - Star Magic* is ©2002 Mongoose Publishing. All rights reserved. Reproduction of non-Open Game Content of this work by any means without the written permission of the publisher is expressly forbidden. […] All game stats and pages so designated are presented as Open Game Content. All other significant characters, names, places, items, art and text herein are copyrighted by Mongoose Publishing. All rights reserved.
+
+This is **narrower than Bastion's or Paizo's**: no pages are marked as designated, so only the game stats are open. The Rangoric SRD takes the mechanics only and writes every star magic note in its own words (decided 2026-11-10, [[Star Magic]]). The star and constellation names stay as the game terms. Left out: the diary fiction and its characters, "Places where Magi Gather", the Designer's Notes, the myths in the star and constellation descriptions, and the setting calendar's day names.
+
 ### Other notices
 
 - **Foundry PF1 modules** (`pf1-content`, `pf1-statblock-library`): include Paizo's Community Use Policy notice (`Legal.txt`). It covers Paizo's trademarks and setting, not the OGL mechanics.
@@ -50,11 +56,15 @@ Names to search for when reviewing a file. Not complete; add to it whenever a re
 
 ### Trademarks and product names
 
-Dungeons & Dragons, D&D, Dungeon Master, Monster Manual, d20 System, Wizards of the Coast, Pathfinder, Starfinder, Paizo, Pathfinder Society, Starfinder Society, Golarion, Inner Sea, Absalom, Pact Worlds, Bastion Press, Oathbound
+Dungeons & Dragons, D&D, Dungeon Master, Monster Manual, d20 System, Wizards of the Coast, Pathfinder, Starfinder, Paizo, Pathfinder Society, Starfinder Society, Golarion, Inner Sea, Absalom, Pact Worlds, Bastion Press, Oathbound, Mongoose Publishing, Encyclopaedia Arcane
 
 ### Wizards of the Coast names
 
 Dungeons & Dragons, D&D, Dungeon Master, Monster Manual, d20 System, Wizards of the Coast, d20 (when used as a trademark), Forgotten Realms, Faerûn, character names (including those used in the names of spells or items), places, Red Wizard of Thay, Heroic Domains of Ysgard, Ever-Changing Chaos of Limbo, Windswept Depths of Pandemonium, Infinite Layers of the Abyss, Tarterian Depths of Carceri, Gray Waste of Hades, Bleak Eternity of Gehenna, Nine Hells of Baator, Infernal Battlefield of Acheron, Clockwork Nirvana of Mechanus, Peaceable Kingdoms of Arcadia, Seven Mounting Heavens of Celestia, Twin Paradises of Bytopia, Blessed Fields of Elysium, Wilderness of the Beastlands, Olympian Glades of Arborea, Concordant Domain of the Outlands, Sigil, Lady of Pain, Book of Exalted Deeds, Book of Vile Darkness, beholder, gauth, carrion crawler, tanar’ri, baatezu, displacer beast, githyanki, githzerai, mind flayer, illithid, umber hulk, yuan-ti
+
+### Encyclopaedia Arcane: Star Magic
+
+The setting calendar's day names (Marday, Sorday, Felday, Kershday) and its dated diary entries; the diary's characters (Alisander, Tanith, Sahure) and the examples' names (Manus, Jessica, Brand, Amar); the "High Lord" and the "Eye of Heaven"; the locust-men and their desert camp
 
 ### Starfinder setting (from the removed `setting` folder)
 

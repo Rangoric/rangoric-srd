@@ -26,6 +26,7 @@ A Lore about one kind of creature (dragons, undead, the giants of one range) can
 **Example Topics**:
 
 - *Lore (fey)*: fey creatures and their courts, customs, bargains and weaknesses, the fey realm, and the places where it touches the world. A DC 15 check tells you whether a place is apt to be used as a crossing into the fey realm. It identifies fey, as Nature does.
+- *Lore (astrology)*: the movements of the stars and constellations, the seasons in which each star rises and sets, birth signs, and reading the sky for good and bad days. It's what the astrologers of [[rangoric-srd/rules/star magic/Star Magic|star magic]] study.
 - *Lore (folk tales)*: the folklore and myths of one people or region, and where its uncommon place names come from.
 
 **Special**: Lore is a Background skill and a Knowledge skill (see [[rangoric-srd/skills/Skills Overview#^core-and-background|Core and Background Skills]]), so it can be bought with background points, and it counts wherever a rule says "any Knowledge skill".

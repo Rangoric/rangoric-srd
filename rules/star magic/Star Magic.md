@@ -1,0 +1,120 @@
+---
+srd-type: "rules"
+section: "Star Magic"
+based-on:
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Mechanics of Star Magic|Mechanics of Star Magic (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Star Magic Mechanics|Star Magic Mechanics (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Wizardly Science|Wizardly Science (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Sorcerous Channelling|Sorcerous Channelling (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Bardic Stargazing|Bardic Stargazing (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Other Arcane Casters|Other Arcane Casters (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Using the Calendar|Using the Calendar (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/rules/Discovering Stars and Constellations|Discovering Stars and Constellations (Star Magic)]]"
+  - "[[individual books/Encyclopaedia Arcane Star Magic/tables/Table p60 Season|Season table (Star Magic)]]"
+status: draft
+change: new
+pi-review: 2026-11-10
+tags: [rangoric, rangoric/rules]
+---
+
+# Star Magic
+
+Star magic is a school of arcane magic made of **stars** and **constellations** instead of ordinary spells. Anyone who uses it is a **star magus** (plural **star magi**), whatever their class. Stars and constellations are learned, recorded, prepared and cast like spells, except where this note says otherwise.
+
+## Terms
+
+- **Star**: one source of power with one effect, used as a 1st-level spell. There are no 0-level stars. Stars are the building blocks of constellations.
+- **Constellation**: two to six stars called together for an effect none of them has alone. A constellation is a 3rd-, 5th-, 7th- or 9th-level spell, depending on how many stars it has.
+- **Call**: casting a star or constellation is *calling* it.
+- **Call level**: the level of the spell slot used to call a star or constellation. Each has a **minimum call level**, the lowest slot that can call it.
+- **Overcalling**: calling a star or constellation with a slot above its minimum call level. Each one says what a higher call level does. Overcalling doesn't change the casting time.
+- **Aspect**: where a star stands in the sky in the current season: ascendant, on the horizon, or descendant (see [[#Seasons]]).
+
+## Minimum Call Levels ^minimum-call-level
+
+Every star's minimum call level is 1st. A constellation's comes from the number of its stars:
+
+| Stars | Minimum call level |
+| --- | --- |
+| 2 | 3rd |
+| 3 | 5th |
+| 4 | 7th |
+| 5 or 6 | 9th |
+
+## Who Can Call Stars ^who-can-call
+
+Any arcane spellcaster can learn star magic, and stars and constellations count as part of the caster's spell list at their minimum call level. Divine spellcasters can't learn it. How a caster learns and calls stars depends on how the class casts its spells:
+
+- **Prepared arcane casters** (the wizard, witch and arcanist) follow the wizard's rule, [[#Wizardly Science]].
+- **Spontaneous arcane casters** (the sorcerer and bard) follow the sorcerer's rule, [[#Sorcerous Calling]].
+- **Casters whose spells stop at 6th level or lower** (the bard, skald and bloodrager) also follow the bard's rule, [[#Bardic Stargazing]].
+
+### Wizardly Science ^wizardly-science
+
+A prepared caster learns stars and constellations as it learns any other spell, records them in its spellbook (or the like) and prepares them ahead of time. The level of the slot a star or constellation is prepared in is its call level, so overcalling is decided when preparing. A constellation can be recorded before the caster is able to call it.
+
+To prepare a constellation, the caster needs every one of its stars in its spellbook, though none of them has to be prepared. If the book holding one of those stars is out of reach, the constellation can't be prepared.
+
+An arcanist learns and prepares stars this way, and since she casts from her prepared spells with her slots, she chooses the call level when she casts, as a sorcerer does.
+
+**Star magic as a school.** Star magic is an arcane school of its own for a wizard's [[rangoric-srd/classes/Wizard#^wizard-arcane-school-feature|arcane school]]:
+
+- A universalist can learn stars and constellations.
+- A wizard who specializes in star magic gains the specialist's extra slot at each spell level (only for a star or constellation) and the specialist's bonus on checks to learn stars and constellations, but no school powers. Necromancy must be one of her opposition schools.
+- A wizard who specializes in any other school can't learn stars or constellations.
+
+### Sorcerous Calling ^sorcerous-calling
+
+A spontaneous caster learns a star or constellation by filling a spells-known slot of at least its minimum call level with it: a star can go in a 1st-level slot or any higher one, and a constellation in a slot of its own level or higher. Most such star magi put stars in their 1st- and 2nd-level slots and keep the 3rd and higher ones for constellations.
+
+A known star or constellation can be called with any spell slot of at least its minimum call level, choosing the call level when calling. A constellation can be learned only once all its stars are known, and if the caster loses one of its stars, even for a while, the constellation can't be called until the star is back.
+
+### Bardic Stargazing ^bardic-stargazing
+
+A caster whose spells stop at 6th level or lower learns and calls stars by the rule for how it casts, but can never call higher than its own highest spell level. The 7th- and 9th-level constellations are out of its reach.
+
+### Other Arcane Casters ^other-arcane-casters
+
+A prestige class keeps a character's star magic growing only if its levels add to an arcane class's spells per day and caster level, as the [[rangoric-srd/prestige-classes/Loremaster|loremaster]]'s do. Those levels count for calling just as they do for spells.
+
+## Calling Stars ^calling-stars
+
+Calling a star or constellation works like casting a spell, unless its own note says otherwise:
+
+- It takes a standard action and provokes attacks of opportunity.
+- It has verbal and somatic components and never a material component. A caster who can't speak or can't move her hands can't call, though [[rangoric-srd/feats/Still Spell|Still Spell]] and [[rangoric-srd/feats/Silent Spell|Silent Spell]] work on calling as they do on spells.
+- Calling while distracted takes a [[rangoric-srd/rules/Concentration (Check)|caster level check]], as casting a spell does.
+- A constellation can be called only by a caster who knows every one of its stars; calling it doesn't spend or need the stars themselves.
+
+### Saves, Spell Resistance and Damage
+
+- The save DC of a star or constellation is that of a spell of its call level: a star called with a 4th-level slot has a 4th-level spell's DC.
+- Spell resistance applies as it does to spells, and [[rangoric-srd/feats/Spell Penetration|Spell Penetration]] helps against it.
+- Damage has the type its note gives, and resistances to that type apply.
+
+### Feats and Star Magic
+
+- Metamagic feats work on stars and constellations. The feat's added levels raise the minimum call level; they don't count as overcalling. Only call levels above that new minimum give a higher call level's benefits.
+- [[rangoric-srd/feats/Heighten Spell|Heighten Spell]] can't be used on stars or constellations, since call levels already do what it does.
+- [[rangoric-srd/feats/Spell Focus|Spell Focus]] can choose star magic as its school, and [[rangoric-srd/feats/Spell Mastery|Spell Mastery]] can choose stars and constellations.
+
+## Seasons ^seasons
+
+The stars rise and set over the year. Each star is **ascendant** in one season, **descendant** in the opposite season, and **on the horizon** in the other two. Its note gives its aspect.
+
+- **Ascendant**: the caster's effective caster level is 1 higher when calling the star.
+- **On the horizon**: no change.
+- **Descendant**: the caster's effective caster level is 1 lower when calling the star, to a minimum of 1st.
+
+Constellations are never ascendant or descendant: they call the same in every season. Star magi keep a calendar, and the GM tracks the season.
+
+| Season | Ascendant (+1 caster level) | Descendant (−1 caster level) |
+| --- | --- | --- |
+| Spring | Hope, Life, Oaths, Peril, Thunder, Water | Confusion, Death, Freedom, Hate, Shadow |
+| Summer | Compassion, Fire, Light, Protection, Revelation, Wind | Concealment, Darkness, Decay, Destruction, Frost, Justice, Silence |
+| Autumn | Confusion, Death, Freedom, Hate, Shadow | Hope, Life, Oaths, Peril, Thunder, Water |
+| Winter | Concealment, Darkness, Decay, Destruction, Frost, Justice, Silence | Compassion, Fire, Light, Protection, Revelation, Wind |
+
+## New Stars and Constellations
+
+New stars and constellations are made as new spells are, with these limits. A star is as strong as a 1st-level spell (no more than 5 damage dice against one creature) and says what each higher call level does: usually range, area and duration grow with caster level, while bonuses and damage grow with call level. A constellation is as strong as other spells of its minimum call level, its range, area, duration and effect grow with caster level, and overcalling adds to or changes its effect. A constellation can allow only some call levels (say 4th, 7th and 9th, but not 5th), and if so, it says which.
