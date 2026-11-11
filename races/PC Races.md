@@ -19,6 +19,7 @@ tags: [rangoric, rangoric/overview]
 Each race has its own note:
 
 - [[rangoric-srd/races/Aasimar|Aasimar]]
+- [[rangoric-srd/races/Bogie|Bogie]]
 - [[rangoric-srd/races/Catfolk|Catfolk]]
 - [[rangoric-srd/races/Changeling|Changeling]]
 - [[rangoric-srd/races/Dhampir|Dhampir]]
@@ -26,6 +27,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Duergar|Duergar]]
 - [[rangoric-srd/races/Dwarf|Dwarf]]
 - [[rangoric-srd/races/Elf|Elf]]
+- [[rangoric-srd/races/Faerie|Faerie]]
 - [[rangoric-srd/races/Feeorin|Feeorin]]
 - [[rangoric-srd/races/Fetchling|Fetchling]]
 - [[rangoric-srd/races/Gillman|Gillman]]
@@ -48,6 +50,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Orc|Orc]]
 - [[rangoric-srd/races/Oread|Oread]]
 - [[rangoric-srd/races/Ratfolk|Ratfolk]]
+- [[rangoric-srd/races/Sprite|Sprite]]
 - [[rangoric-srd/races/Strix|Strix]]
 - [[rangoric-srd/races/Svirfneblin|Svirfneblin]]
 - [[rangoric-srd/races/Sylph|Sylph]]
