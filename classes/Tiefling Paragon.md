@@ -5,7 +5,7 @@ alignment: "Any"
 hit-die: "d8"
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
-race: "[[rangoric-srd/monsters/planetouched/Tiefling|tieflings]]"
+race: "[[rangoric-srd/races/Tiefling|tieflings]]"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"
 status: draft
@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class]
 
 ### Tiefling Paragon
 
-**Race**: only [[rangoric-srd/monsters/planetouched/Tiefling|tieflings]] can take levels in this class (for now based on the monster tiefling; their race comes with the other Pathfinder races). It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
+**Race**: only [[rangoric-srd/races/Tiefling|tieflings]] can take levels in this class. It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
 
 Tieflings are humans with traces of fiendish ancestry. Although tieflings are not as powerful or as potent as full-fledged half-fiends, their touch of fiendish blood does grant them significant bonuses to their physical and mental abilities as well as some minor resistances and spell-like abilities. Although a few tieflings manage to overcome their ancestry and remain good and trustworthy individuals, most tieflings follow the dark urges tugging at them, becoming selfish, cruel, and evil as they mature. Tiefling paragons, both good and evil, are those who most successfully come to terms with their family's history. The good ones see themselves as rising above their ancestry, while the evil ones embrace its power.
 

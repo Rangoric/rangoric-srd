@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/race]
 
 ## Half-Elves
 
+Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elf|elf]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^human|human]])
 Size: Medium
 Base Speed: 30ft
 Perks:

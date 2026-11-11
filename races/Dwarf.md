@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/race]
 
 ## Dwarves
 
+Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dwarf|dwarf]])
 Size: Medium
 Base Speed: 20ft
 Perks:

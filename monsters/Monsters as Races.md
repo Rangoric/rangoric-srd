@@ -19,7 +19,7 @@ While every monster has the statistics that a player would need to play the crea
 
 Characters with more than 1 Hit Die because of their race do not get a feat for their first class level as members of the common races do. Instead, they have already received a feat for their first Hit Die because of race.
 
-**Level Adjustment and Effective Character Level**: To determine the effective character level (ECL) of a monster character, add its level adjustment to its racial Hit Dice and character class levels.
+**Level Adjustment and Effective Character Level**: To determine the effective character level (ECL) of a monster character, add its level adjustment to its racial Hit Dice and character class levels. ^level-adjustment
 
 Use ECL instead of character level to determine how many experience points a monster character needs to reach its next level. Also use ECL to determine starting wealth for a monster character.
 

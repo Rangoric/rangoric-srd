@@ -69,7 +69,7 @@ Topic tags go in the same `tags` list, lowercase and with no prefix, such as `co
 - [ ] Resolve the 11 notes with `pi-review: flagged` (their `pi-flags` property says why)
 - [ ] Do feats, class features, talents and Starfinder theme features become one `talents` pool?
 - [ ] Do spells, psionic powers and monster special attacks become one `abilities` format?
-- [ ] Races and creature types: one `ancestries` folder, or separate?
+- [x] Races and creature types: one `ancestries` folder, or separate? Separate: races in `races`, creature types in `monsters` (2026-11-09)
 - [ ] Which edition's numbers win by default when sources differ (3.5 or PF1)?
 
 ## Related

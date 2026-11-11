@@ -16,6 +16,7 @@ tags: [rangoric, rangoric/race]
 
 ## Half-Orcs
 
+Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^human|human]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^orc|orc]])
 Size: Medium
 Base Speed: 30ft
 Perks:
