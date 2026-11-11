@@ -10,13 +10,14 @@ critical: "x2"
 range-ft: 50
 weight-lb: 0
 damage-type: "Bludgeoning"
-ammunition: ["[[rangoric-srd/equipment/weapons/Sling Bullets|Sling Bullets]]"]
+ammunition: ["[[rangoric-srd/equipment/weapons/Sling Bullets|Sling Bullets]]", "[[rangoric-srd/equipment/weapons/Spiked Bullets|Spiked Bullets]]", "[[rangoric-srd/equipment/weapons/Sling Shuriken|Sling Shuriken]]", "[[rangoric-srd/equipment/weapons/Stun Stones|Stun Stones]]"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
-status: base
-change: copied
+  - "[[individual books/Arms & Armor v3.5/weapons/Sling|Sling (Arms & Armor)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/weapon]
+tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 ---
 
 # Sling

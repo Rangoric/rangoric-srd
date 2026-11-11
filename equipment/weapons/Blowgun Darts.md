@@ -7,6 +7,7 @@ cost-gp: 0.5
 quantity: 10
 based-on:
   - "[[path srd 3.5/items/weapons/Blowgun Darts|Blowgun Darts (PF1)]]"
+  - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: 2026-11-10

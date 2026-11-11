@@ -12,10 +12,11 @@ weight-lb: 6
 damage-type: "Slashing"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Eastern Armor and Weapons|Eastern Armor and Weapons (PF1)]]"
+  - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/weapon]
+tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades, eastern]
 ---
 
 # Katana

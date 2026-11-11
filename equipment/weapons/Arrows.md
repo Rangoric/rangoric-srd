@@ -8,6 +8,7 @@ weight-lb: 3
 quantity: 20
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapons/Arrow|Arrow (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -12,10 +12,11 @@ weight-lb: 1
 damage-type: "Bludgeoning"
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapons/Gauntlet|Gauntlet (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/weapon]
+tags: [rangoric, rangoric/weapon, weapon-group/close]
 ---
 
 # Gauntlet

@@ -15,7 +15,7 @@ based-on:
 status: draft
 change: modified
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/weapon]
+tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 ---
 
 # Elven Curve Blade

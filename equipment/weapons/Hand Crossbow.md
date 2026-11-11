@@ -14,10 +14,11 @@ damage-type: "Piercing"
 ammunition: ["[[rangoric-srd/equipment/weapons/Hand Crossbow Bolts|Hand Crossbow Bolts]]"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapons/Crossbow, Hand|Crossbow, Hand (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/weapon]
+tags: [rangoric, rangoric/weapon, weapon-group/crossbows]
 ---
 
 # Hand Crossbow

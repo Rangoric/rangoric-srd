@@ -13,10 +13,11 @@ weight-lb: 1
 damage-type: "Bludgeoning"
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapons/Sai|Sai (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/weapon]
+tags: [rangoric, rangoric/weapon, weapon-group/monk, eastern]
 ---
 
 # Sai

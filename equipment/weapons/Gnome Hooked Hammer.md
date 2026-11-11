@@ -13,10 +13,11 @@ damage-type: "Bludgeoning and piercing"
 special: ["double"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapons/Hammer, Gnome Hooked|Hammer, Gnome Hooked (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/weapon]
+tags: [rangoric, rangoric/weapon, weapon-group/double]
 ---
 
 # Gnome Hooked Hammer
