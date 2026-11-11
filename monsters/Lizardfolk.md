@@ -76,28 +76,4 @@ Lizardfolk fight as unorganized individuals. They prefer frontal assaults and ma
 
 ### Lizardfolk as Characters
 
-Lizardfolk characters possess the following racial traits.
-
-  - \+2 Strength, +2 Constitution, –2 Intelligence.
-
-  - Medium size.
-
-  - A lizardfolk’s base land speed is 30 feet.
-
-  - Racial Hit Dice: A lizardfolk begins with two levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]], which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw bonuses of Fort +0, Ref +3, and Will +0.
-
-  - Racial Skills: A lizardfolk’s humanoid levels give it skill points equal to 2 x (2 + Int modifier, minimum 1). Its class skills are [[rangoric-srd/skills/Acrobatics|Acrobatics]] and [[rangoric-srd/skills/Athletics|Athletics]]. Lizardfolk have a +4 racial bonus on Acrobatics and Athletics checks.
-
-  - Racial Feats: A lizardfolk’s humanoid levels give it one feat.
-
-  - Weapon and Armor Proficiency: A lizardfolk is automatically proficient with simple weapons and shields.
-
-  - \+5 natural armor bonus.
-
-  - Natural Weapons: 2 claws (1d4) and bite (1d4).
-
-  - Special Qualities (see above): Hold breath.
-
-  - Automatic Languages: Common, Draconic. Bonus Languages: Aquan, Goblin, Gnoll, Orc.
-
-  - Level adjustment +1.
+Lizardfolk characters use the [[rangoric-srd/races/Lizardfolk|lizardfolk]] race, which has their racial traits and level adjustment.

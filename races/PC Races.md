@@ -38,6 +38,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Ifrit|Ifrit]]
 - [[rangoric-srd/races/Kitsune|Kitsune]]
 - [[rangoric-srd/races/Kobold|Kobold]]
+- [[rangoric-srd/races/Lizardfolk|Lizardfolk]]
 - [[rangoric-srd/races/Merfolk|Merfolk]]
 - [[rangoric-srd/races/Orc|Orc]]
 - [[rangoric-srd/races/Oread|Oread]]
