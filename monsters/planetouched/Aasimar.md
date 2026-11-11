@@ -81,24 +81,4 @@ The aasimar warrior presented here had the following ability scores before racia
 
 ## Aasimar as Characters
 
-Aasimar characters possess the following racial traits.
-
-  - \+2 Wisdom, +2 Charisma.
-
-  - Medium size.
-
-  - An aasimar’s base land speed is 30 feet.
-
-  - Darkvision: Aasimars can see in the dark up to 60 feet.
-
-  - Racial Skills: Aasimars have a +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-  - Racial Feats: An aasimar gains feats according to its class levels.
-
-  - Special Attacks (see above): [[rangoric-srd/spells/Daylight|Daylight]].
-
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to acid]] 5, cold 5, and electricity 5.
-
-  - Automatic Languages: Common, Celestial. Bonus Languages: Draconic, Dwarven, Elven, Gnome, Halfling,Sylvan.
-
-  - Level adjustment +1.
+Aasimar characters use the [[rangoric-srd/races/Aasimar|aasimar]] race, which has their racial traits, alternate racial traits and level adjustment.

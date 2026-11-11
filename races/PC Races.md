@@ -16,6 +16,7 @@ tags: [rangoric, rangoric/overview]
 
 Each race has its own note:
 
+- [[rangoric-srd/races/Aasimar|Aasimar]]
 - [[rangoric-srd/races/Dwarf|Dwarf]]
 - [[rangoric-srd/races/Elf|Elf]]
 - [[rangoric-srd/races/Gnome|Gnome]]
