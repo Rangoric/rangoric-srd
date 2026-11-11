@@ -18,7 +18,7 @@ It is the 752<sup>nd</sup> year since the Great Calving of the Blue Glacier as r
 
 **Regional Seat:** The Palace of Ice
 
-**Regent:** Old Man Winter
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Old Man Winter|Old Man Winter]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/The Holly King’s Workshop|The Holly King’s Workshop]], The Palace of Ice, The Blue Glacier
 

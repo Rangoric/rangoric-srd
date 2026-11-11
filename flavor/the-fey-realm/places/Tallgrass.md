@@ -21,7 +21,7 @@ Similar to the Fields of Gold, Tallgrass grows crops for the rest of FaerieLand.
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Summer|Land of Eternal Summer]]
 
-**Regent:** Pixie Queen Sharla
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Pixie Queen Sharla|Pixie Queen Sharla]]
 
 ***Legends & Lore***
 

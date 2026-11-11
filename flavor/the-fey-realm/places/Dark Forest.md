@@ -18,7 +18,7 @@ The Dark Forest is the lone island of evil and treachery in the Twilight Lands, 
 
 **Regional Seat:** n/a
 
-**Regent:** King Finvarra, Warden of the Dark Forest; Queen of Air and Darkness (former regent)
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/King Finvarra|King Finvarra]], Warden of the Dark Forest; [[rangoric-srd/flavor/the-fey-realm/personalities/The Queen of Air and Darkness|Queen of Air and Darkness]] (former regent)
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Baba Yaga’s Hut|Baba Yaga’s Hut]]
 

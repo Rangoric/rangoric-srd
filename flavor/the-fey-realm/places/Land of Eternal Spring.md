@@ -20,7 +20,7 @@ The Land of Eternal Spring is home to the Tuatha de Danann, a warlike [[rangoric
 
 **Regional Seat:** [[rangoric-srd/flavor/the-fey-realm/places/Market|Market]]
 
-**Regent:** The Faerie Queen Titania
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Titania|The Faerie Queen Titania]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Fey Hills|The Fey Hills]], [[rangoric-srd/flavor/the-fey-realm/places/Market|Market]]
 

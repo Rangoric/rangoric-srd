@@ -18,7 +18,7 @@ Surprisingly, the Shrouded Lands are even more mysterious than the lands of Betw
 
 **Regional Seat:** Unknown
 
-**Regent:** Queen of Air and Darkness
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Queen of Air and Darkness|Queen of Air and Darkness]]
 
 **Prominent Features:** Unknown
 

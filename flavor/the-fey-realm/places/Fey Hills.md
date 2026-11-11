@@ -19,7 +19,7 @@ Also known as the Hollow Hills, the Fey Hills are dotted with the homes of many 
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Spring|Land of Eternal Spring]]
 
-**Personalities:** The Faerie Queen Titania, King Oberon
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Titania|The Faerie Queen Titania]], [[rangoric-srd/flavor/the-fey-realm/personalities/King Oberon|King Oberon]]
 
 ***Legends & Lore***
 

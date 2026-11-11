@@ -18,7 +18,7 @@ To the north of the Sands of Time and the Fields of Gold lie the Badlands, a lan
 
 **Regional Seat:** None
 
-**Regent:** The Goblin King
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Goblin King|The Goblin King]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Bottomless Pit|Bottomless Pit]], [[rangoric-srd/flavor/the-fey-realm/places/Canyon Maze|the Canyon Maze]]
 

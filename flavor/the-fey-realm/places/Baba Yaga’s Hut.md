@@ -19,7 +19,7 @@ Baba Yaga frequents FaerieLand openly, unlike most malevolent creatures, and whe
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Dark Forest|The Dark Forest]]
 
-**Personalities:** Baba Yaga
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Baba Yaga|Baba Yaga]]
 
 ***Legends & Lore***
 

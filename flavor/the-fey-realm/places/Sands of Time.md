@@ -20,7 +20,7 @@ The only being who seems to have any control over the flow of the Sands of Time 
 
 **Regional Seat:** [[rangoric-srd/flavor/the-fey-realm/places/Dream|Dream]]
 
-**Regent:** The Sand Man
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Sand Man|The Sand Man]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Doorway of Sorrows|The Doorway of Sorrows]], [[rangoric-srd/flavor/the-fey-realm/places/Dream|Dream]]
 

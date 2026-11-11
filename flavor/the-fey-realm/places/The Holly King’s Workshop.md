@@ -21,7 +21,7 @@ The Holly King is vastly more approachable than Old Man Winter and far more reli
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Winter|Land of Eternal Winter]]
 
-**Personalities:** The Holly King
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Holly King|The Holly King]]
 
 ***Legends & Lore***
 

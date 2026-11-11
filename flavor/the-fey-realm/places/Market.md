@@ -21,7 +21,7 @@ While the location and ownership of a given establishment can change from time t
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Spring|Land of Eternal Spring]]
 
-**Personalities:** Sidhnaar DiCrystala, Master of Tolls
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Sidhnaar DiCrystala|Sidhnaar DiCrystala]], Master of Tolls
 
 ***Legends & Lore***
 

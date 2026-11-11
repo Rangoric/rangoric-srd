@@ -18,7 +18,7 @@ Considered a region by most fey due its vast size and geography, Between is the 
 
 **Regional Seat:** [[rangoric-srd/flavor/the-fey-realm/places/Shadow|Shadow]]
 
-**Regent:** The Queen of Air and Darkness
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Queen of Air and Darkness|The Queen of Air and Darkness]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/The Goblin Warrens|The Goblin Warrens]], [[rangoric-srd/flavor/the-fey-realm/places/Great Scar|The Great Scar]], [[rangoric-srd/flavor/the-fey-realm/places/Shadow|Shadow]], [[rangoric-srd/flavor/the-fey-realm/places/The Valley of Fire|The Valley of Fire]]
 

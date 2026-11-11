@@ -19,7 +19,7 @@ The Tree of Knowledge is in reality an enormous [[rangoric-srd/monsters/Treant|t
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Faerie Woods|Faerie Woods]]
 
-**Personalities:** King Eberelgolan; Queen Verenestra; the Tree-speaker
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/King Eberelgolan|King Eberelgolan]]; [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Verenestra|Queen Verenestra]]; the Tree-speaker
 
 ***Legends & Lore***
 

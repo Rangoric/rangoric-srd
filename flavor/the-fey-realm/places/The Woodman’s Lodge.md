@@ -19,7 +19,7 @@ The Woodman’s Lodge is an enormous, multistoried hunting lodge that appears to
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Autumn|Land of Eternal Autumn]]
 
-**Personalities:** King Finvarra
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/King Finvarra|King Finvarra]]
 
 ***Legends & Lore***
 

@@ -19,7 +19,7 @@ Dream is an enormous and equally fantastic structure that lies half buried in th
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Sands of Time|Sands of Time]]
 
-**Personalities:** The Sand Man
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Sand Man|The Sand Man]]
 
 ***Legends & Lore***
 

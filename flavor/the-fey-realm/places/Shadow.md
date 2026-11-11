@@ -21,7 +21,7 @@ Home to a myriad of fey who would rather be left alone, the difficulty in willfu
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]
 
-**Personalities:** The Queen of Air and Darkness
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Queen of Air and Darkness|The Queen of Air and Darkness]]
 
 ***Legends & Lore***
 

@@ -20,7 +20,7 @@ One of the few times hard labor exists within FaerieLand is the annual harvest w
 
 **Regional Seat:** n/a
 
-**Regent:** Puck
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Puck|Puck]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/The Millhouse|Millhouse Falls]]
 

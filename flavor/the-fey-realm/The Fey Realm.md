@@ -32,6 +32,7 @@ The world of FaerieLand is an infinitely large place governed by bizarre physica
 - [[rangoric-srd/flavor/the-fey-realm/Here, There, and Parts Between|Here, There, and Parts Between]]: the mortal worlds, FaerieLand, the Twilight Lands and Between.
 - [[rangoric-srd/flavor/the-fey-realm/Use of the Word Faerie|Use of the Word Faerie]]: *fey*, *fae* and *FaerieLand*.
 - [[rangoric-srd/flavor/the-fey-realm/Rulership of FaerieLand|Rulership of FaerieLand]]: the elected Faerie Queen of the Twilight Lands, the regional kings and queens, and the Queen of Air and Darkness in Between.
+- [[rangoric-srd/flavor/the-fey-realm/Time in FaerieLand|Time in FaerieLand]]: how the fey count days and years, the seasons, the festival calendar, and the sun, moon and stars.
 
 ## Lore of Faerie
 
@@ -97,3 +98,36 @@ Each region, with the sites in it:
 - [[rangoric-srd/flavor/the-fey-realm/places/The Shrouded Lands|The Shrouded Lands]]
 - [[rangoric-srd/flavor/the-fey-realm/places/Stormking Mountains|Stormking Mountains]]
 - [[rangoric-srd/flavor/the-fey-realm/places/The Twilight Lands|The Twilight Lands]]: [[rangoric-srd/flavor/the-fey-realm/places/The Great Stone Ring|The Great Stone Ring]]
+
+## Personalities of Faerie
+
+The best-known people of FaerieLand, each with a note in the `personalities` folder (their descriptions; the book's stat blocks stay out). The places they rule or are found in follow each name.
+
+### Wanderers
+
+There are a number of personalities that travel throughout the fey lands with no set home or regency. In fact, these could be among the first major characters most heroes and mortal travelers meet when walking the paths of FaerieLand and Between.
+
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Father Time|Father Time]]
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Green Man|Green Man]]
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Rumplestiltskin|Rumplestiltskin]]
+
+### Rulers and residents
+
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Baba Yaga|Baba Yaga]] ([[rangoric-srd/flavor/the-fey-realm/places/Baba Yaga’s Hut|Baba Yaga’s Hut]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Durbin Bristle|Durbin Bristle]] ([[rangoric-srd/flavor/the-fey-realm/places/The Hovel of Durbin|The Hovel of Durbin]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/The Goblin King|The Goblin King]] ([[rangoric-srd/flavor/the-fey-realm/places/Badlands|Badlands]], [[rangoric-srd/flavor/the-fey-realm/places/The Goblin Warrens|The Goblin Warrens]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/The Holly King|The Holly King]] ([[rangoric-srd/flavor/the-fey-realm/places/The Holly King’s Workshop|The Holly King’s Workshop]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Jack Frost|Jack Frost]]
+- [[rangoric-srd/flavor/the-fey-realm/personalities/King Eberelgolan|King Eberelgolan]] ([[rangoric-srd/flavor/the-fey-realm/places/Faerie Woods|Faerie Woods]], [[rangoric-srd/flavor/the-fey-realm/places/Tree of Knowledge|Tree of Knowledge]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/King Finvarra|King Finvarra]] ([[rangoric-srd/flavor/the-fey-realm/places/Dark Forest|Dark Forest]], [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Autumn|Land of Eternal Autumn]], [[rangoric-srd/flavor/the-fey-realm/places/The Woodman’s Lodge|The Woodman’s Lodge]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/King Oberon|King Oberon]] ([[rangoric-srd/flavor/the-fey-realm/places/Fey Hills|Fey Hills]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Old Man Winter|Old Man Winter]] ([[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Winter|Land of Eternal Winter]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Pixie Queen Sharla|Pixie Queen Sharla]] ([[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Summer|Land of Eternal Summer]], [[rangoric-srd/flavor/the-fey-realm/places/Tallgrass|Tallgrass]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Puck|Puck]] ([[rangoric-srd/flavor/the-fey-realm/places/Fields of Gold|Fields of Gold]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Nimue|Queen Nimue]] ([[rangoric-srd/flavor/the-fey-realm/places/Pirate Isles|Pirate Isles]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Oonagh|Queen Oonagh]]
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Titania|Queen Titania]] ([[rangoric-srd/flavor/the-fey-realm/places/Fey Hills|Fey Hills]], [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Spring|Land of Eternal Spring]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Verenestra|Queen Verenestra]] ([[rangoric-srd/flavor/the-fey-realm/places/Faerie Woods|Faerie Woods]], [[rangoric-srd/flavor/the-fey-realm/places/Tree of Knowledge|Tree of Knowledge]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/The Queen of Air and Darkness|The Queen of Air and Darkness]] ([[rangoric-srd/flavor/the-fey-realm/places/Between|Between]], [[rangoric-srd/flavor/the-fey-realm/places/Dark Forest|Dark Forest]], [[rangoric-srd/flavor/the-fey-realm/places/Shadow|Shadow]], [[rangoric-srd/flavor/the-fey-realm/places/The Shrouded Lands|The Shrouded Lands]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Sand Man|Sand Man]] ([[rangoric-srd/flavor/the-fey-realm/places/Dream|Dream]], [[rangoric-srd/flavor/the-fey-realm/places/Sands of Time|Sands of Time]])
+- [[rangoric-srd/flavor/the-fey-realm/personalities/Sidhnaar DiCrystala|Sidhnaar DiCrystala]] ([[rangoric-srd/flavor/the-fey-realm/places/Market|Market]])

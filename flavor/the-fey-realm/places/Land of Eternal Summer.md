@@ -20,7 +20,7 @@ Wildlife in the region finds the absence of people and higher temperatures prefe
 
 **Regional Seat:** [[rangoric-srd/flavor/the-fey-realm/places/Tallgrass|The Pixie Court at Tallgrass]]
 
-**Regent:** Pixie Queen Sharla
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Pixie Queen Sharla|Pixie Queen Sharla]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Tallgrass|Tallgrass]]
 

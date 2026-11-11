@@ -19,7 +19,7 @@ Strangled by the iron fist of an ogrish [[rangoric-srd/races/Feeorin|feeorin]], 
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]
 
-**Personalities:** The Goblin King
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/The Goblin King|The Goblin King]]
 
 ***Legends & Lore***
 

@@ -19,7 +19,7 @@ Few people expect to see a small hovel under the surface of FaerieLand; fewer st
 
 **Region:** [[rangoric-srd/flavor/the-fey-realm/places/Fungal Forest|Fungal Forest]]
 
-**Personalities:** Durbin Bristle
+**Personalities:** [[rangoric-srd/flavor/the-fey-realm/personalities/Durbin Bristle|Durbin Bristle]]
 
 ***Legends & Lore***
 

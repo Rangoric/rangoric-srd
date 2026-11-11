@@ -18,7 +18,7 @@ The Faerie Woods is one of the most commonly visited regions by mortal outsiders
 
 **Regional Seat:** [[rangoric-srd/flavor/the-fey-realm/places/Tree of Knowledge|The Tree of Knowledge]]
 
-**Regent:** King Eberelgolan; Queen Verenestra
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/King Eberelgolan|King Eberelgolan]]; [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Verenestra|Queen Verenestra]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/Tree of Knowledge|The Tree of Knowledge]]
 

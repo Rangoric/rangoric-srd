@@ -20,7 +20,7 @@ One such island prominently features a freshwater lake often used to refresh wan
 
 **Regional Seat:** The Palace of the Lake
 
-**Regent:** Queen Nimue, Lady of the Lake
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/Queen Nimue|Queen Nimue]], Lady of the Lake
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/The Maw|The Maw]]
 

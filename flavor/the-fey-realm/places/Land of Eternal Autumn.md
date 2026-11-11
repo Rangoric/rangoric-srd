@@ -18,7 +18,7 @@ Located on the forested slopes of the Stormking Mountains between the Dark Fores
 
 **Regional Seat:** [[rangoric-srd/flavor/the-fey-realm/places/The Woodman’s Lodge|The Woodman’s Lodge]]
 
-**Regent:** King Finvarra
+**Regent:** [[rangoric-srd/flavor/the-fey-realm/personalities/King Finvarra|King Finvarra]]
 
 **Prominent Features:** [[rangoric-srd/flavor/the-fey-realm/places/The Woodman’s Lodge|The Woodman’s Lodge]]
 
