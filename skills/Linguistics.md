@@ -8,6 +8,7 @@ based-on:
   - "[[fantasy srd 3.5/skills/Decipher Script|Decipher Script (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
   - "[[fantasy srd 3.5/skills/Speak Language|Speak Language (3.5)]]"
+  - "[[path srd 3.5/skills/Linguistics|Linguistics (PF1)]]"
 status: draft
 change: new
 pi-review: 2026-10-22
@@ -49,28 +50,38 @@ Languages work as follows.
 
 **Table: Common Languages and Their Alphabets**
 
-| Language    | Typical Speakers                          | Alphabet  |
-| ----------- | ----------------------------------------- | --------- |
-| Abyssal     | Demons, chaotic evil outsiders            | Infernal  |
-| Aquan       | Water-based creatures                     | Elven     |
-| Auran       | Air-based creatures                       | Draconic  |
-| Celestial   | Good outsiders                            | Celestial |
-| Common      | Humans, halflings, half-elves, half-orcs  | Common    |
-| Draconic    | Kobolds, troglodytes, lizardfolk, dragons | Draconic  |
-| Druidic     | Druids (only)                             | Druidic   |
-| Dwarven     | Dwarves                                   | Dwarven   |
-| Elven       | Elves                                     | Elven     |
-| Giant       | Ogres, giants                             | Dwarven   |
-| Gnome       | Gnomes                                    | Dwarven   |
-| Goblin      | Goblins, hobgoblins, bugbears             | Dwarven   |
-| Gnoll       | Gnolls                                    | Common    |
-| Halfling    | Halflings                                 | Common    |
-| Ignan       | Fire-based creatures                      | Draconic  |
-| Infernal    | Devils, lawful evil outsiders             | Infernal  |
-| Orc         | Orcs                                      | Dwarven   |
-| Sylvan      | Dryads, brownies, leprechauns             | Elven     |
-| Terran      | Xorns and other earth-based creatures     | Dwarven   |
-| Undercommon | Drow                                      | Elven     |
+| Language           | Typical Speakers                                   | Alphabet      |
+| ------------------ | -------------------------------------------------- | ------------- |
+| Aboleth            | Aboleths                                           | —             |
+| Abyssal            | Demons, chaotic evil outsiders                     | Infernal      |
+| Aklo               | Derros, inhuman or otherworldly monsters, evil fey | —             |
+| Aquan              | Water-based creatures                              | Elven         |
+| Auran              | Air-based creatures                                | Draconic      |
+| Boggard            | Boggards                                           | —             |
+| Catfolk            | Catfolk                                            | —             |
+| Celestial          | Good outsiders                                     | Celestial     |
+| Common             | Humans, halflings, half-elves, half-orcs           | Common        |
+| Draconic           | Kobolds, troglodytes, lizardfolk, dragons          | Draconic      |
+| Drow Sign Language | Drow                                               | None (signed) |
+| Druidic            | Druids (only)                                      | Druidic       |
+| Dwarven            | Dwarves                                            | Dwarven       |
+| Elven              | Elves                                              | Elven         |
+| Giant              | Ogres, giants                                      | Dwarven       |
+| Gnome              | Gnomes                                             | Dwarven       |
+| Goblin             | Goblins, hobgoblins, bugbears                      | Dwarven       |
+| Gnoll              | Gnolls                                             | Common        |
+| Grippli            | Gripplis                                           | —             |
+| Halfling           | Halflings                                          | Common        |
+| Ignan              | Fire-based creatures                               | Draconic      |
+| Infernal           | Devils, lawful evil outsiders                      | Infernal      |
+| Orc                | Orcs                                               | Dwarven       |
+| Strix              | Strix                                              | —             |
+| Sylvan             | Dryads, brownies, leprechauns                      | Elven         |
+| Tengu              | Tengus                                             | —             |
+| Terran             | Xorns and other earth-based creatures              | Dwarven       |
+| Undercommon        | Drow                                               | Elven         |
+| Vanaran            | Vanaras                                            | —             |
+| Vishkanya          | Vishkanyas                                         | —             |
 
 ## Unlocks
 

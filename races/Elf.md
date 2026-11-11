@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/race]
 
 ## Elves
 
+Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elf|elf]])
 Size: Medium
 Base Speed: 30ft
 Perks:

@@ -8,7 +8,7 @@ based-on:
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
 status: draft
 change: modified
-pi-review: 2026-11-09
+pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -26,7 +26,7 @@ Each race has its own note:
 
 ##### Race and Languages
 
-All characters know how to speak Common. A dwarf, elf, gnome, half-elf, half-orc, or halfling also speaks a racial language, as appropriate. A character who has an Intelligence bonus at 1st level speaks other languages as well, one extra language per point of Intelligence bonus as a starting character.
+Most characters know how to speak Common, and a race’s note lists it among its languages when its members do. A race that isn’t human or close to it, such as a feral or xenophobic one, may not know it; Common can be a bonus language for almost anyone. A dwarf, elf, gnome, half-elf, half-orc, or halfling also speaks a racial language, as appropriate. A character who has an Intelligence bonus at 1st level speaks other languages as well, one extra language per point of Intelligence bonus as a starting character.
 
 **Literacy**: Any character can read and write all the languages he or she speaks. ^literacy
 
@@ -46,6 +46,10 @@ Each race lists alternate racial traits, notes in `races/racial-traits`. A chara
 ##### Defensive Training
 
 A race with defensive training gets a +4 dodge bonus to Armor Class against monsters of the giant type. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it’s caught [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]], it loses its dodge bonus, too. ^defensive-training
+
+##### Level Adjustment
+
+Some races are more powerful than the common races and have a level adjustment, given in the race note. It works as described in [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|Level Adjustment and Effective Character Level]]. ^level-adjustment
 
 ##### Small Characters
 

@@ -14,6 +14,7 @@ tags: [rangoric, rangoric/race]
 
 ## Humans
 
+Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^human|human]])
 Size: Medium
 Base Speed: 30ft
 Perks:

@@ -448,7 +448,7 @@ Both shallow and deep bogs increase the DC of [[rangoric-srd/skills/Stealth|Stea
 
 **Quicksand**: Patches of quicksand present a deceptively solid appearance (appearing as undergrowth or open land) that may trap careless characters. A character approaching a patch of quicksand at a normal pace is entitled to a DC 8 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check to spot the danger before stepping in, but charging or running characters don’t have a chance to detect a hidden bog before blundering in. A typical patch of quicksand is 20 feet in diameter; the momentum of a charging or running character carries him or her 1d2×5 feet into the quicksand. ^quicksand
 
-*Effects of Quicksand*: Characters in quicksand must make a DC 10 [[rangoric-srd/skills/Athletics|Athletics]] check every round to simply tread water in place, or a DC 15 Athletics check to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath (see the Athletics skill description).
+*Effects of Quicksand*: Characters in quicksand must make a DC 10 [[rangoric-srd/skills/Athletics|Athletics]] check every round to simply tread water in place, or a DC 15 Athletics check to move 5 feet in whatever direction is desired. If a trapped character fails this check by 5 or more, he sinks below the surface and begins to drown whenever he can no longer hold his breath (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Drowning|Drowning]]).
 
 Characters below the surface of a bog may swim back to the surface with a successful Athletics check (DC 15, +1 per consecutive round of being under the surface).
 
@@ -1150,7 +1150,7 @@ Characters who have taken nonlethal damage from lack of food or water are [[rang
 
 ##### Suffocation
 
-A character who has no air to breathe can hold her breath for 2 rounds per point of Constitution. After this period of time, the character must make a DC 10 Constitution check in order to continue holding her breath. The save must be repeated each round, with the DC increasing by +1 for each previous success.
+A character who has no air to breathe can hold her breath for 2 rounds per point of Constitution. If she takes a standard action or a full-round action (such as making an attack) while holding her breath, the remainder of the duration for which she can hold her breath is reduced by 1 round. (Effectively, a character in combat can hold her breath only half as long as normal.) After this period of time, the character must make a DC 10 Constitution check in order to continue holding her breath. The save must be repeated each round, with the DC increasing by +1 for each previous success. ^hold-breath
 
 When the character fails one of these Constitution checks, she begins to suffocate. In the first round, she falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] (0 hit points). In the following round, she drops to –1 hit points and is [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. In the third round, she suffocates.
 
@@ -1170,7 +1170,7 @@ Very cold water deals 1d6 points of nonlethal damage from hypothermia per minute
 
 ###### Drowning
 
-Any character can hold her breath for a number of rounds equal to twice her Constitution score. After this period of time, the character must make a DC 10 Constitution check every round in order to continue holding her breath. Each round, the DC increases by 1.
+A character underwater holds her breath as described under [[rangoric-srd/rules/Wilderness, Weather, and Environment#^hold-breath|Suffocation]].
 
 When the character finally fails her Constitution check, she begins to drown. In the first round, she falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] (0 hp). In the following round, she drops to –1 hit points and is [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]]. In the third round, she drowns.
 

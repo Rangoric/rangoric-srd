@@ -4,6 +4,8 @@ section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Sybtypes, and Special Abilities (3.5)]]"
   - "[[path srd 3.5/rules/bestiary/Universal Monster Rules|Universal Monster Rules (PF1)]]"
+  - "[[path srd 3.5/rules/advanced-race-guide/Featured Races|Featured Races (ARG)]]"
+  - "[[path srd 3.5/rules/advanced-race-guide/Uncommon Races|Uncommon Races (ARG)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -70,6 +72,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Ability Score Los
 
 **Air Subtype**: This subtype usually is used for [[#^elemental|elementals]] and [[#^outsider|outsiders]] with a connection to the Elemental Plane Air. Air creatures always have fly speeds and usually have perfect maneuverability. ^air
 
+**Amphibious (Ex)**: Creatures with this special quality have the [[#^aquatic|aquatic subtype]], but they can breathe air and survive indefinitely on land. ^amphibious
+
 **Angel Subtype**: Angels are a race of celestials, or good [[#^outsider|outsiders]], native to the good-aligned Outer Planes. ^angel
 
 *Traits*: An angel possesses the following traits (unless otherwise noted in a creature’s entry).
@@ -114,7 +118,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Ability Score Los
 
   - Animals eat, sleep, and breathe.
 
-**Aquatic Subtype**: These creatures always have swim speeds and thus can move in water without making Athletics checks to swim. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the amphibious special quality. ^aquatic
+**Aquatic Subtype**: These creatures always have swim speeds and thus can move in water without making Athletics checks to swim. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the [[#^amphibious|amphibious]] special quality. ^aquatic
 
 **Archon Subtype**: Archons are a race of celestials, or good [[#^outsider|outsiders]], native to lawful good-aligned Outer Planes. ^archon
 
@@ -153,6 +157,8 @@ Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing c
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Breath Weapon]] under Special Abilities.
 
+**Catfolk Subtype**: A humanoid subtype for catfolk. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^catfolk
+
 **Change Shape (Su)**: A creature with this special quality has the ability to assume the appearance of a specific creature or type of creature (usually a humanoid), but retains most of its own physical qualities. A true seeing spell or ability reveals the creature’s natural form. A creature using change shape reverts to its natural form when killed, but separated body parts retain their shape. A creature cannot use change shape to take the form of a creature with a template. Changing shape results in the following changes to the creature: ^change-shape
 
   - The creature retains the type and subtype of its original form. It gains the size of its new form.
@@ -172,6 +178,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
   - The creature is effectively camouflaged as a creature of its new form, and gains a +10 bonus on Imitation checks if it uses this ability to create a disguise.
 
   - Any gear worn or carried by the creature that can’t be worn or carried in its new form instead falls to the ground in its space. If the creature changes size, any gear it wears or carries that can be worn or carried in its new form changes size to match the new size. (Nonhumanoid-shaped creatures can’t wear armor designed for humanoid-shaped creatures, and viceversa.) Gear returns to normal size if dropped.
+
+**Changeling Subtype**: A humanoid subtype for changelings. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^changeling
 
 **Chaotic Subtype**: A subtype usually applied only to [[#^outsider|outsiders]] native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes [[#^DR|damage reduction]] as if its natural weapons and any weapons it wields were chaotic-aligned. ^chaotic
 
@@ -255,6 +263,8 @@ A few other creatures require combinations of different types of attacks to over
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|Damage Reduction]] under Special Abilities.  
 
+**Dhampir Subtype**: A humanoid subtype for dhampirs. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
+
 **Dragon Type**: A dragon is a reptilelike creature, usually winged, with magical or unusual abilities. ^dragon
 
 *Features*: A dragon has the following features.
@@ -278,6 +288,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
   - Proficient with no armor.
 
   - Dragons eat, sleep, and breathe.
+
+**Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as duergar. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
 
 **Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. ^earth
 
@@ -308,6 +320,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
   - Proficient with whatever type of armor (light, medium, or heavy) that it is described as wearing, as well as all lighter types. Elementals not indicated as wearing armor are not proficient with armor. Elementals are proficient with shields if they are proficient with any form of armor.
 
   - Elementals do not eat, sleep, or breathe.
+
+**Elf Subtype**: A humanoid subtype for [[rangoric-srd/races/Elf|elves]] and their kin, such as drow; [[rangoric-srd/races/Half-Elf|half-elves]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^elf
 
 **Energy Drain (Su)**: This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one or more negative levels (the creature’s description specifies how many). If an attack that includes an energy drain scores a critical hit, it drains twice the given amount. Unless otherwise specified in the creature’s description, a draining creature gains 5 temporary hit points (10 on a critical hit) for each negative level it bestows on an opponent. These temporary hit points last for a maximum of 1 hour. An affected opponent takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die (whenever level is used in a die roll or calculation) for each negative level. A spellcaster loses one spell slot of the highest level of spells she can cast and (if applicable) one prepared spell of that level; this loss persists until the negative level is removed. Negative levels remain until 24 hours have passed or until they are removed with a spell, such as restoration. If a negative level is not removed before 24 hours have passed, the affected creature must attempt a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level goes away, but the creature’s level is also reduced by one. A separate saving throw is required for each negative level.  
  ^energy-drain
@@ -397,9 +411,17 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze
 
   - Giants eat, sleep, and breathe.
 
+**Gnome Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnome|gnomes]] and their kin, such as svirfneblin. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnome
+
 **Goblinoid Subtype**: Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. ^goblinoid
 
 **Good Subtype**: A subtype usually applied only to outsiders native to the good-aligned Outer Planes. Most creatures that have this subtype also have good alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a good alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the good subtype overcomes damage reduction as if its natural weapons and any weapons it wields were good-aligned (see Damage Reduction, above). ^good
+
+**Grippli Subtype**: A humanoid subtype for gripplis. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^grippli
+
+**Halfling Subtype**: A humanoid subtype for [[rangoric-srd/races/Halfling|halflings]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^halfling
+
+**Human Subtype**: A humanoid subtype for [[rangoric-srd/races/Human|humans]]; [[rangoric-srd/races/Half-Elf|half-elves]] and [[rangoric-srd/races/Half-Orc|half-orcs]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^human
 
 **Humanoid Type**: A humanoid usually has two arms, two legs, and one head, or a humanlike torso, arms, and a head. Humanoids have few or no supernatural or extraordinary abilities, but most can speak and usually have well-developed societies. They usually are Small or Medium. Every humanoid creature also has a subtype. ^humanoid
 
@@ -438,6 +460,8 @@ An incorporeal creature’s attacks pass through (ignore) natural armor, armor, 
 An incorporeal creature moves silently and cannot be heard with Perception checks if it doesn’t wish to be. It has no Strength score, so its Dexterity modifier applies to both its melee attacks and its ranged attacks. Nonvisual senses, such as scent and blindsight, are either ineffective or only partly effective with regard to incorporeal creatures. Incorporeal creatures have an innate sense of direction and can move at full speed even when they cannot see.  
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|Incorporeality]] under Special Abilities.
+
+**Kitsune Subtype**: A humanoid subtype for kitsune, who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
 
@@ -539,6 +563,8 @@ Natural weapons have types just as other weapons do. The most common are summari
 
 *Tentacle*: The creature flails at opponents with a powerful tentacle, dealing bludgeoning (and sometimes slashing) damage.
 
+**Negative Energy Affinity (Ex)**: The creature is alive but is healed by negative energy and harmed by positive energy, as if it were an [[#^undead|undead]] creature. ^negative-energy-affinity
+
 **Nonabilities**: Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0. Other effects of nonabilities are detailed below. ^nonabilities
 
 *Strength*: Any creature that can physically manipulate other objects has at least 1 point of Strength. A creature with no Strength score can’t exert force, usually because it has no physical body or because it doesn’t move. The creature automatically fails Strength checks. If the creature can attack, it applies its Dexterity modifier to its base attack bonus instead of a Strength modifier.
@@ -584,6 +610,8 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
   - Proficient with no armor.
 
   - Oozes eat and breathe, but do not sleep.
+
+**Orc Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Orc|orcs]]; [[rangoric-srd/races/Half-Orc|half-orcs]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^orc
 
 **Outsider Type**: An outsider is at least partially composed of the essence (but not necessarily the material) of some plane other than the Material Plane. Some creatures start out as some other type and become outsiders when they attain a higher (or lower) state of spiritual existence. ^outsider
 
@@ -652,6 +680,8 @@ A successful save avoids (negates) the damage.
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] under Special Abilities.
 
+**Positive Energy Affinity (Ex)**: The creature is healed by positive energy and harmed by negative energy, as a living creature is, even if it is [[#^undead|undead]]. ^positive-energy-affinity
+
 **Pounce (Ex)**: When a creature with this special attack makes a charge, it can follow with a full attack—including rake attacks if the creature also has the rake ability. ^pounce
 
 **Powerful Charge (Ex)**: When a creature with this special attack makes a charge, its attack deals extra damage in addition to the normal benefits and hazards of a charge. The amount of damage from the attack is given in the creature’s description. ^powerful-charge
@@ -662,6 +692,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] u
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Psionics|Psionics]] under Special Abilities or the [[rangoric-srd/psionics/Psionics|Psionics Section]].
 
 **Rake (Ex)**: A creature with this special attack gains extra natural attacks under certain conditions, typically when it grapples its foe. In addition to the options available to all grapplers, a monster with the rake ability gains two free claw attacks that it can use only against a grappled foe. The bonus and damage caused by these attacks is included in the creature’s description. A monster with the rake ability must begin its turn already grappling to use its rake—it can’t begin a grapple and rake in the same turn. ^rake
+
+**Ratfolk Subtype**: A humanoid subtype for ratfolk. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^ratfolk
 
 **Ray (Su or Sp)**: This form of special attack works like a ranged attack. Hitting with a ray attack requires a successful ranged touch attack roll, ignoring armor, natural armor, and shield and using the creature’s ranged attack bonus. Ray attacks have no range increment. The creature’s descriptive text specifies the maximum range, effects, and any applicable saving throw.  
  ^ray
@@ -732,6 +764,8 @@ A spellcasting creature that lacks hands or arms can provide any somatic compone
 
 A spellcasting creature is not actually a member of a class unless its entry says so, and it does not gain any class abilities. A creature with access to cleric spells must prepare them in the normal manner and receives domain spells if noted, but it does not receive domain granted powers unless it has at least one level in the cleric class.
 
+**Strix Subtype**: A humanoid subtype for strix. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^strix
+
 **Summon (Sp)**: A creature with the summon ability can summon specific other creatures of its kind much as though casting a summon monster spell, but it usually has only a limited chance of success (as specified in the creature’s entry). Roll d%: On a failure, no creature answers the summons. Summoned creatures automatically return whence they came after 1 hour. A creature that has just been summoned cannot use its own summon ability for 1 hour. Most creatures with the ability to summon do not use it lightly, since it leaves them beholden to the summoned creature. In general, they use it only when necessary to save their own lives. An appropriate spell level is given for each summoning ability for purposes of [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks and attempts to dispel the summoned creature. No experience points are awarded for summoned monsters. ^summon
 
 **Swallow Whole (Ex)**: If a creature with this special attack begins its turn with an opponent grappled in its mouth (see [[#^improved-grab|Improved Grab]]), it can attempt a new combat maneuver check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, and the opponent takes bite damage. Unless otherwise noted, the opponent can be up to one size category smaller than the swallowing creature. Being swallowed causes the target to take damage each round. The amount and type of damage varies and is given in the swallowing creature’s entry. A swallowed creature keeps the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition, while the creature that did the swallowing does not. A swallowed creature can try to cut its way free with any light slashing or piercing weapon (the amount of cutting damage required to get free is noted in the creature’s entry), or it can just try to escape the grapple. The Armor Class of the interior of a creature that swallows whole is normally 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If a swallowed creature cuts its way out, the swallowing creature cannot use swallow whole again until the damage is healed. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again. ^swallow-whole
@@ -765,6 +799,8 @@ Swarms do not threaten creatures in their square, and do not make attacks of opp
 **Telepathy (Su)**: A creature with this ability can communicate telepathically with any other creature within a certain range (specified in the creature’s entry, usually 100 feet) that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time. ^telepathy
 
 Some creatures have a limited form of telepathy, while others have a more powerful form of the ability.
+
+**Tengu Subtype**: A humanoid subtype for tengus. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^tengu
 
 **Trample (Ex)**: As a full-round action, a creature with this special attack can move up to twice its speed and literally run over any opponents at least one size category smaller than itself. The creature merely has to move over the opponents in its path; any creature whose space is completely covered by the trampling creature’s space is subject to the trample attack. If a target’s space is larger than 5 feet, it is only considered trampled if the trampling creature moves over all the squares it occupies. If the trampling creature moves over only some of a target’s space, the target can make an attack of opportunity against the trampling creature at a –4 penalty. A trampling creature that accidentally ends its movement in an illegal space returns to the last legal position it occupied, or the closest legal position, if there’s a legal position that’s closer. ^trample
 
@@ -848,6 +884,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
   - Undead do not breathe, eat, or sleep.
 
+**Vanara Subtype**: A humanoid subtype for vanaras. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vanara
+
 **Vermin Type**: This type includes insects, arachnids, other arthropods, worms, and similar invertebrates. ^vermin
 
 *Features*: Vermin have the following features.
@@ -871,6 +909,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
   - Proficient with no armor.
 
   - Vermin breathe, eat, and sleep.
+
+**Vishkanya Subtype**: A humanoid subtype for vishkanyas. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vishkanya
 
 **Vulnerability to Energy**: Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^vulnerability-to-energy
 

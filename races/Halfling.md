@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/race]
 
 ## Halflings
 
+Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^halfling|halfling]])
 Size: [[rangoric-srd/races/PC Races#Small Characters|Small]]
 Base Speed: 20ft
 Perks:
