@@ -66,7 +66,7 @@ A half-orc can take any of these in place of the traits they replace (see [[rang
 
 | Trait | Replaces |
 | --- | --- |
-| [[rangoric-srd/races/racial-traits/Acute Darkvision|Acute Darkvision]] | Orc ferocity |
+| [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Acute Darkvision]] | Orc ferocity |
 | [[rangoric-srd/races/racial-traits/Beastmaster|Beastmaster]] | Orc ferocity |
 | [[rangoric-srd/races/racial-traits/Bestial|Bestial]] | Orc ferocity |
 | [[rangoric-srd/races/racial-traits/Cavewight|Cavewight]] | Intimidating |
@@ -87,7 +87,7 @@ A half-orc can take any of these in place of the traits they replace (see [[rang
 Bundles of alternate traits for half-orcs of a particular background.
 
 - **Arena-Bred**: Born and raised to fight in the arena, and looking more human than their orc ancestors: [[rangoric-srd/races/racial-traits/City-Raised|City-Raised]] and [[rangoric-srd/races/racial-traits/Skilled|Skilled]].
-- **Deep Kin**: From clans that stayed in the darkness below the surface, smaller and at home underground: [[rangoric-srd/races/racial-traits/Acute Darkvision|Acute Darkvision]] and [[rangoric-srd/races/racial-traits/Cavewight|Cavewight]].
+- **Deep Kin**: From clans that stayed in the darkness below the surface, smaller and at home underground: [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Acute Darkvision]] and [[rangoric-srd/races/racial-traits/Cavewight|Cavewight]].
 - **Feral**: Abandoned young and grown up wild, tough but uncivilized: [[rangoric-srd/races/racial-traits/Forest Walker|Forest Walker]] and [[rangoric-srd/races/racial-traits/Toothy|Toothy]].
 - **Mountain Clan**: From mountainous regions, agile and alert to echoing sounds: [[rangoric-srd/races/racial-traits/Bestial|Bestial]] and [[rangoric-srd/races/racial-traits/Rock Climber|Rock Climber]].
 - **Mystic**: Survivors of a brutal apprenticeship to an orc shaman: [[rangoric-srd/races/racial-traits/Shaman's Apprentice|Shaman's Apprentice]] and [[rangoric-srd/races/racial-traits/Sacred Tattoo|Sacred Tattoo]].
