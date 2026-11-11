@@ -27,3 +27,12 @@ views:
       - file.name
       - note.place-kind
       - note.region
+  - type: table
+    name: "Personalities"
+    filters:
+      and:
+        - file.folder.contains("personalities")
+    order:
+      - file.name
+      - file.folder
+      - note.wanderer
