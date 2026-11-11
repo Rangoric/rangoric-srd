@@ -693,7 +693,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Psionics|Psionics
 
 **Rake (Ex)**: A creature with this special attack gains extra natural attacks under certain conditions, typically when it grapples its foe. In addition to the options available to all grapplers, a monster with the rake ability gains two free claw attacks that it can use only against a grappled foe. The bonus and damage caused by these attacks is included in the creature’s description. A monster with the rake ability must begin its turn already grappling to use its rake—it can’t begin a grapple and rake in the same turn. ^rake
 
-**Ratfolk Subtype**: A humanoid subtype for ratfolk. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^ratfolk
+**Ratfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Ratfolk|ratfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^ratfolk
 
 **Ray (Su or Sp)**: This form of special attack works like a ranged attack. Hitting with a ray attack requires a successful ranged touch attack roll, ignoring armor, natural armor, and shield and using the creature’s ranged attack bonus. Ray attacks have no range increment. The creature’s descriptive text specifies the maximum range, effects, and any applicable saving throw.  
  ^ray
