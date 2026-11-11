@@ -164,6 +164,8 @@ tags: [rangoric, rangoric/overview]
 
 *Any spell whose name begins with greater is alphabetized in this chapter according to the second word of the spell name. Thus, the description of a greater spell appears near the description of the spell on which it is based. Spell chains that have greater spells in them include those based on the spells arcane sight, command, dispel magic, glyph of warding, invisibility, magic fang, magic weapon, planar ally, planar binding, prying eyes, restoration, scrying, shadow conjuration, shadow evocation, shout, and teleport.*
 
+  - [[rangoric-srd/spells/Greater Iron Shards|Greater Iron Shards]]
+  - [[rangoric-srd/spells/Greater Iron Ward|Greater Iron Ward]]
   - [[rangoric-srd/spells/Greensight|Greensight]]
   - [[rangoric-srd/spells/Groundswell|Groundswell]]
   - [[rangoric-srd/spells/Grove of Respite|Grove of Respite]]

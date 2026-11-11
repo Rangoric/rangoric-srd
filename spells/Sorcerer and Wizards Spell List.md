@@ -19,6 +19,7 @@ tags: [rangoric, rangoric/overview]
 | ------------- | ------------------------------------------------------------- | ---------------------------------------------------- |
 | Abjuration    | [[rangoric-srd/spells/Resistance\|Resistance]]:             | Subject gains +1 on saving throws.                   |
 | Conjuration   | [[rangoric-srd/spells/Acid Splash\|Acid Splash]]:           | Orb deals 1d3 acid damage.                           |
+|               | [[rangoric-srd/spells/Iron Splinter\|Iron Splinter]]: | Splinter deals 1d3 damage (1d4 vs. fey). |
 | Divination    | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:       | Detects poison in one creature or small object.      |
 |               | [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:         | Detects spells and magic items within 60 ft.         |
 |               | [[rangoric-srd/spells/Read Magic\|Read Magic]]:             | Read scrolls and spellbooks.                         |
@@ -68,6 +69,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Glue Seal\|Glue Seal]]: | Makes one 5-ft.-square or one object sticky. |
 |               | [[rangoric-srd/spells/Grease\|Grease]]:                                                                                                                                                                                            | Makes 10-ft. square or one object slippery.                                                                                                                                                                                                                                     |
 |               | [[rangoric-srd/spells/Icicle Dagger\|Icicle Dagger]]: | Masterwork ice dagger deals +1 cold damage. |
+|               | [[rangoric-srd/spells/Iron Shard\|Iron Shard]] (M): | Iron needle deals 1d4 + level damage (1d6 + level vs. fey). |
 |               | [[rangoric-srd/spells/Ki Arrow\|Ki Arrow]]: | Arrow deals damage as your unarmed strike. |
 |               | [[rangoric-srd/spells/Mage Armor\|Mage Armor]]:                                                                                                                                                                                    | Gives subject +4 armor bonus.                                                                                                                                                                                                                                                   |
 |               | [[rangoric-srd/spells/Mount\|Mount]]:                                                                                                                                                                                              | Summons riding horse for 2 hours/level.                                                                                                                                                                                                                                         |
@@ -591,6 +593,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Dimension Door\|Dimension Door]]:                                     | Teleports you short distance.                                                                                                      |
 |               | [[rangoric-srd/spells/Fleshworm Infestation\|Fleshworm Infestation]]: | Worms deal hp and Dex damage. |
 |               | [[rangoric-srd/spells/Ghost Wolf\|Ghost Wolf]] (F): | Conjures a Large, quasi-real, wolflike creature made of roiling black smoke. |
+|               | [[rangoric-srd/spells/Greater Iron Shards\|Greater Iron Shards]] (M): | Iron needles deal 1d4/level + level damage (1d6/level + level vs. fey; max 10 dice); embedded shards keep hurting fey. |
 |               | [[rangoric-srd/spells/Minor Creation\|Minor Creation]]:                                     | Creates one cloth or wood object.                                                                                                  |
 |               | [[rangoric-srd/spells/Phantom Chariot\|Phantom Chariot]]: | Conjures a quasi-real heavy chariot pulled by four horses. |
 |               | [[rangoric-srd/spells/Phantom Steed, Communal\|Phantom Steed, Communal]]: | As phantom steed, but you may divide the duration among creatures touched. |
@@ -733,6 +736,7 @@ tags: [rangoric, rangoric/overview]
 | ------------- | ------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
 | Abjuration    | [[rangoric-srd/spells/Break Enchantment\|Break Enchantment]]:           | Frees subjects from enchantments, alterations, curses, and petrification.                              |
 |               | [[rangoric-srd/spells/Dismissal\|Dismissal]]:                           | Forces a creature to return to native plane.                                                           |
+|               | [[rangoric-srd/spells/Lesser Iron Ward\|Lesser Iron Ward]] (M): | Nonmagical metal passes harmlessly through the subject. |
 |               | [[rangoric-srd/spells/Life Bubble\|Life Bubble]] (M): | Protects creatures from sustained environmental effects. |
 |               | [[rangoric-srd/spells/Mage’s Private Sanctum\|Mage’s Private Sanctum]]: | Prevents anyone from viewing or scrying an area for 24 hours.                                          |
 |               | [[rangoric-srd/spells/Peacebond, Greater\|Peacebond, Greater]]: | As peacebond, but on multiple weapons, even if they aren't sheathed. |
@@ -750,6 +754,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Geyser\|Geyser]] (M): | Creates a geyser of boiling water. |
 |               | [[rangoric-srd/spells/Hostile Juxtaposition\|Hostile Juxtaposition]] (M): | You create a dimensional link with a targeted creature, and switch spots with it. |
 |               | [[rangoric-srd/spells/Hungry Pit\|Hungry Pit]] (F): | As create pit, but dealing 4d6 damage to those in it as it closes. |
+|               | [[rangoric-srd/spells/Iron Cloud\|Iron Cloud]] (M): | Iron dust kills fey of 2 HD or less and damages other creatures each round. |
 |               | [[rangoric-srd/spells/Mage’s Faithful Hound\|Mage’s Faithful Hound]]:   | Phantom dog can guard, attack.                                                                         |
 |               | [[rangoric-srd/spells/Major Creation\|Major Creation]]:                 | As minor creation, plus stone and metal.                                                               |
 |               | [[rangoric-srd/spells/Planar Binding, Lesser\|Planar Binding, Lesser]]: | Traps extraplanar creature of 6 HD or less until it performs a task.                                   |
@@ -868,6 +873,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Conjure Black Pudding\|Conjure Black Pudding]] (M): | Summon a black pudding. |
 |               | [[rangoric-srd/spells/Getaway\|Getaway]] (M): | Teleports you and select creatures to predetermined location. |
 |               | [[rangoric-srd/spells/Ice Crystal Teleport\|Ice Crystal Teleport]]: | Target is frozen, then teleported. |
+|               | [[rangoric-srd/spells/Iron Shower\|Iron Shower]] (M): | Iron splinters rain down for 1d4/level damage (1d6/level vs. fey; max 15 dice). |
 |               | [[rangoric-srd/spells/Planar Binding\|Planar Binding]]:                     | As lesser planar binding, but up to 12 HD.                                                                                                                                                   |
 |               | [[rangoric-srd/spells/Summon Monster VI\|Summon Monster VI]]:               | Calls extraplanar creature to fight for you.                                                                                                                                                 |
 |               | [[rangoric-srd/spells/Treacherous Teleport\|Treacherous Teleport]]: | As teleport, except you choose some creatures to suffer a mishap or go elsewhere. |
@@ -958,6 +964,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Circle of Clarity\|Circle of Clarity]] (F): | Emanation hampers illusions and stealth. |
 |               | [[rangoric-srd/spells/Deflection\|Deflection]] (M): | Attacks that miss are redirected back to the source of the attack. |
 |               | [[rangoric-srd/spells/Expend\|Expend]] (M): | Wastes creatures' limited use magical ability. |
+|               | [[rangoric-srd/spells/Greater Iron Ward\|Greater Iron Ward]] (M F): | As lesser iron ward, and against metal enchanted up to +3. |
 |               | [[rangoric-srd/spells/Sequester\|Sequester]]:                                       | Subject is [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] to sight and scrying; renders creature comatose. |
 |               | [[rangoric-srd/spells/Spell Turning\|Spell Turning]]:                               | Reflect 1d4+6 spell levels back at caster.                                                                                                   |
 | Conjuration   | [[rangoric-srd/spells/Caustic Eruption\|Caustic Eruption]]: | Burst deals 1d6 acid/level and lingers. |

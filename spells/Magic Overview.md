@@ -127,13 +127,15 @@ Beneath the spell name is a line giving the [[rangoric-srd/spells/Schools of Mag
 
 Appearing on the same line as the school and subschool, when applicable, is a descriptor that further categorizes the spell in some way. Some spells have more than one descriptor.
 
-The descriptors are acid, air, chaotic, cold, darkness, death, earth, electricity, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, sonic, and water.
+The descriptors are acid, air, chaotic, cold, cold iron, darkness, death, earth, electricity, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, sonic, and water.
 
 Most of these descriptors have no game effect by themselves, but they govern how the spell interacts with other spells, with special abilities, with unusual creatures, with alignment, and so on.
 
 A language-dependent spell uses intelligible language as a medium for communication. If the target cannot understand or cannot hear what the caster of a language-dependant spell says the spell fails.
 
 A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
+
+A cold iron spell uses cold-wrought iron as its manifested effect against target creatures. This material is especially dangerous to fey (see [[rangoric-srd/equipment/Special Materials#Special Weapons Materials|cold iron]]), so a cold iron spell is far more dangerous when used by or against fey creatures. Damage a cold iron spell deals is cold iron damage: it counts as cold iron for overcoming damage reduction (DR/cold iron) and for a creature's weakness to cold iron, as fey have (Wilson 2026-11-11). ^cold-iron-descriptor
 
 ##### Level
 

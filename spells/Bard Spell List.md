@@ -95,6 +95,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Innocence\|Innocence]]: | Gain +10 on Deception checks to seem innocent. |
 | [[rangoric-srd/spells/Invigorate\|Invigorate]]: | Temporarily relieves fatigue or exhaustion. |
 | [[rangoric-srd/spells/Invisibility Alarm\|Invisibility Alarm]]: | As alarm, but reacting only to invisible creatures. |
+| [[rangoric-srd/spells/Iron Shard\|Iron Shard]] (M): | Iron needle deals 1d4 + level damage (1d6 + level vs. fey). |
 | [[rangoric-srd/spells/Jitterbugs\|Jitterbugs]]: | You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs. |
 | [[rangoric-srd/spells/Jury-Rig\|Jury-Rig]] (M): | Removes the broken condition from the targeted object. |
 | [[rangoric-srd/spells/Ki Arrow\|Ki Arrow]]: | Arrow deals damage as your unarmed strike. |
@@ -408,6 +409,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:     | Subject moves normally despite impediments.                                                                                        |
 | [[rangoric-srd/spells/Ghost Brand\|Ghost Brand]] (M): | Allow an item to transform into a brand and back. |
 | [[rangoric-srd/spells/Ghostbane Dirge, Mass\|Ghostbane Dirge, Mass]] (M): | As ghostbane dirge, but affects multiple creatures. |
+| [[rangoric-srd/spells/Greater Iron Shards\|Greater Iron Shards]] (M): | Iron needles deal 1d4/level + level damage (1d6/level + level vs. fey; max 10 dice); embedded shards keep hurting fey. |
 | [[rangoric-srd/spells/Hallucinatory Terrain\|Hallucinatory Terrain]]: | Makes one type of terrain appear like another (field into forest, or the like).                                                    |
 | [[rangoric-srd/spells/Heroic Finale\|Heroic Finale]]: | Subject within range of your bardic performance can take an action. |
 | [[rangoric-srd/spells/Heroic Fortune, Mass\|Heroic Fortune, Mass]] (M): | As heroic fortune, but for several creatures. |
