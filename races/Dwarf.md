@@ -7,9 +7,10 @@ based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)|Dwarves (ARG)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
+  - "[[fantasy srd 3.5/monsters/dwarf/Dwarf#Subraces|Dwarf subraces (3.5)]]"
 status: draft
 change: modified
-pi-review: 2026-11-08
+pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---
 
@@ -97,7 +98,7 @@ Bundles of alternate traits for dwarves of a particular background.
 - **Deep Delver**: [[rangoric-srd/races/racial-traits/Minesight|Minesight]] and [[rangoric-srd/races/racial-traits/Deep Warrior|Deep Warrior]]. Deep delver spellcasters may also take [[rangoric-srd/races/racial-traits/Stonesinger|Stonesinger]] in place of stonecunning.
 - **Elder Dwarf**: [[rangoric-srd/races/racial-traits/Ancient Enmity|Ancient Enmity]], [[rangoric-srd/races/racial-traits/Lorekeeper|Lorekeeper]], and either [[rangoric-srd/races/racial-traits/Magic Resistant|Magic Resistant]] or [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]].
 - **Exiled Dwarf**: [[rangoric-srd/races/racial-traits/Relentless|Relentless]] and [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]], and often [[rangoric-srd/races/racial-traits/Wyrmscourged|Wyrmscourged]].
-- **Mountain Dwarf**: [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]], and often [[rangoric-srd/races/racial-traits/Surface Survivalist|Surface Survivalist]]. Mountain dwarves trained to defend their homes may take [[rangoric-srd/races/racial-traits/Sky Sentinel|Sky Sentinel]] and [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] instead.
+- **Mountain Dwarf**: [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]], and often [[rangoric-srd/races/racial-traits/Surface Survivalist|Surface Survivalist]]. Mountain dwarves trained to defend their homes may take [[rangoric-srd/races/racial-traits/Sky Sentinel|Sky Sentinel]] and [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] instead. The 3.5 mountain dwarves, who live deeper under the mountains than most dwarves but not as deep as deep dwarves, are this subtype; they average about 4½ feet tall, with lighter skin and hair.
 
 **Variants from Unearthed Arcana.** A variant's ability scores take the place of the dwarf's, but keep the dwarf's +2 Wisdom.
 
@@ -106,3 +107,7 @@ Bundles of alternate traits for dwarves of a particular background.
 - **Arctic Dwarf**: Masters of ice and stone, defending their mines against constant kobold raids. +2 Strength, +2 Constitution, +2 Wisdom, −4 Dexterity, −2 Charisma. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. [[rangoric-srd/races/racial-traits/Icecunning|Icecunning]]. Hatred is against kobolds in place of orcs (goblinoids stay). +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Craft|Craft]] checks related to items made of ice.
 - **Desert Dwarf**: Masters of finding water and digging wells, with the wealth and power that brings. +2 Constitution, +2 Wisdom, −2 Dexterity. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. No stonecunning and no craftsman. Hatred is against reptilian humanoids (such as kobolds and lizardfolk) and dragons (including half-dragons), in place of orcs and goblinoids. Defensive training is against dragons in place of giants. +2 racial bonus on [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] and [[rangoric-srd/skills/Profession|Profession]] (miner) checks.
 - **Jungle Dwarf**: Explorers, pathfinders and traveling merchants who live aboveground. Low-light vision in place of darkvision. No stonecunning and no craftsman. +2 bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] and [[rangoric-srd/skills/Nature|Nature]] checks, and +2 on [[rangoric-srd/skills/Perception|Perception]] checks.
+
+**Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/dwarf/Dwarf#Subraces|monster Dwarf]]'s subraces; each has the dwarf's traits except as noted.
+
+- **Deep Dwarf**: Leaner dwarves of the far underground, standoffish with non-dwarves, with a reddish tinge to their skin, large washed-out blue eyes, and hair from bright red to straw blond. Hardy gives +3 in place of +2. Darkvision out to 90 feet. [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|Light sensitivity]].

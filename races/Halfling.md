@@ -7,9 +7,10 @@ based-on:
   - "[[path srd 3.5/races/Halflings (Advanced Race Guide)|Halflings (ARG)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
+  - "[[fantasy srd 3.5/monsters/Halfling#Subraces|Halfling subraces (3.5)]]"
 status: draft
 change: modified
-pi-review: 2026-11-08
+pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---
 
@@ -97,3 +98,8 @@ Bundles of alternate traits for halflings of a particular background.
 - **Arctic Halfling**: Peaceful, spiritual hunters and fishers of walrus and seal. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks. The +1 attack bonus applies to thrown weapons only, not slings.
 - **Desert Halfling**: Stealthy and nimble-fingered, appearing whether invited or not. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks. Sure-footed has no Athletics bonus.
 - **Jungle Halfling**: Settled river villagers who farm, fish and hunt with poison-tipped weapons. Weapon familiarity also covers the throwing axe, handaxe and shortbow (including composite shortbow). [[rangoric-srd/races/racial-traits/Poison Use|Poison Use]]. No halfling luck and no fearless; instead a +2 racial bonus on Fortitude saves against poison. The +1 attack bonus applies to thrown weapons only, not slings.
+
+**Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/Halfling#Subraces|monster Halfling]]'s subraces; each has the halfling's traits except as noted.
+
+- **Deep Halfling**: Shorter and stockier halflings, about 2½ feet tall, who speak Dwarven fluently. Darkvision out to 60 feet (see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]]). [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|Stonecunning]], as the dwarf's. +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Craft|Craft]] checks related to stone or metal. No sure-footed.
+- **Tallfellow**: Rare halflings, 4 feet tall or more, who generally speak Elven as well. Keen senses also gives +2 on [[rangoric-srd/skills/Investigation|Investigation]] checks, and a tallfellow who merely passes within 5 feet of a secret or concealed door is entitled to an Investigation check to notice it as if actively looking for it. No sure-footed.

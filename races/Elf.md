@@ -7,9 +7,10 @@ based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)|Elves (ARG)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
+  - "[[fantasy srd 3.5/monsters/Elf#Subraces|Elf subraces (3.5)]]"
 status: draft
 change: modified
-pi-review: 2026-11-08
+pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---
 
@@ -95,7 +96,13 @@ Bundles of alternate traits for elves of a particular background.
 **Variants from Unearthed Arcana.** A variant's ability scores take the place of the elf's, but keep the elf's +2 Intelligence.
 
 - **Fire Elf**: Quick of action and thought, but sharing the elf's frailty. +2 Dexterity, +2 Intelligence, −2 Constitution, −2 Charisma. [[rangoric-srd/races/racial-traits/Fire Race Traits|Fire Race Traits]].
-- **Aquatic Elf**: Elves of the kelp forests and sargasso groves beneath the waves. +2 Dexterity. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 40 feet. [[rangoric-srd/races/racial-traits/Superior Low-Light Vision|Superior Low-Light Vision]] in place of low-light vision.
+- **Aquatic Elf**: Elves of the kelp forests and sargasso groves beneath the waves, also called sea elves (the 3.5 monster Elf's aquatic elf). +2 Dexterity. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 40 feet. Gills: aquatic elves can survive out of the water for 1 hour per point of Constitution (after that, they begin to [[rangoric-srd/rules/Wilderness, Weather, and Environment#Suffocation|suffocate]]), in place of the aquatic subtype's 2 rounds per point of Constitution. [[rangoric-srd/races/racial-traits/Superior Low-Light Vision|Superior Low-Light Vision]] in place of low-light vision.
 - **Arctic Elf**: Living in oases of warmth hidden among the ice, where hot springs steam in the freezing air. +2 Dexterity, +2 Intelligence, −2 Strength. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on any one [[rangoric-srd/skills/Craft|Craft]] skill (chosen at creation), and +2 on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks in arctic environments. Keen senses covers Perception only: no Investigation bonus and no secret-door sense.
 - **Desert Elf**: Nomads who herd horses, cattle and goats across the sands, welcome everywhere for their news and trade goods. +2 Dexterity, +2 Intelligence, −2 Strength. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. Weapon familiarity: proficient with the scimitar, rapier and shortbow (including composite shortbow) in place of the elf's four weapons. +2 racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks. Keen senses has no Perception bonus.
 - **Jungle Elf**: More primal elves, the remnant of civilizations the jungle swallowed. Weapon familiarity: proficient with the handaxe, rapier, shortsword and shortbow (including composite shortbow) in place of the elf's four weapons. +2 racial bonus on [[rangoric-srd/skills/Society|Society]] checks. No secret-door sense.
+
+**Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/Elf#Subraces|monster Elf]]'s subraces; each has the elf's traits except as noted. As with the variants, a subrace's ability scores take the place of the elf's, but keep the elf's +2 Intelligence. The monster's aquatic elf is the aquatic elf above.
+
+- **Gray Elf**: Taller and grander than other elves, with a reputation for being aloof and arrogant; silver hair and amber eyes, or pale golden hair and violet eyes. +2 Dexterity, +2 Intelligence, −2 Strength, −2 Constitution.
+- **Wild Elf**: Barbaric and tribal, dressed in animal skins and simple plant weaves, with hair from black to light brown that turns silvery white with age. +2 Dexterity.
+- **Wood Elf**: More muscular than other elves, with yellow to coppery red hair, dressed in dark greens and earth tones to blend in with the forest. +2 Strength, +2 Dexterity, −2 Constitution.

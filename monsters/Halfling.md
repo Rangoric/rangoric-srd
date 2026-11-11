@@ -105,11 +105,7 @@ The information above is for the lightfoot halfling, the most common halfling va
 
 Tallfellows are somewhat rare among halfling folk. Tallfellows are 4 feet tall or more and weigh between 30 and 35 pounds. They generally speak Elven in addition to Common and Halfling.
 
-**Tallfellow Traits (Ex)**: These traits are in addition to the lightfoot halfling traits, except where noted.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] and [[rangoric-srd/skills/Perception|Perception]] checks. Like an elf, a tallfellow who merely passes within 5 feet of a secret or concealed door is entitled to an Investigation check as though actively looking for it. This trait replaces the lightfoot’s +2 bonus on Perception checks.
-
-  - Tallfellows are less athletic than lightfoot halflings and do not have a racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Tallfellows are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfling race]], which has their traits.
 
 #### Deep Halfling
 
@@ -117,12 +113,4 @@ These halflings are shorter and stockier than the more common lightfeet.
 
 Deep halflings are about 2-1/2 tall and weigh between 30 and 35 pounds. Deep halflings speak Dwarven fluently.
 
-**Deep Halfling Traits (Ex)**: These traits are in addition to the lightfoot halfling traits, except where noted.
-
-  - Darkvision out to 60 feet.
-
-  - Stonecunning: Like dwarves, deep halflings have a +2 racial bonus on checks to notice unusual stonework. Something that isn’t stone but that is disguised as stone also counts as unusual stonework. A deep halfling who merely comes within 10 feet of unusual stonework can make a check as though actively searching and can use the [[rangoric-srd/skills/Investigation|Investigation]] skill to find stonework traps as a rogue can. A deep halfling can also intuit depth, sensing the approximate distance underground as naturally as a human can sense which way is up.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] checks and [[rangoric-srd/skills/Craft|Craft]] checks that are related to stone or metal.
-
-  - Deep halflings are less athletic than lightfoot halflings and do not have a racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Deep halflings are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfling race]], which has their traits.

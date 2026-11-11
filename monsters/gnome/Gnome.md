@@ -81,12 +81,4 @@ The svirfneblin warrior presented here had the following ability scores before r
 
 They are the smallest of all the gnomes, averaging 2 to 2-1/2 feet in height, but look just like regular gnomes except with bark-colored or gray-green skin, and eyes that can be brown or green as well as blue. A very long-lived people, forest gnomes have an average life expectancy of 500 years.
 
-**Forest Gnome Traits (Ex)**: These traits are in addition to the rock gnome traits, except where noted.
-
-  - *Pass without Trace (Su)*: A forest gnome has the innate ability to use [[rangoric-srd/spells/Pass without Trace|pass without trace]] (self only, as a free action) as the spell cast by a druid of the forest gnome’s class levels.
-
-  - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]], [[rangoric-srd/monsters/Orc|orcs]], and reptilian humanoids.
-
-  - Automatic Languages: Gnome, Elven, Sylvan, and a simple language that enables them to communicate on a very basic level with forest animals (this replaces the rock gnome’s speak with animals ability). Bonus Languages: Common, Draconic, Dwarven, Giant, Goblin, Orc. This trait replaces the rock gnome’s automatic and bonus languages.
-
-  - \+4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +8 in a wooded area.
+Forest gnomes are a [[rangoric-srd/races/Gnome#Subtypes|subtype of the gnome race]], which has their traits.

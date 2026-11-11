@@ -7,9 +7,10 @@ based-on:
   - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)|Gnomes (ARG)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
+  - "[[fantasy srd 3.5/monsters/gnome/Gnome#Subraces|Gnome subraces (3.5)]]"
 status: draft
 change: modified
-pi-review: 2026-11-08
+pi-review: 2026-11-10
 tags: [rangoric, rangoric/race]
 ---
 
@@ -101,3 +102,7 @@ Bundles of alternate traits for gnomes of a particular background.
 - **Arctic Gnome**: Travelers of the ice and snow in enclosed sleds pulled by woolly mammoths. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. No obsessive.
 - **Desert Gnome**: Traders who run fortified posts around wells and oases, and pay for the wells desert dwarves dig. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. No keen senses and no obsessive.
 - **Jungle Gnome**: River folk whose towns are boats tied together across a river, with a toll for passing vessels. Hatred is against goblinoids only. No defensive training. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]] (shipbuilding), and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. No keen senses and no obsessive.
+
+**Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/gnome/Gnome#Subraces|monster Gnome]]'s subraces; each has the gnome's traits except as noted. The svirfneblin is a race of its own, the [[rangoric-srd/races/Svirfneblin|svirfneblin]].
+
+- **Forest Gnome**: The smallest gnomes, 2 to 2½ feet tall, with bark-colored or gray-green skin and brown, green or blue eyes; very long-lived, about 500 years on average. Pass without Trace (Su): a forest gnome can use *[[rangoric-srd/spells/Pass without Trace|pass without trace]]* on itself only, as a free action, with a caster level equal to its level. Hatred also covers orcs. +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +8 in a wooded area. Languages: Common, Gnome, Elven and Sylvan, with Draconic, Dwarven, Giant, Goblin and Orc as bonus languages; a forest gnome can also speak with forest animals on a very basic level, in place of gnome magic's *speak with animals*.

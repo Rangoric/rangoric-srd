@@ -68,15 +68,7 @@ Deep dwarves are the same height as other dwarves, but leaner. Their skin someti
 
 Deep dwarves speak Dwarven and Goblin, and occasionally Draconic or Undercommon.
 
-**Deep Dwarf Traits (Ex)**: These traits are in addition to the hill dwarf traits, except where noted.
-
-  - Racial bonus on saves against spells and spell-like abilities increases to +3.
-
-  - Racial bonus on Fortitude saves against poisons increases to +3.
-
-  - Darkvision out to 90 feet.
-
-  - Light Sensitivity: Deep dwarves are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright sunlight or within the radius of a [[rangoric-srd/spells/Daylight|daylight]] spell.
+Deep dwarves are a [[rangoric-srd/races/Dwarf#Subtypes|subtype of the dwarf race]], which has their traits.
 
 #### Duergar
 
@@ -95,3 +87,5 @@ The duergar warrior presented here had the following ability scores before racia
 #### Mountain Dwarf
 
 Mountain dwarves live deeper under the mountains than hill dwarves but generally not as far underground as deep dwarves. They average about 4-1/2 feet tall and have lighter skin and hair than hill dwarves, but the same general appearance.
+
+Mountain dwarves are the [[rangoric-srd/races/Dwarf#Subtypes|dwarf race]]'s mountain dwarf subtype.
