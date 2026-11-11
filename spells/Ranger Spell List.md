@@ -141,6 +141,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Ironskin\|Ironskin]] (M): |  |
 | [[rangoric-srd/spells/Locate Weakness\|Locate Weakness]] (M): | You roll damage twice when you roll damage for a critical hit and take the best damage. |
 | [[rangoric-srd/spells/Lockjaw\|Lockjaw]] (M): | Gives creature grab ability with a natural attack. |
+| [[rangoric-srd/spells/Nature’s Aspect (Spell)\|Nature’s Aspect (Spell)]]: | Allies temporarily gain an Aspect of Nature. |
 | [[rangoric-srd/spells/Owl’s Wisdom\|Owl’s Wisdom]]:                       | Subject gains +4 to Wis for 1 min./level.                 |
 | [[rangoric-srd/spells/Pack Empathy\|Pack Empathy]]: | Create an empathic bond with allies. |
 | [[rangoric-srd/spells/Perceive Cues\|Perceive Cues]] (M): | +5 Perception and Sense Motive 10 min./level. |

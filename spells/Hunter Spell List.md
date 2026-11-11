@@ -107,6 +107,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Mighty Fist of the Earth\|Mighty Fist of the Earth]]: | You create a fist-sized rock that flies toward one enemy. |
 | [[rangoric-srd/spells/Monkey Fish\|Monkey Fish]]: | Gain a climb speed and a swim speed of 10 ft. for a time. |
 | [[rangoric-srd/spells/Mudball\|Mudball]]: | Conjures a single ball of sticky mud and launch it at an enemy's face as a ranged touch attack. |
+| [[rangoric-srd/spells/Nature’s Aspect (Spell)\|Nature’s Aspect (Spell)]]: | Allies temporarily gain an Aspect of Nature. |
 | [[rangoric-srd/spells/Nature’s Paths\|Nature’s Paths]] (M): | Learn the best way to travel overland |
 | [[rangoric-srd/spells/Nauseating Dart\|Nauseating Dart]]: | Poisonous stinger deals 1d2 damage and sickens target. |
 | [[rangoric-srd/spells/Negate Aroma\|Negate Aroma]] (M): | Subject cannot be tracked by scent. |
@@ -431,6 +432,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Healing Warmth\|Healing Warmth]]: | This spell grants you temporary immunity to fire damage as protection from energy. |
 | [[rangoric-srd/spells/Ice Storm\|Ice Storm]]: | Hail deals 5d6 damage in cylinder 40 ft. across. |
 | [[rangoric-srd/spells/Invoke Deity\|Invoke Deity]] (M F): | Infuse yourself with the powers of your deity's planar realm |
+| [[rangoric-srd/spells/Lesser Ring Dance\|Lesser Ring Dance]] (M): | Dancers pool XP for item creation and spells with an XP cost. |
 | [[rangoric-srd/spells/Moonstruck\|Moonstruck]] (M): | Subject is enraged and confused. |
 | [[rangoric-srd/spells/Named Bullet, Greater\|Named Bullet, Greater]] (M): | As named bullet, but deals 2 points of damage for every caster level. |
 | [[rangoric-srd/spells/Nondetection\|Nondetection]] (M): | Hides subject from divination, scrying. |

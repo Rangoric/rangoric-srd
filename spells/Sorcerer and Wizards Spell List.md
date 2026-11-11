@@ -181,6 +181,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Mirror Polish\|Mirror Polish]] (M): | Polish a metal item until it's usable as a mirror. |
 |               | [[rangoric-srd/spells/Mirror Strike\|Mirror Strike]] (M): | You may strike multiple opponents with a single attack. |
 |               | [[rangoric-srd/spells/Monkey Fish\|Monkey Fish]]: | Gain a climb speed and a swim speed of 10 ft. for a time. |
+|               | [[rangoric-srd/spells/Nature’s Aspect (Spell)\|Nature’s Aspect (Spell)]]: | Allies temporarily gain an Aspect of Nature. |
 |               | [[rangoric-srd/spells/Polypurpose Panacea\|Polypurpose Panacea]]: | Gain a relaxing or entertaining effect. |
 |               | [[rangoric-srd/spells/Recharge Innate Magic\|Recharge Innate Magic]]: | You channel magic energy into your own aura, recharging your innate magic abilities. |
 |               | [[rangoric-srd/spells/Reduce Person\|Reduce Person]]:                                                                                                                                                                              | Humanoid creature halves in size.                                                                                                                                                                                                                                               |
@@ -268,6 +269,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Daze Monster\|Daze Monster]]:                     | Living creature of 6 HD or less loses next action.                                                                                                                                          |
 |               | [[rangoric-srd/spells/Delay Pain\|Delay Pain]]: | Ignore pain for 1 hour/level. |
 |               | [[rangoric-srd/spells/Demand Offering\|Demand Offering]]: | Make a creature give you an object it’s holding. |
+|               | [[rangoric-srd/spells/Faerie Dance\|Faerie Dance]]: | Compels the touched creature to dance. |
 |               | [[rangoric-srd/spells/Hidden Presence\|Hidden Presence]] (M): | Prevent creatures from noticing your presence. |
 |               | [[rangoric-srd/spells/Hideous Laughter\|Hideous Laughter]]:             | Subject loses actions for 1 round/level.                                                                                                                                                    |
 |               | [[rangoric-srd/spells/Hoodwink\|Hoodwink]] (M): | Distort all of the targets senses |
@@ -561,6 +563,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): |  |
 |               | [[rangoric-srd/spells/Secret Page\|Secret Page]]:                                                                                                                                                                                                           | Changes one page to hide its real content.                                                                     |
 |               | [[rangoric-srd/spells/Shifting Sand\|Shifting Sand]] (M): | Creates difficult terrain and erases tracks, can carry along some creatures and objects. |
+|               | [[rangoric-srd/spells/Shrink Creature\|Shrink Creature]] (M): | As reduce person, but the creature becomes one-tenth normal size. |
 |               | [[rangoric-srd/spells/Shrink Item\|Shrink Item]]:                                                                                                                                                                                                           | Object shrinks to one-sixteenth size.                                                                          |
 |               | [[rangoric-srd/spells/Slow\|Slow]]:                                                                                                                                                                                                                         | One subject/level takes only one action/round, –2 to AC, –2 on attack rolls.                                   |
 |               | [[rangoric-srd/spells/Spider Climb, Communal\|Spider Climb, Communal]] (M): | As spider climb, but you may divide the duration among creatures touched. |
@@ -649,6 +652,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Fire Shield\|Fire Shield]]:                                           | Creatures attacking you take fire damage; you’re protected from heat or cold.                                                      |
 |               | [[rangoric-srd/spells/Flaming Sphere, Greater\|Flaming Sphere, Greater]] (M): | Rolling ball of fire deals 6d6 fire damage and ignites targets. |
 |               | [[rangoric-srd/spells/Ice Storm\|Ice Storm]]:                                               | Hail deals 5d6 damage in cylinder 40 ft. across.                                                                                   |
+|               | [[rangoric-srd/spells/Lesser Ring Dance\|Lesser Ring Dance]] (M): | Dancers pool XP for item creation and spells with an XP cost. |
 |               | [[rangoric-srd/spells/Resilient Sphere\|Resilient Sphere]]:                                 | Force globe protects but traps one subject.                                                                                        |
 |               | [[rangoric-srd/spells/River of Wind\|River of Wind]]: | A stream of wind causes nonlethal damage and can knock down or push creatures. |
 |               | [[rangoric-srd/spells/Shout\|Shout]]:                                                       | Deafens all within cone and deals 5d6 sonic damage.                                                                                |
@@ -764,7 +768,8 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Walk the Plank\|Walk the Plank]] (M): | As create pit, but filled with water and contains sharks |
 |               | [[rangoric-srd/spells/Wall of Stone\|Wall of Stone]]:                   | Creates a stone wall that can be shaped.                                                               |
 |               | [[rangoric-srd/spells/Whip of Centipedes\|Whip of Centipedes]]: | Create a whip made of poisonous centipedes. |
-| Divination    | [[rangoric-srd/spells/Contact Other Plane\|Contact Other Plane]]:       | Lets you ask question of extraplanar entity.                                                           |
+| Divination    | [[rangoric-srd/spells/Contact Fey Oracle\|Contact Fey Oracle]] (F): | As contact other plane, but always true and cryptic. |
+|               | [[rangoric-srd/spells/Contact Other Plane\|Contact Other Plane]]:       | Lets you ask question of extraplanar entity.                                                           |
 |               | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
 |               | [[rangoric-srd/spells/Mind Probe\|Mind Probe]]: | Learn answers from a subject’s memories. |
 |               | [[rangoric-srd/spells/Prying Eyes\|Prying Eyes]]:                       | 1d4 +1/level floating eyes scout for you.                                                              |
@@ -776,6 +781,7 @@ tags: [rangoric, rangoric/overview]
 | Enchantment   | [[rangoric-srd/spells/Charm Person, Mass\|Charm Person, Mass]]: | As charm person, but affects multiple creatures within 30 ft. |
 |               | [[rangoric-srd/spells/Curse of Disgust\|Curse of Disgust]]: | Target is sickened while viewing trigger. |
 |               | [[rangoric-srd/spells/Dominate Person\|Dominate Person]]:               | Controls humanoid telepathically.                                                                      |
+|               | [[rangoric-srd/spells/Eon of Sleep\|Eon of Sleep]] (M): | Puts the subject to sleep for years. |
 |               | [[rangoric-srd/spells/Feeblemind\|Feeblemind]]:                         | Subject’s Int and Cha drop to 1.                                                                       |
 |               | [[rangoric-srd/spells/Hold Monster\|Hold Monster]]:                     | As hold person, but any creature.                                                                      |
 |               | [[rangoric-srd/spells/Mind Fog\|Mind Fog]]:                             | Subjects in fog get –10 to Wis and Will checks.                                                        |
@@ -1000,6 +1006,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Delayed Blast Fireball\|Delayed Blast Fireball]]:             | 1d6/level fire damage; you can postpone blast for 5 rounds.                                                                                  |
 |               | [[rangoric-srd/spells/Forcecage\|Forcecage]] (M):                                   | Cube or cage of force imprisons all inside.                                                                                                  |
 |               | [[rangoric-srd/spells/Grasping Hand\|Grasping Hand]]:                               | Hand provides cover, pushes, or [[rangoric-srd/combat/Combat Maneuvers#Grapple\|grapples]].                                         |
+|               | [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |
 |               | [[rangoric-srd/spells/Ki Shout\|Ki Shout]]: | Target takes 1d6 sonic/level and is stunned. |
 |               | [[rangoric-srd/spells/Mage’s Sword\|Mage’s Sword]] (F):                             | Floating magic blade strikes opponents.                                                                                                      |
 |               | [[rangoric-srd/spells/Prismatic Spray\|Prismatic Spray]]:                           | Rays hit subjects with variety of effects.                                                                                                   |
@@ -1031,6 +1038,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Elemental Body IV\|Elemental Body IV]] (M): | You become a Small to Huge elemental. |
 |               | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]]:                             | You become ethereal for 1 round/level.                                                                                                       |
 |               | [[rangoric-srd/spells/Fey Form III\|Fey Form III]] (M): | Assume the form of a Diminutive or Huge fey creature |
+|               | [[rangoric-srd/spells/Feyform\|Feyform]] (M): | Grants the fey-born template for the duration. |
 |               | [[rangoric-srd/spells/Firebrand\|Firebrand]]: | Allies gain flaming weapons, immunity to your fire spells, and a one-use ray of fire attack. |
 |               | [[rangoric-srd/spells/Fly, Mass\|Fly, Mass]] (F): | One creature/level gains ability to fly. |
 |               | [[rangoric-srd/spells/Form of the Dragon II\|Form of the Dragon II]] (M): | You become a Medium or Large dragon. |
@@ -1062,6 +1070,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 |               | [[rangoric-srd/spells/Incendiary Cloud\|Incendiary Cloud]]:                   | Cloud deals 4d6 fire damage/round.                                                                                             |
 |               | [[rangoric-srd/spells/Instant Summons, Greater\|Instant Summons, Greater]] (M): | As instant summons, but for multiple objects and creatures. |
+|               | [[rangoric-srd/spells/Mass Displacement\|Mass Displacement]] (M): | As displacement, for any number of creatures within 180 ft. of each other. |
 |               | [[rangoric-srd/spells/Maze\|Maze]]:                                           | Traps subject in extradimensional maze.                                                                                        |
 |               | [[rangoric-srd/spells/Planar Binding, Greater\|Planar Binding, Greater]]:     | As lesser planar binding, but up to 18 HD.                                                                                     |
 |               | [[rangoric-srd/spells/Seamantle\|Seamantle]] (M): | Sheathes you in protective water. |
