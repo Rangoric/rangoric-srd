@@ -79,26 +79,4 @@ The tiefling warrior presented here had the following ability scores before raci
 
 ## Tieflings as Characters
 
-Tiefling characters possess the following racial traits.
-
-  - \+2 Dexterity, +2 Intelligence, –2 Charisma.
-
-  - Medium size.
-
-  - A tiefling’s base land speed is 30 feet.
-
-  - Darkvision out to 60 feet.
-
-  - Racial Skills: Tieflings have a +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
-
-  - Racial Feats: A tiefling gains feats according to its class levels.
-
-  - Special Attacks (see above): [[rangoric-srd/spells/Darkness|Darkness]].
-
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to cold]] 5, electricity 5, and fire 5.
-
-  - Automatic Languages: Common, Infernal. Bonus Languages: Draconic, Dwarven, Elven, Gnome, Goblin, Halfling, Orc.
-
-  - Level adjustment +1.
-
-**Paragon Class**: tieflings can advance as [[rangoric-srd/classes/Tiefling Paragon|tiefling paragons]].
+Tiefling characters use the [[rangoric-srd/races/Tiefling|tiefling]] race, which has their racial traits, alternate racial traits and level adjustment.

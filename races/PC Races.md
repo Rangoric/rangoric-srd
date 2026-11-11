@@ -24,6 +24,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Half-Orc|Half-Orc]]
 - [[rangoric-srd/races/Halfling|Halfling]]
 - [[rangoric-srd/races/Human|Human]]
+- [[rangoric-srd/races/Tiefling|Tiefling]]
 
 ##### Race and Languages
 
