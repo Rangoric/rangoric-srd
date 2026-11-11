@@ -389,6 +389,8 @@ Allies of a creature with a gaze attack might be affected. All the creature’s 
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze Attacks]] under Special Abilities.  
 
+**Giant Subtype**: A humanoid subtype for humanoids of giant blood, such as [[rangoric-srd/races/Ogre|ogres]] played as a race, which are humanoids rather than creatures of the [[#^giant|giant type]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^giant-subtype
+
 **Giant Type**: A giant is a humanoid-shaped creature of great strength, usually of at least Large size. ^giant
 
 *Features*: A giant has the following features.

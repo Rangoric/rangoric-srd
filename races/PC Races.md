@@ -6,6 +6,7 @@ based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Racial Traits|Racial Traits (APG)]]"
   - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
+  - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
 status: draft
 change: modified
 pi-review: 2026-11-10
@@ -40,6 +41,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Kobold|Kobold]]
 - [[rangoric-srd/races/Lizardfolk|Lizardfolk]]
 - [[rangoric-srd/races/Merfolk|Merfolk]]
+- [[rangoric-srd/races/Ogre|Ogre]]
 - [[rangoric-srd/races/Orc|Orc]]
 - [[rangoric-srd/races/Oread|Oread]]
 - [[rangoric-srd/races/Ratfolk|Ratfolk]]
@@ -86,3 +88,11 @@ A Small character gets a +1 size bonus to Armor Class, a +1 size bonus on attack
 A Small character generally moves about two-thirds as fast as a Medium character.
 
 A Small character must use smaller weapons than a Medium character.
+
+##### Large Characters
+
+A Large character gets a −1 size penalty to Armor Class, a −1 size penalty on attack rolls, a +1 bonus on combat maneuver checks and to CMD (the [[rangoric-srd/combat/Combat Maneuvers#^special-size-modifier|special size modifier]]), and a −4 size penalty on [[rangoric-srd/skills/Stealth|Stealth]] checks. A Large character’s carrying capacity is twice that of a Medium character (see [[rangoric-srd/rules/Carrying, Movement, and Exploration#Carrying Capacity|carrying capacity]]).
+
+A Large character takes up a space 10 feet by 10 feet and has a reach of 5 feet, unless its race gives it a longer reach (see [[rangoric-srd/combat/Combat Movement#Big and Little Creatures in Combat|big and little creatures in combat]]).
+
+A Large character must use larger weapons than a Medium character (see weapon size in [[rangoric-srd/equipment/Equipment Weapons#Weapon Categories|Equipment Weapons]]).
