@@ -23,3 +23,5 @@ tags: [rangoric, rangoric/racial-trait]
 **Race**: the fey races of Faeries (a base racial trait). **Replaces**: nothing.
 
 Born of a supernatural world where distances are fluid and based on misdirection or force of will, creatures with fey blood are resistant to illusion and enchantment spells. They have a racial bonus on saving throws against illusion and enchantment spells and spell-like abilities. The race note gives the starting bonus and how often it increases by +1 as the character gains levels.
+
+Used by: the [[rangoric-srd/races/Feeorin|Feeorin]] (+2, increasing every two levels); the [[rangoric-srd/races/Half-Fey|Half-Fey]] (+1, increasing every four levels).
