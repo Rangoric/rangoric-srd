@@ -28,6 +28,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Gillman|Gillman]]
 - [[rangoric-srd/races/Gnome|Gnome]]
 - [[rangoric-srd/races/Goblin|Goblin]]
+- [[rangoric-srd/races/Grippli|Grippli]]
 - [[rangoric-srd/races/Half-Elf|Half-Elf]]
 - [[rangoric-srd/races/Half-Orc|Half-Orc]]
 - [[rangoric-srd/races/Halfling|Halfling]]
