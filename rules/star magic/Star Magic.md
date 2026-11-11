@@ -179,6 +179,24 @@ The 26 known constellations, one note each in `constellations` (the [[rangoric-s
 | [[rangoric-srd/rules/star magic/constellations/The Scale|The Scale]] | 9th | [[rangoric-srd/rules/star magic/stars/Star of Frost|Frost]], [[rangoric-srd/rules/star magic/stars/Star of Justice|Justice]], [[rangoric-srd/rules/star magic/stars/Star of Life|Life]], [[rangoric-srd/rules/star magic/stars/Star of Silence|Silence]], [[rangoric-srd/rules/star magic/stars/Star of Water|Water]] |
 | [[rangoric-srd/rules/star magic/constellations/The Trumpet|The Trumpet]] | 9th | [[rangoric-srd/rules/star magic/stars/Star of Destruction|Destruction]], [[rangoric-srd/rules/star magic/stars/Star of Fire|Fire]], [[rangoric-srd/rules/star magic/stars/Star of Hate|Hate]], [[rangoric-srd/rules/star magic/stars/Star of Oaths|Oaths]], [[rangoric-srd/rules/star magic/stars/Star of Peril|Peril]], [[rangoric-srd/rules/star magic/stars/Star of Thunder|Thunder]] |
 
+## Star Magic Feats ^feats
+
+Feats from star magic: [[rangoric-srd/feats/Astrologer (Feat)|Astrologer (Feat)]], [[rangoric-srd/feats/Favoured by the Stars|Favoured by the Stars]], [[rangoric-srd/feats/Natural Lens|Natural Lens]], [[rangoric-srd/feats/Secret Star of Change|Secret Star of Change]], [[rangoric-srd/feats/Secret Star of Power|Secret Star of Power]], [[rangoric-srd/feats/Secret Star of Reality|Secret Star of Reality]], [[rangoric-srd/feats/Secret Star of Time|Secret Star of Time]]. The four secret stars (Secret Star of Change, Power, Reality and Time) are stars too strong to call on their own, used only to change other stars; they are feats, not stars, and their names start with "Secret" so they aren't taken for stars that can be called.
+
+### Sign Feats ^sign-feats
+
+A sign feat (the [[rangoric-srd/Tag Register|tag]] `sign`) is a birth sign: a constellation marked the character at birth. Each can be taken only at 1st level, as its note says, and some pair their benefit with a drawback. An astrologer with the [[rangoric-srd/feats/Astrologer (Feat)|Astrologer (Feat)]] feat can work out when and where a child must be born to have a given sign.
+
+- [[rangoric-srd/feats/Sign of the Crown|Sign of the Crown]]
+- [[rangoric-srd/feats/Sign of the Dragon’s Maw|Sign of the Dragon’s Maw]]
+- [[rangoric-srd/feats/Sign of the Eye|Sign of the Eye]]
+- [[rangoric-srd/feats/Sign of the Fan|Sign of the Fan]]
+- [[rangoric-srd/feats/Sign of the Hunter|Sign of the Hunter]]
+- [[rangoric-srd/feats/Sign of the Scroll|Sign of the Scroll]]
+- [[rangoric-srd/feats/Sign of the Steed|Sign of the Steed]]
+- [[rangoric-srd/feats/Sign of the Sword|Sign of the Sword]]
+- [[rangoric-srd/feats/Sign of the Trumpet|Sign of the Trumpet]]
+
 ## New Stars and Constellations
 
 New stars and constellations are made as new spells are, with these limits. A star is as strong as a 1st-level spell (no more than 5 damage dice against one creature) and says what each higher call level does: usually range, area and duration grow with caster level, while bonuses and damage grow with call level. A constellation is as strong as other spells of its minimum call level, its range, area, duration and effect grow with caster level, and overcalling adds to or changes its effect. A constellation can allow only some call levels (say 4th, 7th and 9th, but not 5th), and if so, it says which.

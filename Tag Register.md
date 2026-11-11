@@ -43,6 +43,7 @@ Every game tag used in `rangoric-srd`: what it means, what it goes on, and how m
 | `psionic` | Feats | A psionic feat: only for manifesters; many use psionic focus | [[rangoric-srd/psionics/Psionic Feats\|Psionic Feats]] | 46 feats | In use (2026-11-01) |
 | `metapsionic` | Feats | A metapsionic feat: changes a power, at a higher power point cost | [[rangoric-srd/psionics/Psionic Feats#Metapsionic Feats\|Psionic Feats]] | 13 feats | In use (2026-11-01) |
 | `spelltouched` | Feats | A spelltouched feat (Unearthed Arcana): open only to someone affected by its spell | [[rangoric-srd/unearthed-arcana/Spelltouched Feats\|Spelltouched Feats]] | 17 feats | In use (2026-11-01) |
+| `sign` | Feats | A sign feat: a birth sign from star magic, taken only at 1st level; some pair a bonus with a drawback | [[rangoric-srd/rules/star magic/Star Magic#^sign-feats|Star Magic]] | 9 feats | In use (2026-11-10) |
 
 ## Candidates for later
 
