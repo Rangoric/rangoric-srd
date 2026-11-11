@@ -461,7 +461,7 @@ An incorporeal creature moves silently and cannot be heard with Perception check
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|Incorporeality]] under Special Abilities.
 
-**Kitsune Subtype**: A humanoid subtype for kitsune, who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
+**Kitsune Subtype**: A humanoid subtype for [[rangoric-srd/races/Kitsune|kitsune]], who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
 
