@@ -95,6 +95,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Innocence\|Innocence]]: | Gain +10 on Deception checks to seem innocent. |
 | [[rangoric-srd/spells/Invigorate\|Invigorate]]: | Temporarily relieves fatigue or exhaustion. |
 | [[rangoric-srd/spells/Invisibility Alarm\|Invisibility Alarm]]: | As alarm, but reacting only to invisible creatures. |
+| [[rangoric-srd/spells/Iron Shard\|Iron Shard]] (M): | Iron needle deals 1d4 + level damage (1d6 + level vs. fey). |
 | [[rangoric-srd/spells/Jitterbugs\|Jitterbugs]]: | You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs. |
 | [[rangoric-srd/spells/Jury-Rig\|Jury-Rig]] (M): | Removes the broken condition from the targeted object. |
 | [[rangoric-srd/spells/Ki Arrow\|Ki Arrow]]: | Arrow deals damage as your unarmed strike. |
@@ -107,6 +108,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Memorize Page\|Memorize Page]] (F): | Target perfectly memorizes one page of information. |
 | [[rangoric-srd/spells/Memory Lapse\|Memory Lapse]]: | Subject forgets events back to last turn. |
 | [[rangoric-srd/spells/Moment of Greatness\|Moment of Greatness]] (M): | Doubles a morale bonus. |
+| [[rangoric-srd/spells/Nature’s Aspect (Spell)\|Nature’s Aspect (Spell)]]: | Allies temporarily gain an Aspect of Nature. |
 | [[rangoric-srd/spells/Nature’s Paths\|Nature’s Paths]] (M): | Learn the best way to travel overland |
 | [[rangoric-srd/spells/Negative Reaction\|Negative Reaction]]: | Targeted creature may not positively influence anyone. |
 | [[rangoric-srd/spells/Obscure Object\|Obscure Object]]:                 | Masks object against scrying.                                                                               |
@@ -408,12 +410,14 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:     | Subject moves normally despite impediments.                                                                                        |
 | [[rangoric-srd/spells/Ghost Brand\|Ghost Brand]] (M): | Allow an item to transform into a brand and back. |
 | [[rangoric-srd/spells/Ghostbane Dirge, Mass\|Ghostbane Dirge, Mass]] (M): | As ghostbane dirge, but affects multiple creatures. |
+| [[rangoric-srd/spells/Greater Iron Shards\|Greater Iron Shards]] (M): | Iron needles deal 1d4/level + level damage (1d6/level + level vs. fey; max 10 dice); embedded shards keep hurting fey. |
 | [[rangoric-srd/spells/Hallucinatory Terrain\|Hallucinatory Terrain]]: | Makes one type of terrain appear like another (field into forest, or the like).                                                    |
 | [[rangoric-srd/spells/Heroic Finale\|Heroic Finale]]: | Subject within range of your bardic performance can take an action. |
 | [[rangoric-srd/spells/Heroic Fortune, Mass\|Heroic Fortune, Mass]] (M): | As heroic fortune, but for several creatures. |
 | [[rangoric-srd/spells/Hold Monster\|Hold Monster]]:                   | As hold person, but any creature.                                                                                                  |
 | [[rangoric-srd/spells/Invisibility, Greater\|Invisibility, Greater]]: | As invisibility, but subject can attack and stay [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]]. |
 | [[rangoric-srd/spells/Legend Lore\|Legend Lore]] (M F):               | Lets you learn tales about a person, place, or thing.                                                                              |
+| [[rangoric-srd/spells/Lesser Ring Dance\|Lesser Ring Dance]] (M): | Dancers pool XP for item creation and spells with an XP cost. |
 | [[rangoric-srd/spells/Locate Creature\|Locate Creature]]:             | Indicates direction to familiar creature.                                                                                          |
 | [[rangoric-srd/spells/Majestic Image\|Majestic Image]] (M): | As enter image, but also gain bonuses on social skills while in the image. |
 | [[rangoric-srd/spells/Modify Memory\|Modify Memory]]:                 | Changes 5 minutes of subject’s memories.                                                                                           |
@@ -456,11 +460,13 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cacophonous Call, Mass\|Cacophonous Call, Mass]] (M): | Nauseates multiple targets. |
 | [[rangoric-srd/spells/Cloak of Dreams\|Cloak of Dreams]] (M): | Causes living creatures within 5 ft. to fall asleep. |
 | [[rangoric-srd/spells/Cloak of Shadows\|Cloak of Shadows]]: | Shadows protect you from bright light and grants defensive abilities |
+| [[rangoric-srd/spells/Contact Fey Oracle\|Contact Fey Oracle]] (F): | As contact other plane, but always true and cryptic. |
 | [[rangoric-srd/spells/Crime Wave\|Crime Wave]] (M): | Compel targets to commit criminal actions. |
 | [[rangoric-srd/spells/Cure Light Wounds, Mass\|Cure Light Wounds, Mass]]: | Cures 1d8 damage +1/level for many creatures.                                                                           |
 | [[rangoric-srd/spells/Deafening Song Bolt\|Deafening Song Bolt]]: | Blast of song deals 3d10 damage and deafens targets. |
 | [[rangoric-srd/spells/Dispel Magic, Greater\|Dispel Magic, Greater]]:     | As dispel magic, but +20 on check.                                                                                      |
 | [[rangoric-srd/spells/Dream\|Dream]]:                                     | Sends message to anyone sleeping.                                                                                       |
+| [[rangoric-srd/spells/Eon of Sleep\|Eon of Sleep]] (M): | Puts the subject to sleep for years. |
 | [[rangoric-srd/spells/False Vision\|False Vision]] (M):                   | Fools scrying with an illusion.                                                                                         |
 | [[rangoric-srd/spells/Foe to Friend\|Foe to Friend]]: | Redirect an enemy creature's attack. |
 | [[rangoric-srd/spells/Frozen Note\|Frozen Note]]: | Paralyzes creatures listening to your song. |

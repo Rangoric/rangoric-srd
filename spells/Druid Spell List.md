@@ -82,6 +82,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Mighty Fist of the Earth\|Mighty Fist of the Earth]]: | You create a fist-sized rock that flies toward one enemy. |
 | [[rangoric-srd/spells/Monkey Fish\|Monkey Fish]]: | Gain a climb speed and a swim speed of 10 ft. for a time. |
 | [[rangoric-srd/spells/Mudball\|Mudball]]: | Conjures a single ball of sticky mud and launch it at an enemy's face as a ranged touch attack. |
+| [[rangoric-srd/spells/Nature’s Aspect (Spell)\|Nature’s Aspect (Spell)]]: | Allies temporarily gain an Aspect of Nature. |
 | [[rangoric-srd/spells/Nature’s Paths\|Nature’s Paths]] (M): | Learn the best way to travel overland |
 | [[rangoric-srd/spells/Nauseating Dart\|Nauseating Dart]]: | Poisonous stinger deals 1d2 damage and sickens target. |
 | [[rangoric-srd/spells/Negate Aroma\|Negate Aroma]] (M): | Subject cannot be tracked by scent. |
@@ -344,6 +345,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Grove of Respite\|Grove of Respite]] (M): | Creates trees and a small spring. |
 | [[rangoric-srd/spells/Healing Warmth\|Healing Warmth]]: | This spell grants you temporary immunity to fire damage as protection from energy. |
 | [[rangoric-srd/spells/Ice Storm\|Ice Storm]]:                             | Hail deals 5d6 damage in cylinder 40 ft. across.                                                             |
+| [[rangoric-srd/spells/Lesser Ring Dance\|Lesser Ring Dance]] (M): | Dancers pool XP for item creation and spells with an XP cost. |
 | [[rangoric-srd/spells/Life Bubble\|Life Bubble]] (M): | Protects creatures from sustained environmental effects. |
 | [[rangoric-srd/spells/Moonstruck\|Moonstruck]] (M): | Subject is enraged and confused. |
 | [[rangoric-srd/spells/Obsidian Flow\|Obsidian Flow]] (M): | Converts the surface of the ground into molten glass. |
@@ -475,6 +477,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Entice Fey\|Entice Fey]] (M): | Entice service from a fey with 12 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Fairy Ring Retreat\|Fairy Ring Retreat]]: | Toadstool circle leads to an extradimensional meadow. |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                 | Deals 1d6/level fire damage.                                                                           |
+| [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |
 | [[rangoric-srd/spells/Heal (Spell)\|Heal]]:                                     | Cures 10 points/level of damage, all diseases and mental conditions.                                   |
 | [[rangoric-srd/spells/Rampart\|Rampart]] (M): | Creates 5-ft.-thick earthen barrier. |
 | [[rangoric-srd/spells/Scouring Winds\|Scouring Winds]]: | Winds block vision and deal 3d6 damage per round. |

@@ -79,6 +79,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Mighty Fist of the Earth\|Mighty Fist of the Earth]]: | You create a fist-sized rock that flies toward one enemy. |
 | [[rangoric-srd/spells/Moment of Greatness\|Moment of Greatness]] (M): | Doubles a morale bonus. |
 | [[rangoric-srd/spells/Murderous Command\|Murderous Command]]: | Target is compelled to kill its ally. |
+| [[rangoric-srd/spells/Nature’s Aspect (Spell)\|Nature’s Aspect (Spell)]]: | Allies temporarily gain an Aspect of Nature. |
 | [[rangoric-srd/spells/Obscure Poison\|Obscure Poison]] (M): | Make it harder to detect a poison or venomous creature. |
 | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:                                                                                                                               | Fog surrounds you.                                                                       |
 | [[rangoric-srd/spells/Positive Pulse\|Positive Pulse]]: | Energy harms undead or bolsters the living |
@@ -337,6 +338,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Healing Warmth\|Healing Warmth]]: | This spell grants you temporary immunity to fire damage as protection from energy. |
 | [[rangoric-srd/spells/Imbue with Spell Ability\|Imbue with Spell Ability]]: | Transfer spells to subject.                                                                                           |
 | [[rangoric-srd/spells/Inflict Critical Wounds\|Inflict Critical Wounds]]:   | Touch attack, 4d8 damage +1/level (max +20).                                                                          |
+| [[rangoric-srd/spells/Lesser Ring Dance\|Lesser Ring Dance]] (M): | Dancers pool XP for item creation and spells with an XP cost. |
 | [[rangoric-srd/spells/Magic Weapon, Greater\|Magic Weapon, Greater]]:       | +1 bonus/four levels (max +5).                                                                                       |
 | [[rangoric-srd/spells/Majestic Image\|Majestic Image]] (M): | As enter image, but also gain bonuses on social skills while in the image. |
 | [[rangoric-srd/spells/Mark of the Reptile God\|Mark of the Reptile God]]: |  |
@@ -508,6 +510,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dictum\|Dictum]]:                                             | Kills, paralyzes, slows, or deafens nonlawful subjects.                                                                                                                                           |
 | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]]:                             | You become ethereal for 1 round/level.                                                                                                                                                            |
 | [[rangoric-srd/spells/False Resurrection\|False Resurrection]] (M): | Appear to resurrect someone but instead allow a shadow demon to possess the corpse. |
+| [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |
 | [[rangoric-srd/spells/Holy Word\|Holy Word]]:                                       | Kills, paralyzes, [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]], or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened\|deafens]] nongood subjects. |
 | [[rangoric-srd/spells/Inflict Serious Wounds, Mass\|Inflict Serious Wounds, Mass]]: | Deals 3d8 damage +1/level to many creatures.                                                                                                                                                      |
 | [[rangoric-srd/spells/Jolting Portent\|Jolting Portent]]: | You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell. |
