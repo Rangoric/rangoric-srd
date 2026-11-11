@@ -321,7 +321,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
 
   - Elementals do not eat, sleep, or breathe.
 
-**Elf Subtype**: A humanoid subtype for [[rangoric-srd/races/Elf|elves]] and their kin, such as drow; [[rangoric-srd/races/Half-Elf|half-elves]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^elf
+**Elf Subtype**: A humanoid subtype for [[rangoric-srd/races/Elf|elves]] and their kin, such as [[rangoric-srd/races/Drow|drow]]; [[rangoric-srd/races/Half-Elf|half-elves]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^elf
 
 **Energy Drain (Su)**: This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one or more negative levels (the creature’s description specifies how many). If an attack that includes an energy drain scores a critical hit, it drains twice the given amount. Unless otherwise specified in the creature’s description, a draining creature gains 5 temporary hit points (10 on a critical hit) for each negative level it bestows on an opponent. These temporary hit points last for a maximum of 1 hour. An affected opponent takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die (whenever level is used in a die roll or calculation) for each negative level. A spellcaster loses one spell slot of the highest level of spells she can cast and (if applicable) one prepared spell of that level; this loss persists until the negative level is removed. Negative levels remain until 24 hours have passed or until they are removed with a spell, such as restoration. If a negative level is not removed before 24 hours have passed, the affected creature must attempt a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level goes away, but the creature’s level is also reduced by one. A separate saving throw is required for each negative level.  
  ^energy-drain
@@ -611,7 +611,7 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
   - Oozes eat and breathe, but do not sleep.
 
-**Orc Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Orc|orcs]]; [[rangoric-srd/races/Half-Orc|half-orcs]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^orc
+**Orc Subtype**: A humanoid subtype for [[rangoric-srd/races/Orc|orcs]]; [[rangoric-srd/races/Half-Orc|half-orcs]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^orc
 
 **Outsider Type**: An outsider is at least partially composed of the essence (but not necessarily the material) of some plane other than the Material Plane. Some creatures start out as some other type and become outsiders when they attain a higher (or lower) state of spiritual existence. ^outsider
 

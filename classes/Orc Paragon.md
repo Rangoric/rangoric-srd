@@ -5,7 +5,7 @@ alignment: "Any"
 hit-die: "d10"
 skill-points: "2 + Int modifier"
 book: "Unearthed Arcana"
-race: "[[rangoric-srd/monsters/Orc|orcs]]"
+race: "[[rangoric-srd/races/Orc|orcs]]"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"
 status: draft
@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class]
 
 ### Orc Paragon
 
-**Race**: only [[rangoric-srd/monsters/Orc|orcs]] can take levels in this class (for now based on the monster orc; their race comes with the other Pathfinder races). It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
+**Race**: only [[rangoric-srd/races/Orc|orcs]] can take levels in this class. It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
 
 Aggressive, brutal, and often at odds with the other humanoid races, orcs view war and hatred as their right. They have a deep and nearly endless enmity for elves and dwarves, having battled both races for countless generations. Like members of other paragon classes, orc paragons embody the best of their race, combining the strength and confidence of their people with intelligent observation and a willingness to temper risk with calculation.
 

@@ -79,16 +79,4 @@ The hobgoblin warrior presented here had the following ability scores before rac
 
 ### Hobgoblin Characters
 
-Hobgoblin characters possess the following racial traits.
-
-  - \+2 Dexterity, +2 Constitution.
-
-  - A hobgoblin’s base land speed is 30 feet.
-
-  - Darkvision out to 60 feet.
-
-  - \+4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
-
-  - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Dwarven, Infernal, Giant, Orc.
-
-  - Level adjustment +1.
+Hobgoblin characters use the [[rangoric-srd/races/Hobgoblin|hobgoblin]] race, which has their racial traits, alternate racial traits, subtypes and level adjustment.

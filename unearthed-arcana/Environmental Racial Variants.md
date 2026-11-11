@@ -136,18 +136,7 @@ Aquatic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnom
 
 ### Aquatic Goblins
 
-Aquatic goblins are feared and reviled as ocean-dwelling piranhas. A band of aquatic goblins and their [[rangoric-srd/monsters/shark/Shark|shark]] mounts is likely to swoop down on any individual or group perceived as weak, to strip it of everything from gold and jewelry to clothing and hides. Leaving a trail of junk behind them as they evaluate their loot, the bandits swim off in search of other unlucky victims.
-
-Aquatic goblins to take up adventuring for many reasons. While most goblins are neutral evil, many have different beliefs and seek like-minded individuals outside the tribe. Some lack opportunities to advance, and tire of living on the scraps of those with more authority or higher social position.
-
-##### Racial Traits
-
-Aquatic goblins have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Constitution, -2 Charisma. Aquatic goblins are hardy creatures, but weaker than many races.
-  - An aquatic goblin has a swim speed of 30 feet.
-  - Thievery: Aquatic goblins get a +2 racial bonus on [[rangoric-srd/skills/Engineering|Engineering]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks.
-  - An aquatic goblin's racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks is only +2. Aquatic goblins are known for riding Medium [[rangoric-srd/monsters/shark/Shark|sharks]].
+Aquatic goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Aquatic Half-Elves
 
@@ -167,29 +156,11 @@ Aquatic humans are now a subtype of the [[rangoric-srd/races/Human#Subtypes|huma
 
 ### Aquatic Kobolds
 
-Aquatic kobolds are seldom seen outside their mines, much like their surface-dwelling cousins — despite the fact that their broad tails make them exceptional swimmers. They dig constantly, always expanding their subterranean territory, and as a result frequently come into conflict with [[#Aquatic Dwarves|aquatic dwarves]]. Aquatic kobolds often hire mercenaries to fight for them, hiding behind their carefully constructed traps and other defenses and paying their defenders with the mineral wealth they uncover while expanding their warrens.
-
-The life of an aquatic kobold is one of constant toil and fear. Some few kobolds seek peace of mind through personal power and boon companions. These rare individuals become adventurers.
-
-##### Racial Traits
-
-Aquatic kobolds have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], as well as the following trait.
-
-  - An aquatic kobold has a swim speed of 40 feet.
+Aquatic kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Aquatic Orcs
 
-Aquatic orcs survive on the slopes of cliff sides or undersea drops, far from the warmth of volcanic vents and the nurturing light of the sun. As such, they control access to the secrets of the deep ocean trenches — but are menaced by fell creatures that rise up out of the trenches in search of fresh prey.
-
-Aquatic orcs stand ever vigilant against attackers and thieves when they're not making preemptive strikes against those foolish enough to settle near their territory.
-
-Occasionally an individual orc questions the need for constant battle, or seeks strategies other than brute force. Such iconoclasts often leave their tribes — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Aquatic orcs have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], as well as the following trait.
-
-  - An aquatic orc has a swim speed of 30 feet.
+Aquatic orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].
 
 ## Arctic Races
 
@@ -249,19 +220,7 @@ Arctic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome
 
 ### Arctic Goblins
 
-Arctic goblins are feared and reviled because their appearance heralds theft, assaults, and property damage. They survive by moving from place to place, constantly driven out of their previous homes by irate neighbors.
-
-Arctic goblins to take up adventuring for many reasons. While most goblins are neutral evil, many have different beliefs and seek like-minded individuals outside the tribe. Some just want an opportunity to settle down and work to earn a better reputation than that of their fellows.
-
-##### Racial Traits
-
-Arctic goblins have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Constitution, -2 Charisma. Arctic goblins are hardy creatures, but weaker than many races.
-  - Low-Light Vision: An arctic goblin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks: Arctic goblins are natural thieves, snatching up anything that isn't nailed down.
-  - No racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks: Arctic goblins aren't as stealthy as their nonarctic cousins.
+Arctic goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Arctic Half-Elves
 
@@ -277,30 +236,11 @@ Arctic halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes
 
 ### Arctic Kobolds
 
-Arctic kobolds are seldom seen outside their mines. They dig constantly, always expanding their subterranean territory (which is often carefully constructed to tap into geothermal vents for heat, and as a result are in constant conflict with [[#Arctic Dwarves|arctic dwarves]]. Arctic kobolds often hire mercenaries to fight for them, hiding behind their carefully constructed traps and other defenses and paying their defenders with the mineral wealth they uncover while expanding their warrens.
-
-##### Racial Traits
-
-Aquatic kobolds have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], with one exception as noted below.
-
-  - \-2 Strength, +2 Dexterity, -2 Constitution, -2 Wisdom: Arctic kobolds are stronger. than other kobolds, but are weaker of will.
+Arctic kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Arctic Orcs
 
-Arctic orcs are primitive herders, eking out a living on the slopes of volcanic mountains and building their crude huts near hot springs or steam vents. They herd woolly cattle, caribou, and elk. As a result, they control large sources of meat, water, and heat — all things coveted by others living in or traveling through the arctic. What they don't have, they take by force.
-
-Arctic orcs stand ever vigilant against attackers and thieves when they're not making preemptive strikes against those foolish enough to settle near their territory.
-
-Occasionally an individual orc questions the need for constant battle, or seeks strategies other than brute force. Such iconoclasts often leave their tribes — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Arctic orcs have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: An arctic orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - No light sensitivity.
-  - \+2 racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks: Arctic orcs are herders, and they rely on their skills with animals to keep their tribes fed.
+Arctic orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].
 
 ## Desert Races
 
@@ -362,17 +302,7 @@ Desert gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome
 
 ### Desert Goblins
 
-Desert goblins are feared and reviled because their appearance often heralds the arrival of a horde of nomadic [[rangoric-srd/monsters/Hobgoblin|hobgoblins]] and [[rangoric-srd/monsters/Bugbear|bugbears]]. As the desert dwarf proverb puts it, “The only good thing about goblins is that once they arrive, you know they'll soon be gone.”
-
-Desert goblins take up adventuring for many reasons. While most goblins are neutral evil, many have different beliefs and seek like-minded individuals outside the tribe. Some lack opportunities to advance, and they tire of living on the scraps of those with more authority or higher social position.
-
-##### Racial Traits
-
-Desert goblins have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A desert goblin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: Desert goblins soak up gossip like sponges when they visit towns or settlements.
+Desert goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Desert Half-Elves
 
@@ -388,36 +318,11 @@ Desert halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes
 
 ### Desert Kobolds
 
-Desert kobolds live like scaly, intelligent rats, hiding in forgotten corners of settlements, living just over the dunes from trading posts, and always reappearing right after the residents think they've finally been killed off.
-
-Desert kobolds claim they were among the first to settle the deserts, and that [[#Desert Gnomes|gnomes]] threw them out into the wilderness. Though their survival relies on goods available at oasis settlements and trading posts, desert kobolds hate the gnomes who often build and run such settlements.
-
-The life of a desert kobold is one of constant fear, which motivates them to build traps and fortifications and to ambush intruders. Some few kobolds, however, seek peace of mind through personal power and boon companions. These rare individuals become adventurers.
-
-##### Racial Traits
-
-Desert kobolds have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], with additions and exceptions as noted below.
-
-  - \-4 Strength, +2 Dexterity, -2 Wisdom: Desert kobolds are hardier than other kobolds, but are weak-willed.
-  - No light sensitivity.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
-  - No racial bonus on [[rangoric-srd/skills/Profession|Profession]] (mining) checks: Desert kobolds don't mine.
+Desert kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Desert Orcs
 
-Desert orcs are martial creatures who live for battle. Prowess in battle is their only measure of social standing, and they don't particularly care if weaker races get hurt when orcs test their skills. In fact, the chief difference between desert orcs and desert goblinoids is that the former never accept defeat — when desert orcs attack, they conquer or die trying.
-
-Desert orcs live in a perpetual state of war, participating in eternal night sorties from their isolated desert canyons and ancient ruined cities to attack settlements and expand their territory. Only the burning sun, and their weakness when in it, keeps them from ruling the desert.
-
-Occasionally an individual orc questions the need for constant battle, or seeks strategies other than brute force. Such iconoclasts often leave their tribes — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Desert orcs have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A desert orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - Endurance: Desert orcs gain [[rangoric-srd/feats/Endurance|Endurance]] as a racial bonus feat.
+Desert orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].
 
 ## Jungle Races
 
@@ -469,19 +374,7 @@ Jungle gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome
 
 ### Jungle Goblins
 
-If monkeys were evil and could speak, they'd be a lot like jungle goblins. Jungle goblins are territorial, tree-dwelling savages with a sadistic streak a mile wide. Their skills at climbing and moving from tree to tree, combined with their cunning and vicious nature, cause even other [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]] to respect them.
-
-Jungle goblins generally take up adventuring to gain personal power and serve their ambitions within their clans, or because they somehow lack the evil nature of the rest of their kind.
-
-##### Racial Traits
-
-Jungle goblins have [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - A jungle goblin has a climb speed of 20 feet. Jungle goblins are natural climbers, able to scramble up trees with ease. A jungle goblin has a +8 racial bonus on all [[rangoric-srd/skills/Athletics|Athletics]] checks to climb. It must make an Athletics check to climb any wall or slope with a DC of more than 0, but it always can choose to take 10, even if rushed or threatened while climbing. If it chooses an accelerated climb, it moves at double its climb speed and makes a single Athletics check at a -5 penalty. It cannot run while climbing. It retains its Dexterity bonus to Armor Class (if any) while climbing, and opponents get no special bonus on their attacks against a climbing jungle goblin. Also, jungle goblins add their Dexterity modifier to Athletics checks to climb instead of their Strength modifier.
-  - Low-Light Vision: A jungle goblin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+4 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Jungle goblins are accomplished leapers.
-  - No racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Jungle goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Jungle Half-Elves
 
@@ -497,31 +390,8 @@ Jungle halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes
 
 ### Jungle Kobolds
 
-Clouded mountain peaks, many of which have religious or ceremonial importance to those who live below, tower over jungle canopies. Few know of the ancient ruined cities near the rocky summits, concealed amid the clouds. Dwelling in such ancient ruins are the jungle kobolds.
-
-Those few explorers who have reached the cities report that their jungle kobold residents claim to have built them, pointing to reptilian and draconic images on the walls and in the architecture as evidence. The explorers report, however, that the cities were obviously built by and for people larger than the little reptilian humanoids. Jungle kobolds lack the cowardice common to other kobolds, thanks to the isolation of their mountain peak homes. By all reports they show a calmer, more generous side than other kobolds do.
-
-##### Racial Traits
-
-Jungle kobolds have [[rangoric-srd/monsters/Kobold|kobold racial traits]], with additions and exceptions as noted below.
-
-  - \-4 Strength, +2 Dexterity, -2 Intelligence: Life at high altitude has toughened jungle kobolds, but their isolation has hindered their intellectual growth.
-  - Altitude Adaptation: Jungle kobolds are adapted to life at high altitudes, and thus don't suffer [[rangoric-srd/rules/Wilderness, Weather, and Environment|altitude sickness]]. They are always considered acclimated to high altitudes.
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb: Jungle kobolds add their Dexterity modifier to Athletics checks to climb instead of their Strength modifier.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking) or [[rangoric-srd/skills/Profession|Profession]] (miner) checks.
+Jungle kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Jungle Orcs
 
-If gorillas were evil and could speak, they'd be a lot like jungle orcs. Jungle orcs live a simple existence, moving through the jungle hunting and gathering food in clan groups (equivalent in size to the squads given in the orc monster entry, plus 150% noncombatants). Although combat is common within the clans, it's relatively bloodless and hardly ever lethal. Only when jungle orcs encounter other clans or other races do they show the true extent of their violent, evil nature.
-
-Conquest is a baffling concept to jungle orcs. They attack, take whatever strikes their fancy, and move on. They lack the discipline required to maintain the things they steal, so they always seek weakly defended settlements and caravans to replace those things that break or wear out in the humidity of the jungle.
-
-Occasionally an individual jungle orc questions the need for constant battle, or seeks strategies other than brute force. These are often the more intelligent members of their clans. Such iconoclasts often leave the jungle — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Jungle orcs have all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A jungle orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Jungle orcs must be self-sufficient in order to survive their environment.
+Jungle orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].

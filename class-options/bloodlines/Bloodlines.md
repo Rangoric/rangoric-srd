@@ -30,6 +30,7 @@ A [[rangoric-srd/classes/Sorcerer|sorcerer]] picks one bloodline at 1st level; t
 - [[rangoric-srd/class-options/bloodlines/Fey Bloodline|Fey Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Ghoul Bloodline|Ghoul Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Infernal Bloodline|Infernal Bloodline]]
+- [[rangoric-srd/class-options/bloodlines/Kobold Bloodline|Kobold Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Maestro Bloodline|Maestro Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Marid Bloodline|Marid Bloodline]]
 - [[rangoric-srd/class-options/bloodlines/Protean Bloodline|Protean Bloodline]]

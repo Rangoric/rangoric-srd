@@ -5,7 +5,7 @@ alignment: "Any"
 hit-die: "d6"
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
-race: "[[rangoric-srd/monsters/Elf#Drow|drow]]"
+race: "[[rangoric-srd/races/Drow|drow]]"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"
 status: draft
@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class]
 
 ### Drow Paragon
 
-**Race**: only [[rangoric-srd/monsters/Elf#Drow|drow]] can take levels in this class (for now based on the monster drow; their race comes with the other Pathfinder races). It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
+**Race**: only [[rangoric-srd/races/Drow|drow]] can take levels in this class. It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
 
 Separated from the rest of the elven people by a legacy of deceit, betrayal, and evil, the drow are easily one of the most dangerous of the humanoid races. Most drow paragons embody all their race's evil nature and delight in calculated cruelty, but some manage to pull away from this dark path, instead embodying the potential that all elves share for beauty, grace, and martial skill.
 

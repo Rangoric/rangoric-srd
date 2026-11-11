@@ -151,31 +151,11 @@ Drow usually coat their arrows with a potent venom.
 
 **Poison (Ex)**: An opponent hit by a drow’s poisoned weapon must succeed on a DC 13 Fortitude save or fall [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. After 1 minute, the subject must succeed on another DC 13 Fortitude save or remain unconscious for 2d4 hours. A typical drow carries 1d4–1 doses of drow knockout poison. Drow typically coat arrows and crossbow bolts with this poison, but it can also be applied to a melee weapon. Note that drow have no special ability to apply poison without risking being poisoned themselves. Since this poison is not a magical effect, drow and other elves are susceptible to it.
 
-**Drow Traits (Ex)**: These traits are in addition to the high elf traits, except where noted.
-
-  - \+2 Intelligence, +2 Charisma.
-
-  - Darkvision out to 120 feet. This trait replaces the high elf ’s low-light vision.
-
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to 11 + class levels.
-
-  - \+2 racial bonus on Will saves against spells and spell-like abilities.
-
-  - Spell-Like Abilities: Drow can use the following spell-like abilities once per day: [[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Darkness|darkness]], [[rangoric-srd/spells/Faerie Fire|faerie fire]]. Caster level equals the drow’s class levels.
-
-  - Weapon Proficiency: A drow is automatically proficient with the hand crossbow, the rapier, and the short sword. This trait replaces the high elf’s weapon proficiency.
-
-  - Automatic Languages: Common, Elven, Undercommon. Bonus Languages: Abyssal, Aquan, Draconic, Drow Sign Language, Gnome, Goblin. This trait replaces the high elf ’s automatic and bonus languages.
-
-  - Light Blindness: Abrupt exposure to bright light (such as sunlight or a daylight spell) [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinds]] drow for 1 round. On subsequent rounds, they are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] as long as they remain in the affected area.
-
-  - Level adjustment +2.
+Drow characters use the [[rangoric-srd/races/Drow|drow]] race, which has their racial traits, alternate racial traits, level adjustment and paragon class.
 
 The drow warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 
 **Challenge Rating**: Drow with levels in NPC classes have a CR equal to their character level. Drow with levels in PC classes have a CR equal to their character level +1.
-
-**Paragon Class**: drow advance as [[rangoric-srd/classes/Drow Paragon|drow paragons]], not as elf paragons.
 
 #### Gray Elf
 

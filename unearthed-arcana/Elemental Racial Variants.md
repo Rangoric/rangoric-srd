@@ -59,14 +59,7 @@ Air gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Air Goblins
 
-Air goblins are an example of the air traits turned to evil. Their strongest emotions are fear and anger, and their creativity is usually malicious and hurtful.
-
-##### Racial Traits
-
-Air goblins have the general [[#General Traits Of Air Races|traits of air races]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - \+4 Dexterity, -2 Strength, -2 Constitution: Air goblins are more agile and persuasive than normal goblins, but are physically weak and frail. Sorcerers are far more common among air goblins than they are among normal goblins.
-  - No racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks: Air goblins don't commonly ride mounts.
+Air goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ## Races Of Earth
 
@@ -82,14 +75,7 @@ Earth dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwarf
 
 ### Earth Kobolds
 
-Earth kobolds personify earth traits turned toward evil. They are less emotional than their normal kobold cousins, and are cunning with trickery and traps.
-
-##### Racial Traits
-
-Earth kobolds have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of earth races]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, -2 Constitution: Earth kobolds are stronger, though less agile, than their typical kobold cousins.
-  - \+4 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking) checks related to stonework traps: Earth kobolds are particularly skilled at crafting traps made from the earth.
+Earth kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ## Races Of Fire
 
@@ -111,16 +97,7 @@ Fire half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|
 
 ### Fire Hobgoblins
 
-Where fire elves prefer pleasurable sensations and pleasing aesthetics, fire hobgoblins revel in pain and the sensations of battle. Their favorite arts are those of strategy and tactics.
-
-##### Racial Traits
-
-Fire hobgoblins have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of fire races]] described above and all [[rangoric-srd/monsters/Hobgoblin|hobgoblin racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Dexterity, +2 Constitution, +2 Intelligence, -2 Charisma: Fire hobgoblins are as quick and hardy as their normal cousins, but possess a greater intellect.
-  - Low-Light Vision: A fire hobgoblin can see twice as far as a human in starlight, moonlight, torchlight (the preferred lighting condition among fire hobgoblins), and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - No racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Fire hobgoblins are now a subtype of the [[rangoric-srd/races/Hobgoblin#Subtypes|hobgoblin]].
 
 ## Races Of Water
 
@@ -142,10 +119,4 @@ Water halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|
 
 ### Water Orcs
 
-Water orcs exemplify the water traits turned to evil. Though slow to reach decisions, once a water orc chooses a course of action its resolve is harder to shift than a tidal wave.
-
-##### Racial Traits
-
-Water orcs have the general [[#General Traits Of Water Races|traits of water races]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - \+4 Strength, +2 Constitution, -2 Intelligence, -2 Wisdom, -2 Charisma: Water orcs are strong and tough, but share the standard race's limited mental capacities.
+Water orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].
