@@ -1,7 +1,7 @@
 ---
 srd-type: "flavor"
 place-kind: site
-region: "Between"
+region: "[[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]"
 page: 64
 based-on:
   - "[[individual books/Faeries/places/The Valley of Fire|The Valley of Fire (Faeries)]]"
@@ -17,7 +17,7 @@ The Valley of Fire is a long and narrow valley that has, in places, pierced the 
 
 **Distance:** Remote (DC 25) / Distant (DC 20)
 
-**Region:** Between
+**Region:** [[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]
 
 **Personalities:** Unknown
 

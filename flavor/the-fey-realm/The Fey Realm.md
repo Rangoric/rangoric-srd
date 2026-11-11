@@ -31,6 +31,7 @@ The world of FaerieLand is an infinitely large place governed by bizarre physica
 
 - [[rangoric-srd/flavor/the-fey-realm/Here, There, and Parts Between|Here, There, and Parts Between]]: the mortal worlds, FaerieLand, the Twilight Lands and Between.
 - [[rangoric-srd/flavor/the-fey-realm/Use of the Word Faerie|Use of the Word Faerie]]: *fey*, *fae* and *FaerieLand*.
+- [[rangoric-srd/flavor/the-fey-realm/Rulership of FaerieLand|Rulership of FaerieLand]]: the elected Faerie Queen of the Twilight Lands, the regional kings and queens, and the Queen of Air and Darkness in Between.
 
 ## Lore of Faerie
 
@@ -75,5 +76,24 @@ The distance DCs belong to the rules for travelling in FaerieLand, which aren't 
 
 ### Places
 
-- [[rangoric-srd/flavor/the-fey-realm/places/The Twilight Lands|The Twilight Lands]] (region), with [[rangoric-srd/flavor/the-fey-realm/places/The Great Stone Ring|The Great Stone Ring]]
-- [[rangoric-srd/flavor/the-fey-realm/places/The Valley of Fire|The Valley of Fire]] (in Between)
+Each region, with the sites in it:
+- [[rangoric-srd/flavor/the-fey-realm/places/Badlands|Badlands]]: [[rangoric-srd/flavor/the-fey-realm/places/Bottomless Pit|Bottomless Pit]], [[rangoric-srd/flavor/the-fey-realm/places/Canyon Maze|Canyon Maze]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Between|Between]]: [[rangoric-srd/flavor/the-fey-realm/places/The Goblin Warrens|The Goblin Warrens]], [[rangoric-srd/flavor/the-fey-realm/places/Great Scar|Great Scar]], [[rangoric-srd/flavor/the-fey-realm/places/The Maw|The Maw]], [[rangoric-srd/flavor/the-fey-realm/places/Shadow|Shadow]], [[rangoric-srd/flavor/the-fey-realm/places/The Valley of Fire|The Valley of Fire]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Big Rock Mountains|Big Rock Mountains]]: [[rangoric-srd/flavor/the-fey-realm/places/Crystal Cave|Crystal Cave]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Cliffs of Madness|Cliffs of Madness]]: [[rangoric-srd/flavor/the-fey-realm/places/Sea Cave of the Sisters Three|Sea Cave of the Sisters Three]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Dark Forest|Dark Forest]]: [[rangoric-srd/flavor/the-fey-realm/places/Baba Yaga’s Hut|Baba Yaga’s Hut]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Eerie Swamps|Eerie Swamps]]: [[rangoric-srd/flavor/the-fey-realm/places/The Floating Court|The Floating Court]], [[rangoric-srd/flavor/the-fey-realm/places/House on Stilts|House on Stilts]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Faerie Woods|Faerie Woods]]: [[rangoric-srd/flavor/the-fey-realm/places/Tree of Knowledge|Tree of Knowledge]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Fields of Gold|Fields of Gold]]: [[rangoric-srd/flavor/the-fey-realm/places/The Millhouse|The Millhouse]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Fungal Forest|Fungal Forest]]: [[rangoric-srd/flavor/the-fey-realm/places/The Hovel of Durbin|The Hovel of Durbin]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Autumn|Land of Eternal Autumn]]: [[rangoric-srd/flavor/the-fey-realm/places/The Woodman’s Lodge|The Woodman’s Lodge]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Spring|Land of Eternal Spring]]: [[rangoric-srd/flavor/the-fey-realm/places/Fey Hills|Fey Hills]], [[rangoric-srd/flavor/the-fey-realm/places/Market|Market]] (its businesses: [[rangoric-srd/flavor/the-fey-realm/To Market, To Market|To Market, To Market…]])
+- [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Summer|Land of Eternal Summer]]: [[rangoric-srd/flavor/the-fey-realm/places/Tallgrass|Tallgrass]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Land of Eternal Winter|Land of Eternal Winter]]: [[rangoric-srd/flavor/the-fey-realm/places/The Holly King’s Workshop|The Holly King’s Workshop]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Meadows of Fertility|Meadows of Fertility]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Perilous Mountains|Perilous Mountains]]: [[rangoric-srd/flavor/the-fey-realm/places/Endless Caverns|Endless Caverns]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Pirate Isles|Pirate Isles]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Sands of Time|Sands of Time]]: [[rangoric-srd/flavor/the-fey-realm/places/Doorway of Sorrows|Doorway of Sorrows]], [[rangoric-srd/flavor/the-fey-realm/places/Dream|Dream]]
+- [[rangoric-srd/flavor/the-fey-realm/places/The Shrouded Lands|The Shrouded Lands]]
+- [[rangoric-srd/flavor/the-fey-realm/places/Stormking Mountains|Stormking Mountains]]
+- [[rangoric-srd/flavor/the-fey-realm/places/The Twilight Lands|The Twilight Lands]]: [[rangoric-srd/flavor/the-fey-realm/places/The Great Stone Ring|The Great Stone Ring]]
