@@ -8,6 +8,7 @@ level:
   - "Clr 5"
   - "Drd 5"
   - "Hun 5"
+  - "Inq 5"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Evil\]*
 
-  - **Level**: Clr 5, Drd 5, Hun 5
+  - **Level**: Clr 5, Drd 5, Hun 5, Inq 5
   - **Components**: V, S, M
   - **Casting Time**: 24 hours
   - **Range**: Touch

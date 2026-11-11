@@ -7,6 +7,7 @@ descriptor:
   - "Language-dependent"
 level:
   - "Apl 2"
+  - "Inq 3"
   - "Pal 2"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[Language-dependent\]*
 
-  - **Level**: Apl 2, Pal 2
+  - **Level**: Apl 2, Inq 3, Pal 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

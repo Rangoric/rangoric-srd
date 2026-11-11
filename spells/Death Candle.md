@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Apl 1"
   - "Clr 2"
+  - "Inq 2"
   - "Wit 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Evil, Fire\]*
 
-  - **Level**: Apl 1, Clr 2, Wit 2
+  - **Level**: Apl 1, Clr 2, Inq 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Duration**: Instantaneous/1 round per HD of subject; see text

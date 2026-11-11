@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Clr 6"
+  - "Inq 6"
   - "Pal 4"
 range: "Close (25 ft. + 5 ft./2 levels)"
 targets: "One creature/level, no two of which can be more than 30 ft. apart"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Clr 6, Pal 4
+  - **Level**: Clr 6, Inq 6, Pal 4
   - **Components**: 
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Targets**: One creature/level, no two of which can be more than 30 ft. apart

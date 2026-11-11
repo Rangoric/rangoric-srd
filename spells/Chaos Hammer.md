@@ -6,6 +6,7 @@ descriptor:
   - "Chaotic"
 level:
   - "Chaos 4"
+  - "Inq 4"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "Will partial; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Chaos Hammer|Chaos Hammer (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Chaotic\]*
 
-  - **Level**: Chaos 4
+  - **Level**: Chaos 4, Inq 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

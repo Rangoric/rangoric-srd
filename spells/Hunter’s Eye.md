@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Hun 2"
+  - "Inq 3"
   - "Rgr 2"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Hun 2, Rgr 2
+  - **Level**: Hun 2, Inq 3, Rgr 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

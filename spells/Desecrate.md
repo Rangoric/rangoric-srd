@@ -8,6 +8,7 @@ level:
   - "Apl 2"
   - "Clr 2"
   - "Evil 2"
+  - "Inq 2"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Evil\]*
 
-  - **Level**: Apl 2, Clr 2, Evil 2
+  - **Level**: Apl 2, Clr 2, Evil 2, Inq 2
   - **Components**: V, S, M, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

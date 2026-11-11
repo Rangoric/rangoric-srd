@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Hun 2"
+  - "Inq 2"
   - "Rgr 2"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Hun 2, Rgr 2
+  - **Level**: Hun 2, Inq 2, Rgr 2
   - **Components**: V, S, M (a drop of blood and a pinch of cinnamon)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -6,6 +6,7 @@ descriptor:
   - "Language-dependent"
 level:
   - "Apl 1"
+  - "Inq 1"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Language-dependent\]*
 
-  - **Level**: Apl 1
+  - **Level**: Apl 1, Inq 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Clr 5"
   - "Drd 4"
   - "Hun 4"
+  - "Inq 5"
   - "Sha 5"
   - "Sun 5"
   - "War 5"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Clr 5, Drd 4, Hun 4, Sha 5, Sun 5, War 5
+  - **Level**: Clr 5, Drd 4, Hun 4, Inq 5, Sha 5, Sun 5, War 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

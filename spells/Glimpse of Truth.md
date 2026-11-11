@@ -6,6 +6,7 @@ level:
   - "Clr 4"
   - "Drd 5"
   - "Hun 5"
+  - "Inq 4"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 4, Drd 5, Hun 5, Sor/Wiz 5, Wit 5
+  - **Level**: Clr 4, Drd 5, Hun 5, Inq 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M (a tourmaline costing 50 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

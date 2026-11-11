@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Apl 2"
   - "Clr 2"
+  - "Inq 2"
   - "Sor/Wiz 2"
 target: "Creatures touched"
 book: "Ultimate Combat"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Evil\]*
 
-  - **Level**: Apl 2, Clr 2, Sor/Wiz 2
+  - **Level**: Apl 2, Clr 2, Inq 2, Sor/Wiz 2
   - **Components**: 
   - **Target**: Creatures touched
 

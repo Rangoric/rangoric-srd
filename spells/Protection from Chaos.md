@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Blr 1"
   - "Clr 1"
+  - "Inq 1"
   - "Law 1"
   - "Pal 1"
   - "Sha 1"
@@ -23,6 +24,6 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Lawful\]*
 
-  - **Level**: Blr 1, Clr 1, Law 1, Pal 1, Sha 1, Sor/Wiz 1
+  - **Level**: Blr 1, Clr 1, Inq 1, Law 1, Pal 1, Sha 1, Sor/Wiz 1
 
 This spell functions like [[rangoric-srd/spells/Protection from Evil|protection from evil]], except that the deflection and resistance bonuses apply to attacks from chaotic creatures, and chaotic summoned creatures cannot touch the subject.

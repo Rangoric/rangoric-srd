@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Clr 3"
+  - "Inq 2"
   - "Skd 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Brd 2, Clr 3, Skd 2
+  - **Level**: Brd 2, Clr 3, Inq 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Touch

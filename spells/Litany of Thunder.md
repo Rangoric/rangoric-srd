@@ -7,6 +7,7 @@ descriptor:
   - "Sonic"
 level:
   - "Apl 4"
+  - "Inq 5"
   - "Pal 4"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Language-dependent, Sonic\]*
 
-  - **Level**: Apl 4, Pal 4
+  - **Level**: Apl 4, Inq 5, Pal 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

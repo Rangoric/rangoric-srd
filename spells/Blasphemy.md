@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 7"
   - "Evil 7"
+  - "Inq 6"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -18,8 +19,8 @@ saving-throw: "None or Will negates; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Blasphemy|Blasphemy (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Evil, Sonic\]*
 
-  - **Level**: Clr 7, Evil 7
+  - **Level**: Clr 7, Evil 7, Inq 6
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: 40 ft.

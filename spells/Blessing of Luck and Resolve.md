@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Clr 2"
+  - "Inq 2"
   - "Pal 2"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Clr 2, Pal 2
+  - **Level**: Clr 2, Inq 2, Pal 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

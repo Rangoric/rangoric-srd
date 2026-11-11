@@ -7,6 +7,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Hun 1"
+  - "Inq 1"
   - "Rgr 1"
   - "Skd 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Clr 1, Drd 1, Hun 1, Rgr 1, Skd 1
+  - **Level**: Brd 1, Clr 1, Drd 1, Hun 1, Inq 1, Rgr 1, Skd 1
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Personal

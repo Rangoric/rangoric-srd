@@ -6,6 +6,7 @@ level:
   - "Clr 5"
   - "Drd 5"
   - "Hun 5"
+  - "Inq 5"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 5, Drd 5, Hun 5
+  - **Level**: Clr 5, Drd 5, Hun 5, Inq 5
   - **Components**: V, S, M, F, DF, XP
   - **Casting Time**: 1 hour
   - **Range**: Touch

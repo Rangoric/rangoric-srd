@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 6"
+  - "Inq 6"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "See text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Forbiddance|Forbiddance (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 6
+  - **Level**: Clr 6, Inq 6
   - **Components**: V, S, M, DF
   - **Casting Time**: 6 rounds
   - **Range**: Medium (100 ft. + 10 ft./level)

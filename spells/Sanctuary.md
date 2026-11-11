@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 1"
+  - "Inq 1"
   - "Protection 1"
 components:
   - "V"
@@ -17,8 +18,8 @@ saving-throw: "Will negates"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Sanctuary|Sanctuary (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 1, Protection 1
+  - **Level**: Clr 1, Inq 1, Protection 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

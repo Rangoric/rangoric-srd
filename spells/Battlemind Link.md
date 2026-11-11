@@ -5,6 +5,7 @@ school: "Divination"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Inq 4"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-affecting\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Inq 4, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal and close (25 ft. + 5 ft./2 levels)

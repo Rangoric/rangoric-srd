@@ -8,6 +8,7 @@ level:
   - "Clr 4"
   - "Drd 3"
   - "Hun 3"
+  - "Inq 4"
   - "Pal 4"
   - "Rgr 3"
   - "Sha 4"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 4, Clr 4, Drd 3, Hun 3, Pal 4, Rgr 3, Sha 4, Skd 4, Wit 4
+  - **Level**: Brd 4, Clr 4, Drd 3, Hun 3, Inq 4, Pal 4, Rgr 3, Sha 4, Skd 4, Wit 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

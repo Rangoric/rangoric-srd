@@ -6,6 +6,7 @@ level:
   - "Apl 2"
   - "Drd 3"
   - "Hun 2"
+  - "Inq 3"
   - "Rgr 2"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 2, Drd 3, Hun 2, Rgr 2, Sor/Wiz 3, Wit 3
+  - **Level**: Apl 2, Drd 3, Hun 2, Inq 3, Rgr 2, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Close (25 ft. + 5 ft./2 levels)

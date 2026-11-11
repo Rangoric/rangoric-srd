@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 7"
+  - "Inq 6"
   - "Protection 7"
   - "Sor/Wiz 6"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 7, Protection 7, Sor/Wiz 6
+  - **Level**: Clr 7, Inq 6, Protection 7, Sor/Wiz 6
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Up to 10 ft./level

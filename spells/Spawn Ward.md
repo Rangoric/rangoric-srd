@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 5"
+  - "Inq 5"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 5
+  - **Level**: Clr 5, Inq 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

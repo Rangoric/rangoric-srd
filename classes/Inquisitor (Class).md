@@ -92,7 +92,7 @@ All of the following are class features of the inquisitor.
 
 **Weapon and Armor Proficiency**: An inquisitor is proficient with all simple weapons, plus the hand crossbow, longbow, repeating crossbow, shortbow, and the favored weapon of her deity. She is also proficient with light armor, medium armor, and shields (except tower shields).
 
-**Spells**: An inquisitor casts divine spells drawn from the inquisitor spell list. She can cast any spell she knows at any time without preparing it ahead of time, assuming she has not yet used up her allotment of spells per day for the spell's level. ^inquisitor-spells
+**Spells**: An inquisitor casts divine spells drawn from the [[rangoric-srd/spells/Inquisitor Spell List|inquisitor spell list]]. She can cast any spell she knows at any time without preparing it ahead of time, assuming she has not yet used up her allotment of spells per day for the spell's level. ^inquisitor-spells
 
 To learn or cast a spell, an inquisitor must have a Wisdom score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against an inquisitor’s spell is 10 + the spell level + the inquisitor’s Wisdom modifier.
 

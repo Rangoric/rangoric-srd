@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Hun 1"
+  - "Inq 1"
   - "Rgr 1"
   - "Sor/Wiz 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Hun 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Hun 1, Inq 1, Rgr 1, Sor/Wiz 1
   - **Components**: V, S, M (an arrowhead)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

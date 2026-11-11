@@ -8,6 +8,7 @@ level:
   - "Apl 4"
   - "Chaos 5"
   - "Clr 5"
+  - "Inq 5"
   - "Sha 5"
 based-on:
   - "[[fantasy srd 3.5/spells/Dispel Law|Dispel Law (3.5)]]"
@@ -21,6 +22,6 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Chaotic\]*
 
-  - **Level**: Apl 4, Chaos 5, Clr 5, Sha 5
+  - **Level**: Apl 4, Chaos 5, Clr 5, Inq 5, Sha 5
 
 This spell functions like [[rangoric-srd/spells/Dispel Evil|dispel evil]], except that you are surrounded by flickering, yellow, chaotic energy, and the spell affects lawful creatures and spells rather than evil ones.

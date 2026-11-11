@@ -7,6 +7,7 @@ level:
   - "Clr 4"
   - "Drd 4"
   - "Hun 4"
+  - "Inq 4"
   - "Luck 4"
   - "Rgr 4"
   - "Skd 4"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 4, Clr 4, Drd 4, Hun 4, Luck 4, Rgr 4, Skd 4
+  - **Level**: Brd 4, Clr 4, Drd 4, Hun 4, Inq 4, Luck 4, Rgr 4, Skd 4
   - **Components**: V, S, M, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal or touch

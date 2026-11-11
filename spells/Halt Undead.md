@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Inq 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "Will negates (see text)"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Halt Undead|Halt Undead (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Inq 3, Sor/Wiz 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

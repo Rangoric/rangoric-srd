@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Brd 4"
+  - "Inq 6"
   - "Knowledge 7"
   - "Skd 4"
   - "Sor/Wiz 6"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Knowledge 7, Skd 4, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 4, Inq 6, Knowledge 7, Skd 4, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M, F
   - **Casting Time**: See text
   - **Range**: Personal

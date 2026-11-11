@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 5"
+  - "Inq 5"
   - "Pal 4"
   - "Wit 5"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 5, Pal 4, Wit 5
+  - **Level**: Clr 5, Inq 5, Pal 4, Wit 5
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Touch

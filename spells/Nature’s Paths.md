@@ -6,6 +6,7 @@ level:
   - "Brd 1"
   - "Drd 1"
   - "Hun 1"
+  - "Inq 1"
   - "Rgr 1"
   - "Skd 1"
   - "Wit 1"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Drd 1, Hun 1, Rgr 1, Skd 1, Wit 1
+  - **Level**: Brd 1, Drd 1, Hun 1, Inq 1, Rgr 1, Skd 1, Wit 1
   - **Components**: V, S, M, M/DF (a smooth stone)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

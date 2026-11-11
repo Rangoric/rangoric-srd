@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 5"
+  - "Inq 5"
 components:
   - "V"
   - "S"
@@ -15,8 +16,8 @@ saving-throw: "Will negates (harmless, object); see text"
 spell-resistance: "Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Disrupting Weapon|Disrupting Weapon (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 5
+  - **Level**: Clr 5, Inq 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

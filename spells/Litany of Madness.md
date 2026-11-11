@@ -8,6 +8,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Apl 4"
+  - "Inq 6"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Apl 4
+  - **Level**: Apl 4, Inq 6
   - **Components**: V, S, DF
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

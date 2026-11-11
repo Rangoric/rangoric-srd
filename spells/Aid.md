@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 2"
   - "Good 2"
+  - "Inq 2"
   - "Luck 2"
   - "Sha 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Clr 2, Good 2, Luck 2, Sha 2
+  - **Level**: Clr 2, Good 2, Inq 2, Luck 2, Sha 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

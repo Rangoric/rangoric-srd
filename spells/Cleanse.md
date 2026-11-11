@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Clr 5"
+  - "Inq 6"
 components:
   - "S"
   - "DF"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 5
+  - **Level**: Clr 5, Inq 6
   - **Components**: S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

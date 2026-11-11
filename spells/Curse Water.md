@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Apl 1"
   - "Clr 1"
+  - "Inq 1"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Apl 1, Clr 1
+  - **Level**: Apl 1, Clr 1, Inq 1
   - **Components**: V, S, M
   - **Casting Time**: 1 minute
   - **Range**: Touch

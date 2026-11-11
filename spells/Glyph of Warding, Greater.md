@@ -4,10 +4,11 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 6"
+  - "Inq 6"
 based-on:
   - "[[fantasy srd 3.5/spells/Glyph of Warding, Greater|Glyph of Warding, Greater (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -16,7 +17,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 6
+  - **Level**: Clr 6, Inq 6
 
 This spell functions like [[rangoric-srd/spells/Glyph of Warding|glyph of warding]], except that a greater blast glyph deals up to 10d8 points of damage, and a greater spell glyph can store a spell of 6th level or lower.
 

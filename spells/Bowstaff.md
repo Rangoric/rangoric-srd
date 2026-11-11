@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Hun 1"
+  - "Inq 1"
   - "Pal 1"
   - "Rgr 1"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Hun 1, Pal 1, Rgr 1
+  - **Level**: Hun 1, Inq 1, Pal 1, Rgr 1
   - **Components**: V
   - **Casting Time**: 1 swift action
   - **Range**: Personal

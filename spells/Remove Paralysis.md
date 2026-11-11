@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Clr 2"
+  - "Inq 2"
   - "Pal 2"
   - "Sha 2"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 2, Pal 2, Sha 2
+  - **Level**: Clr 2, Inq 2, Pal 2, Sha 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

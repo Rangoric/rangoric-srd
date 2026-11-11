@@ -6,6 +6,7 @@ descriptor:
   - "Evil"
 level:
   - "Apl 3"
+  - "Inq 4"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Evil\]*
 
-  - **Level**: Apl 3
+  - **Level**: Apl 3, Inq 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

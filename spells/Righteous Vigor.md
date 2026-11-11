@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Inq 3"
   - "Pal 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Pal 2
+  - **Level**: Inq 3, Pal 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

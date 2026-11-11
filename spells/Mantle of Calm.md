@@ -5,6 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 level:
   - "Clr 3"
+  - "Inq 3"
   - "Pal 3"
   - "Sha 3"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion)*
 
-  - **Level**: Clr 3, Pal 3, Sha 3
+  - **Level**: Clr 3, Inq 3, Pal 3, Sha 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal
