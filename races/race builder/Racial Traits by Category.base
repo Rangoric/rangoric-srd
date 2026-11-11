@@ -1,0 +1,137 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/races/racial-traits")
+    - file.hasTag("rangoric/racial-trait")
+views:
+  - type: table
+    name: All builder traits
+    filters:
+      or:
+        - file.hasTag("racial-trait/standard")
+        - file.hasTag("racial-trait/advanced")
+        - file.hasTag("racial-trait/monstrous")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Ability Score Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/ability")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Defense Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/defense")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Feat and Skill Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/feat-skill")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Magical Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/magical")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Movement Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/movement")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Offense Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/offense")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Senses Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/senses")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Weakness Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/weakness")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Other Traits
+    filters:
+      and:
+        - file.hasTag("racial-trait/other")
+    order:
+      - file.name
+      - race-points
+      - tags
+      - race
+    sort:
+      - property: file.name
+        direction: ASC

@@ -3,12 +3,13 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Svirfneblin|Svirfneblin]]"
 replaces: "svirfneblin magic"
+race-points: 2
 based-on:
   - "[[path srd 3.5/races/Svirfneblin (Race)#Alternate Racial Traits|Svirfneblin (ARG)]]"
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/standard]
 ---
 
 # Stoneseer

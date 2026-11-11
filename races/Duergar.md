@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+race-points: 8
 based-on:
   - "[[path srd 3.5/races/Duergar (Race)|Duergar (ARG)]]"
   - "[[fantasy srd 3.5/monsters/dwarf/Dwarf#Duergar|Dwarf, Duergar (3.5)]]"

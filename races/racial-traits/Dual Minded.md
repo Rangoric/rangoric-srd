@@ -3,13 +3,14 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Half-Elf|Half-Elf]]"
 replaces: "adaptability"
+race-points: 1
 based-on:
   - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)#Alternate Racial Traits|Half-Elves (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Elves (Races)|Half-Elves (APG)]]"
 status: draft
 change: new
 pi-review: 2026-11-08
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/standard]
 ---
 
 # Dual Minded

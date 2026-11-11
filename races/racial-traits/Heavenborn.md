@@ -3,12 +3,13 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Aasimar|Aasimar]]"
 replaces: "skilled and spell-like ability"
+race-points: 3
 based-on:
   - "[[path srd 3.5/races/Aasimars#Alternate Racial Traits|Aasimars (ARG)]]"
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/standard]
 ---
 
 # Heavenborn

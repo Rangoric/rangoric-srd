@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+race-points: 15
 based-on:
   - "[[path srd 3.5/races/Aasimars|Aasimars (ARG)]]"
   - "[[fantasy srd 3.5/monsters/planetouched/Aasimar|Aasimar (3.5)]]"

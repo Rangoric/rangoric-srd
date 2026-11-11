@@ -3,12 +3,13 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Dwarf|Dwarf]]"
 replaces: "defensive training, hatred, and stonecunning"
+race-points: 3
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Alternate Racial Traits|Dwarves (ARG)]]"
 status: draft
 change: new
 pi-review: 2026-11-08
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/offense, racial-trait/standard]
 ---
 
 # Wyrmscourged

@@ -3,13 +3,14 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Tiefling|Tiefling]], [[rangoric-srd/races/Vanara|Vanara]]"
 replaces: "fiendish sorcery for the tiefling; nothing for the vanara (a base racial trait)"
+race-points: 2
 based-on:
   - "[[path srd 3.5/races/Tieflings#Alternate Racial Traits|Tieflings (ARG)]]"
   - "[[path srd 3.5/races/Vanaras|Vanaras (ARG)]]"
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/other, racial-trait/standard]
 ---
 
 # Prehensile Tail

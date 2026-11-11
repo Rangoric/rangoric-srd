@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+race-points: 5
 based-on:
   - "[[path srd 3.5/races/Kobolds|Kobolds (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Kobold|Kobold (3.5)]]"

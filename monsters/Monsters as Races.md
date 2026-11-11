@@ -23,6 +23,8 @@ Characters with more than 1 Hit Die because of their race do not get a feat for 
 
 **Level Adjustment and Effective Character Level**: To determine the effective character level (ECL) of a monster character, add its level adjustment to its racial Hit Dice and character class levels. ^level-adjustment
 
+A character can lower its level adjustment as it gains class levels, paying experience points: see [[rangoric-srd/unearthed-arcana/Reducing Level Adjustments|Reducing Level Adjustments]].
+
 Use ECL instead of character level to determine how many experience points a monster character needs to reach its next level. Also use ECL to determine starting wealth for a monster character.
 
 Monster characters treat skills mentioned in their monster entry as class skills.

@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+race-points: 26
 based-on:
   - "[[path srd 3.5/races/Svirfneblin (Race)|Svirfneblin (ARG)]]"
   - "[[fantasy srd 3.5/monsters/gnome/Gnome#Svirfneblin|Gnome, Svirfneblin (3.5)]]"

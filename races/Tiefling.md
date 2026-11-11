@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+race-points: 13
 based-on:
   - "[[path srd 3.5/races/Tieflings|Tieflings (ARG)]]"
   - "[[fantasy srd 3.5/monsters/planetouched/Tiefling|Tiefling (3.5)]]"

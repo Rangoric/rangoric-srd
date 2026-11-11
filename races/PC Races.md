@@ -7,6 +7,7 @@ based-on:
   - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
+  - "[[individual books/Faeries/rules/Character Races|Character Races (Faeries)]]"
 status: draft
 change: modified
 pi-review: 2026-11-10
@@ -18,13 +19,17 @@ tags: [rangoric, rangoric/overview]
 Each race has its own note:
 
 - [[rangoric-srd/races/Aasimar|Aasimar]]
+- [[rangoric-srd/races/Bogie|Bogie]]
 - [[rangoric-srd/races/Catfolk|Catfolk]]
 - [[rangoric-srd/races/Changeling|Changeling]]
+- [[rangoric-srd/races/Deep Fey|Deep Fey]]
 - [[rangoric-srd/races/Dhampir|Dhampir]]
 - [[rangoric-srd/races/Drow|Drow]]
 - [[rangoric-srd/races/Duergar|Duergar]]
 - [[rangoric-srd/races/Dwarf|Dwarf]]
 - [[rangoric-srd/races/Elf|Elf]]
+- [[rangoric-srd/races/Faerie|Faerie]]
+- [[rangoric-srd/races/Feeorin|Feeorin]]
 - [[rangoric-srd/races/Fetchling|Fetchling]]
 - [[rangoric-srd/races/Gillman|Gillman]]
 - [[rangoric-srd/races/Gnoll|Gnoll]]
@@ -32,6 +37,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Goblin|Goblin]]
 - [[rangoric-srd/races/Grippli|Grippli]]
 - [[rangoric-srd/races/Half-Elf|Half-Elf]]
+- [[rangoric-srd/races/Half-Fey|Half-Fey]]
 - [[rangoric-srd/races/Half-Orc|Half-Orc]]
 - [[rangoric-srd/races/Halfling|Halfling]]
 - [[rangoric-srd/races/Hobgoblin|Hobgoblin]]
@@ -41,10 +47,13 @@ Each race has its own note:
 - [[rangoric-srd/races/Kobold|Kobold]]
 - [[rangoric-srd/races/Lizardfolk|Lizardfolk]]
 - [[rangoric-srd/races/Merfolk|Merfolk]]
+- [[rangoric-srd/races/Nymph|Nymph]]
 - [[rangoric-srd/races/Ogre|Ogre]]
 - [[rangoric-srd/races/Orc|Orc]]
 - [[rangoric-srd/races/Oread|Oread]]
 - [[rangoric-srd/races/Ratfolk|Ratfolk]]
+- [[rangoric-srd/races/Scath|Scath]]
+- [[rangoric-srd/races/Sprite|Sprite]]
 - [[rangoric-srd/races/Strix|Strix]]
 - [[rangoric-srd/races/Svirfneblin|Svirfneblin]]
 - [[rangoric-srd/races/Sylph|Sylph]]
@@ -79,7 +88,13 @@ A race with defensive training gets a +4 dodge bonus to Armor Class against mons
 
 ##### Level Adjustment
 
-Some races are more powerful than the common races and have a level adjustment, given in the race note. It works as described in [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|Level Adjustment and Effective Character Level]]. ^level-adjustment
+Some races are more powerful than the common races and have a level adjustment, given in the race note. It works as described in [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|Level Adjustment and Effective Character Level]]; a character can buy it down as it gains class levels ([[rangoric-srd/unearthed-arcana/Reducing Level Adjustments|Reducing Level Adjustments]]). How strong a race is can also be measured in race points with the [[rangoric-srd/races/race builder/Race Builder|Race Builder]]. ^level-adjustment
+
+##### Fey Characters
+
+The fey races (such as the faeries and feeorin) have a level adjustment like other powerful races, and share [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]. A fey character can start at 1st level with the other characters, where its extra physical abilities, spell-like abilities and role-playing benefits may outshine them, while its level adjustment keeps it behind them later; or it can join when the other characters have reached a higher level, where its abilities are more in line with theirs. ^fey-characters
+
+The [[rangoric-srd/races/aspects-of-nature/Aspects of Nature|Aspects of Nature]] change a character’s body further, with small bonuses and matching penalties, and are open to fey and other creatures alike. The [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]] change it more deeply, through enchantments of the flesh.
 
 ##### Small Characters
 

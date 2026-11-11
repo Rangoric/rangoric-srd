@@ -3,13 +3,14 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Dwarf|Dwarf]]"
 replaces: "stonecunning"
+race-points: 1
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Alternate Racial Traits|Dwarves (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Dwarves (Races)|Dwarves (APG)]]"
 status: draft
 change: new
 pi-review: 2026-11-08
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/magical, racial-trait/standard]
 ---
 
 # Stonesinger

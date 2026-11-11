@@ -3,13 +3,14 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Catfolk|Catfolk]], [[rangoric-srd/races/Tiefling|Tiefling]]"
 replaces: "nothing for the catfolk (a base racial trait); skilled for the tiefling"
+race-points: 1
 based-on:
   - "[[path srd 3.5/races/Tieflings#Alternate Racial Traits|Tieflings (ARG)]]"
   - "[[path srd 3.5/races/Catfolk (Race)|Catfolk (ARG)]]"
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/movement, racial-trait/standard]
 ---
 
 # Sprinter
