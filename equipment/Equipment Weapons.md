@@ -6,9 +6,15 @@ based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
   - "[[path srd 3.5/items/weapons/Starknife|Starknife (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Eastern Armor and Weapons|Eastern Armor and Weapons (PF1)]]"
+  - "[[path srd 3.5/items/featured-race/Dogslicer|Dogslicer (PF1)]]"
+  - "[[path srd 3.5/items/featured-race/Horsechopper|Horsechopper (PF1)]]"
+  - "[[path srd 3.5/items/weapons/Curve Blade, Elven|Curve Blade, Elven (PF1)]]"
+  - "[[path srd 3.5/items/weapons/Blowgun|Blowgun (PF1)]]"
+  - "[[path srd 3.5/items/weapons/Blowgun Darts|Blowgun Darts (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-equipment/arms-and-armor/Weapons (Arms And Armor)|Weapons (Arms and Armor, PF1)]]"
 status: draft
 change: modified
-pi-review: 2026-11-08
+pi-review: 2026-11-10
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -24,15 +30,15 @@ Weapons are grouped into several interlocking sets of categories. These categori
 
 **Melee and Ranged Weapons**: Melee weapons are used for making melee attacks, though some of them can be thrown as well. Ranged weapons are thrown weapons or projectile weapons that are not effective in melee.
 
-*Reach Weapons*: Glaives, guisarmes, lances, longspears, ranseurs, spiked chains, and whips are reach weapons. A reach weapon is a melee weapon that allows its wielder to strike at targets that aren’t adjacent to him or her. Most reach double the wielder’s natural reach, meaning that a typical Small or Medium wielder of such a weapon can attack a creature 10 feet away, but not a creature in an adjacent square. A typical Large character wielding a reach weapon of the appropriate size can attack a creature 15 or 20 feet away, but not adjacent creatures or creatures up to 10 feet away.
+*Reach Weapons*: Glaives, guisarmes, horsechoppers, lances, longspears, ranseurs, spiked chains, and whips are reach weapons. A reach weapon is a melee weapon that allows its wielder to strike at targets that aren’t adjacent to him or her. Most reach double the wielder’s natural reach, meaning that a typical Small or Medium wielder of such a weapon can attack a creature 10 feet away, but not a creature in an adjacent square. A typical Large character wielding a reach weapon of the appropriate size can attack a creature 15 or 20 feet away, but not adjacent creatures or creatures up to 10 feet away.
 
 *Double Weapons*: Dire flails, dwarven urgroshes, gnome hooked hammers, orc double axes, quarterstaffs, and two-bladed swords are double weapons. A character can fight with both ends of a double weapon as if fighting with two weapons, but he or she incurs all the normal attack penalties associated with two-weapon combat, just as though the character were wielding a one-handed weapon and a light weapon. The character can also choose to use a double weapon two handed, attacking with only one end of it. A creature wielding a double weapon in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
 
 *Thrown Weapons*: Daggers, clubs, shortspears, spears, darts, javelins, throwing axes, light hammers, tridents, shuriken, and nets are thrown weapons. The wielder applies his or her Strength modifier to damage dealt by thrown weapons (except for splash weapons). It is possible to throw a weapon that isn’t designed to be thrown (that is, a melee weapon that doesn’t have a numeric entry in the Range Increment column on Table: Weapons), but a character who does so takes a –4 penalty on the attack roll. Throwing a light or one-handed weapon is a standard action, while throwing a two-handed weapon is a full-round action. Regardless of the type of weapon, such an attack scores a threat only on a natural roll of 20 and deals double damage on a critical hit. Such a weapon has a range increment of 10 feet.
 
-*Projectile Weapons*: Light crossbows, slings, heavy crossbows, shortbows, composite shortbows, longbows, composite longbows, hand crossbows, and repeating crossbows are projectile weapons. Most projectile weapons require two hands to use (see specific weapon descriptions). A character gets no Strength bonus on damage rolls with a projectile weapon unless it’s a specially built composite shortbow, specially built composite longbow, or sling. If the character has a penalty for low Strength, apply it to damage rolls when he or she uses a bow or a sling.
+*Projectile Weapons*: Blowguns, light crossbows, slings, heavy crossbows, shortbows, composite shortbows, longbows, composite longbows, hand crossbows, and repeating crossbows are projectile weapons. Most projectile weapons require two hands to use (see specific weapon descriptions). A character gets no Strength bonus on damage rolls with a projectile weapon unless it’s a specially built composite shortbow, specially built composite longbow, or sling. If the character has a penalty for low Strength, apply it to damage rolls when he or she uses a bow or a sling.
 
-*Ammunition*: Projectile weapons use ammunition: arrows (for bows), bolts (for crossbows), or sling bullets (for slings). When using a bow, a character can draw ammunition as a free action; crossbows and slings require an action for reloading. Generally speaking, ammunition that hits its target is destroyed or rendered useless, while normal ammunition that misses has a 50% chance of being destroyed or lost.
+*Ammunition*: Projectile weapons use ammunition: arrows (for bows), bolts (for crossbows), darts (for blowguns), or sling bullets (for slings). When using a bow, a character can draw ammunition as a free action; crossbows and slings require an action for reloading. Generally speaking, ammunition that hits its target is destroyed or rendered useless, while normal ammunition that misses has a 50% chance of being destroyed or lost.
 
 Although they are thrown weapons, shuriken are treated as ammunition for the purposes of drawing them, crafting masterwork or otherwise special versions of them (see Masterwork Weapons), and what happens to them after they are thrown.
 
@@ -62,9 +68,9 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 
 **Axes**: battleaxe, dwarven waraxe, greataxe, handaxe, heavy pick, light pick, orc double axe, and throwing axe.
 
-**Blades, Heavy**: bastard sword, falchion, greatsword, katana, longsword, scimitar, scythe, and two-bladed sword.
+**Blades, Heavy**: bastard sword, elven curve blade, falchion, greatsword, katana, longsword, scimitar, scythe, and two-bladed sword.
 
-**Blades, Light**: dagger, kama, kukri, rapier, sickle, starknife, short sword, and wakizashi.
+**Blades, Light**: dagger, dogslicer, kama, kukri, rapier, sickle, starknife, short sword, and wakizashi.
 
 **Bows**: composite longbow, composite shortbow, longbow, and shortbow.
 
@@ -82,11 +88,15 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 
 **Natural**: unarmed strike and all natural weapons, such as bite, claw, gore, tail, and wing.
 
-**Pole Arms**: glaive, guisarme, halberd, naginata, and ranseur.
+**Pole Arms**: glaive, guisarme, halberd, horsechopper, naginata, and ranseur.
 
 **Spears**: javelin, lance, longspear, shortspear, spear, and trident.
 
-**Thrown**: bolas, club, dagger, dart, javelin, light hammer, net, shortspear, shuriken, sling, spear, starknife, throwing axe, and trident.
+**Thrown**: blowgun, bolas, club, dagger, dart, javelin, light hammer, net, shortspear, shuriken, sling, spear, starknife, throwing axe, and trident.
+
+##### Eastern Weapons
+
+Some rules name eastern weapons, weapons from the martial traditions of Asia. The eastern weapons are the kama, katana, kusarigama, naginata, nunchaku, sai, shuriken, siangham, and wakizashi. ^eastern-weapons
 
 ##### Weapon Qualities
 
@@ -171,6 +181,8 @@ Two special features recur, and the weapon descriptions name them:
 | Quarterstaff (5)           | —     | 1d4/1d4 | 1d6/1d6 | x2       | —               | 4 lb.      | Bludgeoning              |
 | Spear                      | 2 gp  | 1d6     | 1d8     | x3       | 20 ft.          | 6 lb.      | Piercing                 |
 | *Ranged Weapons*           |       |         |         |          |                 |            |                          |
+| Blowgun                    | 2 gp  | 1       | 1d2     | x2       | 20 ft.          | 1 lb.      | Piercing                 |
+| Darts, blowgun (10)        | 5 sp  | —       | —       | —        | —               | —          | —                        |
 | Crossbow, heavy            | 50 gp | 1d8     | 1d10    | 19–20/x2 | 120 ft.         | 8 lb.      | Piercing                 |
 | Bolts, crossbow (10)       | 1 gp  | —       | —       | —        | —               | 1 lb.      | —                        |
 | Crossbow, light            | 35 gp | 1d6     | 1d8     | 19–20/x2 | 80 ft.          | 4 lb.      | Piercing                 |
@@ -184,6 +196,7 @@ Two special features recur, and the weapon descriptions name them:
 | -------------------------- | ------- | ------- | ------- | -------- | --------------- | ---------- | -------------------- |
 | *Light Melee Weapons*      |         |         |         |          |                 |            |                      |
 | Axe, throwing              | 8 gp    | 1d4     | 1d6     | x2       | 10 ft.          | 2 lb.      | Slashing             |
+| Dogslicer                  | 8 gp    | 1d4     | 1d6     | 19–20/x2 | —               | 1 lb.      | Slashing             |
 | Hammer, light              | 1 gp    | 1d3     | 1d4     | x2       | 20 ft.          | 2 lb.      | Bludgeoning          |
 | Handaxe                    | 6 gp    | 1d4     | 1d6     | x3       | —               | 3 lb.      | Slashing             |
 | Kukri                      | 8 gp    | 1d3     | 1d4     | 18–20/x2 | —               | 2 lb.      | Slashing             |
@@ -214,6 +227,7 @@ Two special features recur, and the weapon descriptions name them:
 | Greatsword                 | 50 gp   | 1d10    | 2d6     | 19–20/x2 | —               | 8 lb.      | Slashing             |
 | Guisarme (4)               | 9 gp    | 1d6     | 2d4     | x3       | —               | 12 lb.     | Slashing             |
 | Halberd                    | 10 gp   | 1d8     | 1d10    | x3       | —               | 12 lb.     | Piercing or slashing |
+| Horsechopper (4)           | 10 gp   | 1d8     | 1d10    | x3       | —               | 12 lb.     | Piercing or slashing |
 | Lance (4)                  | 10 gp   | 1d6     | 1d8     | x3       | —               | 10 lb.     | Piercing             |
 | Naginata (4)               | 35 gp   | 1d6     | 1d8     | x4       | —               | 9 lb.      | Slashing             |
 | Ranseur (4)                | 10 gp   | 1d6     | 2d4     | x3       | —               | 12 lb.     | Piercing             |
@@ -244,6 +258,7 @@ Two special features recur, and the weapon descriptions name them:
 | *Two-Handed Melee Weapons*                                                                                                                                           |        |         |         |          |                 |            |                          |  |
 | Axe, orc double (5)                                                                                                                                                  | 60 gp  | 1d6/1d6 | 1d8/1d8 | x3       | —               | 15 lb.     | Slashing                 |  |
 | Chain, spiked (4)                                                                                                                                                    | 25 gp  | 1d6     | 2d4     | x2       | —               | 10 lb.     | Piercing                 |  |
+| Curve blade, elven                                                                                                                                                   | 80 gp  | 1d8     | 1d10    | 18–20/x2 | —               | 7 lb.      | Slashing                 | |
 | Flail, dire (5)                                                                                                                                                      | 90 gp  | 1d6/1d6 | 1d8/1d8 | x2       | —               | 10 lb.     | Bludgeoning              |  |
 | Hammer, gnome hooked (5)                                                                                                                                             | 20 gp  | 1d6/1d4 | 1d8/1d6 | x3/x4    | —               | 6 lb.      | Bludgeoning and piercing |  |
 | Kusarigama (4, 5) | 12 gp | 1d2/1d4 | 1d3/1d6 | x2 | — | 3 lb. | Slashing or bludgeoning | |
@@ -270,6 +285,8 @@ Weapons found on Table: Weapons that have special options for the wielder (“yo
 **Arrows**: An arrow used as a melee weapon is treated as a light improvised weapon (–4 penalty on attack rolls) and deals damage as a dagger of its size (critical multiplier x2). Arrows come in a leather quiver that holds 20 arrows. An arrow that hits its target is destroyed; one that misses has a 50% chance of being destroyed or lost.
 
 **Axe, Orc Double**: An orc double axe is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding an orc double axe in one hand can’t use it as a double weapon—only one end of the weapon can be used in any given round.
+
+**Blowgun**: Blowguns are generally used to deliver debilitating (but rarely fatal) [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poisons]] from a distance. They are nearly silent when fired.
 
 **Bolas**: You can use this weapon to make a ranged trip attack against an opponent. You can’t be tripped during your own trip attempt when using a set of bolas.
 
@@ -301,7 +318,15 @@ Normally, operating a light crossbow requires two hands. However, you can shoot,
 
 You can fire a repeating crossbow with one hand or fire a repeating crossbow in each hand in the same manner as you would a normal crossbow of the same size. However, you must fire the weapon with two hands in order to use the reloading lever, and you must use two hands to load a new case of bolts.
 
+**Curve Blade, Elven**: Essentially a longer version of a scimitar, but with a thinner blade, the elven curve blade is exceptionally rare. You receive a +2 circumstance bonus to your CMD whenever a foe attempts to [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] your elven curve blade because of its flexible metal.
+
+You can use the Weapon Finesse feat to apply your Dexterity modifier instead of your Strength modifier on attack rolls with an elven curve blade that is sized for you, even though it isn’t a light weapon.
+
 **Dagger**: You get a +2 bonus on Sleight of Hand checks made to conceal a dagger on your body (see the Sleight of Hand skill).
+
+**Darts, Blowgun**: The thin, light darts used in a blowgun are usually made of hardwood with a stabilizing fletching of down or fur. A dart is usually loaded from the back end just before firing.
+
+**Dogslicer**: This short, curved sword is a favorite weapon of goblins, who show unusual cunning by drilling numerous holes in the blade to reduce the weapon’s weight. A dogslicer is fragile: it gains the broken condition if the wielder rolls a natural 1 on an attack roll with it, and a natural 1 while it is already broken destroys it. Masterwork and magical dogslicers lack this flaw.
 
 **Flail, Dire**: A dire flail is a double weapon. You can fight with it as if fighting with two weapons, but if you do, you incur all the normal attack penalties associated with fighting with two weapons, just as if you were using a one-handed weapon and a light weapon. A creature wielding a dire flail in one hand can’t use it as a double weapon— only one end of the weapon can be used in any given round.
 
@@ -332,6 +357,8 @@ Hammer, Gnome Hooked: A gnome hooked hammer is a double weapon. You can fight wi
 You can use a gnome hooked hammer to make trip attacks. If you are tripped during your own trip attempt, you can drop the gnome hooked hammer to avoid being tripped.
 
 Gnomes treat gnome hooked hammers as martial weapons.
+
+**Horsechopper**: Crafted by goblins to give themselves an advantage against horses, this weapon is essentially a halberd with an enlarged hook opposite the blade. A horsechopper has reach: you can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe. You can use a horsechopper to make [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attacks; if you are tripped during your own trip attempt, you can drop it to avoid being tripped.
 
 **Javelin**: Since it is not designed for melee, you are treated as nonproficient with it and take a –4 penalty on attack rolls if you use a javelin as a melee weapon.
 
