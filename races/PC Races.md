@@ -41,6 +41,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Orc|Orc]]
 - [[rangoric-srd/races/Oread|Oread]]
 - [[rangoric-srd/races/Ratfolk|Ratfolk]]
+- [[rangoric-srd/races/Strix|Strix]]
 - [[rangoric-srd/races/Svirfneblin|Svirfneblin]]
 - [[rangoric-srd/races/Sylph|Sylph]]
 - [[rangoric-srd/races/Tengu|Tengu]]
