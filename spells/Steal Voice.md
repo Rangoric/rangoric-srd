@@ -37,4 +37,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates
   - **Spell Resistance**: Yes
 
-The target's throat constricts, giving it the caster croak spellblight.
+The target's throat constricts, giving it the [[rangoric-srd/rules/spellblights/Caster Croak|caster croak]] [[rangoric-srd/rules/spellblights/Spellblights|spellblight]].

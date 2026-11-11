@@ -40,4 +40,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will partial
   - **Spell Resistance**: Yes
 
-You wrack the target's body and mind with the anguish and suffering of every bitter failure it will ever experience, rendering it permanently shaken and sickened. A successful Will save reduces the duration to 1 round per level. If the target is a spellcaster, failing this saving throw means it also gains a random minor spellblight.
+You wrack the target's body and mind with the anguish and suffering of every bitter failure it will ever experience, rendering it permanently shaken and sickened. A successful Will save reduces the duration to 1 round per level. If the target is a spellcaster, failing this saving throw means it also gains a random minor [[rangoric-srd/rules/spellblights/Spellblights#^table-minor-spellblights|spellblight]].

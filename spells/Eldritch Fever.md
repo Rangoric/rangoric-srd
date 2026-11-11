@@ -41,4 +41,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates
   - **Spell Resistance**: Yes
 
-The target gains the eldritch ague spellblight.
+The target gains the [[rangoric-srd/rules/spellblights/Eldritch Ague|eldritch ague]] [[rangoric-srd/rules/spellblights/Spellblights|spellblight]].
