@@ -197,6 +197,28 @@ A sign feat (the [[rangoric-srd/Tag Register|tag]] `sign`) is a birth sign: a co
 - [[rangoric-srd/feats/Sign of the Sword|Sign of the Sword]]
 - [[rangoric-srd/feats/Sign of the Trumpet|Sign of the Trumpet]]
 
+## Star Magic Items ^items
+
+Star magic follows the usual rules for making magic items ([[rangoric-srd/magic-items/Creating Magic Items|Creating Magic Items]]), with a few additions, and it has one kind of item of its own, the lens.
+
+### Lenses ^lenses
+
+A lens strengthens one star or constellation. Its holder's effective caster level is higher by the lens's bonus when calling that star or constellation, and only that one. A lens works only while held in the hand, a caster can have only one lens ready at a time, and readying one is a move action that doesn't provoke attacks of opportunity.
+
+**Making a lens**: It takes the [[rangoric-srd/feats/Secret Star of Reality|Secret Star of Reality]] feat, and the maker's caster level must be at least four times the lens's bonus (a 7th-level caster can make a +1 lens but not a +2). The maker chooses a star or constellation she can call. The base price is 250 gp × the star's or constellation's minimum call level × the bonus. Making it costs half the base price in gold and 1/25 of it in XP, and takes 1 day per 1,000 gp of the base price.
+
+**Focusing places**: Some ancient sites, often marked by standing stones or a ruined dome and giving off a faint aura of magic, work as a lens for one star or constellation on certain days of the year: some on a single day, some for a whole season. A focusing place gives a bonus of +1 to +5 to the caster level of anyone calling its star or constellation there. A star's focusing place works only in days when the star is ascendant; a constellation's can work at any time of year. No one knows how to make them.
+
+### Stars in Other Items
+
+- **Potions** can hold a star or a two-star constellation, at a call level of 3rd or lower. The potion records both its caster level and its call level.
+- **Wands** can hold a star or a two-star constellation, at a call level of 4th or lower, recording both levels.
+- **Staffs** can hold stars and constellations of any level, recording both levels, mixed freely with other arcane spells.
+- **One-use items** made with Craft Wondrous Item (a gem or crystal that calls a star once and is gone) describe their effect in full, so they needn't record a call level.
+- **Rods, rings, weapons and armor** describe their effects in full and need nothing more.
+
+Star magic items in the SRD: the weapon special abilities [[rangoric-srd/magic-items/weapon-abilities/Blazing|blazing]], [[rangoric-srd/magic-items/weapon-abilities/Shining|shining]], [[rangoric-srd/magic-items/weapon-abilities/Shrouded|shrouded]], [[rangoric-srd/magic-items/weapon-abilities/Wealthy|wealthy]] and [[rangoric-srd/magic-items/weapon-abilities/Wind-borne|wind-borne]]; the armor special abilities [[rangoric-srd/magic-items/armor-abilities/Dazzling|dazzling]], [[rangoric-srd/magic-items/armor-abilities/Enduring|enduring]], [[rangoric-srd/magic-items/armor-abilities/Frosted|frosted]], [[rangoric-srd/magic-items/armor-abilities/Journeying|journeying]] and [[rangoric-srd/magic-items/armor-abilities/Revealing|revealing]]; the [[rangoric-srd/magic-items/wondrous-items/Brooch of the Wolf|brooch of the wolf]], [[rangoric-srd/magic-items/rings/Ring of Stars|ring of stars]], [[rangoric-srd/magic-items/rods/Rod of the Setting Sun|rod of the setting sun]] and [[rangoric-srd/magic-items/weapons/Star Sword|star sword]].
+
 ## New Stars and Constellations
 
 New stars and constellations are made as new spells are, with these limits. A star is as strong as a 1st-level spell (no more than 5 damage dice against one creature) and says what each higher call level does: usually range, area and duration grow with caster level, while bonuses and damage grow with call level. A constellation is as strong as other spells of its minimum call level, its range, area, duration and effect grow with caster level, and overcalling adds to or changes its effect. A constellation can allow only some call levels (say 4th, 7th and 9th, but not 5th), and if so, it says which.

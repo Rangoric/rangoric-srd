@@ -38,6 +38,6 @@ tags: [rangoric, rangoric/constellation]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-A +2 *keen shining* longsword appears in your hand. You're proficient with it while it lasts, if you weren't already. It vanishes if it leaves your hands for more than 1 round.
+A +2 [[rangoric-srd/magic-items/weapon-abilities/Keen|keen]] [[rangoric-srd/magic-items/weapon-abilities/Shining|shining]] longsword appears in your hand. You're proficient with it while it lasts, if you weren't already. It vanishes if it leaves your hands for more than 1 round.
 
 **Higher call levels**: Each call level above 5th gives you a +1 bonus to your base attack bonus while you wield the sword.
