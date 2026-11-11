@@ -73,7 +73,7 @@ Most orcs encountered away from their homes are warriors; the information in the
 
 Orcs are proficient with all simple weapons, preferring those that cause the most damage in the least time. Many orcs who take up the warrior or fighter class also gain proficiency with the falchion or the greataxe as a martial weapon. They enjoy attacking from concealment and setting ambushes, and they obey the rules of war (such as honoring a truce) only as long as it is convenient for them.
 
-**Light Sensitivity (Ex)**: Orcs are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright sunlight or within the radius of a [[rangoric-srd/spells/Daylight|daylight]] spell.
+**Light Sensitivity (Ex)**: Orcs have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].
 
 ### Orcs as Characters
 
@@ -85,16 +85,4 @@ The orc warrior presented here had the following ability scores before racial ad
 
 These orc–human crossbreeds can be found in either orc or human society (where their status varies according to local sentiments), or in communities of their own. Half-orcs usually inherit a good blend of the physical characteristics of their parents. They are as tall as humans and a little heavier, thanks to their muscle. They have greenish pigmentation, sloping foreheads, jutting jaws, prominent teeth, and coarse body hair. Half-orcs who have lived among or near orcs have scars, in keeping with orcish tradition.
 
-**Half-Orc Traits (Ex)**: Half-orcs possess the following racial traits.
-
-  - \+2 Strength, –2 Intelligence, –2 Charisma.
-
-  - Medium size.
-
-  - A half-orc’s base land speed is 30 feet.
-
-  - Darkvision: Half-orcs can see in the dark up to 60 feet.
-
-  - Orc Blood: For all effects related to race, a half-orc is considered an orc.
-
-  - Automatic Languages: Common, Orc. Bonus Languages: Draconic, Giant, Gnoll, Goblin, Abyssal.
+Half-orc characters use the [[rangoric-srd/races/Half-Orc|half-orc]] race, which has their racial traits.

@@ -17,9 +17,9 @@ full-attack: "Longsword +3 melee (1d6/19–20) or light crossbow +3 ranged (1d6/
 space-reach: "5 ft./5 ft."
 special-attacks: "Halfling traits"
 special-qualities: "Halfling traits"
-saves: "Fort +4, Ref +2, Will +0"
-abilities: "Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8"
-skills: "Athletics +4 (–2 jumping), Perception +5, Stealth +5"
+saves: "Fort +4, Ref +2, Will +1"
+abilities: "Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8"
+skills: "Athletics +4 (–2 jumping), Perception +6, Stealth +5"
 skill-ranks: "Athletics 1, Perception 1, Stealth 0"
 feats: "Weapon Focus (longsword)"
 environment: "Warm plains"
@@ -51,9 +51,9 @@ tags: [rangoric, rangoric/monster]
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Halfling traits
   - **Special Qualities**: Halfling traits
-  - **Saves**: Fort +4, Ref +2, Will +0
-  - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (–2 jumping), [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
+  - **Saves**: Fort +4, Ref +2, Will +1
+  - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 8
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (–2 jumping), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
   - **Feats**: [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
   - **Environment**: Warm plains  
     (Deep halfling: Warm hills)  
@@ -75,25 +75,7 @@ Most halflings encountered outside their home are warriors; the information in t
 
 Halflings prefer to fight defensively, usually hiding and launching ranged attacks as the foe approaches. Their tactics are very much like those of elves but place more emphasis on cover and concealment and less on mobility.
 
-**Halfling Traits (Ex)**: Halflings possess the following racial traits.
-
-  - \+2 Dexterity, –2 Strength.
-
-  - Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
-
-  - A halfling’s base land speed is 20 feet.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] and [[rangoric-srd/skills/Stealth|Stealth]] checks.
-
-  - \+1 racial bonus on all saving throws.
-
-  - \+2 morale bonus on saving throws against fear. This bonus stacks with the halfling’s +1 bonus on saving throws in general.
-
-  - \+1 racial bonus on attack rolls with thrown weapons and slings.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-  - Automatic Languages: Common, Halfling. Bonus Languages: Dwarven, Elven, Gnome, Goblin, Orc.
+**Halfling Traits (Ex)**: Halflings have the racial traits of the [[rangoric-srd/races/Halfling|halfling]] race.
 
 The halfling warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

@@ -24,36 +24,7 @@ Most gnomes encountered outside their home are warriors; the information in the 
 
 Gnomes prefer misdirection and deception over direct confrontation. They would rather befuddle or embarrass foes (other than [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]] or [[rangoric-srd/monsters/Kobold|kobolds]]) than kill them. Gnomes make heavy use of illusion magic and carefully prepared ambushes and traps whenever they can.
 
-**Gnome Traits (Ex)**: Gnomes possess the following racial traits.
-
-  - \+2 Constitution, –2 Strength.
-
-  - Small size. +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
-
-  - A gnome’s base land speed is 20 feet.
-
-  - Low-light vision.
-
-  - Weapon Familiarity: Gnomes may treat gnome hooked hammers as martial weapons rather than exotic weapons.
-
-  - \+2 racial bonus on saving throws against illusions.
-
-  - Add +1 to the Difficulty Class for all saving throws against illusion spells cast by gnomes. This adjustment stacks with those from similar effects, such as the [[rangoric-srd/feats/Spell Focus|Spell Focus]] feat.
-
-  - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]] (including [[rangoric-srd/monsters/Goblin|goblins]], [[rangoric-srd/monsters/Hobgoblin|hobgoblins]], and [[rangoric-srd/monsters/Bugbear|bugbears]]).
-
-  - \+4 dodge bonus to Armor Class against creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giant]] type (such as ogres, trolls, and hill giants).
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) checks.
-
-  - Automatic Languages: Common, Gnome. Bonus Languages: Draconic, Dwarven, Elven, Giant, Goblin, Orc.
-
-  - Spell-Like Abilities: Caster level 1st; save DC 10 + gnome’s Cha modifier + spell level.  
-    *1/day* - [[rangoric-srd/spells/Speak with Animals|speak with animals]] (burrowing mammal only, duration 1 minute).  
-    A gnome with a Charisma score of at least 10 also has the following spell-like abilities:  
-    *1/day* - [[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Spells H to L|ghost sound]], [[rangoric-srd/spells/Spells P to R|prestidigitation]].
+**Gnome Traits (Ex)**: Gnomes have the racial traits of the [[rangoric-srd/races/Gnome|gnome]] race.
 
 The gnome warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

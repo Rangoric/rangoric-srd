@@ -17,9 +17,9 @@ attack: "Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19–20)
 full-attack: "Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Duergar traits, spell-like abilities"
-special-qualities: "Darkvision 60 ft., duergar traits"
-saves: "Fort +4 (*), Ref +0 (*), Will –1 (*)"
-abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 4"
+special-qualities: "Darkvision 120 ft., duergar traits"
+saves: "Fort +4 (*), Ref +0 (*), Will +0 (*)"
+abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 4"
 skills: "Appraise +3, Craft (blacksmithing) +2, Craft (stonemasonry) +2, Perception +1, Stealth –4"
 skill-ranks: "Appraise 1, Craft (blacksmithing) 0, Craft (stonemasonry) 0, Perception 1, Stealth 0"
 feats: "Toughness"
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Warhammer +2 melee (1d8+1/x3) or light crossbow +1 ranged (1d8/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Duergar traits, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., duergar traits
-  - **Saves**: Fort +4 (\*), Ref +0 (\*), Will –1 (\*)
-  - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 4
+  - **Special Qualities**: Darkvision 120 ft., duergar traits
+  - **Saves**: Fort +4 (\*), Ref +0 (\*), Will +0 (\*)
+  - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 4
   - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +2, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +2, [[rangoric-srd/skills/Perception|Perception]] +1, [[rangoric-srd/skills/Stealth|Stealth]] –4
   - **Feats**: Toughness
   - **Environment**: Underground

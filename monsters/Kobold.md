@@ -19,7 +19,7 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., light sensitivity"
 saves: "Fort +2, Ref +1, Will –1"
 abilities: "Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8"
-skills: "Craft (trapmaking) +4, Perception +6, Profession (miner) –1, Investigation +2, Stealth +5"
+skills: "Craft (trapmaking) +4, Perception +8, Profession (miner) –1, Investigation +2, Stealth +5"
 skill-ranks: "Craft (trapmaking) 1, Investigation 0, Perception 1, Profession (miner) 0, Stealth 0"
 feats: "Skill Focus (Perception)"
 environment: "Temperate forests"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Special Qualities**: Darkvision 60 ft., light sensitivity
   - **Saves**: Fort +2, Ref +1, Will –1
   - **Abilities**: Str 9, Dex 13, Con 10, Int 10, Wis 9, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +4, [[rangoric-srd/skills/Investigation|Investigation]] +2, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Profession|Profession]] (miner) –1, [[rangoric-srd/skills/Stealth|Stealth]] +5
+  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +4, [[rangoric-srd/skills/Investigation|Investigation]] +2, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Profession|Profession]] (miner) –1, [[rangoric-srd/skills/Stealth|Stealth]] +5
   - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Temperate forests
   - **Organization**: Gang (4–9), band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), warband (10–24 plus 2–4 dire weasels), tribe (40–400 plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, and 5–8 dire weasels)
@@ -77,9 +77,9 @@ Kobolds like to attack with overwhelming odds - at least two to one - or tricker
 
 They begin a fight by slinging bullets, closing only when they can see that their foes have been weakened. Whenever they can, kobolds set up ambushes near trapped areas.
 
-**Light Sensitivity (Ex)**: Kobolds are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright sunlight or within the radius of a [[rangoric-srd/spells/Daylight|daylight]] spell.
+**Light Sensitivity (Ex)**: Kobolds have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].
 
-**Skills**: Kobolds have a +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking), [[rangoric-srd/skills/Profession|Profession]] (miner), and [[rangoric-srd/skills/Investigation|Investigation]] checks.
+**Skills**: Kobolds have the [[rangoric-srd/races/Kobold|kobold]] race's racial bonuses on skill checks.
 
 The kobold warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

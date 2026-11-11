@@ -18,9 +18,9 @@ full-attack: "Dwarven waraxe +3 melee (1d10+1/x3) or shortbow +1 ranged (1d6/x3)
 space-reach: "5 ft./5 ft."
 special-attacks: "Dwarf traits"
 special-qualities: "Darkvision 60 ft., dwarf traits"
-saves: "Fort +4 (*), Ref +0 (*), Will –1 (*)"
-abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 6"
-skills: "Appraise +3, Craft (blacksmithing) +2, Craft (stonemasonry) +2, Perception +0"
+saves: "Fort +4 (*), Ref +0 (*), Will +0 (*)"
+abilities: "Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 6"
+skills: "Appraise +3, Craft (blacksmithing) +2, Craft (stonemasonry) +2, Perception +1"
 skill-ranks: "Appraise 1, Craft (blacksmithing) 0, Craft (stonemasonry) 0, Perception 1"
 feats: "Weapon Focus (dwarven waraxe)"
 environment: "Temperate mountains (Deep: Underground)"
@@ -51,9 +51,9 @@ tags: [rangoric, rangoric/monster]
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Dwarf traits
   - **Special Qualities**: Darkvision 60 ft., dwarf traits
-  - **Saves**: Fort +4 (\*), Ref +0 (\*), Will –1 (\*)
-  - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +2, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +2, [[rangoric-srd/skills/Perception|Perception]] +0
+  - **Saves**: Fort +4 (\*), Ref +0 (\*), Will +0 (\*)
+  - **Abilities**: Str 13, Dex 11, Con 14, Int 10, Wis 11, Cha 6
+  - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +3, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +2, [[rangoric-srd/skills/Craft|Craft]] (stonemasonry) +2, [[rangoric-srd/skills/Perception|Perception]] +1
   - **Feats**: Weapon Focus (dwarven waraxe)
   - **Environment**: Temperate mountains (Deep: Underground)
   - **Organization**: Team (2–4), squad (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or clan (30–100 plus 30% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)

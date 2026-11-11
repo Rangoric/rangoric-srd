@@ -9,10 +9,10 @@ subtypes:
 hit-dice: "1d10+4 (9 hp)"
 initiative: "+1"
 speed: "15 ft. in banded mail armor (3 squares); base speed 20 ft."
-armor-class: "23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat-footed 18"
+armor-class: "21 (+1 size, +1 Dex, +2 dodge, +6 banded mail, +1 buckler), touch 14, flat-footed 18"
 base-attack: "+1"
 cmb: "+0"
-cmd: "15"
+cmd: "13"
 attack: "Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)"
 full-attack: "Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)"
 space-reach: "5 ft./5 ft."
@@ -29,7 +29,7 @@ challenge-rating: 1
 treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "By character class"
-level-adjustment: "+3"
+level-adjustment: "+1"
 based-on:
   - "[[fantasy srd 3.5/monsters/gnome/Svirfneblin, 1st-Level Warrior|Svirfneblin, 1st-Level Warrior (3.5)]]"
 status: draft
@@ -44,8 +44,8 @@ tags: [rangoric, rangoric/monster]
   - **Hit Dice**: 1d10+4 (9 hp)
   - **Initiative**: +1
   - **Speed**: 15 ft. in banded mail armor (3 squares); base speed 20 ft.
-  - **Armor Class**: 23 (+1 size, +1 Dex, +4 dodge, +6 banded mail, +1 buckler), touch 16, flat-footed 18
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 15
+  - **Armor Class**: 21 (+1 size, +1 Dex, +2 dodge, +6 banded mail, +1 buckler), touch 14, flat-footed 18
+  - **Base Attack**: +1; **CMB**: +0; **CMD**: 13
   - **Attack**: Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)
   - **Full Attack**: Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)
   - **Space/Reach**: 5 ft./5 ft.
@@ -61,6 +61,6 @@ tags: [rangoric, rangoric/monster]
   - **Treasure**: Standard
   - **Alignment**: Usually neutral
   - **Advancement**: By character class
-  - **Level Adjustment**: +3
+  - **Level Adjustment**: +1
 
 Svirfneblin characters use the [[rangoric-srd/races/Svirfneblin|svirfneblin]] race, which has their racial traits and level adjustment.

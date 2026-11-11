@@ -6,20 +6,20 @@ creature-type: "Humanoid"
 subtypes:
   - "Goblinoid"
 hit-dice: "1d10+1 (6 hp)"
-initiative: "+1"
+initiative: "+2"
 speed: "30 ft. (6 squares)"
-armor-class: "15 (+1 size, +1 Dex, +2 leather armor, +1 light shield), touch 12, flat-footed 14"
+armor-class: "16 (+1 size, +2 Dex, +2 leather armor, +1 light shield), touch 13, flat-footed 14"
 base-attack: "+1"
 cmb: "+0"
-cmd: "11"
-attack: "Morningstar +2 melee (1d6) or javelin +3 ranged (1d4)"
-full-attack: "Morningstar +2 melee (1d6) or javelin +3 ranged (1d4)"
+cmd: "12"
+attack: "Morningstar +2 melee (1d6) or javelin +4 ranged (1d4)"
+full-attack: "Morningstar +2 melee (1d6) or javelin +4 ranged (1d4)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft."
-saves: "Fort +3, Ref +1, Will –1"
-abilities: "Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 6"
-skills: "Animal Handling +5 (+8 riding), Perception +6, Stealth +9"
+saves: "Fort +3, Ref +2, Will –1"
+abilities: "Str 11, Dex 15, Con 12, Int 10, Wis 9, Cha 6"
+skills: "Animal Handling +5 (+9 riding), Perception +6, Stealth +10"
 skill-ranks: "Animal Handling 1, Perception 1, Stealth 0"
 feats: "Skill Focus (Perception)"
 environment: "Temperate plains"
@@ -42,18 +42,18 @@ tags: [rangoric, rangoric/monster]
   - Goblin, 1st-Level Warrior  
     Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|Goblinoid]])
   - **Hit Dice**: 1d10+1 (6 hp)
-  - **Initiative**: +1
+  - **Initiative**: +2
   - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 15 (+1 size, +1 Dex, +2 leather armor, +1 light shield), touch 12, flat-footed 14
-  - **Base Attack**: +1; **CMB**: +0; **CMD**: 11
-  - **Attack**: Morningstar +2 melee (1d6) or javelin +3 ranged (1d4)
-  - **Full Attack**: Morningstar +2 melee (1d6) or javelin +3 ranged (1d4)
+  - **Armor Class**: 16 (+1 size, +2 Dex, +2 leather armor, +1 light shield), touch 13, flat-footed 14
+  - **Base Attack**: +1; **CMB**: +0; **CMD**: 12
+  - **Attack**: Morningstar +2 melee (1d6) or javelin +4 ranged (1d4)
+  - **Full Attack**: Morningstar +2 melee (1d6) or javelin +4 ranged (1d4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
   - **Special Qualities**: Darkvision 60 ft.
-  - **Saves**: Fort +3, Ref +1, Will –1
-  - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 9, Cha 6
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5 (+8 riding), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +9
+  - **Saves**: Fort +3, Ref +2, Will –1
+  - **Abilities**: Str 11, Dex 15, Con 12, Int 10, Wis 9, Cha 6
+  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5 (+9 riding), [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +10
   - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Temperate plains
   - **Organization**: Gang (4–9), band (10–100 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults and 1 leader of 4th–6th level), warband (10–24 with worg mounts), or tribe (40–400 plus 100% noncombatants plus 1 3rd-level sergeant per 20 adults, 1 or 2 lieutenants of 4th or 5th level, 1 leader of 6th–8th level, 10–24 worgs, and 2–4 dire wolves)
@@ -73,7 +73,7 @@ Being bullied by bigger, stronger creatures has taught goblins to exploit what f
 
 Goblins have a poor grasp of strategy and are cowardly by nature, tending to flee the field if a battle turns against them. With proper supervision, though, they can implement reasonably complex plans, and in such circumstances their numbers can be a deadly advantage.
 
-**Skills**: Goblins have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks. Goblin cavalry (mounted on [[rangoric-srd/monsters/Worg|worgs]]) usually select the [[rangoric-srd/feats/Mounted Combat|Mounted Combat]] feat in place of the [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) feat, which reduces their [[rangoric-srd/skills/Perception|Perception]] check modifier from +3 to +0.
+**Skills**: Goblins have the [[rangoric-srd/races/Goblin|goblin]] race's racial bonuses on skill checks. Goblin cavalry (mounted on [[rangoric-srd/monsters/Worg|worgs]]) usually select the [[rangoric-srd/feats/Mounted Combat|Mounted Combat]] feat in place of the [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) feat, which reduces their [[rangoric-srd/skills/Perception|Perception]] check modifier from +3 to +0.
 
 **Challenge Rating**: Goblins with levels in NPC classes have a CR equal to their character level –2.
 
