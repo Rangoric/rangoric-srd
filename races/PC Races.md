@@ -18,6 +18,7 @@ Each race has its own note:
 
 - [[rangoric-srd/races/Aasimar|Aasimar]]
 - [[rangoric-srd/races/Catfolk|Catfolk]]
+- [[rangoric-srd/races/Changeling|Changeling]]
 - [[rangoric-srd/races/Dhampir|Dhampir]]
 - [[rangoric-srd/races/Drow|Drow]]
 - [[rangoric-srd/races/Dwarf|Dwarf]]

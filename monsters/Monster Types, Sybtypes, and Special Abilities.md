@@ -179,7 +179,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
 
   - Any gear worn or carried by the creature that can’t be worn or carried in its new form instead falls to the ground in its space. If the creature changes size, any gear it wears or carries that can be worn or carried in its new form changes size to match the new size. (Nonhumanoid-shaped creatures can’t wear armor designed for humanoid-shaped creatures, and viceversa.) Gear returns to normal size if dropped.
 
-**Changeling Subtype**: A humanoid subtype for changelings. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^changeling
+**Changeling Subtype**: A humanoid subtype for [[rangoric-srd/races/Changeling|changelings]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^changeling
 
 **Chaotic Subtype**: A subtype usually applied only to [[#^outsider|outsiders]] native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes [[#^DR|damage reduction]] as if its natural weapons and any weapons it wields were chaotic-aligned. ^chaotic
 
