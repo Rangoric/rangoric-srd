@@ -884,7 +884,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
   - Undead do not breathe, eat, or sleep.
 
-**Vanara Subtype**: A humanoid subtype for vanaras. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vanara
+**Vanara Subtype**: A humanoid subtype for [[rangoric-srd/races/Vanara|vanaras]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vanara
 
 **Vermin Type**: This type includes insects, arachnids, other arthropods, worms, and similar invertebrates. ^vermin
 
