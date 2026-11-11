@@ -55,7 +55,7 @@ You can’t move diagonally past a corner (even by taking a 5-foot step). You ca
 
 **Overrun**: During your movement or as part of a charge, you can attempt to move through a square occupied by an opponent; see [[rangoric-srd/combat/Combat Maneuvers#Overrun|Overrun]].
 
-**Tumbling**: A trained character can attempt to tumble through a square occupied by an opponent (see the Acrobatics skill).
+**Tumbling**: A character can attempt to tumble through a square occupied by an opponent with an [[rangoric-srd/skills/Acrobatics#Tumbling|Acrobatics]] check against the opponent’s [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]].
 
 **Very Small Creature**: A Fine, Diminutive, or Tiny creature can move into or through an occupied square. The creature provokes attacks of opportunity when doing so.
 
