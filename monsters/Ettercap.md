@@ -69,7 +69,7 @@ Ettercaps are not brave creatures, but their cunning traps often ensure that the
 
 **Poison (Ex)**: Injury, Fortitude DC 15, initial damage 1d6 Dex, secondary damage 2d6 Dex. The save DC is Constitution based and includes a +2 racial bonus.
 
-**Web (Ex)**: An ettercap can throw a web eight times per day. This is similar to an attack with a [[rangoric-srd/equipment/Equipment Weapons#^net|net]] but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets of up to Medium size. The web anchors the target in place, allowing no movement.
+**Web (Ex)**: An ettercap can throw a web eight times per day. This is similar to an attack with a [[rangoric-srd/equipment/weapons/Net|net]] but has a maximum range of 50 feet, with a range increment of 10 feet, and is effective against targets of up to Medium size. The web anchors the target in place, allowing no movement.
 
 An [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] creature can escape with a DC 13 [[rangoric-srd/skills/Escape Artist|Escape Artist]] check or burst the web with a DC 17 Strength check. The check DCs are Constitution-based, and the Strength check DC includes a +4 racial bonus. The web has 6 hit points, hardness 0, and takes double damage from fire.
 

@@ -25,7 +25,7 @@ Perks:
 - Darkvision: Gripplis can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Camouflage: Gripplis receive a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in marshes and forested areas.
 - Swamp Stride: A grippli can move through difficult terrain at its normal speed while within a swamp. Magically altered terrain affects a grippli normally.
-- Weapon Familiarity: Gripplis are proficient with [[rangoric-srd/equipment/Equipment Weapons#Weapon Descriptions|nets]].
+- Weapon Familiarity: Gripplis are proficient with [[rangoric-srd/equipment/weapons/Net|nets]].
 
 Languages:
 

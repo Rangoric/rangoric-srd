@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/equipment/armor")
+    - file.hasTag("rangoric/armor")
+views:
+  - type: table
+    name: "All armor"
+    order:
+      - file.name
+      - note.category
+      - note.cost-gp
+      - note.armor-bonus
+      - note.max-dex
+      - note.check-penalty
+      - note.spell-failure
+      - note.speed-30
+      - note.speed-20
+      - note.weight-lb
+    sort:
+      - property: note.armor-bonus
+        direction: ASC
+  - type: table
+    name: "By category"
+    groupBy:
+      property: note.category
+      direction: ASC
+    order:
+      - file.name
+      - note.cost-gp
+      - note.armor-bonus
+      - note.max-dex
+      - note.check-penalty
+      - note.spell-failure
+      - note.weight-lb
+    sort:
+      - property: note.armor-bonus
+        direction: ASC

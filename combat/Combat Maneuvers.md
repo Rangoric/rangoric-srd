@@ -82,7 +82,7 @@ You can attempt to disarm your opponent in place of a melee attack. If you do no
 
 If your attack is successful, your target drops one item it is carrying of your choice (even if the item is wielded with two hands). If your attack exceeds the CMD of the target by 10 or more, the target drops the items it is carrying in both hands (maximum two items if the target has more than two hands). If your attack fails by 10 or more, you drop the weapon that you were using to attempt the disarm. If you successfully disarm your opponent without using a weapon, you may automatically pick up the item dropped.
 
-Some gear makes a wielder harder to disarm, such as [[rangoric-srd/equipment/Equipment Weapons|spiked gauntlets]] or a weapon held in a [[rangoric-srd/equipment/Equipment Armor|locked gauntlet]].
+Some gear makes a wielder harder to disarm, such as [[rangoric-srd/equipment/weapons/Spiked Gauntlet|spiked gauntlets]] or a weapon held in a [[rangoric-srd/equipment/armor/Locked Gauntlet|locked gauntlet]].
 
 To take an item a foe is wearing or carrying but not holding, use [[#Steal|steal]].
 

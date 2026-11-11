@@ -60,7 +60,7 @@ The ninja’s class skills (and the key ability for each skill) are [[rangoric-s
 
 All of the following are class features of the ninja.
 
-**Weapon and Armor Proficiency**: Ninja are proficient with all simple weapons, plus the [[rangoric-srd/equipment/Equipment Weapons|kama]], [[rangoric-srd/equipment/Equipment Weapons|katana]], [[rangoric-srd/equipment/Equipment Weapons|kusarigama]], [[rangoric-srd/equipment/Equipment Weapons|nunchaku]], [[rangoric-srd/equipment/Equipment Weapons|sai]], shortbow, short sword, [[rangoric-srd/equipment/Equipment Weapons|shuriken]], [[rangoric-srd/equipment/Equipment Weapons|siangham]], and [[rangoric-srd/equipment/Equipment Weapons|wakizashi]]. They are proficient with light armor but not with shields.
+**Weapon and Armor Proficiency**: Ninja are proficient with all simple weapons, plus the [[rangoric-srd/equipment/weapons/Kama|kama]], [[rangoric-srd/equipment/weapons/Katana|katana]], [[rangoric-srd/equipment/weapons/Kusarigama|kusarigama]], [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]], [[rangoric-srd/equipment/weapons/Sai|sai]], shortbow, short sword, [[rangoric-srd/equipment/weapons/Shuriken|shuriken]], [[rangoric-srd/equipment/weapons/Siangham|siangham]], and [[rangoric-srd/equipment/weapons/Wakizashi|wakizashi]]. They are proficient with light armor but not with shields.
 
 **Poison Use**: At 1st level, a ninja is trained in the use of poison and cannot accidentally poison herself when applying poison to a weapon. ^ninja-poison-use
 
