@@ -160,17 +160,7 @@ Aquatic kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|ko
 
 ### Aquatic Orcs
 
-Aquatic orcs survive on the slopes of cliff sides or undersea drops, far from the warmth of volcanic vents and the nurturing light of the sun. As such, they control access to the secrets of the deep ocean trenches — but are menaced by fell creatures that rise up out of the trenches in search of fresh prey.
-
-Aquatic orcs stand ever vigilant against attackers and thieves when they're not making preemptive strikes against those foolish enough to settle near their territory.
-
-Occasionally an individual orc questions the need for constant battle, or seeks strategies other than brute force. Such iconoclasts often leave their tribes — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Aquatic orcs have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], as well as the following trait.
-
-  - An aquatic orc has a swim speed of 30 feet.
+Aquatic orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].
 
 ## Arctic Races
 
@@ -250,20 +240,7 @@ Arctic kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kob
 
 ### Arctic Orcs
 
-Arctic orcs are primitive herders, eking out a living on the slopes of volcanic mountains and building their crude huts near hot springs or steam vents. They herd woolly cattle, caribou, and elk. As a result, they control large sources of meat, water, and heat — all things coveted by others living in or traveling through the arctic. What they don't have, they take by force.
-
-Arctic orcs stand ever vigilant against attackers and thieves when they're not making preemptive strikes against those foolish enough to settle near their territory.
-
-Occasionally an individual orc questions the need for constant battle, or seeks strategies other than brute force. Such iconoclasts often leave their tribes — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Arctic orcs have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: An arctic orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - No light sensitivity.
-  - \+2 racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks: Arctic orcs are herders, and they rely on their skills with animals to keep their tribes fed.
+Arctic orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].
 
 ## Desert Races
 
@@ -345,19 +322,7 @@ Desert kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kob
 
 ### Desert Orcs
 
-Desert orcs are martial creatures who live for battle. Prowess in battle is their only measure of social standing, and they don't particularly care if weaker races get hurt when orcs test their skills. In fact, the chief difference between desert orcs and desert goblinoids is that the former never accept defeat — when desert orcs attack, they conquer or die trying.
-
-Desert orcs live in a perpetual state of war, participating in eternal night sorties from their isolated desert canyons and ancient ruined cities to attack settlements and expand their territory. Only the burning sun, and their weakness when in it, keeps them from ruling the desert.
-
-Occasionally an individual orc questions the need for constant battle, or seeks strategies other than brute force. Such iconoclasts often leave their tribes — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Desert orcs have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A desert orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - Endurance: Desert orcs gain [[rangoric-srd/feats/Endurance|Endurance]] as a racial bonus feat.
+Desert orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].
 
 ## Jungle Races
 
@@ -429,16 +394,4 @@ Jungle kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kob
 
 ### Jungle Orcs
 
-If gorillas were evil and could speak, they'd be a lot like jungle orcs. Jungle orcs live a simple existence, moving through the jungle hunting and gathering food in clan groups (equivalent in size to the squads given in the orc monster entry, plus 150% noncombatants). Although combat is common within the clans, it's relatively bloodless and hardly ever lethal. Only when jungle orcs encounter other clans or other races do they show the true extent of their violent, evil nature.
-
-Conquest is a baffling concept to jungle orcs. They attack, take whatever strikes their fancy, and move on. They lack the discipline required to maintain the things they steal, so they always seek weakly defended settlements and caravans to replace those things that break or wear out in the humidity of the jungle.
-
-Occasionally an individual jungle orc questions the need for constant battle, or seeks strategies other than brute force. These are often the more intelligent members of their clans. Such iconoclasts often leave the jungle — at least temporarily — to become adventurers.
-
-##### Racial Traits
-
-Jungle orcs have all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A jungle orc can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: Jungle orcs must be self-sufficient in order to survive their environment.
+Jungle orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].

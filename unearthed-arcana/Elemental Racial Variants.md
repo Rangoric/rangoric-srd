@@ -119,10 +119,4 @@ Water halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes|
 
 ### Water Orcs
 
-Water orcs exemplify the water traits turned to evil. Though slow to reach decisions, once a water orc chooses a course of action its resolve is harder to shift than a tidal wave.
-
-##### Racial Traits
-
-Water orcs have the general [[#General Traits Of Water Races|traits of water races]] described above and all [[rangoric-srd/monsters/Orc|orc racial traits]], with additions and exceptions as noted below.
-
-  - \+4 Strength, +2 Constitution, -2 Intelligence, -2 Wisdom, -2 Charisma: Water orcs are strong and tough, but share the standard race's limited mental capacities.
+Water orcs are now a subtype of the [[rangoric-srd/races/Orc#Subtypes|orc]].

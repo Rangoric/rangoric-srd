@@ -611,7 +611,7 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
   - Oozes eat and breathe, but do not sleep.
 
-**Orc Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Orc|orcs]]; [[rangoric-srd/races/Half-Orc|half-orcs]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^orc
+**Orc Subtype**: A humanoid subtype for [[rangoric-srd/races/Orc|orcs]]; [[rangoric-srd/races/Half-Orc|half-orcs]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^orc
 
 **Outsider Type**: An outsider is at least partially composed of the essence (but not necessarily the material) of some plane other than the Material Plane. Some creatures start out as some other type and become outsiders when they attain a higher (or lower) state of spiritual existence. ^outsider
 

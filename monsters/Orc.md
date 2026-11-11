@@ -77,21 +77,9 @@ Orcs are proficient with all simple weapons, preferring those that cause the mos
 
 ### Orcs as Characters
 
-**Orc Traits (Ex)**: Orcs possess the following racial traits.
-
-  - \+4 Strength, –2 Intelligence, –2 Wisdom, –2 Charisma.
-
-  - An orc’s base land speed is 30 feet.
-
-  - Darkvision out to 60 feet.
-
-  - Light Sensitivity: Orcs are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright sunlight or within the radius of a [[rangoric-srd/spells/Daylight|daylight]] spell.
-
-  - Automatic Languages: Common, Orc. Bonus Languages: Dwarven, Giant, Gnoll, Goblin, Undercommon.
+Orc characters use the [[rangoric-srd/races/Orc|orc]] race, which has their racial traits, alternate racial traits, subtypes and paragon class.
 
 The orc warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
-
-**Paragon Class**: orcs can advance as [[rangoric-srd/classes/Orc Paragon|orc paragons]].
 
 ### Half-Orcs
 

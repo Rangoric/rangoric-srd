@@ -28,6 +28,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Human|Human]]
 - [[rangoric-srd/races/Ifrit|Ifrit]]
 - [[rangoric-srd/races/Kobold|Kobold]]
+- [[rangoric-srd/races/Orc|Orc]]
 - [[rangoric-srd/races/Oread|Oread]]
 - [[rangoric-srd/races/Sylph|Sylph]]
 - [[rangoric-srd/races/Tiefling|Tiefling]]
