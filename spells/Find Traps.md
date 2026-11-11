@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 2"
+  - "Inq 2"
   - "Wit 2"
 components:
   - "V"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 2, Wit 2
+  - **Level**: Clr 2, Inq 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

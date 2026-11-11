@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 5"
+  - "Inq 5"
   - "Magic 5"
   - "Protection 5"
 components:
@@ -18,8 +19,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Spell Resistance|Spell Resistance (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 5, Magic 5, Protection 5
+  - **Level**: Clr 5, Inq 5, Magic 5, Protection 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Brd 4"
   - "Clr 5"
+  - "Inq 5"
   - "Pal 3"
   - "Sha 5"
   - "Skd 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 4, Clr 5, Pal 3, Sha 5, Skd 4
+  - **Level**: Brd 4, Clr 5, Inq 5, Pal 3, Sha 5, Skd 4
   - **Components**: V, S, M/DF (an old reed from a wind instrument)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

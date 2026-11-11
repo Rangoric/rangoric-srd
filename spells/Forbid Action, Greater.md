@@ -8,6 +8,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Clr 5"
+  - "Inq 5"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Clr 5
+  - **Level**: Clr 5, Inq 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. +5 ft./2 levels)

@@ -6,6 +6,7 @@ descriptor:
   - "Lawful"
 level:
   - "Clr 2"
+  - "Inq 2"
   - "Pal 2"
   - "Sor/Wiz 2"
 target: "Creatures touched"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Lawful\]*
 
-  - **Level**: Clr 2, Pal 2, Sor/Wiz 2
+  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2
   - **Components**: 
   - **Target**: Creatures touched
 

@@ -6,6 +6,7 @@ level:
   - "Apl 2"
   - "Brd 2"
   - "Clr 2"
+  - "Inq 2"
   - "Skd 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 2, Brd 2, Clr 2, Skd 2
+  - **Level**: Apl 2, Brd 2, Clr 2, Inq 2, Skd 2
   - **Components**: V, S, M (a pinch of hops)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

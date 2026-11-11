@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 2"
   - "Clr 2"
+  - "Inq 2"
   - "Pal 1"
   - "Skd 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Clr 2, Pal 1, Skd 2
+  - **Level**: Brd 2, Clr 2, Inq 2, Pal 1, Skd 2
   - **Components**: V, S, M (a gold piece)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

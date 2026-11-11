@@ -5,6 +5,7 @@ school: "Evocation"
 level:
   - "Brd 5"
   - "Clr 6"
+  - "Inq 5"
   - "Skd 5"
   - "Sor/Wiz 6"
   - "Wit 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Brd 5, Clr 6, Skd 5, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 5, Clr 6, Inq 5, Skd 5, Sor/Wiz 6, Wit 6
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Up to 1 mile/level, see text

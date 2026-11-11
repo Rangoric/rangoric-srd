@@ -10,6 +10,7 @@ level:
   - "Brd 2"
   - "Drd 2"
   - "Hun 1"
+  - "Inq 1"
   - "Pal 1"
   - "Rgr 1"
   - "Sha 2"
@@ -38,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Pal 1, Rgr 1, Sha 2, Skd 2, Wit 1
+  - **Level**: Apl 1, Brd 2, Drd 2, Hun 1, Inq 1, Pal 1, Rgr 1, Sha 2, Skd 2, Wit 1
   - **Components**: V, S, M (a swatch of black cloth)
   - **Casting Time**: 1 minute
   - **Range**: Close (25 ft. + 5 ft./2 levels)

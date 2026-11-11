@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Drd 5"
   - "Hun 2"
+  - "Inq 4"
   - "Rgr 2"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 5, Hun 2, Rgr 2
+  - **Level**: Drd 5, Hun 2, Inq 4, Rgr 2
   - **Components**: V, S, F
   - **Casting Time**: 3 rounds
   - **Range**: Personal

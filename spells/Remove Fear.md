@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Brd 1"
   - "Clr 1"
+  - "Inq 1"
   - "Sha 1"
   - "Skd 1"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Clr 1, Sha 1, Skd 1
+  - **Level**: Brd 1, Clr 1, Inq 1, Sha 1, Skd 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

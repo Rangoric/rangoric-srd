@@ -6,6 +6,7 @@ descriptor:
   - "Force"
 level:
   - "Clr 2"
+  - "Inq 2"
   - "Sha 2"
   - "War 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Clr 2, Sha 2, War 2
+  - **Level**: Clr 2, Inq 2, Sha 2, War 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

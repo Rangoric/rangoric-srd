@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 6"
+  - "Inq 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -13,8 +14,8 @@ area: "Several undead creatures within a 40-ft.-radius burst"
 saving-throw: "Will negates"
 based-on:
   - "[[fantasy srd 3.5/spells/Undeath to Death|Undeath to Death (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 6, Sor/Wiz 6
+  - **Level**: Clr 6, Inq 6, Sor/Wiz 6
   - **Components**: V, S, M/DF
   - **Area**: Several undead creatures within a 40-ft.-radius burst
   - **Saving Throw**: Will negates

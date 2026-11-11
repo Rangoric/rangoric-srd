@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Blr 1"
+  - "Inq 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Blr 1, Sor/Wiz 1
+  - **Level**: Blr 1, Inq 1, Sor/Wiz 1
   - **Components**: V, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal

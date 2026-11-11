@@ -9,6 +9,7 @@ level:
   - "Clr 3"
   - "Drd 3"
   - "Hun 3"
+  - "Inq 3"
   - "Pal 3"
   - "Sha 3"
   - "Skd 3"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Brd 3, Clr 3, Drd 3, Hun 3, Pal 3, Sha 3, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Clr 3, Drd 3, Hun 3, Inq 3, Pal 3, Sha 3, Skd 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -8,6 +8,7 @@ descriptor:
   - "Water"
 level:
   - "Clr 2"
+  - "Inq 2"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Cold, Good, Water\]*
 
-  - **Level**: Clr 2
+  - **Level**: Clr 2, Inq 2
   - **Components**: V, S, M (a flask of holy water, or 5 pounds of powdered silver worth 25 gp)
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

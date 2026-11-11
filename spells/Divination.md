@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 4"
+  - "Inq 4"
   - "Knowledge 4"
   - "Sha 4"
   - "Wit 4"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 4, Knowledge 4, Sha 4, Wit 4
+  - **Level**: Clr 4, Inq 4, Knowledge 4, Sha 4, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Personal

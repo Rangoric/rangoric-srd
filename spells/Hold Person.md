@@ -10,6 +10,7 @@ level:
   - "Blr 3"
   - "Brd 2"
   - "Clr 2"
+  - "Inq 2"
   - "Sha 2"
   - "Skd 2"
   - "Sor/Wiz 3"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Apl 2, Blr 3, Brd 2, Clr 2, Sha 2, Skd 2, Sor/Wiz 3, Wit 2
+  - **Level**: Apl 2, Blr 3, Brd 2, Clr 2, Inq 2, Sha 2, Skd 2, Sor/Wiz 3, Wit 2
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

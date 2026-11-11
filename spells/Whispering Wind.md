@@ -6,6 +6,7 @@ descriptor:
   - "Air"
 level:
   - "Brd 2"
+  - "Inq 2"
   - "Skd 2"
   - "Sor/Wiz 2"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Inq 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 1 mile/level

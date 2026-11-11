@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 2"
   - "Clr 3"
+  - "Inq 3"
   - "Skd 2"
   - "Sor/Wiz 2"
   - "Travel 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Clr 3, Skd 2, Sor/Wiz 2, Travel 2, Wit 3
+  - **Level**: Brd 2, Clr 3, Inq 3, Skd 2, Sor/Wiz 2, Travel 2, Wit 3
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

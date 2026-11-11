@@ -6,6 +6,7 @@ descriptor:
   - "Curse"
 level:
   - "Clr 5"
+  - "Inq 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Curse\]*
 
-  - **Level**: Clr 5, Sor/Wiz 4, Wit 4
+  - **Level**: Clr 5, Inq 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (powdered lead and platinum worth 250 gp)
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

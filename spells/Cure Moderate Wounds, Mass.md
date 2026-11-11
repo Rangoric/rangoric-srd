@@ -7,6 +7,7 @@ level:
   - "Brd 6"
   - "Clr 6"
   - "Drd 7"
+  - "Inq 6"
   - "Sha 6"
   - "Skd 6"
   - "Wit 7"
@@ -22,6 +23,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 6, Clr 6, Drd 7, Sha 6, Skd 6, Wit 7
+  - **Level**: Brd 6, Clr 6, Drd 7, Inq 6, Sha 6, Skd 6, Wit 7
 
 This spell functions like [[rangoric-srd/spells/Cure Light Wounds, Mass|mass cure light wounds]], except that it cures 2d8 points of damage +1 point per caster level (maximum +30).

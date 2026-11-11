@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Healing"
 level:
   - "Clr 3"
+  - "Inq 2"
   - "Pal 2"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 3, Pal 2
+  - **Level**: Clr 3, Inq 2, Pal 2
   - **Components**: V, S, F (a pair of golden bracelets worth 100 gp each worn by both you and the target)
   - **Casting Time**: 1 round
   - **Range**: Touch; see text

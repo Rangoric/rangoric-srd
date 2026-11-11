@@ -7,6 +7,7 @@ level:
   - "Clr 6"
   - "Drd 6"
   - "Hun 6"
+  - "Inq 6"
   - "Knowledge 6"
   - "Sha 6"
   - "Skd 6"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 6, Clr 6, Drd 6, Hun 6, Knowledge 6, Sha 6, Skd 6, Travel 6, Wit 6
+  - **Level**: Brd 6, Clr 6, Drd 6, Hun 6, Inq 6, Knowledge 6, Sha 6, Skd 6, Travel 6, Wit 6
   - **Components**: V, S, F
   - **Casting Time**: 3 rounds
   - **Range**: Personal or touch

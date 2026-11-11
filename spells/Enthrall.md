@@ -10,6 +10,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Clr 2"
+  - "Inq 2"
   - "Sha 2"
   - "Skd 2"
   - "Wit 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Language Dependent, Mind-Affecting, Sonic\]*
 
-  - **Level**: Brd 2, Clr 2, Sha 2, Skd 2, Wit 2
+  - **Level**: Brd 2, Clr 2, Inq 2, Sha 2, Skd 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

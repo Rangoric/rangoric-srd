@@ -8,6 +8,7 @@ level:
   - "Apl 4"
   - "Clr 5"
   - "Evil 5"
+  - "Inq 5"
   - "Sha 5"
 based-on:
   - "[[fantasy srd 3.5/spells/Dispel Good|Dispel Good (3.5)]]"
@@ -21,6 +22,6 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Evil\]*
 
-  - **Level**: Apl 4, Clr 5, Evil 5, Sha 5
+  - **Level**: Apl 4, Clr 5, Evil 5, Inq 5, Sha 5
 
 This spell functions like [[rangoric-srd/spells/Dispel Evil|dispel evil]], except that you are surrounded by dark, wavering, unholy energy, and the spell affects good creatures and spells rather than evil ones.

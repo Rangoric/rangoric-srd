@@ -538,6 +538,7 @@ In addition to enhancement bonuses, weapons can have one or more of the special 
   - [[rangoric-srd/magic-items/weapon-abilities/Icy Burst|Icy Burst]]
   - [[rangoric-srd/magic-items/weapon-abilities/Keen|Keen]]
   - [[rangoric-srd/magic-items/weapon-abilities/Ki Focus|Ki Focus]]
+  - [[rangoric-srd/magic-items/weapon-abilities/Menacing|Menacing]]
   - [[rangoric-srd/magic-items/weapon-abilities/Merciful|Merciful]]
   - [[rangoric-srd/magic-items/weapon-abilities/Mighty Cleaving|Mighty Cleaving]]
   - [[rangoric-srd/magic-items/weapon-abilities/Quenching|Quenching]]

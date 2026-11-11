@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 6"
+  - "Inq 6"
   - "Wit 6"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 6, Wit 6
+  - **Level**: Clr 6, Inq 6, Wit 6
   - **Components**: V, S, M (rare incense and tonics worth 250 gp)
   - **Casting Time**: 8 hours
   - **Range**: Personal

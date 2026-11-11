@@ -5,6 +5,7 @@ school: "Abjuration"
 descriptor:
   - "Good"
 level:
+  - "Inq 4"
   - "Pal 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Good\]*
 
-  - **Level**: Pal 3
+  - **Level**: Inq 4, Pal 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

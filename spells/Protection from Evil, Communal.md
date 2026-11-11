@@ -6,6 +6,7 @@ descriptor:
   - "Good"
 level:
   - "Clr 2"
+  - "Inq 2"
   - "Pal 2"
   - "Sor/Wiz 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Good\]*
 
-  - **Level**: Clr 2, Pal 2, Sor/Wiz 2
+  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

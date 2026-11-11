@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Clr 3"
+  - "Inq 2"
   - "Skd 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Brd 2, Clr 3, Skd 2
+  - **Level**: Brd 2, Clr 3, Inq 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Touch
@@ -41,6 +42,6 @@ tags: [rangoric, rangoric/spell]
 
 An object you touch emanates a 20-foot radius of bright light. The effect looks like a regular flame but creates no heat and uses no oxygen. Allies within the area of this light gain a +2 enhancement bonus on Perception and Sense Motive checks, as well as on Knowledge checks to identify monsters that are also within the area and their special powers and vulnerabilities.
 
-When an inquisitor casts this spell, the light emanation doubles (40-ft.-radius emanation) while that inquisitor has a judgment active.
+When an [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] casts this spell, the light emanation doubles (40-ft.-radius emanation) while that inquisitor has a [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|judgment]] active.
 
 Light spells counter and dispel darkness spells of an equal or lower level.

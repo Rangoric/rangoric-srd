@@ -9,6 +9,7 @@ descriptor:
   - "Lawful"
 level:
   - "Apl 2"
+  - "Inq 2"
   - "Pal 2"
 components:
   - "V"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Chaotic, Evil, Good, Lawful\]*
 
-  - **Level**: Apl 2, Pal 2
+  - **Level**: Apl 2, Inq 2, Pal 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

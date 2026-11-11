@@ -6,6 +6,7 @@ descriptor:
   - "Good"
 level:
   - "Clr 1"
+  - "Inq 1"
   - "Pal 1"
 components:
   - "V"
@@ -19,8 +20,8 @@ saving-throw: "Will negates (object)"
 spell-resistance: "Yes (object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Bless Water|Bless Water (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Good\]*
 
-  - **Level**: Clr 1, Pal 1
+  - **Level**: Clr 1, Inq 1, Pal 1
   - **Components**: V, S, M
   - **Casting Time**: 1 minute
   - **Range**: Touch

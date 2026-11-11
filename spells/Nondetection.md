@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Apl 3"
   - "Hun 4"
+  - "Inq 3"
   - "Rgr 4"
   - "Sor/Wiz 3"
   - "Trickery 3"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Apl 3, Hun 4, Rgr 4, Sor/Wiz 3, Trickery 3
+  - **Level**: Apl 3, Hun 4, Inq 3, Rgr 4, Sor/Wiz 3, Trickery 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

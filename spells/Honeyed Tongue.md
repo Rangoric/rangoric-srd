@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Brd 2"
+  - "Inq 2"
   - "Pal 1"
   - "Skd 2"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Pal 1, Skd 2
+  - **Level**: Brd 2, Inq 2, Pal 1, Skd 2
   - **Components**: V, M/DF (a drop of honey)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

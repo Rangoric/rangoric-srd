@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Clr 4"
+  - "Inq 4"
   - "Sha 4"
   - "War 4"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 4, Sha 4, War 4
+  - **Level**: Clr 4, Inq 4, Sha 4, War 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

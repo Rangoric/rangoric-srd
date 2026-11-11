@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 6"
   - "Clr 6"
+  - "Inq 6"
   - "Skd 6"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration \[Creation\]*
 
-  - **Level**: Brd 6, Clr 6, Skd 6
+  - **Level**: Brd 6, Clr 6, Inq 6, Skd 6
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

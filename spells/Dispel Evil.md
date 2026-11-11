@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 5"
   - "Good 5"
+  - "Inq 5"
   - "Pal 4"
   - "Sha 5"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Good\]*
 
-  - **Level**: Clr 5, Good 5, Pal 4, Sha 5
+  - **Level**: Clr 5, Good 5, Inq 5, Pal 4, Sha 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

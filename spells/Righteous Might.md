@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 5"
+  - "Inq 5"
   - "Strength 5"
 components:
   - "V"
@@ -15,8 +16,8 @@ target: "You"
 duration: "1 round/level (D)"
 based-on:
   - "[[fantasy srd 3.5/spells/Righteous Might|Righteous Might (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 5, Strength 5
+  - **Level**: Clr 5, Inq 5, Strength 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

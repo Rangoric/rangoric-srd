@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Clr 7"
+  - "Inq 6"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Clr 7
+  - **Level**: Clr 7, Inq 6
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: 40 ft.

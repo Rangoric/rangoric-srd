@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 2"
   - "Hun 2"
+  - "Inq 2"
   - "Pal 2"
   - "Rgr 2"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 2, Hun 2, Pal 2, Rgr 2
+  - **Level**: Clr 2, Hun 2, Inq 2, Pal 2, Rgr 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -7,6 +7,7 @@ descriptor:
   - "Pain"
 level:
   - "Apl 4"
+  - "Inq 5"
   - "Sor/Wiz 7"
   - "Wit 7"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment \[MindAffecting, Pain\]*
 
-  - **Level**: Apl 4, Sor/Wiz 7, Wit 7
+  - **Level**: Apl 4, Inq 5, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

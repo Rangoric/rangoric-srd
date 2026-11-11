@@ -6,6 +6,7 @@ descriptor:
   - "Good"
   - "Language-dependent"
 level:
+  - "Inq 3"
   - "Pal 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Good, Language-dependent\]*
 
-  - **Level**: Pal 2
+  - **Level**: Inq 3, Pal 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 swift action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

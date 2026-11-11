@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Hun 1"
+  - "Inq 1"
   - "Rgr 1"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Hun 1, Rgr 1
+  - **Level**: Hun 1, Inq 1, Rgr 1
   - **Components**: V, S, M (a hard biscuit)
   - **Casting Time**: 1 standard action
   - **Range**: Personal
