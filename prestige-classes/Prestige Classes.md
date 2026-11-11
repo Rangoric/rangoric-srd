@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 Prestige classes offer a new form of multiclassing. Unlike the basic classes, characters must meet Requirements before they can take their first level of a prestige class. The rules for level advancement apply to this system, meaning the first step of advancement is always choosing a class. If a character does not meet the Requirements for a prestige class before that first step, that character cannot take the first level of that prestige class.  
 
-There are 24 prestige classes here. They are:
+There are 25 prestige classes here. They are:
 
 1.  [[rangoric-srd/prestige-classes/Arcane Archer|Arcane Archer]]
 2.  [[rangoric-srd/prestige-classes/Arcane Trickster|Arcane Trickster]]
@@ -33,12 +33,13 @@ There are 24 prestige classes here. They are:
 16. [[rangoric-srd/prestige-classes/Master Spy|Master Spy]]
 17. [[rangoric-srd/prestige-classes/Mystic Theurge|Mystic Theurge]]
 18. [[rangoric-srd/prestige-classes/Nature Warden|Nature Warden]]
-19. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
-20. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
-21. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
-22. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
-23. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
-24. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
+19. [[rangoric-srd/prestige-classes/Rage Prophet|Rage Prophet]]
+20. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
+21. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
+22. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
+23. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
+24. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
+25. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
 
 ###### Definitions of Terms
 
