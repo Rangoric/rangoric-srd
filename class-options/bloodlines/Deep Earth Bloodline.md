@@ -19,7 +19,7 @@ The echoing cave-songs and the rumble and creak of primal spirits deep below the
 
 **Bonus Spells**: *expeditious excavation\** (3rd), *[[rangoric-srd/spells/Darkvision|darkvision]]* (5th), *shifting sand\** (7th), *[[rangoric-srd/spells/Stoneskin|stoneskin]]* (9th), *[[rangoric-srd/spells/Spike Stones|spike stones]]* (11th), *[[rangoric-srd/spells/Stone Tell|stone tell]]* (13th), *[[rangoric-srd/spells/Repel Metal or Stone|repel metal or stone]]* (15th), *[[rangoric-srd/spells/Earthquake|earthquake]]* (17th), *clashing rocks\** (19th).
 
-**Bonus Feats**: [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Forge Ring|Forge Ring]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception or Stealth), [[rangoric-srd/feats/Still Spell|Still Spell]].
+**Bonus Feats**: [[rangoric-srd/feats/Acrobatic Steps|Acrobatic Steps]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Forge Ring|Forge Ring]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception or Stealth), [[rangoric-srd/feats/Still Spell|Still Spell]].
 
 **Bloodline Arcana**: Whenever you and the target of your spell are both underground, increase the spell's save DC by +1.
 

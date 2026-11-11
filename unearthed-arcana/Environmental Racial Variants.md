@@ -156,15 +156,7 @@ Aquatic humans are now a subtype of the [[rangoric-srd/races/Human#Subtypes|huma
 
 ### Aquatic Kobolds
 
-Aquatic kobolds are seldom seen outside their mines, much like their surface-dwelling cousins — despite the fact that their broad tails make them exceptional swimmers. They dig constantly, always expanding their subterranean territory, and as a result frequently come into conflict with [[#Aquatic Dwarves|aquatic dwarves]]. Aquatic kobolds often hire mercenaries to fight for them, hiding behind their carefully constructed traps and other defenses and paying their defenders with the mineral wealth they uncover while expanding their warrens.
-
-The life of an aquatic kobold is one of constant toil and fear. Some few kobolds seek peace of mind through personal power and boon companions. These rare individuals become adventurers.
-
-##### Racial Traits
-
-Aquatic kobolds have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], as well as the following trait.
-
-  - An aquatic kobold has a swim speed of 40 feet.
+Aquatic kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Aquatic Orcs
 
@@ -254,13 +246,7 @@ Arctic halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes
 
 ### Arctic Kobolds
 
-Arctic kobolds are seldom seen outside their mines. They dig constantly, always expanding their subterranean territory (which is often carefully constructed to tap into geothermal vents for heat, and as a result are in constant conflict with [[#Arctic Dwarves|arctic dwarves]]. Arctic kobolds often hire mercenaries to fight for them, hiding behind their carefully constructed traps and other defenses and paying their defenders with the mineral wealth they uncover while expanding their warrens.
-
-##### Racial Traits
-
-Aquatic kobolds have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], with one exception as noted below.
-
-  - \-2 Strength, +2 Dexterity, -2 Constitution, -2 Wisdom: Arctic kobolds are stronger. than other kobolds, but are weaker of will.
+Arctic kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Arctic Orcs
 
@@ -355,20 +341,7 @@ Desert halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes
 
 ### Desert Kobolds
 
-Desert kobolds live like scaly, intelligent rats, hiding in forgotten corners of settlements, living just over the dunes from trading posts, and always reappearing right after the residents think they've finally been killed off.
-
-Desert kobolds claim they were among the first to settle the deserts, and that [[#Desert Gnomes|gnomes]] threw them out into the wilderness. Though their survival relies on goods available at oasis settlements and trading posts, desert kobolds hate the gnomes who often build and run such settlements.
-
-The life of a desert kobold is one of constant fear, which motivates them to build traps and fortifications and to ambush intruders. Some few kobolds, however, seek peace of mind through personal power and boon companions. These rare individuals become adventurers.
-
-##### Racial Traits
-
-Desert kobolds have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], with additions and exceptions as noted below.
-
-  - \-4 Strength, +2 Dexterity, -2 Wisdom: Desert kobolds are hardier than other kobolds, but are weak-willed.
-  - No light sensitivity.
-  - \+2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
-  - No racial bonus on [[rangoric-srd/skills/Profession|Profession]] (mining) checks: Desert kobolds don't mine.
+Desert kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Desert Orcs
 
@@ -452,18 +425,7 @@ Jungle halflings are now a subtype of the [[rangoric-srd/races/Halfling#Subtypes
 
 ### Jungle Kobolds
 
-Clouded mountain peaks, many of which have religious or ceremonial importance to those who live below, tower over jungle canopies. Few know of the ancient ruined cities near the rocky summits, concealed amid the clouds. Dwelling in such ancient ruins are the jungle kobolds.
-
-Those few explorers who have reached the cities report that their jungle kobold residents claim to have built them, pointing to reptilian and draconic images on the walls and in the architecture as evidence. The explorers report, however, that the cities were obviously built by and for people larger than the little reptilian humanoids. Jungle kobolds lack the cowardice common to other kobolds, thanks to the isolation of their mountain peak homes. By all reports they show a calmer, more generous side than other kobolds do.
-
-##### Racial Traits
-
-Jungle kobolds have [[rangoric-srd/monsters/Kobold|kobold racial traits]], with additions and exceptions as noted below.
-
-  - \-4 Strength, +2 Dexterity, -2 Intelligence: Life at high altitude has toughened jungle kobolds, but their isolation has hindered their intellectual growth.
-  - Altitude Adaptation: Jungle kobolds are adapted to life at high altitudes, and thus don't suffer [[rangoric-srd/rules/Wilderness, Weather, and Environment|altitude sickness]]. They are always considered acclimated to high altitudes.
-  - \+2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb: Jungle kobolds add their Dexterity modifier to Athletics checks to climb instead of their Strength modifier.
-  - No racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking) or [[rangoric-srd/skills/Profession|Profession]] (miner) checks.
+Jungle kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ### Jungle Orcs
 

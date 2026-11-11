@@ -87,24 +87,4 @@ The kobold warrior presented here had the following ability scores before racial
 
 ### Kobold Characters
 
-Kobold characters possess the following racial traits.
-
-  - –4 Strength, +2 Dexterity, –2 Constitution.
-
-  - Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
-
-  - A kobold’s base land speed is 30 feet.
-
-  - Darkvision out to 60 feet.
-
-  - Racial Skills: A kobold character has a +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking), [[rangoric-srd/skills/Profession|Profession]] (miner), and [[rangoric-srd/skills/Investigation|Investigation]] checks.
-
-  - Racial Feats: A kobold character gains feats according to its character class.
-
-  - \+1 natural armor bonus.
-
-  - Special Qualities (see above): Light sensitivity.
-
-  - Automatic Languages: Draconic. Bonus Languages: Common, Undercommon.
-
-  - Level adjustment +0.
+Kobold characters use the [[rangoric-srd/races/Kobold|kobold]] race, which has their racial traits, alternate racial traits and subtypes.

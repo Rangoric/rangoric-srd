@@ -75,14 +75,7 @@ Earth dwarves are now a subtype of the [[rangoric-srd/races/Dwarf#Subtypes|dwarf
 
 ### Earth Kobolds
 
-Earth kobolds personify earth traits turned toward evil. They are less emotional than their normal kobold cousins, and are cunning with trickery and traps.
-
-##### Racial Traits
-
-Earth kobolds have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of earth races]] described above and all [[rangoric-srd/monsters/Kobold|kobold racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, -2 Constitution: Earth kobolds are stronger, though less agile, than their typical kobold cousins.
-  - \+4 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking) checks related to stonework traps: Earth kobolds are particularly skilled at crafting traps made from the earth.
+Earth kobolds are now a subtype of the [[rangoric-srd/races/Kobold#Subtypes|kobold]].
 
 ## Races Of Fire
 
