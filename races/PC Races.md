@@ -24,6 +24,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Half-Elf|Half-Elf]]
 - [[rangoric-srd/races/Half-Orc|Half-Orc]]
 - [[rangoric-srd/races/Halfling|Halfling]]
+- [[rangoric-srd/races/Hobgoblin|Hobgoblin]]
 - [[rangoric-srd/races/Human|Human]]
 - [[rangoric-srd/races/Ifrit|Ifrit]]
 - [[rangoric-srd/races/Oread|Oread]]

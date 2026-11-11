@@ -21,4 +21,4 @@ Races with a strong affinity for the element of fire (from Unearthed Arcana's el
 - -2 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities with the water or cold subtype or used by creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|water]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold]] subtype, including extraplanar creatures from the [[rangoric-srd/rules/Planes|Elemental Plane of Water]].
 - Resistance to fire 5.
 
-Used by: the [[rangoric-srd/races/Elf|Elf]]'s fire elf subtype.
+Used by: the [[rangoric-srd/races/Elf|Elf]]'s fire elf subtype; the [[rangoric-srd/races/Hobgoblin|Hobgoblin]]'s fire hobgoblin.

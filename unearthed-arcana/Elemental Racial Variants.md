@@ -104,16 +104,7 @@ Fire half-elves are now a subtype of the [[rangoric-srd/races/Half-Elf#Subtypes|
 
 ### Fire Hobgoblins
 
-Where fire elves prefer pleasurable sensations and pleasing aesthetics, fire hobgoblins revel in pain and the sensations of battle. Their favorite arts are those of strategy and tactics.
-
-##### Racial Traits
-
-Fire hobgoblins have the general [[rangoric-srd/unearthed-arcana/Elemental Racial Variants|traits of fire races]] described above and all [[rangoric-srd/monsters/Hobgoblin|hobgoblin racial traits]], with additions and exceptions as noted below.
-
-  - \+2 Dexterity, +2 Constitution, +2 Intelligence, -2 Charisma: Fire hobgoblins are as quick and hardy as their normal cousins, but possess a greater intellect.
-  - Low-Light Vision: A fire hobgoblin can see twice as far as a human in starlight, moonlight, torchlight (the preferred lighting condition among fire hobgoblins), and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - No racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Fire hobgoblins are now a subtype of the [[rangoric-srd/races/Hobgoblin#Subtypes|hobgoblin]].
 
 ## Races Of Water
 
