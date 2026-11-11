@@ -37,6 +37,8 @@ To qualify to become a nature warden, a character must fulfill all the following
 
 **Special**: Animal companion class feature, [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] class feature, wild empathy class feature.
 
+An [[rangoric-srd/classes/Oracle|oracle]]’s [[rangoric-srd/class-options/revelations/Bonded Mount (Revelation)|bonded mount]] ([[rangoric-srd/class-options/mysteries/Nature Mystery|nature mystery]]) counts as an animal companion class feature for the purpose of this prestige class.
+
 ###### Class Skills
 
 The nature warden’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Society|Society]] (Int).

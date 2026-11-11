@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/revelations")
+views:
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.srd-type
+      - note.class
+      - note.mystery
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC

@@ -80,7 +80,7 @@ At 1st level, a shaman gains the spirit ability granted by her chosen spirit. Sh
 
 At 8th level, the shaman gains the abilities listed in the greater version of her selected spirit. At 16th level, the shaman gains the abilities listed for the true version of her selected spirit. Unless otherwise noted, the DC to save against the special abilities granted by a spirit is equal to 10 + 1/2 the shaman’s level + the shaman’s Wisdom modifier.
 
-If the shaman takes levels in another class that grants a mystery (such as the oracle, once Rangoric has it), the spirit and mystery must match, even if that means one of them must change. At the GM’s discretion, the shaman can change her former mystery or spirit to make them conform. ^shaman-spirit
+If the shaman takes levels in another class that grants a mystery (such as the [[rangoric-srd/classes/Oracle|oracle]]), the spirit and [[rangoric-srd/class-options/mysteries/Mysteries|mystery]] must match, even if that means one of them must change. At the GM’s discretion, the shaman can change her former mystery or spirit to make them conform. ^shaman-spirit
 
 **Spirit Animal (Ex)**: At 1st level, a shaman forms a close bond with a spirit animal tied to her chosen spirit. This animal is her conduit to the spirit world, guiding her along the path to enlightenment. The animal also aids a shaman by granting her a special ability. See [[#Spirit Animal]], below.
 
