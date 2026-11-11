@@ -17,6 +17,7 @@ tags: [rangoric, rangoric/overview]
 Each race has its own note:
 
 - [[rangoric-srd/races/Aasimar|Aasimar]]
+- [[rangoric-srd/races/Catfolk|Catfolk]]
 - [[rangoric-srd/races/Drow|Drow]]
 - [[rangoric-srd/races/Dwarf|Dwarf]]
 - [[rangoric-srd/races/Elf|Elf]]

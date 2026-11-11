@@ -157,7 +157,7 @@ Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing c
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Breath Weapon]] under Special Abilities.
 
-**Catfolk Subtype**: A humanoid subtype for catfolk. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^catfolk
+**Catfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Catfolk|catfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^catfolk
 
 **Change Shape (Su)**: A creature with this special quality has the ability to assume the appearance of a specific creature or type of creature (usually a humanoid), but retains most of its own physical qualities. A true seeing spell or ability reveals the creature’s natural form. A creature using change shape reverts to its natural form when killed, but separated body parts retain their shape. A creature cannot use change shape to take the form of a creature with a template. Changing shape results in the following changes to the creature: ^change-shape
 
