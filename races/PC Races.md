@@ -7,6 +7,7 @@ based-on:
   - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
+  - "[[individual books/Faeries/rules/Character Races|Character Races (Faeries)]]"
 status: draft
 change: modified
 pi-review: 2026-11-10
@@ -80,6 +81,12 @@ A race with defensive training gets a +4 dodge bonus to Armor Class against mons
 ##### Level Adjustment
 
 Some races are more powerful than the common races and have a level adjustment, given in the race note. It works as described in [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|Level Adjustment and Effective Character Level]]. ^level-adjustment
+
+##### Fey Characters
+
+The fey races (such as the faeries and feeorin) have a level adjustment like other powerful races, and share [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]. A fey character can start at 1st level with the other characters, where its extra physical abilities, spell-like abilities and role-playing benefits may outshine them, while its level adjustment keeps it behind them later; or it can join when the other characters have reached a higher level, where its abilities are more in line with theirs. ^fey-characters
+
+The [[rangoric-srd/races/aspects-of-nature/Aspects of Nature|Aspects of Nature]] change a character’s body further, with small bonuses and matching penalties, and are open to fey and other creatures alike.
 
 ##### Small Characters
 

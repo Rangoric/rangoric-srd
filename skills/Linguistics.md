@@ -9,6 +9,7 @@ based-on:
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
   - "[[fantasy srd 3.5/skills/Speak Language|Speak Language (3.5)]]"
   - "[[path srd 3.5/skills/Linguistics|Linguistics (PF1)]]"
+  - "[[individual books/Faeries/skills/Speak Language (None; trained only)|Speak Language (Faeries)]]"
 status: draft
 change: new
 pi-review: 2026-10-22
@@ -66,6 +67,7 @@ Languages work as follows.
 | Druidic            | Druids (only)                                      | Druidic       |
 | Dwarven            | Dwarves                                            | Dwarven       |
 | Elven              | Elves                                              | Elven         |
+| Fae                | Fey (their own dialect of Sylvan)                  | Elven         |
 | Giant              | Ogres, giants                                      | Dwarven       |
 | Gnome              | Gnomes                                             | Dwarven       |
 | Goblin             | Goblins, hobgoblins, bugbears                      | Dwarven       |
@@ -75,6 +77,7 @@ Languages work as follows.
 | Ignan              | Fire-based creatures                               | Draconic      |
 | Infernal           | Devils, lawful evil outsiders                      | Infernal      |
 | Orc                | Orcs                                               | Dwarven       |
+| Shadow             | Bogies                                             | —             |
 | Strix              | Strix                                              | —             |
 | Sylvan             | Dryads, brownies, leprechauns                      | Elven         |
 | Tengu              | Tengus                                             | —             |
@@ -82,6 +85,8 @@ Languages work as follows.
 | Undercommon        | Drow                                               | Elven         |
 | Vanaran            | Vanaras                                            | —             |
 | Vishkanya          | Vishkanyas                                         | —             |
+
+**Fae** is the fey’s own dialect of Sylvan. A character who knows Sylvan but not Fae can make out the nuances of Fae with a DC 18 Linguistics check. ^fae
 
 ## Unlocks
 
