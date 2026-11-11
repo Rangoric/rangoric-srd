@@ -62,3 +62,5 @@ tags: [rangoric, rangoric/monster]
   - **Alignment**: Usually neutral
   - **Advancement**: By character class
   - **Level Adjustment**: +3
+
+Svirfneblin characters use the [[rangoric-srd/races/Svirfneblin|svirfneblin]] race, which has their racial traits and level adjustment.

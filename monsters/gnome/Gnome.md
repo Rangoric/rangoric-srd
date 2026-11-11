@@ -71,38 +71,7 @@ A svirfneblin has wiry, rock-colored skin usually medium brown to brownish gray.
 
 Svirfneblin speak Gnome, Common, and Undercommon.
 
-**Svirfneblin Traits (Ex)**: These traits are in addition to the rock gnome traits, except where noted.
-
-  - –2 Strength, +2 Dexterity, +2 Wisdom, –4 Charisma. These adjustments replace the rock gnome’s ability score adjustments.
-
-  - Stonecunning: This ability grants deep gnomes a +2 racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks to notice unusual stonework. A deep gnome who merely comes within 10 feet of unusual stonework can make an Investigation check as though actively searching, and can use the Investigation skill to find stonework traps as a rogue can. A svirfneblin can also intuit depth, sensing the approximate distance underground as naturally as a human can sense which way is up.
-
-  - Darkvision out to 120 feet and low-light vision.
-
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to 11 + class levels.
-
-  - \+2 racial bonus on all saving throws (figured into the statistics for the character presented here). This trait replaces the rock gnome’s racial bonus on saving throws against illusions.
-
-  - Add +1 to the Difficulty Class for all saving throws against illusion spells cast by svirfneblin. This adjustment stacks with those from similar effects, such as the [[rangoric-srd/feats/Spell Focus|Spell Focus]] feat.
-
-  - \+1 racial bonus on attack rolls against [[rangoric-srd/monsters/Kobold|kobolds]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]].
-
-  - \+4 dodge bonus to Armor Class against all creatures (figured into the statistics for the character presented here). This trait replaces the rock gnome’s dodge bonus against giants.
-
-  - Automatic Languages: Undercommon, Gnome, Common. Bonus Languages: Dwarven, Elven, Giant, Goblin, Orc, Terran. This trait replaces the rock gnome’s automatic and bonus languages.
-
-  - Spell-Like Abilities:  
-
-    *1/day* - [[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]] (typical save DC 13), [[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/Disguise Self|disguise self]].  
-    Caster level equals the svirfneblin’s class levels. The save DC is Charisma-based and include a +4 racial modifier. This trait replaces the rock gnome’s spell-like abilities.
-
-  - Nondetection (Su): A svirfneblin has a continuous [[rangoric-srd/spells/Nondetection|nondetection]] ability as the spell (caster level equal to class levels).
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Perception|Perception]] checks.
-
-  - \+2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +4 underground.
-
-  - Level adjustment +3.
+Svirfneblin characters use the [[rangoric-srd/races/Svirfneblin|svirfneblin]] race, which has their racial traits, alternate racial traits and level adjustment.
 
 The svirfneblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

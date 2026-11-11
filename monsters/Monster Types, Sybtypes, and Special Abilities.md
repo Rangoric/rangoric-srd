@@ -157,7 +157,7 @@ Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing c
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Breath Weapon]] under Special Abilities.
 
-**Catfolk Subtype**: A humanoid subtype for catfolk. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^catfolk
+**Catfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Catfolk|catfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^catfolk
 
 **Change Shape (Su)**: A creature with this special quality has the ability to assume the appearance of a specific creature or type of creature (usually a humanoid), but retains most of its own physical qualities. A true seeing spell or ability reveals the creature’s natural form. A creature using change shape reverts to its natural form when killed, but separated body parts retain their shape. A creature cannot use change shape to take the form of a creature with a template. Changing shape results in the following changes to the creature: ^change-shape
 
@@ -179,7 +179,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
 
   - Any gear worn or carried by the creature that can’t be worn or carried in its new form instead falls to the ground in its space. If the creature changes size, any gear it wears or carries that can be worn or carried in its new form changes size to match the new size. (Nonhumanoid-shaped creatures can’t wear armor designed for humanoid-shaped creatures, and viceversa.) Gear returns to normal size if dropped.
 
-**Changeling Subtype**: A humanoid subtype for changelings. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^changeling
+**Changeling Subtype**: A humanoid subtype for [[rangoric-srd/races/Changeling|changelings]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^changeling
 
 **Chaotic Subtype**: A subtype usually applied only to [[#^outsider|outsiders]] native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes [[#^DR|damage reduction]] as if its natural weapons and any weapons it wields were chaotic-aligned. ^chaotic
 
@@ -263,7 +263,7 @@ A few other creatures require combinations of different types of attacks to over
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|Damage Reduction]] under Special Abilities.  
 
-**Dhampir Subtype**: A humanoid subtype for dhampirs. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
+**Dhampir Subtype**: A humanoid subtype for [[rangoric-srd/races/Dhampir|dhampirs]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
 
 **Dragon Type**: A dragon is a reptilelike creature, usually winged, with magical or unusual abilities. ^dragon
 
@@ -289,7 +289,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
 
   - Dragons eat, sleep, and breathe.
 
-**Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as duergar. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
+**Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as [[rangoric-srd/races/Duergar|duergar]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
 
 **Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. ^earth
 
@@ -411,7 +411,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze
 
   - Giants eat, sleep, and breathe.
 
-**Gnome Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnome|gnomes]] and their kin, such as svirfneblin. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnome
+**Gnome Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnome|gnomes]] and their kin, such as [[rangoric-srd/races/Svirfneblin|svirfneblin]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnome
 
 **Goblinoid Subtype**: Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. ^goblinoid
 
@@ -693,7 +693,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Psionics|Psionics
 
 **Rake (Ex)**: A creature with this special attack gains extra natural attacks under certain conditions, typically when it grapples its foe. In addition to the options available to all grapplers, a monster with the rake ability gains two free claw attacks that it can use only against a grappled foe. The bonus and damage caused by these attacks is included in the creature’s description. A monster with the rake ability must begin its turn already grappling to use its rake—it can’t begin a grapple and rake in the same turn. ^rake
 
-**Ratfolk Subtype**: A humanoid subtype for ratfolk. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^ratfolk
+**Ratfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Ratfolk|ratfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^ratfolk
 
 **Ray (Su or Sp)**: This form of special attack works like a ranged attack. Hitting with a ray attack requires a successful ranged touch attack roll, ignoring armor, natural armor, and shield and using the creature’s ranged attack bonus. Ray attacks have no range increment. The creature’s descriptive text specifies the maximum range, effects, and any applicable saving throw.  
  ^ray
@@ -800,7 +800,7 @@ Swarms do not threaten creatures in their square, and do not make attacks of opp
 
 Some creatures have a limited form of telepathy, while others have a more powerful form of the ability.
 
-**Tengu Subtype**: A humanoid subtype for tengus. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^tengu
+**Tengu Subtype**: A humanoid subtype for [[rangoric-srd/races/Tengu|tengus]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^tengu
 
 **Trample (Ex)**: As a full-round action, a creature with this special attack can move up to twice its speed and literally run over any opponents at least one size category smaller than itself. The creature merely has to move over the opponents in its path; any creature whose space is completely covered by the trampling creature’s space is subject to the trample attack. If a target’s space is larger than 5 feet, it is only considered trampled if the trampling creature moves over all the squares it occupies. If the trampling creature moves over only some of a target’s space, the target can make an attack of opportunity against the trampling creature at a –4 penalty. A trampling creature that accidentally ends its movement in an illegal space returns to the last legal position it occupied, or the closest legal position, if there’s a legal position that’s closer. ^trample
 
