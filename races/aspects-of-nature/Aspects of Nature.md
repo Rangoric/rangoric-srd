@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/rules]
 
 The fey see themselves as defenders of Nature and representatives of all that she is. Most fey are more subdued in their approach and refrain from neglecting one portion of nature to support another. Other fey instead focus their attention on a particular element, season, or facet of Nature’s being. These fey feel that it is their place in life to champion a certain portion of Nature, and as a result of their efforts gain magical benefits and exhibit a physical manifestation, known as an ‘aspect’, of their associated influence power. Although not exclusively limited to fey creatures, few mortal creatures understand or agree with the philosophies related to Aspects.
 
-Aspects of Nature are closely related to prestige races in that they both require a feat to gain access to them, and they both physically change a creature’s physiology to provide benefits. Aspects of Nature, however, are physical changes that provide low-powered bonuses in exchange for equally low penalties.
+Aspects of Nature are closely related to [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]] in that they both require a feat to gain access to them, and they both physically change a creature’s physiology to provide benefits. Aspects of Nature, however, are physical changes that provide low-powered bonuses in exchange for equally low penalties.
 
 Aspects of Nature are a physical representation of a part of Nature. Light and Darkness are two opposing forces that may seem aligned with the Seelie and Unseelie courts, but actually these forces are more aligned with the natural cycles of day and night, just as the seasons represented are part of the yearly natural cycle.
 
