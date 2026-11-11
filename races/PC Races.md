@@ -36,6 +36,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Oread|Oread]]
 - [[rangoric-srd/races/Ratfolk|Ratfolk]]
 - [[rangoric-srd/races/Sylph|Sylph]]
+- [[rangoric-srd/races/Tengu|Tengu]]
 - [[rangoric-srd/races/Tiefling|Tiefling]]
 - [[rangoric-srd/races/Undine|Undine]]
 
