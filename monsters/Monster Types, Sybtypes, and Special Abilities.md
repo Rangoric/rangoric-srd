@@ -263,7 +263,7 @@ A few other creatures require combinations of different types of attacks to over
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|Damage Reduction]] under Special Abilities.  
 
-**Dhampir Subtype**: A humanoid subtype for dhampirs. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
+**Dhampir Subtype**: A humanoid subtype for [[rangoric-srd/races/Dhampir|dhampirs]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
 
 **Dragon Type**: A dragon is a reptilelike creature, usually winged, with magical or unusual abilities. ^dragon
 
