@@ -289,7 +289,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
 
   - Dragons eat, sleep, and breathe.
 
-**Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as duergar. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
+**Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as [[rangoric-srd/races/Duergar|duergar]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
 
 **Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. ^earth
 

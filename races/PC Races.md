@@ -21,6 +21,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Changeling|Changeling]]
 - [[rangoric-srd/races/Dhampir|Dhampir]]
 - [[rangoric-srd/races/Drow|Drow]]
+- [[rangoric-srd/races/Duergar|Duergar]]
 - [[rangoric-srd/races/Dwarf|Dwarf]]
 - [[rangoric-srd/races/Elf|Elf]]
 - [[rangoric-srd/races/Fetchling|Fetchling]]

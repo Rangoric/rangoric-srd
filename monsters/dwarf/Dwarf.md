@@ -86,31 +86,7 @@ Most duergar are bald (even the females), and they dress in drab clothing that i
 
 Duergar speak Dwarven and Undercommon.
 
-**Duergar Traits (Ex)**: These traits are in addition to the hill dwarf traits, except where noted.
-
-  - –4 Charisma instead of –2.
-
-  - Darkvision out to 120 feet.
-
-  - Immunity to paralysis, phantasms, and poison. This trait replaces the hill dwarf ’s +2 racial bonus on saving throws against poison.
-
-  - \+2 racial bonus on saves against spells and spell-like abilities.
-
-  - Spell-Like Abilities: 1/day - [[rangoric-srd/spells/Enlarge Person|enlarge person]] and [[rangoric-srd/spells/Invisibility|invisibility]] as a wizard of twice the duergar’s class level (minimum caster level 3rd); these abilities affect only the duergar and whatever it carries.
-
-  - Light Sensitivity: Duergar are [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright sunlight or within the radius of a [[rangoric-srd/spells/Daylight|daylight]] spell.
-
-  - \+4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
-
-  - \+1 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-  - Automatic Languages: Common, Dwarven, Undercommon.
-
-  - Bonus Languages: Draconic, Giant, Goblin, Orc, Terran. This trait replaces the hill dwarf ’s automatic and bonus languages.
-
-  - Level adjustment +1
-
-  - Unlike other dwarves, duergar do not have weapon familiarity with the dwarven waraxe and dwarven urgrosh.
+Duergar characters use the [[rangoric-srd/races/Duergar|duergar]] race, which has their racial traits, alternate racial traits and level adjustment.
 
 The duergar warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
 

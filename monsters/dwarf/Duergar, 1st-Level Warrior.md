@@ -62,3 +62,5 @@ tags: [rangoric, rangoric/monster]
   - **Alignment**: Often lawful evil
   - **Advancement**: By character class
   - **Level Adjustment**: +1
+
+Duergar characters use the [[rangoric-srd/races/Duergar|duergar]] race, which has their racial traits.

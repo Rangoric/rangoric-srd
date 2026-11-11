@@ -43,6 +43,8 @@ tags: [rangoric, rangoric/overview]
 
 ### Duergar
 
+The psionic duergar is the psionic version of the [[rangoric-srd/races/Duergar|duergar]] race, which has the duergar's racial traits. It differs from the race in these ways: psi-like abilities and Naturally Psionic in place of the spell-like abilities; stonecunning, a dodge bonus against giants, and bonuses on Appraise and Craft checks related to stone or metal; a +1 racial bonus on Perception; no +2 Wisdom; and no Aklo among its bonus languages.
+
   - \+2 Constitution, -4 Charisma
 
   - Medium: As Medium creatures, duergar have no special bonuses or penalties due to their size.
