@@ -27,7 +27,7 @@ A bluff requires interaction between you and the target. Creatures unaware of yo
 
 *Feinting in Combat*: You can also use Deception to mislead an opponent in combat, so that it can’t dodge your next attack effectively. A feint has a DC instead of an opposed Sense Motive check: the [[rangoric-srd/combat/Combat Special Attacks#Feint|feint]] rule gives the DC, the action it takes, and the creatures it’s harder or impossible to use against.
 
-*Creating a Diversion to Hide*: You can use the Deception skill to help you hide. A successful Deception check gives you the momentary diversion you need to attempt a [[rangoric-srd/skills/Stealth|Stealth]] check while people are aware of you. This usage does not provoke an attack of opportunity.
+*Creating a Diversion to Hide*: You can use Deception to create a momentary diversion so you can hide; see [[rangoric-srd/skills/Stealth#^creating-a-diversion|creating a diversion to hide]] in Stealth.
 
 *Delivering a Secret Message*: You can use Deception to get a message across to another character without others understanding it. The DC is 15 for simple messages, or 20 for complex messages, especially those that rely on getting across new information. Failure by 4 or less means you can’t get the message across. Failure by 5 or more means that some false information has been implied or inferred. Anyone listening to the exchange can make a Sense Motive check opposed by the Deception check you made to transmit in order to intercept your message (see Sense Motive).
 
