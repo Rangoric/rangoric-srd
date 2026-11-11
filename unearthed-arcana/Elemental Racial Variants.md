@@ -59,14 +59,7 @@ Air gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome]].
 
 ### Air Goblins
 
-Air goblins are an example of the air traits turned to evil. Their strongest emotions are fear and anger, and their creativity is usually malicious and hurtful.
-
-##### Racial Traits
-
-Air goblins have the general [[#General Traits Of Air Races|traits of air races]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - \+4 Dexterity, -2 Strength, -2 Constitution: Air goblins are more agile and persuasive than normal goblins, but are physically weak and frail. Sorcerers are far more common among air goblins than they are among normal goblins.
-  - No racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks: Air goblins don't commonly ride mounts.
+Air goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ## Races Of Earth
 

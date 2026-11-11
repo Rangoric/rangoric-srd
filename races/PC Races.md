@@ -20,6 +20,7 @@ Each race has its own note:
 - [[rangoric-srd/races/Dwarf|Dwarf]]
 - [[rangoric-srd/races/Elf|Elf]]
 - [[rangoric-srd/races/Gnome|Gnome]]
+- [[rangoric-srd/races/Goblin|Goblin]]
 - [[rangoric-srd/races/Half-Elf|Half-Elf]]
 - [[rangoric-srd/races/Half-Orc|Half-Orc]]
 - [[rangoric-srd/races/Halfling|Halfling]]

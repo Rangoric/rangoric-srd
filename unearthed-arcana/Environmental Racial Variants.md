@@ -136,18 +136,7 @@ Aquatic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnom
 
 ### Aquatic Goblins
 
-Aquatic goblins are feared and reviled as ocean-dwelling piranhas. A band of aquatic goblins and their [[rangoric-srd/monsters/shark/Shark|shark]] mounts is likely to swoop down on any individual or group perceived as weak, to strip it of everything from gold and jewelry to clothing and hides. Leaving a trail of junk behind them as they evaluate their loot, the bandits swim off in search of other unlucky victims.
-
-Aquatic goblins to take up adventuring for many reasons. While most goblins are neutral evil, many have different beliefs and seek like-minded individuals outside the tribe. Some lack opportunities to advance, and tire of living on the scraps of those with more authority or higher social position.
-
-##### Racial Traits
-
-Aquatic goblins have the general [[#General Aquatic Racial Traits|aquatic racial traits]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Constitution, -2 Charisma. Aquatic goblins are hardy creatures, but weaker than many races.
-  - An aquatic goblin has a swim speed of 30 feet.
-  - Thievery: Aquatic goblins get a +2 racial bonus on [[rangoric-srd/skills/Engineering|Engineering]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks.
-  - An aquatic goblin's racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks is only +2. Aquatic goblins are known for riding Medium [[rangoric-srd/monsters/shark/Shark|sharks]].
+Aquatic goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Aquatic Half-Elves
 
@@ -249,19 +238,7 @@ Arctic gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome
 
 ### Arctic Goblins
 
-Arctic goblins are feared and reviled because their appearance heralds theft, assaults, and property damage. They survive by moving from place to place, constantly driven out of their previous homes by irate neighbors.
-
-Arctic goblins to take up adventuring for many reasons. While most goblins are neutral evil, many have different beliefs and seek like-minded individuals outside the tribe. Some just want an opportunity to settle down and work to earn a better reputation than that of their fellows.
-
-##### Racial Traits
-
-Arctic goblins have the general [[#General Arctic Racial Trait|arctic racial trait]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - \-2 Strength, +2 Constitution, -2 Charisma. Arctic goblins are hardy creatures, but weaker than many races.
-  - Low-Light Vision: An arctic goblin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. She retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks: Arctic goblins are natural thieves, snatching up anything that isn't nailed down.
-  - No racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks: Arctic goblins aren't as stealthy as their nonarctic cousins.
+Arctic goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Arctic Half-Elves
 
@@ -362,17 +339,7 @@ Desert gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome
 
 ### Desert Goblins
 
-Desert goblins are feared and reviled because their appearance often heralds the arrival of a horde of nomadic [[rangoric-srd/monsters/Hobgoblin|hobgoblins]] and [[rangoric-srd/monsters/Bugbear|bugbears]]. As the desert dwarf proverb puts it, “The only good thing about goblins is that once they arrive, you know they'll soon be gone.”
-
-Desert goblins take up adventuring for many reasons. While most goblins are neutral evil, many have different beliefs and seek like-minded individuals outside the tribe. Some lack opportunities to advance, and they tire of living on the scraps of those with more authority or higher social position.
-
-##### Racial Traits
-
-Desert goblins have the general [[#General Desert Racial Trait|desert racial trait]] described above and all [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - Low-Light Vision: A desert goblin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: Desert goblins soak up gossip like sponges when they visit towns or settlements.
+Desert goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Desert Half-Elves
 
@@ -469,19 +436,7 @@ Jungle gnomes are now a subtype of the [[rangoric-srd/races/Gnome#Subtypes|gnome
 
 ### Jungle Goblins
 
-If monkeys were evil and could speak, they'd be a lot like jungle goblins. Jungle goblins are territorial, tree-dwelling savages with a sadistic streak a mile wide. Their skills at climbing and moving from tree to tree, combined with their cunning and vicious nature, cause even other [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]] to respect them.
-
-Jungle goblins generally take up adventuring to gain personal power and serve their ambitions within their clans, or because they somehow lack the evil nature of the rest of their kind.
-
-##### Racial Traits
-
-Jungle goblins have [[rangoric-srd/monsters/Goblin|goblin racial traits]], with additions and exceptions as noted below.
-
-  - A jungle goblin has a climb speed of 20 feet. Jungle goblins are natural climbers, able to scramble up trees with ease. A jungle goblin has a +8 racial bonus on all [[rangoric-srd/skills/Athletics|Athletics]] checks to climb. It must make an Athletics check to climb any wall or slope with a DC of more than 0, but it always can choose to take 10, even if rushed or threatened while climbing. If it chooses an accelerated climb, it moves at double its climb speed and makes a single Athletics check at a -5 penalty. It cannot run while climbing. It retains its Dexterity bonus to Armor Class (if any) while climbing, and opponents get no special bonus on their attacks against a climbing jungle goblin. Also, jungle goblins add their Dexterity modifier to Athletics checks to climb instead of their Strength modifier.
-  - Low-Light Vision: A jungle goblin can see twice as far as a human in starlight, moonlight, torchlight, and similar conditions of poor illumination. He retains the ability to distinguish color and detail under these conditions.
-  - No darkvision.
-  - \+4 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks: Jungle goblins are accomplished leapers.
-  - No racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
+Jungle goblins are now a subtype of the [[rangoric-srd/races/Goblin#Subtypes|goblin]].
 
 ### Jungle Half-Elves
 

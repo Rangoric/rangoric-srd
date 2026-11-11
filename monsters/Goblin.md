@@ -79,18 +79,6 @@ Goblins have a poor grasp of strategy and are cowardly by nature, tending to fle
 
 ### Goblins as Characters
 
-Goblin characters possess the following racial traits.
-
-  - –2 Strength, +2 Dexterity, –2 Charisma.
-
-  - Small size: +1 bonus to Armor Class, +1 bonus on attack rolls, +4 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, –4 penalty on [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks, lifting and carrying limits 3/4 those of Medium characters.
-
-  - A goblin’s base land speed is 30 feet.
-
-  - Darkvision out to 60 feet.
-
-  - \+4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks.
-
-  - Automatic Languages: Common, Goblin. Bonus Languages: Draconic, Elven, Giant, Gnoll, Orc.
+Goblin characters use the [[rangoric-srd/races/Goblin|goblin]] race, which has their racial traits, alternate racial traits and subtypes.
 
 The goblin warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
