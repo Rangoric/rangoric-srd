@@ -411,6 +411,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze
 
   - Giants eat, sleep, and breathe.
 
+**Gnoll Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnoll|gnolls]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnoll
+
 **Gnome Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnome|gnomes]] and their kin, such as [[rangoric-srd/races/Svirfneblin|svirfneblin]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnome
 
 **Goblinoid Subtype**: Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. ^goblinoid

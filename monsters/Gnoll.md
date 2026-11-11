@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 
 # Gnoll
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Gnoll)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gnoll|Gnoll]])
   - **Hit Dice**: 2d8+2 (11 hp)
   - **Initiative**: +0
   - **Speed**: 30 ft. (6 squares)
@@ -72,24 +72,4 @@ Gnolls like to attack when they have the advantage of numbers, using horde tacti
 
 ### Gnolls as Characters
 
-Gnoll characters possess the following racial traits.
-
-  - Strength +4, Constitution +2, Intelligence –2, Charisma –2.
-
-  - Size Medium.
-
-  - A gnoll’s base land speed is 30 feet.
-
-  - Darkvision out to 60 feet.
-
-  - Racial Hit Dice: A gnoll begins with two levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]], which provide 2d8 Hit Dice, a base attack bonus of +1, and base saving throw bonuses of Fort +3, Ref +0, and Will +0.
-
-  - Racial Skills: A gnoll’s humanoid levels give it skill points equal to 2 x (2 + Int modifier). Its class skills are [[rangoric-srd/skills/Perception|Perception]].
-
-  - Racial Feats: A gnoll’s humanoid levels give it one feat.
-
-  - \+1 natural armor bonus.
-
-  - Automatic Languages: Gnoll. Bonus Languages: Common, Draconic, Elven, Goblin, Orc.
-
-  - Level adjustment +1.
+Gnoll characters use the [[rangoric-srd/races/Gnoll|gnoll]] race, which has their racial traits and level adjustment.
