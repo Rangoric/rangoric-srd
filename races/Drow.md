@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+race-points: 14
 based-on:
   - "[[path srd 3.5/races/Drow (Race)|Drow (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Elf#Drow|Elf, Drow (3.5)]]"

@@ -3,13 +3,14 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Dwarf|Dwarf]], [[rangoric-srd/races/Duergar|Duergar]]"
 replaces: "stability"
+race-points: 1
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Alternate Racial Traits|Dwarves (ARG)]]"
   - "[[path srd 3.5/races/Duergar (Race)#Alternate Racial Traits|Duergar (ARG)]]"
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/movement, racial-trait/standard]
 ---
 
 # Mountaineer

@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+race-points: 8
 based-on:
   - "[[path srd 3.5/races/Orcs|Orcs (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Orc|Orc (3.5)]]"

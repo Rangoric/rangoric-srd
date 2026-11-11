@@ -3,12 +3,13 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Kitsune|Kitsune]]"
 replaces: "agile"
+race-points: 1
 based-on:
   - "[[path srd 3.5/races/Kitsune (Race)#Alternate Racial Traits|Kitsune (ARG)]]"
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/feat-skill, racial-trait/standard]
 ---
 
 # Gregarious

@@ -88,7 +88,7 @@ A race with defensive training gets a +4 dodge bonus to Armor Class against mons
 
 ##### Level Adjustment
 
-Some races are more powerful than the common races and have a level adjustment, given in the race note. It works as described in [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|Level Adjustment and Effective Character Level]]. ^level-adjustment
+Some races are more powerful than the common races and have a level adjustment, given in the race note. It works as described in [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|Level Adjustment and Effective Character Level]]; a character can buy it down as it gains class levels ([[rangoric-srd/unearthed-arcana/Reducing Level Adjustments|Reducing Level Adjustments]]). How strong a race is can also be measured in race points with the [[rangoric-srd/races/race builder/Race Builder|Race Builder]]. ^level-adjustment
 
 ##### Fey Characters
 

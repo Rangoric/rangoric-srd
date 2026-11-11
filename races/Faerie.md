@@ -44,7 +44,7 @@ Level Adjustment: +X (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 
 ### Faerie Traits
 
-A faerie is built from the physical characteristics and spell-like abilities below. Its level adjustment is the ECL modifiers of the traits it has, added up and rounded up to the nearest whole number. A faerie that takes no size trait is Medium. Faeries, feeorin, sprites and bogies that pick more faerie traits as they gain levels pick them from these tables; those later traits don’t raise the level adjustment, which already accounts for them. ^faerie-traits
+A faerie is built from the physical characteristics and spell-like abilities below. Its level adjustment is the ECL modifiers of the traits it has, added up and rounded up to the nearest whole number. A faerie that takes no size trait is Medium. Faeries, feeorin, sprites and bogies that pick more faerie traits as they gain levels pick them from these tables; those later traits don’t raise the level adjustment, which already accounts for them. [[rangoric-srd/races/race builder/Building a Faerie|Building a Faerie]] prices them in race points. ^faerie-traits
 
 **Table: Faerie Physical Characteristics**
 

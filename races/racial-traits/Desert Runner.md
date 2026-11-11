@@ -3,13 +3,14 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Elf|Elf]]"
 replaces: "elven magic"
+race-points: 2
 based-on:
   - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Alternate Racial Traits|Elves (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Elves (Races)|Elves (APG)]]"
 status: draft
 change: new
 pi-review: 2026-11-08
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/standard]
 ---
 
 # Desert Runner

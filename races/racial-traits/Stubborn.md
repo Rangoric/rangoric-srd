@@ -3,6 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "[[rangoric-srd/races/Dwarf|Dwarf]], [[rangoric-srd/races/Duergar|Duergar]]"
 replaces: "hardy for the dwarf; duergar immunities for the duergar"
+race-points: 2
 based-on:
   - "[[path srd 3.5/races/Dwarves (Advanced Race Guide)#Alternate Racial Traits|Dwarves (ARG)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Dwarves (Races)|Dwarves (APG)]]"
@@ -10,7 +11,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-10
-tags: [rangoric, rangoric/racial-trait]
+tags: [rangoric, rangoric/racial-trait, racial-trait/defense, racial-trait/standard]
 ---
 
 # Stubborn
