@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/aspect-of-nature]
 
 One of the [[rangoric-srd/races/aspects-of-nature/Aspects of Nature|Aspects of Nature]], taken through the [[rangoric-srd/feats/Nature's Aspect|Nature's Aspect]] feat.
 
-Followers of the Aspect of the Plant nourish and promote the growth of flowers, trees, and all forms of natural plant life. It is their duty to ensure that the other creatures of Nature can benefit from the rich bounty they foster, and yet they also desire to protect the sanctity of untouched groves and glades. Druids are the most common adherents to this Aspect, though they encourage others to join their ranks to promote and protect Nature. A few take their beliefs to a further extreme and hunt out magically perverted plants and destroy them.
+Followers of the Aspect of the Plant nourish and promote the growth of flowers, trees, and all forms of natural plant life. It is their duty to ensure that the other creatures of Nature can benefit from the rich bounty they foster, and yet they also desire to protect the sanctity of untouched groves and glades. [[rangoric-srd/classes/Druid|Druids]] are the most common adherents to this Aspect, though they encourage others to join their ranks to promote and protect Nature. A few take their beliefs to a further extreme and hunt out magically perverted plants and destroy them.
 
 **Skin**: Turns brown, green, or a combination thereof; hardens to a fibrous texture.
 
