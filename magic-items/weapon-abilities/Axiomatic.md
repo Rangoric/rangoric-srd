@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, order’s wrath, creator must be law
 price: "+2 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Axiomatic|Axiomatic (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Axiomatic|Axiomatic (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, shield or shield of faith"
 price: "+1 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Defending|Defending (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Defending|Defending (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

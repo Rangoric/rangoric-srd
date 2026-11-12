@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, chill metal or ice storm"
 price: "+2 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Icy Burst|Icy Burst (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Icy Burst|Icy Burst (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

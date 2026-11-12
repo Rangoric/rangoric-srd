@@ -10,6 +10,7 @@ prerequisites: "Craft Magic Arms and Armor, plane shift"
 price: "+1 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|Ghost Touch (Weapon Special Ability) (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Ghost Touch|Ghost Touch (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

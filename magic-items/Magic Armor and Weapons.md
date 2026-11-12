@@ -407,7 +407,7 @@ Ammunition fired from a projectile weapon with an enhancement bonus of +1 or hig
 | —     | 80–82  | 50–54  | [[rangoric-srd/magic-items/weapon-abilities/Holy\|Holy]]             | +2 bonus               |
 | —     | 83–87  | 55–64  | [[rangoric-srd/magic-items/weapon-abilities/Icy Burst\|Icy burst]]        | +2 bonus               |
 | —     | 88–92  | 65–74  | [[rangoric-srd/magic-items/weapon-abilities/Shocking Burst\|Shocking burst]]   | +2 bonus               |
-| —     | 93–95  | 75–79  | [[rangoric-srd/magic-items/Magic Armor and Weapons\|Unhol]]y           | +2 bonus               |
+| —     | 93–95  | 75–79  | [[rangoric-srd/magic-items/weapon-abilities/Unholy\|Unholy]]           | +2 bonus               |
 | —     | —      | 80–84  | [[rangoric-srd/magic-items/weapon-abilities/Speed\|Speed]]            | +3 bonus               |
 | —     | —      | 85–90  | [[rangoric-srd/magic-items/weapon-abilities/Brilliant Energy\|Brilliant energy]] | +4 bonus               |
 | 100   | 96–100 | 91–100 | Roll again twice2                                                        | —                       |

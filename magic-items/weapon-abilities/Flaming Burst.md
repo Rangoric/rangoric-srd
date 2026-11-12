@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor and flame blade, flame strike, or fir
 price: "+2 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Flaming Burst|Flaming Burst (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Flaming Burst|Flaming Burst (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
