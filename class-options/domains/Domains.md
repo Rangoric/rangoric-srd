@@ -20,6 +20,8 @@ Each domain has Pathfinder’s granted powers and keeps 3.5’s granted power be
 
 **3.5 only**: [[rangoric-srd/class-options/domains/Creation Domain|Creation]] and [[rangoric-srd/class-options/domains/Skalykind Domain|Skalykind]], with their 3.5 text.
 
+**Faeries**: [[rangoric-srd/class-options/domains/Enchantment Domain|Enchantment]] and [[rangoric-srd/class-options/domains/Illusion Domain|Illusion]], with their one granted power each (see [[rangoric-srd/classes/Fey Class Adjustments|Fey Class Adjustments]]).
+
 ## Subdomains
 
 A subdomain is a narrower focus within a domain, from the *Advanced Player’s Guide*. Each subdomain replaces one of its domain’s granted powers and some of its domain spells; the rest of the domain stays as it is. A cleric who chooses a subdomain must have access to both the domain and the subdomain from her deity, and can’t also choose its domain as her other domain (the subdomain takes the domain’s place). A subdomain counts as its domain for any effect or prerequisite based on domains. A subdomain with two domains can be chosen for only one of them, and replaces that domain’s power. A druid can take a subdomain of one of her domains through her nature bond, except Metal. An [[rangoric-srd/classes/Inquisitor (Class)|inquisitor]] can take a subdomain if her deity allows it. ^subdomains

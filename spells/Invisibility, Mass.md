@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Illusion 7"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -13,8 +14,8 @@ range: "Long (400 ft. + 40 ft./level)"
 targets: "Any number of creatures, no two of which can be more than 180 ft. apart"
 based-on:
   - "[[fantasy srd 3.5/spells/Invisibility, Mass|Invisibility, Mass (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Illusion 7, Sor/Wiz 7
   - **Components**: V, S, M
   - **Range**: Long (400 ft. + 40 ft./level)
   - **Targets**: Any number of creatures, no two of which can be more than 180 ft. apart
