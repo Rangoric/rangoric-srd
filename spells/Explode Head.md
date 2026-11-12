@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 level:
+  - "Mag 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Mag 6, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: No action
   - **Saving Throw**: Reflex negates

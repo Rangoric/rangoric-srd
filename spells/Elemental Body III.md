@@ -5,6 +5,7 @@ school: "Transmutation"
 subschool: "Polymorph"
 level:
   - "Alc 6"
+  - "Mag 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 6, Sor/Wiz 6
+  - **Level**: Alc 6, Mag 6, Sor/Wiz 6
   - **Components**: V, S, M (the element you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

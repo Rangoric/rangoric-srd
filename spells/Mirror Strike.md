@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Blr 1"
+  - "Mag 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 1, Sor/Wiz 1
+  - **Level**: Blr 1, Mag 1, Sor/Wiz 1
   - **Components**: V, S, M (a shard of mirror)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

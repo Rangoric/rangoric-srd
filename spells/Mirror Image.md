@@ -6,6 +6,7 @@ subschool: "Figment"
 level:
   - "Blr 2"
   - "Brd 2"
+  - "Mag 2"
   - "Skd 2"
   - "Sor/Wiz 2"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Blr 2, Brd 2, Skd 2, Sor/Wiz 2
+  - **Level**: Blr 2, Brd 2, Mag 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal; see text

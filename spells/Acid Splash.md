@@ -7,6 +7,7 @@ descriptor:
   - "Acid"
 level:
   - "Inq 0"
+  - "Mag 0"
   - "Sor/Wiz 0"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Acid\]*
 
-  - **Level**: Inq 0, Sor/Wiz 0
+  - **Level**: Inq 0, Mag 0, Sor/Wiz 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

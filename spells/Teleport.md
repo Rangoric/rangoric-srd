@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Teleportation"
 level:
+  - "Mag 5"
   - "Sor/Wiz 5"
   - "Travel 5"
   - "Wit 5"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Sor/Wiz 5, Travel 5, Wit 5
+  - **Level**: Mag 5, Sor/Wiz 5, Travel 5, Wit 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal and touch

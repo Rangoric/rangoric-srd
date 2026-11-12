@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Mag 3"
   - "Pal 3"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Pal 3, Sor/Wiz 4, Wit 4
+  - **Level**: Mag 3, Pal 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

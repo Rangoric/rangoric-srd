@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Mag 6"
   - "Sha 6"
   - "Sor/Wiz 6"
   - "Wit 6"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sha 6, Sor/Wiz 6, Wit 6
+  - **Level**: Mag 6, Sha 6, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

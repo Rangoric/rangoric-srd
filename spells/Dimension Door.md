@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Brd 4"
+  - "Mag 4"
   - "Skd 4"
   - "Sor/Wiz 4"
   - "Travel 4"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Brd 4, Skd 4, Sor/Wiz 4, Travel 4, Wit 4
+  - **Level**: Brd 4, Mag 4, Skd 4, Sor/Wiz 4, Travel 4, Wit 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

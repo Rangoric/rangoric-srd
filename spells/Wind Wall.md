@@ -10,6 +10,7 @@ level:
   - "Clr 3"
   - "Drd 3"
   - "Hun 2"
+  - "Mag 3"
   - "Rgr 2"
   - "Sha 3"
   - "Sor/Wiz 3"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Air\]*
 
-  - **Level**: Air 2, Blr 3, Clr 3, Drd 3, Hun 2, Rgr 2, Sha 3, Sor/Wiz 3
+  - **Level**: Air 2, Blr 3, Clr 3, Drd 3, Hun 2, Mag 3, Rgr 2, Sha 3, Sor/Wiz 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

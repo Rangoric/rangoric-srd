@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
 level:
   - "Blr 3"
+  - "Mag 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Blr 3, Sor/Wiz 3
+  - **Level**: Blr 3, Mag 3, Sor/Wiz 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

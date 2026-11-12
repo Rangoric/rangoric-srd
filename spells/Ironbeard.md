@@ -6,6 +6,7 @@ level:
   - "Apl 1"
   - "Clr 1"
   - "Hun 1"
+  - "Mag 1"
   - "Pal 1"
   - "Rgr 1"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 1, Clr 1, Hun 1, Pal 1, Rgr 1
+  - **Level**: Apl 1, Clr 1, Hun 1, Mag 1, Pal 1, Rgr 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

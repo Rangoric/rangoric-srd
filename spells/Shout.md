@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Blr 4"
   - "Brd 4"
+  - "Mag 4"
   - "Msl 4"
   - "Skd 4"
   - "Sor/Wiz 4"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Blr 4, Brd 4, Msl 4, Skd 4, Sor/Wiz 4
+  - **Level**: Blr 4, Brd 4, Mag 4, Msl 4, Skd 4, Sor/Wiz 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

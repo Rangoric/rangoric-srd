@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Alc 5"
+  - "Mag 5"
   - "Sha 5"
   - "Sor/Wiz 5"
   - "Wit 5"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 5, Sha 5, Sor/Wiz 5, Wit 5
+  - **Level**: Alc 5, Mag 5, Sha 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Range**: Personal
   - **Target**: You

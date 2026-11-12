@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Force"
 level:
+  - "Mag 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Mag 6, Sor/Wiz 6
   - **Components**: V, S, F
 
 This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except that the forceful hand pursues and pushes away the opponent that you designate. The forceful hand gets one [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] attack per round. This attack does not provoke an attack of opportunity. Its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|CMB]] for bull rush checks uses your caster level in place of its base attack bonus, with a +8 bonus for its Strength score (27), and a +1 bonus for being Large. The hand always moves with the opponent to push that target back the full distance allowed, and it has no speed limit. Directing the spell to a new target is a move action.

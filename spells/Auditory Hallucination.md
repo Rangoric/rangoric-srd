@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 1"
+  - "Mag 1"
   - "Skd 1"
   - "Sor/Wiz 1"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[MindAffecting\]*
 
-  - **Level**: Brd 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Mag 1, Skd 1, Sor/Wiz 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

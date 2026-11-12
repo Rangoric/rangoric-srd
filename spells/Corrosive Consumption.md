@@ -6,6 +6,7 @@ subschool: "Creation"
 descriptor:
   - "Acid"
 level:
+  - "Mag 5"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Acid\]*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Mag 5, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

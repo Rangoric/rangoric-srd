@@ -9,6 +9,7 @@ level:
   - "Brd 1"
   - "Drd 1"
   - "Hun 1"
+  - "Mag 1"
   - "Skd 1"
   - "Sor/Wiz 1"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Blr 1, Brd 1, Drd 1, Hun 1, Skd 1, Sor/Wiz 1
+  - **Level**: Blr 1, Brd 1, Drd 1, Hun 1, Mag 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

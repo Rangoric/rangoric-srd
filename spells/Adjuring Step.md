@@ -6,6 +6,7 @@ subschool: "Force"
 level:
   - "Alc 1"
   - "Brd 1"
+  - "Mag 1"
   - "Skd 1"
   - "Sor/Wiz 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration (Force)*
 
-  - **Level**: Alc 1, Brd 1, Skd 1, Sor/Wiz 1
+  - **Level**: Alc 1, Brd 1, Mag 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, M (a rabbit's foot)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

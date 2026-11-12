@@ -8,6 +8,7 @@ level:
   - "Brd 0"
   - "Drd 0"
   - "Hun 0"
+  - "Mag 0"
   - "Skd 0"
   - "Sor/Wiz 0"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Brd 0, Drd 0, Hun 0, Skd 0, Sor/Wiz 0
+  - **Level**: Brd 0, Drd 0, Hun 0, Mag 0, Skd 0, Sor/Wiz 0
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

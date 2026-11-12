@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Shadow"
 level:
   - "Clr 5"
+  - "Mag 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow)*
 
-  - **Level**: Clr 5, Sor/Wiz 5, Wit 5
+  - **Level**: Clr 5, Mag 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M (a masterwork melee weapon costing at least 300 gp)
   - **Saving Throw**: Will half, see text
   - **Spell Resistance**: Yes, see text

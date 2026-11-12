@@ -5,6 +5,7 @@ school: "Evocation"
 level:
   - "Blr 2"
   - "Clr 2"
+  - "Mag 2"
   - "Sha 2"
   - "Sor/Wiz 2"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Blr 2, Clr 2, Sha 2, Sor/Wiz 2
+  - **Level**: Blr 2, Clr 2, Mag 2, Sha 2, Sor/Wiz 2
   - **Components**: V, S
   - **Duration**: 24 hours or until discharged (D)
   - **Saving Throw**: Will negates (harmless)

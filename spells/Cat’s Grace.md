@@ -8,6 +8,7 @@ level:
   - "Brd 2"
   - "Drd 2"
   - "Hun 2"
+  - "Mag 2"
   - "Msl 2"
   - "Rgr 2"
   - "Skd 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Blr 2, Brd 2, Drd 2, Hun 2, Msl 2, Rgr 2, Skd 2, Sor/Wiz 2
+  - **Level**: Alc 2, Blr 2, Brd 2, Drd 2, Hun 2, Mag 2, Msl 2, Rgr 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

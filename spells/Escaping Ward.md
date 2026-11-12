@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Hun 2"
   - "Inq 2"
+  - "Mag 2"
   - "Rgr 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 2, Hun 2, Inq 2, Rgr 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Hun 2, Inq 2, Mag 2, Rgr 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Blr 1"
+  - "Mag 1"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Blr 1, Sor/Wiz 2
+  - **Level**: Blr 1, Mag 1, Sor/Wiz 2
   - **Components**: V, S, F (one melee weapon you are proficient in and you are holding)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

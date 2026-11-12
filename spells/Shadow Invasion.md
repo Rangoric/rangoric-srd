@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Summoning"
 level:
+  - "Mag 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Mag 4, Sor/Wiz 4
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

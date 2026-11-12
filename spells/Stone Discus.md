@@ -9,6 +9,7 @@ level:
   - "Blr 2"
   - "Drd 2"
   - "Hun 2"
+  - "Mag 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Earth\]*
 
-  - **Level**: Blr 2, Drd 2, Hun 2, Sor/Wiz 2, Wit 2
+  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M (a pinch of earth or metal)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)
