@@ -9,7 +9,9 @@ level:
   - "Brd 3"
   - "Clr 3"
   - "Drd 3"
+  - "Fpk 3"
   - "Hun 3"
+  - "Msl 3"
   - "Skd 3"
   - "Sor/Wiz 3"
 components:
@@ -35,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Clr 3, Drd 3, Hun 3, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Clr 3, Drd 3, Fpk 3, Hun 3, Msl 3, Skd 3, Sor/Wiz 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

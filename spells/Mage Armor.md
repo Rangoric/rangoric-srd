@@ -7,6 +7,7 @@ descriptor:
   - "Force"
 level:
   - "Blr 1"
+  - "Msl 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Blr 1, Sor/Wiz 1, Wit 1
+  - **Level**: Blr 1, Msl 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Touch

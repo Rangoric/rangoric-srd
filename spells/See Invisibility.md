@@ -5,7 +5,10 @@ school: "Divination"
 level:
   - "Blr 2"
   - "Brd 3"
+  - "Fhn 2"
+  - "Fpk 2"
   - "Inq 2"
+  - "Msl 2"
   - "Skd 3"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -29,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Blr 2, Brd 3, Inq 2, Skd 3, Sor/Wiz 2, Wit 2
+  - **Level**: Blr 2, Brd 3, Fhn 2, Fpk 2, Inq 2, Msl 2, Skd 3, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Personal

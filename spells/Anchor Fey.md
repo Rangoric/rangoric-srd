@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Fhn 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Fhn 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)
