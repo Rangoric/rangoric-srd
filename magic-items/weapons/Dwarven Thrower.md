@@ -9,6 +9,7 @@ price: "60,312 gp"
 cost: "30,312 gp + 2,400 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Dwarven Thrower|Dwarven Thrower (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Dwarven Thrower|Dwarven Thrower (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

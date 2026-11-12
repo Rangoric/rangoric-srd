@@ -9,6 +9,7 @@ price: "267gp"
 cost: "128 gp and 5 sp + 10 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Screaming Bolt|Screaming Bolt (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Screaming Bolt|Screaming Bolt (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

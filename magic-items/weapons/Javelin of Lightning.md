@@ -9,6 +9,7 @@ price: "1,500 gp"
 cost: "750 gp + 30 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Javelin of Lightning|Javelin of Lightning (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Javelin of Lightning|Javelin of Lightning (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

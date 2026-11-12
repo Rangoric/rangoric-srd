@@ -8,6 +8,7 @@ price: "770,310 gp"
 cost: "to Create: 385,310 gp + 17,700 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Backstabber|Backstabber (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Backstabber|Backstabber (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

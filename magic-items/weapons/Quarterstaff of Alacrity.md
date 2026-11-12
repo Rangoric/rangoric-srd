@@ -8,6 +8,7 @@ price: "462,600 gp"
 cost: "to Create: 231,600 gp + 14,620 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Quarterstaff of Alacrity|Quarterstaff of Alacrity (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Quarterstaff of Alacrity|Quarterstaff of Alacrity (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

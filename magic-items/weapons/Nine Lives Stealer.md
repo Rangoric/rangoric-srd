@@ -9,6 +9,7 @@ price: "23,057 gp"
 cost: "11,528 gp 5 sp + 922 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Nine Lives Stealer|Nine Lives Stealer (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Nine Lives Stealer|Nine Lives Stealer (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

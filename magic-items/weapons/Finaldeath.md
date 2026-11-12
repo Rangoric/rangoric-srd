@@ -8,6 +8,7 @@ price: "3,580,308 gp"
 cost: "to Create: 1,790,308 gp + 45,800 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Finaldeath|Finaldeath (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Finaldeath|Finaldeath (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

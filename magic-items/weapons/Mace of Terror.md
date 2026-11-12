@@ -9,6 +9,7 @@ price: "38,552 gp"
 cost: "19,276 gp + 1,542 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Mace of Terror|Mace of Terror (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Mace of Terror|Mace of Terror (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

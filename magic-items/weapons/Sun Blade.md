@@ -9,6 +9,7 @@ price: "50,335 gp"
 cost: "25,335 gp + 2,000 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Sun Blade|Sun Blade (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Sun Blade|Sun Blade (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

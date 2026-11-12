@@ -9,6 +9,7 @@ price: "22,310 gp"
 cost: "11,155 gp + 892 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Sword of Subtlety|Sword of Subtlety (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Sword of Subtlety|Sword of Subtlety (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

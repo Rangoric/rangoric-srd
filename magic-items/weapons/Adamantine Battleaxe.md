@@ -6,6 +6,7 @@ aura: "No aura (nonmagical)"
 price: "3,010 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Adamantine Battleaxe|Adamantine Battleaxe (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Adamantine Battleaxe|Adamantine Battleaxe (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -8,6 +8,7 @@ price: "4,025,350 gp"
 cost: "to Create: 2,012,850 gp + 50,250 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Chaosbringer|Chaosbringer (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Chaosbringer|Chaosbringer (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
