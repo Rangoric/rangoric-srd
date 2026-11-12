@@ -59,6 +59,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Cloaker|Cloaker]]  
 [[rangoric-srd/monsters/Cockatrice|Cockatrice]]  
 [[rangoric-srd/monsters/Couatl|Couatl]]  
+[[rangoric-srd/monsters/Crystalline Creature|Crystalline Creature]]  
 
 ### D
 
