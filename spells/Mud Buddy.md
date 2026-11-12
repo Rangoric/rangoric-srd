@@ -44,7 +44,7 @@ When the spell ends, the *mud buddy* reverts to a patch of wet earth.
 
 ## Goblin Formula Books
 
-Goblins are illiterate, so goblin alchemists are unable to use conventional formula books. Instead, a goblin alchemist's formula book is filled with smears of various fluids, pictures representing materials needed, and other scent-, taste-, or pictograph-based representations of his formulae. Goblin alchemists can learn each other's formulae as easily as other alchemists learn language-based formulae.
+Goblins are illiterate, so goblin [[rangoric-srd/classes/Alchemist|alchemists]] are unable to use conventional [[rangoric-srd/classes/Alchemist#^alchemist-alchemy-10|formula books]]. Instead, a goblin alchemist's formula book is filled with smears of various fluids, pictures representing materials needed, and other scent-, taste-, or pictograph-based representations of his formulae. Goblin alchemists can learn each other's formulae as easily as other alchemists learn language-based formulae.
 
 A literate alchemist can learn formulae from a goblin alchemist's book, but he must spend 1 day studying a formula (instead of 1 hour), and the Arcana DC to successfully learn it is equal to 20 + the formula's level (instead of 15 + the formula's level). This otherwise works like copying a formula from another alchemist's formula book.
 
