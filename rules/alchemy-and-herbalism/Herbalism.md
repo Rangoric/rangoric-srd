@@ -250,3 +250,5 @@ Take the base price of an herb and multiply the cost against the tabulated facto
 | 601-800 miles | 2 | 2.2 | 2.4 | 2.6 |
 | 801-1000 miles | 2.25 | 2.45 | 2.65 | 2.8 |
 | *Beyond 1000 miles (add per 500 miles)* | *+0.5* *Elevation difference over 1000 feet (add per 1000 feet diff. between market and source)* |  | *+ 0.1* |  |
+
+Don’t let the decimals scare you—they’re simple to deal with in d20 terms. The first digit tends to be gold pieces, the second (first after the decimal) is silver, and the third is copper.
