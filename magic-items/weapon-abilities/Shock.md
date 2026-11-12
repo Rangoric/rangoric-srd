@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, call lightning or lightning bolt"
 price: "+1 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Shock|Shock (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Shock|Shock (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
