@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Alc 3"
   - "Blr 3"
+  - "Mag 3"
   - "Sha 3"
   - "Sor/Wiz 3"
   - "Travel 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 3, Blr 3, Sha 3, Sor/Wiz 3, Travel 3, Wit 3
+  - **Level**: Alc 3, Blr 3, Mag 3, Sha 3, Sor/Wiz 3, Travel 3, Wit 3
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

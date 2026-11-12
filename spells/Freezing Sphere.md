@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Cold"
 level:
+  - "Mag 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "Reflex half; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Freezing Sphere|Freezing Sphere (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Cold\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Mag 6, Sor/Wiz 6
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

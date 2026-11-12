@@ -8,6 +8,7 @@ level:
   - "Blr 3"
   - "Drd 3"
   - "Hun 3"
+  - "Mag 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Water\]*
 
-  - **Level**: Blr 3, Drd 3, Hun 3, Sor/Wiz 3
+  - **Level**: Blr 3, Drd 3, Hun 3, Mag 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

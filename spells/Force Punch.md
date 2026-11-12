@@ -6,6 +6,7 @@ descriptor:
   - "Force"
 level:
   - "Blr 3"
+  - "Mag 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Blr 3, Sor/Wiz 3
+  - **Level**: Blr 3, Mag 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

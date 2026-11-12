@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Fire"
 level:
+  - "Mag 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Mag 6, Sor/Wiz 6
   - **Components**: V, S, F (a drop of oil and a small piece of flint)
   - **Range**: Medium (100 ft. + 10 ft./level)
 

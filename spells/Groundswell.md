@@ -8,6 +8,7 @@ level:
   - "Clr 2"
   - "Drd 2"
   - "Hun 2"
+  - "Mag 2"
   - "Rgr 2"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Clr 2, Drd 2, Hun 2, Rgr 2
+  - **Level**: Clr 2, Drd 2, Hun 2, Mag 2, Rgr 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

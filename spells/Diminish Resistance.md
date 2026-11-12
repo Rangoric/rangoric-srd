@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Clr 2"
   - "Inq 2"
+  - "Mag 2"
   - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Clr 2, Inq 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Clr 2, Inq 2, Mag 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M, M/DF (a pinch of coarse sand)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

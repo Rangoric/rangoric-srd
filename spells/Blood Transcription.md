@@ -6,6 +6,7 @@ descriptor:
   - "Evil"
 level:
   - "Alc 2"
+  - "Mag 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Evil\]*
 
-  - **Level**: Alc 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Mag 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

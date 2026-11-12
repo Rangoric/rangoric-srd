@@ -8,6 +8,7 @@ level:
   - "Blr 4"
   - "Drd 4"
   - "Hun 4"
+  - "Mag 5"
   - "Sor/Wiz 5"
   - "Wit 4"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 5, Blr 4, Drd 4, Hun 4, Sor/Wiz 5, Wit 4
+  - **Level**: Alc 5, Blr 4, Drd 4, Hun 4, Mag 5, Sor/Wiz 5, Wit 4
   - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

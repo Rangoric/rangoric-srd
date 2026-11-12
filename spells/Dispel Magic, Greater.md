@@ -8,6 +8,7 @@ level:
   - "Drd 6"
   - "Hun 6"
   - "Inq 6"
+  - "Mag 6"
   - "Sha 6"
   - "Skd 5"
   - "Sor/Wiz 6"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 5, Clr 6, Drd 6, Hun 6, Inq 6, Sha 6, Skd 5, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 5, Clr 6, Drd 6, Hun 6, Inq 6, Mag 6, Sha 6, Skd 5, Sor/Wiz 6, Wit 6
 
 This spell functions like [[rangoric-srd/spells/Dispel Magic|dispel magic]], except that the maximum caster level on your dispel check is +20 instead of +10.
 

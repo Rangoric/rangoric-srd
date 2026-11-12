@@ -9,6 +9,7 @@ level:
   - "Brd 4"
   - "Illusion 4"
   - "Inq 4"
+  - "Mag 4"
   - "Skd 4"
   - "Sor/Wiz 4"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Alc 4, Apl 4, Brd 4, Illusion 4, Inq 4, Skd 4, Sor/Wiz 4
+  - **Level**: Alc 4, Apl 4, Brd 4, Illusion 4, Inq 4, Mag 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S
   - **Target**: You or creature touched
   - **Duration**: 1 round/level (D)

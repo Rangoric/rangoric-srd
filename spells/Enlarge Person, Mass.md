@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Blr 4"
+  - "Mag 4"
   - "Sor/Wiz 4"
 target: "One humanoid creature/level, no two of which can be more than 30 ft. apart"
 based-on:
@@ -18,7 +19,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 4, Sor/Wiz 4
+  - **Level**: Blr 4, Mag 4, Sor/Wiz 4
   - **Target**: One humanoid creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Enlarge Person|enlarge person]], except that it affects multiple creatures.

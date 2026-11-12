@@ -10,6 +10,7 @@ descriptor:
 level:
   - "Alc 4"
   - "Blr 4"
+  - "Mag 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Acid, Cold, Electricity, Fire\]*
 
-  - **Level**: Alc 4, Blr 4, Sor/Wiz 4
+  - **Level**: Alc 4, Blr 4, Mag 4, Sor/Wiz 4
   - **Components**: V, S, M (a dragon scale)
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft. or 60 ft.

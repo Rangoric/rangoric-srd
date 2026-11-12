@@ -9,6 +9,7 @@ level:
   - "Apl 2"
   - "Drd 2"
   - "Hun 2"
+  - "Mag 3"
   - "Rgr 4"
   - "Wit 2"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Disease\]*
 
-  - **Level**: Alc 2, Apl 2, Drd 2, Hun 2, Rgr 4, Wit 2
+  - **Level**: Alc 2, Apl 2, Drd 2, Hun 2, Mag 3, Rgr 4, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

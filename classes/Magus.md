@@ -65,7 +65,7 @@ All of the following are class features of the magus.
 
 **Weapon and Armor Proficiency**: A magus is proficient with all simple and martial weapons. A magus is also proficient with light armor. He can cast magus spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a magus wearing medium armor, heavy armor, or a shield incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass magus still incurs the normal arcane spell failure chance for arcane spells received from other classes. ^magus-weapon-and-armor-proficiency
 
-**Spells**: A magus casts arcane spells drawn from the magus spell list. A magus must choose and prepare his spells ahead of time. ^magus-spells
+**Spells**: A magus casts arcane spells drawn from the [[rangoric-srd/spells/Magus Spell List|magus spell list]]. A magus must choose and prepare his spells ahead of time. ^magus-spells
 
 To learn, prepare, or cast a spell, the magus must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a magus’s spell is 10 + the spell level + the magus’s Intelligence modifier.
 

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 1"
+  - "Mag 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 1, Sor/Wiz 1, Wit 1
+  - **Level**: Clr 1, Mag 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M/DF (a metal pin)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

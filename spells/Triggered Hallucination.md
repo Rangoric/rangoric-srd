@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 6"
+  - "Mag 6"
   - "Skd 6"
   - "Sor/Wiz 6"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[MindAffecting\]*
 
-  - **Level**: Brd 6, Skd 6, Sor/Wiz 6
+  - **Level**: Brd 6, Mag 6, Skd 6, Sor/Wiz 6
   - **Components**: V, S, M (jade dust worth 25 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

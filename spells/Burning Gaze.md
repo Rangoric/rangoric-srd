@@ -8,6 +8,7 @@ level:
   - "Blr 2"
   - "Drd 2"
   - "Hun 2"
+  - "Mag 2"
   - "Sha 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Blr 2, Drd 2, Hun 2, Sha 2, Sor/Wiz 2, Wit 2
+  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Sha 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M/DF (eye of a mundane salamander)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

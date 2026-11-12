@@ -8,6 +8,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Hun 1"
+  - "Mag 1"
   - "Sha 1"
   - "Sor/Wiz 1"
   - "Water 1"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Air 1, Clr 1, Drd 1, Hun 1, Sha 1, Sor/Wiz 1, Water 1, Wit 1
+  - **Level**: Air 1, Clr 1, Drd 1, Hun 1, Mag 1, Sha 1, Sor/Wiz 1, Water 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 20 ft.

@@ -7,6 +7,7 @@ level:
   - "Blr 3"
   - "Clr 4"
   - "Inq 3"
+  - "Mag 3"
   - "Msl 3"
   - "Pal 3"
   - "Sha 4"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 3, Blr 3, Clr 4, Inq 3, Msl 3, Pal 3, Sha 4, Sor/Wiz 3
+  - **Level**: Apl 3, Blr 3, Clr 4, Inq 3, Mag 3, Msl 3, Pal 3, Sha 4, Sor/Wiz 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Blr 2"
   - "Drd 2"
   - "Hun 2"
+  - "Mag 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 2, Blr 2, Drd 2, Hun 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Alc 2, Blr 2, Drd 2, Hun 2, Mag 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S, M/DF (a part of the animal)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

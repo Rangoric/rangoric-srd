@@ -9,6 +9,7 @@ level:
   - "Drd 1"
   - "Hun 1"
   - "Inq 1"
+  - "Mag 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Blr 1, Drd 1, Hun 1, Inq 1, Sor/Wiz 1, Wit 1
+  - **Level**: Blr 1, Drd 1, Hun 1, Inq 1, Mag 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

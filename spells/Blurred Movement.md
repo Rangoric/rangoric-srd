@@ -7,6 +7,7 @@ level:
   - "Alc 1"
   - "Blr 1"
   - "Brd 1"
+  - "Mag 1"
   - "Skd 1"
   - "Sor/Wiz 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Alc 1, Blr 1, Brd 1, Skd 1, Sor/Wiz 1
+  - **Level**: Alc 1, Blr 1, Brd 1, Mag 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

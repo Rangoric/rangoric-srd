@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Blr 4"
+  - "Mag 4"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Blr 4, Sor/Wiz 5, Wit 5
+  - **Level**: Blr 4, Mag 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S, F (four mithral daggers, each worth at least 502 gp each)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

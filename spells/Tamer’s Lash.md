@@ -8,6 +8,7 @@ level:
   - "Blr 1"
   - "Brd 1"
   - "Hun 1"
+  - "Mag 1"
   - "Rgr 1"
   - "Skd 1"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Blr 1, Brd 1, Hun 1, Rgr 1, Skd 1
+  - **Level**: Blr 1, Brd 1, Hun 1, Mag 1, Rgr 1, Skd 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

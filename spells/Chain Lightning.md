@@ -6,6 +6,7 @@ descriptor:
   - "Electricity"
 level:
   - "Air 6"
+  - "Mag 6"
   - "Sor/Wiz 6"
   - "Wit 7"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Electricity\]*
 
-  - **Level**: Air 6, Sor/Wiz 6, Wit 7
+  - **Level**: Air 6, Mag 6, Sor/Wiz 6, Wit 7
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

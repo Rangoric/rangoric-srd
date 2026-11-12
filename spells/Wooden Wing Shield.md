@@ -6,6 +6,7 @@ level:
   - "Blr 4"
   - "Drd 4"
   - "Hun 4"
+  - "Mag 5"
 components:
   - "S"
 casting-time: "1 immediate action"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 4, Drd 4, Hun 4
+  - **Level**: Blr 4, Drd 4, Hun 4, Mag 5
   - **Components**: S
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

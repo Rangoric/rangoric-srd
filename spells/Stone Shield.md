@@ -10,6 +10,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Hun 1"
+  - "Mag 2"
   - "Sha 1"
   - "Sor/Wiz 1"
 components:
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Earth\]*
 
-  - **Level**: Blr 1, Clr 1, Drd 1, Hun 1, Sha 1, Sor/Wiz 1
+  - **Level**: Blr 1, Clr 1, Drd 1, Hun 1, Mag 2, Sha 1, Sor/Wiz 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 immediate action
   - **Range**: 0 ft.

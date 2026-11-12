@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Destruction 7"
+  - "Mag 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -17,8 +18,8 @@ saving-throw: "Fortitude partial (object)"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Disintegrate|Disintegrate (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Destruction 7, Sor/Wiz 6
+  - **Level**: Destruction 7, Mag 6, Sor/Wiz 6
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

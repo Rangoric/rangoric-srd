@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Alc 2"
   - "Blr 2"
+  - "Mag 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Alc 2, Blr 2, Sor/Wiz 2
+  - **Level**: Alc 2, Blr 2, Mag 2, Sor/Wiz 2
   - **Components**: V, S, M (a chili pepper)
   - **Casting Time**: 1 standard action
   - **Range**: 15 ft.

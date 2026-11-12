@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Drd 4"
   - "Hun 4"
+  - "Mag 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Electricity, Sonic\]*
 
-  - **Level**: Drd 4, Hun 4, Sor/Wiz 4, Wit 4
+  - **Level**: Drd 4, Hun 4, Mag 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M/DF (a piece of a tree struck by lightning)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

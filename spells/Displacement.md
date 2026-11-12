@@ -8,6 +8,7 @@ level:
   - "Brd 3"
   - "Fpk 3"
   - "Illusion 3"
+  - "Mag 3"
   - "Msl 3"
   - "Skd 3"
   - "Sor/Wiz 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Alc 3, Brd 3, Fpk 3, Illusion 3, Msl 3, Skd 3, Sor/Wiz 3
+  - **Level**: Alc 3, Brd 3, Fpk 3, Illusion 3, Mag 3, Msl 3, Skd 3, Sor/Wiz 3
   - **Components**: V, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

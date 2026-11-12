@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Blr 2"
+  - "Mag 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 2, Sor/Wiz 2, Wit 2
+  - **Level**: Blr 2, Mag 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

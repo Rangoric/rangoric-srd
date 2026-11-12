@@ -6,6 +6,7 @@ subschool: "Creation"
 descriptor:
   - "Water"
 level:
+  - "Mag 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Water\]*
 
-  - **Level**: Sor/Wiz 2, Wit 2
+  - **Level**: Mag 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.
