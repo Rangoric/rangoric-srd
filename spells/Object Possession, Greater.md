@@ -11,7 +11,7 @@ components:
 casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
 target: "Unattended Gargantuan or smaller object (minimum Tiny) or construct"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:

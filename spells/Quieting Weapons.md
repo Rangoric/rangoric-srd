@@ -17,7 +17,7 @@ components:
 casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Up to one natural or manufactured weapon per 3 caster levels"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "Will negates (object)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"

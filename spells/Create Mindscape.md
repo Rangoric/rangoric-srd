@@ -13,7 +13,7 @@ components:
 casting-time: "1 round"
 range: "Long (400 ft. + 40 ft./level)"
 target: "One creature"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "Will disbelief; see text"
 spell-resistance: "Yes"
 book: "Occult Adventures"

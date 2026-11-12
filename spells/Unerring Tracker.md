@@ -14,7 +14,7 @@ components:
 casting-time: "10 minutes"
 range: "Personal"
 target: "You"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:

@@ -17,7 +17,7 @@ components:
 casting-time: "1 standard action"
 range: "Touch"
 target: "One creature touched"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "None and Will disbelief (see text)"
 spell-resistance: "Yes"
 book: "Villain Codex"

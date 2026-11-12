@@ -18,7 +18,7 @@ components:
 casting-time: "1 standard action"
 range: "Personal"
 target: "You"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "Will negates"
 spell-resistance: "Yes"
 book: "Occult Adventures"

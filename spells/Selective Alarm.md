@@ -19,7 +19,7 @@ components:
 casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 area: "Up to 20-ft.-radius emanation centered on a point in space"
-duration: "2 \* caster level hour(s)"
+duration: "2 * caster level hour(s)"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:

@@ -18,7 +18,7 @@ components:
 casting-time: "1 standard action"
 range: "Touch"
 target: "Creature touched"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "Will negates"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
