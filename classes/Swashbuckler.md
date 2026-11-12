@@ -21,7 +21,7 @@ Whereas many warriors brave battle encased in suits of armor and wielding large 
 
 **Role**: Combining fancy footwork with quick and precise lunges, swashbucklers dart in and out of battle, harassing and thwarting their opponents. These fast and agile combatants serve as protectors for spellcasters and flank mates for [[rangoric-srd/classes/Rogue|rogues]] and [[rangoric-srd/classes/Slayer|slayers]], while waiting for the opportunity to show panache and score the killing blow on some lumbering hulk. Swashbucklers often face death with wry humor, mocking it with jabbing wit.
 
-**Parent Classes**: [[rangoric-srd/classes/Fighter|Fighter]] and gunslinger.
+**Parent Classes**: [[rangoric-srd/classes/Fighter|Fighter]] and [[rangoric-srd/classes/Gunslinger|gunslinger]].
 
 **Alignment**: Any.
 
@@ -130,7 +130,7 @@ The deeds, by the level they're gained (one note each; see [[rangoric-srd/class-
 
 **Nimble (Ex)**: At 3rd level, a swashbuckler gains a +1 dodge bonus to AC while wearing light or no armor. Anything that causes the swashbuckler to lose her Dexterity bonus to AC also causes her to lose this dodge bonus. This bonus increases by 1 for every 4 levels beyond 3rd (to a maximum of +5 at 19th level). ^swashbuckler-nimble
 
-**Bonus Feats**: At 4th level and every 4 levels thereafter, a swashbuckler gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as [[rangoric-srd/feats/Feats Fighter Bonus|combat feats]]. Swashbuckler levels are considered fighter levels for the purpose of meeting combat feat prerequisites. ^swashbuckler-bonus-feats
+**Bonus Feats**: At 4th level and every 4 levels thereafter, a swashbuckler gains a bonus feat in addition to those gained from normal advancement. These bonus feats must be selected from those listed as [[rangoric-srd/feats/Feats Fighter Bonus|combat feats]]. Swashbuckler levels are considered fighter levels for the purpose of meeting combat feat prerequisites. A swashbuckler can take a [[rangoric-srd/class-options/dares/Dares|dare]] in place of one of these bonus feats. ^swashbuckler-bonus-feats
 
 In addition, upon reaching 4th level and every 4 levels thereafter, a swashbuckler can choose to learn a new bonus feat in place of a bonus feat she has already learned. In effect, the swashbuckler loses the bonus feat in exchange for the new one. The old feat cannot be one that was used as a prerequisite for another feat, prestige class, or other ability. A swashbuckler can only change one feat at any given level, and must choose whether or not to swap the feat at the time she gains a new bonus feat for the level.
 
