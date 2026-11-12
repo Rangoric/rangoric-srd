@@ -16,8 +16,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Permanency|Permanency (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -59,6 +59,7 @@ In addition to personal use, permanency can be used to make the following spells
 | Spell                                                              | Minimum Caster Level | XP Cost  |
 | ------------------------------------------------------------------ | -------------------- | -------- |
 | [[rangoric-srd/spells/Enlarge Person\|Enlarge person]]           | 9th                  | 500 XP   |
+| [[rangoric-srd/spells/Feyform\|Feyform]] | 16th | 4,000 XP |
 | [[rangoric-srd/spells/Magic Fang\|Magic fang]]                   | 9th                  | 500 XP   |
 | [[rangoric-srd/spells/Magic Fang, Greater\|Magic fang, greater]] | 11th                 | 1,500 XP |
 | [[rangoric-srd/spells/Reduce Person\|Reduce person]]             | 9th                  | 500 XP   |

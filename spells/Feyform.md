@@ -36,6 +36,6 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates
   - **Spell Resistance**: Yes
 
-This spell temporarily grants the “fey-born” template (not in this SRD yet) to the target creature. The creature gains all of the benefits and drawbacks associated with being fey-born. If the creature dies before the spell ends, the creature returns to its original form. This spell can be made permanent with the spell *[[rangoric-srd/spells/Permanency|permanency]]*. The minimum caster level is 16th, and the XP cost is 4,000 XP.
+This spell temporarily grants the [[rangoric-srd/monsters/Fey-born Creature|fey-born]] template to the target creature. The creature gains all of the benefits and drawbacks associated with being fey-born. If the creature dies before the spell ends, the creature returns to its original form. This spell can be made permanent with the spell *[[rangoric-srd/spells/Permanency|permanency]]*. The minimum caster level is 16th, and the XP cost is 4,000 XP.
 
 *Material Component*: one moss agate worth at least 50 gold pieces.

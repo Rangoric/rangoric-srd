@@ -14,6 +14,7 @@ tags: [rangoric, rangoric/overview]
 ## Kobold - Lycanthrope
 
   - [[rangoric-srd/monsters/Kobold|Kobold]]
+  - [[rangoric-srd/monsters/Korred|Korred]]
   - [[rangoric-srd/monsters/Kraken|Kraken]]
   - [[rangoric-srd/monsters/Krenshar|Krenshar]]
   - [[rangoric-srd/monsters/Lamia|Lamia]]

@@ -98,6 +98,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Shield of Faith\|Shield of Faith]]:                                                                                                                             | Aura grants +2 or higher deflection bonus.                                               |
 | [[rangoric-srd/spells/Stone Shield\|Stone Shield]]: | A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. |
 | [[rangoric-srd/spells/Stunning Barrier\|Stunning Barrier]]: | Magical field grants a +1 bonus to AC and on saves, and stuns one creature attacking you. |
+| [[rangoric-srd/spells/Summon Fey I\|Summon Fey I]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Minor Monster\|Summon Minor Monster]] (F): | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]:                                                                                                                           | Calls extraplanar creature to fight for you.                                             |
 | [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
@@ -206,6 +207,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spear of Purity\|Spear of Purity]]: | Harm and possibly blind evil creatures. |
 | [[rangoric-srd/spells/Spiritual Weapon\|Spiritual Weapon]]:               | Magic weapon attacks on its own.                                                                                                             |
 | [[rangoric-srd/spells/Status\|Status]]:                                   | Monitors condition, position of allies.                                                                                                      |
+| [[rangoric-srd/spells/Summon Fey II\|Summon Fey II]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster II\|Summon Monster II]]:             | Calls extraplanar creature to fight for you.                                                                                                 |
 | [[rangoric-srd/spells/Surmount Affliction\|Surmount Affliction]]: | Temporarily suppress one condition. |
 | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]:   | Conceals alignment for 24 hours.                                                                                                             |
@@ -293,6 +295,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Speak with Dead\|Speak with Dead]]:                        | Corpse answers one question/two levels.                                                                                                                                       |
 | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]:                                | Sculpts stone into any shape.                                                                                                                                                 |
 | [[rangoric-srd/spells/Stunning Barrier, Greater\|Stunning Barrier, Greater]]: | Magical field grants a +2 bonus to AC and on saves, and stuns multiple creatures attacking you. |
+| [[rangoric-srd/spells/Summon Fey III\|Summon Fey III]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster III\|Summon Monster III]]:                  | Calls extraplanar creature to fight for you.                                                                                                                                  |
 | [[rangoric-srd/spells/Symbol of Healing\|Symbol of Healing]] (M): | Triggered rune heals living creatures. |
 | [[rangoric-srd/spells/Transfer Regeneration\|Transfer Regeneration]]: |  |
@@ -372,6 +375,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spellcrash, Lesser\|Spellcrash, Lesser]]: | Target loses a 3rd-level prepared spell or spell slot. |
 | [[rangoric-srd/spells/Spiritual Ally\|Spiritual Ally]]: | Creates a divine ally to aid you. |
 | [[rangoric-srd/spells/Spit Venom\|Spit Venom]]: | Spit blinding black adder venom. |
+| [[rangoric-srd/spells/Summon Fey IV\|Summon Fey IV]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]:               | Calls extraplanar creature to fight for you.                                                                          |
 | [[rangoric-srd/spells/Summoner Conduit\|Summoner Conduit]] (M): | The target takes damage whenever its summoned creature does. |
 | [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
@@ -436,6 +440,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spell Immunity, Communal\|Spell Immunity, Communal]]: | As spell immunity, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Spell Resistance\|Spell Resistance]]:                                                                                                                           | Subject gains SR 12 + level.                                              |
 | [[rangoric-srd/spells/Spellsteal\|Spellsteal]]: |  |
+| [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster V\|Summon Monster V]]:                                                                                                                           | Calls extraplanar creature to fight for you.                              |
 | [[rangoric-srd/spells/Symbol of Pain\|Symbol of Pain]] (M):                                                                                                                           | Triggered rune wracks nearby creatures with pain.                         |
 | [[rangoric-srd/spells/Symbol of Scrying\|Symbol of Scrying]] (M): | Triggered rune activates scrying sensor. |
@@ -491,6 +496,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Prognostication\|Prognostication]] (M): | Gain cryptic information from further in the future than divination. |
 | [[rangoric-srd/spells/Speak with Soul\|Speak with Soul]] (M): | Hold an extended conversation with a soul |
 | [[rangoric-srd/spells/Spellcrash\|Spellcrash]]: | Target loses a 5th-level prepared spell or spell slot. |
+| [[rangoric-srd/spells/Summon Fey VI\|Summon Fey VI]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster VI\|Summon Monster VI]]:                         | Calls extraplanar creature to fight for you.                         |
 | [[rangoric-srd/spells/Symbol of Fear\|Symbol of Fear]] (M):                           | Triggered rune panics nearby creatures.                              |
 | [[rangoric-srd/spells/Symbol of Persuasion\|Symbol of Persuasion]] (M):               | Triggered rune charms nearby creatures.                              |
@@ -529,6 +535,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Restoration, Greater\|Restoration, Greater]] (X):             | As restoration, plus restores all levels and ability scores.                                                                                                                                      |
 | [[rangoric-srd/spells/Resurrection\|Resurrection]] (M):                             | Fully restore [[rangoric-srd/rules/Special Abilities and Conditions#^dead\|dead]] subject.                                                                                                     |
 | [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]:                         | As scrying, but faster and longer.                                                                                                                                                                |
+| [[rangoric-srd/spells/Summon Fey VII\|Summon Fey VII]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster VII\|Summon Monster VII]]:                     | Calls extraplanar creature to fight for you.                                                                                                                                                      |
 | [[rangoric-srd/spells/Symbol of Stunning\|Symbol of Stunning]] (M):                 | Triggered rune stuns nearby creatures.                                                                                                                                                            |
 | [[rangoric-srd/spells/Symbol of Weakness\|Symbol of Weakness]] (M):                 | Triggered rune weakens nearby creatures.                                                                                                                                                          |
@@ -563,6 +570,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spell Immunity, Greater\|Spell Immunity, Greater]]:             | As spell immunity, but up to 8th-level spells.                  |
 | [[rangoric-srd/spells/Spellcrash, Greater\|Spellcrash, Greater]]: | Target loses a 7th-level prepared spell or spell slot. |
 | [[rangoric-srd/spells/Stormbolts\|Stormbolts]] (M): | 1d8 damage/level (max 20d8) to targets. |
+| [[rangoric-srd/spells/Summon Fey VIII\|Summon Fey VIII]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster VIII\|Summon Monster VIII]]:                     | Calls extraplanar creature to fight for you.                    |
 | [[rangoric-srd/spells/Symbol of Death\|Symbol of Death]] (M):                         | Triggered rune slays nearby creatures.                          |
 | [[rangoric-srd/spells/Symbol of Insanity\|Symbol of Insanity]] (M):                   | Triggered rune renders nearby creatures insane.                 |
@@ -591,6 +599,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Soul Bind\|Soul Bind]] (F):                 | Traps newly [[rangoric-srd/rules/Special Abilities and Conditions#^dead\|dead]] soul to prevent resurrection. |
 | [[rangoric-srd/spells/Spell Immunity, Greater Communal\|Spell Immunity, Greater Communal]]: | As greater spell immunity, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Storm of Vengeance\|Storm of Vengeance]]:   | Storm rains acid, lightning, and hail.                                                                           |
+| [[rangoric-srd/spells/Summon Fey IX\|Summon Fey IX]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]:     | Calls extraplanar creature to fight for you.                                                                     |
 | [[rangoric-srd/spells/Symbol of Strife\|Symbol of Strife]] (M): | Triggered rune makes creatures attack. |
 | [[rangoric-srd/spells/Symbol of Vulnerability\|Symbol of Vulnerability]] (M): | Triggered rune gives penalties. |

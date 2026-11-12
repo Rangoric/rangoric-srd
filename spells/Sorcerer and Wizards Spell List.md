@@ -77,6 +77,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Obscuring Mist\|Obscuring Mist]]:                                                                                                                                                                            | Fog surrounds you.                                                                                                                                                                                                                                                              |
 |               | [[rangoric-srd/spells/Stone Shield\|Stone Shield]]: | A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. |
 |               | [[rangoric-srd/spells/Stumble Gap\|Stumble Gap]] (F): | Small hole trips creatures. |
+|               | [[rangoric-srd/spells/Summon Fey I\|Summon Fey I]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Minor Monster\|Summon Minor Monster]] (F): | Summon 1d3 Tiny animals. |
 |               | [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]:                                                                                                                                                                        | Calls extraplanar creature to fight for you.                                                                                                                                                                                                                                    |
 |               | [[rangoric-srd/spells/Unseen Servant\|Unseen Servant]]:                                                                                                                                                                            | [[rangoric-srd/rules/conditions/Invisibility (Condition)\|Invisible]] force obeys your commands.                                                                                                                                                                     |
@@ -249,6 +250,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Slipstream\|Slipstream]] (M): | Wave boosts creature's speed. |
 |               | [[rangoric-srd/spells/Stone Call\|Stone Call]]: | 2d6 damage to all creatures in area. |
 |               | [[rangoric-srd/spells/Stone Discus\|Stone Discus]] (M): | Flying discus deals bludgeoning or slashing damage. |
+|               | [[rangoric-srd/spells/Summon Fey II\|Summon Fey II]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster II\|Summon Monster II]]:           | Calls extraplanar creature to fight for you.                                                                                                                                                |
 |               | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]]:                     | Summons swarm of bats, rats, or spiders.                                                                                                                                                    |
 |               | [[rangoric-srd/spells/Vine Strike\|Vine Strike]]: | Enhance one of your natural or unarmed attacks with thorny vine growth |
@@ -445,6 +447,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Sleet Storm\|Sleet Storm]]:                                                                                                                                                                                                           | Hampers vision and movement.                                                                                   |
 |               | [[rangoric-srd/spells/Spiked Pit\|Spiked Pit]] (F): | As create pit, but filled with spikes. |
 |               | [[rangoric-srd/spells/Stinking Cloud\|Stinking Cloud]]:                                                                                                                                                                                                     | Nauseating vapors, 1 round/level.                                                                              |
+|               | [[rangoric-srd/spells/Summon Fey III\|Summon Fey III]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster III\|Summon Monster III]]:                                                                                                                                                                                             | Calls extraplanar creature to fight for you.                                                                   |
 |               | [[rangoric-srd/spells/Sundered Serpent Coil\|Sundered Serpent Coil]] (M): |  |
 |               | [[rangoric-srd/spells/Swarm of Fangs\|Swarm of Fangs]] (M): |  |
@@ -620,6 +623,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Secure Shelter\|Secure Shelter]]:                                     | Creates sturdy cottage.                                                                                                            |
 |               | [[rangoric-srd/spells/Shadow Invasion\|Shadow Invasion]] (F): | Create an area of darkness that strengthens shadow spells and attracts kytons |
 |               | [[rangoric-srd/spells/Solid Fog\|Solid Fog]]:                                               | Blocks vision and slows movement.                                                                                                  |
+|               | [[rangoric-srd/spells/Summon Fey IV\|Summon Fey IV]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]:                               | Calls extraplanar creature to fight for you.                                                                                       |
 |               | [[rangoric-srd/spells/Touch of Slime\|Touch of Slime]] (M): | Touch infests a target with green slime. |
 |               | [[rangoric-srd/spells/Trade Items\|Trade Items]]: | Swap a focus object with a target object. |
@@ -783,6 +787,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Major Creation\|Major Creation]]:                 | As minor creation, plus stone and metal.                                                               |
 |               | [[rangoric-srd/spells/Planar Binding, Lesser\|Planar Binding, Lesser]]: | Traps extraplanar creature of 6 HD or less until it performs a task.                                   |
 |               | [[rangoric-srd/spells/Secret Chest\|Secret Chest]] (F):                 | Hides expensive chest on Ethereal Plane; you retrieve it at will.                                      |
+|               | [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster V\|Summon Monster V]]:             | Calls extraplanar creature to fight for you.                                                           |
 |               | [[rangoric-srd/spells/Teleport\|Teleport]]:                             | Instantly transports you as far as 100 miles/level.                                                    |
 |               | [[rangoric-srd/spells/Walk the Plank\|Walk the Plank]] (M): | As create pit, but filled with water and contains sharks |
@@ -901,6 +906,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Ice Crystal Teleport\|Ice Crystal Teleport]]: | Target is frozen, then teleported. |
 |               | [[rangoric-srd/spells/Iron Shower\|Iron Shower]] (M): | Iron splinters rain down for 1d4/level damage (1d6/level vs. fey; max 15 dice). |
 |               | [[rangoric-srd/spells/Planar Binding\|Planar Binding]]:                     | As lesser planar binding, but up to 12 HD.                                                                                                                                                   |
+|               | [[rangoric-srd/spells/Summon Fey VI\|Summon Fey VI]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster VI\|Summon Monster VI]]:               | Calls extraplanar creature to fight for you.                                                                                                                                                 |
 |               | [[rangoric-srd/spells/Treacherous Teleport\|Treacherous Teleport]]: | As teleport, except you choose some creatures to suffer a mishap or go elsewhere. |
 |               | [[rangoric-srd/spells/Wall of Iron\|Wall of Iron]] (M):                     | 30 hp/four levels; can topple onto foes.                                                                                                                                                     |
@@ -1003,6 +1009,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Phase Door\|Phase Door]]:                                     | Creates an [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] passage through wood or stone.                   |
 |               | [[rangoric-srd/spells/Plane Shift\|Plane Shift]] (F):                               | As many as eight subjects travel to another plane.                                                                                           |
 |               | [[rangoric-srd/spells/Rampart\|Rampart]] (M): | Creates 5-ft.-thick earthen barrier. |
+|               | [[rangoric-srd/spells/Summon Fey VII\|Summon Fey VII]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster VII\|Summon Monster VII]]:                     | Calls extraplanar creature to fight for you.                                                                                                 |
 |               | [[rangoric-srd/spells/Teleport, Greater\|Teleport, Greater]]:                       | As teleport, but no range limit and no off-target arrival.                                                                                   |
 |               | [[rangoric-srd/spells/Teleport Object\|Teleport Object]]:                           | As teleport, but affects a touched object.                                                                                                   |
@@ -1095,6 +1102,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Maze\|Maze]]:                                           | Traps subject in extradimensional maze.                                                                                        |
 |               | [[rangoric-srd/spells/Planar Binding, Greater\|Planar Binding, Greater]]:     | As lesser planar binding, but up to 18 HD.                                                                                     |
 |               | [[rangoric-srd/spells/Seamantle\|Seamantle]] (M): | Sheathes you in protective water. |
+|               | [[rangoric-srd/spells/Summon Fey VIII\|Summon Fey VIII]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster VIII\|Summon Monster VIII]]:             | Calls extraplanar creature to fight for you.                                                                                   |
 |               | [[rangoric-srd/spells/Trap the Soul\|Trap the Soul]] (M F):                   | Imprisons subject within gem.                                                                                                  |
 |               | [[rangoric-srd/spells/Wall of Lava\|Wall of Lava]] (M): | Wall damages foes that try to enter, periodically launches lava at nearby targets. |
@@ -1154,6 +1162,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Interplanetary Teleport\|Interplanetary Teleport]]: | Teleport to another planet. |
 |               | [[rangoric-srd/spells/Refuge\|Refuge]] (M):                             | Alters item to transport its possessor to you.                                                                   |
 |               | [[rangoric-srd/spells/Resplendent Mansion\|Resplendent Mansion]] (F): | Conjure an opulent mansion several stories tall. |
+|               | [[rangoric-srd/spells/Summon Fey IX\|Summon Fey IX]]: | Calls a fey creature to fight for you. |
 |               | [[rangoric-srd/spells/Summon Monster IX\|Summon Monster IX]]:           | Calls extraplanar creature to fight for you.                                                                     |
 |               | [[rangoric-srd/spells/Teleportation Circle\|Teleportation Circle]] (M): | Circle teleports any creature inside to designated spot.                                                         |
 |               | [[rangoric-srd/spells/Tsunami\|Tsunami]]: | Huge wave damages and sweeps up all in its path. |

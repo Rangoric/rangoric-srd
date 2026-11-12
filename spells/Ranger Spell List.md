@@ -168,6 +168,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Speak with Plants\|Speak with Plants]]:             | You can talk to normal plants and plant creatures.        |
 | [[rangoric-srd/spells/Spike Growth\|Spike Growth]]:                       | Creatures in area take 1d4 damage, may be slowed.         |
 | [[rangoric-srd/spells/Stone Call\|Stone Call]]: | 2d6 damage to all creatures in area. |
+| [[rangoric-srd/spells/Summon Fey I\|Summon Fey I]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally II\|Summon Nature’s Ally II]]: | Calls animal to fight for you.                            |
 | [[rangoric-srd/spells/Undetectable Trap\|Undetectable Trap]] (M): | Make a trap extremely difficult to find. |
 | [[rangoric-srd/spells/Versatile Weapon\|Versatile Weapon]] (M): | Weapon bypasses some DR. |
@@ -230,6 +231,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Soothing Mud\|Soothing Mud]]: | Create restorative mud that heals hit point and ability damage |
 | [[rangoric-srd/spells/Stench of Prey\|Stench of Prey]]: | Predatory animals must successfully save or attack the target. |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
+| [[rangoric-srd/spells/Summon Fey II\|Summon Fey II]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally III\|Summon Nature’s Ally III]]: | Calls animal to fight for you.                                                                         |
 | [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
 | [[rangoric-srd/spells/Tailwind\|Tailwind]]: | Create a current of wind to enhance or impede flight |
@@ -271,6 +273,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Second Sight\|Second Sight]] (M): | See invisible creatures, fey-masked ones and those stepped sideways. |
 | [[rangoric-srd/spells/Sickening Strikes\|Sickening Strikes]]: | You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
+| [[rangoric-srd/spells/Summon Fey III\|Summon Fey III]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls animal to fight for you.              |
 | [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Terrain Bond\|Terrain Bond]] (M): | Treat the terrain you are in as a favored terrain for the spell's duration. |
