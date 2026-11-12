@@ -9,6 +9,7 @@ level:
   - "Drd 0"
   - "Hun 0"
   - "Inq 0"
+  - "Msl 1"
   - "Pal 1"
   - "Rgr 1"
   - "Sha 0"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Apl 1, Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Pal 1, Rgr 1, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
+  - **Level**: Apl 1, Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Msl 1, Pal 1, Rgr 1, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal

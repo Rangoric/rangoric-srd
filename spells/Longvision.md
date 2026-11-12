@@ -3,7 +3,9 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Fhn 2"
   - "Hun 1"
+  - "Msl 2"
   - "Rgr 1"
   - "Sor/Wiz 2"
 components:
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Hun 1, Rgr 1, Sor/Wiz 2
+  - **Level**: Fhn 2, Hun 1, Msl 2, Rgr 1, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

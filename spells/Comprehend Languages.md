@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 1"
   - "Clr 1"
+  - "Fpk 1"
   - "Inq 1"
   - "Sha 1"
   - "Skd 1"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Clr 1, Inq 1, Sha 1, Skd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Clr 1, Fpk 1, Inq 1, Sha 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

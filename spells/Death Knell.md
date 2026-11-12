@@ -9,6 +9,7 @@ level:
   - "Apl 1"
   - "Clr 2"
   - "Death 2"
+  - "Fhn 2"
   - "Inq 2"
   - "Wit 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death, Evil\]*
 
-  - **Level**: Apl 1, Clr 2, Death 2, Inq 2, Wit 2
+  - **Level**: Apl 1, Clr 2, Death 2, Fhn 2, Inq 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

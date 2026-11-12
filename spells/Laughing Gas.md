@@ -4,6 +4,7 @@ section: "Spells"
 school: "Enchantment"
 subschool: "Compulsion"
 level:
+  - "Fpk 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion)*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Fpk 4, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)
