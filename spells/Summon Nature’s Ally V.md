@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Drd 5"
   - "Hun 5"
+  - "Tot 5"
 effect: "One or more creatures, no two of which can be more than 30 ft. apart"
 based-on:
   - "[[fantasy srd 3.5/spells/Summon Nature’s Ally V|Summon Nature’s Ally V (3.5)]]"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text\]*
 
-  - **Level**: Drd 5, Hun 5
+  - **Level**: Drd 5, Hun 5, Tot 5
   - **Effect**: One or more creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Summon Nature’s Ally I|summon nature’s ally I]], except that you can summon one 5th-level creature, 1d3 4th-level creatures of the same kind, or 1d4+1 lower-level creatures of the same kind.

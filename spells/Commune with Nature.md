@@ -8,6 +8,7 @@ level:
   - "Hun 4"
   - "Rgr 4"
   - "Sha 5"
+  - "Tot 5"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Animal 5, Drd 5, Hun 4, Rgr 4, Sha 5
+  - **Level**: Animal 5, Drd 5, Hun 4, Rgr 4, Sha 5, Tot 5
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Personal

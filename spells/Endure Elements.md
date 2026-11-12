@@ -17,6 +17,7 @@ level:
   - "Sum 1"
   - "SumU 1"
   - "Sun 1"
+  - "Tot 1"
 components:
   - "V"
   - "S"
@@ -38,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 1, Blr 1, Clr 1, Drd 1, Fhn 1, Hun 1, Msl 1, Pal 1, Rgr 1, Sha 1, Sor/Wiz 1, Sum 1, SumU 1, Sun 1
+  - **Level**: Alc 1, Blr 1, Clr 1, Drd 1, Fhn 1, Hun 1, Msl 1, Pal 1, Rgr 1, Sha 1, Sor/Wiz 1, Sum 1, SumU 1, Sun 1, Tot 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

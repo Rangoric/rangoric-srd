@@ -6,6 +6,7 @@ level:
   - "Drd 5"
   - "Hun 5"
   - "Sha 6"
+  - "Tot 5"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 5, Hun 5, Sha 6
+  - **Level**: Drd 5, Hun 5, Sha 6, Tot 5
   - **Components**: V, S, DF, XP
   - **Casting Time**: 24 hours
   - **Range**: Touch

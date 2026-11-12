@@ -10,6 +10,7 @@ level:
   - "Inq 0"
   - "Pal 1"
   - "Sha 0"
+  - "Tot 0"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apo 0, Clr 0, Drd 0, Hun 0, Inq 0, Pal 1, Sha 0
+  - **Level**: Apo 0, Clr 0, Drd 0, Hun 0, Inq 0, Pal 1, Sha 0, Tot 0
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

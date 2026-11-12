@@ -8,6 +8,7 @@ level:
   - "Rgr 4"
   - "Sha 5"
   - "Sor/Wiz 5"
+  - "Tot 5"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 5, Hun 4, Rgr 4, Sha 5, Sor/Wiz 5
+  - **Level**: Drd 5, Hun 4, Rgr 4, Sha 5, Sor/Wiz 5, Tot 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -17,6 +17,7 @@ level:
   - "Rgr 3"
   - "Sha 2"
   - "Skd 2"
+  - "Tot 3"
   - "Wit 2"
 based-on:
   - "[[fantasy srd 3.5/spells/Cure Moderate Wounds|Cure Moderate Wounds (3.5)]]"
@@ -30,6 +31,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Alc 2, Brd 2, Clr 2, Drd 3, Fhn 3, Healing 2, Hun 3, Inq 2, Msl 2, Pal 3, Rgr 3, Sha 2, Skd 2, Wit 2
+  - **Level**: Alc 2, Brd 2, Clr 2, Drd 3, Fhn 3, Healing 2, Hun 3, Inq 2, Msl 2, Pal 3, Rgr 3, Sha 2, Skd 2, Tot 3, Wit 2
 
 This spell functions like [[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], except that it cures 2d8 points of damage +1 point per caster level (maximum +10).

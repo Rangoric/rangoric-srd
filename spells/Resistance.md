@@ -14,6 +14,7 @@ level:
   - "Sor/Wiz 0"
   - "Sum 0"
   - "SumU 0"
+  - "Tot 0"
   - "Wit 0"
 components:
   - "V"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Pal 1, Sha 0, Skd 0, Sor/Wiz 0, Sum 0, SumU 0, Wit 0
+  - **Level**: Brd 0, Clr 0, Drd 0, Hun 0, Inq 0, Pal 1, Sha 0, Skd 0, Sor/Wiz 0, Sum 0, SumU 0, Tot 0, Wit 0
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

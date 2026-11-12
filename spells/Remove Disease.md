@@ -10,6 +10,7 @@ level:
   - "Hun 3"
   - "Inq 3"
   - "Rgr 3"
+  - "Tot 3"
   - "Wit 3"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Alc 3, Clr 3, Drd 3, Hun 3, Inq 3, Rgr 3, Wit 3
+  - **Level**: Alc 3, Clr 3, Drd 3, Hun 3, Inq 3, Rgr 3, Tot 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch
