@@ -170,7 +170,7 @@ tags: [rangoric, rangoric/rule]
 | 4–7 | [[rangoric-srd/magic-items/weapon-abilities/Alterable, Major\|Alterable, Major]] | +3 |
 | 8–10 | [[rangoric-srd/magic-items/weapon-abilities/Balm\|Balm]] | +3 |
 | 11–13 | [[rangoric-srd/magic-items/weapon-abilities/Blinking\|Blinking]] | +3 |
-| 14–16 | Blood-linked | +3 |
+| 14–16 | [[rangoric-srd/magic-items/weapon-abilities/Bloodlinked (Weapon Special Ability)\|Blood-linked]] | +3 |
 | 17–20 | [[rangoric-srd/magic-items/armor-abilities/Celestial Bone (Armor Special Ability)\|Bone, Celestial]] | +3 |
 | 21–25 | [[rangoric-srd/magic-items/armor-abilities/Fiendish Bone (Armor Special Ability)\|Bone, Fiendish]] | +3 |
 | 26–29 | [[rangoric-srd/magic-items/weapon-abilities/Boring\|Boring]] | +3 |
@@ -186,7 +186,7 @@ tags: [rangoric, rangoric/rule]
 | 60–63 | [[rangoric-srd/magic-items/weapon-abilities/Pestilence, Greater\|Pestilence, Greater]] | +3 |
 | 64–67 | [[rangoric-srd/magic-items/weapon-abilities/Prismatic\|Prismatic]] | +3 |
 | 68–70 | [[rangoric-srd/magic-items/weapon-abilities/Spell Resistance (Weapon Special Ability)\|Resistance, Spell]] | +3 |
-| 71–74 | Runic | +3 |
+| 71–74 | [[rangoric-srd/magic-items/weapon-abilities/Runic (Weapon Special Ability)\|Runic]] | +3 |
 | 75–78 | [[rangoric-srd/magic-items/weapon-abilities/Soul Burner\|Soul Burner]] | +3 |
 | 79–81 | [[rangoric-srd/magic-items/weapon-abilities/Spawning\|Spawning]] | +3 |
 | 82–85 | [[rangoric-srd/magic-items/weapon-abilities/Speed\|Speed]] | +3 |
@@ -203,7 +203,7 @@ tags: [rangoric, rangoric/rule]
 | 39–45 | [[rangoric-srd/magic-items/weapon-abilities/Equalizing\|Equalizing]] | +4 |
 | 46–52 | [[rangoric-srd/magic-items/armor-abilities/Phoenix (Armor Special Ability)\|Phoenix]] | +4 |
 | 53–58 | [[rangoric-srd/magic-items/weapon-abilities/Ruinous\|Ruinous]] | +4 |
-| 59–63 | Shadow Energy | +4 |
+| 59–63 | [[rangoric-srd/magic-items/weapon-abilities/Shadow Energy\|Shadow Energy]] | +4 |
 | 64–70 | [[rangoric-srd/magic-items/armor-abilities/Solace, Greater (Armor Special Ability)\|Solace, Greater]] | +4 |
 | 71–78 | [[rangoric-srd/magic-items/armor-abilities/Dark Solace, Greater (Armor Special Ability)\|Solace, Greater Dark]] | +4 |
 | 79–85 | [[rangoric-srd/magic-items/weapon-abilities/Soul Burner\|Soul Burner]] | +4 |
@@ -497,7 +497,7 @@ tags: [rangoric, rangoric/rule]
 | d% | Special Ability | Base Price Modifier |
 |---|---|---|
 | 1–3 | [[rangoric-srd/magic-items/armor-abilities/Arcane\|Arcane]] | +3 |
-| 4–5 | Blood-linked | +3 |
+| 4–5 | [[rangoric-srd/magic-items/armor-abilities/Bloodlinked (Armor Special Ability)\|Blood-linked]] | +3 |
 | 6–7 | [[rangoric-srd/magic-items/armor-abilities/Celestial Bone (Armor Special Ability)\|Bone, Celestial]] | +3 |
 | 8–9 | [[rangoric-srd/magic-items/armor-abilities/Fiendish Bone (Armor Special Ability)\|Bone, Fiendish]] | +3 |
 | 10–12 | [[rangoric-srd/magic-items/armor-abilities/Bull’s Armor\|Bull’s Armor (+4)]] | +3 |
@@ -522,7 +522,7 @@ tags: [rangoric, rangoric/rule]
 | 61–64 | [[rangoric-srd/magic-items/armor-abilities/Recall\|Recall]] | +3 |
 | 65–67 | [[rangoric-srd/magic-items/armor-abilities/Spell Resisting, Enhanced\|Resisting, Enhanced Spell]] | +3 |
 | 68–70 | [[rangoric-srd/magic-items/armor-abilities/Retributive\|Retributive]] | +3 |
-| 7`-74 | Runic | +3 |
+| 71–74 | [[rangoric-srd/magic-items/armor-abilities/Runic (Armor Special Ability)\|Runic]] | +3 |
 | 75–77 | [[rangoric-srd/magic-items/armor-abilities/Rusting (Armor Special Ability)\|Rusting]] | +3 |
 | 78–80 | [[rangoric-srd/magic-items/armor-abilities/Spell Resistance (Armor Special Ability)\|Spell Resistance (15)]] | +3 |
 | 81–84 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing, Greater (Armor Special Ability)\|Spell Storing, Greater]] | +3 |

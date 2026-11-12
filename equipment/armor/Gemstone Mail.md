@@ -1,7 +1,7 @@
 ---
 srd-type: "armor"
 section: "Equipment"
-table-name: "Morbius mail"
+table-name: "Gemstone mail"
 category: "heavy"
 cost-gp: 700
 armor-bonus: 6

@@ -7,13 +7,15 @@ based-on:
   - "[[fantasy srd 3.5/skills/Profession|Profession (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-12
 tags: [rangoric, rangoric/skill, background]
 ---
 
 # Profession
 
 Like Craft, Knowledge, and Performance, Profession is actually a number of separate skills. You could have several Profession skills, each with its own ranks, each purchased as a separate skill. While a Craft skill represents ability in creating or making an item, a Profession skill represents an aptitude in a vocation requiring a broader range of less specific knowledge.
+
+Herbalist, apothecary and brewer are among the Profession skills the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy and Herbalism|alchemy and herbalism]] rules use: Profession (herbalist) covers all uses of plants, and Profession (apothecary) their medicinal part.
 
 **Check**: You can practice your trade and make a decent living, earning about half your Profession check result in gold pieces per week of dedicated work. You know how to use the tools of your trade, how to perform the profession’s daily tasks, how to supervise helpers, and how to handle common problems.
 

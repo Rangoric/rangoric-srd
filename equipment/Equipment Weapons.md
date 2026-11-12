@@ -192,7 +192,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Claws of the Weasel\|Claws of the weasel]]          | 5 gp   | 1d3     | 1d4     | x4       | —               | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Iron Comb\|Comb, iron]]                             | 2 gp   | 1d3     | 1d4     | x3       | —               | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Dagger\|Dagger]]                                    | 2 gp   | 1d3     | 1d4     | 19–20/x2 | 10 ft.          | 1 lb.      | Piercing or slashing     |
-| [[rangoric-srd/equipment/weapons/Beak Dagger\|Dagger, carvet]]                       | 40 gp  | 1d3+1   | 1d4+1   | 19-20/x2 | 10 ft.          | 1 lb.      | Piercing                 |
+| [[rangoric-srd/equipment/weapons/Beak Dagger\|Dagger, beak]]                         | 40 gp  | 1d3+1   | 1d4+1   | 19-20/x2 | 10 ft.          | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Leeching Dagger\|Dagger, leeching]]                 | 10 gp  | 1d3     | 1d4     | 19-20/x2 | —               | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Punching Dagger\|Dagger, punching]]                 | 2 gp   | 1d3     | 1d4     | x3       | —               | 1 lb.      | Piercing                 |
 | [[rangoric-srd/equipment/weapons/Ta Mo Dagger\|Dagger, Ta Mo]]                       | 6 gp   | 1d3     | 1d4     | 19-20/x2 | 10 ft.          | 2 lb.      | Piercing                 |
@@ -289,7 +289,7 @@ Each weapon has its own note in the `weapons` folder, linked from the table. The
 | [[rangoric-srd/equipment/weapons/Widowmaker Axe\|Axe, widowmaker]]                     | 35 gp   | 1d10    | 1d12    | 19-20/x3 | —               | 25 lb.     | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Bardiche\|Bardiche]]                                  | 30 gp   | 1d8     | 1d10    | 19-20/x2 | —               | 9 lb.      | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Zhua Claw\|Claw, zhua]]                               | 15 gp   | 1d6     | 1d8     | x2       | —               | 7 lb.      | Slashing                           |
-| [[rangoric-srd/equipment/weapons/Heavy Cleaver\|Cleaver, nightling]]                   | 35 gp   | 1d8     | 1d10    | 18-20/x2 | —               | 20 lb.     | Slashing                           |
+| [[rangoric-srd/equipment/weapons/Heavy Cleaver\|Cleaver, heavy]]                       | 35 gp   | 1d8     | 1d10    | 18-20/x2 | —               | 20 lb.     | Slashing                           |
 | [[rangoric-srd/equipment/weapons/Wolf Teeth Club\|Club, wolf teeth]]                   | 8 gp    | 1d6     | 1d8     | x3       | —               | 5 lb.      | Bludgeoning and piercing           |
 | [[rangoric-srd/equipment/weapons/Monk's Cudgel\|Cudgel, monk’s]]                       | 12 gp   | 2d3     | 2d4     | x2       | —               | 13 lb.     | Bludgeoning                        |
 | [[rangoric-srd/equipment/weapons/Dragon Whisker Fork\|Dragon whisker fork]] (6)        | 20 gp   | 2d3     | 2d4     | x2       | 20 ft.          | 7 lb.      | Piercing                           |

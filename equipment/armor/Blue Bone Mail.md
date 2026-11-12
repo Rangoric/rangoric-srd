@@ -1,7 +1,7 @@
 ---
 srd-type: "armor"
 section: "Equipment"
-table-name: "Volt polar mail"
+table-name: "Blue bone mail"
 category: "heavy"
 cost-gp: 1500
 armor-bonus: 7
