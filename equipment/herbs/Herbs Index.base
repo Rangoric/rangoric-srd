@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/equipment/herbs")
+    - note.srd-type == "herb"
+views:
+  - type: table
+    name: "All herbs"
+    order:
+      - file.name
+      - note.rarity
+      - note.environment
+      - note.harvest
+      - note.cost
+    sort:
+      - property: file.name
+        direction: ASC
