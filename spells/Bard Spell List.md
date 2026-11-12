@@ -88,6 +88,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fool’s Gold\|Fool’s Gold]] (M): | Disguise copper pieces or silver pieces as gold pieces |
 | [[rangoric-srd/spells/Forced Quiet\|Forced Quiet]]: | Target cannot make loud noises. |
 | [[rangoric-srd/spells/Fumbletongue\|Fumbletongue]]: | Target cannot speak intelligently. |
+| [[rangoric-srd/spells/Glimmer Warning\|Glimmer Warning]]: | Caster glows when targeted by a spell. |
 | [[rangoric-srd/spells/Glue Seal\|Glue Seal]]: | Makes one 5-ft.-square or one object sticky. |
 | [[rangoric-srd/spells/Good Luck\|Good Luck]] (F): | Allies gain +1 on attack rolls and Reflex saves. |
 | [[rangoric-srd/spells/Grease\|Grease]]:                                 | Makes 10-ft. square or one object slippery.                                                                 |
@@ -507,6 +508,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/False Vision\|False Vision]] (M):                   | Fools scrying with an illusion.                                                                                         |
 | [[rangoric-srd/spells/Foe to Friend\|Foe to Friend]]: | Redirect an enemy creature's attack. |
 | [[rangoric-srd/spells/Frozen Note\|Frozen Note]]: | Paralyzes creatures listening to your song. |
+| [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]: | Casts a spell readied within a magic mirror. |
 | [[rangoric-srd/spells/Heroism, Greater\|Heroism, Greater]]:               | Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.                                    |
 | [[rangoric-srd/spells/Joyful Rapture\|Joyful Rapture]]: | Negate harmful emotions. |
 | [[rangoric-srd/spells/Ki Shout\|Ki Shout]]: | Target takes 1d6 sonic/level and is stunned. |

@@ -70,6 +70,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Flare Burst\|Flare Burst]]: | As flare, but affects all creatures in 10 ft. |
 | [[rangoric-srd/spells/Frostbite\|Frostbite]]: | Target takes cold damage and is fatigued. |
 | [[rangoric-srd/spells/Gentle Breeze\|Gentle Breeze]]: | Light wind protects one target from clouds, gases, heat, and vapors. |
+| [[rangoric-srd/spells/Glimmer Warning\|Glimmer Warning]]: | Caster glows when targeted by a spell. |
 | [[rangoric-srd/spells/Goodberry\|Goodberry]]:                               | 2d4 berries each cure 1 hp (max 8 hp/24 hours).                            |
 | [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M): | Your recall and ability to process information improve. |
 | [[rangoric-srd/spells/Hidden Spring\|Hidden Spring]] (F): | Discover a temporary spring of fresh, flowing water |
@@ -411,6 +412,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fey Form II\|Fey Form II]] (M): | assume the form of a Tiny or Large fey creature |
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
 | [[rangoric-srd/spells/Fire Snake\|Fire Snake]] (M): | Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level. |
+| [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]: | Casts a spell readied within a magic mirror. |
 | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
 | [[rangoric-srd/spells/Grant\|Grant]]: | Change the range of a spell from Personal to Touch. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |

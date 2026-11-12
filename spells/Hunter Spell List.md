@@ -84,6 +84,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Frostbite\|Frostbite]]: | Target takes cold damage and is fatigued. |
 | [[rangoric-srd/spells/Gentle Breeze\|Gentle Breeze]]: | Light wind protects one target from clouds, gases, heat, and vapors. |
 | [[rangoric-srd/spells/Glide\|Glide]] (M): | You take no falling damage and move 60 ft./round while falling. |
+| [[rangoric-srd/spells/Glimmer Warning\|Glimmer Warning]]: | Caster glows when targeted by a spell. |
 | [[rangoric-srd/spells/Goodberry\|Goodberry]]: | 2d4 berries each cure 1 hp (max 8 hp/24 hours). |
 | [[rangoric-srd/spells/Gravity Bow\|Gravity Bow]]: | Arrows do damage as though one size category bigger. |
 | [[rangoric-srd/spells/Handy Grapnel\|Handy Grapnel]] (M): | Transform a ropelike object into a retracting grapple. |
@@ -502,6 +503,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]: | Grants immunity to all death spells and negative energy effects. |
 | [[rangoric-srd/spells/Fey Form II\|Fey Form II]] (M): | assume the form of a Tiny or Large fey creature |
 | [[rangoric-srd/spells/Fire Snake\|Fire Snake]] (M): | Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level. |
+| [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]: | Casts a spell readied within a magic mirror. |
 | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
 | [[rangoric-srd/spells/Grant\|Grant]]: | Change the range of a spell from Personal to Touch. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
