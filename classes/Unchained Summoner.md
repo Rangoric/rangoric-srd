@@ -252,3 +252,7 @@ Evolutions are grouped by their cost in evolution points. Evolution points canno
 The evolutions are in [[rangoric-srd/class-options/evolutions/Evolutions|Evolutions]], one note each; *Ultimate Magic*’s evolutions are open to the unchained summoner’s eidolon too (2026-11-10). Where the *Pathfinder Unchained* text says the same as the summoner’s, the two classes share the note; where it differs, the unchained summoner’s has its own note:
 
 ![[rangoric-srd/class-options/evolutions/Evolutions#Unchained Summoner Evolutions]]
+
+###### Eidolon Models
+
+The [[rangoric-srd/classes/Summoner#^summoner-eidolon-models|eidolon models]] from *Ultimate Magic*, in the summoner’s note, are examples for the unchained summoner’s eidolon too (2026-11-10). Their evolutions link the summoner’s notes; where an evolution has its own unchained note, his eidolon takes that one, and its subtype gives its base evolutions. ^unchained-summoner-eidolon-models
