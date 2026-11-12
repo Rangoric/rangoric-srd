@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, rage, bestow curse"
 price: "17,500 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/cursed-items/Sword, Berserking|Sword, Berserking (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/cursed-items/Sword, Berserking|Sword, Berserking (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, freedom of movement"
 price: "10,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/cursed-items/Net of Snaring|Net of Snaring (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/cursed-items/Net of Snaring|Net of Snaring (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

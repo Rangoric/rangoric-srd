@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, bestow curse, and limited wish or mi
 price: "1,500 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/cursed-items/–2 Sword, Cursed|–2 Sword, Cursed (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/cursed-items/–2 Sword, Cursed|–2 Sword, Cursed (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -33,7 +33,10 @@ The creator must cast the spells personally, but they can come from outside sour
 
 *Note*: The market price of an advanced golem (a golem with more Hit Dice than the typical golem described in each entry) is increased by 5,000 gp for each additional Hit Die, and increased by an additional 50,000 gp if the golem’s size increases. The XP cost for creating an advanced golem is equal to 1/25 the advanced golem’s market price minus the cost of the special materials required.
 
+  - [[rangoric-srd/monsters/golem/Amber Golem|Amber Golem]]
   - [[rangoric-srd/monsters/golem/Clay Golem|Clay Golem]]
   - [[rangoric-srd/monsters/golem/Flesh Golem|Flesh Golem]]
+  - [[rangoric-srd/monsters/golem/Force Guardian Golem|Force Guardian Golem]]
+  - [[rangoric-srd/monsters/golem/Golem Armor (Construct)|Golem Armor (Construct)]]
   - [[rangoric-srd/monsters/golem/Iron Golem|Iron Golem]]
   - [[rangoric-srd/monsters/golem/Stone Golem|Stone Golem]]

@@ -8,6 +8,7 @@ price: "4,000 gp"
 weight: "3 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/cursed-items/Helm of Opposite Alignment|Helm of Opposite Alignment (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/cursed-items/Helm of Opposite Alignment|Helm of Opposite Alignment (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
