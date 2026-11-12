@@ -23,7 +23,7 @@ components:
 casting-time: "1 standard action"
 range: "Long (400 ft. + 40 ft./level)"
 target: "One creature/level"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 spell-resistance: "Yes"
 book: "Ultimate Intrigue"
 based-on:

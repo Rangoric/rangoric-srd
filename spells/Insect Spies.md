@@ -17,7 +17,7 @@ components:
 casting-time: "1 round"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "Up to one insect spy/4 levels"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 spell-resistance: "No"
 book: "Ultimate Intrigue"
 based-on:

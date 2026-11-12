@@ -16,7 +16,7 @@ components:
 casting-time: "1 standard action"
 range: "Touch"
 area: "10-ft.-radius emanation from touched creature"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "Will negates"
 spell-resistance: "No"
 book: "Occult Adventures"

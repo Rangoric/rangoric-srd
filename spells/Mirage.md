@@ -16,7 +16,7 @@ components:
 casting-time: "10 minutes"
 range: "Long (400 ft. + 40 ft./level)"
 area: "One 40-ft. cube/level (S)"
-duration: "2 \* caster level hour(s)"
+duration: "2 * caster level hour(s)"
 saving-throw: "Will disbelief (see below)"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"

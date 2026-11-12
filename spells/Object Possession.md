@@ -11,7 +11,7 @@ components:
 casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "Unattended Large or smaller object (minimum Tiny)"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 spell-resistance: "No"
 book: "Occult Adventures"
 based-on:

@@ -20,7 +20,7 @@ components:
 casting-time: "1 round"
 range: "Personal"
 target: "You"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 spell-resistance: "No"
 book: "Planar Adventures"
 based-on:

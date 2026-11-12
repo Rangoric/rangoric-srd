@@ -13,7 +13,7 @@ components:
 casting-time: "1 standard action"
 range: "Close (25 ft. + 5 ft./2 levels)"
 effect: "One illusory portal"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "Will negates (see text)"
 spell-resistance: "No"
 book: "Occult Adventures"

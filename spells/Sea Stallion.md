@@ -15,7 +15,7 @@ components:
 casting-time: "1 standard action"
 range: "Touch"
 target: "A creature you are mounted upon"
-duration: "10 \* caster level minute(s)"
+duration: "10 * caster level minute(s)"
 saving-throw: "Will negates"
 spell-resistance: "Yes"
 book: "Ultimate Wilderness"
