@@ -12,6 +12,7 @@ level:
   - "Rgr 1"
   - "Sha 2"
   - "Skd 2"
+  - "Tot 2"
 components:
   - "V"
   - "S"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Drd 2, Hun 1, Rgr 1, Sha 2, Skd 2
+  - **Level**: Brd 2, Drd 2, Hun 1, Rgr 1, Sha 2, Skd 2, Tot 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Rgr 3"
   - "Sum 3"
   - "SumU 3"
+  - "Tot 3"
 range: "Close (25 ft. + 5 ft./2 levels)"
 target: "One living creature"
 duration: "1 hour/level"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 3, Hun 3, Rgr 3, Sum 3, SumU 3
+  - **Level**: Drd 3, Hun 3, Rgr 3, Sum 3, SumU 3, Tot 3
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Target**: One living creature
   - **Duration**: 1 hour/level

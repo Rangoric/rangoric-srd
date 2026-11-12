@@ -7,6 +7,7 @@ level:
   - "Drd 1"
   - "Hun 1"
   - "Rgr 1"
+  - "Tot 1"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Drd 1, Hun 1, Rgr 1
+  - **Level**: Drd 1, Hun 1, Rgr 1, Tot 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

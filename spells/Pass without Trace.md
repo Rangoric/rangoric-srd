@@ -7,6 +7,7 @@ level:
   - "Hun 1"
   - "Rgr 1"
   - "Sha 1"
+  - "Tot 1"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 1, Hun 1, Rgr 1, Sha 1
+  - **Level**: Drd 1, Hun 1, Rgr 1, Sha 1, Tot 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch
