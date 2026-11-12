@@ -6,6 +6,8 @@ based-on:
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Alchemist (Spellcasting Class Options)#Discoveries|Alchemist (Ultimate Magic)]]"
   - "[[path srd 3.5/rules/ultimate-combat/class-archetypes/Alchemist (Class Archetypes)#Discoveries|Alchemist (Ultimate Combat)]]"
   - "[[path srd 3.5/rules/advanced-class-guide/class-options/Alchemist (Class Options)#Discoveries|Alchemist (Advanced Class Guide)]]"
+  - "[[path srd 3.5/races/Goblins#Goblin Discoveries|Goblins (PF1)]]"
+  - "[[path srd 3.5/rules/monster-codex/drow/New Rules (Drow)#Drow Alchemist Discoveries|New Rules (Drow) (PF1)]]"
 status: draft
 change: new
 pi-review: 2026-11-10
@@ -14,7 +16,7 @@ tags: [rangoric, rangoric/overview]
 
 # Discoveries
 
-The [[rangoric-srd/classes/Alchemist|alchemist]]’s discoveries and grand discoveries, one note each. The class note’s [[rangoric-srd/classes/Alchemist#^alchemist-discovery|Discovery]] feature has the rules (when they’re gained, prerequisites, the save DC, and that discoveries marked \* modify bombs and don’t stack); its [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|Grand Discovery]] feature embeds the grand discoveries. Each note has `bomb` (marked \*), `level` (the minimum alchemist level, where the discovery names one) and `book`. These are separate from the wizard’s [[rangoric-srd/class-options/arcane-discoveries/Arcane Discoveries|arcane discoveries]].
+The [[rangoric-srd/classes/Alchemist|alchemist]]’s discoveries and grand discoveries, one note each. The class note’s [[rangoric-srd/classes/Alchemist#^alchemist-discovery|Discovery]] feature has the rules (when they’re gained, prerequisites, the save DC, and that discoveries marked \* modify bombs and don’t stack); its [[rangoric-srd/classes/Alchemist#^alchemist-grand-discovery|Grand Discovery]] feature embeds the grand discoveries. Each note has `bomb` (marked \*), `level` (the minimum alchemist level, where the discovery names one), `race` (for the few only one race’s alchemists can take, in brackets below) and `book`. These are separate from the wizard’s [[rangoric-srd/class-options/arcane-discoveries/Arcane Discoveries|arcane discoveries]].
 
 ## Discoveries
 
@@ -25,6 +27,14 @@ The [[rangoric-srd/classes/Alchemist|alchemist]]’s discoveries and grand disco
 **Ultimate Combat**: [[rangoric-srd/class-options/discoveries/Breath Weapon Bomb (Discovery)|Breath Weapon Bomb]]\*, [[rangoric-srd/class-options/discoveries/Explosive Missile (Discovery)|Explosive Missile]], [[rangoric-srd/class-options/discoveries/Immolation Bomb (Discovery)|Immolation Bomb]]\*, [[rangoric-srd/class-options/discoveries/Nauseating Flesh (Discovery)|Nauseating Flesh]], [[rangoric-srd/class-options/discoveries/Poison Conversion (Discovery)|Poison Conversion]], [[rangoric-srd/class-options/discoveries/Siege Bomb (Discovery)|Siege Bomb]]\*.
 
 **Advanced Class Guide**: [[rangoric-srd/class-options/discoveries/Grand Inspiring Cognatogen (Discovery)|Grand Inspiring Cognatogen]], [[rangoric-srd/class-options/discoveries/Greater Inspiring Cognatogen (Discovery)|Greater Inspiring Cognatogen]], [[rangoric-srd/class-options/discoveries/Inspired Bomb (Discovery)|Inspired Bomb]], [[rangoric-srd/class-options/discoveries/Inspiring Cognatogen (Discovery)|Inspiring Cognatogen]].
+
+**Advanced Race Guide**: [[rangoric-srd/class-options/discoveries/Chameleon (Discovery)|Chameleon]], [[rangoric-srd/class-options/discoveries/Darkness Bomb (Discovery)|Darkness Bomb]]\*, [[rangoric-srd/class-options/discoveries/Deadly Excretions (Discovery)|Deadly Excretions]], [[rangoric-srd/class-options/discoveries/Defoliant Bomb (Discovery)|Defoliant Bomb]], [[rangoric-srd/class-options/discoveries/Fire Brand (Discovery)|Fire Brand]] (goblin), [[rangoric-srd/class-options/discoveries/Glassfoot Bomb (Discovery)|Glassfoot Bomb]]\*, [[rangoric-srd/class-options/discoveries/Greater Plague Bomb (Discovery)|Greater Plague Bomb]], [[rangoric-srd/class-options/discoveries/Lingering Plague (Discovery)|Lingering Plague]], [[rangoric-srd/class-options/discoveries/Rag Doll Mutagen (Discovery)|Rag Doll Mutagen]] (goblin), [[rangoric-srd/class-options/discoveries/Rocket Bomb (Discovery)|Rocket Bomb]] (goblin), [[rangoric-srd/class-options/discoveries/Scrap Bomb (Discovery)|Scrap Bomb]] (goblin), [[rangoric-srd/class-options/discoveries/Underwater Demolition (Discovery)|Underwater Demolition]].
+
+**Monster Codex**: [[rangoric-srd/class-options/discoveries/Blackstar Bomb (Discovery)|Blackstar Bomb]]\* (drow), [[rangoric-srd/class-options/discoveries/Void Bomb (Discovery)|Void Bomb]]\* (drow).
+
+**Ultimate Wilderness**: [[rangoric-srd/class-options/discoveries/Grounding Goo (Discovery)|Grounding Goo]], [[rangoric-srd/class-options/discoveries/Thorny Bomb (Discovery)|Thorny Bomb]].
+
+**Villain Codex**: [[rangoric-srd/class-options/discoveries/Incendiary Charge (Discovery)|Incendiary Charge]], [[rangoric-srd/class-options/discoveries/Penetrating Charge (Discovery)|Penetrating Charge]].
 
 ## Grand discoveries
 
