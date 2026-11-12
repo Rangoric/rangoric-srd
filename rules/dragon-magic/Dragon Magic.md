@@ -60,7 +60,7 @@ While other races have discovered the secrets of dragon magic, they have yet to 
 
 Members of one of these cults may volunteer to undergo the trovebond ritual, but must first study it so they can tailor it for their specific needs. Just as armor must be fitted to the wearer, so must the ritual be adjusted and modified until it suits the caster. This process requires one week of uninterrupted study and a successful [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 25)—if the aspirant fails the [[rangoric-srd/skills/Identifying Magic|Magic skill]] check he understands that the power of the ritual is beyond him at this time. Those who fail may attempt to modify the ritual again, but only after a full month has passed.
 
-If a character attempts to uncover the ritual on his own, the chances of success are much lower than if they have allies in their research. To begin studying dragon magic, an unallied character must first be aware it exists (a magical battle with a dragon that has at least one level of the dragon mage prestige class is sufficient proof) and then spend one month attempting to uncover its secrets. This requires a successful [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 30). A failure in this case indicates that the character is unable to unlock the secrets of dragon magic and either have to learn them from another (such as a secret society mentioned above), or wait until they have gained a level and added at least one rank to their [[rangoric-srd/skills/Identifying Magic|Magic skill]] before attempting the research again.
+If a character attempts to uncover the ritual on his own, the chances of success are much lower than if they have allies in their research. To begin studying dragon magic, an unallied character must first be aware it exists (a magical battle with a dragon that has at least one level of the [[rangoric-srd/prestige-classes/Dragon Mage|dragon mage]] prestige class is sufficient proof) and then spend one month attempting to uncover its secrets. This requires a successful [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 30). A failure in this case indicates that the character is unable to unlock the secrets of dragon magic and either have to learn them from another (such as a secret society mentioned above), or wait until they have gained a level and added at least one rank to their [[rangoric-srd/skills/Identifying Magic|Magic skill]] before attempting the research again.
 
 Once the ritual is understood, it can be performed at any time. For dragons, the ritual always succeeds in bonding them to the initial item of their trove ([[rangoric-srd/rules/dragon-magic/Dragon Magic#The Trove|see the trove]]). The ritual requires three days to complete, beginning at sunrise on the first day and ending at sunset on the third. During this time, the dragon remains isolated and consumes a variety of strange elixirs and pastes created during the research period. If interrupted during this time, the dragon may voluntarily end the ritual and deal with intruders, if it so desires. Halting the ritual, however, forces the dragon to begin the process again when it chooses to complete the trovebond. A dragon encountered during this time is very, very angry.
 
@@ -90,7 +90,7 @@ This category covers any piece of treasure with a magical enhancement or ability
 
 Each magical item has a unique energy defined, in part, by the purpose the item was created to serve. Magical armor, for example, is infused with energies devoted to protection and defense, while a *wand of fireballs* is clearly charged with destructive forces. These energy ‘signatures’ can actually change the resonance of the energy found in a dragon mage’s trove when the value of the objects that generate them reach certain, critical points.
 
-There are four main aspects to which a dragon mage’s trove can be attuned, each of which is represented by an aspect of a dragon’s nature: talons, scales, wings, and breath (each detailed in the dragon mage prestige class). When a trove is attuned to one of these aspects, the spells cast by the dragon mage that correspond to that attunement are enhanced in power, while those outside the energy’s area of influence are weakened. This effect forces dragon mages to be careful when adding magical items to their trove, to avoid losing an attunement they are comfortable with, or gain an attunement they do not want.
+There are four main aspects to which a dragon mage’s trove can be attuned, each of which is represented by an aspect of a dragon’s nature: [[rangoric-srd/prestige-classes/Dragon Mage#Talons|talons]], [[rangoric-srd/prestige-classes/Dragon Mage#Scales|scales]], [[rangoric-srd/prestige-classes/Dragon Mage#Wings|wings]], and [[rangoric-srd/prestige-classes/Dragon Mage#Breath|breath]] (each detailed in the [[rangoric-srd/prestige-classes/Dragon Mage|dragon mage]] prestige class). When a trove is attuned to one of these aspects, the spells cast by the dragon mage that correspond to that attunement are enhanced in power, while those outside the energy’s area of influence are weakened. This effect forces dragon mages to be careful when adding magical items to their trove, to avoid losing an attunement they are comfortable with, or gain an attunement they do not want.
 
 ### Adding to the Trove
 
@@ -102,7 +102,7 @@ Once the item has been attuned, it is ready to be added to the trove. The new it
 
 It is crucial that the player keep an accurate account of everything within his trove. Unless otherwise noted, any ability that reduces the value of the trove allows the player to pick which items from the trove are destroyed. When an item is removed from the trove by any effect that reduces the trove’s value, the item is completely destroyed and reduced to raw energy that either pours down the trovebond to be used by the dragon mage, or is released back into the environment, as noted in the ability description.
 
-If, at any time, the value of a trove is reduced below the minimum required for the dragon mage’s current level, the dragon mage immediately loses any abilities for that level until such a time as the trove’s value is again raised above the required minimum.
+If, at any time, the value of a trove is reduced below the minimum required for the [[rangoric-srd/prestige-classes/Dragon Mage|dragon mage]]’s current level, the dragon mage immediately loses any abilities for that level until such a time as the trove’s value is again raised above the required minimum.
 
 ### Attuning the Trove to a Different Aspect
 
@@ -110,7 +110,7 @@ Once an item is added to the trove, it is no longer truly an independent object,
 
 An alternative method is to ‘burn’ up the trove’s value by using dragon mage abilities, though this results in a corresponding decrease in the dragon mage’s abilities until the trove is replenished.
 
-A dragon mage spends the trove’s value on healing sacrifice and siphon magic, as the tables in the dragon mage prestige class show.
+A dragon mage spends the trove’s value on [[rangoric-srd/prestige-classes/Dragon Mage#^dragon-mage-healing-sacrifice|healing sacrifice]] and [[rangoric-srd/prestige-classes/Dragon Mage#^dragon-mage-siphon-magic|siphon magic]], as the [[rangoric-srd/prestige-classes/Dragon Mage#Trove Tables|tables]] in the dragon mage prestige class show.
 
 ## Ways of the Dragon
 
@@ -162,5 +162,5 @@ Towers are a favorite location for wizardly dragon mage troves. Diabolically con
 
 ## What belongs to dragon magic
 
-- **Prestige class**: the dragon mage, whose powers depend on the aspect the trove is attuned to.
+- **Prestige class**: the [[rangoric-srd/prestige-classes/Dragon Mage|Dragon Mage]], whose powers depend on the aspect the trove is attuned to.
 - **Spell**: *[[rangoric-srd/spells/Trove Sacrifice|trove sacrifice]]*, which spends the trove to absorb damage.
