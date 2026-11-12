@@ -58,6 +58,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Decompose Corpse\|Decompose Corpse]] (M): | Turn a corpse into a clean skeleton. |
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
 | [[rangoric-srd/spells/Detect Chaos\|Detect Chaos]]/[[rangoric-srd/spells/Detect Evil\|Evil]]/[[rangoric-srd/spells/Detect Good\|Good]]/[[rangoric-srd/spells/Detect Law\|Law]]: | Reveals creatures, spells, or objects of selected alignment.                             |
+| [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Detect Undead\|Detect Undead]]:                                                                                                                                 | Reveals undead within 60 ft.                                                             |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
@@ -255,6 +256,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Disrupt Silence\|Disrupt Silence]] (M): | Disrupt all silence effects in an area. |
 | [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M): | Enables you to speak to elementals and some creatures. |
 | [[rangoric-srd/spells/Enter Image\|Enter Image]] (M): | Transfers your consciousness to an object bearing your likeness. |
+| [[rangoric-srd/spells/Fey Mask\|Fey Mask]]: | As invisibility, but you choose who can see the subjects. |
+| [[rangoric-srd/spells/Fitful Sleep\|Fitful Sleep]] (M): | Curse keeps the subject from resting and preparing spells. |
 | [[rangoric-srd/spells/Glyph of Warding\|Glyph of Warding]] (M):                  | Inscription harms those who pass it.                                                                                                                                          |
 | [[rangoric-srd/spells/Guiding Star\|Guiding Star]] (M): | Know approximate distance from where you cast this spell. |
 | [[rangoric-srd/spells/Helping Hand\|Helping Hand]]:                              | Ghostly hand leads subject to you.                                                                                                                                            |
@@ -264,6 +267,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Iron Stake\|Iron Stake]] (M): | Hurl a spike of cold iron at a foe |
 | [[rangoric-srd/spells/Ki Leech\|Ki Leech]]: | Add to your ki pool when you critically hit. |
 | [[rangoric-srd/spells/Locate Object\|Locate Object]]:                            | Senses direction toward object (specific or type).                                                                                                                            |
+| [[rangoric-srd/spells/Luck of the Fey\|Luck of the Fey]] (M): | Forces a reroll of one die roll. |
 | [[rangoric-srd/spells/Spells M to O\|Magic Circle against Chaos/Evil/Good/Law]]: | As protection spells, but 10-ft. radius and 10 min./level.                                                                                                                    |
 | [[rangoric-srd/spells/Magic Vestment\|Magic Vestment]]:                          | Armor or shield gains +1 enhancement per four levels.                                                                                                                         |
 | [[rangoric-srd/spells/Mantle of Calm\|Mantle of Calm]]: | Neutralize the rage effects of those who have attacked you. |
@@ -283,6 +287,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sacred Bond\|Sacred Bond]] (F): | Cast touch healing spells from a distance. |
 | [[rangoric-srd/spells/Sands of Time\|Sands of Time]]: | Target temporarily ages. |
 | [[rangoric-srd/spells/Searing Light\|Searing Light]]:                            | Ray deals 1d8/two levels damage, more against undead.                                                                                                                         |
+| [[rangoric-srd/spells/Second Sight\|Second Sight]] (M): | See invisible creatures, fey-masked ones and those stepped sideways. |
 | [[rangoric-srd/spells/Severed Fate\|Severed Fate]]: | You curse the target causing them to be shaken and preventing them from using hero points. |
 | [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Speak with Dead\|Speak with Dead]]:                        | Corpse answers one question/two levels.                                                                                                                                       |
@@ -307,6 +312,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Absolution\|Absolution]] (M): | Removes enchantments and forgives actions taken under their effects. |
 | [[rangoric-srd/spells/Air Walk\|Air Walk]]:                                 | Subject treads on air as if solid (climb at 45-degree angle).                                                         |
 | [[rangoric-srd/spells/Anti-Incorporeal Shell\|Anti-Incorporeal Shell]]: | Incorporeal creatures stay 10 ft. away from you. |
+| [[rangoric-srd/spells/Antilife Filter\|Antilife Filter]]: | Mobile shell hedges out one creature type. |
 | [[rangoric-srd/spells/Ardor’s Onslaught\|Ardor’s Onslaught]]: | The power of conviction assaults neutral foes |
 | [[rangoric-srd/spells/Aura of Doom\|Aura of Doom]] (M): | Creatures in your aura become shaken. |
 | [[rangoric-srd/spells/Battle Trance\|Battle Trance]]: | You are transformed into a single-minded force of destruction. |
@@ -368,6 +374,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spit Venom\|Spit Venom]]: | Spit blinding black adder venom. |
 | [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]:               | Calls extraplanar creature to fight for you.                                                                          |
 | [[rangoric-srd/spells/Summoner Conduit\|Summoner Conduit]] (M): | The target takes damage whenever its summoned creature does. |
+| [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Symbol of Revelation\|Symbol of Revelation]] (M): | Triggered symbol reveals illusions. |
 | [[rangoric-srd/spells/Symbol of Slowing\|Symbol of Slowing]] (M): | Triggered rune slows creatures. |
 | [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
@@ -525,6 +532,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Summon Monster VII\|Summon Monster VII]]:                     | Calls extraplanar creature to fight for you.                                                                                                                                                      |
 | [[rangoric-srd/spells/Symbol of Stunning\|Symbol of Stunning]] (M):                 | Triggered rune stuns nearby creatures.                                                                                                                                                            |
 | [[rangoric-srd/spells/Symbol of Weakness\|Symbol of Weakness]] (M):                 | Triggered rune weakens nearby creatures.                                                                                                                                                          |
+| [[rangoric-srd/spells/Unfurl the Mortal Coil\|Unfurl the Mortal Coil]]: | Touch drains 2d6 Con, then 2d6 more a minute later. |
 | [[rangoric-srd/spells/Waves of Ecstasy\|Waves of Ecstasy]]: | Pleasure stuns and staggers creatures. |
 | [[rangoric-srd/spells/Word of Chaos\|Word of Chaos]]:                               | Kills, confuses, stuns, or deafens nonchaotic subjects.                                                                                                                                           |
 
