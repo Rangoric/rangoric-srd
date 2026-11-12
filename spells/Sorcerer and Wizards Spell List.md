@@ -861,7 +861,8 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Mind Fog\|Mind Fog]]:                             | Subjects in fog get –10 to Wis and Will checks.                                                        |
 |               | [[rangoric-srd/spells/Smug Narcissism\|Smug Narcissism]] (M): | Target is distracted by its sense of self. |
 |               | [[rangoric-srd/spells/Symbol of Sleep\|Symbol of Sleep]] (M):           | Triggered rune puts nearby creatures into catatonic slumber.                                           |
-| Evocation     | [[rangoric-srd/spells/Cone of Cold\|Cone of Cold]]:                     | 1d6/level cold damage.                                                                                 |
+| Evocation     | [[rangoric-srd/spells/Bloodfire\|Bloodfire]] (M): | You spray your own flaming blood at a target. |
+|               | [[rangoric-srd/spells/Cone of Cold\|Cone of Cold]]:                     | 1d6/level cold damage.                                                                                 |
 |               | [[rangoric-srd/spells/Energy Bubbles\|Energy Bubbles]] (M): | Cone of bubbles bursts for 1d4/level energy damage (max 15d4). |
 |               | [[rangoric-srd/spells/Fire Snake\|Fire Snake]] (M): | Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level. |
 |               | [[rangoric-srd/spells/Greater Dweomerclaws\|Greater Dweomerclaws]] (F): | A muchstrengthened *dweomerclaws*. |
