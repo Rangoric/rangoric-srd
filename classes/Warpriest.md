@@ -123,9 +123,13 @@ Blessings that affect weapons and armor benefit anyone who wields or wears those
 
 ![[rangoric-srd/class-options/blessings/Earth (Blessing)]]
 
+![[rangoric-srd/class-options/blessings/Earthquake (Blessing)]]
+
 ![[rangoric-srd/class-options/blessings/Evil (Blessing)]]
 
 ![[rangoric-srd/class-options/blessings/Fire (Blessing)]]
+
+![[rangoric-srd/class-options/blessings/Flood (Blessing)]]
 
 ![[rangoric-srd/class-options/blessings/Glory (Blessing)]]
 
@@ -159,6 +163,8 @@ Blessings that affect weapons and armor benefit anyone who wields or wears those
 
 ![[rangoric-srd/class-options/blessings/Sun (Blessing)]]
 
+![[rangoric-srd/class-options/blessings/Tornado (Blessing)]]
+
 ![[rangoric-srd/class-options/blessings/Travel (Blessing)]]
 
 ![[rangoric-srd/class-options/blessings/Trickery (Blessing)]]
@@ -168,6 +174,8 @@ Blessings that affect weapons and armor benefit anyone who wields or wears those
 ![[rangoric-srd/class-options/blessings/Water (Blessing)]]
 
 ![[rangoric-srd/class-options/blessings/Weather (Blessing)]]
+
+![[rangoric-srd/class-options/blessings/Wildfire (Blessing)]]
 
 **Focus Weapon**: At 1st level, a warpriest receives [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] as a bonus feat (he can choose any weapon, not just his deity’s favored weapon). ^warpriest-focus-weapon
 
