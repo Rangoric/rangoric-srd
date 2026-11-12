@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 Prestige classes offer a new form of multiclassing. Unlike the basic classes, characters must meet Requirements before they can take their first level of a prestige class. The rules for level advancement apply to this system, meaning the first step of advancement is always choosing a class. If a character does not meet the Requirements for a prestige class before that first step, that character cannot take the first level of that prestige class.  
 
-There are 39 prestige classes here. They are:
+There are 40 prestige classes here. They are:
 
 1.  [[rangoric-srd/prestige-classes/Arcane Archer|Arcane Archer]]
 2.  [[rangoric-srd/prestige-classes/Arcane Trickster|Arcane Trickster]]
@@ -41,19 +41,20 @@ There are 39 prestige classes here. They are:
 24. [[rangoric-srd/prestige-classes/Knight of the Fey|Knight of the Fey]]
 25. [[rangoric-srd/prestige-classes/Loremaster|Loremaster]]
 26. [[rangoric-srd/prestige-classes/Mage of the Circle|Mage of the Circle]]
-27. [[rangoric-srd/prestige-classes/Master Spy|Master Spy]]
-28. [[rangoric-srd/prestige-classes/Mortal Slayer|Mortal Slayer]]
-29. [[rangoric-srd/prestige-classes/Mystic Theurge|Mystic Theurge]]
-30. [[rangoric-srd/prestige-classes/Nature Warden|Nature Warden]]
-31. [[rangoric-srd/prestige-classes/Nomad Shaman|Nomad Shaman]]
-32. [[rangoric-srd/prestige-classes/Rage Prophet|Rage Prophet]]
-33. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
-34. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
-35. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
-36. [[rangoric-srd/prestige-classes/Star Magus|Star Magus]]
-37. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
-38. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
-39. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
+27. [[rangoric-srd/prestige-classes/Master Chymist|Master Chymist]]
+28. [[rangoric-srd/prestige-classes/Master Spy|Master Spy]]
+29. [[rangoric-srd/prestige-classes/Mortal Slayer|Mortal Slayer]]
+30. [[rangoric-srd/prestige-classes/Mystic Theurge|Mystic Theurge]]
+31. [[rangoric-srd/prestige-classes/Nature Warden|Nature Warden]]
+32. [[rangoric-srd/prestige-classes/Nomad Shaman|Nomad Shaman]]
+33. [[rangoric-srd/prestige-classes/Rage Prophet|Rage Prophet]]
+34. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
+35. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
+36. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
+37. [[rangoric-srd/prestige-classes/Star Magus|Star Magus]]
+38. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
+39. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
+40. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
 
 ###### Definitions of Terms
 
