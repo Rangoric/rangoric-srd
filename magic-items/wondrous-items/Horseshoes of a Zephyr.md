@@ -9,6 +9,7 @@ price: "6,000 gp"
 weight: "4 lb. (for four)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Horseshoes of a Zephyr|Horseshoes of a Zephyr (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Horseshoes of a Zephyr|Horseshoes of a Zephyr (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

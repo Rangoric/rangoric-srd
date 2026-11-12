@@ -9,6 +9,7 @@ price: "16,000 gp"
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Scabbard of Keen Edges|Scabbard of Keen Edges (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Scabbard of Keen Edges|Scabbard of Keen Edges (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

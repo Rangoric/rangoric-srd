@@ -10,6 +10,7 @@ prerequisites: "Forge Ring, shield of faith, caster must be of a level at least 
 price: "2,000 gp (ring +1)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/rings/Ring of Protection|Ring of Protection (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Ring of Protection|Ring of Protection (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
