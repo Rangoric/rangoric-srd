@@ -16,4 +16,4 @@ Your well-placed support can aid friends and allies in maintaining their most pr
 
 **Prerequisites**: Cha 13, [[rangoric-srd/skills/Deception|Deception]] 3 ranks, [[rangoric-srd/skills/Sense Motive|Sense Motive]] 1 rank.
 
-**Benefit**: As a standard action, you can make a Deception check to aid another’s [[rangoric-srd/skills/Imitation|Imitation]] check to keep up a disguise.
+**Benefit**: As a standard action, you can make a Deception check to aid another’s [[rangoric-srd/skills/Imitation|Imitation]] check to keep up a disguise. In addition, when making such a check to aid a [[rangoric-srd/classes/Vigilante|vigilante]] ally in keeping up that ally’s [[rangoric-srd/classes/Vigilante#^vigilante-dual-identity|social identity]], a successful check grants that ally a +5 bonus instead of the normal +2.
