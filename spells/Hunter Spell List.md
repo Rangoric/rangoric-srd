@@ -67,6 +67,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants. |
+| [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]: | Reveals natural or primitive traps. |
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
@@ -101,6 +102,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Linebreaker\|Linebreaker]]: | You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to bull rush or overrun. |
 | [[rangoric-srd/spells/Longshot\|Longshot]] (M): | Grants a +10-foot bonus to the range increment for any ranged weapon fired. |
 | [[rangoric-srd/spells/Longstrider\|Longstrider]]: | Your speed increases by 10 ft. |
+| [[rangoric-srd/spells/Longvision\|Longvision]] (M): | Subject sees ten times as far, but fights at −4. |
 | [[rangoric-srd/spells/Magic Fang\|Magic Fang]]: | One natural weapon of subject creature gets +1 on attack and damage rolls. |
 | [[rangoric-srd/spells/Magic Stone\|Magic Stone]]: | Three stones gain +1 on attack rolls, deal 1d6+1 damage. |
 | [[rangoric-srd/spells/Marid’s Mastery\|Marid’s Mastery]]: | The target gains a +1 bonus on attack and damage rolls if it and its opponent are touching water. |
@@ -190,6 +192,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Create Treasure Map\|Create Treasure Map]] (M): | Creates treasure map out of a creature's corpse. |
 | [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
 | [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]: | As detect magic, but learn more information. |
+| [[rangoric-srd/spells/Disrobe\|Disrobe]]: | Strips a creature of its clothes and armor. |
 | [[rangoric-srd/spells/Dousing Rain\|Dousing Rain]] (M): | Magical rain dampens fire but amplfies electricity |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
 | [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
@@ -322,6 +325,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Enshroud Thoughts\|Enshroud Thoughts]]: | Ward yourself against thought detection and memory alteration. |
 | [[rangoric-srd/spells/Feather Step, Mass\|Feather Step, Mass]]: | As feather step, but affects many targets rather than one. |
 | [[rangoric-srd/spells/Fey Form I\|Fey Form I]] (M): | Assume the form of a Small or Medium fey creature |
+| [[rangoric-srd/spells/Fey Mask\|Fey Mask]]: | As invisibility, but you choose who can see the subjects. |
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
 | [[rangoric-srd/spells/Fins to Feet\|Fins to Feet]]: | You transform the target's fins, flippers, or tail into legs and feet, allowing it to walk on land. |
 | [[rangoric-srd/spells/Flashfire\|Flashfire]]: | Cause smoky fires to spring up to burn foes and set them alight |
@@ -336,6 +340,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Life Bubble\|Life Bubble]] (M): | Protects creatures from sustained environmental effects. |
 | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M): | Walk across water on moving lily pads. |
 | [[rangoric-srd/spells/Longstrider, Greater\|Longstrider, Greater]] (M): | As longstrider, plus the speeds of other movement modes increase. |
+| [[rangoric-srd/spells/Luck of the Fey\|Luck of the Fey]] (M): | Forces a reroll of one die roll. |
 | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
 | [[rangoric-srd/spells/Magic Fang, Greater\|Magic Fang, Greater]]: | One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5). |
 | [[rangoric-srd/spells/Meld into Stone\|Meld into Stone]]: | You and your gear merge with stone. |
@@ -361,6 +366,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Sand Table\|Sand Table]] (M): | Create a model of the surrounding land and the creatures nearby |
 | [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): | As scale spikes, except with a higher enhancement bonus. |
+| [[rangoric-srd/spells/Second Sight\|Second Sight]] (M): | See invisible creatures, fey-masked ones and those stepped sideways. |
 | [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Shifting Sand\|Shifting Sand]] (M): | Creates difficult terrain and erases tracks, can carry along some creatures and objects. |
 | [[rangoric-srd/spells/Signs of the Land\|Signs of the Land]]: | Learn up to three details about the surrounding territory |
@@ -398,6 +404,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Aggressive Thundercloud, Greater\|Aggressive Thundercloud, Greater]] (M): | Flying storm cloud deals 6d6 electricity damage. |
 | [[rangoric-srd/spells/Air Walk\|Air Walk]]: | Subject treads on air as if solid (climb at 45-degree angle). |
 | [[rangoric-srd/spells/Animal Growth\|Animal Growth]]: | One animal/two levels doubles in size. |
+| [[rangoric-srd/spells/Antilife Filter\|Antilife Filter]]: | Mobile shell hedges out one creature type. |
 | [[rangoric-srd/spells/Antiplant Shell\|Antiplant Shell]]: | Keeps animated plants at bay. |
 | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]]: | Tree branches attack opponents. |
 | [[rangoric-srd/spells/Aspect of the Wolf\|Aspect of the Wolf]]: | Subject gains +4 Str and Dex, and +2 bonus on trip attacks. |
@@ -450,6 +457,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]: | Creatures in area take 1d8 damage, may be slowed. |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight. |
+| [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Terrain Bond\|Terrain Bond]] (M): | Treat the terrain you are in as a favored terrain for the spell's duration. |
 | [[rangoric-srd/spells/Thorn Body\|Thorn Body]]: | Your attackers take 1d6 +1 damage/level. |
 | [[rangoric-srd/spells/Touch of Slime\|Touch of Slime]] (M): | Touch infests a target with green slime. |

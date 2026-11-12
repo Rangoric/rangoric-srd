@@ -39,6 +39,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants.                                        |
+| [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
 | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                       | Detects poison in one creature or object.                                  |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]:     | Reveals natural or primitive traps.                                        |
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
@@ -66,6 +67,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Linebreaker\|Linebreaker]]: | You gain a +20 foot bonus to your base speed when charging and a +2 bonus on combat maneuver checks made to bull rush or overrun. |
 | [[rangoric-srd/spells/Longshot\|Longshot]] (M): | Grants a +10-foot bonus to the range increment for any ranged weapon fired. |
 | [[rangoric-srd/spells/Longstrider\|Longstrider]]:                           | Increases your speed.                                                      |
+| [[rangoric-srd/spells/Longvision\|Longvision]] (M): | Subject sees ten times as far, but fights at −4. |
 | [[rangoric-srd/spells/Magic Fang\|Magic Fang]]:                             | One natural weapon of subject creature gets +1 on attack and damage rolls. |
 | [[rangoric-srd/spells/Marid’s Mastery\|Marid’s Mastery]]: | The target gains a +1 bonus on attack and damage rolls if it and its opponent are touching water. |
 | [[rangoric-srd/spells/Nature’s Paths\|Nature’s Paths]] (M): | Learn the best way to travel overland |
@@ -121,6 +123,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Create Treasure Map\|Create Treasure Map]] (M): | Creates treasure map out of a creature's corpse. |
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:             | Cures 1d8 damage +1/level (max +5).                       |
 | [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
+| [[rangoric-srd/spells/Disrobe\|Disrobe]]: | Strips a creature of its clothes and armor. |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
 | [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
 | [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
@@ -265,9 +268,11 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Overwhelming Poison\|Overwhelming Poison]] (M): | Make a poison more difficult to resist. |
 | [[rangoric-srd/spells/Raise Animal Companion\|Raise Animal Companion]] (M): | As raise dead, but on an animal. |
 | [[rangoric-srd/spells/Sea Stallion\|Sea Stallion]]: | You and your mount adapt to an aquatic environment |
+| [[rangoric-srd/spells/Second Sight\|Second Sight]] (M): | See invisible creatures, fey-masked ones and those stepped sideways. |
 | [[rangoric-srd/spells/Sickening Strikes\|Sickening Strikes]]: | You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls animal to fight for you.              |
+| [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Terrain Bond\|Terrain Bond]] (M): | Treat the terrain you are in as a favored terrain for the spell's duration. |
 | [[rangoric-srd/spells/Tree Stride\|Tree Stride]]:                         | Step from one tree to another far away.     |
 | [[rangoric-srd/spells/Unerring Tracker\|Unerring Tracker]]: | Follow an entire trail unerringly. |

@@ -51,6 +51,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Anticipate Peril\|Anticipate Peril]]: | Target gains a bonus on one initiative check. |
 | [[rangoric-srd/spells/Aphasia\|Aphasia]]: | Prevent a target from understanding language. |
 | [[rangoric-srd/spells/Auditory Hallucination\|Auditory Hallucination]]: | Create a phantasm with auditory effects. |
+| [[rangoric-srd/spells/Bad Luck\|Bad Luck]] (F): | Enemies take −1 on attack rolls and Reflex saves. |
 | [[rangoric-srd/spells/Beguiling Gift\|Beguiling Gift]] (F): | Subject immediately accepts an offered item and uses it. |
 | [[rangoric-srd/spells/Blurred Movement\|Blurred Movement]]: | As blur, but only while you are moving. |
 | [[rangoric-srd/spells/Borrow Skill\|Borrow Skill]]: | Make a skill check using another's ranks. |
@@ -68,6 +69,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Deja Vu\|Deja Vu]]: | Make a creature repeat its actions. |
 | [[rangoric-srd/spells/Delusional Pride\|Delusional Pride]]: | Target is penalized on attacks and checks but gains bonus against charms and compulsions. |
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
+| [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
 | [[rangoric-srd/spells/Detect Secret Doors\|Detect Secret Doors]]:       | Reveals hidden doors within 60 ft.                                                                          |
 | [[rangoric-srd/spells/Discern Next of Kin\|Discern Next of Kin]] (F): | Read the target's mind to learn about its family. |
 | [[rangoric-srd/spells/Disguise Self\|Disguise Self]]:                   | Changes your appearance.                                                                                    |
@@ -77,6 +79,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Erase\|Erase]]:                                   | Mundane or magical writing vanishes.                                                                        |
 | [[rangoric-srd/spells/Expeditious Retreat\|Expeditious Retreat]]:       | Your speed increases by 30 ft.                                                                              |
 | [[rangoric-srd/spells/Fabricate Disguise\|Fabricate Disguise]]: | Create a disguise in an instant. |
+| [[rangoric-srd/spells/Faerie’s Gold\|Faerie’s Gold]] (M): | Turns 144 cu. in./level of material into seeming gold. |
 | [[rangoric-srd/spells/Feather Fall\|Feather Fall]]:                     | Objects or creatures fall slowly.                                                                           |
 | [[rangoric-srd/spells/Feather Step\|Feather Step]]: | Subject ignores adverse movement effects in difficult terrain. |
 | [[rangoric-srd/spells/Flare Burst\|Flare Burst]]: | As flare, but affects all creatures in 10 ft. |
@@ -84,6 +87,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Forced Quiet\|Forced Quiet]]: | Target cannot make loud noises. |
 | [[rangoric-srd/spells/Fumbletongue\|Fumbletongue]]: | Target cannot speak intelligently. |
 | [[rangoric-srd/spells/Glue Seal\|Glue Seal]]: | Makes one 5-ft.-square or one object sticky. |
+| [[rangoric-srd/spells/Good Luck\|Good Luck]] (F): | Allies gain +1 on attack rolls and Reflex saves. |
 | [[rangoric-srd/spells/Grease\|Grease]]:                                 | Makes 10-ft. square or one object slippery.                                                                 |
 | [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M): | Your recall and ability to process information improve. |
 | [[rangoric-srd/spells/Hide Bruises\|Hide Bruises]] (M): | Disguise a creature's injuries, making them more difficult to heal |
@@ -132,6 +136,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Timely Inspiration\|Timely Inspiration]]: | Gives bonus on failed check/attack. |
 | [[rangoric-srd/spells/Toilsome Chant\|Toilsome Chant]]: | This spell can be cast as part of the action to begin an inspire competence bardic performance. |
 | [[rangoric-srd/spells/Touch of Gracelessness\|Touch of Gracelessness]]: | Subject loses 1d6 + 1 Dex/two levels and is prone to falling down. |
+| [[rangoric-srd/spells/Trinket\|Trinket]] (M): | Small items seem valuable enough to trade up to 50 gp. |
 | [[rangoric-srd/spells/Undetectable Alignment\|Undetectable Alignment]]: | Conceals alignment for 24 hours.                                                                            |
 | [[rangoric-srd/spells/Unnatural Lust\|Unnatural Lust]]: | Target is compelled to kiss or caress another. |
 | [[rangoric-srd/spells/Unprepared Combatant\|Unprepared Combatant]]: | Target takes -4 on initiative and Reflex saves. |
@@ -196,6 +201,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Diminish Resistance\|Diminish Resistance]] (M): | Weaken a creature's resistance to one type of energy |
 | [[rangoric-srd/spells/Discovery Torch\|Discovery Torch]]: | Object touched emanates bright light, granting Perception and Sense Motive bonuses. |
 | [[rangoric-srd/spells/Disguise Other\|Disguise Other]]: | As disguise self, but affects you or another. |
+| [[rangoric-srd/spells/Disrobe\|Disrobe]]: | Strips a creature of its clothes and armor. |
 | [[rangoric-srd/spells/Disrupt Silence\|Disrupt Silence]] (M): | Disrupt all silence effects in an area. |
 | [[rangoric-srd/spells/Distracting Cacophony\|Distracting Cacophony]]: | Noise makes it difficult to cast. |
 | [[rangoric-srd/spells/Distressing Tone\|Distressing Tone]]: | Sound sickens 1d4 creatures. |
@@ -210,6 +216,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/False Belief\|False Belief]] (M): | Temporarily plant a false memory. |
 | [[rangoric-srd/spells/Fleshy Facade\|Fleshy Facade]]: |  |
 | [[rangoric-srd/spells/Focused Scrutiny\|Focused Scrutiny]]: | Gain skill bonuses when interacting with the target. |
+| [[rangoric-srd/spells/Fool’s Gold (Faeries)\|Fool’s Gold (Faeries)]] (M): | Turns copper, brass or bronze into seeming gold. |
 | [[rangoric-srd/spells/Fox’s Cunning\|Fox’s Cunning]]:               | Subject gains +4 to Int for 1 min./level.                                                                                                                               |
 | [[rangoric-srd/spells/Gallant Inspiration\|Gallant Inspiration]]: | +2d4 bonus on failed attack roll or skill check. |
 | [[rangoric-srd/spells/Ghostbane Dirge\|Ghostbane Dirge]] (M): | Incorporeal creature takes half damage from nonmagical weapons. |
@@ -256,6 +263,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Rotgut\|Rotgut]] (M): | Turn water into cheap alcohol |
 | [[rangoric-srd/spells/Rumormonger\|Rumormonger]]: | Follow a rumor to see where it spreads. |
 | [[rangoric-srd/spells/Scare\|Scare]]:                               | Panics creatures of less than 6 HD.                                                                                                                                     |
+| [[rangoric-srd/spells/Second Sight\|Second Sight]] (M): | See invisible creatures, fey-masked ones and those stepped sideways. |
 | [[rangoric-srd/spells/Shadow Anchor\|Shadow Anchor]]: | The target's shadow becomes a flexible tether to its current square. |
 | [[rangoric-srd/spells/Shadow Claws\|Shadow Claws]]: | Claws of shadow deal slashing damage and Strength damage |
 | [[rangoric-srd/spells/Shamefully Overdressed\|Shamefully Overdressed]]: | Force target to remove equipment. |
@@ -319,6 +327,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fear\|Fear]]:                               | Subjects within cone flee for 1 round/level.                                                                       |
 | [[rangoric-srd/spells/Fearsome Duplicate\|Fearsome Duplicate]]: | You create a larger and far more menacing version of yourself that you can send forth, manipulate like a puppet, and use to interact with others. |
 | [[rangoric-srd/spells/Feather Step, Mass\|Feather Step, Mass]]: | As feather step, but affects many targets rather than one. |
+| [[rangoric-srd/spells/Fey Mask\|Fey Mask]]: | As invisibility, but you choose who can see the subjects. |
 | [[rangoric-srd/spells/Flexible Fury\|Flexible Fury]]: | Swap one rage power for another. |
 | [[rangoric-srd/spells/Gaseous Form\|Gaseous Form]]:               | Subject becomes insubstantial and can fly slowly.                                                                  |
 | [[rangoric-srd/spells/Geas, Lesser\|Geas, Lesser]]:               | Commands subject of 7 HD or less.                                                                                  |
@@ -337,6 +346,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Isolate\|Isolate]]: |  |
 | [[rangoric-srd/spells/Jester’s Jaunt\|Jester’s Jaunt]]: | Teleport target within 30 ft. of itself. |
 | [[rangoric-srd/spells/Leshy Swarm\|Leshy Swarm]] (M): | Call for a leshy swarm to aid you. |
+| [[rangoric-srd/spells/Luck of the Fey\|Luck of the Fey]] (M): | Forces a reroll of one die roll. |
 | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
 | [[rangoric-srd/spells/Magic Aura, Greater\|Magic Aura, Greater]] (F): | As magic aura, but also affects creatures and allows more options. |
 | [[rangoric-srd/spells/Major Image\|Major Image]]:                 | As silent image, plus sound, smell and thermal effects.                                                            |
@@ -376,6 +386,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Triggered Suggestion\|Triggered Suggestion]]: | As suggestion, but triggered only and target doesn't remember the suggestion. |
 | [[rangoric-srd/spells/Vision of Hell\|Vision of Hell]] (M): | Illusory hellscape makes creatures shaken. |
 | [[rangoric-srd/spells/Wall of Nausea\|Wall of Nausea]]: | Creatures that pass through the wall are nauseated and might fall prone. |
+| [[rangoric-srd/spells/Wing Wither\|Wing Wither]] (M): | Flyers lose two maneuverability steps and half their fly speed. |
 | [[rangoric-srd/spells/Witness\|Witness]]: | See through the target's eyes and ears. |
 
 ##### 4th-Level Bard Spells
@@ -406,6 +417,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Entice Fey, Lesser\|Entice Fey, Lesser]] (M): | Entice service from a fey with 6 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Envious Urge\|Envious Urge]]: | Targets steal from or disarm others. |
 | [[rangoric-srd/spells/Feast on Fear\|Feast on Fear]]: | Targets are panicked, and you gain temporary hit points. |
+| [[rangoric-srd/spells/Fitful Sleep\|Fitful Sleep]] (M): | Curse keeps the subject from resting and preparing spells. |
 | [[rangoric-srd/spells/Forgetful Slumber\|Forgetful Slumber]] (M): | Acts as the deeper slumber spell, but only affects one creature of 10 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:     | Subject moves normally despite impediments.                                                                                        |
 | [[rangoric-srd/spells/Ghost Brand\|Ghost Brand]] (M): | Allow an item to transform into a brand and back. |
@@ -441,6 +453,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sonic Thrust\|Sonic Thrust]]: | Sound moves targets away from you. |
 | [[rangoric-srd/spells/Speak with Plants\|Speak with Plants]]:         | You can talk to normal plants and plant creatures.                                                                                 |
 | [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]:         | Calls extraplanar creature to fight for you.                                                                                       |
+| [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Treasure Stitching\|Treasure Stitching]] (M): | Objects on cloth become embroidered. |
 | [[rangoric-srd/spells/Truespeak\|Truespeak]]: | You can communicate with any creature that is not mindless. |
 | [[rangoric-srd/spells/Utter Contempt\|Utter Contempt]] (M): | Target's attitude worsens by two categories. |

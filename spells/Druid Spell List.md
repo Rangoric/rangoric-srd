@@ -54,6 +54,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Decompose Corpse\|Decompose Corpse]] (M): | Turn a corpse into a clean skeleton. |
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants.                                        |
+| [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]:     | Reveals natural or primitive traps.                                        |
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
@@ -249,6 +250,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Earth Tremor\|Earth Tremor]]: | Unleash a tremor that creates difficult terrain and can knock foes down and damage them |
 | [[rangoric-srd/spells/Feather Step, Mass\|Feather Step, Mass]]: | As feather step, but affects many targets rather than one. |
 | [[rangoric-srd/spells/Fey Form I\|Fey Form I]] (M): | Assume the form of a Small or Medium fey creature |
+| [[rangoric-srd/spells/Fey Mask\|Fey Mask]]: | As invisibility, but you choose who can see the subjects. |
 | [[rangoric-srd/spells/Fins to Feet\|Fins to Feet]]: | You transform the target's fins, flippers, or tail into legs and feet, allowing it to walk on land. |
 | [[rangoric-srd/spells/Flashfire\|Flashfire]]: | Cause smoky fires to spring up to burn foes and set them alight |
 | [[rangoric-srd/spells/Fungal Infestation\|Fungal Infestation]]: | Target takes bleed from attacks. |
@@ -260,6 +262,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Leshy Swarm\|Leshy Swarm]] (M): | Call for a leshy swarm to aid you. |
 | [[rangoric-srd/spells/Lily Pad Stride\|Lily Pad Stride]] (M): | Walk across water on moving lily pads. |
 | [[rangoric-srd/spells/Longstrider, Greater\|Longstrider, Greater]] (M): | As longstrider, plus the speeds of other movement modes increase. |
+| [[rangoric-srd/spells/Luck of the Fey\|Luck of the Fey]] (M): | Forces a reroll of one die roll. |
 | [[rangoric-srd/spells/Mad Monkeys\|Mad Monkeys]]: | Summon a swarm of mischievous monkeys. |
 | [[rangoric-srd/spells/Magic Fang, Greater\|Magic Fang, Greater]]:           | One natural weapon of subject creature gets +1/four levels on attack and damage rolls (max +5). |
 | [[rangoric-srd/spells/Meld into Stone\|Meld into Stone]]:                   | You and your gear merge with stone.                                                             |
@@ -281,6 +284,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resinous Skin\|Resinous Skin]]: | You gain DR 5/piercing and +4 to CMD against disarm attempts. |
 | [[rangoric-srd/spells/Resist Energy, Communal\|Resist Energy, Communal]]: | As resist energy, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): |  |
+| [[rangoric-srd/spells/Second Sight\|Second Sight]] (M): | See invisible creatures, fey-masked ones and those stepped sideways. |
 | [[rangoric-srd/spells/Share Language, Communal\|Share Language, Communal]] (M): | As share language, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Shifting Sand\|Shifting Sand]] (M): | Creates difficult terrain and erases tracks, can carry along some creatures and objects. |
 | [[rangoric-srd/spells/Signs of the Land\|Signs of the Land]]: | Learn up to three details about the surrounding territory |
@@ -318,6 +322,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Aggressive Thundercloud, Greater\|Aggressive Thundercloud, Greater]] (M): | Flying storm cloud deals 6d6 electricity damage. |
 | [[rangoric-srd/spells/Air Walk\|Air Walk]]:                               | Subject treads on air as if solid (climb at 45-degree angle).                                                |
 | [[rangoric-srd/spells/Animal Ambassador\|Animal Ambassador]] (M): | Grant an animal messenger sentience to deliver your message. |
+| [[rangoric-srd/spells/Antilife Filter\|Antilife Filter]]: | Mobile shell hedges out one creature type. |
 | [[rangoric-srd/spells/Antiplant Shell\|Antiplant Shell]]:                 | Keeps animated plants at bay.                                                                                |
 | [[rangoric-srd/spells/Arboreal Hammer\|Arboreal Hammer]]: | Tree branches attack opponents. |
 | [[rangoric-srd/spells/Aspect of the Stag\|Aspect of the Stag]]: | +2 AC against attacks of opportunity and increases speed. |
@@ -362,6 +367,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]:                       | Creatures in area take 1d8 damage, may be slowed.                                                            |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight.                                                                                     |
+| [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Thorn Body\|Thorn Body]]: | Your attackers take 1d6 +1 damage/level. |
 | [[rangoric-srd/spells/Touch of Slime\|Touch of Slime]] (M): | Touch infests a target with green slime. |
 | [[rangoric-srd/spells/True Form\|True Form]]: | Removes polymorph effects. |
@@ -487,6 +493,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sunbeam\|Sunbeam]]:                                       | Beam [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] and deals 4d6 damage. |
 | [[rangoric-srd/spells/Transmute Metal to Wood\|Transmute Metal to Wood]]:       | Metal within 40 ft. becomes wood.                                                                      |
 | [[rangoric-srd/spells/True Seeing\|True Seeing]] (M):                           | Lets you see all things as they really are.                                                            |
+| [[rangoric-srd/spells/Unfurl the Mortal Coil\|Unfurl the Mortal Coil]]: | Touch drains 2d6 Con, then 2d6 more a minute later. |
 | [[rangoric-srd/spells/Vortex\|Vortex]] (M): | Creates a whirlpool in water. |
 | [[rangoric-srd/spells/Wind Walk\|Wind Walk]]:                                   | You and your allies turn vaporous and travel fast.                                                     |
 
