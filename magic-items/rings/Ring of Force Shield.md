@@ -10,6 +10,7 @@ prerequisites: "Forge Ring, wall of force"
 price: "8,500 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/rings/Ring of Force Shield|Ring of Force Shield (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Ring of Force Shield|Ring of Force Shield (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

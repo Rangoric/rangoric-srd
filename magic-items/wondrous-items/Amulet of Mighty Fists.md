@@ -8,6 +8,7 @@ prerequisites: "Craft Wondrous Item, greater magic fang, creator’s caster leve
 price: "6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4), 150,000 gp (+5)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Amulet of Mighty Fists|Amulet of Mighty Fists (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Amulet of Mighty Fists|Amulet of Mighty Fists (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

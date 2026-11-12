@@ -9,6 +9,7 @@ price: "12,000 gp"
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Boots of Speed|Boots of Speed (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Boots of Speed|Boots of Speed (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

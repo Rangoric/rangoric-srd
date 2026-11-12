@@ -10,10 +10,11 @@ price: "600,000 gp"
 cost: "to Create: 300,000 gp + 16,000 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/rings/Ring of Weaponbreaking|Ring of Weaponbreaking (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Ring of Weaponbreaking|Ring of Weaponbreaking (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/magic-item]
+tags: [rangoric, rangoric/magic-item, epic]
 ---
 
 # Ring of Weaponbreaking

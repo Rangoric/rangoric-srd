@@ -11,7 +11,7 @@ based-on:
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/magic-item]
+tags: [rangoric, rangoric/magic-item, epic]
 ---
 
 # Bracers of Relentless Might

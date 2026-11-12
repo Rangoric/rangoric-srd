@@ -9,6 +9,7 @@ price: "1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Bracers of Armor|Bracers of Armor (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Bracers of Armor|Bracers of Armor (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

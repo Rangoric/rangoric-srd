@@ -9,6 +9,7 @@ price: "125,000 gp"
 weight: "3 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Helm of Brilliance|Helm of Brilliance (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Brilliance|Helm of Brilliance (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

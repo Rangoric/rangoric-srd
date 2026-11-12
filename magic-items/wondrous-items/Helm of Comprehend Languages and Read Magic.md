@@ -9,6 +9,7 @@ price: "5,200 gp"
 weight: "3 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Helm of Comprehend Languages and Read Magic|Helm of Comprehend Languages and Read Magic (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Comprehend Languages and Read Magic|Helm of Comprehend Languages and Read Magic (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15

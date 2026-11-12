@@ -9,6 +9,7 @@ price: "5,000 gp"
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Bracers of Archery, Lesser|Bracers of Archery, Lesser (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/wondrous-armor/Bracers of Archery, Lesser|Bracers of Archery, Lesser (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

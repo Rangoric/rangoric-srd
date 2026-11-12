@@ -13,7 +13,7 @@ based-on:
 status: base
 change: copied
 pi-review: scanned 2026-10-15
-tags: [rangoric, rangoric/magic-item]
+tags: [rangoric, rangoric/magic-item, epic]
 ---
 
 # Ring of Greater Universal Energy Resistance
