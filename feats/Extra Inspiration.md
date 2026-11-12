@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 You are more able to draw upon inspiration than most.
 
-**Prerequisites**: [[rangoric-srd/feats/Amateur Investigator|Amateur Investigator]] or inspiration class feature.
+**Prerequisites**: [[rangoric-srd/feats/Amateur Investigator|Amateur Investigator]] or [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] class feature.
 
 **Benefit**: You gain three extra uses per day of inspiration in your inspiration pool.
