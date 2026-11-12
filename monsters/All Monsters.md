@@ -112,6 +112,7 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/dire-animal/Dire Weasel|Dire Weasel]]  
 —[[rangoric-srd/monsters/dire-animal/Dire Wolf|Dire Wolf]]  
 —[[rangoric-srd/monsters/dire-animal/Dire Wolverine|Dire Wolverine]]  
+[[rangoric-srd/monsters/Doorway Guardian|Doorway Guardian]]  
 
 ### 
 
@@ -160,6 +161,10 @@ tags: [rangoric, rangoric/overview]
 
 ### F
 
+[[rangoric-srd/monsters/Faerie Dragon|Faerie Dragon]]  
+[[rangoric-srd/monsters/Faun|Faun]]  
+[[rangoric-srd/monsters/Fey Steed|Fey Steed]]  
+[[rangoric-srd/monsters/Fey-born Creature|Fey-born Creature]]  
 [[rangoric-srd/monsters/Fiendish Creature|Fiendish Creature]]  
 [[rangoric-srd/monsters/formian/Formian|Formian]]  
 [[rangoric-srd/monsters/Frost Worm|Frost Worm]]  
@@ -208,12 +213,14 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/hag/Sea Hag|Sea Hag]]  
 [[rangoric-srd/monsters/Half-Celestial|Half-celestial]]  
 [[rangoric-srd/monsters/Half-Dragon|Half-dragon]]  
+[[rangoric-srd/monsters/Half-Fey Creature|Half-Fey Creature]]  
 [[rangoric-srd/monsters/Half-Fiend|Half-fiend]]  
 [[rangoric-srd/monsters/Halfling|Halfling]]  
 —[[rangoric-srd/monsters/Halfling#Tallfellow|Tallfellow]]  
 —[[rangoric-srd/monsters/Halfling#Deep Halfling|Deep Halfling]]  
 [[rangoric-srd/monsters/harpy/Harpy|Harpy]]  
 [[rangoric-srd/monsters/hell-hound/Hell Hound|Hell Hound]]  
+[[rangoric-srd/monsters/High Fey Creature|High Fey Creature]]  
 [[rangoric-srd/monsters/Hippogriff|Hippogriff]]  
 [[rangoric-srd/monsters/Hobgoblin|Hobgoblin]]  
 [[rangoric-srd/monsters/Homunculus|Homunculus]]  
@@ -228,9 +235,16 @@ tags: [rangoric, rangoric/overview]
 —[[rangoric-srd/monsters/inevitable/Zelekhut|Zelekhut]]  
 [[rangoric-srd/monsters/Invisible Stalker|Invisible Stalker]]  
 
+### J
+
+[[rangoric-srd/monsters/jabberwock/Jabberwock|Jabberwock]]  
+—[[rangoric-srd/monsters/jabberwock/Greater Jabberwock|Greater Jabberwock]]  
+—[[rangoric-srd/monsters/jabberwock/Lesser Jabberwock|Lesser Jabberwock]]  
+
 ### K
 
 [[rangoric-srd/monsters/Kobold|Kobold]]  
+[[rangoric-srd/monsters/Korred|Korred]]  
 [[rangoric-srd/monsters/Kraken|Kraken]]  
 [[rangoric-srd/monsters/Krenshar|Krenshar]]  
 
@@ -333,6 +347,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Sea Cat|Sea Cat]]  
 [[rangoric-srd/monsters/shadow/Shadow|Shadow]]  
 [[rangoric-srd/monsters/Shadow Mastiff|Shadow Mastiff]]  
+[[rangoric-srd/monsters/Shadow-born Creature|Shadow-born Creature]]  
 [[rangoric-srd/monsters/Shambling Mound|Shambling Mound]]  
 [[rangoric-srd/monsters/Shield Guardian|Shield Guardian]]  
 [[rangoric-srd/monsters/Shocker Lizard|Shocker Lizard]]  

@@ -134,6 +134,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Stone Fist\|Stone Fist]] (M): | Your unarmed strikes are lethal. |
 | [[rangoric-srd/spells/Stone Shield\|Stone Shield]]: | A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. |
 | [[rangoric-srd/spells/Strong Wings\|Strong Wings]]: | The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). |
+| [[rangoric-srd/spells/Summon Fey I\|Summon Fey I]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Minor Ally\|Summon Minor Ally]]: | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Nature’s Ally I\|Summon Nature’s Ally I]]: | Calls creature to fight. |
 | [[rangoric-srd/spells/Sun Metal\|Sun Metal]]: | Weapon touched bursts into flames. |
@@ -266,6 +267,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Steal Breath\|Steal Breath]]: | You pull the breath from a creature's lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components. |
 | [[rangoric-srd/spells/Stone Call\|Stone Call]]: | 2d6 damage to all creatures in area. |
 | [[rangoric-srd/spells/Stone Discus\|Stone Discus]] (M): | Flying discus deals bludgeoning or slashing damage. |
+| [[rangoric-srd/spells/Summon Fey II\|Summon Fey II]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally II\|Summon Nature’s Ally II]]: | Calls creature to fight. |
 | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]]: | Summons swarm of bats, rats, or spiders. |
 | [[rangoric-srd/spells/Tar Ball\|Tar Ball]] (M): | Burning tar harms target and penalizes its Dex. |
@@ -377,6 +379,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Stench of Prey\|Stench of Prey]]: | Predatory animals must successfully save or attack the target. |
 | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]: | Sculpts stone into any shape. |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
+| [[rangoric-srd/spells/Summon Fey III\|Summon Fey III]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally III\|Summon Nature’s Ally III]]: | Calls creature to fight. |
 | [[rangoric-srd/spells/Swarm of Fangs\|Swarm of Fangs]] (M): | Summon a swarm of animated, flying teeth. |
 | [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
@@ -456,6 +459,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Slowing Mud\|Slowing Mud]] (M): | Targets are covered in mud that blinds them and acts like slow. |
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]: | Creatures in area take 1d8 damage, may be slowed. |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
+| [[rangoric-srd/spells/Summon Fey IV\|Summon Fey IV]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight. |
 | [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Terrain Bond\|Terrain Bond]] (M): | Treat the terrain you are in as a favored terrain for the spell's duration. |
@@ -496,6 +500,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Rest Eternal\|Rest Eternal]] (M): | Dead creature cannot be revived. |
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M): | Transforms wood into snakes to fight for you. |
 | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M): | Ignore 10 points of damage per attack. |
+| [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally V\|Summon Nature’s Ally V]]: | Calls creature to fight. |
 | [[rangoric-srd/spells/Swallow Poison\|Swallow Poison]]: | Protect yourself against ingested poison, then spit it out in a cone. |
 | [[rangoric-srd/spells/Threefold Aspect\|Threefold Aspect]] (F): | Appear older or younger. |
@@ -542,6 +547,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Spellstaff\|Spellstaff]]: | Stores one spell in wooden quarterstaff. |
 | [[rangoric-srd/spells/Stone Tell\|Stone Tell]]: | Talk to natural or worked stone. |
 | [[rangoric-srd/spells/Stoneskin, Communal\|Stoneskin, Communal]] (M): | As stoneskin, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Summon Fey VI\|Summon Fey VI]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally VI\|Summon Nature’s Ally VI]]: | Calls creature to fight. |
 | [[rangoric-srd/spells/Swarm Skin\|Swarm Skin]] (M): | Turns your body into a swarm of vermin. |
 | [[rangoric-srd/spells/Tar Pool\|Tar Pool]] (M): | Converts the top layer of the ground into hot tar. |

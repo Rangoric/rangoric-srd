@@ -103,6 +103,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Stone Fist\|Stone Fist]] (M): | Your unarmed strikes are lethal. |
 | [[rangoric-srd/spells/Stone Shield\|Stone Shield]]: | A 1-inch-thick slab of stone springs up from the ground, interposing itself between you and an opponent of your choice. |
 | [[rangoric-srd/spells/Strong Wings\|Strong Wings]]: | The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). |
+| [[rangoric-srd/spells/Summon Fey I\|Summon Fey I]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Minor Ally\|Summon Minor Ally]]: | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Nature’s Ally I\|Summon Nature’s Ally I]]:     | Calls creature to fight.                                                   |
 | [[rangoric-srd/spells/Thorn Javelin\|Thorn Javelin]]: | Wield a javelin that sickens ofpponents when it strikes. |
@@ -201,6 +202,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Steal Breath\|Steal Breath]]: | You pull the breath from a creature's lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components. |
 | [[rangoric-srd/spells/Stone Call\|Stone Call]]: | 2d6 damage to all creatures in area. |
 | [[rangoric-srd/spells/Stone Discus\|Stone Discus]] (M): | Flying discus deals bludgeoning or slashing damage. |
+| [[rangoric-srd/spells/Summon Fey II\|Summon Fey II]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally II\|Summon Nature’s Ally II]]: | Calls creature to fight.                                                                                                                    |
 | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]]:                       | Summons swarm of bats, rats, or spiders.                                                                                                    |
 | [[rangoric-srd/spells/Tar Ball\|Tar Ball]] (M): | Burning tar harms target and penalizes its Dex. |
@@ -297,6 +299,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spit Venom\|Spit Venom]]: | Spit blinding black adder venom. |
 | [[rangoric-srd/spells/Stench of Prey\|Stench of Prey]]: | Predatory animals must successfully save or attack the target. |
 | [[rangoric-srd/spells/Stone Shape\|Stone Shape]]:                           | Sculpts stone into any shape.                                                                   |
+| [[rangoric-srd/spells/Summon Fey III\|Summon Fey III]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally III\|Summon Nature’s Ally III]]: | Calls creature to fight.                                                                        |
 | [[rangoric-srd/spells/Swarm of Fangs\|Swarm of Fangs]] (M): |  |
 | [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
@@ -366,6 +369,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Slowing Mud\|Slowing Mud]] (M): | Targets are covered in mud that blinds them and acts like slow. |
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]:                       | Creatures in area take 1d8 damage, may be slowed.                                                            |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
+| [[rangoric-srd/spells/Summon Fey IV\|Summon Fey IV]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight.                                                                                     |
 | [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Thorn Body\|Thorn Body]]: | Your attackers take 1d6 +1 damage/level. |
@@ -412,6 +416,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M): | Transforms wood into snakes to fight for you. |
 | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M):                       | Ignore 10 points of damage per attack.                                                                    |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
+| [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally V\|Summon Nature’s Ally V]]: | Calls creature to fight.                                                                                  |
 | [[rangoric-srd/spells/Swallow Poison\|Swallow Poison]]: | Protect yourself against ingested poison, then spit it out in a cone. |
 | [[rangoric-srd/spells/Threefold Aspect\|Threefold Aspect]] (F): | Appear older or younger. |
@@ -460,6 +465,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spellstaff\|Spellstaff]]:                           | Stores one spell in wooden quarterstaff.                   |
 | [[rangoric-srd/spells/Stone Tell\|Stone Tell]]:                           | Talk to natural or worked stone.                           |
 | [[rangoric-srd/spells/Stoneskin, Communal\|Stoneskin, Communal]] (M): | As stoneskin, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Summon Fey VI\|Summon Fey VI]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally VI\|Summon Nature’s Ally VI]]: | Calls creature to fight.                                   |
 | [[rangoric-srd/spells/Swarm Skin\|Swarm Skin]] (M): | Turns your body into a swarm of vermin. |
 | [[rangoric-srd/spells/Tar Pool\|Tar Pool]] (M): | Converts the top layer of the ground into hot tar. |
@@ -489,6 +495,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Scouring Winds\|Scouring Winds]]: | Winds block vision and deal 3d6 damage per round. |
 | [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]:                     | As scrying, but faster and longer.                                                                     |
 | [[rangoric-srd/spells/Siege of Trees\|Siege of Trees]]: | Transforms Large trees into arboreal catapults of the same size. |
+| [[rangoric-srd/spells/Summon Fey VII\|Summon Fey VII]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally VII\|Summon Nature’s Ally VII]]:     | Calls creature to fight.                                                                               |
 | [[rangoric-srd/spells/Sunbeam\|Sunbeam]]:                                       | Beam [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] and deals 4d6 damage. |
 | [[rangoric-srd/spells/Transmute Metal to Wood\|Transmute Metal to Wood]]:       | Metal within 40 ft. becomes wood.                                                                      |
@@ -516,6 +523,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Reverse Gravity\|Reverse Gravity]]:                     | Objects and creatures fall upward.                                                                               |
 | [[rangoric-srd/spells/Seamantle\|Seamantle]] (M): | Sheathes you in protective water. |
 | [[rangoric-srd/spells/Stormbolts\|Stormbolts]] (M): | 1d8 damage/level (max 20d8) to targets. |
+| [[rangoric-srd/spells/Summon Fey VIII\|Summon Fey VIII]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally VIII\|Summon Nature’s Ally VIII]]: | Calls creature to fight.                                                                                         |
 | [[rangoric-srd/spells/Sunburst\|Sunburst]]:                                   | [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|Blinds]] all within 10 ft., deals 6d6 damage. |
 | [[rangoric-srd/spells/Wall of Lava\|Wall of Lava]] (M): | Wall damages foes that try to enter, periodically launches lava at nearby targets. |
@@ -541,6 +549,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Siege of Trees, Greater\|Siege of Trees, Greater]]: | As siege of trees, but can transform Huge and Gargantuan trees into arboreal catapults of the same size. |
 | [[rangoric-srd/spells/Storm of Vengeance\|Storm of Vengeance]]:                 | Storm rains acid, lightning, and hail.                                  |
 | [[rangoric-srd/spells/Summon Elder Worm\|Summon Elder Worm]]: | Summon a giant purple worm. |
+| [[rangoric-srd/spells/Summon Fey IX\|Summon Fey IX]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Froghemoth\|Summon Froghemoth]]: | Summon a froghemoth. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IX\|Summon Nature’s Ally IX]]:       | Calls creature to fight.                                                |
 | [[rangoric-srd/spells/Sympathy\|Sympathy]] (M):                                 | Object or location attracts certain creatures.                          |

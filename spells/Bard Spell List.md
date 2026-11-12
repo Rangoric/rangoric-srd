@@ -130,6 +130,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sleep\|Sleep]]:                                   | Puts 4 HD of creatures into magical slumber.                                                                |
 | [[rangoric-srd/spells/Solid Note\|Solid Note]]: | Creates tangible music note. |
 | [[rangoric-srd/spells/Sow Thought\|Sow Thought]]: | You plant an idea, concept, or suspicion in the mind of the subject. |
+| [[rangoric-srd/spells/Summon Fey I\|Summon Fey I]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Minor Monster\|Summon Minor Monster]] (F): | Summon 1d3 Tiny animals. |
 | [[rangoric-srd/spells/Summon Monster I\|Summon Monster I]]:             | Calls extraplanar creature to fight for you.                                                                |
 | [[rangoric-srd/spells/Tamer’s Lash\|Tamer’s Lash]]: | Create a whip made of sound that damages foes and can frighten animals |
@@ -280,6 +281,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Steal Breath\|Steal Breath]]: | You pull the breath from a creature's lungs, dealing damage and leaving it unable to speak, use breath weapons, or cast spells with verbal components. |
 | [[rangoric-srd/spells/Steal Voice\|Steal Voice]]: | Target gains the croaking spellblight. |
 | [[rangoric-srd/spells/Suggestion\|Suggestion]]:                     | Compels subject to follow stated course of action.                                                                                                                      |
+| [[rangoric-srd/spells/Summon Fey II\|Summon Fey II]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster II\|Summon Monster II]]:       | Calls extraplanar creature to fight for you.                                                                                                                            |
 | [[rangoric-srd/spells/Summon Swarm\|Summon Swarm]]:                 | Summons swarm of bats, rats, or spiders.                                                                                                                                |
 | [[rangoric-srd/spells/Tactical Acumen\|Tactical Acumen]] (M): | You gain an additional +1 on attack rolls or to AC due to battlefield positioning. |
@@ -376,6 +378,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Slow\|Slow]]:                               | One subject/level takes only one action/round, –1 to AC, reflex saves, and attack rolls.                           |
 | [[rangoric-srd/spells/Smug Narcissism\|Smug Narcissism]] (M): | Target is distracted by its sense of self. |
 | [[rangoric-srd/spells/Speak with Animals\|Speak with Animals]]:   | You can communicate with animals.                                                                                  |
+| [[rangoric-srd/spells/Summon Fey III\|Summon Fey III]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster III\|Summon Monster III]]:   | Calls extraplanar creature to fight for you.                                                                       |
 | [[rangoric-srd/spells/Terrible Remorse\|Terrible Remorse]]: | Creature is compelled to harm itself. |
 | [[rangoric-srd/spells/They Know\|They Know]] (M): | Convince target that a nearby creature knows her greatest secret. |
@@ -452,6 +455,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Shout\|Shout]]:                                 | Deafens all within cone and deals 5d6 sonic damage.                                                                                |
 | [[rangoric-srd/spells/Sonic Thrust\|Sonic Thrust]]: | Sound moves targets away from you. |
 | [[rangoric-srd/spells/Speak with Plants\|Speak with Plants]]:         | You can talk to normal plants and plant creatures.                                                                                 |
+| [[rangoric-srd/spells/Summon Fey IV\|Summon Fey IV]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster IV\|Summon Monster IV]]:         | Calls extraplanar creature to fight for you.                                                                                       |
 | [[rangoric-srd/spells/Swift Journey\|Swift Journey]] (M): | Subjects travel overland at twice their speed. |
 | [[rangoric-srd/spells/Treasure Stitching\|Treasure Stitching]] (M): | Objects on cloth become embroidered. |
@@ -504,6 +508,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Song of Discord\|Song of Discord]]:                 | Forces targets to attack each other.                                                                                    |
 | [[rangoric-srd/spells/Stunning Finale\|Stunning Finale]]: | Stuns 3 creatures for 1 round. |
 | [[rangoric-srd/spells/Suggestion, Mass\|Suggestion, Mass]]:               | As suggestion, plus one subject/level.                                                                                  |
+| [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster V\|Summon Monster V]]:               | Calls extraplanar creature to fight for you.                                                                            |
 | [[rangoric-srd/spells/Unshakable Zeal\|Unshakable Zeal]] (F): | Grant benefits on future attempts after failed checks, and protect against fear and emotion effects. |
 | [[rangoric-srd/spells/Unwilling Shield\|Unwilling Shield]] (M): | Subject shares wounds you receive. |
@@ -550,6 +555,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]:                     | As scrying, but faster and longer.                                                                                                                                                           |
 | [[rangoric-srd/spells/Shout, Greater\|Shout, Greater]]:                         | Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.                                                                                                                  |
 | [[rangoric-srd/spells/Sonic Form\|Sonic Form]] (M): | Turn yourself into a creature of semisolid sound. |
+| [[rangoric-srd/spells/Summon Fey VI\|Summon Fey VI]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Monster VI\|Summon Monster VI]]:                   | Calls extraplanar creature to fight for you.                                                                                                                                                 |
 | [[rangoric-srd/spells/Sympathetic Vibration\|Sympathetic Vibration]]:           | Deals 2d10 damage/round to freestanding structure.                                                                                                                                           |
 | [[rangoric-srd/spells/Triggered Hallucination\|Triggered Hallucination]] (M): | As scripted hallucination, but it only appears when triggered. |

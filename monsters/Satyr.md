@@ -29,6 +29,7 @@ advancement: "6–10 HD (Medium)"
 level-adjustment: "+2"
 based-on:
   - "[[fantasy srd 3.5/monsters/Satyr|Satyr (3.5)]]"
+  - "[[individual books/Faeries/creatures/Satyr|Satyr (Faeries)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -75,6 +76,12 @@ Once engaged in battle, an unarmed satyr attacks with a powerful head butt. A sa
 In the hands of other beings, these pipes have no special powers. A creature that successfully saves against any of the pipe’s effects cannot be affected by the same set of pipes for 24 hours. The save DC is Charisma-based.
 
 **Skills**: Satyrs have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Performance|Performance]] checks.
+
+### Satyrkin
+
+Related fey are built on the satyr: the [[rangoric-srd/monsters/Faun|faun]] (lesser satyr) and the [[rangoric-srd/monsters/Korred|korred]] (greater satyr).
+
+Large populations of fey, such as korreds, were actually once other mortal races magically transformed into fey who have maintained their populations. Some suspect that whole tribes of humans or dwarves or other mortal races fled to the fey realm in the distant past, and the land made them part of it by wholly changing their people to these fey races as they are known today.
 
 ### Satyrs as Characters
 
