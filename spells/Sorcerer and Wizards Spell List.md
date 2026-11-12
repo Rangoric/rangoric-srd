@@ -176,6 +176,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Forced Quiet\|Forced Quiet]]: | Target cannot make loud noises. |
 |               | [[rangoric-srd/spells/Gravity Bow\|Gravity Bow]]: | Arrows do damage as though one size category bigger. |
 |               | [[rangoric-srd/spells/Handy Grapnel\|Handy Grapnel]] (M): | Transform a ropelike object into a retracting grapple. |
+|               | [[rangoric-srd/spells/Harvest Magic Sand\|Harvest Magic Sand]]: | Harvests 1d10 ounces of magic sand per level. |
 |               | [[rangoric-srd/spells/Hobble\|Hobble]] (M): | Reduce creature's speed |
 |               | [[rangoric-srd/spells/Jump (Spell)\|Jump]]:                                                                                                                                                                                        | Subject gets bonus on Athletics checks.                                                                                                                                                                                                                                              |
 |               | [[rangoric-srd/spells/Jury-Rig\|Jury-Rig]] (M): | Removes the broken condition from the targeted object. |
@@ -563,6 +564,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Flash Fire\|Flash Fire]] (M): | Ammunition in the targeted firearm creates a tremendous flash capable of blinding the weapon's bearer and those around him. |
 |               | [[rangoric-srd/spells/Fly\|Fly]]:                                                                                                                                                                                                                           | Subject flies at speed of 60 ft.                                                                               |
 |               | [[rangoric-srd/spells/Gaseous Form\|Gaseous Form]]:                                                                                                                                                                                                         | Subject becomes insubstantial and can fly slowly.                                                              |
+|               | [[rangoric-srd/spells/Harvest Breath of Life\|Harvest Breath of Life]] (M): | Steals 1 Con/level from a living being as Breath of Life. |
 |               | [[rangoric-srd/spells/Haste\|Haste]]:                                                                                                                                                                                                                       | One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves.                                     |
 |               | [[rangoric-srd/spells/Heart of the Metal\|Heart of the Metal]] (M): | Enable weapons to overcome DR like adamantine, cold iron, or silver. |
 |               | [[rangoric-srd/spells/Hostile Levitation\|Hostile Levitation]] (M): | Levitates the targeted creature up off the ground. |
