@@ -93,7 +93,7 @@ The climate and terrain must be appropriate for a given fey to be attracted by i
 
 [*Game Effect:* The item has a 5% cumulative chance per day to draw a fey creature in the vicinity to the desired location.]
 
-**Alcohol:** The finest wines, ales, and meads are an easy way to draw satyrs, korred, fauns, and especially cask imps.
+**Alcohol:** The finest wines, ales, and meads are an easy way to draw satyrs, [[rangoric-srd/monsters/Korred|korred]], [[rangoric-srd/monsters/Faun|fauns]], and especially cask imps.
 
 **Black Sand:** When placed inside of a large opalescent seashell outside the mouth of a sea cave, black volcanic sand somehow attracts water-living and water-loving fey.
 

@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 The gently rolling hills and grassy meadows of the Land of Eternal Spring are filled year-round with freshly sprouted greenery and the subtle perfume of constantly blossoming flowers. Trees here are in a perpetual cycle of blooming buds and bearing fruit. The delicate sounds of birds and young animals are lifted by the calm breezes blowing through the region.
 
-The Land of Eternal Spring is home to the Tuatha de Danann, a warlike [[rangoric-srd/races/Feeorin|feeorin]] clan. Dressed in ceremonial armor and riding their beloved fey steeds, they can be found skirmishing among the tree-dotted hills. Death in battles here is a temporary state, for the Tuatha de Danann regularly bring their fallen back from the dead to fight another day.
+The Land of Eternal Spring is home to the Tuatha de Danann, a warlike [[rangoric-srd/races/Feeorin|feeorin]] clan. Dressed in ceremonial armor and riding their beloved [[rangoric-srd/monsters/Fey Steed|fey steeds]], they can be found skirmishing among the tree-dotted hills. Death in battles here is a temporary state, for the Tuatha de Danann regularly bring their fallen back from the dead to fight another day.
 
 **Distance:** Distant (DC 20)
 

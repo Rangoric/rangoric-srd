@@ -23,7 +23,7 @@ Called home by the Black Horn clan, this area of interconnected canyons and gorg
 
 ***Legends & Lore***
 
-*Common:* The generations of minotaurs living in the Canyon Maze are all fey-born creatures, making them tougher than their mortal cousins.
+*Common:* The generations of minotaurs living in the Canyon Maze are all [[rangoric-srd/monsters/Fey-born Creature|fey-born]] creatures, making them tougher than their mortal cousins.
 
 *Uncommon:* Adventuring parties have returned from the Maze with treasures and missing survivors long lost and thought dead who babble tales of forgotten *doorways* in the maze that lead to ruined catacombs heaped high with treasures and dangers.
 

@@ -27,6 +27,6 @@ Easy to find, but not necessarily easy to escape, the Great Scar is a canyon of 
 
 *Uncommon:* Equipment from all ages litters the area immediately surrounding the Great Scar. [[rangoric-srd/races/Bogie|Bogies]] constantly sift through the rummage, leaving little of value behind.
 
-*Rare:* Near a river that runs to the Fungal Forest is the largest lair of jabberwock in all of FaerieLand.
+*Rare:* Near a river that runs to the Fungal Forest is the largest lair of [[rangoric-srd/monsters/jabberwock/Jabberwock|jabberwock]] in all of FaerieLand.
 
-*Obscure:* The Queen of Air and Darkness breeds greater jabberwock in the bowels of the Great Scar for use in her attacks against the Twilight Lands.
+*Obscure:* The Queen of Air and Darkness breeds [[rangoric-srd/monsters/jabberwock/Greater Jabberwock|greater jabberwock]] in the bowels of the Great Scar for use in her attacks against the Twilight Lands.
