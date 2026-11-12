@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 Prestige classes offer a new form of multiclassing. Unlike the basic classes, characters must meet Requirements before they can take their first level of a prestige class. The rules for level advancement apply to this system, meaning the first step of advancement is always choosing a class. If a character does not meet the Requirements for a prestige class before that first step, that character cannot take the first level of that prestige class.  
 
-There are 47 prestige classes here. They are:
+There are 48 prestige classes here. They are:
 
 1.  [[rangoric-srd/prestige-classes/Apothecary|Apothecary]]
 2.  [[rangoric-srd/prestige-classes/Arcane Archer|Arcane Archer]]
@@ -55,13 +55,14 @@ There are 47 prestige classes here. They are:
 38. [[rangoric-srd/prestige-classes/Red Alchemist|Red Alchemist]]
 39. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
 40. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
-41. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
-42. [[rangoric-srd/prestige-classes/Star Magus|Star Magus]]
-43. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
-44. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
-45. [[rangoric-srd/prestige-classes/Totem Mage|Totem Mage]]
-46. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
-47. [[rangoric-srd/prestige-classes/White Alchemist|White Alchemist]]
+41. [[rangoric-srd/prestige-classes/Spellsinger|Spellsinger]]
+42. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
+43. [[rangoric-srd/prestige-classes/Star Magus|Star Magus]]
+44. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
+45. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
+46. [[rangoric-srd/prestige-classes/Totem Mage|Totem Mage]]
+47. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
+48. [[rangoric-srd/prestige-classes/White Alchemist|White Alchemist]]
 
 ###### Definitions of Terms
 
