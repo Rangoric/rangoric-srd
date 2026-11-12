@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 
 *Martial light melee weapon.* Cost 8 gp; Dmg 1d4 (S), 1d6 (M); Critical 19–20/x2; Weight 1 lb.; Type Slashing. ^stats
 
-This short, curved sword is a favorite weapon of goblins, who show unusual cunning by drilling numerous holes in the blade to reduce the weapon’s weight. A dogslicer is fragile: it gains the broken condition if the wielder rolls a natural 1 on an attack roll with it, and a natural 1 while it is already broken destroys it. Masterwork and magical dogslicers lack this flaw.
+This short, curved sword is a favorite weapon of goblins, who show unusual cunning by drilling numerous holes in the blade to reduce the weapon’s weight. A dogslicer is fragile: it gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition if the wielder rolls a natural 1 on an attack roll with it, and a natural 1 while it is already broken destroys it. Masterwork and magical dogslicers lack this flaw.

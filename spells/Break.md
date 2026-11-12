@@ -37,4 +37,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates (object)
   - **Spell Resistance**: Yes (object)
 
-You can attempt to break or at least damage any one Medium or smaller object within range. If the target fails its Fortitude saving throw, it gains the broken condition. If cast on a broken item, that item is destroyed on a failed save.
+You can attempt to break or at least damage any one Medium or smaller object within range. If the target fails its Fortitude saving throw, it gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition. If cast on a broken item, that item is destroyed on a failed save.
