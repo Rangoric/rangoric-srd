@@ -10,6 +10,7 @@ spell-failure: 15
 weight-lb: 10
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Armor|Equipment Armor (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor/Shield, Heavy, Wooden or Steel|Shield, Heavy, Wooden or Steel (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

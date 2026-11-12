@@ -13,6 +13,7 @@ speed-20: 20
 weight-lb: 10
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Armor|Equipment Armor (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/tables/Table 4.1 Light Armor and Shields|Table 4.1: Light Armor and Shields (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

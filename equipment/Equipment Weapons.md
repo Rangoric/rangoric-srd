@@ -990,6 +990,8 @@ All magic weapons are automatically considered to be of masterwork quality. The 
 
 Even though some types of armor and shields can be used as weapons, you can’t create a masterwork version of such an item that confers an enhancement bonus on attack rolls. Instead, masterwork armor and shields have lessened armor check penalties.
 
+Weapons can also be built for durability; see [[rangoric-srd/equipment/Equipment Armor#Durability|Durability]].
+
 ##### Separating Double Weapons
 
 A separating double weapon functions like a normal weapon of its type, but it is designed to be able to separate into two weapons. A quick twist of the haft can divide a separating dire flail into two light flails, one for each hand. Separating or connecting such a weapon is a move action unless the wielder has the [[rangoric-srd/feats/Quick Draw|Quick Draw]] feat. Combined with this feat, the weapon can be separated or connected as a free action once per round.

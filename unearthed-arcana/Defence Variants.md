@@ -3,6 +3,9 @@ srd-type: "overview"
 section: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Defence Variants|Defence Variants (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Armor as Damage Reduction|Armor as Damage Reduction (Arms & Armor)]]"
+  - "[[individual books/Arms & Armor v3.5/tables/Table 4.7 DR by Armor|Table 4.7: DR by Armor (Arms & Armor)]]"
+  - "[[individual books/Arms & Armor v3.5/tables/Table 4.8 Armor Class or Damage Reduction|Table 4.8: Armor Class or Damage Reduction? (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: 2026-10-15
@@ -100,6 +103,134 @@ You can combine the [[#Defence Bonus|defense bonus]] variant and the armor as da
 Using both systems as written, many characters will wear armor even if the armor bonus provided is lower than the defense bonus gained from class level. Because the character gets the higher of his defense bonus or armor bonus, the character can wear armor and benefit from its damage reduction while relying on his defense bonus for a higher Armor Class.
 
 If that’s not to your liking, you can rule that a character’s armor bonus overrides his defense bonus, even if the defense bonus is higher. This forces characters to make a tough choice between having a high AC and having damage reduction.
+
+### Armor as Damage Reduction (Arms & Armor)
+
+A second version of [[#Armor as Damage Reduction|armor as damage reduction]], from *Arms & Armor*. It gives the standard armors the same armor bonus and damage reduction as Table: Armor and Damage Reduction above, adds values for *Arms & Armor*’s armors, and changes how magic armor, critical hits and some weapon qualities work. *Arms & Armor* gives [[rangoric-srd/magic-items/armor/Elven Chain|elven chain]] an armor bonus of +3 and DR 2/–. ^armor-as-dr-arms-and-armor
+
+Encasing one’s body in armor is an important protective measure for an adventurer to embrace. Vorpal, sharpness, and crushing weapons can cause grievous injury with a single swing. The rules presented below serve to augment this protection, providing more incentive to wear armor. Wearing armor gives you both Damage Reduction and Armor Class, as on Table: Arms & Armor’s Armor and Damage Reduction, below.
+
+##### What Kind of DR?
+
+Wearing armor means keeping track of the various kinds of DR that you have. Each one is different, so it’s important to know what kind of attack you’re facing and what sorts of defenses you have against it. Armor DR only stacks if it’s the same types of DR; the DR granted by the barbarian class ability stacks with armor DR, for instance.
+
+Fine and Diminutive creatures automatically ignore DR from armor—there’s just no way to defend against their attacks: They’re able to easily penetrate the folds and joints in the armor to strike home. That means that a human in plate is susceptible to the strike of a grig, a swarm of bees, and other minute hazards.
+
+##### Armor Class or DR?
+
+As adventurers equip themselves for the trials and tribulations that lie ahead of them, questions of what stacks with what and how DR and AC interact are liable to arise. Table: Armor Class or Damage Reduction? provides the specifics on how magic and DR interact.
+
+**Table: Armor Class or Damage Reduction?**
+
+| Type | Example | Effect |
+| --- | --- | --- |
+| Enchanted armor | *+2 studded leather* | Adds to Armor Class |
+| Shield | Heavy steel shield | Adds to Armor Class |
+| Bracers (1) | *[[rangoric-srd/magic-items/wondrous-items/Bracers of Armor|bracers of armor]] +10* | Adds to Armor Class |
+| Natural armor | *[[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor|amulet of natural armor]] +6* | Adds to Armor Class |
+| Damage reduction | Barbarian ability | Stacks with armor DR |
+| Magic item | *[[rangoric-srd/magic-items/rings/Ring of Ironskin|ring of ironskin]]* | Separate; DR 15/adamantine |
+| Spell | *[[rangoric-srd/spells/Mage Armor|mage armor]]* | Adds to Armor Class (2) |
+
+1 *Wearing bracers adds to Armor Class, making a creature tougher to hit but not adding any other bonus that actual armor grants under these rules. Bracers of armor +5 don’t grant the DR that chainmail does, for instance; they only add +5 to Armor Class.*
+
+2 *Spells work (and stack) as they always do; as both bracers of armor and mage armor provide an armor bonus, their effects don’t stack with each other or with wearing armor that grants AC of +4 or better.*
+
+*Example*: A 19th-level barbarian with a base DR of 5/– from his class abilities is wearing *+3 scale mail* and a [[rangoric-srd/magic-items/rings/Ring of Ironskin|ring of ironskin]]. That makes his DR 7/– or 15/adamantine. During the first round of combat, he’s attacked by two fighters wielding adamantine longswords (where he’ll have his DR 7/–) and a rogue wielding a *+4 short sword* (where he’ll have his DR 15/adamantine).
+
+##### Enchanted Armor
+
+The base versions of armor have the same qualities as those on [[rangoric-srd/equipment/Equipment Armor|Table: Armor and Shields]]. Adding enchantments to armor makes it better than its nonmagical counterparts, as detailed below.
+
+**Armor Check Penalties**: These decrease equal to the amount of enchantment placed in the armor. For example, *scale mail +2* would have an armor check penalty of -2 (normally -4). It’s possible to completely remove penalties by highly enchanting armor, but you never receive a bonus for over-enchantment (*scale mail +5* wouldn’t grant a +1 bonus, for instance).
+
+**Maximum Dexterity Adjustment**: This increase is equal to the amount of enchantment placed into the armor. For example, *scale mail +2* has a Maximum Dexterity Adjustment of +5 (normally only +3).
+
+**Arcane Spell Failure**: The maximum reduction allowed is 20% (granted by using both the spellcasting and weightless armor qualities).
+
+**Speed**: A creature’s speed is normally limited by its race and armor selection, but the armor factor can be negated by adding the *weightless* quality to armor.
+
+**Table: Arms & Armor’s Armor and Damage Reduction**
+
+The standard armors aren’t repeated here; they have the values on Table: Armor and Damage Reduction above.
+
+%% generated: armor damage reduction %%
+
+| Armor                                                                                  | Armor Bonus (1) | Damage Reduction |
+| -------------------------------------------------------------------------------------- | --------------- | ---------------- |
+| Light armor                                                                            |                 |                  |
+| [[rangoric-srd/equipment/armor/Fetish Armor\|Fetish]]                                  | 0               | none             |
+| [[rangoric-srd/equipment/armor/Silken Web\|Silken web]]                                | 0               | none             |
+| [[rangoric-srd/equipment/armor/Armored Robe\|Armored robe]]                            | +1              | none             |
+| [[rangoric-srd/equipment/armor/Soft Leather Half Armor\|Soft leather half armor]]      | +1              | none             |
+| [[rangoric-srd/equipment/armor/Quilled Aketon\|Aketon, quilled]]                       | +1              | none             |
+| [[rangoric-srd/equipment/armor/Cleric's Vest\|Cleric's vest]]                          | +1              | none             |
+| [[rangoric-srd/equipment/armor/Woven Cord Armor\|Woven cord]]                          | +1              | none             |
+| [[rangoric-srd/equipment/armor/Holy Vestments\|Holy vestments]]                        | +1              | none             |
+| [[rangoric-srd/equipment/armor/Reversible Bardic Doublet\|Doublet, reversible bardic]] | +1              | none             |
+| [[rangoric-srd/equipment/armor/Chainmail Corset\|Chainmail corset]]                    | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Shadow Doublet\|Doublet, shadow]]                       | +1              | none             |
+| [[rangoric-srd/equipment/armor/Bishop's Mantle\|Bishop's mantle]]                      | +1              | none             |
+| [[rangoric-srd/equipment/armor/Barkskin Armor\|Barkskin]]                              | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Bardic Armor\|Bardic]]                                  | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Beaded Armor\|Beaded]]                                  | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Reinforced Cleric's Robe\|Cleric's robe, reinforced]]   | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Robe of Yew Leaves\|Robe of yew leaves]]                | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Fine Leather\|Fine leather]]                            | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Web Armor\|Web]]                                        | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Elven Leafweave\|Elven leafweave]]                      | +1              | 1/–              |
+| [[rangoric-srd/equipment/armor/Buckskin Armor\|Buckskin]]                              | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Double Leather\|Double leather]]                        | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Studded Web\|Studded web]]                              | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Bone Exoskeleton\|Bone exoskeleton]]                    | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Plated Leather\|Plated leather]]                        | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Sap Hide\|Sap hide]]                                    | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Silver Spiderweave\|Spiderweave, silver]]               | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Heartwood Shirt\|Heartwood shirt]]                      | +2              | 2/–              |
+| Medium armor                                                                           |                 |                  |
+| [[rangoric-srd/equipment/armor/Bone Plate\|Bone plate]]                                | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Clay Armor\|Clay armor]]                                | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Slat Armor\|Slat armor]]                                | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Crested Hide Mail\|Hide mail, crested]]                 | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Fur-Lined Hide Mail\|Hide mail, fur-lined]]             | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Hauberk\|Hauberk]]                                      | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Glacier Beast Hide\|Hide, glacier beast]]               | +2              | 1/–              |
+| [[rangoric-srd/equipment/armor/Oaken Tree Bark Armor\|Oaken tree bark armor]]          | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Wooden Plate\|Wooden plate]]                            | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Scaled Brigandine\|Brigandine, scaled]]                 | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Sculpted Scale Mail\|Sculpted scale mail]]              | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Aeroglass Plate\|Aeroglass plate]]                      | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Woodweave Coat\|Woodweave coat]]                        | +2              | 2/–              |
+| [[rangoric-srd/equipment/armor/Bone Mail\|Bone mail]]                                  | +3              | 2/–              |
+| [[rangoric-srd/equipment/armor/Ringmail\|Ringmail]]                                    | +3              | 2/–              |
+| [[rangoric-srd/equipment/armor/Iron Mantle\|Iron mantle]]                              | +3              | 2/–              |
+| [[rangoric-srd/equipment/armor/Shock Shell\|Shock shell]]                              | +3              | 2/–              |
+| [[rangoric-srd/equipment/armor/Traveler's Plate\|Traveler's plate]]                    | +3              | 2/–              |
+| [[rangoric-srd/equipment/armor/Heraldic Coin Armor\|Heraldic coin armor]]              | +3              | 2/–              |
+| [[rangoric-srd/equipment/armor/Rigid Breastplate\|Rigid breastplate]]                  | +3              | 3/–              |
+| [[rangoric-srd/equipment/armor/Shalik Plate\|Shalik plate]]                            | +4              | 3/–              |
+| Heavy armor                                                                            |                 |                  |
+| [[rangoric-srd/equipment/armor/Taskmaster Armor\|Taskmaster armor]]                    | +3              | 3/–              |
+| [[rangoric-srd/equipment/armor/Steelwood Splint\|Splint, steelwood]]                   | +3              | 3/–              |
+| [[rangoric-srd/equipment/armor/Gemstone Mail\|Morbius mail]]                           | +3              | 3/–              |
+| [[rangoric-srd/equipment/armor/Plant Fiber Plate\|Plant fiber plate]]                  | +4              | 3/–              |
+| [[rangoric-srd/equipment/armor/Articulated Half-Plate\|Articulated half-plate]]        | +4              | 3/–              |
+| [[rangoric-srd/equipment/armor/Daggered Plate\|Daggered plate]]                        | +4              | 3/–              |
+| [[rangoric-srd/equipment/armor/Gnarled Mail\|Gnarled mail]]                            | +4              | 3/–              |
+| [[rangoric-srd/equipment/armor/Blue Bone Mail\|Volt polar mail]]                       | +4              | 3/–              |
+| [[rangoric-srd/equipment/armor/Lancer's Half-Plate\|Lancer's half-plate]]              | +4              | 3/–              |
+| [[rangoric-srd/equipment/armor/Armor of the Beetle\|Armor of the beetle]]              | +5              | 4/–              |
+| [[rangoric-srd/equipment/armor/Double Plate\|Double plate]]                            | +6              | 6/–              |
+
+1 *Add any enhancement bonus to this value.*
+
+%% end generated %%
+
+##### Critical Hits
+
+Creatures critically hit while wearing armor keep their DR, reducing the amount of damage they suffer.
+
+**Vorpal/Bludgeoning/Piercing Qualities**: Some weapons have the ability to slice or crush the limbs from opponents on a successful hit. Wearing armor now gives the creature a chance to avoid such pitfalls. The chance to avoid this ability is as follows: Creatures struck must make a saving throw using their base armor DR as a bonus against a DC of 15 (some weapons with these qualities have higher DCs). If the save succeeds, the special quality (but not the damage) is negated. If the save is failed, the usual effects occur. Armor can be hardened and made more resistant with armor qualities.
 
 ### Damage Conversion
 

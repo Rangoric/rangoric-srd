@@ -11,6 +11,7 @@ special: ["hand-not-free"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Armor|Equipment Armor (3.5)]]"
   - "[[path srd 3.5/items/armor/Locked Gauntlet|Locked Gauntlet (PF1)]]"
+  - "[[individual books/Arms & Armor v3.5/armor/Gauntlet, Locked|Gauntlet, Locked (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
