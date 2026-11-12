@@ -450,6 +450,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Shield Companion\|Shield Companion]]: | As shield other, but affecting your companion creature. |
 |               | [[rangoric-srd/spells/Spellguard\|Spellguard]]: | Protect you spell from dispel attempts. |
 |               | [[rangoric-srd/spells/Stunning Barrier, Greater\|Stunning Barrier, Greater]]: | Magical field grants a +2 bonus to AC and on saves, and stuns multiple creatures attacking you. |
+|               | [[rangoric-srd/spells/Trove Sacrifice\|Trove Sacrifice]]: | Allow trove to be destroyed to protect self. |
 | Conjuration   | [[rangoric-srd/spells/Ablative Barrier\|Ablative Barrier]] (M): | Surrounds the target with layers of force. |
 |               | [[rangoric-srd/spells/Apport Animal\|Apport Animal]]: | Send or receive a Tiny or smaller animal via teleportation. |
 |               | [[rangoric-srd/spells/Aqueous Orb\|Aqueous Orb]] (M): | Creates rolling sphere of water. |
