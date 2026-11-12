@@ -484,6 +484,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Detect Desires\|Detect Desires]] (F): | Learn what a creatures desire. |
 |               | [[rangoric-srd/spells/Detect Mindscape\|Detect Mindscape]]: | Sense the presence and attributes of mindscapes. |
 |               | [[rangoric-srd/spells/Everlasting Wizard’s Light\|Everlasting Wizard’s Light]] (M F X): | A permanent *wizard’s light.* |
+|               | [[rangoric-srd/spells/Locate Jewels\|Locate Jewels]] (F): | Find jewels in the area. |
 |               | [[rangoric-srd/spells/Locate Weakness\|Locate Weakness]] (M): | You roll damage twice when you roll damage for a critical hit and take the best damage. |
 |               | [[rangoric-srd/spells/Open Book\|Open Book]] (M): | Make it permanently easier to learn more about a target. |
 |               | [[rangoric-srd/spells/Pack Empathy\|Pack Empathy]]: | Create an empathic bond with allies. |
@@ -1044,6 +1045,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Fluid Form\|Fluid Form]] (M): | Gain DR 10/slashing, increases reach 10 ft., and breathe water. |
 |               | [[rangoric-srd/spells/Form of the Dragon I\|Form of the Dragon I]] (M): | You become a Medium dragon. |
 |               | [[rangoric-srd/spells/Fox’s Cunning, Mass\|Fox’s Cunning, Mass]]:           | As fox’s cunning, affects one subject/ level.                                                                                                                                                |
+|               | [[rangoric-srd/spells/Gemguard\|Gemguard]] (F): | Makes a gem into a scrying device and alarm. |
 |               | [[rangoric-srd/spells/Immolation\|Immolation]]: | Expand a fire shield to surround you. |
 |               | [[rangoric-srd/spells/Mage’s Lucubration\|Mage’s Lucubration]]:             | Wizard only. Recalls spell of 5th level or lower.                                                                                                                                            |
 |               | [[rangoric-srd/spells/Matchless Power\|Matchless Power]] (F): | Subject gains Strength, Dexterity and Constitution, stuns opponents. |

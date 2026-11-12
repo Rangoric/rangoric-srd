@@ -546,6 +546,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]]:                             | You become ethereal for 1 round/level.                                                                                                                                                            |
 | [[rangoric-srd/spells/False Resurrection\|False Resurrection]] (M): | Appear to resurrect someone but instead allow a shadow demon to possess the corpse. |
 | [[rangoric-srd/spells/Fey Decree\|Fey Decree]]: | Deafens, cowers, frightens or wounds fey of other alignments; banishes nonfey from the fey realm. |
+| [[rangoric-srd/spells/Gemguard\|Gemguard]] (F): | Makes a gem into a scrying device and alarm. |
 | [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |
 | [[rangoric-srd/spells/Holy Word\|Holy Word]]:                                       | Kills, paralyzes, [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]], or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened\|deafens]] nongood subjects. |
 | [[rangoric-srd/spells/Inflict Serious Wounds, Mass\|Inflict Serious Wounds, Mass]]: | Deals 3d8 damage +1/level to many creatures.                                                                                                                                                      |

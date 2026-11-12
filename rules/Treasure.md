@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/Treasure|Treasure (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -177,6 +177,8 @@ For treasures above 20th level, use the 20th-level row and then add a number of 
 | 71–90 | 2d4 x 100 gp   | 500 gp   | Alexandrite; aquamarine; violet garnet; black pearl; deep blue spinel; golden yellow topaz                                                                                               |
 | 91–99 | 4d4 x 100 gp   | 1,000 gp | Emerald; white, black, or fire opal; blue sapphire; fiery yellow or rich purple corundum; blue or black star sapphire; star ruby                                                         |
 | 100   | 2d4 x 1,000 gp | 5,000 gp | Clearest bright green emerald; blue-white, canary, pink, brown, or blue diamond; jacinth                                                                                                 |
+
+What each gem looks like, its value range and its uses in magic are in [[rangoric-srd/rules/Gems|Gems]].
 
 **Table: ART OBJECTS**
 
