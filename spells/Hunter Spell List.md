@@ -61,6 +61,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]: | Cures 1d8 damage +1/level (max +5). |
 | [[rangoric-srd/spells/Damp Powder\|Damp Powder]] (M): | Ruins ammunition loaded in the targeted firearm. |
 | [[rangoric-srd/spells/Dancing Lantern\|Dancing Lantern]] (F): | Animates a lantern that follows you. |
+| [[rangoric-srd/spells/Deactivate\|Deactivate]]: | A targeted dispel to suppress a magical item. |
 | [[rangoric-srd/spells/Deadeye’s Lore\|Deadeye’s Lore]]: | Gain a +4 bonus on Fieldcraft and move full speed while tracking. |
 | [[rangoric-srd/spells/Decompose Corpse\|Decompose Corpse]] (M): | Turn a corpse into a clean skeleton. |
 | [[rangoric-srd/spells/Delay Poison\|Delay Poison]]: | Stops poison from harming subject for 1 hour/level. |
@@ -72,6 +73,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
 | [[rangoric-srd/spells/Echo\|Echo]] (F): | Cause a sound to repeat itself |
+| [[rangoric-srd/spells/Elemental Weapon\|Elemental Weapon]] (F): | Surrounds weapon with an elemental energy form. |
 | [[rangoric-srd/spells/Endothermic Touch\|Endothermic Touch]] (M): | Stagger a creature and reduce their speed by half, but increase the time they can hold their breath. |
 | [[rangoric-srd/spells/Endure Elements\|Endure Elements]]: | Exist comfortably in hot or cold environments. |
 | [[rangoric-srd/spells/Entangle\|Entangle]]: | Plants entangle everyone in 40-ft.-radius. |
@@ -172,6 +174,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Aquatic Cavalry\|Aquatic Cavalry]]: | Summon hippocampi to serve as aquatic mounts |
 | [[rangoric-srd/spells/Arrow Eruption\|Arrow Eruption]] (M): | Creates duplicates of killing arrow. |
 | [[rangoric-srd/spells/Aspect of the Bear\|Aspect of the Bear]]: | +2 AC and combat maneuver rolls. |
+| [[rangoric-srd/spells/Awakening\|Awakening]]: | Awaken sleeping creatures. |
 | [[rangoric-srd/spells/Badger’s Ferocity\|Badger’s Ferocity]]: | Weapons are keen while you concentrate. |
 | [[rangoric-srd/spells/Barkskin\|Barkskin]]: | Grants +2 (or higher) enhancement to natural armor. |
 | [[rangoric-srd/spells/Bear’s Endurance\|Bear’s Endurance]]: | Subject gains +4 to Con for 1 min./level. |
@@ -210,6 +213,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Flaming Sphere\|Flaming Sphere]]: | Creates rolling ball of fire, 2d6 damage, lasts 1 round/level. |
 | [[rangoric-srd/spells/Fog Cloud\|Fog Cloud]]: | Fog obscures vision. |
 | [[rangoric-srd/spells/Forest Friend\|Forest Friend]] (M): | Plants in a forested area become helpful instead of hindering you and your allies. |
+| [[rangoric-srd/spells/Forest Invisibility\|Forest Invisibility]]: | Become *invisible* in natural surroundings. |
 | [[rangoric-srd/spells/Frigid Touch\|Frigid Touch]]: | Target takes cold damage and is staggered. |
 | [[rangoric-srd/spells/Frost Fall\|Frost Fall]]: | The area is covered in a chilling frost. |
 | [[rangoric-srd/spells/Fury of the Sun\|Fury of the Sun]]: | You curse the target to suffer unbearable heat. |
@@ -243,6 +247,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Protection from Energy\|Protection from Energy]]: | Absorb 12 points/level of damage from one kind of energy. |
 | [[rangoric-srd/spells/Protective Spirit\|Protective Spirit]]: | Protects from attacks of opportunity. |
 | [[rangoric-srd/spells/Reduce Animal\|Reduce Animal]]: | Shrinks one willing animal. |
+| [[rangoric-srd/spells/Refracted Vision\|Refracted Vision]]: | Gain a distant viewpoint. |
 | [[rangoric-srd/spells/Reloading Hands\|Reloading Hands]]: | Loads a single shot into your weapon every round. |
 | [[rangoric-srd/spells/Replay Tracks\|Replay Tracks]] (F): | Reconstruct past events from a set of tracks |
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]: | Dispels magical ability penalty or repairs 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged\|ability damage]]. |
@@ -325,16 +330,20 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Diminish Plants\|Diminish Plants]]: | Reduces size or blights growth of normal plants. |
 | [[rangoric-srd/spells/Dominate Animal\|Dominate Animal]]: | Subject animal obeys silent mental commands. |
 | [[rangoric-srd/spells/Earth Tremor\|Earth Tremor]]: | Unleash a tremor that creates difficult terrain and can knock foes down and damage them |
+| [[rangoric-srd/spells/Enemy Scourge\|Enemy Scourge]]: | Makes successful attacks into a critical hit. |
 | [[rangoric-srd/spells/Enshroud Thoughts\|Enshroud Thoughts]]: | Ward yourself against thought detection and memory alteration. |
+| [[rangoric-srd/spells/Eyes of the Bloodhound\|Eyes of the Bloodhound]] (M): | You ‘see’ scents and odors, improving your ability to track. |
 | [[rangoric-srd/spells/Feather Step, Mass\|Feather Step, Mass]]: | As feather step, but affects many targets rather than one. |
 | [[rangoric-srd/spells/Fey Form I\|Fey Form I]] (M): | Assume the form of a Small or Medium fey creature |
 | [[rangoric-srd/spells/Fey Mask\|Fey Mask]]: | As invisibility, but you choose who can see the subjects. |
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
+| [[rangoric-srd/spells/Finding the Quarry\|Finding the Quarry]] (M): | Attunes and dedicates all of a subject’s senses to finding a person. |
 | [[rangoric-srd/spells/Fins to Feet\|Fins to Feet]]: | You transform the target's fins, flippers, or tail into legs and feet, allowing it to walk on land. |
 | [[rangoric-srd/spells/Flashfire\|Flashfire]]: | Cause smoky fires to spring up to burn foes and set them alight |
 | [[rangoric-srd/spells/Forest’s Sense\|Forest’s Sense]]: | Sense the location of a distant target that is near a plant or fungus |
 | [[rangoric-srd/spells/Fungal Infestation\|Fungal Infestation]]: | Target takes bleed from attacks. |
 | [[rangoric-srd/spells/Geomessage\|Geomessage]] (M): | Leave a message hidden on a surface |
+| [[rangoric-srd/spells/High Albatross\|High Albatross]] (M): | A bird gives you *clairvoyance* over a large area. |
 | [[rangoric-srd/spells/Hydraulic Torrent\|Hydraulic Torrent]]: | Creates torrent of water that bull rushes any creature in its path. |
 | [[rangoric-srd/spells/Insect Spies\|Insect Spies]] (M): | Use magic beetles as spies. |
 | [[rangoric-srd/spells/Instant Enemy\|Instant Enemy]]: | Target is treated as a favored enemy type of your choice. |
@@ -434,6 +443,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Echolocation\|Echolocation]]: | Sonic sense gives you blindsight 40 ft. |
 | [[rangoric-srd/spells/Entice Fey, Lesser\|Entice Fey, Lesser]] (M): | Entice service from a fey with 6 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Explosion of Rot\|Explosion of Rot]] (M): | Call forth a burst of decay that damages and can stagger targets |
+| [[rangoric-srd/spells/Familiaform\|Familiaform]] (F): | Grants familiar the power of wild shape. |
 | [[rangoric-srd/spells/Find Quarry\|Find Quarry]]: | You can sense whether a particular creature is within 20 miles of your location. |
 | [[rangoric-srd/spells/Flame Strike\|Flame Strike]]: | Smite foes with divine fire (1d6/level damage). |
 | [[rangoric-srd/spells/Flaming Sphere, Greater\|Flaming Sphere, Greater]] (M): | Rolling ball of fire deals 6d6 fire damage and ignites targets. |
@@ -493,6 +503,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Fey Form II\|Fey Form II]] (M): | assume the form of a Tiny or Large fey creature |
 | [[rangoric-srd/spells/Fire Snake\|Fire Snake]] (M): | Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level. |
 | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
+| [[rangoric-srd/spells/Grant\|Grant]]: | Change the range of a spell from Personal to Touch. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
 | [[rangoric-srd/spells/Hallow\|Hallow]] (M): | Designates location as holy. |
 | [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: | Enchant the ground to pull creatures beneath the surface. |
@@ -508,6 +519,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally V\|Summon Nature’s Ally V]]: | Calls creature to fight. |
 | [[rangoric-srd/spells/Swallow Poison\|Swallow Poison]]: | Protect yourself against ingested poison, then spit it out in a cone. |
+| [[rangoric-srd/spells/Teleport Trace\|Teleport Trace]] (F): | Tracks teleporting creatures to their destination |
 | [[rangoric-srd/spells/Threefold Aspect\|Threefold Aspect]] (F): | Appear older or younger. |
 | [[rangoric-srd/spells/Tidal Surge\|Tidal Surge]]: | Create a surge of water to bludgeon foes and extinguish fires |
 | [[rangoric-srd/spells/Transmute Mud to Rock\|Transmute Mud to Rock]]: | Transforms two 10-ft. cubes per level. |

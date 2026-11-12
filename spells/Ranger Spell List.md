@@ -132,6 +132,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Escape Alarm\|Escape Alarm]] (F): | As alarm, but alerts you when a creatuer leaves the area |
 | [[rangoric-srd/spells/Escaping Ward\|Escaping Ward]]: | This ward grants you extra maneuverability when you avoid attacks against larger foes. |
 | [[rangoric-srd/spells/Forest Friend\|Forest Friend]] (M): | Plants in a forested area become helpful instead of hindering you and your allies. |
+| [[rangoric-srd/spells/Forest Invisibility\|Forest Invisibility]]: | Become *invisible* in natural surroundings. |
 | [[rangoric-srd/spells/Grasping Vine\|Grasping Vine]]: | Sprout a 20-ft long vine that can assist with numerous tasks. |
 | [[rangoric-srd/spells/Greensight\|Greensight]] (M): | Grant a target the ability to see through plant matter as if it were transparent |
 | [[rangoric-srd/spells/Groundswell\|Groundswell]]: | Allows the target to cause the ground to rise up beneath him. |
@@ -203,9 +204,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Darkvision\|Darkvision]]:                             | See 60 ft. in total darkness.                                                                          |
 | [[rangoric-srd/spells/Delay Poison, Communal\|Delay Poison, Communal]]: | As delay poison, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Diminish Plants\|Diminish Plants]]:                   | Reduces size or blights growth of normal plants.                                                       |
+| [[rangoric-srd/spells/Enemy Scourge\|Enemy Scourge]]: | Makes successful attacks into a critical hit. |
 | [[rangoric-srd/spells/Enshroud Thoughts\|Enshroud Thoughts]]: | Ward yourself against thought detection and memory alteration. |
+| [[rangoric-srd/spells/Eyes of the Bloodhound\|Eyes of the Bloodhound]] (M): | You ‘see’ scents and odors, improving your ability to track. |
 | [[rangoric-srd/spells/Feather Step, Mass\|Feather Step, Mass]]: | As feather step, but affects many targets rather than one. |
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
+| [[rangoric-srd/spells/Finding the Quarry\|Finding the Quarry]] (M): | Attunes and dedicates all of a subject’s senses to finding a person. |
 | [[rangoric-srd/spells/Forest’s Sense\|Forest’s Sense]]: | Sense the location of a distant target that is near a plant or fungus |
 | [[rangoric-srd/spells/Geomessage\|Geomessage]] (M): | Leave a message hidden on a surface |
 | [[rangoric-srd/spells/Insect Spies\|Insect Spies]] (M): | Use magic beetles as spies. |

@@ -50,6 +50,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Commune with Birds\|Commune with Birds]]: | You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can understand the responses given by birds in the area. |
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:               | Cures 1d8 damage +1/level (max +5).                                        |
 | [[rangoric-srd/spells/Damp Powder\|Damp Powder]] (M): | Ruins ammunition loaded in the targeted firearm. |
+| [[rangoric-srd/spells/Deactivate\|Deactivate]]: | A targeted dispel to suppress a magical item. |
 | [[rangoric-srd/spells/Deadeye’s Lore\|Deadeye’s Lore]]: | Gain a +4 bonus on Fieldcraft and move full speed while tracking. |
 | [[rangoric-srd/spells/Decompose Corpse\|Decompose Corpse]] (M): | Turn a corpse into a clean skeleton. |
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
@@ -59,6 +60,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
 | [[rangoric-srd/spells/Echo\|Echo]] (F): | Cause a sound to repeat itself |
+| [[rangoric-srd/spells/Elemental Weapon\|Elemental Weapon]] (F): | Surrounds weapon with an elemental energy form. |
 | [[rangoric-srd/spells/Endothermic Touch\|Endothermic Touch]] (M): |  |
 | [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:                   | Exist comfortably in hot or cold environments.                             |
 | [[rangoric-srd/spells/Entangle\|Entangle]]:                                 | Plants entangle everyone in 40-ft.-radius.                                 |
@@ -134,6 +136,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Ant Haul, Communal\|Ant Haul, Communal]] (M): | As ant haul, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Aquatic Cavalry\|Aquatic Cavalry]]: | Summon hippocampi to serve as aquatic mounts |
 | [[rangoric-srd/spells/Aspect of the Bear\|Aspect of the Bear]]: | +2 AC and combat maneuver rolls. |
+| [[rangoric-srd/spells/Awakening\|Awakening]]: | Awaken sleeping creatures. |
 | [[rangoric-srd/spells/Barkskin\|Barkskin]]:                               | Grants +2 (or higher) enhancement to natural armor.                                                                                         |
 | [[rangoric-srd/spells/Bear’s Endurance\|Bear’s Endurance]]:               | Subject gains +4 to Con for 1 min./level.                                                                                                   |
 | [[rangoric-srd/spells/Beastspeak\|Beastspeak]]: | Speak normally while in animal form. |
@@ -161,6 +164,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Flaming Sphere\|Flaming Sphere]]:                   | Creates rolling ball of fire, 2d6 damage, lasts 1 round/level.                                                                              |
 | [[rangoric-srd/spells/Fog Cloud\|Fog Cloud]]:                             | Fog obscures vision.                                                                                                                        |
 | [[rangoric-srd/spells/Forest Friend\|Forest Friend]] (M): | Plants in a forested area become helpful instead of hindering you and your allies. |
+| [[rangoric-srd/spells/Forest Invisibility\|Forest Invisibility]]: | Become *invisible* in natural surroundings. |
 | [[rangoric-srd/spells/Frigid Touch\|Frigid Touch]]: | Target takes cold damage and is staggered. |
 | [[rangoric-srd/spells/Frost Fall\|Frost Fall]]: | The area is covered in a chilling frost. |
 | [[rangoric-srd/spells/Fury of the Sun\|Fury of the Sun]]: | You curse the target to suffer unbearable heat. |
@@ -185,6 +189,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Pouncing Fury\|Pouncing Fury]]: | Make a full attack with your claws after a charge |
 | [[rangoric-srd/spells/Pox Pustules\|Pox Pustules]] (M): | Subject is sickened and has -4 Dex. |
 | [[rangoric-srd/spells/Reduce Animal\|Reduce Animal]]:                     | Shrinks one willing animal.                                                                                                                 |
+| [[rangoric-srd/spells/Refracted Vision\|Refracted Vision]]: | Gain a distant viewpoint. |
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                     | Ignores 10 (or more) points of damage/attack from specified energy type.                                                                    |
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:         | Dispels magical ability penalty or repairs 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged\|ability damage]]. |
 | [[rangoric-srd/spells/Savage Maw\|Savage Maw]]: | Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. |
@@ -257,6 +262,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Flashfire\|Flashfire]]: | Cause smoky fires to spring up to burn foes and set them alight |
 | [[rangoric-srd/spells/Fungal Infestation\|Fungal Infestation]]: | Target takes bleed from attacks. |
 | [[rangoric-srd/spells/Hide Campsite\|Hide Campsite]] (M): | Hides all traces of your campsite. |
+| [[rangoric-srd/spells/High Albatross\|High Albatross]] (M): | A bird gives you *clairvoyance* over a large area. |
 | [[rangoric-srd/spells/Hydraulic Torrent\|Hydraulic Torrent]]: | Creates torrent of water that bull rushes any creature in its path. |
 | [[rangoric-srd/spells/Improve Trap\|Improve Trap]]: | Improves a trap with one specific element of the trap chosen at the time of casting. |
 | [[rangoric-srd/spells/Insect Spies\|Insect Spies]] (M): | Use magic beetles as spies. |
@@ -344,6 +350,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Earth Glide\|Earth Glide]]: | The target can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water, traveling at a speed of 5 feet. |
 | [[rangoric-srd/spells/Echolocation\|Echolocation]]: | Sonic sense gives you blindsight 40 ft. |
 | [[rangoric-srd/spells/Explosion of Rot\|Explosion of Rot]] (M): | Call forth a burst of decay that damages and can stagger targets |
+| [[rangoric-srd/spells/Eyes of the Bloodhound\|Eyes of the Bloodhound]] (M): | You ‘see’ scents and odors, improving your ability to track. |
+| [[rangoric-srd/spells/Familiaform\|Familiaform]] (F): | Grants familiar the power of wild shape. |
 | [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:                       | Smite foes with divine fire (1d6/level damage).                                                              |
 | [[rangoric-srd/spells/Flaming Sphere, Greater\|Flaming Sphere, Greater]] (M): | Rolling ball of fire deals 6d6 fire damage and ignites targets. |
 | [[rangoric-srd/spells/Forest’s Sense\|Forest’s Sense]]: | Sense the location of a distant target that is near a plant or fungus |
@@ -404,6 +412,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
 | [[rangoric-srd/spells/Fire Snake\|Fire Snake]] (M): | Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level. |
 | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
+| [[rangoric-srd/spells/Grant\|Grant]]: | Change the range of a spell from Personal to Touch. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
 | [[rangoric-srd/spells/Hallow\|Hallow]] (M):                             | Designates location as holy.                                                                              |
 | [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: |  |
@@ -422,6 +431,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally V\|Summon Nature’s Ally V]]: | Calls creature to fight.                                                                                  |
 | [[rangoric-srd/spells/Swallow Poison\|Swallow Poison]]: | Protect yourself against ingested poison, then spit it out in a cone. |
+| [[rangoric-srd/spells/Teleport Trace\|Teleport Trace]] (F): | Tracks teleporting creatures to their destination |
 | [[rangoric-srd/spells/Threefold Aspect\|Threefold Aspect]] (F): | Appear older or younger. |
 | [[rangoric-srd/spells/Tidal Surge\|Tidal Surge]]: | Create a surge of water to bludgeon foes and extinguish fires |
 | [[rangoric-srd/spells/Transmute Mud to Rock\|Transmute Mud to Rock]]:   | Transforms two 10-ft. cubes per level.                                                                    |
@@ -492,6 +502,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Delectable Flesh\|Delectable Flesh]]: | Make a creature so delicious that all others nearby are consumed by the desire to eat it. |
 | [[rangoric-srd/spells/Entice Fey\|Entice Fey]] (M): | Entice service from a fey with 12 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Fairy Ring Retreat\|Fairy Ring Retreat]]: | Toadstool circle leads to an extradimensional meadow. |
+| [[rangoric-srd/spells/Fast Elemental\|Fast Elemental]]: | Summon a large elemental as a standard action. |
 | [[rangoric-srd/spells/Fey Decree\|Fey Decree]]: | Deafens, cowers, frightens or wounds fey of other alignments; banishes nonfey from the fey realm. |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                 | Deals 1d6/level fire damage.                                                                           |
 | [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |

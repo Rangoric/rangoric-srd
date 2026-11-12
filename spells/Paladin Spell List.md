@@ -88,6 +88,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Eagle’s Splendor\|Eagle’s Splendor]]:             | Subject gains +4 to Cha for 1 min./level.                                |
 | [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
 | [[rangoric-srd/spells/Endure Elements, Communal\|Endure Elements, Communal]]: | As endure elements, but you may divide the duration among creatures touched. |
+| [[rangoric-srd/spells/Expunge\|Expunge]]: | Damage from a turn or rebuke attempt is increased. |
 | [[rangoric-srd/spells/Fire of Entanglement\|Fire of Entanglement]]: | Your ability to smite evil also entangles your foe. |
 | [[rangoric-srd/spells/Holy Shield\|Holy Shield]]: | Lend your shield's protection to another. |
 | [[rangoric-srd/spells/Instant Armor\|Instant Armor]]: | Summon armor temporarily replacing your current attire. |
@@ -105,6 +106,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Protection from Evil, Communal\|Protection from Evil, Communal]] (M): | As protection from evil, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Remove Paralysis\|Remove Paralysis]]:             | Frees one or more creatures from paralysis or slow effect.               |
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                   | Ignores 10 (or more) points of damage/attack from specified energy type. |
+| [[rangoric-srd/spells/Righteous Radiance\|Righteous Radiance]]: | Caster’s body glows with divine radiance. |
 | [[rangoric-srd/spells/Righteous Vigor\|Righteous Vigor]]: | Boosts attack bonus with each hit. |
 | [[rangoric-srd/spells/Sacred Bond\|Sacred Bond]] (F): | Cast touch healing spells from a distance. |
 | [[rangoric-srd/spells/Sacred Space\|Sacred Space]] (M): | This spell sanctifies an area with heavenly power. |
@@ -124,6 +126,7 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                                        | Brief Description                                              |
 | --------------------------------------------------------------------------------- | -------------------------------------------------------------- |
 | [[rangoric-srd/spells/Archon’s Aura\|Archon’s Aura]]: | Aura penalizes enemy attacks and AC. |
+| [[rangoric-srd/spells/Armor of Deflection\|Armor of Deflection]]: | The subject gains damage reduction and deflection AC bonus. |
 | [[rangoric-srd/spells/Bestow Auras\|Bestow Auras]]: | Transfer your paladin or antipaladin auras to another creature. |
 | [[rangoric-srd/spells/Blade of Bright Victory\|Blade of Bright Victory]]: | Bonded weapon gains ghost touch. |
 | [[rangoric-srd/spells/Blessing of the Mole\|Blessing of the Mole]]: | 1 ally/level gains darkvision and a +2 Stealth bonus. |
@@ -169,6 +172,7 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                          | Brief Description                                                         |
 | ------------------------------------------------------------------- | ------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Absolution\|Absolution]] (M): | Removes enchantments and forgives actions taken under their effects. |
+| [[rangoric-srd/spells/Armor of Faith\|Armor of Faith]]: | As *armor of deflection*, except the protection is much greater. |
 | [[rangoric-srd/spells/Bestow Grace of the Champion\|Bestow Grace of the Champion]]: | Target gains paladin abilities for 1 round/level. |
 | [[rangoric-srd/spells/Blaze of Glory\|Blaze of Glory]]: | Last stand cures good creatures, hurts evil. |
 | [[rangoric-srd/spells/Blessing of Luck and Resolve, Mass\|Blessing of Luck and Resolve, Mass]]: | Functions like blessing of luck and resolve, except that it affects multiple creatures. |
