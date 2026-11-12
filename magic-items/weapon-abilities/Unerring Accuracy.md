@@ -7,6 +7,7 @@ prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, tru
 price: "+6 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Unerring Accuracy|Unerring Accuracy (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Unerring Accuracy|Unerring Accuracy (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, unholy blight, creator must be evil"
 price: "+2 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Unholy|Unholy (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Unholy|Unholy (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
