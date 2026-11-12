@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "evolution"
-class: ["Summoner"]
+class: ["Summoner", "Unchained Summoner"]
 evolution-cost: 3
 book: "Ultimate Magic"
 based-on:
@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Major Magic
 
-*A 3-point evolution (Sp) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon.*
+*A 3-point evolution (Sp) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
 
 An eidolon learns to cast a major spell as a spell-like ability. Select one spell from the following list: *[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Daze Monster|daze monster]]*, *[[rangoric-srd/spells/Glide|glide]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*, *[[rangoric-srd/spells/Levitate|levitate]]*, *[[rangoric-srd/spells/Minor Image|minor image]]*, *[[rangoric-srd/spells/Scorching Ray|scorching ray]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, or *[[rangoric-srd/spells/Spider Climb|spider climb]]*. This spell can be cast once per day as a spell-like ability.
 

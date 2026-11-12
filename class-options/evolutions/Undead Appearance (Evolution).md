@@ -2,7 +2,7 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "evolution"
-class: ["Summoner"]
+class: ["Summoner", "Unchained Summoner"]
 evolution-cost: 2
 book: "Ultimate Magic"
 based-on:
@@ -16,7 +16,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Undead Appearance
 
-*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon.*
+*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
 
 An eidolon appears as an undead creature, and mimics some of an undead creature’s abilities and weaknesses. Negative energy heals the eidolon, and positive energy (including a cleric’s [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] ability) harms it. Spells and effects that target undead or have specific effects against undead (such as Command Undead, *hold undead*, and *[[rangoric-srd/spells/Searing Light|searing light]]*) affect the eidolon as if it were undead. The eidolon gains a +2 bonus on saves against disease, exhaustion, fatigue, paralysis, poison, sleep effects, and stunning.
 
