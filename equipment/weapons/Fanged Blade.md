@@ -22,4 +22,4 @@ tags: [rangoric, rangoric/weapon, weapon-group/heavy-blades]
 
 *Martial one-handed melee weapon.* Cost 450 gp; Dmg 1d6+1 (S), 1d8+1 (M); Critical 19-20/x2; Weight 3 lb.; Type Slashing. ^stats
 
-This blade is similar in length to a longsword, but it is constructed from a rare wood called steelwood and lined with a series of razor sharp spikes. The hilt of the weapon is normally wrapped in leather, and is often decorated with hanging beadwork and feathers. Many barbarians and druids favor this weapon.
+This blade is similar in length to a longsword, but it is constructed from a rare wood called [[rangoric-srd/equipment/Special Materials#^steelwood|steelwood]] and lined with a series of razor sharp spikes. The hilt of the weapon is normally wrapped in leather, and is often decorated with hanging beadwork and feathers. Many barbarians and druids favor this weapon.
