@@ -1,7 +1,7 @@
 ---
 srd-type: "weapon"
 section: "Equipment"
-table-name: "Cleaver, nightling"
+table-name: "Cleaver, heavy"
 proficiency: "martial"
 category: "two-handed"
 cost-gp: 35

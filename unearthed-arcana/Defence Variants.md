@@ -212,12 +212,12 @@ The standard armors aren’t repeated here; they have the values on Table: Armor
 | Heavy armor                                                                            |                 |                  |
 | [[rangoric-srd/equipment/armor/Taskmaster Armor\|Taskmaster armor]]                    | +3              | 3/–              |
 | [[rangoric-srd/equipment/armor/Steelwood Splint\|Splint, steelwood]]                   | +3              | 3/–              |
-| [[rangoric-srd/equipment/armor/Gemstone Mail\|Morbius mail]]                           | +3              | 3/–              |
+| [[rangoric-srd/equipment/armor/Gemstone Mail\|Gemstone mail]]                          | +3              | 3/–              |
 | [[rangoric-srd/equipment/armor/Plant Fiber Plate\|Plant fiber plate]]                  | +4              | 3/–              |
 | [[rangoric-srd/equipment/armor/Articulated Half-Plate\|Articulated half-plate]]        | +4              | 3/–              |
 | [[rangoric-srd/equipment/armor/Daggered Plate\|Daggered plate]]                        | +4              | 3/–              |
 | [[rangoric-srd/equipment/armor/Gnarled Mail\|Gnarled mail]]                            | +4              | 3/–              |
-| [[rangoric-srd/equipment/armor/Blue Bone Mail\|Volt polar mail]]                       | +4              | 3/–              |
+| [[rangoric-srd/equipment/armor/Blue Bone Mail\|Blue bone mail]]                        | +4              | 3/–              |
 | [[rangoric-srd/equipment/armor/Lancer's Half-Plate\|Lancer's half-plate]]              | +4              | 3/–              |
 | [[rangoric-srd/equipment/armor/Armor of the Beetle\|Armor of the beetle]]              | +5              | 4/–              |
 | [[rangoric-srd/equipment/armor/Double Plate\|Double plate]]                            | +6              | 6/–              |

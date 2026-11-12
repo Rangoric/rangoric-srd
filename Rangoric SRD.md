@@ -31,13 +31,13 @@ The 3.5 SRD's layout, as copied:
 | Folder | What's in it |
 | --- | --- |
 | `legal` | The OGL with every Section 15 notice, and the sources' Product Identity |
-| `rules` | Basics, alignment, races, carrying and movement, environment, traps, treasure, planes, conditions |
+| `rules` | Basics, alignment, races, carrying and movement, environment, traps, treasure, planes, conditions; gems; a folder for each magic subsystem (alchemy and herbalism, blood, dragon, mirror, rune, star and totem magic, spellsinging, the paths of jewels and shades) and for the spellblights |
 | `combat` | Actions, initiative, attacks of opportunity, movement, special attacks, injury and death |
 | `classes`, `prestige-classes` | Base, NPC and prestige classes |
 | `skills`, `feats` | One note per skill and feat |
 | `class-options` | One note per class option (bloodlines, and later rage powers, talents, hexes…), in a folder per kind (added 2026-11-02) |
 | `spells`, `powers` | One note per spell and psionic power, plus the class lists |
-| `equipment`, `magic-items` | Weapons, armor, gear, materials; one note per magic item in type folders |
+| `equipment`, `magic-items` | Weapons and armor (one note each), gear, materials, herbs (`equipment/herbs`) and alchemical and herbal items (`equipment/alchemical-items`); one note per magic item in type folders |
 | `monsters` | One note per creature, with group folders (angel, demon, dragon, ghoul…) |
 | `psionics`, `epic`, `divine` | The psionic, epic and divine rules, classes and items |
 | `unearthed-arcana` | Optional and variant rules |

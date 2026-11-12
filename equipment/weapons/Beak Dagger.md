@@ -1,7 +1,7 @@
 ---
 srd-type: "weapon"
 section: "Equipment"
-table-name: "Dagger, carvet"
+table-name: "Dagger, beak"
 proficiency: "simple"
 category: "light"
 cost-gp: 40

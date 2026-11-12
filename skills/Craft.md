@@ -8,7 +8,7 @@ based-on:
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-12
 tags: [rangoric, rangoric/skill, background]
 ---
 
@@ -81,6 +81,8 @@ When you use the Craft skill to make a particular sort of item, the DC for check
 Antitoxin and other remedies are made with [[rangoric-srd/skills/Medicine|Medicine]] instead.
 
 Gnomes are better at Craft (alchemy) checks; see the [[rangoric-srd/races/Gnome|gnome]].
+
+Craft (alchemy) is also the skill of the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemy|alchemy]] rules: their processes, analysis and identification, the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items|alchemical and herbal items]], and [[rangoric-srd/rules/Gems#Disguising and Detecting a Gem’s Value|disguising and detecting a gem’s value]].
 
 You may voluntarily add +10 to the indicated DC to craft an item. This allows you to create the item more quickly (since you’ll be multiplying this higher DC by your Craft check result to determine progress). You must decide whether to increase the DC before you make each weekly or daily check.
 

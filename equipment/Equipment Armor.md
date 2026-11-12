@@ -133,13 +133,13 @@ Each armor, shield and extra has its own note in the `armor` folder, linked from
 | [[rangoric-srd/equipment/armor/Banded Mail\|Banded mail]]                              | 250 gp    | +6                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 35 lb.     |
 | [[rangoric-srd/equipment/armor/Taskmaster Armor\|Taskmaster armor]]                    | 400 gp    | +6                 | +1                | –5                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
 | [[rangoric-srd/equipment/armor/Steelwood Splint\|Splint, steelwood]]                   | 500 gp    | +6                 | +2                | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
-| [[rangoric-srd/equipment/armor/Gemstone Mail\|Morbius mail]]                           | 700 gp    | +6                 | 0                 | –7                  | 37%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lb.     |
+| [[rangoric-srd/equipment/armor/Gemstone Mail\|Gemstone mail]]                          | 700 gp    | +6                 | 0                 | –7                  | 37%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lb.     |
 | [[rangoric-srd/equipment/armor/Plant Fiber Plate\|Plant fiber plate]]                  | 500 gp    | +7                 | +1                | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
 | [[rangoric-srd/equipment/armor/Half-Plate\|Half-plate]]                                | 600 gp    | +7                 | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
 | [[rangoric-srd/equipment/armor/Articulated Half-Plate\|Articulated half-plate]]        | 800 gp    | +7                 | +1                | –6                  | 40%                         | 20 ft.         | 15 ft.         | 45 lb.     |
 | [[rangoric-srd/equipment/armor/Daggered Plate\|Daggered plate]]                        | 800 gp    | +7                 | 0                 | –7                  | 45%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
 | [[rangoric-srd/equipment/armor/Gnarled Mail\|Gnarled mail]]                            | 800 gp    | +7                 | 0                 | –7                  | 42%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
-| [[rangoric-srd/equipment/armor/Blue Bone Mail\|Volt polar mail]]                       | 1,500 gp  | +7                 | +2                | –5                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 35 lb.     |
+| [[rangoric-srd/equipment/armor/Blue Bone Mail\|Blue bone mail]]                        | 1,500 gp  | +7                 | +2                | –5                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 35 lb.     |
 | [[rangoric-srd/equipment/armor/Lancer's Half-Plate\|Lancer's half-plate]]              | 2,000 gp  | +7                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
 | [[rangoric-srd/equipment/armor/Full Plate\|Full plate]]                                | 1,500 gp  | +8                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
 | [[rangoric-srd/equipment/armor/Armor of the Beetle\|Armor of the beetle]]              | 2,000 gp  | +9                 | 0                 | –8                  | 45%                         | 20 ft. (2)     | 15 ft. (2)     | 60 lb.     |
@@ -214,6 +214,8 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 
 ![[rangoric-srd/equipment/armor/Bishop's Mantle]]
 
+![[rangoric-srd/equipment/armor/Blue Bone Mail]]
+
 ![[rangoric-srd/equipment/armor/Bone Armor Spikes]]
 
 ![[rangoric-srd/equipment/armor/Bone Exoskeleton]]
@@ -272,6 +274,8 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 
 ![[rangoric-srd/equipment/armor/Locked Gauntlet]]
 
+![[rangoric-srd/equipment/armor/Gemstone Mail]]
+
 ![[rangoric-srd/equipment/armor/Gnarled Mail]]
 
 ![[rangoric-srd/equipment/armor/Gorget]]
@@ -295,8 +299,6 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 ![[rangoric-srd/equipment/armor/Iron Mantle]]
 
 ![[rangoric-srd/equipment/armor/Lancer's Half-Plate]]
-
-![[rangoric-srd/equipment/armor/Gemstone Mail]]
 
 ![[rangoric-srd/equipment/armor/Oaken Tree Bark Armor]]
 
@@ -367,8 +369,6 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 ![[rangoric-srd/equipment/armor/Short Tonlet]]
 
 ![[rangoric-srd/equipment/armor/Traveler's Plate]]
-
-![[rangoric-srd/equipment/armor/Blue Bone Mail]]
 
 ![[rangoric-srd/equipment/armor/Weapon Tether]]
 
