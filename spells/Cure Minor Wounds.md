@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Healing"
 level:
+  - "Apo 0"
   - "Clr 0"
   - "Drd 0"
   - "Hun 0"
@@ -19,6 +20,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 0, Drd 0, Hun 0
+  - **Level**: Apo 0, Clr 0, Drd 0, Hun 0
 
 This spell functions like [[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], except that it cures only 1 point of damage.

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Apo 1"
   - "Drd 1"
   - "Hun 1"
   - "Sha 1"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 1, Hun 1, Sha 1
+  - **Level**: Apo 1, Drd 1, Hun 1, Sha 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch
