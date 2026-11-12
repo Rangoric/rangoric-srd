@@ -3,8 +3,9 @@ srd-type: "overview"
 section: "Magic Items"
 based-on:
   - "[[fantasy srd 3.5/magic-items/Magic Wondrous Items|Magic Wondrous Items (3.5)]]"
-status: base
-change: copied
+  - "[[individual books/Arms & Armor v3.5/rules/Armor Of Gallantry|Armor Of Gallantry (Arms & Armor)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -340,193 +341,260 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 
 Standard wondrous items are described below.
 
-  - [[rangoric-srd/magic-items/wondrous-items/Amulet of Bullet Protection|Amulet of Bullet Protection]]
-  - [[rangoric-srd/magic-items/wondrous-items/Amulet of Health|Amulet of Health]]
-  - [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists|Amulet of Mighty Fists]]
-  - [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor|Amulet of Natural Armor]]
-  - [[rangoric-srd/magic-items/wondrous-items/Amulet of the Planes|Amulet of the Planes]]
-  - [[rangoric-srd/magic-items/wondrous-items/Amulet of Proof against Detection and Location|Amulet of Proof against Detection and Location]]
-  - [[rangoric-srd/magic-items/wondrous-items/Apparatus of the Crab|Apparatus of the Crab]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bag of Holding|Bag of Holding]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bag of Tricks|Bag of Tricks]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bead of Force|Bead of Force]]
-  - [[rangoric-srd/magic-items/wondrous-items/Belt, Monk’s|Belt, Monk’s]]
-  - [[rangoric-srd/magic-items/wondrous-items/Belt of Dwarvenkind|Belt of Dwarvenkind]]
-  - [[rangoric-srd/magic-items/wondrous-items/Belt of Giant Strength|Belt of Giant Strength]]
-  - [[rangoric-srd/magic-items/wondrous-items/Blessed Book|Blessed Book]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boat, Folding|Boat, Folding]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots of Elvenkind|Boots of Elvenkind]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots of Levitation|Boots of Levitation]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots of Speed|Boots of Speed]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing|Boots of Striding and Springing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots of Teleportation|Boots of Teleportation]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots of the Winterlands|Boots of the Winterlands]]
-  - [[rangoric-srd/magic-items/wondrous-items/Boots, Winged|Boots, Winged]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bottle of Air|Bottle of Air]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bowl of Commanding Water Elementals|Bowl of Commanding Water Elementals]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bracelet of Friends|Bracelet of Friends]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater|Bracers of Archery, Greater]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Lesser|Bracers of Archery, Lesser]]
-  - [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor|Bracers of Armor]]
-  - [[rangoric-srd/magic-items/wondrous-items/Brazier of Commanding Fire Elementals|Brazier of Commanding Fire Elementals]]
-  - [[rangoric-srd/magic-items/wondrous-items/Brooch of Shielding|Brooch of Shielding]]
-  - [[rangoric-srd/magic-items/wondrous-items/Broom of Flying|Broom of Flying]]
-  - [[rangoric-srd/magic-items/wondrous-items/Candle of Invocation|Candle of Invocation]]
-  - [[rangoric-srd/magic-items/wondrous-items/Candle of Truth|Candle of Truth]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cape of the Mountebank|Cape of the Mountebank]]
-  - [[rangoric-srd/magic-items/wondrous-items/Carpet of Flying|Carpet of Flying]]
-  - [[rangoric-srd/magic-items/wondrous-items/Censer of Controlling Air Elementals|Censer of Controlling Air Elementals]]
-  - [[rangoric-srd/magic-items/wondrous-items/Chaos Diamond|Chaos Diamond]]
-  - [[rangoric-srd/magic-items/wondrous-items/Chime of Interruption|Chime of Interruption]]
-  - [[rangoric-srd/magic-items/wondrous-items/Chime of Opening|Chime of Opening]]
-  - [[rangoric-srd/magic-items/wondrous-items/Circlet of Blasting, Minor|Circlet of Blasting, Minor]]
-  - [[rangoric-srd/magic-items/wondrous-items/Circlet of Blasting, Major|Circlet of Blasting, Major]]
-  - [[rangoric-srd/magic-items/wondrous-items/Circlet of Persuasion|Circlet of Persuasion]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Arachnida|Cloak of Arachnida]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of the Bat|Cloak of the Bat]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma|Cloak of Charisma]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Displacement, Minor|Cloak of Displacement, Minor]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Displacement, Major|Cloak of Displacement, Major]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Elvenkind|Cloak of Elvenkind]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Etherealness|Cloak of Etherealness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of the Manta Ray|Cloak of the Manta Ray]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance|Cloak of Resistance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Crystal Ball|Crystal Ball]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cube of Force|Cube of Force]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cube of Frost Resistance|Cube of Frost Resistance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Cubic Gate|Cubic Gate]]
-  - [[rangoric-srd/magic-items/wondrous-items/Darkskull|Darkskull]]
-  - [[rangoric-srd/magic-items/wondrous-items/Decanter of Endless Water|Decanter of Endless Water]]
-  - [[rangoric-srd/magic-items/wondrous-items/Deck of Illusions|Deck of Illusions]]
-  - [[rangoric-srd/magic-items/wondrous-items/Dimensional Shackles|Dimensional Shackles]]
-  - [[rangoric-srd/magic-items/wondrous-items/Drums of Panic|Drums of Panic]]
-  - [[rangoric-srd/magic-items/wondrous-items/Dry Load Powder Horn|Dry Load Powder Horn]]
-  - [[rangoric-srd/magic-items/wondrous-items/Dust of Appearance|Dust of Appearance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Dust of Disappearance|Dust of Disappearance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Dust of Dryness|Dust of Dryness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Dust of Illusion|Dust of Illusion]]
-  - [[rangoric-srd/magic-items/wondrous-items/Dust of Tracelessness|Dust of Tracelessness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Efficient Quiver|Efficient Quiver]]
-  - [[rangoric-srd/magic-items/wondrous-items/Efreeti Bottle|Efreeti Bottle]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elemental Gem|Elemental Gem]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elixir of Fire Breath|Elixir of Fire Breath]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elixir of Hiding|Elixir of Hiding]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elixir of Love|Elixir of Love]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elixir of Sneaking|Elixir of Sneaking]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elixir of Swimming|Elixir of Swimming]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elixir of Truth|Elixir of Truth]]
-  - [[rangoric-srd/magic-items/wondrous-items/Elixir of Vision|Elixir of Vision]]
-  - [[rangoric-srd/magic-items/wondrous-items/Eversmoking Bottle|Eversmoking Bottle]]
-  - [[rangoric-srd/magic-items/wondrous-items/Eyes of Charming|Eyes of Charming]]
-  - [[rangoric-srd/magic-items/wondrous-items/Eyes of Doom|Eyes of Doom]]
-  - [[rangoric-srd/magic-items/wondrous-items/Eyes of the Eagle|Eyes of the Eagle]]
-  - [[rangoric-srd/magic-items/wondrous-items/Eyes of Petrification|Eyes of Petrification]]
-  - [[rangoric-srd/magic-items/wondrous-items/Far-Reaching Sight|Far-Reaching Sight]]
-  - [[rangoric-srd/magic-items/wondrous-items/Figurines of Wondrous Power|Figurines of Wondrous Power]]
-  - [[rangoric-srd/magic-items/wondrous-items/Feather Token|Feather Token]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gauntlets of Ogre Power|Gauntlets of Ogre Power]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gauntlet of Rust|Gauntlet of Rust]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gem of Brightness|Gem of Brightness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gem of Seeing|Gem of Seeing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gloves of Arrow Snaring|Gloves of Arrow Snaring]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity|Gloves of Dexterity]]
-  - [[rangoric-srd/magic-items/wondrous-items/Glove of Storing|Glove of Storing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Gloves of Swimming and Climbing|Gloves of Swimming and Climbing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Goggles of Minute Seeing|Goggles of Minute Seeing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Goggles of Night|Goggles of Night]]
-  - [[rangoric-srd/magic-items/wondrous-items/Golem Manual|Golem Manual]]
-  - [[rangoric-srd/magic-items/wondrous-items/Hand of Glory|Hand of Glory]]
-  - [[rangoric-srd/magic-items/wondrous-items/Hand of the Mage|Hand of the Mage]]
-  - [[rangoric-srd/magic-items/wondrous-items/Handy Haversack|Handy Haversack]]
-  - [[rangoric-srd/magic-items/wondrous-items/Harp of Charming|Harp of Charming]]
-  - [[rangoric-srd/magic-items/wondrous-items/Hat of Disguise|Hat of Disguise]]
-  - [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect|Headband of Intellect]]
-  - [[rangoric-srd/magic-items/wondrous-items/Helm of Brilliance|Helm of Brilliance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Helm of Comprehend Languages and Read Magic|Helm of Comprehend Languages and Read Magic]]
-  - [[rangoric-srd/magic-items/wondrous-items/Helm of Telepathy|Helm of Telepathy]]
-  - [[rangoric-srd/magic-items/wondrous-items/Helm of Teleportation|Helm of Teleportation]]
-  - [[rangoric-srd/magic-items/wondrous-items/Helm of Underwater Action|Helm of Underwater Action]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horn of Blasting|Horn of Blasting]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horn of Blasting, Greater|Horn of Blasting, Greater]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horn of Fog|Horn of Fog]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horn of Goodness-Evil|Horn of Goodness-Evil]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horn of the Tritons|Horn of the Tritons]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horn of Valhalla|Horn of Valhalla]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed|Horseshoes of Speed]]
-  - [[rangoric-srd/magic-items/wondrous-items/Horseshoes of a Zephyr|Horseshoes of a Zephyr]]
-  - [[rangoric-srd/magic-items/wondrous-items/Incense of Meditation|Incense of Meditation]]
-  - [[rangoric-srd/magic-items/wondrous-items/Instant Fortress|Instant Fortress]]
-  - [[rangoric-srd/magic-items/wondrous-items/Ioun Stones|Ioun Stones]]
-  - [[rangoric-srd/magic-items/wondrous-items/Iron Bands of Binding|Iron Bands of Binding]]
-  - [[rangoric-srd/magic-items/wondrous-items/Iron Flask|Iron Flask]]
-  - [[rangoric-srd/magic-items/wondrous-items/Lantern of Revealing|Lantern of Revealing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Lens of Detection|Lens of Detection]]
-  - [[rangoric-srd/magic-items/wondrous-items/Lyre of Building|Lyre of Building]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mantle of Faith|Mantle of Faith]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mantle of Spell Resistance|Mantle of Spell Resistance]]
-  - [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health|Manual of Bodily Health]]
-  - [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise|Manual of Gainful Exercise]]
-  - [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action|Manual of Quickness in Action]]
-  - [[rangoric-srd/magic-items/wondrous-items/Marvelous Pigments|Marvelous Pigments]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mask of the Skull|Mask of the Skull]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mattock of the Titans|Mattock of the Titans]]
-  - [[rangoric-srd/magic-items/wondrous-items/Maul of the Titans|Maul of the Titans]]
-  - [[rangoric-srd/magic-items/wondrous-items/Medallion of Thoughts|Medallion of Thoughts]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mirror of Life Trapping|Mirror of Life Trapping]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mirror of Mental Prowess|Mirror of Mental Prowess]]
-  - [[rangoric-srd/magic-items/wondrous-items/Mirror of Opposition|Mirror of Opposition]]
-  - [[rangoric-srd/magic-items/wondrous-items/Monk’s Robe|Monk’s Robe]]
-  - [[rangoric-srd/magic-items/wondrous-items/Necklace of Adaptation|Necklace of Adaptation]]
-  - [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs|Necklace of Fireballs]]
-  - [[rangoric-srd/magic-items/wondrous-items/Oil of Silence|Oil of Silence]]
-  - [[rangoric-srd/magic-items/wondrous-items/Orb of Storms|Orb of Storms]]
-  - [[rangoric-srd/magic-items/wondrous-items/Pearl of Power|Pearl of Power]]
-  - [[rangoric-srd/magic-items/wondrous-items/Pearl of the Sirines|Pearl of the Sirines]]
-  - [[rangoric-srd/magic-items/wondrous-items/Periapt of Health|Periapt of Health]]
-  - [[rangoric-srd/magic-items/wondrous-items/Periapt of Proof against Poison|Periapt of Proof against Poison]]
-  - [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom|Periapt of Wisdom]]
-  - [[rangoric-srd/magic-items/wondrous-items/Periapt of Wound Closure|Periapt of Wound Closure]]
-  - [[rangoric-srd/magic-items/wondrous-items/Phylactery of Faithfulness|Phylactery of Faithfulness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Phylactery of Undead Turning|Phylactery of Undead Turning]]
-  - [[rangoric-srd/magic-items/wondrous-items/Pipes of Haunting|Pipes of Haunting]]
-  - [[rangoric-srd/magic-items/wondrous-items/Pipes of Pain|Pipes of Pain]]
-  - [[rangoric-srd/magic-items/wondrous-items/Pipes of the Sewers|Pipes of the Sewers]]
-  - [[rangoric-srd/magic-items/wondrous-items/Pipes of Sounding|Pipes of Sounding]]
-  - [[rangoric-srd/magic-items/wondrous-items/Portable Hole|Portable Hole]]
-  - [[rangoric-srd/magic-items/wondrous-items/Restorative Ointment|Restorative Ointment]]
-  - [[rangoric-srd/magic-items/wondrous-items/Ring Gates|Ring Gates]]
-  - [[rangoric-srd/magic-items/wondrous-items/Robe of the Archmagi|Robe of the Archmagi]]
-  - [[rangoric-srd/magic-items/wondrous-items/Robe of Blending|Robe of Blending]]
-  - [[rangoric-srd/magic-items/wondrous-items/Robe of Bones|Robe of Bones]]
-  - [[rangoric-srd/magic-items/wondrous-items/Robe of Eyes|Robe of Eyes]]
-  - [[rangoric-srd/magic-items/wondrous-items/Robe of Scintillating Colors|Robe of Scintillating Colors]]
-  - [[rangoric-srd/magic-items/wondrous-items/Robe of Stars|Robe of Stars]]
-  - [[rangoric-srd/magic-items/wondrous-items/Robe of Useful Items|Robe of Useful Items]]
-  - [[rangoric-srd/magic-items/wondrous-items/Rope of Climbing|Rope of Climbing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Rope of Entanglement|Rope of Entanglement]]
-  - [[rangoric-srd/magic-items/wondrous-items/Salve of Slipperiness|Salve of Slipperiness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Scabbard of Keen Edges|Scabbard of Keen Edges]]
-  - [[rangoric-srd/magic-items/wondrous-items/Scarab of Protection|Scarab of Protection]]
-  - [[rangoric-srd/magic-items/wondrous-items/Scarab, Golembane|Scarab, Golembane]]
-  - [[rangoric-srd/magic-items/wondrous-items/See Invisibility Sight|See Invisibility Sight]]
-  - [[rangoric-srd/magic-items/wondrous-items/Shrouds of Disintegration|Shrouds of Disintegration]]
-  - [[rangoric-srd/magic-items/wondrous-items/Silversheen|Silversheen]]
-  - [[rangoric-srd/magic-items/wondrous-items/Slippers of Spider Climbing|Slippers of Spider Climbing]]
-  - [[rangoric-srd/magic-items/wondrous-items/Sovereign Glue|Sovereign Glue]]
-  - [[rangoric-srd/magic-items/wondrous-items/Stone of Alarm|Stone of Alarm]]
-  - [[rangoric-srd/magic-items/wondrous-items/Stone of Controlling Earth Elementals|Stone of Controlling Earth Elementals]]
-  - [[rangoric-srd/magic-items/wondrous-items/Stone of Good Luck (Luckstone)|Stone of Good Luck (Luckstone)]]
-  - [[rangoric-srd/magic-items/wondrous-items/Stone Horse|Stone Horse]]
-  - [[rangoric-srd/magic-items/wondrous-items/Stone Salve|Stone Salve]]
-  - [[rangoric-srd/magic-items/wondrous-items/Strand of Prayer Beads|Strand of Prayer Beads]]
-  - [[rangoric-srd/magic-items/wondrous-items/Sustaining Spoon|Sustaining Spoon]]
-  - [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought|Tome of Clear Thought]]
-  - [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence|Tome of Leadership and Influence]]
-  - [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding|Tome of Understanding]]
-  - [[rangoric-srd/magic-items/wondrous-items/Unguent of Timelessness|Unguent of Timelessness]]
-  - [[rangoric-srd/magic-items/wondrous-items/Universal Solvent|Universal Solvent]]
-  - [[rangoric-srd/magic-items/wondrous-items/Vest of Escape|Vest of Escape]]
-  - [[rangoric-srd/magic-items/wondrous-items/Vestment, Druid’s|Vestment, Druid’s]]
-  - [[rangoric-srd/magic-items/wondrous-items/Well of Many Worlds|Well of Many Worlds]]
-  - [[rangoric-srd/magic-items/wondrous-items/Wind Fan|Wind Fan]]
-  - [[rangoric-srd/magic-items/wondrous-items/Wings of Flying|Wings of Flying]]
+Every wondrous item, by price:
+
+%% generated: wondrous items %%
+
+| Wondrous Item | Price | Type |
+| --- | --- | --- |
+| [[rangoric-srd/magic-items/wondrous-items/Universal Solvent\|Universal Solvent]] | 50 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Love\|Elixir of Love]] | 150 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Unguent of Timelessness\|Unguent of Timelessness]] | 150 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Dust of Tracelessness\|Dust of Tracelessness]] | 250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Hiding\|Elixir of Hiding]] | 250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Sneaking\|Elixir of Sneaking]] | 250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Swimming\|Elixir of Swimming]] | 250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Vision\|Elixir of Vision]] | 250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Oil of Silence\|Oil of Silence]] | 250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Silversheen\|Silversheen]] | 250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Aspected Aketon\|Aspected Aketon]] | 300 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Backplate of Blurring\|Backplate of Blurring]] | 500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Truth\|Elixir of Truth]] | 500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Breastplate of Blinding\|Breastplate of Blinding]] | 600 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Oil of Rust Protection\|Oil of Rust Protection]] | 750 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Plentiful Quiver\|Plentiful Quiver]] | 800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Dust of Dryness\|Dust of Dryness]] | 850 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Hand of the Mage\|Hand of the Mage]] | 900 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Phylactery of Faithfulness\|Phylactery of Faithfulness]] | 1,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Salve of Slipperiness\|Salve of Slipperiness]] | 1,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Fire Breath\|Elixir of Fire Breath]] | 1,100 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Helm of Buoyancy\|Helm of Buoyancy]] | 1,100 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Pipes of the Sewers\|Pipes of the Sewers]] | 1,150 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracers of Bashing\|Bracers of Bashing]] | 1,200 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Dust of Illusion\|Dust of Illusion]] | 1,200 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Quiver of the Moon\|Quiver of the Moon]] | 1,200 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Goggles of Minute Seeing\|Goggles of Minute Seeing]] | 1,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Brooch of Shielding\|Brooch of Shielding]] | 1,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Dust of Appearance\|Dust of Appearance]] | 1,800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Efficient Quiver\|Efficient Quiver]] | 1,800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Hat of Disguise\|Hat of Disguise]] | 1,800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Pipes of Sounding\|Pipes of Sounding]] | 1,800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Dry Load Powder Horn\|Dry Load Powder Horn]] | 2,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Handy Haversack\|Handy Haversack]] | 2,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horn of Fog\|Horn of Fog]] | 2,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Self-loading Blowgun\|Self-loading Blowgun]] | 2,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of the Burning Wastes\|Boots of the Burning Wastes]] | 2,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elemental Gem\|Elemental Gem]] | 2,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Fan of Dusting\|Fan of Dusting]] | 2,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Robe of Bones\|Robe of Bones]] | 2,400 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of Elvenkind\|Boots of Elvenkind]] | 2,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of the Winterlands\|Boots of the Winterlands]] | 2,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Candle of Truth\|Candle of Truth]] | 2,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Elvenkind\|Cloak of Elvenkind]] | 2,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Eyes of the Eagle\|Eyes of the Eagle]] | 2,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Scarab, Golembane\|Scarab, Golembane]] | 2,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Stone of Alarm\|Stone of Alarm]] | 2,700 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bead of Force\|Bead of Force]] | 3,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Chime of Opening\|Chime of Opening]] | 3,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed\|Horseshoes of Speed]] | 3,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Rope of Climbing\|Rope of Climbing]] | 3,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Dust of Disappearance\|Dust of Disappearance]] | 3,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Lens of Detection\|Lens of Detection]] | 3,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Figurines of Wondrous Power\|Figurines of Wondrous Power]] | 3,800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Far-Reaching Sight\|Far-Reaching Sight]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gauntlets of Ogre Power\|Gauntlets of Ogre Power]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gloves of Arrow Snaring\|Gloves of Arrow Snaring]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Marvelous Pigments\|Marvelous Pigments]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of the Hunter\|Mask of the Hunter]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Restorative Ointment\|Restorative Ointment]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Scabbard of Return\|Scabbard of Return]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Thief’s Bandolier\|Thief’s Bandolier]] | 4,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Circlet of Persuasion\|Circlet of Persuasion]] | 4,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Slippers of Spider Climbing\|Slippers of Spider Climbing]] | 4,800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Incense of Meditation\|Incense of Meditation]] | 4,900 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Lesser\|Bracers of Archery, Lesser]] | 5,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Headband of the Wolf\|Headband of the Wolf]] | 5,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Magnetic Aketon\|Magnetic Aketon]] | 5,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Helm of Comprehend Languages and Read Magic\|Helm of Comprehend Languages and Read Magic]] | 5,200 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Vest of Escape\|Vest of Escape]] | 5,200 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Eversmoking Bottle\|Eversmoking Bottle]] | 5,400 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Sustaining Spoon\|Sustaining Spoon]] | 5,400 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of Striding and Springing]] | 5,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Wind Fan\|Wind Fan]] | 5,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horseshoes of a Zephyr\|Horseshoes of a Zephyr]] | 6,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Pipes of Haunting\|Pipes of Haunting]] | 6,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gloves of Swimming and Climbing\|Gloves of Swimming and Climbing]] | 6,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Circlet of Blasting, Minor\|Circlet of Blasting, Minor]] | 6,480 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Aspect Mask\|Aspect Mask]] | 6,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horn of Goodness-Evil\|Horn of Goodness-Evil]] | 6,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Shrouds of Disintegration\|Shrouds of Disintegration]] | 6,600 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Robe of Useful Items\|Robe of Useful Items]] | 7,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boat, Folding\|Boat, Folding]] | 7,200 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of the Manta Ray\|Cloak of the Manta Ray]] | 7,200 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bottle of Air\|Bottle of Air]] | 7,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of Levitation\|Boots of Levitation]] | 7,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Harp of Charming\|Harp of Charming]] | 7,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Periapt of Health\|Periapt of Health]] | 7,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Brooch of the Wolf\|Brooch of the Wolf]] | 8,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Hand of Glory\|Hand of Glory]] | 8,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of the Trickster\|Mask of the Trickster]] | 8,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Deck of Illusions\|Deck of Illusions]] | 8,100 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Candle of Invocation\|Candle of Invocation]] | 8,400 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of the Raptor\|Boots of the Raptor]] | 8,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of the Ram\|Boots of the Ram]] | 8,600 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Decanter of Endless Water\|Decanter of Endless Water]] | 9,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Necklace of Adaptation\|Necklace of Adaptation]] | 9,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Vestment, Druid’s\|Vestment, Druid’s]] | 10,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cape of the Mountebank\|Cape of the Mountebank]] | 10,080 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Phylactery of Undead Turning\|Phylactery of Undead Turning]] | 11,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gauntlet of Rust\|Gauntlet of Rust]] | 11,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of Speed\|Boots of Speed]] | 12,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Goggles of Night\|Goggles of Night]] | 12,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Medallion of Thoughts\|Medallion of Thoughts]] | 12,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Pipes of Pain\|Pipes of Pain]] | 12,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/See Invisibility Sight\|See Invisibility Sight]] | 12,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Falcon Spaulders\|Falcon Spaulders]] | 12,175 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Blessed Book\|Blessed Book]] | 12,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Belt, Monk’s\|Belt, Monk’s]] | 13,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gem of Brightness\|Gem of Brightness]] | 13,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Lyre of Building\|Lyre of Building]] | 13,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Monk’s Robe\|Monk’s Robe]] | 13,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bull’s Helm\|Bull’s Helm]] | 13,155 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Arachnida\|Cloak of Arachnida]] | 14,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Belt of Dwarvenkind\|Belt of Dwarvenkind]] | 14,900 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Periapt of Wound Closure\|Periapt of Wound Closure]] | 15,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horn of the Tritons\|Horn of the Tritons]] | 15,100 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Pearl of the Sirines\|Pearl of the Sirines]] | 15,300 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots, Winged\|Boots, Winged]] | 16,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Scabbard of Keen Edges\|Scabbard of Keen Edges]] | 16,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Chime of Interruption\|Chime of Interruption]] | 16,800 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Broom of Flying\|Broom of Flying]] | 17,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Leggings of Balance\|Leggings of Balance]] | 17,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracelet of Friends\|Bracelet of Friends]] | 19,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horn of Blasting\|Horn of Blasting]] | 20,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Portable Hole\|Portable Hole]] | 20,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Stone of Good Luck (Luckstone)\|Stone of Good Luck (Luckstone)]] | 20,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Rope of Entanglement\|Rope of Entanglement]] | 21,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of the Skull\|Mask of the Skull]] | 22,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mattock of the Titans\|Mattock of the Titans]] | 23,348 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Circlet of Blasting, Major\|Circlet of Blasting, Major]] | 23,760 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Displacement, Minor\|Cloak of Displacement, Minor]] | 24,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater\|Bracers of Archery, Greater]] | 25,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Eyes of Doom\|Eyes of Doom]] | 25,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Maul of the Titans\|Maul of the Titans]] | 25,305 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of the Bat\|Cloak of the Bat]] | 26,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Iron Bands of Binding\|Iron Bands of Binding]] | 26,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cube of Frost Resistance\|Cube of Frost Resistance]] | 27,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Helm of Telepathy\|Helm of Telepathy]] | 27,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Periapt of Proof against Poison\|Periapt of Proof against Poison]] | 27,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Robe of Scintillating Colors\|Robe of Scintillating Colors]] | 27,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of the Orcs\|Mask of the Orcs]] | 27,600 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Dimensional Shackles\|Dimensional Shackles]] | 28,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Drums of Panic\|Drums of Panic]] | 30,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Lantern of Revealing\|Lantern of Revealing]] | 30,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Robe of Blending\|Robe of Blending]] | 30,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Scabbard of Protection\|Scabbard of Protection]] | 31,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of Humanity\|Mask of Humanity]] | 32,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Amulet of Proof against Detection and Location\|Amulet of Proof against Detection and Location]] | 35,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Billowing Cloak\|Billowing Cloak]] | 36,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of Beauty\|Mask of Beauty]] | 36,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Scarab of Protection\|Scarab of Protection]] | 38,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Ring Gates\|Ring Gates]] | 40,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of the Elves\|Mask of the Elves]] | 43,600 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Golem Manual\|Golem Manual]] | 44,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of the Dwarves\|Mask of the Dwarves]] | 48,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Orb of Storms\|Orb of Storms]] | 48,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of Teleportation\|Boots of Teleportation]] | 49,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Displacement, Major\|Cloak of Displacement, Major]] | 50,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horn of the Knight\|Horn of the Knight]] | 50,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horn of Valhalla\|Horn of Valhalla]] | 50,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Orle of Dominion\|Orle of Dominion]] | 54,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Wings of Flying\|Wings of Flying]] | 54,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Etherealness\|Cloak of Etherealness]] | 55,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Instant Fortress\|Instant Fortress]] | 55,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Owl Gorget\|Owl Gorget]] | 56,400 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Helm of Underwater Action\|Helm of Underwater Action]] | 57,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Robe of Stars\|Robe of Stars]] | 58,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Darkskull\|Darkskull]] | 60,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cube of Force\|Cube of Force]] | 62,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mask of the Gnomes\|Mask of the Gnomes]] | 66,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horn of Blasting, Greater\|Horn of Blasting, Greater]] | 70,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Helm of Teleportation\|Helm of Teleportation]] | 73,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gem of Seeing\|Gem of Seeing]] | 75,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Robe of the Archmagi\|Robe of the Archmagi]] | 75,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mantle of Faith\|Mantle of Faith]] | 76,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Well of Many Worlds\|Well of Many Worlds]] | 82,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Apparatus of the Crab\|Apparatus of the Crab]] | 90,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mantle of Spell Resistance\|Mantle of Spell Resistance]] | 90,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mirror of Opposition\|Mirror of Opposition]] | 92,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Eyes of Petrification\|Eyes of Petrification]] | 98,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Silk Robe of Sunbeams\|Silk Robe of Sunbeams]] | 99,150 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bowl of Commanding Water Elementals\|Bowl of Commanding Water Elementals]] | 100,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Brazier of Commanding Fire Elementals\|Brazier of Commanding Fire Elementals]] | 100,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Censer of Controlling Air Elementals\|Censer of Controlling Air Elementals]] | 100,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Stone of Controlling Earth Elementals\|Stone of Controlling Earth Elementals]] | 100,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Leggings of Mobility\|Leggings of Mobility]] | 112,250 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Amulet of the Planes\|Amulet of the Planes]] | 120,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Robe of Eyes\|Robe of Eyes]] | 120,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Helm of Brilliance\|Helm of Brilliance]] | 125,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Efreeti Bottle\|Efreeti Bottle]] | 145,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Chaos Diamond\|Chaos Diamond]] | 160,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Helm of Eyes\|Helm of Eyes]] | 161,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cubic Gate\|Cubic Gate]] | 164,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mirror of Mental Prowess\|Mirror of Mental Prowess]] | 175,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Circlet of Dreams\|Circlet of Dreams]] | 200,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mirror of Life Trapping\|Mirror of Life Trapping]] | 200,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Horseshoes of the Peerless Steed\|Horseshoes of the Peerless Steed]] | 217,000 gp | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mantle of Great Stealth\|Mantle of Great Stealth]] | 242,000 gp | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Boots of Swiftness\|Boots of Swiftness]] | 256,000 gp | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cabinet of Feasting\|Cabinet of Feasting]] | 288,000 gp | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gate Key\|Gate Key]] | 378,000 gp | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracers of Relentless Might\|Bracers of Relentless Might]] | 4,384,000 gp | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bag of Holding\|Bag of Holding]] | — | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Carpet of Flying\|Carpet of Flying]] | — | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Crystal Ball\|Crystal Ball]] | — | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Ioun Stones\|Ioun Stones]] | — | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs\|Necklace of Fireballs]] | — | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance\|Cloak of Resistance]] | 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor]] | 1,000 gp (+1), 4,000 gp (+2), 9,000 gp (+3), 16,000 gp (+4), 25,000 gp (+5), 36,000 gp (+6), 49,000 gp (+7), 64,000 gp (+8) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of Power]] | 1,000 gp (1st), 4,000 gp (2nd), 9,000 gp (3rd), 16,000 gp (4th), 25,000 gp (5th), 36,000 gp (6th), 49,000 gp (7th), 64,000 gp (8th), 81,000 gp (9th), or 70,000 gp (two spells) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Stone Horse\|Stone Horse]] | 10,000 gp (courser) or 14,800 gp (destrier) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Glove of Storing\|Glove of Storing]] | 10,000 gp (one glove) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding]] | 12,000 to 39,000 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor\|Bracers of Epic Armor]] | 1,210,000 (+11), 1,440,000 (+12), 1,690,000 gp (+13), 1,960,000 (+14), 2,250,000 gp (+15) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Amulet of Bullet Protection\|Amulet of Bullet Protection]] | 1,500 gp (+1), 6,000 gp (+2), 13,500 gp (+3), 24,000 gp (+4), or 37,500 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Belt of Giant Strength\|Belt of Giant Strength]] | 16,000 gp (+4), 36,000 gp (+6) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Iron Flask\|Iron Flask]] | 170,000 gp (empty) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of Natural Armor]] | 2,000 gp (+1), 8,000 gp (+2), 18,000 gp (+3), 32,000 gp (+4), or 50,000 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Circlet of the Fey\|Circlet of the Fey]] | 2,000 gp (+1) to 50,000 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Sovereign Glue\|Sovereign Glue]] | 2,400 gp (per ounce) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health\|Manual of Bodily Health]] | 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise\|Manual of Gainful Exercise]] | 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action\|Manual of Quickness in Action]] | 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought\|Tome of Clear Thought]] | 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence\|Tome of Leadership and Influence]] | 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding\|Tome of Understanding]] | 27,500 gp (+1), 55,000 gp (+2), 82,500 gp (+3), 110,000 gp (+4), 137,500 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Mantle of Epic Spell Resistance\|Mantle of Epic Spell Resistance]] | 290,000 gp. Weight: 1 lb | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Epic Resistance\|Cloak of Epic Resistance]] | 360,000 (+6), 490,000 (+7), 640,000 gp (+8), 810,000 (+9), 1,000,000 gp (+10) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Amulet of Health\|Amulet of Health]] | 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma\|Cloak of Charisma]] | 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity\|Gloves of Dexterity]] | 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect\|Headband of Intellect]] | 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom\|Periapt of Wisdom]] | 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Stone Salve\|Stone Salve]] | 4,000 gp per ounce | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Feather Token\|Feather Token]] | 50 gp (anchor), 300 gp (bird), 200 gp (fan), 450 gp (swan boat), 400 gp (tree), 500 gp (whip) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bandolier of Venom\|Bandolier of Venom]] | 50,000 gp (single strip), 70,000 gp (double strap) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Eyes of Charming\|Eyes of Charming]] | 56,000 gp for a pair | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of Mighty Fists]] | 6,000 gp (+1), 24,000 gp (+2), 54,000 gp (+3), 96,000 gp (+4), 150,000 gp (+5) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed\|Leggings of Speed]] | 6,000 gp (+10), 12,000 gp (+20), 24,000 gp (+30), 72,000 gp (+40) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Belt of Epic Strength\|Belt of Epic Strength]] | 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Health\|Bracers of Epic Health]] | 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Cloak of Epic Charisma\|Cloak of Epic Charisma]] | 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Gloves of Epic Dexterity\|Gloves of Epic Dexterity]] | 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Headband of Epic Intellect\|Headband of Epic Intellect]] | 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Periapt of Epic Wisdom\|Periapt of Epic Wisdom]] | 640,000 gp (+8), 1,000,000 gp (+10), 1,440,000 gp (+12) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor\|Amulet of Epic Natural Armor]] | 720,000 gp (+6), 980,000 gp (+7), 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10) | Epic Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Bag of Tricks\|Bag of Tricks]] | 900 gp (gray) | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Strand of Prayer Beads\|Strand of Prayer Beads]] | 9,600 gp (lesser), 25,800 gp (standard), 95,800 gp (greater) | Wondrous Item |
+
+%% end generated %%
