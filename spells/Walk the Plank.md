@@ -5,6 +5,8 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Sor/Wiz 5"
+  - "Sum 5"
+  - "SumU 5"
 components:
   - "V"
   - "S"
@@ -28,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Sor/Wiz 5, Sum 5, SumU 5
   - **Components**: V, S, M (a shark tooth and a splinter of a ship's hull)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

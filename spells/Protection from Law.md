@@ -12,6 +12,8 @@ level:
   - "Inq 1"
   - "Sha 1"
   - "Sor/Wiz 1"
+  - "Sum 1"
+  - "SumU 1"
 based-on:
   - "[[fantasy srd 3.5/spells/Protection from Law|Protection from Law (3.5)]]"
 status: draft
@@ -24,6 +26,6 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Chaotic\]*
 
-  - **Level**: Apl 1, Blr 1, Chaos 1, Clr 1, Inq 1, Sha 1, Sor/Wiz 1
+  - **Level**: Apl 1, Blr 1, Chaos 1, Clr 1, Inq 1, Sha 1, Sor/Wiz 1, Sum 1, SumU 1
 
 This spell functions like [[rangoric-srd/spells/Protection from Evil|protection from evil]], except that the deflection and resistance bonuses apply to attacks from lawful creatures, and lawful summoned creatures cannot touch the subject.

@@ -7,6 +7,8 @@ descriptor:
   - "Force"
 level:
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
 components:
   - "V"
   - "S"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Sor/Wiz 2, Sum 2, SumU 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

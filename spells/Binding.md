@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Sor/Wiz 8"
+  - "Sum 6"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Will negates; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Binding|Binding (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 8
+  - **Level**: Sor/Wiz 8, Sum 6
   - **Components**: V, S, M
   - **Casting Time**: One minute
   - **Range**: Close (25 ft. + 5 ft./2 levels)

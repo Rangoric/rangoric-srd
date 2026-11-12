@@ -11,6 +11,8 @@ level:
   - "Rgr 1"
   - "Skd 1"
   - "Sor/Wiz 1"
+  - "Sum 1"
+  - "SumU 1"
 components:
   - "V"
   - "S"
@@ -33,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Fhn 1, Hun 1, Inq 1, Msl 1, Rgr 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Fhn 1, Hun 1, Inq 1, Msl 1, Rgr 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

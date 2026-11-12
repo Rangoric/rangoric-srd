@@ -9,6 +9,7 @@ level:
   - "Mag 2"
   - "Sha 2"
   - "Sor/Wiz 2"
+  - "SumU 2"
   - "Water 2"
   - "Wit 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Drd 2, Hun 2, Mag 2, Sha 2, Sor/Wiz 2, Water 2, Wit 2
+  - **Level**: Drd 2, Hun 2, Mag 2, Sha 2, Sor/Wiz 2, SumU 2, Water 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft. level)

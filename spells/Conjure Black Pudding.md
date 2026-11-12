@@ -7,6 +7,8 @@ descriptor:
   - "Acid"
 level:
   - "Sor/Wiz 6"
+  - "Sum 5"
+  - "SumU 5"
 components:
   - "V"
   - "S"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[Acid\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Sor/Wiz 6, Sum 5, SumU 5
   - **Components**: V, S, M (a flask of acid worth 10 gp)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 level)

@@ -6,6 +6,8 @@ subschool: "Summoning"
 level:
   - "Mag 4"
   - "Sor/Wiz 4"
+  - "Sum 4"
+  - "SumU 4"
 components:
   - "V"
   - "S"
@@ -28,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Mag 4, Sor/Wiz 4
+  - **Level**: Mag 4, Sor/Wiz 4, Sum 4, SumU 4
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

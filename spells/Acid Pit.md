@@ -7,6 +7,8 @@ descriptor:
   - "Acid"
 level:
   - "Sor/Wiz 4"
+  - "Sum 4"
+  - "SumU 4"
 components:
   - "V"
   - "S"
@@ -31,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Acid\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Sor/Wiz 4, Sum 4, SumU 4
   - **Components**: V, S, M (drop of acid), F (Fine shovel worth 10 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

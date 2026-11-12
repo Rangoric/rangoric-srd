@@ -8,6 +8,8 @@ level:
   - "Alc 4"
   - "Blr 4"
   - "Sor/Wiz 4"
+  - "Sum 4"
+  - "SumU 4"
 components:
   - "V"
   - "S"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Acid\]*
 
-  - **Level**: Alc 4, Blr 4, Sor/Wiz 4
+  - **Level**: Alc 4, Blr 4, Sor/Wiz 4, Sum 4, SumU 4
   - **Components**: V, S, M (a piece of lemon rind)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

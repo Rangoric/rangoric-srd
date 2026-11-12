@@ -7,6 +7,8 @@ level:
   - "Clr 5"
   - "Sha 7"
   - "Sor/Wiz 7"
+  - "Sum 5"
+  - "SumU 6"
   - "Wit 7"
 components:
   - "V"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Clr 5, Sha 7, Sor/Wiz 7, Wit 7
+  - **Level**: Clr 5, Sha 7, Sor/Wiz 7, Sum 5, SumU 6, Wit 7
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Touch

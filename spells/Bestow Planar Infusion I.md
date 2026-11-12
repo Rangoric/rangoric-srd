@@ -7,6 +7,8 @@ level:
   - "Inq 1"
   - "Mag 1"
   - "Sor/Wiz 1"
+  - "Sum 1"
+  - "SumU 1"
   - "Wit 1"
 components:
   - "V"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 1, Inq 1, Mag 1, Sor/Wiz 1, Wit 1
+  - **Level**: Clr 1, Inq 1, Mag 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

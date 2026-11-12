@@ -6,6 +6,8 @@ level:
   - "Drd 6"
   - "Hun 6"
   - "Sor/Wiz 7"
+  - "Sum 6"
+  - "SumU 6"
   - "Wit 7"
 components:
   - "V"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 6, Hun 6, Sor/Wiz 7, Wit 7
+  - **Level**: Drd 6, Hun 6, Sor/Wiz 7, Sum 6, SumU 6, Wit 7
   - **Components**: V, S, M (a drop of honey)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

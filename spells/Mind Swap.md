@@ -7,6 +7,8 @@ descriptor:
   - "MindAffecting"
 level:
   - "Sor/Wiz 6"
+  - "Sum 5"
+  - "SumU 5"
   - "Wit 6"
 components:
   - "V"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Sor/Wiz 6, Wit 6
+  - **Level**: Sor/Wiz 6, Sum 5, SumU 5, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

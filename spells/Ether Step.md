@@ -5,6 +5,8 @@ school: "Transmutation"
 level:
   - "Mag 5"
   - "Sor/Wiz 6"
+  - "Sum 5"
+  - "SumU 5"
 components:
   - "S"
 casting-time: "1 immediate action"
@@ -25,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Mag 5, Sor/Wiz 6
+  - **Level**: Mag 5, Sor/Wiz 6, Sum 5, SumU 5
   - **Components**: S
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Mag 6"
   - "Sor/Wiz 6"
+  - "SumU 6"
   - "Water 7"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Acid\]*
 
-  - **Level**: Mag 6, Sor/Wiz 6, Water 7
+  - **Level**: Mag 6, Sor/Wiz 6, SumU 6, Water 7
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

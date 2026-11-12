@@ -5,6 +5,8 @@ school: "Transmutation"
 level:
   - "Clr 7"
   - "Sor/Wiz 7"
+  - "Sum 5"
+  - "SumU 6"
 components:
   - "V"
   - "S"
@@ -24,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 7, Sor/Wiz 7
+  - **Level**: Clr 7, Sor/Wiz 7, Sum 5, SumU 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

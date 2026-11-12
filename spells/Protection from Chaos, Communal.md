@@ -9,6 +9,8 @@ level:
   - "Inq 2"
   - "Pal 2"
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
 target: "Creatures touched"
 book: "Ultimate Combat"
 based-on:
@@ -23,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Lawful\]*
 
-  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2
+  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2, Sum 2, SumU 2
   - **Components**: 
   - **Target**: Creatures touched
 

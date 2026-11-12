@@ -12,6 +12,8 @@ level:
   - "Knowledge 2"
   - "Skd 2"
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
   - "Wit 2"
 components:
   - "V"
@@ -35,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-Affecting\]*
 
-  - **Level**: Alc 2, Brd 2, Fpk 2, Inq 2, Knowledge 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Brd 2, Fpk 2, Inq 2, Knowledge 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

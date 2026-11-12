@@ -9,6 +9,8 @@ level:
   - "Inq 2"
   - "Pal 2"
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
 components:
   - "V"
   - "S"
@@ -33,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Good\]*
 
-  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2
+  - **Level**: Clr 2, Inq 2, Pal 2, Sor/Wiz 2, Sum 2, SumU 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

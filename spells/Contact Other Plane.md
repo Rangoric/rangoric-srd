@@ -5,6 +5,8 @@ school: "Divination"
 level:
   - "Alc 5"
   - "Sor/Wiz 5"
+  - "Sum 4"
+  - "SumU 5"
   - "Wit 5"
 components:
   - "V"
@@ -24,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 5, Sor/Wiz 5, Wit 5
+  - **Level**: Alc 5, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
   - **Components**: V
   - **Casting Time**: 10 minutes
   - **Range**: Personal

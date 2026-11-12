@@ -12,6 +12,8 @@ level:
   - "Mag 4"
   - "Sha 5"
   - "Sor/Wiz 4"
+  - "Sum 3"
+  - "SumU 4"
 components:
   - "V"
   - "S"
@@ -34,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Blr 4, Drd 5, Fire 4, Hun 5, Mag 4, Sha 5, Sor/Wiz 4
+  - **Level**: Blr 4, Drd 5, Fire 4, Hun 5, Mag 4, Sha 5, Sor/Wiz 4, Sum 3, SumU 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

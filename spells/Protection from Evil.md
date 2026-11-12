@@ -13,6 +13,8 @@ level:
   - "Pal 1"
   - "Sha 1"
   - "Sor/Wiz 1"
+  - "Sum 1"
+  - "SumU 1"
 components:
   - "V"
   - "S"
@@ -35,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Good\]*
 
-  - **Level**: Blr 1, Clr 1, Good 1, Inq 1, Msl 1, Pal 1, Sha 1, Sor/Wiz 1
+  - **Level**: Blr 1, Clr 1, Good 1, Inq 1, Msl 1, Pal 1, Sha 1, Sor/Wiz 1, Sum 1, SumU 1
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

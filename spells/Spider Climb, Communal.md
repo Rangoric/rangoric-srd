@@ -7,6 +7,8 @@ level:
   - "Drd 3"
   - "Hun 3"
   - "Sor/Wiz 3"
+  - "Sum 3"
+  - "SumU 3"
 components:
   - "V"
   - "S"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 3, Drd 3, Hun 3, Sor/Wiz 3
+  - **Level**: Alc 3, Drd 3, Hun 3, Sor/Wiz 3, Sum 3, SumU 3
   - **Components**: V, S, M (a live spider)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

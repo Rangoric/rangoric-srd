@@ -8,6 +8,8 @@ level:
   - "Blr 4"
   - "Mag 4"
   - "Sor/Wiz 4"
+  - "Sum 3"
+  - "SumU 4"
 components:
   - "V"
   - "S"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Cold\]*
 
-  - **Level**: Blr 4, Mag 4, Sor/Wiz 4
+  - **Level**: Blr 4, Mag 4, Sor/Wiz 4, Sum 3, SumU 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

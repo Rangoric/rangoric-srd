@@ -7,6 +7,7 @@ level:
   - "Alc 6"
   - "Mag 6"
   - "Sor/Wiz 7"
+  - "Sum 6"
   - "Wit 7"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Alc 6, Mag 6, Sor/Wiz 7, Wit 7
+  - **Level**: Alc 6, Mag 6, Sor/Wiz 7, Sum 6, Wit 7
   - **Components**: V, S, M (a wren's egg)
   - **Casting Time**: 1 standard action
   - **Range**: Personal
