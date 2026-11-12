@@ -14,6 +14,6 @@ tags: [rangoric, rangoric/feat, fighter-bonus]
 
 Your enemies’ fear causes them to jump at shadows, diverting their attention.
 
-**Prerequisites**: Hidden strike +2d8 or [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +2d6.
+**Prerequisites**: [[rangoric-srd/classes/Vigilante#^vigilante-specialization|Hidden strike]] +2d8 or [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +2d6.
 
 **Benefit**: The first time each round that you hit a creature suffering from a [[rangoric-srd/rules/Special Abilities and Conditions#Fear|fear]] effect, you can deal sneak attack damage as if you were flanking that creature (improved uncanny dodge and other effects that prevent flanking also prevent a sneak attack from this feat).
