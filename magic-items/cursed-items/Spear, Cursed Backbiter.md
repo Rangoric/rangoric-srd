@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, bestow curse"
 price: "7,500 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/cursed-items/Spear, Cursed Backbiter|Spear, Cursed Backbiter (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/cursed-items/Spear, Cursed Backbiter|Spear, Cursed Backbiter (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

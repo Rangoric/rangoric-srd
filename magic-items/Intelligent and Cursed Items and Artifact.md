@@ -3,6 +3,10 @@ srd-type: "overview"
 section: "Magic Items"
 based-on:
   - "[[fantasy srd 3.5/magic-items/Intelligent and Cursed Items and Artifact|Intelligent and Cursed Items and Artifact (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Intelligent Weapons|Intelligent Weapons (Arms & Armor)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Cursed Items|Cursed Items (Arms & Armor)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Specific Cursed Items|Specific Cursed Items (Arms & Armor)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Artifacts & Legends|Artifacts & Legends (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -157,6 +161,64 @@ If the same power is rolled twice, roll again.
 ###### Purpose
 
 An item’s purpose must suit the type and alignment of the item and should always be treated reasonably. A purpose of “defeat/slay arcane spellcasters” doesn’t mean that the sword forces the wielder to kill every wizard she sees. Nor does it mean that the sword believes it is possible to kill every wizard, sorcerer, and bard in the world. It does mean that the item hates arcane spellcasters and wants to bring the local wizard’s cabal to ruin, as well as end the rule of a sorceress-queen in a nearby land. Likewise, a purpose of “defend elves” doesn’t mean that if the wielder is an elf, he only wants to help himself. It means that the item wants to be used in furthering the cause of elves, stamping out their enemies and aiding their leaders. A purpose of “defeat/slay all” isn’t just a matter of self-preservation. It means that the item won’t rest (or let its wielder rest) until it places itself above all others.
+
+###### Extraordinary Purposes
+
+When generating a special purpose for an intelligent weapon, there is a 20% chance of it having an extraordinary special purpose instead, rolled on the table below. Each extraordinary purpose is described following below, including associated powers and typical actions the weapon may attempt to force upon the wielder. Use the ego points listed in the table in place of the usual ego points for a special purpose.
+
+**EXTRAORDINARY SPECIAL PURPOSES**
+
+| d100 | Extraordinary Purpose | Ego Points |
+|---|---|---|
+| 01–15 | Extraplanar Hunter | 4 |
+| 16–30 | Law Upholder | 4 |
+| 31–45 | Defender | 5 |
+| 46–60 | Battle Seeker | 6 |
+| 61–75 | Fiery Destruction | 6 |
+| 76–90 | Nature’s Protector | 7 |
+| 91–100 | Magic Killer | 8 |
+
+**Battle Seeker:** This type of weapon seeks to engage other creatures in combat for its own glorification. The wielder gains the benefits of an *[[rangoric-srd/spells/Iron Body|iron body]]* spell whenever the weapon is drawn. Any other holder of a *battle seeker* weapon within line of sight is automatically recognized and attacked. A battle seeker always engages first what appears to be the most powerful fighter in an opposing group during combat. Once engaged with an opponent, a *battle seeker* does not allow its wielder to turn away until the opponent either falls or flees. Caster level 16th.
+
+**Defender:** These weapons are crafted to protect followers of a deity, a family, a race, or an organization. Whenever holding a *defending* weapon the wielder is protected by *[[rangoric-srd/spells/Resist Energy|resist energy]]*. As a free action, each round the wielder may change which energy type he is protected from. Anyone struck by the weapon is affected as if by a *[[rangoric-srd/spells/Slow|slow]]* spell (Will save DC 16). Additionally, once per day, the weapon can be used to cast *[[rangoric-srd/spells/Repulsion|repulsion]]* (Will save DC 19).
+
+Additional spell-like abilities are granted, but only to protect members of the championed group. *[[rangoric-srd/spells/Shield Other|Shield other]]* may be used at will (range 35 feet). *[[rangoric-srd/spells/Discern Location|Discern location]]*, and *[[rangoric-srd/spells/Sympathy|sympathy]]* may be each cast once per day (Will save DC 18). The *sympathy* effect is always centered on the weapon.
+
+The wielder of a *defending* weapon is compelled by the weapon to protect the specified group. This may include anything from donating money to seeking out and destroying their enemies. Even if the protected group no longer exists, the weapon continues its purpose. It may compel its wielder to find or resurrect a member of an annihilated family, or to reform a cult. Caster level 18th.
+
+**Extraplanar Hunter:** These weapons are designed to track down and destroy outsiders and outside influences to a specific plane. Any creature struck by an *extraplanar hunting* weapon is cursed unless it succeeds at a Will save (DC 17). This curse gives a 75% chance of failure when casting any divine spell or using any divine spell-like ability. Any outsider struck by the weapon is subject to the effect of a *[[rangoric-srd/spells/Banishment|banishment]]* spell unless it succeeds on a Will save (DC 20). If the wielder of one of these weapons is the target of a spell cast by an outsider or divine spellcaster, even a healing spell, the weapon attempts to force him to attack the caster.
+
+The weapon compels its wielder to hunt down and destroy or banish any outsiders of which it has certain knowledge, even if the outsider is of the same alignment as the weapon. If this weapon is ever taken off the plane on which it was forged, it becomes totally inert, acting as a nonmagical weapon. Outsiders and divine spellcasters always start one attitude step worse toward the wielder of this type of weapon than they otherwise would. Caster level 20th.
+
+**Fiery Destruction:** Fiery destruction weapons are created to burn their enemies to cinders. These weapons’ alignments are always chaotic. A chaotic good weapon attempts to seek out and destroy evil enemies, especially lawful ones, while chaotic evil weapons seek out good enemies. Chaotic neutral weapons of this type are perhaps the most dangerous, glorying in the destruction of anything, whether it is a creature, forest, or structure.
+
+This type of weapon always has the *[[rangoric-srd/magic-items/weapon-abilities/Flaming Burst|flaming burst]]* special ability. While drawn, a constant flame aura plays about the wielder, conferring total invulnerability to fire damage, even from magical fire. Anyone within five feet of the wielder that strikes him suffers 1d6+12 points of fire damage. Any highly combustible items on the wielder’s person must save every round or be consumed (Fortitude DC 13; the GM chooses which items are affected).
+
+As a standard action, the wielder may cast a fiery bolt, similar to the spell *[[rangoric-srd/spells/Flame Arrow|flame arrow]]*, doing 4d6 points of fire damage (Reflex DC 16 half). A fiery destruction weapon is impatient. It does not wish to plan or follow long-range goals, preferring to confront its enemies immediately. It believes negotiation and diplomacy waste time and are best short-circuited by direct action. This impatience applies to the weapon’s wielder unless he wins a [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Items Against Characters|personality conflict]].
+
+In addition to all other powers, there is a 10% chance every hour that a fire spontaneously bursts into being somewhere within 30 feet of the weapon, evincing its chaotic nature. Caster level 16th.
+
+**Law Upholder:** *Law upholding* weapons are dedicated to enforcing and supporting local laws. These weapons’ alignments are always lawful. A lawful good weapon enforces just laws and attempts to change other laws using the proper existing governmental structures. A lawful evil weapon attempts to twist laws to benefit itself and its wielder. A lawful neutral weapon ensures that all individuals are universally subjected to the same set of laws.
+
+While drawn, a continuous *[[rangoric-srd/spells/Zone of Truth|zone of truth]]* emanates from the weapon (Will save DC 15). The wielder also benefits from the effect of *[[rangoric-srd/spells/True Seeing|true seeing]]*.
+
+*Law upholding* weapons compel their wielders to always speak the truth. At any point in time, the sword may force its owner to stop and explain to it why he is following a course of action not directly and obviously flowing from an appropriate law. Arguing with the sword is a standard action, requiring an Intelligence check (DC 11). If this check fails, the sword refuses to use any of its powers, even refusing to strike at enemies. The check may be repeated once per round until successful. However, a legitimate explanation must be given to even attempt a check.
+
+*Caster Level:* 16th.
+
+**Magic Killer:** *Magic killing* weapons desire to destroy magic. On a successful hit with one of these weapons, the target’s armor, if magical, must save (DC 23) or suffer the effects of *[[rangoric-srd/spells/Mage’s Disjunction|mage’s disjunction]]*. In addition, any spell effects centered on the target are affected as if subject to a targeted *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*. If a *magic killing* weapon is used to damage another magic weapon, it is also subject to *[[rangoric-srd/spells/Mage’s Disjunction|mage’s disjunction]]*. Specific items on an opponent’s body may be targeted in an attempt to destroy their magical properties. Treat this as a normal melee attack against the opponent, with an additional modifier based on the target’s size. A helmet, for instance, is Tiny, and would gain a +2 bonus to AC. A ring is Fine and gains +8 to AC.
+
+These weapons also grant their wielders the power to *[[rangoric-srd/spells/Detect Magic|detect magic]]* at will. Also, once per round, as a free action, the wielder may attempt to counterspell a spell being cast at him as if using *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*. The wielder may do this even without preparing a ready action.
+
+*Magic killing* weapons compel their users to destroy all other magic items they own. In melee, they prefer to strike at magical items on an opponent, rather than at the opponent itself. If the wielder tries to cast a spell, the weapon attempts to counterspell it, using up its counterspell action for that round. Additionally, every round the weapon automatically attempts to dispel any magic affecting its wielder, regardless of whether it is helpful or harmful (this ability does not use up its counterspell for a given round). If ever successful in destroying an artifact, a *magic killing* weapon must succeed at a saving throw (DC 25) or permanently lose all powers. Caster level 20th.
+
+**Nature’s Protector:** These weapons are designed to protect untamed nature from any who would defile it. These weapons’ alignments are always at least partly neutral. Anyone without at least one level in druid, ranger, or a nature-based cleric class gains two [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative levels]] whenever wielding this weapon. Although these negative levels fade when the weapon is set down and never result in actual level loss, they cannot be overcome in any way while the weapon is held.
+
+The wielder of a *nature’s protector* weapon gains the ability to detect the natural balance of the area within 100 miles. The locations of old wounds, such as cities, are intuitively known, as is the presence of new threats, such as forest fires or infestations. In a region lacking any examples of pristine nature this sense causes pain, resulting in a –4 reduction to Dexterity, which cannot be overcome in any way as long as the weapon is in use.
+
+The weapon’s wielder may also use the following spell-like abilities: *[[rangoric-srd/spells/Sunburst|sunburst]]* once per day (DC 22) and *[[rangoric-srd/spells/Tree Stride|tree stride]]* at will. In addition, 1d4 Huge elementals (of an element chosen by the wielder) may be summoned once per day. The summoning takes a full minute, and the elementals stay for a single hour. These elementals do not attack the wielder, but otherwise are uncontrolled and may do whatever they wish, although such creatures typically focus their attentions on “unnatural” opponents such as aberrations and undead.
+
+The weapon compels its wielder to fight dangers identified through its affinity with nature. More recent threats are almost always opposed first before older scars are dealt with. Caster level 18th.
 
 ##### Dedicated Power
 
@@ -417,9 +479,11 @@ A simple detect magic spell yields a misleading aura and strength, often indicat
   - [[rangoric-srd/magic-items/cursed-items/Armor of Arrow Attraction|Armor of Arrow Attraction]]
   - [[rangoric-srd/magic-items/cursed-items/Armor of Rage|Armor of Rage]]
   - [[rangoric-srd/magic-items/cursed-items/Bag of Devouring|Bag of Devouring]]
+  - [[rangoric-srd/magic-items/cursed-items/Bestial Armor|Bestial Armor]]
   - [[rangoric-srd/magic-items/cursed-items/Boots of Dancing|Boots of Dancing]]
   - [[rangoric-srd/magic-items/cursed-items/Bracers of Defenselessness|Bracers of Defenselessness]]
   - [[rangoric-srd/magic-items/cursed-items/Broom of Animated Attack|Broom of Animated Attack]]
+  - [[rangoric-srd/magic-items/cursed-items/Clay Armor of the Golem|Clay Armor of the Golem]]
   - [[rangoric-srd/magic-items/cursed-items/Cloak of Poisonousness|Cloak of Poisonousness]]
   - [[rangoric-srd/magic-items/cursed-items/Crystal Hypnosis Ball|Crystal Hypnosis Ball]]
   - [[rangoric-srd/magic-items/cursed-items/Dust of Sneezing and Choking|Dust of Sneezing and Choking]]
@@ -432,22 +496,27 @@ A simple detect magic spell yields a misleading aura and strength, often indicat
   - [[rangoric-srd/magic-items/cursed-items/Necklace of Strangulation|Necklace of Strangulation]]
   - [[rangoric-srd/magic-items/cursed-items/Net of Snaring|Net of Snaring]]
   - [[rangoric-srd/magic-items/cursed-items/Periapt of Foul Rotting|Periapt of Foul Rotting]]
+  - [[rangoric-srd/magic-items/cursed-items/Pincushion Aketon|Pincushion Aketon]]
+  - [[rangoric-srd/magic-items/cursed-items/Plate of Dancing|Plate of Dancing]]
   - [[rangoric-srd/magic-items/cursed-items/Potion of Poison|Potion of Poison]]
+  - [[rangoric-srd/magic-items/cursed-items/Ring of Clumsiness|Ring of Clumsiness]]
   - [[rangoric-srd/magic-items/cursed-items/Robe of Powerlessness|Robe of Powerlessness]]
   - [[rangoric-srd/magic-items/cursed-items/Robe of Vermin|Robe of Vermin]]
-  - [[rangoric-srd/magic-items/cursed-items/Ring of Clumsiness|Ring of Clumsiness]]
   - [[rangoric-srd/magic-items/cursed-items/Scarab of Death|Scarab of Death]]
   - [[rangoric-srd/magic-items/cursed-items/Spear, Cursed Backbiter|Spear, Cursed Backbiter]]
+  - [[rangoric-srd/magic-items/cursed-items/Spiked Chain of Binding|Spiked Chain of Binding]]
   - [[rangoric-srd/magic-items/cursed-items/Stone of Weight (Loadstone)|Stone of Weight (Loadstone)]]
-  - [[rangoric-srd/magic-items/cursed-items/–2 Sword, Cursed|–2 Sword, Cursed]]
   - [[rangoric-srd/magic-items/cursed-items/Sword, Berserking|Sword, Berserking]]
   - [[rangoric-srd/magic-items/cursed-items/Vacuous Grimoire|Vacuous Grimoire]]
+  - [[rangoric-srd/magic-items/cursed-items/–2 Sword, Cursed|–2 Sword, Cursed]]
 
 ### Artifacts
 
 Artifacts are extremely powerful. Rather than merely another form of magic equipment, they are the sorts of legendary relics that whole campaigns can be based on. Each could be the center of a whole set of adventures—a quest to recover it, a fight against a opponent wielding it, a mission to cause its destruction, and so on.
 
 No table has been included to randomly generate specific artifacts, since these items should only enter a campaign through deliberate choice on your part.
+
+How artifacts compare with primal artifacts and the divine items gods make for their portfolios is described in [[rangoric-srd/divine/Divine Items|Divine Items]].
 
 ##### Minor Artifacts
 
@@ -457,16 +526,19 @@ Minor artifacts are not necessarily unique items. Even so, they are magic items 
 
 Described below is a selection of the most well-known (not necessarily the most numerous) minor artifacts.
 
+  - [[rangoric-srd/magic-items/artifacts/Bandoleer of Swords|Bandoleer of Swords]]
   - [[rangoric-srd/magic-items/artifacts/Book of Infinite Spells|Book of Infinite Spells]]
+  - [[rangoric-srd/magic-items/artifacts/Dagger of Memory Snatching|Dagger of Memory Snatching]]
   - [[rangoric-srd/magic-items/artifacts/Deck of Many Things|Deck of Many Things]]
   - [[rangoric-srd/magic-items/artifacts/Hammer of Thunderbolts|Hammer of Thunderbolts]]
   - [[rangoric-srd/magic-items/artifacts/Philosopher’s Stone|Philosopher’s Stone]]
   - [[rangoric-srd/magic-items/artifacts/Sphere of Annihilation|Sphere of Annihilation]]
   - [[rangoric-srd/magic-items/artifacts/Staff of the Magi|Staff of the Magi]]
   - [[rangoric-srd/magic-items/artifacts/Talisman of Pure Good|Talisman of Pure Good]]
-  - [[rangoric-srd/magic-items/artifacts/Talisman of the Sphere|Talisman of the Sphere]]
   - [[rangoric-srd/magic-items/artifacts/Talisman of Reluctant Wishes|Talisman of Reluctant Wishes]]
+  - [[rangoric-srd/magic-items/artifacts/Talisman of the Sphere|Talisman of the Sphere]]
   - [[rangoric-srd/magic-items/artifacts/Talisman of Ultimate Evil|Talisman of Ultimate Evil]]
+  - [[rangoric-srd/magic-items/artifacts/Tongue of the Demon|Tongue of the Demon]]
 
 ##### Major Artifacts
 
@@ -476,6 +548,11 @@ Unlike all other magic items, major artifacts are not easily destroyed. Each sho
 
 ###### Major Artifact Descriptions
 
+  - [[rangoric-srd/magic-items/artifacts/Armor of Epic Totems|Armor of Epic Totems]]
+  - [[rangoric-srd/magic-items/artifacts/Flail of the Earth Mother|Flail of the Earth Mother]]
+  - [[rangoric-srd/magic-items/artifacts/Mail of Four Arms|Mail of Four Arms]]
+  - [[rangoric-srd/magic-items/artifacts/Robe of the Transcendent|Robe of the Transcendent]]
+  - [[rangoric-srd/magic-items/artifacts/Skill Blade|Skill Blade]]
   - [[rangoric-srd/magic-items/artifacts/The Moaning Diamond|The Moaning Diamond]]
   - [[rangoric-srd/magic-items/artifacts/The Orbs of Dragonkind|The Orbs of Dragonkind]]
   - [[rangoric-srd/magic-items/artifacts/The Saint’s Mace|The Saint’s Mace]]

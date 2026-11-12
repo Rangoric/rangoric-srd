@@ -7,6 +7,7 @@ caster-level: 16
 price: "1,200 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/cursed-items/Bracers of Defenselessness|Bracers of Defenselessness (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/cursed-items/Bracers of Defenselessness|Bracers of Defenselessness (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

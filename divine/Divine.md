@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Divine"
 based-on:
   - "[[fantasy srd 3.5/divine/Divine|Divine (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/rules/Divine Ranks|Divine Ranks (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -204,3 +205,7 @@ Once a deity sets the conditions in its realm, they are permanent, though the de
 Travel: A deity of rank 1 or higher can use [[rangoric-srd/spells/Teleport, Greater|greater teleport]] as a spell-like ability at will, as the spell cast by a 20th-level character, except that the deity can transport only itself and up to 100 pounds of objects per divine rank. A deity of rank 6 or higher also can use [[rangoric-srd/spells/Plane Shift|plane shift]] as a spell-like ability at will, as the spell cast by a 20th-level character, except that the deity can only transport itself and up to 100 pounds of objects. If the deity has a familiar, personal mount, or personal intelligent weapon, the creature can accompany the deity in any mode of travel if the deity touches it. The creature’s weight counts against the deity’s weight limit.
 
 Familiar: A deity of rank 1 or higher with levels as a [[rangoric-srd/classes/Sorcerer|sorcerer]] or a [[rangoric-srd/classes/Wizard|wizard]] has the ability to treat any creature of a given kind as a familiar, as long as that creature is within a distance of one mile per divine rank of the deity. This special familiar ability only applies to one creature at a time, but the deity can switch between one creature and another instantaneously, as long as the second creature is within range. This special familiar ability does not replace the deity’s ability to have a normal familiar, which could be any kind of eligible creature.
+
+##### Divine Items
+
+Items made by gods, from primal artifacts to the divine items that further a god’s portfolio, are described in [[rangoric-srd/divine/Divine Items|Divine Items]].
