@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 5"
+  - "Illusion 5"
   - "Skd 5"
   - "Sor/Wiz 5"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 5, Skd 5, Sor/Wiz 5
+  - **Level**: Brd 5, Illusion 5, Skd 5, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Illusion 9"
   - "Sor/Wiz 8"
   - "Trickery 7"
 components:
@@ -17,8 +18,8 @@ saving-throw: "None or Will disbelief (if interacted with); see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Screen|Screen (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Sor/Wiz 8, Trickery 7
+  - **Level**: Illusion 9, Sor/Wiz 8, Trickery 7
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

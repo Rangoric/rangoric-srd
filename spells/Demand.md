@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-Affecting"
 level:
+  - "Enchantment 9"
   - "Sor/Wiz 8"
   - "Wit 8"
 saving-throw: "Will partial"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 8, Wit 8
+  - **Level**: Enchantment 9, Sor/Wiz 8, Wit 8
   - **Saving Throw**: Will partial
   - **Spell Resistance**: Yes
 

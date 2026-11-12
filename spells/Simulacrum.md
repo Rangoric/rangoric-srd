@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Shadow"
 level:
+  - "Illusion 8"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow)*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Illusion 8, Sor/Wiz 7
   - **Components**: V, S, M, XP
   - **Casting Time**: 12 hours
   - **Range**: 0 ft.

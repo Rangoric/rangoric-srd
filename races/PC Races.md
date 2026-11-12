@@ -94,7 +94,7 @@ Some races are more powerful than the common races and have a level adjustment, 
 
 The fey races (such as the faeries and feeorin) have a level adjustment like other powerful races, and share [[rangoric-srd/races/racial-traits/Fey Blood|fey blood]]. A fey character can start at 1st level with the other characters, where its extra physical abilities, spell-like abilities and role-playing benefits may outshine them, while its level adjustment keeps it behind them later; or it can join when the other characters have reached a higher level, where its abilities are more in line with theirs. ^fey-characters
 
-The [[rangoric-srd/races/aspects-of-nature/Aspects of Nature|Aspects of Nature]] change a character’s body further, with small bonuses and matching penalties, and are open to fey and other creatures alike. The [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]] change it more deeply, through enchantments of the flesh.
+The [[rangoric-srd/races/aspects-of-nature/Aspects of Nature|Aspects of Nature]] change a character’s body further, with small bonuses and matching penalties, and are open to fey and other creatures alike. The [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]] change it more deeply, through enchantments of the flesh. The optional [[rangoric-srd/classes/Fey Class Adjustments|fey class adjustments]] widen some classes’ spells for fey characters.
 
 ##### Small Characters
 
