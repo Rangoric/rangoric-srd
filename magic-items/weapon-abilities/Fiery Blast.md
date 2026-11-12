@@ -7,6 +7,7 @@ prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, fir
 price: "+6 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Fiery Blast|Fiery Blast (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Fiery Blast|Fiery Blast (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, gaseous form, continual flame"
 price: "+4 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Brilliant Energy|Brilliant Energy (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Brilliant Energy|Brilliant Energy (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

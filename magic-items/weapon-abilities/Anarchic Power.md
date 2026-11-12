@@ -7,6 +7,7 @@ prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, wor
 price: "+8 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Anarchic Power|Anarchic Power (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Anarchic Power|Anarchic Power (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

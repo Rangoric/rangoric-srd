@@ -10,8 +10,11 @@ prerequisites: "Craft Magic Arms and Armor, summon monster I"
 price: "+1 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Bane (Weapon Special Ability)|Bane (Weapon Special Ability) (3.5)]]"
-status: base
-change: copied
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Bane|Bane (Arms & Armor)]]"
+  - "[[individual books/Faeries/weapon-qualities/Fey Bane|Fey Bane (Faeries)]]"
+  - "[[individual books/Faeries/weapon-qualities/Humanoid Bane|Humanoid Bane (Faeries)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -53,5 +56,7 @@ A bane weapon excels at attacking one type or subtype of creature. Against its d
 | 89–90  | Plants               |
 | 91–98  | Undead               |
 | 99–100 | Vermin               |
+
+**Fey bane and humanoid bane**: A *fey bane* weapon is a bane weapon whose designated foe is fey. A *humanoid bane* weapon has all humanoids, of every subtype, as its designated foe; it is priced as a +2 bonus.
 
 Moderate conjuration; CL 8th; Craft Magic Arms and Armor, summon monster I; Price +1 bonus.

@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, divine power"
 price: "+1 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapon-abilities/Mighty Cleaving|Mighty Cleaving (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Mighty Cleaving|Mighty Cleaving (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
