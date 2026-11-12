@@ -1,0 +1,2 @@
+# Every batch adds a Changelog row at the top; keep both sides instead of conflicting
+Changelog.md merge=union
