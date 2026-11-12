@@ -307,6 +307,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Symbol of Healing\|Symbol of Healing]] (M): | Triggered rune heals living creatures. |
 | [[rangoric-srd/spells/Transfer Regeneration\|Transfer Regeneration]]: |  |
 | [[rangoric-srd/spells/Trial of Fire and Acid\|Trial of Fire and Acid]]: |  |
+| [[rangoric-srd/spells/Trove Sacrifice\|Trove Sacrifice]]: | Allow trove to be destroyed to protect self. |
 | [[rangoric-srd/spells/Unravel Destiny\|Unravel Destiny]]: | Target suffers a penalty to multiple rules for every hero point they possess. |
 | [[rangoric-srd/spells/Vision of Hell\|Vision of Hell]] (M): | Illusory hellscape makes creatures shaken. |
 | [[rangoric-srd/spells/Voluminous Vocabulary\|Voluminous Vocabulary]] (M): | Grant ability to speak, read, and write one or more languages for 8 hours. |
