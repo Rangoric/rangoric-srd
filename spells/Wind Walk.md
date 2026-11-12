@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Air"
 level:
+  - "Alc 6"
   - "Clr 6"
   - "Drd 7"
   - "Sha 7"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Clr 6, Drd 7, Sha 7
+  - **Level**: Alc 6, Clr 6, Drd 7, Sha 7
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

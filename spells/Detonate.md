@@ -8,6 +8,7 @@ descriptor:
   - "Electricity"
   - "Fire"
 level:
+  - "Alc 4"
   - "Blr 4"
   - "Sor/Wiz 4"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Acid, Cold, Electricity, Fire\]*
 
-  - **Level**: Blr 4, Sor/Wiz 4
+  - **Level**: Alc 4, Blr 4, Sor/Wiz 4
   - **Components**: V, S, M (two vials; one containing acid and one containing an alkaline solution worth a total of 50 gp)
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

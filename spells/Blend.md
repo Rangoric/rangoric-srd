@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Alc 1"
   - "Drd 1"
   - "Hun 1"
   - "Rgr 1"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Drd 1, Hun 1, Rgr 1, Sha 1, Sor/Wiz 1, Wit 1
+  - **Level**: Alc 1, Drd 1, Hun 1, Rgr 1, Sha 1, Sor/Wiz 1, Wit 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

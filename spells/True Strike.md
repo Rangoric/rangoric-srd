@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Alc 1"
   - "Blr 1"
   - "Inq 1"
   - "Sor/Wiz 1"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Blr 1, Inq 1, Sor/Wiz 1
+  - **Level**: Alc 1, Blr 1, Inq 1, Sor/Wiz 1
   - **Components**: V, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal

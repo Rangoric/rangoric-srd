@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Air"
 level:
+  - "Alc 4"
   - "Blr 4"
   - "Drd 4"
   - "Hun 4"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Blr 4, Drd 4, Hun 4, Sor/Wiz 4
+  - **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

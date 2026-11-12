@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Alc 4"
   - "Clr 4"
   - "Death 4"
   - "Drd 5"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 4, Death 4, Drd 5, Hun 5, Inq 4, Pal 4, Wit 4
+  - **Level**: Alc 4, Clr 4, Death 4, Drd 5, Hun 5, Inq 4, Pal 4, Wit 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Alc 5"
   - "Clr 5"
   - "Inq 5"
   - "Magic 5"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 5, Inq 5, Magic 5, Protection 5
+  - **Level**: Alc 5, Clr 5, Inq 5, Magic 5, Protection 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Alc 5"
   - "Drd 5"
   - "Hun 5"
   - "Wit 5"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 5, Hun 5, Wit 5
+  - **Level**: Alc 5, Drd 5, Hun 5, Wit 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

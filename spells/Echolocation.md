@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Sonic"
 level:
+  - "Alc 4"
   - "Brd 4"
   - "Drd 4"
   - "Hun 4"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Sonic\]*
 
-  - **Level**: Brd 4, Drd 4, Hun 4, Skd 4, Sor/Wiz 5
+  - **Level**: Alc 4, Brd 4, Drd 4, Hun 4, Skd 4, Sor/Wiz 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

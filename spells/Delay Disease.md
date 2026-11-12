@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Healing"
 level:
+  - "Alc 2"
   - "Clr 2"
   - "Drd 2"
   - "Hun 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 2, Drd 2, Hun 2, Inq 2, Pal 2, Rgr 2, Wit 1
+  - **Level**: Alc 2, Clr 2, Drd 2, Hun 2, Inq 2, Pal 2, Rgr 2, Wit 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

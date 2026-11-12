@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Alc 5"
   - "Drd 6"
   - "Hun 4"
   - "Rgr 4"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 6, Hun 4, Rgr 4
+  - **Level**: Alc 5, Drd 6, Hun 4, Rgr 4
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Personal

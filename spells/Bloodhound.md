@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Alc 3"
   - "Hun 2"
   - "Inq 2"
   - "Rgr 2"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Hun 2, Inq 2, Rgr 2
+  - **Level**: Alc 3, Hun 2, Inq 2, Rgr 2
   - **Components**: V, S, M (a drop of blood and a pinch of cinnamon)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

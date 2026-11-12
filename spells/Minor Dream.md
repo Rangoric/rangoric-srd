@@ -6,6 +6,7 @@ subschool: "Figment"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Alc 2"
   - "Brd 3"
   - "Skd 3"
   - "Sor/Wiz 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Mind-affecting\]*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 3, Wit 2
+  - **Level**: Alc 2, Brd 3, Skd 3, Sor/Wiz 3, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Unlimited

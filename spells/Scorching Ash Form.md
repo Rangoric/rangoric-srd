@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Fire"
 level:
+  - "Alc 4"
   - "Sor/Wiz 4"
 components:
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Fire\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Alc 4, Sor/Wiz 4
   - **Components**: S, M (a bit of gauze and a handful of ashes)
   - **Duration**: 1 minute/level
   - **Saving Throw**: None

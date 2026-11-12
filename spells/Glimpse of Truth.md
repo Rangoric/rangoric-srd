@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Alc 5"
   - "Clr 4"
   - "Drd 5"
   - "Hun 5"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 4, Drd 5, Hun 5, Inq 4, Sor/Wiz 5, Wit 5
+  - **Level**: Alc 5, Clr 4, Drd 5, Hun 5, Inq 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M (a tourmaline costing 50 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

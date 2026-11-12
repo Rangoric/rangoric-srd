@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Alc 1"
   - "Blr 1"
   - "Clr 1"
   - "Drd 1"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Blr 1, Clr 1, Drd 1, Fhn 1, Hun 1, Msl 1, Pal 1, Rgr 1, Sha 1, Sor/Wiz 1, Sun 1
+  - **Level**: Alc 1, Blr 1, Clr 1, Drd 1, Fhn 1, Hun 1, Msl 1, Pal 1, Rgr 1, Sha 1, Sor/Wiz 1, Sun 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

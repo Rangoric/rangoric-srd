@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Electricity"
 level:
+  - "Alc 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Electricity\]*
 
-  - **Level**: Sor/Wiz 1
+  - **Level**: Alc 1, Sor/Wiz 1
   - **Components**: V, S, M (an iron coil)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

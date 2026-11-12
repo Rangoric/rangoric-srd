@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Alc 1"
   - "Apl 1"
   - "Brd 1"
   - "Clr 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Apl 1, Brd 1, Clr 1, Drd 1, Hun 1, Skd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Alc 1, Apl 1, Brd 1, Clr 1, Drd 1, Hun 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: S, M (herbs used in antitoxins worth 10 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

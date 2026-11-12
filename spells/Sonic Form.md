@@ -6,6 +6,7 @@ subschool: "Polymorph"
 descriptor:
   - "Sonic"
 level:
+  - "Alc 6"
   - "Brd 6"
   - "Skd 6"
   - "Sor/Wiz 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph) \[Sonic\]*
 
-  - **Level**: Brd 6, Skd 6, Sor/Wiz 6
+  - **Level**: Alc 6, Brd 6, Skd 6, Sor/Wiz 6
   - **Components**: V, S, M (a pinch of dust gathered from a gravestone or a sacred shrine)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

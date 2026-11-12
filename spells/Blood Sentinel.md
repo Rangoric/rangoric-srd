@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Alc 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 3
+  - **Level**: Alc 3, Sor/Wiz 3
   - **Components**: V, S, M (a life-sized animal sculpture of a familiar made of clay, cloth, stone, or wood, plus mandrake root worth 25 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

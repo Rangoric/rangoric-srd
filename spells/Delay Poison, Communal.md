@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Healing"
 level:
+  - "Alc 3"
   - "Brd 3"
   - "Clr 3"
   - "Drd 3"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Brd 3, Clr 3, Drd 3, Hun 3, Inq 3, Pal 3, Rgr 3, Skd 3, Wit 3
+  - **Level**: Alc 3, Brd 3, Clr 3, Drd 3, Hun 3, Inq 3, Pal 3, Rgr 3, Skd 3, Wit 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

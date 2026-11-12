@@ -5,6 +5,7 @@ school: "Divination"
 descriptor:
   - "Mind-Affecting"
 level:
+  - "Alc 2"
   - "Brd 2"
   - "Fpk 2"
   - "Inq 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Fpk 2, Inq 2, Knowledge 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Brd 2, Fpk 2, Inq 2, Knowledge 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

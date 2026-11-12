@@ -5,6 +5,7 @@ school: "Divination"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Alc 3"
   - "Brd 3"
   - "Inq 3"
   - "Skd 3"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-affecting\]*
 
-  - **Level**: Brd 3, Inq 3, Skd 3, Sor/Wiz 3, Wit 3
+  - **Level**: Alc 3, Brd 3, Inq 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a handful of copper coins)
   - **Casting Time**: 1 standard action
   - **Range**: 40 ft.

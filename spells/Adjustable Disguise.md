@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Alc 3"
   - "Apl 3"
   - "Brd 3"
   - "Inq 3"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Apl 3, Brd 3, Inq 3, Skd 3, Sor/Wiz 3, Wit 3
+  - **Level**: Alc 3, Apl 3, Brd 3, Inq 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

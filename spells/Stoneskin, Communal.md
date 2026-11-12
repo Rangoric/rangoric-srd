@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Alc 5"
   - "Drd 6"
   - "Hun 6"
   - "Inq 5"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Drd 6, Hun 6, Inq 5, Sor/Wiz 5
+  - **Level**: Alc 5, Drd 6, Hun 6, Inq 5, Sor/Wiz 5
   - **Components**: V, S, M (granite and diamond dust worth 100 gp per creature affected)
   - **Casting Time**: 1 standard action
   - **Range**: Touch
