@@ -2,11 +2,12 @@
 srd-type: "class-option"
 section: "Class Options"
 option-type: "evolution"
-class: ["Summoner"]
+class: ["Summoner", "Unchained Summoner"]
 evolution-cost: 2
 book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
+  - "[[path srd 3.5/classes/Summoner (Unchained)#Evolutions|Unchained Summoner, Evolutions (PF1)]]"
   - "[[path srd 3.5 foundry/eidolon-evolutions/Limbs (2 EP)|Limbs (PF1 Foundry)]]"
 status: draft
 change: new
@@ -16,6 +17,6 @@ tags: [rangoric, rangoric/class-option]
 
 # Limbs
 
-*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s eidolon.*
+*A 2-point evolution (Ex) for a [[rangoric-srd/classes/Summoner|summoner]]’s or [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
 
 An eidolon grows an additional pair of limbs. These limbs can take one of two forms. They can be made into legs, complete with feet. Each pair of legs increases the eidolon’s base speed by 10 feet. Alternatively, they can be made into arms, complete with hands. The eidolon does not gain any additional natural attacks for an additional pair of arms, but it can take other evolutions that add additional attacks (such as claws or a slam). Arms that have hands can be used to wield weapons, if the eidolon is proficient. This evolution can be selected more than once.
