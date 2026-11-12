@@ -79,6 +79,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                       | Ignores 10 (or more) points of damage/attack from specified energy type.   |
 | [[rangoric-srd/spells/Returning Weapon\|Returning Weapon]]: | Grants a weapon the returning special weapon quality. |
 | [[rangoric-srd/spells/Savage Maw\|Savage Maw]]: | Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. |
+| [[rangoric-srd/spells/Snooze\|Snooze]]: | As sleep, but one creature of up to 1d4 HD. |
 | [[rangoric-srd/spells/Speak with Animals\|Speak with Animals]]:             | You can communicate with animals.                                          |
 | [[rangoric-srd/spells/Steady Saddle\|Steady Saddle]]: | Affected saddle has reduced penalties for actions requiring focus |
 | [[rangoric-srd/spells/Strong Wings\|Strong Wings]]: | The target's wings grow more powerful, causing its fly speed to increase by +10 feet and its maneuverability to improve by one category (to a maximum of good). |
@@ -216,6 +217,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Meticulous Match\|Meticulous Match]]: | Determine if two things are identical. |
 | [[rangoric-srd/spells/Mirage\|Mirage]] (M): | Create illusory terrain |
 | [[rangoric-srd/spells/Named Bullet\|Named Bullet]] (M): | Imbues ammunition with accuracy against a specific creature type. |
+| [[rangoric-srd/spells/Nap\|Nap]] (M F): | Each hour of sleep counts as two, at a cost in Con and Will. |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]:               | Immunizes subject against poison, detoxifies venom in or on subject.                                   |
 | [[rangoric-srd/spells/Plant Growth\|Plant Growth]]:                         | Grows vegetation, improves crops.                                                                      |
 | [[rangoric-srd/spells/Pocketful of Vipers\|Pocketful of Vipers]] (M): | Ward a container with summoned vipers. |

@@ -369,6 +369,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Ride the Waves\|Ride the Waves]]: | Target can breathe water and swim. |
 | [[rangoric-srd/spells/Sending\|Sending]]:                                   | Delivers short message anywhere, instantly.                                                                           |
 | [[rangoric-srd/spells/Shield of Fortification, Greater\|Shield of Fortification, Greater]]: |  |
+| [[rangoric-srd/spells/Sleepwalking\|Sleepwalking]] (M): | As suggestion, cast on a sleeping creature. |
 | [[rangoric-srd/spells/Soothe Construct\|Soothe Construct]]: | Reduce the berserk chance of a construct. |
 | [[rangoric-srd/spells/Speak with Haunt\|Speak with Haunt]]: | Haunt answers one question/2 levels. |
 | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]:                     | Subject is immune to one spell per four levels.                                                                       |
@@ -421,6 +422,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Holy Ice\|Holy Ice]] (M): | Create wall or javelins of frozen holy water. |
 | [[rangoric-srd/spells/Inflict Light Wounds, Mass\|Inflict Light Wounds, Mass]]:                                                                                                       | Deals 1d8 damage +1/level to many creatures.                              |
 | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]:                                                                                                                                 | Locust swarms attack creatures.                                           |
+| [[rangoric-srd/spells/Ironblight\|Ironblight]]: | Burst rusts away iron and steel items. |
 | [[rangoric-srd/spells/Life Bubble\|Life Bubble]] (M): | Protects creatures from sustained environmental effects. |
 | [[rangoric-srd/spells/Magic Siege Engine, Greater\|Magic Siege Engine, Greater]] (M): | Siege engine gains +1 on targeting and damage rolls for every four caster levels. |
 | [[rangoric-srd/spells/Mark of Justice\|Mark of Justice]]:                                                                                                                             | Designates action that will trigger curse on subject.                     |
@@ -435,6 +437,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Serenity\|Serenity]]: | Peaceful feelings harm those attempting violence. |
 | [[rangoric-srd/spells/Sessile Spirit\|Sessile Spirit]]: | Cause a spirit inhabiting a creature or an object to go dormant. |
 | [[rangoric-srd/spells/Slay Living\|Slay Living]]:                                                                                                                                     | Touch attack kills subject.                                               |
+| [[rangoric-srd/spells/Sleepless Curse\|Sleepless Curse]] (M): | Subject can’t sleep and takes Dex, Str, then Con damage each day. |
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M): | Transforms wood into snakes to fight for you. |
 | [[rangoric-srd/spells/Spawn Ward\|Spawn Ward]]: | The target becomes resistant to the effects of energy drain and blood drain attacks made by undead creatures, and cannot be made into undead spawn if killed while the spell is in effect. |
 | [[rangoric-srd/spells/Spell Immunity, Communal\|Spell Immunity, Communal]]: | As spell immunity, but you may divide the duration among creatures touched. |
@@ -476,6 +479,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dust Form\|Dust Form]] (M): | You become an incorporeal creature of dust for a short period of time. |
 | [[rangoric-srd/spells/Dust Ward\|Dust Ward]] (M): |  |
 | [[rangoric-srd/spells/Eagle’s Splendor, Mass\|Eagle’s Splendor, Mass]]:               | As eagle’s splendor, affects one subject/level.                      |
+| [[rangoric-srd/spells/Energy Bubbles\|Energy Bubbles]] (M): | Cone of bubbles bursts for 1d4/level energy damage (max 15d4). |
 | [[rangoric-srd/spells/Epidemic\|Epidemic]]: | Infect a subject with a highly contagious disease. |
 | [[rangoric-srd/spells/Find the Path\|Find the Path]]:                                 | Shows most direct way to a location.                                 |
 | [[rangoric-srd/spells/Forbiddance\|Forbiddance]] (M):                                 | Blocks planar travel, damages creatures of different alignment.      |
@@ -494,6 +498,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Planar Adaptation, Mass\|Planar Adaptation, Mass]]: | As planar adaptation, but affects multiple creatures. |
 | [[rangoric-srd/spells/Planar Ally\|Planar Ally]] (X):                                 | As lesser planar ally, but up to 12 HD.                              |
 | [[rangoric-srd/spells/Prognostication\|Prognostication]] (M): | Gain cryptic information from further in the future than divination. |
+| [[rangoric-srd/spells/Recurring Nightmare\|Recurring Nightmare]] (M): | Subject gains negative levels each night until it dies or the curse is removed. |
 | [[rangoric-srd/spells/Speak with Soul\|Speak with Soul]] (M): | Hold an extended conversation with a soul |
 | [[rangoric-srd/spells/Spellcrash\|Spellcrash]]: | Target loses a 5th-level prepared spell or spell slot. |
 | [[rangoric-srd/spells/Summon Fey VI\|Summon Fey VI]]: | Calls a fey creature to fight for you. |
@@ -523,6 +528,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dictum\|Dictum]]:                                             | Kills, paralyzes, slows, or deafens nonlawful subjects.                                                                                                                                           |
 | [[rangoric-srd/spells/Ethereal Jaunt\|Ethereal Jaunt]]:                             | You become ethereal for 1 round/level.                                                                                                                                                            |
 | [[rangoric-srd/spells/False Resurrection\|False Resurrection]] (M): | Appear to resurrect someone but instead allow a shadow demon to possess the corpse. |
+| [[rangoric-srd/spells/Fey Decree\|Fey Decree]]: | Deafens, cowers, frightens or wounds fey of other alignments; banishes nonfey from the fey realm. |
 | [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |
 | [[rangoric-srd/spells/Holy Word\|Holy Word]]:                                       | Kills, paralyzes, [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]], or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened\|deafens]] nongood subjects. |
 | [[rangoric-srd/spells/Inflict Serious Wounds, Mass\|Inflict Serious Wounds, Mass]]: | Deals 3d8 damage +1/level to many creatures.                                                                                                                                                      |
@@ -558,6 +564,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Discern Location\|Discern Location]]:                           | Reveals exact location of creature or object.                   |
 | [[rangoric-srd/spells/Earthquake\|Earthquake]]:                                       | Intense tremor shakes 5-ft./level radius.                       |
 | [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |
+| [[rangoric-srd/spells/Fey Curtain\|Fey Curtain]]: | As mass invisibility, but you choose who can see the subjects. |
 | [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                       | Deals 1d6/level fire damage.                                    |
 | [[rangoric-srd/spells/Frightful Aspect\|Frightful Aspect]] (M): | You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened. |

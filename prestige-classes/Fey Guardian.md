@@ -25,7 +25,7 @@ Characters who become fey guardians often seek to share the knowledge, gifts, an
 
 To qualify to become a fey guardian (abbreviated Fgd), a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 12 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 12 ranks, [[rangoric-srd/skills/Theology|Theology]] 5 ranks.
+**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 9 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 9 ranks, [[rangoric-srd/skills/Theology|Theology]] 2 ranks.
 
 **Feats**: [[rangoric-srd/feats/Fey Magic|Fey Magic]], any two [[rangoric-srd/feats/Feats Overview#Metamagic Feats|metamagic feats]].
 
@@ -60,7 +60,7 @@ All of the following are class features of the fey guardian prestige class.
 
 **Spells per Day**: At each level, a fey guardian gains new spells per day as if he had also gained a level in a spellcasting class he belonged to before adding the prestige class. He does not, however, gain any other benefit a character of that class would have gained. If he had more than one spellcasting class before becoming a fey guardian, he must decide to which class he adds each level for the purpose of determining spells per day. ^fey-guardian-spells-per-day
 
-**Luck of the Fey (Ex)**: At 1st level, the fey guardian develops the supernatural ability to affect the luck of himself and others. Once per day, the fey guardian can choose to reroll one roll that he or another character or creature within a 50-foot radius has just made. The targeted creature must take the results of the reroll, even if they are worse. ^fey-guardian-luck-of-the-fey
+**Luck of the Fey (Ex)**: At 1st level, the fey guardian gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-fey|luck of the fey]]. ^fey-guardian-luck-of-the-fey
 
 **Will of the Fey (Ex)**: At 1st level, a fey guardian is gifted with the ability to expend less XP than required to complete a spell. When casting spells that benefit others, the XP cost is 75% of the listed cost, while spells that benefit the fey guardian himself cost 90% of the listed cost. ^fey-guardian-will-of-the-fey
 

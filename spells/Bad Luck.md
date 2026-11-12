@@ -5,6 +5,7 @@ school: "Enchantment"
 subschool: "Compulsion"
 level:
   - "Brd 1"
+  - "Fey 1"
   - "Fpk 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion)*
 
-  - **Level**: Brd 1, Fpk 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Fey 1, Fpk 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: 50 ft.

@@ -25,7 +25,7 @@ Over the centuries, fey spellcasters deigned to teach others their unorthodox ma
 
 To qualify to become a mage of the circle (abbreviated Moc), a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 8 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 8 ranks.
+**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 5 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks.
 
 **Feats**: [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Fey Magic|Fey Magic]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]].
 

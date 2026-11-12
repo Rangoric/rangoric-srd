@@ -33,7 +33,7 @@ To qualify to become a faerie hunter (abbreviated Fhn), a character must fulfill
 
 **Base Attack Bonus**: +5.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks.
+**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 2 ranks.
 
 **Feats**: [[rangoric-srd/feats/Mite Fighter|Mite Fighter]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]].
 
@@ -80,7 +80,7 @@ At 10th level, this faerie hunter ability extends to a radius emanating 5 feet f
 
 **Anchor (Sp)**: At 6th level, a faerie hunter gains the ability to keep a fey from escaping the mortal world, as *[[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]]*. To accomplish this, the fey must be hit by a crossbow bolt or arrow tipped with a cold iron spike. Some particularly nasty faerie hunters commission all their bolts or arrows to be fashioned from iron for potential use as an anchor. ^faerie-hunter-anchor
 
-**Slippery Mind (Ex)**: At 7th level, this ability lets the faerie hunter wriggle free from magical effects that would otherwise control or compel her. If a faerie hunter with a slippery mind fails her saving throw against an enchantment, she can attempt her saving throw again one round later. She only gets this one extra chance to succeed at her saving throw per enchantment cast upon her. ^faerie-hunter-slippery-mind
+**Slippery Mind (Ex)**: At 7th level, the faerie hunter gains [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], as the rogue’s advanced talent. ^faerie-hunter-slippery-mind
 
 **Craft Blood Item (Ex)**: At 8th level, a faerie hunter gains this specialized form of the [[rangoric-srd/feats/Brew Potion|Brew Potion]] feat, which allows her to create healing potions from the blood and remains of a slain fey. The type of potion produced depends on the Hit Dice of the fey creature slain: 1 HD yields a potion of *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, 2 HD yields a potion of *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]*, and so on. The faerie hunter’s caster level for these potions is her faerie hunter level plus all other caster levels from any other spellcasting classes. All the normal requirements for a potion remain the same (such as race or spells). All other rules for creating potions apply. Only the faerie hunter is foul enough to research the magical uses of fey blood and escape the bad luck it could bring. ^faerie-hunter-craft-blood-item
 

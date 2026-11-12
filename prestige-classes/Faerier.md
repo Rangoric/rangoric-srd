@@ -34,9 +34,9 @@ To qualify to become a faerier (abbreviated Frr), a character must fulfill all t
 
 **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Perception|Perception]]).
 
-**Skills**: [[rangoric-srd/skills/Performance|Performance]] 8 ranks, [[rangoric-srd/skills/Persuasion|Persuasion]] 8 ranks, [[rangoric-srd/skills/Sense Motive|Sense Motive]] 8 ranks.
+**Skills**: [[rangoric-srd/skills/Performance|Performance]] 5 ranks, [[rangoric-srd/skills/Persuasion|Persuasion]] 5 ranks, [[rangoric-srd/skills/Sense Motive|Sense Motive]] 5 ranks.
 
-**Knowledge**: [[rangoric-srd/skills/Lore|Lore (fey)]] 8 ranks, [[rangoric-srd/skills/Nature|Nature]] 8 ranks, or a [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] bonus of +6.
+**Knowledge**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks, [[rangoric-srd/skills/Nature|Nature]] 5 ranks, or a [[rangoric-srd/classes/Bard#^bardic-knowledge|bardic knowledge]] bonus of +6.
 
 **Spellcasting**: Able to cast spells or use magic devices.
 
@@ -67,7 +67,7 @@ All of the following are class features of the faerier prestige class.
 
 **Weapon and Armor Proficiency**: The faerier gains no armor or weapon proficiencies beyond those he already possesses. ^faerier-weapon-and-armor-proficiency
 
-**Fey Sense (Su)**: The faerier develops a special sensitivity to the presence of fey beings. As a free action, the faerier can detect the presence of fey creatures within 100 feet. The faerier does not know the type or specific location of the fey creatures, and this ability does not give the faerier the ability to see invisible fey creatures. The faerier senses the number and general direction of all fey within range. A faerier gains this ability at 1st level. ^faerier-fey-sense
+**Fey Sense (Su)**: At 1st level, the faerier gains [[rangoric-srd/prestige-classes/Fey Class Features#^fey-sense|fey sense]]. ^faerier-fey-sense
 
 **Fey Arts (Sp)**: At 1st level, the faerier chooses whether to study the magic of Seelie or Unseelie faeries. Faeriers of evil alignment may not study Seelie magic, and those of good alignment may not study Unseelie magic. Once the choice is made, the faerier selects his fey arts from the matching list below, and he may not switch between these studies at any later time. He chooses one fey art at 1st level, and an additional fey art at 3rd, 5th, 6th, 8th, and 10th levels; he may not select the same fey art more than once. Each fey art is a spell-like ability, detailed below. ^faerier-fey-arts
 
@@ -99,7 +99,7 @@ All of the following are class features of the faerier prestige class.
 
 *Sprite Charm*: Three times per day, you may cast *[[rangoric-srd/spells/Charm Person|charm person]]* or *[[rangoric-srd/spells/Charm Animal|charm animal]]* as a 6th-level druid.
 
-**Fey Friend (Ex)**: Fey creatures come to see the faerier as a sympathetic being. The faerier gains a +4 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Performance|Performance]], [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks when interacting with fey creatures. A faerier gains this ability at 2nd level. ^faerier-fey-friend
+**Fey Friend (Ex)**: At 2nd level, the faerier gains [[rangoric-srd/prestige-classes/Fey Class Features#^fey-friend|fey friend]]. ^faerier-fey-friend
 
 **Detect Doorways (Su)**: At 3rd level, the faerier gains an innate sense for the presence of fey doorways and the backroads beyond them. Not in Rangoric yet: it works through the fey realm’s doorways, a subsystem of *Faeries* that waits with Feat Topics S18. ^faerier-detect-doorways
 
@@ -107,7 +107,7 @@ All of the following are class features of the faerier prestige class.
 
 **Fey Form (Su)**: Due to his extreme study of fey beings, the faerier may assume the form of a fey creature once per day. This special ability works like a druid’s [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]], but is limited to the forms of fey creatures within one size category of the faerier. A faerier gains this ability at 5th level. ^faerier-fey-form
 
-**Timeless Body (Ex)**: By 7th level, the faerier no longer takes ability score penalties for aging and cannot be magically aged. Any penalties he may have already incurred, however, remain in place. Bonuses still accrue, and the faerier still dies of old age when he reaches his maximum age. ^faerier-timeless-body
+**Timeless Body (Ex)**: At 7th level, the faerier gains [[rangoric-srd/classes/Druid#^druid-timeless-body|timeless body]], as the druid’s. ^faerier-timeless-body
 
 **True Fey Form (Su)**: At the culmination of his study of fey beings, the faerier may assume the form of a fey creature once per day. This special ability works like a druid’s [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]], but is limited to fey creatures within two size categories of the faerier. A faerier gains this ability at 9th level. ^faerier-true-fey-form
 

@@ -38,6 +38,7 @@ Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/d
 | 1st | [[rangoric-srd/spells/Disguise Self\|Disguise Self]] | Disguise own appearance. |
 | 2nd | [[rangoric-srd/spells/Invisibility\|Invisibility]] | Subject [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] 1 min./level or until it attacks. |
 | 3rd | [[rangoric-srd/spells/Nondetection\|Nondetection]] (M) | Hides subject from divination, scrying. |
+| 3rd | [[rangoric-srd/spells/Fey Mask\|Fey Mask]] | As invisibility, but you choose who can see the subjects. |
 | 4th | [[rangoric-srd/spells/Confusion\|Confusion]] | Subjects behave oddly for 1 round/level. |
 | 5th | [[rangoric-srd/spells/False Vision\|False Vision]] (M) | Fools scrying with an illusion. |
 | 6th | [[rangoric-srd/spells/Mislead\|Mislead]] | Turns you [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] and creates illusory double. |

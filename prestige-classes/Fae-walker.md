@@ -33,7 +33,7 @@ To qualify to become a fae-walker (abbreviated Fwk), a character must fulfill al
 
 **Base Attack Bonus**: +4.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 8 ranks, [[rangoric-srd/skills/Stealth|Stealth]] 8 ranks.
+**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks, [[rangoric-srd/skills/Stealth|Stealth]] 5 ranks.
 
 **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]].
 
@@ -82,7 +82,7 @@ At 10th level, the fae-walker receives a +1 bonus on Reflex saves made to avoid 
 
 If the fae-walker already has uncanny dodge abilities (such as the rogue’s [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]]) before gaining them in this prestige class, the character simply advances to the next level of the ability when gained here.
 
-**Slippery Mind (Ex)**: At 3rd level, this ability lets the fae-walker wriggle free from magical effects that would otherwise control or compel him. If a fae-walker with a slippery mind fails his saving throw against an enchantment, he can attempt his saving throw again one round later. He only gets this one extra chance to succeed at his saving throw per enchantment cast upon him. ^fae-walker-slippery-mind
+**Slippery Mind (Ex)**: At 3rd level, the fae-walker gains [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], as the rogue’s advanced talent. ^fae-walker-slippery-mind
 
 **Fae-walk (Sp)**: The fae-walker gains the ability to travel from one location to another through the borderland, as by means of a *[[rangoric-srd/spells/Dimension Door|dimension door]]* spell. At 4th level, the fae-walker can walk up to a total of 15 feet each day in this way, although this may be a single walk of 15 feet or one walk of 10 feet and another of a mere 5 feet. Every two levels thereafter, the distance a fae-walker can walk each day doubles (30 feet at 6th level, 60 feet at 8th level, and 120 feet at 10th level). This amount can be split among many walks, but each one, no matter how small, counts as a 10-foot increment. (A 6th-level fae-walker who walks 22 feet cannot use this ability again until the next day.) ^fae-walker-fae-walk
 

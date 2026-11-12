@@ -11,6 +11,7 @@ level:
   - "Hun 3"
   - "Skd 3"
   - "Sor/Wiz 3"
+  - "Trickery 3"
 components:
   - "V"
   - "S"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 3, Clr 3, Drd 3, Fpk 3, Hun 3, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Clr 3, Drd 3, Fpk 3, Hun 3, Skd 3, Sor/Wiz 3, Trickery 3
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal or touch

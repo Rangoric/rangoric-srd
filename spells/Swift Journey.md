@@ -11,6 +11,7 @@ level:
   - "Rgr 4"
   - "Skd 4"
   - "Sor/Wiz 4"
+  - "Travel 4"
 components:
   - "V"
   - "S"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 4, Clr 4, Drd 4, Hun 4, Msl 4, Rgr 4, Skd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Clr 4, Drd 4, Hun 4, Msl 4, Rgr 4, Skd 4, Sor/Wiz 4, Travel 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

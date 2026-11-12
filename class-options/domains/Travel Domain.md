@@ -35,12 +35,15 @@ Add [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to your list of cleric class s
 
 ## Domain Spells
 
+Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/domains/Domains#^domains-two-spells|either one]] in the domain spell slot.
+
 | Level | Spell | Brief Description |
 | --- | --- | --- |
 | 1st | [[rangoric-srd/spells/Longstrider\|Longstrider]] | Increases your speed. |
 | 2nd | [[rangoric-srd/spells/Locate Object\|Locate Object]] | Senses direction toward object (specific or type). |
 | 3rd | [[rangoric-srd/spells/Fly\|Fly]] | Subject flies at speed of 60 ft. |
 | 4th | [[rangoric-srd/spells/Dimension Door\|Dimension Door]] | Teleports you short distance. |
+| 4th | [[rangoric-srd/spells/Swift Journey\|Swift Journey]] | Subjects travel overland at twice their speed. |
 | 5th | [[rangoric-srd/spells/Teleport\|Teleport]] | Instantly transports you as far as 100 miles/level. |
 | 6th | [[rangoric-srd/spells/Find the Path\|Find the Path]] | Shows most direct way to a location. |
 | 7th | [[rangoric-srd/spells/Teleport, Greater\|Teleport, Greater]] | As teleport, but no range limit and no off-target arrival. |

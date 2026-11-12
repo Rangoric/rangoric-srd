@@ -31,7 +31,7 @@ To qualify to become a knight of the fey, a character must fulfill all the follo
 
 **Base Attack Bonus**: +4.
 
-**Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] 4 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks, [[rangoric-srd/skills/Persuasion|Persuasion]] 4 ranks, [[rangoric-srd/skills/Society|Society]] 5 ranks.
+**Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] 1 rank, [[rangoric-srd/skills/Lore|Lore (fey)]] 2 ranks, [[rangoric-srd/skills/Persuasion|Persuasion]] 1 rank, [[rangoric-srd/skills/Society|Society]] 2 ranks.
 
 **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Power Attack|Power Attack]].
 
@@ -68,10 +68,10 @@ All of the following are class features of the knight of the fey prestige class.
 
 **Lucky Hit (Ex)**: At 2nd level, a knight of the fey gains the ability to add his prestige class level as an attack bonus to a missed attack roll once per day. At 6th level, this ability can be used twice per day. At 9th level, this ability can be used three times per day. This stacks with all attack bonuses. ^knight-of-the-fey-lucky-hit
 
-**Luck of the Fey (Ex)**: At 3rd level, the knight of the fey develops the supernatural ability to affect the luck of himself and others. Once per day, the knight of the fey can choose to reroll one roll that he or another character or creature within a 50-foot radius has just made. The targeted creature must take the results of the reroll, even if they are worse. ^knight-of-the-fey-luck-of-the-fey
+**Luck of the Fey (Ex)**: At 3rd level, the knight of the fey gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-fey|luck of the fey]]. ^knight-of-the-fey-luck-of-the-fey
 
 **Call Knight of the Fey (Su)**: At 5th level, a knight of the fey is awarded a magical horn, giving him the ability to call another knight to his aid. The knight, summoned through force of will and the sounding of the horn, arrives in 1d10 rounds. The arriving knight is less or more experienced than the summoner (1d6: 1–3 less, 4–6 more) by 1d4 levels. The knight fights for the remainder of that combat, ensures the safety of the fellow knight and his companions, and then leaves. ^knight-of-the-fey-call-knight-of-the-fey
 
-**Luck of the True Fey (Ex)**: At 7th level, the knight of the fey develops the supernatural ability further. Like Luck of the Fey, this ability provides two additional times per day where the knight can choose to reroll one roll that he or another character or creature within a 50-foot radius of the character has just made. The targeted creature must take the results of the reroll, even if they are worse. This ability stacks with Luck of the Fey (providing a total of three die rolls that can be rerolled per day). ^knight-of-the-fey-luck-of-the-true-fey
+**Luck of the True Fey (Ex)**: At 7th level, the knight of the fey gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-true-fey|luck of the true fey]]. ^knight-of-the-fey-luck-of-the-true-fey
 
-**Destined (Ex)**: At 10th level, the knight of the fey can reroll a result multiple times in one round and choose between the rerolls gained through Luck of the Fey and Luck of the True Fey. This ability does not grant additional rerolls but allows more than one reroll per round and also allows worse results to be ignored. ^knight-of-the-fey-destined
+**Destined (Ex)**: At 10th level, the knight of the fey gains [[rangoric-srd/prestige-classes/Fey Class Features#^destined|destined]]. ^knight-of-the-fey-destined
