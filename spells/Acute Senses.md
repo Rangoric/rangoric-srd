@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Alc 2"
   - "Brd 2"
   - "Hun 2"
   - "Inq 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Hun 2, Inq 2, Rgr 2, Skd 2
+  - **Level**: Alc 2, Brd 2, Hun 2, Inq 2, Rgr 2, Skd 2
   - **Components**: V, S, M (a glass lens)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

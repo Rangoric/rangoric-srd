@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Alc 4"
   - "Clr 4"
   - "Inq 4"
   - "Protection 4"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 4, Inq 4, Protection 4, Strength 4
+  - **Level**: Alc 4, Clr 4, Inq 4, Protection 4, Strength 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Alc 1"
   - "Brd 1"
   - "Drd 1"
   - "Hun 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Drd 1, Hun 1, Inq 1, Rgr 1, Sha 1, Skd 1, Sor/Wiz 1
+  - **Level**: Alc 1, Brd 1, Drd 1, Hun 1, Inq 1, Rgr 1, Sha 1, Skd 1, Sor/Wiz 1
   - **Components**: V, M/DF (a coffee bean)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

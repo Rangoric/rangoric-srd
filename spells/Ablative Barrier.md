@@ -6,6 +6,7 @@ subschool: "Creation"
 descriptor:
   - "Force"
 level:
+  - "Alc 2"
   - "Blr 2"
   - "Sor/Wiz 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Blr 2, Sor/Wiz 3
+  - **Level**: Alc 2, Blr 2, Sor/Wiz 3
   - **Components**: V, S, M (a piece of metal cut from a shield)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

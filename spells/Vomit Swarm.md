@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Summoning"
 level:
+  - "Alc 2"
   - "Wit 2"
 components:
   - "S"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Wit 2
+  - **Level**: Alc 2, Wit 2
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

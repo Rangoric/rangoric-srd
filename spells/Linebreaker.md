@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Alc 1"
   - "Apl 1"
   - "Hun 1"
   - "Inq 1"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 1, Hun 1, Inq 1, Pal 1, Rgr 1
+  - **Level**: Alc 1, Apl 1, Hun 1, Inq 1, Pal 1, Rgr 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

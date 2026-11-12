@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Healing"
 level:
+  - "Alc 4"
   - "Clr 4"
   - "Inq 4"
   - "Pal 4"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 4, Inq 4, Pal 4, Sha 4
+  - **Level**: Alc 4, Clr 4, Inq 4, Pal 4, Sha 4
   - **Components**: V, S, M
 
 This spell functions like [[rangoric-srd/spells/Restoration, Lesser|lesser restoration]], except that it also dispels negative levels and restores one experience level to a creature who has had a level [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|drained]]. The drained level is restored only if the time since the creature lost the level is equal to or less than one day per caster level. A character who has a level restored by restoration has exactly the minimum number of experience points necessary to restore him or her to his or her previous level.

@@ -6,6 +6,7 @@ subschool: "Phantasm"
 descriptor:
   - "Mind-Affecting"
 level:
+  - "Alc 5"
   - "Brd 5"
   - "Skd 5"
   - "Sor/Wiz 5"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Mind-Affecting\]*
 
-  - **Level**: Brd 5, Skd 5, Sor/Wiz 5
+  - **Level**: Alc 5, Brd 5, Skd 5, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Unlimited

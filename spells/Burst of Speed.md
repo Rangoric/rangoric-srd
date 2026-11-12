@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Alc 3"
   - "Apl 3"
   - "Blr 3"
   - "Hun 3"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 3, Blr 3, Hun 3, Inq 3, Pal 3, Rgr 3
+  - **Level**: Alc 3, Apl 3, Blr 3, Hun 3, Inq 3, Pal 3, Rgr 3
   - **Components**: V
   - **Casting Time**: 1 swift action
   - **Range**: Personal

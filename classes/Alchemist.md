@@ -131,4 +131,4 @@ The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveri
 
 ![[rangoric-srd/class-options/discoveries/True Mutagen (Grand Discovery)]]
 
-**Alchemist Formulae**: Alchemists gain access to a variety of formulae, allowing them to make extracts of the spells on the alchemist formula list. ^alchemist-formulae
+**Alchemist Formulae**: Alchemists gain access to a variety of formulae, allowing them to make extracts of the spells on the [[rangoric-srd/spells/Alchemist Formula List|alchemist formula list]]. ^alchemist-formulae

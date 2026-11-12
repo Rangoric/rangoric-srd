@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Earth"
 level:
+  - "Alc 4"
   - "Blr 4"
   - "Drd 4"
   - "Hun 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Blr 4, Drd 4, Hun 4, Sha 4, Sor/Wiz 4
+  - **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Sha 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

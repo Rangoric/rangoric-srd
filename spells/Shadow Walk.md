@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Shadow"
 level:
+  - "Alc 6"
   - "Brd 5"
   - "Skd 5"
   - "Sor/Wiz 6"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow)*
 
-  - **Level**: Brd 5, Skd 5, Sor/Wiz 6
+  - **Level**: Alc 6, Brd 5, Skd 5, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

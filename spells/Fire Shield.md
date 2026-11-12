@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Fire or Cold"
 level:
+  - "Alc 4"
   - "Blr 4"
   - "Fire 5"
   - "Sor/Wiz 4"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire or Cold\]*
 
-  - **Level**: Blr 4, Fire 5, Sor/Wiz 4, Sun 4
+  - **Level**: Alc 4, Blr 4, Fire 5, Sor/Wiz 4, Sun 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

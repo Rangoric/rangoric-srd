@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Alc 3"
   - "Brd 2"
   - "Clr 4"
   - "Inq 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Clr 4, Inq 2, Sha 4, Skd 2, Sor/Wiz 3, Wit 3
+  - **Level**: Alc 3, Brd 2, Clr 4, Inq 2, Sha 4, Skd 2, Sor/Wiz 3, Wit 3
   - **Components**: V, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Alc 6"
   - "Clr 5"
   - "Drd 7"
   - "Inq 5"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 5, Drd 7, Inq 5, Knowledge 5, Sha 5, Sor/Wiz 6, Wit 6
+  - **Level**: Alc 6, Clr 5, Drd 7, Inq 5, Knowledge 5, Sha 5, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

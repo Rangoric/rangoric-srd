@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Alc 2"
   - "Blr 2"
   - "Sor/Wiz 2"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Blr 2, Sor/Wiz 2
+  - **Level**: Alc 2, Blr 2, Sor/Wiz 2
   - **Components**: V, S, M (a bullet)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

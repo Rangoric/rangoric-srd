@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation, teleportation"
 level:
+  - "Alc 3"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation, teleportation)*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Alc 3, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

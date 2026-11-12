@@ -9,6 +9,7 @@ descriptor:
   - "Mind-Affecting"
   - "Evil"
 level:
+  - "Alc 5"
   - "Brd 5"
   - "Skd 5"
   - "Sor/Wiz 5"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Mind-Affecting, Evil\]*
 
-  - **Level**: Brd 5, Skd 5, Sor/Wiz 5
+  - **Level**: Alc 5, Brd 5, Skd 5, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Unlimited

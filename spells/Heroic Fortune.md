@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 level:
+  - "Alc 2"
   - "Brd 2"
   - "Clr 2"
   - "Pal 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Brd 2, Clr 2, Pal 3, Skd 2
+  - **Level**: Alc 2, Brd 2, Clr 2, Pal 3, Skd 2
   - **Components**: V, S, DF, M (diamond dust worth 100 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

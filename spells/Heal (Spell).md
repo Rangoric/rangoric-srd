@@ -6,6 +6,7 @@ aliases:
 school: "Conjuration"
 subschool: "Healing"
 level:
+  - "Alc 6"
   - "Clr 6"
   - "Drd 7"
   - "Healing 6"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 6, Drd 7, Healing 6, Inq 6, Sha 7, Wit 7
+  - **Level**: Alc 6, Clr 6, Drd 7, Healing 6, Inq 6, Sha 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

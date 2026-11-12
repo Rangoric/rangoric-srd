@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 subschool: "Polymorph"
 level:
+  - "Alc 5"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Alc 5, Sor/Wiz 5
   - **Components**: V, S, M (a bit of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

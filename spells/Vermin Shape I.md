@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 subschool: "Polymorph"
 level:
+  - "Alc 4"
   - "Blr 4"
   - "Drd 3"
   - "Hun 3"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Blr 4, Drd 3, Hun 3, Sor/Wiz 4, Wit 3
+  - **Level**: Alc 4, Blr 4, Drd 3, Hun 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

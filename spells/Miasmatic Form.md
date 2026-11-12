@@ -6,6 +6,7 @@ descriptor:
   - "Air"
   - "Poison"
 level:
+  - "Alc 4"
   - "Sor/Wiz 4"
 components:
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air, Poison\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Alc 4, Sor/Wiz 4
   - **Components**: S, M (contact or inhaled poison worth 100 gp)
   - **Duration**: 1 minute/level
   - **Saving Throw**: None; see text

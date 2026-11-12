@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Alc 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Sor/Wiz 5, Wit 5
+  - **Level**: Alc 5, Sor/Wiz 5, Wit 5
   - **Components**: V
   - **Casting Time**: 10 minutes
   - **Range**: Personal

@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Acid"
 level:
+  - "Alc 4"
   - "Blr 4"
   - "Sor/Wiz 4"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Acid\]*
 
-  - **Level**: Blr 4, Sor/Wiz 4
+  - **Level**: Alc 4, Blr 4, Sor/Wiz 4
   - **Components**: V, S, M (a piece of lemon rind)
   - **Casting Time**: 1 standard action
   - **Range**: Personal
