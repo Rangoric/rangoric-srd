@@ -152,6 +152,102 @@ Once this choice is made, it can’t be changed. While many vigilante talents ar
 
 If the vigilante uses any of these talents while in his social identity, he must succeed at an [[rangoric-srd/skills/Imitation|Imitation]] check against the [[rangoric-srd/skills/Perception|Perception]] checks of all onlookers (without the +20 circumstance bonus from [[rangoric-srd/classes/Vigilante#^vigilante-seamless-guise|seamless guise]]) or the onlookers will realize that he is more than his social identity appears to be and perhaps discover the social and vigilante identities are one and the same. If a talent calls for a saving throw, the DC for that save is equal to 10 + 1/2 the vigilante’s level + the vigilante’s Charisma modifier, unless stated otherwise.
 
+The vigilante talents are below; each has its own note in [[rangoric-srd/class-options/vigilante-talents/Vigilante Talents|Vigilante Talents]].
+
+![[rangoric-srd/class-options/vigilante-talents/Another Day (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Armor Skin (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Blind Spot (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Chase Master (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Close the Gap (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Combat Skill (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Cunning Feint (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Environmental Weapon (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Evasive (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Expose Weaknesses (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Favored Maneuver (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Fist of the Avenger (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Foe Collision (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Heavy Training (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Hide in Plain Sight (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Inspired Vigilante (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Leave an Opening (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Lethal Grace (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Living Shield (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Mad Rush (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Mighty Ambush (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Morphic Weaponry (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Nothing Can Stop Me (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Perfect Fall (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Perfect Vulnerability (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Pull into the Shadows (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Returning Weapon (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Rogue Talent (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Rooftop Infiltrator (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Shadow's Sight (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Shadow's Speed (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Shield of Blades (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Shield of Fury (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Signature Weapon (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Silent Dispatch (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Sniper (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Stalker Sense (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Strike the Unseen (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Sucker Punch (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Sure-Footed (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Surprise Strike (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Throat Jab (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Twisting Fear (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Unexpected Strike (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Unkillable (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Up Close and Personal (Vigilante Talent)]]
+
+![[rangoric-srd/class-options/vigilante-talents/Vital Punishment (Vigilante Talent)]]
+
 **Unshakable (Ex)**: Starting at 3rd level, a vigilante adds his class level to the DC of any attempts to [[rangoric-srd/skills/Intimidation|intimidate]] him. ^vigilante-unshakable
 
 **Startling Appearance (Ex)**: At 5th level, a vigilante learns to use the element of surprise to his advantage, startling foes that are unaware of his presence. Whenever a vigilante with this ability attempts an attack against a foe that is completely unaware of the vigilante’s presence (usually due to [[rangoric-srd/skills/Stealth|Stealth]] or [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisibility]]), the foe is treated as [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] for the rest of the vigilante’s turn ([[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]] or a similar ability prevents this effect unless the vigilante is at least 4 levels higher than the foe with uncanny dodge). The foe also takes a –4 penalty on attacks made against the vigilante until the start of the vigilante’s next turn. ^vigilante-startling-appearance
