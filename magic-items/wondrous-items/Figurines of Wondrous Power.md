@@ -7,10 +7,11 @@ caster-level: 6
 prerequisites: "Craft Wondrous Item, animal messenger, animate objects"
 price: "3,800 gp"
 based-on:
+  - "[[path srd 3.5/items/firearms/Figurine of Wondrous Power|Figurine of Wondrous Power (PF1, slate spider)]]"
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Figurines of Wondrous Power|Figurines of Wondrous Power (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-10
 tags: [rangoric, rangoric/magic-item]
 ---
 
@@ -59,3 +60,9 @@ Moderate transmutation; CL 11th; Craft Wondrous Item, animate objects; Price 9,1
 *Silver Raven*: This silver figurine turns into a raven on command (but it retains its metallic consistency, which gives it hardness 10). Another command sends it off into the air, bearing a message just like a creature affected by an animal messenger spell. If not commanded to carry a message, the raven obeys the commands of its owner, although it has no special powers or telepathic abilities. It can maintain its nonfigurine status for only 24 hours per week, but the duration need not be continuous.
 
 Faint enchantment and transmutation; CL 6th; Craft Wondrous Item, animal messenger, animate objects; Price 3,800 gp.
+
+*Slate Spider*: This statuette of a spider with stubby legs can be used once per day for 1 minute. When activated, the figurine spouts longer, segmented legs, and scampers about the activator, picking lint off robes, chiseling grime from armor, or otherwise grooming its activator. If commanded to do so as a free action, it perches on the muzzle of a one-handed or two-handed firearm barrel and, after the firearm is fired, travels down the barrel and cleans out the firearm. Each time the slate spider cleans a firearm, the next shot the firearm fires has no chance of [[rangoric-srd/equipment/Firearms#Misfires|misfiring]].
+
+When animated, a *slate spider* has 1 hit point and is considered an attended object. An animated slate spider will never willingly leave the space of its animator.
+
+Moderate transmutation; CL 11th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*; Price 10,000 gp; Weight 1 lb.

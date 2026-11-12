@@ -340,6 +340,7 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 
 Standard wondrous items are described below.
 
+  - [[rangoric-srd/magic-items/wondrous-items/Amulet of Bullet Protection|Amulet of Bullet Protection]]
   - [[rangoric-srd/magic-items/wondrous-items/Amulet of Health|Amulet of Health]]
   - [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists|Amulet of Mighty Fists]]
   - [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor|Amulet of Natural Armor]]
@@ -399,6 +400,7 @@ Standard wondrous items are described below.
   - [[rangoric-srd/magic-items/wondrous-items/Deck of Illusions|Deck of Illusions]]
   - [[rangoric-srd/magic-items/wondrous-items/Dimensional Shackles|Dimensional Shackles]]
   - [[rangoric-srd/magic-items/wondrous-items/Drums of Panic|Drums of Panic]]
+  - [[rangoric-srd/magic-items/wondrous-items/Dry Load Powder Horn|Dry Load Powder Horn]]
   - [[rangoric-srd/magic-items/wondrous-items/Dust of Appearance|Dust of Appearance]]
   - [[rangoric-srd/magic-items/wondrous-items/Dust of Disappearance|Dust of Disappearance]]
   - [[rangoric-srd/magic-items/wondrous-items/Dust of Dryness|Dust of Dryness]]
@@ -419,6 +421,7 @@ Standard wondrous items are described below.
   - [[rangoric-srd/magic-items/wondrous-items/Eyes of Doom|Eyes of Doom]]
   - [[rangoric-srd/magic-items/wondrous-items/Eyes of the Eagle|Eyes of the Eagle]]
   - [[rangoric-srd/magic-items/wondrous-items/Eyes of Petrification|Eyes of Petrification]]
+  - [[rangoric-srd/magic-items/wondrous-items/Far-Reaching Sight|Far-Reaching Sight]]
   - [[rangoric-srd/magic-items/wondrous-items/Figurines of Wondrous Power|Figurines of Wondrous Power]]
   - [[rangoric-srd/magic-items/wondrous-items/Feather Token|Feather Token]]
   - [[rangoric-srd/magic-items/wondrous-items/Gauntlets of Ogre Power|Gauntlets of Ogre Power]]
@@ -475,6 +478,7 @@ Standard wondrous items are described below.
   - [[rangoric-srd/magic-items/wondrous-items/Monk’s Robe|Monk’s Robe]]
   - [[rangoric-srd/magic-items/wondrous-items/Necklace of Adaptation|Necklace of Adaptation]]
   - [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs|Necklace of Fireballs]]
+  - [[rangoric-srd/magic-items/wondrous-items/Oil of Silence|Oil of Silence]]
   - [[rangoric-srd/magic-items/wondrous-items/Orb of Storms|Orb of Storms]]
   - [[rangoric-srd/magic-items/wondrous-items/Pearl of Power|Pearl of Power]]
   - [[rangoric-srd/magic-items/wondrous-items/Pearl of the Sirines|Pearl of the Sirines]]
@@ -504,6 +508,7 @@ Standard wondrous items are described below.
   - [[rangoric-srd/magic-items/wondrous-items/Scabbard of Keen Edges|Scabbard of Keen Edges]]
   - [[rangoric-srd/magic-items/wondrous-items/Scarab of Protection|Scarab of Protection]]
   - [[rangoric-srd/magic-items/wondrous-items/Scarab, Golembane|Scarab, Golembane]]
+  - [[rangoric-srd/magic-items/wondrous-items/See Invisibility Sight|See Invisibility Sight]]
   - [[rangoric-srd/magic-items/wondrous-items/Shrouds of Disintegration|Shrouds of Disintegration]]
   - [[rangoric-srd/magic-items/wondrous-items/Silversheen|Silversheen]]
   - [[rangoric-srd/magic-items/wondrous-items/Slippers of Spider Climbing|Slippers of Spider Climbing]]
