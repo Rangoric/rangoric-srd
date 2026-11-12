@@ -10,6 +10,7 @@ prerequisites: "Craft Magic Arms and Armor, ethereal jaunt"
 price: "+49,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Etherealness (Armor Special Ability)|Etherealness (Armor Special Ability) (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Etherealness|Etherealness (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

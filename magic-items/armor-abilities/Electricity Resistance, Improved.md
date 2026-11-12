@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, resist energy"
 price: "+42,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Electricity Resistance, Improved|Electricity Resistance, Improved (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Electricity Resistance, Improved|Electricity Resistance, Improved (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, resist energy"
 price: "+18,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Cold Resistance|Cold Resistance (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Cold Resistance|Cold Resistance (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

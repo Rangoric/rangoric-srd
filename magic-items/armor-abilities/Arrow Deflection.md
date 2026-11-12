@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, shield"
 price: "+2 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Arrow Deflection|Arrow Deflection (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Arrow Deflection|Arrow Deflection (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

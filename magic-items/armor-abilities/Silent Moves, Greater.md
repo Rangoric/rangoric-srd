@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, silence"
 price: "+33,750 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Silent Moves, Greater|Silent Moves, Greater (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Silent Moves, Greater|Silent Moves, Greater (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15

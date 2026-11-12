@@ -7,6 +7,7 @@ prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, shi
 price: "+8 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Exceptional Arrow Deflection|Exceptional Arrow Deflection (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Exceptional Arrow Deflection|Exceptional Arrow Deflection (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

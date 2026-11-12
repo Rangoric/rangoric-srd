@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, limited wish or miracle"
 price: "varies (see above)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Fortification|Fortification (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Fortification|Fortification (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
