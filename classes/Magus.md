@@ -91,7 +91,99 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **Spellstrike (Su)**: At 2nd level, whenever a magus casts a spell with a range of “touch” from the magus spell list, he can deliver the spell through any weapon he is wielding as part of a melee attack. Instead of the free melee touch attack normally allowed to deliver the spell, a magus can make one free melee attack with his weapon (at his highest base attack bonus) as part of casting this spell. If successful, this melee attack deals its normal damage as well as the effects of the spell. If the magus makes this attack in concert with spell combat, this melee attack takes all the penalties accrued by spell combat melee attacks. This attack uses the weapon’s critical range (20, 19–20, or 18–20 and modified by the *[[rangoric-srd/magic-items/weapon-abilities/Keen|keen]]* weapon property or similar effects), but the spell effect only deals ×2 damage on a successful critical hit, while the weapon damage uses its own critical modifier. ^magus-spellstrike
 
-**Magus Arcana**: As he gains levels, a magus learns arcane secrets tailored to his specific way of blending martial puissance and magical skill. Starting at 3rd level, a magus gains one magus arcana. He gains an additional magus arcana for every three levels of magus attained after 3rd level. The arcana are in [[rangoric-srd/class-options/magus-arcana/Magus Arcana|Magus Arcana]], one note each. Unless specifically noted in a magus arcana’s description, a magus cannot select a particular magus arcana more than once. Magus arcana that affect spells can only be used to modify spells from the magus spell list unless otherwise noted. ^magus-magus-arcana
+**Magus Arcana**: As he gains levels, a magus learns arcane secrets tailored to his specific way of blending martial puissance and magical skill. Starting at 3rd level, a magus gains one magus arcana. He gains an additional magus arcana for every three levels of magus attained after 3rd level. The arcana are in [[rangoric-srd/class-options/magus-arcana/Magus Arcana|Magus Arcana]], one note each, and are embedded below, grouped by the level a magus must be to select each. Unless specifically noted in a magus arcana’s description, a magus cannot select a particular magus arcana more than once. Magus arcana that affect spells can only be used to modify spells from the magus spell list unless otherwise noted. ^magus-magus-arcana
+
+**From 3rd level**
+
+![[rangoric-srd/class-options/magus-arcana/Arcane Accuracy (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Arcane Cloak (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Arcane Deed (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Arcane Redoubt (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Arcane Redoubt, Greater (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Close Range (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Concentrate (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Familiar (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Flamboyant Arcana (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Lingering Pain (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Maneuver Mastery (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Pool Strike (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Rod Mastery (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Rod Wielder (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Silent Magic (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Spell Blending (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Spell Shield (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Still Magic (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Wand Mastery (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Wand Wielder (Magus Arcana)]]
+
+**From 6th level**
+
+![[rangoric-srd/class-options/magus-arcana/Broad Study (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Disruptive (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Empowered Magic (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Enduring Blade (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Pool Strike, Thunderous (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Prescient Attack (Magus Arcana)]]
+
+**From 9th level**
+
+![[rangoric-srd/class-options/magus-arcana/Accurate Strike (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Arcane Edge (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Dispelling Strike (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Ghost Blade (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Hasted Assault (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Pool Strike, Clinging (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Prescient Defense (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Spellbreaker (Magus Arcana)]]
+
+**From 12th level**
+
+![[rangoric-srd/class-options/magus-arcana/Critical Strike (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Devoted Blade (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Maximized Magic (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Pool Strike, Arcing (Magus Arcana)]]
+
+**From 15th level**
+
+![[rangoric-srd/class-options/magus-arcana/Bane Blade (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Quickened Magic (Magus Arcana)]]
+
+![[rangoric-srd/class-options/magus-arcana/Reflection (Magus Arcana)]]
 
 **Spell Recall (Su)**: At 4th level, the magus learns to use his arcane pool to recall spells he has already cast. With a swift action he can recall any single magus spell that he has already prepared and cast that day by expending a number of points from his arcane pool equal to the spell’s level (minimum 1). The spell is prepared again, just as if it had not been cast. ^magus-spell-recall
 
