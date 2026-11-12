@@ -40,6 +40,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Abundant Ammunition\|Abundant Ammunition]] (M): | Replaces nonmagical ammunition every round. |
 | [[rangoric-srd/spells/Air Bubble\|Air Bubble]] (M): | Creates a small pocket of air around your head or an object. |
 | [[rangoric-srd/spells/Ant Haul\|Ant Haul]] (M): | Triples carrying capacity of a creature. |
+| [[rangoric-srd/spells/Awakening\|Awakening]]: | Awaken sleeping creatures. |
 | [[rangoric-srd/spells/Bane\|Bane]]:                                                                                                                                                   | Enemies take –1 on attack rolls and saves against fear.                                  |
 | [[rangoric-srd/spells/Bestow Planar Infusion I\|Bestow Planar Infusion I]]: | Grant the target the effects of a planar infusion |
 | [[rangoric-srd/spells/Bless\|Bless]]:                                                                                                                                                 | Allies gain +1 on attack rolls and saves against fear.                                   |
@@ -53,6 +54,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:                                                                                                                         | Cures 1d8 damage +1/level (max +5).                                                      |
 | [[rangoric-srd/spells/Curse Water\|Curse Water]] (M):                                                                                                                                 | Makes unholy water.                                                                      |
 | [[rangoric-srd/spells/Dancing Lantern\|Dancing Lantern]] (F): | Animates a lantern that follows you. |
+| [[rangoric-srd/spells/Deactivate\|Deactivate]]: | A targeted dispel to suppress a magical item. |
 | [[rangoric-srd/spells/Deadeye’s Lore\|Deadeye’s Lore]]: | Gain a +4 bonus on Fieldcraft and move full speed while tracking. |
 | [[rangoric-srd/spells/Deathwatch\|Deathwatch]]:                                                                                                                                       | Reveals how near death subjects within 30 ft. are.                                       |
 | [[rangoric-srd/spells/Decompose Corpse\|Decompose Corpse]] (M): | Turn a corpse into a clean skeleton. |
@@ -187,11 +189,13 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Protection from Good, Communal\|Protection from Good, Communal]]: | As protection from good, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Protection from Law, Communal\|Protection from Law, Communal]]: | As protection from law, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Protective Penumbra\|Protective Penumbra]]: | Shadow protects the target from light. |
+| [[rangoric-srd/spells/Refracted Vision\|Refracted Vision]]: | Gain a distant viewpoint. |
 | [[rangoric-srd/spells/Reinforce Armaments, Communal\|Reinforce Armaments, Communal]] (M): | As reinforce armaments, but you may divide the spell's duration among objects touched. |
 | [[rangoric-srd/spells/Remove Paralysis\|Remove Paralysis]]:               | Frees one or more creatures from paralysis or slow effect.                                                                                   |
 | [[rangoric-srd/spells/Resist Energy\|Resist Energy]]:                     | Ignores 10 (or more) points of damage/attack from specified energy type.                                                                     |
 | [[rangoric-srd/spells/Restoration, Lesser\|Restoration, Lesser]]:         | Dispels magical ability penalty or repairs 1d4 [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged\|ability damage]].  |
 | [[rangoric-srd/spells/Returning Weapon\|Returning Weapon]]: | Grants a weapon the returning special weapon quality. |
+| [[rangoric-srd/spells/Righteous Radiance\|Righteous Radiance]]: | Caster’s body glows with divine radiance. |
 | [[rangoric-srd/spells/Rotgut\|Rotgut]] (M): | Turn water into cheap alcohol |
 | [[rangoric-srd/spells/Sacred Space\|Sacred Space]] (M): | This spell sanctifies an area with heavenly power. |
 | [[rangoric-srd/spells/Savage Maw\|Savage Maw]]: | Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. |
@@ -237,6 +241,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Spells A to B\|Blindness/Deafness]]:                       | Makes subject [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinded]] or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened\|deafened]]. |
 | [[rangoric-srd/spells/Blood Biography\|Blood Biography]] (M): | Learn about a creature with its blood. |
 | [[rangoric-srd/spells/Blood Scent\|Blood Scent]]: | You greatly magnify the target's ability to smell the presence of blood. |
+| [[rangoric-srd/spells/Cacophony\|Cacophony]]: | Chaotic sounds deafen and daze creatures. |
 | [[rangoric-srd/spells/Catatonia\|Catatonia]]: | Make a willing target appear to be dead. |
 | [[rangoric-srd/spells/Chain of Perdition\|Chain of Perdition]] (M): | Creates a floating chain of force. |
 | [[rangoric-srd/spells/Contagion\|Contagion]]:                                    | Infects subject with chosen disease.                                                                                                                                          |
@@ -276,6 +281,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Mark of Obvious Ethics\|Mark of Obvious Ethics]]: | Other creatures can determine the target's alignment. |
 | [[rangoric-srd/spells/Meld into Stone\|Meld into Stone]]:                        | You and your gear merge with stone.                                                                                                                                           |
 | [[rangoric-srd/spells/Nap Stack\|Nap Stack]] (M): | Subjects only need 2 hours for a night's sleep, and can sleep even longer for more benefits. |
+| [[rangoric-srd/spells/Necrotic Claws\|Necrotic Claws]] (M): | Your hands are transformed into claws. |
 | [[rangoric-srd/spells/Obscure Object\|Obscure Object]]:                          | Masks object against scrying.                                                                                                                                                 |
 | [[rangoric-srd/spells/Paragon Surge\|Paragon Surge]]: | You surge with ancestral power, temporarily embodying all the strengths of both elvenkind and humankind simultaneously, and transforming into a paragon of both races, something greater than elf or human alone. |
 | [[rangoric-srd/spells/Prayer\|Prayer]]:                                          | Allies +1 bonus on most rolls, enemies –1 penalty.                                                                                                                            |
@@ -317,6 +323,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Anti-Incorporeal Shell\|Anti-Incorporeal Shell]]: | Incorporeal creatures stay 10 ft. away from you. |
 | [[rangoric-srd/spells/Antilife Filter\|Antilife Filter]]: | Mobile shell hedges out one creature type. |
 | [[rangoric-srd/spells/Ardor’s Onslaught\|Ardor’s Onslaught]]: | The power of conviction assaults neutral foes |
+| [[rangoric-srd/spells/Armor of Deflection\|Armor of Deflection]]: | The subject gains damage reduction and deflection AC bonus. |
 | [[rangoric-srd/spells/Aura of Doom\|Aura of Doom]] (M): | Creatures in your aura become shaken. |
 | [[rangoric-srd/spells/Battle Trance\|Battle Trance]]: | You are transformed into a single-minded force of destruction. |
 | [[rangoric-srd/spells/Bestow Planar Infusion II\|Bestow Planar Infusion II]]: | Grants the target the benefits of an improved planar infusion |
@@ -335,8 +342,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Discern Lies\|Discern Lies]]:                         | Reveals deliberate falsehoods.                                                                                        |
 | [[rangoric-srd/spells/Dismissal\|Dismissal]]:                               | Forces a creature to return to native plane.                                                                          |
 | [[rangoric-srd/spells/Divination\|Divination]] (M):                         | Provides useful advice for specific proposed actions.                                                                 |
+| [[rangoric-srd/spells/Divine Eminence\|Divine Eminence]]: | Raise one of the subject’s ability scores to 24 +1/3 levels. |
 | [[rangoric-srd/spells/Divine Power\|Divine Power]]:                         | You gain attack bonus, +6 to Str, and 1 hp/level.                                                                     |
 | [[rangoric-srd/spells/Enchantment Foil\|Enchantment Foil]]: | Trick opponents who try to cast enchantments on you. |
+| [[rangoric-srd/spells/Expunge\|Expunge]]: | Damage from a turn or rebuke attempt is increased. |
 | [[rangoric-srd/spells/False Future\|False Future]] (M): | Cause divinations of the future to reveal the result you choose. |
 | [[rangoric-srd/spells/Fleshworm Infestation\|Fleshworm Infestation]]: | Worms deal hp and Dex damage. |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:           | Subject moves normally despite impediments.                                                                           |
@@ -416,10 +425,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:                                                                                                                                   | Smite foes with divine fire (1d6/level damage).                           |
 | [[rangoric-srd/spells/Forbid Action, Greater\|Forbid Action, Greater]]: | As forbid action, but 1 creature/level. |
 | [[rangoric-srd/spells/Ghostbane Dirge, Mass\|Ghostbane Dirge, Mass]] (M): | As ghostbane dirge, but affects multiple creatures. |
+| [[rangoric-srd/spells/Grant\|Grant]]: | Change the range of a spell from Personal to Touch. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
 | [[rangoric-srd/spells/Hallow\|Hallow]] (M):                                                                                                                                           | Designates location as holy.                                              |
 | [[rangoric-srd/spells/Heroic Fortune, Mass\|Heroic Fortune, Mass]] (M): | Grants one hero point to all characters in range |
 | [[rangoric-srd/spells/Holy Ice\|Holy Ice]] (M): | Create wall or javelins of frozen holy water. |
+| [[rangoric-srd/spells/Infected Wound\|Infected Wound]]: | Causes a serious injury. |
 | [[rangoric-srd/spells/Inflict Light Wounds, Mass\|Inflict Light Wounds, Mass]]:                                                                                                       | Deals 1d8 damage +1/level to many creatures.                              |
 | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]:                                                                                                                                 | Locust swarms attack creatures.                                           |
 | [[rangoric-srd/spells/Ironblight\|Ironblight]]: | Burst rusts away iron and steel items. |
@@ -449,6 +460,8 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Symbol of Scrying\|Symbol of Scrying]] (M): | Triggered rune activates scrying sensor. |
 | [[rangoric-srd/spells/Symbol of Sleep\|Symbol of Sleep]] (M):                                                                                                                         | Triggered rune puts nearby creatures into catatonic slumber.              |
 | [[rangoric-srd/spells/Symbol of Striking\|Symbol of Striking]] (M): | As symbol of death, but fills a 5-foot square. |
+| [[rangoric-srd/spells/Teleport Trace\|Teleport Trace]] (F): | Tracks teleporting creatures to their destination |
+| [[rangoric-srd/spells/The Golden Bough\|The Golden Bough]] (M F): | Journey to the underworld and fight Death. |
 | [[rangoric-srd/spells/Tongues, Communal\|Tongues, Communal]] (M): | As tongues, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Treasure Stitching\|Treasure Stitching]] (M): | Objects on cloth become embroidered. |
 | [[rangoric-srd/spells/True Seeing\|True Seeing]] (M):                                                                                                                                 | Lets you see all things as they really are.                               |
@@ -466,6 +479,7 @@ tags: [rangoric, rangoric/overview]
 | --------------------------------------------------------------------------------------- | -------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Animate Objects\|Animate Objects]]:                             | Objects attack your foes.                                            |
 | [[rangoric-srd/spells/Antilife Shell\|Antilife Shell]]:                               | 10-ft. field hedges out living creatures.                            |
+| [[rangoric-srd/spells/Armor of Faith\|Armor of Faith]]: | As *armor of deflection*, except the protection is much greater. |
 | [[rangoric-srd/spells/Banishment\|Banishment]]:                                       | Banishes 2 HD/level of extraplanar creatures.                        |
 | [[rangoric-srd/spells/Bear’s Endurance, Mass\|Bear’s Endurance, Mass]]:               | As bear’s endurance, affects one subject/ level.                     |
 | [[rangoric-srd/spells/Blade Barrier\|Blade Barrier]]:                                 | Wall of blades deals 1d6/level damage.                               |
@@ -499,6 +513,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Planar Ally\|Planar Ally]] (X):                                 | As lesser planar ally, but up to 12 HD.                              |
 | [[rangoric-srd/spells/Prognostication\|Prognostication]] (M): | Gain cryptic information from further in the future than divination. |
 | [[rangoric-srd/spells/Recurring Nightmare\|Recurring Nightmare]] (M): | Subject gains negative levels each night until it dies or the curse is removed. |
+| [[rangoric-srd/spells/Shriek Horrisonant\|Shriek Horrisonant]]: | Living creatures gain 1d3 negative levels and are frightened. |
 | [[rangoric-srd/spells/Speak with Soul\|Speak with Soul]] (M): | Hold an extended conversation with a soul |
 | [[rangoric-srd/spells/Spellcrash\|Spellcrash]]: | Target loses a 5th-level prepared spell or spell slot. |
 | [[rangoric-srd/spells/Summon Fey VI\|Summon Fey VI]]: | Calls a fey creature to fight for you. |
@@ -532,8 +547,10 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |
 | [[rangoric-srd/spells/Holy Word\|Holy Word]]:                                       | Kills, paralyzes, [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]], or [[rangoric-srd/rules/Special Abilities and Conditions#^deafened\|deafens]] nongood subjects. |
 | [[rangoric-srd/spells/Inflict Serious Wounds, Mass\|Inflict Serious Wounds, Mass]]: | Deals 3d8 damage +1/level to many creatures.                                                                                                                                                      |
+| [[rangoric-srd/spells/Invulnerability I\|Invulnerability I]]: | The subject becomes resistant to many forms of harm. |
 | [[rangoric-srd/spells/Jolting Portent\|Jolting Portent]]: | You inflict a vengeful fate on a creature, dealing electricity damage each time it attacks or casts a spell. |
 | [[rangoric-srd/spells/Lunar Veil\|Lunar Veil]]: | Dispel light and revert lycanthropes. |
+| [[rangoric-srd/spells/Pestilential Tears\|Pestilential Tears]] (M): | Vile rain kills plants, diseases water, and inhibits healing. |
 | [[rangoric-srd/spells/Pox of Rumors\|Pox of Rumors]] (M): | Curse a creature to attract nasty rumors. |
 | [[rangoric-srd/spells/Refuge\|Refuge]] (M):                                         | Alters item to transport its possessor to you.                                                                                                                                                    |
 | [[rangoric-srd/spells/Regenerate\|Regenerate]]:                                     | Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).                                                                                                                           |
@@ -563,12 +580,14 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Dimensional Lock\|Dimensional Lock]]:                           | Teleportation and interplanar travel blocked for one day/level. |
 | [[rangoric-srd/spells/Discern Location\|Discern Location]]:                           | Reveals exact location of creature or object.                   |
 | [[rangoric-srd/spells/Earthquake\|Earthquake]]:                                       | Intense tremor shakes 5-ft./level radius.                       |
+| [[rangoric-srd/spells/Edge of Oblivion\|Edge of Oblivion]] (M): | You blast the mind and body of your opponent. |
 | [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |
 | [[rangoric-srd/spells/Fey Curtain\|Fey Curtain]]: | As mass invisibility, but you choose who can see the subjects. |
 | [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                       | Deals 1d6/level fire damage.                                    |
 | [[rangoric-srd/spells/Frightful Aspect\|Frightful Aspect]] (M): | You take on a terrifying, Large-sized form of yourself and emit an aura that causes creatures to become shaken or frightened. |
 | [[rangoric-srd/spells/Holy Aura\|Holy Aura]] (F):                                     | +4 to AC, +4 resistance, and SR 25 against evil spells.        |
+| [[rangoric-srd/spells/Invulnerability II\|Invulnerability II]]: | The subject becomes resistant to harm. |
 | [[rangoric-srd/spells/Nine Lives\|Nine Lives]]: | This powerful ward gives the target the ability to get out of trouble and relieves harmful effects and conditions. |
 | [[rangoric-srd/spells/Orb of the Void\|Orb of the Void]] (M): | Sphere inflicts negative levels. |
 | [[rangoric-srd/spells/Planar Ally, Greater\|Planar Ally, Greater]] (X):               | As lesser planar ally, but up to 18 HD.                         |
@@ -590,6 +609,8 @@ tags: [rangoric, rangoric/overview]
 | Spell Name                                                          | Brief Description                                                                                                |
 | ------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Astral Projection\|Astral Projection]] (M): | Projects you and companions onto Astral Plane.                                                                   |
+| [[rangoric-srd/spells/Avatar\|Avatar]] (F): | Infuses cleric with the power of their god. |
+| [[rangoric-srd/spells/Cleansing\|Cleansing]] (M): | Holy light deals 1d8 damage/level to undead. |
 | [[rangoric-srd/spells/Create Demiplane, Greater\|Create Demiplane, Greater]] (F): | As create demiplane, but larger and with more planar traits. |
 | [[rangoric-srd/spells/Cursed Earth\|Cursed Earth]] (M): | Plants die, living creatures catch diseases, or dead creatures rise as zombies. |
 | [[rangoric-srd/spells/Energy Drain\|Energy Drain]]:               | Subject gains 2d4 negative levels.                                                                               |
@@ -599,6 +620,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Heal, Mass\|Heal, Mass]]:                   | As heal, but with several subjects.                                                                              |
 | [[rangoric-srd/spells/Implosion\|Implosion]]:                     | Kills one creature/round.                                                                                        |
 | [[rangoric-srd/spells/Interplanetary Teleport\|Interplanetary Teleport]]: | Teleport to another planet. |
+| [[rangoric-srd/spells/Invulnerability III\|Invulnerability III]]: | The subject becomes resistant to harm. |
 | [[rangoric-srd/spells/Judgment Undone\|Judgment Undone]] (M F): | Restores a petitioner to its mortal life |
 | [[rangoric-srd/spells/Miracle\|Miracle]] (X):                     | Requests a deity’s intercession.                                                                                 |
 | [[rangoric-srd/spells/Overwhelming Presence\|Overwhelming Presence]] (M): | Creatures bow before you as if you were divine. |
