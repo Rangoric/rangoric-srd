@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/feat]
 
 Your knowledge is more than plain smarts—it’s inspired.
 
-**Prerequisites**: Int 13, 1 rank in at least one [[rangoric-srd/skills/Knowledge|Knowledge]] skill, no levels in a class that has the inspiration class feature.
+**Prerequisites**: Int 13, 1 rank in at least one [[rangoric-srd/skills/Knowledge|Knowledge]] skill, no levels in a class that has the [[rangoric-srd/classes/Investigator#^investigator-inspiration|inspiration]] class feature.
 
 **Benefit**: You have the ability to augment your [[rangoric-srd/skills/Knowledge|Knowledge]] and [[rangoric-srd/skills/Linguistics|Linguistics]] checks. You gain a pool of inspiration equal to your Intelligence modifier. You can expend one use of inspiration as a free action to add 1d6 to the result of a Knowledge or Linguistics check, as long as you are trained in that skill (even if you take 10 or 20 on that check). You make this choice after the check is rolled and before the results of the roll are revealed. You can use inspiration only once per skill check. Your pool of inspiration refreshes each day, typically after you get a restful night’s sleep.
