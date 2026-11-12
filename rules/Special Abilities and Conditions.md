@@ -663,6 +663,8 @@ Also see [[#Ability Score Loss|Ability Score Loss]].
 
 **Blown Away**: Depending on its size, a creature can be blown away by winds of high velocity. A creature on the ground that is blown away is [[#^knocked-down|knocked down]] and rolls 1d4 x 10 feet, taking 1d4 points of nonlethal damage per 10 feet. A flying creature that is blown away is blown back 2d6 x 10 feet and takes 2d6 points of nonlethal damage due to battering and buffering. ^blown-away
 
+**Broken**: An item that works less well; see [[rangoric-srd/rules/conditions/Broken (Condition)|broken]]. ^broken
+
 **Checked**: Prevented from achieving forward motion by an applied force, such as wind. Checked creatures on the ground merely stop. Checked flying creatures move back a distance specified in the description of the effect. ^checked
 
 **Confused**: A confused character’s actions are determined by rolling d% at the beginning of his turn: 01–10, attack caster with melee or ranged weapons (or close with caster if attacking is not possible); 11–20, act normally; 21–50, do nothing but babble incoherently; 51–70, flee away from caster at top possible speed; 71–100, attack nearest creature (for this purpose, a familiar counts as part of the subject’s self ). A confused character who can’t carry out the indicated action does nothing but babble incoherently. Attackers are not at any special advantage when attacking a confused character. Any confused character who is attacked automatically attacks its attackers on its next turn, as long as it is still confused when its turn comes. A confused character does not make attacks of opportunity against any creature that it is not already devoted to attacking (either because of its most recent action or because it has just been attacked). ^confused

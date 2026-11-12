@@ -2,6 +2,7 @@
 srd-type: "overview"
 section: "Equipment"
 based-on:
+  - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Firearms|Firearms (PF1)]]"
   - "[[path srd 3.5/classes/Fighter|Fighter (PF1)]]"
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
   - "[[path srd 3.5/items/weapons/Starknife|Starknife (PF1)]]"
@@ -83,6 +84,8 @@ Some class features, such as the [[rangoric-srd/classes/Fighter#^fighter-weapon-
 **Crossbows**: [[rangoric-srd/equipment/weapons/Dual Crossbow|dual crossbow]], [[rangoric-srd/equipment/weapons/Flask Launcher|flask launcher]], [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]], [[rangoric-srd/equipment/weapons/Harpoon|harpoon]], [[rangoric-srd/equipment/weapons/Heavy Crossbow|heavy crossbow]], [[rangoric-srd/equipment/weapons/Heavy Repeating Crossbow|heavy repeating crossbow]], [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]], [[rangoric-srd/equipment/weapons/Light Repeating Crossbow|light repeating crossbow]], [[rangoric-srd/equipment/weapons/Repeating Hand Crossbow|repeating hand crossbow]], and [[rangoric-srd/equipment/weapons/Triple-Threat Crossbow|triple-threat crossbow]].
 
 **Double**: [[rangoric-srd/equipment/weapons/Balled Chain|balled chain]], [[rangoric-srd/equipment/weapons/Bane Spear|bane spear]], [[rangoric-srd/equipment/weapons/Bladeharp|bladeharp]], [[rangoric-srd/equipment/weapons/Cicada Wing Sword|cicada wing sword]], [[rangoric-srd/equipment/weapons/Crushing Axe|crushing axe]], [[rangoric-srd/equipment/weapons/Dire Flail|dire flail]], [[rangoric-srd/equipment/weapons/Double Hammer|double hammer]], [[rangoric-srd/equipment/weapons/Double Mace|double mace]], [[rangoric-srd/equipment/weapons/Double Short Sword|double short sword]], [[rangoric-srd/equipment/weapons/Dwarven Urgrosh|dwarven urgrosh]], [[rangoric-srd/equipment/weapons/Gnome Hooked Hammer|gnome hooked hammer]], [[rangoric-srd/equipment/weapons/Heaven and Earth, Sun and Moon Sword|heaven and earth, sun and moon sword]], [[rangoric-srd/equipment/weapons/Heaven Lotus Phoenix Tail Polearm|heaven lotus phoenix tail polearm]], [[rangoric-srd/equipment/weapons/Horse Hacking Polearm|horse hacking polearm]], [[rangoric-srd/equipment/weapons/Meteor Hammer|meteor hammer]], [[rangoric-srd/equipment/weapons/Monk's Spade|monk's spade]], [[rangoric-srd/equipment/weapons/Mother and Son Hammer|mother and son hammer]], [[rangoric-srd/equipment/weapons/Orc Double Axe|orc double axe]], [[rangoric-srd/equipment/weapons/Quarterstaff|quarterstaff]], [[rangoric-srd/equipment/weapons/Slave Catcher|slave catcher]], [[rangoric-srd/equipment/weapons/Spike Staff|spike staff]], [[rangoric-srd/equipment/weapons/Staff-Spear|staff-spear]], [[rangoric-srd/equipment/weapons/Telescopic Staff|telescopic staff]], and [[rangoric-srd/equipment/weapons/Two-Bladed Sword|two-bladed sword]].
+
+**Firearms**: [[rangoric-srd/equipment/weapons/Axe Musket|axe musket]], [[rangoric-srd/equipment/weapons/Blunderbuss|blunderbuss]], [[rangoric-srd/equipment/weapons/Buckler Gun|buckler gun]], [[rangoric-srd/equipment/weapons/Coat Pistol|coat pistol]], [[rangoric-srd/equipment/weapons/Culverin|culverin]], [[rangoric-srd/equipment/weapons/Dagger Pistol|dagger pistol]], [[rangoric-srd/equipment/weapons/Double Hackbut|double hackbut]], [[rangoric-srd/equipment/weapons/Double-Barreled Musket|double-barreled musket]], [[rangoric-srd/equipment/weapons/Double-Barreled Pistol|double-barreled pistol]], [[rangoric-srd/equipment/weapons/Double-Barreled Shotgun|double-barreled shotgun]], [[rangoric-srd/equipment/weapons/Dragon Pistol|dragon pistol]], [[rangoric-srd/equipment/weapons/Fire Lance|fire lance]], [[rangoric-srd/equipment/weapons/Musket|musket]], [[rangoric-srd/equipment/weapons/Pepperbox|pepperbox]], [[rangoric-srd/equipment/weapons/Pepperbox Rifle|pepperbox rifle]], [[rangoric-srd/equipment/weapons/Pistol|pistol]], [[rangoric-srd/equipment/weapons/Revolver|revolver]], [[rangoric-srd/equipment/weapons/Rifle|rifle]], [[rangoric-srd/equipment/weapons/Shotgun|shotgun]], [[rangoric-srd/equipment/weapons/Sword Cane Pistol|sword cane pistol]], and [[rangoric-srd/equipment/weapons/Warhammer Musket|warhammer musket]].
 
 **Flails**: [[rangoric-srd/equipment/weapons/Balled Chain|balled chain]], [[rangoric-srd/equipment/weapons/Chained Axe|chained axe]], [[rangoric-srd/equipment/weapons/Chained Mace|chained mace]], [[rangoric-srd/equipment/weapons/Dire Flail|dire flail]], [[rangoric-srd/equipment/weapons/Double Flying Claw|double flying claw]], [[rangoric-srd/equipment/weapons/Double-Chained Axe|double-chained axe]], [[rangoric-srd/equipment/weapons/Dragon Head Chain|dragon head chain]], [[rangoric-srd/equipment/weapons/Flail|flail]], [[rangoric-srd/equipment/weapons/Flying Weight|flying weight]], [[rangoric-srd/equipment/weapons/Four-Section Sickle|four-section sickle]], [[rangoric-srd/equipment/weapons/Heavy Flail|heavy flail]], [[rangoric-srd/equipment/weapons/Hook Flail|hook flail]], [[rangoric-srd/equipment/weapons/Kusarigama|kusarigama]], [[rangoric-srd/equipment/weapons/Ladies' Chain|ladies' chain]], [[rangoric-srd/equipment/weapons/Manticore Tail Whip|manticore tail whip]], [[rangoric-srd/equipment/weapons/Meteor Hammer|meteor hammer]], [[rangoric-srd/equipment/weapons/Morningstar|morningstar]], [[rangoric-srd/equipment/weapons/Mother and Son Hammer|mother and son hammer]], [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]], [[rangoric-srd/equipment/weapons/Scarf Chain|scarf chain]], [[rangoric-srd/equipment/weapons/Slave Catcher|slave catcher]], [[rangoric-srd/equipment/weapons/Spiked Chain|spiked chain]], and [[rangoric-srd/equipment/weapons/Whip|whip]].
 
@@ -975,6 +978,158 @@ Weapons found on Table: Weapons that have special options for the wielder (“yo
 ![[rangoric-srd/equipment/weapons/Whip]]
 
 ![[rangoric-srd/equipment/weapons/Manticore Tail Whip]]
+
+%% end generated %%
+
+##### Firearms
+
+Firearms are exotic ranged weapons, and they follow rules of their own (proficiency, touch AC within the first range increment, loading, misfires and scatter shots): see [[rangoric-srd/equipment/Firearms|Firearms]]. Whether they exist in a game at all, and how common and costly they are, is that game’s choice ([[rangoric-srd/equipment/Firearms#Firearms in Your Campaign|firearms in your campaign]]); the prices below are for emerging guns. ^firearms
+
+Each firearm and each kind of firearm ammunition and gear has its own note in the `weapons` folder, linked from the tables. The tables and the descriptions below are built from those notes.
+
+**Table: Firearms**
+
+%% generated: firearms table %%
+
+| Firearms                                                                                 | Cost     | Dmg (S) | Dmg (M) | Critical | Range Increment | Misfire      | Capacity | Weight (1) | Type (2)                 |
+| ---------------------------------------------------------------------------------------- | -------- | ------- | ------- | -------- | --------------- | ------------ | -------- | ---------- | ------------------------ |
+| *One-Handed Early Firearms*                                                              |          |         |         |          |                 |              |          |            |                          |
+| [[rangoric-srd/equipment/weapons/Buckler Gun\|Buckler gun]]                              | 750 gp   | 1d4     | 1d6     | x4       | 10 ft.          | 1 (5 ft.)    | 2        | 6 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Pepperbox\|Pepperbox]]                                  | 3,000 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1–2 (5 ft.)  | 6        | 5 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Pistol\|Pistol]]                                        | 1,000 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1 (5 ft.)    | 1        | 4 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Coat Pistol\|Pistol, coat]]                             | 750 gp   | 1d3     | 1d4     | x3       | 10 ft.          | 1 (5 ft.)    | 1        | 1 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Dagger Pistol\|Pistol, dagger]]                         | 740 gp   | 1d3     | 1d4     | x3       | 10 ft.          | 1 (5 ft.)    | 1        | 1 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Double-Barreled Pistol\|Pistol, double-barreled]]       | 1,750 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1–2 (5 ft.)  | 2        | 5 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Dragon Pistol\|Pistol, dragon]] (3)                     | 1,000 gp | 1d4     | 1d6     | x4       | 20 ft.          | 1–2 (5 ft.)  | 1        | 3 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Sword Cane Pistol\|Pistol, sword cane]]                 | 775 gp   | 1d3     | 1d4     | x3       | 10 ft.          | 1 (5 ft.)    | 1        | 1 lb.      | Bludgeoning and piercing |
+| *Two-Handed Early Firearms*                                                              |          |         |         |          |                 |              |          |            |                          |
+| [[rangoric-srd/equipment/weapons/Blunderbuss\|Blunderbuss]] (3)                          | 2,000 gp | 1d6     | 1d8     | x2       | special         | 1–2 (10 ft.) | 1        | 8 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Culverin\|Culverin]] (3)                                | 4,000 gp | 2d6     | 2d8     | x4       | 30 ft.          | 1 (10 ft.)   | 1        | 40 lb.     | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Double Hackbut\|Double hackbut]]                        | 4,000 gp | 2d10    | 2d12    | x4       | 50 ft.          | 1–2 (5 ft.)  | 2        | 18 lb.     | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Fire Lance\|Fire lance]]                                | 25 gp    | 1d4     | 1d6     | x4       | 10 ft.          | 1–4 (5 ft.)  | 1        | 4 lb.      | Piercing                 |
+| [[rangoric-srd/equipment/weapons/Musket\|Musket]]                                        | 1,500 gp | 1d10    | 1d12    | x4       | 40 ft.          | 1–2 (5 ft.)  | 1        | 9 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Axe Musket\|Musket, axe]]                               | 1,600 gp | 1d6     | 1d8     | x4       | 30 ft.          | 1–2 (5 ft.)  | 1        | 6 lb.      | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Double-Barreled Musket\|Musket, double-barreled]]       | 2,500 gp | 1d10    | 1d12    | x4       | 40 ft.          | 1–3 (5 ft.)  | 2        | 11 lb.     | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Warhammer Musket\|Musket, warhammer]]                   | 1,600 gp | 1d6     | 1d8     | x4       | 30 ft.          | 1–2 (5 ft.)  | 1        | 6 lb.      | Bludgeoning and piercing |
+| *One-Handed Advanced Firearms*                                                           |          |         |         |          |                 |              |          |            |                          |
+| [[rangoric-srd/equipment/weapons/Revolver\|Revolver]]                                    | 4,000 gp | 1d6     | 1d8     | x4       | 20 ft.          | 1            | 6        | 4 lb.      | Bludgeoning and piercing |
+| *Two-Handed Advanced Firearms*                                                           |          |         |         |          |                 |              |          |            |                          |
+| [[rangoric-srd/equipment/weapons/Rifle\|Rifle]]                                          | 5,000 gp | 1d8     | 1d10    | x4       | 80 ft.          | 1            | 1        | 12 lb.     | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Pepperbox Rifle\|Rifle, pepperbox]]                     | 7,000 gp | 1d8     | 1d10    | x4       | 80 ft.          | 1–2          | 4        | 15 lb.     | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Shotgun\|Shotgun]] (3)                                  | 5,000 gp | 1d6     | 1d8     | x2       | 20 ft.          | 1–2          | 1        | 12 lb.     | Bludgeoning and piercing |
+| [[rangoric-srd/equipment/weapons/Double-Barreled Shotgun\|Shotgun, double-barreled]] (3) | 7,000 gp | 1d6     | 1d8     | x2       | 20 ft.          | 1–2          | 2        | 15 lb.     | Bludgeoning and piercing |
+
+1 *Weight figures are for Medium weapons. A Small weapon weighs half as much, and a Large weapon weighs twice as much.*
+
+2 *When two types are given, the weapon is both types if the entry specifies “and,” or either type (player’s choice at time of attack) if the entry specifies “or.”*
+
+3 *Scatter weapon; see the [[rangoric-srd/equipment/Firearms#Firearm Descriptions|scatter weapon quality]].*
+
+%% end generated %%
+
+**Table: Firearm Ammunition and Gear**
+
+%% generated: firearm gear table %%
+
+| Firearm Ammunition and Gear                                                                         | Cost     | Weight  |
+| --------------------------------------------------------------------------------------------------- | -------- | ------- |
+| [[rangoric-srd/equipment/weapons/Dragon's Breath Cartridge\|Alchemical cartridge, dragon's breath]] | 40 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Entangling Shot Cartridge\|Alchemical cartridge, entangling shot]] | 40 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Flare Cartridge\|Alchemical cartridge, flare]]                     | 10 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Paper Cartridge\|Alchemical cartridge, paper, bullet or pellet]]   | 12 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Salt Shot Cartridge\|Alchemical cartridge, salt shot]]             | 12 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Black Powder\|Black powder, dose]]                                 | 10 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Black Powder\|Black powder, keg]]                                  | 1,000 gp | 5 lb.   |
+| [[rangoric-srd/equipment/weapons/Firearm Bullet\|Firearm bullet, 1]]                                | 1 gp     | —       |
+| [[rangoric-srd/equipment/weapons/Firearm Bullet\|Firearm bullet, 30]]                               | 30 gp    | 1/2 lb. |
+| [[rangoric-srd/equipment/weapons/Adamantine Firearm Bullet\|Firearm bullet, adamantine]]            | 61 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Pitted Firearm Bullet\|Firearm bullet, pitted]]                    | 5 gp (1) | —       |
+| [[rangoric-srd/equipment/weapons/Silver Firearm Bullet\|Firearm bullet, silver]]                    | 25 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Gunsmith's Kit\|Gunsmith's kit]]                                   | 15 gp    | 2 lb.   |
+| [[rangoric-srd/equipment/weapons/Metal Cartridge\|Metal cartridge]]                                 | 15 gp    | —       |
+| [[rangoric-srd/equipment/weapons/Pellets\|Pellets, handful]]                                        | 1 gp     | —       |
+| [[rangoric-srd/equipment/weapons/Pellets\|Pellets, 30 handfuls]]                                    | 30 gp    | 1/2 lb. |
+| [[rangoric-srd/equipment/weapons/Powder Horn\|Powder horn]]                                         | 3 gp     | 1 lb.   |
+
+1 *Does not include the cost of poison compound.*
+
+%% end generated %%
+
+**Alchemical Cartridges**: An alchemical cartridge is a prepared bundle of black powder with a bullet or pellets, sometimes with more exotic material added, which is then wrapped in paper or cloth and sealed with beeswax, lard, or tallow. There are many types of alchemical cartridges, the simplest being the paper cartridge—a simple mix of black powder and either pellets or a bullet. Alchemical cartridges make loading a firearm easier, reducing the time to load a firearm by one step (a full-round action becomes a standard action, a standard action becomes a move action, and a move action becomes a free action), but they tend to be unstable. The misfire value of a weapon firing an alchemical cartridge increases as listed in each entry. ^alchemical-cartridges
+
+The firearms, their ammunition and gear are described below.
+
+%% generated: firearm descriptions %%
+
+![[rangoric-srd/equipment/weapons/Blunderbuss]]
+
+![[rangoric-srd/equipment/weapons/Buckler Gun]]
+
+![[rangoric-srd/equipment/weapons/Culverin]]
+
+![[rangoric-srd/equipment/weapons/Double Hackbut]]
+
+![[rangoric-srd/equipment/weapons/Fire Lance]]
+
+![[rangoric-srd/equipment/weapons/Musket]]
+
+![[rangoric-srd/equipment/weapons/Axe Musket]]
+
+![[rangoric-srd/equipment/weapons/Double-Barreled Musket]]
+
+![[rangoric-srd/equipment/weapons/Warhammer Musket]]
+
+![[rangoric-srd/equipment/weapons/Pepperbox]]
+
+![[rangoric-srd/equipment/weapons/Pistol]]
+
+![[rangoric-srd/equipment/weapons/Coat Pistol]]
+
+![[rangoric-srd/equipment/weapons/Dagger Pistol]]
+
+![[rangoric-srd/equipment/weapons/Double-Barreled Pistol]]
+
+![[rangoric-srd/equipment/weapons/Dragon Pistol]]
+
+![[rangoric-srd/equipment/weapons/Sword Cane Pistol]]
+
+![[rangoric-srd/equipment/weapons/Revolver]]
+
+![[rangoric-srd/equipment/weapons/Rifle]]
+
+![[rangoric-srd/equipment/weapons/Pepperbox Rifle]]
+
+![[rangoric-srd/equipment/weapons/Shotgun]]
+
+![[rangoric-srd/equipment/weapons/Double-Barreled Shotgun]]
+
+![[rangoric-srd/equipment/weapons/Dragon's Breath Cartridge]]
+
+![[rangoric-srd/equipment/weapons/Entangling Shot Cartridge]]
+
+![[rangoric-srd/equipment/weapons/Flare Cartridge]]
+
+![[rangoric-srd/equipment/weapons/Paper Cartridge]]
+
+![[rangoric-srd/equipment/weapons/Salt Shot Cartridge]]
+
+![[rangoric-srd/equipment/weapons/Black Powder]]
+
+![[rangoric-srd/equipment/weapons/Firearm Bullet]]
+
+![[rangoric-srd/equipment/weapons/Adamantine Firearm Bullet]]
+
+![[rangoric-srd/equipment/weapons/Pitted Firearm Bullet]]
+
+![[rangoric-srd/equipment/weapons/Silver Firearm Bullet]]
+
+![[rangoric-srd/equipment/weapons/Gunsmith's Kit]]
+
+![[rangoric-srd/equipment/weapons/Metal Cartridge]]
+
+![[rangoric-srd/equipment/weapons/Pellets]]
+
+![[rangoric-srd/equipment/weapons/Powder Horn]]
 
 %% end generated %%
 

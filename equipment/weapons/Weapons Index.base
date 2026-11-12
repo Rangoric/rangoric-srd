@@ -37,3 +37,25 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Firearms"
+    filters:
+      and:
+        - file.hasTag("weapon-group/firearms")
+    order:
+      - file.name
+      - note.firearm
+      - note.firearm-hands
+      - note.cost-gp
+      - note.damage-small
+      - note.damage-medium
+      - note.critical
+      - note.range-ft
+      - note.misfire
+      - note.capacity
+      - note.weight-lb
+      - note.damage-type
+      - note.special
+    sort:
+      - property: file.name
+        direction: ASC
