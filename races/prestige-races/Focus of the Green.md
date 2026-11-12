@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/prestige-race]
 
 One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; how enchantments of the flesh work, and what they cost, is there.
 
-Druids, rangers, and others who consider the wilderness their home find themselves drawn to this focus.
+[[rangoric-srd/classes/Druid|Druids]], [[rangoric-srd/classes/Ranger|rangers]], and others who consider the wilderness their home find themselves drawn to this focus.
 
 | Step | Cost | Minimum Level | Prerequisite |
 | --- | --- | --- | --- |
