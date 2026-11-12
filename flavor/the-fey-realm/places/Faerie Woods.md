@@ -30,6 +30,6 @@ The Faerie Woods is one of the most commonly visited regions by mortal outsiders
 
 *Uncommon:* Dryad oaks have a dual presence with their mortal world and the forest here in FaerieLand. Here in the Faerie Woods, dryads are able to leave their host tree for a number of days equal to their HD.
 
-*Rare:* The largest concentration of high fey, fey-born, and [[rangoric-srd/races/Half-Fey|half-fey]] creatures can be found in the Faerie Forest.
+*Rare:* The largest concentration of [[rangoric-srd/monsters/High Fey Creature|high fey]], [[rangoric-srd/monsters/Fey-born Creature|fey-born]], and [[rangoric-srd/races/Half-Fey|half-fey]] creatures can be found in the Faerie Forest.
 
 *Obscure:* The Tylwyth Teg protect the Settling Grove, a secret collective grave of many sentient plants deep in the Faerie Woods; the Settling is really a kind of compost pile filled as much with decaying plants as with memories, emotions, and powers undreamt of by mere animal lifeforms.

@@ -82,7 +82,7 @@ CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rango
 
 **Sand Circles**: At 2nd level, mages of the circle can use [[rangoric-srd/rules/Faercana#^magic-sand|magic sand]] to bolster their encircled spells. The use of magic sand adds +1 to each die rolled for the spell effect, and it also inserts a random effect (see [[rangoric-srd/rules/Faercana#^table-magic-sand-wild-characteristics|Table: Magic Sand Wild Characteristics]]). ^mage-of-the-circle-sand-circles
 
-This ability does not give the caster magic sand; the mage of the circle must find it, or harvest it in the fey realm with the *harvest magic sand* spell (not in this SRD yet), which this ability requires him to know but does not grant. This ability duplicates but does not stack with the [[rangoric-srd/feats/Fey Magic|Fey Magic]] feat.
+This ability does not give the caster magic sand; the mage of the circle must find it, or harvest it in the fey realm with the *[[rangoric-srd/spells/Harvest Magic Sand|harvest magic sand]]* spell, which this ability requires him to know but does not grant. This ability duplicates but does not stack with the [[rangoric-srd/feats/Fey Magic|Fey Magic]] feat.
 
 **Extra Slot**: At 5th level, and again at 9th, the mage of the circle gains the ability to cast one more spell beyond his normal daily allotment. This extra slot can be used for any spell level except the highest the mage of the circle can cast. Once selected, this extra slot does not change in spell level. This extra slot can be used to gain additional encircled spells as long as additional encircled scrolls and scroll cases are crafted. This is the only method by which a spell level may be duplicated for the use of more encircled spells. ^mage-of-the-circle-extra-slot
 
