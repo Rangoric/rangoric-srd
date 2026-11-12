@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Manaaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 A favorite of wizards and scholars, Manaaz is the rune of intelligence and awareness. Those attuned to it become obsessed with learning from the world around them, always willing to take on some new mental challenge.
 

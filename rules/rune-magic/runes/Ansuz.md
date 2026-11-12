@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ansuz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Ansuz is the rune of air and communication, drawing its power from the power of the wind. Politicians and leaders favor Ansuz. Those attuned to the Ansuz rune are talkative, sometimes to the point of annoyance.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ehwaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of the horse and movement, Ehwaz is favored by nomads, cavalry and messengers. The rune stands for all domestic animals in addition to horses, making it popular amongst farmers. Those attuned to Ehwaz tend to be very friendly with animals and prone to not staying in one place for too long.
 

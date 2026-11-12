@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Isa
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Isa is commonly known as the rune of ice, but it also has influence over challenges and obstacles. Woodcutters, explorers, and those who enjoy a good challenge in the wilderness favor it. Those attuned to Isa can be distant and unfriendly, but they are always up for a challenge or contest.
 

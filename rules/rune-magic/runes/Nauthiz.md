@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Nauthiz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Nauthiz is the rune of conflict and confusion, spreading strife and pain in its wake. It is not a widely favored rune because it does not spare the rune caster from its influence. Those attuned to Nauthiz tend to be argumentative and difficult, sometimes even betraying their friends for the sake of creating conflict. A rune caster attuned to Nauthiz may be attuned to Teiwaz at the same time.
 

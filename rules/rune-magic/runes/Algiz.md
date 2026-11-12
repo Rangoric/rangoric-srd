@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Algiz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Defenders against evil, those who favor Algiz work against the dark forces in the world and protect the good. Those attuned to Algiz stand steadfast against all evil, allowing them to do no wrong without resisting.
 

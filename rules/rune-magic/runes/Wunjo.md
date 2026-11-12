@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Wunjo
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of joy, Wunjo is associated with celebrations and fellowship. Wunjo is considered the rune of the common people who take such joy in the things it symbolizes. Those attuned to Wunjo are upbeat and always willing to help a friend. They also work well as part of a team.
 

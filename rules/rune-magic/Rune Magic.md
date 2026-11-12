@@ -27,7 +27,7 @@ Rune casters are solitary folk, living the lives of hermits on the highest peaks
 
 ## Casting Rune Spells
 
-To perform rune magic a character must take at least one level in the Rune Caster prestige class. Other characters may take the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat to use inscribed runes but may not then cast rune spells or use runestones.
+To perform rune magic a character must take at least one level in the [[rangoric-srd/prestige-classes/Rune Caster|Rune Caster]] prestige class. Other characters may take the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat to use inscribed runes but may not then cast rune spells or use runestones.
 
 Rune magic uses a set of specific symbols, the runes, to focus magical energies and use them to cast spells or create other effects. Each rune has a certain type of energy it channels, granting the rune caster using it access to a certain set of spells and abilities. Beginning rune casters only know a handful of runes while the more experienced rune caster may know a dozen or more. Unfortunately, a rune caster may only focus the energies of a limited number of runes at a time, forcing rune casters to pick and choose which runes they would like to use from their available supply.
 
@@ -59,7 +59,7 @@ If the Will save succeeds, then the spell is cast with enhancements from the met
 
 ### Inscribing Runes
 
-Runes may also be inscribed on items, creating a stored spell that may be activated later. To do so the rune caster must be attuned to a rune that would allow him to cast the spell to be inscribed. Once he is attuned, the rune caster uses a full-round action per spell level to draw the rune on the item on which the spell is to be stored. Some form of mark must be left on the surface where the rune is inscribed; the rune caster cannot simply run his finger over a surface to inscribe a rune. In situations where the rune is already drawn, such as a rune carved into a wall or a shield, the rune caster need only trace the rune with his finger. With the actual drawing of the rune complete, the rune caster must use one of his rune spell slots of the spell level to be inscribed to cast the spell into the rune. At this time the rune caster spends XP equal to the spell level times (caster level of the rune caster × 5) to power the rune. Once the experience points are spent the rune is inscribed and remains active for a year per caster level or until the rune is used. If a rune is carved into an item, the destruction of that item destroys the rune and its power.
+Runes may also be inscribed on items, creating a stored spell that may be activated later. To do so the rune caster must be attuned to a rune that would allow him to cast the spell to be inscribed. Once he is attuned, the rune caster ([[rangoric-srd/prestige-classes/Rune Caster#^rune-caster-inscribe-rune|3rd level]]) uses a full-round action per spell level to draw the rune on the item on which the spell is to be stored. Some form of mark must be left on the surface where the rune is inscribed; the rune caster cannot simply run his finger over a surface to inscribe a rune. In situations where the rune is already drawn, such as a rune carved into a wall or a shield, the rune caster need only trace the rune with his finger. With the actual drawing of the rune complete, the rune caster must use one of his rune spell slots of the spell level to be inscribed to cast the spell into the rune. At this time the rune caster spends XP equal to the spell level times (caster level of the rune caster × 5) to power the rune. Once the experience points are spent the rune is inscribed and remains active for a year per caster level or until the rune is used. If a rune is carved into an item, the destruction of that item destroys the rune and its power.
 
 Once inscribed a rune may be activated by anyone capable of casting rune spells (or anyone with the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat) as a full-round action.
 
@@ -112,7 +112,7 @@ In societies where only rune magic exists, rune casters are not solitary but ins
 
 ## What belongs to rune magic
 
-- **Prestige class**: the rune caster.
+- **Prestige class**: the [[rangoric-srd/prestige-classes/Rune Caster|Rune Caster]], who casts rune spells from [[rangoric-srd/prestige-classes/Rune Caster#^rune-caster-rune-spells|rune spell slots]] and makes runestones, runestaves and inscribed runes.
 - **Runes**: the 24 above, each with a special power, spells and a skill bonus.
 - **Feats**: [[rangoric-srd/feats/Activate Rune|Activate Rune]] (for anyone to activate inscribed runes), [[rangoric-srd/feats/Learn Rune|Learn Rune]], [[rangoric-srd/feats/Attune Extra Rune|Attune Extra Rune]] and [[rangoric-srd/feats/Eye of Knowledge|Eye of Knowledge]].
 - **Items**: the [[rangoric-srd/magic-items/armor-abilities/Runic (Armor Special Ability)|runic]] armor and [[rangoric-srd/magic-items/weapon-abilities/Runic (Weapon Special Ability)|runic]] weapon special abilities.

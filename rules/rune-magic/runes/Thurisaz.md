@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Thurisaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Thurisaz is the rune of ruin and flames. It is primarily concerned with destruction so the old can be moved aside to make room for the new. Those attuned to the Thurisaz rune seek to destroy, especially those that are corrupt or already damaged.
 

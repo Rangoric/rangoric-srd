@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Othala
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of unearned possessions, Othala is favored by thieves, the greedy, and the paranoid. Those attuned to it become suspicious of others, thinking everyone is after their wealth, which they are always yearning to increase.
 

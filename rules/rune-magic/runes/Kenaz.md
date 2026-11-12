@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Kenaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Kenaz is the rune of vision and light, bringing forth illumination so knowledge can be found. Sages and scholars of all types favor Kenaz. Those attuned to Kenaz try to educate their fellows, always willing to broaden the knowledge of those around them.
 

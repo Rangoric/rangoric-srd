@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Dagaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Dagaz is the rune of beginnings, endings, and awakenings. It is popular amongst a number of groups because its area of influence is so large. Those attuned to Dagaz always see things through to the end, but after finishing one quest are left yearning to start another.
 

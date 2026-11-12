@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Laguz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of water, Laguz is popular amongst sailors and alchemists. Those attuned to it change behavior quickly, going from calm to raging in mere seconds. This behavior makes others uncomfortable around rune casters known to favor Laguz.
 

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Gebo
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Gebo is the rune of interaction between people and of society as a whole. This rune gives those attuned to it power over the actions of others, making this rune one which can be easily abused. Those attuned to Gebo are talkative and interested in the affairs of everyone around them.
 

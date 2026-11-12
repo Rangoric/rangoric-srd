@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Perthro
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Rune casters who favor Perthro are interested in secrets and mysteries, particularly those that deal with the occult or supernatural. They seek knowledge mortals were not meant to know despite the dangers in doing so. Those attuned to Perthro become very curious, even about matters in which curiosity may prove dangerous.
 

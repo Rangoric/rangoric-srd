@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Eihwaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Rune of protection and endurance, Eihwaz is popular with rune warriors and the more combative rune casters. Those attuned to Eihwaz tend to be very steadfast and protective of others while always willing to demonstrate their own endurance.
 

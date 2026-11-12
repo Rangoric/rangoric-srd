@@ -14,10 +14,10 @@ tags: [rangoric, rangoric/feat]
 
 You are able to attune an additional rune.
 
-**Prerequisites**: Base Fortitude save +7, 3rd-level rune spell slot.
+**Prerequisites**: Base Fortitude save +7, 3rd-level [[rangoric-srd/prestige-classes/Rune Caster#^rune-caster-rune-spells|rune spell slot]].
 
 **Benefit**: You may attune to one rune more than normal.
 
-**Normal**: Rune casters may attune to a number of runes equal to their level in the attune rune class ability plus their Constitution bonus ([[rangoric-srd/rules/rune-magic/Rune Magic#Casting Rune Spells|casting rune spells]]).
+**Normal**: Rune casters may attune to a number of runes equal to their level in the [[rangoric-srd/prestige-classes/Rune Caster#^rune-caster-attune-rune|attune rune]] class ability plus their Constitution bonus ([[rangoric-srd/rules/rune-magic/Rune Magic#Casting Rune Spells|casting rune spells]]).
 
 **Special**: This feat may only be taken once. It’s part of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]].

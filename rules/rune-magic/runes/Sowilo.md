@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Sowilo
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Sowilo is the rune of victory and the sun, favored by warriors and generals. Those who are attuned to Sowilo become intent on winning and jubilant when they are victorious. They rarely back down from a challenge, especially a martial one.
 

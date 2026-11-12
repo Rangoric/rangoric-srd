@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Raidho
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of movement, Raidho draws its power from the action of changing location. Wanderers and nomads favor it. Those attuned to this rune suffer from wanderlust, always wanting to see what is over the next hill.
 

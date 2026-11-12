@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Teiwaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of law, justice, and responsibility Teiwaz is favored by leaders and judges. Many rune casters who favor Teiwaz serve as the lawgivers in their home areas. Rune casters attuned to Teiwaz become very concerned with upholding the law and seeing that justice is carried out. A rune caster attuned to Teiwaz may be attuned to Nauthiz at the same time.
 

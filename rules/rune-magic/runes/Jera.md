@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Jera
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of peace and healing, Jera is a popular rune with rune casters because of the healing powers it makes available. Those attuned to Jera tend to become less violent and more concerned with the well being of others.
 

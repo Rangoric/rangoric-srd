@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Fehu
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Fehu is the rune of wealth and possessions, and is related specifically to livestock. Those who pursue the accumulation of possessions through honorable or dishonorable means favor this rune, but the possessions must be gained by one’s own actions. Rune casters attuned to Fehu are constantly on the lookout to add to their property.
 

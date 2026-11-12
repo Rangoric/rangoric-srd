@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ingwaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Ingwaz is the rune of earth, popular with miners and engineers. Those attuned to Ingwaz become very stoic and quiet, but act with great determination when called upon.
 

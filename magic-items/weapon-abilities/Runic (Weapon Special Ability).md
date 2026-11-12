@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Runic
 
-This weapon is covered in runes, having been created by a rune caster. In addition to whatever other abilities the weapon may have, it contains three runestones within it. The runes are likely to be ones associated with combat. Like a runestaff ([[rangoric-srd/rules/rune-magic/Rune Magic#Casting Rune Spells|casting rune spells]]), the runic weapon may be attuned to, but it only counts as attuning to one rune.
+This weapon is covered in runes, having been created by a [[rangoric-srd/prestige-classes/Rune Caster|rune caster]]. In addition to whatever other abilities the weapon may have, it contains three runestones within it. The runes are likely to be ones associated with combat. Like a runestaff ([[rangoric-srd/rules/rune-magic/Rune Magic#Casting Rune Spells|casting rune spells]]), the runic weapon may be attuned to, but it only counts as attuning to one rune.
 
 CL 14th (rune caster); [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/rules/rune-magic/runes/Dagaz|Dagaz]] rune; Price +3 bonus.

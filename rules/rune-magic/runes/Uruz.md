@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Uruz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 Uruz is the rune of strength and health, embodying the idea of a perfectly fit physical form. Warriors, laborers, and healers favor this rune. Rune casters attuned to Uruz show off their strength at every opportunity, even when it is unnecessary.
 

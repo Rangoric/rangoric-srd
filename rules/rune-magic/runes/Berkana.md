@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Berkana
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 A rune of plenty and fertility, Berkana is favored by farmers and druids for the effects it has on nature. Those attuned to Berkana become very animalistic and gain a distinct dislike for civilization and all its trappings.
 

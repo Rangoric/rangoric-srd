@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/feat]
 
 Seeking knowledge and comprehension of the deeper mysteries of the runes, you performed an ancient ceremony to remove your own eye. It now sees into the realm of spirits for you and allows you to look at the world from the runes’ flat point of view.
 
-**Prerequisites**: Con 15, 3rd-level rune spell slot.
+**Prerequisites**: Con 15, 3rd-level [[rangoric-srd/prestige-classes/Rune Caster#^rune-caster-rune-spells|rune spell slot]].
 
 **Benefit**: You may learn and attune to one extra rune. You also receive a +2 bonus on all checks to learn runes, attune to runes, or create runestones or runestaves.
 

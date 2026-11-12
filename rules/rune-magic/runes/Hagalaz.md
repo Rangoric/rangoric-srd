@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Hagalaz
 
-*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the rune caster.*
+*A rune of [[rangoric-srd/rules/rune-magic/Rune Magic|rune magic]], for the [[rangoric-srd/prestige-classes/Rune Caster|rune caster]] and the [[rangoric-srd/feats/Activate Rune|Activate Rune]] feat.*
 
 The rune of storm and earthquake, Hagalaz represents the anger of nature. A popular rune with Warriors, this rune is a powerful if clumsy force. Those attuned to Hagalaz are violent and destructive but also respectful toward nature.
 
