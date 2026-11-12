@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 9
+book: "Unearthed Arcana"
 based-on:
   - "[[path srd 3.5/races/Hobgoblins|Hobgoblins (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Hobgoblin|Hobgoblin (3.5)]]"
@@ -90,6 +91,6 @@ A hobgoblin can take any of these in place of the traits they replace (see [[ran
 
 ### Subtypes
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the hobgoblin's.
+**Racial variants.** A variant's ability scores take the place of the hobgoblin's.
 
 - **Fire Hobgoblin**: Fire hobgoblins revel in pain and the sensations of battle; their favorite arts are strategy and tactics. [[rangoric-srd/races/racial-traits/Fire Race Traits|Fire Race Traits]]. +2 Dexterity, +2 Constitution, +2 Intelligence, −2 Charisma. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision (torchlight is their preferred lighting). No sneaky (no racial bonus on Stealth checks).

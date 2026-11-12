@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 5
+book: "Unearthed Arcana"
 based-on:
   - "[[path srd 3.5/races/Kobolds|Kobolds (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Kobold|Kobold (3.5)]]"
@@ -89,7 +90,7 @@ A kobold can take any of these in place of the traits they replace (see [[rangor
 
 ### Subtypes
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the kobold's.
+**Racial variants.** A variant's ability scores take the place of the kobold's.
 
 - **Earth Kobold**: Earth traits turned toward evil: less emotional than other kobolds, and cunning with trickery and traps. [[rangoric-srd/races/racial-traits/Earth Race Traits|Earth Race Traits]]. −2 Strength, −2 Constitution: stronger, though less agile, than other kobolds. +4 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (trapmaking) checks related to stonework traps.
 - **Aquatic Kobold**: Undersea miners whose broad tails make them exceptional swimmers. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 40 feet.

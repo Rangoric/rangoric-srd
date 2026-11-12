@@ -1,6 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
+book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder) (ARG)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
@@ -12,9 +13,9 @@ tags: [rangoric, rangoric/rules]
 
 # Race Builder Traits
 
-The racial traits for the [[rangoric-srd/races/race builder/Race Builder|Race Builder]], by category, with their race point (RP) costs. Benefits are the Advanced Race Guide’s full wording, from [[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder)]]; a few traits whose wording names a setting’s places, or that it doesn’t list on their own, are given in short. Skill names are Rangoric’s. The **Notes** column links Rangoric’s note for a trait when it has one (an alternate racial trait or a trait in a race note).
+The racial traits for the [[rangoric-srd/races/race builder/Race Builder|Race Builder]], by category, with their race point (RP) costs. Benefits are given in their full wording, from [[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Traits (Race Builder)|Racial Traits (Race Builder)]]; a few traits whose wording names a setting’s places, or that it doesn’t list on their own, are given in short. Skill names are Rangoric’s. The **Notes** column links Rangoric’s note for a trait when it has one (an alternate racial trait or a trait in a race note).
 
-**Costs** are the costs in the trait headings of the *Advanced Race Guide*. "+1 each" means each extra purchase costs 1 RP more than the last.
+**Costs** are the costs listed in each trait’s heading. "+1 each" means each extra purchase costs 1 RP more than the last.
 
 **Tiers**: **S** standard, **A** advanced, **M** monstrous. A race takes at most 3, 4 or 5 traits per category by power level, and only traits of its tier or lower.
 

@@ -4,6 +4,7 @@ section: "Classes"
 alignment: "Any"
 hit-die: "d8"
 skill-points: "8 + Int modifier"
+book: ["Core Rulebook", "Pathfinder Unchained", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/classes/Rogue (Unchained)|Rogue (Unchained) (PF1)]]"
   - "[[path srd 3.5/classes/Rogue|Rogue (PF1)]]"
@@ -88,7 +89,7 @@ A rogue also adds 1/2 her level (minimum +1) to [[rangoric-srd/skills/Investigat
 
 Talents that add effects to a rogue's sneak attack (their notes say so, and have `sneak-attack: true`). Only one of these talents can be applied to an individual attack and the decision must be made before the attack roll is made.
 
-The talents are listed in [[rangoric-srd/class-options/rogue-talents/Rogue Talents|Rogue Talents]], one note each: 49 rogue talents and 31 advanced talents, from the Core Rulebook, Pathfinder Unchained, the older talents Unchained lists as usable unchanged, and Ultimate Combat. A rogue can take a feat she qualifies for in place of a rogue talent.
+The talents are listed in [[rangoric-srd/class-options/rogue-talents/Rogue Talents|Rogue Talents]], one note each: 49 rogue talents and 31 advanced talents. A rogue can take a feat she qualifies for in place of a rogue talent.
 
 **Danger Sense (Ex)**: At 3rd level, a rogue gains a +1 bonus on Reflex saves to avoid traps and a +1 dodge bonus to AC against attacks made by traps. In addition, she gains a +1 bonus on [[rangoric-srd/skills/Perception|Perception]] checks to avoid being surprised by a foe. These bonuses increase by 1 every 3 rogue levels thereafter (to a maximum of +6 at 18th level). This ability counts as trap sense for the purpose of any feat or class prerequisite, and can be replaced by any archetype class feature that replaces trap sense. The bonuses gained from this ability stack with those gained from trap sense (from another class). ^rogue-trap-sense
 

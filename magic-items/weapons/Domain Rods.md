@@ -27,6 +27,7 @@ aliases:
   - "Water Rod"
 caster-level: "9 to 14"
 price: "50,308 to 161,105 gp (by rod)"
+book: "Arms & Armor v3.5"
 based-on:
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Domain Rods|Domain Rods (Arms & Armor)]]"
 status: draft
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Domain Rods
 
-These sturdy rods are crafted out of the finest materials available and are designed to aid specialist spellcasters, both martially and spiritually. In addition to providing magical power, each rod can be used as a formidable weapon, and each can be imprinted with the user’s holy symbol, increasing its potency. When the wielder uses [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]] through a holy symbol that is imprinted into a domain rod, its save DC increases by 2 (in *Arms & Armor*, turn attempts made this way received a +2 enhancement bonus). Each rod, when held, provides its user a +2 enhancement bonus to his DC for spells cast within the rod’s domain and a +2 enhancement bonus to saving throws vs. spells and effects of the same domain as the rod.
+These sturdy rods are crafted out of the finest materials available and are designed to aid specialist spellcasters, both martially and spiritually. In addition to providing magical power, each rod can be used as a formidable weapon, and each can be imprinted with the user’s holy symbol, increasing its potency. When the wielder uses [[rangoric-srd/combat/Combat Special Attacks#Channel Energy|channel energy]] through a holy symbol that is imprinted into a domain rod, its save DC increases by 2 (originally, turn attempts made this way received a +2 enhancement bonus). Each rod, when held, provides its user a +2 enhancement bonus to his DC for spells cast within the rod’s domain and a +2 enhancement bonus to saving throws vs. spells and effects of the same domain as the rod.
 
 Additionally, each rod allows a single spell from its domain, of any level, to be cast into it and held. This spell can be regained by the caster without losing it from the rod. A spell stored in a domain rod can be cast at any time as if it were a prepared spell. An empty rod can be used as a counterspell to any spell of its domain. When a spell of the correct domain targets the wielder of an empty domain rod, he makes a check with his [[rangoric-srd/skills/Identifying Magic|Magic skill]] to allow the rod to absorb the magic.
 

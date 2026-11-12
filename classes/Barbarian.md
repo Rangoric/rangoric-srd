@@ -4,6 +4,7 @@ section: "Classes"
 alignment: "Any nonlawful"
 hit-die: "d12"
 skill-points: "4 + Int modifier"
+book: ["Core Rulebook", "Pathfinder Unchained", "Advanced Player's Guide", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/classes/Barbarian|Barbarian (PF1)]]"
   - "[[fantasy srd 3.5/classes/Barbarian|Barbarian (3.5)]]"
@@ -74,7 +75,7 @@ A barbarian can end his rage as a free action and is [[rangoric-srd/rules/Specia
 
 **Rage Powers (Ex)**: As a barbarian gains levels, he learns to use his rage in new ways. Starting at 2nd level, a barbarian gains a rage power. He gains another rage power for every two levels of barbarian attained after 2nd level. A barbarian gains the benefits of rage powers only while raging, and some of these powers require the barbarian to take an action first. Unless otherwise noted, a barbarian cannot select an individual power more than once. Some rage powers are stances. Activating a stance rage power is a move action. A barbarian can't have more than one stance rage power active at a time. If he activates a stance rage power while another one is active, the current stance immediately ends. The stance can be intentionally ended at the beginning of the barbarian's turn as a free action; otherwise, it lasts until the rage ends. ^barbarian-rage-powers
 
-The rage powers are listed in [[rangoric-srd/class-options/rage-powers/Rage Powers|Rage Powers]], one note each, grouped by book: 34 from the Core Rulebook, 31 new in Pathfinder Unchained, and 46 from the Advanced Player’s Guide and Ultimate Combat.
+The rage powers are listed in [[rangoric-srd/class-options/rage-powers/Rage Powers|Rage Powers]], one note each, grouped by minimum barbarian level.
 
 **Uncanny Dodge (Ex)**: At 2nd level, a barbarian retains his Dexterity bonus to AC (if any) even if he is caught [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]] or struck by an [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]]attacker. However, he still loses his Dexterity bonus to AC if immobilized. If a barbarian already has uncanny dodge from a different class, he automatically gains improved uncanny dodge (see below) instead. ^barbarian-uncanny-dodge
 

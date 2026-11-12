@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 8
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Half-Orcs|Half-Orcs (PF1)]]"
@@ -127,7 +128,7 @@ Bundles of alternate traits for half-orcs of a particular background.
 - **Mountain Clan**: From mountainous regions, agile and alert to echoing sounds: [[rangoric-srd/races/racial-traits/Bestial|Bestial]] and [[rangoric-srd/races/racial-traits/Rock Climber|Rock Climber]].
 - **Mystic**: Survivors of a brutal apprenticeship to an orc shaman: [[rangoric-srd/races/racial-traits/Shaman's Apprentice|Shaman's Apprentice]] and [[rangoric-srd/races/racial-traits/Sacred Tattoo|Sacred Tattoo]].
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the half-orc's, but keep the half-orc's +2 to one ability score.
+**Racial variants.** A variant's ability scores take the place of the half-orc's, but keep the half-orc's +2 to one ability score.
 
 - **Water Half-Orc**: Combining the careful consideration of their water orc parents with human resolve. Not the full water race traits: +1 racial bonus on attack rolls against fire creatures, including extraplanar creatures from the Elemental Plane of Fire, and −1 penalty on all saving throws against spells, spell-like abilities, and supernatural abilities used by fire creatures, including extraplanar creatures from the Elemental Plane of Fire.
 - **Aquatic Half-Orc**: Born where aquatic orcs and tribes of aquatic humans intermarry. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 30 feet. [[rangoric-srd/races/racial-traits/Emissaries|Emissaries]].

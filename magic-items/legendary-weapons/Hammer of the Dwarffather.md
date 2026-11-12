@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Hammer of the Dwarffather
 
-*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Faith Scion|faith scion]] prestige class. Arms & Armor calls it* Hammer of Dwarven Souls*.*
+*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Faith Scion|faith scion]] prestige class, originally called* Hammer of Dwarven Souls*.*
 
 The *Hammer of the Dwarffather* is said to have been crafted by the dwarven gods and symbolizes the glory of the dwarven race.
 

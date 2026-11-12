@@ -1,6 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
+book: ["Advanced Race Guide", "Faeries"]
 based-on:
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Creating a New Race|Creating a New Race (ARG)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Step 1- Concept|Step 1: Concept (ARG)]]"
@@ -19,7 +20,7 @@ tags: [rangoric, rangoric/rules]
 
 ## Building a Race
 
-Sooner or later a campaign wants a race that isn't in the book: elves who live on the ice, a people of living stone, a monster a player wants to play. The race builder makes such races out of the same pieces the existing races are made of, and puts a price on each piece so a new race can sit beside the races in [[rangoric-srd/races/PC Races|PC Races]] without outshining them. It can also build races that are meant to be stronger than those, and say how much stronger.
+Sooner or later a campaign wants a race that isn't here yet: elves who live on the ice, a people of living stone, a monster a player wants to play. The race builder makes such races out of the same pieces the existing races are made of, and puts a price on each piece so a new race can sit beside the races in [[rangoric-srd/races/PC Races|PC Races]] without outshining them. It can also build races that are meant to be stronger than those, and say how much stronger.
 
 A race is bought with **race points (RP)**. Every race has six **racial qualities**, which it must choose: type, subtypes (if any), size, base speed, ability score modifiers, and languages. On top of those it buys any number of **racial traits** (darkvision, a skill bonus, a breath weapon, the ability to fly), limited by its power level. Some qualities and traits cost 0 RP or less: a 0 RP choice still fills its slot, and a negative cost gives points back. Weaknesses are traits with a negative cost.
 
@@ -87,7 +88,7 @@ Some types come with traits, such as darkvision. Those are already paid for, don
 | Medium | 0 | — | No modifiers. Space 5 ft., reach 5 ft. |
 | Small | 0 | — | As [[rangoric-srd/races/PC Races#Small Characters\|Small Characters]]: +1 size bonus to AC and on attack rolls, +4 on [[rangoric-srd/skills/Stealth\|Stealth]]; −1 on combat maneuver checks and to CMD. Space 5 ft., reach 5 ft. |
 | Tiny | 4 | Aberration, construct, dragon, fey, outsider (native) or plant | +2 size bonus to Dex, −2 to Str; +2 size bonus to AC and on attacks, +8 on Stealth; −2 on combat maneuver checks and CMD. Space 2½ ft., reach 0 ft.: must enter a foe's square to attack it (provoking), threatens nothing, usually can't flank. |
-| Large | 7 | Humanoids need the giant subtype | As [[rangoric-srd/races/PC Races#Large Characters\|Large Characters]], without the Advanced Race Guide’s +2 size bonus to Str and −2 to Dex (Small has no Strength penalty): −1 size penalty to AC and on attacks, −4 on Stealth; +1 on combat maneuver checks and CMD. Space 10 ft., reach 5 ft. |
+| Large | 7 | Humanoids need the giant subtype | As [[rangoric-srd/races/PC Races#Large Characters\|Large Characters]], without a +2 size bonus to Str and −2 to Dex (Small has no Strength penalty): −1 size penalty to AC and on attacks, −4 on Stealth; +1 on combat maneuver checks and CMD. Space 10 ft., reach 5 ft. |
 
 #### Base Speed
 
@@ -159,7 +160,7 @@ Advanced and monstrous races are built to face harder fights, especially at low 
 
 ## Rangoric Races in Race Points
 
-Each Rangoric race priced with the trait costs above. A race note carries its total in its `race-points` property. The Advanced Race Guide’s own examples sometimes charge a trait less or more than its heading; here the heading’s cost is used.
+Each Rangoric race priced with the trait costs above. A race note carries its total in its `race-points` property. The original example races sometimes charge a trait less or more than its heading; here the heading’s cost is used.
 
 | Race | Race Points | Level Adjustment | Power Level |
 | --- | --- | --- | --- |
@@ -196,4 +197,4 @@ Each Rangoric race priced with the trait costs above. A race note carries its to
 
 ## Building a Faerie
 
-*Faeries*’ build-a-faerie, its faerie traits priced in race points beside their ECL modifiers, is in [[rangoric-srd/races/race builder/Building a Faerie|Building a Faerie]].
+The build-a-faerie, its faerie traits priced in race points beside their ECL modifiers, is in [[rangoric-srd/races/race builder/Building a Faerie|Building a Faerie]].

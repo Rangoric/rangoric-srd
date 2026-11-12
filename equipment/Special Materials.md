@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Equipment"
+book: "Faeries"
 based-on:
   - "[[fantasy srd 3.5/equipment/Special Materials|Special Materials (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/materials/Tensile Mercury|Tensile Mercury (Arms & Armor)]]"
@@ -117,7 +118,7 @@ Dream silver has 15 hit points per inch of thickness and hardness 10.
 
 Ethertite armor and shields retain their natural bonuses against incorporeal touch attacks. Ethertite weapons cost 1,000 gp more than typical weapons. Ethertite weighs as much as steel, but it possesses a hardness of 15 and 30 hit points per inch of thickness.
 
-**Feyblade**: The faerie aversion to cold iron has driven them to explore new materials for their weapons. Feyblade is an alloy of silver, magic sand, powdered gems, and other materials native to the fey realm that results in a blade that is lighter than steel but equally strong. Weapons made from this material provide a +1 enhancement bonus to attack rolls and are 25% lighter in weight than normal. This material is generally not available for sale upon the Prime Material Plane, requiring a trip to the fey realm to barter for it. A magic weapon made of feyblade is priced as if feyblade were a +3 bonus special ability (as *Faeries* lists it among weapon special abilities). ^feyblade
+**Feyblade**: The faerie aversion to cold iron has driven them to explore new materials for their weapons. Feyblade is an alloy of silver, magic sand, powdered gems, and other materials native to the fey realm that results in a blade that is lighter than steel but equally strong. Weapons made from this material provide a +1 enhancement bonus to attack rolls and are 25% lighter in weight than normal. This material is generally not available for sale upon the Prime Material Plane, requiring a trip to the fey realm to barter for it. A magic weapon made of feyblade is priced as if feyblade were a +3 bonus special ability. ^feyblade
 
 **Icebreaker**: Widespread throughout many arctic regions, herbalists derive this popular ointment from snow moss, a plant indigenous to the region. The plant predominately grows in remote ice caves frequently populated by frost giants or white dragons. In an effort to capitalize on the product’s immense demand, some entrepreneurial herbalists negotiate lucrative business deals with the normally hostile inhabitants. Because of the commercial success, a growing number of frost giant tribes and white dragons amass vast fortunes previously incomprehensible before the advent of this profitable ointment. ^icebreaker
 

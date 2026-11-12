@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Kaiein, the Blazing Staff
 
-*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Spell Scion|spell scion]] prestige class. Arms & Armor calls it* Hellspawn, the Burning Staff*.*
+*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Spell Scion|spell scion]] prestige class, originally called* Hellspawn, the Burning Staff*.*
 
 Created by a wizard from pure elemental fire, *Kaiein* is a conduit between the wielder and the [[rangoric-srd/rules/Planes|Elemental Plane of Fire]]. The staff is made of polished obsidian and is wreathed at all times in wispy blue-white flame. This flame deals no damage to the wielder.
 

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Nightphantom
 
-*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Swift Scion|swift scion]] prestige class. Arms & Armor calls it* Dreamcatcher*.*
+*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Swift Scion|swift scion]] prestige class, originally called* Dreamcatcher*.*
 
 A cabal of halfling clerics created the bow called *Nightphantom* long ago. Since then, it has been passed down along a line of elite rangers and rogues, but was recently lost when its wielder was slain while away from her village.
 

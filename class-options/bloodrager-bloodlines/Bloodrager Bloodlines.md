@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Bloodrager Bloodlines
 
-A [[rangoric-srd/classes/Bloodrager|bloodrager]] picks one bloodline at 1st level; the [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|Bloodrager note]] says what a bloodline gives and when. These are the bloodrager’s own bloodlines, from Pathfinder’s *Advanced Class Guide*. They share their names with [[rangoric-srd/class-options/bloodlines/Bloodlines|sorcerer bloodlines]] but give different powers, feats and spells, so each has its own note.
+A [[rangoric-srd/classes/Bloodrager|bloodrager]] picks one bloodline at 1st level; the [[rangoric-srd/classes/Bloodrager#^bloodrager-bloodline|Bloodrager note]] says what a bloodline gives and when. These are the bloodrager’s own bloodlines. They share their names with [[rangoric-srd/class-options/bloodlines/Bloodlines|sorcerer bloodlines]] but give different powers, feats and spells, so each has its own note.
 
 When a bloodrager enters a bloodrage, he often takes on a physical transformation influenced by his bloodline and powered by the magic that roils within him. Unless otherwise specified, he gains the effects of his bloodline powers only while in a bloodrage; once the bloodrage ends, all powers from his bloodline immediately cease, and any physical changes the bloodrager underwent revert, restoring him to normal.
 

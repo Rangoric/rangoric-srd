@@ -4,7 +4,7 @@ section: "Classes"
 alignment: "Any"
 hit-die: "d8"
 skill-points: "2 + Int modifier"
-book: "Advanced Player's Guide"
+book: ["Advanced Player's Guide", "Ultimate Magic"]
 based-on:
   - "[[path srd 3.5/classes/Summoner|Summoner (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Summoner (Spellcasting Class Options)|Summoner, Ultimate Magic (PF1)]]"
@@ -220,7 +220,7 @@ Alternatively, any one of these base forms can be used to make a Small eidolon. 
 
 **Serpentine**: **Size** Medium; **Speed** 20 ft., climb 20 ft.; **AC** +2 natural armor; **Saves** Fort (bad), Ref (good), Will (good); **Attack** bite (1d6), tail slap (1d6); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11; **Free Evolutions** [[rangoric-srd/class-options/evolutions/Bite (Evolution)|bite]], [[rangoric-srd/class-options/evolutions/Climb (Evolution)|climb]], [[rangoric-srd/class-options/evolutions/Reach (Evolution)|reach (bite)]], [[rangoric-srd/class-options/evolutions/Tail (Evolution)|tail]], [[rangoric-srd/class-options/evolutions/Tail Slap (Evolution)|tail slap]].
 
-**Aquatic Base Form**: A fourth base form, aquatic, is available to eidolons in addition to the biped, quadruped, and serpentine base forms. The aquatic base form follows all of the normal rules for base forms and can select the [[rangoric-srd/class-options/evolutions/Mount (Evolution)|mount]] evolution. (From *Ultimate Magic*.) ^summoner-aquatic-base-form
+**Aquatic Base Form**: A fourth base form, aquatic, is available to eidolons in addition to the biped, quadruped, and serpentine base forms. The aquatic base form follows all of the normal rules for base forms and can select the [[rangoric-srd/class-options/evolutions/Mount (Evolution)|mount]] evolution. ^summoner-aquatic-base-form
 
 **Aquatic**: **Size** Medium; **Speed** 20 ft., swim 40 ft.; **AC** +4 natural armor; **Saves** Fort (good), Ref (good), Will (bad); **Attack** bite (1d6); **Ability Scores** Str 16, Dex 12, Con 13, Int 7, Wis 10, Cha 11; **Free Evolutions** [[rangoric-srd/class-options/evolutions/Bite (Evolution)|bite]], [[rangoric-srd/class-options/evolutions/Improved Natural Armor (Evolution)|improved natural armor]], [[rangoric-srd/class-options/evolutions/Gills (Evolution)|gills]], [[rangoric-srd/class-options/evolutions/Swim (Evolution)|swim (2)]].
 
@@ -230,13 +230,13 @@ Each eidolon receives a number of evolution points that can be spent to give the
 
 Evolutions are grouped by their cost in evolution points. Evolution points cannot be saved. All of the points must be spent whenever the summoner gains a level. Unless otherwise noted, each evolution can only be selected once.
 
-The evolutions are in [[rangoric-srd/class-options/evolutions/Evolutions|Evolutions]], one note each (*Ultimate Magic*’s new evolutions among them):
+The evolutions are in [[rangoric-srd/class-options/evolutions/Evolutions|Evolutions]], one note each:
 
 ![[rangoric-srd/class-options/evolutions/Evolutions#Summoner Evolutions]]
 
 ###### Eidolon Models
 
-From *Ultimate Magic*: examples, not rules of their own, for the summoner’s eidolon and the [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s (2026-11-10).
+Examples, not rules of their own, for the summoner’s eidolon and the [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s (2026-11-10).
 
 An eidolon can look like almost anything its summoner desires. Eidolon models are pre-built examples of base forms and evolutions that provide an easy guide to building an eidolon with a specific appearance or theme. ^summoner-eidolon-models
 

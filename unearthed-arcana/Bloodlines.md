@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Bloodlines|Bloodlines (3.5)]]"
 status: draft
@@ -8,8 +9,6 @@ change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
-
-## Unearthed Arcana
 
 ### Bloodlines
 

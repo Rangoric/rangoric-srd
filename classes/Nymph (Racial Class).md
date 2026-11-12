@@ -58,11 +58,11 @@ tags: [rangoric, rangoric/class]
 
 **Hit Die:** d6. The Hit Dice column gives the nymph’s total Hit Dice: she gains her Hit Dice at the levels where the column changes (1d6 at 1st level, 9d6 by 20th).
 
-**Class Skills:** Faeries gives none for the racial class, so it has the skills of the monster [[rangoric-srd/monsters/Nymph|nymph]]: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
+**Class Skills:** None are given for the racial class, so it has the skills of the monster [[rangoric-srd/monsters/Nymph|nymph]]: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 **Skill Points at Each Level:** 6 + Int modifier, as the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey type]].
 
-**Proficiencies:** Faeries gives none for the racial class.
+**Proficiencies:** None are given for the racial class.
 
 ###### Class Features
 
@@ -76,7 +76,7 @@ tags: [rangoric, rangoric/class]
 
 ##### How the Nymph Was Broken Down
 
-Faeries’ worked example, for breaking down other monsters the same way.
+A worked example, for breaking down other monsters the same way.
 
 Based on the theory that what the monster entry describes is a “full-level” nymph, we must work backwards and reduce the abilities to what a 1<sup>st</sup> level nymph might be like.
 

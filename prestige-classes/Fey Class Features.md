@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/overview]
 
 # Fey Class Features
 
-Several of the *Faeries* prestige classes share these class features, which work the same in each class that has them. Each class says at what level it gains them; where a feature speaks of “the character”, read the class.
+Several of the fey prestige classes share these class features, which work the same in each class that has them. Each class says at what level it gains them; where a feature speaks of “the character”, read the class.
 
 Two more shared features already have a home elsewhere: **slippery mind** is the rogue’s [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|advanced talent]] ([[rangoric-srd/prestige-classes/Fae-walker|fae-walker]] (3rd), [[rangoric-srd/prestige-classes/Faerie Hunter|faerie hunter]] (7th), [[rangoric-srd/prestige-classes/Fey Prankster|fey prankster]] (7th), [[rangoric-srd/prestige-classes/Fey-Touched|fey-touched]] (7th)), and **timeless body** is the [[rangoric-srd/classes/Druid#^druid-timeless-body|druid’s]] ([[rangoric-srd/prestige-classes/Faerier|faerier]] (7th), [[rangoric-srd/prestige-classes/Fey-Touched|fey-touched]] (8th)).
 

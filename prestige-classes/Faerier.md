@@ -101,9 +101,9 @@ All of the following are class features of the faerier prestige class.
 
 **Fey Friend (Ex)**: At 2nd level, the faerier gains [[rangoric-srd/prestige-classes/Fey Class Features#^fey-friend|fey friend]]. ^faerier-fey-friend
 
-**Detect Doorways (Su)**: At 3rd level, the faerier gains an innate sense for the presence of fey doorways and the backroads beyond them. Not in Rangoric yet: it works through the fey realm’s doorways, a subsystem of *Faeries* that waits with Feat Topics S18. ^faerier-detect-doorways
+**Detect Doorways (Su)**: At 3rd level, the faerier gains an innate sense for the presence of fey doorways and the backroads beyond them. Not in Rangoric yet: it works through the fey realm’s doorways, a subsystem that waits with Feat Topics S18. ^faerier-detect-doorways
 
-**Create Doorways and Backroad (Sp)**: At 4th level, the faerier gains the ability to create doorways and connecting backroads once every 10 days, as if he were a fey creature. Not in Rangoric yet: it works through the fey realm’s doorways, a subsystem of *Faeries* that waits with Feat Topics S18. ^faerier-create-doorways-and-backroad
+**Create Doorways and Backroad (Sp)**: At 4th level, the faerier gains the ability to create doorways and connecting backroads once every 10 days, as if he were a fey creature. Not in Rangoric yet: it works through the fey realm’s doorways, a subsystem that waits with Feat Topics S18. ^faerier-create-doorways-and-backroad
 
 **Fey Form (Su)**: Due to his extreme study of fey beings, the faerier may assume the form of a fey creature once per day. This special ability works like a druid’s [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]], but is limited to the forms of fey creatures within one size category of the faerier. A faerier gains this ability at 5th level. ^faerier-fey-form
 
@@ -111,4 +111,4 @@ All of the following are class features of the faerier prestige class.
 
 **True Fey Form (Su)**: At the culmination of his study of fey beings, the faerier may assume the form of a fey creature once per day. This special ability works like a druid’s [[rangoric-srd/classes/Druid#^druid-wild-shape|wild shape]], but is limited to fey creatures within two size categories of the faerier. A faerier gains this ability at 9th level. ^faerier-true-fey-form
 
-**Create Doorway and Sideroad (Sp)**: At 10th level, the faerier can create doorways and connecting sideroads once every 30 days, as if he were a fey creature. Not in Rangoric yet: it works through the fey realm’s doorways, a subsystem of *Faeries* that waits with Feat Topics S18. ^faerier-create-doorway-and-sideroad
+**Create Doorway and Sideroad (Sp)**: At 10th level, the faerier can create doorways and connecting sideroads once every 30 days, as if he were a fey creature. Not in Rangoric yet: it works through the fey realm’s doorways, a subsystem that waits with Feat Topics S18. ^faerier-create-doorway-and-sideroad

@@ -4,7 +4,7 @@ section: "Classes"
 alignment: "Any"
 hit-die: "d8"
 skill-points: "2 + Int modifier"
-book: "Pathfinder Unchained"
+book: ["Pathfinder Unchained", "Ultimate Magic"]
 based-on:
   - "[[path srd 3.5/classes/Summoner (Unchained)|Unchained Summoner (PF1)]]"
   - "[[path srd 3.5 foundry/classes/Summoner (Unchained)|Unchained Summoner (PF1 Foundry)]]"
@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class]
 
 There are those who take a different path when pursuing the arcane arts, reaching across the boundaries of the world to the far-flung planes to call forth all manner of creatures to do their bidding. Known as summoners, these arcane practitioners form close bonds with particular outsiders, known as eidolons, which increase in power along with their callers. In the end, summoners and their eidolons become linked, sharing shards of the same souls.
 
-**Unchained**: *Pathfinder Unchained*’s summoner, kept beside the [[rangoric-srd/classes/Summoner|summoner]] as its own class (2026-11-10). Most of the summoner’s class features are the same as those of the class’s original design—the biggest change comes to the eidolon. The unchained summoner selects a subtype for his eidolon (such as angel, demon, or protean), which determines a number of its evolutions and helps to shape the eidolon’s general attitude and appearance. In addition, some of the evolutions are now tied to one or more subtypes and base forms, to make eidolons that better match the expected appearances and abilities of such creatures. Finally, the summoner spell list has been greatly revised, removing a number of imbalances.
+**Unchained**: A reworked summoner, kept beside the [[rangoric-srd/classes/Summoner|summoner]] as its own class (2026-11-10). Most of the summoner’s class features are the same as those of the class’s original design—the biggest change comes to the eidolon. The unchained summoner selects a subtype for his eidolon (such as angel, demon, or protean), which determines a number of its evolutions and helps to shape the eidolon’s general attitude and appearance. In addition, some of the evolutions are now tied to one or more subtypes and base forms, to make eidolons that better match the expected appearances and abilities of such creatures. Finally, the summoner spell list has been greatly revised, removing a number of imbalances.
 
 **Counts as a summoner**: While Rangoric keeps both versions, an unchained summoner counts as a [[rangoric-srd/classes/Summoner|summoner]] wherever a rule names the summoner: unchained summoner levels count as summoner levels for prerequisites (such as “summoner level 4th” or “eidolon class feature”), and his eidolon counts as a summoner’s eidolon.
 
@@ -241,7 +241,7 @@ Alternatively, any one of these base forms can be used to make a Small eidolon. 
 
 **Serpentine**: **Size** Medium; **Speed** 20 ft., climb 20 ft.; **AC** +2 natural armor; **Saves** Fort (poor), Ref (good), Will (good); **Attack** bite (1d6), tail slap (1d6); **Ability Scores** Str 12, Dex 16, Con 13, Int 7, Wis 10, Cha 11.
 
-**Aquatic Base Form**: The unchained summoner’s eidolon can also take *Ultimate Magic*’s [[rangoric-srd/classes/Summoner#^summoner-aquatic-base-form|aquatic base form]], as the summoner’s can (2026-11-10). It uses that form’s starting statistics but not its free evolutions: as with the base forms above, the eidolon’s subtype gives its base evolutions. ^unchained-summoner-aquatic-base-form
+**Aquatic Base Form**: The unchained summoner’s eidolon can also take the [[rangoric-srd/classes/Summoner#^summoner-aquatic-base-form|aquatic base form]], as the summoner’s can (2026-11-10). It uses that form’s starting statistics but not its free evolutions: as with the base forms above, the eidolon’s subtype gives its base evolutions. ^unchained-summoner-aquatic-base-form
 
 ###### Evolutions
 
@@ -249,10 +249,10 @@ Each eidolon gains a number of evolution points that can be spent to give the ei
 
 Evolutions are grouped by their cost in evolution points. Evolution points cannot be saved. All of the points must be spent whenever the summoner gains a level. Unless otherwise noted, each evolution can be selected only once.
 
-The evolutions are in [[rangoric-srd/class-options/evolutions/Evolutions|Evolutions]], one note each; *Ultimate Magic*’s evolutions are open to the unchained summoner’s eidolon too (2026-11-10). Where the *Pathfinder Unchained* text says the same as the summoner’s, the two classes share the note; where it differs, the unchained summoner’s has its own note:
+The evolutions are in [[rangoric-srd/class-options/evolutions/Evolutions|Evolutions]], one note each; the summoner’s evolutions that have no unchained version are open to the unchained summoner’s eidolon too (2026-11-10). Where the unchained version says the same as the summoner’s, the two classes share the note; where it differs, the unchained summoner’s has its own note:
 
 ![[rangoric-srd/class-options/evolutions/Evolutions#Unchained Summoner Evolutions]]
 
 ###### Eidolon Models
 
-The [[rangoric-srd/classes/Summoner#^summoner-eidolon-models|eidolon models]] from *Ultimate Magic*, in the summoner’s note, are examples for the unchained summoner’s eidolon too (2026-11-10). Their evolutions link the summoner’s notes; where an evolution has its own unchained note, his eidolon takes that one, and its subtype gives its base evolutions. ^unchained-summoner-eidolon-models
+The [[rangoric-srd/classes/Summoner#^summoner-eidolon-models|eidolon models]] in the summoner’s note are examples for the unchained summoner’s eidolon too (2026-11-10). Their evolutions link the summoner’s notes; where an evolution has its own unchained note, his eidolon takes that one, and its subtype gives its base evolutions. ^unchained-summoner-eidolon-models

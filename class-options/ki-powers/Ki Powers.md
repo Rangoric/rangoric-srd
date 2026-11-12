@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
+book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Monk (Unchained)#Ki Powers (Su)|Unchained Monk (PF1)]]"
 status: draft
@@ -11,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Ki Powers
 
-The [[rangoric-srd/classes/Unchained Monk|unchained monk]]’s ki powers, from Pathfinder Unchained. The class note says how they’re gained; some need a minimum monk level or another ki power (the `level` property is the minimum, 4 when there is none).
+The [[rangoric-srd/classes/Unchained Monk|unchained monk]]’s ki powers. The class note says how they’re gained; some need a minimum monk level or another ki power (the `level` property is the minimum, 4 when there is none).
 
 - [[rangoric-srd/class-options/ki-powers/Abundant Step (Ki Power)|Abundant Step]]
 - [[rangoric-srd/class-options/ki-powers/Cobra Breath (Ki Power)|Cobra Breath]]

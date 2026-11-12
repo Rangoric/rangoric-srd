@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 8
+book: "Unearthed Arcana"
 based-on:
   - "[[path srd 3.5/races/Orcs|Orcs (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Orc|Orc (3.5)]]"
@@ -93,7 +94,7 @@ Pathfinder's orc also has **ferocity** (fighting on below 0 hit points). It come
 
 ### Subtypes
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the orc's.
+**Racial variants.** A variant's ability scores take the place of the orc's.
 
 - **Water Orc**: Water traits turned to evil: slow to reach decisions, but once a water orc chooses a course of action its resolve is harder to shift than a tidal wave. [[rangoric-srd/races/racial-traits/Water Race Traits|Water Race Traits]]. +4 Strength, +2 Constitution, −2 Intelligence, −2 Wisdom, −2 Charisma.
 - **Aquatic Orc**: Orcs of the cliff sides and undersea drops who control access to the deep ocean trenches. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 30 feet.

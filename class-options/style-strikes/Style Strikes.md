@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
+book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Monk (Unchained)#Style Strike (Ex)|Unchained Monk (PF1)]]"
 status: draft
@@ -11,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Style Strikes
 
-The [[rangoric-srd/classes/Unchained Monk|unchained monk]]’s style strikes, from Pathfinder Unchained. The class note says how they’re gained.
+The [[rangoric-srd/classes/Unchained Monk|unchained monk]]’s style strikes. The class note says how they’re gained.
 
 - [[rangoric-srd/class-options/style-strikes/Defensive Spin (Style Strike)|Defensive Spin]]
 - [[rangoric-srd/class-options/style-strikes/Elbow Smash (Style Strike)|Elbow Smash]]

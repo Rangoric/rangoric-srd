@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
+book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Legendary Weapons & Familiar Items|Legendary Weapons & Familiar Items (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/rules/Scions|Scions (Arms & Armor)]]"
@@ -10,8 +11,6 @@ change: modified
 pi-review: 2026-11-09
 tags: [rangoric, rangoric/overview]
 ---
-
-## Unearthed Arcana
 
 ### Legendary Weapons
 
@@ -69,7 +68,7 @@ This restriction does not prevent a scion from taking levels in another class, o
 
 ##### Legendary Weapons by Tier
 
-Arms & Armor offers a second way to run legendary weapons, without the scion prestige classes: the weapon grows in power by tiers as its wielder qualifies for them. ^legendary-weapons-by-tier
+A second way to run legendary weapons, without the scion prestige classes: the weapon grows in power by tiers as its wielder qualifies for them. ^legendary-weapons-by-tier
 
 Legendary weapons are capable of growing with their wielder. While they might start off as rather modest magic items, they can quickly grow into powerful and respected symbols of power and prestige. For the GM, a legendary weapon can be a plot device that drives a character to unlock the keys to make the weapon better and, ultimately, make the character better. As additional encouragement for players, a legendary weapon doesn't count against the character's wealth as her power increases over the course of her career.
 
