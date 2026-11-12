@@ -73,7 +73,7 @@ When a specific ratfolk warren grows overcrowded and the surrounding environment
 
 **Alignment and Religion**: Ratfolk individuals are driven by a desire to acquire interesting items and a compulsion to tinker with complex objects. The strong ties of ratfolk communities give them an appreciation for the benefits of an orderly society, even if they are willing to bend those rules when excited about accomplishing their individual goals.
 
-**Adventurers**: Ratfolk are often driven by a desire to seek out new opportunities for trade, both for themselves and for their warrens. Ratfolk adventurers may seek potential markets for their clan's goods, keep an eye out for sources of new commodities, or just wander about in hopes of unearthing enough treasure to fund less dangerous business ventures. Ratfolk battles are often decided by cunning traps, ambushes, or sabotage of enemy positions, and accordingly young ratfolk heroes often take up classes such as alchemist, gunslinger, and rogue.
+**Adventurers**: Ratfolk are often driven by a desire to seek out new opportunities for trade, both for themselves and for their warrens. Ratfolk adventurers may seek potential markets for their clan's goods, keep an eye out for sources of new commodities, or just wander about in hopes of unearthing enough treasure to fund less dangerous business ventures. Ratfolk battles are often decided by cunning traps, ambushes, or sabotage of enemy positions, and accordingly young ratfolk heroes often take up classes such as [[rangoric-srd/classes/Alchemist|alchemist]], [[rangoric-srd/classes/Gunslinger|gunslinger]], and [[rangoric-srd/classes/Rogue|rogue]].
 
 ### Alternate Racial Traits
 

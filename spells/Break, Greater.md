@@ -35,4 +35,4 @@ tags: [rangoric, rangoric/spell]
   - **Duration**: Instantaneous
   - **Spell Resistance**: Yes
 
-You release a burst of destructive energy. Each Medium or smaller object in the area gains the broken condition unless it succeeds at a Fortitude saving throw. If a broken object fails this save, it is instead destroyed. Magic items can be broken by this spell, but not destroyed. Objects in your possession are not immune.
+You release a burst of destructive energy. Each Medium or smaller object in the area gains the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition unless it succeeds at a Fortitude saving throw. If a broken object fails this save, it is instead destroyed. Magic items can be broken by this spell, but not destroyed. Objects in your possession are not immune.

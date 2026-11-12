@@ -36,4 +36,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-You convert 1 pound of lead into bullets. When you cast this spell, you decide whether you create normal sling bullets, firearm bullets, or firearm pellets. The spell creates two sling bullets, 30 firearm bullets, or 10 uses of pellets.
+You convert 1 pound of lead into bullets. When you cast this spell, you decide whether you create normal sling bullets, [[rangoric-srd/equipment/weapons/Firearm Bullet|firearm bullets]], or firearm [[rangoric-srd/equipment/weapons/Pellets|pellets]]. The spell creates two sling bullets, 30 firearm bullets, or 10 uses of pellets.

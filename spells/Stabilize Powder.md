@@ -37,4 +37,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes (harmless, object)
 
-Ammunition currently loaded in the target firearm is less prone to misfire. Decrease the misfire range by 1 + 1 per five caster levels (maximum +5, minimum misfire 0) for the ammunition currently loaded into that firearm.
+Ammunition currently loaded in the target [[rangoric-srd/equipment/Firearms|firearm]] is less prone to [[rangoric-srd/equipment/Firearms#Misfires|misfire]]. Decrease the misfire range by 1 + 1 per five caster levels (maximum +5, minimum misfire 0) for the ammunition currently loaded into that firearm.

@@ -39,4 +39,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (object), see text
   - **Spell Resistance**: Yes (object), see text
 
-The firearm targeted creates a thunderous report, even if the firearm is not loaded. Every creature within 15 feet of the creature wielding or carrying the firearm must succeed at a Fortitude save or be deafened for 1 minute. The creature wielding or carrying the firearm takes a –4 penalty on this saving throw, and his misfire range increases by 1 for 1d4 rounds. If the firearm was loaded when it was targeted by this spell, that ammunition is wasted.
+The [[rangoric-srd/equipment/Firearms|firearm]] targeted creates a thunderous report, even if the firearm is not loaded. Every creature within 15 feet of the creature wielding or carrying the firearm must succeed at a Fortitude save or be deafened for 1 minute. The creature wielding or carrying the firearm takes a –4 penalty on this saving throw, and his [[rangoric-srd/equipment/Firearms#Misfires|misfire]] range increases by 1 for 1d4 rounds. If the firearm was loaded when it was targeted by this spell, that ammunition is wasted.

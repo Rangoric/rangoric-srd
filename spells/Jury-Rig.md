@@ -42,4 +42,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes (harmless, object)
 
-When you cast this spell, a spectral force binds a broken weapon together, relieving the broken condition for a short time. While under the effects of this spell, an item with the broken condition suffers no adverse effects from that condition, and is treated as if it is not broken. The object regains no hit points, and damage can still destroy the object.
+When you cast this spell, a spectral force binds a broken weapon together, relieving the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition for a short time. While under the effects of this spell, an item with the broken condition suffers no adverse effects from that condition, and is treated as if it is not broken. The object regains no hit points, and damage can still destroy the object.
