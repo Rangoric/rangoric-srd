@@ -3,6 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "vigilante talent"
 class: ["Vigilante"]
+hidden-strike: true
 book: "Ultimate Intrigue"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Throat Jab|Throat Jab (PF1 Foundry)]]"
