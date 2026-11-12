@@ -1,7 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Advanced Class Guide"
+book: ["Advanced Class Guide", "Ultimate Combat"]
 based-on:
   - "[[path srd 3.5/classes/Gunslinger#Deeds|Gunslinger (PF1)]]"
   - "[[path srd 3.5/classes/Swashbuckler (Class)#Deeds|Swashbuckler (PF1)]]"
@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 # Deeds
 
-The [[rangoric-srd/classes/Swashbuckler|swashbuckler]]’s deeds, from Pathfinder’s *Advanced Class Guide*; the [[rangoric-srd/classes/Gunslinger|gunslinger]]’s are [[#Gunslinger deeds|below]]. A swashbuckler gains every deed of her level or lower and spends [[rangoric-srd/classes/Swashbuckler#^swashbuckler-panache|panache]] to perform them; the class note says how. Each note has `level` (swashbuckler level) and `panache-cost` (points spent; 0 means it works while she has at least 1 panache point). Characters without the class can gain a deed through feats.
+The [[rangoric-srd/classes/Swashbuckler|swashbuckler]]’s deeds; the [[rangoric-srd/classes/Gunslinger|gunslinger]]’s are [[#Gunslinger deeds|below]]. A swashbuckler gains every deed of her level or lower and spends [[rangoric-srd/classes/Swashbuckler#^swashbuckler-panache|panache]] to perform them; the class note says how. Each note has `level` (swashbuckler level) and `panache-cost` (points spent; 0 means it works while she has at least 1 panache point). Characters without the class can gain a deed through feats.
 
 ## 1st level
 
@@ -41,7 +41,7 @@ The [[rangoric-srd/classes/Swashbuckler|swashbuckler]]’s deeds, from Pathfinde
 
 ## Gunslinger deeds
 
-The [[rangoric-srd/classes/Gunslinger|gunslinger]]’s deeds, from Pathfinder’s *Ultimate Combat*. A gunslinger gains every deed of her level or lower and spends [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] to perform them; the class note says how. These notes have `grit-cost` (points spent; 0 means it works while she has at least 1 grit point) instead of `panache-cost`. Bleeding wound, cheat death and evasive share a name with a swashbuckler deed but say something different, so they are `(Gunslinger Deed)` notes.
+The [[rangoric-srd/classes/Gunslinger|gunslinger]]’s deeds. A gunslinger gains every deed of her level or lower and spends [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] to perform them; the class note says how. These notes have `grit-cost` (points spent; 0 means it works while she has at least 1 grit point) instead of `panache-cost`. Bleeding wound, cheat death and evasive share a name with a swashbuckler deed but say something different, so they are `(Gunslinger Deed)` notes.
 
 **1st level**: [[rangoric-srd/class-options/deeds/Deadeye (Deed)|Deadeye]], [[rangoric-srd/class-options/deeds/Gunslinger's Dodge (Deed)|Gunslinger's Dodge]], [[rangoric-srd/class-options/deeds/Quick Clear (Deed)|Quick Clear]]
 

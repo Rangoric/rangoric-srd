@@ -1,6 +1,7 @@
 ---
 srd-type: "flavor"
 setting: "The Fey Realm"
+book: "Faeries"
 based-on:
   - "[[individual books/Faeries/rules/How to use this book|How to use this book (Faeries)]]"
   - "[[individual books/Faeries/rules/World of Faerie|World of Faerie (Faeries)]]"
@@ -13,7 +14,7 @@ tags: [rangoric, rangoric/flavor, flavor]
 
 # The Fey Realm
 
-The fey and their home, which Bastion Press's *Faeries* calls FaerieLand: its world, lore and places, as the book tells them. This is setting text, not rules: the book's races, prestige races, classes, spells and items have their own notes elsewhere in the SRD. See [[rangoric-srd/flavor/Flavor Overview|Flavor Overview]] for what goes in this folder.
+The fey and their home, FaerieLand: its world, lore and places. This is setting text, not rules: the fey races, prestige races, classes, spells and items have their own notes elsewhere in the SRD. See [[rangoric-srd/flavor/Flavor Overview|Flavor Overview]] for what goes in this folder.
 
 ## A Scholar's Primer
 
@@ -101,7 +102,7 @@ Each region, with the sites in it:
 
 ## Personalities of Faerie
 
-The best-known people of FaerieLand, each with a note in the `personalities` folder (their descriptions; the book's stat blocks stay out). The places they rule or are found in follow each name.
+The best-known people of FaerieLand, each with a note in the `personalities` folder (their descriptions; their stat blocks stay out). The places they rule or are found in follow each name.
 
 ### Wanderers
 

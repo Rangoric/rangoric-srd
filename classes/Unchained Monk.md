@@ -4,6 +4,7 @@ section: "Classes"
 alignment: "Any lawful"
 hit-die: "d10"
 skill-points: "4 + Int modifier"
+book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Monk (Unchained)|Unchained Monk (PF1)]]"
 status: draft
@@ -18,7 +19,7 @@ tags: [rangoric, rangoric/class]
 
 Physical and mental perfection—that is the life goal of every monk. For these skilled warriors, martial prowess and mental clarity are one and the same. Capable of pummeling foes with both fist and weapon, monks are among the more versatile combatants on the battlefield. Monks are also able to harness their ki, a spiritual life force that resides within, allowing them to perform amazing acts of acrobatics and mystical skill. All of this depends on incredible discipline and focus, and monks spend their entire lives perfecting these arts.
 
-**Unchained**: Pathfinder Unchained’s monk, kept beside the [[rangoric-srd/classes/Monk|monk]] to compare (2026-11-02). Much of the monk has been reworked, including its base attack bonus, Hit Die, saves, and many of its special abilities. The result is a version of the monk that not only is easier to play, but also possesses a great deal more versatility. Flurry of blows is now much simpler to use in play. Many of the higher-level abilities of the monk, such as abundant step and quivering palm, have been incorporated into the new system of ki powers. As a monk advances in level, he can select from a variety of ki powers, allowing the player to truly customize his character.
+**Unchained**: A reworked monk, kept beside the [[rangoric-srd/classes/Monk|monk]] to compare (2026-11-02). Much of the monk has been reworked, including its base attack bonus, Hit Die, saves, and many of its special abilities. The result is a version of the monk that not only is easier to play, but also possesses a great deal more versatility. Flurry of blows is now much simpler to use in play. Many of the higher-level abilities of the monk, such as abundant step and quivering palm, have been incorporated into the new system of ki powers. As a monk advances in level, he can select from a variety of ki powers, allowing the player to truly customize his character.
 
 **Counts as a monk**: While Rangoric keeps both versions, an unchained monk counts as a [[rangoric-srd/classes/Monk|monk]] wherever a rule names the monk: unchained monk levels count as monk levels for prerequisites (such as "monk level 4th"), and they aren’t a class other than monk (as for [[rangoric-srd/feats/Monastic Legacy|Monastic Legacy]]).
 

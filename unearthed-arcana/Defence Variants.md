@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
+book: ["Unearthed Arcana", "Arms & Armor v3.5"]
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Defence Variants|Defence Variants (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/rules/Armor as Damage Reduction|Armor as Damage Reduction (Arms & Armor)]]"
@@ -11,8 +12,6 @@ change: modified
 pi-review: 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
-
-## Unearthed Arcana
 
 ### Armor as Damage Reduction
 
@@ -106,7 +105,7 @@ If that’s not to your liking, you can rule that a character’s armor bonus ov
 
 ### Armor as Damage Reduction (Arms & Armor)
 
-A second version of [[#Armor as Damage Reduction|armor as damage reduction]], from *Arms & Armor*. It gives the standard armors the same armor bonus and damage reduction as Table: Armor and Damage Reduction above, adds values for *Arms & Armor*’s armors, and changes how magic armor, critical hits and some weapon qualities work. *Arms & Armor* gives [[rangoric-srd/magic-items/armor/Elven Chain|elven chain]] an armor bonus of +3 and DR 2/–. ^armor-as-dr-arms-and-armor
+A second version of [[#Armor as Damage Reduction|armor as damage reduction]]. It gives the standard armors the same armor bonus and damage reduction as Table: Armor and Damage Reduction above, adds values for more armors, and changes how magic armor, critical hits and some weapon qualities work. It gives [[rangoric-srd/magic-items/armor/Elven Chain|elven chain]] an armor bonus of +3 and DR 2/–. ^armor-as-dr-arms-and-armor
 
 Encasing one’s body in armor is an important protective measure for an adventurer to embrace. Vorpal, sharpness, and crushing weapons can cause grievous injury with a single swing. The rules presented below serve to augment this protection, providing more incentive to wear armor. Wearing armor gives you both Damage Reduction and Armor Class, as on Table: Arms & Armor’s Armor and Damage Reduction, below.
 

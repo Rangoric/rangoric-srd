@@ -1,6 +1,7 @@
 ---
 srd-type: "race"
 section: "Races"
+book: "Faeries"
 based-on:
   - "[[individual books/Faeries/races/Scath|Scath (Faeries)]]"
 status: draft
@@ -38,7 +39,7 @@ Bonus Languages:
 - Common
 - Terran
 
-Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|level adjustment]]). Faeries adds “except when unprotected in surface campaigns” to this level adjustment, without giving another number.
+Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjustment|level adjustment]]), except when unprotected in surface campaigns, for which no number is given.
 
 ### Description
 

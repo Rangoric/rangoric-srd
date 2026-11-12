@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"
 status: draft
@@ -8,8 +9,6 @@ change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
-
-## Unearthed Arcana
 
 ### Racial Paragon Classes
 
@@ -29,7 +28,7 @@ It's possible for a powerful magic effect such as [[rangoric-srd/spells/Shapecha
 
 ##### Subraces and Paragon Classes
 
-As a general rule, any subtype of a race (its alternate-trait subtypes, its Unearthed Arcana variants, or a monster subrace) can take levels in the race's paragon class unless a specific paragon class exists for the subtype. For example, [[rangoric-srd/monsters/Elf#Aquatic Elf|aquatic elves]], [[rangoric-srd/monsters/Elf#Gray Elf|gray elves]], [[rangoric-srd/monsters/Elf#Wild Elf|wild elves]], and [[rangoric-srd/monsters/Elf#Wood Elf|wood elves]] may all advance as [[rangoric-srd/classes/Elf Paragon|elf paragons]], but [[rangoric-srd/races/Drow|drow elves]] may not, because drow have a [[rangoric-srd/classes/Drow Paragon|separate paragon class]]. If you wanted to further differentiate the elven subraces by creating a paragon class for one or more of the subraces, those subraces could not then take levels of elf paragon.
+As a general rule, any subtype of a race (its alternate-trait subtypes, its racial variants, or a monster subrace) can take levels in the race's paragon class unless a specific paragon class exists for the subtype. For example, [[rangoric-srd/monsters/Elf#Aquatic Elf|aquatic elves]], [[rangoric-srd/monsters/Elf#Gray Elf|gray elves]], [[rangoric-srd/monsters/Elf#Wild Elf|wild elves]], and [[rangoric-srd/monsters/Elf#Wood Elf|wood elves]] may all advance as [[rangoric-srd/classes/Elf Paragon|elf paragons]], but [[rangoric-srd/races/Drow|drow elves]] may not, because drow have a [[rangoric-srd/classes/Drow Paragon|separate paragon class]]. If you wanted to further differentiate the elven subraces by creating a paragon class for one or more of the subraces, those subraces could not then take levels of elf paragon.
 
 When deciding whether to create new paragon classes for subraces in your game, consider how different the subrace is from the main race. For instance, the [[rangoric-srd/monsters/Elf#Gray Elf|gray elf]] is very similar to the standard [[rangoric-srd/monsters/Elf|(high) elf]], but both the [[rangoric-srd/monsters/Elf#Wild Elf|wild elf]] and [[rangoric-srd/monsters/Elf#Wood Elf|wood elf]] receive a penalty to Intelligence, suggesting that the [[rangoric-srd/classes/Elf Paragon|elf paragon's]] Intelligence increase at 3rd level might not be appropriate for those races. The [[rangoric-srd/monsters/gnome/Gnome#Forest Gnome|forest gnome]] is very similar to the standard [[rangoric-srd/monsters/gnome/Gnome|(rock) gnome]], but the [[rangoric-srd/monsters/gnome/Gnome#Svirfneblin|svirfneblin]] is so different (including a +3 level adjustment) that it probably deserves its own paragon class.
 

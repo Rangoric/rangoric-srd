@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Drakeblade
 
-*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Battle Scion|battle scion]] prestige class. Arms & Armor calls it* Dragondeath*.*
+*A sample [[rangoric-srd/unearthed-arcana/Legendary Weapons & Familiar Items#Legendary Weapons|legendary weapon]] for the [[rangoric-srd/prestige-classes/Battle Scion|battle scion]] prestige class, originally called* Dragondeath*.*
 
 Reputedly carved from the fang of a great wyrm red dragon, the bastard sword known as *Drakeblade* has served many masters over the centuries, from bloodthirsty warlords to treasure-seeking adventurers. It is a legendary weapon that provides many benefits to its wielder, but most of the benefits apply only if the wielder has levels in the battle scion prestige class.
 

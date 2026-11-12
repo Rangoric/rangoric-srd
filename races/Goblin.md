@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 10
+book: "Unearthed Arcana"
 based-on:
   - "[[path srd 3.5/races/Goblins|Goblins (ARG)]]"
   - "[[fantasy srd 3.5/monsters/Goblin|Goblin (3.5)]]"
@@ -98,7 +99,7 @@ A goblin can take any of these in place of the traits they replace (see [[rangor
 
 ### Subtypes
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the goblin's, but keep the goblin's extra +2 Dexterity (Pathfinder's +4 against the +2 the variants were written for).
+**Racial variants.** A variant's ability scores take the place of the goblin's, but keep the goblin's extra +2 Dexterity (Pathfinder's +4 against the +2 the variants were written for).
 
 - **Air Goblin**: The air traits turned to evil: fearful, angry and maliciously creative; [[rangoric-srd/classes/Sorcerer|sorcerers]] are far more common among them. [[rangoric-srd/races/racial-traits/Air Race Traits|Air Race Traits]]. +4 Dexterity, −2 Strength, −2 Constitution (+6 Dexterity with the kept +2). Skilled gives no bonus on Animal Handling checks: air goblins don't commonly ride mounts.
 - **Aquatic Goblin**: Ocean-dwelling raiders who swoop down on the weak from the backs of [[rangoric-srd/monsters/shark/Shark|sharks]]. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 30 feet. −2 Strength, +2 Constitution, −2 Charisma (and the kept +2 Dexterity). Thievery: +2 racial bonus on [[rangoric-srd/skills/Engineering|Engineering]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks. Skilled is only +2.

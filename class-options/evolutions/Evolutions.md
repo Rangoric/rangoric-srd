@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
+book: "Pathfinder Unchained"
 based-on:
   - "[[path srd 3.5/classes/Summoner#Evolutions|Summoner, Evolutions (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Summoner (Spellcasting Class Options)#Evolutions|Summoner, Ultimate Magic Evolutions (PF1)]]"
@@ -13,7 +14,7 @@ tags: [rangoric, rangoric/overview]
 
 # Evolutions
 
-The evolutions an eidolon can take, one note each, grouped by the points they cost from its evolution pool. How the pool works is in each class note ([[rangoric-srd/classes/Summoner#^summoner-evolutions|summoner]], [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-evolutions|unchained summoner]]). Where the *Pathfinder Unchained* text of an evolution says something different from the original, the Unchained one has its own note, named `(Unchained Evolution)`; evolutions that say the same thing share one note.
+The evolutions an eidolon can take, one note each, grouped by the points they cost from its evolution pool. How the pool works is in each class note ([[rangoric-srd/classes/Summoner#^summoner-evolutions|summoner]], [[rangoric-srd/classes/Unchained Summoner#^unchained-summoner-evolutions|unchained summoner]]). Where the unchained summoner’s version of an evolution says something different from the summoner’s, the unchained one has its own note, named `(Unchained Evolution)`; evolutions that say the same thing share one note.
 
 ## Summoner Evolutions
 

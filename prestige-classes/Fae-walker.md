@@ -70,7 +70,7 @@ All of the following are class features of the fae-walker prestige class.
 
 At 5th level, he can choose to wait in the borderland for a number of minutes equal to his fae-walker level before stepping back to the mortal world. If this duration lapses, he risks being lost there (with the dangers noted above).
 
-At 7th level, the fae-walker can choose to return to the mortal world, or he can now move and try his luck with the fey path that appears before him. Not in Rangoric yet: fey paths are part of the fey realm’s travel subsystem in *Faeries*, which waits with Feat Topics S18.
+At 7th level, the fae-walker can choose to return to the mortal world, or he can now move and try his luck with the fey path that appears before him. Not in Rangoric yet: fey paths are part of the fey realm’s travel subsystem, which waits with Feat Topics S18.
 
 **Low-Light Vision (Su)**: At 2nd level, a fae-walker permanently gains [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], as if he were a fey. If the character already has low-light vision, this ability has no effect. ^fae-walker-low-light-vision
 
@@ -90,4 +90,4 @@ If the fae-walker already has uncanny dodge abilities (such as the rogue’s [[r
 
 **Improved Evasion (Ex)**: This extraordinary ability, gained at 9th level, works like evasion (see above). The fae-walker takes no damage at all on successful saving throws against attacks that allow a Reflex saving throw for half damage (breath weapon, fireball, and so on). What’s more, he takes only half damage even if he fails his saving throw, since the fae-walker’s reflexes allow him to get out of harm’s way with incredible speed. ^fae-walker-improved-evasion
 
-**Stray (Su)**: At 10th level, a fae-walker gains the supernatural ability to stray from a fey path for up to 10 rounds before the effects of straying from the path affect him. Not in Rangoric yet: fey paths are part of the fey realm’s travel subsystem in *Faeries*, which waits with Feat Topics S18. ^fae-walker-stray
+**Stray (Su)**: At 10th level, a fae-walker gains the supernatural ability to stray from a fey path for up to 10 rounds before the effects of straying from the path affect him. Not in Rangoric yet: fey paths are part of the fey realm’s travel subsystem, which waits with Feat Topics S18. ^fae-walker-stray

@@ -1,15 +1,14 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Spelltouched Feats|Spelltouched Feats (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
-
-## Unearthed Arcana
 
 ### Spelltouched Feats
 

@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Classes"
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/classes/PC Classes|PC Classes (3.5)]]"
 status: draft
@@ -17,7 +18,7 @@ There are 11 standard character classes defined in the SRD. They are:
 
 Rangoric adds these classes from Pathfinder: [[rangoric-srd/classes/Alchemist|Alchemist]], [[rangoric-srd/classes/Antipaladin|Antipaladin]], [[rangoric-srd/classes/Arcanist|Arcanist]], [[rangoric-srd/classes/Bloodrager|Bloodrager]], [[rangoric-srd/classes/Brawler|Brawler]], [[rangoric-srd/classes/Cavalier|Cavalier]], [[rangoric-srd/classes/Gunslinger|Gunslinger]], [[rangoric-srd/classes/Hunter|Hunter]], [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]], [[rangoric-srd/classes/Investigator|Investigator]], [[rangoric-srd/classes/Magus|Magus]], [[rangoric-srd/classes/Ninja|Ninja]], [[rangoric-srd/classes/Oracle|Oracle]], [[rangoric-srd/classes/Samurai|Samurai]], [[rangoric-srd/classes/Shaman|Shaman]], [[rangoric-srd/classes/Shifter|Shifter]], [[rangoric-srd/classes/Skald|Skald]], [[rangoric-srd/classes/Slayer|Slayer]], [[rangoric-srd/classes/Summoner|Summoner]], [[rangoric-srd/classes/Swashbuckler|Swashbuckler]], [[rangoric-srd/classes/Unchained Monk|Unchained Monk]], [[rangoric-srd/classes/Unchained Summoner|Unchained Summoner]], [[rangoric-srd/classes/Vigilante|Vigilante]], [[rangoric-srd/classes/Warpriest|Warpriest]], and [[rangoric-srd/classes/Witch|Witch]].
 
-From Unearthed Arcana come the [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] classes, which only members of the matching race can take: [[rangoric-srd/classes/Drow Paragon|Drow Paragon]], [[rangoric-srd/classes/Dwarf Paragon|Dwarf Paragon]], [[rangoric-srd/classes/Elf Paragon|Elf Paragon]], [[rangoric-srd/classes/Gnome Paragon|Gnome Paragon]], [[rangoric-srd/classes/Half-Dragon Paragon|Half-Dragon Paragon]], [[rangoric-srd/classes/Half-Elf Paragon|Half-Elf Paragon]], [[rangoric-srd/classes/Half-Orc Paragon|Half-Orc Paragon]], [[rangoric-srd/classes/Halfling Paragon|Halfling Paragon]], [[rangoric-srd/classes/Human Paragon|Human Paragon]], [[rangoric-srd/classes/Orc Paragon|Orc Paragon]], [[rangoric-srd/classes/Tiefling Paragon|Tiefling Paragon]].
+The [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] classes are open only to members of the matching race: [[rangoric-srd/classes/Drow Paragon|Drow Paragon]], [[rangoric-srd/classes/Dwarf Paragon|Dwarf Paragon]], [[rangoric-srd/classes/Elf Paragon|Elf Paragon]], [[rangoric-srd/classes/Gnome Paragon|Gnome Paragon]], [[rangoric-srd/classes/Half-Dragon Paragon|Half-Dragon Paragon]], [[rangoric-srd/classes/Half-Elf Paragon|Half-Elf Paragon]], [[rangoric-srd/classes/Half-Orc Paragon|Half-Orc Paragon]], [[rangoric-srd/classes/Halfling Paragon|Halfling Paragon]], [[rangoric-srd/classes/Human Paragon|Human Paragon]], [[rangoric-srd/classes/Orc Paragon|Orc Paragon]], [[rangoric-srd/classes/Tiefling Paragon|Tiefling Paragon]].
 
 ### Multiclass Characters
 

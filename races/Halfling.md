@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Halflings|Halflings (PF1)]]"
@@ -120,7 +121,7 @@ Bundles of alternate traits for halflings of a particular background.
 - **Nomadic**: Born on the road, travelling fast and light: [[rangoric-srd/races/racial-traits/Fleet of Foot|Fleet of Foot]], [[rangoric-srd/races/racial-traits/Polyglot|Polyglot]], and [[rangoric-srd/races/racial-traits/Wanderlust|Wanderlust]].
 - **Slave Born**: From lineages held as property for generations, usually free themselves but eager to please and prone to sudden fear: [[rangoric-srd/races/racial-traits/Craven|Craven]] and [[rangoric-srd/races/racial-traits/Ingratiating|Ingratiating]].
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the halfling's, but keep the halfling's +2 Wisdom.
+**Racial variants.** A variant's ability scores take the place of the halfling's, but keep the halfling's +2 Wisdom.
 
 - **Water Halfling**: Quick and healthy, but physically weak. +2 Dexterity, +2 Constitution, +2 Wisdom, −2 Strength. [[rangoric-srd/races/racial-traits/Water Race Traits|Water Race Traits]].
 - **Aquatic Halfling**: More settled than their surface cousins, often living among dwarves and humans for protection from currents and predators. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 20 feet. [[rangoric-srd/races/racial-traits/Superior Low-Light Vision|Superior Low-Light Vision]].

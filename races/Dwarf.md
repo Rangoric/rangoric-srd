@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
@@ -121,7 +122,7 @@ Bundles of alternate traits for dwarves of a particular background.
 - **Exiled Dwarf**: [[rangoric-srd/races/racial-traits/Relentless|Relentless]] and [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]], and often [[rangoric-srd/races/racial-traits/Wyrmscourged|Wyrmscourged]].
 - **Mountain Dwarf**: [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]], and often [[rangoric-srd/races/racial-traits/Surface Survivalist|Surface Survivalist]]. Mountain dwarves trained to defend their homes may take [[rangoric-srd/races/racial-traits/Sky Sentinel|Sky Sentinel]] and [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] instead. The 3.5 mountain dwarves, who live deeper under the mountains than most dwarves but not as deep as deep dwarves, are this subtype; they average about 4½ feet tall, with lighter skin and hair.
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the dwarf's, but keep the dwarf's +2 Wisdom.
+**Racial variants.** A variant's ability scores take the place of the dwarf's, but keep the dwarf's +2 Wisdom.
 
 - **Earth Dwarf**: Physically powerful, but somewhat clumsy in action and speech. +2 Strength, +2 Constitution, +2 Wisdom, −2 Dexterity, −2 Charisma. [[rangoric-srd/races/racial-traits/Earth Race Traits|Earth Race Traits]] (its stability stacks with the dwarf's). [[rangoric-srd/races/racial-traits/Improved Stonecunning|Improved Stonecunning]]. Hardy covers poison only (no bonus against spells and spell-like effects), and no hatred. Greed and craftsman give +4 instead of +2 on items of stone or metal.
 - **Aquatic Dwarf**: Masters of stone beneath the waves, building fortresses near undersea thermal vents. +2 Strength, +2 Constitution, +2 Wisdom, −4 Dexterity, −2 Charisma. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 20 feet.

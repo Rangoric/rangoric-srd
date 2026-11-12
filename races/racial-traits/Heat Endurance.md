@@ -3,6 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "variant races (see each race's subtypes)"
 replaces: "nothing; added to the race"
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
 status: draft
@@ -17,4 +18,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 Members of desert races gain a +4 racial bonus on Fortitude saves made to resist the effects of [[rangoric-srd/rules/Wilderness, Weather, and Environment#Heat Dangers|hot weather]].
 
-Used by: every desert race subtype (Unearthed Arcana): the [[rangoric-srd/races/Dwarf|Dwarf]]'s desert dwarf; the [[rangoric-srd/races/Elf|Elf]]'s desert elf; the [[rangoric-srd/races/Gnome|Gnome]]'s desert gnome; the [[rangoric-srd/races/Goblin|Goblin]]'s desert goblin; the [[rangoric-srd/races/Half-Elf|Half-Elf]]'s desert half-elf; the [[rangoric-srd/races/Half-Orc|Half-Orc]]'s desert half-orc; the [[rangoric-srd/races/Halfling|Halfling]]'s desert halfling; the [[rangoric-srd/races/Kobold|Kobold]]'s desert kobold; the [[rangoric-srd/races/Orc|Orc]]'s desert orc.
+Used by: every desert race subtype (the [[rangoric-srd/unearthed-arcana/Environmental Racial Variants|environmental racial variants]]): the [[rangoric-srd/races/Dwarf|Dwarf]]'s desert dwarf; the [[rangoric-srd/races/Elf|Elf]]'s desert elf; the [[rangoric-srd/races/Gnome|Gnome]]'s desert gnome; the [[rangoric-srd/races/Goblin|Goblin]]'s desert goblin; the [[rangoric-srd/races/Half-Elf|Half-Elf]]'s desert half-elf; the [[rangoric-srd/races/Half-Orc|Half-Orc]]'s desert half-orc; the [[rangoric-srd/races/Halfling|Halfling]]'s desert halfling; the [[rangoric-srd/races/Kobold|Kobold]]'s desert kobold; the [[rangoric-srd/races/Orc|Orc]]'s desert orc.

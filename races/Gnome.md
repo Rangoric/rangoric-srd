@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 10
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
@@ -128,7 +129,7 @@ Bundles of alternate traits for gnomes of a particular background.
 - **Lava Gnomes**: Living in caverns beneath active volcanoes, and thought hot-tempered even by other gnomes: [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] and [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]].
 - **Traveler Gnomes**: Born on the move, on a ship or in a caravan: [[rangoric-srd/races/racial-traits/Magical Linguist|Magical Linguist]] and either [[rangoric-srd/races/racial-traits/Explorer|Explorer]] or [[rangoric-srd/races/racial-traits/Gift of Tongues|Gift of Tongues]].
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the gnome's, but keep the gnome's +2 Charisma.
+**Racial variants.** A variant's ability scores take the place of the gnome's, but keep the gnome's +2 Charisma.
 
 - **Air Gnome**: Agile, but lacking physical power. +2 Dexterity, +2 Charisma, −2 Strength. [[rangoric-srd/races/racial-traits/Air Race Traits|Air Race Traits]]. No hatred. Defensive training is against Large or larger creatures of the earth subtype in place of giants.
 - **Aquatic Gnome**: Travelers beneath the waves in wood and shell chariots pulled by domesticated sea creatures. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 20 feet. [[rangoric-srd/races/racial-traits/Well-Traveled|Well-Traveled]]. Hatred is against goblinoids only. No obsessive and no keen senses.

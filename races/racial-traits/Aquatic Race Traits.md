@@ -3,6 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "variant races (see each race's subtypes)"
 replaces: "nothing; added to the race"
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
 status: draft
@@ -15,7 +16,7 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: variant races (see each race's subtypes). **Replaces**: nothing; added to the race.
 
-Aquatic races (from Unearthed Arcana's environmental racial variants) have the following traits. Each race's subtype gives its swim speed.
+Aquatic races (from the [[rangoric-srd/unearthed-arcana/Environmental Racial Variants|environmental racial variants]]) have the following traits. Each race's subtype gives its swim speed.
 
 - Aquatic: An aquatic race gains the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]]. An aquatic creature can hold its breath outside the water for 2 rounds per point of Constitution. After that, it begins to suffocate.
 - Swim speed: An aquatic creature always has a swim speed, which works as described under [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|movement modes]].

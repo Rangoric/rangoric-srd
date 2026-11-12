@@ -3,6 +3,7 @@ srd-type: "racial-trait"
 section: "Races"
 race: "the Faeries races (see Used by)"
 replaces: "nothing (a base racial trait)"
+book: "Faeries"
 based-on:
   - "[[individual books/Faeries/races/Bogie|Bogie (Faeries)]]"
   - "[[individual books/Faeries/races/Deep Fey|Deep Fey (Faeries)]]"
@@ -20,7 +21,7 @@ tags: [rangoric, rangoric/racial-trait]
 
 # Fey Blood
 
-**Race**: the fey races of Faeries (a base racial trait). **Replaces**: nothing.
+**Race**: the fey races (a base racial trait). **Replaces**: nothing.
 
 Born of a supernatural world where distances are fluid and based on misdirection or force of will, creatures with fey blood are resistant to illusion and enchantment spells. They have a racial bonus on saving throws against illusion and enchantment spells and spell-like abilities. The race note gives the starting bonus and how often it increases by +1 as the character gains levels.
 

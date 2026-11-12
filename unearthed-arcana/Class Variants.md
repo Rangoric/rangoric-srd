@@ -1,6 +1,7 @@
 ---
 srd-type: "overview"
 section: "Unearthed Arcana"
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Class Variants|Class Variants (3.5)]]"
 status: draft
@@ -8,8 +9,6 @@ change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
-
-## Unearthed Arcana
 
 As important as your character's race is, it's (usually) a one-time choice made at the beginning of your character's career. Your selection of class levels, on the other hand, is a recurring decision that is shaped both by personal preference and the realities of the campaign world.
 

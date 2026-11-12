@@ -1,6 +1,7 @@
 ---
 srd-type: "rules"
 section: "Races"
+book: "Faeries"
 based-on:
   - "[[individual books/Faeries/races/Faeries|Faeries (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 1 Faerie Physical Characteristics|Table 1 (Faeries)]]"
@@ -14,9 +15,9 @@ tags: [rangoric, rangoric/rules]
 
 # Building a Faerie
 
-*Faeries* builds its common fey, the [[rangoric-srd/races/Faerie|faerie]], from parts: a small base, then physical characteristics and spell-like abilities, each with an ECL modifier (the [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]]). The faerie keeps those ECL modifiers as its level adjustment, added up and rounded up. This note prices the same parts in race points, so a faerie can be compared with races made with the [[rangoric-srd/races/race builder/Race Builder|Race Builder]].
+The common fey, the [[rangoric-srd/races/Faerie|faerie]], is built from parts: a small base, then physical characteristics and spell-like abilities, each with an ECL modifier (the [[rangoric-srd/races/Faerie#Faerie Traits|faerie traits]]). The faerie keeps those ECL modifiers as its level adjustment, added up and rounded up. This note prices the same parts in race points, so a faerie can be compared with races made with the [[rangoric-srd/races/race builder/Race Builder|Race Builder]].
 
-**How the prices are set.** A part that matches builder traits costs what those traits cost (see [[rangoric-srd/races/race builder/Race Builder Traits|Race Builder Traits]]). A part with no match is priced by hand at about 10 race points per ECL point, the builder’s rough worth of a level at low levels. The spell-like abilities are all priced that way: Faeries’ are used three times a day or more, and some are attacks (*acid fog*, *cone of cold*, *fear*, *ice storm*, *irresistible dance*), which the builder’s spell-like ability traits don’t allow; they are open only to the Faeries races. The faerie’s own size numbers (in the race note) differ from the builder’s size quality, which is used for the price.
+**How the prices are set.** A part that matches builder traits costs what those traits cost (see [[rangoric-srd/races/race builder/Race Builder Traits|Race Builder Traits]]). A part with no match is priced by hand at about 10 race points per ECL point, the builder’s rough worth of a level at low levels. The spell-like abilities are all priced that way: the faerie’s are used three times a day or more, and some are attacks (*acid fog*, *cone of cold*, *fear*, *ice storm*, *irresistible dance*), which the builder’s spell-like ability traits don’t allow; they are open only to the fey races. The faerie’s own size numbers (in the race note) differ from the builder’s size quality, which is used for the price.
 
 **The base.** The faerie’s base is about 4 race points: the fey type (2, with low-light vision), its fey blood as Illusion Resistance (1), and Weapon Familiarity for the short sword and shortbow (1). Its ability scores (+2 Dex, +2 Cha, −2 Wis, −2 Str) have one penalty more than any array the builder prices.
 

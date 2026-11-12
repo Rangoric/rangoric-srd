@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Slayer Talents
 
-The [[rangoric-srd/classes/Slayer|slayer]]’s talents and advanced talents, from Pathfinder’s *Advanced Class Guide*. The class note says how they’re gained. Each note has `advanced`, `sneak-attack` (adds to sneak attack; one such talent per attack) and `level` (minimum slayer level). Through the *rogue talent* and *rogue and ninja advanced talents* talents, a slayer can also take some [[rangoric-srd/class-options/rogue-talents/Rogue Talents|rogue talents]], and through *ranger combat style*, a [[rangoric-srd/class-options/combat-styles/Combat Styles|combat style]].
+The [[rangoric-srd/classes/Slayer|slayer]]’s talents and advanced talents. The class note says how they’re gained. Each note has `advanced`, `sneak-attack` (adds to sneak attack; one such talent per attack) and `level` (minimum slayer level). Through the *rogue talent* and *rogue and ninja advanced talents* talents, a slayer can also take some [[rangoric-srd/class-options/rogue-talents/Rogue Talents|rogue talents]], and through *ranger combat style*, a [[rangoric-srd/class-options/combat-styles/Combat Styles|combat style]].
 
 ## Slayer talents
 

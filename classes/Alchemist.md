@@ -4,7 +4,7 @@ section: "Classes"
 alignment: "Any"
 hit-die: "d8"
 skill-points: "4 + Int modifier"
-book: "Advanced Player's Guide"
+book: ["Advanced Player's Guide", "Ultimate Magic", "Ultimate Combat", "Advanced Class Guide", "Advanced Race Guide", "Monster Codex", "Ultimate Wilderness", "Villain Codex"]
 based-on:
   - "[[path srd 3.5/classes/Alchemist (Class)|Alchemist (PF1)]]"
   - "[[path srd 3.5 foundry/classes/Alchemist|Alchemist (PF1 Foundry)]]"
@@ -103,7 +103,7 @@ A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 + 1/2 the
 
 **Discovery (Su)**: At 2nd level, and then again every 2 levels thereafter (up to 18th level), an alchemist makes an incredible alchemical discovery. Unless otherwise noted, an alchemist cannot select an individual discovery more than once. Some discoveries can only be made if the alchemist has met certain prerequisites first, such as uncovering other discoveries. Discoveries that modify bombs that are marked with an asterisk (\*) do not stack. Only one such discovery can be applied to an individual bomb. The DC of any saving throw called for by a discovery is equal to 10 + 1/2 the alchemist’s level + the alchemist’s Intelligence modifier. ^alchemist-discovery
 
-The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveries|Discoveries]], one note each: 83 from the *Advanced Player’s Guide*, *Ultimate Magic*, *Ultimate Combat*, the *Advanced Class Guide*, the *Advanced Race Guide*, the *Monster Codex*, *Ultimate Wilderness* and the *Villain Codex*, 23 of them marked \* as bomb discoveries that don’t stack. A few are open only to one race’s alchemists.
+The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveries|Discoveries]], one note each: 83, grouped by minimum level, 23 of them marked \* as bomb discoveries that don’t stack. A few are open only to one race’s alchemists.
 
 **Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2 bonus on all saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]]. This bonus increases to +4 at 5th level, and then again to +6 at 8th level. At 10th level, an alchemist becomes completely immune to poison. ^alchemist-poison-resistance
 

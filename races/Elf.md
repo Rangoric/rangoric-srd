@@ -2,6 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
+book: "Unearthed Arcana"
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Elves|Elves (PF1)]]"
@@ -122,7 +123,7 @@ Bundles of alternate traits for elves of a particular background.
 - **Savage Elf**: Adapted to lands where every day is a struggle to survive: [[rangoric-srd/races/racial-traits/Eternal Grudge|Eternal Grudge]] and [[rangoric-srd/races/racial-traits/Fleet-Footed|Fleet-Footed]].
 - **Tower Elf**: Clans who have lived for generations in schools of wizardry: [[rangoric-srd/races/racial-traits/Arcane Focus|Arcane Focus]] and [[rangoric-srd/races/racial-traits/Urbanite|Urbanite]].
 
-**Variants from Unearthed Arcana.** A variant's ability scores take the place of the elf's, but keep the elf's +2 Intelligence.
+**Racial variants.** A variant's ability scores take the place of the elf's, but keep the elf's +2 Intelligence.
 
 - **Fire Elf**: Quick of action and thought, but sharing the elf's frailty. +2 Dexterity, +2 Intelligence, −2 Constitution, −2 Charisma. [[rangoric-srd/races/racial-traits/Fire Race Traits|Fire Race Traits]].
 - **Aquatic Elf**: Elves of the kelp forests and sargasso groves beneath the waves, also called sea elves (the 3.5 monster Elf's aquatic elf). +2 Dexterity. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 40 feet. Gills: aquatic elves can survive out of the water for 1 hour per point of Constitution (after that, they begin to [[rangoric-srd/rules/Wilderness, Weather, and Environment#Suffocation|suffocate]]), in place of the aquatic subtype's 2 rounds per point of Constitution. [[rangoric-srd/races/racial-traits/Superior Low-Light Vision|Superior Low-Light Vision]] in place of low-light vision.
