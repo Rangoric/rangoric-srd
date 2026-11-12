@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/feat]
 
 You are known for performing a particular deed, and can perform it with greater ease.
 
-**Prerequisites**: Grit class feature, gunslinger level 11th.
+**Prerequisites**: [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|Grit]] class feature, [[rangoric-srd/classes/Gunslinger|gunslinger]] level 11th.
 
-**Benefit**: Pick a deed that you have access to and that you must spend grit to perform. Once per round, you can perform this deed for 1 fewer grit point (minimum 0). You can reduce the cost of a deed in this way only if you have at least 1 grit point.
+**Benefit**: Pick a [[rangoric-srd/class-options/deeds/Deeds|deed]] that you have access to and that you must spend grit to perform. Once per round, you can perform this deed for 1 fewer grit point (minimum 0). You can reduce the cost of a deed in this way only if you have at least 1 grit point.

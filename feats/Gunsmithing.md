@@ -23,4 +23,4 @@ You know the secrets of repairing and restoring firearms.
 
 **Restoring a Broken Firearm**: Each day, with an hour's worth of work, you can use this feat to repair a single firearm with the [[rangoric-srd/rules/conditions/Broken (Condition)|broken]] condition. You can take time during a rest period to restore a broken firearm with this feat.
 
-**Special**: If you are a gunslinger, this feat grants the following additional benefit. You can use this feat to repair and restore your initial, battered weapon. It costs 300 gp and 1 day of work to upgrade it to a masterwork firearm of its type.
+**Special**: If you are a [[rangoric-srd/classes/Gunslinger|gunslinger]], this feat grants the following additional benefit. You can use this feat to repair and restore your initial, battered weapon ([[rangoric-srd/classes/Gunslinger#^gunslinger-gunsmith|gunsmith]]). It costs 300 gp and 1 day of work to upgrade it to a masterwork firearm of its type.

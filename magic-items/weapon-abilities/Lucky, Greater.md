@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/magic-item]
 
 This special ability can only be placed on one-handed or two-handed firearms. A *greater lucky firearm* is nearly identical to a *[[rangoric-srd/magic-items/weapon-abilities/Lucky (Firearm Special Ability)|lucky]]* gun, but its reservoir holds 3 grit points instead of 1. A firearm cannot have both this special ability and the *[[rangoric-srd/magic-items/weapon-abilities/Lucky (Firearm Special Ability)|lucky]]* special ability.
 
-Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Heroism, Greater|greater heroism]]*, creator must be a grit user; Price +3 bonus.
+Moderate enchantment; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Heroism, Greater|greater heroism]]*, creator must be a [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] user; Price +3 bonus.
