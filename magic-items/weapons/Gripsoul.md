@@ -8,6 +8,7 @@ price: "1,856,500 gp"
 cost: "to Create: 934,500 gp + 28,440 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Gripsoul|Gripsoul (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Gripsoul|Gripsoul (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

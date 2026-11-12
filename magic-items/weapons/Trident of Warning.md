@@ -9,6 +9,7 @@ price: "10,115 gp"
 cost: "5,057 gp and 5 sp + 405 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Trident of Warning|Trident of Warning (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Trident of Warning|Trident of Warning (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

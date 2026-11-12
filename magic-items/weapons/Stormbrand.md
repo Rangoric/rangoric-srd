@@ -8,6 +8,7 @@ price: "235,350 gp"
 cost: "to Create: 117,850 gp + 12,350 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Stormbrand|Stormbrand (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Stormbrand|Stormbrand (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

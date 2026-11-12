@@ -8,6 +8,7 @@ price: "1,000,312 gp"
 cost: "to Create: 500,312 gp + 20,000 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Mace of Ruin|Mace of Ruin (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Mace of Ruin|Mace of Ruin (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -242,6 +242,23 @@ Most magic armor and shields only have enhancement bonuses. Such items can also 
 
 The following specific suits of armor usually are preconstructed with exactly the qualities described here.
 
+**Table: Specific Armors**
+
+| Minor  | Medium | Major  | Specific Armor                                                                      | Market Price |
+| ------ | ------ | ------ | ----------------------------------------------------------------------------------- | ------------ |
+| 01–50  | 01–25  | —      | [[rangoric-srd/magic-items/armor/Mithral Shirt\|Mithral shirt]]               | 1,100 gp     |
+| 51–80  | 26–45  | —      | [[rangoric-srd/magic-items/armor/Dragonhide Plate\|Dragonhide plate]]            | 3,300 gp     |
+| 81–100 | 46–57  | —      | [[rangoric-srd/magic-items/armor/Elven Chain\|Elven chain]]                 | 4,150 gp     |
+| —      | 58–67  | —      | [[rangoric-srd/magic-items/armor/Rhino Hide\|Rhino hide]]                  | 5,165 gp     |
+| —      | 68–82  | 01–10  | [[rangoric-srd/magic-items/armor/Adamantine Breastplate\|Adamantine breastplate]]      | 10,200 gp    |
+| —      | 83–97  | 11–20  | [[rangoric-srd/magic-items/armor/Dwarven Plate\|Dwarven plate]]               | 16,500 gp    |
+| —      | 98–100 | 21–32  | [[rangoric-srd/magic-items/armor/Banded Mail of Luck\|Banded mail of luck]]         | 18,900 gp    |
+| —      | —      | 33–50  | [[rangoric-srd/magic-items/armor/Celestial Armor\|Celestial armor]]             | 22,400 gp    |
+| —      | —      | 51–60  | [[rangoric-srd/magic-items/armor/Plate Armor of the Deep\|Plate armor of the deep]]     | 24,650 gp    |
+| —      | —      | 61–75  | [[rangoric-srd/magic-items/armor/Breastplate of Command\|Breastplate of command]]      | 25,400 gp    |
+| —      | —      | 76–90  | [[rangoric-srd/magic-items/armor/Mithral Full Plate of Speed\|Mithral full plate of speed]] | 26,500 gp    |
+| —      | —      | 91–100 | [[rangoric-srd/magic-items/armor/Demon Armor\|Demon armor]]                 | 52,260 gp    |
+
   - [[rangoric-srd/magic-items/armor/Adamantine Breastplate|Adamantine Breastplate]]
   - [[rangoric-srd/magic-items/armor/Banded Mail of Luck|Banded Mail of Luck]]
   - [[rangoric-srd/magic-items/armor/Breastplate of Command|Breastplate of Command]]
@@ -258,6 +275,19 @@ The following specific suits of armor usually are preconstructed with exactly th
 ###### Specific Shields
 
 The following specific shields usually are preconstructed with exactly the qualities described here.
+
+**Table: Specific Shields**
+
+| Minor  | Medium | Major  | Specific Shield                                                              | Market Price |
+| ------ | ------ | ------ | ---------------------------------------------------------------------------- | ------------ |
+| 01–30  | 01–20  | —      | [[rangoric-srd/magic-items/armor/Darkwood Buckler\|Darkwood buckler]]     | 205 gp       |
+| 31–80  | 21–45  | —      | [[rangoric-srd/magic-items/armor/Darkwood Shield\|Darkwood shield]]      | 257 gp       |
+| 81–95  | 46–70  | —      | [[rangoric-srd/magic-items/armor/Mithral Heavy Shield\|Mithral heavy shield]] | 1,020 gp     |
+| 96–100 | 71–85  | 01–20  | [[rangoric-srd/magic-items/armor/Caster’s Shield\|Caster’s shield]]      | 3,153 gp     |
+| —      | 86–90  | 21–40  | [[rangoric-srd/magic-items/armor/Spined Shield\|Spined shield]]        | 5,580 gp     |
+| —      | 91–95  | 41–60  | [[rangoric-srd/magic-items/armor/Lion’s Shield\|Lion’s shield]]        | 9,170 gp     |
+| —      | 96–100 | 61–90  | [[rangoric-srd/magic-items/armor/Winged Shield\|Winged shield]]        | 17,257 gp    |
+| —      | —      | 91–100 | [[rangoric-srd/magic-items/armor/Absorbing Shield\|Absorbing shield]]     | 50,170 gp    |
 
   - [[rangoric-srd/magic-items/armor/Absorbing Shield|Absorbing Shield]]
   - [[rangoric-srd/magic-items/armor/Caster’s Shield|Caster’s Shield]]
@@ -558,6 +588,45 @@ In addition to enhancement bonuses, weapons can have one or more of the special 
 ###### Specific Weapons
 
 The following specific weapons usually are preconstructed with exactly the qualities described here.
+
+**Table: Specific Weapons**
+
+| Minor  | Medium | Major | Specific Weapon                                                                         | Market Price |
+| ------ | ------ | ----- | --------------------------------------------------------------------------------------- | ------------ |
+| 01–15  | —      | —     | [[rangoric-srd/magic-items/weapons/Sleep Arrow\|Sleep arrow]]                     | 132 gp       |
+| 16–25  | —      | —     | [[rangoric-srd/magic-items/weapons/Screaming Bolt\|Screaming bolt]]                  | 267 gp       |
+| 26–45  | —      | —     | [[rangoric-srd/magic-items/weapons/Silver Dagger, Masterwork\|Silver dagger, masterwork]]       | 322 gp       |
+| 46–65  | —      | —     | [[rangoric-srd/magic-items/weapons/Masterwork Cold Iron Longsword\|Cold iron longsword, masterwork]] | 330 gp       |
+| 66–75  | 01–09  | —     | [[rangoric-srd/magic-items/weapons/Javelin of Lightning\|Javelin of lightning]]            | 1,500 gp     |
+| 76–80  | 10–15  | —     | [[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying arrow]]                   | 2,282 gp     |
+| 81–90  | 16–24  | —     | [[rangoric-srd/magic-items/weapons/Adamantine Dagger\|Adamantine dagger]]               | 3,002 gp     |
+| 91–100 | 25–33  | —     | [[rangoric-srd/magic-items/weapons/Adamantine Battleaxe\|Adamantine battleaxe]]            | 3,010 gp     |
+| —      | 34–37  | —     | [[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying arrow (greater)]]         | 4,057 gp     |
+| —      | 38–40  | —     | [[rangoric-srd/magic-items/weapons/Shatterspike\|Shatterspike]]                    | 4,315 gp     |
+| —      | 41–46  | —     | [[rangoric-srd/magic-items/weapons/Dagger of Venom\|Dagger of venom]]                 | 8,302 gp     |
+| —      | 47–51  | —     | [[rangoric-srd/magic-items/weapons/Trident of Warning\|Trident of warning]]              | 10,115 gp    |
+| —      | 52–57  | 01–04 | [[rangoric-srd/magic-items/weapons/Assassin’s Dagger\|Assassin’s dagger]]               | 10,302 gp    |
+| —      | 58–62  | 05–07 | [[rangoric-srd/magic-items/weapons/Shifter’s Sorrow\|Shifter’s sorrow]]                | 12,780 gp    |
+| —      | 63–66  | 08–09 | [[rangoric-srd/magic-items/weapons/Trident of Fish Command\|Trident of fish command]]         | 18,650 gp    |
+| —      | 67–74  | 10–13 | [[rangoric-srd/magic-items/weapons/Flame Tongue\|Flame tongue]]                    | 20,715 gp    |
+| —      | 75–79  | 14–17 | [[rangoric-srd/magic-items/weapons/Luck Blade\|Luck blade (0 wishes)]]           | 22,060 gp    |
+| —      | 80–86  | 18–24 | [[rangoric-srd/magic-items/weapons/Sword of Subtlety\|Sword of subtlety]]               | 22,310 gp    |
+| —      | 87–91  | 25–31 | [[rangoric-srd/magic-items/weapons/Sword of the Planes\|Sword of the planes]]             | 22,315 gp    |
+| —      | 92–95  | 32–37 | [[rangoric-srd/magic-items/weapons/Nine Lives Stealer\|Nine lives stealer]]              | 23,057 gp    |
+| —      | 96–98  | 38–42 | [[rangoric-srd/magic-items/weapons/Sword of Life Stealing\|Sword of life stealing]]          | 25,715 gp    |
+| —      | 99–100 | 43–46 | [[rangoric-srd/magic-items/weapons/Oathbow\|Oathbow]]                         | 25,600 gp    |
+| —      | —      | 47–51 | [[rangoric-srd/magic-items/weapons/Mace of Terror\|Mace of terror]]                  | 38,552 gp    |
+| —      | —      | 52–57 | [[rangoric-srd/magic-items/weapons/Life-Drinker\|Life-drinker]]                    | 40,320 gp    |
+| —      | —      | 58–62 | [[rangoric-srd/magic-items/weapons/Sylvan Scimitar\|Sylvan scimitar]]                 | 47,315 gp    |
+| —      | —      | 63–67 | [[rangoric-srd/magic-items/weapons/Rapier of Puncturing\|Rapier of puncturing]]            | 50,320 gp    |
+| —      | —      | 68–73 | [[rangoric-srd/magic-items/weapons/Sun Blade\|Sun blade]]                       | 50,335 gp    |
+| —      | —      | 74–79 | [[rangoric-srd/magic-items/weapons/Frost Brand\|Frost brand]]                     | 54,475 gp    |
+| —      | —      | 80–84 | [[rangoric-srd/magic-items/weapons/Dwarven Thrower\|Dwarven thrower]]                 | 60,312 gp    |
+| —      | —      | 85–91 | [[rangoric-srd/magic-items/weapons/Luck Blade\|Luck blade (1 wish)]]             | 62,360 gp    |
+| —      | —      | 92–95 | [[rangoric-srd/magic-items/weapons/Mace of Smiting\|Mace of smiting]]                 | 75,312 gp    |
+| —      | —      | 96–97 | [[rangoric-srd/magic-items/weapons/Luck Blade\|Luck blade (2 wishes)]]           | 102,660 gp   |
+| —      | —      | 98–99 | [[rangoric-srd/magic-items/weapons/Holy Avenger\|Holy avenger]]                    | 120,630 gp   |
+| —      | —      | 100   | [[rangoric-srd/magic-items/weapons/Luck Blade\|Luck blade (3 wishes)]]           | 142,960 gp   |
 
   - [[rangoric-srd/magic-items/weapons/Adamantine Battleaxe|Adamantine Battleaxe]]
   - [[rangoric-srd/magic-items/weapons/Adamantine Dagger|Adamantine Dagger]]

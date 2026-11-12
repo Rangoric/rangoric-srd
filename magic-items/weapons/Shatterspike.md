@@ -9,6 +9,7 @@ cost: "2,315 gp + 160 XP"
 weight: "4 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Shatterspike|Shatterspike (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Shatterspike|Shatterspike (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15

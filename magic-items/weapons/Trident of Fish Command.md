@@ -9,6 +9,7 @@ price: "18,650 gp"
 cost: "9,325 gp + 746 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Trident of Fish Command|Trident of Fish Command (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Trident of Fish Command|Trident of Fish Command (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

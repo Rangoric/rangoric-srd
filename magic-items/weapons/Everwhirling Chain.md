@@ -8,6 +8,7 @@ price: "5,220,325 gp"
 cost: "to Create: 2,610,325 gp + 52,200 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Everwhirling Chain|Everwhirling Chain (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Ever-whirling Chain|Ever-whirling Chain (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

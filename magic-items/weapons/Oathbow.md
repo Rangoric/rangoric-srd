@@ -9,6 +9,7 @@ price: "25,600 gp"
 cost: "13,100 gp + 1,000 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Oathbow|Oathbow (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Oathbow|Oathbow (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

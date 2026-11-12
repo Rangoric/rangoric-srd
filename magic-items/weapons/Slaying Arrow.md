@@ -9,6 +9,7 @@ price: "2,282 gp (slaying arrow) or 4,057 gp (greater slaying arrow)"
 cost: "1,144 gp 5 sp + 91 XP (slaying arrow) or 2,032 gp + 162 XP (greater slaying arrow)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Slaying Arrow|Slaying Arrow (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Slaying|Arrow, Slaying (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

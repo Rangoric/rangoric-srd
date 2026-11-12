@@ -9,6 +9,7 @@ price: "25,715 gp"
 cost: "12,857 gp and 5 sp + 1,029 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Sword of Life Stealing|Sword of Life Stealing (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Sword of Life Stealing|Sword of Life Stealing (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

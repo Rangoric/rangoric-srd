@@ -9,6 +9,7 @@ price: "50,320 gp"
 cost: "25,320 gp + 2,000 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Rapier of Puncturing|Rapier of Puncturing (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Rapier of Puncturing|Rapier of Puncturing (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

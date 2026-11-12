@@ -9,6 +9,7 @@ price: "8,302 gp"
 cost: "4,302 gp + 320 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Dagger of Venom|Dagger of Venom (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Dagger of Venom|Dagger of Venom (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

@@ -9,6 +9,7 @@ price: "40,320 gp"
 cost: "20,320 gp + 1,600 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Life-Drinker|Life-Drinker (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Life-Drinker|Life-Drinker (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

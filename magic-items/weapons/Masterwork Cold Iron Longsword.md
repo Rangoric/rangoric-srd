@@ -6,6 +6,7 @@ aura: "No aura (nonmagical)"
 price: "330 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Masterwork Cold Iron Longsword|Masterwork Cold Iron Longsword (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Masterwork Cold Iron Longsword|Masterwork Cold Iron Longsword (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

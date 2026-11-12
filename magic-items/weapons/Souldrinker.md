@@ -8,6 +8,7 @@ price: "478,335 gp"
 cost: "to Create: 239,315 gp + 14,780 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Souldrinker|Souldrinker (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/specific-weapons/Souldrinker|Souldrinker (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
