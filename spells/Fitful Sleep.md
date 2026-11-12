@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 4"
   - "Clr 3"
+  - "Dream 4"
   - "Fhn 4"
   - "Fpk 4"
   - "Msl 4"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Mind-Affecting\]*
 
-  - **Level**: Brd 4, Clr 3, Fhn 4, Fpk 4, Msl 4, Skd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Clr 3, Dream 4, Fhn 4, Fpk 4, Msl 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

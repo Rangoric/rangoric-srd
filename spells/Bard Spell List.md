@@ -34,6 +34,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Read Magic\|Read Magic]]:               | Read scrolls and spellbooks.                                                                                                                                    |
 | [[rangoric-srd/spells/Resistance\|Resistance]]:               | Subject gains +1 on saving throws.                                                                                                                              |
 | [[rangoric-srd/spells/Sift\|Sift]]: | See area as though examining it. |
+| [[rangoric-srd/spells/Snooze\|Snooze]]: | As sleep, but one creature of up to 1d4 HD. |
 | [[rangoric-srd/spells/Spark\|Spark]]: | Ignites flammable objects. |
 | [[rangoric-srd/spells/Summon Instrument\|Summon Instrument]]: | Summons one instrument of the caster’s choice.                                                                                                                  |
 | [[rangoric-srd/spells/Unwitting Ally\|Unwitting Ally]]: | Subject is considered ally for 1 round. |
@@ -453,6 +454,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Shadow Step\|Shadow Step]]: | Teleport from one shadow to another. |
 | [[rangoric-srd/spells/Shocking Image\|Shocking Image]]: | As mirror image, but the duplicates emit electrical damage when destroyed. |
 | [[rangoric-srd/spells/Shout\|Shout]]:                                 | Deafens all within cone and deals 5d6 sonic damage.                                                                                |
+| [[rangoric-srd/spells/Sleepwalking\|Sleepwalking]] (M): | As suggestion, cast on a sleeping creature. |
 | [[rangoric-srd/spells/Sonic Thrust\|Sonic Thrust]]: | Sound moves targets away from you. |
 | [[rangoric-srd/spells/Speak with Plants\|Speak with Plants]]:         | You can talk to normal plants and plant creatures.                                                                                 |
 | [[rangoric-srd/spells/Summon Fey IV\|Summon Fey IV]]: | Calls a fey creature to fight for you. |
@@ -483,6 +485,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Deafening Song Bolt\|Deafening Song Bolt]]: | Blast of song deals 3d10 damage and deafens targets. |
 | [[rangoric-srd/spells/Dispel Magic, Greater\|Dispel Magic, Greater]]:     | As dispel magic, but +20 on check.                                                                                      |
 | [[rangoric-srd/spells/Dream\|Dream]]:                                     | Sends message to anyone sleeping.                                                                                       |
+| [[rangoric-srd/spells/Energy Bubbles\|Energy Bubbles]] (M): | Cone of bubbles bursts for 1d4/level energy damage (max 15d4). |
 | [[rangoric-srd/spells/Eon of Sleep\|Eon of Sleep]] (M): | Puts the subject to sleep for years. |
 | [[rangoric-srd/spells/False Vision\|False Vision]] (M):                   | Fools scrying with an illusion.                                                                                         |
 | [[rangoric-srd/spells/Foe to Friend\|Foe to Friend]]: | Redirect an enemy creature's attack. |
@@ -505,6 +508,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Shadow Evocation\|Shadow Evocation]]:               | Mimics evocation of lower than 5th level, but only 20% real.                                                            |
 | [[rangoric-srd/spells/Shadow Walk\|Shadow Walk]]:                         | Step into shadow to travel rapidly.                                                                                     |
 | [[rangoric-srd/spells/Shadowbard\|Shadowbard]] (M): | Shadowy duplicate starts a bardic performance. |
+| [[rangoric-srd/spells/Sleepless Curse\|Sleepless Curse]] (M): | Subject can’t sleep and takes Dex, Str, then Con damage each day. |
 | [[rangoric-srd/spells/Song of Discord\|Song of Discord]]:                 | Forces targets to attack each other.                                                                                    |
 | [[rangoric-srd/spells/Stunning Finale\|Stunning Finale]]: | Stuns 3 creatures for 1 round. |
 | [[rangoric-srd/spells/Suggestion, Mass\|Suggestion, Mass]]:               | As suggestion, plus one subject/level.                                                                                  |
@@ -552,6 +556,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Pied Piping\|Pied Piping]] (F): | Compel similar creatures to follow you. |
 | [[rangoric-srd/spells/Programmed Image\|Programmed Image]] (M):                 | As major image, plus triggered by event.                                                                                                                                                     |
 | [[rangoric-srd/spells/Project Image\|Project Image]]:                           | Illusory double can talk and cast spells.                                                                                                                                                    |
+| [[rangoric-srd/spells/Recurring Nightmare\|Recurring Nightmare]] (M): | Subject gains negative levels each night until it dies or the curse is removed. |
 | [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]:                     | As scrying, but faster and longer.                                                                                                                                                           |
 | [[rangoric-srd/spells/Shout, Greater\|Shout, Greater]]:                         | Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.                                                                                                                  |
 | [[rangoric-srd/spells/Sonic Form\|Sonic Form]] (M): | Turn yourself into a creature of semisolid sound. |

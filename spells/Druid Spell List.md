@@ -366,6 +366,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Rusting Grasp\|Rusting Grasp]]:                     | Your touch corrodes iron and alloys.                                                                         |
 | [[rangoric-srd/spells/Scrying\|Scrying]] (F):                             | Spies on subject from a distance.                                                                            |
 | [[rangoric-srd/spells/Sea Stallion\|Sea Stallion]]: | You and your mount adapt to an aquatic environment |
+| [[rangoric-srd/spells/Sleepwalking\|Sleepwalking]] (M): | As suggestion, cast on a sleeping creature. |
 | [[rangoric-srd/spells/Slowing Mud\|Slowing Mud]] (M): | Targets are covered in mud that blinds them and acts like slow. |
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]:                       | Creatures in area take 1d8 damage, may be slowed.                                                            |
 | [[rangoric-srd/spells/Strong Jaw\|Strong Jaw]]: | Natural attacks damage as two sizes bigger. |
@@ -407,12 +408,14 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Hallow\|Hallow]] (M):                             | Designates location as holy.                                                                              |
 | [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: |  |
 | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]:                   | Locust swarms attack creatures.                                                                           |
+| [[rangoric-srd/spells/Ironblight\|Ironblight]]: | Burst rusts away iron and steel items. |
 | [[rangoric-srd/spells/Old Salt’s Curse\|Old Salt’s Curse]] (M): | You inflict a curse of the roiling sea upon the target, making it permanently sickened. |
 | [[rangoric-srd/spells/Poisonous Balm\|Poisonous Balm]]: | As cure serious wounds, but leave behind a latent venom. |
 | [[rangoric-srd/spells/Raise Animal Companion\|Raise Animal Companion]] (M): | As raise dead, but on an animal. |
 | [[rangoric-srd/spells/Replay Tracks\|Replay Tracks]] (F): | Reconstruct past events from a set of tracks |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
 | [[rangoric-srd/spells/Rest Eternal\|Rest Eternal]] (M): | Dead creature cannot be revived. |
+| [[rangoric-srd/spells/Sleepless Curse\|Sleepless Curse]] (M): | Subject can’t sleep and takes Dex, Str, then Con damage each day. |
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M): | Transforms wood into snakes to fight for you. |
 | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M):                       | Ignore 10 points of damage per attack.                                                                    |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
@@ -459,6 +462,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Path of the Winds\|Path of the Winds]]: | With a sweeping gesture, you call forth mighty winds to clear a path ahead of you. |
 | [[rangoric-srd/spells/Plague Storm\|Plague Storm]]: | Cloud infects creatures like contagion. |
 | [[rangoric-srd/spells/Primal Regression\|Primal Regression]]: | Make a creature become bestial and unintelligent. |
+| [[rangoric-srd/spells/Recurring Nightmare\|Recurring Nightmare]] (M): | Subject gains negative levels each night until it dies or the curse is removed. |
 | [[rangoric-srd/spells/Reincarnate Spy\|Reincarnate Spy]] (M): | As reincarnate, but creating a body similar to that of a chosen creature, and you secretly keep part of the body. |
 | [[rangoric-srd/spells/Repel Wood\|Repel Wood]]:                           | Pushes away wooden objects.                                |
 | [[rangoric-srd/spells/Sirocco\|Sirocco]] (M): | Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone. |
@@ -488,6 +492,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Delectable Flesh\|Delectable Flesh]]: | Make a creature so delicious that all others nearby are consumed by the desire to eat it. |
 | [[rangoric-srd/spells/Entice Fey\|Entice Fey]] (M): | Entice service from a fey with 12 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Fairy Ring Retreat\|Fairy Ring Retreat]]: | Toadstool circle leads to an extradimensional meadow. |
+| [[rangoric-srd/spells/Fey Decree\|Fey Decree]]: | Deafens, cowers, frightens or wounds fey of other alignments; banishes nonfey from the fey realm. |
 | [[rangoric-srd/spells/Fire Storm\|Fire Storm]]:                                 | Deals 1d6/level fire damage.                                                                           |
 | [[rangoric-srd/spells/Greater Ring Dance\|Greater Ring Dance]]: | As lesser ring dance, but two participants/level. |
 | [[rangoric-srd/spells/Heal (Spell)\|Heal]]:                                     | Cures 10 points/level of damage, all diseases and mental conditions.                                   |
@@ -515,6 +520,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cure Serious Wounds, Mass\|Cure Serious Wounds, Mass]]: | Cures 3d8 damage +1/level for many creatures.                                                                    |
 | [[rangoric-srd/spells/Earthquake\|Earthquake]]:                               | Intense tremor shakes 5-ft./level radius.                                                                        |
 | [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |
+| [[rangoric-srd/spells/Fey Curtain\|Fey Curtain]]: | As mass invisibility, but you choose who can see the subjects. |
 | [[rangoric-srd/spells/Fey Form IV\|Fey Form IV]] (M): | Assume the form of a powerful fey creature |
 | [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 | [[rangoric-srd/spells/Finger of Death\|Finger of Death]]:                     | Kills one subject.                                                                                               |

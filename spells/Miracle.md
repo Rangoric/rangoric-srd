@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Clr 9"
+  - "Fey 9"
   - "Luck 9"
 components:
   - "V"
@@ -17,8 +18,8 @@ saving-throw: "See text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Miracle|Miracle (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 9, Luck 9
+  - **Level**: Clr 9, Fey 9, Luck 9
   - **Components**: V, S, XP; see text
   - **Casting Time**: 1 standard action
   - **Range**: See text

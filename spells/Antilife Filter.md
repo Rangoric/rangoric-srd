@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Animal 4"
   - "Clr 4"
   - "Drd 4"
   - "Fhn 4"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 4, Drd 4, Fhn 4, Hun 4, Sor/Wiz 4
+  - **Level**: Animal 4, Clr 4, Drd 4, Fhn 4, Hun 4, Sor/Wiz 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 round
   - **Range**: 10 ft.

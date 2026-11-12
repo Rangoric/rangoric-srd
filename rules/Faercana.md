@@ -23,6 +23,9 @@ Magical power sources work very much like spell components, although each of the
 
 ### Breath of Life
 
+> [!warning] Evil
+> Harvesting and using the Breath of Life is evil. It steals the breath (Constitution) of mortals and fey, often killing them, and the Unseelie who use it prefer children. It belongs to villains; a character who takes a Breath of Life commits an evil act.
+
 The malevolent Unseelie fey are barred from using *magic sand* to help power their spells. Instead, they harvest the Breath of Life from mortals and fey alike. Most often, victims are left severely weakened if not killed outright by having their breath stolen from them, but this matters little to the Unseelie. In fact, they relish what they have stolen all the more if it kills the donor. Their favorite donors are mortal children and infants, as they insist the unused potential in their lives powers their spells even more. (Each Breath of Life equals a point of Constitution.)
 
 More potent than its counterpart, the Breath of Life can be captured with the *harvest breath of life* spell (not in this SRD yet).

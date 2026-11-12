@@ -26,7 +26,7 @@ A character can only wear up to a maximum of eight *charms*, whether on one brac
 
 ## Creating Charms
 
-To create a magic *charm*, a character needs materials, the most obvious being a gem or piece of precious wood or metal. The cost for the materials is subsumed in the cost for creating the *charm*. Creating a *charm* costs half the market value listed; the prices below are guidelines for new charms (see [[rangoric-srd/magic-items/Creating Magic Items|Creating Magic Items]]).
+To create a magic *charm*, a character needs materials, the most obvious being a gem or piece of precious wood or metal. The cost for the materials is subsumed in the cost for creating the *charm*. A new *charm* built on a spell has a market price of its caster level × the spell’s level × 1,000 gp (a 0-level spell counts as ½), as Faeries’ base price tables for charms work out; creating a *charm* costs half its market price. The prices in the table below are guidelines for new charms (see [[rangoric-srd/magic-items/Creating Magic Items|Creating Magic Items]]).
 
 If spells are involved in the prerequisites for making the *charm*, the creator must have prepared the spells to be cast (or must know the spells, in the case of a sorcerer or bard) but need not provide any material components or focuses the spells require, nor are any XP costs inherent in a prerequisite spell incurred in the creation of the item. The act of working on the *charm* triggers the prepared spells, making them unavailable for casting during each day of the *charm’s* creation; the spell slot is expended from the creator’s currently prepared spells, just as if it had been cast.
 

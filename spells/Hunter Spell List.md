@@ -128,6 +128,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Returning Weapon\|Returning Weapon]]: | Grants a weapon the returning special weapon quality. |
 | [[rangoric-srd/spells/Savage Maw\|Savage Maw]]: | Your teeth extend and sharpen, transforming your mouth into a maw of razor-sharp fangs. |
 | [[rangoric-srd/spells/Shillelagh\|Shillelagh]]: | Cudgel or quarterstaff becomes +1 weapon (1d10 damage) for 1 min./level. |
+| [[rangoric-srd/spells/Snooze\|Snooze]]: | As sleep, but one creature of up to 1d4 HD. |
 | [[rangoric-srd/spells/Snowball\|Snowball]]: | Throw a conjured ball of snow at a target |
 | [[rangoric-srd/spells/Speak with Animals\|Speak with Animals]]: | You can communicate with animals. |
 | [[rangoric-srd/spells/Steady Saddle\|Steady Saddle]]: | Affected saddle has reduced penalties for actions requiring focus |
@@ -349,6 +350,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Meticulous Match\|Meticulous Match]]: | Determine if two things are identical. |
 | [[rangoric-srd/spells/Mirage\|Mirage]] (M): | Create illusory terrain |
 | [[rangoric-srd/spells/Named Bullet\|Named Bullet]] (M): | Imbues ammunition with accuracy against a specific creature type. |
+| [[rangoric-srd/spells/Nap\|Nap]] (M F): | Each hour of sleep counts as two, at a cost in Con and Will. |
 | [[rangoric-srd/spells/Nature’s Exile\|Nature’s Exile]]: | Gives subject -10 on Fieldcraft checks. |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]: | Immunizes subject against poison, detoxifies venom in or on subject. |
 | [[rangoric-srd/spells/Nixie’s Lure\|Nixie’s Lure]]: | This spell creates an unearthly and infectious song that seductively summons all who hear it. |
@@ -456,6 +458,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Rusting Grasp\|Rusting Grasp]]: | Your touch corrodes iron and alloys. |
 | [[rangoric-srd/spells/Scrying\|Scrying]] (F): | Spies on subject from a distance. |
 | [[rangoric-srd/spells/Sea Stallion\|Sea Stallion]]: | You and your mount adapt to an aquatic environment |
+| [[rangoric-srd/spells/Sleepwalking\|Sleepwalking]] (M): | As suggestion, cast on a sleeping creature. |
 | [[rangoric-srd/spells/Slowing Mud\|Slowing Mud]] (M): | Targets are covered in mud that blinds them and acts like slow. |
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]: | Creatures in area take 1d8 damage, may be slowed. |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
@@ -494,10 +497,12 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Hallow\|Hallow]] (M): | Designates location as holy. |
 | [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: | Enchant the ground to pull creatures beneath the surface. |
 | [[rangoric-srd/spells/Insect Plague\|Insect Plague]]: | Locust swarms attack creatures. |
+| [[rangoric-srd/spells/Ironblight\|Ironblight]]: | Burst rusts away iron and steel items. |
 | [[rangoric-srd/spells/Old Salt’s Curse\|Old Salt’s Curse]] (M): | You inflict a curse of the roiling sea upon the target, making it permanently sickened. |
 | [[rangoric-srd/spells/Poisonous Balm\|Poisonous Balm]]: | As cure serious wounds, but leave behind a latent venom. |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
 | [[rangoric-srd/spells/Rest Eternal\|Rest Eternal]] (M): | Dead creature cannot be revived. |
+| [[rangoric-srd/spells/Sleepless Curse\|Sleepless Curse]] (M): | Subject can’t sleep and takes Dex, Str, then Con damage each day. |
 | [[rangoric-srd/spells/Snake Staff\|Snake Staff]] (M): | Transforms wood into snakes to fight for you. |
 | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M): | Ignore 10 points of damage per attack. |
 | [[rangoric-srd/spells/Summon Fey V\|Summon Fey V]]: | Calls a fey creature to fight for you. |
@@ -541,6 +546,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Path of the Winds\|Path of the Winds]]: | With a sweeping gesture, you call forth mighty winds to clear a path ahead of you. |
 | [[rangoric-srd/spells/Plague Storm\|Plague Storm]]: | Cloud infects creatures like contagion. |
 | [[rangoric-srd/spells/Primal Regression\|Primal Regression]]: | Make a creature become bestial and unintelligent. |
+| [[rangoric-srd/spells/Recurring Nightmare\|Recurring Nightmare]] (M): | Subject gains negative levels each night until it dies or the curse is removed. |
 | [[rangoric-srd/spells/Reincarnate Spy\|Reincarnate Spy]] (M): | As reincarnate, but creating a body similar to that of a chosen creature, and you secretly keep part of the body. |
 | [[rangoric-srd/spells/Repel Wood\|Repel Wood]]: | Pushes away wooden objects. |
 | [[rangoric-srd/spells/Sirocco\|Sirocco]] (M): | Hot wind does 4d6 damage, fatigues those damaged, and knocks creatures prone. |

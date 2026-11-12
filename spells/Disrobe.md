@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Brd 2"
+  - "Fey 2"
   - "Fpk 2"
   - "Hun 2"
   - "Rgr 2"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 2, Fpk 2, Hun 2, Rgr 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Fey 2, Fpk 2, Hun 2, Rgr 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

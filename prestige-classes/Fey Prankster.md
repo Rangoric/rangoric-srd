@@ -29,7 +29,9 @@ To qualify to become a fey prankster (abbreviated Fpk), a character must fulfill
 
 **Base Attack Bonus**: +4.
 
-**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 4 ranks, [[rangoric-srd/skills/Lore|Lore (fey)]] 4 ranks.
+**Character Level**: 3rd.
+
+**Skills**: [[rangoric-srd/skills/Arcana|Arcana]] 1 rank, [[rangoric-srd/skills/Lore|Lore (fey)]] 1 rank.
 
 **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Perception|Perception]]), [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]].
 
@@ -62,19 +64,19 @@ All of the following are class features of the fey prankster prestige class.
 
 **Weapon and Armor Proficiency**: Fey pranksters are proficient with all simple weapons and light armor, but not shields. ^fey-prankster-weapon-and-armor-proficiency
 
-**Prestidigitator (Sp)**: The fey prankster gains the ability to use *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* as per the spell of the same name three times per day. If the fey prankster has other spellcasting abilities that grant cantrips, this is in addition to those spells. ^fey-prankster-prestidigitator
+**Prestidigitator (Sp)**: At 1st level, the fey prankster gains [[rangoric-srd/prestige-classes/Fey Class Features#^prestidigitator|prestidigitator]]. ^fey-prankster-prestidigitator
 
 **Mask of Fey (Sp)**: At 2nd level, the fey prankster can use *[[rangoric-srd/spells/Fey Mask|fey mask]]* once per day. This ability functions as the spell of the same name. At 5th level, this ability is usable two times per day, and at 8th level, three times per day. ^fey-prankster-mask-of-fey
 
-**Luck of the Fey (Ex)**: At 3rd level, the fey prankster develops the supernatural ability to affect the luck of herself and others. Once per day, the fey prankster can choose to reroll one roll that she or another character or creature within a 50-foot radius has just made. The targeted creature must take the results of the reroll, even if they are worse. ^fey-prankster-luck-of-the-fey
+**Luck of the Fey (Ex)**: At 3rd level, the fey prankster gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-fey|luck of the fey]]. ^fey-prankster-luck-of-the-fey
 
-**Luck of the True Fey (Ex)**: At 6th level, the fey prankster expands the supernatural ability to affect the luck of herself and others. This ability provides two more chances per day to reroll any roll that she or another character or creature (again, within a 50-foot radius of the character) has just made. The targeted creature must take the results of the reroll, even if they are worse. This ability stacks with Luck of the Fey (providing a total of three die rolls that can be rerolled per day). ^fey-prankster-luck-of-the-true-fey
+**Luck of the True Fey (Ex)**: At 6th level, the fey prankster gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-true-fey|luck of the true fey]]. ^fey-prankster-luck-of-the-true-fey
 
-**Slippery Mind (Ex)**: At 7th level, this ability lets the fey prankster wriggle free from magical effects that would otherwise control or compel her. If a fey prankster with a slippery mind fails her saving throw against an enchantment, she can attempt her saving throw again one round later. She only gets this one extra chance to succeed at her saving throw per enchantment cast upon her. ^fey-prankster-slippery-mind
+**Slippery Mind (Ex)**: At 7th level, the fey prankster gains [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], as the rogue’s advanced talent. ^fey-prankster-slippery-mind
 
-**Destined (Ex)**: At 10th level, the fey prankster can reroll a result multiple times in one round and choose between the rerolls gained through Luck of the Fey and Luck of the True Fey. This ability does not grant additional rerolls but allows more than one reroll per round and also allows worse results to be ignored. ^fey-prankster-destined
+**Destined (Ex)**: At 10th level, the fey prankster gains [[rangoric-srd/prestige-classes/Fey Class Features#^destined|destined]]. ^fey-prankster-destined
 
-**Spells**: A fey prankster casts the spells on the fey prankster spell list (below), with the spells per day shown on the table. ^fey-prankster-spells
+**Spells**: A fey prankster casts arcane spells from the fey prankster spell list (below), with the spells per day shown on the table. She casts them as she casts the arcane spells of the class that qualified her for this prestige class: they use that class’s key ability score (for bonus spells, save DCs and the score needed to cast a spell), and she prepares them or casts them spontaneously as that class does. A character with more than one arcane spellcasting class chooses one when she takes her first fey prankster level. ^fey-prankster-spells
 
 ###### Fey Prankster Spell List
 

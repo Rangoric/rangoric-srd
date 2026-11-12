@@ -41,6 +41,7 @@ Where a level has two spells, the cleric prepares [[rangoric-srd/class-options/d
 | 2nd | [[rangoric-srd/spells/Hold Animal\|Hold Animal]] | Paralyzes one animal for 1 round/level. |
 | 3rd | [[rangoric-srd/spells/Dominate Animal\|Dominate Animal]] | Subject animal obeys silent mental commands. |
 | 4th | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]] (can only summon animals) | Calls creature to fight. |
+| 4th | [[rangoric-srd/spells/Antilife Filter\|Antilife Filter]] | Mobile shell hedges out one creature type. |
 | 5th | [[rangoric-srd/spells/Commune with Nature\|Commune with Nature]] | Learn about terrain for 1 mile/level. |
 | 5th | [[rangoric-srd/spells/Beast Shape III\|Beast Shape III]] (M) (animals only) | You take the form of a Diminutive or Huge animal, or Small or Medium magical beast. |
 | 6th | [[rangoric-srd/spells/Antilife Shell\|Antilife Shell]] | 10-ft. field hedges out living creatures. |

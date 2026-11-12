@@ -22,7 +22,7 @@ A [[rangoric-srd/classes/Warpriest|warpriest]] chooses [[rangoric-srd/class-opti
 
 **3.5 only**: [[rangoric-srd/class-options/domains/Creation Domain|Creation]] and [[rangoric-srd/class-options/domains/Skalykind Domain|Skalykind]], with their 3.5 text.
 
-**Faeries**: [[rangoric-srd/class-options/domains/Enchantment Domain|Enchantment]] and [[rangoric-srd/class-options/domains/Illusion Domain|Illusion]], with their one granted power each (see [[rangoric-srd/classes/Fey Class Adjustments|Fey Class Adjustments]]).
+**Faeries**: [[rangoric-srd/class-options/domains/Enchantment Domain|Enchantment]] and [[rangoric-srd/class-options/domains/Illusion Domain|Illusion]], with their one granted power each (see [[rangoric-srd/classes/Fey Class Adjustments|Fey Class Adjustments]]); [[rangoric-srd/class-options/domains/Dream Domain|Dream]] and [[rangoric-srd/class-options/domains/Fey Domain|Fey]], from its Cleric Domains, which the faemancer can also choose.
 
 ## Subdomains
 

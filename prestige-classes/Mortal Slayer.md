@@ -31,7 +31,7 @@ To qualify to become a mortal slayer (abbreviated Msl), a character must fulfill
 
 **Base Attack Bonus**: +6.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 8 ranks, [[rangoric-srd/skills/Lore|Lore (folk tales)]] 8 ranks.
+**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks, [[rangoric-srd/skills/Lore|Lore (folk tales)]] 5 ranks.
 
 **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Quick Draw|Quick Draw]].
 

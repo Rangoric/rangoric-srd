@@ -24,6 +24,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:         | Detects spells and magic items within 60 ft.         |
 |               | [[rangoric-srd/spells/Read Magic\|Read Magic]]:             | Read scrolls and spellbooks.                         |
 | Enchantment   | [[rangoric-srd/spells/Daze\|Daze]]:                         | Humanoid creature of 4 HD or less loses next action. |
+|               | [[rangoric-srd/spells/Snooze\|Snooze]]: | As sleep, but one creature of up to 1d4 HD. |
 | Evocation     | [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]:     | Creates torches or other lights.                     |
 |               | [[rangoric-srd/spells/Flare\|Flare]]:                       | Dazzles one creature (–1 on attack rolls).           |
 |               | [[rangoric-srd/spells/Light\|Light]]:                       | Object shines like a torch.                          |
@@ -659,7 +660,9 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Malicious Spite\|Malicious Spite]] (M): | Target is compelled to plot against another. |
 |               | [[rangoric-srd/spells/Mindwipe\|Mindwipe]]: | Erase a portion of the target’s mind and experiences, inflicting negative levels. |
 |               | [[rangoric-srd/spells/Moonstruck\|Moonstruck]] (M): | Subject is enraged and confused. |
+|               | [[rangoric-srd/spells/Nap\|Nap]] (M F): | Wizard only. Each hour of sleep counts as two, at a cost in Con and Will. |
 |               | [[rangoric-srd/spells/Overwhelming Grief\|Overwhelming Grief]]: | Grieving target can take no actions and is denied its Dex bonus. |
+|               | [[rangoric-srd/spells/Sleepwalking\|Sleepwalking]] (M): | As suggestion, cast on a sleeping creature. |
 |               | [[rangoric-srd/spells/Symbol of Laughter\|Symbol of Laughter]] (M): | Triggered rune makes nearby creatures lose actions for 1 round/level. |
 |               | [[rangoric-srd/spells/Terrible Remorse\|Terrible Remorse]]: | Creature is compelled to harm itself. |
 |               | [[rangoric-srd/spells/Triggered Suggestion\|Triggered Suggestion]]: | As suggestion, but triggered only and target doesn't remember the suggestion. |
@@ -815,6 +818,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Smug Narcissism\|Smug Narcissism]] (M): | Target is distracted by its sense of self. |
 |               | [[rangoric-srd/spells/Symbol of Sleep\|Symbol of Sleep]] (M):           | Triggered rune puts nearby creatures into catatonic slumber.                                           |
 | Evocation     | [[rangoric-srd/spells/Cone of Cold\|Cone of Cold]]:                     | 1d6/level cold damage.                                                                                 |
+|               | [[rangoric-srd/spells/Energy Bubbles\|Energy Bubbles]] (M): | Cone of bubbles bursts for 1d4/level energy damage (max 15d4). |
 |               | [[rangoric-srd/spells/Fire Snake\|Fire Snake]] (M): | Creates a serpentine path of fire 5 ft. long/level that deals 1d6 fire damage/level. |
 |               | [[rangoric-srd/spells/Icy Prison\|Icy Prison]]: | Thick ice holds and damages the target. |
 |               | [[rangoric-srd/spells/Interposing Hand\|Interposing Hand]]:             | Hand provides cover against one opponent.                                                              |
@@ -840,6 +844,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Scripted Hallucination\|Scripted Hallucination]]: | As complex hallucination, but without concentration. |
 |               | [[rangoric-srd/spells/Seeming\|Seeming]]:                               | Changes appearance of one person per two levels.                                                       |
 |               | [[rangoric-srd/spells/Shadow Evocation\|Shadow Evocation]]:             | Mimics evocation below 5th level, but only 20% real.                                                   |
+|               | [[rangoric-srd/spells/Sleepless Curse\|Sleepless Curse]] (M): | Subject can’t sleep and takes Dex, Str, then Con damage each day. |
 |               | [[rangoric-srd/spells/Symbol of Striking\|Symbol of Striking]] (M): | As symbol of death, but fills a 5-foot square. |
 |               | [[rangoric-srd/spells/Village Veil\|Village Veil]]: | You throw an illusion over an area to make creatures that view or interact with it believe it has suffered some great catastrophe or calamity that renders it utterly worthless for their needs. |
 | Necromancy    | [[rangoric-srd/spells/Absorb Toxicity\|Absorb Toxicity]] (M): | You become immune to diseases and toxins, absorb one, and then spread it to others. |
@@ -871,6 +876,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Gift of the Deep\|Gift of the Deep]]: |  |
 |               | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |
 |               | [[rangoric-srd/spells/Hungry Earth\|Hungry Earth]]: |  |
+|               | [[rangoric-srd/spells/Ironblight\|Ironblight]]: | Burst rusts away iron and steel items. |
 |               | [[rangoric-srd/spells/Monstrous Physique III\|Monstrous Physique III]] (M): | Take the form and some of the powers of a Diminutive or Huge monstrous humanoid. |
 |               | [[rangoric-srd/spells/Ooze Form I\|Ooze Form I]] (M): | Assume the form of a Small or Medium ooze creature |
 |               | [[rangoric-srd/spells/Overland Flight\|Overland Flight]]:               | You fly at a speed of 40 ft. and can hustle over long distances.                                       |
@@ -924,6 +930,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Envious Urge\|Envious Urge]]: | Targets steal from or disarm others. |
 |               | [[rangoric-srd/spells/Spells F to G\|Geas/Quest]]:                          | As lesser geas, plus it affects any creature.                                                                                                                                                |
 |               | [[rangoric-srd/spells/Heroism, Greater\|Heroism, Greater]]:                 | Gives +4 bonus on attack rolls, saves, skill checks; immunity to fear; temporary hp.                                                                                                         |
+|               | [[rangoric-srd/spells/Improved Nap\|Improved Nap]] (M): | Wizard only. One hour of sleep counts as eight, at a cost in Con and Will. |
 |               | [[rangoric-srd/spells/Mind Swap\|Mind Swap]]: | Switch minds with another creature for 1 hour per level. |
 |               | [[rangoric-srd/spells/Serenity\|Serenity]]: | Peaceful feelings harm those attempting violence. |
 |               | [[rangoric-srd/spells/Suggestion, Mass\|Suggestion, Mass]]:                 | As suggestion, plus one subject/level.                                                                                                                                                       |
@@ -947,6 +954,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Permanent Image\|Permanent Image]]:                   | Includes sight, sound, and smell.                                                                                                                                                            |
 |               | [[rangoric-srd/spells/Programmed Image\|Programmed Image]] (M):             | As major image, plus triggered by event.                                                                                                                                                     |
 |               | [[rangoric-srd/spells/Psychic Asylum\|Psychic Asylum]]: | Perform a lengthy mental task in a private mindscape. |
+|               | [[rangoric-srd/spells/Recurring Nightmare\|Recurring Nightmare]] (M): | Subject gains negative levels each night until it dies or the curse is removed. |
 |               | [[rangoric-srd/spells/Shadow Walk\|Shadow Walk]]:                           | Step into shadow to travel rapidly.                                                                                                                                                          |
 |               | [[rangoric-srd/spells/Triggered Hallucination\|Triggered Hallucination]] (M): | As scripted hallucination, but it only appears when triggered. |
 |               | [[rangoric-srd/spells/Veil\|Veil]]:                                         | Changes appearance of group of creatures.                                                                                                                                                    |
@@ -1123,12 +1131,14 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Symbol of Insanity\|Symbol of Insanity]] (M):           | Triggered rune renders nearby creatures insane.                                                                                |
 |               | [[rangoric-srd/spells/Sympathy\|Sympathy]] (F):                               | Object or location attracts certain creatures.                                                                                 |
 | Evocation     | [[rangoric-srd/spells/Clenched Fist\|Clenched Fist]]:                         | Large hand provides cover, pushes, or attacks your foes.                                                                       |
+|               | [[rangoric-srd/spells/Fey Decree\|Fey Decree]]: | Deafens, cowers, frightens or wounds fey of other alignments; banishes nonfey from the fey realm. |
 |               | [[rangoric-srd/spells/Polar Ray\|Polar Ray]]:                                 | Ranged touch attack deals 1d6/level cold damage.                                                                               |
 |               | [[rangoric-srd/spells/Shout, Greater\|Shout, Greater]]:                       | Devastating yell deals 10d6 sonic damage; stuns creatures, damages objects.                                                    |
 |               | [[rangoric-srd/spells/Stormbolts\|Stormbolts]] (M): | 1d8 damage/level (max 20d8) to targets. |
 |               | [[rangoric-srd/spells/Sunburst\|Sunburst]]:                                   | Blinds all within 10 ft., deals 6d6 damage.                                                                                    |
 |               | [[rangoric-srd/spells/Telekinetic Sphere\|Telekinetic Sphere]]:               | As resilient sphere, but you move sphere telekinetically.                                                                      |
-| Illusion      | [[rangoric-srd/spells/Scintillating Pattern\|Scintillating Pattern]]:         | Twisting colors confuse, stun, or render [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious\|unconscious]]. |
+| Illusion      | [[rangoric-srd/spells/Fey Curtain\|Fey Curtain]]: | As mass invisibility, but you choose who can see the subjects. |
+|               | [[rangoric-srd/spells/Scintillating Pattern\|Scintillating Pattern]]:         | Twisting colors confuse, stun, or render [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious\|unconscious]]. |
 |               | [[rangoric-srd/spells/Screen\|Screen]]:                                       | Illusion hides area from vision, scrying.                                                                                      |
 |               | [[rangoric-srd/spells/Shadow Evocation, Greater\|Shadow Evocation, Greater]]: | As shadow evocation, but up to 7th level and 60% real.                                                                         |
 | Necromancy    | [[rangoric-srd/spells/Clone\|Clone]] (M F):                                   | Duplicate awakens when original dies.                                                                                          |

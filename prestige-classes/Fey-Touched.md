@@ -29,7 +29,7 @@ To qualify to become a fey-touched, a character must fulfill all the following c
 
 **Base Attack Bonus**: +4.
 
-**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 5 ranks.
+**Skills**: [[rangoric-srd/skills/Lore|Lore (fey)]] 2 ranks.
 
 **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Perception|Perception]]), [[rangoric-srd/feats/Dodge|Dodge]].
 
@@ -62,22 +62,22 @@ All of the following are class features of the fey-touched prestige class.
 
 **Weapon and Armor Proficiency**: Fey-touched are proficient with all simple weapons, light and medium armor, and shields. ^fey-touched-weapon-and-armor-proficiency
 
-**Fey Sense (Su)**: The fey-touched develops a special sensitivity to the presence of fey beings. As a free action, the fey-touched can detect the presence of fey creatures within 100 feet. The fey-touched does not know the type or specific location of the fey creatures, and this ability does not give the fey-touched the ability to see invisible fey creatures. The fey-touched senses the number and general direction of all fey within range. A fey-touched gains this ability at 1st level. ^fey-touched-fey-sense
+**Fey Sense (Su)**: At 1st level, the fey-touched gains [[rangoric-srd/prestige-classes/Fey Class Features#^fey-sense|fey sense]]. ^fey-touched-fey-sense
 
 **Low-Light Vision (Ex)**: At 1st level, the fey-touched gains [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^fey-touched-low-light-vision
 
-**Prestidigitator (Sp)**: The fey-touched gains the ability to use *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]* as per the spell of the same name three times per day at 2nd level. If the fey-touched has other spellcasting abilities that grant cantrips, this is in addition to those spells. ^fey-touched-prestidigitator
+**Prestidigitator (Sp)**: At 2nd level, the fey-touched gains [[rangoric-srd/prestige-classes/Fey Class Features#^prestidigitator|prestidigitator]]. ^fey-touched-prestidigitator
 
-**Luck of the Fey (Ex)**: At 3rd level, the fey-touched develops the supernatural ability to affect the luck of herself and others. Once per day, the fey-touched can choose to reroll one roll that she or another character or creature within a 50-foot radius has just made. The targeted creature must take the results of the reroll, even if they are worse. ^fey-touched-luck-of-the-fey
+**Luck of the Fey (Ex)**: At 3rd level, the fey-touched gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-fey|luck of the fey]]. ^fey-touched-luck-of-the-fey
 
-**Fey Friend (Ex)**: Fey creatures come to see the fey-touched as a sympathetic being. The fey-touched gains a +4 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Performance|Performance]], [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks when interacting with fey creatures. A fey-touched gains this ability at 4th level. ^fey-touched-fey-friend
+**Fey Friend (Ex)**: At 4th level, the fey-touched gains [[rangoric-srd/prestige-classes/Fey Class Features#^fey-friend|fey friend]]. ^fey-touched-fey-friend
 
-**Luck of the True Fey (Ex)**: At 6th level, the fey-touched expands the supernatural ability to affect the luck of herself and others. This ability provides two more chances per day to reroll any roll that she or another character or creature (again, within a 50-foot radius of the character) has just made. The targeted creature must take the results of the reroll, even if they are worse. This ability stacks with Luck of the Fey (providing a total of three die rolls that can be rerolled per day). ^fey-touched-luck-of-the-true-fey
+**Luck of the True Fey (Ex)**: At 6th level, the fey-touched gains [[rangoric-srd/prestige-classes/Fey Class Features#^luck-of-the-true-fey|luck of the true fey]]. ^fey-touched-luck-of-the-true-fey
 
-**Slippery Mind (Ex)**: At 7th level, this ability lets the fey-touched wriggle free from magical effects that would otherwise control or compel her. If a fey-touched with a slippery mind fails her saving throw against an enchantment, she can attempt her saving throw again one round later. She only gets this one extra chance to succeed at her saving throw per enchantment cast upon her. ^fey-touched-slippery-mind
+**Slippery Mind (Ex)**: At 7th level, the fey-touched gains [[rangoric-srd/class-options/rogue-talents/Slippery Mind (Rogue Talent)|slippery mind]], as the rogue’s advanced talent. ^fey-touched-slippery-mind
 
-**Timeless Body (Ex)**: At 8th level, the fey-touched no longer takes ability score penalties for aging and cannot be magically aged. Any penalties he may have already incurred, however, remain in place. Bonuses still accrue, and the fey-touched still dies of old age when his time is up. ^fey-touched-timeless-body
+**Timeless Body (Ex)**: At 8th level, the fey-touched gains [[rangoric-srd/classes/Druid#^druid-timeless-body|timeless body]], as the druid’s. ^fey-touched-timeless-body
 
-**Destined (Ex)**: At 9th level, the fey-touched can reroll a result multiple times in one round and choose between the rerolls gained through Luck of the Fey and Luck of the True Fey. This ability does not grant additional rerolls but allows more than one reroll per round and also allows worse results to be ignored. ^fey-touched-destined
+**Destined (Ex)**: At 9th level, the fey-touched gains [[rangoric-srd/prestige-classes/Fey Class Features#^destined|destined]]. ^fey-touched-destined
 
 **Soul of Ages (Ex)**: At 10th level, the fey-touched no longer ages like other beings of his race and cannot be magically aged. His maximum age is twice the normal value. The fey-touched still dies of old age when his newly established time is up. ^fey-touched-soul-of-ages
