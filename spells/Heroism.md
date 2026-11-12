@@ -12,6 +12,8 @@ level:
   - "Inq 3"
   - "Skd 2"
   - "Sor/Wiz 3"
+  - "Sum 3"
+  - "SumU 3"
   - "Wit 3"
 components:
   - "V"
@@ -34,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Alc 3, Blr 3, Brd 2, Inq 3, Skd 2, Sor/Wiz 3, Wit 3
+  - **Level**: Alc 3, Blr 3, Brd 2, Inq 3, Skd 2, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

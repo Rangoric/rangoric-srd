@@ -12,6 +12,8 @@ level:
   - "Msl 2"
   - "Skd 3"
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
   - "Wit 2"
 components:
   - "V"
@@ -33,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 2, Blr 2, Brd 3, Fhn 2, Fpk 2, Inq 2, Msl 2, Skd 3, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Blr 2, Brd 3, Fhn 2, Fpk 2, Inq 2, Msl 2, Skd 3, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Personal

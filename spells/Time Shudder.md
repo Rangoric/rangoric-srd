@@ -5,6 +5,8 @@ school: "Transmutation"
 level:
   - "Mag 2"
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
 components:
   - "V"
   - "S"
@@ -28,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Mag 2, Sor/Wiz 2
+  - **Level**: Mag 2, Sor/Wiz 2, Sum 2, SumU 2
   - **Components**: V, S, M (a tiny hourglass)
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

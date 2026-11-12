@@ -9,6 +9,8 @@ level:
   - "Hun 2"
   - "Pal 2"
   - "Rgr 2"
+  - "Sum 2"
+  - "SumU 2"
 components:
   - "V"
   - "S"
@@ -31,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Apl 2, Drd 2, Hun 2, Pal 2, Rgr 2
+  - **Level**: Apl 2, Drd 2, Hun 2, Pal 2, Rgr 2, Sum 2, SumU 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

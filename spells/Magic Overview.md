@@ -141,7 +141,7 @@ A cold iron spell uses cold-wrought iron as its manifested effect against target
 
 The next line of a spell description gives the spell’s level, a number between 0 and 9 that defines the spell’s relative power. This number is preceded by an abbreviation for the class whose members can cast the spell. The Level entry also indicates whether a spell is a domain spell and, if so, what its domain and its level as a domain spell are. A spell’s level affects the DC for any save allowed against the effect.
 
-Names of spellcasting classes are abbreviated as follows: alchemist Alc; antipaladin Apl; bard Brd; bloodrager Blr; cleric Clr; druid Drd; faerie hunter Fhn; fey prankster Fpk; hunter Hun; inquisitor Inq; magus Mag; mortal slayer Msl; oracle Ora; paladin Pal; ranger Rgr; shaman Sha; skald Skd; sorcerer Sor; witch Wit; wizard Wiz.
+Names of spellcasting classes are abbreviated as follows: alchemist Alc; antipaladin Apl; bard Brd; bloodrager Blr; cleric Clr; druid Drd; faerie hunter Fhn; fey prankster Fpk; hunter Hun; inquisitor Inq; magus Mag; mortal slayer Msl; oracle Ora; paladin Pal; ranger Rgr; shaman Sha; skald Skd; sorcerer Sor; summoner Sum; unchained summoner SumU; witch Wit; wizard Wiz.
 
 The domains a spell can be associated with include Air, Animal, Chaos, Death, Destruction, Earth, Evil, Fire, Good, Healing, Knowledge, Law, Luck, Magic, Plant, Protection, Strength, Sun, Travel, Trickery, War, and Water.
 

@@ -6,6 +6,8 @@ level:
   - "Clr 4"
   - "Inq 4"
   - "Sor/Wiz 4"
+  - "Sum 4"
+  - "SumU 4"
 components:
   - "V"
   - "S"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 4, Inq 4, Sor/Wiz 4
+  - **Level**: Clr 4, Inq 4, Sor/Wiz 4, Sum 4, SumU 4
   - **Components**: V, S, M, DF (a 3-ft.-diameter circle of powdered silver)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

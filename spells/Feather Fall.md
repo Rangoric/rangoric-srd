@@ -8,6 +8,8 @@ level:
   - "Mag 1"
   - "Skd 1"
   - "Sor/Wiz 1"
+  - "Sum 1"
+  - "SumU 1"
 components:
   - "V"
 casting-time: "1 free action"
@@ -28,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 1, Brd 1, Mag 1, Skd 1, Sor/Wiz 1
+  - **Level**: Blr 1, Brd 1, Mag 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
   - **Components**: V
   - **Casting Time**: 1 free action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

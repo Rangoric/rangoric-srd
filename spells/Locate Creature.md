@@ -8,6 +8,8 @@ level:
   - "Msl 4"
   - "Skd 4"
   - "Sor/Wiz 4"
+  - "Sum 3"
+  - "SumU 4"
   - "Wit 4"
 components:
   - "V"
@@ -26,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Fhn 4, Msl 4, Skd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 4, Fhn 4, Msl 4, Skd 4, Sor/Wiz 4, Sum 3, SumU 4, Wit 4
   - **Components**: V, S, M
   - **Duration**: 10 min./level
 

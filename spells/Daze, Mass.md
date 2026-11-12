@@ -10,6 +10,8 @@ level:
   - "Inq 4"
   - "Skd 4"
   - "Sor/Wiz 4"
+  - "Sum 4"
+  - "SumU 4"
   - "Wit 4"
 components:
   - "V"
@@ -33,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Brd 4, Inq 4, Skd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 4, Inq 4, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

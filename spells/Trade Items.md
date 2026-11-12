@@ -7,6 +7,8 @@ level:
   - "Brd 3"
   - "Skd 3"
   - "Sor/Wiz 4"
+  - "Sum 3"
+  - "SumU 3"
 components:
   - "V"
   - "S"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Skd 3, Sor/Wiz 4, Sum 3, SumU 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

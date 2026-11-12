@@ -7,6 +7,8 @@ level:
   - "Brd 1"
   - "Skd 1"
   - "Sor/Wiz 2"
+  - "Sum 1"
+  - "SumU 1"
 components:
   - "V"
   - "S"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 1, Skd 1, Sor/Wiz 2
+  - **Level**: Brd 1, Skd 1, Sor/Wiz 2, Sum 1, SumU 1
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

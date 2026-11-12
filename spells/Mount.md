@@ -7,6 +7,8 @@ level:
   - "Blr 1"
   - "Mag 1"
   - "Sor/Wiz 1"
+  - "Sum 1"
+  - "SumU 1"
   - "Wit 1"
 components:
   - "V"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Blr 1, Mag 1, Sor/Wiz 1, Wit 1
+  - **Level**: Blr 1, Mag 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
   - **Components**: V, S, M
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

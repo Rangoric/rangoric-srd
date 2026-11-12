@@ -9,6 +9,8 @@ level:
   - "Sha 2"
   - "Skd 2"
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
   - "Wit 2"
 components:
   - "V"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Brd 2, Mag 2, Sha 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Brd 2, Mag 2, Sha 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

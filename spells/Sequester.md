@@ -4,6 +4,8 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Sor/Wiz 7"
+  - "Sum 5"
+  - "SumU 6"
 components:
   - "V"
   - "S"
@@ -26,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Sor/Wiz 7, Sum 5, SumU 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

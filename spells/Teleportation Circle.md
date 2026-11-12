@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Sor/Wiz 9"
+  - "Sum 6"
   - "Wit 9"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Sor/Wiz 9, Wit 9
+  - **Level**: Sor/Wiz 9, Sum 6, Wit 9
   - **Components**: V, M
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.

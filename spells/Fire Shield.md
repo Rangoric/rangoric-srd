@@ -10,6 +10,8 @@ level:
   - "Fire 5"
   - "Mag 4"
   - "Sor/Wiz 4"
+  - "Sum 3"
+  - "SumU 4"
   - "Sun 4"
 components:
   - "V"
@@ -31,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire or Cold\]*
 
-  - **Level**: Alc 4, Blr 4, Fire 5, Mag 4, Sor/Wiz 4, Sun 4
+  - **Level**: Alc 4, Blr 4, Fire 5, Mag 4, Sor/Wiz 4, Sum 3, SumU 4, Sun 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

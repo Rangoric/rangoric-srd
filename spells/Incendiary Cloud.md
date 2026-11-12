@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Fire 8"
   - "Sor/Wiz 8"
+  - "Sum 6"
 components:
   - "V"
   - "S"
@@ -19,8 +20,8 @@ saving-throw: "Reflex half; see text"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Incendiary Cloud|Incendiary Cloud (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Fire\]*
 
-  - **Level**: Fire 8, Sor/Wiz 8
+  - **Level**: Fire 8, Sor/Wiz 8, Sum 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

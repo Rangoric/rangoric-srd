@@ -6,6 +6,8 @@ subschool: "Summoning"
 level:
   - "Drd 7"
   - "Sha 7"
+  - "Sum 5"
+  - "SumU 6"
 components:
   - "V"
   - "S"
@@ -27,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Drd 7, Sha 7
+  - **Level**: Drd 7, Sha 7, Sum 5, SumU 6
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)/ 100 ft.; see text

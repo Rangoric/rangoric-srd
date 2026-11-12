@@ -7,6 +7,8 @@ level:
   - "Mag 3"
   - "Skd 4"
   - "Sor/Wiz 4"
+  - "Sum 3"
+  - "SumU 3"
   - "Wit 4"
 components:
   - "S"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 4, Mag 3, Skd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 4, Mag 3, Skd 4, Sor/Wiz 4, Sum 3, SumU 3, Wit 4
   - **Components**: S
   - **Casting Time**: 1 immediate action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -7,14 +7,16 @@ descriptor:
   - "see text for lesser planar binding"
 level:
   - "Sor/Wiz 6"
+  - "Sum 5"
+  - "SumU 6"
 components:
   - "V"
   - "S"
 targets: "Up to three elementals or outsiders, totaling no more than 12 HD, no two of which can be more than 30 ft. apart when they appear"
 based-on:
   - "[[fantasy srd 3.5/spells/Planar Binding|Planar Binding (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -23,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[see text for lesser planar binding\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Sor/Wiz 6, Sum 5, SumU 6
   - **Components**: V, S
   - **Targets**: Up to three elementals or outsiders, totaling no more than 12 HD, no two of which can be more than 30 ft. apart when they appear
 

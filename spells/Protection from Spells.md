@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Magic 8"
   - "Sor/Wiz 8"
+  - "Sum 6"
 components:
   - "V"
   - "S"
@@ -18,8 +19,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Protection from Spells|Protection from Spells (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Magic 8, Sor/Wiz 8
+  - **Level**: Magic 8, Sor/Wiz 8, Sum 6
   - **Components**: V, S, M, F
   - **Casting Time**: 1 standard action
   - **Range**: Touch

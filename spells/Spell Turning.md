@@ -6,6 +6,8 @@ level:
   - "Luck 7"
   - "Magic 7"
   - "Sor/Wiz 7"
+  - "Sum 5"
+  - "SumU 6"
 components:
   - "V"
   - "S"
@@ -16,8 +18,8 @@ target: "You"
 duration: "Until expended or 10 min./level"
 based-on:
   - "[[fantasy srd 3.5/spells/Spell Turning|Spell Turning (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Luck 7, Magic 7, Sor/Wiz 7
+  - **Level**: Luck 7, Magic 7, Sor/Wiz 7, Sum 5, SumU 6
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -5,6 +5,8 @@ school: "Necromancy"
 level:
   - "Alc 5"
   - "Sor/Wiz 5"
+  - "Sum 4"
+  - "SumU 5"
   - "Wit 5"
 components:
   - "V"
@@ -28,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 5, Sor/Wiz 5, Wit 5
+  - **Level**: Alc 5, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

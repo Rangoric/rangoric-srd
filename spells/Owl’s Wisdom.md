@@ -11,6 +11,8 @@ level:
   - "Rgr 2"
   - "Sha 2"
   - "Sor/Wiz 2"
+  - "Sum 2"
+  - "SumU 2"
 components:
   - "V"
   - "S"
@@ -33,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Clr 2, Drd 2, Hun 2, Pal 2, Rgr 2, Sha 2, Sor/Wiz 2
+  - **Level**: Alc 2, Clr 2, Drd 2, Hun 2, Pal 2, Rgr 2, Sha 2, Sor/Wiz 2, Sum 2, SumU 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

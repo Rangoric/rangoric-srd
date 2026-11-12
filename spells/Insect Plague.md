@@ -8,6 +8,8 @@ level:
   - "Drd 5"
   - "Hun 5"
   - "Sha 5"
+  - "Sum 4"
+  - "SumU 5"
 components:
   - "V"
   - "S"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Clr 5, Drd 5, Hun 5, Sha 5
+  - **Level**: Clr 5, Drd 5, Hun 5, Sha 5, Sum 4, SumU 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 round
   - **Range**: Long (400 ft. + 40 ft./level)

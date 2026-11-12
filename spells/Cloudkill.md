@@ -6,6 +6,7 @@ subschool: "Creation"
 level:
   - "Mag 5"
   - "Sor/Wiz 5"
+  - "SumU 5"
   - "Wit 5"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Mag 5, Sor/Wiz 5, Wit 5
+  - **Level**: Mag 5, Sor/Wiz 5, SumU 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

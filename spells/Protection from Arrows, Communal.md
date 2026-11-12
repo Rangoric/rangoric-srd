@@ -5,6 +5,8 @@ school: "Abjuration"
 level:
   - "Alc 3"
   - "Sor/Wiz 3"
+  - "Sum 3"
+  - "SumU 3"
 components:
   - "V"
   - "S"
@@ -28,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 3, Sor/Wiz 3
+  - **Level**: Alc 3, Sor/Wiz 3, Sum 3, SumU 3
   - **Components**: V, S, F (a piece of tortoiseshell or turtle shell)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

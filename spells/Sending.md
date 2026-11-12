@@ -8,6 +8,8 @@ level:
   - "Inq 4"
   - "Sha 4"
   - "Sor/Wiz 5"
+  - "Sum 4"
+  - "SumU 5"
 components:
   - "V"
   - "S"
@@ -30,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Alc 5, Clr 4, Inq 4, Sha 4, Sor/Wiz 5
+  - **Level**: Alc 5, Clr 4, Inq 4, Sha 4, Sor/Wiz 5, Sum 4, SumU 5
   - **Components**: V, S, M/DF
   - **Casting Time**: 10 minutes
   - **Range**: See text

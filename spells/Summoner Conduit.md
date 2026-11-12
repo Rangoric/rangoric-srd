@@ -5,6 +5,8 @@ school: "Necromancy"
 level:
   - "Clr 4"
   - "Sor/Wiz 5"
+  - "Sum 4"
+  - "SumU 4"
   - "Wit 5"
 components:
   - "V"
@@ -29,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 4, Sor/Wiz 5, Wit 5
+  - **Level**: Clr 4, Sor/Wiz 5, Sum 4, SumU 4, Wit 5
   - **Components**: V, S, M (two flies)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

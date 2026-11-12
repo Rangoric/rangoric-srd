@@ -91,7 +91,7 @@ All of the following are class features of the summoner.
 
 **Weapon and Armor Proficiency**: Summoners are proficient with all simple weapons. Summoners are also proficient with light armor. A summoner can cast summoner spells while wearing light armor without incurring the normal arcane spell failure chance. Like any other arcane spellcaster, a summoner wearing medium or heavy armor, or using a shield, incurs a chance of arcane spell failure if the spell in question has a somatic component. A multiclass summoner still incurs the normal arcane spell failure chance for arcane spells received from other classes. ^summoner-weapon-and-armor-proficiency
 
-**Spells**: A summoner casts arcane spells drawn from the summoner spell list. He can cast any spell he knows without preparing it ahead of time, assuming he has not yet used up his allotment of spells per day for the spell’s level. ^summoner-spells
+**Spells**: A summoner casts arcane spells drawn from the [[rangoric-srd/spells/Summoner Spell List|summoner spell list]]. He can cast any spell he knows without preparing it ahead of time, assuming he has not yet used up his allotment of spells per day for the spell’s level. ^summoner-spells
 
 To learn or cast a spell, a summoner must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a summoner’s spell is 10 + the spell level + the summoner’s Charisma modifier.
 
@@ -161,7 +161,7 @@ An eidolon’s abilities are determined by the summoner’s level and by the cho
 
 **Str/Dex Bonus**: Add this modifier to the eidolon’s Strength and Dexterity scores, as determined by its base form. Some options available through the eidolon’s evolution pool might modify these scores.
 
-**Evolution Pool**: The value given in this column is the total number of points in the eidolon’s evolution pool. Points from this pool can be spent on a wide variety of modifications and upgrades that add new abilities, attacks, and powers to the eidolon. Whenever the summoner gains a level, the number in this pool increases and the summoner can spend these points to change the abilities of the eidolon. These choices are not set. The summoner can change them whenever he gains a level (and through the *transmogrify* spell).
+**Evolution Pool**: The value given in this column is the total number of points in the eidolon’s evolution pool. Points from this pool can be spent on a wide variety of modifications and upgrades that add new abilities, attacks, and powers to the eidolon. Whenever the summoner gains a level, the number in this pool increases and the summoner can spend these points to change the abilities of the eidolon. These choices are not set. The summoner can change them whenever he gains a level (and through the *[[rangoric-srd/spells/Transmogrify|transmogrify]]* spell).
 
 **Max. Attacks**: This indicates the maximum number of natural attacks that the eidolon is allowed to possess at the given level. If the eidolon is at its maximum, it cannot take evolutions that grant additional natural attacks. This does not include attacks made with weapons.
 

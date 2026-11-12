@@ -16,6 +16,8 @@ level:
   - "Rgr 2"
   - "Sha 3"
   - "Sor/Wiz 3"
+  - "Sum 3"
+  - "SumU 3"
 components:
   - "V"
   - "S"
@@ -38,7 +40,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 3, Blr 3, Clr 3, Drd 3, Fhn 3, Hun 2, Inq 3, Luck 3, Msl 3, Protection 3, Rgr 2, Sha 3, Sor/Wiz 3
+  - **Level**: Alc 3, Blr 3, Clr 3, Drd 3, Fhn 3, Hun 2, Inq 3, Luck 3, Msl 3, Protection 3, Rgr 2, Sha 3, Sor/Wiz 3, Sum 3, SumU 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

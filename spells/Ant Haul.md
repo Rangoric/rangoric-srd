@@ -9,6 +9,8 @@ level:
   - "Hun 1"
   - "Rgr 1"
   - "Sor/Wiz 1"
+  - "Sum 1"
+  - "SumU 1"
 components:
   - "V"
   - "S"
@@ -33,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 1, Clr 1, Drd 1, Hun 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Alc 1, Clr 1, Drd 1, Hun 1, Rgr 1, Sor/Wiz 1, Sum 1, SumU 1
   - **Components**: V, S, M/DF (a small pulley)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

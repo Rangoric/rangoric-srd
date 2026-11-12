@@ -9,6 +9,8 @@ level:
   - "Rgr 2"
   - "Skd 3"
   - "Sor/Wiz 3"
+  - "Sum 3"
+  - "SumU 3"
 components:
   - "V"
   - "S"
@@ -32,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 3, Hun 2, Inq 3, Rgr 2, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Hun 2, Inq 3, Rgr 2, Skd 3, Sor/Wiz 3, Sum 3, SumU 3
   - **Components**: V, S, F, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)
