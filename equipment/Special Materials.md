@@ -28,6 +28,8 @@ based-on:
   - "[[individual books/Arms & Armor v3.5/materials/Vermillion Hound|Vermillion Hound (Arms & Armor)]]"
   - "[[individual books/Arms & Armor v3.5/materials/Ósanwëtaurë|Ósanwëtaurë (Arms & Armor)]]"
   - "[[individual books/Faeries/weapon-qualities/Feyblade|Feyblade (Faeries)]]"
+  - "[[individual books/Alchemy & Herbalists v3.5/items/Mage-Gold|Mage-Gold (Alchemy & Herbalists)]]"
+  - "[[individual books/Alchemy & Herbalists v3.5/items/Mage-Silver|Mage-Silver (Alchemy & Herbalists)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -130,6 +132,10 @@ A double weapon that has only half of it made of cold iron increases its cost by
 Cold iron has 30 hit points per inch of thickness and hardness 10.
 
 A magic weapon can also be given the [[rangoric-srd/magic-items/weapon-abilities/Cold Iron (Weapon Special Ability)|cold iron]] special ability, a magical alloy of steel and cold iron that is deadlier against fey.
+
+**Mage-Metals**: [[rangoric-srd/equipment/alchemical-items/Mage-Gold|Mage-gold]] and [[rangoric-srd/equipment/alchemical-items/Mage-Silver|mage-silver]] are alchemical metals, made with [[rangoric-srd/feats/Create Alchana|Create Alchana]]; each one’s powers are in its own note. The expensive and rare nature of these alchemical metals keeps them from being overused. Add the cost of the mage-metal (by weight) to the normal costs of any item—at least half the item’s weight must be mage-metal in order to gain its effects. In other words, rings should be made entirely of mage-metal, weapons and armor may either be pure mage-metal or alloyed with masterwork-level metals, and rods benefit from mage-metals, but wands and staves and many other items cannot gain the benefits due to the paucity of metals in their construction (a wand, for example, is primarily wood, so there isn’t enough mage-metal to have any effect). ^mage-metals
+
+If a mage-metal is found as part of a treasure hoard, it’s most likely a magical item, though it can be slagged (so only the mage-metal itself is salvageable) or whole and useful. If raiding an alchemist’s shop mage-metal is most commonly found in half-pound ingots (created in pairs) or in one-ounce lumps for working and forging by someone else. They are also commonly stamped with an alchemist’s (or wizard’s) mark—beware being found with stolen mage-metal ingots!
 
 **Mithral**: Mithral is a very rare silvery, glistening metal that is lighter than iron but just as hard. When worked like steel, it becomes a wonderful material from which to create armor and is occasionally used for other items as well. Most mithral armors are one category lighter than normal for purposes of movement and other limitations. Heavy armors are treated as medium, and medium armors are treated as light, but light armors are still treated as light. Spell failure chances for armors and shields made from mithral are decreased by 10%, maximum Dexterity bonus is increased by 2, and armor check penalties are lessened by 3 (to a minimum of 0).
 
