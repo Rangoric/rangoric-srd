@@ -69,6 +69,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Endure Elements\|Endure Elements]]:                                                                                                                             | Exist comfortably in hot or cold environments.                                           |
 | [[rangoric-srd/spells/Entropic Shield\|Entropic Shield]]:                                                                                                                             | Ranged attacks against you have 20% miss chance.                                         |
 | [[rangoric-srd/spells/Forbid Action\|Forbid Action]]: | Target obeys command to not do something. |
+| [[rangoric-srd/spells/Glimmer Warning\|Glimmer Warning]]: | Caster glows when targeted by a spell. |
 | [[rangoric-srd/spells/Hidden Spring\|Hidden Spring]] (F): | Discover a temporary spring of fresh, flowing water |
 | [[rangoric-srd/spells/Hide from Undead\|Hide from Undead]]:                                                                                                                           | Undead can’t perceive one subject/level.                                                 |
 | [[rangoric-srd/spells/Inflict Light Wounds\|Inflict Light Wounds]]:                                                                                                                   | Touch deals 1d8 damage +1/level (max +5).                                                |
@@ -424,6 +425,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fickle Winds\|Fickle Winds]]: | Wind walls selectively block attacks. |
 | [[rangoric-srd/spells/Flame Strike\|Flame Strike]]:                                                                                                                                   | Smite foes with divine fire (1d6/level damage).                           |
 | [[rangoric-srd/spells/Forbid Action, Greater\|Forbid Action, Greater]]: | As forbid action, but 1 creature/level. |
+| [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]: | Casts a spell readied within a magic mirror. |
 | [[rangoric-srd/spells/Ghostbane Dirge, Mass\|Ghostbane Dirge, Mass]] (M): | As ghostbane dirge, but affects multiple creatures. |
 | [[rangoric-srd/spells/Grant\|Grant]]: | Change the range of a spell from Personal to Touch. |
 | [[rangoric-srd/spells/Half-Blood Extraction\|Half-Blood Extraction]] (M): | You transform the target half-orc into a full-blooded orc. |

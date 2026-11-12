@@ -121,6 +121,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Flare Burst\|Flare Burst]]: | As flare, but affects all creatures in 10 ft. |
 |               | [[rangoric-srd/spells/Floating Disk\|Floating Disk]]:                                                                                                                                                                              | Creates 3-ft.-diameter horizontal disk that holds 100 lb./level.                                                                                                                                                                                                                |
 |               | [[rangoric-srd/spells/Gentle Breeze\|Gentle Breeze]]: | Light wind protects one target from clouds, gases, heat, and vapors. |
+|               | [[rangoric-srd/spells/Glimmer Warning\|Glimmer Warning]]: | Caster glows when targeted by a spell. |
 |               | [[rangoric-srd/spells/Hydraulic Push\|Hydraulic Push]]: | Wave of water bull rushes an enemy. |
 |               | [[rangoric-srd/spells/Magic Missile\|Magic Missile]]:                                                                                                                                                                              | 1d4+1 damage; +1 missile per two levels above 1st (max 5).                                                                                                                                                                                                                      |
 |               | [[rangoric-srd/spells/Shocking Grasp\|Shocking Grasp]]:                                                                                                                                                                            | Touch delivers 1d6/level electricity damage (max 5d6).                                                                                                                                                                                                                          |
@@ -843,6 +844,7 @@ tags: [rangoric, rangoric/overview]
 | Divination    | [[rangoric-srd/spells/Clairsentience\|Clairsentience]]: | You are aware of a remote location. |
 |               | [[rangoric-srd/spells/Contact Fey Oracle\|Contact Fey Oracle]] (F): | As contact other plane, but always true and cryptic. |
 |               | [[rangoric-srd/spells/Contact Other Plane\|Contact Other Plane]]:       | Lets you ask question of extraplanar entity.                                                           |
+|               | [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]: | Casts a spell readied within a magic mirror. |
 |               | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
 |               | [[rangoric-srd/spells/Mind Probe\|Mind Probe]]: | Learn answers from a subject’s memories. |
 |               | [[rangoric-srd/spells/Prying Eyes\|Prying Eyes]]:                       | 1d4 +1/level floating eyes scout for you.                                                              |
