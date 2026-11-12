@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 Prestige classes offer a new form of multiclassing. Unlike the basic classes, characters must meet Requirements before they can take their first level of a prestige class. The rules for level advancement apply to this system, meaning the first step of advancement is always choosing a class. If a character does not meet the Requirements for a prestige class before that first step, that character cannot take the first level of that prestige class.  
 
-There are 51 prestige classes here. They are:
+There are 52 prestige classes here. They are:
 
 1.  [[rangoric-srd/prestige-classes/Apothecary|Apothecary]]
 2.  [[rangoric-srd/prestige-classes/Arcane Archer|Arcane Archer]]
@@ -57,15 +57,16 @@ There are 51 prestige classes here. They are:
 40. [[rangoric-srd/prestige-classes/Reflecting Master|Reflecting Master]]
 41. [[rangoric-srd/prestige-classes/Shadeseer|Shadeseer]]
 42. [[rangoric-srd/prestige-classes/Shadowdancer|Shadowdancer]]
-43. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
-44. [[rangoric-srd/prestige-classes/Spellsinger|Spellsinger]]
-45. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
-46. [[rangoric-srd/prestige-classes/Star Magus|Star Magus]]
-47. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
-48. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
-49. [[rangoric-srd/prestige-classes/Totem Mage|Totem Mage]]
-50. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
-51. [[rangoric-srd/prestige-classes/White Alchemist|White Alchemist]]
+43. [[rangoric-srd/prestige-classes/Soul Gem Guardian|Soul Gem Guardian]]
+44. [[rangoric-srd/prestige-classes/Spell Scion|Spell Scion]]
+45. [[rangoric-srd/prestige-classes/Spellsinger|Spellsinger]]
+46. [[rangoric-srd/prestige-classes/Stalwart Defender|Stalwart Defender]]
+47. [[rangoric-srd/prestige-classes/Star Magus|Star Magus]]
+48. [[rangoric-srd/prestige-classes/Swift Scion|Swift Scion]]
+49. [[rangoric-srd/prestige-classes/Thaumaturgist|Thaumaturgist]]
+50. [[rangoric-srd/prestige-classes/Totem Mage|Totem Mage]]
+51. [[rangoric-srd/prestige-classes/Wandering Chronicler|Wandering Chronicler]]
+52. [[rangoric-srd/prestige-classes/White Alchemist|White Alchemist]]
 
 ###### Definitions of Terms
 

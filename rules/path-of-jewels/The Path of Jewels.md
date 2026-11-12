@@ -122,6 +122,8 @@ Other options could include using the sorcerer’s spellcasting abilities as the
 ## What belongs to the Path of Jewels
 
 - **Prestige class**: the [[rangoric-srd/prestige-classes/Jewel Mage|Jewel Mage]], who makes attunement, greater attunement, encoded and binding jewels and, at the end, a soul gem.
+- **Prestige class**: the [[rangoric-srd/prestige-classes/Soul Gem Guardian|Soul Gem Guardian]], who protects a soul-gemmed jewel mage and carries its soul gem.
+- **Template**: the [[rangoric-srd/monsters/Crystalline Creature|crystalline creature]], which jewelbound creatures take on.
 - **Item**: the [[rangoric-srd/magic-items/wondrous-items/Jewelstaff|jewelstaff]], a jeweled item.
 - **Spells**: *[[rangoric-srd/spells/Gemguard|gemguard]]* and *[[rangoric-srd/spells/Locate Jewels|locate jewels]]*.
 - **Gems**: [[rangoric-srd/rules/Gems|Gems]], their one home.
