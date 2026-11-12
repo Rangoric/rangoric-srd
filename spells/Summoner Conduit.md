@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
   - **Components**: V, S, M (two flies)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)
-  - **Target**: One summoned creature or eidolon
+  - **Target**: One summoned creature or [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]]
   - **Duration**: 1 minute/level
   - **Saving Throw**: Will negates
   - **Spell Resistance**: Yes

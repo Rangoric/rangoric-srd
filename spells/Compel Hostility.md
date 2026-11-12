@@ -50,4 +50,4 @@ tags: [rangoric, rangoric/spell]
 
 Whenever a creature you can see that threatens you makes an attack against one of your allies, as an immediate action, you can compel that creature to attack you instead. When you compel a creature to attack you, you must first overcome that creature's spell resistance, and the creature can attempt a Will saving throw to ignore the compulsion.
 
-A summoner casting this spell can choose his eidolon as the target of the spell.
+A [[rangoric-srd/classes/Summoner|summoner]] casting this spell can choose his [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] as the target of the spell.

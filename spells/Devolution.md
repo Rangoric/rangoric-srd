@@ -38,4 +38,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates
   - **Spell Resistance**: Yes
 
-This spell causes an eidolon to lose one evolution plus one additional evolution for every five caster levels. Evolutions with the highest total cost are lost first. If there is a tie, randomly determine which is lost. If this spell causes an eidolon to fail to meet the prerequisites for other evolutions or abilities, those evolutions or abilities are lost as long as this spell persists.
+This spell causes an [[rangoric-srd/classes/Summoner#^summoner-eidolon|eidolon]] to lose one [[rangoric-srd/class-options/evolutions/Evolutions|evolution]] plus one additional evolution for every five caster levels. Evolutions with the highest total cost are lost first. If there is a tie, randomly determine which is lost. If this spell causes an eidolon to fail to meet the prerequisites for other evolutions or abilities, those evolutions or abilities are lost as long as this spell persists.
