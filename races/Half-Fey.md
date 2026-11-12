@@ -37,7 +37,7 @@ Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 
 Half-fey are born of the passionate union between a feeorin and a mortal, the mortal attracted to the utter grace of the fey, and the feeorin to the intense ardor of the mortal. Unfortunately, these relationships seldom last beyond a fleeting moment in each other’s arms, and mortal women find the labor and birth extremely difficult if not dangerous. A successful Con check of DC 20 is required to survive. If successful, the mother takes 2d4+2 points of Constitution damage.
 
-Like other fey, half-fey are cross-fertile with other races, however the diluted fey blood is not as receptive to the fey realm’s magical sway. If a half-fey mates with a feeorin, the resulting child is a common fey, while the offspring of a half-fey and common fey union would be half-fey. A half-fey to mortal coupling would result in a mortal with the potential to attain the Fey-touched prestige class later in life, due to the faerie blood in his veins.
+Like other fey, half-fey are cross-fertile with other races, however the diluted fey blood is not as receptive to the fey realm’s magical sway. If a half-fey mates with a feeorin, the resulting child is a common fey, while the offspring of a half-fey and common fey union would be half-fey. A half-fey to mortal coupling would result in a mortal with the potential to attain the [[rangoric-srd/prestige-classes/Fey-Touched|Fey-touched]] prestige class later in life, due to the faerie blood in his veins.
 
 **Personality:** Half-fey are frequently amused where their fey-blooded relatives would be joyous and excited. They often share the dominant traits of their fey parentage, yet to a more subdued degree.
 
@@ -45,7 +45,7 @@ Like other fey, half-fey are cross-fertile with other races, however the diluted
 
 **Relations:** Frequently brought up by the fey parent and their clan (especially if the mother has died), a half-fey exhibits a more moderate attitude toward other races compared to the standard fey outlook. A half-fey of feeorin parentage would see it as their responsibility to protect his adventuring companions, where a half-fey of faerie parentage would simply be excited to interact with so many interesting people for a dangerous and intriguing journey.
 
-**Alignment:** Half-fey value both the fey and mortal ways of life, and enjoy the freedoms their mixed birth allows them. Half-fey are often chaotic in nature, due to the influence of their fey blood and the slight tugging from the “calling of the wild” within them. They are frequently good or neutral, though evil half-fey exist and have taken up the fey hunter or mortal slayer prestige classes out of hatred for their parents or their own potential pariah status.
+**Alignment:** Half-fey value both the fey and mortal ways of life, and enjoy the freedoms their mixed birth allows them. Half-fey are often chaotic in nature, due to the influence of their fey blood and the slight tugging from the “calling of the wild” within them. They are frequently good or neutral, though evil half-fey exist and have taken up the [[rangoric-srd/prestige-classes/Faerie Hunter|faerie hunter]] or [[rangoric-srd/prestige-classes/Mortal Slayer|mortal slayer]] prestige classes out of hatred for their parents or their own potential pariah status.
 
 **Half-fey Lands:** Half-fey typically reside with their fey parent in the fey realm, however an occasional mortal parent has been known to raise their child among mortals.
 

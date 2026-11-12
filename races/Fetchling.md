@@ -72,7 +72,7 @@ Infused with the essence of the Plane of Shadow and possessing human blood commi
 
 **Alignment and Religion**: Fetchlings—especially those living outside the Plane of Shadow—worship a wide variety of gods. A smaller number of evil fetchlings worship demon lords of darkness and lust.
 
-**Adventurers**: The Plane of Shadow's ever-present hazards pose great danger to fetchling adventurers, but also great opportunity. Because of their servile status on their home plane, however, most fetchlings prefer to adventure on the Material Plane, which often offers more freedom and trading opportunities between the two planes. Fetchlings make excellent ninjas, oracles, rangers, rogues, and summoners.
+**Adventurers**: The Plane of Shadow's ever-present hazards pose great danger to fetchling adventurers, but also great opportunity. Because of their servile status on their home plane, however, most fetchlings prefer to adventure on the Material Plane, which often offers more freedom and trading opportunities between the two planes. Fetchlings make excellent [[rangoric-srd/classes/Ninja|ninjas]], [[rangoric-srd/classes/Oracle|oracles]], [[rangoric-srd/classes/Ranger|rangers]], [[rangoric-srd/classes/Rogue|rogues]], and [[rangoric-srd/classes/Summoner|summoners]].
 
 ### Alternate Racial Traits
 

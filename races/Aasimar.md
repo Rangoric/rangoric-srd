@@ -74,7 +74,7 @@ However, even if they generally tend toward human societies, aasimars can become
 
 **Alignment and Religion**: Aasimars are most often of good alignment, though this isn't necessarily universal, and aasimars that have turned their back on righteousness may fall into an unfathomable abyss of depravity. For the most part, however, aasimars favor deities of honor, valor, protection, healing, and refuge, or simple and prosaic faiths of home, community, and family. Some also follow the paths of art, music, and lore, finding truth and wisdom in beauty and learning.
 
-**Adventurers**: Aasimars frequently become adventurers, as they often do not quite feel at home in human society and feel the pull of some greater destiny. Clerics, oracles, and paladins are most plentiful in their ranks, though bards, sorcerers, and summoners are not uncommon among those with a fondness for arcane magic. Aasimar barbarians are rare, but when born into such tribes they often rise to leadership and encourage their clans to embrace celestial totems.
+**Adventurers**: Aasimars frequently become adventurers, as they often do not quite feel at home in human society and feel the pull of some greater destiny. [[rangoric-srd/classes/Cleric|Clerics]], [[rangoric-srd/classes/Oracle|oracles]], and [[rangoric-srd/classes/Paladin|paladins]] are most plentiful in their ranks, though [[rangoric-srd/classes/Bard|bards]], [[rangoric-srd/classes/Sorcerer|sorcerers]], and [[rangoric-srd/classes/Summoner|summoners]] are not uncommon among those with a fondness for arcane magic. Aasimar [[rangoric-srd/classes/Barbarian|barbarians]] are rare, but when born into such tribes they often rise to leadership and encourage their clans to embrace celestial totems.
 
 ### Alternate Racial Traits
 
