@@ -274,6 +274,7 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Virtue (Armor Special Ability)\|Virtue]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Wyrdweave (Armor Special Ability)\|Wyrdweave]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Arcane\|Arcane]] | +3 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Bloodlinked (Armor Special Ability)\|Bloodlinked]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Celestial Bone (Armor Special Ability)\|Celestial Bone]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Dampening\|Dampening]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Dark, Greater\|Dark, Greater]] | +3 bonus | Armor Special Ability |
@@ -293,6 +294,7 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Nagley\|Nagley]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Recall\|Recall]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Retributive\|Retributive]] | +3 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Runic (Armor Special Ability)\|Runic]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Rusting (Armor Special Ability)\|Rusting]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Spell Resisting, Enhanced\|Spell Resisting, Enhanced]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing, Greater (Armor Special Ability)\|Spell Storing, Greater]] | +3 bonus | Armor Special Ability |
@@ -886,6 +888,7 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Alterable, Major\|Alterable, Major]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Balm\|Balm]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Blinking\|Blinking]] | +3 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Bloodlinked (Weapon Special Ability)\|Bloodlinked]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Bodyfeeder\|Bodyfeeder]] | +3 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Boring\|Boring]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Bouncing\|Bouncing]] | +3 bonus | Weapon Special Ability |
@@ -903,6 +906,7 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Pestilence, Greater\|Pestilence, Greater]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Prismatic\|Prismatic]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Reliable, Greater\|Reliable, Greater]] | +3 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Runic (Weapon Special Ability)\|Runic]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Soulbreaker\|Soulbreaker]] | +3 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spawning\|Spawning]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Speed\|Speed]] | +3 bonus | Weapon Special Ability |
@@ -919,6 +923,7 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Great Dislocator\|Great Dislocator]] | +4 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Phoenix (Weapon Special Ability)\|Phoenix]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Ruinous\|Ruinous]] | +4 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Shadow Energy\|Shadow Energy]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Solace, Greater (Weapon Special Ability)\|Solace, Greater]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spell Echoing\|Spell Echoing]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Twin\|Twin]] | +4 bonus | Weapon Special Ability |
