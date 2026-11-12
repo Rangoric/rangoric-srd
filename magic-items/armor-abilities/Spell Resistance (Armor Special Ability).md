@@ -10,6 +10,7 @@ prerequisites: "Craft Magic Arms and Armor, spell resistance"
 price: "+2 bonus (SR 13), +3 bonus (SR 15), +4 bonus (SR 17), or +5 bonus (SR 19)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Spell Resistance (Armor Special Ability)|Spell Resistance (Armor Special Ability) (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Spell Resistance|Spell Resistance (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

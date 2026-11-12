@@ -7,6 +7,7 @@ prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, spe
 price: "+6 bonus (SR 21), +7 bonus (SR 23), +8 bonus (SR 25), +9 bonus (SR 27)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Great Spell Resistance|Great Spell Resistance (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Great Spell Resistance|Great Spell Resistance (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

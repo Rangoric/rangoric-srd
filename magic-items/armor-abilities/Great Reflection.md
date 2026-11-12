@@ -7,6 +7,7 @@ prerequisites: "Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, spe
 price: "+10 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Great Reflection|Great Reflection (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Great Reflection|Great Reflection (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

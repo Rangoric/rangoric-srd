@@ -146,9 +146,9 @@ The base versions of armor have the same qualities as those on [[rangoric-srd/eq
 
 **Maximum Dexterity Adjustment**: This increase is equal to the amount of enchantment placed into the armor. For example, *scale mail +2* has a Maximum Dexterity Adjustment of +5 (normally only +3).
 
-**Arcane Spell Failure**: The maximum reduction allowed is 20% (granted by using both the spellcasting and weightless armor qualities).
+**Arcane Spell Failure**: The maximum reduction allowed is 20% (granted by using both the [[rangoric-srd/magic-items/armor-abilities/Spellcasting|spellcasting]] and [[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]] armor qualities).
 
-**Speed**: A creature’s speed is normally limited by its race and armor selection, but the armor factor can be negated by adding the *weightless* quality to armor.
+**Speed**: A creature’s speed is normally limited by its race and armor selection, but the armor factor can be negated by adding the *[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]* quality to armor.
 
 **Table: Arms & Armor’s Armor and Damage Reduction**
 

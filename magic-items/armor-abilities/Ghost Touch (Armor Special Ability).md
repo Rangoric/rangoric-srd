@@ -10,6 +10,7 @@ prerequisites: "Craft Magic Arms and Armor, etherealness"
 price: "+3 bonus"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Ghost Touch (Armor Special Ability)|Ghost Touch (Armor Special Ability) (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Ghost Touch|Ghost Touch (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

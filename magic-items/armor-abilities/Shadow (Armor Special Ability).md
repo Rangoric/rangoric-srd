@@ -10,6 +10,7 @@ prerequisites: "Craft Magic Arms and Armor, invisibility"
 price: "+3,750 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Shadow (Armor Special Ability)|Shadow (Armor Special Ability) (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Shadow|Shadow (Arms & Armor)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15

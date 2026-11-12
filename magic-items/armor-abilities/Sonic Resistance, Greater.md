@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, resist energy"
 price: "+66,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Sonic Resistance, Greater|Sonic Resistance, Greater (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Sonic Resistance, Greater|Sonic Resistance, Greater (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15

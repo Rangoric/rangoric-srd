@@ -8,6 +8,7 @@ prerequisites: "Craft Magic Arms and Armor, disguise self"
 price: "+2,700 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/armor-abilities/Glamered|Glamered (3.5)]]"
+  - "[[individual books/Arms & Armor v3.5/armor-qualities/Glamered|Glamered (Arms & Armor)]]"
 status: base
 change: copied
 pi-review: scanned 2026-10-15
