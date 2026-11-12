@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Magic Items"
 based-on:
   - "[[fantasy srd 3.5/magic-items/Magic Item Basics|Magic Item Basics (3.5)]]"
+  - "[[individual books/Faeries/rules/Magic Items#Magic Item Special Ability—Resizing|Magic Items (Faeries)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -82,6 +83,18 @@ When an article of magic clothing or jewelry is discovered, most of the time siz
 There may be rare exceptions, especially with racial specific items.
 
 **Armor and Weapon Sizes**: Armor and weapons that are found at random have a 30% chance of being Small (01–30), a 60% chance of being Medium (31–90), and a 10% chance of being any other size (91–100).
+
+###### Resizing
+
+Items made in the fey realm can carry the resizing ability. ^resizing
+
+The trade of magic items in the fey realm supports such a wide variety of creatures that it became economically necessary for the makers of these items to instill them with the ability to change size and weight proportionally to the owner. After the magical breakthrough that enabled that special ability, many fey heroes now wield the same magic weapons and items no matter what their size is at the moment.
+
+Resizing magic items shrink or grow according to the size of the user. Once held by a creature, this process takes one round during which the creature must make a DC 15 Dexterity check to avoid dropping the item. The resizing magic allows its special abilities and magical bonuses to remain constant regardless of the size of the item (so a *+4 disruption returning axe* still deals at least its disruption effects and its +4 damage bonus even if it is two inches in size).
+
+Any item created in the fey realm can be made with this ability. At the moment of creation, the spellcaster must decide whether or not to include this ability. This ability adds +1 bonus to the cost to make and increases the creation time of the item by an additional 1d6 days, but it has been known to bring up to an additional 25% more money when sold outside of the fey realm.
+
+To determine if an item has the resizing ability, roll d%. A result of 01-70 indicates that the item is resizing. A 71-100 result means that the item is not a resizing weapon or item.
 
 ##### Magic Items on the Body
 
