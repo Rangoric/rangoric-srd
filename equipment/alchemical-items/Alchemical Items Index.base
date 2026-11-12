@@ -1,0 +1,17 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/equipment/alchemical-items")
+    - note.srd-type == "alchemical-item"
+views:
+  - type: table
+    name: "All alchemical and herbal items"
+    order:
+      - file.name
+      - note.category
+      - note.magical
+      - note.cl
+      - note.dc
+      - note.price
+    sort:
+      - property: file.name
+        direction: ASC
