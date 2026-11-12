@@ -4,7 +4,7 @@ section: "Magic Items"
 item-type: "Specific Weapon"
 aura: "Moderate conjuration"
 caster-level: 13
-prerequisites: "Craft Magic Arms and Armor, call lightning, summon nature’s ally III and IV, insect plague, and creeping doom"
+prerequisites: "Craft Magic Arms and Armor, call lightning, summon nature’s ally III and VI, insect plague, and creeping doom"
 price: "73,600 gp"
 cost: "36,800 gp + 2,944 XP"
 based-on:
@@ -25,4 +25,4 @@ This *+2 quarterstaff* is made from a long, sturdy, oaken branch. Living vines a
 - *[[rangoric-srd/spells/Summon Nature’s Ally VI|summon nature’s ally VI]]* (2 charges)
 - *[[rangoric-srd/spells/Creeping Doom|creeping doom]]* (3 charges)
 
-Moderate conjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Call Lightning|call lightning]]*, *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature’s ally III]]* and *[[rangoric-srd/spells/Summon Nature’s Ally IV|IV]]*, *[[rangoric-srd/spells/Insect Plague|insect plague]]*, and *[[rangoric-srd/spells/Creeping Doom|creeping doom]]*; Price 73,600 gp; Cost 36,800 gp + 2,944 XP.
+Moderate conjuration; CL 13th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Call Lightning|call lightning]]*, *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature’s ally III]]* and *[[rangoric-srd/spells/Summon Nature’s Ally VI|VI]]*, *[[rangoric-srd/spells/Insect Plague|insect plague]]*, and *[[rangoric-srd/spells/Creeping Doom|creeping doom]]*; Price 73,600 gp; Cost 36,800 gp + 2,944 XP.
