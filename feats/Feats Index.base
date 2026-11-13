@@ -2,6 +2,7 @@ filters:
   and:
     - file.inFolder("rangoric-srd/feats")
     - file.hasTag("rangoric/feat")
+    - '!file.inFolder("rangoric-srd/feats/story feats")'
 views:
   - type: table
     name: All feats
