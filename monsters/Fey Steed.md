@@ -65,7 +65,7 @@ A fey steed resembles a light warhorse with rich russet-brown hair. Their eyes a
 
 Fey steeds are stronger, faster, bigger, and more dexterous, than their mortal equine counterparts. To own one of these horses in the mortal world is to own a legend. For some reason, mortal horses will take any opportunity they can to attack, kick, or bite a fey steed.
 
-Fey steeds run in herds across the golden fields of the fey realm, and if your fey path takes you to that region and you have the ability to stray from your path, you may be able to catch one of your very own. Fey steeds are partial to riders of the opposite sex. This bond was bred into the creatures and manifests strongest when a new rider approaches the creature.
+Fey steeds run in herds across the golden fields of the fey realm, and if your [[rangoric-srd/rules/Fey Roads and Doorways#Paths|fey path]] takes you to that region and you have the ability to stray from your path, you may be able to catch one of your very own. Fey steeds are partial to riders of the opposite sex. This bond was bred into the creatures and manifests strongest when a new rider approaches the creature.
 
 **Carrying Capacity**: A light load for a fey steed is up to 350 pounds; a medium load, 351-650; a heavy load 651-950 pounds. A fey steed can drag 5000 pounds.
 

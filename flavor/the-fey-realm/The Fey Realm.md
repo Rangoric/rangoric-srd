@@ -74,7 +74,7 @@ Each place note follows one of these templates: a region, or a site within a reg
 
 ***Legends & Lore*** [As noted above with same scaled DCs vs. rarity of lore]
 
-The distance DCs belong to the rules for travelling in FaerieLand, which aren't in the Rangoric SRD yet.
+The distances and their DCs are used by the rules for [[rangoric-srd/rules/Fey Roads and Doorways#Travel Within the Fey Realm|travelling in FaerieLand]].
 
 ### Places
 

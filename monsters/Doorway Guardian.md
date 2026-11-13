@@ -59,9 +59,9 @@ tags: [rangoric, rangoric/monster]
   - **Alignment**: Always neutral
   - **Advancement**: 25–36 HD (Gargantuan); 37–40 HD (Colossal)
 
-Doorway guardians are the largest of the fey guardian creatures ever seen by mortals. Larger siblings to the crossroads guardian, doorway guardians are magically bound to a pair of fey *doorways* (fey roads and doorways aren’t in this SRD yet; they wait with the fey realm’s travel rules). Some academics who do not understand the fey mindset think the sentinels are being abused through their captivity at the *doorways*. However, their lives are mostly magical and wholly bound to the existence of the doorways to the roads they guard.
+Doorway guardians are the largest of the fey guardian creatures ever seen by mortals. Larger siblings to the crossroads guardian, doorway guardians are magically bound to a pair of fey *[[rangoric-srd/rules/Fey Roads and Doorways#Doorways|doorways]]*. Some academics who do not understand the fey mindset think the sentinels are being abused through their captivity at the *doorways*. However, their lives are mostly magical and wholly bound to the existence of the doorways to the roads they guard.
 
-Sidestepping a guardian to gain access to a *fey road* can have disastrous consequences. News of such an event often spreads to other guardians on other roads, making future travel more difficult.
+Sidestepping a guardian to gain access to a *[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|fey road]]* can have disastrous consequences. News of such an event often spreads to other guardians on other roads, making future travel more difficult.
 
 Each doorway guardian has one small token that it may give out. From that point on, the token admits that person and her companions without contest or challenge. Should the bearer ever slight the guardian (or a different fey guardian), the token dissolves and returns to the original guardian to be given to another. The royal fey have a number of tokens that work at all *doorways*.
 
