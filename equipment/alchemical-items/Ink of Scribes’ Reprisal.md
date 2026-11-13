@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 This mildly toxic ink dries quickly but always remains partially sticky and often causes a scroll to stick when rolled. If the ink is touched by exposed skin (usually to free a stuck scroll), the poison is absorbed through the pores and takes effect in seconds. Victims must make a Fort save (DC 15) twice to avoid either waves of nausea for 1d6 rounds or the follow-up of 2d12 points of nonlethal damage. The latter often leaves the ink’s victims unconscious and easily robbed (or killed by other means).
 
-Invented by accident during research into esoterinks, this poisoned ink has become a favorite in courtly intrigues, if only to embarrass one’s enemies. It has also come into use among highwaymen who pose as couriers and then rob their indisposed victims after they’ve “read the message from his lordship.” It is considered a civilized toxin as it does not kill its victims, though those left penniless by its effects are rarely in a mood to agree.
+Invented by accident during research into [[rangoric-srd/equipment/alchemical-items/Esoteric Inks|esoterinks]], this poisoned ink has become a favorite in courtly intrigues, if only to embarrass one’s enemies. It has also come into use among highwaymen who pose as couriers and then rob their indisposed victims after they’ve “read the message from his lordship.” It is considered a civilized toxin as it does not kill its victims, though those left penniless by its effects are rarely in a mood to agree.
 
 **Construction**: No aura; CL 2nd; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; DC: 12; Price: 220 gp/ ounce
 
