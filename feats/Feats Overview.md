@@ -4,6 +4,7 @@ section: "Feats"
 based-on:
   - "[[fantasy srd 3.5/feats/Feats Overview|Feats Overview (3.5)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/feats/Types of Feats (Feats)|Types of Feats (PF1)]]"
+  - "[[individual books/Faeries/rules/New Feats|New Feats (Faeries)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -17,6 +18,8 @@ tags: [rangoric, rangoric/overview]
 Some feats have prerequisites. Your character must have the indicated ability score, class feature, feat, skill, base attack bonus, or other quality designated in order to select or use that feat. A character can gain a feat at the same level at which he or she gains the prerequisite.
 
 A character can’t use a feat if he or she has lost a prerequisite.
+
+**Virtual Feats**: If you effectively have a feat as a class feature or special ability, you can use that virtual feat as a prerequisite for other feats. If, for example, a class feature or ability says it is the same as [[rangoric-srd/feats/Fey Magic|Fey Magic]], you are considered to have Fey Magic for the purpose of taking [[rangoric-srd/feats/Hypnotizing Magic|Hypnotizing Magic]]. If you ever lose the virtual prerequisite for any reason, you also lose access to any feats you acquired through it. ^virtual-feats
 
 ### Types of Feats
 
