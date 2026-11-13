@@ -2,19 +2,26 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Weapon Special Ability"
-price: "+90 gp"
+aura: "Strong evocation"
+caster-level: 12
+prerequisites: "Craft Magic Arms and Armor, elemental touch"
+price: "+2 bonus"
+book: "Monster Codex"
 based-on:
-  - "[[individual books/Arms & Armor v3.5/weapon-qualities/Burning|Burning (Arms & Armor)]]"
+  - "[[path srd 3.5/items/misc/Burning|Burning (PF1)]]"
+  - "[[path srd 3.5 foundry/items/special-abilities/Burning|Burning (PF1 F)]]"
 status: draft
 change: new
-pi-review: 2026-11-11
+pi-review: 2026-11-13
 tags: [rangoric, rangoric/magic-item]
 ---
 
 # Burning
 
-A burning weapon is a cheaper, nonmagical approximation of a *flaming* weapon. Nearly any bludgeoning weapon can be crafted as a burning weapon. In place of the ordinary weapon head, burning weapons have a heavy steel cage. Within the cage is placed an oil-soaked rag, which is then set aflame. This simple invention lets the wielder use both the weapon and a shield while also benefiting from the effect of simple torchlight.
+A *burning* weapon causes an unattended flammable object to ignite when struck (Fortitude DC 13 negates for magic items), dealing 1d6+1 points of fire damage to the object each round after it's ignited. An item made mostly or entirely out of wood is even more susceptible to this effect, taking 2d6+2 points of fire damage. This effect lasts for 1d4 rounds. A creature that ends its turn in the same space as a burning object takes 1d6+1 points of fire damage.
 
-Like any torch, a burning weapon can be used to set things alight, helping in battles against monsters such as trolls or mummies. As a melee touch attack, the wielder may hold his burning weapon up against a foe to try to set it on fire. If successful, the foe takes 1d6 points of fire damage, unless it forgoes its next action to beat the flames out, allowing it a Reflex save (DC 15) to avoid harm.
+Up to three times per day, the bearer of a *burning* weapon can, on command, cause a single object that has been ignited by the weapon to burn even brighter, increasing the duration of its burning effect by 1d4+1 rounds and causing the fire to expand in a burst that extends 5 feet from the object. This burst of fire deals 1d6+1 points of fire damage to each creature in that area, and it can ignite unattended flammable objects within that area as if they had been hit with the weapon.
 
-Price +90 gp.
+Fire giants often make use of *burning* weapons in their fervid crusades against other races.
+
+Strong evocation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Elemental Touch|elemental touch]]*; Price +2 bonus.

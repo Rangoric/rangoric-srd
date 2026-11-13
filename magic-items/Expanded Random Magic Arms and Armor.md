@@ -36,7 +36,7 @@ tags: [rangoric, rangoric/rule]
 |---|---|---|
 | 1–35 | [[rangoric-srd/magic-items/weapon-abilities/Serrations\|Serrations]] | +50 |
 | 36–50 | [[rangoric-srd/magic-items/weapon-abilities/Weeping\|Weeping]] | +80 |
-| 51–65 | [[rangoric-srd/magic-items/weapon-abilities/Burning\|Burning]] | +90 |
+| 51–65 | [[rangoric-srd/magic-items/weapon-abilities/Burning (Arms & Armor)\|Burning]] | +90 |
 | 66–75 | [[rangoric-srd/magic-items/weapon-abilities/Substance-Laced\|Laced, Substance]] | +1,000 |
 | 76–80 | [[rangoric-srd/magic-items/weapon-abilities/Iconic\|Iconic]] | +2,000 |
 | 81–86 | [[rangoric-srd/magic-items/armor-abilities/Imprinted (Armor Special Ability)\|Imprinted]] | +2,000 |
