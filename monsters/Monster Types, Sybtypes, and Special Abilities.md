@@ -674,7 +674,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Paralysis|Paralys
 
   - Plants breathe and eat, but do not sleep.
 
-**Poison (Ex)**: Poison attacks deal initial damage, such as ability damage (see page 305) or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage. A creature’s descriptive text provides the details. ^poison
+**Poison (Ex)**: Poison attacks deal initial damage, such as [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage. A creature’s descriptive text provides the details. ^poison
 
 A creature with a poison attack is immune to its own poison and the poison of others of its kind.
 

@@ -41,4 +41,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None and Will negates (object)
   - **Spell Resistance**: No
 
-This spell functions as [[rangoric-srd/spells/Teleport|teleport]] except that you can opt to intentionally cause any number of the creatures traveling with you to suffer a mishap or arrive in a specific different location you visualize simultaneously with the original destination, or both. Attempts to identify treacherous *[[rangoric-srd/spells/Teleport|teleport]]* with a skill check incorrectly identify it as *[[rangoric-srd/spells/Teleport|teleport]]* (see the ruse descriptor on page 192).
+This spell functions as [[rangoric-srd/spells/Teleport|teleport]] except that you can opt to intentionally cause any number of the creatures traveling with you to suffer a mishap or arrive in a specific different location you visualize simultaneously with the original destination, or both. Attempts to identify treacherous *[[rangoric-srd/spells/Teleport|teleport]]* with a skill check incorrectly identify it as *[[rangoric-srd/spells/Teleport|teleport]]*.

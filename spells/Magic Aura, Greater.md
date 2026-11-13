@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None (see text)
   - **Spell Resistance**: No
 
-If cast on an object, this spell functions as [[rangoric-srd/spells/Magic Aura|Magic Aura]], except that if you have identified the unique spellcasting signatures of a specific individual with [[rangoric-srd/spells/Detect Magic, Greater|Greater Detect Magic]] (see page 212) or a similar spell, you can make the *[[rangoric-srd/spells/Magic Aura|magic aura]]* appear to have been created by that individual.
+If cast on an object, this spell functions as [[rangoric-srd/spells/Magic Aura|Magic Aura]], except that if you have identified the unique spellcasting signatures of a specific individual with [[rangoric-srd/spells/Detect Magic, Greater|Greater Detect Magic]] or a similar spell, you can make the *[[rangoric-srd/spells/Magic Aura|magic aura]]* appear to have been created by that individual.
 
 Alternatively, you can simply obscure all identifiers, making it more difficult to determine who cast the spell. In either case, if the object is the subject of a *greater *detect* magic* spell, any Arcana check made to identify the unique spellcasting identifiers of the aura automatically produce the result you chose unless the observer disbelieves the spell with a successful Will save (as with *[[rangoric-srd/spells/Magic Aura|magic aura]]*, however, *detect* spells don't grant a save to disbelieve).
 

@@ -103,11 +103,11 @@ Using both systems as written, many characters will wear armor even if the armor
 
 If that’s not to your liking, you can rule that a character’s armor bonus overrides his defense bonus, even if the defense bonus is higher. This forces characters to make a tough choice between having a high AC and having damage reduction.
 
-### Armor as Damage Reduction (Arms & Armor)
+### Armor as Damage Reduction, Second Version
 
 A second version of [[#Armor as Damage Reduction|armor as damage reduction]]. It gives the standard armors the same armor bonus and damage reduction as Table: Armor and Damage Reduction above, adds values for more armors, and changes how magic armor, critical hits and some weapon qualities work. It gives [[rangoric-srd/magic-items/armor/Elven Chain|elven chain]] an armor bonus of +3 and DR 2/–. ^armor-as-dr-arms-and-armor
 
-Encasing one’s body in armor is an important protective measure for an adventurer to embrace. Vorpal, sharpness, and crushing weapons can cause grievous injury with a single swing. The rules presented below serve to augment this protection, providing more incentive to wear armor. Wearing armor gives you both Damage Reduction and Armor Class, as on Table: Arms & Armor’s Armor and Damage Reduction, below.
+Encasing one’s body in armor is an important protective measure for an adventurer to embrace. Vorpal, sharpness, and crushing weapons can cause grievous injury with a single swing. The rules presented below serve to augment this protection, providing more incentive to wear armor. Wearing armor gives you both Damage Reduction and Armor Class, as on Table: Second Version Armor and Damage Reduction, below.
 
 ##### What Kind of DR?
 
@@ -149,7 +149,7 @@ The base versions of armor have the same qualities as those on [[rangoric-srd/eq
 
 **Speed**: A creature’s speed is normally limited by its race and armor selection, but the armor factor can be negated by adding the *[[rangoric-srd/magic-items/armor-abilities/Weightless (Armor Special Ability)|weightless]]* quality to armor.
 
-**Table: Arms & Armor’s Armor and Damage Reduction**
+**Table: Second Version Armor and Damage Reduction**
 
 The standard armors aren’t repeated here; they have the values on Table: Armor and Damage Reduction above.
 

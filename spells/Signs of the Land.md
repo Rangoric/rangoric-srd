@@ -35,4 +35,4 @@ tags: [rangoric, rangoric/spell]
   - **Duration**: Instantaneous
   - **Spell Resistance**: No
 
-This spell functions as [[rangoric-srd/spells/Commune with Nature|commune with nature]] except it reveals up to three details about the territory you currently occupy from the following list: bodies of water, features, minerals, or plants. For each feature you learn about, you automatically know the skills you can use to discover that feature and you gain 1d6 Discovery Points toward finding it (see page 124).
+This spell functions as [[rangoric-srd/spells/Commune with Nature|commune with nature]] except it reveals up to three details about the territory you currently occupy from the following list: bodies of water, features, minerals, or plants. For each feature you learn about, you automatically know the skills you can use to discover that feature and you gain 1d6 Discovery Points toward finding it.
