@@ -29,7 +29,7 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 |---|---|
 | 01-10 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Greengifting\|Erlixir of Greengifting]] |
 | 11-25 | [[rangoric-srd/equipment/alchemical-items/Erlixir of Trees’ Voice\|Erlixir of Trees’ Voice]] |
-| 26-35 | Erlmantle, bonded or familiar |
+| 26-35 | [[rangoric-srd/monsters/Erlmantle\|Erlmantle]], bonded or familiar |
 | 36-45 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathes\|Cocoon Swathes (greengifting)]] |
 | 46-53 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathes\|Cocoon Swathes (healing)]] |
 | 54-65 | [[rangoric-srd/equipment/alchemical-items/Cocoon Swathes\|Cocoon Swathes (shield)]] |

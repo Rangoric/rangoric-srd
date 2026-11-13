@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 *Chymical; Special*
 
-Despite its strange name (another popularism that overwrote its original name of botanic acid), orc’s drool acid is effective and useful for all the races. The acid specifically targets plant matter, both living and dead, and reduces such by 5 points of Hardness and 10 hit points per round of exposure (and per full five-ounce bottle used). Thus, a standard wooden door could be entirely dissolved with a direct hit by a bottle of orc’s drool. If this acid directly hits a plant creature (including kin o’ the green of second stage or beyond), it deals 1d8 points of damage per round until washed away (1d2 points per round if hit by splash).
+Despite its strange name (another popularism that overwrote its original name of botanic acid), orc’s drool acid is effective and useful for all the races. The acid specifically targets plant matter, both living and dead, and reduces such by 5 points of Hardness and 10 hit points per round of exposure (and per full five-ounce bottle used). Thus, a standard wooden door could be entirely dissolved with a direct hit by a bottle of orc’s drool. If this acid directly hits a plant creature (including [[rangoric-srd/monsters/Kin o’ the Green|kin o’ the green]] of second stage or beyond), it deals 1d8 points of damage per round until washed away (1d2 points per round if hit by splash).
 
 This acid, which smells of honey and fresh walnuts and is notable for its effervescence, comes in brown ceramic five-ounce bottles, some craftsmen even carving or molding the bottles to appear as small orcs’ heads.
 

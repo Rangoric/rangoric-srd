@@ -38,7 +38,7 @@ In essence, herbalists have created and taught swathes to be semi-independent an
 
 **Construction**: No aura; CL Variable; [[rangoric-srd/feats/Grow Swathe|Grow Swathe]]; DC: Variable; Price: Variable
 
-**Cocoon Swathe of Greengifting** This is the rarest cocoon swathe, and for good reason—its sole purpose is to bestow the Greengift onto animals and people and make them kin o’ the green. While not exactly the same, the aerated gel within this cocoon mimics the effects of an [[rangoric-srd/equipment/alchemical-items/Erlixir of Greengifting|erlixir of greengifting]], with three differences:
+**Cocoon Swathe of Greengifting** This is the rarest cocoon swathe, and for good reason—its sole purpose is to bestow the Greengift onto animals and people and make them [[rangoric-srd/monsters/Kin o’ the Green|kin o’ the green]]. While not exactly the same, the aerated gel within this cocoon mimics the effects of an [[rangoric-srd/equipment/alchemical-items/Erlixir of Greengifting|erlixir of greengifting]], with three differences:
 
 - Within moments of having it close around them, subjects of this cocoon must make a Fortitude save at a cumulative -1 per round vs. a DC 17 sleep effect (so eventually a person inside this cocoon either breaks out or falls asleep);
 - Regardless of the subject’s knowledge or saving throws, the cocoon swathe aids the transition from animal to half-plant and guides the body past the potential death and into plant life while he or she sleeps; and
