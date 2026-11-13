@@ -231,6 +231,68 @@ Standard rings are described below.
   - [[rangoric-srd/magic-items/rings/Ring of Wizardry|Ring of Wizardry]]
   - [[rangoric-srd/magic-items/rings/Ring of X-Ray Vision|Ring of X-Ray Vision]]
 
+###### More Rings
+
+More rings, grouped by who can use them: rings any wearer can use, by price, then rings that work with a class feature, by class.
+
+**Any wearer**
+
+| Ring | Price |
+| --- | --- |
+| [[rangoric-srd/magic-items/rings/Ring of Arcane Signets\|Ring of Arcane Signets]] | 1,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of the Grasping Grave\|Ring of the Grasping Grave]] | 2,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of the Shuriken\|Ring of the Shuriken]] | 2,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Ferocious Action\|Ring of Ferocious Action]] | 3,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Eloquence\|Ring of Eloquence]] | 3,500 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Stars\|Ring of Stars]] | 4,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Maniacal Devices\|Ring of Maniacal Devices]] | 5,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Rat Fangs\|Ring of Rat Fangs]] | 5,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Discovery\|Ring of Discovery]] | 5,500 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Sacred Mistletoe\|Ring of Sacred Mistletoe]] | 6,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Swarming Stabs\|Ring of Swarming Stabs]] | 6,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Forcefangs\|Ring of Forcefangs]] | 8,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Strength Sapping\|Ring of Strength Sapping]] | 8,000 gp |
+| [[rangoric-srd/magic-items/rings/Scholar's Ring\|Scholar's Ring]] | 8,700 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Curing\|Ring of Curing]] | 10,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Foe Focus\|Ring of Foe Focus]] | 10,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Transposition\|Ring of Transposition]] | 10,800 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Tactical Precision\|Ring of Tactical Precision]] | 11,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of the Sophisticate\|Ring of the Sophisticate]] | 11,000 gp |
+| [[rangoric-srd/magic-items/rings/Decoy Ring\|Decoy Ring]] | 12,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Craft Magic\|Ring of Craft Magic]] | 12,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of the Troglodyte\|Ring of the Troglodyte]] | 12,000 gp |
+| [[rangoric-srd/magic-items/rings/Steelhand Circle\|Steelhand Circle]] | 12,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of the Sea Strider\|Ring of the Sea Strider]] | 14,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Retribution\|Ring of Retribution]] | 15,000 gp |
+| [[rangoric-srd/magic-items/rings/Dungeon Ring\|Dungeon Ring]] | 16,000 gp (jailer's ring), 250 gp (prisoner's ring) |
+| [[rangoric-srd/magic-items/rings/Ring of Inner Fortitude\|Ring of Inner Fortitude]] | 18,000 gp (minor), 42,000 gp (major), 66,000 gp (greater) |
+| [[rangoric-srd/magic-items/rings/Ring of Energy Shroud\|Ring of Energy Shroud]] | 19,500 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Fire Drinking\|Ring of Fire Drinking]] | 20,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Fey Luck\|Ring of Fey Luck]] | 27,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of the Ecclesiarch\|Ring of the Ecclesiarch]] | 28,500 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Return\|Ring of Return]] | 33,600 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Battle Prowess\|Ring of Battle Prowess]] | 42,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Delayed Doom\|Ring of Delayed Doom]] | 45,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Continuation\|Ring of Continuation]] | 56,000 gp |
+| [[rangoric-srd/magic-items/rings/Ring of Recall\|Ring of Recall]] | 170,000 gp |
+
+**With a class feature**
+
+| Class | Ring | Price |
+| --- | --- | --- |
+| Arcane casters (bard, sorcerer, wizard…) | [[rangoric-srd/magic-items/rings/Ring of Sorcery\|Ring of Sorcery]] | 15,000 gp (Sorcery I), 30,000 gp (Sorcery II), 65,000 gp (Sorcery III) |
+| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Lingering Blood Magic\|Ring of Lingering Blood Magic]] | 2,000 gp |
+| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Powerful Blood Magic\|Ring of Powerful Blood Magic]] | 3,000 gp |
+| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Ancestral Blood Magic\|Ring of Ancestral Blood Magic]] | 4,000 gp |
+| Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Vengeful Blood Magic\|Ring of Vengeful Blood Magic]] | 5,400 gp |
+| Gunslinger | [[rangoric-srd/magic-items/rings/Ring of Grit Mastery\|Ring of Grit Mastery]] | 6,840 gp |
+| Gunslinger, Swashbuckler | [[rangoric-srd/magic-items/rings/Ring of Resilience\|Ring of Resilience]] | 15,000 gp |
+| Magus | [[rangoric-srd/magic-items/rings/Ring of Arcane Mastery\|Ring of Arcane Mastery]] | 20,000 gp |
+| Monk, Ninja | [[rangoric-srd/magic-items/rings/Ring of Ki Mastery\|Ring of Ki Mastery]] | 10,000 gp |
+| Oracle | [[rangoric-srd/magic-items/rings/Ring of Revelation\|Ring of Revelation]] | 10,000 gp (lesser), 16,000 gp (greater), 24,000 gp (superior) |
+| Spontaneous arcane casters (bard, sorcerer…) | [[rangoric-srd/magic-items/rings/Ring of Spell Knowledge\|Ring of Spell Knowledge]] | 1,500 gp (I), 6,000 gp (II), 13,500 gp (III), 24,000 gp (IV) |
+| Summoner | [[rangoric-srd/magic-items/rings/Ring of Ectoplasmic Invigoration\|Ring of Ectoplasmic Invigoration]] | 12,000 gp |
+
 ##### Rods
 
 Rods are scepterlike devices that have unique magical powers and do not usually have charges. Anyone can use a rod.
