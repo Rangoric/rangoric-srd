@@ -25,9 +25,20 @@ tags: [rangoric, rangoric/alchemical-item]
 
 The most famous of the Five Great Alchana Stones, the Philosopher’s Stone is the ultimate creation of alchemy— the stone that can turn common metals into mage-metals, the most perfect metals in the worlds! Like the other Alchana Stones, there are abilities gained simply by carrying the stone next to one’s flesh (most often on a chain like an amulet or pendant): +2 on all saving throws. The Philosopher’s Stone’s primary power, though, is to change base metals into mage-metals (either mage-silver or mage-gold).
 
-If placed in contact with any metal or metallic item, the Stone merely needs to be directed to transform the item into pure mage-silver or pure mage-gold. See the table below for conversion rates and times. The Philosopher’s Stone cannot change the nature of magically enchanted metals, so only nonmagical metals can be affected by the stone.
+If placed in contact with any metal or metallic item, the Stone merely needs to be directed to transform the item into pure mage-silver or pure mage-gold. See the table below for conversion rates and times (charges used and days taken, for 10 pounds of metal). The Philosopher’s Stone cannot change the nature of magically enchanted metals, so only nonmagical metals can be affected by the stone.
 
 The Philosopher’s Stone is a jet black stone with infrequent sparkles within that remind many of a starry night. Those sparkles reflect how much power (and how many charges) remain within the Philosopher’s Stone. As a saving throw bonus provider, it can be operable for centuries. If its strength is used to transform metals into mage-gold, a Philosopher’s Stone only carries 5d20 charges for such uses.
+
+**Table: Mage-Metal Conversion Rates** ^table-mage-metal-conversion
+
+| Starting metal (10 pounds) | Mage-silver (charges/days) | Mage-gold (charges/days) |
+|---|---|---|
+| Common | 4/4d10 | 5/5d12 |
+| Copper | 3/3d8 | 4/4d10 |
+| Silver | 1/1d4 | 3/3d8 |
+| Iron | 2/2d6 | 2/2d6 |
+| Gold | 2/2d6 | 1/1d4 |
+| Steel | 1/1d4 | 1/1d4 |
 
 Add one additional die roll of time per each additional 10 pounds of material the Philosopher’s Stone is affecting.
 

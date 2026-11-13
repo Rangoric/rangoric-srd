@@ -107,7 +107,7 @@ There is some overlap among the d20 classifications for items and those specific
 
 These are the high-end powerful items to come from alchemists. Unlike most other alchemical creations, these **cannot** be created simply by application of the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill. Also, they cannot be created just by magic or the use of the Create Wondrous Item feat. These are only attained by careful study and the use of the [[rangoric-srd/feats/Create Alchana|Create Alchana]], [[rangoric-srd/feats/Perfect Materials|Perfect Materials]], or [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] feats.
 
-Minor Alchana (from Create Alchana feat) include solvents, temperant baths (lesser), and various items like *steelscrolls* and *glass arrows*. Major Alchana (from Perfect Materials feat) include temperant baths (greater) and Emerald Tablets. Ultimate Alchana (from Create Greater Alchana feat) includes only the Five Alchemical Stones of Power.
+Minor Alchana (from Create Alchana feat) include solvents, [[rangoric-srd/equipment/alchemical-items/Temperant Baths|temperant baths]] (lesser), and various items like *[[rangoric-srd/equipment/alchemical-items/Steel Scrolls|steelscrolls]]* and *glass arrows*. Major Alchana (from Perfect Materials feat) include temperant baths (greater) and [[rangoric-srd/equipment/alchemical-items/Emerald Tablet|Emerald Tablets]]. Ultimate Alchana (from Create Greater Alchana feat) includes only the Five Alchemical Stones of Power.
 
 ### Chymicals & Compounds
 
@@ -129,7 +129,7 @@ Grown and fashioned from the natural world, all erlcana are plants, either livin
 
 **Herbal Restoratives:** While these lesser erlcana could be Ingestibles by use or even Powders & Dusts by form, their herbal creation and variable use make them a separate concern from either classification. Provided a restorative does not restore more quickly than normal healing, it can be crafted using [[rangoric-srd/skills/Profession|Profession]] (apothecary) or [[rangoric-srd/skills/Profession|Profession]] (herbalist).
 
-**Swathes:** These living plants either supplement magical items or carry their own magics. The lesser swathes cannot be crafted without the [[rangoric-srd/feats/Grow Swathe|Grow Swathe]] feat, and the greater swathes (Swathelm, Cocoon Swathe, Erlmantles) only by Create Greater Erlcana.
+**Swathes:** These living plants either supplement magical items or carry their own magics. The lesser swathes cannot be crafted without the [[rangoric-srd/feats/Grow Swathe|Grow Swathe]] feat, and the greater swathes ([[rangoric-srd/equipment/alchemical-items/Swathe Helm|Swathelm]], [[rangoric-srd/equipment/alchemical-items/Cocoon Swathes|Cocoon Swathe]], Erlmantles) only by Create Greater Erlcana.
 
 ### Ingestibles
 
@@ -257,7 +257,7 @@ The short way to add these items to [[rangoric-srd/rules/Treasure|treasure]] is 
 - Medium Magical items can be replaced by Major Alchemical/Herbal Items.
 - Major Magical items can be replaced by twice as many Major Alchemical/Herbal items.
 
-The second option is to determine “mundane” items with the Mundane Treasure Levels table and then the Alchemical and Herbal Treasures table. Once the treasure types and levels are determined, go to the catalog’s tables to randomly determine the final item or items.
+The second option is to determine “mundane” items with the Mundane Treasure Levels table and then the Alchemical and Herbal Treasures table. Once the treasure types and levels are determined, go to the category’s treasure table (linked from the table below) to randomly determine the final item or items. The catalog’s wondrous items have a table of their own, the [[rangoric-srd/equipment/alchemical-items/Alchemical Wondrous Items Treasure Table|Alchemical Wondrous Items Treasure Table]], with no line below.
 
 **Table: Mundane Treasure Levels** ^table-mundane-treasure
 
@@ -273,21 +273,21 @@ The second option is to determine “mundane” items with the Mundane Treasure 
 
 | Special Item | Minor A/H | Medium A/H | Major A/H | Item Category |
 |---|---|---|---|---|
-| 01-25 | 01-15 | 01-15 |  | Alchana, Lesser |
-|  |  |  | 01-03(\*) | Alchana, Greater |
-| 26-50 | 16-30 | 16-27 | 04-30 | Chymicals & Compounds |
-| 51-65 | 31-45 | 28-40 |  | Erlcana, Lesser |
-|  |  | 41-42(\*) | 31-35(\*) | Erlcana, Greater |
-|  | 46-55 | 43-50 | 36-58 | Ingestibles |
-|  | 56-70 | 51-63 | 59-75 | Powders & Dusts |
-| 66-90 | 71-85 | 64-83 |  | Toxins & Poisons |
-| 91-00 | 86-00 | 84-00 | 76-00 | Unguents |
+| 01-25 | 01-15 | 01-15 |  | [[rangoric-srd/equipment/alchemical-items/Lesser Alchana Treasure Table\|Alchana, Lesser]] |
+|  |  |  | 01-03(\*) | [[rangoric-srd/equipment/alchemical-items/Greater Alchana Treasure Table\|Alchana, Greater]] |
+| 26-50 | 16-30 | 16-27 | 04-30 | [[rangoric-srd/equipment/alchemical-items/Chymicals and Compounds Treasure Table\|Chymicals & Compounds]] |
+| 51-65 | 31-45 | 28-40 |  | [[rangoric-srd/equipment/alchemical-items/Lesser Erlcana Treasure Table\|Erlcana, Lesser]] |
+|  |  | 41-42(\*) | 31-35(\*) | [[rangoric-srd/equipment/alchemical-items/Greater Erlcana Treasure Table\|Erlcana, Greater]] |
+|  | 46-55 | 43-50 | 36-58 | [[rangoric-srd/equipment/alchemical-items/Ingestibles Treasure Table\|Ingestibles]] |
+|  | 56-70 | 51-63 | 59-75 | [[rangoric-srd/equipment/alchemical-items/Powders and Dusts Treasure Table\|Powders & Dusts]] |
+| 66-90 | 71-85 | 64-83 |  | [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons\|Toxins & Poisons]] |
+| 91-00 | 86-00 | 84-00 | 76-00 | [[rangoric-srd/equipment/alchemical-items/Unguents Treasure Table\|Unguents]] |
 
 Results marked with an asterisk (\*) indicate items too powerful to include in a campaign without careful thought and planning.
 
 ## Catalog Template
 
-The core categories of materials produced by herbalists and alchemists and their ilk are: Alchana, Chymicals (& Compounds), Erlcana, Ingestibles (& Potions), Powders (& Dusts), and Unguents. Remember, just like the fabled Philosopher’s Stone and Elixir of Life, each category may have some ultimate quest items that people spend lifetimes trying to create or find—which might explain the prices and notes below.
+The core categories of materials produced by herbalists and alchemists and their ilk are: Alchana, Chymicals (& Compounds), Erlcana, Ingestibles (& Potions), Powders (& Dusts), and Unguents. Remember, just like the fabled [[rangoric-srd/equipment/alchemical-items/Philosopher’s Stone (Alchemy & Herbalists)|Philosopher’s Stone]] and [[rangoric-srd/equipment/alchemical-items/Elixir of Life|Elixir of Life]], each category may have some ultimate quest items that people spend lifetimes trying to create or find—which might explain the prices and notes below.
 
 Just like the herbs (see [[rangoric-srd/rules/alchemy-and-herbalism/Herbalism#Herbal Template|the herbal template]]), there’s a standard format for all these items or processes or substances, and the entries will all have information slightly more detailed than that of the Core d20 manuals, the additions being Difficulty Checks for creation and different or more stringent prerequisites.
 
@@ -305,23 +305,6 @@ The item’s name is obvious and all items are alphabetized in the Catalog. The 
 - Caster Level: All these items—even though many would only be considered Special Items within the core rules—have a Caster Level, though it is only a general measure of the power level of an item, not any note of inherent magic. While hardly exact, the simplest benchmark a reader can use is this: The Caster Level is also the general number of ranks in [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) needed to create said item. Of course, all other prerequisites must be met as well, but the Caster Level is an easy way to gauge if a person with the appropriate skill might be able to make something, regardless of whether they have separate Item Creation feats or the prestige classes. In fact, lesser-ranked alchemists and herbalists can make the items, though that should be far less common.
 - Prerequisites: These are the mandatory skills, feats, abilities, spells, or other miscellaneous requirements necessary to create this item. Bear in mind that skills, feats or spells separated by “or” allow for alternates to be used for the item creation.
 - Difficulty Check (DC): As each of the items below are created by either alchemists or herbalists, there is a mandatory Difficulty Check vs. their [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) skills. This DC is *not* adjusted to account for the benefits and DC bonuses of other mandatory prerequisite skills or feats, so the player must make the roll, add in all potential bonuses, and exceed the DC to create this item successfully.
-
-**Table 11: Alchemical and Herbal Treasures**
-
-| Special Item | Minor A/H | Medium A/H | Major A/H | Item Category |
-|---|---|---|---|---|
-| 01-25 | 01-15 | 01-15 |  | Alchana, Lesser |
-|  |  |  | 01-03(\*) | Alchana, Greater |
-| 26-50 | 16-30 | 16-27 | 04-30 | Chymicals & Compounds |
-| 51-65 | 31-45 | 28-40 |  | Erlcana, Lesser |
-|  |  | 41-42(\*) | 31-35(\*) | Erlcana, Greater |
-|  | 46-55 | 43-50 | 36-58 | Ingestibles |
-|  | 56-70 | 51-63 | 59-75 | Powders & Dusts |
-| 66-90 | 71-85 | 64-83 |  | Toxins & Poisons |
-| 91-00 | 86-00 | 84-00 | 76-00 | Unguents |
-
-Results marked with an asterisk (\*) indicate items too powerful to include in a campaign without careful thought and planning.
-
 - Market Price: This is the baseline price for the item or service in question. As a general benchmark, the Market Price of an item is rarely less than twice the price of the Cost to Create, though this may vary. Just like the herbs, these items all come with a standard price—for simplicity’s sake—but are cost-adjustable for realism in your fictional world.
 
 ### Caster Levels vs. Difficulty Checks
@@ -352,28 +335,28 @@ Alchana are roughly the equivalent of Wondrous Items—this is the catch-all for
 
 **Alchana Stones** are the alchemical masterworks and artifacts toward which all alchemists strive or at least dream. Outside of alchemical circles, most people only know of the Philosopher’s Stone, but there are five in all and they have ties to the many divergent philosophies of alchemy. Each is a roughly fist-sized chalk-like stone, though they can be carved, shaped or created in different shapes or states, including liquid. The Five Stones all have some lesser, more constant abilities, though their most noted attributes and functions are:
 
-- The Alchemist’s Stone: A red stone that creates chymicals and other alchemical substances, and attainable by any types of alchemists;
-- The Healer’s Stone: The primary goal for white alchemists, a white stone that emits the Elixir of Life and other healing draughts;
-- The Mystic’s Stone: A yellow stone that purifies any matter it touches, and is sought after by all alchemists;
+- The [[rangoric-srd/equipment/alchemical-items/Alchemist’s Stone|Alchemist’s Stone]]: A red stone that creates chymicals and other alchemical substances, and attainable by any types of alchemists;
+- The [[rangoric-srd/equipment/alchemical-items/Healer’s Stone|Healer’s Stone]]: The primary goal for white alchemists, a white stone that emits the Elixir of Life and other healing draughts;
+- The [[rangoric-srd/equipment/alchemical-items/Mystic’s Stone|Mystic’s Stone]]: A yellow stone that purifies any matter it touches, and is sought after by all alchemists;
 - The Philosopher’s Stone: The black stone to which fables ascribe so many abilities, it actually produces mage-metals, rather than transmuting base metals into gold;
-- The Sorcerer’s Stone: A purple stone that allows easier manipulation of magic into alchemical works.
+- The [[rangoric-srd/equipment/alchemical-items/Sorcerer’s Stone|Sorcerer’s Stone]]: A purple stone that allows easier manipulation of magic into alchemical works.
 
 A few heretics mutter about a sixth and seventh stone, hinting their origins lie in linking alchemy with planar mechanics and necromancy, but most alchemical purists dismiss such talk.
 
-**Chymissiles** are missile weapons combined with alchemical substances; they fall under the alchana category as they are more than the chymicals or substances used in their construction. They come in a few varieties, with a wide range of effects:
+**[[rangoric-srd/equipment/alchemical-items/Chymissile Ammunition|Chymissiles]]** are missile weapons combined with alchemical substances; they fall under the alchana category as they are more than the chymicals or substances used in their construction. They come in a few varieties, with a wide range of effects:
 
 - Sling bullets can be made of small glass or ceramic spheres holding liquid chymicals, though they are more commonly granular tablets that explode as a powder upon impact (and are much safer to carry and use).
 - Arrows come in two varieties: bottle-bolts with glass arrowhead that smash on impact to unleash liquid chymicals; and what many call the forked arrowhead. This special arrowhead looks like a normal metal arrowhead with the center point missing (and thus the fork analogy). The center is filled instead with some solid substance molded into place—the substance reacts to blood or tissue or something else specific once the arrow hits its mark. The benefit of forked arrowheads is that they can be recovered and reused, with new chymicals molded into them.
 
 **Emerald Tablets** are major items of power among alchemists, and they are a necessary step toward the creation of the Alchana Stones—think of them as the major magical items of wizards seeking to create artifacts. Emerald Tablets act as powerful tools that help an alchemist (or any holder who knows how to use them) produce rare materials and vastly speed up his or her work in the production of alchana and other creations. Emerald Tablets resemble a dark green piece of coal that crumbles a bit each time it is used (which is why the Tablets vary in size).
 
-**Mage-Metals** are the by-product of a painstaking alchemical process so costly and lengthy that few attempt it, though the creation of metals perfect for use in magical item construction is worth it just for the intellectual journey. Most find mage-gold and mage-silver after seeking the Philosopher’s Stone, which creates them automatically, though that is an equally long and expensive quest in and of itself. As these metals are found so rarely, their forms are unique each time, though identifying mage-metals from other metals is easy—their exposed surfaces never tarnish, they tend to be a slightly lighter hue than normal, and the metal does not resonate when struck, making mage-metals useless for magical chimes or flutes. It is also just different enough to prevent anyone from passing it off as a normal precious metal (which few would do anyway, since mage-metals are usually worth at least 25 times their own weight in said metals).
+**Mage-Metals** are the by-product of a painstaking alchemical process so costly and lengthy that few attempt it, though the creation of metals perfect for use in magical item construction is worth it just for the intellectual journey. Most find [[rangoric-srd/equipment/alchemical-items/Mage-Gold|mage-gold]] and [[rangoric-srd/equipment/alchemical-items/Mage-Silver|mage-silver]] after seeking the Philosopher’s Stone, which creates them automatically, though that is an equally long and expensive quest in and of itself. As these metals are found so rarely, their forms are unique each time, though identifying mage-metals from other metals is easy—their exposed surfaces never tarnish, they tend to be a slightly lighter hue than normal, and the metal does not resonate when struck, making mage-metals useless for magical chimes or flutes. It is also just different enough to prevent anyone from passing it off as a normal precious metal (which few would do anyway, since mage-metals are usually worth at least 25 times their own weight in said metals).
 
 **Siege-salts** are crystalline compounds (with some salt in the mixture) that inflict a variety of toxic effects when exposed to other substances. The most common use is to pour them down murder holes onto invaders, affecting either their armor, weapons, or flesh. Siege-salts come in individual leathern pouches about the size of a human hand, each weighing about a pound and useful against one foe. Larger doses, including those used by siege engineers, come in 10-pound hand-kegs and 20-pound barrels, all wrapped in cloth to prevent any leaks or exposure to moisture.
 
 **Temperants** are alchemical processes which affect materials on an elemental level. They come in two forms—a thick paste that has one use and is temporary in effect, and a more permanent (and more expensive) liquid bath.
 
-Temperant pastes come in specially-treated muslin bags about the size of a human fist and are squeezed onto the surface or object in question. The paste reacts quickly and tempers the material, and each dose usually holds enough to treat a long sword or a small shield.
+[[rangoric-srd/equipment/alchemical-items/Temperant Pastes|Temperant pastes]] come in specially-treated muslin bags about the size of a human fist and are squeezed onto the surface or object in question. The paste reacts quickly and tempers the material, and each dose usually holds enough to treat a long sword or a small shield.
 
 The baths tend toward translucent liquids that bubble and froth only when materials are reacting to the agents within them. The baths can be as small as a cup for tempering jewelry or as large as a bathtub for the immersion of large objects, including humanoid beings. If found as treasure, temperant baths usually come in tall metal barrels that can just fit a long sword into them (though there’s no telling what the bath is keyed to do unless you’re an alchemist or instructions are attached).
 
@@ -392,7 +375,7 @@ Just as alchana are the catch-all for many varieties of alchemical items, chymic
 
 **Acids** are the chymicals most commonly used by the adventuring public, and by commoners as well. After all, how can one engrave and etch masterworked blades without some form of acid? In general, acids will be found in ceramic, stone, or heavy glass flasks. The variety and strength of acids can range far beyond the generic [[rangoric-srd/equipment/Equipment Goods and Services|acid]].
 
-**Alchemortars** are additives that can be mixed into wet mortar to achieve some defensive effects in stone constructions without the cost of magic. These also stave off the danger that a siege wizard could negate said defenses with *dispel magic*. While most commonly used in the construction of stone buildings, some lesser alchemortars can be mixed into the more common wattle-anddaub buildings. Alchemortars are lumpy granular chymicals varying in amounts from three pounds to a few hundred pounds, depending on the size of the job and how much mortar is needed. It is also transported in clay-lined barrels, from a hand-sized barrel for the smallest amount (for small huts or small wall repairs) to barrels as tall as an ogre.
+**[[rangoric-srd/equipment/alchemical-items/Alchemical Mortars|Alchemortars]]** are additives that can be mixed into wet mortar to achieve some defensive effects in stone constructions without the cost of magic. These also stave off the danger that a siege wizard could negate said defenses with *dispel magic*. While most commonly used in the construction of stone buildings, some lesser alchemortars can be mixed into the more common wattle-anddaub buildings. Alchemortars are lumpy granular chymicals varying in amounts from three pounds to a few hundred pounds, depending on the size of the job and how much mortar is needed. It is also transported in clay-lined barrels, from a hand-sized barrel for the smallest amount (for small huts or small wall repairs) to barrels as tall as an ogre.
 
 **Aquas** are liquids used in the alchemical processes of creating other items. Some, however, can be used independently for direct effects. Aquas are usually only found in laboratories, either bubbling away in alembics and retorts or in storage, packaged into heavy ceramic teardrop-shaped bottles ranging from 2 to 4 ounces in size.
 
@@ -420,7 +403,7 @@ Graft swathes are living plant enhancements for various and sundry magic items. 
 
 Greater swathes tangle around the user in various ways and are independent. In other words, greater swathes do not have to attach themselves to items (though they can if desired). In fact, unlike the lesser grafts, greater swathes can attach themselves to living tissue and directly enhance a living being’s armor class or native abilities. These can be found within a swathold (see the wondrous items) or in an inert form as a hard-packed cluster of roots and brambles tightly wrapped together, almost like a tumbleweed with no room for air between its branches. These “sleeping” swathes are up to a foot in diameter, and half again as long in length.
 
-Cocoon swathes are a type of greater swathe which, when activated or coaxed into activity, wrap around a being or target to effect its abilities. There are three known types of cocoon swathes—one provides healing, another acts for protection and shielding, and the third and rarest of them aids or effects the Greengifting of an individual (see the erlixir of greengifting and the kin o’ the green). Cocoon swathes, when found, appear as a normal greater swathe unless they are found actively cocooned around a body (in which case they’ll be a tight collection of leaves and branches and roots and brambles in an ovular shape slightly larger than the body they encompass).
+Cocoon swathes are a type of greater swathe which, when activated or coaxed into activity, wrap around a being or target to effect its abilities. There are three known types of cocoon swathes—one provides healing, another acts for protection and shielding, and the third and rarest of them aids or effects the Greengifting of an individual (see the [[rangoric-srd/equipment/alchemical-items/Erlixir of Greengifting|erlixir of greengifting]] and the kin o’ the green). Cocoon swathes, when found, appear as a normal greater swathe unless they are found actively cocooned around a body (in which case they’ll be a tight collection of leaves and branches and roots and brambles in an ovular shape slightly larger than the body they encompass).
 
 ### Ingestibles
 
@@ -451,7 +434,7 @@ Unlike the other categories, there are no set standards or forms for poisons, no
 
 Also, while they may be listed under other types, the ability to create any of them comes only from the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat. Only the generic poisons of the core rules can be created with the [[rangoric-srd/skills/Profession|Profession]] (herbalist) or [[rangoric-srd/skills/Craft|Craft]] (alchemy) skills unless otherwise noted.
 
-Aside from the added classification and the DC for creation, the toxins table works like the core [[rangoric-srd/rules/Special Abilities and Conditions|poison]] rules. The prices for said toxins and poisons are in the core rules or in the catalog.
+Aside from the added classification and the DC for creation, the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins table]] works like the core [[rangoric-srd/rules/Special Abilities and Conditions|poison]] rules. The prices for said toxins and poisons are in the core rules or in the catalog.
 
 *Type (Classification):* The poison’s method of delivery (and its classification in the catalog).
 
@@ -490,4 +473,4 @@ One last note on Caster Level and variable powers for these herbal and alchemica
 
 Bear in mind that the numbers listed for the item creation DCs *must* be rolled or reached by adjustments and skill points—rolling a 20 or “taking 20” does not automatically mean a successful creation. Since the failure of a check results in a failure to create an item, characters cannot take 20, and item creation skills such as [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Profession|Profession]] (herbalist) have a builtin “take 10” effect in their timing (see Creation Times). Thus, few alchemists or herbalists even attempt to make items before they have enough skill ranks and feat or circumstance bonuses to succeed more often than they fail.
 
-*Example:* A 13th-level sorcerer has 16 ranks of [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Craft|Craft]] (alchemy)), and the [[rangoric-srd/feats/Create Alchana|Create Alchana]] feat. She wants to create some bloodiron (DC 27) to forge into an ogre-slaying weapon as a gift. She gains a +3 from the skill focus (but no bonus from the prerequisite feat), so she only needs to roll a (8 +16+3=27) or higher to successfully craft a supply of bloodiron. However, she also wants to make some mage-gold (DC 35) to craft into a tiara, and she’ll need a roll of 16 or better to craft that (16+16+3=35).
+*Example:* A 13th-level sorcerer has 16 ranks of [[rangoric-srd/skills/Craft|Craft]] (alchemy), [[rangoric-srd/feats/Skill Focus|Skill Focus]] ([[rangoric-srd/skills/Craft|Craft]] (alchemy)), and the [[rangoric-srd/feats/Create Alchana|Create Alchana]] feat. She wants to create some [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy|bloodiron]] (DC 27) to forge into an ogre-slaying weapon as a gift. She gains a +3 from the skill focus (but no bonus from the prerequisite feat), so she only needs to roll a (8 +16+3=27) or higher to successfully craft a supply of bloodiron. However, she also wants to make some mage-gold (DC 35) to craft into a tiara, and she’ll need a roll of 16 or better to craft that (16+16+3=35).
