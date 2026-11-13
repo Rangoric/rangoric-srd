@@ -33,11 +33,11 @@ When fey venture into the mortal worlds in search of adventure, they sometimes b
 | 5–6 | *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]*, *[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]* |
 | 7–8 | *[[rangoric-srd/spells/Antilife Filter|anti-life filter]]* |
 | 9–10 | *[[rangoric-srd/spells/Shrink Creature|shrink creature]]* |
-| 11–12 | *fork path* |
-| 13–14 | *stray from path* |
-| 15–16 | *fey curtain* |
+| 11–12 | *[[rangoric-srd/spells/Fork Path|fork path]]* |
+| 13–14 | *[[rangoric-srd/spells/Stray From Path|stray from path]]* |
+| 15–16 | *[[rangoric-srd/spells/Fey Curtain|fey curtain]]* |
 | 17–18 | *[[rangoric-srd/spells/Summon Fey IX|summon fey IX]]* |
-| 19+ | *create fey doorway and sideroad* |
+| 19+ | *[[rangoric-srd/spells/Create Doorway and Sideroad|create doorway and sideroad]]* |
 
 **Special Qualities**: A half-fey creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]]. Half-fey are resistant to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the half-fey attains.
 

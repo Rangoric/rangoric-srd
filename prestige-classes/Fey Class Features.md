@@ -43,7 +43,7 @@ Two more shared features already have a home elsewhere: **slippery mind** is the
 
 ## Fey Friend
 
-**Fey Friend (Ex)**: Fey creatures come to see the character as a sympathetic being. The character gains a +4 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Performance|Performance]], [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks when interacting with fey creatures. ^fey-friend
+**Fey Friend (Ex)**: Fey creatures come to see the character as a sympathetic being. [[rangoric-srd/monsters/Doorway Guardian|Doorway guardians]] treat the character as if it were a fey creature. The character gains a +4 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Performance|Performance]], [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks when interacting with fey creatures. ^fey-friend
 
 *Gained by*: [[rangoric-srd/prestige-classes/Faemancer|faemancer]] (2nd), [[rangoric-srd/prestige-classes/Faerier|faerier]] (2nd), [[rangoric-srd/prestige-classes/Fey-Touched|fey-touched]] (4th).
 

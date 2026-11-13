@@ -88,6 +88,4 @@ These spells carry “Fpk” levels.
 
 **3rd Level**: *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, *[[rangoric-srd/spells/Blink|blink]]*, *[[rangoric-srd/spells/Charm Monster|charm monster]]*, *[[rangoric-srd/spells/Displacement|displacement]]*, *[[rangoric-srd/spells/Fey Mask|fey mask]]*, *[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]*.
 
-**4th Level**: *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *discern route*, *[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]*, *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]*, *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]*, *[[rangoric-srd/spells/Laughing Gas|laughing gas]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*.
-
-*Discern route* works through the fey realm’s roads and isn’t in Rangoric yet.
+**4th Level**: *[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]*, *[[rangoric-srd/spells/Discern Route|discern route]]*, *[[rangoric-srd/spells/Dismiss Fey|dismiss fey]]*, *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]*, *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]*, *[[rangoric-srd/spells/Laughing Gas|laughing gas]]*, *[[rangoric-srd/spells/Nondetection|nondetection]]*.

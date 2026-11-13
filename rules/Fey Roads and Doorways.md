@@ -34,7 +34,7 @@ When traveling from the mortal worlds to the fey realm, it is important to under
 
 Like gates and portals, *doorways* are magical openings in the fabric of space that allow instant passage between two or more locations. *Doorways* are not always obviously marked, yet they can be easily discovered through a number of magical and mundane means. *Doorways* to *sideroads* from the mortal world are seen as greenish-blue outlined rectangular *doorways* normally positioned within some sort of vertical boundaries. Those *doorways* without a physical boundary are often of immense size. *Doorways* to *fey roads* within the fey realm appear (when visible) as bluish outlined archways, whereas those leading to its shadowed reaches seem slightly distorted and out of square, their bluish outline tinged with a hint of purple.
 
-When creating *doorways*, fey prefer locations that already have some sort of physical opening so that they are not easily detected. A flowered arbor, a gate in farmer’s fence, a stone arch, and even certain steppingstones across a stream have all been used in *create doorway* spells. A [[rangoric-srd/skills/Lore|Lore (fey)]] check can tell whether a particular location is apt to be used as a *doorway*.
+When creating *doorways*, fey prefer locations that already have some sort of physical opening so that they are not easily detected. A flowered arbor, a gate in farmer’s fence, a stone arch, and even certain steppingstones across a stream have all been used in *[[rangoric-srd/spells/Create Doorway and Backroad|create doorway]]* spells. A [[rangoric-srd/skills/Lore|Lore (fey)]] check can tell whether a particular location is apt to be used as a *doorway*.
 
 Even though *doorways* cannot normally be constructed separate from a *fey road*, detached *doorways* can result from interrupted or improper spellcasting; these must either be dispelled or attached to a *fey road* through the second casting of the appropriate creation spell. If the *doorway* is not attached to a *fey road*, there is a 5% chance that it will be noticed by an outsider and used for other more sinister purposes of invading either the fey realm or a mortal world.
 
@@ -42,7 +42,7 @@ When fey creatures create *doorways*, they often charge fey guardians (and somet
 
 The process of creating a *fey road* with adjoining *doorways* also enlists the service of a [[rangoric-srd/monsters/Doorway Guardian|doorway guardian]] to protect the route from accidental, unwanted, or unauthorized travelers. As a secondary layer of protection, many creators also add a method of activation. (See [[rangoric-srd/rules/Fey Roads and Doorways#Methods of Opening Doorways|Methods of Opening Doorways]] below.)
 
-**Crossroads:** “*Crossroads*” is a misnomer applied to *doorways* that open onto roads with both endpoints on the same mortal world. These *doorways* get their name from the x-shaped bluish-glowing shadows seen on the ground by eyes gifted with the Second Sight feat or those casting the 0-level spell *detect doorway*.
+**Crossroads:** “*Crossroads*” is a misnomer applied to *doorways* that open onto roads with both endpoints on the same mortal world. These *doorways* get their name from the x-shaped bluish-glowing shadows seen on the ground by eyes gifted with the [[rangoric-srd/feats/Second Sight (Feat)|Second Sight]] feat or those casting the 0-level spell *[[rangoric-srd/spells/Detect Doorway|detect doorway]]*.
 
 ### Locations for Fey Doorways
 
@@ -138,9 +138,9 @@ If characters stray from the path, each makes a Will save against the DC of the 
 
 Moving from one point to another within the fey realm can be done magically on the *fey roads* that spread across the land or physically by means such as horseback, wagon, or foot. While many choose the latter, emissaries of the fey courts, [[rangoric-srd/races/Feeorin|feeorin]], and anyone in a hurry prefer the *fey roads* when they can.
 
-Travel between locales by land is not entirely controlled by the traveler, as they may find themselves consistently no closer than a few miles away from the forest, or a bend or two of the stream away from the lake. This distortion of the land exhibits the inherent magic of the fey realm then further augmented by the whim of the region’s inhabitants through the use of the Crossing Over feat.
+Travel between locales by land is not entirely controlled by the traveler, as they may find themselves consistently no closer than a few miles away from the forest, or a bend or two of the stream away from the lake. This distortion of the land exhibits the inherent magic of the fey realm then further augmented by the whim of the region’s inhabitants through the use of the [[rangoric-srd/feats/Crossing Over|Crossing Over]] feat.
 
-Crossing over a boundary separating one region from the next is done by using the Crossing Over feat in conjunction with a successful opposed Wisdom check versus the DC of the region being entered. If the check fails, the person attempting the check cannot try to cross over that boundary until the next day. A person can guide up to 1d8 people per level across a boundary at any given time.
+Crossing over a boundary separating one region from the next is done by using the [[rangoric-srd/feats/Crossing Over|Crossing Over]] feat in conjunction with a successful opposed Wisdom check versus the DC of the region being entered. If the check fails, the person attempting the check cannot try to cross over that boundary until the next day. A person can guide up to 1d8 people per level across a boundary at any given time.
 
 If a person does not have the Crossing Over feat, they are allowed to attempt an opposed Wisdom test versus the destination DC + 15 due to their lack of ability.
 

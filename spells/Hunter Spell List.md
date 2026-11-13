@@ -22,6 +22,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | --- | --- |
 | [[rangoric-srd/spells/Create Water\|Create Water]]: | Creates 2 gallons/level of pure water. |
 | [[rangoric-srd/spells/Cure Minor Wounds\|Cure Minor Wounds]]: | Cures 1 point of damage. |
+| [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F): | Senses the direction of doorways within 1 mile. |
 | [[rangoric-srd/spells/Detect Magic\|Detect Magic]]: | Detects spells and magic items within 60 ft. |
 | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]: | Detects poison in one creature or object. |
 | [[rangoric-srd/spells/Flare\|Flare]]: | Dazzles one creature (–1 penalty on attack rolls). |
@@ -69,6 +70,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants. |
 | [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
+| [[rangoric-srd/spells/Detect Fey Doorway\|Detect Fey Doorway]] (F): | As *detect doorway*, for doorways to the fey realm, with a glimpse of the far end. |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]: | Reveals natural or primitive traps. |
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
@@ -439,6 +441,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]: | Cures 3d8 damage +1/level (max +15). |
 | [[rangoric-srd/spells/Darkvision, Communal\|Darkvision, Communal]] (M): | As darkvision, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Darkvision, Greater\|Darkvision, Greater]] (M): | See 120 ft. in total darkness. |
+| [[rangoric-srd/spells/Discern Route\|Discern Route]] (M): | Learn the destination of a fey road. |
 | [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]: | Cancels spells and magical effects. |
 | [[rangoric-srd/spells/Earth Glide\|Earth Glide]]: | The target can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water, traveling at a speed of 5 feet. |
 | [[rangoric-srd/spells/Echolocation\|Echolocation]]: | Sonic sense gives you blindsight 40 ft. |
@@ -472,6 +475,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Sleepwalking\|Sleepwalking]] (M): | As suggestion, cast on a sleeping creature. |
 | [[rangoric-srd/spells/Slowing Mud\|Slowing Mud]] (M): | Targets are covered in mud that blinds them and acts like slow. |
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]: | Creatures in area take 1d8 damage, may be slowed. |
+| [[rangoric-srd/spells/Step Sideways\|Step Sideways]]: | Step into the borderland between the world and the fey realm, and back. |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
 | [[rangoric-srd/spells/Summon Fey IV\|Summon Fey IV]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls creature to fight. |
@@ -552,10 +556,12 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Fey Form III\|Fey Form III]] (M): | Assume the form of a Diminutive or Huge fey creature |
 | [[rangoric-srd/spells/Find the Path\|Find the Path]]: | Shows most direct way to a location. |
 | [[rangoric-srd/spells/Fire Seeds\|Fire Seeds]]: | Acorns and berries become grenades and bombs. |
+| [[rangoric-srd/spells/Gate Seal\|Gate Seal]] (M): | Permanently seals a doorway, gate or portal. |
 | [[rangoric-srd/spells/Insect Spies, Greater\|Insect Spies, Greater]] (M): | Use magic beetles as spies and also share their senses. |
 | [[rangoric-srd/spells/Ironwood\|Ironwood]]: | Magic wood is strong as steel. |
 | [[rangoric-srd/spells/Liveoak\|Liveoak]]: | Oak becomes treant guardian. |
 | [[rangoric-srd/spells/Move Earth\|Move Earth]]: | Digs trenches and builds hills. |
+| [[rangoric-srd/spells/Open Doorway\|Open Doorway]] (M): | Opens a fey doorway without its key; briefly negates *gate seal*. |
 | [[rangoric-srd/spells/Owl’s Wisdom, Mass\|Owl’s Wisdom, Mass]]: | As owl’s wisdom, affects one subject/level. |
 | [[rangoric-srd/spells/Path of the Winds\|Path of the Winds]]: | With a sweeping gesture, you call forth mighty winds to clear a path ahead of you. |
 | [[rangoric-srd/spells/Plague Storm\|Plague Storm]]: | Cloud infects creatures like contagion. |

@@ -323,7 +323,7 @@ The fey realm has the following traits.
 
   - Infinite. Though it seems a finite physical space, the realm can stretch to infinite size through its own magic and the magical abilities and skills of its creatures.
 
-  - Alterable morphic. Travel times change for those who know how to alter the physical dimensions of the fey realm, through the Crossing Over feat and some magic (see [[rangoric-srd/rules/Fey Roads and Doorways#Travel Within the Fey Realm|travel within the fey realm]]).
+  - Alterable morphic. Travel times change for those who know how to alter the physical dimensions of the fey realm, through the [[rangoric-srd/feats/Crossing Over|Crossing Over]] feat and some magic (see [[rangoric-srd/rules/Fey Roads and Doorways#Travel Within the Fey Realm|travel within the fey realm]]).
 
   - Mildly good-aligned. The fey realm is mostly good, and its shadowed reaches mildly evil.
 

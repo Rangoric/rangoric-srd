@@ -19,6 +19,7 @@ tags: [rangoric, rangoric/overview]
 | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[rangoric-srd/spells/Dancing Lights\|Dancing Lights]]:       | Creates torches or other lights.                                                                                                                                |
 | [[rangoric-srd/spells/Daze\|Daze]]:                           | Humanoid creature of 4 HD or less loses next action.                                                                                                            |
+| [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F): | Senses the direction of doorways within 1 mile. |
 | [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:           | Detects spells and magic items within 60 ft.                                                                                                                    |
 | [[rangoric-srd/spells/Flare\|Flare]]:                         | Dazzles one creature (–1 on attack rolls).                                                                                                                      |
 | [[rangoric-srd/spells/Ghost Sound\|Ghost Sound]]:             | Figment sounds.                                                                                                                                                 |
@@ -72,6 +73,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Delusional Pride\|Delusional Pride]]: | Target is penalized on attacks and checks but gains bonus against charms and compulsions. |
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
 | [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
+| [[rangoric-srd/spells/Detect Fey Doorway\|Detect Fey Doorway]] (F): | As *detect doorway*, for doorways to the fey realm, with a glimpse of the far end. |
 | [[rangoric-srd/spells/Detect Secret Doors\|Detect Secret Doors]]:       | Reveals hidden doors within 60 ft.                                                                          |
 | [[rangoric-srd/spells/Discern Next of Kin\|Discern Next of Kin]] (F): | Read the target's mind to learn about its family. |
 | [[rangoric-srd/spells/Disguise Self\|Disguise Self]]:                   | Changes your appearance.                                                                                    |
@@ -427,6 +429,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Denounce\|Denounce]]: | Worsens creatures' attitudes. |
 | [[rangoric-srd/spells/Detect Scrying\|Detect Scrying]]:               | Alerts you of magical eavesdropping.                                                                                               |
 | [[rangoric-srd/spells/Dimension Door\|Dimension Door]]:               | Teleports you short distance.                                                                                                      |
+| [[rangoric-srd/spells/Discern Route\|Discern Route]] (M): | Learn the destination of a fey road. |
 | [[rangoric-srd/spells/Discordant Blast\|Discordant Blast]]: | 3d6 sonic damage in 10-ft. burst or 30-ft. cone can also bull rush creatures. |
 | [[rangoric-srd/spells/Dominate Person\|Dominate Person]]:             | Controls humanoid telepathically.                                                                                                  |
 | [[rangoric-srd/spells/Drinking Song\|Drinking Song]] (M): | Makes listeners drunken as if drinking alcohol. |
@@ -565,6 +568,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Find the Path\|Find the Path]]:                           | Shows most direct way to a location.                                                                                                                                                         |
 | [[rangoric-srd/spells/Fool’s Forbiddance\|Fool’s Forbiddance]] (M): | Confuses enemies who come within a magical emanation centered on you. |
 | [[rangoric-srd/spells/Fox’s Cunning, Mass\|Fox’s Cunning, Mass]]:               | As fox’s cunning, affects one subject/level.                                                                                                                                                 |
+| [[rangoric-srd/spells/Gate Seal\|Gate Seal]] (M): | Permanently seals a doorway, gate or portal. |
 | [[rangoric-srd/spells/Spells F to G\|Geas/Quest]]:                              | As lesser geas, plus it affects any creature.                                                                                                                                                |
 | [[rangoric-srd/spells/Getaway\|Getaway]] (M): | Teleports you and select creatures to predetermined location. |
 | [[rangoric-srd/spells/Heroes’ Feast\|Heroes’ Feast]]:                           | Food for one creature/level cures and grants combat bonuses.                                                                                                                                 |
@@ -573,6 +577,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Irresistible Dance\|Irresistible Dance]]:                 | Forces subject to dance.                                                                                                                                                                     |
 | [[rangoric-srd/spells/Life of Crime\|Life of Crime]] (M): | Permanently turn someone into a crazed criminal. |
 | [[rangoric-srd/spells/Magnifying Chime\|Magnifying Chime]]: | Touched object deals increasing sonic damage each round. |
+| [[rangoric-srd/spells/Open Doorway\|Open Doorway]] (M): | Opens a fey doorway without its key; briefly negates *gate seal*. |
 | [[rangoric-srd/spells/Overwhelming Presence\|Overwhelming Presence]] (M): | Creatures bow before you as if you were divine. |
 | [[rangoric-srd/spells/Permanent Image\|Permanent Image]]:                       | Includes sight, sound, and smell.                                                                                                                                                            |
 | [[rangoric-srd/spells/Pied Piping\|Pied Piping]] (F): | Compel similar creatures to follow you. |

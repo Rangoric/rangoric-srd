@@ -34,12 +34,12 @@ Ordinary creatures and monsters that have the dubious fortune of being born in t
 | 3–4 | *[[rangoric-srd/spells/Disrobe|disrobe]]* |
 | 5–6 | *[[rangoric-srd/spells/Fitful Sleep|fitful sleep]]* |
 | 7–8 | *[[rangoric-srd/spells/Antilife Filter|anti-life filter]]* |
-| 9–10 | *sleepless curse* |
-| 11–12 | *recurring nightmare* |
-| 13–14 | *fey decree* |
-| 15–16 | *fey curtain* |
+| 9–10 | *[[rangoric-srd/spells/Sleepless Curse|sleepless curse]]* |
+| 11–12 | *[[rangoric-srd/spells/Recurring Nightmare|recurring nightmare]]* |
+| 13–14 | *[[rangoric-srd/spells/Fey Decree|fey decree]]* |
+| 15–16 | *[[rangoric-srd/spells/Fey Curtain|fey curtain]]* |
 | 17–18 | *[[rangoric-srd/spells/Summon Fey IX|summon fey IX]]* |
-| 19+ | *create fey doorway and sideroad* |
+| 19+ | *[[rangoric-srd/spells/Create Doorway and Sideroad|create doorway and sideroad]]* |
 
 **Special Qualities**: A shadow-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus darkvision. Shadow-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
 

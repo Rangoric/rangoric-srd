@@ -20,6 +20,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Bleed\|Bleed]]: | Cause a stabilized creature to resume dying. |
 | [[rangoric-srd/spells/Create Water\|Create Water]]:                   | Creates 2 gallons/level of pure water.                |
 | [[rangoric-srd/spells/Cure Minor Wounds\|Cure Minor Wounds]]:         | Cures 1 point of damage.                              |
+| [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F): | Senses the direction of doorways within 1 mile. |
 | [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:                   | Detects spells and magic items within 60 ft.          |
 | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                 | Detects poison in one creature or object.             |
 | [[rangoric-srd/spells/Guidance\|Guidance]]:                           | +1 on one attack roll, saving throw, or skill check. |
@@ -61,6 +62,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
 | [[rangoric-srd/spells/Detect Chaos\|Detect Chaos]]/[[rangoric-srd/spells/Detect Evil\|Evil]]/[[rangoric-srd/spells/Detect Good\|Good]]/[[rangoric-srd/spells/Detect Law\|Law]]: | Reveals creatures, spells, or objects of selected alignment.                             |
 | [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
+| [[rangoric-srd/spells/Detect Fey Doorway\|Detect Fey Doorway]] (F): | As *detect doorway*, for doorways to the fey realm, with a glimpse of the far end. |
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Detect Undead\|Detect Undead]]:                                                                                                                                 | Reveals undead within 60 ft.                                                             |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
@@ -342,6 +344,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Debilitating Portent\|Debilitating Portent]]: | Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell |
 | [[rangoric-srd/spells/Dimensional Anchor\|Dimensional Anchor]]:             | Bars extradimensional movement.                                                                                       |
 | [[rangoric-srd/spells/Discern Lies\|Discern Lies]]:                         | Reveals deliberate falsehoods.                                                                                        |
+| [[rangoric-srd/spells/Discern Route\|Discern Route]] (M): | Learn the destination of a fey road. |
 | [[rangoric-srd/spells/Dismissal\|Dismissal]]:                               | Forces a creature to return to native plane.                                                                          |
 | [[rangoric-srd/spells/Divination\|Divination]] (M):                         | Provides useful advice for specific proposed actions.                                                                 |
 | [[rangoric-srd/spells/Divine Eminence\|Divine Eminence]]: | Raise one of the subject’s ability scores to 24 +1/3 levels. |
@@ -500,6 +503,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Epidemic\|Epidemic]]: | Infect a subject with a highly contagious disease. |
 | [[rangoric-srd/spells/Find the Path\|Find the Path]]:                                 | Shows most direct way to a location.                                 |
 | [[rangoric-srd/spells/Forbiddance\|Forbiddance]] (M):                                 | Blocks planar travel, damages creatures of different alignment.      |
+| [[rangoric-srd/spells/Gate Seal\|Gate Seal]] (M): | Permanently seals a doorway, gate or portal. |
 | [[rangoric-srd/spells/Spells F to G\|Geas/Quest]]:                                    | As lesser geas, plus it affects any creature.                        |
 | [[rangoric-srd/spells/Glyph of Warding, Greater\|Glyph of Warding, Greater]]:         | As glyph of warding, but up to 10d8 damage or 6th-level spell.       |
 | [[rangoric-srd/spells/Harm\|Harm]]:                                                   | Deals 10 points/level damage to target.                              |
@@ -509,6 +513,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Invoke Deity\|Invoke Deity]] (M F): | Infuse yourself with the powers of your deity's planar realm |
 | [[rangoric-srd/spells/Joyful Rapture\|Joyful Rapture]]: | Negate harmful emotions. |
 | [[rangoric-srd/spells/Mage’s Decree\|Mage’s Decree]] (F): | Send a message to creatures within miles. |
+| [[rangoric-srd/spells/Open Doorway\|Open Doorway]] (M): | Opens a fey doorway without its key; briefly negates *gate seal*. |
 | [[rangoric-srd/spells/Overwhelming Poison\|Overwhelming Poison]] (M): | Make a poison more difficult to resist. |
 | [[rangoric-srd/spells/Owl’s Wisdom, Mass\|Owl’s Wisdom, Mass]]:                       | As owl’s wisdom, affects one subject/level.                          |
 | [[rangoric-srd/spells/Plague Storm\|Plague Storm]]: | Cloud infects creatures like contagion. |
