@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates; see text
   - **Spell Resistance**: No
 
-This spell functions similarly to [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], allowing you to sense when one or more creatures' consciousnesses are inside a mindscape (see page 234). The amount of information revealed depends on how long you study a particular subject.
+This spell functions similarly to [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], allowing you to sense when one or more creatures' consciousnesses are inside a mindscape. The amount of information revealed depends on how long you study a particular subject.
 
 
 
