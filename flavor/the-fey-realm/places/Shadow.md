@@ -29,6 +29,6 @@ Home to a myriad of fey who would rather be left alone, the difficulty in willfu
 
 *Uncommon:* The locations of working *doorways* to Shadow change monthly.
 
-*Rare:* [[rangoric-srd/races/Bogie|Bogie]] wizards constantly build and destroy *fey roads* that connect to Shadow.
+*Rare:* [[rangoric-srd/races/Bogie|Bogie]] wizards constantly build and destroy *[[rangoric-srd/rules/Fey Roads and Doorways#Fey Roads|fey roads]]* that connect to Shadow.
 
 *Obscure:* There are a few existing maps detailing the locations of all *fey roads* into, through, and out of Here, There and Between stored in vaults here.

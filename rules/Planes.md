@@ -3,6 +3,9 @@ srd-type: "overview"
 section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/Planes|Planes (3.5)]]"
+  - "[[individual books/Faeries/rules/FaerieLand’s Planar Characteristics|FaerieLand’s Planar Characteristics (Faeries)]]"
+  - "[[individual books/Faeries/rules/Spells#Special Spell Effects|Spells (Faeries)]]"
+  - "[[individual books/Faeries/tables/Table 14 FaerieLand Erratic Time Differential|Table 14 FaerieLand Erratic Time Differential (Faeries)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -307,6 +310,50 @@ The Astral Plane has the following traits.
   - Mildly neutral-aligned.
 
   - Enhanced magic. All spells and spell-like abilities used within the Astral Plane may be employed as if they were improved by the [[rangoric-srd/feats/Quicken Spell|Quicken Spell]] feat. Already quickened spells and spell-like abilities are unaffected, as are spells from magic items. Spells so quickened are still prepared and cast at their unmodified level. As with the Quicken Spell feat, only one quickened spell can be cast per round.
+
+##### The Fey Realm
+
+The fey realm, like the Astral Plane, is a plane sitting beside the Material Plane and connecting to it via countless distinct points. The two planes are coterminous: they share connections at their edges or termination points, and travel is possible via these connections if one knows the locations of the termination points. These connections are the fey realm’s doorways and fey roads (see [[rangoric-srd/rules/Fey Roads and Doorways|Fey Roads and Doorways]]); its places and lore are setting text, in [[rangoric-srd/flavor/the-fey-realm/The Fey Realm|The Fey Realm]].
+
+The fey realm has the following traits.
+
+  - Normal gravity. Some areas, by their magical natures, may have altered gravity (to let snow drift down more slowly, and so on).
+
+  - Normal time, except that creatures in the fey realm do not age, although they do experience the other effects of the passage of time, such as hunger, thirst, natural healing, and the effects of poison. Travel from the fey realm to the mortal worlds can shift time for those who make the journey (see the flow of time, below).
+
+  - Infinite. Though it seems a finite physical space, the realm can stretch to infinite size through its own magic and the magical abilities and skills of its creatures.
+
+  - Alterable morphic. Travel times change for those who know how to alter the physical dimensions of the fey realm, through the Crossing Over feat and some magic (see [[rangoric-srd/rules/Fey Roads and Doorways#Travel Within the Fey Realm|travel within the fey realm]]).
+
+  - Mildly good-aligned. The fey realm is mostly good, and its shadowed reaches mildly evil.
+
+  - Air, earth, water, and fire all play a major role in the weather of each season in the fey realm and the lands beside it. The Positive Energy Plane looms close, as its healing magic shows; rumor has the Negative Energy Plane skulking as close to the shadowed reaches.
+
+  - Enhanced magic. Healing spells work very well: all 1s, 2s, and 3s rolled are considered 4s. Enchantment and illusion spells function as if cast by someone of one caster level higher, as do [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]] and [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]] domain spells cast in the shadowed reaches. The spell *[[rangoric-srd/spells/Raise Dead|raise dead]]* brings a creature back from death with 4 hit points per Hit Die. The chance of [[rangoric-srd/equipment/Equipment Armor#^arcane-spell-failure|arcane spell failure]] is at most 25% in the fey realm.
+
+**The Flow of Time (Optional Rule)**: Creatures traveling from the fey realm to the mortal world can suffer erratic time. Time passes differently between the two, so sometimes it seems as if time in the fey realm passes faster than in a mortal world, though usually it is the other way around. Since fey are immortal, this effect is easily shrugged off. Mortals, however, have comparably shorter lives, and they are constantly worried about how much time has passed when they return home. The passage of time within the fey realm does not age mortals: while there, a mortal ceases to age, and once back in his own world he continues aging where he left off. For example, a 22-year-old human enters the fey realm and spends 7 years there. When he returns, he begins aging again at 22 years old, regardless of how much time passed in the world while he was away. ^fey-realm-flow-of-time
+
+When rolling for erratic time, read the table as a relationship. For example, a fey brings a mortal woman to a day-long festival in the fey realm. The GM rolls a 63: one week passes in the mortal world for every twelve hours spent in the fey realm, so when the fey returns her home, she has been missing for two weeks. If the time elapsed is too extreme for your campaign, either reroll, or keep the roll for “Time on Material Plane” and use a second roll for “Time in the Fey Realm.” The table is used at the GM’s discretion, and rerolling or choosing a result is encouraged when another would damage the campaign.
+
+**Table: Fey Realm Erratic Time** ^table-fey-realm-erratic-time
+
+| d% | Time on Material Plane | Time in the Fey Realm |
+| --- | --- | --- |
+| 01 | Second | Century |
+| 02–03 | Round | 50 years |
+| 04–06 | Minute | 25 years |
+| 07–10 | Hour | Decade |
+| 11–15 | 3 hours | Year |
+| 16–25 | 6 hours | Month |
+| 26–40 | 12 hours | Week |
+| 41–60 | Day | Day |
+| 61–75 | Week | 12 hours |
+| 76–85 | Month | 6 hours |
+| 86–90 | Year | 3 hours |
+| 91–94 | Decade | Hour |
+| 95–97 | 25 years | Minute |
+| 98–99 | 50 years | Round |
+| 100 | Century | Second |
 
 ##### Elemental Plane of Air
 

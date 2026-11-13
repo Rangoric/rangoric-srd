@@ -69,4 +69,4 @@ The celestial bodies of FaerieLand also pulse with the same intense magics that 
 
 **Other Manifestations:** Shooting stars, comets, and stars are commonplace in Between’s night skies. Such things visible in the skies near the Twilight sun are not unheard of, and are typically seen as an omen or sign from Mother Nature. (As with other means of prognostication, the GM is encouraged to manipulate these events to add further intrigue in game-play.)
 
-FaerieLand's planar traits, its erratic flow of time and its distances belong with the rules for the plane and for travelling there, which aren't in the Rangoric SRD yet.
+FaerieLand's planar traits and its erratic flow of time are in [[rangoric-srd/rules/Planes#The Fey Realm|Planes]], and its distances with the rules for [[rangoric-srd/rules/Fey Roads and Doorways#^fey-distances|travelling there]].
