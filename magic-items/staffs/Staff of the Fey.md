@@ -21,16 +21,16 @@ This staff appears as an ornately carved wooden staff, capped on the bottom with
 
 - A +1 sacred bonus to AC;
 - A +1 sacred bonus to all saves; and
-- A +10 circumstance bonus on any Crossing Over checks (crossing between the worlds, not in this SRD yet).
+- A +10 circumstance bonus on any [[rangoric-srd/feats/Crossing Over|Crossing Over]] checks.
 
 When newly created, each staff has 50 charges. These charges can be used to activate the following abilities.
 
 - *[[rangoric-srd/spells/Nature’s Aspect (Spell)|nature’s aspect]]* (1 charge)
-- *detect fey doorway* (1 charge)
-- *befriend doorway guardian* (heightened to 5th level, DC 19) (2 charges)
-- *fork path* (2 charges)
-- *open doorway* (2 charges)
-- *stray from path* (2 charges)
+- *[[rangoric-srd/spells/Detect Fey Doorway|detect fey doorway]]* (1 charge)
+- *[[rangoric-srd/spells/Befriend Doorway Guardian|befriend doorway guardian]]* (heightened to 5th level, DC 19) (2 charges)
+- *[[rangoric-srd/spells/Fork Path|fork path]]* (2 charges)
+- *[[rangoric-srd/spells/Open Doorway|open doorway]]* (2 charges)
+- *[[rangoric-srd/spells/Stray From Path|stray from path]]* (2 charges)
 
 In addition to the above effects, a comprehensive battery of *[[rangoric-srd/spells/Resist Energy|resist energy]]* spells also protects the wielder, although a charge is consumed each time the effect is triggered.
 
@@ -40,4 +40,4 @@ In addition to the above effects, a comprehensive battery of *[[rangoric-srd/spe
 - *resist energy* (electricity) (1 charge)
 - *resist energy* (sonic) (1 charge)
 
-CL 15th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *befriend doorway guardian*, *detect fey doorway*, *[[rangoric-srd/spells/Resist Energy|resist energy]]* (all), *[[rangoric-srd/spells/Nature’s Aspect (Spell)|nature’s aspect]]*, *open doorway*, *[[rangoric-srd/spells/Permanency|permanency]]*; Price 200,000 gp; Weight 1 lb.
+CL 15th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Befriend Doorway Guardian|befriend doorway guardian]]*, *[[rangoric-srd/spells/Detect Fey Doorway|detect fey doorway]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]* (all), *[[rangoric-srd/spells/Nature’s Aspect (Spell)|nature’s aspect]]*, *[[rangoric-srd/spells/Open Doorway|open doorway]]*, *[[rangoric-srd/spells/Permanency|permanency]]*; Price 200,000 gp; Weight 1 lb.

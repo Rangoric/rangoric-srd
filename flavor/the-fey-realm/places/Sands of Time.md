@@ -32,6 +32,6 @@ The only being who seems to have any control over the flow of the Sands of Time 
 
 *Uncommon:* Mirages seen in the desert are not only due to hallucinations brought on by the heat, but also “time mirages” that reflect events that have happened, are happening, or have not yet happened. If an observer is extremely lucky, the mirages might relay information pertinent to them.
 
-*Rare:* The Sands of Time “desire” to have their depths explored. A person moving to the region must make a Crossing Over check or a Will save (DC 20). Once pulled into the Distant/Deep sands, travelers can be scattered by storms or by simply wandering too far (as much as 2d10 miles in a random direction).
+*Rare:* The Sands of Time “desire” to have their depths explored. A person moving to the region must make a [[rangoric-srd/feats/Crossing Over|Crossing Over]] check or a Will save (DC 20). Once pulled into the Distant/Deep sands, travelers can be scattered by storms or by simply wandering too far (as much as 2d10 miles in a random direction).
 
 *Obscure:* Storms within the Sands of Time not only throw victims to other worlds on the material plane, but they can also scatter them to other times. This is a prime opportunity for a GM to manipulate the setting of a campaign, if that is desired.

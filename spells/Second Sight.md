@@ -43,6 +43,6 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-As the *[[rangoric-srd/spells/See Invisibility|see invisibility]]* spell, you can see any creatures or objects that are invisible, the subject of a *[[rangoric-srd/spells/Fey Mask|fey mask]]* spell, or have stepped sideways out of the world nearby (such as with the fae-walker’s [[rangoric-srd/prestige-classes/Fae-walker#^fae-walker-step-sideways|step sideways]]).
+As the *[[rangoric-srd/spells/See Invisibility|see invisibility]]* spell, you can see any creatures or objects that are invisible, the subject of a *[[rangoric-srd/spells/Fey Mask|fey mask]]* spell, or have stepped sideways out of the world nearby (such as with the *[[rangoric-srd/spells/Step Sideways|step sideways]]* spell or the fae-walker’s [[rangoric-srd/prestige-classes/Fae-walker#^fae-walker-step-sideways|step sideways]]).
 
 *Material Component*: A silver wire bent into the shape of a monocle (worth 5 sp.).

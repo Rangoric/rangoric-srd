@@ -90,6 +90,7 @@ tags: [rangoric, rangoric/overview]
 | Divination    | [[rangoric-srd/spells/Anticipate Peril\|Anticipate Peril]]: | Target gains a bonus on one initiative check. |
 |               | [[rangoric-srd/spells/Comprehend Languages\|Comprehend Languages]]:                                                                                                                                                                | You understand all spoken and written languages.                                                                                                                                                                                                                                |
 |               | [[rangoric-srd/spells/Cultural Adaptation\|Cultural Adaptation]] (M): | Adapt to fit the local cultural |
+|               | [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F): | Senses the direction of doorways within 1 mile. |
 |               | [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
 |               | [[rangoric-srd/spells/Detect Secret Doors\|Detect Secret Doors]]:                                                                                                                                                                  | Reveals hidden doors within 60 ft.                                                                                                                                                                                                                                              |
 |               | [[rangoric-srd/spells/Detect Undead\|Detect Undead]]:                                                                                                                                                                              | Reveals undead within 60 ft.                                                                                                                                                                                                                                                    |
@@ -273,6 +274,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Blood Transcription\|Blood Transcription]]: | Learn a spell from the target's blood. |
 |               | [[rangoric-srd/spells/Commune with Birds\|Commune with Birds]]: | You utter a question in the form of a low-pitched bird call that can be heard up to a mile away, and can understand the responses given by birds in the area. |
 |               | [[rangoric-srd/spells/Create Treasure Map\|Create Treasure Map]] (M): | Creates treasure map out of a creature's corpse. |
+|               | [[rangoric-srd/spells/Detect Fey Doorway\|Detect Fey Doorway]] (F): | As *detect doorway*, for doorways to the fey realm, with a glimpse of the far end. |
 |               | [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]: | As detect magic, but learn more information. |
 |               | [[rangoric-srd/spells/Detect Thoughts\|Detect Thoughts]]:               | Allows “listening” to surface thoughts.                                                                                                                                                     |
 |               | [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M): | Enables you to speak to elementals and some creatures. |
@@ -621,6 +623,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Shrink Item\|Shrink Item]]:                                                                                                                                                                                                           | Object shrinks to one-sixteenth size.                                                                          |
 |               | [[rangoric-srd/spells/Slow\|Slow]]:                                                                                                                                                                                                                         | One subject/level takes only one action/round, –2 to AC, –2 on attack rolls.                                   |
 |               | [[rangoric-srd/spells/Spider Climb, Communal\|Spider Climb, Communal]] (M): | As spider climb, but you may divide the duration among creatures touched. |
+|               | [[rangoric-srd/spells/Step Sideways\|Step Sideways]]: | Step into the borderland between the world and the fey realm, and back. |
 |               | [[rangoric-srd/spells/Strangling Hair\|Strangling Hair]]: | Your hair animates and grapples. |
 |               | [[rangoric-srd/spells/Touch Injection\|Touch Injection]]: | You can deliver an infusion, elixir, poison, or potion as a touch attack. |
 |               | [[rangoric-srd/spells/Undead Anatomy I\|Undead Anatomy I]] (M): | Take the form and some of the powers of a Small or Medium undead. |
@@ -685,6 +688,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Vicarious View\|Vicarious View]]: | Plant a scrying sensor that you can use to spy on a creature, object, or location. |
 | Enchantment   | [[rangoric-srd/spells/Amnesia\|Amnesia]]: | Target loses most of its memories |
 |               | [[rangoric-srd/spells/Aura of the Unremarkable\|Aura of the Unremarkable]] (M): | Make actions seem mundane to nearby creatures. |
+|               | [[rangoric-srd/spells/Befriend Doorway Guardian\|Befriend Doorway Guardian]]: | As *charm monster*, but on fey only, and the guardian can tell where its road leads. |
 |               | [[rangoric-srd/spells/Charm Monster\|Charm Monster]]:                                       | Makes monster believe it is your ally.                                                                                             |
 |               | [[rangoric-srd/spells/Confusion\|Confusion]]:                                               | Subjects behave oddly for 1 round/level.                                                                                           |
 |               | [[rangoric-srd/spells/Control Summoned Creature\|Control Summoned Creature]]: | Direct a summoned monster as if you had summoned it. |
@@ -846,6 +850,7 @@ tags: [rangoric, rangoric/overview]
 | Divination    | [[rangoric-srd/spells/Clairsentience\|Clairsentience]]: | You are aware of a remote location. |
 |               | [[rangoric-srd/spells/Contact Fey Oracle\|Contact Fey Oracle]] (F): | As contact other plane, but always true and cryptic. |
 |               | [[rangoric-srd/spells/Contact Other Plane\|Contact Other Plane]]:       | Lets you ask question of extraplanar entity.                                                           |
+|               | [[rangoric-srd/spells/Discern Route\|Discern Route]] (M): | Learn the destination of a fey road. |
 |               | [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]: | Casts a spell readied within a magic mirror. |
 |               | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
 |               | [[rangoric-srd/spells/Mind Probe\|Mind Probe]]: | Learn answers from a subject’s memories. |
@@ -959,13 +964,16 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Antimagic Field\|Antimagic Field]]:                   | Negates magic within 10 ft.                                                                                                                                                                  |
 |               | [[rangoric-srd/spells/Dispel Magic, Greater\|Dispel Magic, Greater]]:       | As dispel magic, but +20 on check.                                                                                                                                                           |
 |               | [[rangoric-srd/spells/Dust Ward\|Dust Ward]] (M): |  |
+|               | [[rangoric-srd/spells/Gate Seal\|Gate Seal]] (M): | Permanently seals a doorway, gate or portal. |
 |               | [[rangoric-srd/spells/Globe of Invulnerability\|Globe of Invulnerability]]: | As lesser globe of invulnerability, plus 4th-level spell effects.                                                                                                                            |
 |               | [[rangoric-srd/spells/Guards and Wards\|Guards and Wards]]:                 | Array of magic effects protect area.                                                                                                                                                         |
+|               | [[rangoric-srd/spells/Open Doorway\|Open Doorway]] (M): | Opens a fey doorway without its key; briefly negates *gate seal*. |
 |               | [[rangoric-srd/spells/Repulsion\|Repulsion]]:                               | Creatures can’t approach you.                                                                                                                                                                |
 |               | [[rangoric-srd/spells/Spellcrash\|Spellcrash]]: | Target loses a 5th-level prepared spell or spell slot. |
 |               | [[rangoric-srd/spells/Symbol of Sealing\|Symbol of Sealing]] (M): | Create triggered wall of force. |
 | Conjuration   | [[rangoric-srd/spells/Acid Fog\|Acid Fog]]:                                 | Fog deals acid damage.                                                                                                                                                                       |
 |               | [[rangoric-srd/spells/Conjure Black Pudding\|Conjure Black Pudding]] (M): | Summon a black pudding. |
+|               | [[rangoric-srd/spells/Fork Path\|Fork Path]] (M): | Creates a fork in a fey path. |
 |               | [[rangoric-srd/spells/Getaway\|Getaway]] (M): | Teleports you and select creatures to predetermined location. |
 |               | [[rangoric-srd/spells/Ice Crystal Teleport\|Ice Crystal Teleport]]: | Target is frozen, then teleported. |
 |               | [[rangoric-srd/spells/Iron Shower\|Iron Shower]] (M): | Iron splinters rain down for 1d4/level damage (1d6/level vs. fey; max 15 dice). |
@@ -1170,6 +1178,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Shapechanger’s Gift, Greater\|Shapechanger’s Gift, Greater]] (M): | Temporarily change a target into an animal, elemental, fey, humanoid, monstrous humanoid, or vermin |
 |               | [[rangoric-srd/spells/Spell Barrage\|Spell Barrage]]: | Unleash many spells in one rapid burst. |
 |               | [[rangoric-srd/spells/Statue\|Statue]]:                                             | Subject can become a statue at will.                                                                                                         |
+|               | [[rangoric-srd/spells/Stray From Path\|Stray From Path]] (M): | You and others step off your fey path for the duration. |
 |               | [[rangoric-srd/spells/Unfurl the Mortal Coil\|Unfurl the Mortal Coil]]: | Touch drains 2d6 Con, then 2d6 more a minute later. |
 | Universal     | [[rangoric-srd/spells/Limited Wish\|Limited Wish]] (X):                             | Alters reality—within spell limits.                                                                                                          |
 
@@ -1189,6 +1198,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Wall of Antimagic\|Wall of Antimagic]]: | Shimmering plane blocks magic. |
 | Conjuration   | [[rangoric-srd/spells/Call Construct\|Call Construct]] (M): | Summon your construct to you. |
 |               | [[rangoric-srd/spells/Create Demiplane\|Create Demiplane]] (F): | As lesser create demiplane, but larger and with planar traits. |
+|               | [[rangoric-srd/spells/Create Doorway and Backroad\|Create Doorway and Backroad]] (M): | Creates two doorways and the backroad between them. |
 |               | [[rangoric-srd/spells/Fey Gate\|Fey Gate]]: | Create a portal that allows travel to the First World |
 |               | [[rangoric-srd/spells/Incendiary Cloud\|Incendiary Cloud]]:                   | Cloud deals 4d6 fire damage/round.                                                                                             |
 |               | [[rangoric-srd/spells/Instant Summons, Greater\|Instant Summons, Greater]] (M): | As instant summons, but for multiple objects and creatures. |
@@ -1260,6 +1270,7 @@ tags: [rangoric, rangoric/overview]
 | Conjuration   | [[rangoric-srd/spells/Bilocation\|Bilocation]]: | Exist in two places at once. |
 |               | [[rangoric-srd/spells/Clashing Rocks\|Clashing Rocks]]: | 20d6 damage to target creature. |
 |               | [[rangoric-srd/spells/Create Demiplane, Greater\|Create Demiplane, Greater]] (F): | As create demiplane, but larger and with more planar traits. |
+|               | [[rangoric-srd/spells/Create Doorway and Sideroad\|Create Doorway and Sideroad]] (M): | As *create doorway and backroad*, but the road leads to the fey realm. |
 |               | [[rangoric-srd/spells/Gate\|Gate]] (X):                                 | Connects two planes for travel or summoning.                                                                     |
 |               | [[rangoric-srd/spells/Interplanetary Teleport\|Interplanetary Teleport]]: | Teleport to another planet. |
 |               | [[rangoric-srd/spells/Refuge\|Refuge]] (M):                             | Alters item to transport its possessor to you.                                                                   |

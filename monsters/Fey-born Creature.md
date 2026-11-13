@@ -35,11 +35,11 @@ Normal creatures that have the fortune of being born in the fey realm are imbued
 | 5–6 | *[[rangoric-srd/spells/Luck of the Fey|luck of the fey]]* |
 | 7–8 | *[[rangoric-srd/spells/Laughing Gas|laughing gas]]* |
 | 9–10 | *[[rangoric-srd/spells/Shrink Creature|shrink creature]]* |
-| 11–12 | *fork path* |
-| 13–14 | *stray from path* |
-| 15–16 | *fey curtain* |
+| 11–12 | *[[rangoric-srd/spells/Fork Path|fork path]]* |
+| 13–14 | *[[rangoric-srd/spells/Stray From Path|stray from path]]* |
+| 15–16 | *[[rangoric-srd/spells/Fey Curtain|fey curtain]]* |
 | 17–18 | *[[rangoric-srd/spells/Summon Fey IX|summon fey IX]]* |
-| 19+ | *create fey doorway and sideroad* |
+| 19+ | *[[rangoric-srd/spells/Create Doorway and Sideroad|create doorway and sideroad]]* |
 
 **Special Qualities**: A fey-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]]. Fey-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
 

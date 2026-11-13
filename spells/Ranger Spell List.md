@@ -39,6 +39,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Desperate Weapon\|Desperate Weapon]]: | Create an improvised weapon. |
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants.                                        |
+| [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F): | Senses the direction of doorways within 1 mile. |
 | [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
 | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                       | Detects poison in one creature or object.                                  |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]:     | Reveals natural or primitive traps.                                        |
@@ -124,6 +125,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Create Treasure Map\|Create Treasure Map]] (M): | Creates treasure map out of a creature's corpse. |
 | [[rangoric-srd/spells/Cure Light Wounds\|Cure Light Wounds]]:             | Cures 1d8 damage +1/level (max +5).                       |
 | [[rangoric-srd/spells/Delay Disease\|Delay Disease]]: | The target becomes temporarily immune to disease. |
+| [[rangoric-srd/spells/Detect Fey Doorway\|Detect Fey Doorway]] (F): | As *detect doorway*, for doorways to the fey realm, with a glimpse of the far end. |
 | [[rangoric-srd/spells/Disrobe\|Disrobe]]: | Strips a creature of its clothes and armor. |
 | [[rangoric-srd/spells/Eagle Eye\|Eagle Eye]]: | Creates a magical sensor high above you. |
 | [[rangoric-srd/spells/Effortless Armor\|Effortless Armor]]: | Armor you wear no longer slows your speed. |
@@ -266,6 +268,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).        |
 | [[rangoric-srd/spells/Darkvision, Communal\|Darkvision, Communal]] (M): | As darkvision, but you may divide the duration among creatures touched. |
 | [[rangoric-srd/spells/Darkvision, Greater\|Darkvision, Greater]] (M): | See 120 ft. in total darkness. |
+| [[rangoric-srd/spells/Discern Route\|Discern Route]] (M): | Learn the destination of a fey road. |
 | [[rangoric-srd/spells/Entice Fey, Lesser\|Entice Fey, Lesser]] (M): | Entice service from a fey with 6 Hit Dice or fewer. |
 | [[rangoric-srd/spells/Find Quarry\|Find Quarry]]: | You can sense whether a particular creature is within 20 miles of your location. |
 | [[rangoric-srd/spells/Freedom of Movement\|Freedom of Movement]]:         | Subject moves normally despite impediments. |
@@ -278,6 +281,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Sea Stallion\|Sea Stallion]]: | You and your mount adapt to an aquatic environment |
 | [[rangoric-srd/spells/Second Sight\|Second Sight]] (M): | See invisible creatures, fey-masked ones and those stepped sideways. |
 | [[rangoric-srd/spells/Sickening Strikes\|Sickening Strikes]]: | You are imbued with disease, and any creature you strike with a melee attack must make a Fortitude save or be sickened for 1 minute. |
+| [[rangoric-srd/spells/Step Sideways\|Step Sideways]]: | Step into the borderland between the world and the fey realm, and back. |
 | [[rangoric-srd/spells/Sturdy Tree Fort\|Sturdy Tree Fort]] (F): | Create a tree that supports a defensive fort within its branches |
 | [[rangoric-srd/spells/Summon Fey III\|Summon Fey III]]: | Calls a fey creature to fight for you. |
 | [[rangoric-srd/spells/Summon Nature’s Ally IV\|Summon Nature’s Ally IV]]: | Calls animal to fight for you.              |

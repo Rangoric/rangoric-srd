@@ -19,6 +19,7 @@ tags: [rangoric, rangoric/overview]
 | ----------------------------------------------------------------------- | ----------------------------------------------------- |
 | [[rangoric-srd/spells/Create Water\|Create Water]]:                   | Creates 2 gallons/level of pure water.                |
 | [[rangoric-srd/spells/Cure Minor Wounds\|Cure Minor Wounds]]:         | Cures 1 point of damage.                              |
+| [[rangoric-srd/spells/Detect Doorway\|Detect Doorway]] (F): | Senses the direction of doorways within 1 mile. |
 | [[rangoric-srd/spells/Detect Magic\|Detect Magic]]:                   | Detects spells and magic items within 60 ft.          |
 | [[rangoric-srd/spells/Detect Poison\|Detect Poison]]:                 | Detects poison in one creature or object.             |
 | [[rangoric-srd/spells/Flare\|Flare]]:                                 | Dazzles one creature (–1 penalty on attack rolls).    |
@@ -56,6 +57,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Detect Aberration\|Detect Aberration]]: | Detect presence of aberrations. |
 | [[rangoric-srd/spells/Detect Animals or Plants\|Detect Animals or Plants]]: | Detects kinds of animals or plants.                                        |
 | [[rangoric-srd/spells/Detect Fey\|Detect Fey]]: | Reveals fey creatures in a cone. |
+| [[rangoric-srd/spells/Detect Fey Doorway\|Detect Fey Doorway]] (F): | As *detect doorway*, for doorways to the fey realm, with a glimpse of the far end. |
 | [[rangoric-srd/spells/Detect Snares and Pits\|Detect Snares and Pits]]:     | Reveals natural or primitive traps.                                        |
 | [[rangoric-srd/spells/Detect the Faithful\|Detect the Faithful]]: | Find others of the same faith. |
 | [[rangoric-srd/spells/Diagnose Disease\|Diagnose Disease]]: | Detect and identify diseases. |
@@ -347,6 +349,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Control Water\|Control Water]]:                     | Raises or lowers bodies of water.                                                                            |
 | [[rangoric-srd/spells/Creeping Ice\|Creeping Ice]]: | Sheet of ice slowly spreads outward on a horizontal surface. |
 | [[rangoric-srd/spells/Cure Serious Wounds\|Cure Serious Wounds]]:         | Cures 3d8 damage +1/level (max +15).                                                                         |
+| [[rangoric-srd/spells/Discern Route\|Discern Route]] (M): | Learn the destination of a fey road. |
 | [[rangoric-srd/spells/Dispel Magic\|Dispel Magic]]:                       | Cancels spells and magical effects.                                                                          |
 | [[rangoric-srd/spells/Earth Glide\|Earth Glide]]: | The target can pass through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water, traveling at a speed of 5 feet. |
 | [[rangoric-srd/spells/Echolocation\|Echolocation]]: | Sonic sense gives you blindsight 40 ft. |
@@ -465,10 +468,12 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Fey Form III\|Fey Form III]] (M): | Assume the form of a Diminutive or Huge fey creature |
 | [[rangoric-srd/spells/Find the Path\|Find the Path]]:                     | Shows most direct way to a location.                       |
 | [[rangoric-srd/spells/Fire Seeds\|Fire Seeds]]:                           | Acorns and berries become grenades and bombs.              |
+| [[rangoric-srd/spells/Gate Seal\|Gate Seal]] (M): | Permanently seals a doorway, gate or portal. |
 | [[rangoric-srd/spells/Insect Spies, Greater\|Insect Spies, Greater]] (M): | Use magic beetles as spies and also share their senses. |
 | [[rangoric-srd/spells/Ironwood\|Ironwood]]:                               | Magic wood is strong as steel.                             |
 | [[rangoric-srd/spells/Liveoak\|Liveoak]]:                                 | Oak becomes treant guardian.                               |
 | [[rangoric-srd/spells/Move Earth\|Move Earth]]:                           | Digs trenches and builds hills.                            |
+| [[rangoric-srd/spells/Open Doorway\|Open Doorway]] (M): | Opens a fey doorway without its key; briefly negates *gate seal*. |
 | [[rangoric-srd/spells/Overwhelming Poison\|Overwhelming Poison]] (M): | Make a poison more difficult to resist. |
 | [[rangoric-srd/spells/Owl’s Wisdom, Mass\|Owl’s Wisdom, Mass]]:           | As owl’s wisdom, affects one subject/level.                |
 | [[rangoric-srd/spells/Path of the Winds\|Path of the Winds]]: | With a sweeping gesture, you call forth mighty winds to clear a path ahead of you. |
@@ -499,6 +504,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Black Mark\|Black Mark]] (M): | You mark the target with a black marking on its skin; The mark functions as a mark of justice but with respect to water. |
 | [[rangoric-srd/spells/Changestaff\|Changestaff]]:                               | Your staff becomes a treant on command.                                                                |
 | [[rangoric-srd/spells/Control Weather\|Control Weather]]:                       | Changes weather in local area.                                                                         |
+| [[rangoric-srd/spells/Create Doorway and Backroad\|Create Doorway and Backroad]] (M): | Creates two doorways and the backroad between them. |
 | [[rangoric-srd/spells/Creeping Doom\|Creeping Doom]]:                           | Swarms of centipedes attack at your command.                                                           |
 | [[rangoric-srd/spells/Cure Moderate Wounds, Mass\|Cure Moderate Wounds, Mass]]: | Cures 2d8 damage +1/level for many creatures.                                                          |
 | [[rangoric-srd/spells/Delectable Flesh\|Delectable Flesh]]: | Make a creature so delicious that all others nearby are consumed by the desire to eat it. |
@@ -530,6 +536,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Atavism, Mass\|Atavism, Mass]]: | One animal/level gains advanced template. |
 | [[rangoric-srd/spells/Blood Mist\|Blood Mist]] (M): | Mist causes Wisdom damage and rage. |
 | [[rangoric-srd/spells/Control Plants\|Control Plants]]:                       | Control actions of one or more plant creatures.                                                                  |
+| [[rangoric-srd/spells/Create Doorway and Sideroad\|Create Doorway and Sideroad]] (M): | As *create doorway and backroad*, but the road leads to the fey realm. |
 | [[rangoric-srd/spells/Cure Serious Wounds, Mass\|Cure Serious Wounds, Mass]]: | Cures 3d8 damage +1/level for many creatures.                                                                    |
 | [[rangoric-srd/spells/Earthquake\|Earthquake]]:                               | Intense tremor shakes 5-ft./level radius.                                                                        |
 | [[rangoric-srd/spells/Euphoric Tranquility\|Euphoric Tranquility]] (M): | Makes a creature friendly. |

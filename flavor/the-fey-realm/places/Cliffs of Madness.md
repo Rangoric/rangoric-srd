@@ -26,7 +26,7 @@ Seafarers who find themselves trapped between impassable cliffs and precariously
 
 ***Legends & Lore***
 
-*Common:* Climbers trying to scale the cliffs have found that their height is nearly limitless. They also discover that the base becomes just as difficult to reach as the top once they have begun a climb. A Crossing Over check is required to reach the top or bottom of the cliffs.
+*Common:* Climbers trying to scale the cliffs have found that their height is nearly limitless. They also discover that the base becomes just as difficult to reach as the top once they have begun a climb. A [[rangoric-srd/feats/Crossing Over|Crossing Over]] check is required to reach the top or bottom of the cliffs.
 
 *Uncommon:* Those who decide to jump in order to circumvent the climb find they still need to perform a Crossing Over attempt, often resulting in their journey coming to an abrupt and painful end at the base.
 
