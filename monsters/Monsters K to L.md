@@ -13,6 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Kobold - Lycanthrope
 
+  - [[rangoric-srd/monsters/Kin o’ the Green|Kin o’ the Green]]
   - [[rangoric-srd/monsters/Kobold|Kobold]]
   - [[rangoric-srd/monsters/Korred|Korred]]
   - [[rangoric-srd/monsters/Kraken|Kraken]]

@@ -46,7 +46,7 @@ The Erlixir of Winter’s Legacy comes in a small black ceramic bottle with a hu
 | 93-96 | Other Plant (GM’s choice) | ? | ? | ? |
 | 97-00 | Other (GM’s choice) | ? | ? | ? |
 
-\*: Refer to the [[rangoric-srd/monsters/lycanthrope/Lycanthrope|lycanthrope]] template and the kin o’ the green template for details to add about these new templates in effect on the person’s now revived form.
+\*: Refer to the [[rangoric-srd/monsters/lycanthrope/Lycanthrope|lycanthrope]] template and the [[rangoric-srd/monsters/Kin o’ the Green|kin o’ the green]] template for details to add about these new templates in effect on the person’s now revived form.
 
 **Construction**: CL 17th; [[rangoric-srd/skills/Profession|Profession]] (herbalist), [[rangoric-srd/feats/Create Erlcana|Create Erlcana]]; DC: 35; Market Price: 104,000 gp; Cost to Create: 52,000 gp
 
