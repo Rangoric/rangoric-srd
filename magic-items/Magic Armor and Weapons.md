@@ -224,9 +224,13 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Frosted\|Frosted]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Gaze Protection\|Gaze Protection]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Grace (Armor Special Ability)\|Grace]] | +1 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Grinding\|Grinding]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Hardened\|Hardened]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Healing (Armor Special Ability)\|Healing]] | +1 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Impervious (Armor Special Ability)\|Impervious]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Inspiration (Armor Special Ability)\|Inspiration]] | +1 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Mirrored\|Mirrored]] | +1 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Offensive Spell Storing\|Offensive Spell Storing]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Photosynthetic\|Photosynthetic]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Picker\|Picker]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Piercing Resistance\|Piercing Resistance]] | +1 bonus | Armor Special Ability |
@@ -235,13 +239,17 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Quick Don\|Quick Don]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Quick Release\|Quick Release]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Quickness\|Quickness]] | +1 bonus | Psionic Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Ramming\|Ramming]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Ranged\|Ranged]] | +1 bonus | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Reduction\|Reduction]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Revealing\|Revealing]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Rust Proof\|Rust Proof]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Slashing Resistance\|Slashing Resistance]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing (Arms & Armor)\|Spell Storing (Arms & Armor)]] | +1 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Stanching\|Stanching]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Storing (Armor Special Ability)\|Storing]] | +1 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Vouchsafing\|Vouchsafing]] | +1 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Warding\|Warding]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Water Breathing (Armor Special Ability)\|Water Breathing]] | +1 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Animated\|Animated]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Aquan\|Aquan]] | +2 bonus | Armor Special Ability |
@@ -256,9 +264,11 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Grasping\|Grasping]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Grotesque\|Grotesque]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Healing, Greater\|Healing, Greater]] | +2 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Jarring\|Jarring]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Journeying\|Journeying]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Leadership (Armor Special Ability)\|Leadership]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Magnetic\|Magnetic]] | +2 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Merging\|Merging]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Morphic\|Morphic]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Muse (Armor Special Ability)\|Muse]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Ritual Combat\|Ritual Combat]] | +2 bonus | Armor Special Ability |
@@ -267,7 +277,9 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Shifting\|Shifting]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Smoking\|Smoking]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Solace (Armor Special Ability)\|Solace]] | +2 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Spell Dodging\|Spell Dodging]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Spell Reflection (Armor Special Ability)\|Spell Reflection]] | +2 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Steaming\|Steaming]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Stowing\|Stowing]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Terran\|Terran]] | +2 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Totem (Armor Special Ability)\|Totem]] | +2 bonus | Armor Special Ability |
@@ -296,10 +308,12 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Retributive\|Retributive]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Runic (Armor Special Ability)\|Runic]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Rusting (Armor Special Ability)\|Rusting]] | +3 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Sensing (Armor Special Ability)\|Sensing]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Spell Resisting, Enhanced\|Spell Resisting, Enhanced]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Spell Storing, Greater (Armor Special Ability)\|Spell Storing, Greater]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Steelspray\|Steelspray]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Thorny (Armor Special Ability)\|Thorny]] | +3 bonus | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Titanic\|Titanic]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Undetectable (Armor Special Ability)\|Undetectable]] | +3 bonus | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Vanishing\|Vanishing]] | +3 bonus | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Wild\|Wild]] | +3 bonus | Armor Special Ability |
@@ -327,19 +341,30 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Emergency Reservoirs\|Emergency Reservoirs]] | 540 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Heartening\|Heartening]] | +720 gp | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Imprinted (Armor Special Ability)\|Imprinted]] | +2,000 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Poison-Resistant\|Poison-Resistant]] | +2,250 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Glamered\|Glamered]] | +2,700 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Reshaping\|Reshaping]] | +2,700 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Acrobat\|Acrobat]] | +3,750 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Jousting\|Jousting]] | +3,750 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Shadow (Armor Special Ability)\|Shadow]] | +3,750 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Silent Moves\|Silent Moves]] | +3,750 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Slick\|Slick]] | +3,750 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Expeditious\|Expeditious]] | +4,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Floating\|Floating]] | +4,000 gp | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Landing\|Landing]] | +4,000 gp | Psionic Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Restful\|Restful]] | +4,500 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Rallying\|Rallying]] | +5,000 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Wyrmsbreath\|Wyrmsbreath]] | +5,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Linked\|Linked]] | +6,000 gp | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Seeing\|Seeing]] | +6,000 gp | Psionic Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Spiteful\|Spiteful]] | +7,000 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Hosteling\|Hosteling]] | +7,500 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Trackless\|Trackless]] | +7,500 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Putrid\|Putrid]] | +10,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Ectoplasmic\|Ectoplasmic]] | +10,800 gp | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Manifester (Psionic Armor Special Ability)\|Manifester (Psionic Armor Special Ability)]] | +10,800 gp | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Averter\|Averter]] | +12,960 gp | Psionic Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Harmonizing\|Harmonizing]] | +15,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Shadow, Improved\|Shadow, Improved]] | +15,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Silent Moves, Improved\|Silent Moves, Improved]] | +15,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Slick, Improved\|Slick, Improved]] | +15,000 gp | Armor Special Ability |
@@ -347,11 +372,16 @@ Every armor and shield special ability, by price:
 | [[rangoric-srd/magic-items/armor-abilities/Cold Resistance\|Cold Resistance]] | +18,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Electricity Resistance\|Electricity Resistance]] | +18,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Fire Resistance\|Fire Resistance]] | +18,000 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Martyring\|Martyring]] | +18,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Negative Energy Resistance\|Negative Energy Resistance]] | +18,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Positive Energy Resistance\|Positive Energy Resistance]] | +18,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Sonic Resistance\|Sonic Resistance]] | +18,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Wall\|Wall]] | +20,160 gp | Psionic Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Mindarmor\|Mindarmor]] | +24,000 gp | Psionic Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Righteous\|Righteous]] | +27,000 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Unbound\|Unbound]] | +27,000 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Unrighteous\|Unrighteous]] | +27,000 gp | Armor Special Ability |
+| [[rangoric-srd/magic-items/armor-abilities/Vigilant\|Vigilant]] | +27,000 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Shadow, Greater\|Shadow, Greater]] | +33,750 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Silent Moves, Greater\|Silent Moves, Greater]] | +33,750 gp | Armor Special Ability |
 | [[rangoric-srd/magic-items/armor-abilities/Slick, Greater\|Slick, Greater]] | +33,750 gp | Armor Special Ability |
