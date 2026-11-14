@@ -17,6 +17,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Wounding
 
-A wounding weapon deals 1 point of Constitution damage from blood loss when it hits a creature. A critical hit does not multiply the Constitution damage. Creatures immune to critical hits (such as plants and constructs) are immune to the Constitution damage dealt by this weapon.
+A wounding weapon deals 1 point of Constitution damage from blood loss when it hits a creature. A critical hit does not multiply the Constitution damage. Creatures immune to critical hits (such as oozes and elementals) are immune to the Constitution damage dealt by this weapon.
 
 Moderate evocation; CL 10th; Craft Magic Arms and Armor, mage’s sword; Price +2 bonus.
