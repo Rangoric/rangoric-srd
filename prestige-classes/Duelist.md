@@ -77,7 +77,7 @@ At 8th level, the bonus increases to +4. This bonus stacks with the benefit prov
 
 **Precise Strike (Ex)**: A duelist gains the ability to strike precisely with a light or one-handed piercing weapon, adding her duelist level to her damage roll. At 5th level, a precise strike also deals an extra 1d6 damage.
 
-When making a precise strike, a duelist cannot attack with a weapon in her other hand or use a shield. A duelist’s precise strike only works against living creatures with discernible anatomies. Any creature that is immune to critical hits is not vulnerable to a precise strike, and any item or ability that protects a creature from critical hits also protects a creature from a precise strike. At 10th level, the extra damage on a precise strike increases to +2d6.
+When making a precise strike, a duelist cannot attack with a weapon in her other hand or use a shield. Any creature that is immune to critical hits is not vulnerable to a precise strike, and any item or ability that protects a creature from critical hits also protects a creature from a precise strike. At 10th level, the extra damage on a precise strike increases to +2d6.
 
 **Riposte (Ex)**: Starting at 5th level, a duelist can make an attack of opportunity against any creature whose attack she successfully parries, so long as the creature she is attacking is within reach.
 
