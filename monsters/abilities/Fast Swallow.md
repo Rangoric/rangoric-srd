@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 *[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “fast swallow”, on the Special Attacks line.
 
-The creature can use its [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]] ability as a free action at any time during its turn, not just at the start of its turn.
+The creature can use its [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] ability as a free action at any time during its turn, not just at the start of its turn.

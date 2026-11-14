@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 *[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “keen scent”, on the Special Qualities line.
 
-The creature can notice other creatures by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] in a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.
+The creature can notice other creatures by [[rangoric-srd/monsters/abilities/Scent|scent]] in a 180-foot radius underwater and can detect blood in the water at ranges of up to a mile.
