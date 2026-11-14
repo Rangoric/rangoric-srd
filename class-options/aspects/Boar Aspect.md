@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 **Minor Form**: You gain [[rangoric-srd/feats/Diehard|Diehard]] as a bonus feat.
 
-At 8th level, you add your Hit Dice to your Constitution when determining the negative number of hit points at which you die.
+At 8th level, you add your Hit Dice to your Constitution when determining [[rangoric-srd/combat/Injury and Death#^death|the negative number of hit points at which you die]].
 
 **Major Form**: Your shape changes to that of a dire boar. While in this form, you gain [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]], the [[rangoric-srd/rules/Special Abilities and Conditions#Scent|scent]] ability, a gore attack (1d8), and a base speed of 40 feet.
 

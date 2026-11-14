@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Human|Human]]. **Replaces**: skilled.
 
-Humans raised in the wild learn the hard way that only the strong survive. They gain a racial bonus equal to half their character level on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. They also gain a +5 racial bonus on Constitution checks to stabilize when dying and add half their character level to their Constitution score when determining the negative hit point total necessary to kill them.
+Humans raised in the wild learn the hard way that only the strong survive. They gain a racial bonus equal to half their character level on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. They also gain a +5 racial bonus on [[rangoric-srd/combat/Injury and Death#^stabilizing|Constitution checks to stabilize]] when dying and add half their character level to their Constitution score when determining [[rangoric-srd/combat/Injury and Death#^death|the negative hit point total necessary to kill them]].

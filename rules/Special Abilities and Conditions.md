@@ -186,7 +186,7 @@ In most cases, a death attack allows the victim a Fortitude save to avoid the af
 
   - Death attacks slay instantly. A victim cannot be made stable and thereby kept alive.
 
-  - In case it matters, a dead character, no matter how she died, has –10 hit points.
+  - In case it matters, a dead character, no matter how she died, has fallen to the negative hit points that [[rangoric-srd/combat/Injury and Death#^death|kill]] her.
 
   - The spell death ward protects a character against these attacks.
 
@@ -546,15 +546,15 @@ A dazed condition typically lasts 1 round. ^dazed
 
 **Dazzled**: The creature is unable to see well because of overstimulation of the eyes. A dazzled creature takes a –1 penalty on attack rolls, [[rangoric-srd/skills/Investigation|Investigation]] checks, and [[rangoric-srd/skills/Perception|Perception]] checks. ^dazzled
 
-**Dead**: The character’s hit points are reduced to –10, his Constitution drops to 0, or he is killed outright by a spell or effect. The character’s soul leaves his body. Dead characters cannot benefit from normal or magical healing, but they can be restored to life via magic. A dead body decays normally unless magically preserved, but magic that restores a dead character to life also restores the body either to full health or to its condition at the time of death (depending on the spell or device). Either way, resurrected characters need not worry about rigor mortis, decomposition, and other conditions that affect dead bodies. ^dead
+**Dead**: The character’s hit points fall low enough to [[rangoric-srd/combat/Injury and Death#^death|kill him]], his Constitution drops to 0, or he is killed outright by a spell or effect. The character’s soul leaves his body. Dead characters cannot benefit from normal or magical healing, but they can be restored to life via magic. A dead body decays normally unless magically preserved, but magic that restores a dead character to life also restores the body either to full health or to its condition at the time of death (depending on the spell or device). Either way, resurrected characters need not worry about rigor mortis, decomposition, and other conditions that affect dead bodies. ^dead
 
 **Deafened**: A deafened character cannot hear. She takes a –4 penalty on initiative checks, automatically fails [[rangoric-srd/skills/Perception|Perception]] checks, and has a 20% chance of spell failure when casting spells with verbal components. Characters who remain deafened for a long time grow accustomed to these drawbacks and can overcome some of them. ^deafened
 
 **Disabled**: A character with 0 hit points, or one who has negative hit points but has become [[#^stable|stable]] and conscious, is disabled. A disabled character may take a single move action or standard action each round (but not both, nor can she take full-round actions). She moves at half speed. Taking move actions doesn’t risk further injury, but performing any standard action (or any other action the DM deems strenuous, including some free actions such as casting a quickened spell) deals 1 point of damage after the completion of the act. Unless the action increased the disabled character’s hit points, she is now in negative hit points and dying. ^disabled
 
-A disabled character with negative hit points recovers hit points naturally if she is being helped. Otherwise, each day she has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, she loses 1 hit point. Once an unaided character starts recovering hit points naturally, she is no longer in danger of losing hit points (even if her current hit points are negative).
+A disabled character with negative hit points recovers hit points naturally if she is being helped. Otherwise, once a day after resting for 8 hours, she makes a [[rangoric-srd/combat/Injury and Death#Stable Characters and Recovery|Constitution check]] to begin recovering hit points naturally; failing it costs her 1 hit point, but doesn’t make her unconscious. Once an unaided character makes this check, she is no longer in danger of losing hit points (even if her current hit points are negative).
 
-**Dying**: A dying character is [[#^unconscious|unconscious]] and near death. She has –1 to ⏻9 current hit points. A dying character can take no actions and is unconscious. At the end of each round (starting with the round in which the character dropped below 0 hit points), the character rolls d% to see whether she becomes stable. She has a 10% chance to become stable. If she does not, she loses 1 hit point. If a dying character reaches –10 hit points, she is dead. ^dying
+**Dying**: A dying character is [[#^unconscious|unconscious]] and near death: she has negative hit points, isn’t dead, and hasn’t become [[#^stable|stable]]. A dying character can take no actions. Each turn she makes a [[rangoric-srd/combat/Injury and Death#^stabilizing|Constitution check to become stable]]; if she fails, she loses 1 hit point. If her hit points fall low enough to [[rangoric-srd/combat/Injury and Death#^death|kill her]], she is dead. ^dying
 
 **Energy Drained**: The character gains one or more negative levels, which might permanently drain the character’s levels. If the subject has at least as many negative levels as Hit Dice, he dies. Each negative level gives a creature the following penalties: –1 penalty on attack rolls, saving throws, skill checks, ability checks; loss of 5 hit points; and –1 to effective level (for determining the power, duration, DC, and other details of spells or special abilities). In addition, a spellcaster loses one spell or spell slot from the highest spell level castable.  
 Alos see [[#Energy Drain and Negative Levels|Energy Drain and Negative Levels]].  
@@ -610,9 +610,9 @@ Shaken is a less severe state of fear than [[#^frightened|frightened]] or [[#^pa
 
 **Sickened**: The character takes a –2 penalty on all attack rolls, weapon damage rolls, saving throws, skill checks, and ability checks. ^sickened
 
-**Stable**: A character who was [[#^dying|dying]] but who has stopped losing hit points and still has negative hit points is stable. The character is no longer dying, but is still [[#^unconscious|unconscious]]. If the character has become stable because of aid from another character (such as a [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check or magical healing), then the character no longer loses hit points. He has a 10% chance each hour of becoming conscious and [[#^disabled|disabled]] (even though his hit points are still negative). ^stable
+**Stable**: A character who was [[#^dying|dying]] but who has stopped losing hit points and still has negative hit points is stable. The character is no longer dying, but is still [[#^unconscious|unconscious]]. If the character has become stable because of aid from another character (such as a [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check or magical healing), then the character no longer loses hit points. Each hour, he makes a [[rangoric-srd/combat/Injury and Death#Stable Characters and Recovery|Constitution check]] to become conscious and [[#^disabled|disabled]] (even though his hit points are still negative). ^stable
 
-If the character became stable on his own and hasn’t had help, he is still at risk of losing hit points. Each hour, he has a 10% chance of becoming conscious and disabled. Otherwise he loses 1 hit point.
+If the character became stable on his own and hasn’t had help, he is still at risk of losing hit points. He makes the same check each hour, but each failed check costs him 1 hit point.
 
 **Staggered**: A character whose nonlethal damage exactly equals his current hit points is staggered. A staggered character may take a single move action or standard action each round (but not both, nor can she take full-round actions). ^staggered
 
@@ -622,4 +622,4 @@ A character whose current hit points exceed his nonlethal damage is no longer st
 
 **Turned**: Affected by a turn undead attempt. Turned undead flee for 10 rounds (1 minute) by the best and fastest means available to them. If they cannot flee, they cower. ^turned
 
-**Unconscious**: Knocked out and [[#^helpless|helpless]]. Unconsciousness can result from having current hit points between –1 and –9, or from nonlethal damage in excess of current hit points. ^unconscious
+**Unconscious**: Knocked out and [[#^helpless|helpless]]. Unconsciousness can result from having negative hit points (but not enough to [[rangoric-srd/combat/Injury and Death#^death|kill]]), or from nonlethal damage in excess of current hit points. ^unconscious

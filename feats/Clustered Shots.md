@@ -19,4 +19,4 @@ You take a moment to carefully aim your shots, causing them all to strike nearly
 
 **Benefit**: When you use a full attack to make several ranged weapon attacks against the same opponent, total the damage from all the hits before applying its damage reduction.
 
-**Special**: If the total is enough for [[rangoric-srd/combat/Injury and Death#Loss of Hit Points|massive damage]], it counts as massive damage.
+**Special**: If the total is enough for [[rangoric-srd/combat/Injury and Death#^massive-damage|massive damage]], it counts as massive damage.
