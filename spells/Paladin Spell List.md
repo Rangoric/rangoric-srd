@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Paladin Spell List|Paladin Spell List (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -200,7 +200,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Red Hand of the Killer\|Red Hand of the Killer]] (M F): | Stain the hand of a creature's killer red. |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
 | [[rangoric-srd/spells/Resounding Blow\|Resounding Blow]]: | Melee attack deals 1d6 more damage. |
-| [[rangoric-srd/spells/Restoration\|Restoration]] (M):             | Restores level and ability score drains.                                  |
+| [[rangoric-srd/spells/Restoration\|Restoration]] (M):             | Removes negative levels and ability drain.                                  |
 | [[rangoric-srd/spells/Sacrificial Oath\|Sacrificial Oath]]: | Take damage for an ally for many rounds. |
 | [[rangoric-srd/spells/Sea Stallion\|Sea Stallion]]: | You and your mount adapt to an aquatic environment |
 | [[rangoric-srd/spells/Speak with Soul\|Speak with Soul]] (M): | Hold an extended conversation with a soul |

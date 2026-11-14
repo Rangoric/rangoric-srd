@@ -4,6 +4,7 @@ section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/glossary/Conditions|Conditions (PF1)]]"
+  - "[[path srd 3.5/rules/core-rulebook/glossary/Special Abilities#Energy Drain and Negative Levels|Energy Drain and Negative Levels (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -196,21 +197,17 @@ Diseases are [[rangoric-srd/rules/Afflictions#Disease|afflictions]]: how a disea
 
 ##### Energy Drain and Negative Levels
 
-Some horrible creatures, especially undead monsters, possess a fearsome supernatural ability to drain levels from those they strike in combat. The creature making an energy drain attack draws a portion of its victim’s life force from her. Most energy drain attacks require a successful melee attack roll — mere physical contact is not enough. Each successful energy drain attack bestows one or more negative levels on the opponent. A creature takes the following penalties for each negative level it has gained.
+Some spells and a number of undead creatures have the ability to drain away life and energy; this dreadful attack results in “negative levels.” These cause a character to take a number of penalties. Most energy drain attacks require a successful melee attack roll — mere physical contact is not enough. Each successful energy drain attack bestows one or more negative levels on the opponent.
 
-–1 on all skill checks and ability checks.
+For each negative level a creature has, it takes a cumulative –1 penalty on all ability checks, attack rolls, [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Bonus|combat maneuver checks]], [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|Combat Maneuver Defense]], saving throws, and skill checks. In addition, the creature reduces its current and total hit points by 5 for each negative level it possesses. The creature is also treated as one level lower for the purpose of level-dependent variables (such as spellcasting) for each negative level possessed. Spellcasters do not lose any prepared spells or slots as a result of negative levels. If a creature’s negative levels equal or exceed its total Hit Dice, it dies. ^negative-levels
 
-–1 on attack rolls and saving throws.
+A creature with temporary negative levels receives a new saving throw to remove the negative level each day. The DC of this save is the same as the effect that caused the negative levels. A negative level is temporary unless its source says it is permanent: a failed save against [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] or the *[[rangoric-srd/spells/Energy Drain|energy drain]]* spell makes the negative level permanent, and some effects bestow [[#^permanent-negative-levels|permanent negative levels]] directly. An effect can also say otherwise, such as negative levels that end after a set time or last only while an item is held or worn. ^negative-level-save
 
-–5 hit points.
+Permanent negative levels are treated just like temporary negative levels, but they do not allow a new save each day to remove them. A permanent negative level never costs the creature a level: the creature keeps its levels, Hit Dice, and experience points. Permanent negative levels are removed with spells such as *[[rangoric-srd/spells/Restoration|restoration]]* and *[[rangoric-srd/spells/Restoration, Greater|greater restoration]]*. Some effects, such as *[[rangoric-srd/spells/Raise Dead|raise dead]]*, bestow permanent negative levels directly. Permanent negative levels remain after a dead creature is restored to life. A creature whose permanent negative levels equal its Hit Dice cannot be brought back to life through spells like *[[rangoric-srd/spells/Raise Dead|raise dead]]* and *[[rangoric-srd/spells/Resurrection|resurrection]]* without also receiving a *[[rangoric-srd/spells/Restoration|restoration]]* spell, cast the round after it is restored to life. ^permanent-negative-levels
 
-–1 effective level (whenever the creature’s level is used in a die roll or calculation, reduce it by one for each negative level).
+A creature slain by negative levels may rise again, depending on the creature that killed it: if the slayer has a create spawn ability, the slain creature rises as that ability says, as a monster of the slayer’s kind. If not, it rises as a [[rangoric-srd/monsters/Wight|wight]] the next night, with the wight’s statistics. ^energy-drain-spawn
 
-If the victim casts spells, she loses access to one spell as if she had cast her highest-level, currently available spell. (If she has more than one spell at her highest level, she chooses which she loses.) In addition, when she next prepares spells or regains spell slots, she gets one less spell slot at her highest spell level.
-
-Negative levels remain for 24 hours or until removed with a spell, such as restoration. After 24 hours, the afflicted creature must attempt a Fortitude save (DC 10 + 1/2 attacker’s HD + attacker’s Cha modifier). (The DC is provided in the attacker’s description.) If the saving throw succeeds, the negative level goes away with no harm to the creature. The afflicted creature makes a separate saving throw for each negative level it has gained. If the save fails, the negative level goes away, but the creature’s level is also reduced by one.
-
-A character with negative levels at least equal to her current level, or drained below 1st level, is instantly slain. Depending on the creature that killed her, she may rise the next night as a monster of that kind. If not, she rises as a wight. A creature gains 5 temporary hit points for each negative level it bestows (though not if the negative level is caused by a spell or similar effect).
+A creature gains 5 temporary hit points for each negative level it bestows (though not if the negative level is caused by a spell or similar effect). An energy drain attack that scores a critical hit bestows twice the listed number of negative levels, and so gives twice the temporary hit points. ^energy-drain-hit-points
 
 ##### Etherealness
 
@@ -339,12 +336,6 @@ Incorporeal creatures do not leave footprints, have no scent, and make no noise 
 ##### Invisibility
 
 ![[rangoric-srd/rules/conditions/Invisibility (Condition)#How Invisibility Works]]
-
-##### Level Loss
-
-A character who loses a level instantly loses one Hit Die. The character’s base attack bonus, base saving throw bonuses, and special class abilities are now reduced to the new, lower level. Likewise, the character loses any ability score gain, skill ranks, and any feat associated with the level (if applicable). If the exact ability score or skill ranks increased from a level now lost is unknown (or the player has forgotten), lose 1 point from the highest ability score or ranks from the highest-ranked skills. If a familiar or companion creature has abilities tied to a character who has lost a level, the creature’s abilities are adjusted to fit the character’s new level.
-
-The victim’s experience point total is immediately set to the midpoint of the previous level.
 
 ##### Light Blindness
 
@@ -546,9 +537,7 @@ A disabled character with negative hit points recovers hit points naturally if s
 
 **Dying**: A dying character is [[#^unconscious|unconscious]] and near death: she has negative hit points, isn’t dead, and hasn’t become [[#^stable|stable]]. A dying character can take no actions. Each turn she makes a [[rangoric-srd/combat/Injury and Death#^stabilizing|Constitution check to become stable]]; if she fails, she loses 1 hit point. If her hit points fall low enough to [[rangoric-srd/combat/Injury and Death#^death|kill her]], she is dead. ^dying
 
-**Energy Drained**: The character gains one or more negative levels, which might permanently drain the character’s levels. If the subject has at least as many negative levels as Hit Dice, he dies. Each negative level gives a creature the following penalties: –1 penalty on attack rolls, saving throws, skill checks, ability checks; loss of 5 hit points; and –1 to effective level (for determining the power, duration, DC, and other details of spells or special abilities). In addition, a spellcaster loses one spell or spell slot from the highest spell level castable.  
-Alos see [[#Energy Drain and Negative Levels|Energy Drain and Negative Levels]].  
- ^energy-drained
+**Energy Drained**: The character gains one or more [[#^negative-levels|negative levels]], which might become [[#^permanent-negative-levels|permanent]]. If the subject has at least as many negative levels as Hit Dice, he dies. See [[#Energy Drain and Negative Levels|Energy Drain and Negative Levels]] for the penalties and how negative levels go away. ^energy-drained
 
 **Entangled**: The character is ensnared. Being entangled impedes movement, but does not entirely prevent it unless the bonds are anchored to an immobile object or tethered by an opposing force. An entangled creature moves at half speed, cannot run or [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]], and takes a –2 penalty on all attack rolls and a –4 penalty to Dexterity. An entangled character who attempts to cast a spell or manifest a power must make a [[rangoric-srd/rules/Concentration (Check)|Concentration check]] or lose it. ^entangled
 

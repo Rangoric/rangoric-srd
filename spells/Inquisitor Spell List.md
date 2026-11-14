@@ -346,7 +346,7 @@ The spells an [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-spells|inqui
 | [[rangoric-srd/spells/Red Hand of the Killer\|Red Hand of the Killer]] (M F): | Stain the hand of a creature's killer red. |
 | [[rangoric-srd/spells/Replay Tracks\|Replay Tracks]] (F): | Reconstruct past events from a set of tracks |
 | [[rangoric-srd/spells/Reprobation\|Reprobation]]: | Marked target is shunned by your religion. |
-| [[rangoric-srd/spells/Restoration\|Restoration]] (M): | Restores level and ability score [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drains]]. |
+| [[rangoric-srd/spells/Restoration\|Restoration]] (M): | Removes negative levels and ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drain]]. |
 | [[rangoric-srd/spells/Sanctify Armor\|Sanctify Armor]]: | +1 AC/four levels (max +5). |
 | [[rangoric-srd/spells/Sending\|Sending]]: | Delivers short message anywhere, instantly. |
 | [[rangoric-srd/spells/Sessile Spirit\|Sessile Spirit]]: | Cause a spirit inhabiting a creature or an object to go dormant. |

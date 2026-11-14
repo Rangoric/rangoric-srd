@@ -213,7 +213,7 @@ The spells a [[rangoric-srd/classes/Shaman#^shaman-spells|shaman]] can prepare. 
 | [[rangoric-srd/spells/Rain of Frogs\|Rain of Frogs]] (M): | Summon a swarm of poisonous frogs. |
 | [[rangoric-srd/spells/Reincarnate\|Reincarnate]]: | Brings [[rangoric-srd/rules/Special Abilities and Conditions#^dead\|dead]] subject back in a random body. |
 | [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]: | Insects, spiders, and other vermin stay 10 ft. away. |
-| [[rangoric-srd/spells/Restoration\|Restoration]] (M): | Restores level and ability score [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drains]]. |
+| [[rangoric-srd/spells/Restoration\|Restoration]] (M): | Removes negative levels and ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drain]]. |
 | [[rangoric-srd/spells/Ride the Waves\|Ride the Waves]]: | Target can breathe water and swim. |
 | [[rangoric-srd/spells/Sands of Time\|Sands of Time]]: | Target temporarily ages. |
 | [[rangoric-srd/spells/Scrying\|Scrying]] (F): | Spies on subject from a distance. |
@@ -300,7 +300,7 @@ The spells a [[rangoric-srd/classes/Shaman#^shaman-spells|shaman]] can prepare. 
 | [[rangoric-srd/spells/Liveoak\|Liveoak]]: | Oak becomes treant guardian. |
 | [[rangoric-srd/spells/Plane Shift\|Plane Shift]] (F): | As many as eight subjects travel to another plane. |
 | [[rangoric-srd/spells/Regenerate\|Regenerate]]: | Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35). |
-| [[rangoric-srd/spells/Restoration, Greater\|Restoration, Greater]] (X): | As restoration, plus restores all levels and ability scores. |
+| [[rangoric-srd/spells/Restoration, Greater\|Restoration, Greater]] (M): | As restoration, plus removes all negative levels and restores all ability scores. |
 | [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]: | As scrying, but faster and longer. |
 | [[rangoric-srd/spells/Stone Tell\|Stone Tell]]: | Talk to natural or worked stone. |
 | [[rangoric-srd/spells/Sunbeam\|Sunbeam]]: | Beam [[rangoric-srd/rules/Special Abilities and Conditions#^blinded\|blinds]] and deals 4d6 damage. |

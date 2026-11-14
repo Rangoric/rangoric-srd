@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Cleric Spell List|Cleric Spell List (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -379,7 +379,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Red Hand of the Killer\|Red Hand of the Killer]] (M F): | Stain the hand of a creature's killer red. |
 | [[rangoric-srd/spells/Repel Vermin\|Repel Vermin]]:                         | Insects, spiders, and other vermin stay 10 ft. away.                                                                  |
 | [[rangoric-srd/spells/Rest Eternal\|Rest Eternal]] (M): | Dead creature cannot be revived. |
-| [[rangoric-srd/spells/Restoration\|Restoration]] (M):                       | Restores level and ability score [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drains]]. |
+| [[rangoric-srd/spells/Restoration\|Restoration]] (M):                       | Removes negative levels and ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drain]]. |
 | [[rangoric-srd/spells/Ride the Waves\|Ride the Waves]]: | Target can breathe water and swim. |
 | [[rangoric-srd/spells/Sending\|Sending]]:                                   | Delivers short message anywhere, instantly.                                                                           |
 | [[rangoric-srd/spells/Shield of Fortification, Greater\|Shield of Fortification, Greater]]: |  |
@@ -564,7 +564,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Refuge\|Refuge]] (M):                                         | Alters item to transport its possessor to you.                                                                                                                                                    |
 | [[rangoric-srd/spells/Regenerate\|Regenerate]]:                                     | Subject’s severed limbs grow back, cures 4d8 damage +1/level (max +35).                                                                                                                           |
 | [[rangoric-srd/spells/Repulsion\|Repulsion]]:                                       | Creatures can’t approach you.                                                                                                                                                                     |
-| [[rangoric-srd/spells/Restoration, Greater\|Restoration, Greater]] (X):             | As restoration, plus restores all levels and ability scores.                                                                                                                                      |
+| [[rangoric-srd/spells/Restoration, Greater\|Restoration, Greater]] (M):             | As restoration, plus removes all negative levels and restores all ability scores.                                                                                                                                      |
 | [[rangoric-srd/spells/Resurrection\|Resurrection]] (M):                             | Fully restore [[rangoric-srd/rules/Special Abilities and Conditions#^dead\|dead]] subject.                                                                                                     |
 | [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]:                         | As scrying, but faster and longer.                                                                                                                                                                |
 | [[rangoric-srd/spells/Summon Fey VII\|Summon Fey VII]]: | Calls a fey creature to fight for you. |

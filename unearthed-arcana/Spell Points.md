@@ -162,7 +162,7 @@ For example, a 5th-level cleric/2nd-level bard has 15 spell points (plus bonus s
 
 ##### Miscellaneous Issues
 
-When a character would lose a spell slot (such as from gaining a negative level), he instead loses the number of spell points required to cast his highest level spell.
+When a character would lose a spell slot (such as from being raised from the dead), he instead loses the number of spell points required to cast his highest level spell.
 
 Spells that allow a character to recall or recast a spell don't function in this system. (It doesn't make any sense to have a spell that gives you more spell points, since you're either paying more than you get, getting nothing, or getting more than you paid.) Items that function similarly can work, but differently - they restore a number of spell points required to cast a spell of that level. A Pearl of Power for 3rd-level spells, for instance, would restore 5 spell points to a character's pool of available points when activated.
 

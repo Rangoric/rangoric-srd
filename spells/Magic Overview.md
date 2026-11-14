@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/magic/Casting Spells#Bringing Back the Dead|Bringing Back the Dead (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -79,9 +80,7 @@ Many special spell effects are handled according to the school of the spells in 
 
 When a living creature dies, its soul departs its body, leaves the Material Plane, travels through the Astral Plane, and goes to abide on the plane where the creature’s deity resides. If the creature did not worship a deity, its soul departs to the plane corresponding to its alignment. Bringing someone back from the dead means retrieving his or her soul and returning it to his or her body.
 
-*Level Loss*: Any creature brought back to life usually loses one level of experience. The character’s new XP total is midway between the minimum needed for his or her new (reduced) level and the minimum needed for the next one. If the character was 1st level at the time of death, he or she loses 2 points of Constitution instead of losing a level.
-
-This level loss or Constitution loss cannot be repaired by any mortal means, even wish or miracle. A revived character can regain a lost level by earning XP through further adventuring. A revived character who was 1st level at the time of death can regain lost points of Constitution by improving his or her Constitution score when he or she attains a level that allows an ability score increase.
+*Negative Levels*: Any creature brought back to life usually gains one or more [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]]. These levels apply a penalty to most rolls until removed through spells such as *[[rangoric-srd/spells/Restoration|restoration]]*. If the character was 1st level at the time of death, he or she takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead of gaining a negative level.
 
 *Preventing Revivification*: Enemies can take steps to make it more difficult for a character to be returned from the dead. Keeping the body prevents others from using raise dead or resurrection to restore the slain character to life. Casting trap the soul prevents any sort of revivification unless the soul is first released.
 

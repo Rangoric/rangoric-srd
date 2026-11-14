@@ -10,6 +10,7 @@ level:
 casting-time: "10 minutes"
 based-on:
   - "[[fantasy srd 3.5/spells/Resurrection|Resurrection (3.5)]]"
+  - "[[path srd 3.5/spells/Resurrection|Resurrection (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -27,7 +28,7 @@ This spell functions like [[rangoric-srd/spells/Raise Dead|raise dead]], except 
 
 The condition of the remains is not a factor. So long as some small portion of the creature’s body still exists, it can be resurrected, but the portion receiving the spell must have been part of the creature’s body at the time of death. (The remains of a creature hit by a disintegrate spell count as a small portion of its body.) The creature can have been [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] no longer than 10 years per caster level.
 
-Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no loss of prepared spells. However, the subject loses one level, or 2 points of Constitution if the subject was 1st level. (If this reduction would bring its Con to 0 or lower, it can’t be resurrected). This level loss or Constitution loss cannot be repaired by any means.
+Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no loss of prepared spells. The subject of the spell gains one [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]] when it is raised, just as if it had been hit by an energy-draining creature. If the subject is 1st level, it takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead (if this would reduce its Con to 0 or less, it can’t be resurrected).
 
 You can resurrect someone killed by a death effect or someone who has been turned into an undead creature and then destroyed. You cannot resurrect someone who has died of old age. Constructs, elementals, outsiders, and undead creatures can’t be resurrected.
 

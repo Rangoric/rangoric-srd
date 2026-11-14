@@ -23,6 +23,7 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Death Ward|Death Ward (3.5)]]"
+  - "[[path srd 3.5/spells/Death Ward|Death Ward (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -44,6 +45,6 @@ tags: [rangoric, rangoric/spell]
 
 The subject is immune to all death spells, magical death effects, energy drain, and any negative energy effects.
 
-This spell doesn’t remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level.
+This spell doesn’t remove negative levels that the subject has already gained, nor does it affect the saving throw necessary 24 hours after gaining a negative level, but it does remove the penalties from negative levels for the duration of its effect.
 
 Death ward does not protect against other sorts of attacks even if those attacks might be lethal.

@@ -118,6 +118,6 @@ The bloodlines are in [[rangoric-srd/class-options/bloodlines/Bloodlines|Bloodli
 
 The sorcerer chooses the kind of familiar he gets. As the sorcerer advances in level, his familiar also increases in power.
 
-If the familiar dies or is dismissed by the sorcerer, the sorcerer must attempt a DC 15 Fortitude saving throw. Failure means he loses 200 experience points per sorcerer level; success reduces the loss to one-half that amount. However, a sorcerer’s experience point total can never go below 0 as the result of a familiar’s demise or dismissal. A slain or dismissed familiar cannot be replaced for a year and day. A slain familiar can be raised from the dead just as a character can be, and it does not lose a level or a Constitution point when this happy event occurs.
+If the familiar dies or is dismissed by the sorcerer, the sorcerer must attempt a DC 15 Fortitude saving throw. Failure means he loses 200 experience points per sorcerer level; success reduces the loss to one-half that amount. However, a sorcerer’s experience point total can never go below 0 as the result of a familiar’s demise or dismissal. A slain or dismissed familiar cannot be replaced for a year and day. A slain familiar can be raised from the dead just as a character can be, and it does not gain [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] or lose Constitution when this happy event occurs.
 
 A character with more than one class that grants a familiar may have only one familiar at a time.

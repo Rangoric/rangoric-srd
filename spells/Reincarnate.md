@@ -21,6 +21,7 @@ saving-throw: "None; see text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Reincarnate|Reincarnate (3.5)]]"
+  - "[[path srd 3.5/spells/Reincarnate|Reincarnate (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -44,7 +45,7 @@ With this spell, you bring back a [[rangoric-srd/rules/Special Abilities and Con
 
 Since the dead creature is returning in a new body, all physical ills and afflictions are repaired. The condition of the remains is not a factor. So long as some small portion of the creature’s body still exists, it can be reincarnated, but the portion receiving the spell must have been part of the creature’s body at the time of death. The magic of the spell creates an entirely new young adult body for the soul to inhabit from the natural elements at hand. This process takes 1 hour to complete. When the body is ready, the subject is reincarnated.
 
-A reincarnated creature recalls the majority of its former life and form. It retains any class abilities, feats, or skill ranks it formerly possessed. Its class, base attack bonus, base save bonuses, and hit points are unchanged. Strength, Dexterity, and Constitution scores depend partly on the new body. First eliminate the subject’s racial adjustments (since it is no longer of his previous race) and then apply the adjustments found below to its remaining ability scores. The subject’s level (or Hit Dice) is reduced by 1. If the subject was 1st level, its new Constitution score is reduced by 2. (If this reduction would put its Con at 0 or lower, it can’t be reincarnated). This level/HD loss or Constitution loss cannot be repaired by any means.
+A reincarnated creature recalls the majority of its former life and form. It retains any class abilities, feats, or skill ranks it formerly possessed. Its class, base attack bonus, base save bonuses, and hit points are unchanged. Strength, Dexterity, and Constitution scores depend partly on the new body. First eliminate the subject’s racial adjustments (since it is no longer of his previous race) and then apply the adjustments found below to its remaining ability scores. The subject of the spell gains two [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]] when it is reincarnated. If the subject is 1st level, it takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead (if this would reduce its Con to 0 or less, it can’t be reincarnated).
 
 It’s possible for the change in the subject’s ability scores to make it difficult for it to pursue its previous character class. If this is the case, the subject is well advised to become a multiclass character.
 

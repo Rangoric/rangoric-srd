@@ -24,6 +24,6 @@ tags: [rangoric, rangoric/class-option]
 | 8th | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]] | Subject is immune to one spell per four levels. |
 | 10th | [[rangoric-srd/spells/Spell Resistance\|Spell Resistance]] | Subject gains SR 12 + level. |
 | 12th | [[rangoric-srd/spells/Bear’s Endurance, Mass\|Mass Bear’s Endurance]] | As bear’s endurance, affects one subject/ level. |
-| 14th | [[rangoric-srd/spells/Restoration, Greater\|Greater Restoration]] | As restoration, plus restores all levels and ability scores. |
+| 14th | [[rangoric-srd/spells/Restoration, Greater\|Greater Restoration]] | As restoration, plus removes all negative levels and restores all ability scores. |
 | 16th | [[rangoric-srd/spells/Iron Body\|Iron Body]] | Your body becomes living iron. |
 | 18th | [[rangoric-srd/spells/Miracle\|Miracle]] | Requests a deity’s intercession. |

@@ -28,7 +28,7 @@ tags: [rangoric, rangoric/overview]
 | 5     | [[rangoric-srd/powers/Psionic Revivify\|Psionic Revivify (A X):]]           | Return the dead to life before the psyche leaves the corpse.                           |
 |       | [[rangoric-srd/powers/Psychofeedback\|Psychofeedback:]]                     | Boost Strength, Dexterity, or Constitution at the expense of one or more other scores. |
 |       | [[rangoric-srd/powers/Restore Extremity\|Restore Extremity:]]               | Return a lost digit, limb, or other appendage to subject.                              |
-| 6     | [[rangoric-srd/powers/Restoration, Psionic\|Restoration, Psionic:]]         | Restores level and ability score drains.                                               |
+| 6     | [[rangoric-srd/powers/Restoration, Psionic\|Restoration, Psionic:]]         | Removes negative levels and ability drain.                                               |
 | 7     | [[rangoric-srd/powers/Fission\|Fission:]]                                   | You briefly duplicate yourself.                                                        |
 | 8     | [[rangoric-srd/powers/Fusion\|Fusion (X):]]                                 | You combine your abilities and form with another.                                      |
 | 9     | [[rangoric-srd/powers/Metamorphosis, Greater\|Metamorphosis, Greater (X):]] | Assume shape of any nonunique creature or object each round.                           |
