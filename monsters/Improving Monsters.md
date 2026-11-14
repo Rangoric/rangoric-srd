@@ -3,6 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Improving Monsters|Improving Monsters (3.5)]]"
+  - "[[path srd 3.5/rules/bestiary/monster-creation/Building the Monster|Building the Monster (PF1)]]"
+  - "[[path srd 3.5/rules/bestiary/monster-advancement/Adding Racial Hit Dice|Adding Racial Hit Dice (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -53,29 +55,29 @@ Note that if a creature acquires a character class, it improves according to its
 
 **Table: Creature Improvement by Type**
 
-|                    | Hit Die | Attack Bonus        | Good Saving Throws                      | Skill Points (\*)         |
-| ------------------ | ------- | ------------------- | --------------------------------------- | ------------------------- |
-| Aberration         | d8      | HD x3/4 (as cleric) | Will                                    | 2 + Int mod per HD        |
-| Animal             | d8      | HD x3/4 (as cleric) | Fort, Ref (and sometimes Will)          | 2 + Int mod per HD        |
-| Construct          | d10     | HD x3/4 (as cleric) | —                                       | 2 + Int mod per HD (\*\*) |
-| Dragon             | d12     | HD (as fighter)     | Fort, Ref, Will                         | 6 + Int mod per HD        |
-| Elemental          | d8      | HD x3/4 (as cleric) | Ref (Air, Fire), or Fort (Earth, Water) | 2 + Int mod per HD        |
-| Fey                | d6      | HD x1/2 (as wizard) | Ref, Will                               | 6 + Int mod per HD        |
-| Giant              | d8      | HD x3/4 (as cleric) | Fort                                    | 2 + Int mod per HD        |
-| Humanoid           | d8      | HD x3/4 (as cleric) | Varies (any one)                        | 2 + Int mod per HD        |
-| Magical beast      | d10     | HD (as fighter)     | Fort, Ref                               | 2 + Int mod per HD        |
-| Monstrous humanoid | d8      | HD (as fighter)     | Ref, Will                               | 2 + Int mod per HD        |
-| Ooze               | d10     | HD x3/4 (as cleric) | —                                       | 2 + Int mod per HD (\*\*) |
-| Outsider           | d8      | HD (as fighter)     | Fort, Ref, Will                         | 8 + Int mod per HD        |
-| Plant              | d8      | HD x3/4 (as cleric) | Fort                                    | 2 + Int mod per HD (\*\*) |
-| Undead             | d12     | HD x1/2 (as wizard) | Will                                    | 4 + Int mod per HD (\*\*) |
-| Vermin             | d8      | HD x3/4 (as cleric) | Fort                                    | 2 + Int mod per HD (\*\*) |
+|                    | Hit Die | Attack Bonus             | Good Saving Throws             | Skill Points (\*)         |
+| ------------------ | ------- | ------------------------ | ------------------------------ | ------------------------- |
+| Aberration         | d8      | HD x3/4 (medium)         | Will                           | 4 + Int mod per HD        |
+| Animal             | d8      | HD x3/4 (medium)         | Fort, Ref (and sometimes Will) | 2 + Int mod per HD        |
+| Construct          | d10     | HD (fast)                | —                              | 2 + Int mod per HD (\*\*) |
+| Dragon             | d12     | HD (fast)                | Fort, Ref, Will                | 6 + Int mod per HD        |
+| Fey                | d6      | HD x1/2 (slow)           | Ref, Will                      | 6 + Int mod per HD        |
+| Humanoid           | d8      | HD x3/4 (medium)         | Varies (any one)               | 2 + Int mod per HD        |
+| Magical beast      | d10     | HD (fast)                | Fort, Ref                      | 2 + Int mod per HD        |
+| Monstrous humanoid | d10     | HD (fast)                | Ref, Will                      | 4 + Int mod per HD        |
+| Ooze               | d8      | HD x3/4 (medium)         | —                              | 2 + Int mod per HD (\*\*) |
+| Outsider           | d10     | HD (fast)                | Varies (any two)               | 6 + Int mod per HD        |
+| Plant              | d8      | HD x3/4 (medium)         | Fort                           | 2 + Int mod per HD (\*\*) |
+| Undead             | d8      | HD x3/4 (medium)         | Will                           | 4 + Int mod per HD (\*\*) |
+| Vermin             | d8      | HD x3/4 (medium)         | Fort                           | 2 + Int mod per HD (\*\*) |
 
-*All types have a number of feats equal to 1 + 1 per 3 Hit Dice.*
+*A creature gains one feat at 1 Hit Die and one more for every 2 Hit Dice after the first (1 at 1 HD, 2 at 3 HD, 3 at 5 HD, and so on).*
+
+*Elementals and giants are outsiders and humanoids with a subtype (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^retyped|retyped creatures]]). Each type’s class skills are in its entry in [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Monster Types, Subtypes, and Special Abilities]].*
 
 \* *As long as a creature has an Intelligence of at least 1, it gains a minimum of 1 skill point per Hit Die.*
 
-\*\* *Creatures with an Intelligence score of “—” gain no skill points or feats.*
+\*\* *Creatures with an Intelligence score of “—” gain no feats, and get skill points as [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mindless|mindless creatures]] do.*
 
 ##### Size Increases
 
