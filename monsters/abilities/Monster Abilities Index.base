@@ -1,0 +1,28 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/monsters/abilities")
+    - file.hasTag("rangoric/monster-ability")
+views:
+  - type: table
+    name: "By kind"
+    groupBy:
+      property: note.kind
+      direction: ASC
+    order:
+      - file.name
+      - note.ability-type
+      - note.kind
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "All abilities"
+    order:
+      - file.name
+      - note.ability-type
+      - note.kind
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
