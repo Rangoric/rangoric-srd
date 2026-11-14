@@ -36,4 +36,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates
   - **Spell Resistance**: Yes
 
-You curse the target, preventing it from drawing upon the powers of destiny. The target is shaken and cannot use hero points for the duration of the spell. This effect can be removed by *dispel magic, remove curse*, or other similar effects.
+You curse the target, preventing it from drawing upon the powers of destiny. The target is shaken and cannot use [[rangoric-srd/unearthed-arcana/Hero Points|hero points]] for the duration of the spell. This effect can be removed by *dispel magic, remove curse*, or other similar effects.

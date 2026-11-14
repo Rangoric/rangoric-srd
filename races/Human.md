@@ -92,6 +92,7 @@ A human can take any of these in place of the traits they replace (see [[rangori
 | [[rangoric-srd/races/racial-traits/Heart of the Streets|Heart of the Streets]] | Skilled |
 | [[rangoric-srd/races/racial-traits/Heart of the Sun|Heart of the Sun]] | Skilled |
 | [[rangoric-srd/races/racial-traits/Heart of the Wilderness|Heart of the Wilderness]] | Skilled |
+| [[rangoric-srd/races/racial-traits/Heroic|Heroic]] | Bonus feat |
 | [[rangoric-srd/races/racial-traits/Mixed Heritage|Mixed Heritage]] | Bonus feat |
 | [[rangoric-srd/races/racial-traits/Silver Tongued|Silver Tongued]] | Skilled |
 
@@ -103,7 +104,7 @@ Bundles of alternate traits for humans of a particular background.
 - **Country Folk**: Suited to life in the countryside: [[rangoric-srd/races/racial-traits/Heart of the Fields|Heart of the Fields]] in place of skilled, and [[rangoric-srd/races/racial-traits/Focused Study|Focused Study]] in place of the bonus feat.
 - **Gutter Rat**: Second-class citizens working hard to get by in a city's slums: [[rangoric-srd/races/racial-traits/Heart of the Slums|Heart of the Slums]] in place of skilled, and [[rangoric-srd/races/racial-traits/Mixed Heritage|Mixed Heritage]] (taking [[rangoric-srd/races/racial-traits/Heart of the Streets|Heart of the Streets]]) in place of the bonus feat.
 - **Imperious Human**: Arrogant expansionists from an empire or a controlling city-state: [[rangoric-srd/races/racial-traits/Silver Tongued|Silver Tongued]] in place of skilled, and [[rangoric-srd/races/racial-traits/Eye for Talent|Eye for Talent]] in place of the bonus feat.
-- **Trailblazer**: Settlers with quick wits who survive new lands: [[rangoric-srd/races/racial-traits/Heart of the Wilderness|Heart of the Wilderness]] in place of skilled (or [[rangoric-srd/races/racial-traits/Heart of the Mountains|Heart of the Mountains]], [[rangoric-srd/races/racial-traits/Heart of the Sea|Heart of the Sea]], [[rangoric-srd/races/racial-traits/Heart of the Snows|Heart of the Snows]] or [[rangoric-srd/races/racial-traits/Heart of the Sun|Heart of the Sun]], by the land being settled). Heroic, which would replace the bonus feat, waits until Rangoric has hero points; until then trailblazers keep the bonus feat.
+- **Trailblazer**: Settlers with quick wits who survive new lands: [[rangoric-srd/races/racial-traits/Heart of the Wilderness|Heart of the Wilderness]] in place of skilled (or [[rangoric-srd/races/racial-traits/Heart of the Mountains|Heart of the Mountains]], [[rangoric-srd/races/racial-traits/Heart of the Sea|Heart of the Sea]], [[rangoric-srd/races/racial-traits/Heart of the Snows|Heart of the Snows]] or [[rangoric-srd/races/racial-traits/Heart of the Sun|Heart of the Sun]], by the land being settled), and [[rangoric-srd/races/racial-traits/Heroic|Heroic]] in place of the bonus feat.
 - **Versatile Human**: Natural talent in place of training: [[rangoric-srd/races/racial-traits/Dual Talent|Dual Talent]] in place of the +2 to one ability score, skilled, and the bonus feat.
 
 **Racial variants.** Humans are adaptable enough to have only one variant.

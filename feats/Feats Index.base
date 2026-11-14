@@ -111,3 +111,14 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: hero-feat
+    filters:
+      and:
+        - file.hasTag("hero-feat")
+    order:
+      - file.name
+      - prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
