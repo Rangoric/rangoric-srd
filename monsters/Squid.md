@@ -3,69 +3,72 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Animal"
-subtypes:
-  - "Aquatic"
+subtypes: ["Aquatic"]
 hit-dice: "3d8 (13 hp)"
-initiative: "+3"
-speed: "Swim 60 ft. (12 squares)"
-armor-class: "16 (+3 Dex, +3 natural), touch 13, flat-footed 13"
+initiative: "+6"
+speed: "swim 60 ft., jet 240 ft."
+armor-class: "13 (+2 Dex, +1 natural), touch 12, flat-footed 11"
 base-attack: "+2"
-cmb: "+4 (+12 grapple)"
-cmd: "17"
-attack: "Arms +4 melee (0)"
-full-attack: "Arms +4 melee (0) and bite –1 melee (1d6+1)"
+cmb: "+4"
+cmd: "16"
+attack: "Bite +4 melee (1d3+2) or tentacle +7 melee (1d4+1 plus grab)"
+full-attack: "Bite +4 melee (1d3+2) and tentacles +2 melee (1d4+1 plus grab)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Improved grab"
-special-qualities: "Ink cloud, jet, low-light vision"
-saves: "Fort +3, Ref +6, Will +2"
-abilities: "Str 14, Dex 17, Con 11, Int 1, Wis 12, Cha 2"
-skills: "Athletics +2 (+10 swimming), Perception +10"
-skill-ranks: "Athletics 0, Perception 3"
-feats: "Endurance, Skill Focus (Perception)"
-environment: "Temperate aquatic"
-organization: "Solitary or school (6–11)"
+special-attacks: "—"
+special-qualities: "Low-light vision, ink cloud (5-ft. radius)"
+saves: "Fort +3, Ref +7, Will +2"
+abilities: "Str 15, Dex 15, Con 11, Int 2, Wis 12, Cha 2"
+skills: "Athletics +10, Perception +7"
+skill-ranks: "Athletics 5, Perception 3"
+feats: "Improved Initiative, Lightning Reflexes, Multiattack"
+environment: "Any ocean"
+organization: "Solitary, pair, or school (3–12)"
 challenge-rating: 1
+treasure: "None"
+alignment: "Usually neutral"
 advancement: "4–6 HD (Medium); 7–11 HD (Large)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Squid|Squid (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Squid|Squid (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Squid
 
-  - Medium Animal (Aquatic)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Aquatic)
   - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +3
-  - **Speed**: Swim 60 ft. (12 squares)
-  - **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +4 (+12 grapple); **CMD**: 17
-  - **Attack**: Arms +4 melee (0)
-  - **Full Attack**: Arms +4 melee (0) and bite –1 melee (1d6+1)
+  - **Initiative**: +6
+  - **Speed**: swim 60 ft., jet 240 ft.
+  - **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
+  - **Base Attack**: +2; **CMB**: +4; **CMD**: 16
+  - **Attack**: Bite +4 melee (1d3+2) or tentacle +7 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: Bite +4 melee (1d3+2) and tentacles +2 melee (1d4+1 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Improved grab
-  - **Special Qualities**: Ink cloud, jet, low-light vision
-  - **Saves**: Fort +3, Ref +6, Will +2
-  - **Abilities**: Str 14, Dex 17, Con 11, Int 1, Wis 12, Cha 2
-  - **Skills**: Athletics +2 (+10 swimming), Perception +10
-  - **Feats**: Endurance, Skill Focus (Perception)
-  - **Environment**: Temperate aquatic
-  - **Organization**: Solitary or school (6–11)
+  - **Special Attacks**: —
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], ink cloud (5-ft. radius)
+  - **Saves**: Fort +3, Ref +7, Will +2
+  - **Abilities**: Str 15, Dex 15, Con 11, Int 2, Wis 12, Cha 2
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Perception|Perception]] +7
+  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Multiattack|Multiattack]]
+  - **Environment**: Any ocean
+  - **Organization**: Solitary, pair, or school (3–12)
   - **Challenge Rating**: 1
+  - **Treasure**: None
+  - **Alignment**: Usually neutral
   - **Advancement**: 4–6 HD (Medium); 7–11 HD (Large)
   - **Level Adjustment**: —
 
-These free-swimming mollusks are fairly aggressive. They are more feared than sharks in some locales.
+Squids are aggressive predators that fear little and are more than willing to attack prey larger than themselves.
 
-#### Combat
+They are more feared than sharks in some locales.
 
-**Improved Grab (Ex)**: To use this ability, a squid must hit an opponent of any size with its arms attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and automatically deals bite damage. \*A squid has a +4 racial bonus on grapple checks.
+### Combat
 
-**Ink Cloud (Ex)**: A squid can emit a cloud of jet-black ink 10 feet high by 10 feet wide by 10 feet long once per minute as a free action. The cloud provides total concealment, which the squid normally uses to escape a losing fight. All vision within the cloud is obscured.
+**Ink Cloud (Ex)**: A squid can emit a 5-foot-radius cloud of ink once per minute as a free action while underwater. This cloud provides total concealment. The ink persists for 1 minute.
 
-**Jet (Ex)**: A squid can jet backward once per round as a full-round action, at a speed of 240 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
-
-**Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a squid is better at swimming.
+**Jet (Ex)**: A squid can jet in a straight line as a full-round action. It does not provoke attacks of opportunity while jetting.
