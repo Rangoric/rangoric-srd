@@ -401,6 +401,7 @@ Every wondrous item, by price:
 | [[rangoric-srd/magic-items/wondrous-items/Rope of Climbing\|Rope of Climbing]] | 3,000 gp | Wondrous Item |
 | [[rangoric-srd/magic-items/wondrous-items/Dust of Disappearance\|Dust of Disappearance]] | 3,500 gp | Wondrous Item |
 | [[rangoric-srd/magic-items/wondrous-items/Lens of Detection\|Lens of Detection]] | 3,500 gp | Wondrous Item |
+| [[rangoric-srd/magic-items/wondrous-items/Elixir of Luck\|Elixir of Luck]] | 3,600 gp | Wondrous Item |
 | [[rangoric-srd/magic-items/wondrous-items/Figurines of Wondrous Power\|Figurines of Wondrous Power]] | 3,800 gp | Wondrous Item |
 | [[rangoric-srd/magic-items/wondrous-items/Far-Reaching Sight\|Far-Reaching Sight]] | 4,000 gp | Wondrous Item |
 | [[rangoric-srd/magic-items/wondrous-items/Gauntlets of Ogre Power\|Gauntlets of Ogre Power]] | 4,000 gp | Wondrous Item |

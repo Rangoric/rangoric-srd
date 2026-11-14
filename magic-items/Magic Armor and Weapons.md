@@ -1159,6 +1159,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Shortspear of Lightning\|Shortspear of Lightning]] | 14,677 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shadow Dagger\|Shadow Dagger]] | 16,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Flute Sword\|Flute Sword]] | 17,100 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Hero’s Blade\|Hero’s Blade]] | 17,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Scabrous Mace\|Scabrous Mace]] | 18,000 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Assassin’s Dagger\|Assassin’s Dagger]] | 18,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Picker Picker\|Picker Picker]] | 18,302 gp | Specific Weapon |
@@ -1201,6 +1202,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Staff of the Summoner\|Staff of the Summoner]] | 73,600 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Mace of Smiting\|Mace of Smiting]] | 75,312 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Black Thresher\|Black Thresher]] | 79,315 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Reaver’s Scythe\|Reaver’s Scythe]] | 80,318 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/School Staves\|School Staves]] | 87,975 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Scythe of Life-Harvesting\|Scythe of Life-Harvesting]] | 89,518 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Foul Feyslayer Sword\|Foul Feyslayer Sword]] | 115,145 gp | Specific Weapon |
