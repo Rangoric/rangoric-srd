@@ -38,7 +38,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates
   - **Spell Resistance**: Yes
 
-The effect of this spell is a rain of reeking drops of stagnant and polluted water. Open water sources completely contained within the area of effect is polluted with the filth fever disease until purified. Normal plants within the area wither and die. Plant creatures in the area take 6d8 damage each round that they remain in the area.
+The effect of this spell is a rain of reeking drops of stagnant and polluted water. Open water sources completely contained within the area of effect is polluted with the [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]] disease until purified. Normal plants within the area wither and die. Plant creatures in the area take 6d8 damage each round that they remain in the area.
 
 In the area of the pestilential tears, healing spells do not function. Any nonplant creature wounded must make a Fortitude Save, and those that fail are dealt an additional 1d8+5 damage and are afflicted with disease filth fever. This disease takes effect immediately, in the manner of the contagion spell. The caster is immune to this spell’s effects.
 
