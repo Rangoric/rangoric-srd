@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/race]
 
 ## Ogres
 
-Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant-subtype|giant]])
+Type: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|giant]])
 Size: [[rangoric-srd/races/PC Races#Large Characters|Large]]
 Base Speed: 30ft
 Perks:

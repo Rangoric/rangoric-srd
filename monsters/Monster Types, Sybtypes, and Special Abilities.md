@@ -6,6 +6,9 @@ based-on:
   - "[[path srd 3.5/rules/bestiary/Universal Monster Rules|Universal Monster Rules (PF1)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/Featured Races|Featured Races (ARG)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/Uncommon Races|Uncommon Races (ARG)]]"
+  - "[[path srd 3.5/rules/bestiary/creature-types/Creature Types (Creature Types)|Creature Types (PF1)]]"
+  - "[[path srd 3.5/rules/bestiary/creature-types/Creature SubTypes|Creature Subtypes (PF1)]]"
+  - "[[path srd 3.5/rules/bestiary/universal-monster-rules/Natural Attacks|Natural Attacks (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -22,11 +25,11 @@ tags: [rangoric, rangoric/overview]
 
   - d8 Hit Dice.
 
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+  - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 
   - Good Will saves.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die.
+  - Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], one [[rangoric-srd/skills/Knowledge|Knowledge]] skill (any one), its Magic skill (see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]), [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: An aberration possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -96,11 +99,11 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Ability Score Los
 
   - d8 Hit Dice.
 
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+  - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 
   - Good Fortitude and Reflex saves (certain animals have different good saves).
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die.
+  - Skill points equal to 2 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: An animal possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -118,7 +121,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Ability Score Los
 
   - Animals eat, sleep, and breathe.
 
-**Aquatic Subtype**: These creatures always have swim speeds and thus can move in water without making Athletics checks to swim. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the [[#^amphibious|amphibious]] special quality. ^aquatic
+**Aquatic Subtype**: These creatures always have swim speeds and thus can move in water without making Athletics checks to swim. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the [[#^amphibious|amphibious]] special quality. [[rangoric-srd/skills/Athletics|Athletics]] is a class skill for an aquatic creature. ^aquatic
 
 **Archon Subtype**: Archons are a race of celestials, or good [[#^outsider|outsiders]], native to lawful good-aligned Outer Planes. ^archon
 
@@ -191,17 +194,17 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
 
 *Features*: A construct has the following features.
 
-  - 10-sided Hit Dice.
+  - d10 Hit Dice.
 
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+  - Base attack bonus equal to total Hit Dice (fast progression).
 
   - No good saving throws.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, if the construct has an Intelligence score. Most constructs are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do.
+  - Skill points equal to 2 + Int modifier (minimum 1) per Hit Die, if the construct has an Intelligence score. Most constructs are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do. Constructs have no class skills, whatever their Intelligence.
 
 *Traits*: A construct possesses the following traits (unless otherwise noted in a creature’s entry).
 
-  - No Constitution score.
+  - No Constitution score. Any DCs or other statistics that rely on a Constitution score treat a construct as having a score of 10 (no bonus or penalty).
 
   - Low-light vision.
 
@@ -209,11 +212,11 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
 
   - Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 
-  - Immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, and necromancy effects.
+  - Immunity to [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromancy effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]].
 
-  - Cannot heal damage on their own, but often can be repaired by exposing them to a certain kind of effect (see the creature’s description for details) or through the use of the [[rangoric-srd/feats/Craft Construct|Craft Construct]] feat. A construct with the [[#^fast-healing|fast healing]] special quality still benefits from that quality.
+  - Cannot heal damage on its own, but often can be repaired by exposing it to a certain kind of effect (see the creature’s description for details) or through the use of the [[rangoric-srd/feats/Craft Construct|Craft Construct]] feat. Constructs can also be healed through spells such as [[rangoric-srd/spells/Make Whole|make whole]]. A construct with the [[#^fast-healing|fast healing]] special quality still benefits from that quality.
 
-  - Not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|ability drain]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|fatigue]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|exhaustion]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]].
+  - Not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], ability drain, fatigue, exhaustion, [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], or nonlethal damage.
 
   - Immunity to any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless).
 
@@ -269,13 +272,13 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
 
 *Features*: A dragon has the following features.
 
-  - 12-sided Hit Dice.
+  - d12 Hit Dice.
 
-  - Base attack bonus equal to total Hit Dice (as fighter).
+  - Base attack bonus equal to total Hit Dice (fast progression).
 
   - Good Fortitude, Reflex, and Will saves.
 
-  - Skill points equal to (6 + Int modifier, minimum 1) per Hit Die.
+  - Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Appraise|Appraise]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], every [[rangoric-srd/skills/Knowledge|Knowledge]] skill, [[rangoric-srd/skills/Linguistics|Linguistics]], its Magic skill (see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]), [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: A dragon possesses the following traits (unless otherwise noted in the description of a particular kind).
 
@@ -291,35 +294,19 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
 
 **Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as [[rangoric-srd/races/Duergar|duergar]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
 
-**Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. ^earth
+**Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. Earth creatures with a burrow speed have [[#^tremorsense|tremorsense]]. ^earth
 
-**Elemental Type**: An elemental is a being composed of one of the four classical elements: air, earth, fire, or water. ^elemental
+**Elemental Subtype**: An elemental is a being composed entirely from one of the four classical elements: air, earth, fire, or water. Elementals are [[#^outsider|outsiders]] with this subtype, usually with the [[#^air|air]], [[#^earth|earth]], [[#^fire|fire]], or [[#^water|water]] subtype as well (see [[#^retyped|retyped creatures]]). An elemental has the following traits, besides those of an outsider. ^elemental
 
-*Features*: An elemental has the following features.
+  - Immunity to [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]], paralysis, poison, sleep effects, and stunning.
 
-  - 8-sided Hit Dice.
-
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
-
-  - Good saves depend on the element: Fortitude (earth, water) or Reflex (air, fire).
-
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die.
-
-*Traits*: An elemental possesses the following traits (unless otherwise noted in a creature’s entry).
-
-  - Darkvision out to 60 feet.
-
-  - Immunity to poison, sleep effects, paralysis, and stunning.
-
-  - Not subject to critical hits or flanking.
-
-  - Unlike most other living creatures, an elemental does not have a dual nature—its soul and body form one unit. When an elemental is slain, no soul is set loose. Spells that restore souls to their bodies, such as raise dead, reincarnate, and resurrection, don’t work on an elemental. It takes a different magical effect, such as limited wish, wish, miracle, or true resurrection, to restore it to life.
+  - Not subject to critical hits or flanking. Does not take additional damage from precision-based attacks, such as sneak attack.
 
   - Proficient with natural weapons only, unless generally humanoid in form, in which case proficient with all simple weapons and any weapons mentioned in its entry.
 
-  - Proficient with whatever type of armor (light, medium, or heavy) that it is described as wearing, as well as all lighter types. Elementals not indicated as wearing armor are not proficient with armor. Elementals are proficient with shields if they are proficient with any form of armor.
+  - Proficient with whatever type of armor (light, medium, or heavy) it is described as wearing, as well as all lighter types. Elementals not indicated as wearing armor are not proficient with armor. Elementals are proficient with shields if they are proficient with any form of armor.
 
-  - Elementals do not eat, sleep, or breathe.
+  - Elementals do not breathe, eat, or sleep.
 
 **Elf Subtype**: A humanoid subtype for [[rangoric-srd/races/Elf|elves]] and their kin, such as [[rangoric-srd/races/Drow|drow]]; [[rangoric-srd/races/Half-Elf|half-elves]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^elf
 
@@ -351,13 +338,13 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Fear|Fear]] under
 
 *Features*: A fey has the following features.
 
-  - 6-sided Hit Dice.
+  - d6 Hit Dice.
 
-  - Base attack bonus equal to 1/2 total Hit Dice (as wizard).
+  - Base attack bonus equal to 1/2 total Hit Dice (slow progression).
 
   - Good Reflex and Will saves.
 
-  - Skill points equal to (6 + Int modifier, minimum 1) per Hit Die.
+  - Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Emulation|Emulation]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Performance|Performance]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: A fey possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -389,35 +376,23 @@ Allies of a creature with a gaze attack might be affected. All the creature’s 
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze Attacks]] under Special Abilities.  
 
-**Giant Subtype**: A humanoid subtype for humanoids of giant blood, such as [[rangoric-srd/races/Ogre|ogres]] played as a race, which are humanoids rather than creatures of the [[#^giant|giant type]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^giant-subtype
+**Giant Subtype**: A giant is a [[#^humanoid|humanoid]] creature of great strength, usually of at least Large size (see [[#^retyped|retyped creatures]]). Humanoids of giant blood played as a race, such as [[rangoric-srd/races/Ogre|ogres]], have it too. A giant has the following traits, besides those of a humanoid. ^giant
 
-**Giant Type**: A giant is a humanoid-shaped creature of great strength, usually of at least Large size. ^giant
-
-*Features*: A giant has the following features.
-
-  - 8-sided Hit Dice.
-
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
-
-  - Good Fortitude saves.
-
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die.
-
-*Traits*: A giant possesses the following traits (unless otherwise noted in a creature’s entry).
+  - Giants have racial Hit Dice and never trade them for class levels as some humanoids do.
 
   - Low-light vision.
+
+  - [[rangoric-srd/skills/Intimidation|Intimidation]] and [[rangoric-srd/skills/Perception|Perception]] are class skills.
 
   - Proficient with all simple and martial weapons, as well as any natural weapons.
 
   - Proficient with whatever type of armor (light, medium or heavy) it is described as wearing, as well as all lighter types. Giants not described as wearing armor are not proficient with armor. Giants are proficient with shields if they are proficient with any form of armor.
 
-  - Giants eat, sleep, and breathe.
-
 **Gnoll Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnoll|gnolls]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnoll
 
 **Gnome Subtype**: A humanoid subtype for [[rangoric-srd/races/Gnome|gnomes]] and their kin, such as [[rangoric-srd/races/Svirfneblin|svirfneblin]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^gnome
 
-**Goblinoid Subtype**: Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. ^goblinoid
+**Goblinoid Subtype**: Goblinoids are stealthy humanoids who live by hunting and raiding and who all speak Goblin. [[rangoric-srd/skills/Stealth|Stealth]] is a class skill for goblinoids. ^goblinoid
 
 **Good Subtype**: A subtype usually applied only to outsiders native to the good-aligned Outer Planes. Most creatures that have this subtype also have good alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a good alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the good subtype overcomes damage reduction as if its natural weapons and any weapons it wields were good-aligned (see Damage Reduction, above). ^good
 
@@ -435,13 +410,13 @@ Humanoids with more than 1 Hit Die are the only humanoids who make use of the fe
 
 *Features*: A humanoid has the following features (unless otherwise noted in a creature’s entry).
 
-  - 8-sided Hit Dice, or by character class.
+  - d8 Hit Dice, or by character class.
 
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+  - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 
-  - Good Reflex saves (usually; a humanoid’s good save varies).
+  - One good save, usually Reflex.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, or by character class.
+  - Skill points equal to 2 + Int modifier (minimum 1) per Hit Die, or by character class. Class skills for a humanoid without a character class: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Medicine|Medicine]], [[rangoric-srd/skills/Profession|Profession]]. A humanoid with a character class uses its class’s list instead; one with both racial Hit Dice and a class adds these to its class’s list.
 
 *Traits*: A humanoid possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -453,7 +428,7 @@ Humanoids with more than 1 Hit Die are the only humanoids who make use of the fe
 
 **Improved Grab (Ex)**: If a creature with this special attack hits with the indicated attack (usually a claw or bite attack), it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. The creature has the option to conduct the grapple normally, or simply to use the part of its body it used in the improved grab to hold the opponent. If it chooses to do the latter, it takes a –20 penalty on its combat maneuver check to make and maintain the grapple, but does not gain the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition itself. A successful hold does not deal any extra damage unless the creature also has the [[#^constrict|constrict]] special attack. If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage indicated for the attack that established the hold. Otherwise, it deals constriction damage as well (the amount is given in the creature’s descriptive text). Creatures with improved grab receive a +4 bonus on combat maneuver checks made to start and maintain a grapple. Unless otherwise noted, improved grab works only against opponents no larger than the same size category as the creature. If the creature can use improved grab on sizes other than the default, this is noted in the creature’s entry. ^improved-grab
 
-**Incorporeal Subtype**: An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spell-like abilities, or supernatural abilities. It is immune to all nonmagical attack forms. Even when hit by spells or magic weapons, it has a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects such as magic missile, or attacks made with ghost touch weapons). Although it is not a magical attack, holy water can affect incorporeal undead, but a hit with holy water has a 50% chance of not affecting an incorporeal creature. ^incorporeal
+**Incorporeal Subtype**: An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spell-like abilities, or supernatural abilities. It is immune to all nonmagical attack forms, and to critical hits and precision-based damage (such as sneak attack) unless the attack is made with a [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] weapon. Even when hit by spells or magic weapons, it has a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects such as magic missile, or attacks made with ghost touch weapons). Although it is not a magical attack, holy water can affect incorporeal undead, but a hit with holy water has a 50% chance of not affecting an incorporeal creature. ^incorporeal
 
 An incorporeal creature has no natural armor bonus but has a deflection bonus equal to its Charisma bonus (always at least +1, even if the creature’s Charisma score does not normally provide a bonus).
 
@@ -475,13 +450,13 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
 
 *Features*: A magical beast has the following features.
 
-  - 10-sided Hit Dice.
+  - d10 Hit Dice.
 
-  - Base attack bonus equal to total Hit Dice (as fighter).
+  - Base attack bonus equal to total Hit Dice (fast progression).
 
   - Good Fortitude and Reflex saves.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die.
+  - Skill points equal to 2 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: A magical beast possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -495,19 +470,19 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
 
 **Manufactured Weapons**: Some monsters employ manufactured weapons when they attack. Creatures that use swords, bows, spears, and the like follow the same rules as characters, including those for additional attacks from a high base attack bonus and two-weapon fighting penalties. This category also includes “found items,” such as rocks and logs, that a creature wields in combat— in essence, any weapon that is not intrinsic to the creature. ^manufactured-weapons
 
-Some creatures combine attacks with natural and manufactured weapons when they make a full attack. When they do so, the manufactured weapon attack is considered the primary attack unless the creature’s description indicates otherwise and any natural weapons the creature also uses are considered secondary natural attacks. These secondary attacks do not interfere with the primary attack as attacking with an off-hand weapon does, but they take the usual –5 penalty (or –2 with the Multiattack feat) for such attacks, even if the natural weapon used is normally the creature’s primary natural weapon.
+Some creatures combine attacks with natural and manufactured weapons when they make a full attack (often giving up one natural attack for each weapon held in that limb, be it a claw, tentacle, or slam). They attack with their weapons normally, but treat all their available natural attacks as secondary attacks during that attack, whatever the attack’s usual kind. These secondary attacks don’t interfere with the weapon attacks as attacking with an off-hand weapon does.
 
 **Monstrous Humanoid Type**: Monstrous humanoids are similar to humanoids, but with monstrous or animalistic features. They often have magical abilities as well. ^monstrous-humanoid
 
 *Features*: A monstrous humanoid has the following features.
 
-  - 8-sided Hit Dice.
+  - d10 Hit Dice.
 
-  - Base attack bonus equal to total Hit Dice (as fighter).
+  - Base attack bonus equal to total Hit Dice (fast progression).
 
   - Good Reflex and Will saves.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die.
+  - Skill points equal to 4 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Intimidation|Intimidation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: A monstrous humanoid possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -549,9 +524,29 @@ A creature that flies can make dive attacks. A dive attack works just like a cha
 
 Unless otherwise noted, a natural weapon threatens a critical hit on a natural attack roll of 20.
 
-When a creature has more than one natural weapon, one of them (or sometimes a pair or set of them) is the primary weapon. All the creature’s remaining natural weapons are secondary.
+Natural attacks are either primary or secondary. Primary attacks are made with the creature’s full base attack bonus and add its full Strength bonus on damage rolls. Secondary attacks are made with the creature’s base attack bonus –5 (–2 with the [[rangoric-srd/feats/Multiattack|Multiattack]] feat) and add only 1/2 its Strength bonus on damage rolls. Which kinds of attack are primary and which secondary is given in Table: Natural Attacks by Size.
 
-The primary weapon is given in the creature’s Attack entry, and the primary weapon or weapons is given first in the creature’s Full Attack entry. A creature’s primary natural weapon is its most effective natural attack, usually by virtue of the creature’s physiology, training, or innate talent with the weapon. An attack with a primary natural weapon uses the creature’s full attack bonus. Attacks with secondary natural weapons are less effective and are made with a –5 penalty on the attack roll, no matter how many there are. (Creatures with the Multiattack feat take only a –2 penalty on secondary attacks.) This penalty applies even when the creature makes a single attack with the secondary weapon as part of the attack action or as an attack of opportunity.
+If a creature has only one natural attack, it is always made with the creature’s full base attack bonus and adds 1-1/2 times its Strength bonus on damage rolls. This increase doesn’t apply if the creature has several attacks but takes only one. If a creature has only one kind of natural attack but several of them each round, that attack is primary, whatever its kind. Some creatures treat an attack differently, such as dragons, which always add 1-1/2 times their Strength bonus on damage with their bite; the creature’s entry says so.
+
+A creature that attacks with natural and [[#^manufactured-weapons|manufactured weapons]] in the same full attack treats all its natural attacks as secondary for that attack (see Manufactured Weapons).
+
+Some fey, humanoids, monstrous humanoids, and outsiders have no natural attacks. They can make unarmed strikes, but treat them as weapons for the purpose of determining attack bonuses, and they must use the two-weapon fighting rules when attacking with both hands.
+
+**Table: Natural Attacks by Size**
+
+| Natural Attack | Fine | Dim. | Tiny | Small | Medium | Large | Huge | Garg. | Col. | Damage Type | Attack Type |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Bite | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | 4d6 | B/S/P | Primary |
+| Claw | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | B/S | Primary |
+| Gore | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | 4d6 | P | Primary |
+| Hoof, tentacle, wing | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | B | Secondary |
+| Pincers, tail slap | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | 4d6 | B | Secondary |
+| Slam | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | B | Primary |
+| Sting | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | P | Primary |
+| Talons | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | S | Primary |
+| Other | — | 1 | 1d2 | 1d3 | 1d4 | 1d6 | 1d8 | 2d6 | 2d8 | B/S/P | Secondary |
+
+*Base damage by size; individual creatures vary from these values as appropriate. The damage type is what the attack usually deals: bludgeoning (B), slashing (S), or piercing (P). An attack that lists more than one type counts as all of them for overcoming damage reduction.*
 
 Natural weapons have types just as other weapons do. The most common are summarized below.
 
@@ -589,17 +584,17 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
 *Features*: An ooze has the following features.
 
-  - 10-sided Hit Dice.
+  - d8 Hit Dice.
 
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+  - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 
   - No good saving throws.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, if the ooze has an Intelligence score. Most oozes are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do.
+  - Skill points equal to 2 + Int modifier (minimum 1) per Hit Die, if the ooze has an Intelligence score. Most oozes are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do. Oozes have no class skills.
 
 *Traits*: An ooze possesses the following traits (unless otherwise noted in a creature’s entry).
 
-  - Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
+  - Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects). An ooze with an Intelligence score loses this trait.
 
   - Blind (but have the blindsight special quality), with immunity to gaze attacks, visual effects, illusions, and other attack forms that rely on sight.
 
@@ -607,7 +602,7 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
   - Some oozes have the ability to deal acid damage to objects. In such a case, the amount of damage is equal to 10 + 1/2 ooze’s HD + ooze’s Con modifier per full round of contact.
 
-  - Not subject to critical hits or flanking.
+  - Not subject to critical hits or flanking. Does not take additional damage from precision-based attacks, such as sneak attack.
 
   - Proficient with its natural weapons only.
 
@@ -621,13 +616,13 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
 *Features*: An outsider has the following features.
 
-  - 8-sided Hit Dice.
+  - d10 Hit Dice.
 
-  - Base attack bonus equal to total Hit Dice (as fighter).
+  - Base attack bonus equal to total Hit Dice (fast progression).
 
-  - Good Fortitude, Reflex, and Will saves.
+  - Two good saving throws, usually Reflex and Will.
 
-  - Skill points equal to (8 + Int modifier, minimum 1) per Hit Die.
+  - Skill points equal to 6 + Int modifier (minimum 1) per Hit Die. Class skills: [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Theology|Theology]]. An outsider also has four more class skills that fit its nature, given in its entry.
 
 *Traits*: An outsider possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -650,13 +645,13 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Paralysis|Paralys
 
 *Features*: A plant creature has the following features.
 
-  - 8-sided Hit Dice.
+  - d8 Hit Dice.
 
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+  - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 
   - Good Fortitude saves.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, if the plant creature has an Intelligence score. Some plant creatures are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do.
+  - Skill points equal to 2 + Int modifier (minimum 1) per Hit Die, if the plant creature has an Intelligence score. Some plant creatures are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do. Class skills: [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 *Traits*: A plant creature possesses the following traits (unless otherwise noted in a creature’s entry).
 
@@ -665,8 +660,6 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Paralysis|Paralys
   - Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 
   - Immunity to poison, sleep effects, paralysis, polymorph, and stunning.
-
-  - Not subject to critical hits.
 
   - Proficient with its natural weapons only.
 
@@ -710,6 +703,14 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Regeneration|Rege
  ^resistance-to-energy
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|Resistance to Energy]] under Special Abilities.
+
+**Retyped Creatures**: Two older creature types are now subtypes. Read a stat block that still gives one of them as the newer type; the creature keeps its other subtypes. ^retyped
+
+  - *Elemental type*: an [[#^outsider|outsider]] with the [[#^elemental|elemental subtype]] (and its element’s subtype).
+
+  - *Giant type*: a [[#^humanoid|humanoid]] with the [[#^giant|giant subtype]].
+
+A stat block worked out under the older type rules keeps the numbers it was worked out with (Hit Dice, base attack, saves, feats and skill points).
 
 **Scent (Ex)**: This special quality allows a creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell. Creatures with the scent ability can identify familiar odors just as humans do familiar sights. ^scent
 
@@ -844,25 +845,25 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
 *Features*: An undead creature has the following features.
 
-  - 12-sided Hit Dice.
+  - d8 Hit Dice.
 
-  - Base attack bonus equal to 1/2 total Hit Dice (as wizard).
+  - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 
   - Good Will saves.
 
-  - Skill points equal to (4 + Int modifier, minimum 1) per Hit Die, if the undead creature has an Intelligence score. Many undead are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do.
+  - Skill points equal to 4 + Int modifier (minimum 1) per Hit Die, if the undead creature has an Intelligence score. Many undead are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do. Class skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Intimidation|Intimidation]], its Magic skill (see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]), [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Theology|Theology]].
 
 *Traits*: An undead creature possesses the following traits (unless otherwise noted in a creature’s entry).
 
-  - No Constitution score.
+  - No Constitution score. Undead use their Charisma score in place of their Constitution score when calculating hit points, Fortitude saves, and any special ability that relies on Constitution (such as a breath weapon’s DC).
 
   - Darkvision out to 60 feet.
 
   - Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 
-  - Immunity to poison, sleep effects, paralysis, stunning, disease, and death effects.
+  - Immunity to [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]], death effects, disease, paralysis, poison, sleep effects, and stunning.
 
-  - Not subject to critical hits, nonlethal damage, ability drain, or energy drain. Immune to damage to its physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion effects.
+  - Not subject to nonlethal damage, ability drain, or energy drain. Immune to damage to its physical ability scores (Strength, Dexterity, and Constitution), as well as to fatigue and exhaustion effects.
 
   - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy (such as an inflict spell) can heal undead creatures. The fast healing special quality works regardless of the creature’s Intelligence score.
 
@@ -886,17 +887,17 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
 *Features*: Vermin have the following features.
 
-  - 8-sided Hit Dice.
+  - d8 Hit Dice.
 
-  - Base attack bonus equal to 3/4 total Hit Dice (as cleric).
+  - Base attack bonus equal to 3/4 total Hit Dice (medium progression).
 
   - Good Fortitude saves.
 
-  - Skill points equal to (2 + Int modifier, minimum 1) per Hit Die, if the vermin has an Intelligence score. Most vermin are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do.
+  - Skill points equal to 2 + Int modifier (minimum 1) per Hit Die, if the vermin has an Intelligence score. Most vermin are mindless; they gain no feats, and get skill points as [[#^mindless|mindless creatures]] do. Vermin have no class skills.
 
 *Traits*: Vermin possess the following traits (unless otherwise noted in a creature’s entry).
 
-  - Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
+  - Mindless: No Intelligence score, and immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects). A vermin-like creature with an Intelligence score is usually either an animal or a magical beast, depending on its other abilities.
 
   - Darkvision out to 60 feet.
 
