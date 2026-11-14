@@ -105,84 +105,24 @@ Some poisons and diseases are still written the older way, without a frequency o
 
 ## Sample Afflictions
 
-### Sample Diseases
-
-*Blinding Sickness*: Spread in tainted water. ^blinding-sickness
-
-*Cackle Fever*: Symptoms include high fever, disorientation, and frequent bouts of hideous laughter. Also known as “the shrieks.” ^cackle-fever
-
-*Demon Fever*: Night hags spread it. Can cause permanent ability drain. ^demon-fever
-
-*Devil Chills*: Barbazu and pit fiends spread it. It takes three, not two, successful saves in a row to recover from devil chills. ^devil-chills
-
-*Filth Fever*: Dire rats and otyughs spread it. Those injured while in filthy surroundings might also catch it. ^filth-fever
-
-*Mindfire*: Feels like your brain is burning. Causes stupor. ^mindfire
-
-*Mummy Rot*: Spread by mummies. Successful saving throws do not allow the character to recover (though they do prevent damage normally). ^mummy-rot
-
-*Red Ache*: Skin turns red, bloated, and warm to the touch. ^red-ache
-
-*The Shakes*: Causes involuntary twitches, tremors, and fits. ^the-shakes
-
-*Slimy Doom*: Victim turns into infectious goo from the inside out. Can cause permanent ability drain. ^slimy-doom
-
-**Table: Diseases** ^table-diseases
-
-| Disease           | Infection DC | Incubation | Damage           |
-| ----------------- | ------------ | ---------- | ---------------- |
-| Blinding sickness | Ingested 16  | 1d3 days   | 1d4 Str (1)      |
-| Cackle fever      | Inhaled 16   | 1 day      | 1d6 Wis          |
-| Demon fever       | Injury 18    | 1 day      | 1d6 Con (2)      |
-| Devil chills (3)  | Injury 14    | 1d4 days   | 1d4 Str          |
-| Filth fever       | Injury 12    | 1d3 days   | 1d3 Dex, 1d3 Con |
-| Mindfire          | Inhaled 12   | 1 day      | 1d4 Int          |
-| Mummy rot (4)     | Contact 20   | 1 day      | 1d6 Con          |
-| Red ache          | Injury 15    | 1d3 days   | 1d6 Str          |
-| Shakes            | Contact 13   | 1 day      | 1d8 Dex          |
-| Slimy doom        | Contact 14   | 1 day      | 1d4 Con (2)      |
-
-1 *Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded.*
-
-2 *When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.*
-
-3 *The victim must make three successful Fortitude saving throws in a row to recover from devil chills.*
-
-4 *Successful saves do not allow the character to recover. Only magical healing can save the character.*
+Each of these has a note of its own with its full entry; the lists gather them from the [[rangoric-srd/rules/afflictions/Afflictions Index.base|Afflictions Index]]. Where the effect says “see note”, the note has more.
 
 ### Sample Poisons
 
+By how each is delivered, then by DC.
+
 **Table: Poisons** ^table-poisons
 
-| Poison                 | Type           | Initial Damage  | Secondary Damage              | Price    |
-| ---------------------- | -------------- | --------------- | ----------------------------- | -------- |
-| Nitharit               | Contact DC 13  | 0               | 3d6 Con                       | 650 gp   |
-| Sassone leaf residue   | Contact DC 16  | 2d12 hp         | 1d6 Con                       | 300 gp   |
-| Malyss root paste      | Contact DC 16  | 1 Dex           | 2d4 Dex                       | 500 gp   |
-| Terinav root           | Contact DC 16  | 1d6 Dex         | 2d6 Dex                       | 750 gp   |
-| Black lotus extract    | Contact DC 20  | 3d6 Con         | 3d6 Con                       | 4,500 gp |
-| Dragon bile            | Contact DC 26  | 3d6 Str         | 0                             | 1,500 gp |
-| Striped toadstool      | Ingested DC 11 | 1 Wis           | 2d6 Wis + 1d4 Int             | 180 gp   |
-| Arsenic                | Ingested DC 13 | 1 Con           | 1d8 Con                       | 120 gp   |
-| Id moss                | Ingested DC 14 | 1d4 Int         | 2d6 Int                       | 125 gp   |
-| Oil of taggit          | Ingested DC 15 | 0               | Unconsciousness               | 90 gp    |
-| Lich dust              | Ingested DC 17 | 2d6 Str         | 1d6 Str                       | 250 gp   |
-| Dark reaver powder     | Ingested DC 18 | 2d6 Con         | 1d6 Con + 1d6 Str             | 300 gp   |
-| Ungol dust             | Inhaled DC 15  | 1 Cha           | 1d6 Cha + 1 Cha (\*)          | 1,000 gp |
-| Insanity mist          | Inhaled DC 15  | 1d4 Wis         | 2d6 Wis                       | 1,500 gp |
-| Burnt othur fumes      | Inhaled DC 18  | 1 Con (\*)      | 3d6 Con                       | 2,100 gp |
-| Black adder venom      | Injury DC 11   | 1d6 Con         | 1d6 Con                       | 120 gp   |
-| Small centipede poison | Injury DC 11   | 1d2 Dex         | 1d2 Dex                       | 90 gp    |
-| Bloodroot              | Injury DC 12   | 0               | 1d4 Con + 1d3 Wis             | 100 gp   |
-| Drow poison            | Injury DC 13   | Unconsciousness | Unconsciousness for 2d4 hours | 75gp     |
-| Greenblood oil         | Injury DC 13   | 1 Con           | 1d2 Con                       | 100 gp   |
-| Blue whinnis           | Injury DC 14   | 1 Con           | Unconsciousness               | 120 gp   |
-| Medium spider venom    | Injury DC 14   | 1d4 Str         | 1d4 Str                       | 150 gp   |
-| Shadow essence         | Injury DC 17   | 1 Str (\*)      | 2d6 Str                       | 250 gp   |
-| Wyvern poison          | Injury DC 17   | 2d6 Con         | 2d6 Con                       | 3,000 gp |
-| Large scorpion venom   | Injury DC 18   | 1d6 Str         | 1d6 Str                       | 200 gp   |
-| Giant wasp poison      | Injury DC 18   | 1d6 Dex         | 1d6 Dex                       | 210 gp   |
-| Deathblade             | Injury DC 20   | 1d6 Con         | 2d6 Con                       | 1,800 gp |
-| Purple worm poison     | Injury DC 24   | 1d6 Str         | 2d6 Str                       | 700 gp   |
+![[rangoric-srd/rules/afflictions/Afflictions Index.base#Poisons]]
 
-\* *Permanent drain, not temporary damage.*
+### Sample Diseases
+
+**Table: Diseases** ^table-diseases
+
+![[rangoric-srd/rules/afflictions/Afflictions Index.base#Diseases]]
+
+### Sample Curses
+
+**Table: Curses** ^table-curses
+
+![[rangoric-srd/rules/afflictions/Afflictions Index.base#Curses]]

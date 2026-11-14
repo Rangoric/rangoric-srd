@@ -1,0 +1,76 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/rules/afflictions")
+    - file.hasTag("rangoric/affliction")
+views:
+  - type: table
+    name: All afflictions
+    order:
+      - file.name
+      - note.affliction-type
+      - note.delivery
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+      - note.cure
+      - note.price
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Poisons
+    filters:
+      and:
+        - note.affliction-type == "poison"
+    groupBy:
+      property: note.delivery
+      direction: ASC
+    order:
+      - file.name
+      - note.delivery
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+      - note.cure
+      - note.price
+    sort:
+      - property: note.delivery
+        direction: ASC
+      - property: note.save-dc
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Diseases
+    filters:
+      and:
+        - note.affliction-type == "disease"
+    order:
+      - file.name
+      - note.delivery
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+      - note.cure
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Curses
+    filters:
+      and:
+        - note.affliction-type == "curse"
+    order:
+      - file.name
+      - note.delivery
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+      - note.cure
+    sort:
+      - property: file.name
+        direction: ASC
