@@ -799,13 +799,21 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Frost\|Frost]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Furious\|Furious]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)\|Ghost Touch]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Grayflame\|Grayflame]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Grounding\|Grounding]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Guardian\|Guardian]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Heartseeker\|Heartseeker]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Huntsman\|Huntsman]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Impact (Arms & Armor)\|Impact (Arms & Armor)]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Inspiration (Weapon Special Ability)\|Inspiration]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Inspired\|Inspired]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Intense\|Intense]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Invisible\|Invisible]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Jurist\|Jurist]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Keen\|Keen]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Ki Focus\|Ki Focus]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Kinetic\|Kinetic]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Limning\|Limning]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Lucky\|Lucky]] | +1 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Lucky (Firearm Special Ability)\|Lucky (Firearm Special Ability)]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Lunar\|Lunar]] | +1 bonus | Weapon Special Ability |
@@ -813,8 +821,12 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Merciful\|Merciful]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Mighty Cleaving\|Mighty Cleaving]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Mighty Sundering\|Mighty Sundering]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Mimetic\|Mimetic]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Nature’s Bane\|Nature’s Bane]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Neutralizing\|Neutralizing]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Ominous\|Ominous]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Penetrating\|Penetrating]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Planar\|Planar]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Power Storing\|Power Storing]] | +1 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Precision\|Precision]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Psychokinetic\|Psychokinetic]] | +1 bonus | Psionic Weapon Special Ability |
@@ -827,6 +839,8 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Retribution (Weapon Special Ability)\|Retribution]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Returning\|Returning]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Rust Protection\|Rust Protection]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Sacred\|Sacred]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Seaborne\|Seaborne]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Seeking\|Seeking]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Sensing\|Sensing]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Shining\|Shining]] | +1 bonus | Weapon Special Ability |
@@ -836,6 +850,7 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Sneak Attack\|Sneak Attack]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spell Storing\|Spell Storing]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spelltouch\|Spelltouch]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Spirit-Hunting\|Spirit-Hunting]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spiritual\|Spiritual]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Splintering\|Splintering]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Stoneblessed\|Stoneblessed]] | +1 bonus | Weapon Special Ability |
@@ -846,13 +861,16 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Sundering\|Sundering]] | +1 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Sympathetic\|Sympathetic]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Teleporting\|Teleporting]] | +1 bonus | Psionic Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Thawing\|Thawing]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Thorny (Weapon Special Ability)\|Thorny]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Throwing\|Throwing]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Thundering\|Thundering]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Tracer\|Tracer]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Tracking\|Tracking]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Undetectable (Weapon Special Ability)\|Undetectable]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Valiant\|Valiant]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Vicious\|Vicious]] | +1 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Virulent\|Virulent]] | +1 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Acid Burst\|Acid Burst]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Advancing\|Advancing]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Anarchic\|Anarchic]] | +2 bonus | Weapon Special Ability |
@@ -883,15 +901,23 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Flaming Burst\|Flaming Burst]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Force Bubble\|Force Bubble]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Furyborn\|Furyborn]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Glorious\|Glorious]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Holy\|Holy]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Icy Burst\|Icy Burst]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Igniting\|Igniting]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Impact\|Impact]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Interfering\|Interfering]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Invigorating\|Invigorating]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Jagged\|Jagged]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Ki Intensifying\|Ki Intensifying]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Kinetic, Improved\|Kinetic, Improved]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Lifesurge\|Lifesurge]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Mindcrusher\|Mindcrusher]] | +2 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Mire\|Mire]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Muse (Weapon Special Ability)\|Muse]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Negating (Weapon Special Ability)\|Negating]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Pestilence (Weapon Special Ability)\|Pestilence]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Phase Locking\|Phase Locking]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Psibane\|Psibane]] | +2 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Psychokinetic Burst\|Psychokinetic Burst]] | +2 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Quickened\|Quickened]] | +2 bonus | Weapon Special Ability |
@@ -902,6 +928,7 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Shrieking\|Shrieking]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Solace (Weapon Special Ability)\|Solace]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spell Reflection (Weapon Special Ability)\|Spell Reflection]] | +2 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Stalking\|Stalking]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Sundering (Arms & Armor)\|Sundering (Arms & Armor)]] | +2 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Suppression\|Suppression]] | +2 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Threnody\|Threnody]] | +2 bonus | Weapon Special Ability |
@@ -936,9 +963,11 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Hellfire\|Hellfire]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Lucky, Greater\|Lucky, Greater]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Mindfeeder\|Mindfeeder]] | +3 bonus | Psionic Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Nullifying\|Nullifying]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Pestilence, Greater\|Pestilence, Greater]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Prismatic\|Prismatic]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Reliable, Greater\|Reliable, Greater]] | +3 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Repositioning\|Repositioning]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Runic (Weapon Special Ability)\|Runic]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Soulbreaker\|Soulbreaker]] | +3 bonus | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spawning\|Spawning]] | +3 bonus | Weapon Special Ability |
@@ -947,6 +976,7 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Spell Resistance (Weapon Special Ability)\|Spell Resistance]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spell Storing, Greater (Weapon Special Ability)\|Spell Storing, Greater]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spellcutter\|Spellcutter]] | +3 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Spellstealing\|Spellstealing]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Undead Creator, Minor\|Undead Creator, Minor]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Vampiric\|Vampiric]] | +3 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Brilliant Energy\|Brilliant Energy]] | +4 bonus | Weapon Special Ability |
@@ -955,8 +985,10 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Designating, Greater\|Designating, Greater]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Equalizing\|Equalizing]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Great Dislocator\|Great Dislocator]] | +4 bonus | Psionic Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Nimble Shot\|Nimble Shot]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Phoenix (Weapon Special Ability)\|Phoenix]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Ruinous\|Ruinous]] | +4 bonus | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Second Chance (Weapon Special Ability)\|Second Chance]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Shadow Energy\|Shadow Energy]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Solace, Greater (Weapon Special Ability)\|Solace, Greater]] | +4 bonus | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Spell Echoing\|Spell Echoing]] | +4 bonus | Weapon Special Ability |
@@ -995,9 +1027,15 @@ Every weapon special ability, by price:
 | [[rangoric-srd/magic-items/weapon-abilities/Substance-Laced\|Substance-Laced]] | +1,000 gp | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Iconic\|Iconic]] | +2,000 gp | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Imprinted (Weapon Special Ability)\|Imprinted]] | +2,000 gp | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Phantom Ammunition\|Phantom Ammunition]] | +2,000 gp | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Signal Flare\|Signal Flare]] | +2,000 gp | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Prehensile\|Prehensile]] | +2,500 gp | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Impervious (Weapon Special Ability)\|Impervious]] | +3,000 gp | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Exclusionary\|Exclusionary]] | +3,750 gp | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Glamered (Weapon Special Ability)\|Glamered]] | +4,000 gp | Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Sneaky\|Sneaky]] | +5,000 gp | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Parrying\|Parrying]] | +8,000 gp | Psionic Weapon Special Ability |
+| [[rangoric-srd/magic-items/weapon-abilities/Transformative\|Transformative]] | +10,000 gp | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Dueling\|Dueling]] | +14,000 gp | Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Manifester (Psionic Weapon Special Ability)\|Manifester (Psionic Weapon Special Ability)]] | +16,000 gp | Psionic Weapon Special Ability |
 | [[rangoric-srd/magic-items/weapon-abilities/Echotrapping (Weapon Special Ability)\|Echotrapping]] | +1 bonus per spell capacity | Weapon Special Ability |
