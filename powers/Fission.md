@@ -12,8 +12,8 @@ duration: "1 round/level (D)"
 power-points: "13"
 based-on:
   - "[[fantasy srd 3.5/powers/Fission|Fission (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -33,7 +33,7 @@ You can divide yourself, creating a duplicate that comes into existence 5 feet a
 
 When the duration expires or when you dismiss the power, you and your duplicate rejoin, no matter how far from each other you are. You gain back any power points the duplicate has not spent. At the time of rejoining, you take half of the damage your duplicate has taken since this power was manifested. This damage could potentially leave you with negative hit points, but it can’t reduce your hit points to less than -9.
 
-If your duplicate dies before the duration expires, no rejoining occurs, and you gain one negative level. If you die, your duplicate remains in existence, and is for all intents you, but with two negative levels. (Once the duration expires, one of the negative levels immediately converts to one lost level; the other negative level can be removed by standard means.)
+If your duplicate dies before the duration expires, no rejoining occurs, and you gain one negative level. If you die, your duplicate remains in existence, and is for all intents you, but with two negative levels. (Once the duration expires, one of the negative levels immediately becomes [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]]; the other negative level can be removed by standard means.)
 
 You can have only one fissioned duplicate in existence at one time; your duplicate cannot use this power. You cannot use fusion or metaconcert with a duplicate, or share any other power or effect that pools abilities (the sum of you and you is still just you). Similarly, attempting to use powers such as [[rangoric-srd/powers/Claws of the Vampire|claws of the vampire]] or [[rangoric-srd/powers/Vampiric Blade|vampiric blade]] to hurt your duplicate only damages your duplicate; these powers do not heal you. [[rangoric-srd/powers/Empathic Transfer|Empathic transfer]] and similar powers are likewise ineffective (transferring wounds to yourself isn’t a good healing strategy).
 

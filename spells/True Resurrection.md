@@ -8,8 +8,9 @@ level:
 casting-time: "10 minutes"
 based-on:
   - "[[fantasy srd 3.5/spells/True Resurrection|True Resurrection (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/spells/True Resurrection|True Resurrection (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 This spell functions like [[rangoric-srd/spells/Raise Dead|raise dead]], except that you can resurrect a creature that has been [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] for as long as 10 years per caster level. This spell can even bring back creatures whose bodies have been destroyed, provided that you unambiguously identify the deceased in some fashion (reciting the deceased’s time and place of birth or death is the most common method).
 
-Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no loss of level (or Constitution points) or prepared spells.
+Upon completion of the spell, the creature is immediately restored to full hit points, vigor, and health, with no [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] (or loss of Constitution points) and no loss of prepared spells.
 
 You can revive someone killed by a death effect or someone who has been turned into an undead creature and then destroyed. This spell can also resurrect elementals or outsiders, but it can’t resurrect constructs or undead creatures.
 

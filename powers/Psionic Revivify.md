@@ -16,8 +16,8 @@ power-resistance: "Yes (harmless)"
 power-points: "9, XP"
 based-on:
   - "[[fantasy srd 3.5/powers/Psionic Revivify|Psionic Revivify (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -36,7 +36,7 @@ Psychometabolism (Healing) \[Good\]
 
 Psionic revivify lets a manifester reconnect a corpse’s psyche with its body, restoring life to a recently deceased creature. The power must be manifested within 1 round of the victim’s death. Before the psyche of the deceased has completely left the body, this power halts its journey while repairing somewhat the damage to the body.
 
-This power functions like the [[rangoric-srd/spells/Raise Dead|raise dead]] spell, except that the affected creature receives no level loss, no Constitution loss, and no loss of powers.
+This power functions like the [[rangoric-srd/spells/Raise Dead|raise dead]] spell, except that the affected creature gains no [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]], loses no Constitution, and loses no powers.
 
 The creature has -1 hit points (but is stable) after being restored to life.
 

@@ -24,6 +24,7 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Heal (Spell)|Heal (Spell) (3.5)]]"
+  - "[[path srd 3.5/spells/Heal|Heal (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -45,6 +46,6 @@ tags: [rangoric, rangoric/spell]
 
 Heal enables you to channel positive energy into a creature to wipe away injury and afflictions. It immediately ends any and all of the following adverse conditions affecting the Target: [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]], [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|dazzled]], [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]], diseased, [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]], [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]], feebleminded, insanity, [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]], [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]], and poisoned. It also cures 10 hit points of damage per level of the caster, to a maximum of 150 points at 15th level.
 
-Heal does not remove [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]], restore permanently drained levels, or restore permanently drained ability score points.
+Heal does not remove [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|negative levels]] or restore permanently drained ability score points.
 
 If used against an undead creature, heal instead acts like harm.

@@ -9,8 +9,8 @@ power-resistance: "See text"
 power-points: "17, XP"
 based-on:
   - "[[fantasy srd 3.5/powers/Reality Revision|Reality Revision (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -42,7 +42,7 @@ As [[rangoric-srd/powers/Bend Reality|bend reality]], but with more farreaching 
   - Remove injuries and afflictions. A single reality revision can aid one creature per manifester level, and all subjects are cured of the same kind of affliction.  
     Reality revision can not restore the experience point loss from manifesting a power or casting a spell, or the level or  Constitution loss from being returned to life by those effects that reduce level or Constitution.
 
-  - Revive the dead. Reality revision can bring a dead creature back to life by duplicating a [[rangoric-srd/spells/Resurrection|resurrection]] spell. This power can revive a dead creature whose body has been destroyed, but the task takes two manifestations of reality revision, one to recreate the body and another to infuse the body with life again. Reality revision cannot prevent a character who is brought back to life from losing a level.
+  - Revive the dead. Reality revision can bring a dead creature back to life by duplicating a [[rangoric-srd/spells/Resurrection|resurrection]] spell. This power can revive a dead creature whose body has been destroyed, but the task takes two manifestations of reality revision, one to recreate the body and another to infuse the body with life again. Reality revision cannot prevent a character who is brought back to life from gaining a [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]].
 
   - Transport travelers. This power can lift one creature per manifester level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. An unwilling target gets a Will save to negate the effect, and power resistance (if any) applies.
 

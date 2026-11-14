@@ -234,7 +234,7 @@ The spells an [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemist]] ca
 | [[rangoric-srd/spells/Mutagenic Touch\|Mutagenic Touch]] (M): | You can pass a weaker version of your mutagen to another creature. |
 | [[rangoric-srd/spells/Neutralize Poison\|Neutralize Poison]]: | Immunizes subject against poison, detoxifies venom in or on subject. |
 | [[rangoric-srd/spells/Persistent Vigor\|Persistent Vigor]] (M): | Gain fast healing 2, immunity to bleed, and faster recovery from diseases and poisons. |
-| [[rangoric-srd/spells/Restoration\|Restoration]] (M): | Restores level and ability score [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drains]]. |
+| [[rangoric-srd/spells/Restoration\|Restoration]] (M): | Removes negative levels and ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained\|drain]]. |
 | [[rangoric-srd/spells/Scale Spikes, Greater\|Scale Spikes, Greater]] (M): | As scale spikes, except with a higher enhancement bonus. |
 | [[rangoric-srd/spells/Scorching Ash Form\|Scorching Ash Form]] (M): | This spell functions like gaseous form, except the target becomes a visible swirl of hot ash and smoke instead of harmless translucent gas. |
 | [[rangoric-srd/spells/Spell Immunity\|Spell Immunity]]: | Subject is immune to one spell per four levels. |

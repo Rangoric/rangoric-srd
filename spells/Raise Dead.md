@@ -20,6 +20,7 @@ saving-throw: "None; see text"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Raise Dead|Raise Dead (3.5)]]"
+  - "[[path srd 3.5/spells/Raise Dead|Raise Dead (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -41,7 +42,7 @@ tags: [rangoric, rangoric/spell]
 
 You restore life to a deceased creature. You can raise a creature that has been [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] for no longer than one day per caster level. In addition, the subject’s soul must be free and willing to return. If the subject’s soul is not willing to return, the spell does not work; therefore, a subject that wants to return receives no saving throw.
 
-Coming back from the dead is an ordeal. The subject of the spell loses one level (or 1 Hit Die) when it is raised, just as if it had lost a level or a Hit Die to an energy-draining creature. If the subject is 1st level, it loses 2 points of Constitution instead (if this would reduce its Con to 0 or less, it can’t be raised). This level/HD loss or Constitution loss cannot be repaired by any means. A character who died with spells prepared has a 50% chance of losing any given spell upon being raised, in addition to losing spells for losing a level. A spellcasting creature that doesn’t prepare spells (such as a sorcerer) has a 50% chance of losing any given unused spell slot as if it had been used to cast a spell, in addition to losing spell slots for losing a level.
+Coming back from the dead is an ordeal. The subject of the spell gains two [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative levels]] when it is raised, just as if it had been hit by an energy-draining creature. If the subject is 1st level, it takes 2 points of [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|Constitution drain]] instead (if this would reduce its Con to 0 or less, it can’t be raised). A character who died with spells prepared has a 50% chance of losing any given spell upon being raised. A spellcasting creature that doesn’t prepare spells (such as a sorcerer) has a 50% chance of losing any given unused spell slot as if it had been used to cast a spell.
 
 A raised creature has a number of hit points equal to its current Hit Dice. Any ability scores damaged to 0 are raised to 1. Normal poison and normal disease are cured in the process of raising the subject, but magical diseases and curses are not undone. While the spell closes mortal wounds and repairs lethal damage of most kinds, the body of the creature to be raised must be whole. Otherwise, missing parts are still missing when the creature is brought back to life. None of the dead creature’s equipment or possessions are affected in any way by this spell.
 

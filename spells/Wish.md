@@ -15,8 +15,9 @@ saving-throw: "See text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Wish|Wish (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/spells/Wish|Wish (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -59,7 +60,7 @@ A wish can produce any one of the following effects.
 
   - Remove injuries and afflictions. A single wish can aid one creature per caster level, and all subjects are cured of the same kind of affliction. For example, you could heal all the damage you and your companions have taken, or remove all poison effects from everyone in the party, but not do both with the same wish. A wish can never restore the experience point loss from casting a spell or the level or Constitution loss from being raised from the dead.
 
-  - Revive the dead. A wish can bring a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature back to life by duplicating a resurrection spell. A wish can revive a dead creature whose body has been destroyed, but the task takes two wishes, one to recreate the body and another to infuse the body with life again. A wish cannot prevent a character who was brought back to life from losing an experience level.
+  - Revive the dead. A wish can bring a [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] creature back to life by duplicating a resurrection spell. A wish can revive a dead creature whose body has been destroyed, but the task takes two wishes, one to recreate the body and another to infuse the body with life again. A wish cannot prevent a character who was brought back to life from gaining a [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent negative level]].
 
   - Transport travelers. A wish can lift one creature per caster level from anywhere on any plane and place those creatures anywhere else on any plane regardless of local conditions. An unwilling target gets a Will save to negate the effect, and spell resistance (if any) applies.
 
