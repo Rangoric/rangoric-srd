@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class-option]
 
 *A 2-point evolution (Ex) for an [[rangoric-srd/classes/Unchained Summoner|unchained summoner]]’s eidolon.*
 
-The eidolon secretes toxic venom, gaining a [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]] attack. Select one bite or sting attack. Whenever the selected attack hits, the target is poisoned.
+The eidolon secretes toxic venom, gaining a [[rangoric-srd/rules/Afflictions#Poison|poison]] attack. Select one bite or sting attack. Whenever the selected attack hits, the target is poisoned.
 
 *Eidolon Poison*: Injury; *save* Fort negates; *frequency* 1/round for 4 rounds; *effect* 1d4 Str damage; *cure* 1 save.
 

@@ -19,4 +19,4 @@ Once per day as a swift action, a grippli can create a poison that can be applie
 
 > *Grippli Poison*: Skin or weapon—contact or injury; save Fort DC 10 + 1/2 the grippli's Hit Dice plus its Constitution modifier; frequency 1/round for 6 rounds; effect 1d2 Dexterity damage; cure 1 save.
 
-*This poison is written in Pathfinder's format (frequency and cure, as the PSRD has it) until poisons get a topic of their own; how poisons work in general is under [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]].*
+*How poisons work is under [[rangoric-srd/rules/Afflictions#Poison|poison]].*

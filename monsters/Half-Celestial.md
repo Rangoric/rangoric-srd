@@ -50,7 +50,7 @@ A half-celestial uses all the base creature’s statistics and special abilities
 
   - Darkvision out to 60 feet.
 
-  - Immunity to [[rangoric-srd/rules/Special Abilities and Conditions#Disease|disease]].
+  - Immunity to [[rangoric-srd/rules/Afflictions#Disease|disease]].
 
   - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to acid]] 10, cold 10, and electricity 10.
 
@@ -60,7 +60,7 @@ A half-celestial uses all the base creature’s statistics and special abilities
 
   - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
 
-  - \+4 racial bonus on Fortitude saves against [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]].
+  - \+4 racial bonus on Fortitude saves against [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
 **Abilities: Increase from the base creature as follows**: Str +4, Dex +2, Con +4, Int +2, Wis +4, Cha +4.
 

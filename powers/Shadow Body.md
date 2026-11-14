@@ -35,7 +35,7 @@ You can move at your normal speed, on any surface, including walls and ceilings,
 
 Your space does not change, so you cannot move into locations you would not normally be able to move into.
 
-While in your shadow body, you gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 10/magic and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] out to 60 feet. You are immune to extra damage from critical hits, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Special Abilities and Conditions#Disease|disease]], drowning, and [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]]. You take only half damage from acid, electricity, and fire of all kinds.
+While in your shadow body, you gain [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] 10/magic and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] out to 60 feet. You are immune to extra damage from critical hits, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Afflictions#Disease|disease]], drowning, and [[rangoric-srd/rules/Afflictions#Poison|poison]]. You take only half damage from acid, electricity, and fire of all kinds.
 
 While affected by this power, you can be detected by powers that read thoughts, life, or presences (including [[rangoric-srd/powers/True Seeing, Psionic|true seeing]]), or if you make suspicious movements in lighted areas.
 

@@ -17,4 +17,4 @@ Your body is suffused with elemental air that provides for all your respiratory 
 
 **Prerequisites**: Character level 11th, [[rangoric-srd/races/Sylph|sylph]].
 
-**Benefit**: You no longer need to breathe. You are immune to effects that require breathing (such as [[rangoric-srd/rules/Special Abilities and Conditions#^inhaled-poison|inhaled poison]]). This does not give you immunity to cloud or gas attacks that do not require breathing, such as *[[rangoric-srd/spells/Cloudkill|cloudkill]]*.
+**Benefit**: You no longer need to breathe. You are immune to effects that require breathing (such as [[rangoric-srd/rules/Afflictions#^inhaled-poison|inhaled poison]]). This does not give you immunity to cloud or gas attacks that do not require breathing, such as *[[rangoric-srd/spells/Cloudkill|cloudkill]]*.

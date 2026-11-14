@@ -80,4 +80,4 @@ An udoroot can use its [[rangoric-srd/powers/Body Adjustment|body adjustment]] p
 
 Blindsight (Ex): An udoroot can ascertain all foes by nonvisual means within 60 feet. If its crowns are destroyed, it can no longer perceive its surroundings.
 
-Plant Traits: An udoroot is immune to [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], stunning, polymorphing, and mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects). It is not subject to critical hits.
+Plant Traits: An udoroot is immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], stunning, polymorphing, and mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects). It is not subject to critical hits.

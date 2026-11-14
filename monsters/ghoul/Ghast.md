@@ -66,7 +66,7 @@ Although these creatures look just like their lesser kin, they are far more dead
 
 ### Combat
 
-**Ghoul Fever (Su)**: [[rangoric-srd/rules/Special Abilities and Conditions#Disease|Disease]] - bite, Fortitude DC 15, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
+**Ghoul Fever (Su)**: [[rangoric-srd/rules/Afflictions#Disease|Disease]] - bite, Fortitude DC 15, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
 
 **Paralysis (Ex)**: Those hit by a ghast’s bite or claw attack must succeed on a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4+1 rounds. Even elves can be affected by this paralysis. The save DC is Charisma-based.
 

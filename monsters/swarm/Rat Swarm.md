@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Swarm (1d6 plus disease)
   - **Full Attack**: Swarm (1d6 plus disease)
   - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/rules/Special Abilities and Conditions#Disease|Disease]], distraction
+  - **Special Attacks**: [[rangoric-srd/rules/Afflictions#Disease|Disease]], distraction
   - **Special Qualities**: Half damage from slashing and piercing, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
   - **Saves**: Fort +4, Ref +6, Will +2
   - **Abilities**: Str 2, Dex 15, Con 10, Int 2, Wis 12, Cha 2

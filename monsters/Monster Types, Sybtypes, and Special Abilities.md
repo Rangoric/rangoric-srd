@@ -209,7 +209,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
 
   - Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 
-  - Immunity to [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Special Abilities and Conditions#Disease|disease]], death effects, and necromancy effects.
+  - Immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, and necromancy effects.
 
   - Cannot heal damage on their own, but often can be repaired by exposing them to a certain kind of effect (see the creature’s description for details) or through the use of the [[rangoric-srd/feats/Craft Construct|Craft Construct]] feat. A construct with the [[#^fast-healing|fast healing]] special quality still benefits from that quality.
 
@@ -682,7 +682,7 @@ The Fortitude save DC against a poison attack is equal to 10 + 1/2 poisoning cre
 
 A successful save avoids (negates) the damage.  
 
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] under Special Abilities.
+Also see [[rangoric-srd/rules/Afflictions#Poison|Poison]] under Special Abilities.
 
 **Positive Energy Affinity (Ex)**: The creature is healed by positive energy and harmed by negative energy, as a living creature is, even if it is [[#^undead|undead]]. ^positive-energy-affinity
 

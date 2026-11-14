@@ -66,7 +66,7 @@ A half-fiend uses all the base creature’s statistics and special abilities exc
 
   - Darkvision out to 60 feet.
 
-  - Immunity to [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]].
+  - Immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
   - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to acid]] 10, cold 10, electricity 10, and fire 10.
 

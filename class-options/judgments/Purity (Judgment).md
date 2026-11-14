@@ -17,4 +17,4 @@ tags: [rangoric, rangoric/class-option]
 
 *An [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-judgment|inquisitor’s judgment]].*
 
-The inquisitor is protected from the vile taint of her foes, gaining a +1 sacred bonus on all saving throws. This bonus increases by +1 for every five inquisitor levels she possesses. At 10th level, the bonus is doubled against curses, [[rangoric-srd/rules/Special Abilities and Conditions#Disease|diseases]], and [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poisons]].
+The inquisitor is protected from the vile taint of her foes, gaining a +1 sacred bonus on all saving throws. This bonus increases by +1 for every five inquisitor levels she possesses. At 10th level, the bonus is doubled against curses, [[rangoric-srd/rules/Afflictions#Disease|diseases]], and [[rangoric-srd/rules/Afflictions#Poison|poisons]].

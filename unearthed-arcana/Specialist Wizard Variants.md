@@ -232,7 +232,7 @@ A necromancer using this variant permanently gives up the ability to obtain a fa
 
 As a necromancer using this variant progresses in levels, she gains some of the qualities that typify undead creatures.
 
-At 5th level, the necromancer gains a 2 bonus on all saving throws made to resist sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stun]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], or [[rangoric-srd/rules/Special Abilities and Conditions#Disease|disease]]. This bonus increases to +4 at 15th level.
+At 5th level, the necromancer gains a 2 bonus on all saving throws made to resist sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stun]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Afflictions#Poison|poison]], or [[rangoric-srd/rules/Afflictions#Disease|disease]]. This bonus increases to +4 at 15th level.
 
 At 10th level, the necromancer gains a +4 bonus on saving throws made to resist [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]].
 

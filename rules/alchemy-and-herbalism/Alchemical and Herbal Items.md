@@ -81,7 +81,7 @@ Alchemists and herbalists cannot make magical armor or weapons. However, alchemi
 
 ### Poisons
 
-Alchemists and herbalists can make a wide variety of poisons with the noted rank levels, though obviously they cannot reproduce animal ichors or magical poisons. The basic [[rangoric-srd/rules/Special Abilities and Conditions|poisons]] of the core rules can be created with the normal uses of alchemy or herbalism skills. Other poisons (unless noted as animal or magical products) can be produced by characters using the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat.
+Alchemists and herbalists can make a wide variety of poisons with the noted rank levels, though obviously they cannot reproduce animal ichors or magical poisons. The basic [[rangoric-srd/rules/Afflictions#Poison|poisons]] of the core rules can be created with the normal uses of alchemy or herbalism skills. Other poisons (unless noted as animal or magical products) can be produced by characters using the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat.
 
 ### Potions
 
@@ -434,7 +434,7 @@ Unlike the other categories, there are no set standards or forms for poisons, no
 
 Also, while they may be listed under other types, the ability to create any of them comes only from the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat. Only the generic poisons of the core rules can be created with the [[rangoric-srd/skills/Profession|Profession]] (herbalist) or [[rangoric-srd/skills/Craft|Craft]] (alchemy) skills unless otherwise noted.
 
-Aside from the added classification and the DC for creation, the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins table]] works like the core [[rangoric-srd/rules/Special Abilities and Conditions|poison]] rules. The prices for said toxins and poisons are in the core rules or in the catalog.
+Aside from the added classification and the DC for creation, the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins table]] works like the core [[rangoric-srd/rules/Afflictions#Poison|poison]] rules. The prices for said toxins and poisons are in the core rules or in the catalog.
 
 *Type (Classification):* The poison’s method of delivery (and its classification in the catalog).
 

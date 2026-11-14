@@ -24,7 +24,7 @@ Whenever the oath taker for a particular weapon is killed, that weapon permanent
 
 | Oath Takers Killed | Additional Effect |
 |---|---|
-| 3 or more | [[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] (Fortitude DC 18, 1d6 Str/1d6 Str) |
+| 3 or more | [[rangoric-srd/rules/Afflictions#Poison|Poison]] (Fortitude DC 18, 1d6 Str/1d6 Str) |
 | 6 or more | *[[rangoric-srd/spells/Dimensional Anchor|Dimensional anchor]]* (Will DC 19) |
 | 9 | Death (Fortitude DC 22; on a success, still 3d6+19 points of additional damage) |
 

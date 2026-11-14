@@ -68,4 +68,4 @@ In amulet form, a lesser killer amulet servitor is a two-pound disk of intertwin
 
 A killer amulet servitor attacks its designated target to the exclusion of all others, ignoring other threats in an effort to kill its prey. Once rendering its target helpless, it spends a full-round action to deliver a [[rangoric-srd/combat/Combat Modifiers#Helpless Defenders|coup de grace]] to the target. After the target is dead, the servitor simply defends it from attacks unless the amulet’s owner designates a second target.
 
-**[[rangoric-srd/rules/Special Abilities and Conditions#Poison|Poison]] (Ex):** A killer amulet servitor has a potent poison in its horn designed to speed the death of its targets. Injury, Fortitude DC 16, initial and secondary damage 1d4 Con.
+**[[rangoric-srd/rules/Afflictions#Poison|Poison]] (Ex):** A killer amulet servitor has a potent poison in its horn designed to speed the death of its targets. Injury, Fortitude DC 16, initial and secondary damage 1d4 Con.

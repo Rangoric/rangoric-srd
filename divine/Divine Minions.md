@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Divine"
 based-on:
   - "[[fantasy srd 3.5/divine/Divine Minions|Divine Minions (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -47,7 +47,7 @@ Special Qualities: A petitioner loses all supernatural and spell-like abilities,
 
 Mental Immunity: All petitioners are immune to mind-affecting effects.
 
-Other Immunities: Depending on its nature, the petitioner is immune to two of the following effects: acid, cold, electricity, fire, [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrifaction]], or polymorphing. These immunities are applied similarly to all petitioners of a particular plane or deity.
+Other Immunities: Depending on its nature, the petitioner is immune to two of the following effects: acid, cold, electricity, fire, [[rangoric-srd/rules/Afflictions#Poison|poison]], [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrifaction]], or polymorphing. These immunities are applied similarly to all petitioners of a particular plane or deity.
 
 Resistances: Depending on the nature of the petitioner’s plane, the petitioner gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance]] 20 against two of the following effects: acid, cold, electricity, or fire.
 

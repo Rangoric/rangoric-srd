@@ -78,7 +78,7 @@ A pit fiend’s natural weapons, as well as any weapons it wields, are treated a
 
 **Constrict (Ex)**: A pit fiend deals 2d8+26 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
-**Disease (Su)**: A creature struck by a pit fiend’s bite attack must succeed on a DC 27 Fortitude save or be infected with a vile [[rangoric-srd/rules/Special Abilities and Conditions#Disease|disease]] known as devil chills (incubation period 1d4 days, damage 1d4 Str). The save DC is Constitution-based.
+**Disease (Su)**: A creature struck by a pit fiend’s bite attack must succeed on a DC 27 Fortitude save or be infected with a vile [[rangoric-srd/rules/Afflictions#Disease|disease]] known as devil chills (incubation period 1d4 days, damage 1d4 Str). The save DC is Constitution-based.
 
 **Fear Aura (Su)**: A pit fiend can radiate a 20-foot-radius [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|fear aura]] as a free action. A creature in the area must succeed on a DC 27 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 18th). A creature that successfully saves cannot be affected again by the same pit fiend’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
 

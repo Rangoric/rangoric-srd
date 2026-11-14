@@ -1196,7 +1196,7 @@ Benefit: The deity gains the qualities of the undead type:
 
   - Immunity to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
 
-  - Immunity to [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Special Abilities and Conditions#Disease|disease]], and death effects.
+  - Immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], and death effects.
 
   - Not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Immune to [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]] to its physical ability scores (Strength, Dexterity, and Constitution), as well as to [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]] and [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]] effects.
 

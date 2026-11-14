@@ -152,6 +152,10 @@ Regardless of whether a character is charmed or compelled, he won’t volunteer 
 
 A creature with cold immunity never takes cold damage. It has vulnerability to fire, which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure.
 
+##### Curses
+
+Curses are [[rangoric-srd/rules/Afflictions#Curse|afflictions]]; see [[rangoric-srd/rules/Afflictions|Afflictions]].
+
 ##### Damage Reduction
 
 Some magic creatures have the supernatural ability to instantly heal damage from weapons or to ignore blows altogether as though they were invulnerable.
@@ -188,74 +192,7 @@ In most cases, a death attack allows the victim a Fortitude save to avoid the af
 
 ##### Disease
 
-When a character is injured by a contaminated attack touches an item smeared with diseased matter, or consumes disease-tainted food or drink, he must make an immediate Fortitude saving throw. If he succeeds, the disease has no effect — his immune system fought off the infection. If he fails, he takes damage after an incubation period. Once per day afterward, he must make a successful Fortitude saving throw to avoid repeated damage. Two successful saving throws in a row indicate that he has fought off the disease and recovers, taking no more damage.
-
-These Fortitude saving throws can be rolled secretly so that the player doesn’t know whether the disease has taken hold.
-
-###### Disease Descriptions
-
-Diseases have various symptoms and are spread through a number of vectors. The characteristics of several typical diseases are summarized on Table: Diseases and defined below.
-
-*Disease*: Diseases whose names are printed in italic in the table are supernatural in nature. The others are extraordinary.
-
-*Infection*: The disease’s method of delivery — ingested, inhaled, via injury, or contact. Keep in mind that some injury diseases may be transmitted by as small an injury as a flea bite and that most inhaled diseases can also be ingested (and vice versa).
-
-*DC*: The Difficulty Class for the Fortitude saving throws to prevent infection (if the character has been infected), to prevent each instance of repeated damage, and to recover from the disease.
-
-*Incubation Period*: The time before damage begins.
-
-*Damage*: The ability damage the character takes after incubation and each day afterward.
-
-**Types of Diseases**: Typical diseases include the following:
-
-*Blinding Sickness*: Spread in tainted water. ^blinding-sickness
-
-*Cackle Fever*: Symptoms include high fever, disorientation, and frequent bouts of hideous laughter. Also known as “the shrieks.” ^cackle-fever
-
-*Demon Fever*: Night hags spread it. Can cause permanent ability drain. ^demon-fever
-
-*Devil Chills*: Barbazu and pit fiends spread it. It takes three, not two, successful saves in a row to recover from devil chills. ^devil-chills
-
-*Filth Fever*: Dire rats and otyughs spread it. Those injured while in filthy surroundings might also catch it. ^filth-fever
-
-*Mindfire*: Feels like your brain is burning. Causes stupor. ^mindfire
-
-*Mummy Rot*: Spread by mummies. Successful saving throws do not allow the character to recover (though they do prevent damage normally). ^mummy-rot
-
-*Red Ache*: Skin turns red, bloated, and warm to the touch. ^red-ache
-
-*The Shakes*: Causes involuntary twitches, tremors, and fits. ^the-shakes
-
-*Slimy Doom*: Victim turns into infectious goo from the inside out. Can cause permanent ability drain. ^slimy-doom
-
-**Table: Diseases** ^table-diseases
-
-| Disease           | Infection DC | Incubation | Damage           |
-| ----------------- | ------------ | ---------- | ---------------- |
-| Blinding sickness | Ingested 16  | 1d3 days   | 1d4 Str (1)      |
-| Cackle fever      | Inhaled 16   | 1 day      | 1d6 Wis          |
-| Demon fever       | Injury 18    | 1 day      | 1d6 Con (2)      |
-| Devil chills (3)  | Injury 14    | 1d4 days   | 1d4 Str          |
-| Filth fever       | Injury 12    | 1d3 days   | 1d3 Dex, 1d3 Con |
-| Mindfire          | Inhaled 12   | 1 day      | 1d4 Int          |
-| Mummy rot (4)     | Contact 20   | 1 day      | 1d6 Con          |
-| Red ache          | Injury 15    | 1d3 days   | 1d6 Str          |
-| Shakes            | Contact 13   | 1 day      | 1d8 Dex          |
-| Slimy doom        | Contact 14   | 1 day      | 1d4 Con (2)      |
-
-1 *Each time the victim takes 2 or more damage from the disease, he must make another Fortitude save or be permanently blinded.*
-
-2 *When damaged, character must succeed on another saving throw or 1 point of damage is permanent drain instead.*
-
-3 *The victim must make three successful Fortitude saving throws in a row to recover from devil chills.*
-
-4 *Successful saves do not allow the character to recover. Only magical healing can save the character.*
-
-###### Healing a Disease
-
-A healer can help a diseased character with the [[rangoric-srd/actions/Treat Disease|Treat Disease]] action, a [[rangoric-srd/actions/First Aid|First Aid]] action.
-
-Characters recover points lost to ability score damage at a rate of 1 per day per ability damaged, and this rule applies even while a disease is in progress. That means that a character with a minor disease might be able to withstand it without accumulating any damage.
+Diseases are [[rangoric-srd/rules/Afflictions#Disease|afflictions]]: how a disease is caught, runs its course and is cured, and the sample diseases, are in [[rangoric-srd/rules/Afflictions|Afflictions]].
 
 ##### Energy Drain and Negative Levels
 
@@ -425,7 +362,7 @@ Characters with low-light vision can see outdoors on a moonlit night as well as 
 
 ##### Paralysis
 
-Some monsters and spells have the supernatural or spell-like ability to paralyze their victims, immobilizing them through magical means. (Paralysis from toxins is discussed in the Poison section below.)
+Some monsters and spells have the supernatural or spell-like ability to paralyze their victims, immobilizing them through magical means. (Paralysis from a toxin is part of that [[rangoric-srd/rules/Afflictions#Poison|poison]]’s effect.)
 
 A paralyzed character cannot move, speak, or take any physical action. He is rooted to the spot, frozen and helpless. Not even friends can move his limbs. He may take purely mental actions, such as casting a spell with no components.
 
@@ -433,74 +370,7 @@ A winged creature flying in the air at the time that it becomes paralyzed cannot
 
 ##### Poison
 
-When a character takes damage from an attack with a poisoned weapon, touches an item smeared with contact poison, consumes poisoned food or drink, or is otherwise poisoned, he must make a Fortitude saving throw. If he fails, he takes the poison’s initial damage (usually ability damage). Even if he succeeds, he typically faces more damage 1 minute later, which he can also avoid with a successful Fortitude saving throw.
-
-One dose of poison smeared on a weapon or some other object affects just a single target. A poisoned weapon or object retains its venom until the weapon scores a hit or the object is touched (unless the poison is wiped off before a target comes in contact with it). Any poison smeared on an object or exposed to the elements in any way remains potent until it is touched or used.
-
-Although supernatural and spell-like poisons are possible, poisonous effects are almost always extraordinary.
-
-Poisons can be divided into four basic types according to the method by which their effect is delivered, as follows.
-
-**Contact**: Merely touching this type of poison necessitates a saving throw. It can be actively delivered via a weapon or a touch attack. Even if a creature has sufficient damage reduction to avoid taking any damage from the attack, the poison can still affect it. A chest or other object can be smeared with contact poison as part of a trap. ^contact-poison
-
-**Ingested**: Ingested poisons are virtually impossible to utilize in a combat situation. A poisoner could administer a potion to an unconscious creature or attempt to dupe someone into drinking or eating something poisoned. Assassins and other characters tend to use ingested poisons outside of combat. ^ingested-poison
-
-**Inhaled**: Inhaled poisons are usually contained in fragile vials or eggshells. They can be thrown as a ranged attack with a range increment of 10 feet. When it strikes a hard surface (or is struck hard), the container releases its poison. One dose spreads to fill the volume of a 10-foot cube. Each creature within the area must make a saving throw. (Holding one’s breath is ineffective against inhaled poisons; they affect the nasal membranes, tear ducts, and other parts of the body.) ^inhaled-poison
-
-**Injury**: This poison must be delivered through a wound. If a creature has sufficient damage reduction to avoid taking any damage from the attack, the poison does not affect it. Traps that cause damage from weapons, needles, and the like sometimes contain injury poisons. ^injury-poison
-
-The characteristics of poisons are summarized on Table: Poisons. Terms on the table are defined below.
-
-*Type*: The poison’s method of delivery (contact, ingested, inhaled, or via an injury) and the Fortitude save DC to avoid the poison’s damage. ^poison-type
-
-*Initial Damage*: The damage the character takes immediately upon failing his saving throw against this poison. Ability damage is temporary unless marked with an asterisk (\*), in which case the loss is a permanent drain. Paralysis lasts for 2d6 minutes. ^poison-initial-damage
-
-*Secondary Damage*: The amount of damage the character takes 1 minute after exposure as a result of the poisoning, if he fails a second saving throw. Unconsciousness lasts for 1d3 hours. Ability damage marked with an asterisk is permanent drain instead of temporary damage. ^poison-secondary-damage
-
-*Price*: The cost of one dose (one vial) of the poison. It is not possible to use or apply poison in any quantity smaller than one dose. The purchase and possession of poison is always illegal, and even in big cities it can be obtained only from specialized, less than reputable sources. ^poison-price
-
-###### Perils of Using Poison
-
-A character has a 5% chance of exposing himself to a poison whenever he applies it to a weapon or otherwise readies it for use. Additionally, a character who rolls a natural 1 on an attack roll with a poisoned weapon must make a DC 15 Reflex save or accidentally poison himself with the weapon.
-
-###### Poison Immunities
-
-Creatures with natural poison attacks are immune to their own poison. Nonliving creatures (constructs and undead) and creatures without metabolisms (such as elementals) are always immune to poison. Oozes, plants, and certain kinds of outsiders are also immune to poison, although conceivably special poisons could be concocted specifically to harm them.
-
-**Table: Poisons** ^table-poisons
-
-| Poison                 | Type           | Initial Damage  | Secondary Damage              | Price    |
-| ---------------------- | -------------- | --------------- | ----------------------------- | -------- |
-| Nitharit               | Contact DC 13  | 0               | 3d6 Con                       | 650 gp   |
-| Sassone leaf residue   | Contact DC 16  | 2d12 hp         | 1d6 Con                       | 300 gp   |
-| Malyss root paste      | Contact DC 16  | 1 Dex           | 2d4 Dex                       | 500 gp   |
-| Terinav root           | Contact DC 16  | 1d6 Dex         | 2d6 Dex                       | 750 gp   |
-| Black lotus extract    | Contact DC 20  | 3d6 Con         | 3d6 Con                       | 4,500 gp |
-| Dragon bile            | Contact DC 26  | 3d6 Str         | 0                             | 1,500 gp |
-| Striped toadstool      | Ingested DC 11 | 1 Wis           | 2d6 Wis + 1d4 Int             | 180 gp   |
-| Arsenic                | Ingested DC 13 | 1 Con           | 1d8 Con                       | 120 gp   |
-| Id moss                | Ingested DC 14 | 1d4 Int         | 2d6 Int                       | 125 gp   |
-| Oil of taggit          | Ingested DC 15 | 0               | Unconsciousness               | 90 gp    |
-| Lich dust              | Ingested DC 17 | 2d6 Str         | 1d6 Str                       | 250 gp   |
-| Dark reaver powder     | Ingested DC 18 | 2d6 Con         | 1d6 Con + 1d6 Str             | 300 gp   |
-| Ungol dust             | Inhaled DC 15  | 1 Cha           | 1d6 Cha + 1 Cha (\*)          | 1,000 gp |
-| Insanity mist          | Inhaled DC 15  | 1d4 Wis         | 2d6 Wis                       | 1,500 gp |
-| Burnt othur fumes      | Inhaled DC 18  | 1 Con (\*)      | 3d6 Con                       | 2,100 gp |
-| Black adder venom      | Injury DC 11   | 1d6 Con         | 1d6 Con                       | 120 gp   |
-| Small centipede poison | Injury DC 11   | 1d2 Dex         | 1d2 Dex                       | 90 gp    |
-| Bloodroot              | Injury DC 12   | 0               | 1d4 Con + 1d3 Wis             | 100 gp   |
-| Drow poison            | Injury DC 13   | Unconsciousness | Unconsciousness for 2d4 hours | 75gp     |
-| Greenblood oil         | Injury DC 13   | 1 Con           | 1d2 Con                       | 100 gp   |
-| Blue whinnis           | Injury DC 14   | 1 Con           | Unconsciousness               | 120 gp   |
-| Medium spider venom    | Injury DC 14   | 1d4 Str         | 1d4 Str                       | 150 gp   |
-| Shadow essence         | Injury DC 17   | 1 Str (\*)      | 2d6 Str                       | 250 gp   |
-| Wyvern poison          | Injury DC 17   | 2d6 Con         | 2d6 Con                       | 3,000 gp |
-| Large scorpion venom   | Injury DC 18   | 1d6 Str         | 1d6 Str                       | 200 gp   |
-| Giant wasp poison      | Injury DC 18   | 1d6 Dex         | 1d6 Dex                       | 210 gp   |
-| Deathblade             | Injury DC 20   | 1d6 Con         | 2d6 Con                       | 1,800 gp |
-| Purple worm poison     | Injury DC 24   | 1d6 Str         | 2d6 Str                       | 700 gp   |
-
-\* *Permanent drain, not temporary damage.*
+Poisons are [[rangoric-srd/rules/Afflictions#Poison|afflictions]]: how a poison is delivered, applied, made and cured, and the sample poisons, are in [[rangoric-srd/rules/Afflictions|Afflictions]].
 
 ##### Polymorph
 
