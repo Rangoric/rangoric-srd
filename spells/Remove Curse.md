@@ -23,6 +23,7 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Curse|Remove Curse (3.5)]]"
+  - "[[path srd 3.5/spells/Remove Curse|Remove Curse (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -42,6 +43,6 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-Remove curse instantaneously removes all curses on an object or a creature. Remove curse does not remove the curse from a cursed shield, weapon, or suit of armor, although the spell typically enables the creature afflicted with any such cursed item to remove and get rid of it. Certain special curses may not be countered by this spell or may be countered only by a caster of a certain level or higher.
+*Remove curse* can remove all curses on an object or a creature. If the target is a creature, you must make a caster level check (1d20 + caster level) against the [[rangoric-srd/rules/Afflictions#^affliction-save|DC]] of each [[rangoric-srd/rules/Afflictions#Curse|curse]] affecting the target. Success means that the curse is removed. *Remove curse* does not remove the curse from a cursed shield, weapon, or suit of armor, although a successful caster level check enables the creature afflicted with any such cursed item to remove and get rid of it.
 
-Remove curse counters and dispels bestow curse.
+*Remove curse* counters and dispels *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*.

@@ -2,6 +2,8 @@
 srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
+descriptor:
+  - "Curse"
 level:
   - "Apl 3"
   - "Blr 4"
@@ -22,6 +24,7 @@ saving-throw: "Will negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Bestow Curse|Bestow Curse (3.5)]]"
+  - "[[path srd 3.5/spells/Bestow Curse|Bestow Curse (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -30,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Bestow Curse
 
-*Necromancy*
+*Necromancy \[Curse\]*
 
   - **Level**: Apl 3, Blr 4, Clr 3, Fpk 3, Msl 3, Sha 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S
@@ -51,6 +54,12 @@ You place a curse on the subject. Choose one of the following three effects.
 
 You may also invent your own curse, but it should be no more powerful than those described above.
 
-The curse bestowed by this spell cannot be dispelled, but it can be removed with a break enchantment, limited wish, miracle, remove curse, or wish spell.
+As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
 
-Bestow curse counters remove curse.
+- **Type**: curse, spell
+- **Save**: Will negates; the DC is this spell’s
+- **Effect**: the chosen curse
+
+The curse bestowed by this spell cannot be dispelled, but it can be removed with a *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Miracle|miracle]]*, *[[rangoric-srd/spells/Remove Curse|remove curse]]*, or *[[rangoric-srd/spells/Wish|wish]]* spell.
+
+*Bestow curse* counters *[[rangoric-srd/spells/Remove Curse|remove curse]]*.

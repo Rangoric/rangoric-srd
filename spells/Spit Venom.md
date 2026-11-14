@@ -40,4 +40,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude partial
   - **Spell Resistance**: No
 
-You spit a stream of venom at a target using a ranged touch attack. If the venom hits, it causes blindness for 1 round. The target must also save or be poisoned by black adder venom; the DC in successive rounds of the poison is equal to the spell's DC.
+You spit a stream of venom at a target using a ranged touch attack. If the venom hits, it causes blindness for 1 round. The target must also save or be poisoned by [[rangoric-srd/rules/afflictions/Black Adder Venom|black adder venom]]; the DC in successive rounds of the poison is equal to the spell's DC.

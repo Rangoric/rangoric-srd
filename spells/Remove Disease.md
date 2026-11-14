@@ -23,6 +23,7 @@ saving-throw: "Fortitude negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Remove Disease|Remove Disease (3.5)]]"
+  - "[[path srd 3.5/spells/Remove Disease|Remove Disease (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -42,6 +43,6 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-Remove disease cures all diseases that the subject is suffering from. The spell also kills parasites, including green slime and others. Certain special diseases may not be countered by this spell or may be countered only by a caster of a certain level or higher.
+*Remove disease* can cure all diseases from which the subject is suffering. You must make a caster level check (1d20 + caster level) against the [[rangoric-srd/rules/Afflictions#^affliction-save|DC]] of each [[rangoric-srd/rules/Afflictions#Disease|disease]] affecting the target. Success means that the disease is cured. The spell also kills some hazards and parasites, including green slime and others.
 
 *Note*: Since the spell’s duration is instantaneous, it does not prevent reinfection after a new exposure to the same disease at a later date.

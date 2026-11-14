@@ -15,8 +15,9 @@ saving-throw: "See text"
 spell-resistance: "See text"
 based-on:
   - "[[fantasy srd 3.5/spells/Prismatic Wall|Prismatic Wall (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/spells/Prismatic Wall|Prismatic Wall (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -49,7 +50,7 @@ Prismatic wall can be made permanent with a permanency spell.
 | Red    | 1st   | Stops nonmagical ranged weapons. Deals 20 points of fire damage (Reflex half).                     | Cone of cold  |
 | Orange | 2nd   | Stops magical ranged weapons. Deals 40 points of acid damage (Reflex half).                        | Gust of wind  |
 | Yellow | 3rd   | Stops poisons, gases, and petrification. Deals 80 points of electricity damage (Reflex half).      | Disintegrate  |
-| Green  | 4th   | Stops breath weapons. Poison (Kills; Fortitude partial for 1d6 points of Con damage instead).      | Passwall      |
+| Green  | 4th   | Stops breath weapons. [[rangoric-srd/rules/afflictions/Green Prismatic Poison\|Poison]] (frequency 1/round for 6 rounds; effect death/1 Con damage; cure 2 consecutive Fortitude saves).      | Passwall      |
 | Blue   | 5th   | Stops divination and mental attacks. Turned to stone (Fortitude negates).                          | Magic missile |
 | Indigo | 6th   | Stops all spells. Will save or become insane (as insanity spell).                                  | Daylight      |
 | Violet | 7th   | Energy field destroys all objects and effects. (1) Creatures sent to another plane (Will negates). | Dispel magic  |
