@@ -674,15 +674,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Paralysis|Paralys
 
   - Plants breathe and eat, but do not sleep.
 
-**Poison (Ex)**: Poison attacks deal initial damage, such as [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] or some other effect, to the opponent on a failed Fortitude save. Unless otherwise noted, another saving throw is required 1 minute later (regardless of the first save’s result) to avoid secondary damage. A creature’s descriptive text provides the details. ^poison
-
-A creature with a poison attack is immune to its own poison and the poison of others of its kind.
-
-The Fortitude save DC against a poison attack is equal to 10 + 1/2 poisoning creature’s racial HD + poisoning creature’s Con modifier (the exact DC is given in the creature’s descriptive text).
-
-A successful save avoids (negates) the damage.  
-
-Also see [[rangoric-srd/rules/Afflictions#Poison|Poison]] under Special Abilities.
+**Poison (Ex)**: See [[rangoric-srd/monsters/abilities/Poison|poison]]. ^poison
 
 **Positive Energy Affinity (Ex)**: The creature is healed by positive energy and harmed by negative energy, as a living creature is, even if it is [[#^undead|undead]]. ^positive-energy-affinity
 
@@ -741,7 +733,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Scent|Scent]] und
 
 **Sonic Attacks (Su)**: Unless otherwise noted, a sonic attack follows the rules for spreads. The range of the spread is measured from the creature using the sonic attack. Once a sonic attack has taken effect, deafening the subject or stopping its ears does not end the effect. Stopping one’s ears ahead of time allows opponents to avoid having to make saving throws against mind-affecting sonic attacks, but not other kinds of sonic attacks (such as those that deal damage). Stopping one’s ears is a full-round action and requires wax or other soundproof material to stuff into the ears. ^sonic-attacks
 
-**Special Abilities**: A special ability is either extraordinary (Ex), spell-like (Sp), or supernatural (Su). ^special-abilities
+**Special Abilities**: A special ability is either extraordinary (Ex), spell-like (Sp), or supernatural (Su). The special abilities monsters share have a note each in `monsters/abilities`, listed in the [[rangoric-srd/monsters/abilities/Monster Abilities Index.base|Monster Abilities Index]]. ^special-abilities
 
 *Extraordinary*: Extraordinary abilities are nonmagical, don’t become ineffective in an antimagic field, and are not subject to any effect that disrupts magic. Using an extraordinary ability is a free action unless otherwise noted.
 
