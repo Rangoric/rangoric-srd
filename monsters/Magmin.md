@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Burning touch +4 melee touch (1d8 fire plus combustion) or slam +4 melee (1d3+3 plus combustion)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Combustion, fiery aura
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], immunity to fire, melt weapons, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], immunity to fire, melt weapons, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +3, Ref +3, Will +0
   - **Abilities**: Str 15, Dex 11, Con 13, Int 8, Wis 10, Cha 10
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +0
@@ -73,7 +73,7 @@ Magmins speak Ignan.
 
 Although small, magmins are dangerous opponents. Their touch is effective against those who lack protection or immunity from heat and flames, but if faced with opponents who have immunity to fire, magmins rely on their slam attack. In any case, magmins are not valiant fighters. They usually flee if injured, although often only far enough to set up a fiery ambush for their enemies.
 
-A magmin’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A magmin’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Combustion (Ex)**: Anyone a magmin touches must succeed on a DC 12 Reflex save or take an extra 1d8 points of fire damage as clothes ignite or armor becomes searing hot. The damage continues for another 1d4+2 rounds after the magmin’s last successful attack. Magmins can also ignite flammable materials with a touch. The save DC is Constitution-based.
 

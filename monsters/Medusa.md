@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Shortbow +8 ranged (1d6/x3) or dagger +8 melee (1d4/19–20) or snakes +8 melee (1d4 plus poison)
   - **Full Attack**: Shortbow +8/+3 ranged (1d6/x3); or dagger +8/+3 melee (1d4/19–20) and snakes +3 melee (1d4 plus poison)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Petrifying [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
+  - **Special Attacks**: Petrifying [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Poison|poison]]
   - **Special Qualities**: Darkvision 60 ft.
   - **Saves**: Fort +3, Ref +7, Will +6
   - **Abilities**: Str 10, Dex 15, Con 12, Int 12, Wis 13, Cha 15
@@ -68,7 +68,7 @@ Medusas speak Common.
 
 ### Combat
 
-A medusa tries to disguise its true nature until the intended victim is within range of its petrifying [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], using subterfuge and bluffing games to convince the target that there is no danger. It uses normal weapons to attack those who avert their eyes or survive its gaze, while its poisonous snakes strike at adjacent opponents.
+A medusa tries to disguise its true nature until the intended victim is within range of its petrifying [[rangoric-srd/monsters/abilities/Gaze|gaze]], using subterfuge and bluffing games to convince the target that there is no danger. It uses normal weapons to attack those who avert their eyes or survive its gaze, while its poisonous snakes strike at adjacent opponents.
 
 **Petrifying Gaze (Su)**: [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|Turn to stone]] permanently, 30 feet, Fortitude DC 15 negates. The save DC is Charisma-based.
 

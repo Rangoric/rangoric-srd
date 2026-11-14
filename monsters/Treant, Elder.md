@@ -49,8 +49,8 @@ Full Attack: 2 slams +51 (10d6+19/19-20 (+1d6 on a critical hit)) melee   
 Attacks: 2 slams +49 melee      
 Damage: Slam 10d6+19/19-20      
 Space/Reach: 30 ft./30 ft.      
-Special Attacks: Animate trees, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^trample|trample]], triple Damage against objects, spell-like abilities      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 29, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/-      
+Special Attacks: Animate trees, [[rangoric-srd/monsters/abilities/Trample|trample]], triple Damage against objects, spell-like abilities      
+Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|Plant traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 29, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-      
 Saves: Fort +45, Ref +17, Will +33      
 Abilities: Str 48, Dex 8, Con 42, Int 19, Wis 33, Cha 35      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +40 (+52 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +54, [[rangoric-srd/skills/Intimidation|Intimidation]] +65, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +57, [[rangoric-srd/skills/Perception|Perception]] +70, [[rangoric-srd/skills/Persuasion|Persuasion]] +62, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +59, [[rangoric-srd/skills/Stealth|Stealth]] –12     
@@ -69,7 +69,7 @@ Elder treants speak the language of treants, plus Common and Sylvan.
 
 Animate Trees (Sp): An elder treant can animate trees within 500 feet at will, controlling up to six trees at a time. It takes a full round for a normal tree to uproot itself. Thereafter it moves and fights as a [[rangoric-srd/monsters/Treant|treant]] in all physical respects. Animated trees lose their ability to move if the elder treant who animated them is incapacitated or moves out of range.
 
-Trample (Ex): An elder treant can [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^trample|trample]] Gargantuan or smaller creatures for 8d20+40 points of Damage. Opponents who do not make attacks of opportunity against the elder treant can attempt a Reflex save (DC 54) to halve the Damage. The save DC is Strength-based.
+Trample (Ex): An elder treant can [[rangoric-srd/monsters/abilities/Trample|trample]] Gargantuan or smaller creatures for 8d20+40 points of Damage. Opponents who do not make attacks of opportunity against the elder treant can attempt a Reflex save (DC 54) to halve the Damage. The save DC is Strength-based.
 
 Triple Damage against Objects (Ex): An elder treant that makes a full attack against an object or structure deals triple Damage.
 

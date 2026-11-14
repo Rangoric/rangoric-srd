@@ -232,7 +232,7 @@ When an item familiar’s master reaches 10th level, and at every four levels th
 
 *Prerequisite:* An item must have at least one [[#^lesser-power|lesser power]] for every greater power it is given. The master must spend the amount of gold pieces given in the Base Price Modifier column of the Intelligent Item Greater Powers table to purchase the greater power. The process of empowering an item in this way takes 24 hours.
 
-**Greater Senses:** An item familiar empowered with this special ability gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsense|blindsense]] out to 30 feet. ^greater-senses
+**Greater Senses:** An item familiar empowered with this special ability gains [[rangoric-srd/monsters/abilities/Blindsense|blindsense]] out to 30 feet. ^greater-senses
 
 *Prerequisite:* The item familiar must already have the [[#^improved-senses|improved senses]] special ability.
 

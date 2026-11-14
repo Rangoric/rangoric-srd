@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Tentacle +6 melee (1d3+3)
   - **Full Attack**: 2 tentacles +6 melee (1d3+3)
   - **Space/Reach**: 5 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constrict]] 1d3+3
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 1d3+3
   - **Special Qualities**: Darkvision 60 ft., quickness
   - **Saves**: Fort +2, Ref +5, Will +4
   - **Abilities**: Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7

@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +19 melee (2d10+9)
   - **Space/Reach**: 15 ft./15 ft.
   - **Special Attacks**: Earth mastery, push
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/–, earth glide, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/–, earth glide, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
   - **Saves**: Fort +15, Ref +4, Will +7
   - **Abilities**: Str 29, Dex 8, Con 21, Int 6, Wis 11, Cha 11
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +19

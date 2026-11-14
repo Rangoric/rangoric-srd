@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +16 melee (2d8+8) and 2 claws +10 melee (2d6+4)
   - **Space/Reach**: 15 ft./10 ft.
   - **Special Attacks**: Leap
-  - **Special Qualities**: Darkvision 60 ft., lowlight vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] 60 ft.
+  - **Special Qualities**: Darkvision 60 ft., lowlight vision, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
   - **Saves**: Fort +11, Ref +8, Will +6
   - **Abilities**: Str 27, Dex 15, Con 20, Int 2, Wis 13, Cha 6
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17 (+21 jumping), [[rangoric-srd/skills/Perception|Perception]] +10
@@ -64,6 +64,6 @@ Also known as the landshark, the bulette is a terrifying predator that lives onl
 
 ### Combat
 
-A bulette attacks anything it regards as edible, choosing the easiest or closest prey first. The only creatures it refuses to eat are elves (and it dislikes the taste of dwarves). When burrowing underground, a landshark relies on its [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] ability to detect prey. When it senses something edible (that is, senses movement), it breaks to the surface, crest first, and begins its attack.
+A bulette attacks anything it regards as edible, choosing the easiest or closest prey first. The only creatures it refuses to eat are elves (and it dislikes the taste of dwarves). When burrowing underground, a landshark relies on its [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] ability to detect prey. When it senses something edible (that is, senses movement), it breaks to the surface, crest first, and begins its attack.
 
 **Leap (Ex)**: A bulette can jump into the air during combat. This allows it to make four claw attacks instead of two, each with a +15 attack bonus, but it cannot bite.

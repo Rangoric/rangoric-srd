@@ -63,7 +63,7 @@ Epic Dragon Breath Weapons
 
 \* *A cone is as high and wide as its length.*
 
-Wyrmling epic dragons possess certain abilities that common dragons do not acquire until later in life, including [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]], spellcasting, and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]]. An epic dragon with a caster level above 20th gains the [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] feat as a bonus feat once for every three caster levels above 20th. Any epic dragon can choose [[rangoric-srd/epic/Epic Feats|epic feats]] for which it otherwise meets the prerequisites. Epic dragons also have access to dragon feats.  
+Wyrmling epic dragons possess certain abilities that common dragons do not acquire until later in life, including [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]], spellcasting, and [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]]. An epic dragon with a caster level above 20th gains the [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] feat as a bonus feat once for every three caster levels above 20th. Any epic dragon can choose [[rangoric-srd/epic/Epic Feats|epic feats]] for which it otherwise meets the prerequisites. Epic dragons also have access to dragon feats.  
 
 Empower Spell-Like Ability: An epic dragon can apply the [[rangoric-srd/feats/Empower Spell|Empower Spell]] feat to one of its spell-like abilities that it can use at least twice per day. If the dragon has limited use of the spell-like ability, the empowered ability uses up two uses of the ability. If the dragon can use the ability at will, there is no cost for empowering the ability. The dragon does not need to specify a spell-like ability when it chooses this feat; it can apply the feat to any spell-like ability it possesses.  
 
@@ -115,7 +115,7 @@ Force Dragon Abilities by Age
 
 | Age          | Speed                        | Initiative | Armor Class                                                           | Special Abilities                                                                                                                             | Caster Level | SR |
 | ------------ | ---------------------------- | ---------- | --------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -- |
-| Wyrmling     | 60 ft., fly 250 ft. (poor)   | +0        | 31 (-2 size, +4 deflection, +19 natural), touch 12, flat-footed 31    | [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR\|Damage reduction]] 10/magic, deflecting force, immune to force | 3rd          | 24 |
+| Wyrmling     | 60 ft., fly 250 ft. (poor)   | +0        | 31 (-2 size, +4 deflection, +19 natural), touch 12, flat-footed 31    | [[rangoric-srd/monsters/abilities/Damage Reduction\|Damage reduction]] 10/magic, deflecting force, immune to force | 3rd          | 24 |
 | Very young   | 60 ft., fly 250 ft. (poor)   | +0        | 38 (-2 size, +6 deflection, +24 natural), touch 14, flat-footed 38    |                                                                                                                                               | 6th          | 27 |
 | Young        | 60 ft., fly 300 ft. (clumsy) | +0        | 43 (-4 size, +8 deflection, +29 natural), touch 14, flat-footed 43    | Damage reduction 15/magic                                                                                                                     | 9th          | 30 |
 | Juvenile     | 60 ft., fly 300 ft. (clumsy) | +0        | 50 (-4 size, +10 deflection, +34 natural), touch 16, flat-footed 50   | [[rangoric-srd/spells/Resilient Sphere\|resilient sphere]], [[rangoric-srd/spells/Blur\|blur]]                                            | 12th         | 33 |
@@ -128,11 +128,11 @@ Force Dragon Abilities by Age
 | Wyrm         | 60 ft., fly 350 ft. (clumsy) | +0        | 95 (-8 size, +24 deflection, +69 natural), touch 26, flat-footed 95   |                                                                                                                                               | 33rd         | 54 |
 | Great wyrm   | 60 ft., fly 350 ft. (clumsy) | +0        | 102 (-8 size, +26 deflection, +74 natural), touch 28, flat-footed 102 | [[rangoric-srd/spells/Telekinetic Sphere\|telekinetic sphere]], invisibility                                                                | 36th         | 57 |
 
-A force dragon’s natural weapons are treated as magic (wyrmling - juvenile) or epic (young adult - great wyrm) for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A force dragon’s natural weapons are treated as magic (wyrmling - juvenile) or epic (young adult - great wyrm) for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Breath Weapon (Su): A force dragon has one type of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapon]], a cone of force that tears through creatures and objects in its area to devastating effect.
+Breath Weapon (Su): A force dragon has one type of [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], a cone of force that tears through creatures and objects in its area to devastating effect.
 
 Immune to Force (Ex): A force dragon cannot be harmed by any force effect, including [[rangoric-srd/spells/Magic Missile|magic missiles]], [[rangoric-srd/spells/Explosive Runes|explosive runes]], [[rangoric-srd/spells/Mage’s Sword|mage’s sword]], the sphere spells, or any other spell or effect with the Force descriptor. It can move freely through barriers made of force, such as a [[rangoric-srd/spells/Wall of Force|wall of force]].
 
@@ -237,7 +237,7 @@ Prismatic Dragon Abilities by Age
 
 | Age          | Speed                        | Initiative | Armor Class                                                           | Special Abilities                                                                                                                                                                                                         | Caster Level | SR |
 | ------------ | ---------------------------- | ---------- | --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ | -- |
-| Wyrmling     | 60 ft., fly 250 ft. (poor)   | +0        | 35 (-2 size, +5 deflection, +22 natural), touch 13, flat-footed 35    | [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR\|Damage reduction]] 10/magic, deflecting force, [[rangoric-srd/spells/Hypnotic Pattern\|hypnotic pattern]], immune to light and blindness | 5th          | 24 |
+| Wyrmling     | 60 ft., fly 250 ft. (poor)   | +0        | 35 (-2 size, +5 deflection, +22 natural), touch 13, flat-footed 35    | [[rangoric-srd/monsters/abilities/Damage Reduction\|Damage reduction]] 10/magic, deflecting force, [[rangoric-srd/spells/Hypnotic Pattern\|hypnotic pattern]], immune to light and blindness | 5th          | 24 |
 | Very young   | 60 ft., fly 250 ft. (poor)   | +0        | 42 (-2 size, +7 deflection, +27 natural), touch 15, flat-footed 42    |                                                                                                                                                                                                                           | 8th          | 30 |
 | Young        | 60 ft., fly 300 ft. (clumsy) | +0        | 47 (-4 size, +9 deflection, +32 natural), touch 15, flat-footed 47    | Damage reduction 15/magic                                                                                                                                                                                                 | 11th         | 36 |
 | Juvenile     | 60 ft., fly 300 ft. (clumsy) | +0        | 54 (-4 size, +11 deflection, +37 natural), touch 17, flat-footed 54   | [[rangoric-srd/spells/Rainbow Pattern\|Rainbow pattern]]                                                                                                                                                                | 13th         | 42 |
@@ -250,11 +250,11 @@ Prismatic Dragon Abilities by Age
 | Wyrm         | 60 ft., fly 350 ft. (clumsy) | +0        | 99 (-8 size, +25 deflection, +72 natural), touch 27, flat-footed 99   |                                                                                                                                                                                                                           | 35th         | 80 |
 | Great wyrm   | 60 ft., fly 350 ft. (clumsy) | +0        | 106 (-8 size, +27 deflection, +77 natural), touch 29, flat-footed 106 | [[rangoric-srd/spells/Prismatic Sphere\|Prismatic sphere]]                                                                                                                                                              | 38th         | 86 |
 
-A prismatic dragon’s natural weapons are treated as magic (wyrmling - juvenile) or epic (young adult - great wyrm) for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A prismatic dragon’s natural weapons are treated as magic (wyrmling - juvenile) or epic (young adult - great wyrm) for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Breath Weapon (Su): A prismatic dragon has one type of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapon]], a [[rangoric-srd/spells/Prismatic Spray|prismatic spray]] effect. The breath weapon’s cone is of the size indicated by the dragon’s size, not the normal cone for the spell.
+Breath Weapon (Su): A prismatic dragon has one type of [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], a [[rangoric-srd/spells/Prismatic Spray|prismatic spray]] effect. The breath weapon’s cone is of the size indicated by the dragon’s size, not the normal cone for the spell.
 
 Deflecting Force (Su): A prismatic dragon is protected by a shield of shimmering light similar to a cloak of chaos that provides a deflection bonus to its AC. The deflection bonus is equal to the dragon’s Charisma bonus.
 

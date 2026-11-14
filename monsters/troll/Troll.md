@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +9 melee (1d6+6) and bite +4 melee (1d6+3)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Rend 2d6+9
-  - **Special Qualities**: Darkvision 90 ft., low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Darkvision 90 ft., low-light vision, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +11, Ref +4, Will +3
   - **Abilities**: Str 23, Dex 14, Con 23, Int 6, Wis 9, Cha 6
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11
@@ -123,7 +123,7 @@ Troll characters possess the following racial traits.
 
   - Special Attacks (see above): Rend, damage 2d6 + 1-1/2 times Str modifier.
 
-  - Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|Regeneration]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]].
+  - Special Qualities: [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]].
 
   - Automatic Languages: Giant. Bonus Languages: Common, Orc.
 

@@ -45,8 +45,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: 2 claws +102 melee, sting +97 melee
   - **Full Attack**: Claw 10d10+14, sting 8d10+7 plus poison
   - **Space/Reach**: 50 ft./40 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], squeeze, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
-  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 50, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 15/-
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], squeeze, [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/-
   - **Saves**: Fort +77, Ref +54, Will +42
   - **Abilities**: Str 38, Dex 35, Con 32, Int -, Wis 10, Cha 2
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +153 (+181 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +4

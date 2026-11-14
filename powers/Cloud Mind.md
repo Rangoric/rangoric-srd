@@ -37,7 +37,7 @@ Power Points: 3
 
 You make yourself completely undetectable to the subject by erasing all awareness of your presence from its mind. This power has the following effects.
 
-First, you are [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] and inaudible to the creature. It cannot even detect your presence by means of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsense|blindsense]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]]. It cannot pinpoint your location by any means.
+First, you are [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] and inaudible to the creature. It cannot even detect your presence by means of [[rangoric-srd/monsters/abilities/Blindsense|blindsense]], [[rangoric-srd/monsters/abilities/Blindsight|blindsight]], [[rangoric-srd/monsters/abilities/Scent|scent]], or [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]]. It cannot pinpoint your location by any means.
 
 Second, the subject remains unaware of your actions, provided you do not make any attacks or cause any obvious or directly threatening changes in the subject’s environment. If you attack the subject creature, the effect ends.
 

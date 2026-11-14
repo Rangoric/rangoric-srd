@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Heavy pick +2 melee (1d4/x4) or light crossbow +3 ranged (1d6/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities
-  - **Special Qualities**: Gnome traits, svirfneblin traits, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 12
+  - **Special Qualities**: Gnome traits, svirfneblin traits, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12
   - **Saves**: Fort +5, Ref +3, Will +2
   - **Abilities**: Str 11, Dex 13, Con 12, Int 10, Wis 11, Cha 4
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +3

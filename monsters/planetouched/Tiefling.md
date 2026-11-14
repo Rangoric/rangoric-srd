@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Rapier +3 melee (1d6+1/18–20) or light crossbow +2 ranged (1d8/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/spells/Darkness|Darkness]]
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 5, electricity 5, and fire 5
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 5, electricity 5, and fire 5
   - **Saves**: Fort +3, Ref +1, Will –1
   - **Abilities**: Str 13, Dex 13, Con 12, Int 12, Wis 9, Cha 6
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +4, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7

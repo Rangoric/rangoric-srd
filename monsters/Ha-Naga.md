@@ -46,8 +46,8 @@ Base Attack: +15; CMB: +31 (+35 grapple); CMD: 56 (can't be tripped)   
 Attack: Coil whip +21 (4d6+8) melee     
 Full Attack: Coil whip +21 (4d6+8) melee, sting +19 (2d8+4 plus poison) melee, bite +13 (4d8+4) melee     
 Space/Reach: 30 ft./ 20 ft.      
-Special Attacks: Charming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constrict]] 4d6+12      
-Special Qualities: Flight, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 5/epic      
+Special Attacks: Charming [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 4d6+12      
+Special Qualities: Flight, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/epic      
 Saves: Fort +17, Ref +22, Will +22      
 Abilities: Str 27, Dex 38, Con 32, Int 35, Wis 31, Cha 36      
 Skills: [[rangoric-srd/skills/Appraise|Appraise]] +35, [[rangoric-srd/skills/Arcana|Arcana]] +35, [[rangoric-srd/skills/Athletics|Athletics]] +31 (+43 jumping), [[rangoric-srd/skills/Deception|Deception]] +36, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +37, [[rangoric-srd/skills/Investigation|Investigation]] +35, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +36, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Society|Society]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +21, [[rangoric-srd/skills/Theology|Theology]] +35     
@@ -60,7 +60,7 @@ Treasure: Standard    
 Alignment: Usually chaotic evil      
 Advancement: 21-40 HD (Colossal)      
 
-A ha-naga’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A ha-naga’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 

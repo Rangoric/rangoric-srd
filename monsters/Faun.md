@@ -47,8 +47,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Hoof +3 melee (1d4)
   - **Full Attack**: 2 hooves +3 melee (1d4)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^trample|Trample]]
-  - **Special Qualities**: Jump, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]]
+  - **Special Qualities**: Jump, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +1, Ref +6, Will +6
   - **Abilities**: Str 9, Dex 13, Con 10, Int 12, Wis 15, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +8
@@ -68,9 +68,9 @@ While the timid fauns are more apt to simply flee rather than fight, they can us
 
 **Jump (Ex)**: A faun jumps and leaps as if it had an 18 Strength and can at will simulate the effects of a *[[rangoric-srd/spells/Jump (Spell)|jump]]* spell.
 
-**[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|Scent]] (Ex)**: A faun can smell approaching attackers within 30 feet.
+**[[rangoric-srd/monsters/abilities/Scent|Scent]] (Ex)**: A faun can smell approaching attackers within 30 feet.
 
-**[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^trample|Trample]] (Ex)**: A faun’s powerful hind legs allow it, when fleeing a battle, to move up to its full speed and inflict double its normal hoof damage to any creatures of small or lesser sizes.
+**[[rangoric-srd/monsters/abilities/Trample|Trample]] (Ex)**: A faun’s powerful hind legs allow it, when fleeing a battle, to move up to its full speed and inflict double its normal hoof damage to any creatures of small or lesser sizes.
 
 #### Treasure
 

@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +5 melee (1d8+4)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsense|Blindsense]] 40 ft.
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 40 ft.
   - **Saves**: Fort +7, Ref +10, Will +6
   - **Abilities**: Str 17, Dex 22, Con 17, Int 2, Wis 14, Cha 6
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +16\*, [[rangoric-srd/skills/Stealth|Stealth]] +5

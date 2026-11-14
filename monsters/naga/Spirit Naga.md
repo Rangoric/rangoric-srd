@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +9 melee (2d6+6 plus poison)
   - **Full Attack**: Bite +9 melee (2d6+6 plus poison)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Charming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], spells
+  - **Special Attacks**: Charming [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Poison|poison]], spells
   - **Special Qualities**: Darkvision 60 ft.
   - **Saves**: Fort +7, Ref +6, Will +9
   - **Abilities**: Str 18, Dex 13, Con 18, Int 12, Wis 17, Cha 17
@@ -66,7 +66,7 @@ Spirit nagas speak Abyssal and Common.
 
 ## Combat
 
-Spirit nagas meet foes boldly so as to use their [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attacks to best effect. They quickly slither forward to bite foes that avert their eyes.
+Spirit nagas meet foes boldly so as to use their [[rangoric-srd/monsters/abilities/Gaze|gaze]] attacks to best effect. They quickly slither forward to bite foes that avert their eyes.
 
 **Charming Gaze (Su)**: As charm person, 30 feet, Will DC 19 negates. The save DC is Charisma-based.
 

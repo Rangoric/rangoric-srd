@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +13 melee (1d4+4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, weakness, mimicry
-  - **Special Qualities**: Darkvision 90 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 18
+  - **Special Qualities**: Darkvision 90 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
   - **Saves**: Fort +6, Ref +7, Will +7
   - **Abilities**: Str 19, Dex 12, Con 12, Int 13, Wis 13, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+20 swimming), [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +10, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12

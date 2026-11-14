@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Spear +11 melee (1d8+3/x3 plus 1d6 fire)
   - **Full Attack**: Spear +11/+6 melee (1d8+3/x3 plus 1d6 fire) and tail slap +9 melee (2d6+1 plus 1d6 fire)
   - **Space/Reach**: 5 ft./5 ft. (10 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|Constrict]] 2d6+1 plus 1d6 fire, heat, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d6+1 plus 1d6 fire, heat, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +8, Ref +7, Will +8
   - **Abilities**: Str 14, Dex 13, Con 14, Int 14, Wis 15, Cha 13
   - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +19, [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Imitation|Imitation]] +14 (+16 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Investigation|Investigation]] +14, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +13

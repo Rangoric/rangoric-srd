@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +18 melee (2d6+17/19–20 plus magic drain)
   - **Space/Reach**: 15 ft./10 ft.
   - **Special Attacks**: Desecrating aura, magic drain, spell-like abilities, summon undead
-  - **Special Qualities**: Aversion to daylight, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/silver and magic, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 27, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Qualities**: Aversion to daylight, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/silver and magic, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +9, Ref +11, Will +17
   - **Abilities**: Str 31, Dex 18, Con —, Int 18, Wis 20, Cha 18
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +25 (+27 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +24, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +24\*, [[rangoric-srd/skills/Theology|Theology]] +24
@@ -72,7 +72,7 @@ A nightwing has a wingspan of about 40 feet and weighs about 4,000 pounds.
 
 Nightwings prowl the night sky and dive onto their victims. They are all but invisible, detectable only because of the stars they obscure in their passing.
 
-A nightwing’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A nightwing’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Magic Drain (Su)**: A nightwing can weaken magic armor, weapons, and shields by making a successful touch attack. The targeted item must succeed on a DC 22 Fortitude save or lose 1 point of its enhancement bonus. The save DC is Charisma-based. An item that loses its entire enhancement bonus becomes merely a masterwork item and loses any special abilities (such as flaming) as well. Casting [[rangoric-srd/spells/Dispel Evil|dispel evil]] upon the item reverses the effect of the magic drain, provided this occurs within a number of days after the attack equal to the caster’s level and the caster succeeds on a DC 29 caster level check.
 

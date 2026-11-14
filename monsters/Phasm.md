@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Slam +12 melee (1d3+1)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|Alternate form]], amorphous, resilient, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] 60 ft.
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], amorphous, resilient, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
   - **Saves**: Fort +11, Ref +11, Will +11
   - **Abilities**: Str 12, Dex 15, Con 15, Int 16, Wis 15, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (any one) +15, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11, [[rangoric-srd/skills/Imitation|Imitation]] +21 (+23 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +2, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +6

@@ -58,7 +58,7 @@ Weapon and Armor Proficiency: Pyrokineticists gain no proficiency with any weapo
 
 Fire Lash (Ps): A pyrokineticist gains the ability to fashion a 15-foot-long whip of fire from unstable ectoplasm as a move-equivalent action. She takes no damage from a fire lash she creates, and if she releases her hold, it immediately dissipates. The lash deals 1d8 points of fire damage to a target within 15 feet on a successful ranged touch attack. A pyro can take [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] and [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (if she otherwise meets the prerequisites) in conjunction with the fire lash, as well as any feats that apply to the use of a standard whip. The whip remains in existence as long as the pyrokineticist holds it.
 
-Fire Adaptation (Ex): At 2nd level, a pyrokineticist becomes resistant to fire, gaining a +4 bonus on all saving throws against fire and heat spells and effects. In addition, she gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 10.
+Fire Adaptation (Ex): At 2nd level, a pyrokineticist becomes resistant to fire, gaining a +4 bonus on all saving throws against fire and heat spells and effects. In addition, she gains [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 10.
 
 Hand Afire (Ps): A pyrokineticist of 2nd level or higher can activate this ability as a move-equivalent action. Flames engulf one of the pyrokineticist’s hands (but do her no harm). Her unarmed attacks with that hand are treated as armed. Such attacks deal an extra 2d6 points of fire damage.
 
@@ -70,7 +70,7 @@ Nimbus (Ps): Beginning at 5th level, a pyrokineticist can activate this ability 
 
 Firewalk (Su): Beginning at 6th level, as a free action a pyrokineticist can expend her psionic focus (see [[rangoric-srd/psionics/Psionics#Psionic Focus|psionic focus]]) to literally walk on air. She moves at her normal speed in all directions, including vertically, but cannot move more than double her speed in a round. A firewalking pyro leaves footprints of flame in the air that disperse in 2 rounds, but her tread does not deal damage. She must pay 1 power point per round spent traveling in this fashion.
 
-Fear No Fire (Ex): At 7th level, a pyrokineticist becomes highly resistant to fire, gaining a +8 bonus on all saving throws against fire and heat spells and effects and also gaining [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 20.
+Fear No Fire (Ex): At 7th level, a pyrokineticist becomes highly resistant to fire, gaining a +8 bonus on all saving throws against fire and heat spells and effects and also gaining [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 20.
 
 Greater Weapon Afire (Ps): At 8th level, when a pyrokineticist activates her hand afire ability or her weapon afire ability, her unarmed attack or weapon deals an extra 4d6 points of fire damage instead of 2d6. Touch attacks made while she uses the nimbus ability likewise deal 4d6 points of damage instead of 2d6.
 

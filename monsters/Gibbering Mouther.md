@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +4 melee (1) or spittle +4 ranged touch (1d4 acid plus blindness)
   - **Full Attack**: 6 bites +4 melee (1) and spittle +4 ranged touch (1d4 acid plus blindness)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Gibbering, spittle, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], blood drain, engulf, ground manipulation
-  - **Special Qualities**: Amorphous, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/bludgeoning, darkvision 60 ft.
+  - **Special Attacks**: Gibbering, spittle, [[rangoric-srd/monsters/abilities/Grab|improved grab]], blood drain, engulf, ground manipulation
+  - **Special Qualities**: Amorphous, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft.
   - **Saves**: Fort +7, Ref +4, Will +5
   - **Abilities**: Str 10, Dex 13, Con 22, Int 4, Wis 13, Cha 13
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +0 (+8 swimming), [[rangoric-srd/skills/Perception|Perception]] +12

@@ -47,7 +47,7 @@ Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^co
 Full **Attack:** 2 slams +20 melee (2d10+10)     
 **Space/Reach:** 10 ft./10 ft.     
 **Special Attacks:** [[rangoric-srd/powers/Dispel Psionics|Dispel psionics]]     
-**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/adamantine, darkvision 60 ft., immunity to psionics, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]]     
+**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, darkvision 60 ft., immunity to psionics, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]     
 **Saves:** Fort +5, Ref +5, Will +5     
 **Abilities:** Str 31, Dex 10, Con -, Int -, Wis 11, Cha 1     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +28     

@@ -15,4 +15,4 @@ tags: [rangoric, rangoric/racial-trait]
 
 **Race**: [[rangoric-srd/races/Catfolk|Catfolk]]. **Replaces**: low-light vision.
 
-Some catfolk favor a keen sense of smell over sensitive sight. Catfolk with this racial trait gain the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] ability.
+Some catfolk favor a keen sense of smell over sensitive sight. Catfolk with this racial trait gain the [[rangoric-srd/monsters/abilities/Scent|scent]] ability.

@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: +1 holy scimitar +11/+6 melee (1d6+4/18–20) or +1 holy composite longbow (+4 Str bonus) +11/+6 ranged (1d8+5/x3) or slam +10 melee (1d6+4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, whirlwind blast
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|Alternate form]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/cold iron or evil, darkvision 60 ft., immunity to electricity and [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10 and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 17, [[rangoric-srd/spells/Tongues|tongues]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron or evil, darkvision 60 ft., immunity to electricity and [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], low-light vision, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/spells/Tongues|tongues]]
   - **Saves**: Fort +8, Ref +9, Will +7
   - **Abilities**: Str 18, Dex 18, Con 17, Int 13, Wis 14, Cha 14
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +13, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+17 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+15 with bindings), [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13
@@ -72,7 +72,7 @@ Bralanis speak Celestial, Infernal, and Draconic, but can communicate with almos
 
 Bralanis prefer the scimitar and bow, the weapons of the desert nomads they most closely resemble.
 
-A bralani’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A bralani’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Spell-Like Abilities**: Caster level 6th. The save DCs are Charisma-based.  
 

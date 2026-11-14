@@ -57,7 +57,7 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
 
 *Immunity to Cold (Ex)*: Skeletons are not affected by cold.
 
-*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage Reduction]] 5/Bludgeoning*: Skeletons lack flesh or internal organs.
+*[[rangoric-srd/monsters/abilities/Damage Reduction|Damage Reduction]] 5/Bludgeoning*: Skeletons lack flesh or internal organs.
 
 **Saves**: Base save bonuses are Fort +1/3 HD, Ref +1/3 HD, and Will +1/2 HD + 2.
 

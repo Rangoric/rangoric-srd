@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +7 melee (2d4+2 plus poison)
   - **Full Attack**: Sting +7 melee (2d4+2 plus poison) and bite +2 melee (1d4+1)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], spells
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], spells
   - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], guarded thoughts, immunity to poison, resistance to charm
   - **Saves**: Fort +5, Ref +7, Will +8
   - **Abilities**: Str 14, Dex 15, Con 14, Int 16, Wis 15, Cha 17

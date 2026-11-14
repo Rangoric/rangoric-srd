@@ -42,7 +42,7 @@ Attacks: +4 staff +15/+10 melee    
 Damage: +4 staff 1d6+4     
 Space/Reach: 5 ft./5 ft.      
 Special Attacks: Spell-like abilities, engulf, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]]      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 36, discorporate, bonus hit points, immunities     
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 36, discorporate, bonus hit points, immunities     
 Saves: Fort +11, Ref +14, Will +17      
 Abilities: Str 10, Dex 14 (18 with gloves), Con 13 (15 with Ioun stone), Int 20 (26 with headband), Wis 12, Cha 8     
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +31, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +31, [[rangoric-srd/skills/Nature|Nature]] +31, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Society|Society]] +31, [[rangoric-srd/skills/Stealth|Stealth]] +28, [[rangoric-srd/skills/Theology|Theology]] +31     
@@ -100,9 +100,9 @@ Spell-Like Abilities: Caster level 20th.
 
 Special Qualities: A worm that walks retains any special abilities it had in life and gains those mentioned below.
 
-Blindsight (Ex): Worms that walk have [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] 300 ft.
+Blindsight (Ex): Worms that walk have [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 300 ft.
 
-Spell Resistance (Ex): A worm that walks has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] equal to its Challenge Rating +10.
+Spell Resistance (Ex): A worm that walks has [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to its Challenge Rating +10.
 
 Frightful Presence (Su): When a worm that walks engulfs a victim, witnesses must make a Will save (DC 10 + 1/2 the worm’s HD + the worm’s Cha modifier). Those who make the save are [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]]. Those who fail by 5 or fewer points are [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]]. Those who fail by 6 to10 points are [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. Those who fail by 11 or more points are [[rangoric-srd/rules/Special Abilities and Conditions#^cowering|cowering]]. All these conditions last for 1d4 rounds. Those who have seen a worm use this attack before gain a +5 bonus on their saving throws. The victim of the worm’s engulf attack has a -5 penalty on his or her saving throw.
 

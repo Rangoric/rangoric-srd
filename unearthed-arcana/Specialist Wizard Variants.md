@@ -38,7 +38,7 @@ In a campaign with a high degree of intrigue or political machinations, the prot
 
 ###### Resistance to Energy (Su)
 
-Once per day, an abjurer using this variant can create a mystical shield that grants herself or any one creature that she touches limited protection against a chosen energy type (acid, cold, electricity, fire, or sonic). The affected creature gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance]] equal to 5 plus one-half the abjurer's class level against the chosen energy type. Activating this ability is a standard action. Once activated, the protection lasts for 1 hour. This protection overlaps with (and does not stack with) the effects of spells such as [[rangoric-srd/spells/Resist Energy|resist energy]].
+Once per day, an abjurer using this variant can create a mystical shield that grants herself or any one creature that she touches limited protection against a chosen energy type (acid, cold, electricity, fire, or sonic). The affected creature gains [[rangoric-srd/monsters/abilities/Resistance|resistance]] equal to 5 plus one-half the abjurer's class level against the chosen energy type. Activating this ability is a standard action. Once activated, the protection lasts for 1 hour. This protection overlaps with (and does not stack with) the effects of spells such as [[rangoric-srd/spells/Resist Energy|resist energy]].
 
 An abjurer using this variant permanently gives up the ability to obtain a familiar.
 
@@ -170,7 +170,7 @@ An evoker using this variant does not gain bonus feats for advancing as a wizard
 
 ###### Overcome Resistance (Ex)
 
-The energy spells of an evoker using this variant can ignore some or all of a target's [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to energy]]. Using this ability is a free action that must be announced before the evoker casts the spell to be affected. Every creature affected by the spell is treated as if its resistance to the spell's energy type was 10 points lower, to a minimum of 0. (This lowered resistance applies only to this spell; other effects with the same energy descriptor must get through the creature's normal resistance.)
+The energy spells of an evoker using this variant can ignore some or all of a target's [[rangoric-srd/monsters/abilities/Resistance|resistance to energy]]. Using this ability is a free action that must be announced before the evoker casts the spell to be affected. Every creature affected by the spell is treated as if its resistance to the spell's energy type was 10 points lower, to a minimum of 0. (This lowered resistance applies only to this spell; other effects with the same energy descriptor must get through the creature's normal resistance.)
 
 The overcome resistance ability does not give the affected spell any ability to affect creatures with immunity to the spell's energy type, nor does the affected spell have any additional effect on creatures that do not have resistance to energy.
 

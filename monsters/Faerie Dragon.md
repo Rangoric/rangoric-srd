@@ -118,7 +118,7 @@ Faerie dragons avoid combat when they can, and refrain from inflicting damage un
 
 **Spells**: A faerie dragon has the ability to cast spells as if it were a wizard or cleric. Faerie dragons are often wizards (65%) and occasionally clerics (35%). Those that cast wizard spells favor *[[rangoric-srd/spells/Animal Growth|animal growth]]*, *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *distance distortion*, *forget*, *[[rangoric-srd/spells/Legend Lore|legend lore]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *obscurement*, *[[rangoric-srd/spells/Suggestion|suggestion]]*, *[[rangoric-srd/spells/Unseen Servant|unseen servant]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*, and *[[rangoric-srd/spells/Water Breathing|water breathing]]*.
 
-**[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|Telepathy]] (Su)**: Faerie dragons can communicate telepathically with creatures within 60 feet that speak Common, Sylvan, or Draconic and other faerie dragons up to two miles away.
+**[[rangoric-srd/monsters/abilities/Telepathy|Telepathy]] (Su)**: Faerie dragons can communicate telepathically with creatures within 60 feet that speak Common, Sylvan, or Draconic and other faerie dragons up to two miles away.
 
 ### Treasure
 

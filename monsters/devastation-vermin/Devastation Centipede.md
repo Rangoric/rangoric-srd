@@ -45,8 +45,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +99 (20d10+16 plus poison) melee
   - **Full Attack**: Bite +99 (20d10+16 plus poison) melee
   - **Space/Reach**: 50 ft./40 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]]
-  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 50, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/-
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+  - **Special Qualities**: Darkvision 300 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 50, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-
   - **Saves**: Fort +75, Ref +55, Will +42
   - **Abilities**: Str 33, Dex 37, Con 29, Int -, Wis 10, Cha 2
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19 (+39 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +132

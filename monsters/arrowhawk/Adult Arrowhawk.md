@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Electricity ray +12 ranged touch (2d8) or bite +12 melee (1d8+3)
   - **Full Attack**: Electricity ray +12 ranged touch (2d8) or bite +12 melee (1d8+3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Electricity [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ray|ray]]
-  - **Special Qualities**: Darkvision 60 ft., immunity to acid, electricity, and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10 and fire 10
+  - **Special Attacks**: Electricity [[rangoric-srd/monsters/abilities/Ray|ray]]
+  - **Special Qualities**: Darkvision 60 ft., immunity to acid, electricity, and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10
   - **Saves**: Fort +6, Ref +10, Will +6
   - **Abilities**: Str 14, Dex 21, Con 12, Int 10, Wis 13, Cha 13
   - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 following tracks, +13 Plane of Air, +13 with bindings), [[rangoric-srd/skills/Investigation|Investigation]] +10, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +15, [[rangoric-srd/skills/Theology|Theology]] +10

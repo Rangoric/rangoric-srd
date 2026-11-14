@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Tentacle +12 melee (1d6+8 plus slime)
   - **Full Attack**: 4 tentacles +12 melee (1d6+8 plus slime)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Enslave, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^psionics|psionics]], slime
+  - **Special Attacks**: Enslave, [[rangoric-srd/monsters/abilities/Psionics (Monster Ability)|psionics]], slime
   - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|Aquatic subtype]], darkvision 60 ft., mucus cloud
   - **Saves**: Fort +7, Ref +3, Will +11
   - **Abilities**: Str 26, Dex 12, Con 20, Int 15, Wis 17, Cha 17

@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4)
   - **Full Attack**: Bite +13 melee (2d8+9) and 2 tendrils +8 melee (1d6+4)
   - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]]
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 10
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]
+  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10
   - **Saves**: Fort +12, Ref +2, Will +4
   - **Abilities**: Str 28, Dex 9, Con 22, Int 3, Wis 8, Cha 3
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Stealth|Stealth]] +10
@@ -66,7 +66,7 @@ Animals and other plant creatures are unnerved by the presence of a tendriculos;
 
 ### Combat
 
-Prowling deep forests or waiting in vegetated areas (looking like nothing more than a small hillock), a tendriculos attacks savagely, showing no fear. It attempts to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow]] as much flesh as it can, as quickly as it can.
+Prowling deep forests or waiting in vegetated areas (looking like nothing more than a small hillock), a tendriculos attacks savagely, showing no fear. It attempts to [[rangoric-srd/monsters/abilities/Swallow Whole|swallow]] as much flesh as it can, as quickly as it can.
 
 **Improved Grab (Ex)**: To use this ability, a tendriculos must hit a creature at least one size smaller than itself with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
 

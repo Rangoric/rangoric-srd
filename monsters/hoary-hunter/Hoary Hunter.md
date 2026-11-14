@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: +6 keen longsword of binding +46/+41/+36/+31 (1d8+27/17-20 plus 1d6 plus binding) melee
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities
-  - **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|fire vulnerability]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 36, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic and cold iron
+  - **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 36, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic and cold iron
   - **Saves**: Fort +28, Ref +36, Will +31
   - **Abilities**: Str 38, Dex 33, Con 36, Int 21, Wis 23, Cha 26
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +57 (+60 riding), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +55, [[rangoric-srd/skills/Intimidation|Intimidation]] +57, [[rangoric-srd/skills/Investigation|Investigation]] +54, [[rangoric-srd/skills/Nature|Nature]] +54, [[rangoric-srd/skills/Perception|Perception]] +55, [[rangoric-srd/skills/Persuasion|Persuasion]] +57, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +55, [[rangoric-srd/skills/Society|Society]] +54, [[rangoric-srd/skills/Stealth|Stealth]] +60
@@ -67,7 +67,7 @@ tags: [rangoric, rangoric/monster]
 
   - [[rangoric-srd/monsters/hoary-hunter/Hoary Steed|Hoary Steed]]
 
-A hoary hunter’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A hoary hunter’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 

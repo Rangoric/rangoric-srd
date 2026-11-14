@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +7 melee (2d4+3 plus poison)
   - **Full Attack**: Sting +7 melee (2d4+3 plus poison) and 2 claws +5 melee (1d6+1) and bite +5 melee (1d4+1)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]]
-  - **Special Qualities**: Hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 10, fire 10, and sonic 10, spell resistance 18
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+  - **Special Qualities**: Hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10, fire 10, and sonic 10, spell resistance 18
   - **Saves**: Fort +6, Ref +7, Will +5
   - **Abilities**: Str 17, Dex 16, Con 14, Int 10, Wis 12, Cha 11
   - **Skills**: (+3 following tracks), [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +10 (+14 jumping), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +10
@@ -73,6 +73,6 @@ A warrior is about is about 5 feet long and about 4-1/2 feet high at the front. 
 
 Warriors are wicked combatants, using claws, bite, and a poisonous sting all at once. Through the hive mind, they attack with coordinated and extremely efficient tactics.
 
-A formian warrior’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A formian warrior’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Poison (Ex)**: Injury, Fortitude DC 14, initial and secondary damage 1d6 Str. The save DC is Constitution-based.

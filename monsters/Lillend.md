@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Short sword +11 melee (1d8+5/19–20)
   - **Full Attack**: Short sword +11/+6 melee (1d8+5/19–20) and tail slap +6 melee (2d6+2)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|Constrict]] 2d6+5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], spells, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., immunity to poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 10
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d6+5, [[rangoric-srd/monsters/abilities/Grab|improved grab]], spells, spell-like abilities
+  - **Special Qualities**: Darkvision 60 ft., immunity to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 10
   - **Saves**: Fort +7, Ref +10, Will +8
   - **Abilities**: Str 20, Dex 17, Con 15, Int 14, Wis 16, Cha 18
   - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Performance|Performance]] (any one) +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13
@@ -73,7 +73,7 @@ Lillends speak Celestial, Infernal, Abyssal, and Common.
 
 Lillends are generally peaceful unless they intend vengeance against someone they believe guilty of harming, or even threatening, a favored art form, artwork, or artist. Then they become implacable foes. They use their spells and spell-like abilities to confuse and weaken opponents before entering combat. A covey of lillends usually discusses strategy before a battle.
 
-A lillend’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A lillend’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and good-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Constrict (Ex)**: A lillend deals 2d6+5 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Constricting uses the entire lower portion of its body, so it cannot take any move actions when constricting, though it can still attack with its sword.
 

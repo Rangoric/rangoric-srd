@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +6 melee (1d8+4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Bay, trip
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/silver, darkvision 60 ft., flight, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/silver, darkvision 60 ft., flight, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +5, Ref +5, Will +5
   - **Abilities**: Str 17, Dex 15, Con 15, Int 6, Wis 14, Cha 10
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 following tracks)\*, [[rangoric-srd/skills/Investigation|Investigation]] +7, [[rangoric-srd/skills/Perception|Perception]] +11
@@ -72,7 +72,7 @@ Yeth hounds cannot speak, but understand Infernal.
 
 Yeth hounds hunt only at night. They fear the sun and never venture out in daylight, even if their lives depend on it.
 
-A yeth hound’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A yeth hound’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Bay (Su)**: When a yeth hound howls or barks, all creatures except other evil outsiders within a 300-foot spread must succeed on a DC 11 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 2d4 rounds. This is a sonic mind-affecting fear effect. Whether or not the save is successful, an affected creature is immune to the same hound’s bay for 24 hours. The save DC is Charisma-based.
 

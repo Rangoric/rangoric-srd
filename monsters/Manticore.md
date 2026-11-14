@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +10 melee (2d4+5) and bite +8 melee (1d8+2); or 6 spikes +8 ranged (1d8+2/19–20)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: Spikes
-  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +9, Ref +7, Will +3
   - **Abilities**: Str 20, Dex 15, Con 19, Int 7, Wis 12, Cha 9
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +12

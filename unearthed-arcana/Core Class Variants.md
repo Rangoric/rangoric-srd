@@ -132,7 +132,7 @@ A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the boar totem does 
 
   - When raging, a 1st-level boar-totem barbarian is treated as having the [[rangoric-srd/feats/Diehard|Diehard]] feat, even if he doesn't meet the normal prerequisites.
   - At 3rd level and higher, a boar-totem barbarian's rage lasts for 2 rounds longer than normal.
-  - Beginning at 7th level, a boar-totem barbarian's [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] is 1 point higher than the normal value. Thus, at 7th level, a boar-totem barbarian's damage reduction is 2/-, and it rises by 1 point every three levels thereafter.
+  - Beginning at 7th level, a boar-totem barbarian's [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] is 1 point higher than the normal value. Thus, at 7th level, a boar-totem barbarian's damage reduction is 2/-, and it rises by 1 point every three levels thereafter.
 
 ##### Dragon Totem Class Features
 

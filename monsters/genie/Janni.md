@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Scimitar +9/+4 melee (1d6+4/18–20) or longbow +8/+3 ranged (1d8/x3)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Change size, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., elemental endurance, [[rangoric-srd/skills/Skills All|plane shift]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Qualities**: Darkvision 60 ft., elemental endurance, [[rangoric-srd/skills/Skills All|plane shift]], [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 10, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +6, Ref +7, Will +7
   - **Abilities**: Str 16, Dex 15, Con 12, Int 14, Wis 15, Cha 13
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10 (+11 riding), [[rangoric-srd/skills/Appraise|Appraise]] +11, [[rangoric-srd/skills/Craft|Craft]] (any two) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 with bindings), [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11
@@ -103,7 +103,7 @@ Janni characters possess the following racial traits.
 
   - Special Attacks (see above): Change size, spell-like abilities.
 
-  - Special Qualities (see above): Elemental endurance, [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - Special Qualities (see above): Elemental endurance, [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 10, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
 
   - Automatic Languages: Common. Bonus Languages: Abyssal, Aquan, Auran, Celestial, Ignan, Infernal, Terran.
 

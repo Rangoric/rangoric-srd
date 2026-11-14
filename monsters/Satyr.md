@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Head butt +2 melee (1d6) and dagger –3 melee (1d4/19–20); or shortbow +3 ranged (1d6/x3)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Pipes
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/cold iron, low-light vision
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/cold iron, low-light vision
   - **Saves**: Fort +2, Ref +5, Will +5
   - **Abilities**: Str 10, Dex 13, Con 12, Int 12, Wis 13, Cha 13
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9 (+11 aboveground), [[rangoric-srd/skills/Imitation|Imitation]] +9 (+11 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +13
@@ -107,7 +107,7 @@ Satyr characters possess the following racial traits.
 
   - Special Attacks (see above): Pipes.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/cold iron.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/cold iron.
 
   - Automatic Languages: Sylvan. Bonus Languages: Common, Elven, Gnome.
 

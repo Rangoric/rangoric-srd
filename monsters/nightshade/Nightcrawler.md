@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +29 melee (4d6+21)
   - **Full Attack**: Bite +29 melee (4d6+21/19–20) and sting +24 melee (2d8+11/19–20 plus poison)
   - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: Desecrating aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^energy-drain|energy drain]], spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], summon undead, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]]
-  - **Special Qualities**: Aversion to daylight, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/silver and magic, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 31, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Attacks**: Desecrating aura, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], spell-like abilities, [[rangoric-srd/monsters/abilities/Poison|poison]], summon undead, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]
+  - **Special Qualities**: Aversion to daylight, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/silver and magic, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +12, Ref +10, Will +23
   - **Abilities**: Str 48, Dex 10, Con —, Int 20, Wis 20, Cha 18
   - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +33, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +33 (+35 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +33, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +32, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +33
@@ -72,7 +72,7 @@ A nightcrawler measures about 7 feet in diameter and is 100 feet long from its t
 
 A nightcrawler attacks by burrowing through the ground and emerging to strike.
 
-A nightcrawler’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A nightcrawler’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Energy Drain (Su)**: Living creatures inside a nightcrawler’s gizzard gain one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]] each round. The DC is 26 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the nightcrawler gains 5 temporary hit points.
 

@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +12 melee (1d6+7) or tongue +12 melee touch (paralysis)
   - **Full Attack**: Slam +12 melee (1d6+7) and tongue +12 melee touch (paralysis)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], paralyzing touch, create spawn
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], paralyzing touch, create spawn
   - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +4, Ref +10, Will +9
   - **Abilities**: Str 21, Dex 19, Con —, Int 11, Wis 10, Cha 10

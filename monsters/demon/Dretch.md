@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +4 melee (1d6+1) and bite +2 melee (1d4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, summon demon
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/cold iron or good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/cold iron or good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +5, Ref +3, Will +3
   - **Abilities**: Str 12, Dex 10, Con 14, Int 5, Wis 11, Cha 11
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +5 (+7 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +2, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +14
@@ -74,7 +74,7 @@ Dretches cannot speak but can communicate telepathically.
 
 Dretches are slow, stupid, and not very effective combatants. In one-on-one combat, they rely on their damage reduction to keep them alive. In groups, they depend on sheer numbers to overcome foes and immediately summon other dretches to improve the odds in battle. They flee at the first sign of adversity unless more powerful demons are present to intimidate them into fighting. Dretches’ fear of their greater kin is stronger then even their fear of death.
 
-A dretch’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A dretch’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Spell-Like Abilities**: Caster level 2nd. The save DCs are Charisma-based.  
 

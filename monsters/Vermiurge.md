@@ -47,8 +47,8 @@ Base Attack: +31; CMB: +44 (+46 bull rush); CMD: 62 (64 vs. bull rush)   
 Attack: Sting +43 (1d6+12/19-20 plus poison) melee     
 Full Attack: Sting +43 (1d6+12/19-20 plus poison) melee, 4 pincers +41 (2d8+6/19-20) melee, bite +40 (3d6+6 plus poison) melee     
 Space/Reach: 5 ft./5 ft.     
-Special Attacks: Aura of doom, concealing aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], spell-like abilities      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 10, immune to all mind-affecting effects, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 34; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]      
+Special Attacks: Aura of doom, concealing aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|frightful presence]], [[rangoric-srd/monsters/abilities/Poison|poison]], spell-like abilities      
+Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, immune to all mind-affecting effects, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34; [[rangoric-srd/monsters/abilities/Scent|scent]]      
 Saves: Fort +29, Ref +21, Will +38      
 Abilities: Str 34, Dex 25, Con 36, Int 14, Wis 40, Cha 44      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +57 (+65 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +52, [[rangoric-srd/skills/Nature|Nature]] +37, [[rangoric-srd/skills/Perception|Perception]] +54, [[rangoric-srd/skills/Stealth|Stealth]] +36     
@@ -63,7 +63,7 @@ Advancement: 43-52 HD (Large); 53-70 HD (Huge)    
 
 Vermiurges speak Terran.
 
-A vermiurge’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A vermiurge’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 

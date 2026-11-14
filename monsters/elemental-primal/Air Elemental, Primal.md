@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 Slams +57 (4d8+16) melee
   - **Space/Reach**: 30 ft./30 ft.
   - **Special Attacks**: Air mastery, whirlwind
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/­-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 42
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/­-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42
   - **Saves**: Fort +42, Ref +52, Will +28
   - **Abilities**: Str 32, Dex 43, Con 28, Int 8, Wis 13, Cha 13
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +74

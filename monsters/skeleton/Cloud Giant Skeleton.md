@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Gargantuan morningstar +18/+13 melee (4d6+18) or 2 claws +18 melee (1d8+12) or rock +8 ranged (2d8+12)
   - **Space/Reach**: 15 ft./15 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, oversize weapon, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold, oversize weapon, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +5, Ref +7, Will +10
   - **Abilities**: Str 35, Dex 15, Con —, Int —, Wis 10, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32

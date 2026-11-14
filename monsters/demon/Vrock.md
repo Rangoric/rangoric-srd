@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +15 melee (2d6+6) and bite +13 melee (1d8+3) and 2 talons +13 melee (1d6+3)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Dance of ruin, spell-like abilities, spores, stunning screech, summon demon
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 17, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +14, Ref +9, Will +10
   - **Abilities**: Str 23, Dex 15, Con 25, Int 14, Wis 16, Cha 16
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16 (+18 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +15, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +15, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +19, [[rangoric-srd/skills/Theology|Theology]] +15
@@ -72,7 +72,7 @@ A vrock is about 8 feet tall and weighs about 500 pounds.
 
 Vrocks are vicious fighters who like to fly down into the enemy and cause as much damage as possible. They prance about in battle, taking briefly to the air and bringing their clawed feet into play. Despite their advantage in mobility, the vrocks’ deep love of battle frequently leads them into melee combats against heavy odds.
 
-A vrock’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A vrock’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Dance of Ruin (Su)**: To use this ability, a group of at least three vrocks must join hands in a circle, dancing wildly and chanting. At the end of 3 rounds of dancing, a wave of crackling energy flashes outward in a 100-foot radius. All creatures except for demons within the radius take 20d6 points of damage (Reflex DC 18 half ). [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|Stunning]], [[rangoric-srd/rules/Special Abilities and Conditions|paralyzing]], or slaying one of the vrocks stops the dance. The save DC is Charisma-based.
 

@@ -50,7 +50,7 @@ Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^m
 Full **Attack:** Incorporeal touch +5 melee (1d6)     
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psionic powers, [[rangoric-srd/powers/Telekinetic Force|telekinetic force]]     
-**Special Qualities:** Assume likeness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.     
+**Special Qualities:** Assume likeness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.     
 **Saves:** Fort +2, Ref +5, Will +6     
 **Abilities:** Str -, Dex 13, Con 12, Int 15, Wis 14, Cha 15     
 **Skills:** [[rangoric-srd/skills/Deception|Deception]] +13\*, [[rangoric-srd/skills/Imitation|Imitation]] +13\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2     

@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +3 melee (1d4+1 plus energy drain)
   - **Full Attack**: Slam +3 melee (1d4+1 plus energy drain)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Create spawn, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^energy-drain|energy drain]]
+  - **Special Attacks**: Create spawn, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]
   - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +1, Ref +2, Will +5
   - **Abilities**: Str 12, Dex 12, Con —, Int 11, Wis 13, Cha 15

@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Gore +15 melee (2d6+6)
   - **Full Attack**: Gore +15 melee (2d6+6) and 2 claws +10 melee (1d6+3)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|Pounce]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 1d6+3
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d6+3
   - **Special Qualities**: Darkvision 60 ft., low-light vision
   - **Saves**: Fort +10, Ref +7, Will +3
   - **Abilities**: Str 23, Dex 10, Con 17, Int 10, Wis 11, Cha 11

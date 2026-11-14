@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +70 (8d6+30) melee
   - **Space/Reach**: 30 ft./30 ft.
   - **Special Attacks**: [[rangoric-srd/spells/Shatter|Shatter]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/Epic and adamantine
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/Epic and adamantine
   - **Saves**: Fort +21, Ref +18, Will +21
   - **Abilities**: Str 70, Dex 5, Con -, Int 7, Wis 10, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +97 (+101 jumping)

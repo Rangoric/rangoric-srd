@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +8 melee (1d8+5 plus poison)
   - **Full Attack**: Sting +8 melee (1d8+5 plus poison) and bite +3 melee (1d8+2)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Implant, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Freedom of Movement|freedom of movement]], lowlight vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Freedom of Movement|freedom of movement]], lowlight vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +9, Ref +5, Will +2
   - **Abilities**: Str 21, Dex 13, Con 21, Int 2, Wis 12, Cha 10
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15

@@ -72,7 +72,7 @@ A nightmare is about the size of a light war horse.
 
 A nightmare can fight while carrying a rider, but the rider cannot also fight unless he or she succeeds on an [[rangoric-srd/skills/Animal Handling|Animal Handling]] check.
 
-A nightmare’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A nightmare’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Flaming Hooves (Su)**: A blow from a nightmare’s hooves sets combustible materials alight.
 

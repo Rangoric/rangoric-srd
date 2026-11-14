@@ -17,8 +17,8 @@ power-resistance: "Yes"
 power-points: "5"
 based-on:
   - "[[fantasy srd 3.5/powers/Empathic Transfer, Hostile|Empathic Transfer, Hostile (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -38,7 +38,7 @@ Power Points: 5
 
 You transfer your hurt to another. When you manifest this power and then make a successful touch attack, you can transfer 50 points of damage (or less, if you choose) from yourself to the touched creature. You immediately regain hit points equal to the amount of damage you transfer.
 
-You cannot use this power to gain hit points in excess of your full normal total. The transferred damage is empathic in nature, so powers and abilities the subject may have such as [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] do not lessen or change this damage.
+You cannot use this power to gain hit points in excess of your full normal total. The transferred damage is empathic in nature, so powers and abilities the subject may have such as [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] and [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] do not lessen or change this damage.
 
 The damage transferred by this power has no type, so even if the subject has immunity to the type of damage you originally took, the transfer occurs normally and deals hit point damage to the subject.
 

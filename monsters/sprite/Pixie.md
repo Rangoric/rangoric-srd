@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Short sword +5 melee (1d4–2/19–20) or longbow +5 ranged (1d6–2)/x3
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, special arrows
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/cold iron, [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 15
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
   - **Saves**: Fort +0, Ref +6, Will +4
   - **Abilities**: Str 7, Dex 18, Con 11, Int 16, Wis 15, Cha 16
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7 (+8 riding), [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +12
@@ -108,7 +108,7 @@ Pixie characters possess the following racial traits.
 
   - Special Attacks (see above): Spell-like abilities.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/cold iron, [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] equal to 15 + class levels.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 15 + class levels.
 
   - Automatic Languages: Common, Sylvan. Bonus Languages: Elven, Gnome, Halfling.
 

@@ -47,8 +47,8 @@ Base Attack: +21; CMB: +27 (+29 disarm); CMD: 52 (54 vs. disarm, can't be trippe
 Attack: Forelimb +36 (0 plus ability drain) melee touch     
 Full Attack: 2 forelimbs +36 (0 plus ability drain) melee touch, 2 antennae +30 (antenna 0 plus energy drain) melee touch     
 Space/Reach: 5 ft./5 ft.      
-Special Attacks: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ability-score-loss|Ability drain]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^energy-drain|energy drain]], cocoon      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic, darkvision 240 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 34, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] 30      
+Special Attacks: [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Ability drain]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], cocoon      
+Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 240 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34, [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 30      
 Saves: Fort +21, Ref +25, Will +25      
 Abilities: Str 22, Dex 38, Con 34, Int 25, Wis 29, Cha 31      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +38 (+54 jumping), [[rangoric-srd/skills/Deception|Deception]] +42, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +41, [[rangoric-srd/skills/Intimidation|Intimidation]] +42, [[rangoric-srd/skills/Perception|Perception]] +41, [[rangoric-srd/skills/Persuasion|Persuasion]] +42, [[rangoric-srd/skills/Stealth|Stealth]] +46     
@@ -64,7 +64,7 @@ Advancement: 30-36 HD (Medium-size); 37-42 HD (Large)    
 
 Thorciasids speak Common, Elven, Dwarven, and Giant.
 
-A thorciasid’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A thorciasid’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 

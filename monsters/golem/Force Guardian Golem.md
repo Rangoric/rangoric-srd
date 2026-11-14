@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +14 melee (2d8+5/18–20) and force beam +11 ranged touch (4d10+10 plus knockdown)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Force beam, force critical
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/magic, darkvision 60 ft., immunity to magic, low-light vision
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, darkvision 60 ft., immunity to magic, low-light vision
   - **Saves**: Fort +6, Ref +8, Will +7
   - **Abilities**: Str 20, Dex 14, Con —, Int 6, Wis 12, Cha 1
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9

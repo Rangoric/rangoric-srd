@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Claw +11 melee (1d8+4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Acid spray
-  - **Special Qualities**: Darkvision 60 ft., immunity to acid, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Darkvision 60 ft., immunity to acid, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +9, Ref +10, Will +3
   - **Abilities**: Str 17, Dex 15, Con 17, Int 2, Wis 12, Cha 10
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12

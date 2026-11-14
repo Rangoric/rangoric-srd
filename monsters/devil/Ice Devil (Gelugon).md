@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Spear +20 melee (2d6+9/x3 plus slow) or claw +19 melee (1d10+6)
   - **Full Attack**: Spear +20/+15/+10 melee (2d6+9/x3 plus slow) and bite +14 melee (2d6+3) and tail +14 melee (3d6+3 plus slow); or 2 claws +19 melee (1d10+6) and bite +14 melee (2d6+3) and tail +14 melee (3d6+3 plus slow)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|Fear aura]], slow, spell-like abilities, summon devil
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 5, see in darkness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 25, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear aura]], slow, spell-like abilities, summon devil
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, see in darkness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +15, Ref +14, Will +15
   - **Abilities**: Str 23, Dex 21, Con 23, Int 22, Wis 22, Cha 20
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23 (+27 jumping), [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23 (+25 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +23 (+25 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Investigation|Investigation]] +23, [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any three) +23, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +23
@@ -71,9 +71,9 @@ An ice devil is about 12 feet tall and weighs about 700 pounds.
 
 An ice devil prefers to fight only when doing so serves its mission, but it never hesitates to attack when it deems a battle necessary - or likely to end in its victory.
 
-An ice devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+An ice devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-**Fear Aura (Su)**: An ice devil can radiate a 10-foot-radius [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|fear aura]] as a free action. A creature in the area must succeed on a DC 22 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 13th). A creature that successfully saves cannot be affected again by the same ice devil’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
+**Fear Aura (Su)**: An ice devil can radiate a 10-foot-radius [[rangoric-srd/monsters/abilities/Fear|fear aura]] as a free action. A creature in the area must succeed on a DC 22 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 13th). A creature that successfully saves cannot be affected again by the same ice devil’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
 
 **Slow (Su)**: A hit from an ice devil’s tail or spear induces numbing cold. The opponent must succeed on a DC 23 Fortitude save or be affected as though by a [[rangoric-srd/spells/Slow|slow]] spell for 1d6 rounds. The save DC is Constitution-based.
 

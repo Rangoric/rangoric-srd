@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Greataxe +9 melee (3d6+6/x3) or gore +9 melee (1d8+4)
   - **Full Attack**: Greataxe +9/+4 melee (3d6+6/x3) and gore +4 melee (1d8+2)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^powerful-charge|Powerful charge]] 4d6+6
-  - **Special Qualities**: Darkvision 60 ft., natural cunning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] 4d6+6
+  - **Special Qualities**: Darkvision 60 ft., natural cunning, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +6, Ref +5, Will +5
   - **Abilities**: Str 19, Dex 10, Con 15, Int 7, Wis 10, Cha 8
   - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Investigation|Investigation]] +2, [[rangoric-srd/skills/Perception|Perception]] +10
@@ -100,9 +100,9 @@ Minotaur characters possess the following racial traits.
 
   - Natural Weapons: Gore (1d8).
 
-  - Special Attacks (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^powerful-charge|Powerful charge]].
+  - Special Attacks (see above): [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]].
 
-  - Special Qualities (see above): Natural cunning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]].
+  - Special Qualities (see above): Natural cunning, [[rangoric-srd/monsters/abilities/Scent|scent]].
 
   - Automatic Languages: Common, Giant. Bonus Languages: Orc, Goblin, Terran.
 

@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Swarm (1d6)
   - **Space/Reach**: 10 ft./0 ft.
   - **Special Attacks**: Distraction, wounding
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsense|Blindsense]] 20 ft., immune to weapon damage, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 20 ft., immune to weapon damage, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
   - **Saves**: Fort +3, Ref +7, Will +3
   - **Abilities**: Str 3, Dex 15, Con 10, Int 2, Wis 14, Cha 4
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15

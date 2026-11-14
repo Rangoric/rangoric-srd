@@ -4,8 +4,8 @@ section: "Monsters"
 armor-class: "A dragon’s natural armor bonus increases by +1 for every Hit Die it gains beyond the great wyrm stage. (This rule applies for lesser dragon advancement as well, since natural armor and Hit Dice always increase at the same rate.)"
 based-on:
   - "[[fantasy srd 3.5/monsters/Dragon, Advanced|Dragon, Advanced (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -23,13 +23,13 @@ Armor Class: A dragon’s natural armor bonus increases by +1 for every Hit Die 
 
 Breath Weapon: If a dragon’s breath weapon deals damage, the damage typically increases by 2 dice for every virtual age category the dragon gains. The two exceptions among standard dragons are the brass and white dragons, whose breath weapon damage increases by only 1 die per age category. The saving throw DC against a dragon’s breath weapon remains 10 + 1/2 the dragon’s Hit Dice + its Constitution modifier.
 
-Spell Resistance: For standard advanced dragons, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] increases by 2 per additional age category. For epic dragons, spell resistance increases by 3 (for force dragons) or 6 (for prismatic dragons) per additional age category.
+Spell Resistance: For standard advanced dragons, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] increases by 2 per additional age category. For epic dragons, spell resistance increases by 3 (for force dragons) or 6 (for prismatic dragons) per additional age category.
 
 Speed: When a dragon becomes Colossal, its fly speed increases by 50 feet and its maneuverability becomes clumsy. When it reaches Colossal+, its fly speed increases by another 50 feet, and its maneuverability remains clumsy. A dragon’s land speed and other special movement types (swim, burrow, and so on) do not change.
 
 Ability Scores: A great wyrm’s Strength and Constitution scores both increase by +2 for every virtual age category the dragon gains. Its Dexterity remains unchanged. Its Intelligence, Wisdom, and Charisma increase by +2 for every two age categories the dragon gains.
 
-Special Abilities: Dragons do not gain additional spell-like abilities, but their [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] continues to increase as they gain Hit Dice. For most dragons (the exceptions being the force and prismatic dragons), the great wyrm’s damage reduction increases to 15/epic after exceeding the great wyrm age category and the dragon’s natural weapons count as epic weapons for the purposes of bypassing damage reduction.  
+Special Abilities: Dragons do not gain additional spell-like abilities, but their [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] continues to increase as they gain Hit Dice. For most dragons (the exceptions being the force and prismatic dragons), the great wyrm’s damage reduction increases to 15/epic after exceeding the great wyrm age category and the dragon’s natural weapons count as epic weapons for the purposes of bypassing damage reduction.  
 Force and prismatic dragons have the following DR progression: wyrmling 10/magic, young 15/magic, young adult 15/epic, mature adult 20/epic, very old 25/epic.  
 
 Caster Level: A great wyrm’s caster level increases by 2 for every virtual age category the dragon gains. As with the epic dragons described later, advanced dragons gain the [[rangoric-srd/feats/Improved Spell Capacity|Improved Spell Capacity]] feat as a bonus feat once for every three caster levels above 20th.

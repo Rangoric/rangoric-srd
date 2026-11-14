@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +2 melee (1d4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/good or silver, darkvision 60 ft., immunity to fire and poison, mindless, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10 and cold 10, see in darkness
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/good or silver, darkvision 60 ft., immunity to fire and poison, mindless, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, see in darkness
   - **Saves**: Fort +3, Ref +3, Will +3
   - **Abilities**: Str 10, Dex 10, Con 10, Int —, Wis 11, Cha 5
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +5
@@ -71,6 +71,6 @@ Lemures are mindless and cannot communicate, but they are sensitive to telepathi
 
 Lemures surge toward anything they meet and try to claw it apart. Only a telepathic command from other devils or the complete destruction of the lemures can make them stop.
 
-A lemure’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A lemure’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Mindless (Ex)**: Immunity to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).

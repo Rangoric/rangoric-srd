@@ -45,7 +45,7 @@ Beings adopting the Focus of the Shapeshifter truly embody the spirit and power 
 
 **Details:** Boneknit creatures have evolved a faster healing rate to accommodate the supernatural stresses they put themselves through.
 
-**Game Effects:** The character gains [[rangoric-srd/rules/Special Abilities and Conditions#Regeneration|regeneration]] 5 and a +2 resistance bonus to Fortitude saving throws.
+**Game Effects:** The character gains [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 and a +2 resistance bonus to Fortitude saving throws.
 
 ### Flexible Creature
 

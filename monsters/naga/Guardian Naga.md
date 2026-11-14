@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +12 melee (2d6+7 plus poison) or spit +9 ranged touch (poison)
   - **Full Attack**: Bite +12 melee (2d6+7 plus poison) or spit +9 ranged touch (poison)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], spit, spells
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], spit, spells
   - **Special Qualities**: Darkvision 60 ft.
   - **Saves**: Fort +7, Ref +7, Will +11
   - **Abilities**: Str 21, Dex 14, Con 19, Int 16, Wis 19, Cha 18

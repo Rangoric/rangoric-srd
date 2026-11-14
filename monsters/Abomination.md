@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Abomination|Abomination (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -34,15 +34,15 @@ All abominations are born directly (or indirectly) from a god and some lesser cr
 
 Immunities (Ex): Abominations are immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], or any form-altering attack. They are not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. They are immune to mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects), and are immune to one of five energy types (specific to the abomination).
 
-Resistances (Ex): Abominations have [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|cold resistance]] 20, and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] of at least 10/epic (certain abominations have higher damage reduction). Abominations all have significant [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]]. Abominations resist detection, and are all treated as if affected by a [[rangoric-srd/spells/Nondetection|nondetection]] spell of a caster level equal to the abomination’s HD.
+Resistances (Ex): Abominations have [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20, [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20, and [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] of at least 10/epic (certain abominations have higher damage reduction). Abominations all have significant [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]]. Abominations resist detection, and are all treated as if affected by a [[rangoric-srd/spells/Nondetection|nondetection]] spell of a caster level equal to the abomination’s HD.
 
-Special Qualities (Ex): All abominations have the spell-like ability to use [[rangoric-srd/spells/True Seeing|true seeing]] at will. Abominations are not subject to death from massive damage, and they have maximum hit points per Hit Die. Abominations have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] extraordinary ability to a range of 500 feet. Abominations can choose both nonepic and epic feats as part of their feat selection.
+Special Qualities (Ex): All abominations have the spell-like ability to use [[rangoric-srd/spells/True Seeing|true seeing]] at will. Abominations are not subject to death from massive damage, and they have maximum hit points per Hit Die. Abominations have the [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] extraordinary ability to a range of 500 feet. Abominations can choose both nonepic and epic feats as part of their feat selection.
 
 Telepathy (Su): Abominations can communicate telepathically with any creature within 1,000 feet that has a language.
 
 Summon Creature (Sp): Abominations can summon creatures associated either with the portfolio of their godly progenitor or with their imprisonment. Summoned creatures serve the abomination without question. Summoned creatures automatically return whence they came after 1 hour, or sooner if slain. See specific abomination entries for additional details on summoning.
 
-Fast Healing and Regeneration: Most abominations have some measure of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]], ranging from 5 to 55 for both abilities. Usually, higher HD abominations have higher values for fast healing and regeneration, though this not always the case. If an abomination has regeneration, it is usually subject to normal damage from at least two sources, one of which is the antithesis for their subtype, and the other of which is somehow tied to some unique feature of the abomination.
+Fast Healing and Regeneration: Most abominations have some measure of [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] and [[rangoric-srd/monsters/abilities/Regeneration|regeneration]], ranging from 5 to 55 for both abilities. Usually, higher HD abominations have higher values for fast healing and regeneration, though this not always the case. If an abomination has regeneration, it is usually subject to normal damage from at least two sources, one of which is the antithesis for their subtype, and the other of which is somehow tied to some unique feature of the abomination.
 
 Natural Armor: All abominations have some degree of natural armor bonus ranging from +10 to +100. Usually, higher HD abominations have higher natural armor bonuses, but this is not always the case.
 
@@ -50,6 +50,6 @@ Spell-Like Abilities: All abominations have access to a variety of spells in the
 
 Unique Abilities: All abominations have at least one or more unique abilities tied to their godly parent’s portfolio, or to the manner of their incarceration.
 
-Spell Resistance: As a general rule of thumb, abominations have [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] equal to their CR +12.  
+Spell Resistance: As a general rule of thumb, abominations have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to their CR +12.  
 
 Abominations speak Abyssal, Celestial, Infernal, and often a language associated with their imprisonment.

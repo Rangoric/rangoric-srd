@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +13 melee (1d8+6)
   - **Full Attack**: 2 claws +13 melee (1d8+6) and bite +8 melee (2d8+3)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|pounce]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 1d8+3
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/good, darkvision 60 ft., [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] in light, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to fire]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 19, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d8+3
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/good, darkvision 60 ft., [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] in light, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to fire]] 10, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +9, Ref +11, Will +8
   - **Abilities**: Str 23, Dex 21, Con 17, Int 10, Wis 14, Cha 10
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Athletics|Athletics]] +17 (+21 jumping), [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +16
@@ -72,9 +72,9 @@ Hellcats use a natural telepathy to communicate with one another and those they 
 
 ## Combat
 
-A hellcat can hold its own in combat thanks to sharp claws and wicked fangs. It prefers to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|leap]] upon opponents, just as a lion does.
+A hellcat can hold its own in combat thanks to sharp claws and wicked fangs. It prefers to [[rangoric-srd/monsters/abilities/Pounce|leap]] upon opponents, just as a lion does.
 
-A hellcat’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A hellcat’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Improved Grab (Ex)**: To use this ability, a hellcat must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 

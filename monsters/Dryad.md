@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Dagger +6 melee (1d4/19–20) or masterwork longbow +7 ranged (1d8/x3)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/cold iron, tree dependent, wild empathy
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/cold iron, tree dependent, wild empathy
   - **Saves**: Fort +3, Ref +8, Will +6
   - **Abilities**: Str 10, Dex 19, Con 11, Int 14, Wis 15, Cha 18
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9 (+11 with bindings), [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +11

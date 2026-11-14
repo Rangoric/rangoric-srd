@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +14 melee (4d4+5)
   - **Full Attack**: Bite +14 melee (4d4+5) and 2 claws +9 melee (1d8+2)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Spell-like abilities, stench, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], summon demon
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 19, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Attacks**: Spell-like abilities, stench, [[rangoric-srd/monsters/abilities/Grab|improved grab]], summon demon
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +16, Ref +7, Will +9
   - **Abilities**: Str 21, Dex 10, Con 29, Int 14, Wis 14, Cha 18
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15 (+17 following tracks, +17 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Investigation|Investigation]] +15, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +15
@@ -74,7 +74,7 @@ A hezrou is about 8 feet tall and weighs about 750 pounds.
 
 Hezrous enjoy melee combat even more than vrocks do. They eagerly press an attack deep into the heart of enemy forces, so their stench can take effect as quickly as possible. They enter most battles by using [[rangoric-srd/spells/Blasphemy|blasphemy]], and follow it with an occasional [[rangoric-srd/spells/Chaos Hammer|chaos hammer]] or [[rangoric-srd/spells/Unholy Blight|unholy blight]], depending on the alignment of their opponents.
 
-A hezrou’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A hezrou’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Improved Grab (Ex)**: To use this ability, a hezrou must hit with both claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 

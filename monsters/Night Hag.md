@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +12 melee (2d6+6 plus disease)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, dream haunting
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/cold iron and magic, immunity to fire, cold, charm, sleep, and fear, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 25
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron and magic, immunity to fire, cold, charm, sleep, and fear, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
   - **Saves**: Fort +12\*, Ref +9\*, Will +10\*
   - **Abilities**: Str 19, Dex 12, Con 18, Int 11, Wis 15, Cha 12
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +12, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Imitation|Imitation]] +11 (+13 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Theology|Theology]] +11
@@ -73,7 +73,7 @@ Night hags attack good creatures on sight if the odds of success seem favorable.
 
 These creatures rip through armor and flesh with their deadly teeth. They love to use [[rangoric-srd/spells/Sleep|sleep]] and then strangle those who are overcome by it.
 
-A night hag’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]]. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A night hag’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]]. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
 **Change Shape (Su):** A night hag can assume the form of any Small or Medium humanoid.
 

@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +3 melee (1d2–1 plus poison)
   - **Full Attack**: 2 claws +3 melee (1d2–1 plus poison)
   - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: Leaping, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
+  - **Special Attacks**: Leaping, [[rangoric-srd/monsters/abilities/Poison|poison]]
   - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], spider climb
   - **Saves**: Fort +0, Ref +3, Will +0
   - **Abilities**: Str 9, Dex 16, Con —, Int 8, Wis 9, Cha 8 (at least; or half the creator’s scores)

@@ -48,7 +48,7 @@ Attack: Claw +48 (2d6+10/19-20) melee   
 Full Attack: 2 claws +48 (2d6+10/19-20) melee, 1 bite +46 (3d6+5/19-20) melee     
 Space/Reach: 10 ft./5 ft.      
 Special Attacks: Frightful howl, savage 15d6+25      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 240 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 10, lowlight vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 32, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], acid, cold, electricity, fire, and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|sonic resistance]] 20      
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 240 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, lowlight vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 32, [[rangoric-srd/monsters/abilities/Scent|scent]], acid, cold, electricity, fire, and [[rangoric-srd/monsters/abilities/Resistance|sonic resistance]] 20      
 Saves: Fort +41, Ref +35, Will +25      
 Abilities: Str 30, Dex 38, Con 47, Int 18, Wis 32, Cha 19      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +51 (+71 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +52, [[rangoric-srd/skills/Perception|Perception]] +58, [[rangoric-srd/skills/Stealth|Stealth]] +55     

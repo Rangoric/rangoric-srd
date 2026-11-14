@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +18 melee (2d8+9)
   - **Full Attack**: Bite +18 melee (2d8+9)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]
   - **Special Qualities**: Keen scent
   - **Saves**: Fort +14, Ref +13, Will +12
   - **Abilities**: Str 23, Dex 15, Con 17, Int 1, Wis 12, Cha 10

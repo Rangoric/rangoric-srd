@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/mephit/Mephit|Mephit (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -17,9 +17,9 @@ All mephits appear as small, winged creatures with more or less humanoid feature
 
 ### Combat
 
-All mephits fight by biting and clawing or by using a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapon]], the nature and effects of which vary from creature to creature.
+All mephits fight by biting and clawing or by using a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], the nature and effects of which vary from creature to creature.
 
-A mephit’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A mephit’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Breath Weapon (Su)**: A mephit can use its breath weapon once every 1d4 rounds as a standard action. See the individual descriptions for details.
 

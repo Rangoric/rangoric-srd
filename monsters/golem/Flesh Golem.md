@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +10 melee (2d8+5)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Berserk
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/adamantine, darkvision 60 ft., immunity to magic, low-light vision
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/adamantine, darkvision 60 ft., immunity to magic, low-light vision
   - **Saves**: Fort +3, Ref +2, Will +3
   - **Abilities**: Str 21, Dex 9, Con —, Int —, Wis 11, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17

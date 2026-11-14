@@ -28,7 +28,7 @@ Perks:
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 - Light Blindness: Drow have [[rangoric-srd/rules/Special Abilities and Conditions#Light Blindness|light blindness]].
 - Poison Use: Drow have [[rangoric-srd/races/racial-traits/Poison Use|poison use]].
-- Spell Resistance: Drow have [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] equal to 6 plus their class levels.
+- Spell Resistance: Drow have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 6 plus their class levels.
 - Spell-Like Abilities: Drow can use *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Darkness|darkness]]*, and *[[rangoric-srd/spells/Faerie Fire|faerie fire]]* once each per day as spell-like abilities (caster level equal to the drow's character level).
 - Weapon Familiarity: Drow are proficient with the hand crossbow, rapier, and short sword.
 

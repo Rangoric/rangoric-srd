@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Slam +5 melee (1d6+1)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/spells/Detect Thoughts|Detect thoughts]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^change-shape|Change shape]], immunity to sleep and charm effects
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], immunity to sleep and charm effects
   - **Saves**: Fort +4, Ref +5, Will +6
   - **Abilities**: Str 12, Dex 13, Con 12, Int 13, Wis 14, Cha 13
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +12\*, [[rangoric-srd/skills/Imitation|Imitation]] +12\* (+14 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +1, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +2
@@ -106,7 +106,7 @@ Doppelganger characters possess the following racial traits.
 
   - Special Attacks (see above): [[rangoric-srd/spells/Detect Thoughts|Detect thoughts]].
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^change-shape|Change shape]], immunity to sleep and charm effects.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], immunity to sleep and charm effects.
 
   - Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
 

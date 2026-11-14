@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Talon +4 melee (1d4+2) or trident +4 melee (1d8+3) or heavy crossbow +3 ranged (1d10/19–20)
   - **Full Attack**: Trident +4 melee (1d8+3) and bite +2 melee (1d4+1); or 2 talons +4 melee (1d4+2) and bite +2 melee (1d4+1); or heavy crossbow +3 ranged (1d10/19–20)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Blood frenzy, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 1d4+1
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsense|Blindsense]] 30 ft., darkvision 60 ft., freshwater sensitivity, light blindness, speak with sharks, water dependent
+  - **Special Attacks**: Blood frenzy, [[rangoric-srd/monsters/abilities/Rake|rake]] 1d4+1
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., darkvision 60 ft., freshwater sensitivity, light blindness, speak with sharks, water dependent
   - **Saves**: Fort +3, Ref +4, Will +4
   - **Abilities**: Str 14, Dex 13, Con 12, Int 14, Wis 13, Cha 9
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4\*, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6\*, [[rangoric-srd/skills/Perception|Perception]] +10\*, [[rangoric-srd/skills/Profession|Profession]] (hunter) +5\*, [[rangoric-srd/skills/Stealth|Stealth]] +9\*
@@ -76,7 +76,7 @@ Sahuagin are savage fighters, asking for and giving no quarter. When swimming, a
 
 **Blood Frenzy**: Once per day a sahuagin that takes damage in combat can fly into a frenzy in the following round, clawing and biting madly until either it or its opponent is dead. It gains +2 Constitution and +2 Strength, and takes a –2 penalty to Armor Class. A sahuagin cannot end its frenzy voluntarily.
 
-**Rake (Ex)**: Attack bonus +2 melee, damage 1d4+1. A sahuagin also gains two [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks when it attacks while swimming.
+**Rake (Ex)**: Attack bonus +2 melee, damage 1d4+1. A sahuagin also gains two [[rangoric-srd/monsters/abilities/Rake|rake]] attacks when it attacks while swimming.
 
 **Freshwater Sensitivity (Ex)**: A sahuagin fully immersed in fresh water must succeed on a DC 15 Fortitude save or become [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|fatigued]]. Even on a success, it must repeat the save attempt every 10 minutes it remains immersed.
 

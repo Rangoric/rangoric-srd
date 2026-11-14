@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Greatsword +20/+15/+10 melee (3d6+15) or 2 slams +20 melee (1d4+10) or rock +10 ranged (2d6+10 plus 2d6 fire)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Rock throwing
-  - **Special Qualities**: Immunity to fire, low-light vision, rock catching, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Qualities**: Immunity to fire, low-light vision, rock catching, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +14, Ref +4, Will +9
   - **Abilities**: Str 31, Dex 9, Con 21, Int 10, Wis 14, Cha 11
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Craft|Craft]] (any one) +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Perception|Perception]] +17

@@ -49,7 +49,7 @@ Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mag
 Full **Attack:** Bite +5 melee (1d3-4)     
 **Space/Reach:** 2-1/2 ft./0 ft.     
 **Special Attacks:** Cascade flu, psi-like abilities     
-**Special Qualities:** Low-light vision, power conversion, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]  
+**Special Qualities:** Low-light vision, power conversion, [[rangoric-srd/monsters/abilities/Scent|scent]]  
 **Saves:** Fort +0, Ref +4, Will +2     
 **Abilities:** Str 2, Dex 14, Con 7, Int 2, Wis 14, Cha 11     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +14     

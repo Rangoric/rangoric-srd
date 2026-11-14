@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +4 melee (1d3–2 plus poison)
   - **Full Attack**: Sting +4 melee (1d3–2 plus poison) and bite –1 melee (1)
   - **Space/Reach**: 2-1/2 ft./0 ft. (5 ft. with tail)
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsense|Blindsense]] 60 ft., darkvision 60 ft., immunity to sleep and paralysis, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 19, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 60 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 60 ft., darkvision 60 ft., immunity to sleep and paralysis, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 60 ft.
   - **Saves**: Fort +4, Ref +5, Will +4
   - **Abilities**: Str 6, Dex 15, Con 13, Int 10, Wis 12, Cha 10
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6 (+8 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +20\*

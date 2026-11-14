@@ -49,7 +49,7 @@ Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mag
 Full **Attack:** Bite +4 melee (1d2-5)     
 **Space/Reach:** 1/2 ft./0 ft.     
 **Special Attacks:** Enthrall, psi-like abilities     
-**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 60 ft., host protection, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 20 ft.      
+**Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., host protection, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 20 ft.      
 **Saves:** Fort +2, Ref +4, Will +5     
 **Abilities:** Str 1, Dex 15, Con 11, Int 14, Wis 16, Cha 14     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +22     

@@ -22,7 +22,7 @@ Perks:
 - +2 Charisma
 - -2 Wisdom
 - Swim Speed: Gillmen have a swim speed of 30 feet, which works as described under [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|movement modes]], and [[rangoric-srd/skills/Athletics|Athletics]] is always a class skill for them.
-- Amphibious: Gillmen have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]], but can breathe both water and air (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^amphibious|amphibious]]).
+- Amphibious: Gillmen have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]], but can breathe both water and air (see [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]).
 - Enchantment Resistance: Gillmen gain a +2 racial saving throw bonus against non-aboleth enchantment spells and effects, but take a –2 penalty on such saving throws against aboleth sources.
 - Water Dependent: A gillman's body requires constant submersion in fresh or salt water. Gillmen who spend more than 1 day without fully submerging themselves in water risk internal organ failure, painful cracking of the skin, and death within 4d6 hours.
 

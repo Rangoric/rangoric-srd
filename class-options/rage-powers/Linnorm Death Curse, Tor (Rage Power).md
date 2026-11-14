@@ -21,4 +21,4 @@ The character channels the power of a tor linnorm. The character's melee attacks
 
 A character must be at least 8th level to select this rage power.
 
-*Curse of Boiling Blood*: *save* Will DC 10 + 1/2 character's level + character's Charisma bonus; *effect* target gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to fire]] and is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] from the pain of its boiling blood (this is a pain effect).
+*Curse of Boiling Blood*: *save* Will DC 10 + 1/2 character's level + character's Charisma bonus; *effect* target gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]] and is permanently [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] from the pain of its boiling blood (this is a pain effect).

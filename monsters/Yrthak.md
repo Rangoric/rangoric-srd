@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +15 melee (2d8+5) and 2 claws +13 melee (1d6+2); or sonic lance +12 ranged touch (6d6)
   - **Space/Reach**: 15 ft./10 ft.
   - **Special Attacks**: Sonic lance, explosion
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 120 ft., immunities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to sonic]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 120 ft., immunities, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to sonic]]
   - **Saves**: Fort +11, Ref +10, Will +5
   - **Abilities**: Str 20, Dex 14, Con 17, Int 7, Wis 13, Cha 11
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +2
@@ -74,8 +74,8 @@ A yrthak prefers to attack from the air, strafing the ground with sonic attacks 
 
 **Explosion (Su)**: A yrthak can fire its sonic lance at the ground, a large rock, a stone wall, or the like to create an explosion of shattered stone. This attack deals 2d6 points of piercing damage to all within 10 feet of the effect’s center. This counts as a use of the sonic lance attack and thus is usable only once every 2 rounds, and never on the round following a sonic lance attack.
 
-**Blindsight (Ex)**: A yrthak can ascertain all foes within 120 feet. Beyond that range it is considered [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]. Yrthaks are invulnerable to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attacks, visual effects of spells such as illusions, and other attack forms that rely on sight. A yrthak whose sense of hearing is impaired is effectively blinded, treating all targets as having total concealment.
+**Blindsight (Ex)**: A yrthak can ascertain all foes within 120 feet. Beyond that range it is considered [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]]. Yrthaks are invulnerable to [[rangoric-srd/monsters/abilities/Gaze|gaze]] attacks, visual effects of spells such as illusions, and other attack forms that rely on sight. A yrthak whose sense of hearing is impaired is effectively blinded, treating all targets as having total concealment.
 
-**Immunities**: Yrthaks have immunity to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attacks, visual effects, illusions, and other attack forms that rely on sight.
+**Immunities**: Yrthaks have immunity to [[rangoric-srd/monsters/abilities/Gaze|gaze]] attacks, visual effects, illusions, and other attack forms that rely on sight.
 
 **Skills**: Yrthaks have a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.

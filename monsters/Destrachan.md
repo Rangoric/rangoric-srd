@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +9 melee (1d6+4)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: Destructive harmonics
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 100 ft., immunities, protection from sonics
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., immunities, protection from sonics
   - **Saves**: Fort +5, Ref +5, Will +10
   - **Abilities**: Str 18, Dex 12, Con 16, Int 12, Wis 18, Cha 12
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +8
@@ -84,7 +84,7 @@ A destrachan uses its claws only as a last resort or to finish off foes weakened
 
 **Blindsight (Ex)**: A destrachan can use hearing to ascertain all foes within 100 feet as a sighted creature would.
 
-**Immunities**: Destrachans have immunity to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attacks, visual effects, illusions, and other attack forms that rely on sight.
+**Immunities**: Destrachans have immunity to [[rangoric-srd/monsters/abilities/Gaze|gaze]] attacks, visual effects, illusions, and other attack forms that rely on sight.
 
 **Protection from Sonics (Ex)**: While they can be affected by loud noises and sonic spells (such as [[rangoric-srd/spells/Ghost Sound|ghost sound]] or [[rangoric-srd/spells/Silence|silence]]), destrachans are less vulnerable to sonic attacks (+4 circumstance bonus on all saves) because they can protect their ears. A destrachan whose sense of hearing is impaired is effectively [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]], and all targets are treated as having total concealment.
 

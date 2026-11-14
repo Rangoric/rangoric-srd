@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Short sword +6 melee (1d3–3/19–20) or longbow +6 ranged (1d4–3/x3)
   - **Space/Reach**: 2-1/2 ft./0 ft.
   - **Special Attacks**: Spell-like abilities, fiddle
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/cold iron, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 17
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/cold iron, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
   - **Saves**: Fort +1, Ref +6, Will +3
   - **Abilities**: Str 5, Dex 18, Con 13, Int 10, Wis 13, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +9 (+3 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +4, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +2, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Performance|Performance]] (string instruments) +6, [[rangoric-srd/skills/Stealth|Stealth]] +19\*

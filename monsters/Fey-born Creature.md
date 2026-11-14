@@ -41,7 +41,7 @@ Normal creatures that have the fortune of being born in the fey realm are imbued
 | 17–18 | *[[rangoric-srd/spells/Summon Fey IX|summon fey IX]]* |
 | 19+ | *[[rangoric-srd/spells/Create Doorway and Sideroad|create doorway and sideroad]]* |
 
-**Special Qualities**: A fey-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]]. Fey-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
+**Special Qualities**: A fey-born creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]. Fey-born creatures gain fey traits granting them resistance to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the creature attains.
 
 **Saves**: Each of the base creature’s saves increases by +1 in addition to ability score bonus changes.
 

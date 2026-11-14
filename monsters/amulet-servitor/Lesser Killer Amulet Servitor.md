@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +5 melee (1d6); or gore +5 melee (1d8 plus poison)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Poison
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/magic
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
   - **Saves**: Fort +2, Ref +4, Will +2
   - **Abilities**: Str 10, Dex 15, Con —, Int —, Wis 10, Cha 1
   - **Skills**: —

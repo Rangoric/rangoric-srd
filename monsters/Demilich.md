@@ -48,7 +48,7 @@ Attack: Touch +35 (10d6+20 plus paralyzing touch) melee   
 Full Attack: Touch +35 (10d6+20 plus paralyzing touch) melee     
 Space/Reach: 1 ft./0 ft.      
 Special Attacks: [[rangoric-srd/spells/Trap the Soul|Trap the soul]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|fear aura]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzing]] touch, 21st-level wizard spellcaster, Perfect Automatic Still Spell, spell-like abilities      
-Special Qualities: Magic immunity, phylactery transference, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]] +20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 15/Epic and bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|acid resistance]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|sonic resistance]] 20, immune to cold, electricity, polymorph, and mind-affecting attacks.      
+Special Qualities: Magic immunity, phylactery transference, [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +20, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/Epic and bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/monsters/abilities/Resistance|acid resistance]] 20, [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20, [[rangoric-srd/monsters/abilities/Resistance|sonic resistance]] 20, immune to cold, electricity, polymorph, and mind-affecting attacks.      
 Saves: Fort +10, Ref +12, Will +17      
 Abilities: Str 10, Dex 16 (with gloves), Con -, Int 39 (with headband), Wis 24, Cha 20      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +38, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +38, [[rangoric-srd/skills/Investigation|Investigation]] +38, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +31, [[rangoric-srd/skills/Society|Society]] +38, [[rangoric-srd/skills/Stealth|Stealth]] +39, [[rangoric-srd/skills/Theology|Theology]] +38     
@@ -64,7 +64,7 @@ Advancement: By character class    
 
 Demiliches speak the languages they knew as liches and as living creatures.
 
-A demilich’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A demilich’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -136,11 +136,11 @@ Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep
 
 Immunities (Ex): Demiliches are immune to cold, electricity, polymorph, and mind-affecting attacks.
 
-Turn Resistance (Ex): A demilich has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]] +20.
+Turn Resistance (Ex): A demilich has [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +20.
 
-Damage Reduction (Su): A demilich loses any previous [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] and instead has damage reduction 15/Epic and bludgeoning (15  points of damage is subtracted from all melee attacks unless the weapon used is both an epic and a bludgeoning weapon). Vorpal weapons, no matter their enhancement bonus, ignore this damage reduction but do only half damage to a demilich (demiliches cannot be beheaded).
+Damage Reduction (Su): A demilich loses any previous [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] and instead has damage reduction 15/Epic and bludgeoning (15  points of damage is subtracted from all melee attacks unless the weapon used is both an epic and a bludgeoning weapon). Vorpal weapons, no matter their enhancement bonus, ignore this damage reduction but do only half damage to a demilich (demiliches cannot be beheaded).
 
-Resistances (Ex): Demiliches have [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|acid resistance]] 20, fire resistance 20, and sonic resistance 20.
+Resistances (Ex): Demiliches have [[rangoric-srd/monsters/abilities/Resistance|acid resistance]] 20, fire resistance 20, and sonic resistance 20.
 
 Saves: Same as the lich.
 

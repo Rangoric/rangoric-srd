@@ -17,4 +17,4 @@ You favor your outsider ancestry and are better adapted to life in the water.
 
 **Prerequisites**: [[rangoric-srd/races/Undine|Undine]].
 
-**Benefit**: You gain the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^amphibious|amphibious]] special quality. Your swim speed increases by +10 feet.
+**Benefit**: You gain the [[rangoric-srd/monsters/abilities/Amphibious|amphibious]] special quality. Your swim speed increases by +10 feet.

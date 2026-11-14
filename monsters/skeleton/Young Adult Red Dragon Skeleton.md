@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +17 melee (2d8+10) and 2 claws +12 melee (2d6+5) and 2 wings +12 melee (1d8+5) and tail slap +12 melee (2d6+15)
   - **Space/Reach**: 15 ft./10 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +6, Ref +7, Will +8
   - **Abilities**: Str 31, Dex 12, Con —, Int —, Wis 10, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32

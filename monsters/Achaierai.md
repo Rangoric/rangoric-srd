@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +9 melee (2d6+4) and bite +4 melee (4d6+2)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Black cloud
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 19
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
   - **Saves**: Fort +7, Ref +6, Will +7
   - **Abilities**: Str 19, Dex 13, Con 14, Int 11, Wis 14, Cha 16
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +13 (+21 jumping), [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +6

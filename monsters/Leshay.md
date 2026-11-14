@@ -47,8 +47,8 @@ Base Attack: +25; CMB: +30; CMD: 78   
 Attack: +10 keen brilliant energy bastard sword +53 (1d10+15/17-20) melee     
 Full Attack: 2 +10 keen brilliant energy bastard swords +53/+48/+43/+38 (1d10+15/17-20) melee     
 Space/Reach: 5 ft./5 ft.      
-Special Attacks: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|Gaze]], spell-like abilities, leShay weapons      
-Special Qualities: Superior two-weapon fighting, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 15/epic and cold iron, [[rangoric-srd/races/Elf|elf traits]], immune to poison and disease, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 42, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 10      
+Special Attacks: [[rangoric-srd/monsters/abilities/Gaze|Gaze]], spell-like abilities, leShay weapons      
+Special Qualities: Superior two-weapon fighting, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic and cold iron, [[rangoric-srd/races/Elf|elf traits]], immune to poison and disease, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10      
 Saves: Fort +29, Ref +44, Will +35      
 Abilities: Str 21, Dex 45, Con 37, Int 33, Wis 23, Cha 47      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +58 (+62 jumping), [[rangoric-srd/skills/Deception|Deception]] +71, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +70, [[rangoric-srd/skills/Imitation|Imitation]] +64, [[rangoric-srd/skills/Intimidation|Intimidation]] +71, [[rangoric-srd/skills/Investigation|Investigation]] +64, Linguistics (any five), [[rangoric-srd/skills/Nature|Nature]] +64, [[rangoric-srd/skills/Perception|Perception]] +59, [[rangoric-srd/skills/Persuasion|Persuasion]] +75, [[rangoric-srd/skills/Society|Society]] +64, [[rangoric-srd/skills/Stealth|Stealth]] +70     
@@ -62,7 +62,7 @@ Treasure: Standard    
 Alignment: Any      
 Advancement: None      
 
-A leshay’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A leshay’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -74,6 +74,6 @@ LeShay Weapons (Su): Each leShay carries two personal melee weapons that he or s
 
 Superior Two-Weapon Fighting (Ex): A leShay fights with a leShay weapon in each hand. Because these weapons are extensions of its own body, the leShay does not take an attack or Damage penalty for attacking with two weapons.
 
-Gaze (Su): All creatures within 30 feet who meet the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] of a leShay become affected as if by [[rangoric-srd/spells/Charm Monster|charm monster]]. A Will save (DC 53) negates the effect. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order. A leShay can also actively gaze as an attack action by choosing a target within range, who must then attempt a saving throw. LeShay are immune to their own gaze. The DC is Charisma-based.
+Gaze (Su): All creatures within 30 feet who meet the [[rangoric-srd/monsters/abilities/Gaze|gaze]] of a leShay become affected as if by [[rangoric-srd/spells/Charm Monster|charm monster]]. A Will save (DC 53) negates the effect. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order. A leShay can also actively gaze as an attack action by choosing a target within range, who must then attempt a saving throw. LeShay are immune to their own gaze. The DC is Charisma-based.
 
 Elf Traits: Immune to magic sleep spells and effects; +2 racial bonus on Will saves against enchantment spells or effects; low-light vision (can see twice as far as a human in low-light conditions); entitled to a [[rangoric-srd/skills/Investigation|Investigation]] check when within 5 feet of a secret or concealed door as though actively looking for it; Martial Weapon Proficiency (composite longbow, composite shortbow, longbow, longsword, and rapier) as bonus feats; +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] and [[rangoric-srd/skills/Investigation|Investigation]] checks (already figured into the statistics given above).

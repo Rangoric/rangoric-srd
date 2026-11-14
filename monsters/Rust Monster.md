@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Antennae touch +3 melee (rust) and bite –2 melee (1d3)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Rust
-  - **Special Qualities**: Darkvision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Darkvision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +2, Ref +4, Will +5
   - **Abilities**: Str 10, Dex 17, Con 13, Int 2, Wis 13, Cha 8
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +12

@@ -47,8 +47,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +63 (3d6+18/19-20 (+1d6 on critical hit)) melee
   - **Full Attack**: 4 claws +63 melee, 3 bites +61 melee
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|Pounce]], stunning roar
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 350 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 25, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 42, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]; acid, cold, electricity, fire, and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|sonic resistance]] 15
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], stunning roar
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 350 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 25, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42, [[rangoric-srd/monsters/abilities/Scent|scent]]; acid, cold, electricity, fire, and [[rangoric-srd/monsters/abilities/Resistance|sonic resistance]] 15
   - **Saves**: Fort +45, Ref +43, Will +33
   - **Abilities**: Str 47, Dex 45, Con 49, Int 26, Wis 43, Cha 33
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +65, [[rangoric-srd/skills/Athletics|Athletics]] +66 (+102 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +64, [[rangoric-srd/skills/Intimidation|Intimidation]] +59, [[rangoric-srd/skills/Investigation|Investigation]] +56, [[rangoric-srd/skills/Perception|Perception]] +64, [[rangoric-srd/skills/Stealth|Stealth]] +65

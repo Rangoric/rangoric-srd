@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 light rays +2 ranged touch (1d6)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities
-  - **Special Qualities**: Aura of menace, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/evil and magic, darkvision 60 ft., immunity to electricity and petrification, [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/spells/Teleport, Greater|teleport]], [[rangoric-srd/spells/Tongues|tongues]]
+  - **Special Qualities**: Aura of menace, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil and magic, darkvision 60 ft., immunity to electricity and petrification, [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/spells/Teleport, Greater|teleport]], [[rangoric-srd/spells/Tongues|tongues]]
   - **Saves**: Fort +2 (+6 against poison), Ref +2, Will +2
   - **Abilities**: Str 1, Dex 11, Con 10, Int 6, Wis 11, Cha 10
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +4, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +4, [[rangoric-srd/skills/Theology|Theology]] +2

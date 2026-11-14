@@ -27,5 +27,5 @@ Corruptors, tempters, and despoilers, devil eidolons often serve their summoners
   - At 4th level, devil eidolons gain acid resistance 10 and cold resistance 10.
   - At 8th level, devil eidolons gain the skilled (Persuasion) evolution and gain immunity to poison.
   - At 12th level, devil eidolons gain DR 5/good. They also gain [[rangoric-srd/class-options/evolutions/See in Darkness (Evolution)|see in darkness]].
-  - At 16th level, devil eidolons lose the resistance (fire) evolution, and instead gain the [[rangoric-srd/class-options/evolutions/Immunity (Evolution)|immunity]] (fire) evolution. They also gain [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]].
+  - At 16th level, devil eidolons lose the resistance (fire) evolution, and instead gain the [[rangoric-srd/class-options/evolutions/Immunity (Evolution)|immunity]] (fire) evolution. They also gain [[rangoric-srd/monsters/abilities/Telepathy|telepathy]].
   - At 20th level, devil eidolons gain regeneration 5 (good weapons, good spells). They are still banished to Hell as normal for eidolons if they take enough damage.

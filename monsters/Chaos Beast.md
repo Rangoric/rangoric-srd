@@ -52,7 +52,7 @@ tags:
   - **Full Attack**: 2 claws +10 melee (1d3+2 plus corporeal instability)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Corporeal instability
-  - **Special Qualities**: Darkvision 60 ft., immunity to critical hits and transformation, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 15
+  - **Special Qualities**: Darkvision 60 ft., immunity to critical hits and transformation, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
   - **Saves**: Fort +7, Ref +7, Will +6
   - **Abilities**: Str 14, Dex 13, Con 13, Int 10, Wis 10, Cha 10
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 with bindings, +13 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
@@ -74,7 +74,7 @@ Chaos beasts do not speak.
 
 For all its fearsome appearances, whether it has claws, fangs, pincers, tentacles, or spines, a chaos beast does little physical harm. Regardless of form, the creature seems unable to manage more than two attacks per round. Its continual transmutations prevent the coordination needed to do more.
 
-A chaos beast’s claw attacks, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A chaos beast’s claw attacks, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Corporeal Instability (Su)**: A blow from a chaos beast against a living creature can cause a terrible transformation. The creature must succeed on a DC 15 Fortitude save or become a spongy, amorphous mass. Unless the victim manages to control the effect (see below), its shape melts, flows, writhes, and boils. The save DC is Constitution-based.
 

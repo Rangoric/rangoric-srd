@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Warhammer +3 melee (1d8+1/x3 plus 1 fire) or shortspear +3 ranged (1d6+1 plus 1 fire)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Heat
-  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 13, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 13, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +4, Ref +4, Will +4
   - **Abilities**: Str 13, Dex 13, Con 13, Int 12, Wis 12, Cha 9
   - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +5 (–1 jumping), [[rangoric-srd/skills/Craft|Craft]] (any two) +6, [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +5
@@ -96,7 +96,7 @@ Azer characters possess the following racial traits.
 
   - Special Attacks (see above): Heat.
 
-  - Special Qualities (see above): Immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] equal to 13 + class levels, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]].
+  - Special Qualities (see above): Immunity to fire, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 13 + class levels, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]].
 
   - Automatic Languages: Common, Ignan. Bonus Languages: Abyssal, Aquan, Auran, Celestial, Infernal, Terran.
 

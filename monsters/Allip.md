@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Incorporeal touch +3 melee (1d4 Wisdom drain)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Babble, madness, Wisdom drain
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], +2 [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +1, Ref +4, Will +4
   - **Abilities**: Str —, Dex 12, Con —, Int 11, Wis 11, Cha 18
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4 (+6 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Investigation|Investigation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8

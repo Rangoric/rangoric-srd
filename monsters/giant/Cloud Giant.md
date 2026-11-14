@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Gargantuan morningstar +22/+17/+12 melee (4d6+18) or 2 slams +22 melee (1d6+12) or rock +12 ranged (2d8+12)
   - **Space/Reach**: 15 ft./15 ft.
   - **Special Attacks**: Rock throwing, spell-like abilities
-  - **Special Qualities**: Low-light vision, oversized weapon, rock catching, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Low-light vision, oversized weapon, rock catching, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +16, Ref +6, Will +10
   - **Abilities**: Str 35, Dex 13, Con 23, Int 12, Wis 16, Cha 13
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Craft|Craft]] (any one) +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Performance|Performance]] (stringed instrument) +5, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12

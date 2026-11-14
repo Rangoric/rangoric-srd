@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +15 melee (2d4+12)
   - **Full Attack**: Bite +15 melee (2d4+12)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|Breath weapon]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constrict]] 2d8+8, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 1d4+4, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]]
-  - **Special Qualities**: Can’t be tripped, darkvision 60 ft., immunity to electricity, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 2d8+8, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d4+4, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]
+  - **Special Qualities**: Can’t be tripped, darkvision 60 ft., immunity to electricity, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +11, Ref +7, Will +5
   - **Abilities**: Str 26, Dex 13, Con 21, Int 7, Wis 14, Cha 12
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 climbing), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +2, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +5
@@ -66,7 +66,7 @@ Behirs speak Common.
 
 ### Combat
 
-A behir usually bites and [[rangoric-srd/combat/Combat Maneuvers#Grapple|grabs]] its prey first, then either [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallows]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constricts]] the opponent. It can employ its claws only against foes caught in its coils. If beset by a large number of foes, it uses its breath weapon.
+A behir usually bites and [[rangoric-srd/combat/Combat Maneuvers#Grapple|grabs]] its prey first, then either [[rangoric-srd/monsters/abilities/Swallow Whole|swallows]] or [[rangoric-srd/monsters/abilities/Constrict|constricts]] the opponent. It can employ its claws only against foes caught in its coils. If beset by a large number of foes, it uses its breath weapon.
 
 **Breath Weapon (Su)**: 20-foot line, once every 10 rounds, damage 7d6 electricity, Reflex DC 19 half. The save DC is Constitution-based.
 

@@ -47,7 +47,7 @@ Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mag
 Full **Attack:** Bite +15 melee (2d8+8) and 2 claws +10 melee (2d6+4)     
 **Space/Reach:** 15 ft./10 ft.     
 **Special Attacks:** Null psionic exhalation     
-**Special Qualities:** Darkvision 60 ft., low-light vision, power resistance 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]     
+**Special Qualities:** Darkvision 60 ft., low-light vision, power resistance 20, [[rangoric-srd/monsters/abilities/Scent|scent]]     
 **Saves:** Fort +10, Ref +5, Will +7     
 **Abilities:** Str 27, Dex 9, Con 19, Int 2, Wis 15, Cha 20     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +15 (+19 jumping), [[rangoric-srd/skills/Perception|Perception]] +10     

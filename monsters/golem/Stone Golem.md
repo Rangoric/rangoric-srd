@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +18 melee (2d10+9)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: [[rangoric-srd/spells/Slow|Slow]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/adamantine, darkvision 60 ft., immunity to magic, low-light vision
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, darkvision 60 ft., immunity to magic, low-light vision
   - **Saves**: Fort +4, Ref +3, Will +4
   - **Abilities**: Str 29, Dex 9, Con -, Int -, Wis 11, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +26
@@ -80,7 +80,7 @@ Stone golems are formidable opponents, being physically powerful and difficult t
 
 A [[rangoric-srd/spells/Transmute Rock to Mud|transmute rock to mud]] spell slows a stone golem (as the [[rangoric-srd/spells/Slow|slow]] spell) for 2d6 rounds, with no saving throw, while transmute mud to rock heals all of its lost hit points.
 
-A [[rangoric-srd/spells/Stone to Flesh|stone to flesh]] spell does not actually change the golem’s structure but negates its [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] and immunity to magic for 1 full round.
+A [[rangoric-srd/spells/Stone to Flesh|stone to flesh]] spell does not actually change the golem’s structure but negates its [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] and immunity to magic for 1 full round.
 
 ## Construction
 

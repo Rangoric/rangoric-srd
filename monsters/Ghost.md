@@ -37,7 +37,7 @@ A ghost uses all the base creature’s statistics and special abilities except a
 
 **Special Attacks**: A ghost retains all the special attacks of the base creature, although those relying on physical contact do not affect nonethereal creatures. The ghost also gains a manifestation ability plus one to three other special attacks as described below. The save DC against a special attack is equal to 10 + 1/2 ghost’s HD + ghost’s Cha modifier unless otherwise noted.
 
-*Corrupting Gaze (Su)*: A ghost can blast living beings with a glance, at a range of up to 30 feet. Creatures that meet the ghost’s [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] must succeed on a Fortitude save or take 2d10 points of damage and 1d4 points of Charisma damage.
+*Corrupting Gaze (Su)*: A ghost can blast living beings with a glance, at a range of up to 30 feet. Creatures that meet the ghost’s [[rangoric-srd/monsters/abilities/Gaze|gaze]] must succeed on a Fortitude save or take 2d10 points of damage and 1d4 points of Charisma damage.
 
 *Corrupting Touch (Su)*: A ghost that hits a living target with its incorporeal touch attack deals 1d6 points of damage. Against ethereal opponents, it adds its Strength modifier to attack and damage rolls. Against nonethereal opponents, it adds its Dexterity modifier to attack rolls only.
 

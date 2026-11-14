@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Pincers +20 melee (2d8+10)
   - **Full Attack**: 2 pincers +20 melee (2d8+10) and 2 claws +18 melee (1d6+5) and bite +18 melee (1d8+5)
   - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], spell-like abilities, summon demon
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 21, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], spell-like abilities, summon demon
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
   - **Saves**: Fort +18, Ref +8, Will +11
   - **Abilities**: Str 31, Dex 10, Con 31, Int 16, Wis 16, Cha 20
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +18 (+20 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +26, [[rangoric-srd/skills/Investigation|Investigation]] +18, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +18, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +18
@@ -73,7 +73,7 @@ Glabrezu have penetrating violet eyes, and their skin color ranges from deep rus
 
 Glabrezu prefer subterfuge to combat. However, if their attempts to entice or deceive fail, these enormous demons attack with a vengeance. They follow a [[rangoric-srd/spells/Confusion|confusion]] attack with melee attacks, hoping to finish off wounded foes with [[rangoric-srd/spells/Chaos Hammer|chaos hammer]] or [[rangoric-srd/spells/Unholy Blight|unholy blight]].
 
-A glabrezu’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A glabrezu’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Improved Grab (Ex)**: To use this ability, a glabrezu must hit a Medium or smaller opponent with a pincer attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 

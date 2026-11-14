@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +6 melee (2d6+2)
   - **Full Attack**: Bite +6 melee (2d6+2) and 2 claws +1 melee (1d4+1)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], ink cloud
-  - **Special Qualities**: All-around vision, darkvision 60 ft., immunity to acid and cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 10 and fire 10
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], ink cloud
+  - **Special Qualities**: All-around vision, darkvision 60 ft., immunity to acid and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10 and fire 10
   - **Saves**: Fort +5, Ref +4, Will +4
   - **Abilities**: Str 14, Dex 13, Con 15, Int 10, Wis 12, Cha 9
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+9 other planes and following tracks, +9 with bindings), [[rangoric-srd/skills/Investigation|Investigation]]+9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +6

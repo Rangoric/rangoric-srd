@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +20 melee (2d8+7) and 2 claws +17 melee (1d8+3)
   - **Space/Reach**: 15 ft./15 ft.
   - **Special Attacks**: Smite, spell-like abilities, summon demon
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 22, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
   - **Saves**: Fort +17, Ref +10, Will +15
   - **Abilities**: Str 25, Dex 13, Con 27, Int 22, Wis 22, Cha 20
   - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +23, [[rangoric-srd/skills/Deception|Deception]] +22, [[rangoric-srd/skills/Emulation|Emulation]] +22 (+24 scrolls), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23 (+25 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +23 (+25 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +22, [[rangoric-srd/skills/Investigation|Investigation]] +23, [[rangoric-srd/skills/Perception|Perception]] +31, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +18, [[rangoric-srd/skills/Theology|Theology]] +23 (+25 scrolls)
@@ -74,7 +74,7 @@ A nalfeshnee is more than 20 feet tall and weighs 8,000 pounds.
 
 When fulfilling their duties in the underworld, nalfeshnees usually disdain combat as being beneath them. Given the opportunity, they succumb to blood lust and do battle. They disable opponents with their smite ability and slaughter them while they can’t fight back.
 
-A nalfeshnee’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A nalfeshnee’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Smite (Su)**: Three times per day a nalfeshnee can create a nimbus of unholy light. When the demon triggers the ability, rainbow-colored beams play around its body. One round later they burst in a 60-foot radius. Any creature within this area must succeed on a DC 22 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 1d10 rounds as visions of its worst fears hound it. The creature receives its full Dexterity and shield bonuses to AC if attacked but can take no actions. Other demons are immune to this effect. The save DC is Charisma-based.
 

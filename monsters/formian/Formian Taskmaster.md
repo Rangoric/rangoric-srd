@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +10 melee (2d4+4 plus poison)
   - **Full Attack**: Sting +10 melee (2d4+4 plus poison) and 2 claws +8 melee (1d6+2)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/spells/Dominate Monster|Dominate monster]], dominated creature, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
-  - **Special Qualities**: Hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 10, fire 10, and sonic 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 21, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Attacks**: [[rangoric-srd/spells/Dominate Monster|Dominate monster]], dominated creature, [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: Hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10, fire 10, and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +7, Ref +8, Will +8
   - **Abilities**: Str 18, Dex 16, Con 14, Int 11, Wis 16, Cha 19
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12 (+14 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
@@ -72,7 +72,7 @@ A taskmaster is about the same size as a warrior.
 
 Taskmasters rely on their dominated slaves to fight for them if at all possible. If necessary, though, they can defend themselves with claws and a poison sting.
 
-A formian taskmaster’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A formian taskmaster’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Dominate Monster (Su)**: A taskmaster can use a [[rangoric-srd/spells/Dominate Monster|dominate monster]] ability as the spell from a 10th-level caster (Will DC 17 negates), although the subject may be of any kind and may be up to Large size. Creatures that successfully save cannot be affected by the same taskmaster’s dominate monster ability for 24 hours. A single taskmaster can dominate up to four subjects at a time. The save DC is Charisma-based.
 

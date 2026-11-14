@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +8 melee (1d4 plus poison)
   - **Full Attack**: Sting +8 melee (1d4 plus poison)
   - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|Alternate form]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/good or silver, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 2, immunity to poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 5
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], spell-like abilities
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good or silver, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, immunity to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 5
   - **Saves**: Fort +3, Ref +6, Will +4
   - **Abilities**: Str 10, Dex 17, Con 10, Int 10, Wis 12, Cha 14
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+9 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +17, [[rangoric-srd/skills/Theology|Theology]] +6
@@ -70,9 +70,9 @@ In its natural form, an imp stands almost 2 feet tall and weighs about 8 pounds.
 
 ## Combat
 
-Imps are craven, but not so timid as to pass up an opportunity for a surprise attack using their [[rangoric-srd/spells/Invisibility|invisibility]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|alternate form]] ability. In its natural form, an imp attacks with the wicked stinger on its tail. It quickly flies out of reach if a foe manages to strike back effectively.
+Imps are craven, but not so timid as to pass up an opportunity for a surprise attack using their [[rangoric-srd/spells/Invisibility|invisibility]] and [[rangoric-srd/monsters/abilities/Alternate Form|alternate form]] ability. In its natural form, an imp attacks with the wicked stinger on its tail. It quickly flies out of reach if a foe manages to strike back effectively.
 
-An imp’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+An imp’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Poison (Ex)**: Injury, Fortitude DC 13, initial damage 1d4 Dex, secondary damage 2d4 Dex. The save DC is Constitution-based and includes a +2 racial bonus.
 

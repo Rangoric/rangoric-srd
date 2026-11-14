@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Gore +12 melee (1d8+12)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: Ferocity
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +8, Ref +5, Will +8
   - **Abilities**: Str 27, Dex 10, Con 17, Int 2, Wis 13, Cha 8
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +14

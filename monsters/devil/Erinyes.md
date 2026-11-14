@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Longsword +14/+9 melee (1d8+5/19–20) or +1 flaming composite longbow (+5 Str bonus) +15/+10 ranged (1d8+6/x3 plus 1d6 fire) or rope +14 ranged (entangle)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Entangle, spell-like abilities, summon devil
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10 and cold 10, see in darkness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, see in darkness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
   - **Saves**: Fort +11, Ref +11, Will +10
   - **Abilities**: Str 21, Dex 21, Con 21, Int 14, Wis 18, Cha 20
   - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +17, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16 (+18 following tracks, +18 with bindings), [[rangoric-srd/skills/Investigation|Investigation]] +14, [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any two) +14, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +17
@@ -74,7 +74,7 @@ Erinyes speak Infernal, Celestial, and Draconic.
 
 Erinyes prefer to engage in combat from a distance. They use [[rangoric-srd/spells/Charm Monster|charm monster]] to distract or disorganize their opponents, then rain down fiery arrows from above.
 
-An erinyes’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+An erinyes’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Entangle (Ex)**: Each erinyes carries a stout rope some 50 feet long that [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangles]] opponents of any size as an [[rangoric-srd/spells/Animate Rope|animate rope]] spell (caster level 16th). An erinyes can hurl its rope 30 feet with no range penalty. Typically, an erinyes entangles a foe, lifts it into the air, and drops it from a great height.
 

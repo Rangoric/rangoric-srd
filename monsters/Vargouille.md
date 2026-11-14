@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +3 melee (1d4 plus poison)
   - **Full Attack**: Bite +3 melee (1d4 plus poison)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Shriek, kiss, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
+  - **Special Attacks**: Shriek, kiss, [[rangoric-srd/monsters/abilities/Poison|poison]]
   - **Special Qualities**: Darkvision 60 ft.
   - **Saves**: Fort +3, Ref +3, Will +3
   - **Abilities**: Str 10, Dex 13, Con 12, Int 5, Wis 12, Cha 8
@@ -70,7 +70,7 @@ Vargouilles speak Infernal.
 
 ### Combat
 
-Vargouilles attack by biting with their jagged teeth. Their special attacks make them even more dangerous. A vargouille’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+Vargouilles attack by biting with their jagged teeth. Their special attacks make them even more dangerous. A vargouille’s natural weapons, as well as any weapons it wields, are treated as evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Shriek (Su)**: Instead of biting, a vargouille can open its distended mouth and let out a terrible shriek. Those within 60 feet (except other vargouilles) who hear the shriek and can clearly see the creature must succeed on a DC 12 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear for 2d4 rounds or until the monster attacks them, goes out of range, or leaves their sight. A paralyzed creature is susceptible to the vargouille’s kiss (see below). A creature that successfully saves cannot be affected again by the same vargouille’s shriek for 24 hours. The shriek is a mind-affecting fear effect. The save DC is Constitution-based and includes a +1 racial bonus.
 

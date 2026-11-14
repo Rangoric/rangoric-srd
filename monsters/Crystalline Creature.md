@@ -83,8 +83,8 @@ This example uses a [[rangoric-srd/monsters/Dragonne|dragonne]] as the base crea
   - **Attack**: Bite +14 melee (2d6+6)
   - **Full Attack**: Bite +14 melee (2d6+6) and 2 claws +9 melee (2d4+3)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|Pounce]], roar, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., elemental traits, low-light vision, resistance to cold 10 and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar, spell-like abilities
+  - **Special Qualities**: Darkvision 60 ft., elemental traits, low-light vision, resistance to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +11, Ref +7, Will +4
   - **Abilities**: Str 23, Dex 13, Con 21, Int 6, Wis 12, Cha 12
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17

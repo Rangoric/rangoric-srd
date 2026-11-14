@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +12 melee (1d3+6 plus poison)
   - **Full Attack**: Bite +12 melee (1d3+6 plus poison)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|Constrict]] 2d8+6, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^psionics|psionics]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^spells|spells]]
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 90 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d8+6, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Psionics (Monster Ability)|psionics]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^spells|spells]]
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 90 ft.
   - **Saves**: Fort +8, Ref +9, Will +10
   - **Abilities**: Str 18, Dex 16, Con 14, Int 17, Wis 19, Cha 17
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +15 (+17 scrolls), [[rangoric-srd/skills/Athletics|Athletics]] +16 (+10 jumping), [[rangoric-srd/skills/Emulation|Emulation]] +15 (+17 scrolls), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16 (+18 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +15, [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any two) +15, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16

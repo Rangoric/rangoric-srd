@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6)
   - **Space/Reach**: 10 ft./10 ft. (50 ft. with strand)
   - **Special Attacks**: Drag, strands, weakness
-  - **Special Qualities**: Darkvision 60 ft., immunity to electricity, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to fire]]
+  - **Special Qualities**: Darkvision 60 ft., immunity to electricity, low-light vision, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
   - **Saves**: Fort +10, Ref +8, Will +8
   - **Abilities**: Str 19, Dex 13, Con 17, Int 12, Wis 16, Cha 12
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +10\*

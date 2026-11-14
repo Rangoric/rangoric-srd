@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: +1 vorpal longsword +31/+26/+21/+16 melee (2d6+8/19–20) and +1 flaming whip +30/+25 melee (1d4+4 plus 1d6 fire plus entangle); or 2 slams +31 melee (1d10+7)
   - **Space/Reach**: 10 ft./10 ft. (20 ft. with +1 flaming whip)
   - **Special Attacks**: Death throes, entangle, spell-like abilities, summon demon, vorpal sword
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 15/cold iron and good, darkvision 60 ft., flaming body, immunity to electricity, fire, and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 28, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/cold iron and good, darkvision 60 ft., flaming body, immunity to electricity, fire, and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
   - **Saves**: Fort +22, Ref +19, Will +19
   - **Abilities**: Str 35, Dex 25, Con 31, Int 24, Wis 24, Cha 26
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +31, [[rangoric-srd/skills/Emulation|Emulation]] +31 (+33 scrolls), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +30 (+32 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +30 (+32 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Investigation|Investigation]] +30, [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any two) +30, [[rangoric-srd/skills/Perception|Perception]] +38, [[rangoric-srd/skills/Persuasion|Persuasion]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +30, [[rangoric-srd/skills/Stealth|Stealth]] +34, [[rangoric-srd/skills/Theology|Theology]] +30 (+32 scrolls)
@@ -74,7 +74,7 @@ Balors love to join battle armed with their swords and whips. If they face stiff
 
 A balor’s +1 flaming whip is a long, flexible weapon with many tails tipped with hooks, spikes, and balls. The weapon deals bludgeoning and slashing damage, in addition to fire damage.
 
-A balor’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A balor’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Death Throes (Ex)**: When killed, a balor explodes in a blinding flash of light that deals 100 points of damage to anything within 100 feet (Reflex DC 30 half ). This explosion automatically destroys any weapons the balor is holding. The save DC is Constitution-based.
 

@@ -45,9 +45,9 @@ A lich has all the base creature’s statistics and special abilities except as 
 
 **Special Qualities**: A lich retains all the base creature’s special qualities and gains those described below.
 
-**Turn Resistance (Ex)**: A lich has +4 [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]].
+**Turn Resistance (Ex)**: A lich has +4 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]].
 
-**Damage Reduction (Su)**: A lich’s undead body is tough, giving the creature [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/bludgeoning and magic. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+**Damage Reduction (Su)**: A lich’s undead body is tough, giving the creature [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and magic. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
 **Immunities (Ex)**: Liches have immunity to cold, electricity, polymorph (though they can use polymorph effects on themselves), and mind-affecting attacks.
 

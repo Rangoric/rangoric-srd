@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Swarm (3d6 plus poison)
   - **Full Attack**: Swarm (3d6 plus poison)
   - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: Distraction, inhabit, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/magic, darkvision 60 ft., hive mind, immune to weapon damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 10, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
+  - **Special Attacks**: Distraction, inhabit, [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., hive mind, immune to weapon damage, [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 10, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]]
   - **Saves**: Fort +10, Ref +14, Will +7
   - **Abilities**: Str 1, Dex 22, Con 14, Int 6, Wis 13, Cha 9
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +22
@@ -71,7 +71,7 @@ A single hellwasp resembles a thumb-sized normal wasp, except its carapace is gl
 
 Like any swarm, a hellwasp swarm seeks to surround and attack any living prey it encounters. A swarm deals 3d6 points of damage to any creature whose space it occupies at the end of its move. The swarm can take over the bodies of its prey and infest both the living and the dead, using them as horrible living (or unliving) puppets to accomplish acts of wickedness that a swarm of insects could never attempt.
 
-A hellwasp swarm’s attack is treated as an evil-aligned weapon and a magic weapon for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A hellwasp swarm’s attack is treated as an evil-aligned weapon and a magic weapon for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Distraction (Ex)**: Any living creature that begins its turn with a hellwasp swarm in its space must succeed on a DC 18 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The save DC is Constitution-based.
 

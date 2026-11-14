@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +10 melee (1d6+4 plus poison) or talon +10 melee (2d6+4) or bite +10 melee (2d8+4)
   - **Full Attack**: Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]]
-  - **Special Qualities**: Darkvision 60 ft., immunity to sleep and paralysis, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+  - **Special Qualities**: Darkvision 60 ft., immunity to sleep and paralysis, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +7, Ref +6, Will +6
   - **Abilities**: Str 19, Dex 12, Con 15, Int 6, Wis 12, Cha 9
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +7

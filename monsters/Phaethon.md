@@ -51,8 +51,8 @@ Base Attack: +62; CMB: +90 (+94 grapple); CMD: 107   
 Attack: pseudopod slam +85 (4d8+24 plus fire damage) melee     
 Full Attack: 8 pseudopod slams +85 (4d8+24 plus fire damage) melee      
 Space/Reach: 20 ft./10 ft.      
-Special Attacks: Fiery touch, fiery overrun, spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]], summon [[rangoric-srd/monsters/elemental/Fire Elemental|elder fire elemental]]      
-Special Qualities: Abomination traits, immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]], oozelike immunities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 25, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 25, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 46, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 15/epic lawful and epic      
+Special Attacks: Fiery touch, fiery overrun, spell-like abilities, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]], summon [[rangoric-srd/monsters/elemental/Fire Elemental|elder fire elemental]]      
+Special Qualities: Abomination traits, immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]], oozelike immunities, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 25, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 25, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 46, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/epic lawful and epic      
 Saves: Fort +48, Ref +42, Will +43      
 Abilities: Str 58, Dex 25, Con 36, Int 8, Wis 18, Cha 39      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +89 (+125 jumping), [[rangoric-srd/skills/Craft|Craft]] (metalworking, stoneworking) +64, [[rangoric-srd/skills/Investigation|Investigation]] +64, [[rangoric-srd/skills/Perception|Perception]] +75, [[rangoric-srd/skills/Society|Society]] +64, [[rangoric-srd/skills/Stealth|Stealth]] +60     
@@ -66,7 +66,7 @@ Treasure: Standard    
 Alignment: Always chaotic evil      
 Advancement: 63-80 HD (Gargantuan); 81-186 HD (Colossal)      
 
-A phaethon’s natural weapons are treated as epic and evil for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A phaethon’s natural weapons are treated as epic and evil for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -86,7 +86,7 @@ At will - [[rangoric-srd/spells/Fireball|fireball]], [[rangoric-srd/spells/Fire 
 
 Summon Elder Fire Elemental (Sp): Phaethons can summon up to ten [[rangoric-srd/monsters/elemental/Fire Elemental|elder fire elementals]] per day.
 
-Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] 20; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
+Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
 Oozelike Immunities (Ex): Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], polymorphing, and mind-influencing effects; not subject to critical hits or flanking; [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blind]].
 

@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Fiendish Creature|Fiendish Creature (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -29,11 +29,11 @@ Smite Good (Su): Once per day the creature can make a normal melee attack to dea
 
   - Darkvision out to 60 feet.
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] (see the table below).
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] (see the table below).
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to cold]] and fire (see the table below).
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance to cold]] and fire (see the table below).
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to the creature’s HD + 5 (maximum 25).
+  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to the creature’s HD + 5 (maximum 25).
 
 If the base creature already has one or more of these special qualities, use the better value.
 

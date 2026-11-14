@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +17 melee (1d6+8 plus 2d6 acid)
   - **Space/Reach**: 15 ft./10 ft.
   - **Special Attacks**: Corrosive slime
-  - **Special Qualities**: Darkvision 60 ft., immunity to acid, [[rangoric-srd/spells/Stone Shape|stone shape]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] 60 ft.
+  - **Special Qualities**: Darkvision 60 ft., immunity to acid, [[rangoric-srd/spells/Stone Shape|stone shape]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
   - **Saves**: Fort +12, Ref +6, Will +11
   - **Abilities**: Str 27, Dex 13, Con 21, Int 14, Wis 14, Cha 12
   - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +20, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +20 (+22 underground), [[rangoric-srd/skills/Nature|Nature]] +2, [[rangoric-srd/skills/Perception|Perception]] +26, [[rangoric-srd/skills/Stealth|Stealth]] +11

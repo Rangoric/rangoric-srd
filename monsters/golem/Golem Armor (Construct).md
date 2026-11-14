@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +15 melee (1d8+6) and 2 wing blades +10 melee (1d12+3); or 2 spikes +14 ranged (1d8+3)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spikes
-  - **Special Qualities**: Closed environment, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 30/magic, heightened senses, magic immunity, synchronize
+  - **Special Qualities**: Closed environment, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 30/magic, heightened senses, magic immunity, synchronize
   - **Saves**: Fort +4, Ref +9, Will +4
   - **Abilities**: Str 23, Dex 20, Con —, Int —, Wis 11, Cha 1
   - **Skills**: —

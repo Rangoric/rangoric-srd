@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +6 melee (1d8+1)
   - **Full Attack**: Slam +6 melee (1d8+1)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Death [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/cold iron, darkvision 60 ft., immunity to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10 and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], vulnerability to sunlight
+  - **Special Attacks**: Death [[rangoric-srd/monsters/abilities/Gaze|gaze]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, darkvision 60 ft., immunity to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], vulnerability to sunlight
   - **Saves**: Fort +3, Ref +5, Will +7
   - **Abilities**: Str 13, Dex 15, Con —, Int 6, Wis 12, Cha 12
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +14

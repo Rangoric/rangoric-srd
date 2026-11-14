@@ -34,7 +34,7 @@ A hydra can be killed either by severing all its heads or by slaying its body. T
 
 Each time a head is severed, two new heads spring from the stump in 1d4 rounds. A hydra can never have more than twice its original number of heads at any one time, and any extra heads it gains beyond its original number wither and die within a day. To prevent a severed head from growing back into two heads, at least 5 points of fire or acid damage must be dealt to the stump (a touch attack to hit) before the new heads appear. A flaming weapon (or similar effect) deals its energy damage to the stump in the same blow in which a head is severed. Fire or acid damage from an area effect may burn multiple stumps in addition to dealing damage to the hydra’s body. A hydra does not die from losing its heads until all its heads have been cut off and the stumps seared by fire or acid.
 
-A hydra’s body can be slain just like any other creature’s, but hydras possess [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] (see below) and are difficult to defeat in this fashion. Any attack that is not (or cannot be) an attempt to sunder a head affects the body.
+A hydra’s body can be slain just like any other creature’s, but hydras possess [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] (see below) and are difficult to defeat in this fashion. Any attack that is not (or cannot be) an attempt to sunder a head affects the body.
 
 Targeted magical effects cannot sever a hydra’s heads (and thus must be directed at the body) unless they deal slashing damage and could be used to make sunder attempts.
 

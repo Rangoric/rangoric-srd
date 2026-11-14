@@ -52,8 +52,8 @@ Base Attack: +72; CMB: +108 (+110 sunder); CMD: 120 (122 vs. sunder)   
 Attack: Claw +95 (2d8+28/19-20) melee     
 Full Attack: 2 claws +95 (2d8+28/19-20) melee, bite +89 (4d6+14) melee, stamp +89 (4d6+14) melee      
 Space/Reach: 50 ft./50 ft.      
-Special Attacks: Rend 4d8+42, cold, spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapon]], summon [[rangoric-srd/monsters/chromatic-dragons/White Dragon|white dragon]], Constitution [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ability-score-loss|drain]]      
-Special Qualities: Abomination traits, cold immunity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|fire vulnerability]], [[rangoric-srd/epic/Epic Feats|dire winter]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 48, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 20/good and epic and adamantine      
+Special Attacks: Rend 4d8+42, cold, spell-like abilities, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], summon [[rangoric-srd/monsters/chromatic-dragons/White Dragon|white dragon]], Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]]      
+Special Qualities: Abomination traits, cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/epic/Epic Feats|dire winter]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 30, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 48, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/good and epic and adamantine      
 Saves: Fort +55, Ref +47, Will +39      
 Abilities: Str 66, Dex 13, Con 40, Int 12, Wis 8, Cha 34      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +76, [[rangoric-srd/skills/Athletics|Athletics]] +103 (+147 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +76, [[rangoric-srd/skills/Perception|Perception]] +80, [[rangoric-srd/skills/Stealth|Stealth]] +60, [[rangoric-srd/skills/Theology|Theology]] +76     
@@ -67,7 +67,7 @@ Treasure: Standard    
 Alignment: Always chaotic evil      
 Advancement: 73-150 HD (Colossal)      
 
-A xixecal’s natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A xixecal’s natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -87,9 +87,9 @@ Summon White Dragon (Sp): Five times per day a xixecal can summon an old [[rango
 
 Constitution Drain (Su): This effect permanently reduces a living opponent’s Constitution score by 4 when the creature hits with a slam, bite, or rend, or twice that amount on a rend or critical hit. The creature heals 20 points of damage (or 40 on a rend or critical hit) whenever it drains Constitution, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 58). The DC is Charisma-based.
 
-Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
+Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
-The standard [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] 20 most abominations have is not shared by xixecales
+The standard [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20 most abominations have is not shared by xixecales
 
 Dire Winter (Su): A xixecal always stands at the center of a permanent [[rangoric-srd/spells/Dire Winter|dire winter]] (epic spell) spell effect. If [[rangoric-srd/spells/Dispel Magic|dispelled]], the effect returns 1 minute later- the only way to permanently remove the effect is to slay the xixecal that generates it.
 

@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +7 melee (1d6+4 plus poison)
   - **Full Attack**: Bite +7 melee (1d6+4 plus poison)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
 
 **Special Qualitiy**: Darkvision 60 ft., [[rangoric-srd/spells/Ethereal Jaunt|ethereal jaunt]], low-light vision
 

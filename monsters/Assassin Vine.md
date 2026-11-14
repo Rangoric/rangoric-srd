@@ -45,8 +45,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +7 melee (1d6+7)
   - **Full Attack**: Slam +7 melee (1d6+7)
   - **Space/Reach**: 10 ft./10 ft. (20 ft. with vine)
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|Constrict]] 1d6+7, [[rangoric-srd/spells/Entangle|entangle]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 30 ft., camouflage, immunity to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10 and fire 10
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 1d6+7, [[rangoric-srd/spells/Entangle|entangle]], [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 30 ft., camouflage, immunity to electricity, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10
   - **Saves**: Fort +7, Ref +1, Will +2
   - **Abilities**: Str 20, Dex 10, Con 16, Int —, Wis 13, Cha 9
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12
