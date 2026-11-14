@@ -1,72 +1,72 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
 size: "Medium"
 creature-type: "Animal"
-hit-dice: "3d8+15 (28 hp)"
-initiative: "+3"
+hit-dice: "3d8+9 (22 hp)"
+initiative: "+6"
 speed: "30 ft. (6 squares), burrow 10 ft."
-armor-class: "16 (+3 Dex, +3 natural), touch 13, flat-footed 13"
+armor-class: "14 (+2 Dex, +2 natural), touch 12, flat-footed 12"
 base-attack: "+2"
 cmb: "+4"
-cmd: "17 (21 vs. trip)"
-attack: "Claw +4 melee (1d4+2)"
-full-attack: "2 claws +4 melee (1d4+2) and bite –1 melee (1d6+1)"
+cmd: "16 (20 vs. trip)"
+attack: "Bite +4 melee (1d4+2) or claw +4 melee (1d3+2)"
+full-attack: "Bite +4 melee (1d4+2) and 2 claws +4 melee (1d3+2)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Rage"
-special-qualities: "Low-light vision, scent"
-saves: "Fort +7, Ref +6, Will +4"
-abilities: "Str 14, Dex 17, Con 19, Int 2, Wis 12, Cha 10"
-skills: "Perception +10"
-skill-ranks: "Perception 3"
-feats: "Skill Focus (Perception), Toughness, Track (B)"
+special-attacks: "Blood rage"
+special-qualities: "Low-light vision, scent, ferocity"
+saves: "Fort +6, Ref +5, Will +2"
+abilities: "Str 14, Dex 15, Con 17, Int 2, Wis 12, Cha 9"
+skills: "Escape Artist +6, Perception +10"
+skill-ranks: "Escape Artist 0, Perception 6"
+feats: "Improved Initiative, Skill Focus (Perception)"
 environment: "Temperate forests"
-organization: "Solitary or cete (2–5)"
+organization: "Solitary, pair, clan (3–5), or cete (2–5)"
 challenge-rating: 2
-treasure: "None"
+treasure: "Incidental"
 alignment: "Always neutral"
 advancement: "4–9 HD (Large)"
 level-adjustment: "—"
+group: "Dire Animal"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Badger, Dire|Badger, Dire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Badger|Dire Badger (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Dire Badger
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 3d8+15 (28 hp)
-  - **Initiative**: +3
+  - **Hit Dice**: 3d8+9 (22 hp)
+  - **Initiative**: +6
   - **Speed**: 30 ft. (6 squares), burrow 10 ft.
-  - **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 17 (21 vs. trip)
-  - **Attack**: Claw +4 melee (1d4+2)
-  - **Full Attack**: 2 claws +4 melee (1d4+2) and bite –1 melee (1d6+1)
+  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+  - **Base Attack**: +2; **CMB**: +4; **CMD**: 16 (20 vs. trip)
+  - **Attack**: Bite +4 melee (1d4+2) or claw +4 melee (1d3+2)
+  - **Full Attack**: Bite +4 melee (1d4+2) and 2 claws +4 melee (1d3+2)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Rage
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +7, Ref +6, Will +4
-  - **Abilities**: Str 14, Dex 17, Con 19, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +10
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Track|Track (B)]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Rage|Blood rage]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Ferocity|ferocity]]
+  - **Saves**: Fort +6, Ref +5, Will +2
+  - **Abilities**: Str 14, Dex 15, Con 17, Int 2, Wis 12, Cha 9
+  - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +6, [[rangoric-srd/skills/Perception|Perception]] +10
+  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Temperate forests
-  - **Organization**: Solitary or cete (2–5)
+  - **Organization**: Solitary, pair, clan (3–5), or cete (2–5)
   - **Challenge Rating**: 2
-  - **Treasure**: None
+  - **Treasure**: Incidental
   - **Alignment**: Always neutral
   - **Advancement**: 4–9 HD (Large)
   - **Level Adjustment**: —
 
-These vicious creatures tolerate no intrusions. They cannot burrow into solid rock, but can move through just about any material softer than that. A dire badger usually leaves behind a usable tunnel 5 feet in diameter when burrowing unless the material it’s moving through is very loose.
+A relentless predator, the violent and territorial dire badger hunts frequently, killing and devouring a variety of easy prey such as rabbits, deer, and occasionally livestock. These creatures are unafraid of attacking creatures larger than they are, drawing upon an almost legendary tenacity that has won them honor and respect among many races, particularly forest-dwelling gnomes.
 
-A dire badger is from 5 to 7 feet in length and can weigh up to 500 pounds.
+Dire badgers reside in deep burrows and warrens dug with their monstrous claws—but unlike typical badgers, a dire badger's claws are capable of tunneling through solid rock. Dire badgers possess little patience for disturbances or interruptions. Utterly fearless creatures, when confronted they attack brutally, and if injured, they violently erupt into a killing frenzy.
 
-## Combat
+Dire badgers stand 4 feet tall at the shoulder, and weigh 500 pounds.
 
-Dire badgers attack with their sharp claws and teeth.
-
-**Rage (Ex)**: A dire badger that takes damage in combat flies into a berserk rage on its next turn, clawing and biting madly until either it or its opponent is dead. It gains +4 Strength, +4 Constitution, and –2 AC. The creature cannot end its rage voluntarily.
+A dire badger usually leaves behind a usable tunnel 5 feet in diameter when burrowing unless the material it’s moving through is very loose.

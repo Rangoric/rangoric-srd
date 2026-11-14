@@ -8,7 +8,7 @@ initiative: "+2"
 speed: "30 ft. (6 squares), swim 30 ft."
 armor-class: "15 (+2 Dex, +3 natural), touch 12, flat-footed 13"
 base-attack: "+2"
-cmb: "+5"
+cmb: "+5 (+9 grapple)"
 cmd: "17 (21 vs. trip)"
 attack: "Bite +5 melee (1d8+4 plus grab and poison)"
 full-attack: "Bite +5 melee (1d8+4 plus grab and poison)"
@@ -44,9 +44,9 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +2
   - **Speed**: 30 ft. (6 squares), swim 30 ft.
   - **Armor Class**: 15 (+2 Dex, +3 natural), touch 12, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +5; **CMD**: 17 (21 vs. trip)
-  - **Attack**: Bite +5 melee (1d8+4 plus grab and poison)
-  - **Full Attack**: Bite +5 melee (1d8+4 plus grab and poison)
+  - **Base Attack**: +2; **CMB**: +5 (+9 grapple); **CMD**: 17 (21 vs. trip)
+  - **Attack**: Bite +5 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Full Attack**: Bite +5 melee (1d8+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]] and [[rangoric-srd/monsters/abilities/Poison|poison]])
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
@@ -68,4 +68,4 @@ Monitor lizards are large enough to pose a threat to humans, and in some societi
 
 Monitor lizards can be aggressive, using their powerful jaws to tear at prey or enemies.
 
-**Poison (Ex)**: Bite—injury; *save* Fort DC 14; *onset* 1 minute; *frequency* 1/hour for 6 hours; *effect* 1d2 Dex damage; *cure* 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 14; *onset* 1 minute; *frequency* 1/hour for 6 hours; *effect* 1d2 Dex damage; *cure* 1 save. The save DC is Constitution-based.

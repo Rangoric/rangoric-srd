@@ -3,10 +3,10 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Vermin"
-hit-dice: "3d8 (13 hp)"
+hit-dice: "3d8+3 (16 hp)"
 initiative: "+2"
-speed: "20 ft. (4 squares), fly 80 ft. (good)"
-armor-class: "14 (+2 Dex, +2 natural), touch 12, flat-footed 12"
+speed: "20 ft. (4 squares), fly 60 ft. (good)"
+armor-class: "13 (+2 Dex, +1 natural), touch 12, flat-footed 11"
 base-attack: "+2"
 cmb: "+2"
 cmd: "14 (22 vs. trip)"
@@ -14,56 +14,64 @@ attack: "Sting +2 melee (1d4 plus poison)"
 full-attack: "Sting +2 melee (1d4 plus poison)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Poison"
-special-qualities: "Darkvision 60 ft., vermin traits"
-saves: "Fort +3, Ref +3, Will +2"
-abilities: "Str 11, Dex 14, Con 11, Int —, Wis 12, Cha 9"
-skills: "Fieldcraft +1*, Perception +11"
-skill-ranks: "Fieldcraft 0, Perception 3"
+special-qualities: "Darkvision 60 ft., immunity to mind-affecting effects, vulnerable to smoke"
+saves: "Fort +4, Ref +3, Will +2"
+abilities: "Str 11, Dex 14, Con 13, Int —, Wis 12, Cha 9"
+skills: "Acrobatics +6"
+skill-ranks: "Acrobatics 1"
 feats: "—"
-environment: "Temperate plains"
-organization: "Solitary, buzz (2–5), or hive (11–20)"
+environment: "Temperate or warm plains"
+organization: "Solitary, group (2–5), nest (6–19), or hive (11–20)"
 challenge-rating: 1
-treasure: "No coins; 1/4 goods (honey only); no items"
+treasure: "Incidental"
+alignment: "Usually neutral"
 advancement: "4–6 HD (Medium); 7–9 HD (Large)"
 level-adjustment: "—"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Bee, Giant|Bee, Giant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Giant Bee|Giant Bee (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Giant Bee
 
-  - Medium Vermin
-  - **Hit Dice**: 3d8 (13 hp)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]]
+  - **Hit Dice**: 3d8+3 (16 hp)
   - **Initiative**: +2
-  - **Speed**: 20 ft. (4 squares), fly 80 ft. (good)
-  - **Armor Class**: 14 (+2 Dex, +2 natural), touch 12, flat-footed 12
+  - **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
+  - **Armor Class**: 13 (+2 Dex, +1 natural), touch 12, flat-footed 11
   - **Base Attack**: +2; **CMB**: +2; **CMD**: 14 (22 vs. trip)
-  - **Attack**: Sting +2 melee (1d4 plus poison)
-  - **Full Attack**: Sting +2 melee (1d4 plus poison)
+  - **Attack**: Sting +2 melee (1d4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Full Attack**: Sting +2 melee (1d4 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Poison
-  - **Special Qualities**: Darkvision 60 ft., vermin traits
-  - **Saves**: Fort +3, Ref +3, Will +2
-  - **Abilities**: Str 11, Dex 14, Con 11, Int —, Wis 12, Cha 9
-  - **Skills**: Fieldcraft +1\*, Perception +11
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects, vulnerable to smoke
+  - **Saves**: Fort +4, Ref +3, Will +2
+  - **Abilities**: Str 11, Dex 14, Con 13, Int —, Wis 12, Cha 9
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6
   - **Feats**: —
-  - **Environment**: Temperate plains
-  - **Organization**: Solitary, buzz (2–5), or hive (11–20)
+  - **Environment**: Temperate or warm plains
+  - **Organization**: Solitary, group (2–5), nest (6–19), or hive (11–20)
   - **Challenge Rating**: 1
-  - **Treasure**: No coins; 1/4 goods (honey only); no items
+  - **Treasure**: Incidental
+  - **Alignment**: Usually neutral
   - **Advancement**: 4–6 HD (Medium); 7–9 HD (Large)
   - **Level Adjustment**: —
 
-Although many times larger, growing to a length of about 5 feet, giant bees behave generally the same as their smaller cousins.
+Like their smaller cousins, giant bees fill their ecological niche by playing matchmaker for a vast array of flowering plant life. As a giant bee feeds on plant nectars, clumps of pollen attach to the coarse hairs covering its body and legs.
+
+Giant bees grow to approximately 5 feet in length, with a similar wingspan. These creatures weigh 60 pounds and live in their adult form for nearly 10 years. Giant bees' stingers are not barbed like those of their diminutive counterparts, so these creatures can sting foes repeatedly and do not die after one sting.
+
+**Giant Bumblebee (CR 2)**: These bulky and aggressive giant bees have the advanced creature simple template. Their venom is deadly, and deals Constitution damage rather than Strength damage.
 
 Giant bees are usually not aggressive except when defending themselves or their hive.
 
-**Poison (Ex)**: Injury, Fortitude DC 11, initial and secondary damage 1d4 Con. The save DC is Constitution-based.
+### Combat
 
-A giant bee that successfully stings another creature pulls away, leaving its stinger in the creature. The bee then dies.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; *save* Fort DC 12; *frequency* 1/round for 4 rounds; *effect* 1d2 Str; *cure* 1 save.
 
-**Skills**: Giant bees have a +4 racial bonus on Perception checks. \*They also have a +4 racial bonus on Fieldcraft checks to orient themselves.
+**Vulnerable to Smoke (Ex)**: Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] if it fails a DC 14 Fortitude save. This condition persists as long as the giant bee remains in the smoke, plus 1d4 rounds.
