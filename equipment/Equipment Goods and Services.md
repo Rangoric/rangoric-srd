@@ -119,6 +119,7 @@ tags: [rangoric, rangoric/overview]
 | Alchemist’s lab                | 500 gp  | 40 lb.    |
 | Artisan’s tools                | 5 gp    | 5 lb.     |
 | Artisan’s tools, masterwork    | 55 gp   | 5 lb.     |
+| [[rangoric-srd/rules/traps/Bear Trap\|Bear trap]] | 2 gp    | 10 lb.    |
 | Climber’s kit                  | 80 gp   | 5 lb. (1) |
 | Disguise kit                   | 50 gp   | 8 lb. (1) |
 | Healer’s kit                   | 50 gp   | 1 lb.     |

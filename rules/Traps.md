@@ -3,6 +3,8 @@ srd-type: "overview"
 section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/Traps|Traps (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/environment/Traps#Trigger|Traps (PF1)]]"
+  - "[[path srd 3.5/traps/Insanity Mist Trap|Insanity Mist Trap (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -68,6 +70,8 @@ If you want the trap to “see” in the dark, you must either choose the true s
 **Timed**: This trigger periodically springs the trap after a certain duration has passed.
 
 **Spell**: All spell traps have this kind of trigger. The appropriate spell descriptions explain the trigger conditions for traps that contain spell triggers.
+
+**Duration**: Unless a trap says otherwise, its duration is instantaneous: once triggered, it has its effect and then stops. Some traps have a duration in rounds. Such a trap keeps having its listed effect each round at the top of the initiative order (or on the initiative count when it was triggered, if that was during combat).
 
 ###### Reset
 
@@ -175,15 +179,29 @@ Some traps include optional features that can make them considerably more deadly
 
 ##### Sample Traps
 
-The costs listed for mechanical traps are market prices; those for magic traps are raw material costs. Caster level and class for the spells used to produce the trap effects are provided in the entries for magic device traps and spell traps. For all other spells used (in triggers, for example), the caster level is assumed to be the minimum required.
+The costs listed for mechanical traps are market prices; those for magic traps are raw material costs. A trap whose name is a link has a note of its own with its full entry, and lists no cost. Caster level and class for the spells used to produce the trap effects are provided in the entries for magic device traps and spell traps. For all other spells used (in triggers, for example), the caster level is assumed to be the minimum required.
+
+###### CR 1/3 Traps
+
+**[[rangoric-srd/rules/traps/Tripwire Trap|Tripwire Trap]]**: CR 1/3; mechanical; location trigger; automatic reset. Its full entry is in its note.
 
 ###### CR 1 Traps
 
+**[[rangoric-srd/rules/traps/Arrow Trap|Arrow Trap]]**: CR 1; mechanical; touch trigger; no reset. Its full entry is in its note.
+
 **Basic Arrow Trap**: CR 1; mechanical; proximity trigger; manual reset; Atk +10 ranged (1d6/x3, arrow); Investigation DC 20; Engineering DC 20. Market Price: 2,000 gp.
+
+**[[rangoric-srd/rules/traps/Bear Trap|Bear Trap]]**: CR 1; mechanical; location trigger; manual reset. Its full entry is in its note.
 
 **Camouflaged Pit Trap**: CR 1; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 10 ft. deep (1d6, fall); Investigation DC 24; Engineering DC 20. Market Price: 1,800 gp.
 
 **Deeper Pit Trap**: CR 1; mechanical; location trigger; manual reset; hidden switch bypass (Investigation DC 25); DC 15 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 20; Engineering DC 23. Market Price: 1,300 gp.
+
+**[[rangoric-srd/rules/traps/Dragonfire Trap|Dragonfire Trap]]**: CR 1; mechanical; location trigger; no reset. Its full entry is in its note.
+
+**[[rangoric-srd/rules/traps/Ensnaring Dirt Trap|Ensnaring Dirt Trap]]**: CR 1; mechanical; location trigger; manual reset. Its full entry is in its note.
+
+**[[rangoric-srd/rules/traps/Ettercap Noose|Ettercap Noose]]**: CR 1; mechanical; location trigger; repair reset. Its full entry is in its note.
 
 **Fusillade of Darts**: CR 1; mechanical; location trigger; manual reset; Atk +10 ranged (1d4+1, dart); multiple targets (fires 1d4 darts at each target in two adjacent 5-ft. squares); Investigation DC 14; Engineering DC 20. Market Price: 500 gp.
 
@@ -201,11 +219,15 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Spear Trap**: CR 1; mechanical; location trigger; manual reset; Atk +12 ranged (1d8/x3, spear); Investigation DC 20; Engineering DC 20. Note: 200-ft. max range, target determined randomly from those in its path. Market Price: 1,200 gp.
 
+**[[rangoric-srd/rules/traps/Swinging Axe Trap|Swinging Axe Trap]]**: CR 1; mechanical; location trigger; manual reset. Its full entry is in its note.
+
 **Swinging Block Trap**: CR 1; mechanical; touch trigger; manual reset; Atk +5 melee (4d6, stone block); Investigation DC 20; Engineering DC 20. Market Price: 500 gp.
 
 **Wall Blade Trap**: CR 1; mechanical; touch trigger; automatic reset; hidden switch bypass (Investigation DC 25); Atk +10 melee (2d4/x4, scythe); Investigation DC 22; Engineering DC 22. Market Price: 2,500 gp.
 
 ###### CR 2 Traps
+
+**[[rangoric-srd/rules/traps/Acid Drop Trap|Acid Drop Trap]]**: CR 2; mechanical; location trigger; no reset. Its full entry is in its note.
 
 **Box of Brown Mold**: CR 2; mechanical; touch trigger (opening the box); automatic reset; 5-ft. cold aura (3d6, cold nonlethal); Investigation DC 22; Engineering DC 16. Market Price: 3,000 gp.
 
@@ -214,6 +236,10 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 **Burning Hands Trap**: CR 2; magic device; proximity trigger (alarm); automatic reset; spell effect (burning hands, 1st-level wizard, 1d4 fire, DC 11 Reflex save half damage); Investigation DC 26; Engineering DC 26. Cost: 500 gp, 40 XP.
 
 **Camouflaged Pit Trap**: CR 2; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 24; Engineering DC 19. Market Price: 3,400 gp.
+
+**[[rangoric-srd/rules/traps/Dragon Dung Pit Trap|Dragon Dung Pit Trap]]**: CR 2; mechanical; location trigger; manual reset. Its full entry is in its note.
+
+**[[rangoric-srd/rules/traps/Ettercap Spear Trap|Ettercap Spear Trap]]**: CR 2; mechanical; location trigger; repair reset. Its full entry is in its note.
 
 **Inflict Light Wounds Trap**: CR 2; magic device; touch trigger; automatic reset; spell effect (inflict light wounds, 1st-level cleric, 1d8+1, DC 11 Will save half damage); Investigation DC 26; Engineering DC 26. Cost: 500 gp, 40 XP.
 
@@ -239,6 +265,10 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Ceiling Pendulum**: CR 3; mechanical; timed trigger; automatic reset; Atk +15 melee (1d12+8/x3, greataxe); Investigation DC 15; Engineering DC 27. Market Price: 14,100 gp.
 
+**[[rangoric-srd/rules/traps/Ettercap Deadfall|Ettercap Deadfall]]**: CR 3; mechanical; location trigger; repair reset. Its full entry is in its note.
+
+**[[rangoric-srd/rules/traps/Falling Log Trap|Falling Log Trap]]**: CR 3; mechanical; location trigger; repair reset. Its full entry is in its note.
+
 **Fire Trap**: CR 3; spell; spell trigger; no reset; spell effect (fire trap, 3rd-level druid, 1d4+3 fire, DC 13 Reflex save half damage); Investigation DC 27; Engineering DC 27. Cost: 85 gp to hire NPC spellcaster.
 
 **Extended Bane Trap**: CR 3; magic device; proximity trigger (detect good); automatic reset; spell effect (extended bane, 3rd-level cleric, DC 13 Will save negates); Investigation DC 27; Engineering DC 27. Cost: 3,500 gp, 280 XP.
@@ -253,6 +283,8 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Poisoned Arrow Trap**: CR 3; mechanical; touch trigger; manual reset; lock bypass (Sleight of Hand DC 30); Atk +12 ranged (1d8 plus poison, arrow); poison (Large monstrous scorpion venom, DC 14 Fortitude save resists, 1d4 Con/1d4 Con); Investigation DC 19; Engineering DC 15. Market Price: 2,900 gp.
 
+**[[rangoric-srd/rules/traps/Snake Spear Trap|Snake Spear Trap]]**: CR 3; mechanical; location trigger; repair reset. Its full entry is in its note.
+
 **Spiked Pit Trap**: CR 3; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 20 ft. deep (2d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+2 each); Investigation DC 21; Engineering DC 20. Market Price: 3,600 gp.
 
 **Stone Blocks from Ceiling**: CR 3; mechanical; location trigger; repair reset; Atk +10 melee (4d6, stone blocks); Investigation DC 25; Engineering DC 20. Market Price: 5,400 gp.
@@ -265,6 +297,8 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Collapsing Column**: CR 4; mechanical; touch trigger (attached); no reset; Atk +15 melee (6d6, stone blocks); Investigation DC 20; Engineering DC 24. Market Price: 8,800 gp.
 
+**[[rangoric-srd/rules/traps/Electricity Arc Trap|Electricity Arc Trap]]**: CR 4; mechanical; touch trigger; no reset. Its full entry is in its note.
+
 **Glyph of Warding (Blast)**: CR 4; spell; spell trigger; no reset; spell effect (glyph of warding \[blast\], 5th-level cleric, 2d8 acid, DC 14 Reflex save half damage); multiple targets (all targets within 5 ft.); Investigation DC 28; Engineering DC 28. Cost: 350 gp to hire NPC spellcaster.
 
 **Lightning Bolt Trap**: CR 4; magic device; proximity trigger (alarm); automatic reset; spell effect (lightning bolt, 5th-level wizard, 5d6 electricity, DC 14 Reflex save half damage); Investigation DC 28; Engineering DC 28. Cost: 7,500 gp, 600 XP.
@@ -272,6 +306,8 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 **Pit Trap**: CR 4; mechanical, location trigger; manual reset; DC 20 Reflex save avoids; 80 ft. deep (8d6, fall); Investigation DC 20; Engineering DC 20. Market Price: 4,000 gp.
 
 **Poisoned Dart Trap**: CR 4; mechanical; location trigger; manual reset; Atk +15 ranged (1d4+4 plus poison, dart); multiple targets (1 dart per target in a 10-ft.-by-10-ft. area); poison (Small monstrous centipede poison, DC 10 Fortitude save resists, 1d2 Dex/1d2 Dex); Investigation DC 21; Engineering DC 22. Market Price: 12,090 gp.
+
+**[[rangoric-srd/rules/traps/Rotting Badger Under a Falling Rock Trap|Rotting Badger Under a Falling Rock Trap]]**: CR 4; mechanical; location trigger; repair reset. Its full entry is in its note.
 
 **Sepia Snake Sigil Trap**: CR 4; spell; spell trigger; no reset; spell effect (sepia snake sigil, 5th-level wizard, DC 14 Reflex save negates); Investigation DC 28; Engineering DC 28. Cost: 650 gp to hire NPC spellcaster.
 
@@ -349,6 +385,8 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Black Tentacles Trap**: CR 7; magic device; proximity trigger (alarm); no reset; spell effect (black tentacles, 7th-level wizard, 1d4+7 tentacles, Atk +7 melee \[1d6+4, tentacle\]); multiple targets (up to six tentacles per target in each of two adjacent 5-ft. squares); Investigation DC 29; Engineering DC 29. Cost: 1,400 gp, 112 XP.
 
+**[[rangoric-srd/rules/traps/Frost Fangs Trap|Frost Fangs Trap]]**: CR 7; mechanical; location trigger; no reset. Its full entry is in its note.
+
 **Fusillade of Greenblood Oil Darts**: CR 7; mechanical; location trigger; manual reset; Atk +18 ranged (1d4+1 plus poison, dart); poison (greenblood oil, DC 13 Fortitude save resists, 1 Con/ 1d2 Con); multiple targets (1d8 darts per target in a 10-ft.-by-10-ft. area); Investigation DC 25; Engineering DC 25. Market Price: 33,000 gp.
 
 **Lock Covered in Dragon Bile**: CR 7; mechanical; touch trigger (attached); no reset; poison (dragon bile, DC 26 Fortitude save resists, 3d6 Str/0); Investigation DC 27; Engineering DC 16. Market Price: 11,300 gp.
@@ -361,13 +399,15 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 ###### CR 8 Traps
 
+**[[rangoric-srd/rules/traps/Camouflaged Spiked Pit Trap|Camouflaged Spiked Pit Trap]]**: CR 8; mechanical; location trigger; manual reset. Its full entry is in its note.
+
 **Deathblade Wall Scythe**: CR 8; mechanical; touch trigger; manual reset; Atk +16 melee (2d4+8 plus poison, scythe); poison (deathblade, DC 20 Fortitude save resists, 1d6 Con/2d6 Con); Investigation DC 24; Engineering DC 19. Market Price: 31,400 gp.
 
 **Destruction Trap**: CR 8; magic device; touch trigger (alarm); automatic reset; spell effect (destruction, 13th-level cleric, DC 20 Fortitude save for 10d6 damage); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
 
 **Earthquake Trap**: CR 8; magic device; proximity trigger (alarm); automatic reset; spell effect (earthquake, 13th-level cleric, 65-ft. radius, DC 15 or 20 Reflex save, depending on terrain); Investigation DC 32; Engineering DC 32. Cost: 45,500 gp, 3,640 XP.
 
-**Insanity Mist Vapor Trap**: CR 8; mechanical; location trigger; repair reset; gas; never miss; onset delay (1 round); poison (insanity mist, DC 15 Fortitude save resists, 1d4 Wis/2d6 Wis); multiple targets (all targets in a 10-ft.-by-10-ft. room); Investigation DC 25; Engineering DC 20. Market Price: 23,900 gp.
+**Insanity Mist Vapor Trap**: CR 8; mechanical; location trigger; repair reset; gas; never miss; onset delay (1 round); poison (insanity mist, DC 15 Fortitude save resists, 1d4 Wis/2d6 Wis); multiple targets (all targets in a 10-ft.-by-10-ft. room); Investigation DC 25; Engineering DC 20. Market Price: 23,900 gp. Note: Also called an insanity mist trap.
 
 **Acid Arrow Trap**: CR 8; magic device; visual trigger (true seeing); automatic reset; multiple traps (two simultaneous acid arrow traps); Atk +9 ranged touch and +9 ranged touch; spell effect (acid arrow, 18th-level wizard, 2d4 acid damage for 7 rounds); Investigation DC 27; Engineering DC 27. Cost: 83,500 gp, 4,680 XP. Note: This trap is really two CR 6 acid arrow traps that fire simultaneously, using the same trigger and reset.
 
@@ -387,13 +427,19 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 
 **Dropping Ceiling**: CR 9; mechanical; location trigger; repair reset; ceiling moves down (12d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (1 round); Investigation DC 20; Engineering DC 16. Market Price: 12,600 gp.
 
+**[[rangoric-srd/rules/traps/Hail of Arrows Trap|Hail of Arrows Trap]]**: CR 9; mechanical; visual trigger (arcane eye); repair reset. Its full entry is in its note.
+
 **Incendiary Cloud Trap**: CR 9; magic device; proximity trigger (alarm); automatic reset; spell effect (incendiary cloud, 15th-level wizard, 4d6/round for 15 rounds, DC 22 Reflex save half damage); Investigation DC 33; Engineering DC 33. Cost: 60,000 gp, 4,800 XP.
+
+**[[rangoric-srd/rules/traps/Shocking Floor Trap|Shocking Floor Trap]]**: CR 9; magic; proximity trigger (alarm); no reset. Its full entry is in its note.
 
 **Wide-Mouth Pit Trap**: CR 9; mechanical; location trigger; manual reset; DC 25 Reflex save avoids; 100 ft. deep (10d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); Investigation DC 25; Engineering DC 25. Market Price: 40,500 gp.
 
 **Wide-Mouth Spiked Pit with Poisoned Spikes**: CR 9; mechanical; location trigger; manual reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); DC 20 Reflex save avoids; 70 ft. deep (7d6, fall); multiple targets (all targets within a 10-ft.-by-10-ft. area); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (giant wasp poison, DC 14 Fortitude save resists, 1d6 Dex/1d6 Dex); Investigation DC 20; Engineering DC 20. Market Price: 11,910 gp.
 
 ###### CR 10 Traps
+
+**[[rangoric-srd/rules/traps/Chamber of Blades Trap|Chamber of Blades Trap]]**: CR 10; mechanical; location trigger; repair reset. Its full entry is in its note.
 
 **Crushing Room**: CR 10; mechanical; location trigger; automatic reset; walls move together (16d6, crush); multiple targets (all targets in a 10-ft.-by-10-ft. room); never miss; onset delay (2 rounds); Investigation DC 22; Engineering DC 20. Market Price: 29,000 gp.
 
@@ -406,6 +452,42 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 **Poisoned Spiked Pit Trap**: CR 10; mechanical; location trigger; manual reset; hidden lock bypass (Investigation DC 25, Sleight of Hand DC 30); DC 20 Reflex save avoids; 50 ft. deep (5d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); pit spikes (Atk +10 melee, 1d4 spikes per target for 1d4+5 plus poison each); poison (purple worm poison, DC 24 Fortitude save resists, 1d6 Str/2d6 Str); Investigation DC 16; Engineering DC 25. Market Price: 19,700 gp.
 
 **Wail of the Banshee Trap**: CR 10; magic device; proximity trigger (alarm); automatic reset; spell effect (wail of the banshee, 17th-level wizard, DC 23 Fortitude save negates); multiple targets (up to 17 creatures); Investigation DC 34; Engineering DC 34. Cost: 76,500 gp, 6,120 XP.
+
+###### CR 11 Traps
+
+**[[rangoric-srd/rules/traps/Cone of Cold Trap|Cone of Cold Trap]]**: CR 11; magic; proximity trigger (alarm); no reset. Its full entry is in its note.
+
+###### CR 12 Traps
+
+**[[rangoric-srd/rules/traps/Poisoned Pit Trap|Poisoned Pit Trap]]**: CR 12; mechanical; location trigger; manual reset. Its full entry is in its note.
+
+###### CR 13 Traps
+
+**[[rangoric-srd/rules/traps/Maximized Fireball Trap|Maximized Fireball Trap]]**: CR 13; magic; proximity trigger (alarm); no reset. Its full entry is in its note.
+
+###### CR 14 Traps
+
+**[[rangoric-srd/rules/traps/Harm Trap|Harm Trap]]**: CR 14; magic; touch trigger; no reset. Its full entry is in its note.
+
+###### CR 15 Traps
+
+**[[rangoric-srd/rules/traps/Crushing Stone Trap|Crushing Stone Trap]]**: CR 15; mechanical; location trigger; manual reset. Its full entry is in its note.
+
+###### CR 16 Traps
+
+**[[rangoric-srd/rules/traps/Empowered Disintegrate Trap|Empowered Disintegrate Trap]]**: CR 16; magic; visual trigger (true seeing); no reset. Its full entry is in its note.
+
+###### CR 17 Traps
+
+**[[rangoric-srd/rules/traps/Lightning Bolt Gallery Trap|Lightning Bolt Gallery Trap]]**: CR 17; magic; proximity trigger (alarm); no reset. Its full entry is in its note.
+
+###### CR 18 Traps
+
+**[[rangoric-srd/rules/traps/Deadly Spear Trap|Deadly Spear Trap]]**: CR 18; mechanical; visual trigger (true seeing); manual reset. Its full entry is in its note.
+
+###### CR 19 Traps
+
+**[[rangoric-srd/rules/traps/Meteor Swarm Trap|Meteor Swarm Trap]]**: CR 19; magic; visual trigger (true seeing); no reset. Its full entry is in its note.
 
 ##### Designing a Trap
 
