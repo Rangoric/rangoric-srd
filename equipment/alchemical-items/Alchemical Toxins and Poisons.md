@@ -20,25 +20,25 @@ Every toxin and poison of the alchemical and herbal catalog, grouped by how it i
 |---|---|---|---|---|---|
 | [[rangoric-srd/equipment/alchemical-items/Atheists’ Paste\|Atheists’ Paste]] | Unguent | 1d4 points of damage/round; Blindness and nausea (Fortitude save at –2 for 1d4 rounds) | 1d4 points/round as long as vapor exists (1d12 or as in contact) | 3 | 16/15 |
 | [[rangoric-srd/equipment/alchemical-items/Ink of Scribes’ Reprisal\|Ink of Scribes’ Reprisal]] | Chymical | Nausea for 1d6 rounds | 2d12 points of nonlethal damage | 1 | 12/15 |
-| [[rangoric-srd/rules/Afflictions#Poison\|Malyss root paste]] # | — | 1 Dex | 2d4 Dex | 2 | 14/16 |
+| [[rangoric-srd/rules/afflictions/Malyss Root Paste\|Malyss root paste]] # | — | 1 Dex | 2d4 Dex | 2 | 14/16 |
 | [[rangoric-srd/equipment/alchemical-items/Skinfernal Powder\|Skinfernal Powder]] | Powder | 1d4 Cha | 2d4 Cha | 3 | 16/16 |
-| [[rangoric-srd/rules/Afflictions#Poison\|Terinav Root]] # | — | 1d6 Dex | 2d6 Dex | 2 | 14/16 |
+| [[rangoric-srd/rules/afflictions/Terinav Root\|Terinav Root]] # | — | 1d6 Dex | 2d6 Dex | 2 | 14/16 |
 
 ## Ingested
 
 | Poison | Classification | Initial damage | Secondary damage | CL | DC (create/resist) |
 |---|---|---|---|---|---|
-| [[rangoric-srd/rules/Afflictions#Poison\|Oil of taggit]] # | — | 0 | Unconsciousness | 1 | 12/15 |
+| [[rangoric-srd/rules/afflictions/Oil of Taggit\|Oil of taggit]] # | — | 0 | Unconsciousness | 1 | 12/15 |
 | [[rangoric-srd/equipment/alchemical-items/Lurking Menace Toxin\|Lurking Menace Toxin]] | Ingestible | Nausea (Fortitude save at –1, for 1d6 rounds) | 1d6 points of damage/1d4 damage | 3 | 16/18 |
 | [[rangoric-srd/equipment/alchemical-items/Potion of Patient Vengeance\|Potion of Patient Vengeance]] | Ingestible | Special (see entry in item’s note) | Special (see entry in item’s note) | 6 | 22/20 |
-| [[rangoric-srd/rules/Afflictions#Poison\|Striped Toadstool]] # | — | 1 Wis | 2d6 Wis + 1d4 Int | 1 | 10/11 |
+| [[rangoric-srd/rules/afflictions/Striped Toadstool\|Striped Toadstool]] # | — | 1 Wis | 2d6 Wis + 1d4 Int | 1 | 10/11 |
 
 ## Inhaled
 
 | Poison | Classification | Initial damage | Secondary damage | CL | DC (create/resist) |
 |---|---|---|---|---|---|
-| [[rangoric-srd/rules/Afflictions#Poison\|Burnt othur fumes]] # | — | 1 Con\* | 3d6 Con | 2 | 15/18 |
-| [[rangoric-srd/rules/Afflictions#Poison\|Insanity Mist]] # | — | 1d4 Wis | 2d6 Wis | 2 | 14/15 |
+| [[rangoric-srd/rules/afflictions/Burnt Othur Fumes\|Burnt othur fumes]] # | — | 1 Con\* | 3d6 Con | 2 | 15/18 |
+| [[rangoric-srd/rules/afflictions/Insanity Mist\|Insanity Mist]] # | — | 1d4 Wis | 2d6 Wis | 2 | 14/15 |
 | [[rangoric-srd/equipment/alchemical-items/Silentscent Powder\|Silentscent Powder]] | Powder | Renders victim mute for 1d3 hours | Unconsciousness (throat constriction) | 4 | 17/18 |
 | [[rangoric-srd/equipment/alchemical-items/Throatsprout Mist\|Throatsprout Mist]] | Erlcana | Nausea for 1d4 rounds; 1d3 Con | Unconsciousness and 2d4 Con | 3 | 16/20 |
 
@@ -46,7 +46,7 @@ Every toxin and poison of the alchemical and herbal catalog, grouped by how it i
 
 | Poison | Classification | Initial damage | Secondary damage | CL | DC (create/resist) |
 |---|---|---|---|---|---|
-| [[rangoric-srd/rules/Afflictions#Poison\|Bloodroot]] # | — | 0 | 1d4 Con + 1d3 Wis | 1 | 12/12 |
-| [[rangoric-srd/rules/Afflictions#Poison\|Deathblade]] # | — | 1d6 Con | 2d6 Con | 4 | 17/20 |
+| [[rangoric-srd/rules/afflictions/Bloodroot\|Bloodroot]] # | — | 0 | 1d4 Con + 1d3 Wis | 1 | 12/12 |
+| [[rangoric-srd/rules/afflictions/Deathblade\|Deathblade]] # | — | 1d6 Con | 2d6 Con | 4 | 17/20 |
 | [[rangoric-srd/equipment/alchemical-items/Oil of Ichorage\|Oil of Ichorage]] | Unguent | 1 Str\* | 1d8 points of damage each round for 1d4 rounds | 4 | 17/18 |
 | [[rangoric-srd/equipment/alchemical-items/Royalscar Toxin\|Royalscar Toxin]] | Chymical | Paralysis (Fortitude save at –4) | 1d2 Con\* | 5 | 18/18 |
