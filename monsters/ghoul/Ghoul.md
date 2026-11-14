@@ -71,7 +71,7 @@ Ghouls speak the languages they spoke in life (usually Common).
 
 Ghouls try to attack with surprise whenever possible. They strike from behind tombstones and burst from shallow graves.
 
-**Ghoul Fever (Su)**: [[rangoric-srd/rules/Special Abilities and Conditions#Disease|Disease]] - bite, Fortitude DC 12, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
+**Ghoul Fever (Su)**: [[rangoric-srd/rules/Afflictions#Disease|Disease]] - bite, Fortitude DC 12, incubation period 1 day, damage 1d3 Con and 1d3 Dex. The save DC is Charisma-based.
 
 An afflicted humanoid who dies of ghoul fever rises as a ghoul at the next midnight. A humanoid who becomes a ghoul in this way retains none of the abilities it possessed in life. It is not under the control of any other ghouls, but it hungers for the flesh of the living and behaves like a normal ghoul in all respects. A humanoid of 4 Hit Dice or more rises as a ghast, not a ghoul.
 

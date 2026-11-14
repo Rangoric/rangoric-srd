@@ -72,7 +72,7 @@ When faced with potential danger, a phasm is equally likely to retreat, parley, 
 
 If pursued or harassed, a phasm transforms into the most fearsome creature it knows and attacks. When seriously hurt, it changes to some fast or agile form and tries to escape.
 
-**Amorphous (Ex)**: A phasm in its natural form has immunity to [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], polymorph, and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]] effects. It is not subject to critical hits and, having no clear front or back, cannot be flanked.
+**Amorphous (Ex)**: A phasm in its natural form has immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], polymorph, and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]] effects. It is not subject to critical hits and, having no clear front or back, cannot be flanked.
 
 **Resilient (Ex)**: A phasm has a +4 racial bonus on Fortitude and Reflex saves (included in the statistics block).
 

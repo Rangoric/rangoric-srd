@@ -17,4 +17,4 @@ You can concoct potent brews.
 
 **Prerequisites**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) 1 rank, [[rangoric-srd/skills/Profession|Profession]] (brewer) 1 rank, [[rangoric-srd/races/Dwarf|dwarf]].
 
-**Benefit**: You gain a +2 bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Profession|Profession]] (brewer) checks, and you add +1 to the DC of any [[rangoric-srd/rules/Special Abilities and Conditions#^ingested-poison|ingested poison]] you create.
+**Benefit**: You gain a +2 bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Profession|Profession]] (brewer) checks, and you add +1 to the DC of any [[rangoric-srd/rules/Afflictions#^ingested-poison|ingested poison]] you create.

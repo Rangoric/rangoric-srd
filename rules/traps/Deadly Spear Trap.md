@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 30 to disable
 - **Trigger**: visual (*[[rangoric-srd/spells/True Seeing|true seeing]]*)
 - **Reset**: manual
-- **Effect**: Atk +20 ranged (1d8+6 plus [[rangoric-srd/rules/Special Abilities and Conditions#^table-poisons|black lotus extract]])
+- **Effect**: Atk +20 ranged (1d8+6 plus [[rangoric-srd/rules/Afflictions#^table-poisons|black lotus extract]])

@@ -39,7 +39,7 @@ Duergar characters possess the following racial traits.
 
   - Darkvision out to 120 feet.
 
-  - Immunity to [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], phantasms, and [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]].
+  - Immunity to [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], phantasms, and [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
   - \+2 racial bonus on saves against spells and spell-like effects.
 

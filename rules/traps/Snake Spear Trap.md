@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 20 to disable
 - **Trigger**: location
 - **Reset**: repair
-- **Effect**: Atk +15 ranged (1d8+6 plus [[rangoric-srd/rules/Special Abilities and Conditions#^table-poisons|black adder venom]])
+- **Effect**: Atk +15 ranged (1d8+6 plus [[rangoric-srd/rules/Afflictions#^table-poisons|black adder venom]])

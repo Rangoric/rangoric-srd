@@ -173,7 +173,7 @@ A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the lion totem does 
 
 A [[rangoric-srd/classes/Barbarian|barbarian]] dedicated to the serpent totem does not gain the standard fast movement, uncanny dodge, trap sense, and improved uncanny dodge barbarian class features, and instead gains the following abilities.
 
-  - At 1st level, a serpent-totem barbarian gains a +2 bonus on Fortitude saves against [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]].
+  - At 1st level, a serpent-totem barbarian gains a +2 bonus on Fortitude saves against [[rangoric-srd/rules/Afflictions#Poison|poison]].
   - A 2nd-level serpent-totem barbarian gains a +2 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
   - At 3rd level, a serpent-totem barbarian gains [[rangoric-srd/feats/Improved Grapple|Improved Grapple]] as a bonus feat, even if he doesn't meet the normal prerequisites.
   - A serpent-totem barbarian gains [[rangoric-srd/feats/Improved Initiative|Improved Initiative]] as a bonus feat at 5th level.

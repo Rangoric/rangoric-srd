@@ -76,6 +76,6 @@ All of the following are class features of the dwarf paragon class.
 
 **Improved Darkvision (Ex):** At 2nd level, a dwarf paragon's darkvision range increases by 30 feet. ^dwarf-paragon-improved-darkvision
 
-**Save Bonus (Ex):** A 2nd-level dwarf paragon's racial bonus on saves against [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]] and against spells and spell-like effects increases by 1. ^dwarf-paragon-save-bonus
+**Save Bonus (Ex):** A 2nd-level dwarf paragon's racial bonus on saves against [[rangoric-srd/rules/Afflictions#Poison|poison]] and against spells and spell-like effects increases by 1. ^dwarf-paragon-save-bonus
 
 **Ability Boost (Ex):** At 3rd level, a dwarf paragon's Constitution score increases by 2 points. ^dwarf-paragon-ability-boost

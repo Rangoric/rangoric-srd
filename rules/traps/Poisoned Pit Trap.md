@@ -22,4 +22,4 @@ A sample trap; how traps work, and what each line means, is in [[rangoric-srd/ru
 - **[[rangoric-srd/skills/Engineering|Engineering]]**: DC 20 to disable
 - **Trigger**: location
 - **Reset**: manual
-- **Effect**: 50-ft.-deep pit (5d6 falling damage); pit spikes (Atk +15 melee, 1d4 spikes per target for 1d6+5 damage each plus poison ([[rangoric-srd/rules/Special Abilities and Conditions#^table-poisons|shadow essence]])); DC 25 Reflex avoids; multiple targets (all targets in a 10-ft.-square area)
+- **Effect**: 50-ft.-deep pit (5d6 falling damage); pit spikes (Atk +15 melee, 1d4 spikes per target for 1d6+5 damage each plus poison ([[rangoric-srd/rules/Afflictions#^table-poisons|shadow essence]])); DC 25 Reflex avoids; multiple targets (all targets in a 10-ft.-square area)

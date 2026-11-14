@@ -65,6 +65,6 @@ Advancement: 61-90 HD (Huge); 91-150 HD (Gargantuan)   
 
 Prismatic Emanations (Su): The reflected and refracted light from the prismasaurus’s crystalline ridge functions very similarly to the [[rangoric-srd/spells/Prismatic Spray|prismatic spray]] spell. Any creature of less than 8 HD that is within 30 feet of the creature is automatically [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 2d4 rounds. In addition, any creature within 20 feet of the prismasaurus is randomly struck by one or more rays of light, as determined by the table that accompanies the prismatic spray spell. This effect is as the prismatic spray spell in a 30-foot-radius spread, but is otherwise as cast by a 20th-level caster. The save DC for the prismatic spray effects is 49.
 
-Immunities (Su): It is immune to [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], gases, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and mind-affecting attacks.
+Immunities (Su): It is immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], gases, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and mind-affecting attacks.
 
 Prismatic Blur (Ex): The reflected and refracted light that constantly surrounds the creature blurs the creature’s outline and makes it difficult to properly target. All melee and ranged attacks against the creature have a 50% miss chance.

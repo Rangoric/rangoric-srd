@@ -25,6 +25,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 
 *Simple ranged weapon.* Cost 2 gp; Dmg 1 (S), 1d2 (M); Critical x2; Range Increment 20 ft.; Weight 1 lb.; Type Piercing. ^stats
 
-Blowguns are generally used to deliver debilitating (but rarely fatal) [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poisons]] from a distance. They are nearly silent when fired.
+Blowguns are generally used to deliver debilitating (but rarely fatal) [[rangoric-srd/rules/Afflictions#Poison|poisons]] from a distance. They are nearly silent when fired.
 
 While one dose of poison coats only a single arrow, the same amount of poison coats three needles or quills.

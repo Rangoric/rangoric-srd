@@ -105,9 +105,9 @@ A non-alchemist who drinks a mutagen must make a Fortitude save (DC 10 + 1/2 the
 
 The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveries|Discoveries]], one note each: 83, grouped by minimum level, 23 of them marked \* as bomb discoveries that don’t stack. A few are open only to one race’s alchemists.
 
-**Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2 bonus on all saving throws against [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]]. This bonus increases to +4 at 5th level, and then again to +6 at 8th level. At 10th level, an alchemist becomes completely immune to poison. ^alchemist-poison-resistance
+**Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2 bonus on all saving throws against [[rangoric-srd/rules/Afflictions#Poison|poison]]. This bonus increases to +4 at 5th level, and then again to +6 at 8th level. At 10th level, an alchemist becomes completely immune to poison. ^alchemist-poison-resistance
 
-**Poison Use (Ex)**: Alchemists are trained in the use of poison and starting at 2nd level, cannot [[rangoric-srd/rules/Special Abilities and Conditions#Perils of Using Poison|accidentally poison themselves]] when applying poison to a weapon. ^alchemist-poison-use
+**Poison Use (Ex)**: Alchemists are trained in the use of poison and starting at 2nd level, cannot [[rangoric-srd/rules/Afflictions#Applying Poison|accidentally poison themselves]] when applying poison to a weapon. ^alchemist-poison-use
 
 **Swift Alchemy (Ex)**: At 3rd level, an alchemist can create alchemical items with astounding speed. It takes an alchemist half the normal amount of time to create alchemical items, and he can apply poison to a weapon as a move action. ^alchemist-swift-alchemy
 

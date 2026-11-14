@@ -73,7 +73,7 @@ Trample (Ex): An elder treant can [[rangoric-srd/monsters/Monster Types, Sybtype
 
 Triple Damage against Objects (Ex): An elder treant that makes a full attack against an object or structure deals triple Damage.
 
-Plant Traits: Immune to [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], and polymorphing; not subject to critical hits or mind-affecting effects.
+Plant Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], and polymorphing; not subject to critical hits or mind-affecting effects.
 
 Skills: Elder treants receive skills as though they were [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]]. \*They have a +24 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks made in forested areas.
 

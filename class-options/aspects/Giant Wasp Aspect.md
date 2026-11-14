@@ -22,7 +22,7 @@ This bonus increases to +6 at 8th level and +8 at 15th level.
 
 **Major Form**: Your shape changes to that of a giant wasp. This ability uses the *[[rangoric-srd/spells/Vermin Shape II|vermin shape]]* spell, rather than beast shape, for the purposes of wild shape. While in this form, you gain a fly speed of 40 feet (clumsy), and swarms and vermin do not attack you unless magically commanded to do so.
 
-At 8th level, this fly speed increases to 60 feet (average), and you gain a sting attack usable a number of times per day equal to 3 + your Wisdom modifier, which applies the following [[rangoric-srd/rules/Special Abilities and Conditions#Poison|poison]].
+At 8th level, this fly speed increases to 60 feet (average), and you gain a sting attack usable a number of times per day equal to 3 + your Wisdom modifier, which applies the following [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
 > *Wasp Venom (Ex)* Sting—injury; save Fort DC = 10 + half your shifter level + your Constitution modifier; frequency 1/round for 4 rounds; effect 1d3 Dex damage; cure 2 consecutive saves.
 
