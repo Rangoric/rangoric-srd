@@ -1,61 +1,62 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
-size: "Huge"
+size: "Gargantuan"
 creature-type: "Animal"
-subtypes:
-  - "Aquatic"
-hit-dice: "18d8+66 (147 hp)"
-initiative: "+2"
-speed: "Swim 60 ft. (12 squares)"
-armor-class: "17 (–2 size, +2 Dex, +7 natural), touch 10, flat-footed 15"
-base-attack: "+13"
-cmb: "+21 (+25 grapple)"
-cmd: "33"
-attack: "Bite +18 melee (2d8+9)"
-full-attack: "Bite +18 melee (2d8+9)"
-space-reach: "15 ft./10 ft."
-special-attacks: "Improved grab, swallow whole"
-special-qualities: "Keen scent"
-saves: "Fort +14, Ref +13, Will +12"
-abilities: "Str 23, Dex 15, Con 17, Int 1, Wis 12, Cha 10"
-skills: "Athletics +16 (+24 swimming), Perception +15"
-skill-ranks: "Athletics 7, Perception 11"
-feats: "Improved Natural Attack (bite), Toughness (4), Weapon Focus (bite)"
-environment: "Cold aquatic"
+subtypes: ["Aquatic"]
+hit-dice: "15d8+45 (112 hp)"
+initiative: "+6"
+speed: "swim 60 ft."
+armor-class: "23 (+2 Dex, +15 natural, –4 size), touch 8, flat-footed 21"
+base-attack: "+11"
+cmb: "+25 (+29 grapple)"
+cmd: "37"
+attack: "Bite +17 melee (4d10+15/19–20 plus grab)"
+full-attack: "Bite +17 melee (4d10+15/19–20 plus grab)"
+space-reach: "20 ft./20 ft."
+special-attacks: "Swallow whole (2d6+15 damage, AC 17, 11 hp)"
+special-qualities: "Blindsense 30 ft, keen scent"
+saves: "Fort +14, Ref +13, Will +8"
+abilities: "Str 30, Dex 15, Con 17, Int 1, Wis 12, Cha 10"
+skills: "Athletics +18, Perception +25"
+skill-ranks: "Athletics 5, Perception 21"
+feats: "Bleeding Critical, Critical Focus, Great Fortitude, Improved Critical (bite), Improved Initiative, Iron Will, Lightning Reflexes, Skill Focus (Perception)"
+environment: "Any ocean"
 organization: "Solitary or school (2–5)"
 challenge-rating: 9
 treasure: "None"
 alignment: "Always neutral"
 advancement: "19–32 (Huge); 33–54 (Gargantuan)"
 level-adjustment: "—"
+group: "Dire Animal"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Shark, Dire|Shark, Dire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Shark|Dire Shark (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Dire Shark
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|Aquatic]])
-  - **Hit Dice**: 18d8+66 (147 hp)
-  - **Initiative**: +2
-  - **Speed**: Swim 60 ft. (12 squares)
-  - **Armor Class**: 17 (–2 size, +2 Dex, +7 natural), touch 10, flat-footed 15
-  - **Base Attack**: +13; **CMB**: +21 (+25 grapple); **CMD**: 33
-  - **Attack**: Bite +18 melee (2d8+9)
-  - **Full Attack**: Bite +18 melee (2d8+9)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]
-  - **Special Qualities**: Keen scent
-  - **Saves**: Fort +14, Ref +13, Will +12
-  - **Abilities**: Str 23, Dex 15, Con 17, Int 1, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16 (+24 swimming), [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Feats All|Toughness]] (4), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Cold aquatic
+  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]] (Aquatic)
+  - **Hit Dice**: 15d8+45 (112 hp)
+  - **Initiative**: +6
+  - **Speed**: swim 60 ft.
+  - **Armor Class**: 23 (+2 Dex, +15 natural, –4 size), touch 8, flat-footed 21
+  - **Base Attack**: +11; **CMB**: +25 (+29 grapple); **CMD**: 37
+  - **Attack**: Bite +17 melee (4d10+15/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: Bite +17 melee (4d10+15/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Space/Reach**: 20 ft./20 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Swallow Whole|Swallow whole]] (2d6+15 damage, AC 17, 11 hp)
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft, [[rangoric-srd/monsters/abilities/Keen Scent|keen scent]]
+  - **Saves**: Fort +14, Ref +13, Will +8
+  - **Abilities**: Str 30, Dex 15, Con 17, Int 1, Wis 12, Cha 10
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18, [[rangoric-srd/skills/Perception|Perception]] +25
+  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Environment**: Any ocean
   - **Organization**: Solitary or school (2–5)
   - **Challenge Rating**: 9
   - **Treasure**: None
@@ -63,20 +64,10 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 19–32 (Huge); 33–54 (Gargantuan)
   - **Level Adjustment**: —
 
+The true nightmare of the sea is the megalodon, a shark that represents the pinnacle of this species' evolution. Horrifying in its immense size and ruinous appetite, the megalodon is certainly the beast behind many legends of enormous fish who swallow ships whole. A megalodon is 60 feet long and weighs 100,000 pounds.
+
 Dire sharks attack anything they perceive to be edible, even larger creatures.
 
-This monstrous fish can grow to a length of 25 feet and weigh more than 20,000 pounds.
-
-## Combat
+### Combat
 
 Dire sharks bite with their powerful jaws, swallowing smaller creatures in one gulp.
-
-**Improved Grab (Ex)**: To use this ability, a dire shark must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the foe in the following round.
-
-**Swallow Whole (Ex)**: A dire shark can try to swallow a grabbed opponent of up to one size smaller by making a successful grapple check. Once inside, the opponent takes 2d6+6 points of bludgeoning damage plus 1d8+4 points of acid damage per round from the shark’s digestive juices. A swallowed creature can cut its way out using a light slashing or piercing weapon by dealing 25 points of damage to the shark’s digestive tract (AC 13). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
-
-A Huge dire shark’s gullet can hold 2 Large, 8 Medium or Small, 32 Tiny, 128 Diminutive, or 512 Fine or smaller opponents.
-
-**Keen Scent (Ex)**: A dire shark can notice creatures by scent in a 180-foot radius and can detect blood in the water at a range of up to 1 mile.
-
-**Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a dire shark is better at swimming.

@@ -1,74 +1,75 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/swarm/Swarm|Swarm]]"
-size: "Diminutive"
+size: "Fine"
 creature-type: "Vermin"
-subtypes:
-  - "Swarm"
-hit-dice: "6d8–6 (21 hp)"
-initiative: "+4"
-speed: "10 ft. (2 squares), fly 30 ft. (poor)"
-armor-class: "18 (+4 size, +4 Dex), touch 18, flat-footed 14"
-base-attack: "+4"
+subtypes: ["Swarm"]
+hit-dice: "4d8 (18 hp)"
+initiative: "+2"
+speed: "10 ft. (2 squares), climb 10 ft., fly 30 ft. (average)"
+armor-class: "20 (+2 Dex, +8 size), touch 20, flat-footed 18"
+base-attack: "+3"
 cmb: "—"
 cmd: "—"
-attack: "Swarm (2d6)"
-full-attack: "Swarm (2d6)"
+attack: "Swarm (1d6)"
+full-attack: "Swarm (1d6)"
 space-reach: "10 ft./0 ft."
-special-attacks: "Distraction"
-special-qualities: "Darkvision 60 ft., immune to weapon damage, swarm traits, vermin traits"
-saves: "Fort +4, Ref +6, Will +2"
-abilities: "Str 1, Dex 19, Con 8, Int —, Wis 10, Cha 2"
-skills: "Perception +13"
-skill-ranks: "Perception 6"
+special-attacks: "Devour, distraction (DC 12), voracious"
+special-qualities: "Darkvision 60 ft., swarm traits, immunity to mind-affecting effects"
+saves: "Fort +4, Ref +3, Will +1"
+abilities: "Str 1, Dex 15, Con 10, Int —, Wis 11, Cha 2"
+skills: "Acrobatics +10, Athletics +3"
+skill-ranks: "Acrobatics 0, Athletics 5"
 feats: "—"
-environment: "Temperate plains"
-organization: "Solitary, cloud (2–7 swarms), or plague (11–20 swarms)"
-challenge-rating: 3
+environment: "Temperate or warm deserts or plains"
+organization: "Solitary, pair, cloud (3–20), or plague (21–100 or more)"
+challenge-rating: 2
 treasure: "None"
 alignment: "Always neutral"
 advancement: "None"
 level-adjustment: "—"
+group: "Swarm"
+book: "Bestiary 4"
 based-on:
+  - "[[path srd 3.5/monsters/Locust Swarm|Locust Swarm (PF1)]]"
   - "[[fantasy srd 3.5/monsters/swarm/Locust Swarm|Locust Swarm (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Locust Swarm
 
-  - Diminutive [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|Swarm]])
-  - **Hit Dice**: 6d8–6 (21 hp)
-  - **Initiative**: +4
-  - **Speed**: 10 ft. (2 squares), fly 30 ft. (poor)
-  - **Armor Class**: 18 (+4 size, +4 Dex), touch 18, flat-footed 14
-  - **Base Attack**: +4; **CMB**: —; **CMD**: —
-  - **Attack**: Swarm (2d6)
-  - **Full Attack**: Swarm (2d6)
+  - Fine [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|Vermin]] (Swarm)
+  - **Hit Dice**: 4d8 (18 hp)
+  - **Initiative**: +2
+  - **Speed**: 10 ft. (2 squares), climb 10 ft., fly 30 ft. (average)
+  - **Armor Class**: 20 (+2 Dex, +8 size), touch 20, flat-footed 18
+  - **Base Attack**: +3; **CMB**: —; **CMD**: —
+  - **Attack**: Swarm (1d6)
+  - **Full Attack**: Swarm (1d6)
   - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: Distraction
-  - **Special Qualities**: Darkvision 60 ft., immune to weapon damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]]
-  - **Saves**: Fort +4, Ref +6, Will +2
-  - **Abilities**: Str 1, Dex 19, Con 8, Int —, Wis 10, Cha 2
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +13
+  - **Special Attacks**: Devour, [[rangoric-srd/monsters/abilities/Distraction|distraction]] (DC 12), [[rangoric-srd/monsters/abilities/Voracious|voracious]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to mind-affecting effects
+  - **Saves**: Fort +4, Ref +3, Will +1
+  - **Abilities**: Str 1, Dex 15, Con 10, Int —, Wis 11, Cha 2
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +3
   - **Feats**: —
-  - **Environment**: Temperate plains
-  - **Organization**: Solitary, cloud (2–7 swarms), or plague (11–20 swarms)
-  - **Challenge Rating**: 3
+  - **Environment**: Temperate or warm deserts or plains
+  - **Organization**: Solitary, pair, cloud (3–20), or plague (21–100 or more)
+  - **Challenge Rating**: 2
   - **Treasure**: None
   - **Alignment**: Always neutral
   - **Advancement**: None
   - **Level Adjustment**: —
 
-A locust swarm is a cloud of thousands of winged vermin that devours any organic material in its path.
+Under crowded conditions, these normally inoffensive relatives of the grasshopper change color, breed uncontrollably, ravenously consume any available vegetation, and wreak vast destruction to farms and settlements.
 
-## Combat
+The largest swarms, known as plagues, can include billions of locusts and cover hundreds of square miles. Locusts in these swarms are larger and more aggressive than common ones, making the swarm a true danger to everything edible in their path and even to inedible objects as well.
 
-A locust swarm surrounds and attacks any living prey it encounters. A swarm deals 2d6 points of damage to any creature whose space it occupies at the end of its move.
+### Combat
 
-**Distraction (Ex)**: Any living creature that begins its turn with a locust swarm in its space must succeed on a DC 12 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 round. The save DC is Constitution-based.
+A locust swarm surrounds and attacks any living prey it encounters.
 
-**Skills**: A locust swarm has a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+**Devour (Ex)**: A locust swarm causes damage to unattended objects in its space each round as though they were creatures. It even damages inedible objects.

@@ -1,59 +1,61 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/dire-animal/Dire Animal|Dire Animal]]"
 size: "Large"
 creature-type: "Animal"
-hit-dice: "16d8+48 (120 hp)"
-initiative: "+2"
+hit-dice: "14d8+42 (105 hp)"
+initiative: "+6"
 speed: "40 ft. (8 squares)"
-armor-class: "17 (–1 size, +2 Dex, +6 natural), touch 11, flat-footed 15"
-base-attack: "+12"
-cmb: "+21 (+25 grapple)"
-cmd: "33 (37 vs. trip)"
-attack: "Claw +20 melee (2d4+8)"
-full-attack: "2 claws +20 melee (2d4+8) and bite +14 melee (2d6+4)"
+armor-class: "17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15"
+base-attack: "+10"
+cmb: "+19 (+23 grapple)"
+cmd: "31 (35 vs. trip)"
+attack: "Claw +18 melee (2d4+8 plus grab) or bite +18 melee (2d6+8/19–20 plus grab)"
+full-attack: "2 claws +18 melee (2d4+8 plus grab) and bite +18 melee (2d6+8/19–20 plus grab)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Improved grab, pounce, rake 2d4+4"
+special-attacks: "Pounce, rake (2 claws +18, 2d4+8)"
 special-qualities: "Low-light vision, scent"
-saves: "Fort +13, Ref +12, Will +11"
+saves: "Fort +12, Ref +11, Will +5"
 abilities: "Str 27, Dex 15, Con 17, Int 2, Wis 12, Cha 10"
-skills: "Athletics +20 (+24 jumping), Perception +11, Stealth +11*"
-skill-ranks: "Athletics 9, Perception 4, Stealth 3"
-feats: "Improved Natural Attack (claw), Improved Natural Attack (bite), Run, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (claw)"
-environment: "Warm forests"
+skills: "Acrobatics +6, Athletics +13, Perception +12, Stealth +15 (+23 in tall grass)"
+skill-ranks: "Acrobatics 0, Athletics 2, Perception 8, Stealth 10"
+feats: "Improved Critical (bite), Improved Initiative, Run, Skill Focus (Perception), Skill Focus (Stealth), Weapon Focus (bite, claw)"
+environment: "Any forests, plains, and swamps"
 organization: "Solitary or pair"
 challenge-rating: 8
 treasure: "None"
 alignment: "Always neutral"
 advancement: "17–32 HD (Large); 33–48 (Huge)"
 level-adjustment: "—"
+group: "Dire Animal"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Tiger, Dire|Tiger, Dire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Tiger|Dire Tiger (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Dire Tiger
 
   - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
-  - **Hit Dice**: 16d8+48 (120 hp)
-  - **Initiative**: +2
+  - **Hit Dice**: 14d8+42 (105 hp)
+  - **Initiative**: +6
   - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 17 (–1 size, +2 Dex, +6 natural), touch 11, flat-footed 15
-  - **Base Attack**: +12; **CMB**: +21 (+25 grapple); **CMD**: 33 (37 vs. trip)
-  - **Attack**: Claw +20 melee (2d4+8)
-  - **Full Attack**: 2 claws +20 melee (2d4+8) and bite +14 melee (2d6+4)
+  - **Armor Class**: 17 (+2 Dex, +6 natural, –1 size), touch 11, flat-footed 15
+  - **Base Attack**: +10; **CMB**: +19 (+23 grapple); **CMD**: 31 (35 vs. trip)
+  - **Attack**: Claw +18 melee (2d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +18 melee (2d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: 2 claws +18 melee (2d4+8 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +18 melee (2d6+8/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] 2d4+4
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +13, Ref +12, Will +11
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] (2 claws +18, 2d4+8)
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+  - **Saves**: Fort +12, Ref +11, Will +5
   - **Abilities**: Str 27, Dex 15, Con 17, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +20 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11\*
-  - **Feats**: [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (claw), [[rangoric-srd/feats/Feats All|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
-  - **Environment**: Warm forests
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +15 (+23 in tall grass)
+  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite, claw)
+  - **Environment**: Any forests, plains, and swamps
   - **Organization**: Solitary or pair
   - **Challenge Rating**: 8
   - **Treasure**: None
@@ -61,18 +63,12 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 17–32 HD (Large); 33–48 (Huge)
   - **Level Adjustment**: —
 
+While the tiger itself is a fearsome predator, its strength and ferocity pales in comparison to that of the larger dire tiger. Known to many scholars as the smilodon and to tribal societies as the saber-toothed tiger, the dire tiger is invariably one of the region's top predators. Its defining feature is a pair of huge incisors that hang down like fearsome knives from the upper jaw, protruding menacingly even when the creature's mouth is shut.
+
+These immense hunting cats grow to be over 12 feet long and can weigh up to 6,000 pounds.
+
 Dire tigers prey on just about anything that moves. They will patiently stalk a potential meal, striking whenever the creature lets down its guard.
 
-Dire tigers grow to be over 12 feet long and can weigh up to 6,000 pounds.
-
-## Combat
+### Combat
 
 A dire tiger attacks by running at prey, leaping, and clawing and biting as it rakes with its rear claws.
-
-**Improved Grab (Ex)**: To use this ability, a dire tiger must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
-
-**Pounce (Ex)**: If a dire tiger charges, it can make a full attack, including two rake attacks.
-
-**Rake (Ex)**: Attack bonus +18 melee, damage 2d4+4.
-
-**Skills**: Dire tigers have a +4 racial bonus on Stealth checks. \*In areas of tall grass or heavy undergrowth, the bonus on Stealth checks is +4 higher.

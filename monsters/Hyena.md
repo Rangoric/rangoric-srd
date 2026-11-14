@@ -62,7 +62,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 3 HD (Medium); 4–5 HD (Large)
   - **Level Adjustment**: —
 
-Hyenas are pack [[rangoric-srd/classes/Hunter|hunters]] infamous for their cunning and their unnerving, laughter-like vocalizations. They are largely scavengers, but aren't above supplementing their diet of carrion with fresh prey.
+Hyenas are pack hunters infamous for their cunning and their unnerving, laughter-like vocalizations. They are largely scavengers, but aren't above supplementing their diet of carrion with fresh prey.
 
 Hyenas tend to hunt alone, but when hunting as a pack they typically send one or two members against a foe's front while the rest of the pack circles and attacks from behind.
 

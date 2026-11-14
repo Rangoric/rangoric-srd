@@ -8,7 +8,7 @@ initiative: "+7"
 speed: "40 ft. (8 squares)"
 armor-class: "15 (+3 Dex, +3 natural, –1 size), touch 12, flat-footed 12"
 base-attack: "+3"
-cmb: "+9"
+cmb: "+9 (+13 grapple)"
 cmd: "22 (26 vs. trip)"
 attack: "Bite +7 melee (1d8+5 plus grab) or claw +7 melee (1d4+5)"
 full-attack: "Bite +7 melee (1d8+5 plus grab) and 2 claws +7 melee (1d4+5)"
@@ -44,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: 40 ft. (8 squares)
   - **Armor Class**: 15 (+3 Dex, +3 natural, –1 size), touch 12, flat-footed 12
-  - **Base Attack**: +3; **CMB**: +9; **CMD**: 22 (26 vs. trip)
+  - **Base Attack**: +3; **CMB**: +9 (+13 grapple); **CMD**: 22 (26 vs. trip)
   - **Attack**: Bite +7 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or claw +7 melee (1d4+5)
   - **Full Attack**: Bite +7 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 claws +7 melee (1d4+5)
   - **Space/Reach**: 10 ft./5 ft.
