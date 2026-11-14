@@ -41,41 +41,13 @@ tags: [rangoric, rangoric/overview]
 
   - Aberrations eat, sleep, and breathe.
 
-**Ability Score Loss (Su)**: Some attacks reduce the opponent’s score in one or more abilities. This loss can be temporary (ability damage) or permanent (ability drain). ^ability-score-loss
+**Ability Score Loss (Su)**: See [[rangoric-srd/monsters/abilities/Ability Damage and Drain|ability damage and drain]]. ^ability-score-loss
 
-*Ability Damage*: This attack damages an opponent’s ability score. The creature’s descriptive text gives the ability and the amount of damage. If an attack that causes ability damage scores a critical hit, it deals twice the indicated amount of damage (if the damage is expressed as a die range, roll two dice). Ability damage returns at the rate of 1 point per day for each affected ability.
-
-*Ability Drain*: This effect permanently reduces a living opponent’s ability score when the creature hits with a melee attack. The creature’s descriptive text gives the ability and the amount drained. If an attack that causes ability drain scores a critical hit, it drains twice the indicated amount (if the damage is expressed as a die range, roll two dice). Unless otherwise specified in the creature’s description, a draining creature gains 5 temporary hit points (10 on a critical hit) whenever it drains an ability score no matter how many points it drains. Temporary hit points gained in this fashion last for a maximum of 1 hour.
-
-Some ability drain attacks allow a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). If no saving throw is mentioned, none is allowed.  
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Ability Score Loss|Ability Score Loss]] under Special Abilities.  
-
-**Alternate Form (Su)**: A creature with this special quality has the ability to assume one or more specific alternate forms. A [[rangoric-srd/spells/True Seeing|true seeing]] spell or ability reveals the creature’s natural form. A creature using alternate form reverts to its natural form when killed, but separated body parts retain their shape. A creature cannot use alternate form to take the form of a creature with a template. Assuming an alternate form results in the following changes to the creature: ^alternate-form
-
-  - The creature retains the type and subtype of its original form. It gains the size of its new form. If the new form has the [[#^aquatic|aquatic subtype]], the creature gains that subtype as well.
-
-  - The creature loses the natural weapons, natural armor, and movement modes of its original form, as well as any extraordinary special attacks of its original form not derived from class levels (such as the barbarian’s rage class feature).
-
-  - The creature gains the natural weapons, natural armor, movement modes, and extraordinary special attacks of its new form.
-
-  - The creature retains the special qualities of its original form. It does not gain any special qualities of its new form.
-
-  - The creature retains the spell-like abilities and supernatural attacks of its old form (except for breath weapons and gaze attacks). It does not gain the spell-like abilities or supernatural attacks of its new form.
-
-  - The creature gains the physical ability scores (Str, Dex, Con) of its new form. It retains the mental ability scores (Int, Wis, Cha) of its original form. Apply any changed physical ability score modifiers in all appropriate areas with one exception: the creature retains the hit points of its original form despite any change to its Constitution.
-
-  - Except as described elsewhere, the creature retains all other game statistics of its original form, including (but not necessarily limited to) HD, hit points, skill ranks, feats, base attack bonus, and base save bonuses.
-
-  - The creature retains any spellcasting ability it had in its original form, although it must be able to speak intelligibly to cast spells with verbal components and it must have humanlike hands to cast spells with somatic components.
-
-  - The creature is effectively camouflaged as a creature of its new form, and it gains a +10 bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks if it uses this ability to create a disguise.
-
-  - Any gear worn or carried by the creature that can’t be worn or carried in its new form instead falls to the ground in its space. If the creature changes size, any gear it wears or carries that can be worn or carried in its new form changes size to match the new size. (Nonhumanoid-shaped creatures can’t wear armor designed for humanoid-shaped creatures, and viceversa.) Gear returns to normal size if dropped.
+**Alternate Form (Su)**: See [[rangoric-srd/monsters/abilities/Alternate Form|alternate form]]. ^alternate-form
 
 **Air Subtype**: This subtype usually is used for [[#^elemental|elementals]] and [[#^outsider|outsiders]] with a connection to the Elemental Plane Air. Air creatures always have fly speeds and usually have perfect maneuverability. ^air
 
-**Amphibious (Ex)**: Creatures with this special quality have the [[#^aquatic|aquatic subtype]], but they can breathe air and survive indefinitely on land. ^amphibious
+**Amphibious (Ex)**: See [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]. ^amphibious
 
 **Angel Subtype**: Angels are a race of celestials, or good [[#^outsider|outsiders]], native to the good-aligned Outer Planes. ^angel
 
@@ -144,43 +116,15 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Ability Score Los
 **Augmented Subtype**: A creature receives this subtype whenever something happens to change its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature’s original type. A creature with the augmented subtype usually has the traits of its current type, but the features of its original type.  
  ^augmented
 
-**Blindsense (Ex)**: Using nonvisual senses, such as acute smell or hearing, a creature with blindsense notices things it cannot see. The creature usually does not need to make Perception checks to pinpoint the location of a creature within range of its blindsense ability, provided that it has line of effect to that creature. Any opponent the creature cannot see still has total concealment against the creature with blindsense, and the creature still has the normal miss chance when attacking foes that have concealment. Visibility still affects the movement of a creature with blindsense. A creature with blindsense is still denied its Dexterity bonus to Armor Class against attacks from creatures it cannot see.  
- ^blindsense
+**Blindsense (Ex)**: See [[rangoric-srd/monsters/abilities/Blindsense|blindsense]]. ^blindsense
 
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Blindsight and Blindsense|Blindsight and Blindsense]] under Special Abilities.
+**Blindsight (Ex)**: See [[rangoric-srd/monsters/abilities/Blindsight|blindsight]]. ^blindsight
 
-**Blindsight (Ex)**: This ability is similar to blindsense, but is far more discerning. Using nonvisual senses, such as sensitivity to vibrations, keen smell, acute hearing, or echolocation, a creature with blindsight maneuvers and fights as well as a sighted creature. Invisibility, darkness, and most kinds of concealment are irrelevant, though the creature must have line of effect to a creature or object to discern that creature or object. The ability’s range is specified in the creature’s descriptive text. The creature usually does not need to make Perception checks to notice creatures within range of its blindsight ability. Unless noted otherwise, blindsight is continuous, and the creature need do nothing to use it. Some forms of blindsight, however, must be triggered as a free action. If so, this is noted in the creature’s description. If a creature must trigger its blindsight ability, the creature gains the benefits of blindsight only during its turn.  
- ^blindsight
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Blindsight and Blindsense|Blindsight and Blindsense]] under Special Abilities.
-
-**Breath Weapon (Su)**: A breath weapon attack usually deals damage and is often based on some type of energy. ^breath-weapon
-
-Such breath weapons allow a Reflex save for half damage (DC 10 + 1/2 breathing creature’s racial HD + breathing creature’s Con modifier; the exact DC is given in the creature’s descriptive text). A creature is immune to its own breath weapon unless otherwise noted. Some breath weapons allow a Fortitude save or a Will save instead of a Reflex save.  
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Breath Weapon]] under Special Abilities.
+**Breath Weapon (Su)**: See [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]]. ^breath-weapon
 
 **Catfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Catfolk|catfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^catfolk
 
-**Change Shape (Su)**: A creature with this special quality has the ability to assume the appearance of a specific creature or type of creature (usually a humanoid), but retains most of its own physical qualities. A true seeing spell or ability reveals the creature’s natural form. A creature using change shape reverts to its natural form when killed, but separated body parts retain their shape. A creature cannot use change shape to take the form of a creature with a template. Changing shape results in the following changes to the creature: ^change-shape
-
-  - The creature retains the type and subtype of its original form. It gains the size of its new form.
-
-  - The creature loses the natural weapons and movement modes of its original form, as well as any extraordinary special attacks of its original form not derived from class levels (such as the barbarian’s rage class feature).
-
-  - The creature gains the natural weapons, movement modes, and extraordinary special attacks of its new form.
-
-  - The creature retains all other special attacks and qualities of its original form, except for breath weapons and gaze attacks.
-
-  - The creature retains the ability scores of its original form.
-
-  - Except as described elsewhere, the creature retains all other game statistics of its original form, including (but not necessarily limited to) HD, hit points, skill ranks, feats, base attack bonus, and base save bonuses.
-
-  - The creature retains any spellcasting ability it had in its original form, although it must be able to speak intelligibly to cast spells with verbal components and it must have humanlike hands to cast spells with somatic components.
-
-  - The creature is effectively camouflaged as a creature of its new form, and gains a +10 bonus on Imitation checks if it uses this ability to create a disguise.
-
-  - Any gear worn or carried by the creature that can’t be worn or carried in its new form instead falls to the ground in its space. If the creature changes size, any gear it wears or carries that can be worn or carried in its new form changes size to match the new size. (Nonhumanoid-shaped creatures can’t wear armor designed for humanoid-shaped creatures, and viceversa.) Gear returns to normal size if dropped.
+**Change Shape (Su)**: See [[rangoric-srd/monsters/abilities/Change Shape|change shape]]. ^change-shape
 
 **Changeling Subtype**: A humanoid subtype for [[rangoric-srd/races/Changeling|changelings]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^changeling
 
@@ -188,7 +132,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
 
 **Cold Subtype**: A creature with the cold subtype has immunity to cold. It has [[#^vulnerability-to-energy|vulnerability to fire]], which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^cold
 
-**Constrict (Ex)**: A creature with this special attack can crush an opponent, dealing bludgeoning damage, when it makes a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check (in addition to any other effects caused by a successful check, including additional damage). The amount of damage is given in the creature’s entry and is typically equal to the amount of damage caused by the creature’s melee attack. ^constrict
+**Constrict (Ex)**: See [[rangoric-srd/monsters/abilities/Constrict|constrict]]. ^constrict
 
 **Construct Type**: A construct is an animated object or artificially constructed creature. ^construct
 
@@ -244,27 +188,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Breath Weapon|Bre
 
   - Constructs do not eat, sleep, or breathe.
 
-**Damage Reduction (Ex or Su)**: A creature with this special quality ignores damage from most weapons and natural attacks. Wounds heal immediately, or the weapon bounces off harmlessly (in either case, the opponent knows the attack was ineffective). The creature takes normal damage from energy attacks (even nonmagical ones), spells, spell-like abilities, and supernatural abilities. A certain kind of weapon can sometimes damage the creature normally, as noted below. ^DR
-
-The entry indicates the amount of damage ignored (usually 5 to 15 points) and the type of weapon that negates the ability.
-
-Some monsters are vulnerable to piercing, bludgeoning, or slashing damage.
-
-Some monsters are vulnerable to certain materials, such as alchemical silver, adamantine, or cold-forged iron. Attacks from weapons that are not made of the correct material have their damage reduced, even if the weapon has an enhancement bonus.
-
-Some monsters are vulnerable to magic weapons. Any weapon with at least a +1 magical enhancement bonus on attack and damage rolls overcomes the damage reduction of these monsters. Such creatures’ natural weapons (but not their attacks with weapons) are treated as magic weapons for the purpose of overcoming damage reduction.
-
-A few very powerful monsters are vulnerable only to epic weapons; that is, magic weapons with at least a +6 enhancement bonus. Such creatures’ natural weapons are also treated as epic weapons for the purpose of overcoming damage reduction.
-
-Some monsters are vulnerable to chaotic-, evil-, good-, or lawful-aligned weapons. When a cleric casts align weapon, affected weapons might gain one or more of these properties, and certain magic weapons have these properties as well. A creature with an alignment subtype (chaotic, evil, good, or lawful) can overcome this type of damage reduction with its natural weapons and weapons it wields as if the weapons or natural weapons had an alignment (or alignments) that match the subtype(s) of the creature.
-
-When a damage reduction entry has a dash (–) after the slash, no weapon negates the damage reduction.
-
-A few creatures are harmed by more than one kind of weapon. A weapon of either type overcomes this damage reduction.
-
-A few other creatures require combinations of different types of attacks to overcome their damage reduction. A weapon must be both types to overcome this damage reduction. A weapon that is only one type is still subject to damage reduction.
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|Damage Reduction]] under Special Abilities.  
+**Damage Reduction (Ex or Su)**: See [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]]. ^DR
 
 **Dhampir Subtype**: A humanoid subtype for [[rangoric-srd/races/Dhampir|dhampirs]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
 
@@ -310,29 +234,15 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|
 
 **Elf Subtype**: A humanoid subtype for [[rangoric-srd/races/Elf|elves]] and their kin, such as [[rangoric-srd/races/Drow|drow]]; [[rangoric-srd/races/Half-Elf|half-elves]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^elf
 
-**Energy Drain (Su)**: This attack saps a living opponent’s vital energy and happens automatically when a melee or ranged attack hits. Each successful energy drain bestows one or more negative levels (the creature’s description specifies how many). If an attack that includes an energy drain scores a critical hit, it drains twice the given amount. Unless otherwise specified in the creature’s description, a draining creature gains 5 temporary hit points (10 on a critical hit) for each negative level it bestows on an opponent. These temporary hit points last for a maximum of 1 hour. An affected opponent takes a –1 penalty on all skill checks and ability checks, attack rolls, and saving throws, and loses one effective level or Hit Die (whenever level is used in a die roll or calculation) for each negative level. A spellcaster loses one spell slot of the highest level of spells she can cast and (if applicable) one prepared spell of that level; this loss persists until the negative level is removed. Negative levels remain until 24 hours have passed or until they are removed with a spell, such as restoration. If a negative level is not removed before 24 hours have passed, the affected creature must attempt a Fortitude save (DC 10 + 1/2 draining creature’s racial HD + draining creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). On a success, the negative level goes away with no harm to the creature. On a failure, the negative level goes away, but the creature’s level is also reduced by one. A separate saving throw is required for each negative level.  
- ^energy-drain
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|Energy Drain and Negative Levels]] under Special Abilities.
+**Energy Drain (Su)**: See [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]]. ^energy-drain
 
 **Evil Subtype**: A subtype usually applied only to outsiders native to the evil-aligned Outer Planes. Evil outsiders are also called fiends. Most creatures that have this subtype also have evil alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has an evil alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the evil subtype overcomes damage reduction as if its natural weapons and any weapons it wields were evil-aligned (see Damage Reduction, above). ^evil
 
 **Extraplanar Subtype**: A subtype applied to any creature when it is on a plane other than its native plane. A creature that travels the planes can gain or lose this subtype as it goes from plane to plane. Monster entries assume that encounters with creatures take place on the Material Plane, and every creature whose native plane is not the Material Plane has the extraplanar subtype (but would not have when on its home plane). Every extraplanar creature has its home plane mentioned in its description. Creatures not labeled as extraplanar are natives of the Material Plane, and they gain the extraplanar subtype if they leave the Material Plane. No creature has the extraplanar subtype when it is on a transitive plane, such as the Astral Plane, the Ethereal Plane, and the Plane of Shadow. ^extraplanar
 
-**Fast Healing (Ex)**: A creature with the fast healing special quality regains hit points at an exceptionally fast rate, usually 1 or more hit points per round, as given in the creature’s entry. Except where noted here, fast healing is just like natural healing. Fast healing does not restore hit points lost from starvation, thirst, or suffocation, and it does not allow a creature to regrow lost body parts. Unless otherwise stated, it does not allow lost body parts to be reattached.  
- ^fast-healing
+**Fast Healing (Ex)**: See [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]]. ^fast-healing
 
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Fast Healing|Fast Healing]] under Special Abilities.
-
-**Fear (Su or Sp)**: Fear attacks can have various effects. ^fear
-
-*Fear Aura (Su)*: The use of this ability is a free action. The aura can freeze an opponent (such as a mummy’s despair) or function like the fear spell. Other effects are possible. A fear aura is an area effect. The descriptive text gives the size and kind of area.
-
-*Fear Cones (Sp) and Rays (Su)*: These effects usually work like the fear spell.
-
-If a fear effect allows a saving throw, it is a Will save (DC 10 + 1/2 fearsome creature’s racial HD + creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). All fear attacks are mind-affecting fear effects.  
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Fear|Fear]] under Special Abilities.
+**Fear (Su or Sp)**: See [[rangoric-srd/monsters/abilities/Fear|fear]]. ^fear
 
 **Fey Type**: A fey is a creature with supernatural abilities and connections to nature or to some other force or place. Fey are usually human-shaped. ^fey
 
@@ -358,23 +268,11 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Fear|Fear]] under
 
 **Fire Subtype**: A creature with the fire subtype has immunity to fire. It has vulnerability to cold, which means it takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^fire
 
-**Flight (Ex or Su)**: A creature with this ability can cease or resume flight as a free action. If the ability is supernatural, it becomes ineffective in an antimagic field, and the creature loses its ability to fly for as long as the antimagic effect persists. ^flight
+**Flight (Ex or Su)**: See [[rangoric-srd/monsters/abilities/Flight|flight]]. ^flight
 
-**Frightful Presence (Ex)**: This special quality makes a creature’s very presence unsettling to foes. It takes effect automatically when the creature performs some sort of dramatic action (such as charging, attacking, or snarling). Opponents within range who witness the action may become frightened or shaken. Actions required to trigger the ability are given in the creature’s descriptive text. The range is usually 30 feet, and the duration is usually 5d6 rounds. This ability affects only opponents with fewer Hit Dice or levels than the creature has. An affected opponent can resist the effects with a successful Will save (DC 10 + 1/2 frightful creature’s racial HD + frightful creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). An opponent that succeeds on the saving throw is immune to that same creature’s frightful presence for 24 hours. Frightful presence is a mind-affecting fear effect. ^rightful-presence
+**Frightful Presence (Ex)**: See [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]]. ^rightful-presence
 
-**Gaze (Su)**: A gaze special attack takes effect when opponents look at the creature’s eyes. The attack can have almost any sort of effect: petrification, death, charm, and so on. The typical range is 30 feet, but check the creature’s entry for details. The type of saving throw for a gaze attack varies, but it is usually a Will or Fortitude save (DC 10 + 1/2 gazing creature’s racial HD + gazing creature’s Cha modifier; the exact DC is given in the creature’s descriptive text). A successful saving throw negates the effect. A monster’s gaze attack is described in abbreviated form in its description. Each opponent within range of a gaze attack must attempt a saving throw each round at the beginning of his or her turn in the initiative order. Only looking directly at a creature with a gaze attack leaves an opponent vulnerable. Opponents can avoid the need to make the saving throw by not looking at the creature, in one of two ways. ^gaze
-
-*Averting Eyes*: The opponent avoids looking at the creature’s face, instead looking at its body, watching its shadow, tracking it in a reflective surface, and so on. Each round, the opponent has a 50% chance to not need to make a saving throw against the gaze attack. The creature with the gaze attack, however, gains concealment against that opponent.
-
-*Wearing a Blindfold*: The opponent cannot see the creature at all (also possible to achieve by turning one’s back on the creature or shutting one’s eyes). The creature with the gaze attack gains total concealment against the opponent.
-
-A creature with a gaze attack can actively gaze as an attack action by choosing a target within range. That opponent must attempt a saving throw but can try to avoid this as described above. Thus, it is possible for an opponent to save against a creature’s gaze twice during the same round, once before the opponent’s action and once during the creature’s turn.
-
-Gaze attacks can affect ethereal opponents. A creature is immune to gaze attacks of others of its kind unless otherwise noted.
-
-Allies of a creature with a gaze attack might be affected. All the creature’s allies are considered to be averting their eyes from the creature with the gaze attack, and have a 50% chance to not need to make a saving throw against the gaze attack each round. The creature also can veil its eyes, thus negating its gaze ability.
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Gaze Attacks|Gaze Attacks]] under Special Abilities.  
+**Gaze (Su)**: See [[rangoric-srd/monsters/abilities/Gaze|gaze]]. ^gaze
 
 **Giant Subtype**: A giant is a [[#^humanoid|humanoid]] creature of great strength, usually of at least Large size (see [[#^retyped|retyped creatures]]). Humanoids of giant blood played as a race, such as [[rangoric-srd/races/Ogre|ogres]], have it too. A giant has the following traits, besides those of a humanoid. ^giant
 
@@ -426,7 +324,7 @@ Humanoids with more than 1 Hit Die are the only humanoids who make use of the fe
 
   - Humanoids breathe, eat, and sleep.
 
-**Improved Grab (Ex)**: If a creature with this special attack hits with the indicated attack (usually a claw or bite attack), it deals normal damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. The creature has the option to conduct the grapple normally, or simply to use the part of its body it used in the improved grab to hold the opponent. If it chooses to do the latter, it takes a –20 penalty on its combat maneuver check to make and maintain the grapple, but does not gain the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition itself. A successful hold does not deal any extra damage unless the creature also has the [[#^constrict|constrict]] special attack. If the creature does not constrict, each successful grapple check it makes during successive rounds automatically deals the damage indicated for the attack that established the hold. Otherwise, it deals constriction damage as well (the amount is given in the creature’s descriptive text). Creatures with improved grab receive a +4 bonus on combat maneuver checks made to start and maintain a grapple. Unless otherwise noted, improved grab works only against opponents no larger than the same size category as the creature. If the creature can use improved grab on sizes other than the default, this is noted in the creature’s entry. ^improved-grab
+**Improved Grab (Ex)**: See [[rangoric-srd/monsters/abilities/Grab|grab]]. ^improved-grab
 
 **Incorporeal Subtype**: An incorporeal creature has no physical body. It can be harmed only by other incorporeal creatures, magic weapons or creatures that strike as magic weapons, and spells, spell-like abilities, or supernatural abilities. It is immune to all nonmagical attack forms, and to critical hits and precision-based damage (such as sneak attack) unless the attack is made with a [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] weapon. Even when hit by spells or magic weapons, it has a 50% chance to ignore any damage from a corporeal source (except for positive energy, negative energy, force effects such as magic missile, or attacks made with ghost touch weapons). Although it is not a magical attack, holy water can affect incorporeal undead, but a hit with holy water has a 50% chance of not affecting an incorporeal creature. ^incorporeal
 
@@ -444,7 +342,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
 
-**Low-Light Vision (Ex)**: See [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^low-light-vision
+**Low-Light Vision (Ex)**: See [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]. ^low-light-vision
 
 **Magical Beast Type**: Magical beasts are similar to animals but can have Intelligence scores higher than 2. Magical beasts usually have supernatural or extraordinary abilities, but sometimes are merely bizarre in appearance or habits. ^magical-beast
 
@@ -562,7 +460,7 @@ Natural weapons have types just as other weapons do. The most common are summari
 
 *Tentacle*: The creature flails at opponents with a powerful tentacle, dealing bludgeoning (and sometimes slashing) damage.
 
-**Negative Energy Affinity (Ex)**: The creature is alive but is healed by negative energy and harmed by positive energy, as if it were an [[#^undead|undead]] creature. ^negative-energy-affinity
+**Negative Energy Affinity (Ex)**: See [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]]. ^negative-energy-affinity
 
 **Nonabilities**: Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0. Other effects of nonabilities are detailed below. ^nonabilities
 
@@ -636,10 +534,7 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
   - Outsiders breathe, but do not need to eat or sleep (although they can do so if they wish). Native outsiders breathe, eat, and sleep.
 
-**Paralysis (Ex or Su)**: This special attack renders the victim immobile. Paralyzed creatures cannot move, speak, or take any physical actions. The creature is rooted to the spot, frozen and helpless. Paralysis works on the body, and a character can usually resist it with a Fortitude saving throw (the DC is given in the creature’s description). Unlike hold person and similar effects, a paralysis effect does not allow a new save each round. A winged creature flying in the air at the time that it is paralyzed cannot flap its wings and falls. A swimmer can’t swim and may drown.  
- ^paralysis
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Paralysis|Paralysis]] under Special Abilities.
+**Paralysis (Ex or Su)**: See [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]. ^paralysis
 
 **Plant Type**: This type comprises vegetable creatures. Note that regular plants, such as one finds growing in gardens and fields, lack Wisdom and Charisma scores (see Nonabilities, above) and are not creatures, but objects, even though they are alive. ^plant
 
@@ -669,40 +564,25 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Paralysis|Paralys
 
 **Poison (Ex)**: See [[rangoric-srd/monsters/abilities/Poison|poison]]. ^poison
 
-**Positive Energy Affinity (Ex)**: The creature is healed by positive energy and harmed by negative energy, as a living creature is, even if it is [[#^undead|undead]]. ^positive-energy-affinity
+**Positive Energy Affinity (Ex)**: See [[rangoric-srd/monsters/abilities/Positive Energy Affinity|positive energy affinity]]. ^positive-energy-affinity
 
-**Pounce (Ex)**: When a creature with this special attack makes a charge, it can follow with a full attack—including rake attacks if the creature also has the rake ability. ^pounce
+**Pounce (Ex)**: See [[rangoric-srd/monsters/abilities/Pounce|pounce]]. ^pounce
 
-**Powerful Charge (Ex)**: When a creature with this special attack makes a charge, its attack deals extra damage in addition to the normal benefits and hazards of a charge. The amount of damage from the attack is given in the creature’s description. ^powerful-charge
+**Powerful Charge (Ex)**: See [[rangoric-srd/monsters/abilities/Powerful Charge|powerful charge]]. ^powerful-charge
 
-**Psionics (Sp)**: These are spell-like abilities that a creature generates with the power of its mind. Psionic abilities are usually usable at will.  
- ^psionics
+**Psionics (Sp)**: See [[rangoric-srd/monsters/abilities/Psionics (Monster Ability)|psionics]]. ^psionics
 
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Psionics|Psionics]] under Special Abilities or the [[rangoric-srd/psionics/Psionics|Psionics Section]].
-
-**Rake (Ex)**: A creature with this special attack gains extra natural attacks under certain conditions, typically when it grapples its foe. In addition to the options available to all grapplers, a monster with the rake ability gains two free claw attacks that it can use only against a grappled foe. The bonus and damage caused by these attacks is included in the creature’s description. A monster with the rake ability must begin its turn already grappling to use its rake—it can’t begin a grapple and rake in the same turn. ^rake
+**Rake (Ex)**: See [[rangoric-srd/monsters/abilities/Rake|rake]]. ^rake
 
 **Ratfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Ratfolk|ratfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^ratfolk
 
-**Ray (Su or Sp)**: This form of special attack works like a ranged attack. Hitting with a ray attack requires a successful ranged touch attack roll, ignoring armor, natural armor, and shield and using the creature’s ranged attack bonus. Ray attacks have no range increment. The creature’s descriptive text specifies the maximum range, effects, and any applicable saving throw.  
- ^ray
+**Ray (Su or Sp)**: See [[rangoric-srd/monsters/abilities/Ray|ray]]. ^ray
 
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Rays|Rays]] under Special Abilities.
-
-**Regeneration (Ex)**: A creature with this ability is difficult to kill. Damage dealt to the creature is treated as nonlethal damage. The creature automatically heals nonlethal damage at a fixed rate per round, as given in the entry. Certain attack forms, typically fire and acid, deal lethal damage to the creature, which doesn’t go away. The creature’s descriptive text describes the details. A regenerating creature that has been rendered unconscious through nonlethal damage can be killed with a coup de grace. The attack cannot be of a type that automatically converts to nonlethal damage. ^regeneration
-
-Attack forms that don’t deal hit point damage ignore regeneration. Regeneration also does not restore hit points lost from starvation, thirst, or suffocation. Regenerating creatures can regrow lost portions of their bodies and can reattach severed limbs or body parts; details are in the creature’s descriptive text. Severed parts that are not reattached wither and die normally.
-
-A creature must have a Constitution score to have the regeneration ability.  
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Regeneration|Regeneration]] under Special Abilities.
+**Regeneration (Ex)**: See [[rangoric-srd/monsters/abilities/Regeneration|regeneration]]. ^regeneration
 
 **Reptilian Subtype**: These creatures are scaly and usually coldblooded. The reptilian subtype is only used to describe a set of humanoid races, not all animals and monsters that are truly reptiles. ^reptilian
 
-**Resistance to Energy (Ex)**: A creature with this special quality ignores some damage of the indicated type each time it takes damage of that kind (commonly acid, cold, fire, or electricity). The entry indicates the amount and type of damage ignored.  
- ^resistance-to-energy
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Energy|Resistance to Energy]] under Special Abilities.
+**Resistance to Energy (Ex)**: See [[rangoric-srd/monsters/abilities/Resistance|resistance]]. ^resistance-to-energy
 
 **Retyped Creatures**: Two older creature types are now subtypes. Read a stat block that still gives one of them as the newer type; the creature keeps its other subtypes. ^retyped
 
@@ -712,17 +592,7 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Resistance to Ene
 
 A stat block worked out under the older type rules keeps the numbers it was worked out with (Hit Dice, base attack, saves, feats and skill points).
 
-**Scent (Ex)**: This special quality allows a creature to detect approaching enemies, sniff out hidden foes, and track by sense of smell. Creatures with the scent ability can identify familiar odors just as humans do familiar sights. ^scent
-
-The creature can detect opponents within 30 feet by sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range.
-
-When a creature detects a scent, the exact location of the source is not revealed—only its presence somewhere within range. The creature can take a move action to note the direction of the scent.
-
-Whenever the creature comes within 5 feet of the source, the creature pinpoints the source’s location.
-
-A creature with the Track feat and the scent ability can follow tracks by smell, making a Wisdom (or Fieldcraft) check to find or follow a track. The typical DC for a fresh trail is 10 (no matter what kind of surface holds the scent). This DC increases or decreases depending on how strong the quarry’s odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. The ability otherwise follows the rules for the Track feat. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.  
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Scent|Scent]] under Special Abilities.
+**Scent (Ex)**: See [[rangoric-srd/monsters/abilities/Scent|scent]]. ^scent
 
 **Shapechanger Subtype**: A shapechanger has the supernatural ability to assume one or more alternate forms. Many magical effects allow some kind of shape shifting, and not every creature that can change shapes has the shapechanger subtype. ^shapechanger
 
@@ -732,28 +602,19 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Scent|Scent]] und
 
   - Proficient with any armor mentioned in the creature’s description, as well as all lighter forms. If no form of armor is mentioned, the shapechanger is not proficient with armor. A shapechanger is proficient with shields if it is proficient with any type of armor.
 
-**Sonic Attacks (Su)**: Unless otherwise noted, a sonic attack follows the rules for spreads. The range of the spread is measured from the creature using the sonic attack. Once a sonic attack has taken effect, deafening the subject or stopping its ears does not end the effect. Stopping one’s ears ahead of time allows opponents to avoid having to make saving throws against mind-affecting sonic attacks, but not other kinds of sonic attacks (such as those that deal damage). Stopping one’s ears is a full-round action and requires wax or other soundproof material to stuff into the ears. ^sonic-attacks
+**Sonic Attacks (Su)**: See [[rangoric-srd/monsters/abilities/Sonic Attacks|sonic attacks]]. ^sonic-attacks
 
 **Special Abilities**: A special ability is either extraordinary (Ex), spell-like (Sp), or supernatural (Su). The special abilities monsters share have a note each in `monsters/abilities`, listed in the [[rangoric-srd/monsters/abilities/Monster Abilities Index.base|Monster Abilities Index]]. ^special-abilities
 
 *Extraordinary*: Extraordinary abilities are nonmagical, don’t become ineffective in an antimagic field, and are not subject to any effect that disrupts magic. Using an extraordinary ability is a free action unless otherwise noted.
 
-*Spell-Like*: Spell-like abilities are magical and work just like spells (though they are not spells and so have no verbal, somatic, material, focus, or XP components). They go away in an antimagic field and are subject to spell resistance if the spell the ability resembles or duplicates would be subject to spell resistance.
-
-A spell-like ability usually has a limit on how often it can be used. A spell-like ability that can be used at will has no use limit. Using a spell-like ability is a standard action unless noted otherwise, and doing so while threatened provokes attacks of opportunity. It is possible to make a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check to use a spell-like ability defensively and avoid provoking an attack of opportunity, just as when casting a spell. A spell-like ability can be disrupted just as a spell can be. Spell-like abilities cannot be used to counterspell, nor can they be counterspelled.
-
-For creatures with spell-like abilities, a designated caster level defines how difficult it is to dispel their spell-like effects and to define any level-dependent variables (such as range and duration) the abilities might have. The creature’s caster level never affects which spell-like abilities the creature has; sometimes the given caster level is lower than the level a spellcasting character would need to cast the spell of the same name. If no caster level is specified, the caster level is equal to the creature’s Hit Dice. The saving throw (if any) against a spell-like ability is 10 + the level of the spell the ability resembles or duplicates + the creature’s Cha modifier.
-
-Some spell-like abilities duplicate spells that work differently when cast by characters of different classes. A monster’s spell-like abilities are presumed to be the sorcerer/wizard versions. If the spell in question is not a sorcerer/wizard spell, then default to cleric, druid, bard, paladin, and ranger, in that order.
+*Spell-Like*: See [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]].
 
 *Supernatural*: Supernatural abilities are magical and go away in an antimagic field but are not subject to spell resistance. Supernatural abilities cannot be dispelled. Using a supernatural ability is a standard action unless noted otherwise. Supernatural abilities may have a use limit or be usable at will, just like spell-like abilities. However, supernatural abilities do not provoke attacks of opportunity and never require Concentration checks. Unless otherwise noted, a supernatural ability has an effective caster level equal to the creature’s Hit Dice. The saving throw (if any) against a supernatural ability is 10 + 1/2 the creature’s HD + the creature’s ability modifier (usually Charisma).
 
-**Spell Immunity (Ex)**: A creature with spell immunity avoids the effects of spells and spell-like abilities that directly affect it. This works exactly like spell resistance, except that it cannot be overcome. Sometimes spell immunity is conditional or applies to only spells of a certain kind or level. Spells that do not allow spell resistance are not affected by spell immunity. ^spell-immunity
+**Spell Immunity (Ex)**: See [[rangoric-srd/monsters/abilities/Spell Immunity|spell immunity]]. ^spell-immunity
 
-**Spell Resistance (Ex)**: A creature with spell resistance can avoid the effects of spells and spell-like abilities that directly affect it.To determine if a spell or spell-like ability works against a creature with spell resistance, the caster must make a caster level check (1d20 + caster level). If the result equals or exceeds the creature’s spell resistance, the spell works normally, although the creature is still allowed a saving throw.  
- ^SR
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Spell Resistance|Spell Resistance]] under Special Abilities.
+**Spell Resistance (Ex)**: See [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]]. ^SR
 
 **Spells**: Sometimes a creature can cast arcane or divine spells just as a member of a spellcasting class can (and can activate magic items accordingly). Such creatures are subject to the same spellcasting rules that characters are, except as follows. ^spells
 
@@ -763,9 +624,9 @@ A spellcasting creature is not actually a member of a class unless its entry say
 
 **Strix Subtype**: A humanoid subtype for [[rangoric-srd/races/Strix|strix]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^strix
 
-**Summon (Sp)**: A creature with the summon ability can summon specific other creatures of its kind much as though casting a summon monster spell, but it usually has only a limited chance of success (as specified in the creature’s entry). Roll d%: On a failure, no creature answers the summons. Summoned creatures automatically return whence they came after 1 hour. A creature that has just been summoned cannot use its own summon ability for 1 hour. Most creatures with the ability to summon do not use it lightly, since it leaves them beholden to the summoned creature. In general, they use it only when necessary to save their own lives. An appropriate spell level is given for each summoning ability for purposes of [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks and attempts to dispel the summoned creature. No experience points are awarded for summoned monsters. ^summon
+**Summon (Sp)**: See [[rangoric-srd/monsters/abilities/Summon|summon]]. ^summon
 
-**Swallow Whole (Ex)**: If a creature with this special attack begins its turn with an opponent grappled in its mouth (see [[#^improved-grab|Improved Grab]]), it can attempt a new combat maneuver check (as though attempting to pin the opponent). If it succeeds, it swallows its prey, and the opponent takes bite damage. Unless otherwise noted, the opponent can be up to one size category smaller than the swallowing creature. Being swallowed causes the target to take damage each round. The amount and type of damage varies and is given in the swallowing creature’s entry. A swallowed creature keeps the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] condition, while the creature that did the swallowing does not. A swallowed creature can try to cut its way free with any light slashing or piercing weapon (the amount of cutting damage required to get free is noted in the creature’s entry), or it can just try to escape the grapple. The Armor Class of the interior of a creature that swallows whole is normally 10 + 1/2 its natural armor bonus, with no modifiers for size or Dexterity. If a swallowed creature cuts its way out, the swallowing creature cannot use swallow whole again until the damage is healed. If the swallowed creature escapes the grapple, success puts it back in the attacker’s mouth, where it may be bitten or swallowed again. ^swallow-whole
+**Swallow Whole (Ex)**: See [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]. ^swallow-whole
 
 **Swarm Subtype**: A swarm is a collection of Fine, Diminutive, or Tiny creatures that acts as a single creature. A swarm has the characteristics of its type, except as noted here. A swarm has a single pool of Hit Dice and hit points, a single initiative modifier, a single speed, and a single Armor Class. A swarm makes saving throws as a single creature. A single swarm occupies a square (if it is made up of nonflying creatures) or a cube (of flying creatures) 10 feet on a side, but its reach is 0 feet, like its component creatures. In order to attack, it moves into an opponent’s space, which provokes an attack of opportunity. It can occupy the same space as a creature of any size, since it crawls all over its prey. A swarm can move through squares occupied by enemies and vice versa without impediment, although the swarm provokes an attack of opportunity if it does so. A swarm can move through cracks or holes large enough for its component creatures. ^swarm
 
@@ -793,24 +654,13 @@ Swarms do not threaten creatures in their square, and do not make attacks of opp
 
 *Distraction (Ex)*: Any living creature vulnerable to a swarm’s damage that begins its turn with a swarm in its square is nauseated for 1 round; a Fortitude save (DC 10 + 1/2 swarm’s HD + swarm’s Con modifier; the exact DC is given in a swarm’s description) negates the effect. Spellcasting or concentrating on spells within the area of a swarm requires a [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] check (DC 20 + spell level). Using skills that involve patience and concentration requires a DC 20 Concentration check.
 
-**Telepathy (Su)**: A creature with this ability can communicate telepathically with any other creature within a certain range (specified in the creature’s entry, usually 100 feet) that has a language. It is possible to address multiple creatures at once telepathically, although maintaining a telepathic conversation with more than one creature at a time is just as difficult as simultaneously speaking and listening to multiple people at the same time. ^telepathy
-
-Some creatures have a limited form of telepathy, while others have a more powerful form of the ability.
+**Telepathy (Su)**: See [[rangoric-srd/monsters/abilities/Telepathy|telepathy]]. ^telepathy
 
 **Tengu Subtype**: A humanoid subtype for [[rangoric-srd/races/Tengu|tengus]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^tengu
 
-**Trample (Ex)**: As a full-round action, a creature with this special attack can move up to twice its speed and literally run over any opponents at least one size category smaller than itself. The creature merely has to move over the opponents in its path; any creature whose space is completely covered by the trampling creature’s space is subject to the trample attack. If a target’s space is larger than 5 feet, it is only considered trampled if the trampling creature moves over all the squares it occupies. If the trampling creature moves over only some of a target’s space, the target can make an attack of opportunity against the trampling creature at a –4 penalty. A trampling creature that accidentally ends its movement in an illegal space returns to the last legal position it occupied, or the closest legal position, if there’s a legal position that’s closer. ^trample
+**Trample (Ex)**: See [[rangoric-srd/monsters/abilities/Trample|trample]]. ^trample
 
-A trample attack deals bludgeoning damage (the creature’s slam damage + 1-1/2 times its Str modifier). The creature’s descriptive text gives the exact amount.
-
-Trampled opponents can attempt attacks of opportunity, but these take a –4 penalty. If they do not make attacks of opportunity, trampled opponents can attempt Reflex saves to take half damage.
-
-The save DC against a creature’s trample attack is 10 + 1/2 creature’s HD + creature’s Str modifier (the exact DC is given in the creature’s descriptive text). A trampling creature can only deal trampling damage to each target once per round, no matter how many times its movement takes it over a target creature.
-
-**Tremorsense (Ex)**: A creature with tremorsense is sensitive to vibrations in the ground and can automatically pinpoint the location of anything that is in contact with the ground. Aquatic creatures with tremorsense can also sense the location of creatures moving through water. The ability’s range is specified in the creature’s descriptive text.  
- ^tremorsense
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Tremorsense|Tremorsense]] under Special Abilities.
+**Tremorsense (Ex)**: See [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]]. ^tremorsense
 
 **Treasure**: This entry in a monster description describes how much wealth a creature owns. In most cases, a creature keeps valuables in its home or lair and has no treasure with it when it travels. Intelligent creatures that own useful, portable treasure (such as magic items) tend to carry and use these, leaving bulky items at home. Treasure can include coins, goods, and items. Creatures can have varying amounts of each, as follows. ^treasure
 
@@ -836,10 +686,7 @@ When a note includes the word “only,” the creature goes out of its way to co
 
 It’s sometimes necessary to reroll until the right sort of item appears.
 
-**Turn Resistance (Ex)**: A creature with this special quality (usually an undead) is less easily affected by clerics or paladins. When resolving a turn, rebuke, command, or bolster attempt, add the indicated number to the creature’s Hit Dice total.  
- ^turn-resistance
-
-Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|Turn Resistance]] under Special Abilities.
+**Turn Resistance (Ex)**: See [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]]. ^turn-resistance
 
 **Undead Type**: Undead are once-living creatures animated by spiritual or supernatural forces. ^undead
 
@@ -909,6 +756,6 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Turn Resistance|T
 
 **Vishkanya Subtype**: A humanoid subtype for [[rangoric-srd/races/Vishkanya|vishkanyas]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^vishkanya
 
-**Vulnerability to Energy**: Some creatures have vulnerability to a certain kind of energy effect (typically either cold or fire). Such a creature takes half again as much (+50%) damage as normal from the effect, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^vulnerability-to-energy
+**Vulnerability to Energy**: See [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerabilities]]. ^vulnerability-to-energy
 
 **Water Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Water. Creatures with the water subtype always have swim speeds and can move in water without making Athletics checks to swim. A water creature can breathe underwater and usually can breathe air as well. ^water

@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/monster-ability]
 
 *[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “lifesense”, on the Special Qualities line.
 
-The creature notices and locates living creatures within 60 feet, just as if it possessed the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] ability.
+The creature notices and locates living creatures within 60 feet, just as if it possessed the [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] ability.

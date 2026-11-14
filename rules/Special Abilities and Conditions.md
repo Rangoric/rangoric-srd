@@ -398,17 +398,7 @@ All ray attacks require the attacker to make a successful ranged touch attack ag
 
 ##### Regeneration
 
-Creatures with this extraordinary ability recover from wounds quickly and can even regrow or reattach severed body parts. Damage dealt to the creature is treated as nonlethal damage, and the creature automatically cures itself of nonlethal damage at a fixed rate.
-
-Certain attack forms, typically fire and acid, deal damage to the creature normally; that sort of damage doesn’t convert to nonlethal damage and so doesn’t go away. The creature’s description includes the details.
-
-Creatures with regeneration can regrow lost portions of their bodies and can reattach severed limbs or body parts. Severed parts die if they are not reattached.
-
-Regeneration does not restore hit points lost from starvation, thirst, or suffocation.
-
-Attack forms that don’t deal hit point damage ignore regeneration.
-
-An attack that can cause instant death only threatens the creature with death if it is delivered by weapons that deal it lethal damage.
+See [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] under the monster abilities.
 
 ##### Resistance to Energy
 
@@ -426,7 +416,7 @@ A creature with the scent ability can detect opponents by sense of smell, genera
 
 The creature detects another creature’s presence but not its specific location. Noting the direction of the scent is a move action. If it moves within 5 feet of the scent’s source, the creature can pinpoint that source.
 
-A creature with the Track feat and the scent ability can follow tracks by smell, making a Wisdom check to find or follow a track. The typical DC for a fresh trail is 10. The DC increases or decreases depending on how strong the quarry’s odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. The ability otherwise follows the rules for the Track feat. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
+A creature with the scent ability can follow tracks by smell as if it had the [[rangoric-srd/feats/Track|Track]] feat (it doesn’t need the feat), making a Wisdom check to find or follow a track. The typical DC for a fresh trail is 10. The DC increases or decreases depending on how strong the quarry’s odor is, the number of creatures, and the age of the trail. For each hour that the trail is cold, the DC increases by 2. The ability otherwise follows the rules for the Track feat. Creatures tracking by scent ignore the effects of surface conditions and poor visibility.
 
 Creatures with the scent ability can identify familiar odors just as humans do familiar sights.
 
