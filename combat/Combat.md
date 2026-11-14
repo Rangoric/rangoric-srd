@@ -103,7 +103,7 @@ Sometimes you can’t use your Dexterity bonus (if you have one). If you can’t
 
 ##### Hit Points
 
-When your hit point total reaches 0, you’re disabled. When it reaches –1, you’re dying. When it gets to –10, you’re dead.
+When your hit point total reaches 0, you’re disabled. When it falls below 0, you’re dying, and when it falls far enough, you’re [[rangoric-srd/combat/Injury and Death#^death|dead]].
 
 ##### Speed
 

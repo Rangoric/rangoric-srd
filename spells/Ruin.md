@@ -35,6 +35,6 @@ Saving Throw: Fortitude half
 Spell Resistance: Yes  
 To Develop: 243,000 gp; 5 days; 9,720 XP. Seed: destroy (DC 29). Factor: reduce casting time by 9 rounds (+18 DC). Mitigating factor: burn 2,000 XP (-20 DC).  
 
-The character deals 20d6 points of damage to a single target within range and line of sight. If the target is reduced to -10 hit points or less (or a construct, object, or undead is reduced to 0 hit points), it is utterly destroyed as if disintegrated. Only a trace of fine dust remains.
+The character deals 20d6 points of damage to a single target within range and line of sight. If the damage [[rangoric-srd/combat/Injury and Death#^death|kills]] the target (or reduces a construct, object, or undead to 0 hit points), it is utterly destroyed as if disintegrated. Only a trace of fine dust remains.
 
 XP Cost: 2,000 XP.

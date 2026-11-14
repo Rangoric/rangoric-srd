@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Combat"
 based-on:
   - "[[fantasy srd 3.5/combat/Injury and Death|Injury and Death (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/combat/Injury and Death|Injury and Death (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -23,11 +24,11 @@ The most common way that your character gets hurt is to take lethal damage and l
 
 **Effects of Hit Point Damage**: Damage doesn’t slow you down until your current hit points reach 0 or lower. At 0 hit points, you’re disabled.
 
-At from –1 to –9 hit points, you’re dying.
+If your hit point total is negative, but not equal to or greater than your Constitution score, you’re unconscious and dying.
 
-At –10 or lower, you’re dead.
+When your negative hit point total is equal to or greater than your Constitution score, you’re dead.
 
-**Massive Damage**: If you ever sustain a single attack deals 50 points of damage or more and it doesn’t kill you outright, you must make a DC 15 Fortitude save. If this saving throw fails, you die regardless of your current hit points. If you take 50 points of damage or more from multiple attacks, no one of which dealt 50 or more points of damage itself, the massive damage rule does not apply.
+**Massive Damage**: If you ever sustain a single attack that deals damage equal to half your total hit points or more (minimum 50 points of damage) and it doesn’t kill you outright, you must make a DC 15 Fortitude save. If this saving throw fails, you die regardless of your current hit points. If you take that much damage from multiple attacks, no one of which dealt that much by itself, the massive damage rule does not apply. ^massive-damage
 
 ##### Disabled (0 Hit Points)
 
@@ -37,23 +38,25 @@ Healing that raises your hit points above 0 makes you fully functional again, ju
 
 You can also become disabled when recovering from dying. In this case, it’s a step toward recovery, and you can have fewer than 0 hit points (see Stable Characters and Recovery, below).
 
-##### Dying (–1 to –9 Hit Points)
+##### Dying
 
-When your character’s current hit points drop to between –1 and –9 inclusive, he’s dying.
+When your character’s hit point total is negative, but not equal to or greater than his Constitution score, he’s dying.
 
 A dying character immediately falls unconscious and can take no actions.
 
 A dying character loses 1 hit point every round. This continues until the character dies or becomes stable (see below).
 
-##### Dead (–10 Hit Points or Lower)
+##### Dead
 
-When your character’s current hit points drop to –10 or lower, or if he takes massive damage (see above), he’s dead. A character can also die from taking ability damage or suffering an ability drain that reduces his Constitution to 0.
+When your character’s current hit points drop to a negative amount equal to his Constitution score or lower, or if he takes massive damage (see above), he’s dead. A character can also die from taking ability damage or suffering an ability drain that reduces his Constitution to 0. ^death
+
+A creature with no Constitution score, such as a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct]] or an [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead]] creature, doesn’t go through dying: its type says when it’s destroyed.
 
 ##### Stable Characters and Recovery
 
-On the next turn after a character is reduced to between –1 and –9 hit points and on all subsequent turns, roll d% to see whether the dying character becomes stable. He has a 10% chance of becoming stable. If he doesn’t, he loses 1 hit point. (A character who’s unconscious or dying can’t use any special action that changes the initiative count on which his action occurs.)
+On the character’s next turn after being reduced to negative hit points (but not dead), and on all later turns, he must make a DC 10 Constitution check to become stable. He takes a penalty on this roll equal to his negative hit point total. A natural 20 on this check is an automatic success. A character who is stable doesn’t need to make this check. If he fails it, he loses 1 hit point. (A character who’s unconscious or dying can’t use any special action that changes the initiative count on which his action occurs.) ^stabilizing
 
-If the character’s hit points drop to –10 or lower, he’s dead.
+Characters taking continuous damage, such as from an *[[rangoric-srd/spells/Acid Arrow|acid arrow]]* or a [[rangoric-srd/rules/Special Abilities and Conditions#^bleed|bleed]] effect, automatically fail all Constitution checks made to stabilize. Such characters lose 1 hit point per round in addition to the continuous damage.
 
 You can keep a dying character from losing any more hit points and make him stable with the [[rangoric-srd/actions/Stabilize (Action)|Stabilize]] action, a [[rangoric-srd/actions/First Aid|First Aid]] action.
 
@@ -63,15 +66,15 @@ Healing that raises the dying character’s hit points to 0 makes him conscious 
 
 A stable character who has been tended by a healer or who has been magically healed eventually regains consciousness and recovers hit points naturally. If the character has no one to tend him, however, his life is still in danger, and he may yet slip away.
 
-**Recovering with Help**: One hour after a tended, dying character becomes stable, roll d%. He has a 10% chance of becoming conscious, at which point he is disabled (as if he had 0 hit points). If he remains unconscious, he has the same chance to revive and become disabled every hour. Even if unconscious, he recovers hit points naturally. He is back to normal when his hit points rise to 1 or higher.
+**Recovering with Help**: One hour after a tended, dying character becomes stable, he must make a DC 10 Constitution check to become conscious, taking a penalty on this roll equal to his negative hit point total. A natural 20 on this check is an automatic success. A conscious character with a negative hit point total is disabled. If he remains unconscious, he makes another check every hour to regain consciousness. Even if unconscious, he recovers hit points naturally. He automatically regains consciousness when his hit points rise to 1 or higher.
 
 **Recovering without Help**: A severely wounded character left alone usually dies. He has a small chance, however, of recovering on his own.
 
-A character who becomes stable on his own (by making the 10% roll while dying) and who has no one to tend to him still loses hit points, just at a slower rate. He has a 10% chance each hour of becoming conscious. Each time he misses his hourly roll to become conscious, he loses 1 hit point. He also does not recover hit points through natural healing.
+A character who becomes stable on his own (by making the Constitution check while dying) and who has no one to tend to him is treated as a character recovering with help, but every failed Constitution check to regain consciousness costs him 1 hit point. He also does not recover hit points through natural healing.
 
-Even once he becomes conscious and is disabled, an unaided character still does not recover hit points naturally. Instead, each day he has a 10% chance to start recovering hit points naturally (starting with that day); otherwise, he loses 1 hit point.
+Once conscious, an unaided character can make a DC 10 Constitution check once per day, after resting for 8 hours, to begin recovering hit points naturally, taking a penalty on this roll equal to his negative hit point total. Failing this check costs him 1 hit point, but doesn’t make him unconscious.
 
-Once an unaided character starts recovering hit points naturally, he is no longer in danger of naturally losing hit points (even if his current hit point total is negative).
+Once an unaided character makes this check, he recovers hit points naturally and is no longer in danger of naturally losing hit points (even if his current hit point total is negative).
 
 ##### Healing
 

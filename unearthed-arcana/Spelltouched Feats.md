@@ -40,7 +40,7 @@ Because these feats are variants, they employ other game mechanics rarely seen i
 | Eyes to the Sky       | Exposure to scrying or greater scrying                              | Automatically spot magical scrying sensor within 40 feet                                                |
 | False Pretenses       | Exposure to charm or dominate spell                                 | Mislead opponent into thinking you are charmed or dominated                                             |
 | Ineluctable Echo      | Exposure to wail of the banshee or any power word spell             | Caster who targets you with power word spell or wail of the banshee is also affected by spell           |
-| Life Leech            | Exposure to death touch granted power or death knell spell          | Each creature within 30 feet that has -1 to -9 hp loses 1 hp, which you gain as temporary hit points    |
+| Life Leech            | Exposure to death touch granted power or death knell spell          | Each dying or stable creature within 30 feet loses 1 hp, which you gain as temporary hit points    |
 | Live My Nightmare     | Exposure to phantasmal killer                                       | Send nightmarish vision against creature that targets you with divination effect                        |
 | Momentary Alteration  | Exposure to alter self                                              | Use alter self as spell-like ability for 1 minute once per day                                          |
 | Naturalized Denizen   | Exposure to dimensional anchor                                      | You are never treated as extraplanar creature                                                           |
