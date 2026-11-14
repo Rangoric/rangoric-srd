@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +12 melee (1d6+5) and bite +7 melee (1d6+2)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Sneak attack +2d6, spell-like abilities, summon demon
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/cold iron or good, darkvision 60 ft., immunity to electricity and poison, protective slime, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]]10, cold 10, and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 14, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron or good, darkvision 60 ft., immunity to electricity and poison, protective slime, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]]10, cold 10, and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +10, Ref +6, Will +6
   - **Abilities**: Str 21, Dex 12, Con 20, Int 14, Wis 13, Cha 16
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +15, [[rangoric-srd/skills/Engineering|Engineering]] +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 following tracks, +13 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +12, [[rangoric-srd/skills/Investigation|Investigation]] +20, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +19
@@ -72,7 +72,7 @@ A babau is about 6 feet tall and weighs about 140 pounds.
 
 Babaus are sneaky and sly. They attack the most powerful foe first, hoping to eliminate the true threats quickly and then toy with the rest. When ambushing their opponents, they make excellent use of the combination of multiple attacks and sneak attacks.
 
-A babau’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A babau’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Sneak Attack (Ex)**: A babau can make a sneak attack like a rogue, dealing an extra 2d6 points of damage whenever a foe is denied his or her Dexterity bonus, or when the babau is flanking.
 

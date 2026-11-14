@@ -47,8 +47,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +13 melee (1d6+7)
   - **Full Attack**: 2 claws +13 melee (1d6+7) and bite +8 melee (1d6+3)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 1d6+7, rend 2d6+10, spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 2/bludgeoning, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 19
+  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d6+7, rend 2d6+10, spell-like abilities
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 2/bludgeoning, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
   - **Saves**: Fort +6, Ref +6, Will +6
   - **Abilities**: Str 25, Dex 12, Con 14, Int 13, Wis 13, Cha 10
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Imitation|Imitation]] +1 (+3 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +0, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +0, [[rangoric-srd/skills/Stealth|Stealth]] +7

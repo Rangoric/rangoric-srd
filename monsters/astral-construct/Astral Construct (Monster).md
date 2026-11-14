@@ -54,7 +54,7 @@ Mobility (Ex): The astral construct gains the [[rangoric-srd/feats/Mobility|Mobi
 
 Power Attack (Ex): The astral construct gains the [[rangoric-srd/feats/Power Attack|Power Attack]] feat.
 
-Resistance (Ex): Choose one of the following energy types: fire, cold, acid, electricity, or sonic. The astral construct gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance]] 5 against that energy type.
+Resistance (Ex): Choose one of the following energy types: fire, cold, acid, electricity, or sonic. The astral construct gains [[rangoric-srd/monsters/abilities/Resistance|resistance]] 5 against that energy type.
 
 Swim (Ex): The astral construct is streamlined and shark like, and gains a swim speed of 30 feet.
 
@@ -76,11 +76,11 @@ Improved Buff (Ex): The astral construct gains an extra 15 hit points.
 
 Improved Critical (Ex): The astral construct gains the [[rangoric-srd/feats/Improved Critical|Improved Critical]] feat with its slam attacks.
 
-Improved Damage Reduction (Ex): The astral construct’s surface forms a hard carapace and provides an additional 3 points of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] (or damage reduction 3/magic if it does not already have damage reduction).
+Improved Damage Reduction (Ex): The astral construct’s surface forms a hard carapace and provides an additional 3 points of [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] (or damage reduction 3/magic if it does not already have damage reduction).
 
 Improved Fly (Ex): The astral construct has physical wings and a fly speed of 40 feet (average).
 
-[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved Grab]] (Ex): To use this ability, the construct must hit with its slam attack. A construct can use this ability only on a target that is at least one size smaller than itself.
+[[rangoric-srd/monsters/abilities/Grab|Improved Grab]] (Ex): To use this ability, the construct must hit with its slam attack. A construct can use this ability only on a target that is at least one size smaller than itself.
 
 Improved Swim: The astral construct is streamlined and sharklike, and gains a swim speed of 60 feet.
 
@@ -98,11 +98,11 @@ Trample (Ex): As a standard action during its turn each round, a Large or larger
 
 A manifester creating a 7th-level, 8th-level, or 9th-level astral Construct can choose one special ability from this menu. AlterNatively, the astral Construct can have two special abilities from Menu B. (One or both of the Menu B choices can be swapped for two choices from Menu A.)  
 
-Blindsight (Ex): The astral construct has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] out to 60 feet.
+Blindsight (Ex): The astral construct has [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] out to 60 feet.
 
 Concussion (Ps): The astral Construct can manifest [[rangoric-srd/powers/Concussion Blast|concussion blast]] (manifester level 7th) as a free action once per round.
 
-Constrict (Ex): The astral construct has the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]] ability with its slam attack. In addition, on a successful grapple check, the astral construct deals damage equal to its slam damage.
+Constrict (Ex): The astral construct has the [[rangoric-srd/monsters/abilities/Grab|improved grab]] ability with its slam attack. In addition, on a successful grapple check, the astral construct deals damage equal to its slam damage.
 
 Dimension Slide (Ps): The astral construct can manifest [[rangoric-srd/powers/Dimension Slide|dimension slide]] (manifester level equal to Hit Dice) as a move action once per round.
 
@@ -110,7 +110,7 @@ Energy Bolt (Ps): The astral construct can manifest [[rangoric-srd/powers/Energy
 
 Extra Buff (Ex): The astral construct gains an extra 30 hit points.
 
-Extreme Damage Reduction (Ex): The astral construct’s surface forms hard, armor-like plates and provides an additional 6 points of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+Extreme Damage Reduction (Ex): The astral construct’s surface forms hard, armor-like plates and provides an additional 6 points of [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 Extreme Deflection (Ex): The astral Construct gains a +8 deflection bonus to Armor Class.
 

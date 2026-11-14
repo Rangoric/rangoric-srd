@@ -50,7 +50,7 @@ Attack: Claw +40 (3d8+21/19-20 (+1d6 on critical hit) plus blight-fire) melee �
 Full Attack: 2 claws +40 (3d8+21/19-20 (+1d6 on critical hit) plus blight-fire) melee, skull butt +32 (2d6+10 plus blightfire) melee     
 Space/Reach: 5 ft./5 ft.      
 Special Attacks: Rend 6d8+31, blightfire, spell-like abilities      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold subtype]], cold aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 34, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/-     
+Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold subtype]], cold aura, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-     
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +56 (+68 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +44, [[rangoric-srd/skills/Perception|Perception]] +43, [[rangoric-srd/skills/Theology|Theology]] +35     
 Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
 Epic Feats: [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (claw), [[rangoric-srd/feats/Blinding Speed|Blinding Speed]], [[rangoric-srd/feats/Epic Fortitude|Epic Fortitude]], [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (claw)      
@@ -65,7 +65,7 @@ Advancement: 33-42 HD (Medium-size); 43-55 HD (Huge)    
 
 Winterwights speak Common and Infernal.
 
-A winterwight’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A winterwight’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -79,6 +79,6 @@ At will - [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spel
 
 Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-Cold Subtype: Immunity to cold. [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|Vulnerability to fire]] (takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure).
+Cold Subtype: Immunity to cold. [[rangoric-srd/monsters/abilities/Vulnerabilities|Vulnerability to fire]] (takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure).
 
-Cold Aura (Su): A 10-foot-radius spread cold aura surrounds a winterwight. All creatures of the cold subtype in the field (including the winterwight) are treated as if having [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]] +6 (if undead) and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 10. Creatures subject to cold Damage take 2d10 points of cold Damage each round they remain within the cold aura.
+Cold Aura (Su): A 10-foot-radius spread cold aura surrounds a winterwight. All creatures of the cold subtype in the field (including the winterwight) are treated as if having [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +6 (if undead) and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10. Creatures subject to cold Damage take 2d10 points of cold Damage each round they remain within the cold aura.

@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Slam +2 melee (1d6 plus 1d6 acid)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: Acid, engulf, paralysis
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 60 ft., immunity to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], transparent
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., immunity to electricity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], transparent
   - **Saves**: Fort +9, Ref –4, Will –4
   - **Abilities**: Str 10, Dex 1, Con 26, Int —, Wis 1, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7

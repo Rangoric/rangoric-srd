@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +9 melee (1d6+3) and 2 claws +4 melee (1d4+1)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, feed
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^change-shape|Change shape]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +6, Ref +7, Will +7
   - **Abilities**: Str 17, Dex 15, Con 13, Int 14, Wis 14, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +11 (+13 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +11, [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11 (\*)
@@ -79,7 +79,7 @@ Barghests speak Goblin, Worg, and Infernal. 
 
 Barghests can claw and bite, no matter what their form, and usually disdain weapons. Though they love killing, they have little stomach for direct combat and attack from ambush whenever possible. Barghests start a combat by using [[rangoric-srd/spells/Crushing Despair|crushing despair]] and [[rangoric-srd/spells/Charm Monster|charm monster]] to keep opponents off balance. They try to stay away from the enemy’s main strength.
 
-A barghest’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]]. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
+A barghest’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]]. Its natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
 **Spell-Like Abilities**: At will—[[rangoric-srd/spells/Blink|blink]], [[rangoric-srd/spells/Levitate|levitate]], [[rangoric-srd/spells/Misdirection|misdirection]] (DC 14), [[rangoric-srd/spells/Rage|rage]] (DC 15); 1/day—[[rangoric-srd/spells/Charm Monster|charm monster]] (DC 16), [[rangoric-srd/spells/Crushing Despair|crushing despair]] (DC 16), [[rangoric-srd/spells/Dimension Door|dimension door]]. Caster level equals the barghest’s HD. The save DCs are Charisma-based.
 

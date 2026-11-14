@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +15 melee (1d6+9)
   - **Full Attack**: 2 claws +15 melee (1d6+9)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^energy-drain|Energy drain]], trap essence, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., spell deflection, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 21, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]], trap essence, spell-like abilities
+  - **Special Qualities**: Darkvision 60 ft., spell deflection, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +4, Ref +4, Will +11
   - **Abilities**: Str 28, Dex 10, Con —, Int 16, Wis 16, Cha 17
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +18, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +11

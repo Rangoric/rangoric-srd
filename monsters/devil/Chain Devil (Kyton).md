@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Chain +10 melee (2d4+2/19–20)
   - **Full Attack**: 2 chains +10 melee (2d4+2/19–20)
   - **Space/Reach**: 5 ft./5 ft. (10 ft. with chains)
-  - **Special Attacks**: Dancing chains, unnerving [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/silver or good, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 2, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 18
+  - **Special Attacks**: Dancing chains, unnerving [[rangoric-srd/monsters/abilities/Gaze|gaze]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/silver or good, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
   - **Saves**: Fort +8, Ref +8, Will +6
   - **Abilities**: Str 15, Dex 15, Con 15, Int 6, Wis 10, Cha 12
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) +17, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+15 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +14
@@ -73,7 +73,7 @@ Chain devils speak Infernal and Common.
 
 A chain devil attacks by flailing away with the spiked chains that serve as its clothing, armor, and weapons.
 
-A chain devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A chain devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Dancing Chains (Su)**: A chain devil’s most awesome attack is its ability to control up to four chains within 20 feet as a standard action, making the chains dance or move as it wishes. In addition, a chain devil can increase these chains’ length by up to 15 feet and cause them to sprout razor-edged barbs. These chains attack as effectively as the devil itself. If a chain is in another creature’s possession, the creature can attempt a DC 15 Will save to break the chain devil’s power over that chain. If the save is successful, the kyton cannot attempt to control that particular chain again for 24 hours or until the chain leaves the creature’s possession. The save DC is Charisma-based.
 

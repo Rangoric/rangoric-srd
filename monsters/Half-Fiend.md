@@ -68,13 +68,13 @@ A half-fiend uses all the base creature’s statistics and special abilities exc
 
   - Immunity to [[rangoric-srd/rules/Afflictions#Poison|poison]].
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to acid]] 10, cold 10, electricity 10, and fire 10.
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance to acid]] 10, cold 10, electricity 10, and fire 10.
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]]: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]]: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
 
-  - A half-fiend’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+  - A half-fiend’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
+  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
 
 **Abilities: Increase from the base creature as follows**: Str +4, Dex +4, Con +2, Int +4, Cha +2.
 

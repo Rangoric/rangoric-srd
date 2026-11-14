@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +12 melee (1d6+6)
   - **Full Attack**: 2 claws +12 melee (1d6+6)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|Pounce]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 1d6+3, spells
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d6+3, spells
   - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], spell-like abilities
   - **Saves**: Fort +8, Ref +8, Will +7
   - **Abilities**: Str 23, Dex 12, Con 17, Int 16, Wis 17, Cha 14
@@ -91,7 +91,7 @@ A lammasu attacks with spells or its razor-sharp claws. It almost always enters 
 
 1/day - [[rangoric-srd/spells/Dimension Door|dimension door]].  
 
-**Pounce (Ex)**: If a lammasu [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]] a foe, it can make a full attack, including two [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks.
+**Pounce (Ex)**: If a lammasu [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]] a foe, it can make a full attack, including two [[rangoric-srd/monsters/abilities/Rake|rake]] attacks.
 
 **Rake (Ex)**: Attack bonus +12 melee, damage 1d6+3.
 

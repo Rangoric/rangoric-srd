@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 morningstars +10 melee (2d6+6) or 2 claws +10 melee (1d6+6) or 2 javelins +4 ranged (1d8+6)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/bludgeoning, darkvision 60 ft., darkvision 60 ft., immunity to cold, superior twoweapon, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/bludgeoning, darkvision 60 ft., darkvision 60 ft., immunity to cold, superior twoweapon, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +3, Ref +3, Will +7
   - **Abilities**: Str 23, Dex 10, Con —, Int —, Wis 10, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19

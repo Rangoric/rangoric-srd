@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +16 melee (1d8+6)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 5, find master, guard, low-light vision, [[rangoric-srd/spells/Shield Other|shield other]], spell storing
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, find master, guard, low-light vision, [[rangoric-srd/spells/Shield Other|shield other]], spell storing
   - **Saves**: Fort +5, Ref +5, Will +5
   - **Abilities**: Str 22, Dex 10, Con —, Int —, Wis 10, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24

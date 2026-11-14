@@ -56,7 +56,7 @@ One of the [[rangoric-srd/races/prestige-races/Prestige Races|prestige races]]; 
 
 **Details:** A regenerating creature is able to quickly recover from wounds and injuries. Severed limbs grow back in 3d10 minutes or may be reattached immediately. Damage from fire or acid must be healed normally.
 
-**Game Effects:** Gain [[rangoric-srd/rules/Special Abilities and Conditions#Regeneration|regeneration]] 2.
+**Game Effects:** Gain [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 2.
 
 ### Green Creature
 

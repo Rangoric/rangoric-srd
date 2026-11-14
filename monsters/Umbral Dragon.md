@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/monster]
 
 # Umbral Dragon
 
-The umbral dragon, a primal dragon, is named in the [[rangoric-srd/races/Fetchling|fetchling]]’s description. The general dragon rules (age categories, frightful presence, crush and tail sweep) are in [[rangoric-srd/monsters/Dragon, True|Dragon, True]]. An umbral dragon has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^negative-energy-affinity|negative energy affinity]] through its umbral scion ability.
+The umbral dragon, a primal dragon, is named in the [[rangoric-srd/races/Fetchling|fetchling]]’s description. The general dragon rules (age categories, frightful presence, crush and tail sweep) are in [[rangoric-srd/monsters/Dragon, True|Dragon, True]]. An umbral dragon has [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]] through its umbral scion ability.
 
 The stat blocks are Pathfinder’s, with skills renamed to Rangoric’s; their totals are Pathfinder’s, close enough.
 

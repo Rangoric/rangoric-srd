@@ -67,7 +67,7 @@ Many deities have other Armor Class bonuses as noted in their individual descrip
 
 Attacks: A deity’s Hit Dice and type and character level determine its base attack bonus. In addition to the figures for weapon attacks, this section of the statistics block also includes melee touch attack and ranged touch attack bonuses, to be used when the deity casts a spell or uses a spell-like ability that requires a touch attack to affect its target. A deity gets its divine rank as a divine bonus on all attack rolls. Deities of rank 1 or higher do not automatically fail on a natural attack roll of 1.
 
-Bypassing Damage Reduction: As outsiders with alignment subtypes, the natural attacks of deities, as well as any weapons they wield, are considered aligned the same as the deity for the purposes of bypassing [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+Bypassing Damage Reduction: As outsiders with alignment subtypes, the natural attacks of deities, as well as any weapons they wield, are considered aligned the same as the deity for the purposes of bypassing [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 Always Maximize Roll: Greater deities (rank 16-20) automatically get the best result possible on any check, saving throw, attack roll, or damage roll. Calculate success, failure, or other effects accordingly. When a greater deity makes a check, attack, or save assume a 20 was rolled and calculate success or failure from there. A d20 should still be rolled and used to check for a threat of a critical hit.  This quality means that greater deities never need the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat, because their spells have maximum effect already.  
 
@@ -87,7 +87,7 @@ Energy Immunity: Deities of rank 1 or higher are immune to electricity, cold, an
 Deities of rank 1 or higher are immune to [[rangoric-srd/rules/Afflictions#Disease|disease]] and [[rangoric-srd/rules/Afflictions#Poison|poison]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], and death effects, and disintegration.  
 Deities of rank 6 or higher are immune to effects that imprison or banish them. Such effects include [[rangoric-srd/spells/Banishment|banishment]], [[rangoric-srd/spells/Binding|binding]], [[rangoric-srd/spells/Dimensional Anchor|dimensional anchor]], [[rangoric-srd/spells/Dismissal|dismissal]], [[rangoric-srd/spells/Imprisonment|imprisonment]], [[rangoric-srd/spells/Repulsion|repulsion]], [[rangoric-srd/spells/Soul Bind|soul bind]], [[rangoric-srd/spells/Temporal Stasis|temporal stasis]], [[rangoric-srd/spells/Trap the Soul|trap the soul]], and [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turning and rebuking]].
 
-Damage Reduction: A deity has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] as shown below
+Damage Reduction: A deity has [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] as shown below
 
 | Divine Rank                | Damage Reduction |
 | -------------------------- | ---------------- |
@@ -101,9 +101,9 @@ If the deity also has damage reduction from another source this damage reduction
 
 Resistances: All deities have at least the following resistances.  Individual deities may have additional resistances.
 
-Energy Resistance: A deity has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] of 5 + its divine rank.
+Energy Resistance: A deity has [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] of 5 + its divine rank.
 
-Spell Resistance: A deity has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] of 32 + its divine rank.
+Spell Resistance: A deity has [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] of 32 + its divine rank.
 
 Salient Divine Abilities: Every deity of rank 1 or higher has at least one additional power, called a salient divine ability, per divine rank (see Salient Divine Abilities).
 

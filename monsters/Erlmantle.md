@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Tendril +1 melee (1d2+1)
   - **Full Attack**: 2 tendrils +1 melee (1d2+1)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Entangle, gaseous protection, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]]
-  - **Special Qualities**: Barkskin, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] 30 ft., camouflage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance]] to cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
+  - **Special Attacks**: Entangle, gaseous protection, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+  - **Special Qualities**: Barkskin, [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 30 ft., camouflage, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
   - **Saves**: Fort +4, Ref +1, Will –1
   - **Abilities**: Str 13, Dex 12, Con 14, Int 3, Wis 8, Cha 11
   - **Skills**: —

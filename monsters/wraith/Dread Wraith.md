@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)
   - **Full Attack**: Incorporeal touch +16 melee (2d6 plus 1d8 Constitution drain)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Constitution [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ability-score-loss|drain]], create spawn
+  - **Special Attacks**: Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]], create spawn
   - **Special Qualities**: Darkvision 60 ft., daylight powerlessness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], lifesense 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], unnatural aura
   - **Saves**: Fort +5, Ref +14, Will +14
   - **Abilities**: Str —, Dex 28, Con —, Int 17, Wis 18, Cha 24
@@ -65,7 +65,7 @@ tags: [rangoric, rangoric/monster]
 
 The oldest and most malevolent wraiths lurk in the depths of forgotten temples and other forsaken places. They can sense the approach of living creatures, and hunger for them. Despite its size, the dread wraith possesses unearthly quickness, and makes use of its [[rangoric-srd/feats/Spring Attack|Spring Attack]] feat and natural reach to strike with deadly effect and melt back into the shadows - or the walls.
 
-**Lifesense (Su)**: A dread wraith notices and locates living creatures within 60 feet, just as if it possessed the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] ability. It also senses the strength of their life force automatically, as if it had cast [[rangoric-srd/spells/Deathwatch|deathwatch]].
+**Lifesense (Su)**: A dread wraith notices and locates living creatures within 60 feet, just as if it possessed the [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] ability. It also senses the strength of their life force automatically, as if it had cast [[rangoric-srd/spells/Deathwatch|deathwatch]].
 
 **Constitution Drain (Su)**: Living creatures hit by a dread wraith’s incorporeal touch attack must succeed on a DC 25 Fortitude save or take 1d8 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]. The save DC is Charisma-based. On each such successful attack, the dread wraith gains 5 temporary hit points.
 

@@ -45,8 +45,8 @@ Base Attack: +52; CMB: +80 (+84 grapple); CMD: 88 (can't be tripped)   
 Attack: Slam +64 (4d10+20) melee     
 Full Attack: 10 slam +64 (4d10+20) melee     
 Space/Reach: Varies (see text)      
-Special Attacks: [[rangoric-srd/spells/Enslave (Ritual)|Enslave]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constrict]] 4d10+30      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 200 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 50, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]      
+Special Attacks: [[rangoric-srd/spells/Enslave (Ritual)|Enslave]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 4d10+30      
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 200 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 50, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]]      
 Saves: Fort +43, Ref +21, Will +30      
 Abilities: Str 50, Dex 6, Con 50, Int -, Wis 24, Cha 26      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +96 (+78 jumping)     
@@ -69,4 +69,4 @@ Improved Grab (Ex): If the genius loci hits a Gargantuan or smaller creature wit
 
 Constrict (Ex): A genius loci crushes its opponent, dealing 4d10+30 points of bludgeoning Damage, after making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
-Ooze Traits: An ooze is an amorphous or mutable creature. Oozes are immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], and polymorphing. They have no clear front or back and are therefore not subject to critical hits or flanking. Oozes are blind but have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] special quality. They have no Intelligence scores and are therefore immune to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).
+Ooze Traits: An ooze is an amorphous or mutable creature. Oozes are immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], and polymorphing. They have no clear front or back and are therefore not subject to critical hits or flanking. Oozes are blind but have the [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] special quality. They have no Intelligence scores and are therefore immune to all mind-affecting effects (charms, compulsions, phantasms, patterns, and morale effects).

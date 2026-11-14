@@ -51,7 +51,7 @@ Attack: Incorporeal touch +25 (2d6 plus blazefire) melee   
 Full Attack: Incorporeal touch +25 (2d6 plus blazefire) melee     
 Space/Reach: 10 ft./10 ft.      
 Special Attacks: Blazefire, create spawn, spell-like abilities      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead traits]], [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]] +6, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire subtype]], heat aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 36, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic      
+Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead traits]], [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +6, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|fire subtype]], heat aura, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 36, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic      
 Saves: Fort +13, Ref +20, Will +26      
 Abilities: Str -, Dex 29, Con -, Int 17, Wis 25, Cha 31      
 Skills: [[rangoric-srd/skills/Intimidation|Intimidation]] +48, [[rangoric-srd/skills/Investigation|Investigation]] +41, [[rangoric-srd/skills/Perception|Perception]] +51, [[rangoric-srd/skills/Persuasion|Persuasion]] +48, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +45, [[rangoric-srd/skills/Stealth|Stealth]] +47     
@@ -65,7 +65,7 @@ Treasure: None    
 Alignment: Always lawful evil      
 Advancement: 36-42 HD (Large); 43-70 HD (Huge)      
 
-A shape of fire’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A shape of fire’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -81,6 +81,6 @@ Incorporeal Traits: Can be harmed only by other incorporeal creatures, magic wea
 
 Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
 
-Fire Subtype: Immunity to fire. [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|Vulnerability to cold]] (takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure).
+Fire Subtype: Immunity to fire. [[rangoric-srd/monsters/abilities/Vulnerabilities|Vulnerability to cold]] (takes half again as much (+50%) damage as normal from cold, regardless of whether a saving throw is allowed, or if the save is a success or failure).
 
-Heat Aura (Su): A 10-foot-radius spread heat aura surrounds a shape of fire. All creatures of the fire subtype in the area (including the shape of fire) are treated as if having [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]] +6 (if undead) and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 10. Creatures subject to fire Damage take 2d10 points of fire Damage each round they remain within the heat aura.
+Heat Aura (Su): A 10-foot-radius spread heat aura surrounds a shape of fire. All creatures of the fire subtype in the area (including the shape of fire) are treated as if having [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +6 (if undead) and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10. Creatures subject to fire Damage take 2d10 points of fire Damage each round they remain within the heat aura.

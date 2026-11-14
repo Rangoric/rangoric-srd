@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +12 melee (2d6+2)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Air mastery, whirlwind
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/–, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/–, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
   - **Saves**: Fort +5, Ref +13, Will +2
   - **Abilities**: Str 14, Dex 25, Con 16, Int 6, Wis 11, Cha 11
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11

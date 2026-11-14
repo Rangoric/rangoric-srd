@@ -52,13 +52,13 @@ A half-celestial uses all the base creature’s statistics and special abilities
 
   - Immunity to [[rangoric-srd/rules/Afflictions#Disease|disease]].
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to acid]] 10, cold 10, and electricity 10.
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance to acid]] 10, cold 10, and electricity 10.
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]]: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]]: 5/magic (if HD 11 or less) or 10/magic (if HD 12 or more).
 
-  - A half-celestial’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+  - A half-celestial’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
+  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to creature’s HD + 10 (maximum 35).
 
   - \+4 racial bonus on Fortitude saves against [[rangoric-srd/rules/Afflictions#Poison|poison]].
 

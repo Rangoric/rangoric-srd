@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +12 melee (2d6+9)
   - **Full Attack**: 2 slams +12 melee (2d6+9)
   - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/spells/Liveoak|Animate trees]], double damage against objects, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^trample|trample]] 2d6+13
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/slashing, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to fire]]
+  - **Special Attacks**: [[rangoric-srd/spells/Liveoak|Animate trees]], double damage against objects, [[rangoric-srd/monsters/abilities/Trample|trample]] 2d6+13
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/slashing, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
   - **Saves**: Fort +10, Ref +1, Will +7
   - **Abilities**: Str 29, Dex 8, Con 21, Int 12, Wis 16, Cha 12
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 aboveground), [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] –9\*
@@ -68,9 +68,9 @@ Treants speak their own language, plus Common and Sylvan. Most also can manage a
 
 ### Combat
 
-Treants prefer to watch potential foes carefully before attacking. They often [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] suddenly from cover to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^trample|trample]] the despoilers of forests. If sorely pressed, they [[rangoric-srd/spells/Liveoak|animate trees]] as reinforcements.
+Treants prefer to watch potential foes carefully before attacking. They often [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] suddenly from cover to [[rangoric-srd/monsters/abilities/Trample|trample]] the despoilers of forests. If sorely pressed, they [[rangoric-srd/spells/Liveoak|animate trees]] as reinforcements.
 
-**Animate Trees (Sp)**: A treant can animate trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a normal tree to uproot itself. Thereafter it moves at a speed of 10 feet and fights as a treant in all respects. Animated trees lose their ability to move if the treant that animated them is incapacitated or moves out of range. The ability is otherwise similar to [[rangoric-srd/spells/Liveoak|liveoak]] (caster level 12th). Animated trees have the same [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to fire]] that a treant has.
+**Animate Trees (Sp)**: A treant can animate trees within 180 feet at will, controlling up to two trees at a time. It takes 1 full round for a normal tree to uproot itself. Thereafter it moves at a speed of 10 feet and fights as a treant in all respects. Animated trees lose their ability to move if the treant that animated them is incapacitated or moves out of range. The ability is otherwise similar to [[rangoric-srd/spells/Liveoak|liveoak]] (caster level 12th). Animated trees have the same [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]] that a treant has.
 
 **Double Damage against Objects (Ex)**: A treant or animated tree that makes a full attack against an object or structure deals double damage.
 

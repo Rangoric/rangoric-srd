@@ -49,17 +49,17 @@ Mental Immunity: All petitioners are immune to mind-affecting effects.
 
 Other Immunities: Depending on its nature, the petitioner is immune to two of the following effects: acid, cold, electricity, fire, [[rangoric-srd/rules/Afflictions#Poison|poison]], [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrifaction]], or polymorphing. These immunities are applied similarly to all petitioners of a particular plane or deity.
 
-Resistances: Depending on the nature of the petitioner’s plane, the petitioner gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance]] 20 against two of the following effects: acid, cold, electricity, or fire.
+Resistances: Depending on the nature of the petitioner’s plane, the petitioner gains [[rangoric-srd/monsters/abilities/Resistance|resistance]] 20 against two of the following effects: acid, cold, electricity, or fire.
 
 Planar Commitment: Petitioners cannot leave the plane they inhabit. They are teleported one hundred miles in a random direction if an attempt is made to force them to leave.
 
 Additional Special Qualities: Particular planes may provide additional benefits for petitioners of those planes. Typical additional special qualities may include any one of the following.
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/silver and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 5.
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/silver and [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 5.
 
   - Continuous [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]].
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|Fast healing]] 1.
+  - [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 1.
 
   - Damage reduction 10/magic.
 

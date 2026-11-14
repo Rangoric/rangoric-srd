@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +3 melee (1d4+1)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/spells/Spells C|Cure serious wounds]], hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/spells/Make Whole|make whole]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 10, fire 10, and sonic 10
+  - **Special Qualities**: [[rangoric-srd/spells/Spells C|Cure serious wounds]], hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/spells/Make Whole|make whole]], [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10, fire 10, and sonic 10
   - **Saves**: Fort +3, Ref +4, Will +2
   - **Abilities**: Str 13, Dex 14, Con 13, Int 6, Wis 10, Cha 9
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Craft|Craft]] (any one) +5, [[rangoric-srd/skills/Investigation|Investigation]] +2, [[rangoric-srd/skills/Perception|Perception]] +4, [[rangoric-srd/skills/Stealth|Stealth]] +10
@@ -73,7 +73,7 @@ A worker is about 3 feet long and about 2-1/2 feet high at the front. It weighs 
 
 Formian workers fight only to defend their hive-cities, using their mandibled bite.
 
-A formian worker’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A formian worker’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Cure Serious Wounds (Sp)**: Eight workers together can heal a creature’s wounds as though using the [[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]] spell (caster level 7th). This is a full-round action for all eight workers.
 

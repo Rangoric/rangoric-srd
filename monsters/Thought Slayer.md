@@ -48,7 +48,7 @@ Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^abe
 **Attack:** Bite +17 melee (3d6+12)     
 Full **Attack:** Bite +17 melee (3d6+12)     
 **Space/Reach:** 15 ft./15 ft.     
-**Special Attacks:** Mind-consuming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], psi-like abilities     
+**Special Attacks:** Mind-consuming [[rangoric-srd/monsters/abilities/Gaze|gaze]], psi-like abilities     
 **Special Qualities:** Darkvision 60 ft., [[rangoric-srd/powers/Ethereal Jaunt, Psionic|ethereal jaunt]], power resistance 21     
 **Saves:** Fort +11, Ref +5, Will +10     
 **Abilities:** Str 26, Dex 13, Con 21, Int 7, Wis 12, Cha 15     
@@ -68,7 +68,7 @@ Thought slayers do not speak.
 
 A thought slayer can spend a maximum of 10 continuous minutes on the Material Plane before its wispy flesh finally dissipates and it falls dead. If badly wounded, it escapes to the Ethereal Plane rather than continuing the fight.
 
-Mind-Consuming Gaze (Su): Instantly kill (by draining the mind away), range 30 feet, Fortitude DC 19 negates. The save DC is Charisma-based. This is considered a mind-affecting death effect. If a thought slayer’s gaze is met indirectly (such as through a mirror or a reflection in water), the opponent does not die on a failed save but instead is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 14 rounds. This otherwise is a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] effect.
+Mind-Consuming Gaze (Su): Instantly kill (by draining the mind away), range 30 feet, Fortitude DC 19 negates. The save DC is Charisma-based. This is considered a mind-affecting death effect. If a thought slayer’s gaze is met indirectly (such as through a mirror or a reflection in water), the opponent does not die on a failed save but instead is [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for 14 rounds. This otherwise is a [[rangoric-srd/monsters/abilities/Gaze|gaze]] effect.
 
 The gaze cannot affect creatures on the Material Plane while the thought slayer remains ethereal, but it can affect ethereal creatures while the thought slayer is on the Material Plane.
 

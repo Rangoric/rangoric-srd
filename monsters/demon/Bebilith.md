@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +19 melee (2d6+9 plus poison) or web +11 ranged
   - **Full Attack**: Bite +19 melee (2d6+9 plus poison) and 2 claws +14 melee (2d4+4); or web +11 ranged
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], rend armor, web
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/good, darkvision 60 ft., [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], rend armor, web
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +16, Ref +9, Will +9
   - **Abilities**: Str 28, Dex 12, Con 26, Int 11, Wis 13, Cha 13
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 climbing, +28 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16 (+18 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +15, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +16

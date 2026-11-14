@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +13 melee (1d8+5) and 2 claws +8 melee (1d6+2)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, feed
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^change-shape|Change shape]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +9, Ref +8, Will +10
   - **Abilities**: Str 20, Dex 15, Con 16, Int 18, Wis 18, Cha 18
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +17 (+21 jumping), [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16 (+18 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +16 (+18 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +10\*

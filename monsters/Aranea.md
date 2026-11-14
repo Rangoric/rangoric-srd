@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +5 melee (1d6 plus poison) or web +5 ranged
   - **Full Attack**: Bite +5 melee (1d6 plus poison) or web +5 ranged
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], spells, web
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^change-shape|Change shape]], darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], spells, web
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
   - **Saves**: Fort +5, Ref +5, Will +4
   - **Abilities**: Str 11, Dex 15, Con 14, Int 14, Wis 13, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 climbing, +16 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Perception|Perception]] +9

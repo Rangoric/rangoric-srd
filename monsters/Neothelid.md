@@ -48,8 +48,8 @@ Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilitie
 **Attack:** Tentacle rake +24 melee (2d6+10/19-20)     
 Full **Attack:** 4 tentacle rakes +24 melee (2d6+10/19-20)     
 **Space/Reach:** 30 ft./30 ft.     
-**Special Attacks:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|Breath weapon]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], psi-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]]     
-**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 100 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/-, power resistance 25     
+**Special Attacks:** [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], psi-like abilities, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]     
+**Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, power resistance 25     
 **Saves:** Fort +16, Ref +6, Will +16     
 **Abilities:** Str 30, Dex 7, Con 27, Int 16, Wis 15, Cha 20     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +38, [[rangoric-srd/skills/Perception|Perception]] +30, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] +31     

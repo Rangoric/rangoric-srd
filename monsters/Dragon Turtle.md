@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +18 melee (4d6+8)
   - **Full Attack**: Bite +18 melee (4d6+8) and 2 claws +13 melee (2d8+4)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|Breath weapon]], snatch, capsize
-  - **Special Qualities**: Darkvision 60 ft., immunity to fire, sleep, and paralysis, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], snatch, capsize
+  - **Special Qualities**: Darkvision 60 ft., immunity to fire, sleep, and paralysis, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +13, Ref +8, Will +9
   - **Abilities**: Str 27, Dex 10, Con 21, Int 12, Wis 13, Cha 12
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23 (+31 swimming), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16 (+18 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +16, [[rangoric-srd/skills/Investigation|Investigation]] +16, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +7\*

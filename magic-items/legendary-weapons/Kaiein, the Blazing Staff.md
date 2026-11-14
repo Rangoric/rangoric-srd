@@ -33,7 +33,7 @@ Created by a wizard from pure elemental fire, *Kaiein* is a conduit between the 
 
 *Special:* Must have been reduced to -1 or less hit points on at least one occasion from a hit that dealt fire damage.
 
-**Restrictions:** If *Kaiein* is grasped by a creature with [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]], the weapon’s flame goes out temporarily. This renders all the staff’s special abilities (except for its enhancement bonus) inactive. The creature grasping the staff takes 1 point of fire damage in every round when the weapon remains grasped.
+**Restrictions:** If *Kaiein* is grasped by a creature with [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]], the weapon’s flame goes out temporarily. This renders all the staff’s special abilities (except for its enhancement bonus) inactive. The creature grasping the staff takes 1 point of fire damage in every round when the weapon remains grasped.
 
 **Maintenance:** *Kaiein* must be kept in a warm environment to remain at full power. If the staff spends at least 1 hour in an area where the temperature is below 50°F, its flame goes out temporarily. This renders all the staff’s special abilities (except for its enhancement bonus) inactive. This loss of special abilities can be postponed by dealing at least 5 points of fire damage to *Kaiein* every hour. (Damage dealt to the staff "counts" for this purpose even if the staff actually takes no damage, such as because of its hardness.)
 
@@ -65,7 +65,7 @@ Created by a wizard from pure elemental fire, *Kaiein* is a conduit between the 
 
 *Initial Abilities:* When first acquired, *Kaiein* functions as a +1 [[rangoric-srd/magic-items/weapon-abilities/Flaming|flaming]]/ +1 flaming quarterstaff. Anyone who wields it, whether a spell scion or not, also benefits from the resistance to fire ability (see below).
 
-*Resistance to Fire (Ex):* The wielder of the staff gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 5, even if she has no levels in the spell scion class.
+*Resistance to Fire (Ex):* The wielder of the staff gains [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 5, even if she has no levels in the spell scion class.
 
 A spell scion who wields the staff gains resistance to fire 10. At 4th level, the resistance improves to 20, and at 7th level to 30. This resistance does not stack with any other resistance to fire the wielder may have.
 

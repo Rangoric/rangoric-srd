@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +5 melee (1d8+1 plus 1d6 fire)
   - **Full Attack**: Bite +5 melee (1d8+1 plus 1d6 fire)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|Breath weapon]], fiery bite
-  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], fiery bite
+  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +5, Ref +5, Will +4
   - **Abilities**: Str 13, Dex 13, Con 13, Int 6, Wis 10, Cha 6
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8 (+12 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7\*, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +13
@@ -75,7 +75,7 @@ tags: [rangoric, rangoric/monster]
 
 Hell hounds are efficient hunters. A favorite pack tactic is to surround prey quietly, then attack with one or two hounds, driving it toward the rest with their fiery breath. If the prey doesn’t run, the pack closes in. Hell hounds track fleeing prey relentlessly.
 
-A hell hound’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A hell hound’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Breath Weapon (Su)**: 10-foot cone, once every 2d4 rounds, damage 2d6 fire, Reflex DC 13 half. The save DC is Constitution-based.
 

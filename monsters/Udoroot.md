@@ -49,7 +49,7 @@ Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pla
 Full **Attack:** -     
 **Space/Reach:** 15 ft./0 ft.     
 **Special Attacks:** Double manifest, psi-like abilities     
-**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 60 ft., immunity to electricity, [[rangoric-srd/monsters/All Monsters|plant traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10 and fire 10     
+**Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., immunity to electricity, [[rangoric-srd/monsters/All Monsters|plant traits]], [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10     
 **Saves:** Fort +8, Ref +4, Will +5     
 **Abilities:** Str -, Dex -, Con 16, Int 4, Wis 13, Cha 14     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +10     

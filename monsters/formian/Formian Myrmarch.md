@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Sting +15 melee (2d4+4 plus poison) or javelin +15 ranged (1d6+4)
   - **Full Attack**: Sting +15 melee (2d4+4 plus poison) and bite +13 melee (2d6+2); or javelin +15/+10 ranged (1d6+4)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|Fast healing]] 2, hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 10, fire 10, and sonic 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 25
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], spell-like abilities
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 2, hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10, fire 10, and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
   - **Saves**: Fort +12, Ref +12, Will +11
   - **Abilities**: Str 19, Dex 18, Con 18, Int 16, Wis 16, Cha 17
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +18, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +18, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +15
@@ -77,7 +77,7 @@ Myrmarchs’ claws are like hands and thus serve no combat purpose. Myrmarchs oc
 
 They fight intelligently, aiding those under them (if any such are present) and commanding them through the hive mind. If chaotic creatures are present, however, a myrmarch is singleminded in its quest to destroy them.
 
-A formian myrmarch’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A formian myrmarch’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Poison (Ex)**: Injury, Fortitude DC 20, initial and secondary damage 2d6 Dex. The save DC is Constitution-based.
 

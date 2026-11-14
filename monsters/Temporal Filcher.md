@@ -48,7 +48,7 @@ Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ab
 **Attack:** Claw +6 melee (1d6+1)     
 Full **Attack:** 4 claws +6 melee (1d6+1) and bite +1 melee (1d8) and horn +1 melee (1d4)     
 **Space/Reach:** 10 ft./10 ft.     
-**Special Attacks:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], psi-like abilities, time filch     
+**Special Attacks:** [[rangoric-srd/monsters/abilities/Grab|Improved grab]], psi-like abilities, time filch     
 **Special Qualities:** Darkvision 60 ft.     
 **Saves:** Fort +4, Ref +5, Will +7     
 **Abilities:** Str 13, Dex 17, Con 14, Int 7, Wis 12, Cha 14     

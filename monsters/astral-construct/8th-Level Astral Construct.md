@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +25 melee (1d8+14)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: -
-  - **Special Qualities**: One ability from Menu C, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]]
+  - **Special Qualities**: One ability from Menu C, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]
   - **Saves**: Fort +5, Ref +6, Will +5
   - **Abilities**: Str 39, Dex 13, Con -, Int -, Wis 11, Cha 10
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +33

@@ -47,8 +47,8 @@ Base Attack: +34; CMB: +49 (+53 grapple); CMD: 93   
 Attack: Claw +52 (2d8+11) melee     
 Full Attack: 2 claws +52 (2d8+11) melee, 3 bites +47 (2d6+5) melee, sting +39 (3d6+5 plus poison) melee      
 Space/Reach: 20 ft./15 ft.      
-Special Attacks: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|Pounce]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 4d6+15      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 34, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic      
+Special Attacks: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 4d6+15      
+Special Qualities: [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic      
 Saves: Fort +31, Ref +38, Will +22      
 Abilities: Str 32, Dex 48, Con 34, Int 14, Wis 32, Cha 19      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +48 (+76 jumping), [[rangoric-srd/skills/Perception|Perception]] +48, [[rangoric-srd/skills/Stealth|Stealth]] +44     
@@ -62,7 +62,7 @@ Treasure: None    
 Alignment: Always neutral      
 Advancement: 35-68 HD (Gargantuan); 69-102 HD (Colossal)      
 
-A tayellah’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A tayellah’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -72,4 +72,4 @@ Pounce (Ex): If a tayellah leaps upon a foe during the first round of combat, it
 
 Improved Grab (Ex): To use this ability, the tayellah must hit with two of its claw attacks. If it gets a hold, it can rake.
 
-Rake (Ex): A tayellah that gets a hold can make two additional [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks (+44 melee) with legs it normally only uses for walking, dealing 4d6+5 points of Damage each. If the tayellah pounces on an opponent, it can also rake.
+Rake (Ex): A tayellah that gets a hold can make two additional [[rangoric-srd/monsters/abilities/Rake|rake]] attacks (+44 melee) with legs it normally only uses for walking, dealing 4d6+5 points of Damage each. If the tayellah pounces on an opponent, it can also rake.

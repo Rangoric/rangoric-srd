@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19–20) or slam +11/+6 melee (1d6+3)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Enervation ray, spell-like abilities, vampiric touch
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/chaotic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 5, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 22
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
   - **Saves**: Fort +6, Ref +7, Will +7
   - **Abilities**: Str 14, Dex 13, Con —, Int 10, Wis 17, Cha 16
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+5 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +12, [[rangoric-srd/skills/Investigation|Investigation]] +8, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15
@@ -76,7 +76,7 @@ Like all inevitables, a kolyarut is patient enough to study a target before stri
 
 A kolyarut’s favorite tactic is to use [[rangoric-srd/spells/Invisibility|invisibility]] or [[rangoric-srd/spells/Disguise Self|disguise self]] to sneak close, then eliminate the quarry with its vampiric touch ability before it can react. A kolyarut has no compunctions about using its vampiric touch ability on allies to increase its own power, if doing so helps it complete its mission.
 
-A kolyarut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A kolyarut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Enervation Ray (Su)**: A kolyarut can fire a black enervation ray at targets within 200 feet. The effect is identical with the [[rangoric-srd/spells/Enervation|enervation]] spell (caster level 13th).
 

@@ -27,5 +27,5 @@ Raw destruction given material substance, demon eidolons form out of the Abyssâ€
   - At 4th level, demon eidolons gain acid resistance 10 and cold resistance 10.
   - At 8th level, demon eidolons lose the +4 bonus on saving throws against poison and gain immunity to poison. They also add 1 point to their evolution pools.
   - At 12th level, demon eidolons gain DR 5/good. They also gain the [[rangoric-srd/class-options/evolutions/Ability Increase (Evolution)|ability increase]] evolution in an ability score of the summonerâ€™s choice.
-  - At 16th level, demon eidolons lose the resistance (electricity) evolution, and instead gain the [[rangoric-srd/class-options/evolutions/Immunity (Evolution)|immunity]] (electricity) evolution. They also gain [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]].
+  - At 16th level, demon eidolons lose the resistance (electricity) evolution, and instead gain the [[rangoric-srd/class-options/evolutions/Immunity (Evolution)|immunity]] (electricity) evolution. They also gain [[rangoric-srd/monsters/abilities/Telepathy|telepathy]].
   - At 20th level, demon eidolons gain *[[rangoric-srd/spells/True Seeing|true seeing]]* as a constant spell-like ability.

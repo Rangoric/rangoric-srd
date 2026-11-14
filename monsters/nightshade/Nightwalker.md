@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +24 melee (2d6+16)
   - **Full Attack**: 2 slams +24 melee (2d6+16)
   - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: Crush item, desecrating aura, evil [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], spell-like abilities, summon undead
-  - **Special Qualities**: Aversion to daylight, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/silver and magic, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 29, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
+  - **Special Attacks**: Crush item, desecrating aura, evil [[rangoric-srd/monsters/abilities/Gaze|gaze]], spell-like abilities, summon undead
+  - **Special Qualities**: Aversion to daylight, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/silver and magic, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
   - **Saves**: Fort +11, Ref +11, Will +19
   - **Abilities**: Str 38, Dex 14, Con —, Int 20, Wis 20, Cha 18
   - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +29, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +29 (+31 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +29, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +29, [[rangoric-srd/skills/Stealth|Stealth]] +26\*, [[rangoric-srd/skills/Theology|Theology]] +29
@@ -72,7 +72,7 @@ A nightwalker is about 20 feet tall and weighs about 12,000 pounds.
 
 Nightwalkers lurk in dark areas where they can almost always surprise the unwary.
 
-A nightwalker’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A nightwalker’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Crush Item (Su)**: A nightwalker can destroy any weapon or item of Large size or smaller (even magic ones, but not artifacts) by picking it up and crushing it between its hands. The nightwalker must make a successful [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] attempt to grab an item held by an opponent. The item is entitled to a DC 34 Fortitude save to resist destruction. The save DC is Strength-based.
 
@@ -96,12 +96,12 @@ The nightwalker is an exceedingly intelligent foe that makes the best use of all
 
 *Prior to combat*: The nightwalker keeps its [[rangoric-srd/spells/See Invisibility|see invisibility]] power active most of the time. It uses [[rangoric-srd/spells/Haste|haste]] and [[rangoric-srd/spells/Invisibility|invisibility]] to prepare for battle.
 
-*Round 1*: Move to within 30 feet to make use of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attack and strike with [[rangoric-srd/spells/Confusion|confusion]] or [[rangoric-srd/spells/Hold Monster|hold monster]], coupled with a quickened [[rangoric-srd/spells/Unholy Blight|unholy blight]].
+*Round 1*: Move to within 30 feet to make use of [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack and strike with [[rangoric-srd/spells/Confusion|confusion]] or [[rangoric-srd/spells/Hold Monster|hold monster]], coupled with a quickened [[rangoric-srd/spells/Unholy Blight|unholy blight]].
 
 *Round 2*: Hit a spellcaster with [[rangoric-srd/spells/Finger of Death|finger of death]] and another quickened [[rangoric-srd/spells/Unholy Blight|unholy blight]].
 
 *Round 3*: Move up to engage the enemy and attempt to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] an enemy fighter.
 
-*Round 4*: Crush the disarmed weapon (or use [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attack if disarm attempt failed).
+*Round 4*: Crush the disarmed weapon (or use [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack if disarm attempt failed).
 
 *Round 5*: Full attack against the unarmed foe (or on a nearby spellcaster).

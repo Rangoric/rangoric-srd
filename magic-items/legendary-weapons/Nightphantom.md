@@ -71,7 +71,7 @@ For a swift scion of 6th level or higher, the invisibility granted by this power
 
 *Ephemeral Presence (Su):* A swift scion of 3rd level or higher bearing *Nightphantom* leaves no trail and cannot be tracked.
 
-At 8th level, a swift scion bearing the weapon no longer gives off a scent. Creatures with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] ability cannot detect her presence by means of that ability, nor can she be tracked by scent.
+At 8th level, a swift scion bearing the weapon no longer gives off a scent. Creatures with the [[rangoric-srd/monsters/abilities/Scent|scent]] ability cannot detect her presence by means of that ability, nor can she be tracked by scent.
 
 *Enhancement Bonus (Ex):* When *Nightphantom* is wielded by a swift scion of 4th level or higher, the bow’s enhancement bonus improves from +2 to +3. The bonus increases to +4 at 7th level and +5 at 10th level.
 

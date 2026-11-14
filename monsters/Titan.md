@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Gargantuan +3 adamantine warhammer +37/+32/+27/+22 melee (4d6+27/x3) or +3 javelin +22 ranged (2d6+19) or 2 slams +34 (1d8+16)
   - **Space/Reach**: 15 ft./15 ft.
   - **Special Attacks**: Oversized weapon, spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 15/lawful, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 32
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/lawful, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 32
   - **Saves**: Fort +26, Ref +13, Will +21
   - **Abilities**: Str 43, Dex 12, Con 39, Int 21, Wis 28, Cha 24
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +24, [[rangoric-srd/skills/Athletics|Athletics]] +39 (+43 jumping), [[rangoric-srd/skills/Craft|Craft]] (any one) +28, [[rangoric-srd/skills/Deception|Deception]] +30, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +32 (+34 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +28 (+30 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +30, [[rangoric-srd/skills/Investigation|Investigation]] +28, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +28, [[rangoric-srd/skills/Perception|Perception]] +32, [[rangoric-srd/skills/Performance|Performance]] (oratory) +30, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +32, [[rangoric-srd/skills/Theology|Theology]] +28
@@ -69,7 +69,7 @@ Titans speak Abyssal, Common, Celestial, Draconic, and Giant.
 
 ### Combat
 
-A titan’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A titan’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Change Shape (Su):** A titan can assume the form of any Small or Medium humanoid. The titan retains its oversized weapon special attack regardless of form.
 

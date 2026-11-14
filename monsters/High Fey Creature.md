@@ -56,7 +56,7 @@ High fey creatures are seldom mistaken for mundane versions of their racial type
 
 **Special Qualities**: A high fey creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities. In addition, it gains two of the following special qualities:
 
-*Damage Reduction (Su)*: The creature gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/cold iron. If the creature already possesses damage reduction, this ability is modified by the addition of the above statistics.
+*Damage Reduction (Su)*: The creature gains [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron. If the creature already possesses damage reduction, this ability is modified by the addition of the above statistics.
 
 *Fast Healing (Ex)*: The high fey creature heals 3 points of damage each round as long as it has at least 1 hit point. If reduced to 0 hit points or lower, it must be healed through other means.
 
@@ -66,7 +66,7 @@ High fey creatures are seldom mistaken for mundane versions of their racial type
 
 *See in Darkness (Ex)*: The high fey creature gains the darkvision ability to a range of 60 ft.
 
-*Spell Resistance (Ex)*: The high fey creature has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 12.
+*Spell Resistance (Ex)*: The high fey creature has [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 12.
 
 **Saves**: Each of the base creature’s saves increases by +2.
 

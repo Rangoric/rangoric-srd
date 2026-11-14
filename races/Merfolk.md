@@ -23,7 +23,7 @@ Perks:
 - +2 Constitution
 - +2 Charisma
 - Slow Speed: Merfolk have a base speed of 5 feet. They have a swim speed of 50 feet, which works as described under [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|movement modes]].
-- Amphibious: Merfolk are [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^amphibious|amphibious]], but prefer not to spend long periods out of the water.
+- Amphibious: Merfolk are [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], but prefer not to spend long periods out of the water.
 - Low-Light Vision: Merfolk have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]].
 - Armor: Merfolk have a +2 natural armor bonus.
 - Legless: Merfolk have no legs, and cannot be [[rangoric-srd/combat/Combat Maneuvers#Trip|tripped]].

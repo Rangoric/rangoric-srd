@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +21 melee (2d8+12 plus 1d8 cold)
   - **Full Attack**: Bite +21 melee (2d8+12 plus 1d8 cold)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Trill, cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapon]]
-  - **Special Qualities**: Darkvision 60 ft., death throes, immunity to cold, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to fire]]
+  - **Special Attacks**: Trill, cold, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]]
+  - **Special Qualities**: Darkvision 60 ft., death throes, immunity to cold, low-light vision, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
   - **Saves**: Fort +14, Ref +9, Will +6
   - **Abilities**: Str 26, Dex 10, Con 20, Int 2, Wis 11, Cha 11
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +6\*

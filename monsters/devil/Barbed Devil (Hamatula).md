@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +18 melee (2d8+6 plus fear)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Fear, improved grab, impale 3d8+9, summon devil
-  - **Special Qualities**: Barbed defense, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10 and cold 10, see in darkness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 23, spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Qualities**: Barbed defense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, see in darkness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23, spell-like abilities, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +14, Ref +14, Will +12
   - **Abilities**: Str 23, Dex 23, Con 23, Int 12, Wis 14, Cha 18
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17 (+19 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Investigation|Investigation]] +16, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +16, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +21
@@ -72,7 +72,7 @@ A barbed devil is about 7 feet tall and weighs about 300 pounds.
 
 Barbed devils eagerly fight with their claws, trying to impale their opponents. They use [[rangoric-srd/spells/Hold Person|hold person]] to immobilize those who avoid their hug attacks.
 
-A barbed devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A barbed devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Fear (Su)**: A creature hit by a barbed devil must succeed on a DC 20 Will save or be affected as though by [[rangoric-srd/spells/Fear|fear]] (caster level 9th). Whether or not the save is successful, that creature cannot be affected by that same barbed devil’s fear ability for 24 hours. The save DC is Charisma-based.
 

@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Incorporeal touch +6 melee (1d8 plus energy drain)
   - **Full Attack**: Incorporeal touch +6 melee (1d8 plus energy drain)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^energy-drain|Energy drain]], create spawn
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], +2 [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]], sunlight powerlessness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], unnatural aura
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]], create spawn
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], sunlight powerlessness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], unnatural aura
   - **Saves**: Fort +2, Ref +5, Will +7
   - **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 14, Cha 15
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12 (+14 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Investigation|Investigation]] +12, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +13, [[rangoric-srd/skills/Theology|Theology]] +12

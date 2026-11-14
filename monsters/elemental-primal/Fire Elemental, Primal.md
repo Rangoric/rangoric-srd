@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +55 (4d8+16 plus 4d8 fire) melee
   - **Space/Reach**: 30 ft./30 ft.
   - **Special Attacks**: Burn
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 42, fire immunity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|cold vulnerability]]
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42, fire immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|cold vulnerability]]
   - **Saves**: Fort +32, Ref +50, Will +28
   - **Abilities**: Str 32, Dex 39, Con 28, Int 8, Wis 13, Cha 13
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24 (+32 jumping), [[rangoric-srd/skills/Perception|Perception]] +64

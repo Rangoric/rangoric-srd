@@ -50,7 +50,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ab
 Full **Attack:** 4 claws +6 melee (1d3+1)     
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Body thief, psi-like abilities     
-**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/adamantine, immunity to fire, power resistance 23, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 15, vulnerability to protection from Evil     
+**Special Qualities:** [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine, immunity to fire, power resistance 23, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 15, vulnerability to protection from Evil     
 **Saves:** Fort +4, Ref +7, Will +6     
 **Abilities:** Str 13, Dex 21, Con 15, Int 12, Wis 12, Cha 14     
 **Skills:** [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +20     

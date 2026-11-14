@@ -47,7 +47,7 @@ Medium-Size [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abiliti
 Full **Attack:** Tongue +6 melee touch (liquefy crystal) and bite +1 melee (2d4)     
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Liquefy crystal     
-**Special Qualities:** Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]     
+**Special Qualities:** Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]     
 **Saves:** Fort +4, Ref +4, Will +5     
 **Abilities:** Str 10, Dex 17, Con 17, Int 2, Wis 13, Cha 11     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7     

@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +7 melee (2d6+7 plus 1d4 acid)
   - **Full Attack**: Bite +7 melee (2d6+7 plus 1d4 acid)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], spit acid
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] 60 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], spit acid
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
   - **Saves**: Fort +6, Ref +3, Will +2
   - **Abilities**: Str 21, Dex 10, Con 17, Int 1, Wis 13, Cha 6
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11, [[rangoric-srd/skills/Perception|Perception]] +4

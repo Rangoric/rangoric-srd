@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 4 claws +12 melee (1d4+6) and bite +7 melee (1d8+3)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Rend 2d4+9
-  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +7, Ref +8, Will +5
   - **Abilities**: Str 22, Dex 17, Con 14, Int 2, Wis 12, Cha 7
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6 (+14 climbing), [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +4
@@ -64,7 +64,7 @@ Girallons are savage, magical cousins of the gorilla. When moving on the ground,
 
 ### Combat
 
-A solitary girallon usually conceals itself in the branches of a tree or under a pile of leaves and brush, with only its nose showing. When it spots or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scents]] prey, it [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]] to the attack. A girallon picks up prey that is small enough to carry and withdraws, often vanishing into the trees before the victim’s companions can do anything to retaliate. Against larger foes, a girallon seeks to tear a single opponent to bits as quickly as it can.
+A solitary girallon usually conceals itself in the branches of a tree or under a pile of leaves and brush, with only its nose showing. When it spots or [[rangoric-srd/monsters/abilities/Scent|scents]] prey, it [[rangoric-srd/combat/Combat Special Attacks#Charge|charges]] to the attack. A girallon picks up prey that is small enough to carry and withdraws, often vanishing into the trees before the victim’s companions can do anything to retaliate. Against larger foes, a girallon seeks to tear a single opponent to bits as quickly as it can.
 
 **Rend (Ex)**: A girallon that hits with two or more claw attacks latches onto the opponent’s body and tears the flesh. This attack automatically deals an extra 2d4+12 points of damage.
 

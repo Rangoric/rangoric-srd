@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +21 melee (4d8+7) and 3 claws +19 melee (1d6+3)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: All-around vision, earth glide, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to electricity]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] 60 ft.
+  - **Special Qualities**: All-around vision, earth glide, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to electricity]] 10, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
   - **Saves**: Fort +13, Ref +9, Will +9
   - **Abilities**: Str 25, Dex 10, Con 19, Int 10, Wis 11, Cha 10
   - **Skills**: [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks or underground), [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Investigation|Investigation]] +22, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +14

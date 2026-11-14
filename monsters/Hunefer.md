@@ -48,7 +48,7 @@ Attack: Slam +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)   
 Full Attack: 2 slams +44 (3d6+18/19-20 (+1d6 on critical hit) plus hunefer rot)     
 Space/Reach: 5 ft./5 ft.      
 Special Attacks: Despair, hunefer rot, spell-like abilities      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 37, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|fire vulnerability]]      
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 300 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 30, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 37, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]]      
 Saves: Fort +18, Ref +30, Will +41      
 Abilities: Str 47, Dex 35, Con -, Int 18, Wis 38, Cha 36      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +71 (+99 jumping), [[rangoric-srd/skills/Investigation|Investigation]] +57, [[rangoric-srd/skills/Perception|Perception]] +67, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +67, [[rangoric-srd/skills/Theology|Theology]] +57     

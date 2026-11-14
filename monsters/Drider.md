@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Dagger +5 melee (1d6+2/19–20) or bite +6 melee (1d4+1 plus poison) or shortbow +5 ranged (1d8/x3)
   - **Full Attack**: 2 daggers +3 melee (1d6+2/19–20, 1d6+1/19–20) and bite +1 melee (1d4+1 plus poison); or shortbow +5 ranged (1d8/x3)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Spells, spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 17
+  - **Special Attacks**: Spells, spell-like abilities, [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
   - **Saves**: Fort +5, Ref +4, Will +8
   - **Abilities**: Str 15, Dex 15, Con 16, Int 15, Wis 16, Cha 16
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11 (+19 climbing), [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +11

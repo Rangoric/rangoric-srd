@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +8 melee (1d3–1 plus poison)
   - **Full Attack**: 2 claws +8 melee (1d3–1 plus poison) and bite +3 melee (1d4–1)
   - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]], spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|Alternate form]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/cold iron or good, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 2, immunity to poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 10
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], spell-like abilities
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, immunity to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 10
   - **Saves**: Fort +3, Ref +6, Will +4
   - **Abilities**: Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 10
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Imitation|Imitation]] +6 (+8 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +0, [[rangoric-srd/skills/Stealth|Stealth]] +23, [[rangoric-srd/skills/Theology|Theology]] +6
@@ -71,9 +71,9 @@ Quasits speak Common and Abyssal.
 
 ## Combat
 
-Although quasits thirst for victory and power as other demons do, they are cowards at heart. They typically attack from ambush, using their [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|alternate form]] ability and [[rangoric-srd/spells/Invisibility|invisibility]] to get within reach, then try to scuttle away. When retreating, they use their [[rangoric-srd/spells/Cause Fear|cause fear]] ability to deter pursuit.
+Although quasits thirst for victory and power as other demons do, they are cowards at heart. They typically attack from ambush, using their [[rangoric-srd/monsters/abilities/Alternate Form|alternate form]] ability and [[rangoric-srd/spells/Invisibility|invisibility]] to get within reach, then try to scuttle away. When retreating, they use their [[rangoric-srd/spells/Cause Fear|cause fear]] ability to deter pursuit.
 
-A quasit’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A quasit’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Poison (Ex)**: Injury, Fortitude DC 13, initial damage 1d4 Dex, secondary damage 2d4 Dex. The save DC is Constitution-based and includes a +2 racial bonus.
 

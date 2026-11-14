@@ -39,7 +39,7 @@ When fey venture into the mortal worlds in search of adventure, they sometimes b
 | 17–18 | *[[rangoric-srd/spells/Summon Fey IX|summon fey IX]]* |
 | 19+ | *[[rangoric-srd/spells/Create Doorway and Sideroad|create doorway and sideroad]]* |
 
-**Special Qualities**: A half-fey creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]]. Half-fey are resistant to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the half-fey attains.
+**Special Qualities**: A half-fey creature retains all of the base creature’s extraordinary, supernatural, and spell-like abilities, plus [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]]. Half-fey are resistant to illusion and enchantment spells. This imparts them with a +1 racial bonus to resist spells and spell-like abilities of this nature, increasing by +1 for every four levels the half-fey attains.
 
 **Saves**: Same as the base creature.
 

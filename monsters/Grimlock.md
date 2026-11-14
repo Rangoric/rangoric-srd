@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Battleaxe +4 melee (1d8+3/x3)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +1, Ref +4, Will +2
   - **Abilities**: Str 15, Dex 13, Con 13, Int 10, Wis 8, Cha 6
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +1\*
@@ -68,7 +68,7 @@ Grimlocks are blind, but their exceptional senses of smell and hearing allow the
 
 Grimlocks are susceptible to sound- and scent-based attacks, however, and are affected normally by loud noises and sonic spells (such as [[rangoric-srd/spells/Ghost Sound|ghost sound]] or [[rangoric-srd/spells/Silence|silence]]) and overpowering odors (such as [[rangoric-srd/spells/Stinking Cloud|stinking cloud]] or incense-heavy air). Negating a grimlock’s sense of smell or hearing reduces this ability to normal [[rangoric-srd/feats/Blind-Fight|Blind-Fight]] (as the feat). If both these senses are negated, a grimlock is effectively [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]].
 
-**Immunities**: Grimlocks are immune to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] attacks, visual effects, illusions, and other attack forms that rely on sight.
+**Immunities**: Grimlocks are immune to [[rangoric-srd/monsters/abilities/Gaze|gaze]] attacks, visual effects, illusions, and other attack forms that rely on sight.
 
 **Skills**: \*A grimlock’s dull gray skin helps it hide in its native terrain, conferring a +10 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks when in mountains or underground.
 
@@ -92,7 +92,7 @@ Grimlock characters possess the following racial traits.
 
   - \+4 natural armor bonus.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]].
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 40 ft., immunities, [[rangoric-srd/monsters/abilities/Scent|scent]].
 
   - Automatic Languages: Common, Grimlock. Bonus Languages: Draconic, Dwarven, Gnome, Terran, Undercommon.
 

@@ -12,8 +12,8 @@ duration: "1 round/level"
 power-points: "5"
 based-on:
   - "[[fantasy srd 3.5/powers/Claws of the Vampire|Claws of the Vampire (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -33,4 +33,4 @@ If you have a claw attack (either from an actual natural weapon or from an effec
 
 You heal a number of hit points equal to half the base damage dealt by your claws of the vampire, rounded down (additional damage dealt because of a high Strength score or other enhancements does not count toward the amount you heal). You heal as many hit points as can be gained while the creature remains at 1 hit point or higher. Any damage that would reduce the creature to 0 or fewer hit points does not benefit you.
 
-You do not heal damage if your attack deals nonlethal damage, such as when you attack a creature that has the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] ability. Moreover, you gain no healing from attacking any creature that is under the effect of [[rangoric-srd/powers/Biofeedback|biofeedback]]. Using [[rangoric-srd/powers/Fission|fission]] on yourself and then attacking your duplicate also fails to grant any healing.
+You do not heal damage if your attack deals nonlethal damage, such as when you attack a creature that has the [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] ability. Moreover, you gain no healing from attacking any creature that is under the effect of [[rangoric-srd/powers/Biofeedback|biofeedback]]. Using [[rangoric-srd/powers/Fission|fission]] on yourself and then attacking your duplicate also fails to grant any healing.

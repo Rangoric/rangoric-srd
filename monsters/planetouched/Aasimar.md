@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Longsword +2 melee (1d8+1/19–20) or light crossbow +1 ranged (1d8/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/spells/Daylight|Daylight]]
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 5, cold 5, and electricity 5
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 5, cold 5, and electricity 5
   - **Saves**: Fort +3, Ref +0, Will +0
   - **Abilities**: Str 13, Dex 11, Con 12, Int 10, Wis 11, Cha 10
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +4, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Theology|Theology]] +4

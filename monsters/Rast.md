@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +6 melee (1d4+2) or bite +6 melee (1d8+3)
   - **Full Attack**: 4 claws +6 melee (1d4+2) or bite +6 melee (1d8+3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Paralyzing [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], blood drain
-  - **Special Qualities**: Darkvision 60 ft., flight, immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Attacks**: Paralyzing [[rangoric-srd/monsters/abilities/Gaze|gaze]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], blood drain
+  - **Special Qualities**: Darkvision 60 ft., flight, immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +5, Ref +5, Will +5
   - **Abilities**: Str 14, Dex 12, Con 13, Int 3, Wis 13, Cha 12
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8

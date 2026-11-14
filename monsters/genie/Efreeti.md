@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +15 melee (1d8+6 plus 1d6 fire)
   - **Space/Reach**: 10 ft./ 10 ft.
   - **Special Attacks**: Change size, heat, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +9, Ref +10, Will +9
   - **Abilities**: Str 23, Dex 17, Con 14, Int 12, Wis 15, Cha 15
   - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (any one) +14, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Imitation|Imitation]] +14 (+16 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +14

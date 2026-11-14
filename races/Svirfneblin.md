@@ -30,7 +30,7 @@ Perks:
 - Skilled: +2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +4 underground, and +2 racial bonus on [[rangoric-srd/skills/Craft|Craft]] (alchemy) and [[rangoric-srd/skills/Perception|Perception]] checks.
 - Hatred: +1 bonus on attack rolls against humanoid creatures of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^reptilian|reptilian]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dwarf|dwarf]] subtypes.
 - Stonecunning: Svirfneblin have the [[rangoric-srd/races/Dwarf|dwarf]]'s [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|stonecunning]].
-- Spell Resistance: Svirfneblin have [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] equal to 11 plus their class levels.
+- Spell Resistance: Svirfneblin have [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 11 plus their class levels.
 - Svirfneblin Magic: Add +1 to the Difficulty Class for all saving throws against illusion spells cast by svirfneblin. Svirfneblin also have the following spell-like abilities: Constant—*[[rangoric-srd/spells/Nondetection|nondetection]]*; 1/day—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]*, *[[rangoric-srd/spells/Blur|blur]]*, *[[rangoric-srd/spells/Disguise Self|disguise self]]* (caster level equal to the svirfneblin's character level).
 - Weapon Familiarity: Svirfneblin treat any weapon with the word “gnome” in its name as a martial weapon.
 

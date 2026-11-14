@@ -19,7 +19,7 @@ Salamanders speak Ignan. Some average salamanders and all nobles also speak Comm
 
 ### Combat
 
-If a salamander has damage reduction, its natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+If a salamander has damage reduction, its natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Constrict (Ex)**: A salamander deals automatic tail slap damage (including fire damage) with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. A noble salamander can constrict multiple creatures simultaneously, provided they are all at least two sizes smaller than it.
 

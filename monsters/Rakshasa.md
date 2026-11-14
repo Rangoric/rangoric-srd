@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +8 melee (1d4+1) and bite +3 melee (1d6)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/spells/Detect Thoughts|Detect thoughts]], spells
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^change-shape|Change shape]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/good and piercing, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 27
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and piercing, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
   - **Saves**: Fort +8, Ref +7, Will +6
   - **Abilities**: Str 12, Dex 14, Con 16, Int 13, Wis 13, Cha 17
   - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +17\*, [[rangoric-srd/skills/Imitation|Imitation]] +15 (+17 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] (oratory) +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13
@@ -115,7 +115,7 @@ Rakshasa characters possess the following racial traits.
 
   - Spells: A rakshasa character casts spells as a 7th-level sorcerer. If the character takes additional levels of sorcerer, these levels stack with the rakshasa’s base spellcasting ability for spells known, spells per day, and other effects dependent on caster level. A rakshasa character likewise uses the sum of its racial spellcasting levels and class levels to determine the abilities of its familiar.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^change-shape|Change shape]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/good and piercing, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] equal to 27 + class levels.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 27 + class levels.
 
   - Automatic Languages: Common, Infernal. Bonus Languages: Sylvan, Undercommon.
 

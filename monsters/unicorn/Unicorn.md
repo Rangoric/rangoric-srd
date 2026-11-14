@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Horn +11 melee (1d8+8) and 2 hooves +3 melee (1d4+2)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], spell-like abilities, immunity to poison, charm, and compulsion, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], wild empathy
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], spell-like abilities, immunity to poison, charm, and compulsion, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]], wild empathy
   - **Saves**: Fort +9, Ref +7, Will +6
   - **Abilities**: Str 20, Dex 17, Con 21, Int 10, Wis 21, Cha 24
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8\*, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +3

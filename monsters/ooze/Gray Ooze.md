@@ -47,8 +47,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +3 melee (1d6+1 plus 1d6 acid)
   - **Full Attack**: Slam +3 melee (1d6+1 plus 1d6 acid)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constrict]] 1d6+1 plus 1d6 acid, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], transparent
+  - **Special Attacks**: Acid, [[rangoric-srd/monsters/abilities/Constrict|constrict]] 1d6+1 plus 1d6 acid, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., immunity to cold and fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze traits]], transparent
   - **Saves**: Fort +6, Ref –4, Will –4
   - **Abilities**: Str 12, Dex 1, Con 21, Int —, Wis 1, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +7

@@ -17,6 +17,6 @@ Your ascension is complete; you have the spell resistance approaching that of a 
 
 **Prerequisites**: Cha 13, Wis 13, [[rangoric-srd/feats/Greater Drow Nobility|Greater Drow Nobility]], character level 13th, [[rangoric-srd/races/Drow|drow]].
 
-**Benefit**: Your [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] is equal to 11 + your character level.
+**Benefit**: Your [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] is equal to 11 + your character level.
 
 **Special**: You receive a +1 circumstance bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] and [[rangoric-srd/skills/Intimidation|Intimidation]] checks made against any drow.

@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +7 melee (1d4+4)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Horrific appearance, evil eye
-  - **Special Qualities**: Amphibious, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 14
+  - **Special Qualities**: Amphibious, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
   - **Saves**: Fort +2, Ref +4, Will +4
   - **Abilities**: Str 19, Dex 12, Con 12, Int 10, Wis 13, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (+12 swimming), [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +6, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +1
@@ -73,7 +73,7 @@ Sea hags are not subtle and prefer a direct approach to combat. They usually rem
 
 **Horrific Appearance (Su)**: The sight of a sea hag is so revolting that anyone (other than another hag) who sets eyes upon one must succeed on a DC 13 Fortitude save or instantly be weakened, taking 2d6 points of Strength [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. This damage cannot reduce a victim’s Strength score below 0, but anyone reduced to Strength 0 is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag’s horrific appearance for 24 hours. The save DC is Charisma-based.
 
-**Evil Eye (Su)**: Three times per day, a sea hag can cast its dire [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] upon any single creature within 30 feet. The target must succeed on a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for three days, although [[rangoric-srd/spells/Remove Curse|remove curse]] or [[rangoric-srd/spells/Dispel Evil|dispel evil]] can restore sanity sooner. In addition, an affected creature must succeed on a DC 13 Fortitude save or die from fright. Creatures with immunity to fear effects are not affected by the sea hag’s evil eye. The save DCs are Charisma-based.
+**Evil Eye (Su)**: Three times per day, a sea hag can cast its dire [[rangoric-srd/monsters/abilities/Gaze|gaze]] upon any single creature within 30 feet. The target must succeed on a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for three days, although [[rangoric-srd/spells/Remove Curse|remove curse]] or [[rangoric-srd/spells/Dispel Evil|dispel evil]] can restore sanity sooner. In addition, an affected creature must succeed on a DC 13 Fortitude save or die from fright. Creatures with immunity to fear effects are not affected by the sea hag’s evil eye. The save DCs are Charisma-based.
 
 **Amphibious (Ex)**: Although sea hags are aquatic, they can survive indefinitely on land.
 

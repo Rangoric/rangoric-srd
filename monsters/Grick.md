@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 4 tentacles +3 melee (1d4+2); bite –2 melee (1d3+1)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +0, Ref +2, Will +5
   - **Abilities**: Str 14, Dex 14, Con 11, Int 3, Wis 14, Cha 5
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +2 (+10 climbing), Perception +10, Stealth +2\*
@@ -66,7 +66,7 @@ An adult grick is about 8 feet long from the tips of its tentacles to the end of
 
 Gricks attack when hungry or threatened. They hunt by holing up near high-traffic areas, using their natural coloration to blend into convenient shadows. When prey (virtually anything that moves) ventures near, they lash out with their tentacles. A grick’s rubbery body seems to shed blows of any kind. Its jaws are relatively small and weak compared to its body mass, so rather than consume its kill immediately, a grick normally drags its victim back to its lair to be eaten at its leisure.
 
-A grick’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A grick’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 Multiple gricks do not fight in concert. Each attacks the prey closest to it, and breaks off the fight as soon as it can drag [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] or [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] prey away.
 

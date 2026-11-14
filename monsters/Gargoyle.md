@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +6 melee (1d4+2) and bite +4 melee (1d6+1) and gore +4 melee (1d6+1)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/magic, darkvision 60 ft., freeze
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., freeze
   - **Saves**: Fort +5, Ref +6, Will +4
   - **Abilities**: Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9\*
@@ -70,7 +70,7 @@ Gargoyles speak Common and Terran.
 
 Gargoyles either remain still, then suddenly attack, or dive onto their prey.
 
-A gargoyle’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A gargoyle’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Freeze (Ex)**: A gargoyle can hold itself so still it appears to be a statue. An observer must succeed on a DC 20 [[rangoric-srd/skills/Perception|Perception]] check to notice the gargoyle is really alive.
 
@@ -100,7 +100,7 @@ Gargoyle characters possess the following racial traits.
 
   - \+4 natural armor bonus.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/magic, freeze.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, freeze.
 
   - Automatic Languages: Common. Bonus Languages: Auran, Dwarven, Elven, Gnome, Halfling, Giant, Terran.
 

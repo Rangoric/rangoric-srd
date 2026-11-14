@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/overview]
 
   - Dromite base land speed is 20 feet.
 
-  - Chitin: A dromite’s skin is hardened, almost like an exoskeleton, and grants the character a +3 natural armor bonus to AC and one of the following kinds of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to energy]]: cold 5, electricity 5, fire 5, or sonic 5. The player chooses what type of energy resistance is gained when the character is created. (This choice also dictates which caste the dromite belongs to.) This natural energy resistance stacks with any future energy resistance gained through other effects.
+  - Chitin: A dromite’s skin is hardened, almost like an exoskeleton, and grants the character a +3 natural armor bonus to AC and one of the following kinds of [[rangoric-srd/monsters/abilities/Resistance|resistance to energy]]: cold 5, electricity 5, fire 5, or sonic 5. The player chooses what type of energy resistance is gained when the character is created. (This choice also dictates which caste the dromite belongs to.) This natural energy resistance stacks with any future energy resistance gained through other effects.
 
  ^dromite-chitin
 

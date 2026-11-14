@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Bite +4 melee (1d4 plus disease)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Disease
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +3, Ref +5, Will +3
   - **Abilities**: Str 10, Dex 17, Con 12, Int 1, Wis 12, Cha 4
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11 (+19 climbing), [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +7

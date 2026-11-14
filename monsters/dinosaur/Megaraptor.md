@@ -47,8 +47,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Talons +10 melee (2d6+5)
   - **Full Attack**: Talons +10 melee (2d6+5) and 2 foreclaws +5 melee (1d4+2) and bite +5 melee (1d8+2)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|Pounce]]
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
+  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +10, Ref +8, Will +4
   - **Abilities**: Str 21, Dex 15, Con 21, Int 2, Wis 15, Cha 10
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +18 (+30 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +11

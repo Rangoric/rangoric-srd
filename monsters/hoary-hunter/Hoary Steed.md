@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 hooves +17 (3d6+6) melee, bite +15 (5d8+3) melee
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: -
-  - **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|fire vulnerability]], [[rangoric-srd/spells/Air Walk|air walk]], [[rangoric-srd/spells/Astral Projection|astral projection]] and [[rangoric-srd/spells/Etherealness|etherealness]], [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], misty breath, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 5/magic and cold iron, immunities
+  - **Special Qualities**: Cold immunity, [[rangoric-srd/monsters/abilities/Vulnerabilities|fire vulnerability]], [[rangoric-srd/spells/Air Walk|air walk]], [[rangoric-srd/spells/Astral Projection|astral projection]] and [[rangoric-srd/spells/Etherealness|etherealness]], [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], misty breath, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 20, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/magic and cold iron, immunities
   - **Saves**: Fort +11, Ref +12, Will +5
   - **Abilities**: Str 22, Dex 18, Con 17, Int 6, Wis 13, Cha 14
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +11 (+15 jumping), [[rangoric-srd/skills/Perception|Perception]] +20
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Alignment**: Always neutral evil
   - **Advancement**: 13-24 HD (Large); 25-36 HD (Huge)
 
-A hoary steed’s natural weapons are treated as magic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A hoary steed’s natural weapons are treated as magic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 ### Combat
 

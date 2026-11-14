@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Swarm (1d6 plus poison)
   - **Full Attack**: Swarm (1d6 plus poison)
   - **Space/Reach**: 10 ft./0 ft.
-  - **Special Attacks**: Distraction, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
-  - **Special Qualities**: Darkvision 60 ft., immune to weapon damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]]
+  - **Special Attacks**: Distraction, [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: Darkvision 60 ft., immune to weapon damage, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 30 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]]
   - **Saves**: Fort +3, Ref +3, Will +0
   - **Abilities**: Str 1, Dex 17, Con 10, Int —, Wis 10, Cha 2
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 climbing), [[rangoric-srd/skills/Perception|Perception]] +4

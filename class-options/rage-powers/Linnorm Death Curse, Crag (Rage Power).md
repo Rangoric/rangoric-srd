@@ -21,4 +21,4 @@ The character channels the power of a crag linnorm. The character's melee attack
 
 A character must be at least 4th level to select this rage power.
 
-*Curse of Fire*: *save* Will DC 10 + 1/2 character's level + character's Charisma bonus; *effect* target gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to fire]].
+*Curse of Fire*: *save* Will DC 10 + 1/2 character's level + character's Charisma bonus; *effect* target gains [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]].

@@ -48,8 +48,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Short sword +7 melee (1d6+2/19–20) or claw +7 melee (1d4+2) or longbow +8 ranged (1d8/x3)
   - **Full Attack**: 2 short swords +5 melee (1d6+2/19–20, 1d6+1/19–20) and 2 claws +5 melee (1d4+1); or 4 claws +5 melee (1d4+2, 1d4+1); or 2 longbows +4 ranged (1d8/x3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Implant, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]]
-  - **Special Qualities**: Darkvision 60 ft., planewalk, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 21
+  - **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]]
+  - **Special Qualities**: Darkvision 60 ft., planewalk, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
   - **Saves**: Fort +6, Ref +7, Will +5
   - **Abilities**: Str 15, Dex 16, Con 15, Int 12, Wis 12, Cha 11
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9 (+13 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +11

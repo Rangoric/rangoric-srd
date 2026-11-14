@@ -77,6 +77,6 @@ Doorway guardians prefer a peaceful existence watching over a specific *fey road
 
 **[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]]**: Doorway guardians can be harmed only by other incorporeal creatures or by corporeal attacks of +2 or better magic weapons, or magic. There is, however, a 50% chance that the doorway guardian will ignore any damage from a corporeal source. Doorway guardians can pass through solid objects at will and they always move silently. Their incorporeal touch attacks pass through armor but still inflict damage on corporeal and incorporeal foes alike.
 
-**[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|Telepathy]]**: Doorway guardians communicate telepathically with any creature within 150 feet that has a language or is sentient.
+**[[rangoric-srd/monsters/abilities/Telepathy|Telepathy]]**: Doorway guardians communicate telepathically with any creature within 150 feet that has a language or is sentient.
 
 **Guardian Qualities**: Doorway guardians must stay within 100 feet of the *doorways* they protect.

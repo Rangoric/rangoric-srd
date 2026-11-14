@@ -29,7 +29,7 @@ Psychometabolism
 **Duration:** 1 round/level  
 **Power Points:** 3  
 
-You gain an enhanced sense of smell, equivalent to the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] ability of some monsters. This ability allows you to detect approaching enemies, sniff out hidden foes, and track by sense of smell. With the scent ability, you can identify familiar odors just as humanoids do familiar sights.
+You gain an enhanced sense of smell, equivalent to the [[rangoric-srd/monsters/abilities/Scent|scent]] ability of some monsters. This ability allows you to detect approaching enemies, sniff out hidden foes, and track by sense of smell. With the scent ability, you can identify familiar odors just as humanoids do familiar sights.
 
 You can detect opponents within 30 feet by sense of smell. If the opponent is upwind, the range increases to 60 feet; if downwind, it drops to 15 feet. Strong scents, such as smoke or rotting garbage, can be detected at twice the ranges noted above. Overpowering scents, such as skunk musk or troglodyte stench, can be detected at triple normal range.
 

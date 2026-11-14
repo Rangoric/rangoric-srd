@@ -47,8 +47,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Gore +20 melee (2d8+15)
   - **Full Attack**: Gore +20 melee (2d8+15)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^powerful-charge|Powerful charge]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^trample|trample]] 2d12+15
-  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]], [[rangoric-srd/monsters/abilities/Trample|trample]] 2d12+15
+  - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +19, Ref +9, Will +6
   - **Abilities**: Str 30, Dex 9, Con 25, Int 1, Wis 12, Cha 7
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +26

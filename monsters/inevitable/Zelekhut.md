@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 spiked chains +10 melee (2d6+5 plus 1d6 electricity)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/chaotic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 5, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 20
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 20
   - **Saves**: Fort +4, Ref +2, Will +5
   - **Abilities**: Str 21, Dex 11, Con —, Int 10, Wis 17, Cha 15
   - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+5 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15
@@ -72,7 +72,7 @@ A zelekhut may initially appear rather non-threatening—but when it is about to
 
 Once it has found its fugitive, a zelekhut uses its speed and its spell-like abilities to cover the most likely escape routes. Then it immobilizes any defenders while attempting to protect any innocent bystanders. Finally, it apprehends the fugitive with its spiked chains, [[rangoric-srd/combat/Combat Maneuvers#Trip|tripping]] or [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarming]] the foe as needed.
 
-A zelekhut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A zelekhut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Spell-Like Abilities**: Caster level 8th. The save DCs are Charisma-based.  
 

@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +8 melee (1d8+3)
   - **Full Attack**: Bite +8 melee (1d8+3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Petrifying [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]]
+  - **Special Attacks**: Petrifying [[rangoric-srd/monsters/abilities/Gaze|gaze]]
   - **Special Qualities**: Darkvision 60 ft., low-light vision
   - **Saves**: Fort +9, Ref +4, Will +3
   - **Abilities**: Str 15, Dex 8, Con 15, Int 2, Wis 12, Cha 11
@@ -65,7 +65,7 @@ A basilisk is a reptilian monster that petrifies living creatures with a mere ga
 
 ### Combat
 
-A basilisk relies on its [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze attack]], biting only when opponents come within reach. Though it has eight legs, its slow metabolism renders it relatively sluggish, so it does not expend energy unnecessarily. Intruders who flee a basilisk rather than fight can expect, at best, a halfhearted pursuit. These creatures tend to spend most of their time lying in wait for prey, which includes small mammals, birds, reptiles, and similar creatures.
+A basilisk relies on its [[rangoric-srd/monsters/abilities/Gaze|gaze attack]], biting only when opponents come within reach. Though it has eight legs, its slow metabolism renders it relatively sluggish, so it does not expend energy unnecessarily. Intruders who flee a basilisk rather than fight can expect, at best, a halfhearted pursuit. These creatures tend to spend most of their time lying in wait for prey, which includes small mammals, birds, reptiles, and similar creatures.
 
 **Petrifying Gaze (Su)**: Turn to stone permanently, range 30 feet; Fortitude DC 13 negates. The save DC is Charisma-based.
 

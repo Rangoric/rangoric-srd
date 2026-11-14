@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +10 melee (1d8+4)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Air mastery, spell-like abilities, whirlwind
-  - **Special Qualities**: Darkvision 60 ft., immunity to acid, [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Qualities**: Darkvision 60 ft., immunity to acid, [[rangoric-srd/spells/Plane Shift|plane shift]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +7, Ref +9, Will +7
   - **Abilities**: Str 18, Dex 19, Con 14, Int 14, Wis 15, Cha 15
   - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +12, [[rangoric-srd/skills/Craft|Craft]] (any one) +12, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12 (+16 with bindings), [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +10, [[rangoric-srd/skills/Theology|Theology]] +12

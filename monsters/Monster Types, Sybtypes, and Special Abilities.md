@@ -93,7 +93,7 @@ tags: [rangoric, rangoric/overview]
 
   - Animals eat, sleep, and breathe.
 
-**Aquatic Subtype**: These creatures always have swim speeds and thus can move in water without making Athletics checks to swim. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the [[#^amphibious|amphibious]] special quality. [[rangoric-srd/skills/Athletics|Athletics]] is a class skill for an aquatic creature. ^aquatic
+**Aquatic Subtype**: These creatures always have swim speeds and thus can move in water without making Athletics checks to swim. An aquatic creature can breathe underwater. It cannot also breathe air unless it has the [[rangoric-srd/monsters/abilities/Amphibious|amphibious]] special quality. [[rangoric-srd/skills/Athletics|Athletics]] is a class skill for an aquatic creature. ^aquatic
 
 **Archon Subtype**: Archons are a race of celestials, or good [[#^outsider|outsiders]], native to lawful good-aligned Outer Planes. ^archon
 
@@ -128,9 +128,9 @@ tags: [rangoric, rangoric/overview]
 
 **Changeling Subtype**: A humanoid subtype for [[rangoric-srd/races/Changeling|changelings]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^changeling
 
-**Chaotic Subtype**: A subtype usually applied only to [[#^outsider|outsiders]] native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes [[#^DR|damage reduction]] as if its natural weapons and any weapons it wields were chaotic-aligned. ^chaotic
+**Chaotic Subtype**: A subtype usually applied only to [[#^outsider|outsiders]] native to the chaotic-aligned Outer Planes. Most creatures that have this subtype also have chaotic alignments; however, if their alignments change they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a chaotic alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the chaotic subtype overcomes [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] as if its natural weapons and any weapons it wields were chaotic-aligned. ^chaotic
 
-**Cold Subtype**: A creature with the cold subtype has immunity to cold. It has [[#^vulnerability-to-energy|vulnerability to fire]], which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^cold
+**Cold Subtype**: A creature with the cold subtype has immunity to cold. It has [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]], which means it takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure. ^cold
 
 **Constrict (Ex)**: See [[rangoric-srd/monsters/abilities/Constrict|constrict]]. ^constrict
 
@@ -158,7 +158,7 @@ tags: [rangoric, rangoric/overview]
 
   - Immunity to [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death effects, necromancy effects, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep effects, and [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]].
 
-  - Cannot heal damage on its own, but often can be repaired by exposing it to a certain kind of effect (see the creature’s description for details) or through the use of the [[rangoric-srd/feats/Craft Construct|Craft Construct]] feat. Constructs can also be healed through spells such as [[rangoric-srd/spells/Make Whole|make whole]]. A construct with the [[#^fast-healing|fast healing]] special quality still benefits from that quality.
+  - Cannot heal damage on its own, but often can be repaired by exposing it to a certain kind of effect (see the creature’s description for details) or through the use of the [[rangoric-srd/feats/Craft Construct|Craft Construct]] feat. Constructs can also be healed through spells such as [[rangoric-srd/spells/Make Whole|make whole]]. A construct with the [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] special quality still benefits from that quality.
 
   - Not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], ability drain, fatigue, exhaustion, [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], or nonlethal damage.
 
@@ -218,7 +218,7 @@ tags: [rangoric, rangoric/overview]
 
 **Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as [[rangoric-srd/races/Duergar|duergar]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
 
-**Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. Earth creatures with a burrow speed have [[#^tremorsense|tremorsense]]. ^earth
+**Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. Earth creatures with a burrow speed have [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]]. ^earth
 
 **Elemental Subtype**: An elemental is a being composed entirely from one of the four classical elements: air, earth, fire, or water. Elementals are [[#^outsider|outsiders]] with this subtype, usually with the [[#^air|air]], [[#^earth|earth]], [[#^fire|fire]], or [[#^water|water]] subtype as well (see [[#^retyped|retyped creatures]]). An elemental has the following traits, besides those of an outsider. ^elemental
 

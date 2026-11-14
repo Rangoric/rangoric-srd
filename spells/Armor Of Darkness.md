@@ -18,8 +18,8 @@ saving-throw: "Will negates (harmless)"
 spell-resistance: "Yes (harmless)"
 based-on:
   - "[[fantasy srd 3.5/spells/Armor Of Darkness|Armor Of Darkness (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -36,4 +36,4 @@ Duration: 10 minutes/level
 Saving Throw: Will negates (harmless)  
 Spell Resistance: Yes (harmless)  
 
-The spell envelops the warded creature in a shroud of shadows. The shroud can, if the caster desires, conceal the wearer’s features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1 for every four caster levels (maximum bonus +8). The subject can see through the armor as if it did not exist and is also afforded darkvision with a range of 60 feet. Finally, the subject gains a +2 bonus on saving throws against any holy, good, or light spells or effects.Undead creatures that are subjects of armor of darkness also gain +4 [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^turn-resistance|turn resistance]].
+The spell envelops the warded creature in a shroud of shadows. The shroud can, if the caster desires, conceal the wearer’s features. In any case, it grants the recipient a +3 deflection bonus to Armor Class plus an additional +1 for every four caster levels (maximum bonus +8). The subject can see through the armor as if it did not exist and is also afforded darkvision with a range of 60 feet. Finally, the subject gains a +2 bonus on saving throws against any holy, good, or light spells or effects.Undead creatures that are subjects of armor of darkness also gain +4 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]].

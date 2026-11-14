@@ -47,8 +47,8 @@ Base Attack: +25; CMB: +36; CMD: 77   
 Attack: +10 keen dagger of human dread +54 (1d4+21/17-20) melee     
 Full Attack: +10 keen dagger of human dread +54/+49/+44/+39 (1d4+21/17-20) melee     
 Space/Reach: 5 ft./5 ft.      
-Special Attacks: Fear [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]], sneak attack +13d6      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 60 ft., opportunist, quiescence, spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 35, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic      
+Special Attacks: Fear [[rangoric-srd/monsters/abilities/Gaze|gaze]], sneak attack +13d6      
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 60 ft., opportunist, quiescence, spell-like abilities, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 35, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic      
 Saves: Fort +17, Ref +32, Will +21      
 Abilities: Str 32, Dex 46, Con 29, Int 26, Wis 25, Cha 30      
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +39, [[rangoric-srd/skills/Deception|Deception]] +38, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +35, [[rangoric-srd/skills/Intimidation|Intimidation]] +38, [[rangoric-srd/skills/Perception|Perception]] +35, [[rangoric-srd/skills/Stealth|Stealth]] +66     
@@ -64,11 +64,11 @@ Advancement: 25+ HD (Medium-size)    
 
 In the hand of any other creature but a gloom, the dagger is a +5 keen dagger.
 
-A gloom’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A gloom’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Fear Gaze (Su): Viewing the gloom’s face inspires terror. Creatures that meet the gloom’s [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]] must succeed at a Will save (DC 32) or suffer the effects of a [[rangoric-srd/spells/Fear|fear]] spell as cast by a 20th-level caster.   The DC is Charisma-based.
+Fear Gaze (Su): Viewing the gloom’s face inspires terror. Creatures that meet the gloom’s [[rangoric-srd/monsters/abilities/Gaze|gaze]] must succeed at a Will save (DC 32) or suffer the effects of a [[rangoric-srd/spells/Fear|fear]] spell as cast by a 20th-level caster.   The DC is Charisma-based.
 
 Opportunist (Ex): This ability functions like the [[rangoric-srd/classes/Rogue|rogue]] class feature of the same name.
 

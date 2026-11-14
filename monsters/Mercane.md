@@ -46,7 +46,7 @@ Base Attack: +7; CMB: +10 (+12 disarm); CMD: 22 (24 vs. disarm)   
 Attack: Masterwork falchion +9(2d4+3) melee     
 Full Attack: Masterwork falchion +9/+4 (2d4+3) melee      
 Space/Reach: 10 ft./10 ft.      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 25, spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]]     
+Special Qualities: [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 25, spell-like abilities, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]]     
 Saves: Fort +8, Ref +7, Will +8      
 Abilities: Str 15, Dex 15, Con 16, Int 20, Wis 17, Cha 15      
 Skills: [[rangoric-srd/skills/Appraise|Appraise]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Profession|Profession]] (bookkeeper) +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12, [[rangoric-srd/skills/Theology|Theology]] +15      

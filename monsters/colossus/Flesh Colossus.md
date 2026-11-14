@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Colossal club +79 (6d6+18) melee or 2 slams +79 (4d6+12) melee or thrown object (weighing 10 tons or less) +65 (4d6+12) ranged
   - **Space/Reach**: 30 ft./30 ft.
   - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Frightful presence]], horrific appearance, stomp, stench
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 15/Epic and adamantine, negative energy affinity
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/Epic and adamantine, negative energy affinity
   - **Saves**: Fort +33, Ref +31, Will +33
   - **Abilities**: Str 35, Dex 6, Con -, Int 1 or as controlling spirit, Wis 11 or as controlling spirit, Cha 1 or as controlling spirit
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +115 or as controlling spirit (+119 jumping)

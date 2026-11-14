@@ -48,8 +48,8 @@ Base Attack: +4; CMB: +22 (+26 grapple); CMD: 39   
 Attack: Tentacle rake +35 (2d8+17) melee     
 Full Attack: 5 tentacle rakes +35 (2d8+17) melee     
 Space/Reach: 10 ft./10 ft.      
-Special Attacks: Constant insight, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], rend 4d8+25, rotting constriction      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 5/epic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|acid and electricity resistance]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], spell-like abilities, darkvision 90 ft.      
+Special Attacks: Constant insight, [[rangoric-srd/monsters/abilities/Grab|improved grab]], rend 4d8+25, rotting constriction      
+Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/epic, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30, [[rangoric-srd/monsters/abilities/Resistance|acid and electricity resistance]] 20, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]], spell-like abilities, darkvision 90 ft.      
 Saves: Fort +16, Ref +9, Will +8      
 Abilities: Str 45, Dex 24, Con 33, Int 6, Wis 19, Cha 6      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +26 (+38 jumping), [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +16     
@@ -64,7 +64,7 @@ Advancement: By character class    
 
 Pseudotrolls speak Giant.
 
-A pseudotroll’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A pseudotroll’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -114,11 +114,11 @@ At will - [[rangoric-srd/spells/Blur|blur]], [[rangoric-srd/spells/Dimension Doo
 
 Special Qualities: A pseudonatural creature retains all the special qualities of the base creature and also gains the following.  
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Electricity and acid resistance]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses such resistance, use whichever is better.
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses Damage reduction, use whichever is better.
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to the creature’s HD x5. If the creature already possesses spell resistance, use whichever is higher.
+  - [[rangoric-srd/monsters/abilities/Resistance|Electricity and acid resistance]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses such resistance, use whichever is better.
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] of a varying amount related to its Hit Dice (see the table below). If the creature already possesses Damage reduction, use whichever is better.
+  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to the creature’s HD x5. If the creature already possesses spell resistance, use whichever is higher.
   - One extra tentacle rake attack (the creature can use another of its many tentacles to attack at no penalty while in pseudonatural form) for each 4 HD the creature has.
-  - A pseudonatural creature’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+  - A pseudonatural creature’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 |                |                                 |                  |                             |
 | -------------- | ------------------------------- | ---------------- | --------------------------- |

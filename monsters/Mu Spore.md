@@ -47,8 +47,8 @@ Base Attack: +26; CMB: +47 (+51 grapple); CMD: 54 (can't be tripped)   
 Attack: Tendril +31 (2d6+13/19-20) melee     
 Full Attack: 4 tendrils +31 (2d6+13/19-20) melee, 1 bite +26 (4d6+6/19-20) melee     
 Space/Reach: 30 ft./30 ft.      
-Special Attacks: Spore cough, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]]      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Acid resistance]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] 210 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], sticky     
+Special Attacks: Spore cough, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]      
+Special Qualities: [[rangoric-srd/monsters/abilities/Resistance|Acid resistance]] 20, [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 210 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]], sticky     
 Saves: Fort +28, Ref +8, Will +20      
 Abilities: Str 36, Dex 5, Con 29, Int 18, Wis 28, Cha 28      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +47 (+51 jumping), [[rangoric-srd/skills/Deception|Deception]] +47, [[rangoric-srd/skills/Intimidation|Intimidation]] +14, [[rangoric-srd/skills/Nature|Nature]] +42, [[rangoric-srd/skills/Perception|Perception]] +47, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Society|Society]] +42, [[rangoric-srd/skills/Stealth|Stealth]] +35     
@@ -63,11 +63,11 @@ Advancement: 36+ HD (Colossal)    
 
 Mu spores speak Common and Terran.
 
-A mu spore’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A mu spore’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
-Spore Cough (Su): Once every 1d4 rounds a mu spore can release a cloud of burrowing spores. This spore cough is treated as a 100-foot-cone [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapon]]. The burrowing spores deal 20d8 points of Damage to all creatures and structures in the area, or half Damage to any creatures that make a Reflex save (DC 36). The DC is Charisma-based.
+Spore Cough (Su): Once every 1d4 rounds a mu spore can release a cloud of burrowing spores. This spore cough is treated as a 100-foot-cone [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]]. The burrowing spores deal 20d8 points of Damage to all creatures and structures in the area, or half Damage to any creatures that make a Reflex save (DC 36). The DC is Charisma-based.
 
 Improved Grab (Ex): If a mu spore hits with a tendril, it deals normal Damage and attempts to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. Improved grab works only against Gargantuan and smaller opponents. The mu spore has the option to conduct the grapple normally, transfer the victim to its mouth as a free action, or simply use its tendril to hold the opponent. Each successful grapple check it makes during successive rounds automatically deals the Damage given for the tendril.
 

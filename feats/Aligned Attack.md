@@ -11,7 +11,7 @@ tags: [rangoric, rangoric/feat, psionic]
 
 # Aligned Attack
 
-Your melee or ranged attack overcomes your opponent’s alignment-based [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] and deals additional damage.  
+Your melee or ranged attack overcomes your opponent’s alignment-based [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] and deals additional damage.  
 
 Prerequisite: Base attack bonus +6.
 

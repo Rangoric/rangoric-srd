@@ -17,11 +17,11 @@ Demons are a race of creatures native to chaotic evil-aligned planes. They are f
 
   - Immunity to electricity and poison.
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to acid]] 10, cold 10, and fire 10.
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance to acid]] 10, cold 10, and fire 10.
 
   - *Summon (Sp)*: Many demons share the ability to summon others of their kind (the success chance and type of demon summoned are noted in each monster description). Demons are often reluctant to use this power until in obvious peril or extreme circumstances.
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|Telepathy]].
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
 
 Except where otherwise noted, demons speak Abyssal, Celestial, and Draconic.
 
@@ -31,9 +31,9 @@ Except where otherwise noted, demons speak Abyssal, Celestial, and Draconic.
 
 ### Combat
 
-A bebilith attacks any creature it sees. It usually picks one target and concentrates its attacks on that opponent, using its webs to isolate the target from its comrades. Should the bebilith become overwhelmed by tougher opponents, it often attempts to bite one or more of its victims and retreats, allowing its [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]] to do its work.
+A bebilith attacks any creature it sees. It usually picks one target and concentrates its attacks on that opponent, using its webs to isolate the target from its comrades. Should the bebilith become overwhelmed by tougher opponents, it often attempts to bite one or more of its victims and retreats, allowing its [[rangoric-srd/monsters/abilities/Poison|poison]] to do its work.
 
-A bebilith’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A bebilith’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Poison (Ex)**: Injury, Fortitude DC 24, initial damage 1d6 Con, secondary damage 2d6 Con. Bebilith venom is highly perishable, losing its potency and becoming inert, foul-smelling goo almost as soon as it comes into contact with air. The save DC is Constitution-based.
 

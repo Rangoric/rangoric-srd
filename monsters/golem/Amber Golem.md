@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slams +27 melee (2d10+13)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Breath weapon, fiery aura, splatter
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/magic, darkvision 60 ft., death throes, immunity to magic, low-light vision
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, darkvision 60 ft., death throes, immunity to magic, low-light vision
   - **Saves**: Fort +6, Ref +5, Will +6
   - **Abilities**: Str 37, Dex 8, Con —, Int —, Wis 10, Cha 1
   - **Skills**: —

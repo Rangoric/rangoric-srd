@@ -49,7 +49,7 @@ Attack: Swarm (5d6)   
 Full Attack: Swarm (5d6)     
 Space/Reach: 10 ft./0 ft.     
 Special Attacks: Blinding, distraction (DC 45)     
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsense|Blindsense]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 15, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]]     
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swarm|swarm traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vermin|vermin traits]]     
 Saves: Fort +37, Ref +34, Will +22     
 Abilities: Str 3, Dex 42, Con 30, Int-, Wis 23, Cha 32     
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +49 (+57 climbing)     

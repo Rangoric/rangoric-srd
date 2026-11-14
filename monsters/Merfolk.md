@@ -73,7 +73,7 @@ Most merfolk encountered outside their home are warriors; the information in the
 
 Merfolk favor heavy crossbows of shell and coral that fire bolts fashioned from blowfish spines, with an underwater range increment of 30 feet. Merfolk often barrage their enemies before closing, when they resort to tridents.
 
-**Amphibious (Ex)**: Merfolk are [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^amphibious|amphibious]], although they rarely travel more than a few feet from the water’s edge.
+**Amphibious (Ex)**: Merfolk are [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], although they rarely travel more than a few feet from the water’s edge.
 
 **Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a merfolk is better at swimming.
 

@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/other, racial-trait/standar
 
 **Race**: [[rangoric-srd/races/Undine|Undine]]. **Replaces**: spell-like ability.
 
-Some undines are born with a permanent bond to water. Undines with this racial trait gain the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^amphibious|amphibious]] special quality.
+Some undines are born with a permanent bond to water. Undines with this racial trait gain the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]] and [[rangoric-srd/monsters/abilities/Amphibious|amphibious]] special quality.

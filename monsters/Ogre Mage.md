@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Greatsword +7 melee (3d6+7/19–20) or longbow +2 ranged (2d6/x3)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Spell-like abilities
-  - **Special Qualities**: Darkvision 90 ft., low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 19
+  - **Special Qualities**: Darkvision 90 ft., low-light vision, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
   - **Saves**: Fort +7, Ref +1, Will +3
   - **Abilities**: Str 21, Dex 10, Con 17, Int 14, Wis 14, Cha 17
   - **Skills**: [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +10
@@ -109,7 +109,7 @@ Ogre mage characters possess the following racial traits.
 
   - Special Attacks (see above): Spell-like abilities.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|Regeneration]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 19.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19.
 
   - Automatic Languages: Common, Giant. Bonus Languages: Dwarven, Goblin, Infernal, Orc.
 

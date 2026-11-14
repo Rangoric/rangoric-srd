@@ -49,7 +49,7 @@ Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mo
 Full **Attack:** 2 claws +11 melee (1d6+6) and bite +6 melee (1d6+3 plus mind feed)     
 **Space/Reach:** 10 ft./10 ft.     
 **Special Attacks:** Mind feed, psi-like abilities     
-**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]     
+**Special Qualities:** [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10, [[rangoric-srd/monsters/abilities/Scent|scent]]     
 **Saves:** Fort +9, Ref +6, Will +8     
 **Abilities:** Str 23, Dex 12, Con 21, Int 10, Wis 16, Cha 16     
 **Skills:** [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +6     

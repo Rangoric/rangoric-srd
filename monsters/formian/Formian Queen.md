@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: —
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, spells
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|Fast healing]] 2, hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 10, fire 10, and sonic 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 2, hive mind, immunity to poison, petrification, and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10, fire 10, and sonic 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]]
   - **Saves**: Fort +19, Ref —, Will +19
   - **Abilities**: Str —, Dex —, Con 20, Int 20, Wis 20, Cha 21
   - **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +28, [[rangoric-srd/skills/Arcana|Arcana]] +28 (+30 scrolls), [[rangoric-srd/skills/Deception|Deception]] +28, [[rangoric-srd/skills/Emulation|Emulation]] +28 (+30 scrolls), [[rangoric-srd/skills/Imitation|Imitation]] +28 (+30 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +28, [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any three) +28, [[rangoric-srd/skills/Perception|Perception]] +34, [[rangoric-srd/skills/Persuasion|Persuasion]] +28, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28

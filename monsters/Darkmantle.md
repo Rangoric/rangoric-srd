@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +5 melee (1d4+4)
   - **Full Attack**: Slam +5 melee (1d4+4)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/spells/Darkness|Darkness]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constrict]] 1d4+4
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 90 ft.
+  - **Special Attacks**: [[rangoric-srd/spells/Darkness|Darkness]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 1d4+4
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 90 ft.
   - **Saves**: Fort +3, Ref +2, Will +0
   - **Abilities**: Str 16, Dex 10, Con 13, Int 2, Wis 10, Cha 10
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +8\*, [[rangoric-srd/skills/Stealth|Stealth]] +8

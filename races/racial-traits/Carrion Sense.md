@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/senses, racial-trait/standa
 
 **Race**: [[rangoric-srd/races/Tengu|Tengu]]. **Replaces**: gifted linguist.
 
-Many tengus have a natural ability to sniff out carrion. While their sense of smell isn't as keen as that of other species, it is particularly attuned to the scent of injuries or death. Tengus with this racial trait have a limited [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] ability, which only functions for corpses and badly wounded creatures (50% or fewer hit points).
+Many tengus have a natural ability to sniff out carrion. While their sense of smell isn't as keen as that of other species, it is particularly attuned to the scent of injuries or death. Tengus with this racial trait have a limited [[rangoric-srd/monsters/abilities/Scent|scent]] ability, which only functions for corpses and badly wounded creatures (50% or fewer hit points).

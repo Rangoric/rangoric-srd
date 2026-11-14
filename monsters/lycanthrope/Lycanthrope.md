@@ -17,9 +17,9 @@ Lycanthropy can be spread like a disease. Sometimes a lycanthrope begins life as
 
 #### Combat
 
-A lycanthrope in its humanoid (or giant) form uses whatever tactics and weapons are favored by others of its kind, though it tends to be slightly more aggressive. A lycanthrope possesses the senses of its animal form, including [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] and low-light vision, and it has a deep empathy for (and ability to communicate with) animals of its animal form. An afflicted lycanthrope damaged in combat may be overwhelmed by rage, causing it to change to its animal form involuntarily.
+A lycanthrope in its humanoid (or giant) form uses whatever tactics and weapons are favored by others of its kind, though it tends to be slightly more aggressive. A lycanthrope possesses the senses of its animal form, including [[rangoric-srd/monsters/abilities/Scent|scent]] and low-light vision, and it has a deep empathy for (and ability to communicate with) animals of its animal form. An afflicted lycanthrope damaged in combat may be overwhelmed by rage, causing it to change to its animal form involuntarily.
 
-A lycanthrope in animal form fights like the animal it resembles, although its bite carries the disease of lycanthropy. It is preternaturally cunning and strong, and possesses [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] that is overcome only by silvered weapons.
+A lycanthrope in animal form fights like the animal it resembles, although its bite carries the disease of lycanthropy. It is preternaturally cunning and strong, and possesses [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] that is overcome only by silvered weapons.
 
 Finally, a natural lycanthrope (or an afflicted lycanthrope that has become aware of its affliction) can assume a hybrid form that is a mix of its humanoid and animal forms. A hybrid has hands and can use weapons, but it can also attack with its teeth and claws. A hybrid can spread lycanthropy with its bite, and it has the same damage reduction that its animal form possesses.
 
@@ -72,13 +72,13 @@ A lycanthrope’s hybrid form does not gain any special attacks of the base anim
 
 Changing to or from animal or hybrid form is a standard action. A slain lycanthrope reverts to its humanoid form, although it remains dead. Separated body parts retain their animal form, however. Afflicted lycanthropes find this ability difficult to control (see Lycanthropy as an Affliction, below), but natural lycanthropes have full control over this power.
 
-*Damage Reduction (Ex)*: An afflicted lycanthrope in animal or hybrid form has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/silver. A natural lycanthrope in animal or hybrid form has damage reduction 10/silver.
+*Damage Reduction (Ex)*: An afflicted lycanthrope in animal or hybrid form has [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver. A natural lycanthrope in animal or hybrid form has damage reduction 10/silver.
 
 *Lycanthropic Empathy (Ex)*: In any form, lycanthropes can communicate and empathize with normal or dire animals of their animal form. This gives them a +4 racial bonus on checks when influencing the animal’s attitude and allows the communication of simple concepts and (if the animal is friendly) commands, such as “friend,” “foe,” “flee,” and “attack.”
 
 *Low-Light Vision (Ex)*: A lycanthrope has low-light vision in any form.
 
-*Scent (Ex)*: A lycanthrope has the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]] ability in any form.
+*Scent (Ex)*: A lycanthrope has the [[rangoric-srd/monsters/abilities/Scent|scent]] ability in any form.
 
 **Base Save Bonuses**: Add the base save bonuses of the base animal to the base save bonuses of the base creature.
 
@@ -157,7 +157,7 @@ Lycanthrope characters possess the following racial traits.
 
   - Low-light vision in any form.
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|Scent]] in any form.
+  - [[rangoric-srd/monsters/abilities/Scent|Scent]] in any form.
 
   - Racial Hit Dice: A lycanthrope adds the Hit Dice of its animal form to its base Hit Dice for race, level, and class. These additional Hit Dice modify the lycanthrope’s base attack bonus and base saving throw bonuses accordingly.
 
@@ -167,11 +167,11 @@ Lycanthrope characters possess the following racial traits.
 
   - \+2 natural armor bonus in any form.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|Alternate form]], lycanthropic empathy, curse of lycanthropy (in animal or hybrid form only).
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], lycanthropic empathy, curse of lycanthropy (in animal or hybrid form only).
 
-  - Afflicted lycanthrope: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/silver (in animal or hybrid form only).
+  - Afflicted lycanthrope: [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/silver (in animal or hybrid form only).
 
-  - Natural lycanthrope: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/silver (in animal or hybrid form only).
+  - Natural lycanthrope: [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/silver (in animal or hybrid form only).
 
   - Automatic Languages: As base creature.
 

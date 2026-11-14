@@ -52,8 +52,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +20 melee (2d6+12/19-20 plus 1d8 fire)
   - **Full Attack**: Bite +20 melee (2d6+12/19-20 plus 1d8 fire)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|Breath weapon]], fiery bite
-  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]], fiery bite
+  - **Special Qualities**: Darkvision 60 ft., immunity to fire, [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +13, Ref +10, Will +9
   - **Abilities**: Str 26, Dex 14, Con 20, Int 4, Wis 12, Cha 6
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +17, [[rangoric-srd/skills/Athletics|Athletics]] +23 (+27 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +16\*, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +18

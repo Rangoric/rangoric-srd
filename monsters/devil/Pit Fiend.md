@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +30 melee (2d8+13)
   - **Full Attack**: 2 claws +30 melee (2d8+13) and 2 wings +28 melee (2d6+6) and bite +28 melee (4d6+6 plus poison plus disease) and tail slap +28 melee (2d8+6)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|Constrict]] 2d8+26, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|fear aura]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], spell-like abilities, summon devil
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 15/good and silver, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 5, see in darkness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 32, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d8+26, [[rangoric-srd/monsters/abilities/Fear|fear aura]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], spell-like abilities, summon devil
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/good and silver, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, see in darkness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 32, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +19, Ref +19, Will +21
   - **Abilities**: Str 37, Dex 27, Con 27, Int 26, Wis 26, Cha 26
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +29, [[rangoric-srd/skills/Arcana|Arcana]] +29, [[rangoric-srd/skills/Athletics|Athletics]] +34 (+38 jumping), [[rangoric-srd/skills/Deception|Deception]] +29, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +29 (+31 on other planes, +31 when tracking), [[rangoric-srd/skills/Imitation|Imitation]] +29 (+31 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +29, [[rangoric-srd/skills/Investigation|Investigation]] +29, [[rangoric-srd/skills/Nature|Nature]] +29, [[rangoric-srd/skills/Perception|Perception]] +29, [[rangoric-srd/skills/Persuasion|Persuasion]] +29, [[rangoric-srd/skills/Stealth|Stealth]] +25, [[rangoric-srd/skills/Theology|Theology]] +29
@@ -74,13 +74,13 @@ A pit fiend is 12 feet tall and weighs 800 pounds.
 
 Pit fiends are wily and resourceful fighters, using [[rangoric-srd/spells/Invisibility|invisibility]] to gain the upper hand and biting at foes seemingly able to see them. They don’t hesitate to blanket an area with [[rangoric-srd/spells/Fireball|fireballs]], and can call down the wrath of an inferno with [[rangoric-srd/spells/Meteor Swarm|meteor swarm]].
 
-A pit fiend’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A pit fiend’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Constrict (Ex)**: A pit fiend deals 2d8+26 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
 
 **Disease (Su)**: A creature struck by a pit fiend’s bite attack must succeed on a DC 27 Fortitude save or be infected with a vile [[rangoric-srd/rules/Afflictions#Disease|disease]] known as devil chills (incubation period 1d4 days, damage 1d4 Str). The save DC is Constitution-based.
 
-**Fear Aura (Su)**: A pit fiend can radiate a 20-foot-radius [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|fear aura]] as a free action. A creature in the area must succeed on a DC 27 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 18th). A creature that successfully saves cannot be affected again by the same pit fiend’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
+**Fear Aura (Su)**: A pit fiend can radiate a 20-foot-radius [[rangoric-srd/monsters/abilities/Fear|fear aura]] as a free action. A creature in the area must succeed on a DC 27 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 18th). A creature that successfully saves cannot be affected again by the same pit fiend’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
 
 **Improved Grab (Ex)**: To use this ability, a pit fiend must hit with its tail slap attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
 
@@ -104,7 +104,7 @@ Once per year a pit fiend can use [[rangoric-srd/spells/Wish|wish]] as the spell
 
 A pit fiend typically opens combat by using its spell-like abilities, attempting to neutralize dangerous opponents before entering melee.
 
-*Prior to combat*: [[rangoric-srd/spells/Unholy Aura|Unholy aura]]; activate [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|fear aura]], summon devil.
+*Prior to combat*: [[rangoric-srd/spells/Unholy Aura|Unholy aura]]; activate [[rangoric-srd/monsters/abilities/Fear|fear aura]], summon devil.
 
 *Round 1*: Quickened [[rangoric-srd/spells/Fireball|fireball]] and [[rangoric-srd/spells/Spells H to L|mass hold monster]] if facing three or more visible, active opponents; otherwise [[rangoric-srd/spells/Power Word Stun|power word stun]] against unarmored opponent (preferably a spellcaster).
 

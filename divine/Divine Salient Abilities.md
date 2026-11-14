@@ -133,7 +133,7 @@ Some salient divine abilities have prerequisites. Usually, the deity must have a
 
 Using Salient Divine Abilities: Using a salient divine ability is a standard action unless otherwise noted in the ability description. Using a salient divine ability does not provoke an attack of opportunity.  
 
-Salient Divine Abilities and Antimagic: A salient divine ability functions normally within an [[rangoric-srd/spells/Antimagic Field|antimagic field]], and is never subject to [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]].
+Salient Divine Abilities and Antimagic: A salient divine ability functions normally within an [[rangoric-srd/spells/Antimagic Field|antimagic field]], and is never subject to [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]].
 
 #### Salient Divine Ability Descriptions
 
@@ -456,13 +456,13 @@ Suggested Portfolio Elements: Nature.
 
 Prerequisites: Earth domain.  
 
-Benefit: The deity gains a competence bonus on attack rolls, damage, and Armor Class equal to its divine rank if both the deity and its foe are touching the ground. The deity gains a burrow speed commensurate with its size (see Divine Characteristics), as well as the ability to glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. This burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. The deity has [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|tremorsense]], allowing it to automatically sense the location of anything within 10 feet per divine rank that is in contact with the ground. The deity has complete control over all things made of earth (including stone and metal). It can alter the form of any amount of earth as a free action. The deity can duplicate the effects of the [[rangoric-srd/spells/Stone Shape|stone shape]], [[rangoric-srd/spells/Move Earth|move earth]], [[rangoric-srd/spells/Rusting Grasp|rusting grasp]], [[rangoric-srd/spells/Spells T to Z|transmute rock to mud]], [[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]], and [[rangoric-srd/spells/Disintegrate|disintegrate]] spells, with any earth, stone, or metal object as a target. The deity can also transmute any object made of earth, stone, or metal into a different kind of earth, stone, or metal. The deity can affect any object it can see, but no more than one object per round.
+Benefit: The deity gains a competence bonus on attack rolls, damage, and Armor Class equal to its divine rank if both the deity and its foe are touching the ground. The deity gains a burrow speed commensurate with its size (see Divine Characteristics), as well as the ability to glide through stone, dirt, or almost any other sort of earth except metal as easily as a fish swims through water. This burrowing leaves behind no tunnel or hole, nor does it create any ripple or other signs of its presence. The deity has [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]], allowing it to automatically sense the location of anything within 10 feet per divine rank that is in contact with the ground. The deity has complete control over all things made of earth (including stone and metal). It can alter the form of any amount of earth as a free action. The deity can duplicate the effects of the [[rangoric-srd/spells/Stone Shape|stone shape]], [[rangoric-srd/spells/Move Earth|move earth]], [[rangoric-srd/spells/Rusting Grasp|rusting grasp]], [[rangoric-srd/spells/Spells T to Z|transmute rock to mud]], [[rangoric-srd/spells/Transmute Mud to Rock|transmute mud to rock]], and [[rangoric-srd/spells/Disintegrate|disintegrate]] spells, with any earth, stone, or metal object as a target. The deity can also transmute any object made of earth, stone, or metal into a different kind of earth, stone, or metal. The deity can affect any object it can see, but no more than one object per round.
 
 Suggested Portfolio Elements: Earth.
 
 ##### Divine Fast Healing
 
-Prerequisites: Con 29 or the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] special quality.  
+Prerequisites: Con 29 or the [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] special quality.  
 
 Benefit: The deity gains fast healing of 20 + divine rank. Lost limbs or body parts reattach instantly when pressed against the wound on the body.
 
@@ -541,7 +541,7 @@ Suggested Portfolio Elements: Good, light, sun.
 
 Prerequisite: [[rangoric-srd/classes/Barbarian|Barbarian]] level 20th.  
 
-Benefit: This ability is similar to the barbarian’s rage ability (and it replaces the barbarian rage ability for the deity). The deity can activate this ability only after suffering damage from a weapon, and can use it a number of times per day equal to its divine rank. Once used, the ability lasts 1 hour (though the deity can end the rage at will). While raging, the deity gains +10 to Strength, +10 to Constitution, and a +5 morale bonus on Will saves. The deity’s [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|energy resistances]] each increase by +10. The deity also can make one extra attack, at its full attack bonus, whenever it uses the full attack action. While raging, the deity suffers a -5 penalty to Armor Class and cannot perform acts that require patience and concentration, such as moving silently, casting spells, and using salient divine abilities.
+Benefit: This ability is similar to the barbarian’s rage ability (and it replaces the barbarian rage ability for the deity). The deity can activate this ability only after suffering damage from a weapon, and can use it a number of times per day equal to its divine rank. Once used, the ability lasts 1 hour (though the deity can end the rage at will). While raging, the deity gains +10 to Strength, +10 to Constitution, and a +5 morale bonus on Will saves. The deity’s [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] and [[rangoric-srd/monsters/abilities/Resistance|energy resistances]] each increase by +10. The deity also can make one extra attack, at its full attack bonus, whenever it uses the full attack action. While raging, the deity suffers a -5 penalty to Armor Class and cannot perform acts that require patience and concentration, such as moving silently, casting spells, and using salient divine abilities.
 
 Suggested Portfolio Elements: Destruction, rage, strength, war.
 
@@ -762,7 +762,7 @@ Suggested Portfolio Elements: Any.
 
 ##### Extra Energy Immunity
 
-Prerequisites: Divine rank 6, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to the energy]] type selected.  
+Prerequisites: Divine rank 6, [[rangoric-srd/monsters/abilities/Resistance|resistance to the energy]] type selected.  
 
 Benefit: The deity gains immunity to acid, cold, electricity, fire, or sonic energy.
 
@@ -836,7 +836,7 @@ Suggested Portfolio Elements: Death.
 
 Prerequisites: Con 29.  
 
-Benefit: The deity’s [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] increases 5 and adds an alignment requirement opposed to the deity’s alignment to bypass the damage reduction. For example, a lawful good deity with DR25/epic would gain DR 30/epic and evil or DR 30 epic and chaotic.
+Benefit: The deity’s [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] increases 5 and adds an alignment requirement opposed to the deity’s alignment to bypass the damage reduction. For example, a lawful good deity with DR25/epic would gain DR 30/epic and evil or DR 30 epic and chaotic.
 
 Notes: A deity cannot chose this ability more than once.
 
@@ -844,7 +844,7 @@ Suggested Portfolio Elements: Any.
 
 ##### Increased Energy Resistance
 
-Benefit: The deity gains [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance]] equal to its divine rank to acid, cold, electricity, fire, or sonic energy.  
+Benefit: The deity gains [[rangoric-srd/monsters/abilities/Resistance|resistance]] equal to its divine rank to acid, cold, electricity, fire, or sonic energy.  
 
 Notes: A deity can have this ability multiple times, choosing a different form of energy each time. The deity also can have this ability more than once for a single type of energy. When applied to an energy type that the deity already resists, this ability increases the resistance by 10.
 
@@ -852,7 +852,7 @@ Suggested Portfolio Elements: Any.
 
 ##### Increased Spell Resistance
 
-Benefit: The deity’s [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] increases by 20.  
+Benefit: The deity’s [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] increases by 20.  
 
 Notes: A deity can have this ability multiple times, and its effects stack. A deity with two applications of this ability improves its spell resistance by 40.
 
@@ -1095,7 +1095,7 @@ Prerequisites: Divine rank 6, [[#Alter Size|Alter Size]] salient divine ability,
 
 Benefit: The deity can assume the form of another creature. The forms a deity can assume are limited and vary with each deity. The forms allowed are listed in the deity’s description. The deity can remain in the assumed form indefinitely, but it resumes its own form if slain.
 
-Notes: The deity acquires the physical, natural, and extraordinary abilities of the form it has assumed (but not spell-like or supernatural abilities) while retaining its own mind. Physical abilities include natural size and Strength, Dexterity, and Constitution scores. Natural abilities include armor, natural weapons (such as claws, bite, swoop and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]], and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constriction]]; but not [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapons]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^energy-drain|energy drain]], energy effect, and the like), and similar gross physical qualities (presence or absence of wings, number of extremities, and so on). A body with extra limbs does not allow the deity to make more attacks (or more advantageous two-weapon attacks) than normal. Natural abilities also include mundane movement capabilities, such as walking, swimming, and flight with wings. The deity’s speed is that of the assumed form or the deity’s normal speed, whichever is higher.  
+Notes: The deity acquires the physical, natural, and extraordinary abilities of the form it has assumed (but not spell-like or supernatural abilities) while retaining its own mind. Physical abilities include natural size and Strength, Dexterity, and Constitution scores. Natural abilities include armor, natural weapons (such as claws, bite, swoop and [[rangoric-srd/monsters/abilities/Rake|rake]], and [[rangoric-srd/monsters/abilities/Constrict|constriction]]; but not [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapons]], [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], energy effect, and the like), and similar gross physical qualities (presence or absence of wings, number of extremities, and so on). A body with extra limbs does not allow the deity to make more attacks (or more advantageous two-weapon attacks) than normal. Natural abilities also include mundane movement capabilities, such as walking, swimming, and flight with wings. The deity’s speed is that of the assumed form or the deity’s normal speed, whichever is higher.  
 In general, any part of the body or piece of equipment that is separated from the whole reverts to its original form. However, if the assumed form has an extraordinary ability that allows it to produce a substance or shed part of its body, then this ability also grants that ability.  
 The deity retains its Intelligence, Wisdom, and Charisma scores, level and class, hit points (despite any change in its Constitution score), alignment, base attack bonus, and base saves. (New Strength, Dexterity, and Constitution scores may affect final attack and save bonuses.) The deity retains its outsider type, extraordinary abilities, spells, and spell-like abilities, but not its supernatural abilities.  
 The deity also retains its divine Armor Class bonus and divine qualities and abilities, provided they are not supernatural.  
@@ -1200,7 +1200,7 @@ Benefit: The deity gains the qualities of the undead type:
 
   - Not subject to critical hits, nonlethal damage, [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Immune to [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]] to its physical ability scores (Strength, Dexterity, and Constitution), as well as to [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigue]] and [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhaustion]] effects.
 
-  - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy can heal undead creatures. The [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] special quality works regardless of the creature’s Intelligence score.
+  - Cannot heal damage on its own if it has no Intelligence score, although it can be healed. Negative energy can heal undead creatures. The [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] special quality works regardless of the creature’s Intelligence score.
 
   - Immunity to any effect that requires a Fortitude save (unless the effect also works on objects or is harmless).
 

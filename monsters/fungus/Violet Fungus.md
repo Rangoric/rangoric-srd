@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Tentacle +3 melee (1d6+2 plus poison)
   - **Full Attack**: 4 tentacles +3 melee (1d6+2 plus poison)
   - **Space/Reach**: 5 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
   - **Special Qualities**: Low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^plant|plant traits]]
   - **Saves**: Fort +6, Ref –1, Will +0
   - **Abilities**: Str 14, Dex 8, Con 16, Int —, Wis 11, Cha 9

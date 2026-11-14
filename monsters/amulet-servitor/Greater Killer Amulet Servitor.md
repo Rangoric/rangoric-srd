@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 4 claws +17 melee (1d10+6) and gore +12 melee (1d12+3 plus poison)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Activation attack, constrict 2d10+12, improved grab, poison
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 50/magic, haste, soul bind, spell resistance 30
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 50/magic, haste, soul bind, spell resistance 30
   - **Saves**: Fort +5, Ref +4, Will +5
   - **Abilities**: Str 22, Dex 8, Con —, Int —, Wis 10, Cha 1
   - **Skills**: —

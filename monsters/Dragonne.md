@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +12 melee (2d6+4)
   - **Full Attack**: Bite +12 melee (2d6+4) and 2 claws +7 melee (2d4+2)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|Pounce]], roar
-  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]], roar
+  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
   - **Saves**: Fort +9, Ref +8, Will +4
   - **Abilities**: Str 19, Dex 15, Con 17, Int 6, Wis 12, Cha 12
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17

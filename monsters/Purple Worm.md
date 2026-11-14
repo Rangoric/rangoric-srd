@@ -46,8 +46,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +25 melee (2d8+12)
   - **Full Attack**: Bite +25 melee (2d8+12) and sting +20 melee (2d6+6 plus poison)
   - **Space/Reach**: 20 ft./15ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|Improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^swallow-whole|swallow whole]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^tremorsense|Tremorsense]] 60 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]], [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Tremorsense|Tremorsense]] 60 ft.
   - **Saves**: Fort +17, Ref +8, Will +4
   - **Abilities**: Str 35, Dex 6, Con 25, Int 1, Wis 8, Cha 8
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+20 swimming), [[rangoric-srd/skills/Perception|Perception]] +18

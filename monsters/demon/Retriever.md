@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +15 melee (2d6+10) and eye ray +8 ranged touch
   - **Full Attack**: 4 claws +15 melee (2d6+10) and bite +10 melee (1d8+5) and eye ray +8 ranged touch
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Eye rays, find target, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 5, low-light vision
+  - **Special Attacks**: Eye rays, find target, [[rangoric-srd/monsters/abilities/Grab|improved grab]]
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, low-light vision
   - **Saves**: Fort +3, Ref +6, Will +3
   - **Abilities**: Str 31, Dex 17, Con —, Int —, Wis 11, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +23

@@ -50,8 +50,8 @@ Base Attack: +24; CMB: —; CMD: 64 (72 vs. trip)   
 Attack: Bite +26 (4d10 + 12 plus poison) melee     
 Full Attack: Bite +26 (4d10 + 12 plus poison ) melee, 10 head-tentacles +21 (2d10 plus ability drain ) melee touch attack     
 Space/Reach: 15 ft./10 ft.      
-Special Attacks: Extract brains (ranged attack), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], spells      
-Special Qualities: Dimensional travel, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], amorphous physiology, manifest maw, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 30, darkvision 60 ft.     
+Special Attacks: Extract brains (ranged attack), [[rangoric-srd/monsters/abilities/Poison|poison]], spells      
+Special Qualities: Dimensional travel, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], amorphous physiology, manifest maw, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30, darkvision 60 ft.     
 Saves: Fort +16, Ref +14, Will +23      
 Abilities: Str -, Dex 19, Con 22, Int 20, Wis 20, Cha 17      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +40, [[rangoric-srd/skills/Investigation|Investigation]] +40, [[rangoric-srd/skills/Stealth|Stealth]] +39, [[rangoric-srd/skills/Theology|Theology]] +40     
@@ -67,7 +67,7 @@ Advancement: 33-66 HD (Gargantuan); 67-112 HD (Colossal)    
 
 A creature whose brain has been harvested by a brain collector cannot be raised, reincarnated, or resurrected while the brain is in the creature, because the collector preserves and draws upon the soul and basic personality of the creature for as long as it retains the brain. Neh-thalggus’ own language is a silent sign language “spoken” with their writhing head-tentacles. They can also communicate telepathically with any creature that has a language within 100 feet.
 
-A neh-thalggu’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A neh-thalggu’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 

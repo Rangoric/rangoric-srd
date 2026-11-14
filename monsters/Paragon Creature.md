@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Paragon Creature|Paragon Creature (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -33,11 +33,11 @@ Spell-Like Abilities (Sp) or Psionics (Sp): If the base creature has spell-like 
 
 Special Qualities: A paragon creature retains all the special qualities of the base creature and also gains the following.  
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Fire and cold resistance]] 10. If the creature already possesses such resistance, use whichever is better.
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/epic. If the creature already possesses Damage reduction, use whichever is better.
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|Spell resistance]] equal to the paragon creature’s CR +25. If the creature already possesses spell resistance, use whichever is higher.
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|Fast healing]] 20. If the creature already possesses fast healing, use whichever is better.
-  - A paragon creature’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+  - [[rangoric-srd/monsters/abilities/Resistance|Fire and cold resistance]] 10. If the creature already possesses such resistance, use whichever is better.
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/epic. If the creature already possesses Damage reduction, use whichever is better.
+  - [[rangoric-srd/monsters/abilities/Spell Resistance|Spell resistance]] equal to the paragon creature’s CR +25. If the creature already possesses spell resistance, use whichever is higher.
+  - [[rangoric-srd/monsters/abilities/Fast Healing|Fast healing]] 20. If the creature already possesses fast healing, use whichever is better.
+  - A paragon creature’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 Saves: The paragon creature gains a +10 insight bonus on all its saving throws.
 

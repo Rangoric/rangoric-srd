@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Slam +6 melee (1d6+1 plus 1d6 fire)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Burn
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], immunity to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^vulnerability-to-energy|vulnerability to cold]]
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], immunity to fire, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
   - **Saves**: Fort +3, Ref +7, Will +1
   - **Abilities**: Str 12, Dex 17, Con 14, Int 4, Wis 11, Cha 11
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7

@@ -50,7 +50,7 @@ Attack: Colossal +5 warhammer +87 (4d8+30/19-20 (+2d6 on critical hit)) melee; o
 Full Attack: Colossal +5 warhammer +87/+82/+77/+72 (4d8+30/19-20 (+2d6 on critical hit)) melee; or Colossal +5 javelin +70/+65/+60/+55 (2d10+22/19-20) ranged     
 Space/Reach: 30 ft./30 ft.      
 Special Attacks: Spell-like abilities, spells      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 20/epic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 40      
+Special Qualities: [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/epic, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 40      
 Saves: Fort +47, Ref +37, Will +50      
 Abilities: Str 45, Dex 10, Con 31, Int 33, Wis 37, Cha 26      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +90, [[rangoric-srd/skills/Athletics|Athletics]] +90 (+138 jumping), [[rangoric-srd/skills/Craft|Craft]] (any five) +84, [[rangoric-srd/skills/Intimidation|Intimidation]] +81, all [[rangoric-srd/skills/Knowledge|Knowledge skills]] +84, [[rangoric-srd/skills/Linguistics|Linguistics]] +84 (any five), [[rangoric-srd/skills/Perception|Perception]] +86, [[rangoric-srd/skills/Persuasion|Persuasion]] +87, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +86     
@@ -64,7 +64,7 @@ Treasure: Standard    
 Alignment: Always neutral      
 Advancement: 71-140 HD (Colossal)      
 
-An elder titan’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+An elder titan’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 

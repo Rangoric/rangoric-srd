@@ -50,8 +50,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: +4 holy greatsword +21 melee (2d6+14/19–20) or light ray +11 ranged touch (2d12)
   - **Full Attack**: +4 holy greatsword +21/+16 melee (2d6+14/19–20) or 2 light rays +11 ranged touch (2d12)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Spell-like abilities, spells, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^gaze|gaze]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^alternate-form|Alternate form]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/evil and cold iron, darkvision 60 ft., immunity to electricity and petrification, lowlight vision, protective aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10 and fire 10 [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 28, [[rangoric-srd/spells/Tongues|tongues]]
+  - **Special Attacks**: Spell-like abilities, spells, [[rangoric-srd/monsters/abilities/Gaze|gaze]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil and cold iron, darkvision 60 ft., immunity to electricity and petrification, lowlight vision, protective aura, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and fire 10 [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, [[rangoric-srd/spells/Tongues|tongues]]
   - **Saves**: Fort +9, Ref +8, Will +10
   - **Abilities**: Str 25, Dex 12, Con 15, Int 16, Wis 17, Cha 16
   - **Skills**: Animal Handling +16, Escape Artist +14, Fieldcraft +16 (+16 with bindings), Knowledge skills (any two) +16, Perception +16, Persuasion +16, Sense Motive +16, Stealth +14
@@ -105,7 +105,7 @@ At will - [[rangoric-srd/spells/Aid|aid]], [[rangoric-srd/spells/Charm Monster|c
 
 **Gaze (Su)**: In humanoid form - slay evil creatures of 5 or less HD, range 60 feet, Will DC 18 negates. Even if the save succeeds, the creature is affected as though by a [[rangoric-srd/spells/Fear|fear]] spell for 2d10 rounds. Nonevil creatures, and evil creatures with more than 5 HD, must succeed on a DC 18 Will save or suffer the fear effect. The save DCs are Charisma-based.
 
-**Light Ray (Ex)**: A ghaele in globe form can project light rays with a range of 300 feet. This attack overcomes [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] of any type.
+**Light Ray (Ex)**: A ghaele in globe form can project light rays with a range of 300 feet. This attack overcomes [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] of any type.
 
 **Alternate Form (Su)**: A ghaele can shift between its humanoid and globe forms as a standard action. In humanoid form, it cannot fly or use its light rays, but it can use its gaze attack and spell-like abilities, make physical attacks, and cast spells. In globe form, it can fly, use its light rays, and use spell-like abilities, but it cannot cast spells or use its gaze attack. The globe form is [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]], and the ghaele has no Strength score while in that form.
 

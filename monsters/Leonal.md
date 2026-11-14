@@ -49,8 +49,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +20 melee (1d6+8)
   - **Full Attack**: 2 claws +20 melee (1d6+8) and bite +15 melee (1d8+4)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Roar, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^pounce|pounce]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] 1d6+8, spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/evil and silver, darkvision 60 ft., immunity to electricity and petrification, lay on hands, lowlight vision, protective aura, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to cold]] 10 and sonic 10, [[rangoric-srd/spells/Speak with Animals|speak with animals]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 28
+  - **Special Attacks**: Roar, [[rangoric-srd/monsters/abilities/Pounce|pounce]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Rake|rake]] 1d6+8, spell-like abilities
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/evil and silver, darkvision 60 ft., immunity to electricity and petrification, lay on hands, lowlight vision, protective aura, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10 and sonic 10, [[rangoric-srd/spells/Speak with Animals|speak with animals]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28
   - **Saves**: Fort +13 (+17 against poison), Ref +11, Will +10
   - **Abilities**: Str 27, Dex 17, Con 20, Int 14, Wis 14, Cha 15
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +22, [[rangoric-srd/skills/Athletics|Athletics]] +23 (+35 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any) +17, [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +22
@@ -68,11 +68,11 @@ tags: [rangoric, rangoric/monster]
 
 Leonals like their battles as straightforward as can be. They begin with a roar to put their foes off balance, then follow up with a frenzy of claw and bite attacks. They closely coordinate with others in their pride, watching one another’s flanks and setting up devastating attacks.
 
-A leonal’s natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A leonal’s natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Roar (Su)**: A leonal can roar up to three times per day. Each roar releases a blast in a 60-foot cone that duplicates the effects of a [[rangoric-srd/spells/Holy Word|holy word]] spell and deals an extra 2d6 points of sonic damage (Fortitude DC 20 negates). The save DC is Charisma-based.
 
-**Pounce (Ex)**: If a leonal charges a foe, it can make a full attack, including two [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks.
+**Pounce (Ex)**: If a leonal charges a foe, it can make a full attack, including two [[rangoric-srd/monsters/abilities/Rake|rake]] attacks.
 
 **Improved Grab (Ex)**: To use this ability, a leonal must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can rake.
 

@@ -45,7 +45,7 @@ Kin o’ the green is a template that can be applied to any humanoid or monstrou
 **Special Qualities**: These differ by the stages of greenkin development, though all stages retain all special qualities of the base creature.
 
 - 1st stage: [[rangoric-srd/classes/Druid#^druid-woodland-stride|Woodland Stride]] (as per the druid ability)
-- 2nd stage: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|Regeneration]] 5 (Greenkin can regrow or reattach any lost limbs, provided damage is not from fire. Death cannot occur unless the head is destroyed by fire.)
+- 2nd stage: [[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] 5 (Greenkin can regrow or reattach any lost limbs, provided damage is not from fire. Death cannot occur unless the head is destroyed by fire.)
 - 3rd stage: Speak with Plants (Su) as a constant ability. Also see Advancement below.
 
 **Saves**: Same as base creature.

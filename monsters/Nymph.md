@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Dagger +6 melee (1d4/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Blinding beauty, spells, spell-like abilities, stunning glance
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/cold iron, low-light vision, unearthly grace, wild empathy
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, low-light vision, unearthly grace, wild empathy
   - **Saves**: Fort +7, Ref +12, Will +12
   - **Abilities**: Str 10, Dex 17, Con 12, Int 16, Wis 17, Cha 19
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+17 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12 (+14 with bindings), [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12

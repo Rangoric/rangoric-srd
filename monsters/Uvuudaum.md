@@ -50,8 +50,8 @@ Base Attack: +38; CMB: +53; CMD: 77   
 Attack: Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee     
 Full Attack: Head spike +51 (10d6+21/19-20 plus Wisdom drain) melee     
 Space/Reach: 10 ft./10 ft.      
-Special Attacks: Confusion aura, spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ability-score-loss|Wisdom drain]]      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|Blindsight]] 500 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/epic and good, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|electricity resistance]] 30, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 20, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 39      
+Special Attacks: Confusion aura, spell-like abilities, [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Wisdom drain]]      
+Special Qualities: [[rangoric-srd/monsters/abilities/Blindsight|Blindsight]] 500 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/epic and good, [[rangoric-srd/monsters/abilities/Resistance|electricity resistance]] 30, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 20, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 39      
 Saves: Fort +40, Ref +37, Will +41      
 Abilities: Str 39, Dex 38, Con 44, Int 32, Wis 38, Cha 46      
 Skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +57, [[rangoric-srd/skills/Arcana|Arcana]] +52, [[rangoric-srd/skills/Athletics|Athletics]] +55 (+63 climbing, +75 jumping), [[rangoric-srd/skills/Craft|Craft]] (alchemy) +52, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +55, [[rangoric-srd/skills/Intimidation|Intimidation]] +59, [[rangoric-srd/skills/Investigation|Investigation]] +52, [[rangoric-srd/skills/Perception|Perception]] +55, [[rangoric-srd/skills/Persuasion|Persuasion]] +59, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +55, [[rangoric-srd/skills/Society|Society]] +52, [[rangoric-srd/skills/Stealth|Stealth]] +51, [[rangoric-srd/skills/Theology|Theology]] +54     
@@ -67,7 +67,7 @@ Advancement: As character class    
 
 Uvuudaums can speak telepathically to any creature within 500 feet that has a language.
 
-A uvuudaum’s natural weapons are treated as epic and evil for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A uvuudaum’s natural weapons are treated as epic and evil for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 

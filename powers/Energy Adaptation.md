@@ -15,8 +15,8 @@ duration: "10 min./level"
 power-points: "7"
 based-on:
   - "[[fantasy srd 3.5/powers/Energy Adaptation|Energy Adaptation (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -32,7 +32,7 @@ Psychometabolism \[see text\]
 **Duration:** 10 min./level  
 **Power Points:** 7  
 
-Your body assimilates some of the effect of an energy attack and converts it to harmless light. You gain [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance]] 10 against any attack that deals acid, cold, electricity, fire, or sonic damage.
+Your body assimilates some of the effect of an energy attack and converts it to harmless light. You gain [[rangoric-srd/monsters/abilities/Resistance|resistance]] 10 against any attack that deals acid, cold, electricity, fire, or sonic damage.
 
 When you absorb damage, you can choose to radiate visible light that illuminates a 60-foot radius for a number of rounds equal to the points of damage you successfully resisted, or merely dissipate the energy without giving off a visual display.
 

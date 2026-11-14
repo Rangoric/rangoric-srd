@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +7 melee (1d6+1)
   - **Full Attack**: 2 claws +7 melee (1d6+1)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^energy-drain|Energy drain]], spell-like abilities, summon demon
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/cold iron or good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 18, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/Tongues|tongues]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]], spell-like abilities, summon demon
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron or good, darkvision 60 ft., immunity to electricity and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10, cold 10, and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/Tongues|tongues]]
   - **Saves**: Fort +6, Ref +6, Will +7
   - **Abilities**: Str 13, Dex 13, Con 13, Int 16, Wis 14, Cha 26
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 following tracks, +13 with bindings), [[rangoric-srd/skills/Imitation|Imitation]] +12\* (+14 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Investigation|Investigation]] +12, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +12, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +18
@@ -72,7 +72,7 @@ A succubus is 6 feet tall in its natural form and weighs about 125 pounds.
 
 Succubi are not warriors. They flee combat whenever they can. If forced to fight, they can attack with their claws, but they prefer to turn foes against one another. Succubi use their change shape ability to assume humanoid guise, and can maintain this deception indefinitely. Their preferred tactic when dealing with heroes is to feign friendship and create an opportunity to be alone with one of them, whereupon the succubus applies her life-draining kiss. Succubi are not above taking on the role of a damsel in distress when encountered within a dungeon.
 
-A succubus’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A succubus’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Change Shape (Su):** A succubus can assume the form of any Small or Medium humanoid.
 

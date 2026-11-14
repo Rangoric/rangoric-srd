@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: +4 greatsword +21/+16/+11 melee (2d6+11/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Spell-like abilities, spells, trumpet
-  - **Special Qualities**: Aura of menace, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 10/evil, darkvision 60 ft., immunity to electricity and petrification, [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 29, [[rangoric-srd/spells/Teleport, Greater|teleport]], [[rangoric-srd/spells/Tongues|tongues]]
+  - **Special Qualities**: Aura of menace, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, darkvision 60 ft., immunity to electricity and petrification, [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29, [[rangoric-srd/spells/Teleport, Greater|teleport]], [[rangoric-srd/spells/Tongues|tongues]]
   - **Saves**: Fort +14 (+18 against poison), Ref +11, Will +11
   - **Abilities**: Str 20, Dex 17, Con 23, Int 16, Wis 16, Cha 16
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +18, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +18, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 with bindings), [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +18, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +18

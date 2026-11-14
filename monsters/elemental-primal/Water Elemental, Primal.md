@@ -51,7 +51,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 slam +57 (4d10+24/19-20)
   - **Space/Reach**: 30 ft./30 ft.
   - **Special Attacks**: Water mastery, drench, vortex
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 15/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 42
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/-, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 42
   - **Saves**: Fort +46, Ref +21, Will +28
   - **Abilities**: Str 42, Dex 38, Con 31, Int 8, Wis 13, Cha 13
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +32 (+26 jumping, +40 swimming), [[rangoric-srd/skills/Perception|Perception]] +64

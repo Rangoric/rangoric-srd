@@ -50,7 +50,7 @@ Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^mo
 Full **Attack:** Longsword +3 melee (1d6/19-20) or light crossbow +2 ranged (1d6/19-20)     
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psi-like abilities     
-**Special Qualities:** Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to fire]] 5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^scent|scent]]     
+**Special Qualities:** Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 5, [[rangoric-srd/monsters/abilities/Scent|scent]]     
 **Saves:** Fort +3, Ref +0, Will -2     
 **Abilities:** Str 11, Dex 11, Con 12, Int 10, Wis 7, Cha 10     
 **Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Perception|Perception]] +4     
@@ -91,7 +91,7 @@ Dromite characters possess the following racial traits.
 
   - Special Attacks (see above): Psi-like abilities.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|Resistance to fire]] 5 (other dromites may have resistance to cold, electricity, or sonics instead of fire), scent.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Resistance|Resistance to fire]] 5 (other dromites may have resistance to cold, electricity, or sonics instead of fire), scent.
 
   - Racial Skills: Dromites have sa +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks due to their compound eyes.
 

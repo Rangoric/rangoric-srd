@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/inevitable/Inevitable|Inevitable (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -29,7 +29,7 @@ Inevitables speak Abyssal, Celestial, Infernal, and the native language of their
 
 Unless their very existence is threatened, inevitables focus completely on the transgressor they’ve been assigned to, ignoring other combatants completely. An inevitable might attack anyone who hinders its progress, but it won’t tarry beyond the point where it can reengage its quarry. Inevitables take self-defense very seriously; anyone who attacks an inevitable with what the creature perceives as deadly force is met with deadly force in return.
 
-An inevitable’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+An inevitable’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Fast Healing (Ex)**: An inevitable heals a certain amount of damage each round (specified in each variety’s description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
 

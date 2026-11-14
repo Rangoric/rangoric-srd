@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Short sword +4 melee (1d4–2/19–20) or light crossbow +4 ranged (1d6/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/spells/Charm Person|Charm person]]
-  - **Special Qualities**: Amphibious, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 5/cold iron, low-light vision, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 16, [[rangoric-srd/spells/Water Breathing|water breathing]], wild empathy
+  - **Special Qualities**: Amphibious, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 16, [[rangoric-srd/spells/Water Breathing|water breathing]], wild empathy
   - **Saves**: Fort +0, Ref +5, Will +3
   - **Abilities**: Str 7, Dex 16, Con 11, Int 12, Wis 13, Cha 18
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +8, [[rangoric-srd/skills/Athletics|Athletics]] –2 (+6 swimming), [[rangoric-srd/skills/Craft|Craft]] (any one) +5, [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +7, [[rangoric-srd/skills/Investigation|Investigation]] +3, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Performance|Performance]] (sing) +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +7\*

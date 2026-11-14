@@ -51,8 +51,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +14 melee (1d8+5)
   - **Full Attack**: Bite +14 melee (1d8+5) and 2 claws +12 melee (1d4+2) and sting +12 melee (3d4+2 plus poison)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Spell-like abilities, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|fear aura]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], summon devil
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 10/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10 and cold 10, see in darkness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 21, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^telepathy|telepathy]] 100 ft.
+  - **Special Attacks**: Spell-like abilities, [[rangoric-srd/monsters/abilities/Fear|fear aura]], [[rangoric-srd/monsters/abilities/Poison|poison]], summon devil
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|resistance to acid]] 10 and cold 10, see in darkness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
   - **Saves**: Fort +12, Ref +12, Will +11
   - **Abilities**: Str 21, Dex 21, Con 21, Int 14, Wis 14, Cha 14
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +15 (+17 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +15 (+17 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Investigation|Investigation]] +15, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +15, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +14
@@ -71,9 +71,9 @@ Bone devils stand about 9 feet tall and weigh about 500 pounds.
 
 Bone devils hate all other creatures and attack ruthlessly. They freely use [[rangoric-srd/spells/Wall of Ice|wall of ice]] to keep the enemy divided.
 
-A bone devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A bone devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-**Fear Aura (Su)**: Bone devils can radiate a 5-foot-radius [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fear|fear aura]] as a free action. Affected creatures must succeed on a DC 17 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 7th). A creature that successfully saves cannot be affected again by the same bone devil’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
+**Fear Aura (Su)**: Bone devils can radiate a 5-foot-radius [[rangoric-srd/monsters/abilities/Fear|fear aura]] as a free action. Affected creatures must succeed on a DC 17 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 7th). A creature that successfully saves cannot be affected again by the same bone devil’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
 
 **Poison (Ex)**: Injury, Fortitude DC 20, initial damage 1d6 Str, secondary damage 2d6 Str. The save DC is Constitution-based.
 

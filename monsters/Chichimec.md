@@ -48,8 +48,8 @@ Base Attack /Grapple: +27/+39   
 Attack: Primary wing buffet +39 (2d6+12) melee     
 Full Attack: 2 primary wing buffets +39 (2d6+12) melee, 6 secondary wing buffets +37 (1d6+6) melee, tail slam +37 (1d6+6 plus Cha drain) melee     
 Space/Reach: 5 ft./5 ft.      
-Special Attacks: Spell-like abilities, summon [[rangoric-srd/monsters/elemental/Air Elemental|air elemental]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ability-score-loss|Charisma drain]]      
-Special Qualities: Abomination traits, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 10, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 33, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/ good and epic, electricity immunity      
+Special Attacks: Spell-like abilities, summon [[rangoric-srd/monsters/elemental/Air Elemental|air elemental]], [[rangoric-srd/monsters/abilities/Ability Damage and Drain|Charisma drain]]      
+Special Qualities: Abomination traits, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 33, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/ good and epic, electricity immunity      
 Saves: Fort +22, Ref +22, Will +17      
 Abilities: Str 34, Dex 25, Con 24, Int 12, Wis 14, Cha 30      
 Skills: [[rangoric-srd/skills/Athletics|Athletics]] +42 (+24 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +40, [[rangoric-srd/skills/Investigation|Investigation]] +31, [[rangoric-srd/skills/Perception|Perception]] +38, [[rangoric-srd/skills/Persuasion|Persuasion]] +40, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +32, [[rangoric-srd/skills/Stealth|Stealth]] +37, [[rangoric-srd/skills/Theology|Theology]] +31     
@@ -63,7 +63,7 @@ Treasure: None    
 Alignment: Always neutral evil      
 Advancement: 28-38 HD (Medium-size); 39-50 HD (Large)      
 
-An chichimec’s natural weapons are treated as epic and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+An chichimec’s natural weapons are treated as epic and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -77,4 +77,4 @@ Summon Air Elemental (Sp): Three times per day a chichimec can summon an elder [
 
 Charisma Drain (Su): This effect permanently reduces a living opponent’s Charisma score by 2 points when the chichimec hits with a tail slam, or 4 points on a critical hit. The chichimec heals 10 points of damage, or 20 on a critical hit, whenever it drains Charisma, gaining any excess as temporary hit points. These temporary hit points last a maximum of 1 hour. The attack allows a Fortitude save (DC 33)-on a successful save, only 1 point of Charisma is drained and the chichimec heals 5 points of damage. The DC is Charisma-based.
 
-Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] 20; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
+Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.

@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Bite +5 melee (2d6+4)
   - **Full Attack**: Bite +5 melee (2d6+4) and 2 claws +0 melee (1d4+2)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|Rake]] 1d6+2
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] 1d6+2
   - **Special Qualities**: Darkvision 60 ft., amphibious
   - **Saves**: Fort +1, Ref +1, Will +3
   - **Abilities**: Str 19, Dex 13, Con 13, Int 10, Wis 10, Cha 6
@@ -68,7 +68,7 @@ Skum speak Aquan.
 
 ### Combat
 
-**Rake (Ex)**: Attack bonus +0 melee, damage 1d6+2. A skum also gains two [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rake|rake]] attacks when it attacks while swimming.
+**Rake (Ex)**: Attack bonus +0 melee, damage 1d6+2. A skum also gains two [[rangoric-srd/monsters/abilities/Rake|rake]] attacks when it attacks while swimming.
 
 **Skills**: \*Skum have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Perception|Perception]] checks underwater.
 

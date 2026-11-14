@@ -47,8 +47,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +8 melee (2d6+8)
   - **Full Attack**: 2 claws +8 melee (2d6+8), bite +6 melee (4d6+4 plus acid), and tail slam +6 melee (2d8+4); or 4 claws +8 melee (2d6+8)
   - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: Acidic bite, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|breath weapon]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^rightful-presence|frightful presence]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], snatch
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 15/magic, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^low-light-vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 21
+  - **Special Attacks**: Acidic bite, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]], [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], [[rangoric-srd/monsters/abilities/Grab|improved grab]], snatch
+  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
   - **Saves**: Fort +7, Ref +6, Will +6
   - **Abilities**: Str 27, Dex 11, Con 21, Int 10, Wis 15, Cha 13
   - **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +15, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +0

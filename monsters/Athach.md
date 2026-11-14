@@ -46,7 +46,7 @@ tags: [rangoric, rangoric/monster]
   - Attack: Morningstar +16 melee (3d6+8) or rock +9 ranged (2d6+8)
   - **Full Attack**: Morningstar +12/+7 melee (3d6+8), and 2 morningstars +12 melee (3d6+4), and bite +12 melee (2d8+4 plus poison); or rock +5 ranged (2d6+8), and 2 rocks +5 ranged (2d6+4)
   - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|Poison]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]]
   - **Special Qualities**: Darkvision 60 ft.
   - **Saves**: Fort +9, Ref +5, Will +10
   - **Abilities**: Str 26, Dex 13, Con 21, Int 7, Wis 12, Cha 6

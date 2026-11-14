@@ -48,7 +48,7 @@ Attack: Bite +72 (8d10+11/ 19-20 (+1d6 on critical hit)) melee   
 Full Attack: Bite +72 melee (8d10+11/ 19-20 (+1d6 on critical hit)), tail +67 (10d6+5) melee     
 Space/Reach: 15 ft./10 ft.      
 Special Attacks: Prismatic emanations      
-Special Qualities: Immunities, prismatic blur, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 38, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 10/-      
+Special Qualities: Immunities, prismatic blur, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 38, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-      
 Saves: Fort +41, Ref +39, Will +24      
 Abilities: Str 32, Dex 25, Con 29, Int 4, Wis 19, Cha 10      
 Skills: [[rangoric-srd/skills/Perception|Perception]] +73     

@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
 Full **Attack:** Sting +7 melee (1d3+3)     
 **Space/Reach:** 5 ft./5 ft.     
 **Special Attacks:** Psi-like abilities     
-**Special Qualities:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|Damage reduction]] 5/ bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|traits]], immunity to fire and cold, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|resistance to electricity]] 15      
+**Special Qualities:** [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/ bludgeoning, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]][[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|traits]], immunity to fire and cold, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 15      
 **Saves:** Fort +8, Ref +6, Will +2     
 **Abilities:** Str 15, Dex 14, Con 12, Int 6, Wis 10, Cha 14     
 **Skills:** [[rangoric-srd/skills/Appraise|Appraise]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Perception|Perception]] +11     

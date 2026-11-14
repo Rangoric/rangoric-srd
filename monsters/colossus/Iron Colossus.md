@@ -45,8 +45,8 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Slam +99 (12d6+35) melee
   - **Full Attack**: 2 slams +99 (12d6+35) melee
   - **Space/Reach**: 30 ft./30 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^breath-weapon|Breath weapon]]
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], rustproof, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 20/Epic and adamantine
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]]
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], magic immunity, [[rangoric-srd/spells/Antimagic Field|antimagic field]], rustproof, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 20/Epic and adamantine
   - **Saves**: Fort +32, Ref +30, Will +33
   - **Abilities**: Str 80, Dex 7, Con -,Int 9, Wis 12, Cha 1
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +134 (+142 jumping)

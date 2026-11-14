@@ -51,8 +51,8 @@ Base Attack: +40; CMB: +57 (+61 grapple, +59 sunder); CMD: 70 (72 vs. sunder, ca
 Attack: Bite +56 (4d8+16)melee     
 Full Attack: Bite +56 (4d8+16) melee, 1 gore +51 (4d6+8) melee, 4 pincers +53 (4d6+8) melee, 4 claws +53 (4d6+8) melee     
 Space/Reach: 10 ft./10 ft.      
-Special Attacks: Worst nightmare, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], sending, spell-like abilities, summon [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]]     
-Special Qualities: Abomination traits, sonic immunity, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^regeneration|regeneration]] 15, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fast-healing|fast healing]] 15, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 44, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|DR]] 15/ Good and Epic or Lawful and Epic      
+Special Attacks: Worst nightmare, [[rangoric-srd/monsters/abilities/Grab|improved grab]], sending, spell-like abilities, summon [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]]     
+Special Qualities: Abomination traits, sonic immunity, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 15, [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 15, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 44, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 15/ Good and Epic or Lawful and Epic      
 Saves: Fort +31, Ref +25, Will +29      
 Abilities: Str 42, Dex 17, Con 29, Int 16, Wis 24, Cha 36      
 Skills: [[rangoric-srd/skills/Arcana|Arcana]] +46, [[rangoric-srd/skills/Athletics|Athletics]] +59 (+79 jumping), [[rangoric-srd/skills/Craft|Craft]] (dreamweaving) +46, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +46, [[rangoric-srd/skills/Investigation|Investigation]] +46, [[rangoric-srd/skills/Perception|Perception]] +50, [[rangoric-srd/skills/Persuasion|Persuasion]] +58, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +50, [[rangoric-srd/skills/Stealth|Stealth]] +46     
@@ -66,7 +66,7 @@ Treasure: Standard    
 Alignment: Always chaotic evil      
 Advancement: 41-65 HD (Large); 66-84 HD (Huge); 85-110 HD (Gargantuan)      
 
-A dream larvas’s natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]].
+A dream larvas’s natural weapons are treated as epic, evil, and chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 #### Combat
 
@@ -84,6 +84,6 @@ Sending (Su): Grappled victims may be physically sent into a nightmare, at the d
 
 Summon Nightwalker (Sp): Five times per day, a dream larva can summon a [[rangoric-srd/monsters/nightshade/Nightwalker|nightwalker]].
 
-Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|fire resistance]] 20; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^resistance-to-energy|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
+Abomination Traits: Immune to polymorphing, [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]], and other form-altering attacks; not subject to [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], or death from massive damage; immune to mind-affecting effects; [[rangoric-srd/monsters/abilities/Resistance|fire resistance]] 20; [[rangoric-srd/monsters/abilities/Resistance|cold resistance]] 20; [[rangoric-srd/spells/Nondetection|nondetection]]; [[rangoric-srd/spells/True Seeing|true seeing]] at will; [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] 500 ft.; telepathy out to 1,000 ft.
 
 Regeneration (Ex): Dream larvae take normal damage from good or lawful weapons or weapons forged by a sleepwalking weaponsmith.

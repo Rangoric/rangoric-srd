@@ -9,8 +9,8 @@ subtypes:
 special-attacks: "Constrict 2d8+6, improved grab, poison, psi-like abilities, spells"
 based-on:
   - "[[fantasy srd 3.5/monsters/Couatl, Psionic|Couatl, Psionic (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/monster]
 
 Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^native|Native]], Psionic)   
 
-**Special Attacks:** [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|Constrict]] 2d8+6, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^poison|poison]], psi-like abilities, spells
+**Special Attacks:** [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 2d8+6, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/monsters/abilities/Poison|poison]], psi-like abilities, spells
 
 #### Combat
 

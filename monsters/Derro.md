@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: Short sword +4 melee (1d4/19–20) or repeating light crossbow +6 ranged (1d6/19–20 plus poison)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: Poison use, spell-like abilities, sneak attack +1d6
-  - **Special Qualities**: Madness, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|spell resistance]] 15 vulnerability to sunlight
+  - **Special Qualities**: Madness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15 vulnerability to sunlight
   - **Saves**: Fort +2, Ref +5, Will +6
   - **Abilities**: Str 11, Dex 14, Con 13, Int 10, Wis 5\*, Cha 16\*
   - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +8, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Stealth|Stealth]] +14

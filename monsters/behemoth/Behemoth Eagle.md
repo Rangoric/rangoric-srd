@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: 2 claws +25 (5d10+7) melee, bite +20 (4d12+3) melee
   - **Space/Reach**: 30ft./20 ft.
   - **Special Attacks**: -
-  - **Special Qualities**: Evasion, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^SR|SR]] 30
+  - **Special Qualities**: Evasion, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 30
   - **Saves**: Fort +18, Ref +26, Will +16
   - **Abilities**: Str 25, Dex 34, Con 23 Int 17, Wis 19, Cha 16
   - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +31 (+25 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +28, [[rangoric-srd/skills/Investigation|Investigation]] +27, [[rangoric-srd/skills/Nature|Nature]] +27, [[rangoric-srd/skills/Perception|Perception]] +42, [[rangoric-srd/skills/Persuasion|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +28, [[rangoric-srd/skills/Society|Society]] +27, [[rangoric-srd/skills/Theology|Theology]] +27

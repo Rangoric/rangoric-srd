@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Hoof +16 melee (1d8+10)
   - **Full Attack**: 4 hooves +16 melee (1d8+10) and bite +11 melee (1d6+5)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^DR|damage reduction]] 50/magic, flight, magic immunity, self repair
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 50/magic, flight, magic immunity, self repair
   - **Saves**: Fort +3, Ref +4, Will +3
   - **Abilities**: Str 30, Dex 13, Con —, Int —, Wis 10, Cha 2
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7

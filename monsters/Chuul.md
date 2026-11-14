@@ -48,7 +48,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Claw +12 melee (2d6+5)
   - **Full Attack**: 2 claws +12 melee (2d6+5)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|Constrict]] 3d6+5, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^improved-grab|improved grab]], paralytic tentacles
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] 3d6+5, [[rangoric-srd/monsters/abilities/Grab|improved grab]], paralytic tentacles
   - **Special Qualities**: Amphibious, darkvision 60 ft., immunity to poison
   - **Saves**: Fort +7, Ref +6, Will +9
   - **Abilities**: Str 20, Dex 16, Con 18, Int 10, Wis 14, Cha 5
@@ -68,7 +68,7 @@ Chuuls speak Common (or Undercommon, for the underground variety).
 
 ### Combat
 
-A chuul prefers to wait by the shore, submerged in murky water, until it hears nearby prey (in or out of the water) that it can attack with surprise. A chuul [[rangoric-srd/combat/Combat Maneuvers#Grapple|grabs]] with its claws and [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^constrict|constricts]] its foe, then passes the opponent to its paralytic tentacles. It tries to always have one claw free, so if it faces a large number of opponents, it drops a [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] victim and continues attempting to grab, constrict, and paralyze the rest.
+A chuul prefers to wait by the shore, submerged in murky water, until it hears nearby prey (in or out of the water) that it can attack with surprise. A chuul [[rangoric-srd/combat/Combat Maneuvers#Grapple|grabs]] with its claws and [[rangoric-srd/monsters/abilities/Constrict|constricts]] its foe, then passes the opponent to its paralytic tentacles. It tries to always have one claw free, so if it faces a large number of opponents, it drops a [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] or [[rangoric-srd/rules/Special Abilities and Conditions#^dead|dead]] victim and continues attempting to grab, constrict, and paralyze the rest.
 
 **Constrict (Ex)**: On a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check, a chuul deals 3d6+5 points of damage.
 
