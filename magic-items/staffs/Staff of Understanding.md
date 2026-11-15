@@ -1,0 +1,30 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Staff"
+aura: "Moderate divination"
+caster-level: 8
+prerequisites: "Craft Staff, comprehend languages, detect thoughts, tongues"
+price: "14,400 gp"
+cost: "7,200 gp"
+weight: "5 lbs."
+recharge: true
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/staves/Staff of Understanding|Staff of Understanding (PF1)]]"
+  - "[[path srd 3.5 foundry/items/magic-items/Staff of Understanding|Staff of Understanding (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-15
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Staff of Understanding
+
+This polished maple or oak staff is inlaid with ivory strips along its length, and runes of various languages also formed from inlaid ivory span the shaft. It allows use of the following spells:
+
+- *[[rangoric-srd/spells/Comprehend Languages|Comprehend languages]]* (1 charge)
+- *[[rangoric-srd/spells/Detect Thoughts|Detect thoughts]]* (2 charges)
+- *[[rangoric-srd/spells/Tongues|Tongues]]* (2 charges)
+
+Moderate divination; CL 8th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], *[[rangoric-srd/spells/Comprehend Languages|comprehend languages]]*, *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]*, *[[rangoric-srd/spells/Tongues|tongues]]*; Price 14,400 gp; Cost 7,200 gp; Weight 5 lbs.

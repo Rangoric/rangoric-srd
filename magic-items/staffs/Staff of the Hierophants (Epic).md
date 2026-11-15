@@ -3,14 +3,15 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Staff"
 aliases:
+  - "Staff of the Hierophants"
   - "The Hierophants"
 caster-level: 27
 prerequisites: "Craft Staff, Craft Epic Staff, Enlarge Spell, Extend Spell, Intensify Spell, creeping doom, command plants, elemental swarm, shambler"
 price: "501,187 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/staffs/Staff of the Hierophants|Staff of the Hierophants (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---
