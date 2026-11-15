@@ -336,6 +336,8 @@ Brown Mold (CR 2): Brown mold feeds on warmth, drawing heat from anything around
 
 Phosphorescent Fungus (No CR): This strange underground fungus grows in clumps that look almost like stunted shrubbery. Drow elves cultivate it for food and light. It gives off a soft violet glow that illuminates underground caverns and passages as well as a candle does. Rare patches of fungus illuminate as well as a torch does.
 
+Shrieker (No CR): This human-sized purple mushroom emits a piercing sound that lasts for 1d3 rounds whenever there is movement or a light source within 10 feet. This shriek makes it impossible to hear any other sound within 50 feet. The sound attracts nearby creatures that are disposed to investigate it. Some creatures that live near shriekers learn that this noise means there is food or an intruder nearby. A shrieker can also be met as a [[rangoric-srd/monsters/fungus/Shrieker|creature]]. ^shrieker
+
 ### Wilderness
 
 ##### Getting Lost
