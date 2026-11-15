@@ -32,7 +32,7 @@ based-on:
   - "[[fantasy srd 3.5/monsters/fungus/Shrieker|Shrieker (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -62,6 +62,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A shrieker is a stationary fungus that emits a loud noise to attract prey or when disturbed. Shriekers live in dark, subterranean places, often in the company of violet fungi, whose poison they are immune to.
+
+A shrieker can also be used as a [[rangoric-srd/rules/Wilderness, Weather, and Environment#^shrieker|dungeon hazard]] rather than a creature.
 
 Shriekers come in of shades of purple.
 
