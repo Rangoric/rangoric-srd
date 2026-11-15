@@ -6,32 +6,34 @@ creature-type: "Aberration"
 hit-dice: "3d8+3 (16 hp)"
 initiative: "+6"
 speed: "20 ft. (4 squares), climb 10 ft."
-armor-class: "17 (+1 size, +2 Dex, +4 natural), touch 13, flat-footed 15"
+armor-class: "17 (+2 Dex, +4 natural, +1 size), touch 13, flat-footed 15"
 base-attack: "+2"
-cmb: "+4 (+12 grapple)"
+cmb: "+4 (+8 grappling)"
 cmd: "16"
-attack: "Tentacle +6 melee (1d3+3)"
-full-attack: "2 tentacles +6 melee (1d3+3)"
+attack: "Tentacle +6 melee (1d4+3 plus grab)"
+full-attack: "2 tentacles +6 melee (1d4+3 plus grab)"
 space-reach: "5 ft./10 ft."
-special-attacks: "Improved grab, constrict 1d3+3"
+special-attacks: "Constrict (1d4+3), strangle, grab (Large)"
 special-qualities: "Darkvision 60 ft., quickness"
-saves: "Fort +2, Ref +5, Will +4"
+saves: "Fort +2, Ref +3, Will +4"
 abilities: "Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7"
-skills: "Athletics +8 (+16 climbing), Stealth +13"
-skill-ranks: "Athletics 2, Stealth 1"
-feats: "Improved Initiative (B), Lightning Reflexes, Skill Focus (Stealth)"
-environment: "Underground"
-organization: "Solitary"
+skills: "Athletics +16, Stealth +13"
+skill-ranks: "Athletics 10, Stealth 4"
+feats: "Improved Initiative, Skill Focus (Stealth)"
+environment: "Any underground"
+organization: "Solitary, pair, or clutch (3–8)"
 challenge-rating: 2
-treasure: "1/10 coins; 50% goods; 50% items"
+treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "4–6 HD (Small); 7–12 HD (Medium)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Choker|Choker (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Choker|Choker (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -41,37 +43,41 @@ tags: [rangoric, rangoric/monster]
   - **Hit Dice**: 3d8+3 (16 hp)
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares), climb 10 ft.
-  - **Armor Class**: 17 (+1 size, +2 Dex, +4 natural), touch 13, flat-footed 15
-  - **Base Attack**: +2; **CMB**: +4 (+12 grapple); **CMD**: 16
-  - **Attack**: Tentacle +6 melee (1d3+3)
-  - **Full Attack**: 2 tentacles +6 melee (1d3+3)
+  - **Armor Class**: 17 (+2 Dex, +4 natural, +1 size), touch 13, flat-footed 15
+  - **Base Attack**: +2; **CMB**: +4 (+8 grappling); **CMD**: 16
+  - **Attack**: Tentacle +6 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: 2 tentacles +6 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 5 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 1d3+3
-  - **Special Qualities**: Darkvision 60 ft., quickness
-  - **Saves**: Fort +2, Ref +5, Will +4
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (1d4+3), [[rangoric-srd/monsters/abilities/Strangle|strangle]], [[rangoric-srd/monsters/abilities/Grab|grab]] (Large)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quickness
+  - **Saves**: Fort +2, Ref +3, Will +4
   - **Abilities**: Str 16, Dex 14, Con 13, Int 4, Wis 13, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8 (+16 climbing), [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
-  - **Environment**: Underground
-  - **Organization**: Solitary
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +13
+  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Stealth)
+  - **Environment**: Any underground
+  - **Organization**: Solitary, pair, or clutch (3–8)
   - **Challenge Rating**: 2
-  - **Treasure**: 1/10 coins; 50% goods; 50% items
+  - **Treasure**: Standard
   - **Alignment**: Usually chaotic evil
   - **Advancement**: 4–6 HD (Small); 7–12 HD (Medium)
   - **Level Adjustment**: —
 
-These vicious little predators lurk underground, grabbing whatever prey happens by. Its hands and feet have spiny pads that help the choker grip almost any surface. The creature weighs about 35 pounds.
+Underground predators that often dwell on the outskirts of subterranean ruins or in the deep shadows of nameless cavern outposts, chokers lurk in the darkness and lash out with their long, rubbery arms to grasp prey as it passes by. They seldom attack multiple enemies at once, stalking their quarry until they can isolate a weaker victim from its pack.
+
+Chokers walk with a disturbing, almost comical gait due to their extremely limber legs. Weighing only 35 pounds and standing no taller than a halfling, chokers have no problem skittering across walls and ceilings, often lodging themselves into shadowy corners, tunnel intersections, walls, or staircases. A choker will attempt to grasp creatures of almost any size, but prefers lone prey of its size or smaller.
+
+Chokers appear to have little culture of their own, gathering only briefly to mate before their wanderlust and hunger spurs them again to a solitary existence. Their just-better-than-animalistic intelligence grants them a fascination with the trappings of society even if they do not truly understand it. Accordingly, the grubby lair of a choker (often situated in a difficult-to-reach nook or cranny) usually contains valuable objects such as rings, brooches, cloak clasps, and loose coins gathered from devoured victims.
+
+This fascination occasionally compels a choker to abandon its subterranean home for a closer study of the sunlit world's many civilizations. These chokers feel most at home in the darkened narrow alleyways of human cities, squeezing themselves into sewers, forgotten alcoves, barrels, and similar cramped, overlooked spaces. Chokers prefer to keep hidden during the light of day, emerging from their hidey-holes under cover of darkness to hunt for food and cruel pleasure. Favorite tactics include using their long arms to scoop prey off the street from the safety of a nearby rooftop, attacking sleeping families by squeezing through an open chimney, or tapping on a window to bring their curious food within grasping distance.
+
+Its hands and feet have spiny pads that help the choker grip almost any surface.
 
 Chokers speak Undercommon.
 
 ### Combat
 
-A choker likes to perch near the ceiling, often at intersections, archways, wells, or staircases, and reach down to attack its prey. A choker attacks creatures of almost any size, but prefers lone prey of its size or larger. If one is very hungry, it may attack a group, but it waits to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grab]] the last creature in line.
+If a choker is very hungry, it may attack a group, but it waits to [[rangoric-srd/combat/Combat Maneuvers#Grapple|grab]] the last creature in line.
 
-**Constrict (Ex)**: A choker deals 1d3+3 points of damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check against a Large or smaller creature. Because it seizes its victim by the neck, a creature in the choker’s grasp cannot speak or cast spells with verbal components.
+**Strangle (Ex)**: Chokers have an unerring talent for seizing their victims by the neck. A creature that is grappled by a choker cannot speak or cast spells with verbal components.
 
-**Improved Grab (Ex)**: To use this ability, a choker must hit a Large or smaller opponent with a tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict. Chokers receive a +4 racial bonus on grapple checks, which is already included in the statistics block.
-
-**Quickness (Su)**: Although not particularly dexterous, a choker is supernaturally quick. It can take an extra standard action or move action during its turn each round.
-
-**Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|climb speed]], a choker is better at climbing.
+**Quickness (Su)**: A choker is supernaturally quick. It can take an extra move action during its turn each round.

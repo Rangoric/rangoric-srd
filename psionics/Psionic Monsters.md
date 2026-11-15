@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Psionics"
 based-on:
   - "[[fantasy srd 3.5/psionics/Psionic Monsters|Psionic Monsters (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -26,9 +26,9 @@ tags: [rangoric, rangoric/overview]
 
 [[rangoric-srd/monsters/Gray Glutton|Gray Glutton]]  
 [[rangoric-srd/monsters/Half-Giant|Half-Giant]]  
-[[rangoric-srd/monsters/Intellect Devourer|Intellect Devourer]]  
+[[rangoric-srd/monsters/Intellect Devourer, Psionic|Intellect Devourer, Psionic]]  
 [[rangoric-srd/monsters/Maenad|Maenad]]  
-[[rangoric-srd/monsters/Neothelid|Neothelid]]  
+[[rangoric-srd/monsters/Neothelid, Psionic|Neothelid, Psionic]]  
 [[rangoric-srd/monsters/Phrenic Creature|Phenric Creature]]  
 
 [[rangoric-srd/monsters/Phthisic|Phthisic]]  
@@ -142,9 +142,9 @@ Some creatures may have particular powers that are manifested at a higher or low
   - [[rangoric-srd/monsters/Folugub|Folugub]]
   - [[rangoric-srd/monsters/Gray Glutton|Gray Glutton]]
   - [[rangoric-srd/monsters/Half-Giant|Half-Giant]]
-  - [[rangoric-srd/monsters/Intellect Devourer|Intellect Devourer]]
+  - [[rangoric-srd/monsters/Intellect Devourer, Psionic|Intellect Devourer, Psionic]]
   - [[rangoric-srd/monsters/Maenad|Maenad]]
-  - [[rangoric-srd/monsters/Neothelid|Neothelid]]
+  - [[rangoric-srd/monsters/Neothelid, Psionic|Neothelid, Psionic]]
   - [[rangoric-srd/monsters/Phrenic Creature|Phrenic Creature]]
   - [[rangoric-srd/monsters/Phthisic|Phthisic]]
   - [[rangoric-srd/monsters/Psicrystal|Psicrystal]]
