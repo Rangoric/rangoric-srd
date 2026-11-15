@@ -955,29 +955,21 @@ Staffs use the wielder’s ability score and relevant feats to set the DC for sa
 
 This means that staffs are far more potent in the hands of a powerful spellcaster. Because they use the wielder’s ability score to set the save DC for the spell, spells from a staff are often harder to resist than ones from other magic items, which use the minimum ability score required to cast the spell. Not only are aspects of the spell dependant on caster level (range, duration, and so on) potentially higher, but spells from a staff are harder to dispel and have a better chance of overcoming a target’s spell resistance.
 
-Furthermore, a staff can hold a spell of any level, unlike a wand, which is limited to spells of 4th level or lower. The minimum caster level of a staff is 8th. Standard staffs are described below.
+Furthermore, a staff can hold a spell of any level, unlike a wand, which is limited to spells of 4th level or lower. The minimum caster level of a staff is 8th. Every staff is listed under [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands#All Staffs|All Staffs]], below.
 
-  - [[rangoric-srd/magic-items/staffs/Staff of Abjuration|Staff of Abjuration]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Charming|Staff of Charming]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Conjuration|Staff of Conjuration]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Defense|Staff of Defense]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Divination|Staff of Divination]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Earth and Stone|Staff of Earth and Stone]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Enchantment|Staff of Enchantment]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Evocation|Staff of Evocation]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Fire|Staff of Fire]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Frost|Staff of Frost]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Healing|Staff of Healing]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Illusion|Staff of Illusion]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Illumination|Staff of Illumination]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Life|Staff of Life]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Necromancy|Staff of Necromancy]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Passage|Staff of Passage]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Power|Staff of Power]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Size Alteration|Staff of Size Alteration]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Swarming Insects|Staff of Swarming Insects]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Transmutation|Staff of Transmutation]]
-  - [[rangoric-srd/magic-items/staffs/Staff of Woodlands|Staff of Woodlands]]
+###### Recharging Staffs
+
+Some staffs recharge. A recharging staff works like the staffs above, except as follows. Recharging staffs usually hold spells grouped by a theme, and some grant other abilities to the wielder. ^recharging-staffs
+
+**Charges**: A recharging staff has 10 charges when created and holds a maximum of 10 charges. Each spell cast from the staff consumes one or more charges. When it runs out of charges, it can’t be used until it is recharged. ^recharging-staff-charges
+
+**Recharging**: Each morning, when a spellcaster prepares spells or regains spell slots, he can also imbue one recharging staff with a portion of his power, so long as one or more of the spells cast by the staff is on his spell list and he is capable of casting at least one of the spells. Imbuing a staff with this power restores one charge to the staff, but the caster must forgo one prepared spell or spell slot of a level equal to the highest-level spell cast by the staff. For example, a 9th-level wizard with a *[[rangoric-srd/magic-items/staffs/Staff of Toxins|staff of toxins]]* (*stinking cloud* and *cloudkill*) could imbue the staff with one charge per day by using up one of his 5th-level spells. A staff can’t gain more than one charge per day, and a caster can’t imbue more than one staff per day. Some staffs also regain charges in other ways, as their descriptions say. ^recharging-a-staff
+
+###### All Staffs
+
+Every staff, recharging or not, by price, from the [[rangoric-srd/magic-items/staffs/Staffs Index.base|Staffs Index]] (its Recharging and Not recharging views list each kind on its own).
+
+![[rangoric-srd/magic-items/staffs/Staffs Index.base#All staffs]]
 
 ##### Wands
 

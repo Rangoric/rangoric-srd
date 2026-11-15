@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Epic"
 based-on:
   - "[[fantasy srd 3.5/epic/Epic Magic Items|Epic Magic Items (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -431,7 +431,7 @@ Standard epic staffs are described below.
   - [[rangoric-srd/magic-items/staffs/Staff of Cosmos|Staff of Cosmos]]
   - [[rangoric-srd/magic-items/staffs/Staff of Domination|Staff of Domination]]
   - [[rangoric-srd/magic-items/staffs/Staff of Fiery Power|Staff of Fiery Power]]
-  - [[rangoric-srd/magic-items/staffs/Staff of the Hierophants|Staff of the Hierophants]]
+  - [[rangoric-srd/magic-items/staffs/Staff of the Hierophants (Epic)|Staff of the Hierophants]]
   - [[rangoric-srd/magic-items/staffs/Staff of Mighty Force|Staff of Mighty Force]]
   - [[rangoric-srd/magic-items/staffs/Staff of Nature’s Fury|Staff of Nature’s Fury]]
   - [[rangoric-srd/magic-items/staffs/Staff of Necromancy (Epic Staff)|Staff of Necromancy (Epic Staff)]]
