@@ -2,7 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 8
-book: "Unearthed Arcana"
+book: ["Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Half-Orcs|Half-Orcs (PF1)]]"
@@ -10,9 +10,10 @@ based-on:
   - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Orcs (Races)|Half-Orcs (APG)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Orcs (Races)|Half-Orcs (APG)]]"
 status: draft
 change: modified
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---
 
@@ -96,9 +97,29 @@ Half-orcs are just as likely to have children that possess an innate talent for 
 
 In human societies, half-orcs have a few more options. Many find it easy to take advantage of the brute strength and work as mercenaries or caravan guards. Crime is another easy route for half-orcs, as there are plenty of criminals looking for a strong arm. Half-orc [[rangoric-srd/classes/Cleric|clerics]] in human communities are fairly rare; the more religious half-orcs more often turn to (or get pushed to) the martial aspects of religious service and become [[rangoric-srd/classes/Paladin|paladins]] or [[rangoric-srd/classes/Inquisitor (Class)|inquisitors]]. Half-orcs usually lack the patience and money required to become a [[rangoric-srd/classes/Wizard|wizard]].
 
+**Half-Orc adventurers by class**: Their powerful builds suit half-orcs particularly to the martial classes, whether as axe-wielding [[rangoric-srd/classes/Barbarian|barbarians]], battle-scarred soldiers or cold-eyed assassins, and even those in the magical classes are generally no strangers to bloodshed.
+
+- [[rangoric-srd/classes/Alchemist|Alchemist]]: While half-orcs raised by their monstrous kin are rarely studious, a surprising number take up alchemy, relishing the destructive potential of its bombs, poisons and mutagens.
+- [[rangoric-srd/classes/Barbarian|Barbarian]]: Half-orc barbarians are legendary champions, unstoppable combat engines who cement the fell reputation of their kind throughout the world, for better or worse. Their hunger for battle and their ability to tap the bestial fury of their orc heritage are all they need to earn a place in most adventuring parties.
+- [[rangoric-srd/classes/Bard|Bard]]: Half-orcs trying to overcome prejudice among the civilized races sometimes pursue performance, diplomacy and learning as a way to raise not only their own standing but also the reputation of other half-orcs in their community.
+- [[rangoric-srd/classes/Cavalier|Cavalier]]: Half-orcs often face prejudice when seeking a place in human noble houses and knightly orders, but their size and skill in combat sometimes make those who would turn them away reconsider. In orc society, cavaliers often serve as standard bearers for warlords.
+- [[rangoric-srd/classes/Cleric|Cleric]]: Half-orc clerics are often the spiritual leaders of their communities, bridging the gap between the living and the dead, and as ready to mete out divine judgment and conquest as to nurture and heal.
+- [[rangoric-srd/classes/Druid|Druid]]: Half-orc druids often see the natural world as a source of feral power, tapping the destructive force of storms and predators. Many become druids as outcasts from humanoid society, finding peace and acceptance among the beasts of the field.
+- [[rangoric-srd/classes/Fighter|Fighter]]: Many half-orcs are singled out for martial training because of their intimidating size and appearance. Other races often assume every half-orc warrior fights with the barbarian's howling charge, but many prefer the discipline, precision and versatility of the fighter's studied warcraft.
+- [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]]: Already intimidating to many races, half-orcs make natural inquisitors, acting as bodyguards, criminal organizers and enforcers, and monster hunters (sometimes even against their orc kin).
+- [[rangoric-srd/classes/Monk|Monk]]: Most half-orc monks learn their abilities from humans, as such discipline is rare in orc society. Some seek to overcome their bestial natures with perfect balance and control, others merely to break foes with their bare hands.
+- [[rangoric-srd/classes/Oracle|Oracle]]: Creatures of mystery and omen, half-orc oracles are often imposing prophets of doom and destruction, drawing on the spirits of the dead, the power of war, or the more violent elements of fire and storm.
+- [[rangoric-srd/classes/Paladin|Paladin]]: While some races laugh at the idea of a half-orc paladin, it's not uncommon for half-orcs devoted to a lawful good deity to become champions of the cause, seeking to redeem themselves in society's eyes through great personal valor.
+- [[rangoric-srd/classes/Ranger|Ranger]]: Often forced to live on the fringes of society and fend for themselves, half-orcs make excellent hunters and scouts, sometimes protecting the very communities that rejected them in the hope of finding acceptance.
+- [[rangoric-srd/classes/Rogue|Rogue]]: Pushed to the margins of society, half-orcs are often forced to sneak and steal to survive, and some find that the life suits them, becoming bandits, burglars, enforcers and cutthroats.
+- [[rangoric-srd/classes/Sorcerer|Sorcerer]]: While wizardry is rare in orc society, sorcery has a brutal simplicity that orcs can understand and appreciate, making half-orc sorcerers prized (and feared) in both orc and human society.
+- [[rangoric-srd/classes/Summoner|Summoner]]: Half-orcs are often outcasts, and many are drawn to the summoner's path as a chance to make beings of perfect loyalty and friendship. Especially in orc lands, half-orc summoners tend to make their eidolons as large and menacing as possible.
+- [[rangoric-srd/classes/Witch|Witch]]: Orc society is deeply superstitious, and many half-orcs inherit this trait. Half-orc witches in human society sometimes use their bestial features to add to their air of intimidating otherness. Even more than other witches, they are regarded with fear and distrust by those who would seek their power, and many take to the road in pursuit of their own mysterious ends.
+- [[rangoric-srd/classes/Wizard|Wizard]]: Wizards are extremely rare in orc society, which has little access to or interest in books and arcane study, but half-orc wizards are sometimes found in human societies, studying hard in pursuit of a power that could win them the respect and position they so desperately want.
+
 ### Alternate Racial Traits
 
-A half-orc can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+A half-orc can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Some half-orcs try to show they are different from their brutish orc kin, while others embrace their monstrous heritage; how a half-orc lives with that heritage can give them other racial traits.
 
 | Trait | Replaces |
 | --- | --- |

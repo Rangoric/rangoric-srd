@@ -2,7 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 10
-book: "Unearthed Arcana"
+book: ["Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
@@ -10,9 +10,10 @@ based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/monsters/gnome/Gnome#Subraces|Gnome subraces (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Gnomes (Races)|Gnomes (APG)]]"
 status: draft
 change: modified
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---
 
@@ -101,9 +102,29 @@ Gnomes get along reasonably well with halflings and humans, who at least have so
 
 Gnomes are physically weak compared to many races, and see this as a simple fact of life to be planned for accordingly. Most adventuring gnomes make up for their weakness with a proclivity for sorcery or bardic music, while others turn to alchemy or exotic weapons to grant them an edge in conflicts.
 
+**Gnome adventurers by class**: Gnomes use their intellect and force of personality to overcome challenges. Though generally good-humored and tolerant, they can swiftly turn fierce if backed into a corner.
+
+- [[rangoric-srd/classes/Alchemist|Alchemist]]: Alchemy is one of the most respected careers for a gnome, melding their love of magic with practical applied theory, in a field where discovery is an everyday opportunity.
+- [[rangoric-srd/classes/Barbarian|Barbarian]]: Gnome barbarians typically rise among those who have lived long among their wild fey kin or the beasts of the wilderness, going near-feral as incarnate spirits of nature.
+- [[rangoric-srd/classes/Bard|Bard]]: Many gnomes are obsessive collectors of stories, songs and jokes, making gnome bards renowned for their vast repertoires, energetic delivery, and the magic they weave into their performances.
+- [[rangoric-srd/classes/Cavalier|Cavalier]]: Although gnome cavaliers are rare, gnomes swear honest oaths, and might master a broad array of tactics to defend the people and the lands they love.
+- [[rangoric-srd/classes/Cleric|Cleric]]: Gnomes often become servants of the gods, especially deities of art, music, exploration, discovery and merrymaking, blending their fervor for creation with true religious zeal.
+- [[rangoric-srd/classes/Druid|Druid]]: Many gnomes hold close to the earth and forests, taking up the druidic mantle and staying in close communion with animals and the spirits of nature.
+- [[rangoric-srd/classes/Fighter|Fighter]]: Gnome fighters are a tenacious lot, eager to prove that even the smallest combatant can be a titan on the battlefield.
+- [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]]: Some gnomes learn the harshness of the world, and of harder-hearted races, all too personally, and take up the mantle of the inquisitor to defend their people and protect their lands from callous souls.
+- [[rangoric-srd/classes/Monk|Monk]]: Gnomes are colorful, passionate and flamboyant by nature, and bring that whimsy into their vision of physical and natural perfection. Many gnome martial styles are unpredictable, more like improvised dances than long-practiced techniques.
+- [[rangoric-srd/classes/Oracle|Oracle]]: As inheritors of ancient fey spirits, gnomes take quite naturally to oracular devotion, interpreting otherworldly portents and the whispers of natural forces.
+- [[rangoric-srd/classes/Paladin|Paladin]]: Gnomes whose lives are changed by religious zeal or the passion to protect those around them might take up the paladin's calling. Most find their ability to speak with animals a special boon, both in talking with their mounts and in hunting down evildoers.
+- [[rangoric-srd/classes/Ranger|Ranger]]: Militant gnomes most often become rangers, drawing on their innate relationship with nature and their ability to commune with its creatures.
+- [[rangoric-srd/classes/Rogue|Rogue]]: Gnome rogues typically master a variety of skills, winning others over with their charismatic personalities, and even adding a touch of magic to their skill at making and defeating locks and traps.
+- [[rangoric-srd/classes/Sorcerer|Sorcerer]]: The arcane power of the fey bloodline is common in many gnome families, though sorcerers of other bloodlines often arise. Nearly all of these are accepted as normal in gnome society, though those who draw their power from darker sources meet suspicion and scorn.
+- [[rangoric-srd/classes/Summoner|Summoner]]: Gnomes are inveterate tinkerers and endlessly creative, delighting in designing and shaping eidolons. Gnome summoners' eidolons often resemble clockwork creations or fairy creatures.
+- [[rangoric-srd/classes/Witch|Witch]]: Eagerly embracing weird and ancient powers, gnomes make deceptively capable witches. Most adopt strange or exotic familiars well suited to their personalities.
+- [[rangoric-srd/classes/Wizard|Wizard]]: Gnomes have an expansive magical tradition, specializing in illusion and elemental magic. They are much respected as historians, researchers and academics committed to pushing the boundaries of magic, often by unprecedented leaps.
+
 ### Alternate Racial Traits
 
-A gnome can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+A gnome can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Many gnomes love the wild places where their fey cousins gather, but more and more of them leave these places for cities, drawn by curiosity and a love of creation to commerce, trade and workshops where they can follow the latest discoveries. Such gnomes may have other racial traits.
 
 | Trait | Replaces |
 | --- | --- |

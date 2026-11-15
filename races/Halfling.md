@@ -2,7 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
-book: "Unearthed Arcana"
+book: ["Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Halflings|Halflings (PF1)]]"
@@ -10,9 +10,10 @@ based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/monsters/Halfling#Subraces|Halfling subraces (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Halflings (Races)|Halflings (APG)]]"
 status: draft
 change: modified
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---
 
@@ -92,6 +93,26 @@ Always practical, halflings frequently worship the deity most favored by their l
 **Adventurers**: Their inherent luck coupled with their insatiable wanderlust makes halflings ideal candidates for lives of adventure. Though perfectly willing to pocket any valuables they come across, halflings often care more for the new experiences adventuring brings them than for any material reward. Halflings tend to view money as a means of making their lives easier and more comfortable, not as an end in and of itself.
 
 Other such vagabonds often put up with this curious race in hopes that some of their mystical luck will rub off. Halflings see nothing wrong with encouraging this belief, not just in their traveling companions, but also in the larger world. Many try to use their reputation for luck to haggle for reduced fare when traveling by ship or caravan, or even for an overnight stay at an inn. They meet with mixed success, but there are just enough stories circulating about the good fortune that befalls people traveling with halflings to give even the most skeptical pause. Of course, some suspect that halflings deliberately spread these reports for just that reason.
+
+**Halfling adventurers by class**: Halflings who become adventurers often favor light armor and weapons that play to their natural dexterity, building a variety of skills to be ready for any occasion. Though rarely looking for a fight, their insatiable curiosity often leads them to wander far and wide, and sometimes straight into danger.
+
+- [[rangoric-srd/classes/Alchemist|Alchemist]]: Halflings' natural curiosity leads them to experiment, and few classes reinforce this so much as the alchemist, where new and ever more incendiary (sometimes literally) discoveries are always just around the corner.
+- [[rangoric-srd/classes/Barbarian|Barbarian]]: Though larger races may laugh at the idea of a halfling barbarian, few do so to their face. Though weaker than many other barbarians, a raging halfling's sheer fury can catch many opponents off guard.
+- [[rangoric-srd/classes/Bard|Bard]]: Halflings love to sing, dance and celebrate, and their bards are masterful entertainers with the common touch. Though sometimes employed in high halls and grand theaters, halfling bards are even more likely to be found on the road, bringing mirth and merriment to new audiences every day.
+- [[rangoric-srd/classes/Cavalier|Cavalier]]: Halflings may be too small to master horsemanship, but astride a pony, riding dog or more exotic mount, a halfling cavalier can turn the jokes of larger rivals on their heads, leading soldiers into battle with complete fearlessness and inspiring great heroics with their skill and dedication.
+- [[rangoric-srd/classes/Cleric|Cleric]]: Halflings have an enduring faithfulness in one another, and this devotion carries over to their gods. Their good humor, curiosity and ease in blending into new societies make them natural missionaries.
+- [[rangoric-srd/classes/Druid|Druid]]: Though halflings tend to appreciate the finer points of civilization, some halfling druids find solace and enlightenment in the wilds, and others ally themselves with the animals already living in cities.
+- [[rangoric-srd/classes/Fighter|Fighter]]: Halflings are often less bloodthirsty than other races, yet they still understand and appreciate the value of a trained warrior able to defend their kin.
+- [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]]: With their knack for blending into the scenery and eavesdropping unnoticed, halflings pick up secret information quite easily, and this, with their curiosity, makes them perfect inquisitors, especially suited to investigating other races.
+- [[rangoric-srd/classes/Monk|Monk]]: Many halflings seek the simple life of devotion and dedication that is the monk's path. With their placid, seemingly harmless appearance and their dedication to hard work, monks blend seamlessly into halfling communities, though many a raider has learned their error after attacking an unarmed halfling.
+- [[rangoric-srd/classes/Oracle|Oracle]]: Though oracles are rare among most races, they become more common where halflings are oppressed or enslaved, serving as the secret spiritual centers of a community when open worship or organization is forbidden. Halfling oracles often venerate the spirits of earth, nature, or even heroes of the past.
+- [[rangoric-srd/classes/Paladin|Paladin]]: Given the high value they place on community, hearth and home, many halflings aspire to be paladins. Enemies who don't take them seriously soon learn their error as these stout crusaders unleash the fury of heaven on those with evil motives.
+- [[rangoric-srd/classes/Ranger|Ranger]]: Halflings may not be renowned for hunting, but only because their great skill is overlooked by those who can't see past their prejudices. Halfling rangers are experts at bringing down game large and small, blending into the wilds as easily as their kin blend into the city, or using their tactical skill alongside their trusted animal companions (who sometimes serve as their steeds as well).
+- [[rangoric-srd/classes/Rogue|Rogue]]: Rogues are the stereotypical halfling adventurers, making their way as jocular raconteurs, cunning burglars and daring highwaymen. With their light step and deft hands, halflings make natural thieves and pickpockets, a fact their detractors don't overlook.
+- [[rangoric-srd/classes/Sorcerer|Sorcerer]]: Halfling sorcerers often keep their magic hidden until it's needed, the better to catch opponents off guard, and often favor charms to enhance their natural persuasiveness or massive evocations that make their small size seem irrelevant.
+- [[rangoric-srd/classes/Summoner|Summoner]]: Halflings are endlessly curious, and some follow the summoner's path to explore the many forms magical life can take. Their eidolons are generally flamboyant in color, as wild in appearance as their summoners' imaginations, and sometimes used as mounts.
+- [[rangoric-srd/classes/Witch|Witch]]: Though halflings have a reputation for wide-eyed naiveté, they also tend to collect secrets, and some follow this road to the superstitious calling of the witch, becoming wise women, herbalists and crazed knowledge-seekers.
+- [[rangoric-srd/classes/Wizard|Wizard]]: Halfling wizards often seek arcane secrets out of a mix of curiosity and a desire to rise above their size and make other races take notice. As a result, they tend to prefer flashy spells and flagrant displays of power.
 
 ### Alternate Racial Traits
 

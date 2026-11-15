@@ -2,16 +2,17 @@
 srd-type: "race"
 section: "Races"
 race-points: 10
-book: ["Advanced Race Guide", "Unearthed Arcana"]
+book: ["Advanced Race Guide", "Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Half-Elves|Half-Elves (PF1)]]"
   - "[[path srd 3.5/races/Half-Elves (Advanced Race Guide)|Half-Elves (ARG)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Half-Elves (Races)|Half-Elves (APG)]]"
 status: draft
 change: modified
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---
 
@@ -85,9 +86,29 @@ Some half-elves feel the pull of the divine but live beyond the formal religious
 
 **Adventurers**: Half-elves tend to be itinerants, wandering the lands in search of a place they might finally call home. The desire to prove themselves to the community and establish a personal identity—or even a legacy—drives many half-elf adventurers to lives of bravery. Some half-elves claim that despite their longevity, they perceive the passage of time more like humans than elves, and are driven to amass wealth, power, or fame early on in life so they may spend the rest of their years enjoying it.
 
+**Half-Elf adventurers by class**: Half-elf adventurers often specialize in social classes or multiclass, trying out several careers as they look for the blend that suits their many-sided personalities.
+
+- [[rangoric-srd/classes/Alchemist|Alchemist]]: Half-elves are curious dabblers, and many study alchemy at least in passing, often showing great skill in blending and measuring out volatile elements.
+- [[rangoric-srd/classes/Barbarian|Barbarian]]: Half-elf barbarians typically hail from the societies of a savage parent. While many leave their cultures to escape their differences, others viciously defend their people, always seeking to prove their worth.
+- [[rangoric-srd/classes/Bard|Bard]]: Many half-elves are drawn to the bard's life, as it binds together their natural allure and social adaptability, often to the adulation of others.
+- [[rangoric-srd/classes/Cavalier|Cavalier]]: Half-elf cavaliers take the arts of war and gild them with elegance and finesse. The cavalier's path gives them a code to follow and a master to serve to earn honor and esteem, though elves and humans alike sometimes see them as pretenders or trespassers in their knightly orders.
+- [[rangoric-srd/classes/Cleric|Cleric]]: Half-elves often feel disconnected from human or elven faiths, but many still follow a divine calling, whether as a comfortable way to share a common faith with other races, or for a close connection with the divine that makes their uncertainty with other mortals matter little.
+- [[rangoric-srd/classes/Druid|Druid]]: Half-elves uncertain of their place in civilized society often abandon it entirely for the harmony of the natural world. Embracing the connection to nature in their elven blood, many find a tranquility in the wilds no society can offer.
+- [[rangoric-srd/classes/Fighter|Fighter]]: Half-elf fighters are relatively common, as the harsh simplicity of the battlefield holds great appeal for those tired of reconciling their divided natures. Their varied tastes and skills often make them masters of a dazzling array of weapons.
+- [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]]: Facing their own inner turmoil, half-elf inquisitors have keen insight into the minds of others and know the balance between life and death.
+- [[rangoric-srd/classes/Monk|Monk]]: Half-elves who come to peace with their mixed heritage embody the stillness of mind and meditative enlightenment of the monk's way. Many blend human and elven martial techniques into deadly new schools of combat.
+- [[rangoric-srd/classes/Oracle|Oracle]]: Half-elves tend to live in the now, drawing oracular insight from whispers in the air, the motion of the stars, unseen eddies in crowded streets, or even the ancient voices in their blood.
+- [[rangoric-srd/classes/Paladin|Paladin]]: Whether devoted to a deity of their human parent, their elven parent, or any other they choose, half-elf paladins take up their god's cause with both zeal and grace. Among such holy orders, half-elves often find a peace and camaraderie they're otherwise denied.
+- [[rangoric-srd/classes/Ranger|Ranger]]: Half-elves frustrated by common society often retreat into the wild, developing a close bond with animals and the predictable changes of nature.
+- [[rangoric-srd/classes/Rogue|Rogue]]: Many half-elves excel at the roguish arts, studying people and their habits and so learning to take advantage of the proud or careless.
+- [[rangoric-srd/classes/Sorcerer|Sorcerer]]: Magic runs in the blood of every half-elf, often showing as arcane or fey bloodlines, though other sources of sorcerous power often arise. Whatever their magic's source, half-elves quickly master their inherited gifts.
+- [[rangoric-srd/classes/Summoner|Summoner]]: Some half-elves have a curious fascination with molding and shaping life, mind, body and soul. Many seek to make their eidolons idealized beings, whether creatures of uncanny beauty or mind-numbing terror.
+- [[rangoric-srd/classes/Witch|Witch]]: Whether out of bitterness or a lust for greater magical power, half-elves are just as adept at wielding a witch's power as other forms of magic. Many adopt wounded or otherwise distinctive familiars, often creatures considered outcasts in their own right.
+- [[rangoric-srd/classes/Wizard|Wizard]]: Many half-elves inherit magical talent from their lineage, finding both solace and respect in mastering the arcane. While every school of magic is open to them, many are drawn to spells of explosive power, spells that cloak them in mystery, or spells that otherwise help them manipulate the world around them.
+
 ### Alternate Racial Traits
 
-A half-elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+A half-elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Half-elves' talents vary a great deal depending on their upbringing, the nature of their bloodlines, the strength of their minds, and how they live with their dual nature, so some half-elves have other racial traits.
 
 | Trait | Replaces |
 | --- | --- |

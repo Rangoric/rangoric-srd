@@ -2,7 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
-book: "Unearthed Arcana"
+book: ["Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Elves|Elves (PF1)]]"
@@ -10,9 +10,10 @@ based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/monsters/Elf#Subraces|Elf subraces (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Elves (Races)|Elves (APG)]]"
 status: draft
 change: modified
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---
 
@@ -94,9 +95,29 @@ Elves are not foolish enough, however, to dismiss all aspects of other races and
 
 Elves generally eschew melee because of their relative frailty, preferring instead to engage enemies at range. Most see combat as unpleasant even when needful, and prefer it be done as quickly as possible, preferably without getting close enough to smell their foes. This preference for making war at a distance, coupled with their natural accuracy and grasp of the arcane, encourages elves to pursue classes such as [[rangoric-srd/classes/Wizard|wizards]] and [[rangoric-srd/classes/Ranger|rangers]].
 
+**Elf adventurers by class**: Elves who become adventurers usually follow a martial path, pursue mastery of arcane magic, or seek a career that blends the two. They prefer subtlety to outright conflict, but are eager to show their superiority to other races, using force if finesse and flair aren't enough.
+
+- [[rangoric-srd/classes/Alchemist|Alchemist]]: Elves favor classical arcane disciplines over the experimentation and pseudoscience of alchemy, often deriding it as a crude imitation of traditional magic. Elf alchemists often seek the adventuring life to escape the scorn of their fellows.
+- [[rangoric-srd/classes/Barbarian|Barbarian]]: Elf barbarians typically live deep in deserts or jungles, led by wise and mystical elders. They often leave their homelands in service of their people or to see the world beyond their homes.
+- [[rangoric-srd/classes/Bard|Bard]]: Elves love art in all its forms. Their sweeping arias, ancient poetry and graceful dances are the envy of cultured audiences, just as their finesse with arms is the envy of common warriors.
+- [[rangoric-srd/classes/Cavalier|Cavalier]]: Elf cavaliers have a long tradition in the ancient noble houses, pursuing and protecting honor with elegance. Their sleek mounts show both great resilience and devotion.
+- [[rangoric-srd/classes/Cleric|Cleric]]: Elves follow many faiths, and because of their long lives many elves see themselves as blessed by the gods. Many stand for naturalistic philosophies or ancient divine patrons who embody the traits of their people.
+- [[rangoric-srd/classes/Druid|Druid]]: Elves have an instinctive bond with nature and the mysterious spirits within it; some revere such powers, binding nature's forces to themselves and themselves to nature.
+- [[rangoric-srd/classes/Fighter|Fighter]]: Elf fighters are respected for their lightness on their feet, delicate yet deadly precision, and mastery of centuries-old martial traditions.
+- [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]]: Though elves prize freedom and individuality, they are also great traditionalists and quite suspicious of outsiders. Elf inquisitors are not loved, but their judgments and authority are respected.
+- [[rangoric-srd/classes/Monk|Monk]]: Elves are contemplative by nature and appreciate those who focus on inward calm and stillness of mind. Elf monks often adopt ageless mantras and examples of balance and finesse in nature as guides.
+- [[rangoric-srd/classes/Oracle|Oracle]]: Elf oracles are quite common and highly respected as keepers of the mysteries of their people's ancestors and of secrets older than the world's many younger races.
+- [[rangoric-srd/classes/Paladin|Paladin]]: Elf paladins adopt and defend the ancient strictures of their deities, defending their people and lands from all who would despoil their sacred homelands.
+- [[rangoric-srd/classes/Ranger|Ranger]]: Elves make masterful hunters and scouts, attuned to the environment, keenly aware of their surroundings, and always ready to protect their homelands or punish those who intrude on them.
+- [[rangoric-srd/classes/Rogue|Rogue]]: While thieves, brigands and their ilk are rare in elven society, elf rogues are common as scouts, infiltrators, and even assassins.
+- [[rangoric-srd/classes/Sorcerer|Sorcerer]]: Magic sings in the blood of all elves, and every sorcerous bloodline might be found among them, though sorcerers rarely earn the respect [[rangoric-srd/classes/Wizard|wizards]] enjoy.
+- [[rangoric-srd/classes/Summoner|Summoner]]: Elves have a long tradition of alliance with magical creatures due to their affinity for the mystic arts. While fewer than [[rangoric-srd/classes/Sorcerer|sorcerers]] or wizards, summoners are well represented in elven armies, their eidolons often gossamer creatures of deceptive strength and power.
+- [[rangoric-srd/classes/Witch|Witch]]: Treating with ageless, inscrutable powers of the land, elf witches blend their understanding of nature and mastery of magic into potent hexes and strange arcana. Many develop ties with creatures of their homelands, taking them as familiars to strengthen their ties to the earth.
+- [[rangoric-srd/classes/Wizard|Wizard]]: Elves cultivate an ancient tradition of magical lore and research in every field of specialization. For those with the talent to excel, wizardry is one of the surest paths to prestige in elven society.
+
 ### Alternate Racial Traits
 
-An elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+An elf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). The picture of elves as wardens of the forest is accurate but incomplete: elves adapt readily to many environments, from the harshest desert to the deepest sea, and some tap into magic outside what their kindred usually embrace. Such elves may have other racial traits.
 
 | Trait | Replaces |
 | --- | --- |
