@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/All Monsters|All Monsters (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -345,7 +345,18 @@ tags: [rangoric, rangoric/overview]
 
 ### S
 
-[[rangoric-srd/monsters/Sahuagin|Sahuagin]]  
+[[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Baron|Sahuagin Baron]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Brute|Sahuagin Brute]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Champion|Sahuagin Champion]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Deep Racer|Sahuagin Deep Racer]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin High Priestess|Sahuagin High Priestess]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Infiltrator|Sahuagin Infiltrator]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Lieutenant|Sahuagin Lieutenant]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Prince|Sahuagin Prince]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Scout|Sahuagin Scout]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Shark Sentry|Sahuagin Shark Sentry]]  
+—[[rangoric-srd/monsters/sahuagin/Sahuagin Underpriestess|Sahuagin Underpriestess]]  
 [[rangoric-srd/monsters/salamander/Salamander|Salamander]]  
 [[rangoric-srd/monsters/Satyr|Satyr]]  
 [[rangoric-srd/monsters/Sea Cat|Sea Cat]]  
