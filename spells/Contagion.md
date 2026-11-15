@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 descriptor:
+  - "Disease"
   - "Evil"
 level:
   - "Apl 3"
@@ -23,6 +24,7 @@ saving-throw: "Fortitude negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Contagion|Contagion (3.5)]]"
+  - "[[path srd 3.5/spells/Contagion|Contagion (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -31,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 # Contagion
 
-*Necromancy \[Evil\]*
+*Necromancy \[Disease, Evil\]*
 
   - **Level**: Apl 3, Blr 4, Clr 3, Destruction 3, Drd 3, Hun 3, Sor/Wiz 4
   - **Components**: V, S
@@ -42,16 +44,16 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates
   - **Spell Resistance**: Yes
 
-The subject contracts a disease selected from the table below, which strikes immediately (no incubation period). The DC noted is for the subsequent saves (use contagion’s normal save DC for the initial saving throw).
+The subject contracts a disease selected from the table below. The disease is contracted immediately (the onset period does not apply); use *contagion*’s normal save DC for the initial saving throw. Use the disease’s listed frequency and save DC to determine further effects; the DC in the table is for those later saves. For more information see [[rangoric-srd/rules/Afflictions#Disease|diseases]].
 
-| Disease           | DC | Damage              |
-| ----------------- | -- | ------------------- |
-| Blinding sickness | 16 | 1d4 Str (1)         |
-| Cackle fever      | 16 | 1d6 Wis             |
-| Filth fever       | 12 | 1d3 Dex and 1d3 Con |
-| Mindfire          | 12 | 1d4 Int             |
-| Red ache          | 15 | 1d6 Str             |
-| Shakes            | 13 | 1d8 Dex             |
-| Slimy doom        | 14 | 1d4 Con             |
-
-1 *Each time a victim takes 2 or more points of Strength damage from blinding sickness, he or she must make another Fortitude save (using the disease’s save DC) or be permanently [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]].*
+| Disease | DC | Frequency | Effect |
+| --- | --- | --- | --- |
+| [[rangoric-srd/rules/afflictions/Blinding Sickness\|Blinding Sickness]] | 16 | 1/day | 1d4 Str (see its note) |
+| [[rangoric-srd/rules/afflictions/Bubonic Plague\|Bubonic Plague]] | 17 | 1/day | 1d4 Con and 1 Cha and the target is fatigued |
+| [[rangoric-srd/rules/afflictions/Cackle Fever\|Cackle Fever]] | 16 | 1/day | 1d6 Wis |
+| [[rangoric-srd/rules/afflictions/Filth Fever\|Filth Fever]] | 12 | 1/day | 1d3 Dex and 1d3 Con |
+| [[rangoric-srd/rules/afflictions/Leprosy\|Leprosy]] | 12 (20 to avoid effects) | 1/week | 1d2 Cha |
+| [[rangoric-srd/rules/afflictions/Mindfire\|Mindfire]] | 12 | 1/day | 1d4 Int |
+| [[rangoric-srd/rules/afflictions/Red Ache\|Red Ache]] | 15 | 1/day | 1d6 Str |
+| [[rangoric-srd/rules/afflictions/Shakes\|Shakes]] | 13 | 1/day | 1d8 Dex |
+| [[rangoric-srd/rules/afflictions/Slimy Doom\|Slimy Doom]] | 14 | 1/day | 1d4 Con (see its note) |

@@ -42,4 +42,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: Yes
 
-You weaken the target's defenses against poison. The target gains a –4 penalty on saves against poison, and poisons affecting the target continue for another 2 frequency increments (for example, black adder venom lasts 8 rounds instead of 6, and arsenic lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with skill or magic take a –4 penalty.
+You weaken the target's defenses against poison. The target gains a –4 penalty on saves against poison, and poisons affecting the target continue for another 2 frequency increments (for example, [[rangoric-srd/rules/afflictions/Black Adder Venom|black adder venom]] lasts 8 rounds instead of 6, and [[rangoric-srd/rules/afflictions/Arsenic|arsenic]] lasts for 6 minutes instead of 4). Attempts to cure the poisoned target with skill or magic take a –4 penalty.

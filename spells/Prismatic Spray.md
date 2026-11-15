@@ -15,8 +15,9 @@ saving-throw: "See text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Prismatic Spray|Prismatic Spray (3.5)]]"
-status: base
-change: copied
+  - "[[path srd 3.5/spells/Prismatic Spray|Prismatic Spray (PF1)]]"
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -41,7 +42,7 @@ This spell causes seven shimmering, intertwined, multicolored beams of light to 
 | 1   | Red           | 20 points fire damage (Reflex half)                                      |
 | 2   | Orange        | 40 points acid damage (Reflex half)                                      |
 | 3   | Yellow        | 80 points electricity damage (Reflex half)                               |
-| 4   | Green         | Poison (Kills; Fortitude partial, take 1d6 points of Con damage instead) |
+| 4   | Green         | [[rangoric-srd/rules/afflictions/Green Prismatic Poison\|Poison]] (frequency 1/round for 6 rounds; effect death/1 Con damage; cure 2 consecutive Fortitude saves) |
 | 5   | Blue          | Turned to stone (Fortitude negates)                                      |
 | 6   | Indigo        | Insane, as insanity spell (Will negates)                                 |
 | 7   | Violet        | Sent to another plane (Will negates)                                     |

@@ -42,4 +42,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates (harmless)
   - **Spell Resistance**: Yes
 
-The target's natural attacks carry filth fever (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)
+The target's natural attacks carry [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]] (DC 10 + 1/2 of the creature's Hit Dice + creature's Con modifier)
