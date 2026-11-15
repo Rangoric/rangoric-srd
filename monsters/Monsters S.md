@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters S|Monsters S (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Sahuagin - Swarm
 
-  - [[rangoric-srd/monsters/Sahuagin|Sahuagin]]
+  - [[rangoric-srd/monsters/sahuagin/Sahuagin|Sahuagin]]
   - [[rangoric-srd/monsters/salamander/Salamander|Salamander]]
   - [[rangoric-srd/monsters/Satyr|Satyr]]
   - [[rangoric-srd/monsters/Sea Cat|Sea Cat]]

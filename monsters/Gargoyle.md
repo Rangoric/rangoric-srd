@@ -3,66 +3,73 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Monstrous Humanoid"
-subtypes:
-  - "Earth"
-hit-dice: "4d8+19 (37 hp)"
-initiative: "+2"
+subtypes: ["Earth"]
+hit-dice: "5d10+15 (42 hp)"
+initiative: "+6"
 speed: "40 ft. (8 squares), fly 60 ft. (average)"
 armor-class: "16 (+2 Dex, +4 natural), touch 12, flat-footed 14"
-base-attack: "+4"
-cmb: "+6"
-cmd: "18"
-attack: "Claw +6 melee (1d4+2)"
-full-attack: "2 claws +6 melee (1d4+2) and bite +4 melee (1d6+1) and gore +4 melee (1d6+1)"
+base-attack: "+5"
+cmb: "+7"
+cmd: "19"
+attack: "Claw +7 melee (1d6+2) or bite +7 melee (1d4+2) or gore +7 melee (1d4+2)"
+full-attack: "2 claws +7 melee (1d6+2) and bite +7 melee (1d4+2) and gore +7 melee (1d4+2)"
 space-reach: "5 ft./5 ft."
 special-attacks: "—"
-special-qualities: "Damage reduction 10/magic, darkvision 60 ft., freeze"
-saves: "Fort +5, Ref +6, Will +4"
-abilities: "Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7"
-skills: "Perception +7, Stealth +9*"
-skill-ranks: "Perception 2, Stealth 2"
-feats: "Multiattack, Toughness"
+special-qualities: "Darkvision 60 ft., freeze, damage reduction 10/magic"
+saves: "Fort +4, Ref +6, Will +4"
+abilities: "Str 15, Dex 14, Con 16, Int 6, Wis 11, Cha 7"
+skills: "Acrobatics +12, Perception +5, Stealth +11 (+17 in stony areas)"
+skill-ranks: "Acrobatics 7, Perception 2, Stealth 4"
+feats: "Hover, Improved Initiative, Skill Focus (Acrobatics)"
 environment: "Any"
-organization: "Solitary, pair, or wing (5–16)"
+organization: "Solitary, pair, or wing (3–12)"
 challenge-rating: 4
 treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "5–6 HD (Medium); 7–12 HD (Large)"
 level-adjustment: "+5"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Gargoyle|Gargoyle (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Gargoyle|Gargoyle (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Gargoyle
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]])
-  - **Hit Dice**: 4d8+19 (37 hp)
-  - **Initiative**: +2
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Earth)
+  - **Hit Dice**: 5d10+15 (42 hp)
+  - **Initiative**: +6
   - **Speed**: 40 ft. (8 squares), fly 60 ft. (average)
   - **Armor Class**: 16 (+2 Dex, +4 natural), touch 12, flat-footed 14
-  - **Base Attack**: +4; **CMB**: +6; **CMD**: 18
-  - **Attack**: Claw +6 melee (1d4+2)
-  - **Full Attack**: 2 claws +6 melee (1d4+2) and bite +4 melee (1d6+1) and gore +4 melee (1d6+1)
+  - **Base Attack**: +5; **CMB**: +7; **CMD**: 19
+  - **Attack**: Claw +7 melee (1d6+2) or bite +7 melee (1d4+2) or gore +7 melee (1d4+2)
+  - **Full Attack**: 2 claws +7 melee (1d6+2) and bite +7 melee (1d4+2) and gore +7 melee (1d4+2)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/magic, darkvision 60 ft., freeze
-  - **Saves**: Fort +5, Ref +6, Will +4
-  - **Abilities**: Str 15, Dex 14, Con 18, Int 6, Wis 11, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9\*
-  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Toughness|Toughness]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Freeze|freeze]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic
+  - **Saves**: Fort +4, Ref +6, Will +4
+  - **Abilities**: Str 15, Dex 14, Con 16, Int 6, Wis 11, Cha 7
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Stealth|Stealth]] +11 (+17 in stony areas)
+  - **Feats**: [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Acrobatics)
   - **Environment**: Any
-  - **Organization**: Solitary, pair, or wing (5–16)
+  - **Organization**: Solitary, pair, or wing (3–12)
   - **Challenge Rating**: 4
   - **Treasure**: Standard
   - **Alignment**: Usually chaotic evil
   - **Advancement**: 5–6 HD (Medium); 7–12 HD (Large)
   - **Level Adjustment**: +5
 
-Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving and use this disguise to surprise their foes. They require no food, water, or air, but often eat their fallen foes out of fondness for inflicting pain.
+Gargoyles often appear to be winged stone statues, for they can perch indefinitely without moving, allowing them to surprise their foes. Gargoyles tend toward obsessive-compulsive behaviors that are as varied as their kind is plentiful. Books, stolen trinkets, weapons, and grisly trophies harvested from fallen foes are just a few examples of the types of things a gargoyle might collect to decorate its lair and territory. Gargoyles tend toward a solitary lifestyle, though they sometimes form fearsome groups called “wings” for protection and sport. In certain conditions, a tribe of gargoyles might even ally with other creatures, but even the most stable alliances with a gargoyle tribe can collapse for the smallest of reasons—gargoyles are nothing if not treacherous, petty, and vindictive. Gargoyles have been known to dwell in the heart of the largest of cities, crouching amid the decorations of stone cathedrals and buildings where they hide in plain sight by day and swoop down to feed on vagabonds, beggars, and other unfortunates at night.
+
+The longer a tribe of gargoyles abides in a region of ruins or buildings, the more its members come to resemble that region's architectural styles. The changes a gargoyle's appearance undergoes are slow and subtle, but over the course of years, it can shift radically.
+
+One unusual variant of gargoyle dwells not amid buildings and ruins but under the waves of the sea. These creatures are known as kapoacinths—they have the same basic statistics as normal gargoyles, save that they have the aquatic subtype and their wings grant them a swim speed of 60 feet (but are useless for actual flight). Kapoacinths dwell in shallow, coastal regions where they can shamble up from the surf to prey on those that reside there. They are more likely to form wings, as kapoacinths prefer group living to a solitary lifestyle.
+
+They require no food, water, or air, but often eat their fallen foes out of fondness for inflicting pain.
 
 Gargoyles speak Common and Terran.
 
@@ -72,13 +79,7 @@ Gargoyles either remain still, then suddenly attack, or dive onto their prey.
 
 A gargoyle’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-**Freeze (Ex)**: A gargoyle can hold itself so still it appears to be a statue. An observer must succeed on a DC 20 [[rangoric-srd/skills/Perception|Perception]] check to notice the gargoyle is really alive.
-
-**Skills**: Gargoyles have a +2 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Perception|Perception]] checks. \*The Stealth bonus increases by +8 when a gargoyle is concealed against a background of stone.
-
-### Kapoacinth
-
-These cousins of the gargoyle have the aquatic subtype. They have a base land speed of 40 feet and a swim speed of 60 feet (no fly speed) and are found only in aquatic environments.
+**Freeze (Ex)**: A gargoyle can hold itself so still it appears to be a statue. A gargoyle that uses freeze can take 20 on its Stealth check to hide in plain sight as a stone statue.
 
 ### Gargoyles as Characters
 

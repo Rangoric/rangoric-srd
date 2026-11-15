@@ -101,3 +101,7 @@ The teamwork feats are the feats with the *teamwork* [[rangoric-srd/Tag Register
 **Master Tactician (Ex)**: At 17th level, the cavalier receives an additional [[rangoric-srd/feats/Feats Overview#^teamwork-feats|teamwork feat]] as a bonus feat. He must meet the prerequisites for this feat. The cavalier can grant this feat to his allies using the tactician ability. Whenever the cavalier uses the tactician ability, he grants any two teamwork feats that he knows. He can select from any of his teamwork feats, not just his bonus feats. ^cavalier-master-tactician
 
 **Supreme Charge (Ex)**: At 20th level, whenever the cavalier makes a charge attack while mounted, he deals double the normal amount of damage (or triple if using a lance). In addition, if the cavalier confirms a critical hit on a charge attack while mounted, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. A Will save reduces this to [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d4 rounds. The DC is equal to 10 + the cavalier's base attack bonus. ^cavalier-supreme-charge
+
+**Archetypes**: A cavalier can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The cavalier’s archetypes, with what each replaces: ^cavalier-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Cavalier]]

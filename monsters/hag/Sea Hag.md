@@ -1,80 +1,83 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/hag/Hag|Hag]]"
 size: "Medium"
 creature-type: "Monstrous Humanoid"
-subtypes:
-  - "Aquatic"
-hit-dice: "3d8+6 (19 hp)"
-initiative: "+1"
+subtypes: ["Aquatic"]
+hit-dice: "4d10+16 (38 hp)"
+initiative: "+3"
 speed: "30 ft. (6 squares), swim 40 ft."
-armor-class: "14 (+1 Dex, +3 natural), touch 11, flat-footed 13"
-base-attack: "+3"
-cmb: "+7"
-cmd: "18"
-attack: "Claw +7 melee (1d4+4)"
-full-attack: "2 claws +7 melee (1d4+4)"
+armor-class: "16 (+3 Dex, +3 natural), touch 13, flat-footed 13"
+base-attack: "+4"
+cmb: "+8"
+cmd: "21"
+attack: "Claw +8 melee (1d6+4)"
+full-attack: "2 claws +8 melee (1d6+4)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Horrific appearance, evil eye"
-special-qualities: "Amphibious, spell resistance 14"
-saves: "Fort +2, Ref +4, Will +4"
-abilities: "Str 19, Dex 12, Con 12, Int 10, Wis 13, Cha 14"
-skills: "Athletics +4 (+12 swimming), Craft or Knowledge skill (any one) +6, Perception +10, Stealth +1"
-skill-ranks: "Athletics 0, Craft or Knowledge skill (any one) 3, Perception 3, Stealth 0"
-feats: "Skill Focus (Perception), Toughness"
-environment: "Temperate aquatic"
-organization: "Solitary or covey (3 hags of any kind plus 1–8 ogres and 1–4 evil giants)"
+special-attacks: "Horrific appearance (60 ft.), evil eye"
+special-qualities: "Darkvision 60 ft., amphibious, spell resistance 15"
+saves: "Fort +5, Ref +7, Will +5"
+abilities: "Str 19, Dex 16, Con 18, Int 12, Wis 13, Cha 15"
+skills: "Athletics +19, Deception +9, Knowledge (any one) +5, Perception +11, Stealth +10"
+skill-ranks: "Athletics 12, Deception 4, Knowledge (any one) 1, Perception 7, Stealth 4"
+feats: "Skill Focus (Deception, Perception)"
+environment: "Any aquatic"
+organization: "Solitary, coven (3 hags of any kind), or covey (3 hags of any kind plus 1–8 ogres and 1–4 evil giants)"
 challenge-rating: 4
 treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "By character class"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/hag/Hag|Hag]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Sea Hag|Sea Hag (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hag/Sea Hag|Sea Hag (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Sea Hag
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|Aquatic]])
-  - **Hit Dice**: 3d8+6 (19 hp)
-  - **Initiative**: +1
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]] (Aquatic)
+  - **Hit Dice**: 4d10+16 (38 hp)
+  - **Initiative**: +3
   - **Speed**: 30 ft. (6 squares), swim 40 ft.
-  - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +7; **CMD**: 18
-  - **Attack**: Claw +7 melee (1d4+4)
-  - **Full Attack**: 2 claws +7 melee (1d4+4)
+  - **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
+  - **Base Attack**: +4; **CMB**: +8; **CMD**: 21
+  - **Attack**: Claw +8 melee (1d6+4)
+  - **Full Attack**: 2 claws +8 melee (1d6+4)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Horrific appearance, evil eye
-  - **Special Qualities**: Amphibious, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 14
-  - **Saves**: Fort +2, Ref +4, Will +4
-  - **Abilities**: Str 19, Dex 12, Con 12, Int 10, Wis 13, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +4 (+12 swimming), [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +6, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +1
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
-  - **Environment**: Temperate aquatic
-  - **Organization**: Solitary or covey (3 hags of any kind plus 1–8 ogres and 1–4 evil giants)
+  - **Special Attacks**: Horrific appearance (60 ft.), evil eye
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amphibious|amphibious]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
+  - **Saves**: Fort +5, Ref +7, Will +5
+  - **Abilities**: Str 19, Dex 16, Con 18, Int 12, Wis 13, Cha 15
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Knowledge|Knowledge]] (any one) +5, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +10
+  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Perception)
+  - **Environment**: Any aquatic
+  - **Organization**: Solitary, coven (3 hags of any kind), or covey (3 hags of any kind plus 1–8 ogres and 1–4 evil giants)
   - **Challenge Rating**: 4
   - **Treasure**: Standard
   - **Alignment**: Usually chaotic evil
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-The sea hag is found in the water of seas or overgrown lakes.
+Monstrous sea witches, these wicked hags possess terrifying features that few dare look upon. Reveling in discord, the foul creatures drag sailors to watery graves and torment the peoples of the oceans with wicked promises. Sea hags are always terrible to look upon, and despite their gluttonous ways, they are usually emaciated creatures who look half-starved. Most stand about 6 feet tall and weigh 150 pounds.
 
-A sea hag is about the same height and weight as a female human.
+Sea hags prefer to dwell relatively close to shore where fishermen and trading vessels are more commonly encountered. Most choose to live far from urban areas so that their acts don't draw as much attention from would-be enemies, but it's not uncommon for a particularly brave or eager sea hag to settle in a city harbor or in the mouth of a deep river.
 
-## Combat
+Sea hags form covens similar to other hags, but their aquatic nature generally keeps them from forming mixed covens. In the case of a shoreline-dwelling green hag (often a green hag who dwells in a saltmarsh or other coastal swampland), a coven often consists of two sea hags who look to the green hag as their mother and leader. More commonly, a sea hag coven consists of a group of particularly friendly and sisterly sea hags.
+
+Sea hags speak Common and Giant.
+
+### Combat
 
 Sea hags are not subtle and prefer a direct approach to combat. They usually remain in hiding until they can affect as many foes as possible with their horrific appearance.
 
-**Horrific Appearance (Su)**: The sight of a sea hag is so revolting that anyone (other than another hag) who sets eyes upon one must succeed on a DC 13 Fortitude save or instantly be weakened, taking 2d6 points of Strength [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. This damage cannot reduce a victim’s Strength score below 0, but anyone reduced to Strength 0 is [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]]. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag’s horrific appearance for 24 hours. The save DC is Charisma-based.
+**Evil Eye (Su)**: Three times per day, a sea hag can cast her dire gaze upon any single creature within 30 feet. The target must succeed on a DC 14 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] as strange nebulous distress and a gnawing sense of impending doom plagues the victim. If a sea hag uses her evil eye on someone already afflicted by this curse, the victim must make a DC 14 Fortitude save or be overwhelmed with fright and collapse into a comatose state for 3 days. Each day that passes, the comatose victim must make a DC 14 Fortitude save or perish. The evil eye is a mind-affecting fear effect. The save DCs are Charisma-based.
 
-**Evil Eye (Su)**: Three times per day, a sea hag can cast its dire [[rangoric-srd/monsters/abilities/Gaze|gaze]] upon any single creature within 30 feet. The target must succeed on a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazed|dazed]] for three days, although [[rangoric-srd/spells/Remove Curse|remove curse]] or [[rangoric-srd/spells/Dispel Evil|dispel evil]] can restore sanity sooner. In addition, an affected creature must succeed on a DC 13 Fortitude save or die from fright. Creatures with immunity to fear effects are not affected by the sea hag’s evil eye. The save DCs are Charisma-based.
+*Evil Eye*: gaze; *save* Will DC 14; *frequency* 1/day; *effect* staggered (or fall comatose if already under the effects of the evil eye).
 
-**Amphibious (Ex)**: Although sea hags are aquatic, they can survive indefinitely on land.
-
-**Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a sea hag is better at swimming.
+**Horrific Appearance (Su)**: The sight of a sea hag is so revolting that anyone within 60 feet (other than another hag) who sets eyes upon one must succeed on a DC 14 Fortitude save or instantly be weakened, taking 1d6 points of Strength damage. Creatures that are affected by this power or that successfully save against it cannot be affected again by the same hag's horrific appearance for 24 hours. This is a mind-affecting effect. The save DC is Charisma-based.
