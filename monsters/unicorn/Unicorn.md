@@ -3,57 +3,59 @@ srd-type: "monster"
 section: "Monsters"
 size: "Large"
 creature-type: "Magical Beast"
-hit-dice: "4d10 + 20 (42 hp)"
+hit-dice: "4d10+12 (34 hp)"
 initiative: "+3"
 speed: "60 ft. (12 squares)"
-armor-class: "18 (-1 size, +3 Dex, +6 natural), touch 12, flat-footed 15"
+armor-class: "15 (+3 Dex, +3 natural, –1 size; +2 deflection vs. evil), touch 12, flat-footed 12"
 base-attack: "+4"
-cmb: "+10"
-cmd: "23 (27 vs. trip)"
-attack: "Horn +11 melee (1d8+8)"
-full-attack: "Horn +11 melee (1d8+8) and 2 hooves +3 melee (1d4+2)"
+cmb: "+9"
+cmd: "22 (26 vs. trip)"
+attack: "Gore +8 melee (1d8+4) or hoof +10 melee (1d3+2)"
+full-attack: "Gore +8 melee (1d8+4) and 2 hooves +5 melee (1d3+2)"
 space-reach: "10 ft./5 ft."
-special-attacks: "—"
-special-qualities: "Darkvision 60 ft., magic circle against evil, spell-like abilities, immunity to poison, charm, and compulsion, low-light vision, scent, wild empathy"
-saves: "Fort +9, Ref +7, Will +6"
-abilities: "Str 20, Dex 17, Con 21, Int 10, Wis 21, Cha 24"
-skills: "Athletics +12 (+24 jumping), Fieldcraft +8*, Perception +15, Stealth +3"
-skill-ranks: "Athletics 4, Fieldcraft 0, Perception 4, Stealth 0"
-feats: "Skill Focus (Perception), Skill Focus (Fieldcraft)"
+special-attacks: "Powerful charge (gore, 2d8+8), spell-like abilities"
+special-qualities: "Darkvision 60 ft., low-light vision, scent, magic circle against evil, magical strike, wild empathy +17, immunity to charm, compulsion and poison"
+saves: "Fort +7, Ref +7, Will +6"
+abilities: "Str 18, Dex 17, Con 16, Int 11, Wis 21, Cha 24"
+skills: "Acrobatics +8, Fieldcraft +7 (+10 in forests), Perception +10, Stealth +8"
+skill-ranks: "Acrobatics 2, Fieldcraft 2, Perception 2, Stealth 2"
+feats: "Multiattack, Weapon Focus (horn)"
 environment: "Temperate forests"
-organization: "Solitary, pair, or grace (3-6)"
+organization: "Solitary, mated pair, or blessing (3–6)"
 challenge-rating: 3
 treasure: "None"
 alignment: "Always chaotic good"
 advancement: "5-8 HD (Large)"
 level-adjustment: "+4 (cohort)"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Unicorn|Unicorn (PF1)]]"
   - "[[fantasy srd 3.5/monsters/unicorn/Unicorn|Unicorn (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Unicorn
 
   - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10 + 20 (42 hp)
+  - **Hit Dice**: 4d10+12 (34 hp)
   - **Initiative**: +3
   - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 18 (-1 size, +3 Dex, +6 natural), touch 12, flat-footed 15
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 23 (27 vs. trip)
-  - **Attack**: Horn +11 melee (1d8+8)
-  - **Full Attack**: Horn +11 melee (1d8+8) and 2 hooves +3 melee (1d4+2)
+  - **Armor Class**: 15 (+3 Dex, +3 natural, –1 size; +2 deflection vs. evil), touch 12, flat-footed 12
+  - **Base Attack**: +4; **CMB**: +9; **CMD**: 22 (26 vs. trip)
+  - **Attack**: Gore +8 melee (1d8+4) or hoof +10 melee (1d3+2)
+  - **Full Attack**: Gore +8 melee (1d8+4) and 2 hooves +5 melee (1d3+2)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], spell-like abilities, immunity to poison, charm, and compulsion, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]], wild empathy
-  - **Saves**: Fort +9, Ref +7, Will +6
-  - **Abilities**: Str 20, Dex 17, Con 21, Int 10, Wis 21, Cha 24
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8\*, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +3
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 2d8+8), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], magical strike, wild empathy +17, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to charm, compulsion and poison
+  - **Saves**: Fort +7, Ref +7, Will +6
+  - **Abilities**: Str 18, Dex 17, Con 16, Int 11, Wis 21, Cha 24
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7 (+10 in forests), [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +8
+  - **Feats**: [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (horn)
   - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or grace (3-6)
+  - **Organization**: Solitary, mated pair, or blessing (3–6)
   - **Challenge Rating**: 3
   - **Treasure**: None
   - **Alignment**: Always chaotic good
@@ -64,9 +66,15 @@ tags: [rangoric, rangoric/monster]
 
   - [[rangoric-srd/monsters/unicorn/Celestial Charger, 7th-Level Cleric|Celestial Charger, 7th-Level Cleric]]
 
+Unicorns are fierce, intelligent creatures of the forest, noble beasts who keep their own counsel and typically appear only to defend their homes against evil. They universally shun all creatures except for good-aligned fey, good-aligned humanoid women, and the woodlands' native animals, though they may fight alongside other good creatures against common enemies. A typical unicorn is 8 feet long and 5 feet tall at the shoulder, weighing 1,200 pounds.
+
+Unicorns mate for life, and the pairs generally make their homes in specific glades or dells within the vast forests they protect (these regions can cover anywhere from a few dozen square miles to hundreds). They allow good and neutral creatures to pass through, hunt for food, or reside in their woods unharmed, but evil creatures and those who damage the local ecosystem more than necessary through sport hunting or commercial logging are swiftly driven out or killed. On rare occasions, lone unicorns without mates or whose partners have been slain have been known to adopt young women of exceptionally pure virtue as surrogates, allowing the women to ride on their backs and becoming their guardians and protectors for life. This bond generally ends amiably if the woman becomes more committed to someone else—such as a lover or child—giving rise to the myth that unicorns only befriend virgins.
+
+A unicorn's horn is the focus for its powers, and in order to use its spell-like abilities on other creatures the unicorn must touch them with it. Evil creatures greatly value unicorn horns as reagents for healing potions and other dark rites, and a single powdered unicorn horn counts as 1,600 gp when used as a component for crafting healing magic.
+
 A unicorn has deep sea-blue, violet, brown, or fiery gold eyes. Males sport a white beard.
 
-A typical adult unicorn grows to 8 feet in length, stands 5 feet high at the shoulder, and weighs 1,200 pounds. Females are slightly smaller and slimmer than males.
+Females are slightly smaller and slimmer than males.
 
 Unicorns speak Sylvan and Common.
 
@@ -74,15 +82,13 @@ Unicorns speak Sylvan and Common.
 
 Unicorns normally attack only when defending themselves or their forests. They either [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]], impaling foes with their horns like lances, or strike with their hooves. The horn is a +3 magic weapon, though its power fades if removed from the unicorn.
 
-**Magic Circle against Evil (Su)**: This ability continuously duplicates the effect of [[rangoric-srd/spells/Magic Circle against Evil|the spell]]. A unicorn cannot suppress this ability.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 9th): At will—*[[rangoric-srd/spells/Detect Evil|detect evil]]* (as free action), *[[rangoric-srd/spells/Light|light]]*; 3/day—*[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*; 1/day—*[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (within its forest territory), *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]* (DC 21).
 
-**Spell-Like Abilities**: Unicorns can use [[rangoric-srd/spells/Detect Evil|detect evil]] at will as a free action. Once per day a unicorn can use [[rangoric-srd/spells/Teleport, Greater|greater teleport]] to move anywhere within its home. It cannot teleport beyond the forest boundaries nor back from outside.
+**Magic Circle against Evil (Su)**: This ability continually duplicates the effect of the spell. The unicorn cannot suppress this ability.
 
-A unicorn can use [[rangoric-srd/spells/Cure Light Wounds|cure light wounds]] three times per day and [[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]] once per day (caster level 5th) by touching a wounded creature with its horn. Once per day it can use [[rangoric-srd/spells/Spells M to O|neutralize poison]] (DC 21, caster level 8th) with a touch of its horn. The save DC is Charisma-based.
+**Magical Strike (Ex)**: A unicorn's gore attack is treated as a magic good weapon for the purposes of damage reduction.
 
-**Wild Empathy (Ex)**: This power works like the [[rangoric-srd/classes/Druid|druid]]’s wild empathy class feature, except that a unicorn has a +6 racial bonus on the check.
-
-**Skills**: Unicorns have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks. \*Unicorns have a +3 competence bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks within the boundaries of their forest.
+**Wild Empathy (Su)**: This works like the druid's wild empathy class feature, except the unicorn has a +6 racial bonus on the check. Unicorns with druid levels add this racial modifier to their wild empathy checks.
 
 ### Celestial Charger
 
