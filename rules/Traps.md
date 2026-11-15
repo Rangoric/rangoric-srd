@@ -5,6 +5,7 @@ based-on:
   - "[[fantasy srd 3.5/rules/Traps|Traps (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/environment/Traps#Trigger|Traps (PF1)]]"
   - "[[path srd 3.5/traps/Insanity Mist Trap|Insanity Mist Trap (PF1)]]"
+  - "[[path srd 3.5/afflictions/Bestow Curse Trap|Bestow Curse Trap (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -292,6 +293,12 @@ The costs listed for mechanical traps are market prices; those for magic traps a
 ###### CR 4 Traps
 
 **Bestow Curse Trap**: CR 4; magic device; touch trigger (detect chaos); automatic reset; spell effect (bestow curse, 5th-level cleric, DC 14 Will save negates); Investigation DC 28; Engineering DC 28. Cost: 8,000 gp, 640 XP.
+
+Its curse, as an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: curse (spell, trap)
+- **Save**: Will DC 14 negates
+- **Effect**: –6 penalty to Strength
 
 **Camouflaged Pit Trap**: CR 4; mechanical; location trigger; manual reset; DC 20 Reflex save avoids; 40 ft. deep (4d6, fall); multiple targets (first target in each of two adjacent 5-ft. squares); Investigation DC 25; Engineering DC 17. Market Price: 6,800 gp.
 
