@@ -2,78 +2,78 @@
 srd-type: "monster"
 section: "Monsters"
 size: "Large"
-creature-type: "Magical Beast"
-hit-dice: "10d10+30 (85 hp)"
+creature-type: "Aberration"
+hit-dice: "12d8+108 (162 hp)"
 initiative: "+5"
 speed: "10 ft. (2 squares)"
-armor-class: "24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23"
-base-attack: "+10"
-cmb: "+15"
-cmd: "26 (can't be tripped)"
-attack: "Strand +11 ranged touch (drag) or bite +13 melee (2d6+6)"
-full-attack: "6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6)"
-space-reach: "10 ft./10 ft. (50 ft. with strand)"
-special-attacks: "Drag, strands, weakness"
-special-qualities: "Darkvision 60 ft., immunity to electricity, low-light vision, resistance to cold 10, spell resistance 30, vulnerability to fire"
-saves: "Fort +10, Ref +8, Will +8"
-abilities: "Str 19, Dex 13, Con 17, Int 12, Wis 16, Cha 12"
-skills: "Athletics +17, Perception +22, Stealth +10*"
-skill-ranks: "Athletics 10, Perception 10, Stealth 10"
-feats: "Improved Initiative, Iron Will, Skill Focus (Perception), Weapon Focus (strand)"
-environment: "Underground"
+armor-class: "27 (+1 Dex, +17 natural, –1 size), touch 10, flat-footed 26"
+base-attack: "+9"
+cmb: "+22"
+cmd: "33 (can't be tripped)"
+attack: "Strand +10 ranged touch (1d6 Strength) or bite +20 melee (4d8+18/19–20)"
+full-attack: "6 strands +10 ranged touch (1d6 Strength); or bite +20 melee (4d8+18/19–20)"
+space-reach: "10 ft./10 ft."
+special-attacks: "Pull (strand, 5 feet), strands"
+special-qualities: "Darkvision 60 ft., low-light vision, immunity to electricity, resistance to cold 10, spell resistance 27, vulnerability to fire"
+saves: "Fort +13, Ref +5, Will +13"
+abilities: "Str 34, Dex 13, Con 29, Int 13, Wis 16, Cha 12"
+skills: "Athletics +27, Dungeoneering +16, Perception +24, Stealth +18 (+26 in stony or icy areas), Theology +13"
+skill-ranks: "Athletics 12, Dungeoneering 12, Perception 18, Stealth 18, Theology 9"
+feats: "Improved Critical (bite), Improved Initiative, Iron Will, Skill Focus (Perception, Stealth), Weapon Focus (strand)"
+environment: "Any underground"
 organization: "Solitary, pair, or cluster (3–6)"
 challenge-rating: 12
-treasure: "No coins; 50% goods (stone only); no items"
+treasure: "Standard"
 alignment: "Usually chaotic evil"
 advancement: "11–15 HD (Large); 16–30 HD (Huge)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Roper|Roper (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Roper|Roper (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Roper
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 10d10+30 (85 hp)
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
+  - **Hit Dice**: 12d8+108 (162 hp)
   - **Initiative**: +5
   - **Speed**: 10 ft. (2 squares)
-  - **Armor Class**: 24 (–1 size, +1 Dex, +14 natural), touch 10, flat-footed 23
-  - **Base Attack**: +10; **CMB**: +15; **CMD**: 26 (can't be tripped)
-  - **Attack**: Strand +11 ranged touch (drag) or bite +13 melee (2d6+6)
-  - **Full Attack**: 6 strands +11 ranged touch (drag) and bite +13 melee (2d6+6)
-  - **Space/Reach**: 10 ft./10 ft. (50 ft. with strand)
-  - **Special Attacks**: Drag, strands, weakness
-  - **Special Qualities**: Darkvision 60 ft., immunity to electricity, low-light vision, [[rangoric-srd/monsters/abilities/Resistance|resistance to cold]] 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-  - **Saves**: Fort +10, Ref +8, Will +8
-  - **Abilities**: Str 19, Dex 13, Con 17, Int 12, Wis 16, Cha 12
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +17, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +10\*
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (strand)
-  - **Environment**: Underground
+  - **Armor Class**: 27 (+1 Dex, +17 natural, –1 size), touch 10, flat-footed 26
+  - **Base Attack**: +9; **CMB**: +22; **CMD**: 33 (can't be tripped)
+  - **Attack**: Strand +10 ranged touch (1d6 Strength) or bite +20 melee (4d8+18/19–20)
+  - **Full Attack**: 6 strands +10 ranged touch (1d6 Strength); or bite +20 melee (4d8+18/19–20)
+  - **Space/Reach**: 10 ft./10 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pull|Pull]] (strand, 5 feet), strands
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27, vulnerability to fire
+  - **Saves**: Fort +13, Ref +5, Will +13
+  - **Abilities**: Str 34, Dex 13, Con 29, Int 13, Wis 16, Cha 12
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +27, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +16, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Stealth|Stealth]] +18 (+26 in stony or icy areas), [[rangoric-srd/skills/Theology|Theology]] +13
+  - **Feats**: [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (strand)
+  - **Environment**: Any underground
   - **Organization**: Solitary, pair, or cluster (3–6)
   - **Challenge Rating**: 12
-  - **Treasure**: No coins; 50% goods (stone only); no items
+  - **Treasure**: Standard
   - **Alignment**: Usually chaotic evil
   - **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
   - **Level Adjustment**: —
 
-A roper stands some 9 feet tall and tapers from 3 or 4 feet in diameter at the base to 1 foot across at the top. It weighs 2,200 pounds. A roper’s coloration and temperature change to match the features of the surrounding cave.
+The roper is an ambush hunter. Capable of altering the coloration and shape of its body, a roper in hiding looks remarkably like a stalagmite of stone or ice (or in low-ceilinged chambers, a stony or icy pillar). In areas without such features to hide among, a roper can compress its body into a much more squat, boulder-like shape. The strands it extrudes are not flesh but a thick, semiliquid material similar to partially melted wax but with the strength of an iron chain and the ability to numb flesh and sap strength. The roper can manipulate these strands with great finesse, and can fling them as far as 50 feet to snatch objects that attract its attention.
 
-Ropers speak Terran and Undercommon.
+Although alien and monstrous in shape, the roper is in fact one of the most intelligent denizens of the deep caverns of the world. They do not form large societies (although ropers can be found living among some deep-dwelling denizens like the intellect devourers or neothelids, with whom they have been known to sometimes ally), but often congregate in small clusters. Particularly interested in the philosophy of life and death and the finer points of the more cruel and sinister religions of the world, a roper can talk or argue for hours with those it initially sought merely to eat. Stories speak of particularly skilled debaters and philosophers who have been kept for days or even years as pets or conversational companions by roper clusters, but in the end, if such pets don't eventually escape, a roper's appetite always wins out over its intellectual curiosity—especially in cases where pets are constantly outmaneuvering their keeper's wits and patience.
+
+A roper is 9 feet tall and weighs 2,200 pounds.
+
+A roper tapers from 3 or 4 feet in diameter at the base to 1 foot across at the top. A roper’s coloration and temperature change to match the features of the surrounding cave.
+
+Ropers speak Aklo, Terran, and Undercommon.
 
 ### Combat
 
 A roper hunts by standing very still and imitating a bit of rock. This tactic often allows it to attack with surprise. When prey comes within reach, it lashes out with its strands. In melee, it bites adjacent opponents with its powerful maw.
 
-**Drag (Ex)**: If a roper hits with a strand attack, the strand latches onto the opponent’s body. This deals no damage but drags the stuck opponent 10 feet closer each subsequent round (provoking no attack of opportunity) unless that creature breaks free, which requires a DC 23 Escape Artist check or a DC 19 Strength check. The check DCs are Strength-based, and the [[rangoric-srd/skills/Escape Artist|Escape Artist]] DC includes a +4 racial bonus. A roper can draw in a creature within 10 feet of itself and bite with a +4 attack bonus in the same round.
-
-A strand has 10 hit points and can be attacked by making a successful [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempt. However, attacking a roper’s strand does not provoke an attack of opportunity. If the strand is currently attached to a target, the roper takes a –4 penalty on its opposed attack roll to resist the sunder attempt. Severing a strand deals no damage to a roper.
-
-**Strands (Ex)**: Most encounters with a roper begin when it fires strong, sticky strands. The creature can have up to six strands at once, and they can strike up to 50 feet away (no range increment). If a strand is severed, the roper can extrude a new one on its next turn as a free action.
-
-**Weakness (Ex)**: A roper’s strands can sap an opponent’s strength. Anyone grabbed by a strand must succeed on a DC 18 Fortitude save or take 2d8 points of Strength [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. The save DC is Constitution-based.
-
-**Skills**: \*Ropers have a +8 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in stony or icy areas.
+**Strands (Ex)**: A roper can extend up to six thin, sticky strands from its body at a time, launching them to a maximum range of 50 feet. A roper's attacks with its strands resolve as ranged touch attacks. These strands are quite strong, but can be severed by any amount of slashing damage (a strand is AC 20). A creature struck by a strand is numbed and weakened by the strange material, and must make a DC 25 Fortitude save or take 1d6 points of Strength damage. The save DC is Constitution-based.

@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Epic"
 based-on:
   - "[[fantasy srd 3.5/epic/Epic Monsters Abominations|Epic Monsters Abominations (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -50,9 +50,9 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Living Vault|Living Vault]]  
 [[rangoric-srd/monsters/Mercane|Mercane]]  
 [[rangoric-srd/monsters/Mu Spore|Mu Spore]]  
-[[rangoric-srd/monsters/Neh-Thalggu (Brain Collector)|Neh-Thalggu]]  
+[[rangoric-srd/monsters/Neh-Thalggu (Epic)|Neh-Thalggu]]  
 
-[[rangoric-srd/monsters/Neh-Thalggu (Brain Collector)|(Brain Collector)]]
+[[rangoric-srd/monsters/Neh-Thalggu (Epic)|(Brain Collector)]]
 
 [[rangoric-srd/monsters/Paragon Creature|Paragon Creature]]
 

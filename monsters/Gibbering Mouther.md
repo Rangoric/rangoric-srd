@@ -3,88 +3,87 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Aberration"
-hit-dice: "4d8+24 (42 hp)"
-initiative: "+1"
+hit-dice: "4d8+28 (46 hp)"
+initiative: "+3"
 speed: "10 ft. (2 squares), swim 20 ft."
-armor-class: "19 (+1 Dex, +8 natural), touch 11, flat-footed 18"
+armor-class: "19 (+3 Dex, +6 natural), touch 13, flat-footed 16"
 base-attack: "+3"
 cmb: "+3 (+7 grapple)"
-cmd: "14 (can't be tripped)"
-attack: "Bite +4 melee (1) or spittle +4 ranged touch (1d4 acid plus blindness)"
-full-attack: "6 bites +4 melee (1) and spittle +4 ranged touch (1d4 acid plus blindness)"
+cmd: "16 (can't be tripped)"
+attack: "Bite +7 melee (1d4 plus grab)"
+full-attack: "6 bites +7 melee (1d4 plus grab)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Gibbering, spittle, improved grab, blood drain, engulf, ground manipulation"
-special-qualities: "Amorphous, damage reduction 5/bludgeoning, darkvision 60 ft."
-saves: "Fort +7, Ref +4, Will +5"
-abilities: "Str 10, Dex 13, Con 22, Int 4, Wis 13, Cha 13"
-skills: "Athletics +0 (+8 swimming), Perception +12"
-skill-ranks: "Athletics 0, Perception 4"
-feats: "Lightning Reflexes, Weapon Finesse"
-environment: "Underground"
+special-attacks: "Blood drain, engulf (6d4 damage plus 2 Con damage, AC 13, hp 4), gibbering, ground manipulation, spittle (+6 ranged touch)"
+special-qualities: "All-around vision, darkvision 60 ft., amorphous, damage reduction 5/bludgeoning, immunity to critical hits and precision damage"
+saves: "Fort +8, Ref +4, Will +5"
+abilities: "Str 10, Dex 17, Con 24, Int 4, Wis 13, Cha 12"
+skills: "Athletics +8, Investigation +1, Perception +12"
+skill-ranks: "Athletics 5, Perception 4"
+feats: "Weapon Finesse, Weapon Focus (bite)"
+environment: "Any underground"
 organization: "Solitary"
 challenge-rating: 5
-treasure: "None"
+treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "5–12 HD (Large)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Gibbering Mouther|Gibbering Mouther (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Gibbering Mouther|Gibbering Mouther (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Gibbering Mouther
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]]
-  - **Hit Dice**: 4d8+24 (42 hp)
-  - **Initiative**: +1
+  - **Hit Dice**: 4d8+28 (46 hp)
+  - **Initiative**: +3
   - **Speed**: 10 ft. (2 squares), swim 20 ft.
-  - **Armor Class**: 19 (+1 Dex, +8 natural), touch 11, flat-footed 18
-  - **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 14 (can't be tripped)
-  - **Attack**: Bite +4 melee (1) or spittle +4 ranged touch (1d4 acid plus blindness)
-  - **Full Attack**: 6 bites +4 melee (1) and spittle +4 ranged touch (1d4 acid plus blindness)
+  - **Armor Class**: 19 (+3 Dex, +6 natural), touch 13, flat-footed 16
+  - **Base Attack**: +3; **CMB**: +3 (+7 grapple); **CMD**: 16 (can't be tripped)
+  - **Attack**: Bite +7 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: 6 bites +7 melee (1d4 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Gibbering, spittle, [[rangoric-srd/monsters/abilities/Grab|improved grab]], blood drain, engulf, ground manipulation
-  - **Special Qualities**: Amorphous, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, darkvision 60 ft.
-  - **Saves**: Fort +7, Ref +4, Will +5
-  - **Abilities**: Str 10, Dex 13, Con 22, Int 4, Wis 13, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +0 (+8 swimming), [[rangoric-srd/skills/Perception|Perception]] +12
-  - **Feats**: [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Underground
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Blood Drain|Blood drain]], [[rangoric-srd/monsters/abilities/Engulf|engulf]] (6d4 damage plus 2 Con damage, AC 13, hp 4), gibbering, ground manipulation, spittle (+6 ranged touch)
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/All-Around Vision|All-around vision]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/bludgeoning, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to critical hits and precision damage
+  - **Saves**: Fort +8, Ref +4, Will +5
+  - **Abilities**: Str 10, Dex 17, Con 24, Int 4, Wis 13, Cha 12
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +1, [[rangoric-srd/skills/Perception|Perception]] +12
+  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+  - **Environment**: Any underground
   - **Organization**: Solitary
   - **Challenge Rating**: 5
-  - **Treasure**: None
+  - **Treasure**: Standard
   - **Alignment**: Usually neutral
   - **Advancement**: 5–12 HD (Large)
   - **Level Adjustment**: —
+
+Disgusting, loathsome, and hungry—these are the only words that properly describe the gibbering mouther. A foul beast that lurks in underground caves, sewers, and nightmares, mouthers have no societal, ecological or religious significance other than their ability to drive those that listen to them mad. Some scholars believe that gibbering mouthers are a lesser variant of the much more dangerous shoggoth, while others theorize they are a punishment by some powerful being or deity inflicted on those who have offended it.
 
 A gibbering mouther is a horrible creature seemingly drawn from a lunatic’s nightmares. Although not evil, it thirsts after bodily fluids and seems to prefer the blood of intelligent creatures.
 
 A gibbering mouther is about 3 feet across and 3 to 4 feet high. It weighs about 200 pounds.
 
-Gibbering mouthers can speak Common, but seldom say anything other than gibberish.
+Gibbering mouthers can speak Aklo and Common, but seldom say anything other than gibberish.
 
 ### Combat
 
 A gibbering mouther attacks by shooting out strings of protoplasmic flesh, each ending in one or more eyes and a mouth that bites at the enemy. A mouther can send out a total of six such members in any round.
 
-**Gibbering (Su)**: As soon as a mouther spots something edible, it begins a constant gibbering as a free action. All creatures (other than mouthers) within a 60-foot spread must succeed on a DC 13 Will save or be affected as though by a [[rangoric-srd/spells/Confusion|confusion]] spell for 1d2 rounds. This is a sonic mind-affecting compulsion effect. A creature that successfully saves cannot be affected by the same gibbering mouther’s gibbering for 24 hours. The save DC is Charisma-based.
+**All-Around Vision (Ex)**: A gibbering mouther sees in all directions at once. It can't be [[rangoric-srd/combat/Combat Modifiers#Flanking|flanked]].
 
-**Spittle (Ex)**: As a free action every round, a gibbering mouther fires a stream of spittle at one opponent within 30 feet. The mouther makes a ranged touch attack; if it hits, it deals 1d4 points of acid damage, and the target must succeed on a DC 18 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d4 rounds. Eyeless creatures are immune to the blinding effect, but are still subject to the acid damage. The save DC is Constitution-based.
+**Amorphous (Ex)**: A gibbering mouther's body is malleable and shapeless. It is immune to precision damage (like sneak attacks) and critical hits, and can move through an area as small as one-quarter its space without squeezing or one-eighth its space when squeezing.
 
-Improved Grab (Ex): To use this ability, a gibbering mouther must hit a Medium or smaller foe with a bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
+**Blood Drain (Ex)**: On a successful grapple check after grabbing, several of the creature's mouths attach to its target. Each round it maintains its grapple, its mouths automatically deal 1d4 points of bite damage and 1 point of Constitution damage as it drains its victim's blood.
 
-Swallow Whole (Ex): The gibbering mouther can attempt to swallow a grappled opponent of Medium or smaller size by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. (The gibbering mouther doesn’t actually “swallow” the opponent—it engulfs it within its amorphous form—but the effect is essentially the same.) Once inside, the gibbering mouther can use its blood drain ability. A swallowed creature can cut its way out by dealing 5 points of damage to the gibbering mouther (same AC).  
-The gibbering mouther’s body can hold 1 Medium, 2 Small, 8 Tiny, 32 Diminutive, or 128 Fine creatures.
+**Engulf (Ex)**: This ability functions as swallow whole, except for the following changes. An engulfed creature is trapped in the gibbering mouther's body, where several of its mouths continue to feed and drain blood. A gibbering mouther can engulf only one foe of its size or smaller at a time. If an engulfed creature cuts its way free (the mouther's damage reduction still applies to those inside), the mouther simply flows together again and can still use its engulf attack.
 
-Blood Drain (Ex): A swallowed opponent automatically takes 1d4 points of Constitution damage each round.
+**Gibbering (Su)**: As a free action, a gibbering mouther can emit a cacophony of maddening sound. All creatures other than gibbering mouthers within 60 feet must succeed on a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]] for 1 round. This is a mind-affecting compulsion insanity effect. A creature that saves cannot be affected by the same mouther's gibbering for 24 hours. The save DC is Constitution-based.
 
-**Ground Manipulation (Su)**: At will, as a standard action, a gibbering mouther can cause stone and earth in all adjacent squares to become a morass akin to quicksand. Softening earth, sand, or the like takes 1 round, while stone takes 2 rounds. Anyone other than the mouther in that area must take a move-equivalent action to avoid becoming mired (treat as being [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]]).
+**Ground Manipulation (Su)**: At will as a standard action, a gibbering mouther can cause stone and earth under its body to grow soft and muddy. The ground remains muddy for 1 minute after the mouther moves off of the location. A gibbering mouther can move through these areas with ease, but other creatures treat them as difficult terrain.
 
-**Amorphous (Ex)**: A gibbering mouther is not subject to critical hits. It cannot be flanked.
-
-**Skills**: Thanks to their multiple eyes, gibbering mouthers have a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a gibbering mouther is better at swimming.
+**Spittle (Ex)**: Each round as a free action, a gibbering mouther can emit a stream of acidic spittle at one target within 30 feet. On a successful attack, the target is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 1d4 rounds unless he succeeds on a DC 18 Fortitude save. The save DC is Constitution-based.

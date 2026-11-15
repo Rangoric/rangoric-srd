@@ -38,7 +38,7 @@ pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
 
-# Neh-Thalggu (Brain Collector)
+# Neh-Thalggu (Epic)
 
 Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aberration|Aberration]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]])    
 
