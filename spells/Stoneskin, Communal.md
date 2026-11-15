@@ -42,4 +42,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, except you divide the duration in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell's effects end for that subject.
+This spell functions like *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10 minute intervals among the creatures touched. Once the spell has prevented 10 points of damage per caster level (maximum 150 points) for a subject, the spell's effects end for that subject.

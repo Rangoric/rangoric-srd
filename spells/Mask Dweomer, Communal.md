@@ -37,4 +37,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None; see text
   - **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Mask Dweomer|mask dweomer]]* , except you divide the duration in 1-day increments among the creatures or objects touched.
+This spell functions like *[[rangoric-srd/spells/Mask Dweomer|mask dweomer]]* , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-day increments among the creatures or objects touched.

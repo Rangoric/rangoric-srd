@@ -41,4 +41,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Share Language|share language]]* , except you divide the duration in 1-hour increments among the creatures touched.
+This spell functions like *[[rangoric-srd/spells/Share Language|share language]]* , except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures touched.

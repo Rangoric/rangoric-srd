@@ -41,4 +41,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Spider Climb|spider climb]]*, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like *[[rangoric-srd/spells/Spider Climb|spider climb]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.

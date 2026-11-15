@@ -40,4 +40,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes (harmless, object)
 
-This spell functions like *[[rangoric-srd/spells/Reinforce Armaments|reinforce armaments]]*, except you divide the duration in 10-minute intervals among the objects touched.
+This spell functions like *[[rangoric-srd/spells/Reinforce Armaments|reinforce armaments]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the objects touched.

@@ -37,4 +37,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes (harmless, object)
 
-This spell functions like *[[rangoric-srd/spells/Nondetection|nondetection]]*, except you divide the duration in 1-hour increments among the creatures or objects touched.
+This spell functions like *[[rangoric-srd/spells/Nondetection|nondetection]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour increments among the creatures or objects touched.
