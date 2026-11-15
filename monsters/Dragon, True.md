@@ -71,7 +71,7 @@ Breath weapons come in two basic shapes, line and cone, whose areas vary with th
 
 **Spells**: A dragon knows and casts arcane spells as a sorcerer of the level indicated in its variety description, gaining bonus spells for a high Charisma score. Some dragons can also cast spells from the cleric list or cleric domain lists as arcane spells.
 
-**Spell-Like Abilities**: A dragon’s spell-like abilities depend on its age and variety. It gains the abilities indicated for its age plus all previous ones. Its age category or its sorcerer caster level, whichever is higher, is the caster level for these abilities. The save DC is 10 + dragon’s Cha modifier + spell level. All spell-like abilities are usable once per day unless otherwise noted.
+**Spell-Like Abilities**: A dragon’s spell-like abilities depend on its age and variety. It gains the abilities indicated for its age plus all previous ones. Its caster level for these abilities equals its Hit Dice. The save DC is 10 + dragon’s Cha modifier + spell level. All spell-like abilities are usable once per day unless otherwise noted.
 
 **Damage Reduction**: Young adult and older dragons have damage reduction. Their natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
