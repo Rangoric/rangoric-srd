@@ -2,7 +2,7 @@
 srd-type: "race"
 section: "Races"
 race-points: 12
-book: "Unearthed Arcana"
+book: ["Unearthed Arcana", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Dwarves|Dwarves (PF1)]]"
@@ -10,9 +10,10 @@ based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Elemental Racial Variants|Elemental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
   - "[[fantasy srd 3.5/monsters/dwarf/Dwarf#Subraces|Dwarf subraces (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Dwarves (Races)|Dwarves (APG)]]"
 status: draft
 change: modified
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---
 
@@ -90,9 +91,29 @@ While it is said that dwarves are not venturesome or inventive, it would be more
 
 **Adventurers**: Although dwarven adventurers are rare compared to humans, they can be found in most regions of the world. Dwarves often leave the confines of their redoubts to seek glory for their clans, to find wealth with which to enrich the fortress-homes of their birth, or to reclaim fallen dwarven citadels from racial enemies. Dwarven warfare is often characterized by tunnel fighting and melee combat, and as such most dwarves tend toward classes such as [[rangoric-srd/classes/Fighter|fighters]] and [[rangoric-srd/classes/Barbarian|barbarians]].
 
+**Dwarf adventurers by class**: Dwarves who become adventurers tend to be martial characters, from berserk [[rangoric-srd/classes/Barbarian|barbarians]] to hammer-wielding [[rangoric-srd/classes/Cleric|clerics]]. Whatever their profession, dwarven adventurers are always ready for a fight.
+
+- [[rangoric-srd/classes/Alchemist|Alchemist]]: While many respected dwarves practice alchemy, few take on the role of alchemist, except to create magical beers. Dwarves see alchemists as odd folk, best avoided though still respected.
+- [[rangoric-srd/classes/Barbarian|Barbarian]]: Although their kin usually call them berserkers, dwarf barbarians are a valuable part of many dwarven armies. Those who strike out on their own to become adventurers do so in search of greater challenges.
+- [[rangoric-srd/classes/Bard|Bard]]: Dwarves value their long and glorious history above all else. Dwarf bards often receive intense training in their history, reciting tales and ballads that recount their past. Of course, every dwarven bard also knows at least a dozen bawdy drinking songs.
+- [[rangoric-srd/classes/Cavalier|Cavalier]]: Dwarf cavaliers are almost unheard of; the few there are almost all surface dwellers, riding ponies or even giant boars. Not surprisingly, many dwarves see cavaliers as odd folk, not to be trusted.
+- [[rangoric-srd/classes/Cleric|Cleric]]: Dwarves have a close connection with their gods and a long tradition of powerful and influential clerics. Dwarves chosen for a life of devotion are trained from an early age, but once trained they are free to explore the world and spread the faith.
+- [[rangoric-srd/classes/Druid|Druid]]: The lack of plant life below ground leads few dwarves to take up the druid's call. Those who find a bond with nature are either drawn to subterranean forms of life or move to the surface to adopt the environments it offers.
+- [[rangoric-srd/classes/Fighter|Fighter]]: Dwarf fighters hold a position of respect and authority in most dwarven cultures. They are a necessity of life in the harsh environments underground, and many dwarves are trained in martial combat from a young age.
+- [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]]: Dwarves rarely commit treason against their own people, so the few dwarves who take up the mantle of inquisitor spend most of their time traveling the world to protect their people from outside threats.
+- [[rangoric-srd/classes/Monk|Monk]]: While many dwarves have the discipline to become monks, most turn to more traditional forms of combat that use heavy armor and a trusty axe. Most dwarf monks gather in small enclaves of like-minded individuals.
+- [[rangoric-srd/classes/Oracle|Oracle]]: Most dwarf oracles draw their power from the earth around them or the spirits of their ancestors, making them respected members of dwarven society. While not venerated like the clergy, dwarf oracles are often consulted in times of crisis and called on for aid in times of war.
+- [[rangoric-srd/classes/Paladin|Paladin]]: Few dwarves aspire to be paladins. Blending devotion and martial skill, dwarf paladins are as likely to be crusaders for dwarven interests as defenders guarding dwarven strongholds.
+- [[rangoric-srd/classes/Ranger|Ranger]]: Dwarves are renowned for holding grudges, so it's no surprise that a number of dwarves become rangers focused on destroying the enemies of their people.
+- [[rangoric-srd/classes/Rogue|Rogue]]: Dwarves who turn to subterfuge tend to focus on traps and surprising enemies rather than pickpocketing and double-talk.
+- [[rangoric-srd/classes/Sorcerer|Sorcerer]]: Dwarven society prizes the few among them who draw their power from benevolent or noble bloodlines, but shuns those tainted by darker influences.
+- [[rangoric-srd/classes/Summoner|Summoner]]: Most dwarves don't understand the powerful bond between a summoner and their eidolon, making this a rare profession for the stout folk. The eidolons of dwarf summoners often look like earth elementals or iron golems.
+- [[rangoric-srd/classes/Witch|Witch]]: Dwarves who form a pact with a familiar and take on the title of witch do so in secret. Their kin distrust such agreements, preferring to rely on the power of their deities.
+- [[rangoric-srd/classes/Wizard|Wizard]]: Dwarves have never had a long tradition of arcane magic, and its study is rare, though still more common than natural-born sorcery. Giving up traditional dwarven training for arcane study marks most young wizards as outsiders among their peers, though aged and learned wizards are well respected.
+
 ### Alternate Racial Traits
 
-A dwarf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]).
+A dwarf can take any of these in place of the traits they replace (see [[rangoric-srd/races/PC Races#Alternate Racial Traits|alternate racial traits]]). Not every dwarf lives close to the surface and trains to fight giants, and not every dwarf comes of age fighting goblins and orcs; dwarves raised facing other foes may have other racial traits.
 
 | Trait | Replaces |
 | --- | --- |

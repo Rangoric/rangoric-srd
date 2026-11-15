@@ -2,15 +2,16 @@
 srd-type: "race"
 section: "Races"
 race-points: 9
-book: "Advanced Race Guide"
+book: ["Advanced Race Guide", "Advanced Player's Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/PC Races|PC Races (3.5)]]"
   - "[[path srd 3.5/races/Humans|Humans (PF1)]]"
   - "[[path srd 3.5/races/Humans (Advanced Race Guide)|Humans (ARG)]]"
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Humans (Races)|Humans (APG)]]"
 status: draft
 change: modified
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/race]
 ---
 
@@ -73,6 +74,26 @@ Of course, well-meaning, blundering ignorance and numerical superiority are not 
 **Adventurers**: Ambition alone drives countless humans, and for many, adventuring serves as a means to an end, whether it be wealth, acclaim, social status, or arcane knowledge. A few pursue adventuring careers simply for the thrill of danger. Humans hail from myriad regions and backgrounds, and as such can fill any role within an adventuring party.
 
 **Names**: Unlike other races, which generally cleave to specific traditions and shared histories, humanity's diversity has resulted in a nearly infinite set of names. The humans of a northern barbarian tribe have much different names than those hailing from a subtropical nation of sailors and traders. Even humans who speak the same language may have names that are as varied as their beliefs and appearances, depending on their origins.
+
+**Human adventurers by class**: Human adventurers take up every career, their talent and ambition driving them not just to succeed but to achieve greatness, founding legacies that endure long past their short lifespans.
+
+- [[rangoric-srd/classes/Alchemist|Alchemist]]: Sometimes dismissed as eccentrics and dabblers in dangerous arts, human alchemists always find work for their practical skills, if often at a safe distance from their employers.
+- [[rangoric-srd/classes/Barbarian|Barbarian]]: From steaming jungles to the desolate steppes, barbarians shun "civilized" society, winning esteem by their toughness, steely confidence and unbeatable prowess. Even in savagery the race's inventiveness shines through, and human barbarians often create and master a variety of crude but deadly weapons and fighting styles.
+- [[rangoric-srd/classes/Bard|Bard]]: Human bards show little inhibition but great artistic range. They are often intensely curious, collecting stories and histories, building their own legends while they retell the tales of others.
+- [[rangoric-srd/classes/Cavalier|Cavalier]]: Humans form the backbone of many cavalier orders, balancing aristocratic gentility with dedication to serving their liege and the chivalric ideal, earning the esteem of commoners and nobility alike.
+- [[rangoric-srd/classes/Cleric|Cleric]]: Humans readily believe in ideals larger than themselves and flock to religions great and small. They often form personal connections with deities, embodying the traits and forces they idealize.
+- [[rangoric-srd/classes/Druid|Druid]]: Many humans see druidism as an "old faith", eternal and as all-encompassing as the world itself. Though some dismiss druids as backward hermits standing in the way of progress, they often earn a measure of both wary respect and suspicious fear.
+- [[rangoric-srd/classes/Fighter|Fighter]]: Human fighters run the gamut of professions, from wanderers and soldiers to swashbucklers and brawlers, but are never people to be trifled with.
+- [[rangoric-srd/classes/Inquisitor (Class)|Inquisitor]]: While capable of faith and trust, humans are just as prone to paranoia and suspicion, and entire orders of mostly human inquisitors have earned fame (or infamy) through their purges of dangerous creatures and tenacious witch hunts.
+- [[rangoric-srd/classes/Monk|Monk]]: Craving peace and the discipline of perfection, human monks often stand apart from society. While many admire monks, only the most dedicated have the clarity and self-control to master their ways.
+- [[rangoric-srd/classes/Oracle|Oracle]]: Human oracles employ a variety of cultic arts to reveal the essence and outlook of the oracle. What agents these seers might employ in their strange arts varies mildly, often reflecting mysterious truths.
+- [[rangoric-srd/classes/Paladin|Paladin]]: Humans aspiring to heroic ideals, seeking noble ways to defend their people, or simply drawn to lofty ideas of honor and heroism, often take up the paladin's path. Though it is a difficult and often self-sacrificing road, human paladins charge to the forefront of nearly every crusade against the forces of evil.
+- [[rangoric-srd/classes/Ranger|Ranger]]: Humans challenge themselves to best every kind of prey, and many become skilled hunters and trackers of beasts and even deadlier quarry. Over time, many human rangers come to prefer the company of animals to that of people.
+- [[rangoric-srd/classes/Rogue|Rogue]]: Ambitious, sometimes to a fault, human rogues defy every barrier to get what they want. Whether unscrupulous assassins or dashing thieves, few can resist the deceptions and charms of such determined scoundrels.
+- [[rangoric-srd/classes/Sorcerer|Sorcerer]]: With a long history of mingled bloodlines, humans often show latent arcane power. Sometimes denounced as freaks or praised as marvels, sorcerers must rely on their inner strength to survive.
+- [[rangoric-srd/classes/Summoner|Summoner]]: Shaping life and commanding terrors with every word, human summoners embrace the powers of creation. Their eidolons take a vast variety of shapes, typically showing their masters' deepest hopes or darkest nightmares.
+- [[rangoric-srd/classes/Witch|Witch]]: The human lust for mastery over the world sometimes leads down mysterious and dangerous roads, such as that of the reclusive witch.
+- [[rangoric-srd/classes/Wizard|Wizard]]: Many humans seek power, knowledge and insight into the secrets of creation, leading human wizards to seek out ancient mysteries of arcane lore and new magical innovations. Humans excel both at mastering particular schools of magic and at broader study.
 
 ### Alternate Racial Traits
 
