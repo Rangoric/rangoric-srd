@@ -463,57 +463,91 @@ Every specific armor and shield, by price:
 
 | Specific Armor or Shield | Price | Type |
 | --- | --- | --- |
+| [[rangoric-srd/magic-items/armor/Living Steel Heavy Shield\|Living Steel Heavy Shield]] | 120 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Darkwood Buckler\|Darkwood Buckler]] | 205 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Darkwood Shield\|Darkwood Shield]] | 257 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Mithral Heavy Shield\|Mithral Heavy Shield]] | 1,020 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Mithral Shirt\|Mithral Shirt]] | 1,100 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Beaded Armor of Odor\|Beaded Armor of Odor]] | 1,500 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Zombie Skin Shield\|Zombie Skin Shield]] | 2,159 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Otyugh Hide\|Otyugh Hide]] | 2,565 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Dragonhide Plate\|Dragonhide Plate]] | 3,300 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Elven Chain\|Elven Chain]] | 4,150 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Doublet of Distinction\|Doublet of Distinction]] | 4,170 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Burglar’s Buckler\|Burglar’s Buckler]] | 4,655 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Rhino Hide\|Rhino Hide]] | 5,165 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Spined Shield\|Spined Shield]] | 5,580 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Dragonslayer’s Shield\|Dragonslayer’s Shield]] | 7,170 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Clawhand Shield\|Clawhand Shield]] | 8,158 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Collapsible Tower\|Collapsible Tower]] | 8,170 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Stalking Armor\|Stalking Armor]] | 8,575 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Morlock Hide\|Morlock Hide]] | 8,910 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Thornshield\|Thornshield]] | 9,153 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Lion’s Shield\|Lion’s Shield]] | 9,170 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Hedgehog Armor\|Hedgehog Armor]] | 9,175 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Byrne of the Brave\|Byrne of the Brave]] | 9,250 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Caster’s Shield, Greater\|Caster’s Shield, Greater]] | 10,153 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Adamantine Breastplate\|Adamantine Breastplate]] | 10,200 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Equestrian Plate\|Equestrian Plate]] | 10,650 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Enchanted Eelskin\|Enchanted Eelskin]] | 11,160 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Tireless Tracking Hide\|Tireless Tracking Hide]] | 11,165 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Blur Armor\|Blur Armor]] | 11,960 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Celestial Shield\|Celestial Shield]] | 13,170 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Maelstrom Shield\|Maelstrom Shield]] | 14,170 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Volcanic Shield\|Volcanic Shield]] | 14,170 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Tempest Shield\|Tempest Shield]] | 15,170 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Breastplate of Vanishing\|Breastplate of Vanishing]] | 15,200 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Chainmail of Harmony\|Chainmail of Harmony]] | 15,800 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Leather Armor of the Sprite\|Leather Armor of the Sprite]] | 16,160 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Emperor’s Scale\|Emperor’s Scale]] | 16,200 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Aegis of the Stalwart Defender\|Aegis of the Stalwart Defender]] | 16,250 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Dwarven Plate\|Dwarven Plate]] | 16,500 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Hero’s Hauberk\|Hero’s Hauberk]] | 16,600 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Winged Shield\|Winged Shield]] | 17,257 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Financier’s Mail\|Financier’s Mail]] | 17,650 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Banded Mail of Luck\|Banded Mail of Luck]] | 18,900 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Catskin Leather\|Catskin Leather]] | 18,910 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Guild Leathers\|Guild Leathers]] | 18,910 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Avalanche Shield\|Avalanche Shield]] | 19,170 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Armor of the Undead\|Armor of the Undead]] | 20,000 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Wyrmslayer’s Shield\|Wyrmslayer’s Shield]] | 20,170 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Woven Assistant\|Woven Assistant]] | 21,386 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Celestial Armor\|Celestial Armor]] | 22,400 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Arcane Weave\|Arcane Weave]] | 23,850 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Divine Weave\|Divine Weave]] | 23,850 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Plate Armor of the Deep\|Plate Armor of the Deep]] | 24,650 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Spell Ward Tower Shield\|Spell Ward Tower Shield]] | 25,180 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Breastplate of Command\|Breastplate of Command]] | 25,400 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Mantle of the Stalwart Defender\|Mantle of the Stalwart Defender]] | 25,650 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Mithral Full Plate of Speed\|Mithral Full Plate of Speed]] | 26,500 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Nightwarden’s Leaf\|Nightwarden’s Leaf]] | 26,750 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Fiendish Barding\|Fiendish Barding]] | 27,400 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Elven Warcaster’s Chain\|Elven Warcaster’s Chain]] | 29,150 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Warden of the Woods\|Warden of the Woods]] | 29,350 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Magnetic Chain Mail of the Dwarves\|Magnetic Chain Mail of the Dwarves]] | 30,000 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Poet’s Protector\|Poet’s Protector]] | 30,055 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Scarab Breastplate\|Scarab Breastplate]] | 32,350 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Dampening Mushroom Armor\|Dampening Mushroom Armor]] | 35,000 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Full Plate of the Corpse\|Full Plate of the Corpse]] | 35,650 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Quick Block Buckler\|Quick Block Buckler]] | 36,155 gp | Specific Shield |
+| [[rangoric-srd/magic-items/armor/Belligerent Shield\|Belligerent Shield]] | 36,170 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Werearmor\|Werearmor]] | 36,300 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Winged Armor\|Winged Armor]] | 38,150 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Pine Needle Plant Armor\|Pine Needle Plant Armor]] | 40,800 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Mail of the Muse\|Mail of the Muse]] | 44,150 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Hamatula Hide\|Hamatula Hide]] | 44,215 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Force Tower\|Force Tower]] | 46,030 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Absorbing Shield\|Absorbing Shield]] | 50,170 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Demon Armor\|Demon Armor]] | 52,260 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Elysian Shield\|Elysian Shield]] | 52,620 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Valkyrie Armor\|Valkyrie Armor]] | 54,370 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Mail of Malevolence\|Mail of Malevolence]] | 61,300 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Fiendish Barding, Greater\|Fiendish Barding, Greater]] | 63,800 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Ironwood Plate Armor of Fire Protection\|Ironwood Plate Armor of Fire Protection]] | 78,000 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Mail of Faith\|Mail of Faith]] | 81,650 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Battle Plate\|Battle Plate]] | 92,650 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Invincible Armor\|Invincible Armor]] | 137,650 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Prismatic Plate\|Prismatic Plate]] | 160,650 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Shapeshifter’s Armor\|Shapeshifter’s Armor]] | 400,165 gp | Epic Specific Armor |
 | [[rangoric-srd/magic-items/armor/Warlord’s Breastplate\|Warlord’s Breastplate]] | 416,200 gp | Epic Specific Armor |
 | [[rangoric-srd/magic-items/armor/Dragonskin Armor\|Dragonskin Armor]] | 564,550 gp | Epic Specific Armor |
