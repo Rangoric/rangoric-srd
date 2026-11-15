@@ -71,3 +71,11 @@ A changeling can take any of these in place of the traits they replace (see [[ra
 | [[rangoric-srd/races/racial-traits/Mist Child|Mist Child]] | Hulking changeling |
 | [[rangoric-srd/races/racial-traits/Object of Desire|Object of Desire]] | Green widow |
 | [[rangoric-srd/races/racial-traits/Ocean's Daughter|Ocean's Daughter]] | Sea lungs |
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/witch/Dreamweaver (Archetype)\|Dreamweaver]] | [[rangoric-srd/classes/Witch\|Witch]] |
