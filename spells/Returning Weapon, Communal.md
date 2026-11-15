@@ -44,4 +44,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes (harmless, object)
 
-This spell functions like *[[rangoric-srd/spells/Returning Weapon|returning weapon]]*, except you divide the duration in 1-minute intervals among the targeted weapons.
+This spell functions like *[[rangoric-srd/spells/Returning Weapon|returning weapon]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the targeted weapons.

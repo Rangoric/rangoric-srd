@@ -39,4 +39,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]*, except you divide the duration in 1-hour intervals among the creatures touched. Once the spell absorbs 10 points of damage per caster level (maximum 100 points) for a subject, the spell's effects end for that subject.
+This spell functions like *[[rangoric-srd/spells/Protection from Arrows|protection from arrows]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the creatures touched. Once the spell absorbs 10 points of damage per caster level (maximum 100 points) for a subject, the spell's effects end for that subject.

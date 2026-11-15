@@ -29,4 +29,4 @@ tags: [rangoric, rangoric/spell]
   - **Components**: 
   - **Target**: Creatures touched
 
-This spell functions like *[[rangoric-srd/spells/Protection from Chaos|protection from chaos]]*, except you divide the duration in 1-minute intervals among the creatures touched.
+This spell functions like *[[rangoric-srd/spells/Protection from Chaos|protection from chaos]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.

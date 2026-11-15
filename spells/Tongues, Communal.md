@@ -43,4 +43,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Tongues|tongues]]*, except you divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like *[[rangoric-srd/spells/Tongues|tongues]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.

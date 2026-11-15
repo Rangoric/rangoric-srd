@@ -40,4 +40,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Phantom Steed|phantom steed]]*, except you can summon up to six steeds, and you divide the duration in 1-hour intervals among the steeds summoned.
+This spell functions like *[[rangoric-srd/spells/Phantom Steed|phantom steed]]*, except you can summon up to six steeds, and you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-hour intervals among the steeds summoned.

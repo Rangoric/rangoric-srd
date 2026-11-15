@@ -43,4 +43,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Fortitude negates (harmless)
   - **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, except you divide the duration in 10-minute intervals among the creatures touched. Once the spell absorbs 12 points of energy damage per caster level (maximum 120 points) for a subject, the spell's effects end for that subject.
+This spell functions like *[[rangoric-srd/spells/Protection from Energy|protection from energy]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched. Once the spell absorbs 12 points of energy damage per caster level (maximum 120 points) for a subject, the spell's effects end for that subject.

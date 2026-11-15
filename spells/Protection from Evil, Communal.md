@@ -44,4 +44,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless)
   - **Spell Resistance**: No; see text
 
-This spell functions like *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*, except you divide the duration in 1-minute intervals among the creatures touched.
+This spell functions like *[[rangoric-srd/spells/Protection from Evil|protection from evil]]*, except you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 1-minute intervals among the creatures touched.

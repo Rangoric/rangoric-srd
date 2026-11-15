@@ -41,4 +41,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: Yes (harmless)
 
-This spell functions like *[[rangoric-srd/spells/Air Walk|air walk]]*, except divide the duration in 10-minute intervals among the creatures touched.
+This spell functions like *[[rangoric-srd/spells/Air Walk|air walk]]*, except [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 10-minute intervals among the creatures touched.

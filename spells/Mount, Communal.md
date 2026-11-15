@@ -41,4 +41,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-This spell functions like *[[rangoric-srd/spells/Mount|mount]]*, except you can summon up to six light horses or ponies, and you divide the duration in 2-hour increments among the steeds summoned.
+This spell functions like *[[rangoric-srd/spells/Mount|mount]]*, except you can summon up to six light horses or ponies, and you [[rangoric-srd/spells/Magic Overview#^communal-spells|divide the duration]] in 2-hour increments among the steeds summoned.

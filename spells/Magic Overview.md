@@ -1,9 +1,11 @@
 ---
 srd-type: "overview"
 section: "Spells"
+book: ["Ultimate Combat"]
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/magic/Casting Spells#Bringing Back the Dead|Bringing Back the Dead (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-combat/spell-lists/Communal Spells|Communal Spells (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -259,6 +261,8 @@ An otherwise solid barrier with a hole of at least 1 square foot through it does
 A spell’s Duration entry tells you how long the magical energy of the spell lasts.
 
 **Timed Durations**: Many durations are measured in rounds, minutes, hours, or some other increment. When the time is up, the magic goes away and the spell ends. If a spell’s duration is variable the duration is rolled secretly (the caster doesn’t know how long the spell will last).
+
+**Dividing the Duration (Communal Spells)**: Some spells, most of them named communal, let you divide their duration among several targets, each of which is a subject of the spell. Divide it as evenly as you can, in the increment the spell names: unless the spell says otherwise, no target can get less than one increment, and what is left over goes to one of the targets or is lost. For example, a 5th-level caster whose communal spell lasts 10 minutes per level has 50 minutes to divide; with four targets, each gets 10 minutes, and the last 10 minutes go to one of the four or are wasted. An alchemist's communal extract reaches other creatures only if it is infused ([[rangoric-srd/class-options/discoveries/Infusion (Discovery)|infusion]]). ^communal-spells
 
 **Instantaneous**: The spell energy comes and goes the instant the spell is cast, though the consequences might be long-lasting.
 
