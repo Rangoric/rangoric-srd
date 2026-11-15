@@ -6,11 +6,17 @@ rarity: "Uncommon"
 environment: "Any temperate to sub-tropical hills"
 harvest: "Perennial"
 cost: "5 sp/oz. of dried root or one fruit, fresh or dried"
+affliction-type: "poison"
+delivery: "ingested"
+save: "Fortitude DC 17"
+save-dc: 17
+frequency: "1/minute for 2 minutes"
+effect: "asleep (unconscious) for 1d8 hours/1d2 Con drain"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/herbs/Mandrake|Mandrake (Alchemy & Herbalists)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---
 
@@ -21,6 +27,13 @@ tags: [rangoric, rangoric/herb]
 - **Harvest**: Perennial
 - **Cost**: 5 sp/oz. of dried root or one fruit, fresh or dried
 - **Game Use**: Component (Spells), Medicine (fruits prepared as analgesics and sedatives, root useful versus mania or melancholy) Poison (DC 17; Unconsciousness & Sleep 1d8 hours/1d2 Con\*)
+
+**Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: poison, ingested
+- **Save**: Fortitude DC 17
+- **Frequency**: 1/minute for 2 minutes
+- **Effect**: asleep ([[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]) for 1d8 hours/1d2 Con drain
 
 Mandrake appears with light brown erect stalks up to a foot high, with ovate dark green leaves that flatten upon the ground over time, the greenish-white cup-shaped flowers eventually producing a round green fruit by early summer. Mandrake gets its name and notoriety from its brown turnip-like root that often splits in two or four parts and sometimes resembles a man (leading to its use as a poppet by some witches and adepts). Popular folklore gives this plant many uses, from the whole root as a fertility amulet to its fresh fruits capable of ridding anyone of spiritual possession. The root, decocted in teas or a tiny bit chewed directly, acts as an anesthetic and removes pain by seriously sedating the imbiber (Fort Save or sleep for 1d4 hours), but this is best done only by an apothecary or the treatment acts as a poison (as above).
 

@@ -9,13 +9,20 @@ aura: "No aura"
 cl: "3rd"
 prerequisites:
   - "Craft Toxins"
-dc: "16"
+dc: "20"
 price: "75 gp/ oz"
+affliction-type: "poison"
+delivery: "inhaled"
+save: "Fortitude DC 20"
+save-dc: 20
+onset: "1 round"
+frequency: "1/minute for 2 minutes"
+effect: "nauseated for 1d4 rounds and 1d3 Con damage/unconscious and 2d4 Con damage"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/items/Throatsprout Mist|Throatsprout Mist (Alchemy & Herbalists)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---
 
@@ -30,6 +37,14 @@ One of the few offensive herbal items, throatsprout mist is a powdered mixture o
 
 If a person falls unconscious due to lack of air and fails the second save, there is a chance of suffocation (see [[rangoric-srd/rules/Wilderness, Weather, and Environment#Suffocation|Suffocation]]). Any person suffocating to death from this poison does not expel the seedlings and the tiny plants take root in the corpse, using it as fertilizer (and a grim reminder to not assume all druids or herbalists are peace-loving pushovers).
 
-**Construction**: No aura; CL 3rd; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; DC: 16; Price: 75 gp/ oz.
+**Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: poison, inhaled
+- **Save**: Fortitude DC 20
+- **Onset**: 1 round
+- **Frequency**: 1/minute for 2 minutes
+- **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds and 1d3 Con damage/[[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and 2d4 Con damage
+
+**Construction**: No aura; CL 3rd; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; DC: 20; Price: 75 gp/ oz.
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

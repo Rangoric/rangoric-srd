@@ -1,0 +1,85 @@
+filters:
+  and:
+    - note.affliction-type == "poison"
+views:
+  - type: table
+    name: "Toxins"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/equipment/alchemical-items")
+    groupBy:
+      property: note.delivery
+      direction: ASC
+    order:
+      - file.name
+      - note.category
+      - note.delivery
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+      - note.cure
+      - note.cl
+      - note.dc
+      - note.price
+    sort:
+      - property: note.delivery
+        direction: ASC
+      - property: note.save-dc
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Poison herbs"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/equipment/herbs")
+    order:
+      - file.name
+      - note.delivery
+      - note.save
+      - note.frequency
+      - note.effect
+      - note.rarity
+      - note.cost
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Core poisons"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/rules/afflictions")
+        - or:
+            - file.name == "Bloodroot"
+            - file.name == "Blue Whinnis"
+            - file.name == "Deathblade"
+            - file.name == "Malyss Root Paste"
+            - file.name == "Nitharit"
+            - file.name == "Sassone Leaf Residue"
+            - file.name == "Terinav Root"
+            - file.name == "Black Lotus Extract"
+            - file.name == "Id Moss"
+            - file.name == "Striped Toadstool"
+            - file.name == "Arsenic"
+            - file.name == "Burnt Othur Fumes"
+            - file.name == "Insanity Mist"
+    groupBy:
+      property: note.delivery
+      direction: ASC
+    order:
+      - file.name
+      - note.delivery
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+      - note.cure
+      - note.price
+    sort:
+      - property: note.delivery
+        direction: ASC
+      - property: note.save-dc
+        direction: ASC
+      - property: file.name
+        direction: ASC
