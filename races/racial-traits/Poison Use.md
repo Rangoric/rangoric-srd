@@ -10,7 +10,7 @@ based-on:
   - "[[path srd 3.5/races/Vishkanyas|Vishkanyas (ARG)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/racial-trait, racial-trait/offense, racial-trait/standard]
 ---
 
@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/racial-trait, racial-trait/offense, racial-trait/stand
 
 **Race**: [[rangoric-srd/races/Drow|Drow]] (a base racial trait), [[rangoric-srd/races/Halfling|Halfling]] (in the jungle halfling subtype), [[rangoric-srd/races/Vishkanya|Vishkanya]] (a base racial trait). **Replaces**: nothing.
 
-Drow are skilled in the use of poison and never risk accidentally poisoning themselves. Jungle halflings use poison extensively when hunting, and as a result never poison themselves when applying poison to a weapon or when using a poisoned weapon in combat. Jungle halflings make extensive use of poisons harvested from vermin, particularly those that damage Dexterity scores. Vishkanyas are skilled in the use of poison and never accidentally poison themselves when using or applying poison.
+Drow, jungle halflings and vishkanyas have [[rangoric-srd/rules/Afflictions#^poison-use|poison use]]. Jungle halflings use poison extensively when hunting, particularly poisons harvested from vermin that damage Dexterity scores.

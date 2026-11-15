@@ -6,7 +6,7 @@ based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Class Variants|Class Variants (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -151,7 +151,7 @@ The druid's body becomes plantlike. While in this form, the druid gains a +10 bo
 
 ###### Poison
 
-The druid gains a bite attack that deals bludgeoning, piercing, and slashing damage equal to a dagger of the druid's size (1d4 for a Medium druid, or 1d3 for a Small druid). In addition, the bite delivers a toxic [[rangoric-srd/rules/Special Abilities and Conditions|venom]] (Fortitude save DC 10 + 1/2 druid's level + druid's Con modifier; initial and secondary damage 1d6 Con).
+The druid gains a bite attack that deals bludgeoning, piercing, and slashing damage equal to a dagger of the druid's size (1d4 for a Medium druid, or 1d3 for a Small druid). In addition, the bite delivers a toxic [[rangoric-srd/rules/Afflictions#Poison|venom]] (injury; *save* Fort DC 10 + 1/2 druid's level + druid's Con modifier; *frequency* 1/minute for 2 minutes; *effect* 1d6 Con damage).
 
 ###### Scent
 

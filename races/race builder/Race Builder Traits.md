@@ -7,7 +7,7 @@ based-on:
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/rules]
 ---
 
@@ -211,7 +211,7 @@ Spell-like abilities from these traits use a caster level equal to the character
 | Kneecapper | S | 1 | Small | Members of this race gain a +4 racial bonus on combat maneuver checks to trip an opponent. |  |
 | Magehunter | S | 4 | — | Members of this race gain a +2 racial bonus on Arcana checks made to identify a spell being cast and a +1 racial bonus on attack rolls against arcane spellcasters. Members of this race only gain this bonus against creatures that use spells, not against those that only use spell-like abilities. | [[rangoric-srd/races/racial-traits/Magehunter\|Magehunter]] |
 | Orc Ferocity | S | 2 | Orc subtype | Once per day, when a member of this race is reduced to fewer than 0 hit points but is not killed, it can fight on for 1 more round as if disabled. At the end of its next turn, unless brought to above 0 hit points, it immediately falls unconscious and begins to die. | [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity\|Half-Orc]] |
-| Poison Use | S | 1 | — | Members of this race are skilled with poison and never risk accidentally poisoning themselves when applying it to weapons. | [[rangoric-srd/races/racial-traits/Poison Use\|Poison Use]] |
+| Poison Use | S | 1 | — | Members of this race have [[rangoric-srd/rules/Afflictions#^poison-use\|poison use]]. | [[rangoric-srd/races/racial-traits/Poison Use\|Poison Use]] |
 | Relentless | S | 1 | — | Members of this race gain a +2 bonus on combat maneuver checks made to bull rush or overrun an opponent. This bonus only applies while both the member of this race and its opponent are standing on the ground. | [[rangoric-srd/races/racial-traits/Relentless\|Relentless]] |
 | Sky Sentinel | S | 3 | — | Members of this race gain a +1 racial bonus on attack rolls, a +2 dodge bonus to AC, and a +2 bonus on Perception checks against flying creatures. In addition, enemies on higher ground gain no attack roll bonus against members of this race. | [[rangoric-srd/races/racial-traits/Sky Sentinel\|Sky Sentinel]] |
 | Slapping Tail | S | 3 | — | Members of this race have a tail they can use to make attacks of opportunity with a reach of 5 feet. The tail is a natural attack that deals 1d6 points of damage plus the user's Strength modifier if Small, 1d8 points of damage plus the user's Strength modifier if Medium, or 1d10 points of damage plus 1-1/2 times the user's Strength modifier if Large. Special: If a Large creature has the reach trait, its tail also gains reach. |  |

@@ -31,7 +31,7 @@ based-on:
   - "[[fantasy srd 3.5/monsters/Derro|Derro (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -70,7 +70,7 @@ Derro are stealthy and bloodthirsty. They like to carefully arrange cruel traps 
 
 \*The racial madness of the derro provides a +6 bonus to their Charisma scores and a –6 penalty to their Wisdom scores. A derro restored to sanity gains 6 points of Wisdom and loses 6 points of Charisma.
 
-**Poison Use (Ex)**: Derro typically carry 2d4 doses of greenblood oil or Medium monstrous spider venom, applying it to their crossbow bolts. Derro are not at risk of poisoning themselves when handling poison.
+**Poison Use (Ex)**: Derro typically carry 2d4 doses of greenblood oil or Medium monstrous spider venom, applying it to their crossbow bolts. Derro have [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
 **Sneak Attack (Ex)**: Any time a derro’s opponent is denied his Dexterity bonus to AC, or if a derro flanks his opponent, he deals an extra 1d6 points of damage. This ability is just like the rogue’s sneak attack and subject to the same limitations.
 

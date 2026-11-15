@@ -3,9 +3,9 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/giant/Giant|Giant (3.5)]]"
-status: base
-change: copied
-pi-review: scanned 2026-10-15
+status: draft
+change: modified
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -59,7 +59,7 @@ Dark Blessing (Su): This jarl applies his Charisma modifier as a bonus on all sa
 
 Detect Good (Sp): At will, this jarl can use detect good as a spell-like ability, duplicating the effect of the [[rangoric-srd/spells/Detect Good|detect good]] spell.
 
-Poison Use: Blackguards are skilled in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
+Poison Use: This jarl has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
 Smite Good (Su): Twice per day, this jarl may attempt to smite good with one normal melee attack. He adds his +4 Charisma modifier to his attack roll and deals 8 points of extra damage (1 per blackguard level) if the attack hits. If he accidentally smites a creature that is not good, the smite has no effect but it is still used up for that day.
 

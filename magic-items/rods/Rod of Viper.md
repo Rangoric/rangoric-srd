@@ -10,14 +10,15 @@ prerequisites: "Craft Rod, Craft Magic Arms and Armor, poison, creator must be e
 price: "19,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/rods/Rod of Viper|Rod of Viper (3.5)]]"
-status: base
-change: copied
-pi-review: scanned 2026-10-15
+  - "[[path srd 3.5/items/rods/Rod of the Viper|Rod of the Viper (PF1)]]"
+status: draft
+change: modified
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/magic-item]
 ---
 
 # Rod of Viper
 
-This rod strikes as a +2 heavy mace. Once per day, upon command, the head of the rod becomes that of an actual serpent for 10 minutes. During this period, any successful strike with the rod deals its usual damage and also poisons the creature hit. The poison deals 1d10 points of Constitution damage immediately (Fortitude DC 14 negates) and another 1d10 points of Constitution damage 1 minute later (Fortitude DC 14 negates). The rod only functions if its possessor is evil.
+This rod strikes as a +2 heavy mace. Once per day, upon command, the head of the rod becomes that of an actual serpent for 10 minutes. During this period, any successful strike with the rod deals its usual damage and also poisons the creature hit. The [[rangoric-srd/rules/Afflictions#Poison|poison]] is injury; *save* Fort DC 16; *frequency* 1/round for 6 rounds; *effect* 1d3 Con damage; *cure* 1 save. More hits stack as [[rangoric-srd/rules/Afflictions#Multiple Doses|multiple doses]]. The rod only functions if its possessor is evil.
 
 Moderate necromancy; CL 10th; Craft Rod, Craft Magic Arms and Armor, poison, creator must be evil; Price 19,000 gp.

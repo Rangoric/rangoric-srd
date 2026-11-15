@@ -8,9 +8,10 @@ skills:
 provokes: true
 based-on:
   - "[[fantasy srd 3.5/skills/Heal (Skill)|Heal (Skill) (3.5)]]"
+  - "[[path srd 3.5/skills/Heal (Skill)|Heal (Skill) (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-10-31
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/action, first-aid]
 ---
 
@@ -20,4 +21,4 @@ A [[rangoric-srd/actions/First Aid|First Aid]] action: make a [[rangoric-srd/ski
 
 **DC**: The poison’s save DC.
 
-You tend a single character who has been poisoned and who is going to take more damage from the poison (or suffer some other effect). Every time the poisoned character makes a saving throw against the poison, you make a check. The poisoned character uses your check result or his or her saving throw, whichever is higher.
+You tend a single character who has been poisoned and who is going to take more damage from the poison (or suffer some other effect). Every time the poisoned character makes a saving throw against the poison, you make a check. If your check exceeds the poison’s DC, the character gets a +4 competence bonus on that saving throw.

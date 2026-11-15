@@ -9,7 +9,7 @@ based-on:
   - "[[path srd 3.5/classes/Assassin|Assassin (PF1)]]"
 status: draft
 change: modified
-pi-review: 2026-11-02
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---
 
@@ -72,7 +72,7 @@ All of the following are Class Features of the assassin prestige class.
 
 If a death attack is attempted and fails (the victim makes her save) or if the assassin does not launch the attack within 3 rounds of completing the study, 3 new rounds of study are required before he can attempt another death attack.
 
-**Poison Use**: Assassins are trained in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
+**Poison Use**: An assassin has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
 **Spells**: Beginning at 1st level, an assassin gains the ability to cast a number of arcane spells. To cast a spell, an assassin must have an Intelligence score of at least 10 + the spell’s level, so an assassin with an Intelligence of 10 or lower cannot cast these spells. Assassin bonus spells are based on Intelligence, and saving throws against these spells have a DC of 10 + spell level + the assassin's Intelligence bonus. When the assassin gets 0 spells per day of a given spell level he gains only the bonus spells he would be entitled to based on his Intelligence score for that spell level.
 

@@ -8,9 +8,10 @@ skills:
 provokes: false
 based-on:
   - "[[fantasy srd 3.5/skills/Heal (Skill)|Heal (Skill) (3.5)]]"
+  - "[[path srd 3.5/skills/Heal (Skill)|Heal (Skill) (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-10-31
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/action, first-aid]
 ---
 
@@ -20,4 +21,4 @@ A [[rangoric-srd/actions/First Aid|First Aid]] action: make a [[rangoric-srd/ski
 
 **DC**: The disease’s save DC.
 
-You tend a single diseased character. Every time he or she makes a saving throw against disease effects, you make a check. The diseased character uses your check result or his or her saving throw, whichever is higher. The diseased character must be in your care and must have spent the previous 8 hours resting.
+You tend a single diseased character. Every time he or she makes a saving throw against disease effects, you make a check. If your check exceeds the disease’s DC, the character gets a +4 competence bonus on that saving throw. The diseased character must be in your care and must have spent the previous 8 hours resting.

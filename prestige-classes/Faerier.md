@@ -10,7 +10,7 @@ based-on:
   - "[[individual books/Spells & Magic v3.0/prestige-classes/Faerier|Faerier (Spells & Magic)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---
 
@@ -89,7 +89,7 @@ All of the following are class features of the faerier prestige class.
 
 *Bogan’s Fog*: Three times per day as a full-round action, you may cause a cloud of fog to form. The fog is centered on your location when the ability is activated and extends to a 40-foot radius, providing total concealment to everything inside the cloud. The fog dissipates in 2d4 minutes.
 
-*Hob Lick*: Once per day as a full-round action, you may lick an edged weapon to coat it with fey poison. A successful hit with that weapon requires the target to make a Fortitude Save (DC 13 + faerier level) or take 1d4 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]] (initial and secondary damage). The fey poison lasts for 5 minutes or until an attack using the weapon causes damage.
+*Hob Lick*: Once per day as a full-round action, you may lick an edged weapon to coat it with fey poison. A successful hit with that weapon exposes the target to the [[rangoric-srd/rules/Afflictions#Poison|poison]]: injury; *save* Fort DC 13 + faerier level; *frequency* 1/minute for 2 minutes; *effect* 1d4 Con [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]]. The fey poison lasts for 5 minutes or until an attack using the weapon causes damage.
 
 *Pixie Invisibility*: Three times per day, you may become [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] for up to 10 minutes. You remain invisible even while casting spells or attacking but become visible if you are successfully attacked or otherwise suffer damage.
 
