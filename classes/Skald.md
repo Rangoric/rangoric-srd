@@ -166,3 +166,7 @@ If a character already has [[rangoric-srd/classes/Skald#^skald-uncanny-dodge|unc
 **Damage Reduction (Ex)**: At 9th level, a skald gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]]. Subtract 1 from the damage the skald takes each time he is dealt damage from a weapon or a natural attack. At 14th and 19th levels, this damage reduction increases by 1. Damage reduction can reduce damage to 0, but not below 0. Additionally, the skald grants this DR to all allies affected by his [[rangoric-srd/classes/Skald#^skald-inspired-rage|inspired rage]]. ^skald-damage-reduction
 
 **Master Skald (Su)**: At 20th level, a skald's [[rangoric-srd/classes/Skald#^skald-inspired-rage|inspired rage]] no longer gives allies a penalty to AC, nor limits what skills or abilities they can use. Allies with rage class abilities may use features dependent on those abilities without restriction, such as a [[rangoric-srd/classes/Barbarian#^barbarian-rage-powers|barbarian’s rage powers]] and a bloodrager's blood casting and bloodline abilities. Finally, when making a full attack, affected allies may make an additional attack each round (as if using a *[[rangoric-srd/spells/Haste|haste]]* effect). ^skald-master-skald
+
+**Archetypes**: A skald can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The skald’s archetypes, with what each replaces: ^skald-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Skald]]
