@@ -12,7 +12,7 @@ based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Environmental Racial Variants|Environmental Racial Variants (3.5)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/race]
 ---
 
@@ -29,6 +29,7 @@ Perks:
 - -2 Charisma
 - Darkvision: Orcs can see in the dark up to 60 feet; see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] for how it works.
 - Light Sensitivity: Orcs have [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|light sensitivity]].
+- Ferocity: Orcs have [[rangoric-srd/monsters/abilities/Ferocity|ferocity]], so they stay conscious and keep fighting when their hit points fall below 0. ^orc-ferocity
 - Weapon Familiarity: Orcs are always proficient with greataxes and falchions, and treat any weapon with the word “orc” in its name as a martial weapon.
 
 Languages:
@@ -89,8 +90,8 @@ An orc can take any of these in place of the traits they replace (see [[rangoric
 | --- | --- |
 | [[rangoric-srd/races/racial-traits/Dayrunner|Dayrunner]] | Light sensitivity |
 | [[rangoric-srd/races/racial-traits/Feral|Feral]] | Weapon familiarity and automatic languages |
-
-Pathfinder's orc also has **ferocity** (fighting on below 0 hit points). It comes in with the move to Pathfinder's dying rules, so it isn't one of the orc's traits yet; the Smeller and Squalid alternate traits, which replace it, come in with it.
+| [[rangoric-srd/races/racial-traits/Smeller|Smeller]] | Ferocity and weapon familiarity |
+| [[rangoric-srd/races/racial-traits/Squalid|Squalid]] | Ferocity |
 
 ### Subtypes
 
