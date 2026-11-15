@@ -6,11 +6,17 @@ rarity: "Uncommon"
 environment: "Any temperate forests or marshlands"
 harvest: "Biennial"
 cost: "15 sp/oz. of juice or per 4 oz. of dried leaves and roots"
+affliction-type: "poison"
+delivery: "ingested"
+save: "Fortitude DC 15"
+save-dc: 15
+frequency: "1/minute for 2 minutes"
+effect: "paralyzed for 1d2 hours/1d2 Con damage and 1d4 Str damage"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/herbs/Hemlock|Hemlock (Alchemy & Herbalists)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---
 
@@ -21,6 +27,13 @@ tags: [rangoric, rangoric/herb]
 - **Harvest**: Biennial
 - **Cost**: 15 sp/oz. of juice or per 4 oz. of dried leaves and roots
 - **Game Use**: Component (Spells), Medicine (cure-all), Poison (DC 15, Paralysis for 1d2 hours/1d2 Con +1d4 Str)
+
+**Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: poison, ingested
+- **Save**: Fortitude DC 15
+- **Frequency**: 1/minute for 2 minutes
+- **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d2 hours/1d2 Con damage and 1d4 Str damage
 
 A malodorous scent defines hemlock before you see the erect plant with a smooth woody stalk and feathery brush-like leaves and tiny white flowers. Commoners use this plant’s juices, highly diluted in salves or mixed in wine, as an analgesic and sedative, knowing full well that its full-strength juice is an intense poison. Esoteric uses for the herb fall under the darker magics, as befits its virulence.
 

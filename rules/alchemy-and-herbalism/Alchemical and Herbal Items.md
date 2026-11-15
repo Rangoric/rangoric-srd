@@ -143,7 +143,7 @@ This classification produces the powders and dusts whose abilities are specifica
 
 ### Toxins
 
-Toxins and poisons are among the most commonly used substances throughout all d20 worlds, but who is capable of making (let alone using) them? Anyone knowing [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (apothecary or herbalist) skills can craft the basic poisons noted in core manuals, provided the poisons are not animal ichors or venoms. In other words, they can make the following poisons: bloodroot, blue whinnis, deathblade, malyss root paste, nitharit, sassone leaf residue, terinav root, black lotus extract, id moss, striped toadstool, arsenic, burnt othur fumes, or insanity mist. Animal-based poisons can be collected and refined or crafted by those with Nature. Any other toxins and poisons need the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for their creation.
+Toxins and poisons are among the most commonly used substances throughout all d20 worlds, but who is capable of making (let alone using) them? Anyone knowing [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (apothecary or herbalist) skills can craft the basic poisons noted in core manuals, provided the poisons are not animal ichors or venoms. In other words, they can make the following poisons: [[rangoric-srd/rules/afflictions/Bloodroot|bloodroot]], [[rangoric-srd/rules/afflictions/Blue Whinnis|blue whinnis]], [[rangoric-srd/rules/afflictions/Deathblade|deathblade]], [[rangoric-srd/rules/afflictions/Malyss Root Paste|malyss root paste]], [[rangoric-srd/rules/afflictions/Nitharit|nitharit]], [[rangoric-srd/rules/afflictions/Sassone Leaf Residue|sassone leaf residue]], [[rangoric-srd/rules/afflictions/Terinav Root|terinav root]], [[rangoric-srd/rules/afflictions/Black Lotus Extract|black lotus extract]], [[rangoric-srd/rules/afflictions/Id Moss|id moss]], [[rangoric-srd/rules/afflictions/Striped Toadstool|striped toadstool]], [[rangoric-srd/rules/afflictions/Arsenic|arsenic]], [[rangoric-srd/rules/afflictions/Burnt Othur Fumes|burnt othur fumes]], or [[rangoric-srd/rules/afflictions/Insanity Mist|insanity mist]]. Animal-based poisons can be collected and refined or crafted by those with Nature. Any other toxins and poisons need the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for their creation.
 
 ### Unguents
 
@@ -434,17 +434,15 @@ Unlike the other categories, there are no set standards or forms for poisons, no
 
 Also, while they may be listed under other types, the ability to create any of them comes only from the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat. Only the generic poisons of the core rules can be created with the [[rangoric-srd/skills/Profession|Profession]] (herbalist) or [[rangoric-srd/skills/Craft|Craft]] (alchemy) skills unless otherwise noted.
 
-Aside from the added classification and the DC for creation, the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins table]] works like the core [[rangoric-srd/rules/Afflictions#Poison|poison]] rules. The prices for said toxins and poisons are in the core rules or in the catalog.
+Each toxin is an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]], given in its note and on the [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|toxins list]] as the core [[rangoric-srd/rules/Afflictions#Poison|poison]] rules give it (type, save, onset, frequency, effect and cure). The list adds three columns. The prices for said toxins and poisons are in the core rules or in the catalog.
 
-*Type (Classification):* The poison’s method of delivery (and its classification in the catalog).
+*Category:* The toxin’s classification in the catalog.
 
-*Initial Damage:* The damage the character takes immediately upon failing his saving throw against this type of poison/toxin. Ability score damage is temporary unless marked with an asterisk (\*), in which case the loss is a permanent drain. Paralysis lasts for 2d6 minutes unless otherwise noted.
+*CL:* The toxin’s caster level.
 
-*Secondary Damage:* The amount of damage the character takes 1 minute after being poisoned, if he fails a second saving throw. Unconsciousness lasts for 1d3 hours. Losses marked with an asterisk are permanent drains instead of temporary damage.
+*DC to Make:* The DC of the [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) check to create the substance: its save DC, +10 for one made as a potion, as [[rangoric-srd/rules/Afflictions#^making-poison|Making Poison]] says. A natural 1 on the check exposes a crafter without [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
-*DC to Create/Resist:* The first DC is the number needed for a successful [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist) skill check to create the substance. The second is the number needed for a successful save versus toxin on both saving throws.
-
-Poisons marked # are the core poisons, listed for their DC to create. They can replace any of those rolled up on other category random tables.
+The core poisons the skills can make are listed after the toxins and poison herbs. They can replace any of those rolled up on other category random tables.
 
 
 ### Unguents

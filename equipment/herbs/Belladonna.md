@@ -6,11 +6,17 @@ rarity: "Rare"
 environment: "Temperate forests"
 harvest: "Perennial"
 cost: "5 gp/oz. of dried leaves and flowers, stalks, or root or 1 oz. of berry juice (12 berries)"
+affliction-type: "poison"
+delivery: "ingested"
+save: "Fortitude DC 15"
+save-dc: 15
+frequency: "1/minute for 2 minutes"
+effect: "nauseated for 1 minute/1d8 damage"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/herbs/Belladonna|Belladonna (Alchemy & Herbalists)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/herb]
 ---
 
@@ -21,6 +27,13 @@ tags: [rangoric, rangoric/herb]
 - **Harvest**: Perennial
 - **Cost**: 5 gp/oz. of dried leaves and flowers, stalks, or root or 1 oz. of berry juice (12 berries)
 - **Game Use**: Poison (DC 15 Nausea/1d8 hp damage per dose ingested), Special (Eat within an hour of a lycanthrope’s attack to gain a DC 20 Fort save to resist lycanthropic curse).
+
+**Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: poison, ingested (its macerated oil also contact or injury)
+- **Save**: Fortitude DC 15
+- **Frequency**: 1/minute for 2 minutes
+- **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1 minute/1d8 damage
 
 This plant, the largest of the nightshades, has reddish stalks, bright green leaves with red ribs, and dull purple berries and flowers. Belladonna is highly poisonous and generally only harvested by those creating toxins and poisons. Despite its dangers, belladonna is also used by adepts and some religions in an infusion (either ingested or dropped into the eyes) to aid with visions and auguries in a ritual setting.
 

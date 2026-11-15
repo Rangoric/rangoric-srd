@@ -75,7 +75,7 @@ Applying poison to a weapon or a single piece of ammunition is a standard action
 
 ### Making Poison
 
-A poison can be made with [[rangoric-srd/skills/Craft|Craft]] (alchemy). The DC to make a poison is equal to its save DC. Rolling a natural 1 on the check while making a poison exposes the crafter to it (this doesn’t use up the poison), unless the crafter has poison use. Which poisons alchemists and herbalists can make with their skills, and the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for the rest, are in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Toxins|toxins]]. ^making-poison
+A poison can be made with [[rangoric-srd/skills/Craft|Craft]] (alchemy). The DC to make a poison is equal to its save DC. Making a poison as a potion adds +10 to the DC. Rolling a natural 1 on the check while making a poison exposes the crafter to it (this doesn’t use up the poison), unless the crafter has poison use. Which poisons alchemists and herbalists can make with their skills, and the [[rangoric-srd/feats/Craft Toxins|Craft Toxins]] feat for the rest, are in [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Toxins|toxins]]. ^making-poison
 
 ### Poison Immunities
 
@@ -109,7 +109,7 @@ Each of these has a note of its own with its full entry; the lists gather them f
 
 ### Sample Poisons
 
-By how each is delivered, then by DC.
+By how each is delivered, then by DC, with the toxins and poison herbs of alchemy and herbalism among them; [[rangoric-srd/equipment/alchemical-items/Alchemical Toxins and Poisons|Alchemical Toxins and Poisons]] lists those with their category and DC to make.
 
 **Table: Poisons** ^table-poisons
 

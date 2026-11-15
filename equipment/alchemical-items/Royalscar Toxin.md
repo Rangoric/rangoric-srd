@@ -10,13 +10,19 @@ aura: "No aura"
 cl: "5th"
 prerequisites:
   - "At least one rank in Craft (alchemy) or Profession (herbalist)"
-dc: "18"
+dc: "22"
 price: "120 gp/0.25 oz"
+affliction-type: "poison"
+delivery: "injury"
+save: "Fortitude DC 22"
+save-dc: 22
+frequency: "1/minute for 2 minutes"
+effect: "paralyzed for 1d4 hours/1d2 Con drain"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/items/Royalscar|Royalscar (Alchemy & Herbalists)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---
 
@@ -28,6 +34,13 @@ This chymical, if injected into a person by a weapon’s blade or simply poured 
 
 This poison is often used on arrows. The assassins’ guild uses it, not so much to assassinate as to show how easy it is to render rulers helpless (the permanent scars and damage remind them of the guild’s power forevermore).
 
-**Construction**: No aura; CL 5th; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist); DC: 18; Price: 120 gp/0.25 oz.
+**Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: poison, injury
+- **Save**: Fortitude DC 22
+- **Frequency**: 1/minute for 2 minutes
+- **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 hours/1d2 Con drain
+
+**Construction**: No aura; CL 5th; At least one rank in [[rangoric-srd/skills/Craft|Craft]] (alchemy) or [[rangoric-srd/skills/Profession|Profession]] (herbalist); DC: 22; Price: 120 gp/0.25 oz.
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

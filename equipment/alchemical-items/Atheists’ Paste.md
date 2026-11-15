@@ -10,13 +10,18 @@ cl: "4th"
 prerequisites:
   - "Craft Toxins"
   - "detect magic"
-dc: "18"
+dc: "17"
 price: "5,000 gp"
+affliction-type: "poison"
+delivery: "contact"
+save: "Fortitude DC 17"
+save-dc: 17
+effect: "blinded and nauseated for 1d4 rounds; divine magic turns the paste into its vapor (see above)"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/items/Atheists’ Paste|Atheists’ Paste (Alchemy & Herbalists)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---
 
@@ -30,6 +35,12 @@ Atheists’ paste comes in a wide-mouthed black ceramic jar (the applicator is a
 
 Alchemists created this toxin centuries ago to help commoners strike back at an evil temple and priesthood that dominated their lands, coating the altars and doors of the temples with the paste to temporarily blind the evil priests and allow people the chance to overcome their corrupt religion. Now, unfortunately, it is used by assassins hired by rival churches to poison each others’ clergy.
 
-**Construction**: Faint magic; CL 4th; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]], *detect magic*; DC: 18; Price: 5,000 gp
+**Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: poison, contact
+- **Save**: Fortitude DC 17
+- **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] and [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d4 rounds; divine magic turns the paste into its vapor (see above)
+
+**Construction**: Faint magic; CL 4th; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]], *detect magic*; DC: 17; Price: 5,000 gp
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

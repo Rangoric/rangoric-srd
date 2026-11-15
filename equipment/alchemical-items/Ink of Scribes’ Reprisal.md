@@ -9,13 +9,19 @@ aura: "No aura"
 cl: "2nd"
 prerequisites:
   - "Craft Toxins"
-dc: "12"
+dc: "15"
 price: "220 gp/ ounce"
+affliction-type: "poison"
+delivery: "contact"
+save: "Fortitude DC 15"
+save-dc: 15
+frequency: "1/minute for 2 minutes"
+effect: "nauseated for 1d6 rounds/2d12 nonlethal damage"
 based-on:
   - "[[individual books/Alchemy & Herbalists v3.5/items/Ink of Scribes’ Reprisal|Ink of Scribes’ Reprisal (Alchemy & Herbalists)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/alchemical-item]
 ---
 
@@ -27,6 +33,13 @@ This mildly toxic ink dries quickly but always remains partially sticky and ofte
 
 Invented by accident during research into [[rangoric-srd/equipment/alchemical-items/Esoteric Inks|esoterinks]], this poisoned ink has become a favorite in courtly intrigues, if only to embarrass one’s enemies. It has also come into use among highwaymen who pose as couriers and then rob their indisposed victims after they’ve “read the message from his lordship.” It is considered a civilized toxin as it does not kill its victims, though those left penniless by its effects are rarely in a mood to agree.
 
-**Construction**: No aura; CL 2nd; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; DC: 12; Price: 220 gp/ ounce
+**Poison**: As an [[rangoric-srd/rules/Afflictions#The Affliction Block|affliction]]:
+
+- **Type**: poison, contact
+- **Save**: Fortitude DC 15
+- **Frequency**: 1/minute for 2 minutes
+- **Effect**: [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for 1d6 rounds/2d12 nonlethal damage
+
+**Construction**: No aura; CL 2nd; [[rangoric-srd/feats/Craft Toxins|Craft Toxins]]; DC: 15; Price: 220 gp/ ounce
 
 An item of the alchemical and herbal catalog ([[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Item Categories and Definitions|categories]]); its entry follows the [[rangoric-srd/rules/alchemy-and-herbalism/Alchemical and Herbal Items#Catalog Template|catalog template]].

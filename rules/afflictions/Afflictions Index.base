@@ -1,10 +1,19 @@
 filters:
-  and:
-    - file.inFolder("rangoric-srd/rules/afflictions")
-    - file.hasTag("rangoric/affliction")
+  or:
+    - and:
+        - file.inFolder("rangoric-srd/rules/afflictions")
+        - file.hasTag("rangoric/affliction")
+    - and:
+        - note.affliction-type == "poison"
+        - or:
+            - file.inFolder("rangoric-srd/equipment/alchemical-items")
+            - file.inFolder("rangoric-srd/equipment/herbs")
 views:
   - type: table
     name: All afflictions
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/rules/afflictions")
     order:
       - file.name
       - note.affliction-type
