@@ -3,79 +3,80 @@ srd-type: "monster"
 section: "Monsters"
 size: "Huge"
 creature-type: "Magical Beast"
-subtypes:
-  - "Cold"
-hit-dice: "14d10+70 (147 hp)"
-initiative: "+4"
+subtypes: ["Cold"]
+hit-dice: "16d10+80 (168 hp)"
+initiative: "+7"
 speed: "30 ft. (6 squares), burrow 10 ft."
-armor-class: "18 (–2 size, +10 natural), touch 8, flat-footed 18"
-base-attack: "+14"
-cmb: "+24"
-cmd: "34 (can't be tripped)"
-attack: "Bite +21 melee (2d8+12 plus 1d8 cold)"
-full-attack: "Bite +21 melee (2d8+12 plus 1d8 cold)"
+armor-class: "27 (+3 Dex, +16 natural, –2 size), touch 11, flat-footed 24"
+base-attack: "+16"
+cmb: "+28"
+cmd: "41 (can't be tripped)"
+attack: "Bite +25 melee (4d10+15 plus 4d6 cold)"
+full-attack: "Bite +25 melee (4d10+15 plus 4d6 cold)"
 space-reach: "15 ft./10 ft."
-special-attacks: "Trill, cold, breath weapon"
-special-qualities: "Darkvision 60 ft., death throes, immunity to cold, low-light vision, vulnerability to fire"
-saves: "Fort +14, Ref +9, Will +6"
-abilities: "Str 26, Dex 10, Con 20, Int 2, Wis 11, Cha 11"
-skills: "Perception +9, Stealth +6*"
-skill-ranks: "Perception 3, Stealth 11"
-feats: "Improved Initiative, Improved Natural Attack (bite), Iron Will, Skill Focus (Perception), Weapon Focus (bite)"
-environment: "Cold plains"
+special-attacks: "Breath weapon (60-ft. cone, 15d6 cold damage, Reflex DC 23 half, usable once per hour), death throes, trill"
+special-qualities: "Darkvision 60 ft., low-light vision, cold, immunity to cold, vulnerable to fire"
+saves: "Fort +15, Ref +13, Will +10"
+abilities: "Str 31, Dex 16, Con 21, Int 2, Wis 16, Cha 11"
+skills: "Perception +17, Stealth +6 (+14 in ice and snow)"
+skill-ranks: "Perception 11, Stealth 8"
+feats: "Cleave, Combat Reflexes, Improved Initiative, Iron Will, Power Attack, Skill Focus (Perception), Stand Still, Weapon Focus (bite)"
+environment: "Cold plains or mountains"
 organization: "Solitary"
 challenge-rating: 12
-treasure: "None"
+treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "15–21 HD (Huge); 22–42 HD (Gargantuan)"
 level-adjustment: "—"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Frost Worm|Frost Worm (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Frost Worm|Frost Worm (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Frost Worm
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|Cold]])
-  - **Hit Dice**: 14d10+70 (147 hp)
-  - **Initiative**: +4
+  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Cold)
+  - **Hit Dice**: 16d10+80 (168 hp)
+  - **Initiative**: +7
   - **Speed**: 30 ft. (6 squares), burrow 10 ft.
-  - **Armor Class**: 18 (–2 size, +10 natural), touch 8, flat-footed 18
-  - **Base Attack**: +14; **CMB**: +24; **CMD**: 34 (can't be tripped)
-  - **Attack**: Bite +21 melee (2d8+12 plus 1d8 cold)
-  - **Full Attack**: Bite +21 melee (2d8+12 plus 1d8 cold)
+  - **Armor Class**: 27 (+3 Dex, +16 natural, –2 size), touch 11, flat-footed 24
+  - **Base Attack**: +16; **CMB**: +28; **CMD**: 41 (can't be tripped)
+  - **Attack**: Bite +25 melee (4d10+15 plus 4d6 cold)
+  - **Full Attack**: Bite +25 melee (4d10+15 plus 4d6 cold)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: Trill, cold, [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]]
-  - **Special Qualities**: Darkvision 60 ft., death throes, immunity to cold, low-light vision, [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
-  - **Saves**: Fort +14, Ref +9, Will +6
-  - **Abilities**: Str 26, Dex 10, Con 20, Int 2, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +6\*
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Cold plains
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Breath Weapon|Breath weapon]] (60-ft. cone, 15d6 cold damage, Reflex DC 23 half, usable once per hour), death throes, trill
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, vulnerable to fire
+  - **Saves**: Fort +15, Ref +13, Will +10
+  - **Abilities**: Str 31, Dex 16, Con 21, Int 2, Wis 16, Cha 11
+  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +6 (+14 in ice and snow)
+  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Stand Still|Stand Still]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+  - **Environment**: Cold plains or mountains
   - **Organization**: Solitary
   - **Challenge Rating**: 12
-  - **Treasure**: None
+  - **Treasure**: Incidental
   - **Alignment**: Usually neutral
   - **Advancement**: 15–21 HD (Huge); 22–42 HD (Gargantuan)
   - **Level Adjustment**: —
 
-A frost worn cannot burrow through stone, but can manage ice and frozen earth. When moving through such hard materials it leaves behind a usable tunnel about 5 feet in diameter.
+With armor-crushing jaws, flesh that radiates cold, and a terrible keening cry capable of holding creatures [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]], frost worms are apex predators of the frozen tundra and glaciers. In the frost worms' far-reaching hunting grounds, they fear only the remorhaz, for the heat generated by an enraged remorhaz causes intense pain to a frost worm.
 
-A frost worm is about 40 feet long, 5 feet in diameter, and weighs about 8,000 pounds.
+This extreme aversion to heat, as well as its freezing touch and devastating breath weapon, stems from an unusual facet of frost worm physiology—veins that run with magically cold blood. This creature's ichor is clear, but infused with such sub-freezing temperatures that the monster's flesh can freeze water in the skin of creatures that touch it. When a frost worm dies, this magical energy dissipates, and both blood and muscle immediately freeze solid and then explode into a catastrophic barrage of icy shrapnel. As a result, even those predators that might legitimately prey upon the burrowing monstrosities tend to leave frost worms well enough alone.
+
+An adult frost worm measures 35 feet long and weighs 8,000 pounds.
+
+A frost worm cannot burrow through stone, but can manage ice and frozen earth. When moving through such hard materials it leaves behind a usable tunnel about 5 feet in diameter.
 
 ### Combat
 
 Frost worms lurk under the snow, waiting for prey to come near. They begin an attack with a trill and then set upon helpless prey with their bite.
 
-**Trill (Su)**: A frost worm can emit a noise that forces its prey to stand motionless. This sonic mind-affecting compulsion affects all creatures other than frost worms within a 100-foot radius. Creatures must succeed on a DC 17 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for as long as the worm trills and for 1d4 rounds thereafter, even if they are attacked. However, if attacked or violently shaken (a full-round action), a victim is allowed another saving throw. Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm’s trill for 24 hours. The effect’s caster level is 14th. The save DC is Charisma-based.
+**Cold (Su)**: A frost worm's body generates intense cold, allowing it to deal an additional 4d6 cold damage with its bite attack. Any creature that attacks a frost worm with an unarmed strike or a natural weapon takes 1d6 points of cold damage per successful hit. A creature that grapples or is grappled by a frost worm takes 4d6 points of cold damage per round the grapple is maintained.
 
-**Cold (Ex)**: A frost worm’s body generates intense cold, causing opponents to take an extra 1d8 points of cold damage every time the creature succeeds on a bite attack. Creatures attacking a frost worm unarmed or with natural weapons take this same cold damage each time one of their attacks hits.
+**Death Throes (Su)**: When killed, a frost worm explodes in a 100-foot-radius burst that deals 12d6 cold damage and 8d6 piercing damage (DC 23 Reflex half). The save DC is Constitution-based.
 
-**Breath Weapon (Su)**: 30-foot cone, once per hour, damage 15d6 cold, Reflex DC 22 half. Opponents held motionless by the frost worm’s trill get no saving throw. The save DC is Constitution-based.
-
-**Death Throes (Ex)**: When killed, a frost worm turns to ice and shatters in an explosion that deals 12d6 points of cold damage and 8d6 points of piercing damage to everything within 100 feet (Reflex half DC 22). The save DC is Constitution-based.
-
-**Skills**: \*A frost worm, due to its coloration and its affinity for burying itself in the snow, has a +10 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in its native environment.
+**Trill (Su)**: As a full-round action, a frost worm can emit a strange trilling sound that affects all creatures within a 100-foot radius. Creatures must succeed on a DC 18 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for as long as the worm continues to trill (the frost worm can maintain this trill by concentrating). Once a creature has resisted or broken the effect, it cannot be affected again by that same frost worm's trill for 24 hours. This is a sonic mind-affecting effect. The save DC is Charisma-based.
