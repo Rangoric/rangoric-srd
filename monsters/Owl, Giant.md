@@ -1,78 +1,84 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-size: "Large"
+size: "Huge"
 creature-type: "Magical Beast"
-hit-dice: "4d10+4 (26 hp)"
-initiative: "+3"
-speed: "10 ft. (2 squares), fly 70 ft. (average)"
-armor-class: "15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12"
-base-attack: "+4"
-cmb: "+9"
-cmd: "22"
-attack: "Claw +7 melee (1d6+4)"
-full-attack: "2 claws +7 melee (1d6+4) and bite +2 melee (1d8+2)"
-space-reach: "10 ft./5 ft."
+hit-dice: "6d10+24 (57 hp)"
+initiative: "+5"
+speed: "10 ft. (2 squares), fly 60 ft. (average)"
+armor-class: "18 (+2 Dex, +8 natural, –2 size), touch 10, flat-footed 16"
+base-attack: "+6"
+cmb: "+13 (+15 disarm)"
+cmd: "25 (27 disarm)"
+attack: "Claw +9 melee (2d6+5)"
+full-attack: "2 claws +9 melee (2d6+5)"
+space-reach: "15 ft./10 ft."
 special-attacks: "—"
-special-qualities: "Superior lowlight vision"
-saves: "Fort +5, Ref +7, Will +3"
-abilities: "Str 18, Dex 17, Con 12, Int 10, Wis 14, Cha 10"
-skills: "Nature +7, Perception +20, Stealth +4*"
-skill-ranks: "Nature 4, Perception 4, Stealth 0"
-feats: "Skill Focus (Perception), Wingover"
+special-qualities: "Low-light vision, animal telepathy 30 ft, insightful senses, piercing stare"
+saves: "Fort +9, Ref +7, Will +5"
+abilities: "Str 20, Dex 15, Con 18, Int 14, Wis 17, Cha —"
+skills: "Acrobatics +11, Nature +11, Perception +18, Sense Motive +13, Society +11, Stealth +9"
+skill-ranks: "Acrobatics 6, Nature 6, Perception 3, Sense Motive 5, Society 6, Stealth 4"
+feats: "Combat Expertise, Improved Disarm, Skill Focus (Perception)"
 environment: "Temperate forests"
-organization: "Solitary, pair, or company (3–5)"
-challenge-rating: 3
+organization: "Solitary, pair, roost (3–10), or company (3–5)"
+challenge-rating: 5
 treasure: "None"
-alignment: "Usually neutral good"
+alignment: "Usually lawful neutral"
 advancement: "5–8 HD (Large); 9–12 HD (Huge)"
 level-adjustment: "+2 (cohort)"
+book: "Bestiary 3"
 based-on:
+  - "[[path srd 3.5/monsters/Owl, Giant|Owl, Giant (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Owl, Giant|Owl, Giant (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Owl, Giant
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+4 (26 hp)
-  - **Initiative**: +3
-  - **Speed**: 10 ft. (2 squares), fly 70 ft. (average)
-  - **Armor Class**: 15 (–1 size, +3 Dex, +3 natural), touch 12, flat-footed 12
-  - **Base Attack**: +4; **CMB**: +9; **CMD**: 22
-  - **Attack**: Claw +7 melee (1d6+4)
-  - **Full Attack**: 2 claws +7 melee (1d6+4) and bite +2 melee (1d8+2)
-  - **Space/Reach**: 10 ft./5 ft.
+  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+  - **Hit Dice**: 6d10+24 (57 hp)
+  - **Initiative**: +5
+  - **Speed**: 10 ft. (2 squares), fly 60 ft. (average)
+  - **Armor Class**: 18 (+2 Dex, +8 natural, –2 size), touch 10, flat-footed 16
+  - **Base Attack**: +6; **CMB**: +13 (+15 disarm); **CMD**: 25 (27 disarm)
+  - **Attack**: Claw +9 melee (2d6+5)
+  - **Full Attack**: 2 claws +9 melee (2d6+5)
+  - **Space/Reach**: 15 ft./10 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: Superior lowlight vision
-  - **Saves**: Fort +5, Ref +7, Will +3
-  - **Abilities**: Str 18, Dex 17, Con 12, Int 10, Wis 14, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +4\*
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Wingover|Wingover]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], animal [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 30 ft, insightful senses, piercing stare
+  - **Saves**: Fort +9, Ref +7, Will +5
+  - **Abilities**: Str 20, Dex 15, Con 18, Int 14, Wis 17, Cha —
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Society|Society]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +9
+  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Disarm|Improved Disarm]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, or company (3–5)
-  - **Challenge Rating**: 3
+  - **Organization**: Solitary, pair, roost (3–10), or company (3–5)
+  - **Challenge Rating**: 5
   - **Treasure**: None
-  - **Alignment**: Usually neutral good
+  - **Alignment**: Usually lawful neutral
   - **Advancement**: 5–8 HD (Large); 9–12 HD (Huge)
   - **Level Adjustment**: +2 (cohort)
 
-Giant owls are nocturnal birds of prey, feared for their ability to hunt and attack in near silence. They are intelligent, and though naturally suspicious, sometimes associate with good creatures. A typical giant owl stands about 9 feet tall, has a wingspan of up to 20 feet, and resembles its smaller cousins in nearly every way except size.
+The noble giant owl roosts in the tallest trees or in high caves near its forest home. No mere animals, giant owls pride themselves as intellectuals and keen judges of character. Little passes a giant owl's notice in its home forest. What it doesn't observe directly, it learns from its wide network of animal informants. Giant owls view themselves more as watchers than participants, rarely interfering in the affairs of others barring a threat to their homes. Giant owls stand 18 feet tall and have 30-foot wingspans, yet they rarely weigh over 600 pounds.
 
-Giant owls speak Common and Sylvan.
+Giant owls are nocturnal birds of prey, feared for their ability to hunt and attack in near silence.
+
+Giant owls understand Sylvan but can't speak.
 
 ### Combat
 
 A giant owl attacks by gliding silently just a few feet above its prey and plunging to strike when directly overhead.
 
+**Animal Telepathy (Su)**: A giant owl can telepathically communicate with other animals as if under the effects of speak with animals.
+
+**Insightful Senses (Su)**: A giant owl's senses are particularly well honed to sensing danger or locating prey. It adds its Wisdom modifier as an insight bonus (+3 for most giant owls) on its initiative checks.
+
+**Piercing Stare (Su)**: Up to three times per day as a swift action, a giant owl can gain the effects of true seeing (as the spell) for 1 round.
+
 **Superior Low-Light Vision (Ex)**: A giant owl can see five times as far as a human can in dim light.
-
-**Skills**: Giant owls have a +8 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-\*When in flight, giant owls gain a +8 bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks.
 
 ### Training a Giant Owl
 

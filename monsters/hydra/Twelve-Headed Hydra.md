@@ -1,62 +1,64 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/hydra/Hydra|Hydra]]"
 size: "Huge"
 creature-type: "Magical Beast"
-hit-dice: "12d10+63 (129 hp)"
+hit-dice: "12d10+60 (126 hp)"
 initiative: "+1"
 speed: "20 ft. (4 squares), swim 20 ft."
-armor-class: "22 (–2 size, +1 Dex, +13 natural), touch 9, flat-footed 21"
+armor-class: "22 (+1 Dex, +13 natural, –2 size), touch 9, flat-footed 21"
 base-attack: "+12"
-cmb: "+20"
-cmd: "31 (35 vs. trip)"
-attack: "12 bites +17 melee (2d8+6)"
-full-attack: "12 bites +17 melee (2d8+6)"
+cmb: "+18"
+cmd: "29 (can't be tripped)"
+attack: "Bite +15 melee (2d6+4)"
+full-attack: "12 bites +15 melee (2d6+4)"
 space-reach: "15 ft./10 ft."
-special-attacks: "—"
-special-qualities: "Darkvision 60 ft., fast healing 22, low-light vision, scent"
-saves: "Fort +13, Ref +9, Will +6"
-abilities: "Str 23, Dex 12, Con 20, Int 2, Wis 10, Cha 9"
-skills: "Athletics +13 (+21 swimming), Perception +13"
-skill-ranks: "Athletics 4, Perception 8"
-feats: "Blind-Fight, Combat Reflexes (B) , Improved Natural Attack (bite), Iron Will, Toughness, Weapon Focus (bite)"
-environment: "Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes)"
+special-attacks: "Pounce"
+special-qualities: "Darkvision 60 ft., low-light vision, scent, fast healing 12, hydra traits, regenerate head"
+saves: "Fort +12, Ref +11, Will +6"
+abilities: "Str 18, Dex 12, Con 18, Int 2, Wis 11, Cha 9"
+skills: "Athletics +12, Perception +17"
+skill-ranks: "Athletics 5, Perception 12"
+feats: "Combat Reflexes, Improved Natural Attack (bite), Iron Will, Lightning Reflexes, Toughness, Weapon Focus (bite)"
+environment: "Temperate marshes (pyrohydra: warm marshes, deserts or volcanic mountains; cryohydra: cold marshes or glaciers)"
 organization: "Solitary"
 challenge-rating: "11 (normal); 13 (pyro- or cryo-)"
-treasure: "1/10 coins; 50% goods; 50% items"
+treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/hydra/Hydra|Hydra]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hydra/Twelve-Headed Hydra|Twelve-Headed Hydra (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Twelve-Headed Hydra
 
   - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 12d10+63 (129 hp)
+  - **Hit Dice**: 12d10+60 (126 hp)
   - **Initiative**: +1
   - **Speed**: 20 ft. (4 squares), swim 20 ft.
-  - **Armor Class**: 22 (–2 size, +1 Dex, +13 natural), touch 9, flat-footed 21
-  - **Base Attack**: +12; **CMB**: +20; **CMD**: 31 (35 vs. trip)
-  - **Attack**: 12 bites +17 melee (2d8+6)
-  - **Full Attack**: 12 bites +17 melee (2d8+6)
+  - **Armor Class**: 22 (+1 Dex, +13 natural, –2 size), touch 9, flat-footed 21
+  - **Base Attack**: +12; **CMB**: +18; **CMD**: 29 (can't be tripped)
+  - **Attack**: Bite +15 melee (2d6+4)
+  - **Full Attack**: 12 bites +15 melee (2d6+4)
   - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: —
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 22, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +13, Ref +9, Will +6
-  - **Abilities**: Str 23, Dex 12, Con 20, Int 2, Wis 10, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +13 (+21 swimming), [[rangoric-srd/skills/Perception|Perception]] +13
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes (B)]] , [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
-  - **Environment**: Temperate marshes (Pyro: Warm marshes) (Cyro: Cold marshes)
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Pounce|Pounce]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 12, [[rangoric-srd/monsters/abilities/Hydra Traits|hydra traits]], [[rangoric-srd/monsters/abilities/Regenerate Head|regenerate head]]
+  - **Saves**: Fort +12, Ref +11, Will +6
+  - **Abilities**: Str 18, Dex 12, Con 18, Int 2, Wis 11, Cha 9
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +12, [[rangoric-srd/skills/Perception|Perception]] +17
+  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]] (bite), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite)
+  - **Environment**: Temperate marshes (pyrohydra: warm marshes, deserts or volcanic mountains; cryohydra: cold marshes or glaciers)
   - **Organization**: Solitary
   - **Challenge Rating**: 11 (normal); 13 (pyro- or cryo-)
-  - **Treasure**: 1/10 coins; 50% goods; 50% items
+  - **Treasure**: Standard
   - **Alignment**: Usually neutral
   - **Advancement**: —
   - **Level Adjustment**: —

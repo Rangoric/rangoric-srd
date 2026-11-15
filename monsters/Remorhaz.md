@@ -3,56 +3,58 @@ srd-type: "monster"
 section: "Monsters"
 size: "Huge"
 creature-type: "Magical Beast"
-hit-dice: "7d10+35 (73 hp)"
+hit-dice: "9d10+45 (94 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares), burrow 20 ft."
-armor-class: "20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19"
-base-attack: "+7"
-cmb: "+17 (+19 bull rush, +21 grapple)"
-cmd: "28 (30 vs. bull rush, can't be tripped)"
-attack: "Bite +13 melee (2d8+12)"
-full-attack: "Bite +13 melee (2d8+12)"
-space-reach: "15 ft./10 ft."
-special-attacks: "Improved grab, swallow whole"
-special-qualities: "Darkvision 60 ft., heat, low-light vision, tremorsense 60 ft."
-saves: "Fort +10, Ref +6, Will +3"
-abilities: "Str 26, Dex 13, Con 21, Int 5, Wis 12, Cha 10"
-skills: "Perception +15"
-skill-ranks: "Perception 7"
-feats: "Awesome Blow, Improved Bull Rush, Power Attack"
-environment: "Cold desert"
+armor-class: "20 (+1 Dex, +11 natural, –2 size), touch 9, flat-footed 19"
+base-attack: "+9"
+cmb: "+17 (+21 grapple)"
+cmd: "28 (can't be tripped)"
+attack: "Bite +13 melee (3d6+9 plus grab)"
+full-attack: "Bite +13 melee (3d6+9 plus grab)"
+space-reach: "15 ft./15 ft."
+special-attacks: "Heat, swallow whole (2d6+9 plus 8d6 fire, AC 15, hp 9)"
+special-qualities: "Darkvision 60 ft., low-light vision, tremorsense 60 ft, immunity to fire and cold"
+saves: "Fort +11, Ref +7, Will +4"
+abilities: "Str 22, Dex 13, Con 21, Int 5, Wis 12, Cha 10"
+skills: "Perception +16"
+skill-ranks: "Perception 12"
+feats: "Awesome Blow, Cleave, Improved Bull Rush, Power Attack, Skill Focus (Perception)"
+environment: "Cold deserts and glaciers"
 organization: "Solitary"
 challenge-rating: 7
 treasure: "None"
 alignment: "Usually neutral"
 advancement: "8–14 HD (Huge); 15–21 HD (Gargantuan)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Remorhaz|Remorhaz (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Remorhaz|Remorhaz (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Remorhaz
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Magical Beast]]
-  - **Hit Dice**: 7d10+35 (73 hp)
+  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
+  - **Hit Dice**: 9d10+45 (94 hp)
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares), burrow 20 ft.
-  - **Armor Class**: 20 (–2 size, +1 Dex, +11 natural), touch 9, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +17 (+19 bull rush, +21 grapple); **CMD**: 28 (30 vs. bull rush, can't be tripped)
-  - **Attack**: Bite +13 melee (2d8+12)
-  - **Full Attack**: Bite +13 melee (2d8+12)
-  - **Space/Reach**: 15 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]
-  - **Special Qualities**: Darkvision 60 ft., heat, low-light vision, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft.
-  - **Saves**: Fort +10, Ref +6, Will +3
-  - **Abilities**: Str 26, Dex 13, Con 21, Int 5, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]]
-  - **Environment**: Cold desert
+  - **Armor Class**: 20 (+1 Dex, +11 natural, –2 size), touch 9, flat-footed 19
+  - **Base Attack**: +9; **CMB**: +17 (+21 grapple); **CMD**: 28 (can't be tripped)
+  - **Attack**: Bite +13 melee (3d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: Bite +13 melee (3d6+9 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Space/Reach**: 15 ft./15 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Heat|Heat]], [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (2d6+9 plus 8d6 fire, AC 15, hp 9)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and cold
+  - **Saves**: Fort +11, Ref +7, Will +4
+  - **Abilities**: Str 22, Dex 13, Con 21, Int 5, Wis 12, Cha 10
+  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +16
+  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Environment**: Cold deserts and glaciers
   - **Organization**: Solitary
   - **Challenge Rating**: 7
   - **Treasure**: None
@@ -60,18 +62,18 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 8–14 HD (Huge); 15–21 HD (Gargantuan)
   - **Level Adjustment**: —
 
-A remorhaz is whitish-blue in color but pulses with a reddish glow from the heat its body produces. The creature is a little more than 20 feet long, with a body about 5 feet wide. It weighs about 10,000 pounds.
+In a world of ice and snow, the remorhaz is particularly feared for the terrible fires that burn within its body. These internal fires cause the armor plates along its back to glow red-hot when the creature is particularly angry, excited, or in pain. Creatures adapted to arctic regions are often particularly vulnerable to fire, making the remorhaz's primary defense an incredibly potent one and securing its role as a dangerous predator in such frozen reaches.
 
-Remorhazes cannot speak.
+Remorhazes dwell in extensive warrens carved into the hearts of glaciers. The beasts use their heat to melt tunnels through ice, tunnels whose smooth glassy sides swiftly refreeze in their wake to create uncommonly stable and numerous mazes.
+
+Although the remorhaz has much in common superficially with lesser vermin, the beast is surprisingly intelligent. While not capable of speech, the typical remorhaz has a good grasp of the Giant tongue, and tribes of giants often use this to their advantage to secure allegiances with the great beasts. Frost giants are particularly obsessed with them, for those giants who brave the cruel and deadly burns a remorhaz can inflict to become “worm friends” gain a potent weapon to use against their enemies—an assassin capable of burrowing up through the floor of a glacial keep to strike directly against a frost giant's greatest weakness: fire. Other giants use the beasts as living forges, for their backs are hot enough to melt metal.
+
+A remorhaz is 25 feet long and weighs 10,000 pounds.
+
+A remorhaz is whitish-blue in color but pulses with a reddish glow from the heat its body produces.
 
 ### Combat
 
 Remorhazes hide under the snow and ice until they hear movement above them, then attack from below and surprise prey.
 
-**Improved Grab (Ex)**: To use this ability, a remorhaz must hit an opponent least one size category smaller than itself with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can attempt to swallow the opponent the following round.
-
-**Swallow Whole (Ex)**: When a remorhaz begins its turn with a grappled opponent in its mouth, it can swallow that opponent with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 8d6 points of fire damage per round from the remorhaz’s gizzard. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 25 points of damage to the gizzard (AC 15). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out. A Huge remorhaz’s interior can hold 2 Large, 4 Medium, 8 Small, 32 Tiny, 128 Diminutive, or 512 Fine or smaller opponents.
-
-**Heat (Ex)**: An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed attacks are subject to this damage, but creatures striking with melee weapons do not take damage from the remorhaz’s heat. This heat can melt or char weapons; any weapon that strikes a remorhaz is allowed a DC 18 Fortitude save to avoid destruction. The save DC is Constitution-based.
-
-**Skills**: Remorhazes have a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+**Heat (Su)**: An enraged remorhaz generates heat so intense that anything touching its body takes 8d6 points of fire damage. Creatures striking a remorhaz with natural attacks or unarmed strikes are subject to this damage, but creatures striking with melee weapons are not. The heat can melt or burn weapons; any weapon that strikes a remorhaz is allowed a DC 19 Fortitude save to avoid taking damage. The save DC is Constitution-based.

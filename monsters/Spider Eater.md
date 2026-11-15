@@ -3,80 +3,86 @@ srd-type: "monster"
 section: "Monsters"
 size: "Large"
 creature-type: "Magical Beast"
-hit-dice: "4d10+20 (42 hp)"
-initiative: "+1"
+hit-dice: "5d10+25 (52 hp)"
+initiative: "+2"
 speed: "30 ft. (6 squares), fly 60 ft. (good)"
-armor-class: "14 (–1 size, +1 Dex, +4 natural), touch 10, flatfooted 13"
-base-attack: "+4"
-cmb: "+10"
-cmd: "22"
-attack: "Sting +8 melee (1d8+5 plus poison)"
-full-attack: "Sting +8 melee (1d8+5 plus poison) and bite +3 melee (1d8+2)"
+armor-class: "18 (+2 Dex, +1 dodge, +6 natural, –1 size), touch 12, flat-footed 15"
+base-attack: "+5"
+cmb: "+11"
+cmd: "24"
+attack: "Bite +9 melee (1d8+5) or pincer +9 melee (1d6+2) or sting +9 melee (1d6+5 plus poison)"
+full-attack: "Bite +9 melee (1d8+5) and 2 pincers +4 melee (1d6+2) and sting +9 melee (1d6+5 plus poison)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Implant, poison"
-special-qualities: "Darkvision 60 ft., freedom of movement, lowlight vision, scent"
-saves: "Fort +9, Ref +5, Will +2"
-abilities: "Str 21, Dex 13, Con 21, Int 2, Wis 12, Cha 10"
-skills: "Perception +15"
-skill-ranks: "Perception 4"
-feats: "Dodge, Skill Focus (Perception)"
+special-attacks: "Implant, poison, spell-like abilities"
+special-qualities: "Darkvision 60 ft., low-light vision, scent, freedom of movement"
+saves: "Fort +9, Ref +6, Will +2"
+abilities: "Str 21, Dex 14, Con 21, Int 3, Wis 12, Cha 10"
+skills: "Acrobatics +8, Perception +15"
+skill-ranks: "Acrobatics 5, Perception 7"
+feats: "Dodge, Hover, Skill Focus (Perception)"
 environment: "Temperate forests"
-organization: "Solitary"
+organization: "Solitary or brood (2–12)"
 challenge-rating: 5
 treasure: "None"
 alignment: "Always neutral"
 advancement: "5–12 HD (Huge)"
 level-adjustment: "—"
+book: "Bestiary 3"
 based-on:
+  - "[[path srd 3.5/monsters/Spider Eater|Spider Eater (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Spider Eater|Spider Eater (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Spider Eater
 
   - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 4d10+20 (42 hp)
-  - **Initiative**: +1
+  - **Hit Dice**: 5d10+25 (52 hp)
+  - **Initiative**: +2
   - **Speed**: 30 ft. (6 squares), fly 60 ft. (good)
-  - **Armor Class**: 14 (–1 size, +1 Dex, +4 natural), touch 10, flatfooted 13
-  - **Base Attack**: +4; **CMB**: +10; **CMD**: 22
-  - **Attack**: Sting +8 melee (1d8+5 plus poison)
-  - **Full Attack**: Sting +8 melee (1d8+5 plus poison) and bite +3 melee (1d8+2)
+  - **Armor Class**: 18 (+2 Dex, +1 dodge, +6 natural, –1 size), touch 12, flat-footed 15
+  - **Base Attack**: +5; **CMB**: +11; **CMD**: 24
+  - **Attack**: Bite +9 melee (1d8+5) or pincer +9 melee (1d6+2) or sting +9 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Full Attack**: Bite +9 melee (1d8+5) and 2 pincers +4 melee (1d6+2) and sting +9 melee (1d6+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Poison|poison]]
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/spells/Freedom of Movement|freedom of movement]], lowlight vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +9, Ref +5, Will +2
-  - **Abilities**: Str 21, Dex 13, Con 21, Int 2, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +15
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], freedom of movement
+  - **Saves**: Fort +9, Ref +6, Will +2
+  - **Abilities**: Str 21, Dex 14, Con 21, Int 3, Wis 12, Cha 10
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Perception|Perception]] +15
+  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Temperate forests
-  - **Organization**: Solitary
+  - **Organization**: Solitary or brood (2–12)
   - **Challenge Rating**: 5
   - **Treasure**: None
   - **Alignment**: Always neutral
   - **Advancement**: 5–12 HD (Huge)
   - **Level Adjustment**: —
 
-A spider eater is about 10 feet long and 4 feet high, and has a wingspan of about 20 feet. It weighs about 4,000 pounds.
+An amalgam of dangerous creatures, this predator, as its name suggests, prefers to hunt and feed upon spiders. Their greatest boon to spider hunting, aside from their stinger, ability to fly, and strong pincers, is their ability to slip through the stickiest of webs in order to get to their prey. Unfortunately for other creatures, when a spider eater is denied its preferred prey, it seeks out any living creature it can find to serve as a host for its ravenous young.
+
+When hunting, a spider eater drops from the air onto its victim, stinging the prey with its barbed tail. The creature then returns to the air and hovers, waiting for its venom to take hold. Once the opponent succumbs to paralysis, the spider eater lands again, either to feed or implant its egg.
+
+Although more intelligent than the typical beast, to the point where it can understand a language (usually Aklo), the spider eater is relatively slow-witted. Nevertheless, it is intelligent enough that it resists training—those who seek to ally with spider eaters must befriend them via diplomacy and gifts of spiders to feed upon or implant eggs into, or via intimidation and coercion.
+
+A spider eater measures roughly 14 feet long and stands 6 feet tall. The creature has a wingspan just over 20 feet and weighs almost 2,000 pounds.
 
 ### Combat
 
 A spider eater attacks with its venomous sting and powerful mandibles. Its usual tactic is to deliver a sting, then back off, hovering out of reach until the venom takes effect.
 
-**Implant (Ex)**: Female spider eaters lay their eggs inside [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] creatures of Large or larger size. The young emerge about six weeks later, literally devouring the host from inside.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +10): Constant—*[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*. When the spider eater serves as a mount, this effect does not extend to its rider.
 
-**Poison (Ex)**: Injury, Fortitude DC 17, initial damage none, secondary damage [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]] for 1d8+5 weeks. The save DC is Constitution-based.
+**Implant (Ex)**: A spider eater grows its eggs inside of a living host. Implanting an egg in a host is a full-round action that provokes attacks of opportunity, and the target must be [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] but alive. Once an egg is implanted, it exudes paralytic enzymes that not only keep the victim in state of perpetual paralysis, but also keep it nourished and alive in its comatose but fully aware state. This condition lasts until the egg hatches in 1d6 weeks, at which point the young spider eater consumes most of its host, killing it. An egg can be surgically removed with a DC 25 Medicine check (this check deals 2d6 points of damage to the host regardless of success), at which point the host recovers from the paralysis in 1d6 rounds. Any magical effect that removes paralysis or disease (such as remove paralysis, remove disease, or heal) also destroys the egg, but mere immunity to paralysis or disease does not offer protection.
 
-**Freedom of Movement (Su)**: Spider eaters have a continuous [[rangoric-srd/spells/Freedom of Movement|freedom of movement]] ability as the spell (caster level 12th). When the spider eater serves as a mount, this effect does not extend to its rider.
-
-**Skills**: Spider eaters have a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; *save* Fort DC 17; *frequency* 1/minute for 6 minutes; *effect* paralysis for 1 minute; *cure* 1 save. The save DC is Constitution-based.
 
 ### Training a Spider Eater
 
-A spider eater requires training before it can bear a rider in combat. Training a spider eater requires six weeks of work and a DC 25 [[rangoric-srd/skills/Animal Handling|Animal Handling]] check. Riding a spider eater requires an exotic saddle. A spider eater can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on an [[rangoric-srd/skills/Animal Handling|Animal Handling]] check.
+Even a befriended spider eater requires training before it can bear a rider in combat. Training a spider eater requires six weeks of work and a DC 25 [[rangoric-srd/skills/Animal Handling|Animal Handling]] check. Riding a spider eater requires an exotic saddle. A spider eater can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on an [[rangoric-srd/skills/Animal Handling|Animal Handling]] check.
 
 Spider eater eggs are worth 2,000 gp apiece on the open market, while young are worth 3,000 gp each. Professional trainers charge 3,000 gp to rear or train a spider eater.
 

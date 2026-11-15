@@ -3,83 +3,86 @@ srd-type: "monster"
 section: "Monsters"
 size: "Gargantuan"
 creature-type: "Magical Beast"
-subtypes:
-  - "Aquatic"
+subtypes: ["Aquatic"]
 hit-dice: "20d10+180 (290 hp)"
 initiative: "+4"
-speed: "Swim 20 ft. (4 squares)"
-armor-class: "20 (–4 size, +14 natural), touch 6, flat-footed 20"
+speed: "10 ft. (2 squares), swim 40 ft., jet 280 ft."
+armor-class: "32 (+26 natural, –4 size), touch 6, flat-footed 32"
 base-attack: "+20"
-cmb: "+36 (+40 grapple, +38 trip)"
-cmd: "46 (can't be tripped)"
-attack: "Tentacle +28 melee (2d8+12/19–20)"
-full-attack: "2 tentacles +28 melee (2d8+12/19–20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6)"
-space-reach: "20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm)"
-special-attacks: "Improved grab, constrict 2d8+12 or 1d6+6"
-special-qualities: "Darkvision 60 ft., ink cloud, jet, low-light vision, spell-like abilities"
-saves: "Fort +21, Ref +12, Will +13"
-abilities: "Str 34, Dex 10, Con 29, Int 21, Wis 20, Cha 20"
-skills: "Athletics +35 (+43 swimming), Emulation +28, Fieldcraft +10 (+12 following tracks), Intimidation +19, Society +20, Nature +19, Perception +34, Persuasion +5, Investigation +28, Sense Motive +20, Stealth +3"
-skill-ranks: "Athletics 20, Emulation 20, Fieldcraft 2, Intimidation 11, Investigation 20, Nature 11, Perception 20, Persuasion 0, Sense Motive 12, Society 12, Stealth 12"
-feats: "Blind-Fight, Combat Expertise, Improved Critical (tentacle), Improved Initiative, Improved Trip, Iron Will, Skill Focus (Perception)"
-environment: "Temperate aquatic"
+cmb: "+34 (+38 grappling)"
+cmd: "44 (can't be tripped)"
+attack: "Arm +26 melee (2d6+10/19–20 plus grab) or tentacle +29 melee (1d8+5 plus grab) or bite +26 melee (2d8+10)"
+full-attack: "2 arms +26 melee (2d6+10/19–20 plus grab) and 8 tentacles +24 melee (1d8+5 plus grab) and bite +26 melee (2d8+10)"
+space-reach: "20 ft./20 ft. (60 ft. with arm, 40 ft. with tentacle)"
+special-attacks: "Constrict (tentacles, 1d8+10), ink cloud, rend ship, spell-like abilities"
+special-qualities: "Darkvision 120 ft., low-light vision, tenacious grapple, immunity to cold, mind-affecting effects and poison"
+saves: "Fort +21, Ref +12, Will +11"
+abilities: "Str 30, Dex 10, Con 29, Int 21, Wis 20, Cha 21"
+skills: "Athletics +41, Emulation +25, Intimidation +25, Nature +25, Perception +28, Society +25, Stealth +11"
+skill-ranks: "Athletics 28, Emulation 17, Intimidation 17, Nature 17, Perception 20, Society 17, Stealth 20"
+feats: "Bleeding Critical, Blind-Fight, Cleave, Combat Expertise, Critical Focus, Improved Critical (arm), Improved Initiative, Improved Trip, Multiattack, Power Attack"
+environment: "Any ocean"
 organization: "Solitary"
-challenge-rating: 12
-treasure: "Triple standard"
+challenge-rating: 18
+treasure: "Triple"
 alignment: "Usually neutral evil"
 advancement: "21–32 HD (Gargantuan); 33–60 HD (Colossal)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Kraken|Kraken (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Kraken|Kraken (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Kraken
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|Aquatic]])
+  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]] (Aquatic)
   - **Hit Dice**: 20d10+180 (290 hp)
   - **Initiative**: +4
-  - **Speed**: Swim 20 ft. (4 squares)
-  - **Armor Class**: 20 (–4 size, +14 natural), touch 6, flat-footed 20
-  - **Base Attack**: +20; **CMB**: +36 (+40 grapple, +38 trip); **CMD**: 46 (can't be tripped)
-  - **Attack**: Tentacle +28 melee (2d8+12/19–20)
-  - **Full Attack**: 2 tentacles +28 melee (2d8+12/19–20) and 6 arms +23 melee (1d6+6) and bite +23 melee (4d6+6)
-  - **Space/Reach**: 20 ft./15 ft. (60 ft. with tentacle, 30 ft. with arm)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], [[rangoric-srd/monsters/abilities/Constrict|constrict]] 2d8+12 or 1d6+6
-  - **Special Qualities**: Darkvision 60 ft., ink cloud, jet, low-light vision, spell-like abilities
-  - **Saves**: Fort +21, Ref +12, Will +13
-  - **Abilities**: Str 34, Dex 10, Con 29, Int 21, Wis 20, Cha 20
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +35 (+43 swimming), [[rangoric-srd/skills/Emulation|Emulation]] +28, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +10 (+12 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Investigation|Investigation]] +28, [[rangoric-srd/skills/Nature|Nature]] +19, [[rangoric-srd/skills/Perception|Perception]] +34, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +20, [[rangoric-srd/skills/Society|Society]] +20, [[rangoric-srd/skills/Stealth|Stealth]] +3
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (tentacle), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Temperate aquatic
+  - **Speed**: 10 ft. (2 squares), swim 40 ft., jet 280 ft.
+  - **Armor Class**: 32 (+26 natural, –4 size), touch 6, flat-footed 32
+  - **Base Attack**: +20; **CMB**: +34 (+38 grappling); **CMD**: 44 (can't be tripped)
+  - **Attack**: Arm +26 melee (2d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or tentacle +29 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +26 melee (2d8+10)
+  - **Full Attack**: 2 arms +26 melee (2d6+10/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 8 tentacles +24 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +26 melee (2d8+10)
+  - **Space/Reach**: 20 ft./20 ft. (60 ft. with arm, 40 ft. with tentacle)
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Constrict|Constrict]] (tentacles, 1d8+10), ink cloud, [[rangoric-srd/monsters/abilities/Rend|rend]] ship, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 120 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], tenacious grapple, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, mind-affecting effects and poison
+  - **Saves**: Fort +21, Ref +12, Will +11
+  - **Abilities**: Str 30, Dex 10, Con 29, Int 21, Wis 20, Cha 21
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +41, [[rangoric-srd/skills/Emulation|Emulation]] +25, [[rangoric-srd/skills/Intimidation|Intimidation]] +25, [[rangoric-srd/skills/Nature|Nature]] +25, [[rangoric-srd/skills/Perception|Perception]] +28, [[rangoric-srd/skills/Society|Society]] +25, [[rangoric-srd/skills/Stealth|Stealth]] +11
+  - **Feats**: [[rangoric-srd/feats/Bleeding Critical|Bleeding Critical]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (arm), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Trip|Improved Trip]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+  - **Environment**: Any ocean
   - **Organization**: Solitary
-  - **Challenge Rating**: 12
-  - **Treasure**: Triple standard
+  - **Challenge Rating**: 18
+  - **Treasure**: Triple
   - **Alignment**: Usually neutral evil
   - **Advancement**: 21–32 HD (Gargantuan); 33–60 HD (Colossal)
   - **Level Adjustment**: —
 
-Six of the beast’s tentacles are shorter arms about 30 feet long; the remaining two are nearly 60 feet long and covered with barbs. Its beaklike mouth is located where the tentacles meet the lower portion of its body.
+The legendary kraken is one of the greatest of sailors' fears, for here is a creature the size of a whale, one that can strike from the unseen depths below, can command the winds and weather that a ship needs to move, and possesses the cruel intellect of the world's most creative and spiteful criminals. Some believe krakens to be a punishment of the gods, while others hold them to be the true lords of the deep, with the air-breathing races naught but their cattle.
+
+A kraken measures nearly 100 feet in length and weighs 4,000 pounds.
+
+Its beaklike mouth is located where the tentacles meet the lower portion of its body.
 
 Krakens speak Common and Aquan.
 
 ### Combat
 
-Krakens strike their opponents with their barbed tentacles, then [[rangoric-srd/combat/Combat Maneuvers#Grapple|grab]] and crush with their arms or drag victims into their huge jaws. An opponent can make [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempts against a kraken’s tentacles or arms as if they were weapons. A kraken’s tentacles have 20 hit points, and its arms have 10 hit points. If a kraken is currently [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]] a target with one tentacle or arm, it usually uses another limb to make its attack of opportunity against the sunder attempt. Severing a kraken’s tentacle or arm deals damage to the kraken equal to half the limb’s full normal hit points. A kraken usually withdraws from combat if it loses both tentacles or three of its arms. A kraken regrows severed limbs in 1d10+10 days.
+Krakens strike their opponents with their barbed arms, then [[rangoric-srd/combat/Combat Maneuvers#Grapple|grab]] and crush with their tentacles or drag victims into their huge jaws. An opponent can make [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempts against a kraken’s arms or tentacles as if they were weapons. A kraken’s arms have 20 hit points, and its tentacles have 10 hit points. If a kraken is currently [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]] a target with one arm or tentacle, it usually uses another limb to make its attack of opportunity against the sunder attempt. Severing a kraken’s arm or tentacle deals damage to the kraken equal to half the limb’s full normal hit points. A kraken usually withdraws from combat if it loses both arms or three of its tentacles. A kraken regrows severed limbs in 1d10+10 days.
 
-**Improved Grab (Ex)**: To use this ability, the kraken must hit with an arm or tentacle attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can constrict.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 15th): 1/day—*[[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Control Winds|control winds]], [[rangoric-srd/spells/Dominate Monster|dominate monster]]* (DC 24, animal only), *[[rangoric-srd/spells/Resist Energy|resist energy]]*.
 
-**Constrict (Ex)**: A kraken deals automatic arm or tentacle damage with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
+**Ink Cloud (Ex)**: A kraken can emit a cloud of black, venomous ink in an 80-foot spread once per minute as a free action while underwater. This cloud provides total concealment, which the kraken can use to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness. In addition, the ink is toxic, functioning as contact poison against all creatures caught within it. The ink cloud persists for 1 minute before dispersing. The save DC against the poison effect is Constitution-based.
 
-**Jet (Ex)**: A kraken can jet backward once per round as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
+*Kraken Ink Cloud*: contact; *save* Fort DC 29; *frequency* 1/round for 10 rounds; *effect* 1 Str damage plus nausea; *cure* 2 consecutive saves.
 
-**Ink Cloud (Ex)**: A kraken can emit a cloud of jet-black ink in an 80-foot spread once per minute as a free action. The cloud provides total concealment, which the kraken normally uses to escape a fight that is going badly. Creatures within the cloud are considered to be in darkness.
+**Jet (Ex)**: A kraken can jet backward as a full-round action, at a speed of 280 feet. It must move in a straight line, but does not provoke attacks of opportunity while jetting.
 
-**Spell-Like Abilities**:Caster level 9th. The save DC is Charisma-based.  
+**Rend Ship (Ex)**: As a full-round action, a kraken can attempt to use four of its tentacles to grapple a ship of its size or smaller. It makes a CMB check opposed by the ship's captain's Profession (sailor) check, but the kraken gets a cumulative +4 bonus on the check for each size category smaller than Gargantuan the ship is. If the kraken grapples the ship, it holds the ship motionless; it can attack targets anywhere on or within the ship with its tentacles, but can only attack foes on deck with its free arms and can't attack foes at all with its beak. Each round it maintains its hold on the ship, it automatically inflicts bite damage on the ship's hull.
 
-1/day - [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Control Winds|control winds]], [[rangoric-srd/spells/Dominate Animal|dominate animal]] (DC 18), [[rangoric-srd/spells/Resist Energy|resist energy]].  
-
-**Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a kraken is better at swimming.
+**Tenacious Grapple (Ex)**: A kraken does not gain the grappled condition if it grapples a foe with its arms or tentacles.

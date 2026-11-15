@@ -6,11 +6,13 @@ size: "Huge"
 creature-type: "Magical Beast"
 subtypes:
   - "Cold"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Hydra|Hydra (PF1)]]"
   - "[[fantasy srd 3.5/monsters/hydra/Cryohydra|Cryohydra (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -18,6 +20,6 @@ tags: [rangoric, rangoric/monster]
 
   - Huge Magical Beast (Cold)
 
-These purplish hydras can [[rangoric-srd/monsters/abilities/Breath Weapon|breathe]] jets of frost 10 feet high, 10 feet wide, and 20 feet long. All heads breathe once every 1d4 rounds. Each jet deals 3d6 points of cold damage per head. A successful Reflex save halves the damage. The save DC is 10 + 1/2 hydra’s original number of heads + hydra’s Con modifier.
+A variant of the [[rangoric-srd/monsters/hydra/Hydra|hydra]] with any number of heads (+2 CR). The cryohydra lives in cold marshes or on glaciers, and gains the Cold subtype. These purplish hydras have a [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]] in each head (15-ft. cone, 3d6 cold damage, Reflex half), usable every 1d4 rounds. The save DC is 10 + 1/2 the hydra’s HD + the hydra’s Con modifier.
 
-Cold attacks cannot prevent a cryohydra’s stump from growing new heads (since a cryohydra has immunity to cold), but 5 points of fire damage does.
+Cold attacks cannot prevent a cryohydra’s stump from growing new heads (since a cryohydra has immunity to cold), but 5 points of fire damage does. Acid works normally on both hydra variants.
