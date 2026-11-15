@@ -25,13 +25,13 @@ All dragons speak Draconic.
 
 A dragon attacks with its powerful claws and bite, and can also use a breath weapon and special physical attacks, depending on its size. It prefers to fight on the wing, staying out of reach until it has worn down the enemy with ranged attacks. Older, more intelligent dragons are adept at sizing up the opposition and eliminating the most dangerous foes first (or avoiding them while picking off weaker enemies).
 
-The table below provides space and reach statistics for dragons of various sizes, plus the natural weapons a dragon of a certain size can employ and the damage those attacks deal.
+The table below provides space and reach statistics and fly speeds for dragons of various sizes, plus the natural weapons a dragon of a certain size can employ and the damage those attacks deal.
 
-**Bite**: Bite attacks deal the indicated damage plus the dragon’s Strength bonus. A dragon also can use its bite to snatch opponents if it has the Snatch feat.
+**Bite**: Bite attacks deal the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down), even when the dragon makes other attacks. A dragon also can use its bite to snatch opponents if it has the Snatch feat.
 
-**Claw**: Claw attacks deal the indicated damage plus 1/2 the dragon’s Strength bonus (round down). The dragon also can use its claws to snatch opponents if it has the Snatch feat. Claw attacks are secondary attacks, requiring a –5 penalty on the attack roll. (Many dragons choose the Multiattack feat to lessen this penalty to –2).
+**Claw**: Claw attacks deal the indicated damage plus the dragon’s Strength bonus. The dragon also can use its claws to snatch opponents if it has the Snatch feat. Claw attacks are primary attacks, made with the dragon’s full attack bonus.
 
-**Wing**: The dragon can slam opponents with its wings, even when flying. Wing attacks deal the indicated damage plus 1/2 the dragon’s Strength bonus (round down) and are treated as secondary attacks.
+**Wing**: The dragon can slam opponents with its wings, even when flying. Wing attacks deal the indicated damage plus 1/2 the dragon’s Strength bonus (round down) and are treated as secondary attacks, requiring a –5 penalty on the attack roll (many dragons choose the Multiattack feat to lessen this penalty to –2).
 
 **Tail Slap**: The dragon can slap one opponent each round with its tail. A tail slap deals the indicated damage plus 1-1/2 times the dragon’s Strength bonus (round down) and is treated as a secondary attack.
 
@@ -67,54 +67,56 @@ Breath weapons come in two basic shapes, line and cone, whose areas vary with th
 
 \*\* *A cone is as high and wide as its length.*
 
-**Frightful Presence (Ex)**: A young adult or older dragon can unsettle foes with its mere presence. The ability takes effect automatically whenever the dragon attacks, charges, or flies overhead. Creatures within a radius of 30 feet x the dragon’s age category are subject to the effect if they have fewer HD than the dragon. A potentially affected creature that succeeds on a Will save (DC 10 + 1/2 dragon’s HD + dragon’s Cha modifier) remains immune to that dragon’s frightful presence for 24 hours. On a failure, creatures with 4 or less HD become panicked for 4d6 rounds and those with 5 or more HD become shaken for 4d6 rounds. Dragons ignore the frightful presence of other dragons.
+**Frightful Presence (Ex)**: From the age its variety description gives, a dragon has [[rangoric-srd/monsters/abilities/Frightful Presence|frightful presence]], which takes effect whenever the dragon attacks, charges, or flies overhead. Its range is 30 feet × the dragon’s age category, and the save DC is 10 + 1/2 dragon’s HD + dragon’s Cha modifier. Dragons ignore the frightful presence of other dragons.
 
 **Spells**: A dragon knows and casts arcane spells as a sorcerer of the level indicated in its variety description, gaining bonus spells for a high Charisma score. Some dragons can also cast spells from the cleric list or cleric domain lists as arcane spells.
 
-**Spell-Like Abilities**: A dragon’s spell-like abilities depend on its age and variety. It gains the abilities indicated for its age plus all previous ones. Its caster level for these abilities equals its Hit Dice. The save DC is 10 + dragon’s Cha modifier + spell level. All spell-like abilities are usable once per day unless otherwise noted.
+**Spell-Like Abilities**: A dragon’s spell-like abilities depend on its age and variety. It gains the abilities indicated for its age plus all previous ones. Its caster level for these abilities equals its Hit Dice. The save DC is 10 + dragon’s Cha modifier + spell level. All spell-like abilities are usable at will unless otherwise noted.
 
 **Damage Reduction**: Young adult and older dragons have damage reduction. Their natural weapons are treated as magic weapons for the purpose of overcoming damage reduction.
 
 **Immunities (Ex)**: All dragons have immunity to sleep and paralysis effects. Each variety of dragon has immunity to one or two additional forms of attack no matter what its age, as given in its description.
 
-**Spell Resistance (Ex)**: As dragons age, they become more resistant to spells and spell-like abilities, as indicated in the variety descriptions.
+**Spell Resistance (Ex)**: As dragons age, they become more resistant to spells and spell-like abilities. From the age its variety description gives, a dragon has [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 11 + its CR.
 
 **Blindsense (Ex)**: Dragons can pinpoint creatures within a distance of 60 feet. Opponents the dragon can’t actually see still have total concealment against the dragon.
 
 **Keen Senses (Ex)**: A dragon sees four times as well a human in shadowy illumination and twice as well in normal light. It also has darkvision out to 120 feet.
 
-**Skills**: All dragons have skill points equal to (6 + Int modifier, minimum 1) x Hit Dice. Most dragons purchase the following skills at the maximum ranks possible: Perception and Investigation. The remaining skill points are generally spent on [[rangoric-srd/skills/Meditation|Meditation]], Persuasion, Escape Artist, Intimidation, Knowledge skill (any), Sense Motive, and Emulation at a cost of 1 skill point per rank. All these skills are considered class skills for dragons. (Each dragon has other class skills as well, as noted in the variety descriptions.)
+**Skills**: All dragons have skill points equal to (6 + Int modifier, minimum 1) x Hit Dice. Their class skills are those of the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|dragon type]]. [[rangoric-srd/skills/Imitation|Imitation]] is a class skill for bronze, gold and silver dragons. Each variety description lists the skills its dragons typically take at each age.
 
-**Feats**: All dragons have one feat, plus additional feats based on Hit Dice just like any other creature. Dragons favor Skill Focus (Perception), Blind-Fight, Cleave, Flyby Attack, Hover, Improved Initiative, Improved Sunder, Power Attack, Snatch, Weapon Focus (claw or bite), Wingover, and any metamagic feat that is available and useful to sorcerers.
+**Feats**: A dragon has feats based on its Hit Dice like any other creature. Dragons favor [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Critical|Improved Critical]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Hover|Hover]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (bite), and any metamagic feat that is useful to sorcerers.
 
 **Dragon Age Categories**
 
-| Category       | Age (Years)   |
-| -------------- | ------------- |
-| 1 Wyrmling     | 0–5           |
-| 2 Very young   | 6–15          |
-| 3 Young        | 16–25         |
-| 4 Juvenile     | 26–50         |
-| 5 Young adult  | 51–100        |
-| 6 Adult        | 101–200       |
-| 7 Mature adult | 201–400       |
-| 8 Old          | 401–600       |
-| 9 Very old     | 601–800       |
-| 10 Ancient     | 801–1,000     |
-| 11 Wyrm        | 1,001–1,200   |
-| 12 Great wyrm  | 1,201 or more |
+A variety's wyrmling, the first row of its description's tables, is its **base statistics** (CR, size, Hit Dice, ability scores, natural armor and breath weapon damage); each older age adds the changes below to them. Size changes are steps up from the base size.
+
+| Category | Age (Years) | CR | Size | Hit Dice | Str | Dex | Con | Int, Wis, Cha | Natural Armor | Breath Weapon |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1 Wyrmling | 0–5 | base | base | base | base | base | base | base | base | 1× base |
+| 2 Very young | 6–15 | +2 | +1 | +2 | +4 | –2 | +2 | +2 | +3 | 2× base |
+| 3 Young | 16–25 | +4 | +2 | +4 | +8 | –2 | +4 | +2 | +6 | 3× base |
+| 4 Juvenile | 26–50 | +5 | +2 | +6 | +10 | –2 | +6 | +4 | +9 | 4× base |
+| 5 Young adult | 51–100 | +7 | +3 | +8 | +12 | –4 | +6 | +4 | +12 | 5× base |
+| 6 Adult | 101–200 | +8 | +3 | +10 | +14 | –4 | +8 | +6 | +15 | 6× base |
+| 7 Mature adult | 201–400 | +9 | +3 | +12 | +16 | –4 | +8 | +6 | +18 | 7× base |
+| 8 Old | 401–600 | +11 | +4 | +14 | +18 | –6 | +10 | +8 | +21 | 8× base |
+| 9 Very old | 601–800 | +12 | +4 | +16 | +20 | –6 | +10 | +8 | +24 | 9× base |
+| 10 Ancient | 801–1,000 | +13 | +4 | +18 | +22 | –6 | +12 | +10 | +27 | 10× base |
+| 11 Wyrm | 1,001–1,200 | +14 | +4 | +20 | +24 | –8 | +12 | +10 | +30 | 11× base |
+| 12 Great wyrm | 1,201 or more | +16 | +5 | +22 | +26 | –8 | +14 | +12 | +33 | 12× base |
 
 **Dragon Space/Reach, Attacks, and Damage**
 
-| Size       | Space/Reach (\*)                  | 1 Bite | 2 Claws | 2 Wings | 1 Tail Slap | 1 Crush | 1 Tail Sweep |
-| ---------- | --------------------------------- | ------ | ------- | ------- | ----------- | ------- | ------------ |
-| Tiny       | 2-1/2 ft./0 ft. (5 ft. with bite) | 1d4    | 1d3     | —       | —           | —       | —            |
-| Small      | 5 ft./5 ft.                       | 1d6    | 1d4     | —       | —           | —       | —            |
-| Medium     | 5 ft./5 ft.                       | 1d8    | 1d6     | 1d4     | —           | —       | —            |
-| Large      | 10 ft./5 ft. (10 ft. with bite)   | 2d6    | 1d8     | 1d6     | 1d8         | —       | —            |
-| Huge       | 15 ft./10 ft. (15 ft. with bite)  | 2d8    | 2d6     | 1d8     | 2d6         | 2d8     | —            |
-| Gargantuan | 20 ft./15 ft. (20 ft. with bite)  | 4d6    | 2d8     | 2d6     | 2d8         | 4d6     | 2d6          |
-| Colossal   | 30 ft./20 ft. (30 ft. with bite)  | 4d8    | 4d6     | 2d8     | 4d6         | 4d8     | 2d8          |
+| Size | Space/Reach (\*) | Fly Speed (Maneuverability) | 1 Bite | 2 Claws | 2 Wings | 1 Tail Slap | 1 Crush | 1 Tail Sweep |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Tiny | 2-1/2 ft./0 ft. (5 ft. with bite) | 100 ft. (average) | 1d4 | 1d3 | — | — | — | — |
+| Small | 5 ft./5 ft. | 150 ft. (average) | 1d6 | 1d4 | — | — | — | — |
+| Medium | 5 ft./5 ft. | 150 ft. (average) | 1d8 | 1d6 | 1d4 | — | — | — |
+| Large | 10 ft./5 ft. (10 ft. with bite) | 200 ft. (poor) | 2d6 | 1d8 | 1d6 | 1d8 | — | — |
+| Huge | 15 ft./10 ft. (15 ft. with bite) | 200 ft. (poor) | 2d8 | 2d6 | 1d8 | 2d6 | 2d8 | — |
+| Gargantuan | 20 ft./15 ft. (20 ft. with bite) | 250 ft. (clumsy) | 4d6 | 2d8 | 2d6 | 2d8 | 4d6 | 2d6 |
+| Colossal | 30 ft./20 ft. (30 ft. with bite) | 250 ft. (clumsy) | 4d8 | 4d6 | 2d8 | 4d6 | 4d8 | 2d8 |
 
 \* *A dragon’s bite attack has reach as if the creature were one size category larger. All other attacks are made with the standard reach for the dragon’s size.*
 

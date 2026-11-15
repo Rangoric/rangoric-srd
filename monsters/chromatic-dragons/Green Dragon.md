@@ -1,78 +1,137 @@
 ---
 srd-type: "monster"
 section: "Monsters"
+creature-type: "Dragon"
+subtypes: ["Air"]
 group: "[[rangoric-srd/monsters/chromatic-dragons/Chromatic Dragons|Chromatic Dragons]]"
 environment: "Temperate forests"
 organization: "Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)"
+challenge-rating: [4, 6, 8, 9, 11, 12, 13, 15, 16, 17, 18, 20]
 treasure: "Triple standard"
 alignment: "Always lawful evil"
-advancement: "Wyrmling 6–7 HD; very young 9–10 HD; young 12–13 HD; juvenile 15–16 HD; young adult 18–19 HD; adult 21–22 HD; mature adult 24–25 HD; old 27–28 HD; very old 30–31 HD; ancient 33–34 HD; wyrm 36–37 HD; great wyrm 39+ HD"
+advancement: "Wyrmling 6 HD; very young 8 HD; young 10 HD; juvenile 12 HD; young adult 14 HD; adult 16 HD; mature adult 18 HD; old 20 HD; very old 22 HD; ancient 24 HD; wyrm 26 HD; great wyrm 28+ HD"
 level-adjustment: "Wyrmling +5; very young +5; young +5; juvenile +6; others —"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green|Green Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green, Young|Young Green Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green, Adult|Adult Green Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Green, Ancient|Ancient Green Dragon (PF1)]]"
   - "[[fantasy srd 3.5/monsters/chromatic-dragons/Green Dragon|Green Dragon (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Green Dragon
 
-  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|Air]])
+  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]])
   - **Environment**: Temperate forests
   - **Organization**: Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
-  - **Challenge Ratings**: Wyrmling 3; very young 4; young 5; juvenile 8; young adult 11; adult 13; mature adult 16; old 18; very old 19; ancient 21; wyrm 22; great wyrm 24
+  - **Challenge Ratings**: Wyrmling 4; very young 6; young 8; juvenile 9; young adult 11; adult 12; mature adult 13; old 15; very old 16; ancient 17; wyrm 18; great wyrm 20
   - **Treasure**: Triple standard
   - **Alignment**: Always lawful evil
-  - **Advancement**: Wyrmling 6–7 HD; very young 9–10 HD; young 12–13 HD; juvenile 15–16 HD; young adult 18–19 HD; adult 21–22 HD; mature adult 24–25 HD; old 27–28 HD; very old 30–31 HD; ancient 33–34 HD; wyrm 36–37 HD; great wyrm 39+ HD
+  - **Advancement**: Wyrmling 6 HD; very young 8 HD; young 10 HD; juvenile 12 HD; young adult 14 HD; adult 16 HD; mature adult 18 HD; old 20 HD; very old 22 HD; ancient 24 HD; wyrm 26 HD; great wyrm 28+ HD
   - **Level Adjustment**: Wyrmling +5; very young +5; young +5; juvenile +6; others —
 
 **Green Dragons by Age**
 
 | Age | Size | Hit Dice (hp) | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Frightful Presence DC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wyrmling | S | 5d12+5 (37) | 13 | 10 | 13 | 10 | 11 | 10 | +5/+5 | 15 (19 vs. trip) | +7 | +5 | +4 | +4 | 2d6 (13) | — |
-| Very young | M | 8d12+16 (68) | 15 | 10 | 15 | 10 | 11 | 10 | +8/+10 | 20 (24 vs. trip) | +10 | +8 | +6 | +6 | 4d6 (16) | — |
-| Young | M | 11d12+22 (93) | 17 | 10 | 15 | 12 | 13 | 12 | +11/+14 | 24 (28 vs. trip) | +14 | +9 | +7 | +8 | 6d6 (17) | — |
-| Juvenile | L | 14d12+42 (133) | 19 | 10 | 17 | 14 | 15 | 14 | +14/+19 | 29 (33 vs. trip) | +17 | +12 | +9 | +11 | 8d6 (20) | — |
-| Young adult | L | 17d12+68 (178) | 23 | 10 | 19 | 14 | 15 | 14 | +17/+24 | 34 (38 vs. trip) | +22 | +14 | +10 | +12 | 10d6 (22) | 20 |
-| Adult | H | 20d12+100 (230) | 27 | 10 | 21 | 16 | 17 | 16 | +20/+30 | 40 (44 vs. trip) | +26 | +17 | +12 | +15 | 12d6 (25) | 23 |
-| Mature adult | H | 23d12+115 (264) | 29 | 10 | 21 | 16 | 17 | 16 | +23/+34 | 44 (48 vs. trip) | +30 | +18 | +13 | +16 | 14d6 (26) | 24 |
-| Old | H | 26d12+156 (325) | 31 | 10 | 23 | 18 | 19 | 18 | +26/+38 | 48 (52 vs. trip) | +34 | +21 | +15 | +19 | 16d6 (29) | 27 |
-| Very old | H | 29d12+174 (362) | 33 | 10 | 23 | 18 | 19 | 18 | +29/+42 | 52 (56 vs. trip) | +38 | +22 | +16 | +20 | 18d6 (30) | 28 |
-| Ancient | G | 32d12+224 (432) | 35 | 10 | 25 | 20 | 21 | 20 | +32/+48 | 58 (62 vs. trip) | +40 | +25 | +18 | +23 | 20d6 (33) | 31 |
-| Wyrm | G | 35d12+280 (507) | 37 | 10 | 27 | 20 | 21 | 20 | +35/+52 | 62 (66 vs. trip) | +44 | +27 | +19 | +24 | 22d6 (35) | 32 |
-| Great wyrm | G | 38d12+304 (551) | 39 | 10 | 27 | 22 | 23 | 22 | +38/+56 | 66 (70 vs. trip) | +48 | +29 | +21 | +27 | 24d6 (37) | 35 |
+| Wyrmling | S | 5d12+5 (37) | 13 | 14 | 13 | 10 | 11 | 10 | +5/+5 | 17 (21 vs. trip) | +7 | +5 | +6 | +6 | 2d6 (13) | — |
+| Very young | M | 7d12+14 (59) | 17 | 12 | 15 | 12 | 13 | 12 | +7/+10 | 21 (25 vs. trip) | +10 | +7 | +6 | +8 | 4d6 (15) | — |
+| Young | L | 9d12+27 (85) | 21 | 12 | 17 | 12 | 13 | 12 | +9/+15 | 26 (30 vs. trip) | +13 | +9 | +7 | +9 | 6d6 (17) | — |
+| Juvenile | L | 11d12+44 (115) | 23 | 12 | 19 | 14 | 15 | 14 | +11/+18 | 29 (33 vs. trip) | +16 | +11 | +8 | +11 | 8d6 (19) | 17 |
+| Young adult | H | 13d12+52 (136) | 25 | 10 | 19 | 14 | 15 | 14 | +13/+22 | 32 (36 vs. trip) | +18 | +12 | +8 | +12 | 10d6 (20) | 18 |
+| Adult | H | 15d12+75 (172) | 27 | 10 | 21 | 16 | 17 | 16 | +15/+25 | 35 (39 vs. trip) | +21 | +14 | +9 | +14 | 12d6 (22) | 20 |
+| Mature adult | H | 17d12+85 (195) | 29 | 10 | 21 | 16 | 17 | 16 | +17/+28 | 38 (42 vs. trip) | +24 | +15 | +10 | +15 | 14d6 (23) | 21 |
+| Old | G | 19d12+114 (237) | 31 | 8 | 23 | 18 | 19 | 18 | +19/+33 | 42 (46 vs. trip) | +25 | +17 | +10 | +17 | 16d6 (25) | 23 |
+| Very old | G | 21d12+126 (262) | 33 | 8 | 23 | 18 | 19 | 18 | +21/+36 | 45 (49 vs. trip) | +28 | +18 | +11 | +18 | 18d6 (26) | 24 |
+| Ancient | G | 23d12+161 (310) | 35 | 8 | 25 | 20 | 21 | 20 | +23/+39 | 48 (52 vs. trip) | +31 | +20 | +12 | +20 | 20d6 (28) | 26 |
+| Wyrm | G | 25d12+175 (337) | 37 | 6 | 25 | 20 | 21 | 20 | +25/+42 | 50 (54 vs. trip) | +34 | +21 | +12 | +21 | 22d6 (29) | 27 |
+| Great wyrm | C | 27d12+216 (391) | 39 | 6 | 27 | 22 | 23 | 22 | +27/+49 | 57 (61 vs. trip) | +33 | +23 | +13 | +23 | 24d6 (31) | 29 |
 
 **Green Dragon Abilities by Age**
 
-| Age          | Speed                                     | Initiative | Armor Class                                        | Special Abilities                                                                           | Caster Level | SR |
-| ------------ | ----------------------------------------- | ---------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------ | -- |
-| Wyrmling     | 40 ft., fly 100 ft. (average), swim 40 ft | +0        | 15 (+1 size, +4 natural), touch 11, flat-footed 15 | Immunity to acid, water breathing                                                           | —            | —  |
-| Very young   | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 17 (+7 natural), touch 10, flat-footed 17          |                                                                                             | —            | —  |
-| Young        | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 20 (+10 natural), touch 10, flat-footed 20         |                                                                                             | —            | —  |
-| Juvenile     | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 22 (–1 size, +13 natural), touch 9, flat-footed 22 |                                                                                             | 1st          | —  |
-| Young adult  | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 25 (–1 size, +16 natural), touch 9, flat-footed 25 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic | 3rd          | 19 |
-| Adult        | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 27 (–2 size, +19 natural), touch 8, flat-footed 27 | [[rangoric-srd/spells/Suggestion\|Suggestion]]                                            | 5th          | 21 |
-| Mature adult | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 30 (–2 size, +22 natural), touch 8, flat-footed 30 | DR 10/magic                                                                                 | 7th          | 22 |
-| Old          | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 33 (–2 size, +25 natural), touch 8, flat-footed 33 | [[rangoric-srd/spells/Plant Growth\|Plant growth]]                                        | 9th          | 24 |
-| Very old     | 40 ft., fly 150 ft. (poor), swim 40 ft    | +0        | 36 (–2 size, +28 natural), touch 8, flat-footed 36 | DR 15/magic                                                                                 | 11th         | 25 |
-| Ancient      | 40 ft., fly 200 ft. (clumsy), swim 40 ft  | +0        | 37 (–4 size, +31 natural), touch 6, flat-footed 37 | [[rangoric-srd/spells/Dominate Person\|Dominate person]]                                  | 13th         | 27 |
-| Wyrm         | 40 ft., fly 200 ft. (clumsy), swim 40 ft  | +0        | 40 (–4 size, +34 natural), touch 6, flat-footed 40 | DR 20/magic                                                                                 | 15th         | 28 |
-| Great wyrm   | 40 ft., fly 200 ft. (clumsy), swim 40 ft  | +0        | 43 (–4 size, +37 natural), touch 6, flat-footed 43 | [[rangoric-srd/spells/Command Plants\|Command plants]]                                    | 17th         | 30 |
+| Age | Speed | Initiative | Armor Class | Special Abilities | Caster Level | SR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | 40 ft., fly 150 ft. (average), swim 40 ft. | +2 | 17 (+2 Dex, +4 natural, +1 size), touch 13, flat-footed 15 | [[rangoric-srd/monsters/abilities/Immunity\|Immunity to acid]], [[rangoric-srd/monsters/abilities/Water Breathing\|water breathing]] | — | — |
+| Very young | 40 ft., fly 150 ft. (average), swim 40 ft. | +1 | 18 (+1 Dex, +7 natural), touch 11, flat-footed 17 | Woodland stride | — | — |
+| Young | 40 ft., fly 200 ft. (poor), swim 40 ft. | +1 | 20 (+1 Dex, +10 natural, –1 size), touch 10, flat-footed 19 | *[[rangoric-srd/spells/Entangle\|Entangle]]* | — | — |
+| Juvenile | 40 ft., fly 200 ft. (poor), swim 40 ft. | +1 | 23 (+1 Dex, +13 natural, –1 size), touch 10, flat-footed 22 | [[rangoric-srd/monsters/abilities/Frightful Presence\|Frightful presence]], *[[rangoric-srd/spells/Charm Person\|charm person]]* | 1st | — |
+| Young adult | 40 ft., fly 200 ft. (poor), swim 40 ft. | +0 | 24 (+16 natural, –2 size), touch 8, flat-footed 24 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] | 3rd | 22 |
+| Adult | 40 ft., fly 200 ft. (poor), swim 40 ft. | +0 | 27 (+19 natural, –2 size), touch 8, flat-footed 27 | Trackless step, *[[rangoric-srd/spells/Suggestion\|suggestion]]* | 5th | 23 |
+| Mature adult | 40 ft., fly 200 ft. (poor), swim 40 ft. | +0 | 30 (+22 natural, –2 size), touch 8, flat-footed 30 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 10/magic | 7th | 24 |
+| Old | 40 ft., fly 250 ft. (clumsy), swim 40 ft. | –1 | 30 (–1 Dex, +25 natural, –4 size), touch 5, flat-footed 30 | Camouflage, *[[rangoric-srd/spells/Plant Growth\|plant growth]]* | 9th | 26 |
+| Very old | 40 ft., fly 250 ft. (clumsy), swim 40 ft. | –1 | 33 (–1 Dex, +28 natural, –4 size), touch 5, flat-footed 33 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 15/magic | 11th | 27 |
+| Ancient | 40 ft., fly 250 ft. (clumsy), swim 40 ft. | –1 | 36 (–1 Dex, +31 natural, –4 size), touch 5, flat-footed 36 | Miasma, *[[rangoric-srd/spells/Dominate Person\|dominate person]]* | 13th | 28 |
+| Wyrm | 40 ft., fly 250 ft. (clumsy), swim 40 ft. | –2 | 38 (–2 Dex, +34 natural, –4 size), touch 4, flat-footed 38 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 20/magic | 15th | 29 |
+| Great wyrm | 40 ft., fly 250 ft. (clumsy), swim 40 ft. | –2 | 37 (–2 Dex, +37 natural, –8 size), touch 0, flat-footed 37 | Awaken treants, *[[rangoric-srd/spells/Command Plants\|command plants]]* | 17th | 31 |
+
+
+**Green Dragon Attacks by Age**
+
+| Age | Space/Reach | Full Attack | Special Attacks |
+| --- | --- | --- | --- |
+| Wyrmling | 5 ft./5 ft. | bite +7 (1d6+1), 2 claws +7 (1d4+1) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (20-ft. cone, 2d6 acid, DC 13) |
+| Very young | 5 ft./5 ft. (10 ft. with bite) | bite +10 (1d8+4), 2 claws +10 (1d6+3), 2 wings +5 (1d4+1) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (30-ft. cone, 4d6 acid, DC 15) |
+| Young | 10 ft./5 ft. (10 ft. with bite) | bite +13 (2d6+7), 2 claws +13 (1d8+5), 2 wings +8 (1d6+2), tail slap +8 (1d8+7) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 6d6 acid, DC 17) |
+| Juvenile | 10 ft./5 ft. (10 ft. with bite) | bite +16 (2d6+9/19–20), 2 claws +16 (1d8+6), 2 wings +11 (1d6+3), tail slap +11 (1d8+9) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 8d6 acid, DC 19) |
+| Young adult | 15 ft./10 ft. (15 ft. with bite) | bite +18 (2d8+10/19–20), 2 claws +18 (2d6+7/19–20), 2 wings +13 (1d8+3), tail slap +13 (2d6+10) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 10d6 acid, DC 20), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+10, DC 20) |
+| Adult | 15 ft./10 ft. (15 ft. with bite) | bite +21 (2d8+12/19–20), 2 claws +21 (2d6+8/19–20), 2 wings +16 (1d8+4), tail slap +16 (2d6+12) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 12d6 acid, DC 22), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+12, DC 22) |
+| Mature adult | 15 ft./10 ft. (15 ft. with bite) | bite +24 (2d8+13/19–20), 2 claws +24 (2d6+9/19–20), 2 wings +22 (1d8+4), tail slap +22 (2d6+13) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 14d6 acid, DC 23), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+13, DC 23) |
+| Old | 20 ft./15 ft. (20 ft. with bite) | bite +25 (4d6+15/19–20), 2 claws +25 (2d8+10/19–20), 2 wings +23 (2d6+5), tail slap +23 (2d8+15) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 16d6 acid, DC 25), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+15, DC 25), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+15, DC 25) |
+| Very old | 20 ft./15 ft. (20 ft. with bite) | bite +28 (4d6+16/19–20), 2 claws +28 (2d8+11/19–20), 2 wings +26 (2d6+5), tail slap +26 (2d8+16) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 18d6 acid, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+16, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+16, DC 26) |
+| Ancient | 20 ft./15 ft. (20 ft. with bite) | bite +31 (4d6+18/19–20), 2 claws +31 (2d8+12/19–20), 2 wings +29 (2d6+6), tail slap +29 (2d8+18) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 20d6 acid, DC 28), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+18, DC 28), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+18, DC 28) |
+| Wyrm | 20 ft./15 ft. (20 ft. with bite) | bite +34 (4d6+19/19–20), 2 claws +34 (2d8+13/19–20), 2 wings +32 (2d6+6), tail slap +32 (2d8+19) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 22d6 acid, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+19, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+19, DC 29) |
+| Great wyrm | 30 ft./20 ft. (30 ft. with bite) | bite +33 (4d8+21/19–20), 2 claws +33 (4d6+14/19–20), 2 wings +31 (2d8+7), tail slap +31 (4d6+21) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (70-ft. cone, 24d6 acid, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d8+21, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d8+21, DC 31) |
+
+**Green Dragon Skills and Feats by Age**
+
+| Age | Skills | Feats |
+| --- | --- | --- |
+| Wyrmling | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Athletics\|Athletics]] +17, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +8, [[rangoric-srd/skills/Nature\|Nature]] +8, [[rangoric-srd/skills/Perception\|Perception]] +11, [[rangoric-srd/skills/Stealth\|Stealth]] +14 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]] |
+| Very young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +11, [[rangoric-srd/skills/Arcana\|Arcana]] +11, [[rangoric-srd/skills/Athletics\|Athletics]] +21, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +11, [[rangoric-srd/skills/Nature\|Nature]] +11, [[rangoric-srd/skills/Perception\|Perception]] +14, [[rangoric-srd/skills/Stealth\|Stealth]] +11 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]] |
+| Young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +7, [[rangoric-srd/skills/Arcana\|Arcana]] +13, [[rangoric-srd/skills/Athletics\|Athletics]] +25, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +13, [[rangoric-srd/skills/Nature\|Nature]] +13, [[rangoric-srd/skills/Perception\|Perception]] +16, [[rangoric-srd/skills/Stealth\|Stealth]] +9 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]] |
+| Juvenile | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +9, [[rangoric-srd/skills/Arcana\|Arcana]] +16, [[rangoric-srd/skills/Athletics\|Athletics]] +28, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +16, [[rangoric-srd/skills/Nature\|Nature]] +16, [[rangoric-srd/skills/Perception\|Perception]] +22, [[rangoric-srd/skills/Stealth\|Stealth]] +11 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite) |
+| Young adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +8, [[rangoric-srd/skills/Arcana\|Arcana]] +18, [[rangoric-srd/skills/Athletics\|Athletics]] +31, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +18, [[rangoric-srd/skills/Nature\|Nature]] +18, [[rangoric-srd/skills/Perception\|Perception]] +24, [[rangoric-srd/skills/Stealth\|Stealth]] +8 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws) |
+| Adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Arcana\|Arcana]] +21, [[rangoric-srd/skills/Athletics\|Athletics]] +34, [[rangoric-srd/skills/Emulation\|Emulation]] +21, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +21, [[rangoric-srd/skills/Nature\|Nature]] +21, [[rangoric-srd/skills/Perception\|Perception]] +27, [[rangoric-srd/skills/Stealth\|Stealth]] +10 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]] |
+| Mature adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Arcana\|Arcana]] +23, [[rangoric-srd/skills/Athletics\|Athletics]] +37, [[rangoric-srd/skills/Emulation\|Emulation]] +23, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +23, [[rangoric-srd/skills/Nature\|Nature]] +23, [[rangoric-srd/skills/Perception\|Perception]] +29, [[rangoric-srd/skills/Stealth\|Stealth]] +12 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Multiattack\|Multiattack]] |
+| Old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +7, [[rangoric-srd/skills/Arcana\|Arcana]] +26, [[rangoric-srd/skills/Athletics\|Athletics]] +40, [[rangoric-srd/skills/Emulation\|Emulation]] +26, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +26, [[rangoric-srd/skills/Nature\|Nature]] +26, [[rangoric-srd/skills/Perception\|Perception]] +32, [[rangoric-srd/skills/Society\|Society]] +26, [[rangoric-srd/skills/Stealth\|Stealth]] +9 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]] |
+| Very old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +9, [[rangoric-srd/skills/Arcana\|Arcana]] +28, [[rangoric-srd/skills/Athletics\|Athletics]] +43, [[rangoric-srd/skills/Emulation\|Emulation]] +28, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +28, [[rangoric-srd/skills/Nature\|Nature]] +28, [[rangoric-srd/skills/Perception\|Perception]] +34, [[rangoric-srd/skills/Society\|Society]] +28, [[rangoric-srd/skills/Stealth\|Stealth]] +11 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Bleeding Critical\|Bleeding Critical]] |
+| Ancient | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +9, [[rangoric-srd/skills/Arcana\|Arcana]] +31, [[rangoric-srd/skills/Athletics\|Athletics]] +46, [[rangoric-srd/skills/Emulation\|Emulation]] +31, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +31, [[rangoric-srd/skills/Nature\|Nature]] +31, [[rangoric-srd/skills/Perception\|Perception]] +37, [[rangoric-srd/skills/Society\|Society]] +31, [[rangoric-srd/skills/Stealth\|Stealth]] +13, [[rangoric-srd/skills/Theology\|Theology]] +31 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Bleeding Critical\|Bleeding Critical]], [[rangoric-srd/feats/Improved Sunder\|Improved Sunder]] |
+| Wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Arcana\|Arcana]] +33, [[rangoric-srd/skills/Athletics\|Athletics]] +49, [[rangoric-srd/skills/Emulation\|Emulation]] +33, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +33, [[rangoric-srd/skills/Nature\|Nature]] +33, [[rangoric-srd/skills/Perception\|Perception]] +39, [[rangoric-srd/skills/Society\|Society]] +33, [[rangoric-srd/skills/Stealth\|Stealth]] +14, [[rangoric-srd/skills/Theology\|Theology]] +33 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Bleeding Critical\|Bleeding Critical]], [[rangoric-srd/feats/Improved Sunder\|Improved Sunder]], [[rangoric-srd/feats/Hover\|Hover]] |
+| Great wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Arcana\|Arcana]] +36, [[rangoric-srd/skills/Athletics\|Athletics]] +52, [[rangoric-srd/skills/Emulation\|Emulation]] +36, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +36, [[rangoric-srd/skills/Nature\|Nature]] +36, [[rangoric-srd/skills/Perception\|Perception]] +42, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +36, [[rangoric-srd/skills/Society\|Society]] +36, [[rangoric-srd/skills/Stealth\|Stealth]] +12, [[rangoric-srd/skills/Theology\|Theology]] +36 | [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Cleave\|Cleave]], [[rangoric-srd/feats/Great Cleave\|Great Cleave]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Bleeding Critical\|Bleeding Critical]], [[rangoric-srd/feats/Improved Sunder\|Improved Sunder]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]] |
+
+Green dragons dwell in the ancient forests of the world, prowling under towering canopies in search of prey. Of all the chromatic dragons, green dragons are perhaps the easiest to deal with diplomatically.
 
 A wyrmling green dragon’s scales are thin, very small, and a deep shade of green that appears nearly black. As the dragon ages, the scales grow larger and lighter, turning shades of forest, emerald, and olive green, which helps it blend in with its wooded surroundings.
 
+Green dragons speak Common and Draconic; adult and older green dragons also speak Elven and Sylvan, and ancient and older ones Abyssal and Giant.
+
 ## Combat
 
-Green dragons initiate fights with little or no provocation, picking on creatures of any size. If the target is intriguing or seems formidable, the dragon stalks the creature to determine the best time to strike and the most appropriate tactics to use. If the target appears weak, the dragon makes its presence known quickly—it enjoys
+Green dragons initiate fights with little or no provocation, picking on creatures of any size. If the target is intriguing or seems formidable, the dragon stalks the creature to determine the best time to strike and the most appropriate tactics to use. If the target appears weak, the dragon makes its presence known quickly—it enjoys evoking terror. Sometimes the dragon elects to control a humanoid creature through intimidation and suggestion. Green dragons especially like to question adventurers to learn more about their society and abilities, what is going on in the countryside, and if there is treasure nearby.
 
-evoking terror. Sometimes the dragon elects to control a humanoid creature through intimidation and suggestion. Green dragons especially like to question adventurers to learn more about their society and abilities, what is going on in the countryside, and if there is treasure nearby.
+**Breath Weapon (Su)**: A green dragon has one type of breath weapon, a cone of corrosive (acid) gas, dealing 2d6 points of acid damage per age category.
 
-**Breath Weapon (Su)**: A green dragon has one type of breath weapon, a cone of corrosive (acid) gas.
+**Awaken Treants (Su)**: A great wyrm dragon can call on the forest itself to aid it, animating a number of trees to serve as treants to protect it. These treants can be called from any Huge or larger living tree. A green dragon can create a single treant as a standard action, up to a total of 4 treants per day. These treants remain animated for up to 1 hour, at which time they revert to being ordinary trees.
+
+**Camouflage (Ex)**: An old or older green dragon can use Stealth to hide in any sort of natural terrain, even if the terrain does not grant cover or concealment.
+
+**Miasma (Su)**: An ancient or older green dragon can use its breath weapon to create a cloud of acid as a standard action that deals damage to any creature inside it. The cloud moves with the dragon and has a radius of 20 feet. When it's created, anyone inside this area takes an amount of damage equal to half the dragon's breath weapon, with a Reflex save for half damage. The number of damage dice rolled is halved each round until the result would be less than 1d6. Any creature that starts its turn inside the cloud takes damage, but can make a Reflex save for half. A strong wind, such as that created by a gust of wind, disperses the cloud in 1 round.
+
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]] (Sp)**: A green dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young—*[[rangoric-srd/spells/Entangle|entangle]]*; Juvenile—*[[rangoric-srd/spells/Charm Person|charm person]]*; Adult—*[[rangoric-srd/spells/Suggestion|suggestion]]*; Old—*[[rangoric-srd/spells/Plant Growth|plant growth]]*; Ancient—*[[rangoric-srd/spells/Dominate Person|dominate person]]*; Great wyrm—*[[rangoric-srd/spells/Command Plants|command plants]]*.
+
+**Trackless Step (Ex)**: An adult or older green dragon does not leave a trail in natural surroundings and cannot be tracked. A green dragon can choose to leave a trail, if it so desires.
 
 **Water Breathing (Ex)**: A green dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 
-**Spell-Like Abilities**: 3/day—suggestion (adult or older), dominate person (ancient or older); 1/day— plant growth (old or older), command plants (great wyrm).
+**Woodland Stride (Ex)**: A very young or older green dragon can move through any sort of foliage at full speed without taking damage or suffering impairment. Areas of foliage that have been magically manipulated affect it normally.
 
-**Skills**: [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Stealth|Stealth]] are considered class skills for green dragons.
+**Typical Spells Known**: A green dragon casts [[rangoric-srd/monsters/Dragon, True#Combat|spells]] at the caster level for its age (above). Adult and ancient green dragons typically know these:
+
+*Adult (caster level 5th)*: 2nd (5/day)—*[[rangoric-srd/spells/Alter Self|alter self]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*; 1st (7/day)—*[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Silent Image|silent image]]* (DC 14), *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 14); 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*.
+
+*Ancient (caster level 13th)*: 6th (4/day)—*[[rangoric-srd/spells/Disintegrate|disintegrate]]* (DC 21), *[[rangoric-srd/spells/True Seeing|true seeing]]*; 5th (7/day)—*[[rangoric-srd/spells/Polymorph|polymorph]]*, *[[rangoric-srd/spells/Summon Monster V|summon monster V]]*, *[[rangoric-srd/spells/Teleport|teleport]]*; 4th (7/day)—*[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Ice Storm|ice storm]]*, *[[rangoric-srd/spells/Scrying|scrying]]* (DC 19), *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; 3rd (7/day)—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Displacement|displacement]]*, *[[rangoric-srd/spells/Fireball|fireball]]* (DC 18), *[[rangoric-srd/spells/Haste|haste]]*; 2nd (7/day)—*[[rangoric-srd/spells/Alter Self|alter self]]*, *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 17), *[[rangoric-srd/spells/Locate Object|locate object]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*; 1st (7/day)—*[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Silent Image|silent image]]* (DC 16), *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*, *[[rangoric-srd/spells/Ventriloquism|ventriloquism]]* (DC 16); 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*.
