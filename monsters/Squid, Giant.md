@@ -9,7 +9,7 @@ initiative: "+7"
 speed: "swim 60 ft., jet 260 ft."
 armor-class: "20 (+3 Dex, +9 natural, –2 size), touch 11, flat-footed 17"
 base-attack: "+9"
-cmb: "+18"
+cmb: "+18 (+22 grapple)"
 cmd: "31"
 attack: "Bite +19 melee (2d6+7) or arms +14 melee (1d6+7) or tentacle +17 melee (4d6+3/19–20 plus grab)"
 full-attack: "Bite +14 melee (2d6+7) and 2 arms +14 melee (1d6+7) and tentacles +12 melee (4d6+3/19–20 plus grab)"
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +7
   - **Speed**: swim 60 ft., jet 260 ft.
   - **Armor Class**: 20 (+3 Dex, +9 natural, –2 size), touch 11, flat-footed 17
-  - **Base Attack**: +9; **CMB**: +18; **CMD**: 31
+  - **Base Attack**: +9; **CMB**: +18 (+22 grapple); **CMD**: 31
   - **Attack**: Bite +19 melee (2d6+7) or arms +14 melee (1d6+7) or tentacle +17 melee (4d6+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Full Attack**: Bite +14 melee (2d6+7) and 2 arms +14 melee (1d6+7) and tentacles +12 melee (4d6+3/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 15 ft./15 ft. (30 ft. with arms and tentacles)
