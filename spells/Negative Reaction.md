@@ -39,4 +39,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates
   - **Spell Resistance**: Yes
 
-The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any Deception, Persuasion, and Intimidation checks as well as any performance combat checks it attempts.
+The target's actions and words fail to impress. The target of this spell takes a –10 penalty on any Deception, Persuasion, and Intimidation checks as well as any [[rangoric-srd/rules/Performance Combat#^performance-combat-check|performance combat checks]] it attempts.
