@@ -1,83 +1,141 @@
 ---
 srd-type: "monster"
 section: "Monsters"
+creature-type: "Dragon"
+subtypes: ["Water"]
 group: "[[rangoric-srd/monsters/chromatic-dragons/Chromatic Dragons|Chromatic Dragons]]"
 environment: "Warm marshes"
 organization: "Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)"
-challenge-rating: "Wyrmling 3; very young 4; young 5; juvenile 7; young adult 9; adult 11; mature adult 14; old 16; very old 18; ancient 19; wyrm 20; great wyrm 22"
+challenge-rating: [3, 5, 7, 8, 10, 11, 12, 14, 15, 16, 17, 19]
 treasure: "Triple standard"
 alignment: "Always chaotic evil"
-advancement: "Wyrmling 5–6 HD; very young 8–9 HD; young 11–12 HD; juvenile 14–15 HD; young adult 17–18 HD; adult 20–21 HD; mature adult 23–24 HD; old 26–27 HD; very old 29–30 HD; ancient 32–33 HD; wyrm 35–36 HD; great wyrm 38+ HD"
+advancement: "Wyrmling 5 HD; very young 7 HD; young 9 HD; juvenile 11 HD; young adult 13 HD; adult 15 HD; mature adult 17 HD; old 19 HD; very old 21 HD; ancient 23 HD; wyrm 25 HD; great wyrm 27+ HD"
 level-adjustment: "Wyrmling +3; very young +3; young +3; juvenile +4; others —"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black|Black Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black, Young|Young Black Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black, Adult|Adult Black Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Black, Ancient|Ancient Black Dragon (PF1)]]"
   - "[[fantasy srd 3.5/monsters/chromatic-dragons/Black Dragon|Black Dragon (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
 # Black Dragon
 
-  - **[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|Water]])**
+  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^water|Water]])
   - **Environment**: Warm marshes
   - **Organization**: Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
-  - **Challenge Rating**: Wyrmling 3; very young 4; young 5; juvenile 7; young adult 9; adult 11; mature adult 14; old 16; very old 18; ancient 19; wyrm 20; great wyrm 22
+  - **Challenge Ratings**: Wyrmling 3; very young 5; young 7; juvenile 8; young adult 10; adult 11; mature adult 12; old 14; very old 15; ancient 16; wyrm 17; great wyrm 19
   - **Treasure**: Triple standard
   - **Alignment**: Always chaotic evil
-  - **Advancement**: Wyrmling 5–6 HD; very young 8–9 HD; young 11–12 HD; juvenile 14–15 HD; young adult 17–18 HD; adult 20–21 HD; mature adult 23–24 HD; old 26–27 HD; very old 29–30 HD; ancient 32–33 HD; wyrm 35–36 HD; great wyrm 38+ HD
+  - **Advancement**: Wyrmling 5 HD; very young 7 HD; young 9 HD; juvenile 11 HD; young adult 13 HD; adult 15 HD; mature adult 17 HD; old 19 HD; very old 21 HD; ancient 23 HD; wyrm 25 HD; great wyrm 27+ HD
   - **Level Adjustment**: Wyrmling +3; very young +3; young +3; juvenile +4; others —
 
 **Black Dragons by Age**
 
 | Age | Size | Hit Dice (hp) | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Frightful Presence DC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wyrmling | T | 4d12+4 (30) | 11 | 10 | 13 | 8 | 11 | 8 | +4/+2 | 12 (16 vs. trip) | +6 | +5 | +4 | +4 | 2d4 (13) | — |
-| Very young | S | 7d12+7 (52) | 13 | 10 | 13 | 8 | 11 | 8 | +7/+7 | 17 (21 vs. trip) | +9 | +6 | +5 | +5 | 4d4 (14) | — |
-| Young | M | 10d12+20 (85) | 15 | 10 | 15 | 10 | 11 | 10 | +10/+12 | 22 (26 vs. trip) | +12 | +9 | +7 | +7 | 6d4 (17) | — |
-| Juvenile | M | 13d12+26 (110) | 17 | 10 | 15 | 10 | 11 | 10 | +13/+16 | 26 (30 vs. trip) | +16 | +10 | +8 | +8 | 8d4 (18) | — |
-| Young adult | L | 16d12+48 (152) | 19 | 10 | 17 | 12 | 13 | 12 | +16/+21 | 31 (35 vs. trip) | +19 | +13 | +10 | +11 | 10d4 (21) | 19 |
-| Adult | L | 19d12+76 (199) | 23 | 10 | 19 | 12 | 13 | 12 | +19/+26 | 36 (40 vs. trip) | +24 | +15 | +11 | +12 | 12d4 (23) | 20 |
-| Mature adult | H | 22d12+110 (253) | 27 | 10 | 21 | 14 | 15 | 14 | +22/+32 | 42 (46 vs. trip) | +28 | +18 | +13 | +15 | 14d4 (26) | 23 |
-| Old | H | 25d12+125 (287) | 29 | 10 | 21 | 14 | 15 | 14 | +25/+36 | 46 (50 vs. trip) | +32 | +19 | +14 | +16 | 16d4 (27) | 24 |
-| Very old | H | 28d12+168 (350) | 31 | 10 | 23 | 16 | 17 | 16 | +28/+40 | 50 (54 vs. trip) | +36 | +22 | +16 | +19 | 18d4 (30) | 27 |
-| Ancient | H | 31d12+186 (387) | 33 | 10 | 23 | 16 | 17 | 16 | +31/+44 | 54 (58 vs. trip) | +40 | +23 | +17 | +20 | 20d4 (31) | 28 |
-| Wyrm | G | 34d12+238 (459) | 35 | 10 | 25 | 18 | 19 | 18 | +34/+50 | 60 (64 vs. trip) | +42 | +26 | +19 | +23 | 22d4 (34) | 31 |
-| Great wyrm | G | 37d12+296 (536) | 37 | 10 | 27 | 20 | 21 | 20 | +37/+54 | 64 (68 vs. trip) | +46 | +28 | +20 | +25 | 24d4 (36) | 33 |
+| Wyrmling | T | 4d12+4 (30) | 11 | 16 | 13 | 8 | 11 | 8 | +4/+2 | 15 (19 vs. trip) | +7 | +5 | +7 | +4 | 2d6 (13) | — |
+| Very young | S | 6d12+12 (51) | 15 | 14 | 15 | 10 | 13 | 10 | +6/+7 | 19 (23 vs. trip) | +10 | +7 | +7 | +6 | 4d6 (15) | — |
+| Young | M | 8d12+24 (76) | 19 | 14 | 17 | 10 | 13 | 10 | +8/+12 | 24 (28 vs. trip) | +13 | +9 | +8 | +7 | 6d6 (17) | — |
+| Juvenile | M | 10d12+40 (105) | 21 | 14 | 19 | 12 | 15 | 12 | +10/+15 | 27 (31 vs. trip) | +16 | +11 | +9 | +9 | 8d6 (19) | — |
+| Young adult | L | 12d12+48 (126) | 23 | 12 | 19 | 12 | 15 | 12 | +12/+19 | 30 (34 vs. trip) | +18 | +12 | +9 | +10 | 10d6 (20) | — |
+| Adult | L | 14d12+70 (161) | 25 | 12 | 21 | 14 | 17 | 14 | +14/+22 | 33 (37 vs. trip) | +21 | +14 | +10 | +12 | 12d6 (22) | 19 |
+| Mature adult | L | 16d12+80 (184) | 27 | 12 | 21 | 14 | 17 | 14 | +16/+25 | 36 (40 vs. trip) | +24 | +15 | +11 | +13 | 14d6 (23) | 20 |
+| Old | H | 18d12+108 (225) | 29 | 10 | 23 | 16 | 19 | 16 | +18/+29 | 39 (43 vs. trip) | +26 | +17 | +11 | +15 | 16d6 (25) | 22 |
+| Very old | H | 20d12+120 (250) | 31 | 10 | 23 | 16 | 19 | 16 | +20/+32 | 42 (46 vs. trip) | +29 | +18 | +12 | +16 | 18d6 (26) | 23 |
+| Ancient | H | 22d12+154 (297) | 33 | 10 | 25 | 18 | 21 | 18 | +22/+35 | 45 (49 vs. trip) | +32 | +20 | +13 | +18 | 20d6 (28) | 25 |
+| Wyrm | H | 24d12+168 (324) | 35 | 8 | 25 | 18 | 21 | 18 | +24/+38 | 47 (51 vs. trip) | +35 | +21 | +13 | +19 | 22d6 (29) | 26 |
+| Great wyrm | G | 26d12+208 (377) | 37 | 8 | 27 | 20 | 23 | 20 | +26/+43 | 52 (56 vs. trip) | +36 | +23 | +14 | +21 | 24d6 (31) | 28 |
 
 **Black Dragon Abilities by Age**
 
-| Age          | Speed                                      | Initiative | Armor Class                                       | Special Abilities                                                                           | Caster Level | SR |
-| ------------ | ------------------------------------------ | ---------- | ------------------------------------------------- | ------------------------------------------------------------------------------------------- | ------------ | -- |
-| Wyrmling     | 60 ft., fly 100 ft. (average), swim 60 ft. | +0        | 15 (+2 size,+3 natural), touch 12, flat-footed 15 | Immunity to acid, water breathing                                                           | —            | —  |
-| Very young   | 60 ft., fly 100 ft. (average), swim 60 ft. | +0        | 17 (+1 size,+6 natural), touch 11, flat-footed 17 |                                                                                             | —            | —  |
-| Young        | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 19 (+9 natural), touch 10, flat-footed 19         |                                                                                             | —            | —  |
-| Juvenile     | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 22 (+12 natural), touch 10, flat-footed 22        | [[rangoric-srd/spells/Darkness\|Darkness]]                                                | —            | —  |
-| Young adult  | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 24 (–1 size,+15 natural), touch 9, flat-footed 24 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic | 1st          | 17 |
-| Adult        | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 27 (–1 size,+18 natural), touch 9, flat-footed 27 | Corrupt water                                                                               | 3rd          | 18 |
-| Mature adult | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 29 (–2 size,+21 natural), touch 8, flat-footed 29 | DR 10/magic                                                                                 | 5th          | 21 |
-| Old          | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 32 (–2 size,+24 natural), touch 8, flat-footed 32 | [[rangoric-srd/spells/Plant Growth\|Plant growth]]                                        | 7th          | 22 |
-| Very old     | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 35 (–2 size,+27 natural), touch 8, flat-footed 35 | DR 15/magic                                                                                 | 9th          | 23 |
-| Ancient      | 60 ft., fly 150 ft. (poor), swim 60 ft.    | +0        | 38 (–2 size,+30 natural), touch 8, flat-footed 38 | [[rangoric-srd/spells/Insect Plague\|Insect plague]]                                      | 11th         | 25 |
-| Wyrm         | 60 ft., fly 200 ft. (clumsy), swim 60 ft.  | +0        | 39 (–4 size,+33 natural), touch 6, flat-footed 39 | DR 20/magic                                                                                 | 13th         | 26 |
-| Great wyrm   | 60 ft., fly 200 ft. (clumsy), swim 60 ft.  | +0        | 42 (–4 size,+36 natural), touch 6, flat-footed 42 | Charm reptiles                                                                              | 15th         | 28 |
+| Age | Speed | Initiative | Armor Class | Special Abilities | Caster Level | SR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | 60 ft., fly 100 ft. (average), swim 60 ft. | +7 | 18 (+3 Dex, +3 natural, +2 size), touch 15, flat-footed 15 | [[rangoric-srd/monsters/abilities/Immunity\|Immunity to acid]], [[rangoric-srd/monsters/abilities/Water Breathing\|water breathing]] | — | — |
+| Very young | 60 ft., fly 150 ft. (average), swim 60 ft. | +6 | 19 (+2 Dex, +6 natural, +1 size), touch 13, flat-footed 17 | Swamp stride | — | — |
+| Young | 60 ft., fly 150 ft. (average), swim 60 ft. | +6 | 21 (+2 Dex, +9 natural), touch 12, flat-footed 19 | Speak with reptiles | — | — |
+| Juvenile | 60 ft., fly 150 ft. (average), swim 60 ft. | +6 | 24 (+2 Dex, +12 natural), touch 12, flat-footed 22 | *[[rangoric-srd/spells/Darkness\|Darkness]]* | — | — |
+| Young adult | 60 ft., fly 200 ft. (poor), swim 60 ft. | +5 | 25 (+1 Dex, +15 natural, –1 size), touch 10, flat-footed 24 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] | 1st | 21 |
+| Adult | 60 ft., fly 200 ft. (poor), swim 60 ft. | +5 | 28 (+1 Dex, +18 natural, –1 size), touch 10, flat-footed 27 | Corrupt water, [[rangoric-srd/monsters/abilities/Frightful Presence\|frightful presence]] | 3rd | 22 |
+| Mature adult | 60 ft., fly 200 ft. (poor), swim 60 ft. | +5 | 31 (+1 Dex, +21 natural, –1 size), touch 10, flat-footed 30 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 10/magic | 5th | 23 |
+| Old | 60 ft., fly 200 ft. (poor), swim 60 ft. | +4 | 32 (+24 natural, –2 size), touch 8, flat-footed 32 | Acidic bite, *[[rangoric-srd/spells/Plant Growth\|plant growth]]* | 7th | 25 |
+| Very old | 60 ft., fly 200 ft. (poor), swim 60 ft. | +4 | 35 (+27 natural, –2 size), touch 8, flat-footed 35 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 15/magic | 9th | 26 |
+| Ancient | 60 ft., fly 200 ft. (poor), swim 60 ft. | +4 | 38 (+30 natural, –2 size), touch 8, flat-footed 38 | Acid pool, *[[rangoric-srd/spells/Insect Plague\|insect plague]]* | 11th | 27 |
+| Wyrm | 60 ft., fly 200 ft. (poor), swim 60 ft. | +3 | 40 (–1 Dex, +33 natural, –2 size), touch 7, flat-footed 40 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 20/magic | 13th | 28 |
+| Great wyrm | 60 ft., fly 250 ft. (clumsy), swim 60 ft. | +3 | 41 (–1 Dex, +36 natural, –4 size), touch 5, flat-footed 41 | Charm reptiles | 15th | 30 |
+
+
+**Black Dragon Attacks by Age**
+
+| Age | Space/Reach | Full Attack | Special Attacks |
+| --- | --- | --- | --- |
+| Wyrmling | 2-1/2 ft./0 ft. (5 ft. with bite) | bite +7 (1d4), 2 claws +6 (1d3) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (30-ft. line, 2d6 acid, DC 13) |
+| Very young | 5 ft./5 ft. | bite +10 (1d6+3), 2 claws +9 (1d4+2) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. line, 4d6 acid, DC 15) |
+| Young | 5 ft./5 ft. (10 ft. with bite) | bite +13 (1d8+6), 2 claws +12 (1d6+4), 2 wings +7 (1d4+2) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. line, 6d6 acid, DC 17) |
+| Juvenile | 5 ft./5 ft. (10 ft. with bite) | bite +16 (1d8+7), 2 claws +15 (1d6+5), 2 wings +10 (1d4+2) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. line, 8d6 acid, DC 19) |
+| Young adult | 10 ft./5 ft. (10 ft. with bite) | bite +18 (2d6+9), 2 claws +17 (1d8+6), 2 wings +12 (1d6+3), tail slap +12 (1d8+9) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (80-ft. line, 10d6 acid, DC 20) |
+| Adult | 10 ft./5 ft. (10 ft. with bite) | bite +21 (2d6+10), 2 claws +20 (1d8+7), 2 wings +15 (1d6+3), tail slap +15 (1d8+10) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (80-ft. line, 12d6 acid, DC 22) |
+| Mature adult | 10 ft./5 ft. (10 ft. with bite) | bite +24 (2d6+12), 2 claws +23 (1d8+8), 2 wings +21 (1d6+4), tail slap +21 (1d8+12) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (80-ft. line, 14d6 acid, DC 23) |
+| Old | 15 ft./10 ft. (15 ft. with bite) | bite +26 (2d8+13 plus 2d6 acid), 2 claws +25 (2d6+9), 2 wings +23 (1d8+4), tail slap +23 (2d6+13) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 16d6 acid, DC 25), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+13, DC 25) |
+| Very old | 15 ft./10 ft. (15 ft. with bite) | bite +29 (2d8+15 plus 2d6 acid), 2 claws +28 (2d6+10), 2 wings +26 (1d8+5), tail slap +26 (2d6+15) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 18d6 acid, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+15, DC 26) |
+| Ancient | 15 ft./10 ft. (15 ft. with bite) | bite +32 (2d8+16 plus 4d6 acid), 2 claws +31 (2d6+11), 2 wings +29 (1d8+5), tail slap +29 (2d6+16) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 20d6 acid, DC 28), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+16, DC 28) |
+| Wyrm | 15 ft./10 ft. (15 ft. with bite) | bite +35 (2d8+18 plus 4d6 acid), 2 claws +34 (2d6+12), 2 wings +32 (1d8+6), tail slap +32 (2d6+18) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 22d6 acid, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+18, DC 29) |
+| Great wyrm | 20 ft./15 ft. (20 ft. with bite) | bite +36 (4d6+19/19–20 plus 6d6 acid), 2 claws +35 (2d8+13), 2 wings +33 (2d6+6), tail slap +33 (2d8+19) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 24d6 acid, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+19, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+19, DC 31) |
+
+**Black Dragon Skills and Feats by Age**
+
+| Age | Skills | Feats |
+| --- | --- | --- |
+| Wyrmling | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Athletics\|Athletics]] +15, [[rangoric-srd/skills/Intimidation\|Intimidation]] +6, [[rangoric-srd/skills/Perception\|Perception]] +7, [[rangoric-srd/skills/Stealth\|Stealth]] +18 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite) |
+| Very young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +6, [[rangoric-srd/skills/Athletics\|Athletics]] +19, [[rangoric-srd/skills/Intimidation\|Intimidation]] +9, [[rangoric-srd/skills/Perception\|Perception]] +10, [[rangoric-srd/skills/Stealth\|Stealth]] +18 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Stealth) |
+| Young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +8, [[rangoric-srd/skills/Athletics\|Athletics]] +23, [[rangoric-srd/skills/Intimidation\|Intimidation]] +11, [[rangoric-srd/skills/Perception\|Perception]] +15, [[rangoric-srd/skills/Stealth\|Stealth]] +16 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth) |
+| Juvenile | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +11, [[rangoric-srd/skills/Arcana\|Arcana]] +14, [[rangoric-srd/skills/Athletics\|Athletics]] +26, [[rangoric-srd/skills/Intimidation\|Intimidation]] +14, [[rangoric-srd/skills/Perception\|Perception]] +21, [[rangoric-srd/skills/Stealth\|Stealth]] +21 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]] |
+| Young adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +13, [[rangoric-srd/skills/Arcana\|Arcana]] +16, [[rangoric-srd/skills/Athletics\|Athletics]] +29, [[rangoric-srd/skills/Intimidation\|Intimidation]] +16, [[rangoric-srd/skills/Perception\|Perception]] +23, [[rangoric-srd/skills/Stealth\|Stealth]] +18 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]] |
+| Adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +16, [[rangoric-srd/skills/Arcana\|Arcana]] +19, [[rangoric-srd/skills/Athletics\|Athletics]] +32, [[rangoric-srd/skills/Intimidation\|Intimidation]] +19, [[rangoric-srd/skills/Perception\|Perception]] +26, [[rangoric-srd/skills/Stealth\|Stealth]] +20 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]] |
+| Mature adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +18, [[rangoric-srd/skills/Arcana\|Arcana]] +21, [[rangoric-srd/skills/Athletics\|Athletics]] +35, [[rangoric-srd/skills/Intimidation\|Intimidation]] +21, [[rangoric-srd/skills/Perception\|Perception]] +28, [[rangoric-srd/skills/Stealth\|Stealth]] +22 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]] |
+| Old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +21, [[rangoric-srd/skills/Arcana\|Arcana]] +24, [[rangoric-srd/skills/Athletics\|Athletics]] +38, [[rangoric-srd/skills/Intimidation\|Intimidation]] +24, [[rangoric-srd/skills/Perception\|Perception]] +31, [[rangoric-srd/skills/Society\|Society]] +24, [[rangoric-srd/skills/Stealth\|Stealth]] +19 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]] |
+| Very old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +23, [[rangoric-srd/skills/Arcana\|Arcana]] +26, [[rangoric-srd/skills/Athletics\|Athletics]] +41, [[rangoric-srd/skills/Intimidation\|Intimidation]] +26, [[rangoric-srd/skills/Perception\|Perception]] +33, [[rangoric-srd/skills/Society\|Society]] +26, [[rangoric-srd/skills/Stealth\|Stealth]] +21 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]] |
+| Ancient | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +17, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +26, [[rangoric-srd/skills/Arcana\|Arcana]] +29, [[rangoric-srd/skills/Athletics\|Athletics]] +44, [[rangoric-srd/skills/Intimidation\|Intimidation]] +29, [[rangoric-srd/skills/Perception\|Perception]] +36, [[rangoric-srd/skills/Society\|Society]] +29, [[rangoric-srd/skills/Stealth\|Stealth]] +23 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]], [[rangoric-srd/feats/Greater Vital Strike\|Greater Vital Strike]] |
+| Wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +18, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +28, [[rangoric-srd/skills/Arcana\|Arcana]] +31, [[rangoric-srd/skills/Athletics\|Athletics]] +47, [[rangoric-srd/skills/Intimidation\|Intimidation]] +31, [[rangoric-srd/skills/Perception\|Perception]] +38, [[rangoric-srd/skills/Society\|Society]] +31, [[rangoric-srd/skills/Stealth\|Stealth]] +24 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]], [[rangoric-srd/feats/Greater Vital Strike\|Greater Vital Strike]], [[rangoric-srd/feats/Hover\|Hover]] |
+| Great wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Animal Handling\|Animal Handling]] +31, [[rangoric-srd/skills/Arcana\|Arcana]] +34, [[rangoric-srd/skills/Athletics\|Athletics]] +50, [[rangoric-srd/skills/Emulation\|Emulation]] +34, [[rangoric-srd/skills/Intimidation\|Intimidation]] +34, [[rangoric-srd/skills/Perception\|Perception]] +41, [[rangoric-srd/skills/Society\|Society]] +34, [[rangoric-srd/skills/Stealth\|Stealth]] +22 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Stealth), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Combat Expertise\|Combat Expertise]], [[rangoric-srd/feats/Greater Vital Strike\|Greater Vital Strike]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite) |
+
+Lording over the darkest swamps and marshes, black dragons are the undisputed masters of their domain, ruling through cruelty and intimidation. Those who dwell within a black dragon's reach live in fear. Black dragons tend to make their lairs in remote parts of the swamp, preferably in caves at the bottom of dark and fetid pools. Inside, they pile up their filthy treasure and sleep amid the roots and muck. Black dragons prefer their food a bit rotten and will often allow a meal to sit in a pool for days before consuming it. Black dragons prefer treasures that do not rot or decay, making their hoard, full of coins, gemstones, jewelry, and other objects made from stone or metal.
 
 Black dragon are sometimes known as skull dragons because of their skeletal faces. Adding to the skeletal impression is the gradual deterioration of the hide around the base of the horn and the cheekbones. This deterioration increases with age and does not harm the dragon. On hatching, a black dragon’s scales are thin, small, and glossy. As the dragon ages, they become larger, thicker, and duller, helping it camouflage itself in swamps and marshes.
 
 Black dragons are especially fond of coins. Older dragons sometimes capture and question humanoids about stockpiles of gold, silver, and platinum coins before killing them.
 
+Black dragons speak Draconic; adult and older black dragons also speak Common and Giant, and ancient and older ones Goblin and Orc.
+
 ## Combat
 
 Black dragons prefer to ambush their targets, using their surroundings as cover. When fighting in heavily forested swamps and marshes, they try to stay in the water or on the ground; trees and leafy canopies limit their aerial maneuverability. When outmatched, a black dragon attempts to fly out of sight, so as not to leave tracks, and hide in a deep pond or bog.
 
-**Breath Weapon (Su)**: A black dragon has one type of breath weapon, a line of acid.
+**Breath Weapon (Su)**: A black dragon has one type of breath weapon, a line of acid, dealing 2d6 points of acid damage per age category.
+
+**Acid Pool (Su)**: An ancient or older black dragon can use its breath weapon to create an acid pool as a standard action. This acid pool has a radius of 5 feet per age category of the dragon. When an acid pool is created, anyone inside its area takes an amount of damage equal to the dragon's breath weapon (Reflex half). Any creature that starts its turn touching this pool takes damage, but can make a Reflex save for half. Each round, the total damage dice of the pool is halved until the result would be less than 1d6. The acid pool floats on water, and deals damage to anything on the surface.
+
+**Acidic Bite (Su)**: At old age, a black dragon's bite deals an additional 2d6 points of acid damage. An ancient dragon's damage increases to 4d6, and a great wyrm's to 6d6.
+
+**Charm Reptiles (Sp)**: A great wyrm black dragon can use this ability three times per day. It works as a mass charm monster spell that affects only reptilian animals. This ability is the equivalent of an 8th-level spell.
+
+**Corrupt Water (Sp)**: Once per day an adult or older black dragon can stagnate 10 cubic feet of still water, making it foul and unable to support water-breathing life. The ability spoils liquids containing water. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save (DC equal to the dragon's frightful presence) or become ruined. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon's frightful presence.
+
+**Speak with Reptiles (Sp)**: A young or older black dragon gains the constant spell-like ability to speak with reptiles. This functions as speak with animals, but only with reptilian animals.
+
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]] (Sp)**: A black dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Juvenile—*[[rangoric-srd/spells/Darkness|darkness]]* (radius 10 feet per age category); Old—*[[rangoric-srd/spells/Plant Growth|plant growth]]*; Ancient—*[[rangoric-srd/spells/Insect Plague|insect plague]]*.
+
+**Swamp Stride (Ex)**: A very young or older black dragon can move through bogs and quicksand without penalty at its normal speed.
 
 **Water Breathing (Ex)**: A black dragon can breathe underwater indefinitely and can freely use its breath weapon, spells, and other abilities while submerged.
 
-**Corrupt Water (Sp)**: Once per day an adult or older black dragon can stagnate 10 cubic feet of water, making it become still, foul, and unable to support animal life. The ability spoils liquids containing water. Magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC equal to that of the dragon’s frightful presence) or become fouled. This ability is the equivalent of a 1st-level spell. Its range is equal to that of the dragon’s frightful presence.
+**Typical Spells Known**: A black dragon casts [[rangoric-srd/monsters/Dragon, True#Combat|spells]] at the caster level for its age (above). Adult and ancient black dragons typically know these:
 
-**Charm Reptiles (Sp)**: A great wyrm black dragon can use this ability three times per day. It works as a mass charm spell that affects only reptilian animals. The dragon can communicate with any charmed reptiles as though casting a speak with animals spell. This ability is the equivalent of a 1st-level spell.
+*Adult (caster level 3rd)*: 1st (6/day)—*[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*; 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*.
 
-**Other Spell-Like Abilities**: 3/day—darkness (juvenile or older; radius 10 feet per age category), insect plague (ancient or older); 1/day—plant growth (old or older).
-
-**Skills**: [[rangoric-srd/skills/Stealth|Stealth]] and [[rangoric-srd/skills/Athletics|Athletics]] are considered class skills for black dragons.
+*Ancient (caster level 11th)*: 5th (4/day)—*[[rangoric-srd/spells/Cone of Cold|cone of cold]]* (DC 19), *[[rangoric-srd/spells/Wall of Force|wall of force]]*; 4th (7/day)—*[[rangoric-srd/spells/Arcane Eye|arcane eye]]*, *[[rangoric-srd/spells/Black Tentacles|black tentacles]]*, *[[rangoric-srd/spells/Dimension Door|dimension door]]*; 3rd (7/day)—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Heroism|heroism]]*, *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 17), *[[rangoric-srd/spells/Slow|slow]]* (DC 17); 2nd (7/day)—*[[rangoric-srd/spells/Blur|blur]]*, *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (DC 16), *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Summon Swarm|summon swarm]]*, *[[rangoric-srd/spells/Whispering Wind|whispering wind]]*; 1st (7/day)—*[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/True Strike|true strike]]*; 0 (at will)—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Resistance|resistance]]*.

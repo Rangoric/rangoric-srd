@@ -1,18 +1,26 @@
 ---
 srd-type: "monster"
 section: "Monsters"
+creature-type: "Dragon"
+subtypes: ["Earth"]
 group: "[[rangoric-srd/monsters/chromatic-dragons/Chromatic Dragons|Chromatic Dragons]]"
 environment: "Temperate deserts"
 organization: "Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)"
+challenge-rating: [5, 7, 9, 10, 12, 13, 14, 16, 17, 18, 19, 21]
 treasure: "Triple standard"
 alignment: "Always lawful evil"
-advancement: "Wyrmling 7–8 HD; very young 10–11 HD; young 13–14 HD; juvenile 16–17 HD; young adult 19–20 HD; adult 22–23 HD; mature adult 25–26 HD; old 28–29 HD; very old 31–32 HD; ancient 34–35 HD; wyrm 37–38 HD; great wyrm 40+ HD"
+advancement: "Wyrmling 7 HD; very young 9 HD; young 11 HD; juvenile 13 HD; young adult 15 HD; adult 17 HD; mature adult 19 HD; old 21 HD; very old 23 HD; ancient 25 HD; wyrm 27 HD; great wyrm 29+ HD"
 level-adjustment: "Wyrmling +4; very young +4; young +5; others —"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Blue|Blue Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Blue, Young|Young Blue Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Blue, Adult|Adult Blue Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Chromatic, Blue, Ancient|Ancient Blue Dragon (PF1)]]"
   - "[[fantasy srd 3.5/monsters/chromatic-dragons/Blue Dragon|Blue Dragon (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-14
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -21,47 +29,83 @@ tags: [rangoric, rangoric/monster]
   - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]])
   - **Environment**: Temperate deserts
   - **Organization**: Wyrmling, very young, young, juvenile, and young adult: solitary or clutch (2–5); adult, mature adult, old, very old, ancient, wyrm, or great wyrm: solitary, pair, or family (1–2 and 2–5 offspring)
-  - **Challenge Ratings**: Wyrmling 3; very young 4; young 6; juvenile 8; young adult 11; adult 14; mature adult 16; old 18; very old 19; ancient 21; wyrm 23; great wyrm 25
+  - **Challenge Ratings**: Wyrmling 5; very young 7; young 9; juvenile 10; young adult 12; adult 13; mature adult 14; old 16; very old 17; ancient 18; wyrm 19; great wyrm 21
   - **Treasure**: Triple standard
   - **Alignment**: Always lawful evil
-  - **Advancement**: Wyrmling 7–8 HD; very young 10–11 HD; young 13–14 HD; juvenile 16–17 HD; young adult 19–20 HD; adult 22–23 HD; mature adult 25–26 HD; old 28–29 HD; very old 31–32 HD; ancient 34–35 HD; wyrm 37–38 HD; great wyrm 40+ HD
+  - **Advancement**: Wyrmling 7 HD; very young 9 HD; young 11 HD; juvenile 13 HD; young adult 15 HD; adult 17 HD; mature adult 19 HD; old 21 HD; very old 23 HD; ancient 25 HD; wyrm 27 HD; great wyrm 29+ HD
   - **Level Adjustment**: Wyrmling +4; very young +4; young +5; others —
 
 **Blue Dragons by Age**
 
 | Age | Size | Hit Dice (hp) | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Frightful Presence DC |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Wyrmling | S | 6d12+6 (45) | 13 | 10 | 13 | 10 | 11 | 10 | +6/+6 | 16 (20 vs. trip) | +8 | +6 | +5 | +5 | 2d8 (14) | — |
-| Very young | M | 9d12+18 (76) | 15 | 10 | 15 | 10 | 11 | 10 | +9/+11 | 21 (25 vs. trip) | +11 | +8 | +6 | +6 | 4d8 (16) | — |
-| Young | M | 12d12+24 (102) | 17 | 10 | 15 | 12 | 13 | 12 | +12/+15 | 25 (29 vs. trip) | +15 | +10 | +8 | +9 | 6d8 (18) | — |
-| Juvenile | L | 15d12+45 (142) | 19 | 10 | 17 | 14 | 15 | 14 | +15/+20 | 30 (34 vs. trip) | +18 | +12 | +9 | +11 | 8d8 (20) | — |
-| Young adult | L | 18d12+72 (189) | 23 | 10 | 19 | 14 | 15 | 14 | +18/+25 | 35 (39 vs. trip) | +23 | +15 | +11 | +13 | 10d8 (23) | 21 |
-| Adult | H | 21d12+105 (241) | 27 | 10 | 21 | 16 | 17 | 16 | +21/+31 | 41 (45 vs. trip) | +27 | +17 | +12 | +15 | 12d8 (25) | 23 |
-| Mature adult | H | 24d12+120 (276) | 29 | 10 | 21 | 16 | 17 | 16 | +24/+35 | 45 (49 vs. trip) | +31 | +19 | +14 | +17 | 14d8 (27) | 25 |
-| Old | H | 27d12+162 (337) | 31 | 10 | 23 | 18 | 19 | 18 | +27/+39 | 49 (53 vs. trip) | +35 | +21 | +15 | +19 | 16d8 (29) | 27 |
-| Very old | H | 30d12+180 (375) | 33 | 10 | 23 | 18 | 19 | 18 | +30/+43 | 53 (57 vs. trip) | +39 | +23 | +17 | +21 | 18d8 (31) | 29 |
-| Ancient | G | 33d12+231 (445) | 35 | 10 | 25 | 20 | 21 | 20 | +33/+49 | 59 (63 vs. trip) | +41 | +25 | +18 | +23 | 20d8 (33) | 31 |
-| Wyrm | G | 36d12+288 (522) | 37 | 10 | 27 | 20 | 21 | 20 | +36/+53 | 63 (67 vs. trip) | +45 | +28 | +20 | +25 | 22d8 (36) | 33 |
-| Great wyrm | G | 39d12+312 (565) | 39 | 10 | 27 | 22 | 23 | 22 | +39/+57 | 67 (71 vs. trip) | +49 | +29 | +21 | +27 | 24d8 (37) | 35 |
+| Wyrmling | S | 6d12+6 (45) | 13 | 14 | 13 | 10 | 11 | 10 | +6/+6 | 18 (22 vs. trip) | +9 | +6 | +7 | +5 | 2d8 (14) | — |
+| Very young | M | 8d12+16 (68) | 17 | 12 | 15 | 12 | 13 | 12 | +8/+11 | 22 (26 vs. trip) | +12 | +8 | +7 | +7 | 4d8 (16) | — |
+| Young | L | 10d12+30 (95) | 21 | 12 | 17 | 12 | 13 | 12 | +10/+16 | 27 (31 vs. trip) | +15 | +10 | +8 | +8 | 6d8 (18) | — |
+| Juvenile | L | 12d12+48 (126) | 23 | 12 | 19 | 14 | 15 | 14 | +12/+19 | 30 (34 vs. trip) | +18 | +12 | +9 | +10 | 8d8 (20) | 18 |
+| Young adult | H | 14d12+56 (147) | 25 | 10 | 19 | 14 | 15 | 14 | +14/+23 | 33 (37 vs. trip) | +20 | +13 | +9 | +11 | 10d8 (21) | 19 |
+| Adult | H | 16d12+80 (184) | 27 | 10 | 21 | 16 | 17 | 16 | +16/+26 | 36 (40 vs. trip) | +23 | +15 | +10 | +13 | 12d8 (23) | 21 |
+| Mature adult | H | 18d12+90 (207) | 29 | 10 | 21 | 16 | 17 | 16 | +18/+29 | 39 (43 vs. trip) | +26 | +16 | +11 | +14 | 14d8 (24) | 22 |
+| Old | G | 20d12+120 (250) | 31 | 8 | 23 | 18 | 19 | 18 | +20/+34 | 43 (47 vs. trip) | +27 | +18 | +11 | +16 | 16d8 (26) | 24 |
+| Very old | G | 22d12+132 (275) | 33 | 8 | 23 | 18 | 19 | 18 | +22/+37 | 46 (50 vs. trip) | +30 | +19 | +12 | +17 | 18d8 (27) | 25 |
+| Ancient | G | 24d12+168 (324) | 35 | 8 | 25 | 20 | 21 | 20 | +24/+40 | 49 (53 vs. trip) | +33 | +21 | +13 | +19 | 20d8 (29) | 27 |
+| Wyrm | G | 26d12+182 (351) | 37 | 6 | 25 | 20 | 21 | 20 | +26/+43 | 51 (55 vs. trip) | +36 | +22 | +13 | +20 | 22d8 (30) | 28 |
+| Great wyrm | C | 28d12+224 (406) | 39 | 6 | 27 | 22 | 23 | 22 | +28/+50 | 58 (62 vs. trip) | +35 | +24 | +14 | +22 | 24d8 (32) | 30 |
 
 **Blue Dragon Abilities by Age**
 
-| Age          | Speed                                        | Initiative | Armor Class                                        | Special Abilities                                                                                 | Caster Level | SR |
-| ------------ | -------------------------------------------- | ---------- | -------------------------------------------------- | ------------------------------------------------------------------------------------------------- | ------------ | -- |
-| Wyrmling     | 40 ft., burrow 20 ft., fly 100 ft. (average) | +0        | 16 (+1 size, +5 natural), touch 11, flat-footed 16 | Immunity to electricity, create/destroy water                                                     | —            | —  |
-| Very young   | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 18 (+8 natural), touch 10, flat-footed 18          |                                                                                                   | —            | —  |
-| Young        | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 21 (+11 natural), touch 10, flat-footed 21         |                                                                                                   | —            | —  |
-| Juvenile     | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 23 (–1 size, +14 natural), touch 9, flat-footed 23 | Sound imitation                                                                                   | 1st          | —  |
-| Young adult  | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 26 (–1 size, +17 natural), touch 9, flat-footed 26 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic       | 3rd          | 19 |
-| Adult        | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 28 (–2 size, +20 natural), touch 8, flat-footed 28 | [[rangoric-srd/spells/Ventriloquism\|Ventriloquism]]                                            | 5th          | 21 |
-| Mature adult | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 31 (–2 size, +23 natural), touch 8, flat-footed 31 | DR 10/magic                                                                                       | 7th          | 22 |
-| Old          | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 34 (–2 size, +26 natural), touch 8, flat-footed 34 | [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities\|Hallucinatory terrain]] | 9th          | 24 |
-| Very old     | 40 ft., burrow 20 ft., fly 150 ft. (poor)    | +0        | 37 (–2 size, +29 natural), touch 8, flat-footed 37 | DR 15/magic                                                                                       | 11th         | 25 |
-| Ancient      | 40 ft., burrow 20 ft., fly 200 ft. (clumsy)  | +0        | 38 (–4 size, +32 natural), touch 6, flat-footed 38 | [[rangoric-srd/spells/Veil\|Veil]]                                                              | 13th         | 27 |
-| Wyrm         | 40 ft., burrow 20 ft., fly 200 ft. (clumsy)  | +0        | 41 (–4 size, +35 natural), touch 6, flat-footed 41 | DR 20/magic                                                                                       | 15th         | 29 |
-| Great wyrm   | 40 ft., burrow 20 ft., fly 200 ft. (clumsy)  | +0        | 44 (–4 size, +38 natural), touch 6, flat-footed 44 | [[rangoric-srd/spells/Mirage Arcana\|Mirage arcana]]                                            | 17th         | 31 |
+| Age | Speed | Initiative | Armor Class | Special Abilities | Caster Level\* | SR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | 40 ft., burrow 20 ft., fly 150 ft. (average) | +6 | 18 (+2 Dex, +5 natural, +1 size), touch 13, flat-footed 16 | Desert thirst, [[rangoric-srd/monsters/abilities/Immunity\|immune to electricity]] | — | — |
+| Very young | 40 ft., burrow 20 ft., fly 150 ft. (average) | +5 | 19 (+1 Dex, +8 natural), touch 11, flat-footed 18 | Sound imitation | — | — |
+| Young | 40 ft., burrow 20 ft., fly 200 ft. (poor) | +5 | 21 (+1 Dex, +11 natural, –1 size), touch 10, flat-footed 20 | *[[rangoric-srd/spells/Ghost Sound\|Ghost sound]]* | — | — |
+| Juvenile | 40 ft., burrow 20 ft., fly 200 ft. (poor) | +5 | 24 (+1 Dex, +14 natural, –1 size), touch 10, flat-footed 23 | [[rangoric-srd/monsters/abilities/Frightful Presence\|Frightful presence]], *[[rangoric-srd/spells/Minor Image\|minor image]]* | 1st | — |
+| Young adult | 40 ft., burrow 20 ft., fly 200 ft. (poor) | +4 | 25 (+17 natural, –2 size), touch 8, flat-footed 25 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] | 3rd | 23 |
+| Adult | 40 ft., burrow 20 ft., fly 200 ft. (poor) | +4 | 28 (+20 natural, –2 size), touch 8, flat-footed 28 | Electricity aura, *[[rangoric-srd/spells/Ventriloquism\|ventriloquism]]* | 5th | 24 |
+| Mature adult | 40 ft., burrow 20 ft., fly 200 ft. (poor) | +4 | 31 (+23 natural, –2 size), touch 8, flat-footed 31 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 10/magic | 7th | 25 |
+| Old | 40 ft., burrow 20 ft., fly 250 ft. (clumsy) | +3 | 31 (–1 Dex, +26 natural, –4 size), touch 5, flat-footed 31 | Mirage, *[[rangoric-srd/spells/Hallucinatory Terrain\|hallucinatory terrain]]* | 9th | 27 |
+| Very old | 40 ft., burrow 20 ft., fly 250 ft. (clumsy) | +3 | 34 (–1 Dex, +29 natural, –4 size), touch 5, flat-footed 34 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 15/magic | 11th | 28 |
+| Ancient | 40 ft., burrow 20 ft., fly 250 ft. (clumsy) | +3 | 37 (–1 Dex, +32 natural, –4 size), touch 5, flat-footed 37 | Storm breath, *[[rangoric-srd/spells/Veil\|veil]]* | 13th | 29 |
+| Wyrm | 40 ft., burrow 20 ft., fly 250 ft. (clumsy) | +2 | 39 (–2 Dex, +35 natural, –4 size), touch 4, flat-footed 39 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 20/magic | 15th | 30 |
+| Great wyrm | 40 ft., burrow 20 ft., fly 250 ft. (clumsy) | +2 | 38 (–2 Dex, +38 natural, –8 size), touch 0, flat-footed 38 | Sandstorm, *[[rangoric-srd/spells/Mirage Arcana\|mirage arcana]]* | 17th | 32 |
 
 \* *Can also cast cleric spells and those from the Air, Evil, and Law domains as arcane spells.*
+
+**Blue Dragon Attacks by Age**
+
+| Age | Space/Reach | Full Attack | Special Attacks |
+| --- | --- | --- | --- |
+| Wyrmling | 5 ft./5 ft. | bite +9 (1d6+1), 2 claws +8 (1d4+1) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. line, 2d8 electricity, DC 14) |
+| Very young | 5 ft./5 ft. (10 ft. with bite) | bite +12 (1d8+4), 2 claws +11 (1d6+3), 2 wings +9 (1d4+1) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. line, 4d8 electricity, DC 16) |
+| Young | 10 ft./5 ft. (10 ft. with bite) | bite +15 (2d6+7), 2 claws +14 (1d8+5), 2 wings +12 (1d6+2), tail slap +12 (1d8+7) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (80-ft. line, 6d8 electricity, DC 18) |
+| Juvenile | 10 ft./5 ft. (10 ft. with bite) | bite +18 (2d6+9), 2 claws +17 (1d8+6), 2 wings +15 (1d6+3), tail slap +15 (1d8+9) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (80-ft. line, 8d8 electricity, DC 20) |
+| Young adult | 15 ft./10 ft. (15 ft. with bite) | bite +20 (2d8+10), 2 claws +19 (2d6+7), 2 wings +17 (1d8+3), tail slap +17 (2d6+10) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 10d8 electricity, DC 21), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+10, DC 21) |
+| Adult | 15 ft./10 ft. (15 ft. with bite) | bite +23 (2d8+12), 2 claws +22 (2d6+8), 2 wings +20 (1d8+4), tail slap +20 (2d6+12) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 12d8 electricity, DC 23), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+12, DC 23) |
+| Mature adult | 15 ft./10 ft. (15 ft. with bite) | bite +26 (2d8+13/19–20), 2 claws +25 (2d6+9), 2 wings +23 (1d8+4), tail slap +23 (2d6+13) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 14d8 electricity, DC 24), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+13, DC 24) |
+| Old | 20 ft./15 ft. (20 ft. with bite) | bite +27 (4d6+15/19–20), 2 claws +26 (2d8+10), 2 wings +24 (2d6+5), tail slap +24 (2d8+15) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 16d8 electricity, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+15, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+15, DC 26) |
+| Very old | 20 ft./15 ft. (20 ft. with bite) | bite +30 (4d6+16/19–20), 2 claws +29 (2d8+11), 2 wings +27 (2d6+5), tail slap +27 (2d8+16) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 18d8 electricity, DC 27), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+16, DC 27), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+16, DC 27) |
+| Ancient | 20 ft./15 ft. (20 ft. with bite) | bite +33 (4d6+18/19–20), 2 claws +32 (2d8+12), 2 wings +30 (2d6+6), tail slap +30 (2d8+18) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 20d8 electricity, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+18, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+18, DC 29) |
+| Wyrm | 20 ft./15 ft. (20 ft. with bite) | bite +36 (4d6+19/19–20), 2 claws +35 (2d8+13), 2 wings +33 (2d6+6), tail slap +33 (2d8+19) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 22d8 electricity, DC 30), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+19, DC 30), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+19, DC 30) |
+| Great wyrm | 30 ft./20 ft. (30 ft. with bite) | bite +35 (4d8+21/19–20), 2 claws +34 (4d6+14), 2 wings +32 (2d8+7), tail slap +32 (4d6+21) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (140-ft. line, 24d8 electricity, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d8+21, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d8+21, DC 32) |
+
+**Blue Dragon Skills and Feats by Age**
+
+| Age | Skills | Feats |
+| --- | --- | --- |
+| Wyrmling | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Deception\|Deception]] +9, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +9, [[rangoric-srd/skills/Intimidation\|Intimidation]] +9, [[rangoric-srd/skills/Perception\|Perception]] +9, [[rangoric-srd/skills/Stealth\|Stealth]] +15 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]] |
+| Very young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Deception\|Deception]] +12, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +12, [[rangoric-srd/skills/Intimidation\|Intimidation]] +12, [[rangoric-srd/skills/Perception\|Perception]] +12, [[rangoric-srd/skills/Society\|Society]] +12, [[rangoric-srd/skills/Stealth\|Stealth]] +12 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]] |
+| Young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +8, [[rangoric-srd/skills/Deception\|Deception]] +14, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation\|Intimidation]] +14, [[rangoric-srd/skills/Perception\|Perception]] +14, [[rangoric-srd/skills/Society\|Society]] +14, [[rangoric-srd/skills/Stealth\|Stealth]] +10 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]] |
+| Juvenile | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Deception\|Deception]] +17, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +17, [[rangoric-srd/skills/Intimidation\|Intimidation]] +17, [[rangoric-srd/skills/Perception\|Perception]] +17, [[rangoric-srd/skills/Society\|Society]] +17, [[rangoric-srd/skills/Stealth\|Stealth]] +12 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]] |
+| Young adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +9, [[rangoric-srd/skills/Deception\|Deception]] +19, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +19, [[rangoric-srd/skills/Intimidation\|Intimidation]] +19, [[rangoric-srd/skills/Perception\|Perception]] +19, [[rangoric-srd/skills/Society\|Society]] +19, [[rangoric-srd/skills/Stealth\|Stealth]] +9 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]] |
+| Adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +11, [[rangoric-srd/skills/Arcana\|Arcana]] +22, [[rangoric-srd/skills/Deception\|Deception]] +22, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +22, [[rangoric-srd/skills/Intimidation\|Intimidation]] +22, [[rangoric-srd/skills/Perception\|Perception]] +22, [[rangoric-srd/skills/Society\|Society]] +22, [[rangoric-srd/skills/Stealth\|Stealth]] +11 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Deadly Stroke\|Deadly Stroke]] |
+| Mature adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Arcana\|Arcana]] +24, [[rangoric-srd/skills/Deception\|Deception]] +24, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +24, [[rangoric-srd/skills/Intimidation\|Intimidation]] +24, [[rangoric-srd/skills/Perception\|Perception]] +24, [[rangoric-srd/skills/Society\|Society]] +24, [[rangoric-srd/skills/Stealth\|Stealth]] +13 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Deadly Stroke\|Deadly Stroke]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite) |
+| Old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +8, [[rangoric-srd/skills/Arcana\|Arcana]] +27, [[rangoric-srd/skills/Deception\|Deception]] +27, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +27, [[rangoric-srd/skills/Intimidation\|Intimidation]] +27, [[rangoric-srd/skills/Perception\|Perception]] +27, [[rangoric-srd/skills/Society\|Society]] +27, [[rangoric-srd/skills/Stealth\|Stealth]] +10 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Deadly Stroke\|Deadly Stroke]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]] |
+| Very old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Arcana\|Arcana]] +29, [[rangoric-srd/skills/Deception\|Deception]] +29, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +29, [[rangoric-srd/skills/Intimidation\|Intimidation]] +29, [[rangoric-srd/skills/Perception\|Perception]] +29, [[rangoric-srd/skills/Society\|Society]] +29, [[rangoric-srd/skills/Stealth\|Stealth]] +12 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Deadly Stroke\|Deadly Stroke]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Extend Spell\|Extend Spell]] |
+| Ancient | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Arcana\|Arcana]] +32, [[rangoric-srd/skills/Deception\|Deception]] +32, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +32, [[rangoric-srd/skills/Intimidation\|Intimidation]] +32, [[rangoric-srd/skills/Perception\|Perception]] +32, [[rangoric-srd/skills/Society\|Society]] +32, [[rangoric-srd/skills/Stealth\|Stealth]] +14 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Deadly Stroke\|Deadly Stroke]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Extend Spell\|Extend Spell]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]] |
+| Wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Arcana\|Arcana]] +34, [[rangoric-srd/skills/Deception\|Deception]] +34, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +34, [[rangoric-srd/skills/Intimidation\|Intimidation]] +34, [[rangoric-srd/skills/Perception\|Perception]] +34, [[rangoric-srd/skills/Society\|Society]] +34, [[rangoric-srd/skills/Stealth\|Stealth]] +15 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Deadly Stroke\|Deadly Stroke]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Extend Spell\|Extend Spell]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]] |
+| Great wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Arcana\|Arcana]] +37, [[rangoric-srd/skills/Deception\|Deception]] +37, [[rangoric-srd/skills/Emulation\|Emulation]] +37, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +37, [[rangoric-srd/skills/Intimidation\|Intimidation]] +37, [[rangoric-srd/skills/Perception\|Perception]] +37, [[rangoric-srd/skills/Society\|Society]] +37, [[rangoric-srd/skills/Stealth\|Stealth]] +13 | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Dazzling Display\|Dazzling Display]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Shatter Defenses\|Shatter Defenses]], [[rangoric-srd/feats/Combat Casting\|Combat Casting]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Deadly Stroke\|Deadly Stroke]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Extend Spell\|Extend Spell]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Power Attack\|Power Attack]] |
+
+Blue dragons are consummate schemers and obsessively orderly. In combat, blue dragons prefer to surprise foes if possible, and are not above retreating if the odds turn against them. They prefer to lair near those that they control, sometimes even within the confines of a city.
 
 A blue dragon’s scales vary in color from an iridescent azure to a deep indigo, polished to a glossy finish by blowing desert sands. The size of its scales increases little as the dragon ages, although they do become thicker and harder. Its hide tends to hum and crackle faintly with built-up static electricity. These effects intensify when the dragon is angry or about to attack, giving off an odor of ozone and sand. Their vibrant color makes blue dragons easy to spot in barren desert surroundings. However, they often burrow into the sand so only part of their heads are exposed.
 
@@ -69,16 +113,30 @@ Blue dragons love to soar in the hot desert air, usually flying in the daytime w
 
 Blue dragons lair in vast underground caverns, where they also store their treasure. Although they collect anything that looks valuable, they are most fond of gems—especially sapphires.
 
+Blue dragons speak Common and Draconic; adult and older blue dragons also speak Auran and Giant, and ancient and older ones Ignan and Infernal.
+
 ## Combat
 
 Typically, blue dragons attack from above or burrow beneath the sands until opponents come within 100 feet. Older dragons use their special abilities, such as hallucinatory terrain, in concert with these tactics to mask the land and improve their chances to surprise the target. Blue dragons run from a fight only if they are severely damaged, since they view retreat as cowardly.
 
-**Breath Weapon (Su)**: A blue dragon has one type of breath weapon, a line of lightning.
+**Breath Weapon (Su)**: A blue dragon has one type of breath weapon, a line of lightning, dealing 2d8 points of electricity damage per age category.
 
-**Create/Destroy Water (Sp)**: A blue dragon of any age can use this ability three times per day. It works like the create water spell, except that the dragon can decide to destroy water instead of creating it, which automatically spoils unattended liquids containing water. Magic items (such as potions) and items in a creature’s possession must succeed on a Will save (DC equal to that of the dragon’s frightful presence) or be ruined. This ability is the equivalent of a 1st-level spell.
+**Desert Thirst (Su)**: A blue dragon can cast create water at will (CL equals its HD). Alternatively, it can destroy an equal amount of liquid in a 10-foot burst. Unattended liquids are instantly reduced to sand. Liquid-based magic items (such as potions) and items in a creature's possession must succeed on a Will save or be destroyed. The save DC is Charisma-based.
 
-**Sound Imitation (Ex)**: A juvenile or older blue dragon can mimic any voice or sound it has heard, anytime it likes. Listeners must succeed on a Will save (DC equal to that of the dragon’s frightful presence) to detect the ruse.
+**Electricity Aura (Su)**: An adult blue dragon is surrounded by an aura of electricity. Creatures within 5 feet take 1d6 points of electricity damage at the beginning of the dragon's turn. An old dragon's aura extends to 10 feet. An ancient dragon's damage increases to 2d6.
 
-**Other Spell-Like Abilities**: 3/day—ventriloquism (adult or older); 1/day—hallucinatory terrain (old or older), veil (ancient or older), mirage arcana (great wyrm).
+**Mirage (Su)**: An old or older blue dragon can make itself appear to be in two places at once as a free action for a number of rounds per day equal to its Hit Dice. This ability functions as project image but the dragon can use its breath weapon through the mirage.
 
-**Skills**: [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Identifying Magic|Magic skill]] are considered class skills for blue dragons.
+**Sandstorm (Su)**: As a standard action, a great wyrm blue dragon can create a sandstorm centered on itself with a radius of 1,200 feet. Creatures other than the dragon inside the storm take 2d6 points of damage per round in addition to the normal [[rangoric-srd/rules/Wilderness, Weather, and Environment#Sandstorms|sandstorm]] penalties. This sandstorm lasts for up to 1 hour, but can be dismissed by the dragon as a free action.
+
+**Sound Imitation (Ex)**: A very young or older blue dragon can mimic any voice or sound it has heard by making a successful Deception check against a listener's Sense Motive check.
+
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]] (Sp)**: A blue dragon gains the following spell-like abilities, usable at will upon reaching the listed age category. Young—*[[rangoric-srd/spells/Ghost Sound|ghost sound]]*; Juvenile—*[[rangoric-srd/spells/Minor Image|minor image]]*; Adult—*[[rangoric-srd/spells/Ventriloquism|ventriloquism]]*; Old—*[[rangoric-srd/spells/Hallucinatory Terrain|hallucinatory terrain]]*; Ancient—*[[rangoric-srd/spells/Veil|veil]]*; Great wyrm—*[[rangoric-srd/spells/Mirage Arcana|mirage arcana]]*.
+
+**Storm Breath (Su)**: An ancient or older blue dragon can use its breath weapon to create a storm of lightning. This functions as call lightning storm, but the damage is equal to the dragon's breath weapon. The dragon can call down 1 bolt per round as a free action for 1d6 rounds. The save DC is equal to the dragon's breath weapon DC. Additional uses of this ability extend the duration by an additional 1d6 rounds.
+
+**Typical Spells Known**: A blue dragon casts [[rangoric-srd/monsters/Dragon, True#Combat|spells]] at the caster level for its age (above). Adult and ancient blue dragons typically know these:
+
+*Adult (caster level 5th)*: 2nd (5/day)—*[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*; 1st (7/day)—*[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/True Strike|true strike]]*; 0 (at will)—*[[rangoric-srd/spells/Arcane Mark|arcane mark]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Resistance|resistance]]*.
+
+*Ancient (caster level 13th)*: 6th (4/day)—*[[rangoric-srd/spells/Forceful Hand|forceful hand]]*, *[[rangoric-srd/spells/Mislead|mislead]]*; 5th (7/day)—*[[rangoric-srd/spells/Dream|dream]]*, *[[rangoric-srd/spells/Persistent Image|persistent image]]*, *[[rangoric-srd/spells/Hold Monster|hold monster]]* (DC 20); 4th (7/day)—*[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Enervation|enervation]]*, *[[rangoric-srd/spells/Fire Shield|fire shield]]*, *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; 3rd (7/day)—*[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Displacement|displacement]]*, *[[rangoric-srd/spells/Haste|haste]]*, *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; 2nd (7/day)—*[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Shatter|shatter]]*; 1st (7/day)—*[[rangoric-srd/spells/Alarm|alarm]]*, *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/True Strike|true strike]]*, *[[rangoric-srd/spells/Unseen Servant|unseen servant]]*; 0 (at will)—*[[rangoric-srd/spells/Arcane Mark|arcane mark]]*, *[[rangoric-srd/spells/Bleed|bleed]]* (DC 15), *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Light|light]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*, *[[rangoric-srd/spells/Resistance|resistance]]*.
