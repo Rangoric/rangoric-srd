@@ -8,7 +8,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-06
-tags: [rangoric, rangoric/feat, fighter-bonus]
+tags: [rangoric, rangoric/feat, fighter-bonus, performance-combat]
 ---
 
 # Stage Combatant

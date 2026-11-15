@@ -122,3 +122,25 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: performance
+    filters:
+      and:
+        - file.hasTag("performance")
+    order:
+      - file.name
+      - prerequisites
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: performance-combat
+    filters:
+      and:
+        - file.hasTag("performance-combat")
+    order:
+      - file.name
+      - prerequisites
+    sort:
+      - property: file.name
+        direction: ASC

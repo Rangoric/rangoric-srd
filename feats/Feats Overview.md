@@ -5,6 +5,7 @@ based-on:
   - "[[fantasy srd 3.5/feats/Feats Overview|Feats Overview (3.5)]]"
   - "[[path srd 3.5/rules/advanced-player-s-guide/feats/Types of Feats (Feats)|Types of Feats (PF1)]]"
   - "[[individual books/Faeries/rules/New Feats|New Feats (Faeries)]]"
+  - "[[path srd 3.5/rules/ultimate-combat/feats/Types of Feats (Feats, Ultimate Combat)|Types of Feats (PF1 UC)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -82,6 +83,10 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 **Magic Items and Metamagic Spells**: With the right item creation feat, you can store a metamagic version of a spell in a scroll, potion, or wand. Level limits for potions and wands apply to the spell’s higher spell level (after the application of the metamagic feat). A character doesn’t need the metamagic feat to activate an item storing a metamagic version of a spell.
 
 **Counterspelling Metamagic Spells**: Whether or not a spell has been enhanced by a metamagic feat does not affect its vulnerability to counterspelling or its ability to counterspell another spell.
+
+##### Performance Feats
+
+A feat with the tag *performance* is used when you make a [[rangoric-srd/rules/Performance Combat#^performance-combat-check|performance combat check]], typically granting a special action that occurs when you make that check. Unless you have the [[rangoric-srd/feats/Masterful Display|Masterful Display]] feat, you can only apply the effect of one performance feat to each performance combat check you make. [[rangoric-srd/rules/Performance Combat#Performance Feats|Performance Combat]] lists them. ^performance-feats
 
 ##### Style Feats
 
