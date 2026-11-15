@@ -102,3 +102,11 @@ An orc can take any of these in place of the traits they replace (see [[rangoric
 - **Arctic Orc**: Herders of woolly cattle, caribou and elk on the slopes of volcanic mountains. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. No light sensitivity. +2 racial bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks.
 - **Desert Orc**: Martial orcs who live for battle, held back only by the burning sun. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. [[rangoric-srd/feats/Endurance|Endurance]] as a racial bonus feat.
 - **Jungle Orc**: Clans of hunters and gatherers who attack, take what they fancy and move on. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: jungle orcs must be self-sufficient to survive.
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)\|Scarred Witch Doctor]] | [[rangoric-srd/classes/Witch\|Witch]] |

@@ -1,0 +1,44 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "archetype"
+class: ["Witch"]
+race: "Orc"
+replaces:
+  - "spells (Intelligence)"
+  - "witch’s familiar"
+  - "hex (1st)"
+book: "Advanced Race Guide"
+based-on:
+  - "[[path srd 3.5/races/Orcs#Scarred Witch Doctor (Witch)|Orcs, Scarred Witch Doctor (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-15
+tags: [rangoric, rangoric/class-option]
+---
+
+# Scarred Witch Doctor
+
+*A [[rangoric-srd/classes/Witch#^witch-archetypes|witch]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Orc|orcs]].*
+
+The scarred witch doctor draws power from her ability to endure pain and suffering. She mutilates her own flesh, inflicting horrific scars, in order to attract the attention of her patron. Rather than call forth a familiar, she creates a repulsive fetish mask that she uses as a repository for her power. A scarred witch doctor has the following class features.
+
+**Constitution Dependent**: A scarred witch doctor uses Constitution instead of Intelligence when determining the highest level of [[rangoric-srd/classes/Witch#^witch-spells|spells]] she can cast, her spell save DCs, number of spells known at 1st level, and any effects of her [[rangoric-srd/classes/Witch#^witch-hex|hexes]] normally determined by her Intelligence.
+
+**Hex Scar**: Whenever a scarred witch doctor learns a hex, she must carve or brand a symbol in her flesh to represent this hex. She can disguise these scars with mundane or magical means, but they cannot be permanently removed.
+
+**Fetish Mask (Su)**: At 1st level, a scarred witch doctor forms a bond with a wooden mask. As she gains power, her connection to this mask causes it to grow ever more hideous and grotesque as it absorbs the weight of the self-induced pain that underlies her magic. Her spells derive from the insights her patron grants her while she's enduring the cuts, burns, and other sorts of mutilations she inflicts upon herself. Her fetish mask acts in all ways like a [[rangoric-srd/classes/Witch#^witch-familiar|witch’s familiar]] for the purpose of preparing and gaining spells. Rather than communing with a familiar to prepare spells each day, a scarred witch doctor hangs her mask on a wall, tree branch, or something similar and contemplates the agony it represents.
+
+When wearing her fetish mask, a scarred witch doctor gains a +2 circumstance bonus on [[rangoric-srd/skills/Medicine|Medicine]] and [[rangoric-srd/skills/Intimidation|Intimidation]] checks and gains a +2 bonus on saving throws against effects that specifically cause pain or have the pain descriptor. If the mask is destroyed, the witch doctor can create another fetish mask (which almost immediately adopts the shocking appearance of the original) for the same price and time it takes a witch to replace a dead familiar.
+
+At 5th level, the scarred witch doctor gains the ability to add magical abilities to her mask as if she had the [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] feat.
+
+This ability otherwise functions like and replaces the standard witch familiar.
+
+**Scarshield (Su)**: At 1st level, a scarred witch doctor learns how to harden her mutilated skin, gaining an enhancement bonus to her natural armor bonus equal to 1/2 her class level (minimum +1). She can use this ability for a number of minutes per day equal to her class level. These minutes do not need to be consecutive but she must spend them in 1-minute increments. This ability replaces the witch's [[rangoric-srd/classes/Witch#^witch-hex|1st-level hex]].
+
+**Hexes**: The following witch hexes complement the scarred witch doctor archetype: [[rangoric-srd/class-options/hexes/Evil Eye (Hex)|evil eye]], [[rangoric-srd/class-options/hexes/Misfortune (Hex)|misfortune]], [[rangoric-srd/class-options/hexes/Scar (Hex)|scar]], and [[rangoric-srd/class-options/hexes/Unnerve Beasts (Hex)|unnerve beasts]].
+
+**Major Hexes**: The following major hexes complement the scarred witch doctor archetype: [[rangoric-srd/class-options/hexes/Agony (Hex)|agony]], [[rangoric-srd/class-options/hexes/Nightmares (Hex)|nightmare]], [[rangoric-srd/class-options/hexes/Cook People (Hex)|cook people]], and [[rangoric-srd/class-options/hexes/Infected Wounds (Hex)|infected wounds]].
+
+**Grand Hexes**: The following grand hexes complement the scarred witch doctor archetype: [[rangoric-srd/class-options/hexes/Death Curse (Hex)|death curse]], [[rangoric-srd/class-options/hexes/Natural Disaster (Hex)|natural disaster]], and [[rangoric-srd/class-options/hexes/Dire Prophecy (Hex)|dire prophecy]].

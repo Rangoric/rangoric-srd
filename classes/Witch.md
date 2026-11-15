@@ -88,6 +88,10 @@ A witch must commune with her familiar each day to prepare her spells. Familiars
 
 **Grand Hex**: Starting at 18th level, and every two levels thereafter, a witch can choose one of the grand hexes whenever she could select a new hex. The grand hexes are listed in [[rangoric-srd/class-options/hexes/Hexes|Hexes]]. ^witch-grand-hex
 
+**Archetypes**: A witch can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The witch’s archetypes, with what each replaces: ^witch-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Witch]]
+
 ##### Witch’s Familiar
 
 By forging strange bonds with unnameable beings, witches gain the service of a mystical advisor, a familiar to both serve her and reveal to her secrets unknown to most mortals. A familiar is an animal chosen by a witch to aid her in her spellcasting and grant her special powers. This uses Rangoric’s [[rangoric-srd/classes/Wizard#Familiars|familiar]] rules, except as noted below. A witch uses her level as her effective wizard level when determining the abilities of her familiar. A witch can choose any of the familiars available to a wizard including the centipede, crab, fox, octopus, scorpion, and spider.

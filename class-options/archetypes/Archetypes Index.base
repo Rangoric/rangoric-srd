@@ -1,0 +1,48 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/archetypes")
+    - note.option-type == "archetype"
+views:
+  - type: table
+    name: "All archetypes"
+    groupBy:
+      property: note.class
+      direction: ASC
+    order:
+      - file.name
+      - note.class
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Racial archetypes"
+    filters:
+      and:
+        - '!note.race.isEmpty()'
+    groupBy:
+      property: note.race
+      direction: ASC
+    order:
+      - file.name
+      - note.race
+      - note.class
+      - note.replaces
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Witch"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/witch")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC

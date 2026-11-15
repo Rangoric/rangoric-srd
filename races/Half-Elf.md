@@ -136,3 +136,11 @@ Bundles of alternate traits for half-elves of a particular background.
 - **Arctic Half-Elf**: Wanderers who carry messages and rumors between communities. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
 - **Desert Half-Elf**: Diplomats and negotiators for their human or elf communities. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Keen senses covers Investigation only.
 - **Jungle Half-Elf**: Born where elves bring in human blood to invigorate their families, or want a mixed-race emissary. +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/witch/Bonded Witch (Archetype)\|Bonded Witch]] | [[rangoric-srd/classes/Witch\|Witch]] |
