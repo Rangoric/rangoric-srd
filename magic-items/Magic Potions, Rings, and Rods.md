@@ -381,3 +381,32 @@ Possession of a metamagic rod does not confer the associated feat on the owner, 
   - [[rangoric-srd/magic-items/rods/Rod of Viper|Rod of Viper]]
   - [[rangoric-srd/magic-items/rods/Rod of Withering|Rod of Withering]]
   - [[rangoric-srd/magic-items/rods/Rod of Wonder|Rod of Wonder]]
+
+###### More Metamagic Rods
+
+More metamagic rods, each working as the metamagic rods above (lesser, normal, and greater), grouped by price: the price follows how many spell levels the feat adds.
+
+| Rod | Feat | Lesser | Normal | Greater |
+| --- | --- | --- | --- | --- |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Merciful\|Merciful]] | [[rangoric-srd/feats/Merciful Spell\|Merciful Spell]] | 1,500 gp | 5,500 gp | 12,250 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Bouncing\|Bouncing]] | [[rangoric-srd/feats/Bouncing Spell\|Bouncing Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Disruptive\|Disruptive]] | [[rangoric-srd/feats/Disruptive Spell\|Disruptive Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Ectoplasmic\|Ectoplasmic]] | [[rangoric-srd/feats/Ectoplasmic Spell\|Ectoplasmic Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Elemental\|Elemental]] | [[rangoric-srd/feats/Elemental Spell\|Elemental Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Flaring\|Flaring]] | [[rangoric-srd/feats/Flaring Spell\|Flaring Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Focused\|Focused]] | [[rangoric-srd/feats/Focused Spell\|Focused Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Intensified\|Intensified]] | [[rangoric-srd/feats/Intensified Spell\|Intensified Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Lingering\|Lingering]] | [[rangoric-srd/feats/Lingering Spell\|Lingering Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Piercing\|Piercing]] | [[rangoric-srd/feats/Piercing Spell\|Piercing Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Reach\|Reach]] | [[rangoric-srd/feats/Reach Spell\|Reach Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Rime\|Rime]] | [[rangoric-srd/feats/Rime Spell\|Rime Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Selective\|Selective]] | [[rangoric-srd/feats/Selective Spell\|Selective Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Burning\|Burning]] | [[rangoric-srd/feats/Burning Spell\|Burning Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Concussive\|Concussive]] | [[rangoric-srd/feats/Concussive Spell\|Concussive Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Persistent\|Persistent]] | [[rangoric-srd/feats/Persistent Spell\|Persistent Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Sickening\|Sickening]] | [[rangoric-srd/feats/Sickening Spell\|Sickening Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Thanatopic\|Thanatopic]] | [[rangoric-srd/feats/Thanatopic Spell\|Thanatopic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Threnodic\|Threnodic]] | [[rangoric-srd/feats/Threnodic Spell\|Threnodic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Thundering\|Thundering]] | [[rangoric-srd/feats/Thundering Spell\|Thundering Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Dazing\|Dazing]] | [[rangoric-srd/feats/Dazing Spell\|Dazing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Echoing\|Echoing]] | [[rangoric-srd/feats/Echoing Spell\|Echoing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
