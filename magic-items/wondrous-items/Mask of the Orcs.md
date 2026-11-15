@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Faint illusion"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, major image"

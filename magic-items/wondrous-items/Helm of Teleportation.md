@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Moderate conjuration"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, teleport"
@@ -10,8 +11,8 @@ weight: "3 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Helm of Teleportation|Helm of Teleportation (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Teleportation|Helm of Teleportation (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

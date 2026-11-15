@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Strong varied"
 caster-level: 13
 prerequisites: "Craft Wondrous Item, detect undead, fireball, flame blade, light, prismatic spray, protection from energy, wall of fire"
@@ -10,8 +11,8 @@ weight: "3 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Helm of Brilliance|Helm of Brilliance (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/wondrous-armor/Helm of Brilliance|Helm of Brilliance (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

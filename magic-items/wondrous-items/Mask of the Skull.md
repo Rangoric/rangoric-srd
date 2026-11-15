@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Strong necromancy and transmutation"
 caster-level: 13
 prerequisites: "Craft Wondrous Item, animate objects, finger of death, fly"
@@ -9,8 +10,8 @@ price: "22,000 gp"
 weight: "3 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Mask of the Skull|Mask of the Skull (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

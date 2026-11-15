@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 caster-level: 3
 prerequisites: "Craft Wondrous Item, resistance"
 price: "2,000 gp (+1) to 50,000 gp (+5)"

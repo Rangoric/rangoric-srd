@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Faint divination"
 caster-level: 4
 prerequisites: "Craft Wondrous Item, comprehend languages, read magic"

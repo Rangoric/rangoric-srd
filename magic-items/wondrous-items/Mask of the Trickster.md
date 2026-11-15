@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Moderate enchantment [mind-affecting]"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, confusion"

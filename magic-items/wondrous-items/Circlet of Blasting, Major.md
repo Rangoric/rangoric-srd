@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Strong evocation"
 caster-level: 17
 prerequisites: "Craft Wondrous Item, Maximize Spell, searing light"
 price: "23,760 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Circlet of Blasting, Major|Circlet of Blasting, Major (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

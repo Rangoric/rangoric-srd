@@ -1,0 +1,37 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/magic-items/wondrous-items")
+    - file.hasTag("rangoric/magic-item")
+formulas:
+  gp: number(note.price.replace(",", "").replace(" gp", ""))
+views:
+  - type: table
+    name: By slot
+    groupBy:
+      property: note.slot
+      direction: ASC
+    order:
+      - file.name
+      - note.price
+      - note.caster-level
+      - note.aura
+      - note.item-type
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: All wondrous items
+    order:
+      - file.name
+      - note.slot
+      - note.price
+      - note.caster-level
+      - note.aura
+      - note.item-type
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Moderate illusion"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, eagle’s splendor"
