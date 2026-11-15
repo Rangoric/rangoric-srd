@@ -304,6 +304,7 @@ The spells an [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-spells|inqui
 | [[rangoric-srd/spells/Curse of the Outcast\|Curse of the Outcast]] (M): | Curse someone to rub people the wrong way. |
 | [[rangoric-srd/spells/Daze, Mass\|Daze, Mass]]: | As daze, but affecting multiple creatures. |
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]: | Grants immunity to death spells and negative energy effects. |
+| [[rangoric-srd/spells/Deathless\|Deathless]]: | Prevents target from dying due to hit point damage. |
 | [[rangoric-srd/spells/Deceitful Veneer\|Deceitful Veneer]]: | Make someone seem like an obvious liar. |
 | [[rangoric-srd/spells/Defile Armor\|Defile Armor]]: | As sanctify armor, but gain DR 5/good when using judgment or smite. |
 | [[rangoric-srd/spells/Denounce\|Denounce]]: | Worsens creatures' attitudes. |

@@ -422,6 +422,7 @@ The spells a [[rangoric-srd/classes/Witch#^witch-spells|witch]] can learn. Her [
 | [[rangoric-srd/spells/Daze, Mass\|Daze, Mass]]: | As daze, but affecting multiple creatures. |
 | [[rangoric-srd/spells/Deadman’s Contingency\|Deadman’s Contingency]] (M F): | Set one of a list of contingencies for your demise. |
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]: | Grants immunity to death spells and negative energy effects. |
+| [[rangoric-srd/spells/Deathless\|Deathless]]: | Prevents target from dying due to hit point damage. |
 | [[rangoric-srd/spells/Debilitating Portent\|Debilitating Portent]]: | Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell |
 | [[rangoric-srd/spells/Demanding Message\|Demanding Message]] (F): | Send messages as per message with a suggestion for one creature. |
 | [[rangoric-srd/spells/Detect Scrying\|Detect Scrying]]: | Alerts you of magical eavesdropping. |

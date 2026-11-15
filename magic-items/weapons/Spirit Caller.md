@@ -1,0 +1,24 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Specific Weapon"
+aura: "Moderate necromancy"
+caster-level: 9
+prerequisites: "Craft Magic Arms and Armor, magic jar, plane shift"
+price: "25,302 gp"
+cost: "12,802 gp"
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/specific-magic-weapons/Spirit Caller|Spirit Caller (PF1)]]"
+  - "[[path srd 3.5 foundry/items/magic-items/Spirit Caller|Spirit Caller (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-14
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Spirit Caller
+
+The *spirit caller* is a *+1 ghost touch mere club* carved of nephrite jade. Incorporeal undead and ghosts struck by the *spirit caller* must succeed at a DC 16 Will save or be drawn inside the mere and are trapped within it. When holding a spirit inside, the *spirit caller* glows from within with the brightness of a candle and functions as a *+2 ghost touch undead bane mere club*. The mere consumes the energy of the spirit inside in 1 hour, destroying it, and can hold but a single spirit at a time. The wielder can release a trapped spirit as a standard action. Ghosts consumed by a *spirit caller* still rejuvenate as normal.
+
+Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Magic Jar|magic jar]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]*; Price 25,302 gp; Cost 12,802 gp.

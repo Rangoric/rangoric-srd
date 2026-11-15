@@ -1,0 +1,24 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Specific Weapon"
+aura: "Moderate conjuration"
+caster-level: 8
+prerequisites: "Craft Magic Arms and Armor, black tentacles, summon monster I"
+price: "13,308 gp"
+cost: "6,808 gp"
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/specific-magic-weapons/Dragoncatch Guisarme|Dragoncatch Guisarme (PF1)]]"
+  - "[[path srd 3.5 foundry/items/magic-items/Dragoncatch Guisarme|Dragoncatch Guisarme (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-14
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Dragoncatch Guisarme
+
+This *+1 dragon bane guisarme* has a shaft wound tightly with dragonhide. A *dragoncatch guisarme* can be used to make a special [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] maneuver against creatures using wings to fly. If the maneuver succeeds, the target's wings are fouled and the creature is knocked off balance, falling to the ground and gaining the [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangled]] condition. A creature tripped in this way can attempt a DC 15 [[rangoric-srd/skills/Acrobatics|Acrobatics]] check to fly as a move action to remove the entangled condition.
+
+Moderate conjuration; CL 8th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Black Tentacles|black tentacles]]*, *[[rangoric-srd/spells/Summon Monster I|summon monster I]]*; Price 13,308 gp; Cost 6,808 gp.
