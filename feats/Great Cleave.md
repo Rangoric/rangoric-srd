@@ -2,8 +2,12 @@
 srd-type: "feat"
 section: "Feats"
 prerequisites: "Str 13, Cleave, Power Attack, base attack bonus +4."
+aliases:
+  - "Improved Cleaving Finish"
 based-on:
   - "[[fantasy srd 3.5/feats/Great Cleave|Great Cleave (3.5)]]"
+  - "[[path srd 3.5/feats/Improved Cleaving Finish|Improved Cleaving Finish (PF1)]]"
+  - "[[path srd 3.5 foundry/feats/Improved Cleaving Finish|Improved Cleaving Finish (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
