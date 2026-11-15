@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 caster-level: 15
 prerequisites: "Craft Wondrous Item, snooze, heightened sleep, heightened dreamspeak, heightened sleepwalking, heightened fitful sleep, nap, eon of sleep, sleepless curse, improved nap, recurring nightmare, 1 lb. of magic sand"
 price: "200,000 gp"

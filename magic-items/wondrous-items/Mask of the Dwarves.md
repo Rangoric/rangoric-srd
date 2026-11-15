@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Moderate abjuration"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, spell resistance"

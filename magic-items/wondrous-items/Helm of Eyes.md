@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Moderate divination"
 caster-level: 9
 prerequisites: "Craft Magic Arms and Armor, darkvision, true seeing"

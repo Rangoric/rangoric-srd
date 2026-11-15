@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Faint illusion"
 caster-level: 1
 prerequisites: "Craft Wondrous Item, disguise self"
 price: "1,800 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Hat of Disguise|Hat of Disguise (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

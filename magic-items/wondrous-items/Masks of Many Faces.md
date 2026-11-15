@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, shadow conjuration, clairaudience-clairvoyance"
 price: "12,000 gp + 3,000 gp per CR of creature"

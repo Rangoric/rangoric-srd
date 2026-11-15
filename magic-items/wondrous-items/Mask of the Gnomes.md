@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Faint evocation and transmutation"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, darkness, water breathing"

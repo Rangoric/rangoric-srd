@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "head"
 aura: "Faint enchantment"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, aid, bless, prayer, shout, Maximize Spell and Enlarge Spell feats"
