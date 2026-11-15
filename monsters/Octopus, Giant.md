@@ -9,7 +9,7 @@ initiative: "+6"
 speed: "20 ft. (4 squares), swim 30 ft., jet 200 ft."
 armor-class: "18 (+2 Dex, +7 natural, –1 size), touch 11, flat-footed 16"
 base-attack: "+9"
-cmb: "+15"
+cmb: "+15 (+19 grapple)"
 cmd: "27 (can't be tripped)"
 attack: "Bite +13 melee (1d8+5 plus poison) or tentacle +16 melee (1d4+2 plus grab)"
 full-attack: "Bite +13 melee (1d8+5 plus poison) and 8 tentacles +11 melee (1d4+2 plus grab)"
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares), swim 30 ft., jet 200 ft.
   - **Armor Class**: 18 (+2 Dex, +7 natural, –1 size), touch 11, flat-footed 16
-  - **Base Attack**: +9; **CMB**: +15; **CMD**: 27 (can't be tripped)
+  - **Base Attack**: +9; **CMB**: +15 (+19 grapple); **CMD**: 27 (can't be tripped)
   - **Attack**: Bite +13 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or tentacle +16 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Full Attack**: Bite +13 melee (1d8+5 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 8 tentacles +11 melee (1d4+2 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 10 ft./10 ft. (20 ft. with tentacle)
@@ -71,4 +71,4 @@ These creatures are aggressive and territorial hunters, with arms reaching 10 fe
 
 An opponent can attack a giant octopus’s tentacles with a sunder attempt as if they were weapons. A giant octopus’s tentacles have 10 hit points each. If a giant octopus is currently grappling a target with the tentacle that is being attacked, it usually uses another limb to make its attack of opportunity against the opponent making the sunder attempt. Severing one of a giant octopus’s tentacles deals 5 points of damage to the creature. A giant octopus usually withdraws from combat if it loses four tentacles. The creature regrows severed limbs in 1d6+2 months.
 
-**Poison (Ex)**: Bite—injury; *save* Fort DC 19; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 2 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 19; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 2 saves.

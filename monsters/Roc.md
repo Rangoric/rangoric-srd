@@ -8,7 +8,7 @@ initiative: "+6"
 speed: "20 ft. (4 squares), fly 80 ft. (average)"
 armor-class: "22 (+2 Dex, +14 natural, –4 size), touch 8, flat-footed 20"
 base-attack: "+12"
-cmb: "+25"
+cmb: "+25 (+29 grapple)"
 cmd: "37"
 attack: "Talon +18 melee (2d6+9/19–20 plus grab) or bite +17 melee (2d8+9)"
 full-attack: "2 talons +18 melee (2d6+9/19–20 plus grab) and bite +17 melee (2d8+9)"
@@ -44,7 +44,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares), fly 80 ft. (average)
   - **Armor Class**: 22 (+2 Dex, +14 natural, –4 size), touch 8, flat-footed 20
-  - **Base Attack**: +12; **CMB**: +25; **CMD**: 37
+  - **Base Attack**: +12; **CMB**: +25 (+29 grapple); **CMD**: 37
   - **Attack**: Talon +18 melee (2d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +17 melee (2d8+9)
   - **Full Attack**: 2 talons +18 melee (2d6+9/19–20 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +17 melee (2d8+9)
   - **Space/Reach**: 20 ft./15 ft.

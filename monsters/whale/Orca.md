@@ -27,7 +27,7 @@ treasure: "None"
 alignment: "Usually neutral"
 advancement: "10–13 HD (Huge); 14–27 HD (Gargantuan)"
 level-adjustment: "—"
-group: "Whale"
+group: "[[rangoric-srd/monsters/whale/Whale|Whale]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dolphin, Orca|Dolphin, Orca (PF1)]]"

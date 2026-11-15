@@ -9,7 +9,7 @@ initiative: "+3"
 speed: "20 ft. (4 squares), swim 30 ft., jet 200 ft."
 armor-class: "15 (+3 Dex, +1 natural, +1 size), touch 14, flat-footed 12"
 base-attack: "+1"
-cmb: "+1"
+cmb: "+1 (+5 grapple)"
 cmd: "14 (can't be tripped)"
 attack: "Bite +5 melee (1d3+1 plus poison) or tentacle +8 melee (grab)"
 full-attack: "Bite +5 melee (1d3+1 plus poison) and tentacles +3 melee (grab)"
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +3
   - **Speed**: 20 ft. (4 squares), swim 30 ft., jet 200 ft.
   - **Armor Class**: 15 (+3 Dex, +1 natural, +1 size), touch 14, flat-footed 12
-  - **Base Attack**: +1; **CMB**: +1; **CMD**: 14 (can't be tripped)
+  - **Base Attack**: +1; **CMB**: +1 (+5 grapple); **CMD**: 14 (can't be tripped)
   - **Attack**: Bite +5 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or tentacle +8 melee (grab)
   - **Full Attack**: Bite +5 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and tentacles +3 melee (grab)
   - **Space/Reach**: 5 ft./5 ft.
@@ -73,4 +73,4 @@ These bottom-dwelling sea creatures are dangerous only to their prey. If disturb
 
 **Jet (Ex)**: An octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
 
-**Poison (Ex)**: Bite—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1 Str; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1 Str; *cure* 1 save.
