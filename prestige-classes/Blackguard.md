@@ -8,7 +8,7 @@ based-on:
   - "[[fantasy srd 3.5/prestige-classes/Blackguard|Blackguard (3.5)]]"
 status: draft
 change: modified
-pi-review: 2026-11-08
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---
 
@@ -65,7 +65,7 @@ All of the following are Class Features of the blackguard prestige class.
 
 **Detect Good (Sp)**: At will, a blackguard can use detect good as a spell-like ability, duplicating the effect of the detect good spell.
 
-**Poison Use**: Blackguards are skilled in the use of poison and never risk accidentally poisoning themselves when applying poison to a blade.
+**Poison Use**: A blackguard has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].
 
 **Dark Blessing (Su)**: A blackguard applies his Charisma modifier (if positive) as a bonus on all saving throws.
 

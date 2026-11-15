@@ -8,7 +8,7 @@ based-on:
   - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-13
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -71,7 +71,7 @@ Contact and injury poisons on a weapon deliver one dose per hit, since the poiso
 
 Applying poison to a weapon or a single piece of ammunition is a standard action. Whenever a character applies or readies a poison, there is a 5% chance that he exposes himself to it and must save against it as normal; this doesn’t use up the dose. Whenever a character attacks with a poisoned weapon and rolls a natural 1 on the attack roll, he exposes himself to the poison. The poison on a weapon is used up when the weapon strikes a creature or is touched by its wielder. ^applying-poison
 
-**Poison Use**: A character with poison use never risks poisoning himself, whether applying, readying or making a poison. ^poison-use
+**Poison Use**: A character with poison use never risks poisoning himself, whether applying, readying, making or attacking with a poison. ^poison-use
 
 ### Making Poison
 

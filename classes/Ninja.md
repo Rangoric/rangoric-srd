@@ -9,7 +9,7 @@ based-on:
   - "[[path srd 3.5/classes/Ninja|Ninja (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-08
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---
 
@@ -62,7 +62,7 @@ All of the following are class features of the ninja.
 
 **Weapon and Armor Proficiency**: Ninja are proficient with all simple weapons, plus the [[rangoric-srd/equipment/weapons/Kama|kama]], [[rangoric-srd/equipment/weapons/Katana|katana]], [[rangoric-srd/equipment/weapons/Kusarigama|kusarigama]], [[rangoric-srd/equipment/weapons/Nunchaku|nunchaku]], [[rangoric-srd/equipment/weapons/Sai|sai]], shortbow, short sword, [[rangoric-srd/equipment/weapons/Shuriken|shuriken]], [[rangoric-srd/equipment/weapons/Siangham|siangham]], and [[rangoric-srd/equipment/weapons/Wakizashi|wakizashi]]. They are proficient with light armor but not with shields.
 
-**Poison Use**: At 1st level, a ninja is trained in the use of poison and cannot accidentally poison herself when applying poison to a weapon. ^ninja-poison-use
+**Poison Use**: At 1st level, a ninja has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]]. ^ninja-poison-use
 
 **Sneak Attack**: If a ninja can catch an opponent when he is unable to defend himself effectively from her attack, she can strike a vital spot for extra damage. ^ninja-sneak-attack
 

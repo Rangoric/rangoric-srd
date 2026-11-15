@@ -34,7 +34,7 @@ based-on:
   - "[[fantasy srd 3.5/monsters/giant/Frost Giant Jarl, 8th-Level Blackguard|Frost Giant Jarl, 8th-Level Blackguard (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: +2 frost greataxe +30/+25/+20/+15 melee (3d6+18/×3 plus 1d6 cold) or 2 slams +28 melee (1d4+11) or rock +18 ranged (2d6+11)
   - **Space/Reach**: 10 ft./10 ft.
   - **Special Attacks**: Rock throwing, smite good, sneak attack +2d6
-  - **Special Qualities**: Aura of despair, aura of evil, command undead, dark blessing, [[rangoric-srd/spells/Detect Good|detect good]], immunity to cold, low-light vision, poison use, resistance to fire 10, rock catching, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|vulnerability to fire]]
+  - **Special Qualities**: Aura of despair, aura of evil, command undead, dark blessing, [[rangoric-srd/spells/Detect Good|detect good]], immunity to cold, low-light vision, [[rangoric-srd/rules/Afflictions#^poison-use|poison use]], resistance to fire 10, rock catching, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities|vulnerability to fire]]
   - **Saves**: Fort +25, Ref +13, Will +13
   - **Abilities**: Str 32, Dex 12, Con 22, Int 10, Wis 12, Cha 18
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +29, [[rangoric-srd/skills/Athletics|Athletics]] +25, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +5, [[rangoric-srd/skills/Theology|Theology]] +5

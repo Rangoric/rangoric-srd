@@ -10,7 +10,7 @@ based-on:
   - "[[path srd 3.5 foundry/classes/Alchemist|Alchemist (PF1 Foundry)]]"
 status: draft
 change: new
-pi-review: 2026-11-10
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/class]
 ---
 
@@ -107,7 +107,7 @@ The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveri
 
 **Poison Resistance (Ex)**: At 2nd level, an alchemist gains a +2 bonus on all saving throws against [[rangoric-srd/rules/Afflictions#Poison|poison]]. This bonus increases to +4 at 5th level, and then again to +6 at 8th level. At 10th level, an alchemist becomes completely immune to poison. ^alchemist-poison-resistance
 
-**Poison Use (Ex)**: Alchemists are trained in the use of poison and starting at 2nd level, cannot [[rangoric-srd/rules/Afflictions#Applying Poison|accidentally poison themselves]] when applying poison to a weapon. ^alchemist-poison-use
+**Poison Use (Ex)**: Starting at 2nd level, an alchemist has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]]. ^alchemist-poison-use
 
 **Swift Alchemy (Ex)**: At 3rd level, an alchemist can create alchemical items with astounding speed. It takes an alchemist half the normal amount of time to create alchemical items, and he can apply poison to a weapon as a move action. ^alchemist-swift-alchemy
 

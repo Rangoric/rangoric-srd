@@ -3,9 +3,11 @@ srd-type: "overview"
 section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/Wilderness, Weather, and Environment|Wilderness, Weather, and Environment (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/environment/Dungeons|Dungeons (PF1)]]"
+  - "[[path srd 3.5/rules/core-rulebook/environment/Environmental Rules|Environmental Rules (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -328,7 +330,7 @@ Green Slime (CR 4): This dungeon peril is a dangerous variety of normal slime. G
 
 A single 5-foot square of green slime deals 1d6 points of Constitution damage per round while it devours flesh. On the first round of contact, the slime can be scraped off a creature (most likely destroying the scraping device), but after that it must be frozen, burned, or cut away (dealing damage to the victim as well). Anything that deals cold or fire damage, sunlight, or a [[rangoric-srd/spells/Remove Disease|remove disease]] spell destroys a patch of green slime. Against wood or metal, green slime deals 2d6 points of damage per round, ignoring metal’s hardness but not that of wood. It does not harm stone.
 
-Yellow Mold (CR 6): If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold must make a DC 15 Fortitude save or take 1d6 points of Constitution damage. Another DC 15 Fortitude save is required 1 minute later-even by those who succeeded on the first save-to avoid taking 2d6 points of Constitution damage. Fire destroys yellow mold, and sunlight renders it dormant.
+Yellow Mold (CR 6): If disturbed, a 5-foot square of this mold bursts forth with a cloud of poisonous spores. All within 10 feet of the mold are exposed to an [[rangoric-srd/rules/Afflictions#^inhaled-poison|inhaled]] [[rangoric-srd/rules/Afflictions#Poison|poison]]: *save* Fort DC 15; *frequency* 1/round for 6 rounds; *effect* 1d3 Con damage; *cure* 1 save. Fire destroys yellow mold, and sunlight renders it dormant.
 
 Brown Mold (CR 2): Brown mold feeds on warmth, drawing heat from anything around it. It normally comes in patches 5 feet in diameter, and the temperature is always cold in a 30-foot radius around it. Living creatures within 5 feet of it take 3d6 points of nonlethal cold damage. Fire brought within 5 feet of brown mold causes it to instantly double in size. Cold damage, such as from a [[rangoric-srd/spells/Cone of Cold|cone of cold]], instantly destroys it.
 
@@ -1019,7 +1021,7 @@ Environmental hazards specific to one kind of terrain (such as an avalanche, whi
 
 Corrosive acids deals 1d6 points of damage per round of exposure except in the case of total immersion (such as into a vat of acid), which deals 10d6 points of damage per round. An attack with acid, such as from a hurled vial or a monster’s spittle, counts as a round of exposure.
 
-The fumes from most acids are inhaled poisons. Those who come close enough to a large body of acid to dunk a creature in it must make a DC 13 Fortitude save or take 1 point of Constitution damage. All such characters must make a second save 1 minute later or take another 1d4 points of Constitution damage.
+The fumes from most acids are inhaled poisons. Those who are adjacent to a large body of acid must make a DC 13 Fortitude save or take 1 point of Constitution damage each round. This poison has no frequency: a creature is safe as soon as it moves away from the acid.
 
 Creatures immune to acid’s caustic properties might still drown in it if they are totally immersed (see Drowning).
 

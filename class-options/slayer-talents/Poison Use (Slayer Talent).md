@@ -11,7 +11,7 @@ based-on:
   - "[[path srd 3.5/classes/Slayer (Class)#Slayer Talents|Slayer (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-08
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/class-option]
 ---
 
@@ -19,4 +19,4 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/classes/Slayer#^slayer-talents|slayer talent]] (Ex).*
 
-The slayer is trained in the use of poison, and cannot accidentally poison himself when applying poison to a weapon.
+The slayer has [[rangoric-srd/rules/Afflictions#^poison-use|poison use]].

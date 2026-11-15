@@ -9,7 +9,7 @@ based-on:
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
 status: draft
 change: new
-pi-review: 2026-10-22
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/skill, core]
 ---
 
@@ -24,7 +24,7 @@ Check: The DC and the effect of a successful check depend on the task you attemp
 | Act While Dying | 30 |
 | Damage Reduction | 60 |
 | Ignore caltrop wound | 18             |
-| Ignore Secondary Poison Damage | Poison’s DC + 5 |
+| Ignore Poison Damage | Poison’s DC + 5 |
 | Memorize             | 15             |
 | Resist dying         | 20             |
 | Resist fear          | Fear effect DC |
@@ -41,7 +41,7 @@ Resist Dying: You can attempt to subconsciously prevent yourself from [[rangoric
 
 Resist Fear: In response to any fear effect, you make a saving throw normally. If you fail the saving throw, you can make a Meditation check on your next round even while overcome by fear. If your Meditation check meets or beats the DC for the fear effect, you shrug off the fear. On a failed check, the fear affects you normally, and you gain no further attempts to shrug off that particular fear effect.
 
-Tolerate Poison: You can choose to substitute a Meditation check for a saving throw against any standard poison’s secondary damage or effect. This skill has no effect on the initial saving throw against poison.
+Tolerate Poison: You can choose to substitute a Meditation check for any saving throw against a poison after the first. This skill has no effect on the first saving throw against a poison.
 
 Willpower: If reduced to 0 hit points ([[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]]), you can make a Meditation check. If successful, you can take a normal action while at 0 hit points without taking 1 point of damage. You must make a check for each strenuous action you want to take. A failed Meditation check in this circumstance carries no direct penalty - you can choose not to take the strenuous action and thus avoid the hit point loss. If you do so anyway, you drop to -1 hit points, as normal when disabled.
 
@@ -60,7 +60,7 @@ Try Again: Yes, for memorize and willpower uses, though a success doesn’t canc
 The character has trained his or her mind to ignore poison, resist mental influence, and convince his or her body that he or she is tougher than normal.  
 Mortal wounds are less lethal for the character.
 
-Ignore Secondary Poison Damage: When poisoned, the character can make a Meditation check on his or her next action. A successful check indicates the character does not have to make a saving throw against the poison’s secondary damage, which he or she instead automatically ignores.
+Ignore Poison Damage: When poisoned, the character can make a Meditation check on his or her next action. A successful check indicates the character ignores the poison’s next saving throw and its effect.
 
 Resist Mind-Affecting Effect: If a failed saving throw indicates the character is affected by any mind-affecting powers, spells, or spell-like effects, a successful Meditation check allows an immediate second saving throw to resist the effect. If the mind-affecting effect normally does not allow a saving throw, a successful Meditation check allows a saving throw.
 
