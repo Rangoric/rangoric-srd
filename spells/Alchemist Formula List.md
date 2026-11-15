@@ -215,6 +215,7 @@ The spells an [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemist]] ca
 | [[rangoric-srd/spells/Cure Critical Wounds\|Cure Critical Wounds]]: | Cures 4d8 damage +1/level (max +20). |
 | [[rangoric-srd/spells/Darkvision, Greater\|Darkvision, Greater]] (M): | See 120 ft. in total darkness. |
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]: | Grants immunity to death spells and negative energy effects. |
+| [[rangoric-srd/spells/Deathless\|Deathless]]: | Prevents target from dying due to hit point damage. |
 | [[rangoric-srd/spells/Detonate\|Detonate]] (M): | Inflicts 1d8/level energy damage to all creatures within 15 ft. |
 | [[rangoric-srd/spells/Discern Lies\|Discern Lies]]: | Reveals deliberate falsehoods. |
 | [[rangoric-srd/spells/Dragon’s Breath\|Dragon’s Breath]] (M): | Gives you a dragon's breath weapon. |

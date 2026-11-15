@@ -1,0 +1,24 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Specific Weapon"
+aura: "Strong enchantment"
+caster-level: 14
+prerequisites: "Craft Magic Arms and Armor, keen edge, murderous command, rage"
+price: "61,375 gp"
+cost: "30,875 gp"
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/specific-magic-weapons/Warbringer|Warbringer (PF1)]]"
+  - "[[path srd 3.5 foundry/items/magic-items/Warbringer|Warbringer (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-14
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Warbringer
+
+This massive, wickedly curved red-bladed sword is a *+3 keen vicious falchion* that murmurs a low, rumbling battle chant when drawn. Whenever the wielder confirms a critical hit with a *warbringer*, the wielder gains the benefits of *[[rangoric-srd/spells/Rage|rage]]* for 1 round (if a barbarian, the wielder gains 1 additional round of [[rangoric-srd/classes/Barbarian#^barbarian-rage|rage]] for that day), while the creature struck is compelled to move toward and attack its nearest ally with a melee weapon, natural weapon, or unarmed strike on its next turn (DC 14 Will negates), as the *[[rangoric-srd/spells/Murderous Command|murderous command]]* spell.
+
+Strong enchantment; CL 14th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Keen Edge|keen edge]]*, *[[rangoric-srd/spells/Murderous Command|murderous command]]*, *[[rangoric-srd/spells/Rage|rage]]*; Price 61,375 gp; Cost 30,875 gp.

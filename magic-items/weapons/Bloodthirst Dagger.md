@@ -1,0 +1,26 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Specific Weapon"
+aura: "Moderate evocation"
+caster-level: 10
+prerequisites: "Craft Magic Arms and Armor, bleed, inflict serious wounds"
+price: "60,802 gp"
+cost: "30,552 gp"
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/specific-magic-weapons/Bloodthirst Dagger|Bloodthirst Dagger (PF1)]]"
+  - "[[path srd 3.5 foundry/items/magic-items/Bloodthirst Dagger|Bloodthirst Dagger (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-14
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Bloodthirst Dagger
+
+The blade of this *+2 wounding dagger* is brightly polished. Even when drenched in a victim's blood, it appears clean and dry moments later, as though it has been newly cleaned.
+
+A *bloodthirst dagger* rewards its wielder most when used relentlessly against a single target. When attacking a creature that is still bleeding from the *bloodthirst dagger*'s *[[rangoric-srd/magic-items/weapon-abilities/Wounding|wounding]]* property, the dagger deals an additional +1 point of damage against the target for each bleeding wound the creature possesses (maximum +10). Whenever the wielder of *bloodthirst* confirms a critical hit with the weapon, she can choose to deal 1d6 points of additional damage for each still-bleeding wound the target possesses (maximum +5d6 damage). This additional damage is not multiplied by the critical hit, but is in addition to the damage normally added for bleeding wounds. Dealing this damage immediately heals all bleeding wounds possessed by the wielder.
+
+Moderate evocation; CL 10th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bleed|bleed]]*, *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]*; Price 60,802 gp; Cost 30,552 gp.

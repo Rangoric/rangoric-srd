@@ -1186,6 +1186,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Arrow of the Forest\|Arrow of the Forest]] | 167 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Eagle Arrow\|Eagle Arrow]] | 263 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Silver Dagger, Masterwork\|Silver Dagger, Masterwork]] | 322 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Alchemist’s Bullet\|Alchemist’s Bullet]] | 330 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Masterwork Cold Iron Longsword\|Masterwork Cold Iron Longsword]] | 330 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Arcane Eye Arrow\|Arcane Eye Arrow]] | 346 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Grimdeath Arrow\|Grimdeath Arrow]] | 707 gp | Specific Weapon |
@@ -1194,73 +1195,114 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Doom Bullet\|Doom Bullet]] | 1,031 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Javelin of Lightning\|Javelin of Lightning]] | 1,500 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Rot Arrow\|Rot Arrow]] | 1,696 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Dust Bolt\|Dust Bolt]] | 1,730 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Adamantine Dagger\|Adamantine Dagger]] | 3,002 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Adamantine Battleaxe\|Adamantine Battleaxe]] | 3,010 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Oil of Brilliance\|Oil of Brilliance]] | 4,000 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shatterspike\|Shatterspike]] | 4,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Retrieving Arrow\|Retrieving Arrow]] | 4,596 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Domination Bolts\|Domination Bolts]] | 5,675 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Bloodletting Kukri\|Bloodletting Kukri]] | 6,308 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Fighter’s Fork\|Fighter’s Fork]] | 7,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Swashbuckler’s Rapier\|Swashbuckler’s Rapier]] | 7,320 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Everflowing Aspergillum\|Everflowing Aspergillum]] | 7,805 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Hurricane Quarterstaff\|Hurricane Quarterstaff]] | 7,840 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Dagger of Venom\|Dagger of Venom]] | 8,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Dragontooth Longspear\|Dragontooth Longspear]] | 8,305 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Gloom Blade\|Gloom Blade]] | 8,810 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Frostbite Sling\|Frostbite Sling]] | 9,380 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Trident of Warning\|Trident of Warning]] | 10,115 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Dagger of Doubling\|Dagger of Doubling]] | 10,302 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Rending Claw Blade\|Rending Claw Blade]] | 10,305 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Earthenflail\|Earthenflail]] | 11,315 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Swift Obsidian Greataxe\|Swift Obsidian Greataxe]] | 11,320 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Polarity Hammer\|Polarity Hammer]] | 12,310 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Staff of Subdual\|Staff of Subdual]] | 12,400 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Reaver’s Net\|Reaver’s Net]] | 12,600 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shifter’s Sorrow\|Shifter’s Sorrow]] | 12,780 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Dragoncatch Guisarme\|Dragoncatch Guisarme]] | 13,308 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Headsman’s Blade\|Headsman’s Blade]] | 13,850 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Ten-Ring Sword\|Ten-Ring Sword]] | 14,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shortspear of Lightning\|Shortspear of Lightning]] | 14,677 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Triton’s Trident\|Triton’s Trident]] | 15,065 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shadow Dagger\|Shadow Dagger]] | 16,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Flute Sword\|Flute Sword]] | 17,100 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Hero’s Blade\|Hero’s Blade]] | 17,315 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Disarming Blade\|Disarming Blade]] | 17,820 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Scabrous Mace\|Scabrous Mace]] | 18,000 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Assassin’s Dagger\|Assassin’s Dagger]] | 18,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Picker Picker\|Picker Picker]] | 18,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Silent Dagger\|Silent Dagger]] | 18,302 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Lash of the Howler\|Lash of the Howler]] | 18,305 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Slapstick\|Slapstick]] | 18,600 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Trident of Fish Command\|Trident of Fish Command]] | 18,650 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Quarterstaff of Vaulting\|Quarterstaff of Vaulting]] | 19,100 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Firedrake Pistol\|Firedrake Pistol]] | 20,300 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Flame Tongue\|Flame Tongue]] | 20,715 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Sword of Subtlety\|Sword of Subtlety]] | 22,310 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Sword of the Planes\|Sword of the Planes]] | 22,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Nine Lives Stealer\|Nine Lives Stealer]] | 23,057 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Harp Bow\|Harp Bow]] | 23,425 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Axe of the Berserker\|Axe of the Berserker]] | 24,310 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Spirit Caller\|Spirit Caller]] | 25,302 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Dwarfbond Hammer\|Dwarfbond Hammer]] | 25,312 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Oathbow\|Oathbow]] | 25,600 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Sword of Life Stealing\|Sword of Life Stealing]] | 25,715 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Rapier of Battlefield Movement\|Rapier of Battlefield Movement]] | 30,320 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Morningstar of Bloodletting\|Morningstar of Bloodletting]] | 32,000 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Antler Spear\|Antler Spear]] | 32,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Burning Wall Crossbow\|Burning Wall Crossbow]] | 32,350 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Star Sword\|Star Sword]] | 33,000 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Cutthroat’s Apprentice\|Cutthroat’s Apprentice]] | 33,910 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Ghoul’s Lament\|Ghoul’s Lament]] | 35,312 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Duelist’s Comate\|Duelist’s Comate]] | 35,320 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Tentacle of the Fiend\|Tentacle of the Fiend]] | 35,501 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Spiderblade\|Spiderblade]] | 36,765 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Mace of Terror\|Mace of Terror]] | 38,552 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Hellscourge\|Hellscourge]] | 39,305 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Dragon’s Doom\|Dragon’s Doom]] | 40,310 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shadow Sword\|Shadow Sword]] | 40,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Life-Drinker\|Life-Drinker]] | 40,320 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Stormcaller\|Stormcaller]] | 40,715 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Valor’s Minion\|Valor’s Minion]] | 41,335 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Summoner’s Sorrow\|Summoner’s Sorrow]] | 42,816 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Serpentine Sword\|Serpentine Sword]] | 43,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Sword of Ghosts\|Sword of Ghosts]] | 44,315 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Heartswood Spear\|Heartswood Spear]] | 50,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Gauntlets of the Master\|Gauntlets of the Master]] | 50,303 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Trickle Sword\|Trickle Sword]] | 50,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Rapier of Puncturing\|Rapier of Puncturing]] | 50,320 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Sun Blade\|Sun Blade]] | 50,335 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Blade of the Rising Sun\|Blade of the Rising Sun]] | 51,850 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Frost Brand\|Frost Brand]] | 54,475 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Tooth of the Narwhal\|Tooth of the Narwhal]] | 55,815 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Rapier of Quickness\|Rapier of Quickness]] | 56,720 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Dwarven Thrower\|Dwarven Thrower]] | 60,312 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Bloodthirst Dagger\|Bloodthirst Dagger]] | 60,802 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Warbringer\|Warbringer]] | 61,375 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Whip of Life and Death\|Whip of Life and Death]] | 62,501 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Exterminator\|Exterminator]] | 67,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Razor of Flensing\|Razor of Flensing]] | 68,600 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Blade of the Changeling\|Blade of the Changeling]] | 68,702 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Scorpion Thrash\|Scorpion Thrash]] | 69,085 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Pistol of the Infinite Sky\|Pistol of the Infinite Sky]] | 73,300 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Staff of the Summoner\|Staff of the Summoner]] | 73,600 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Mace of Smiting\|Mace of Smiting]] | 75,312 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Blade of the Sword-Saint\|Blade of the Sword-Saint]] | 75,350 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Scimitar of the Spellthief\|Scimitar of the Spellthief]] | 75,815 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Spider’s Fang\|Spider’s Fang]] | 79,102 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Black Thresher\|Black Thresher]] | 79,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Reaver’s Scythe\|Reaver’s Scythe]] | 80,318 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/School Staves\|School Staves]] | 87,975 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Scythe of Life-Harvesting\|Scythe of Life-Harvesting]] | 89,518 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Demonsorrow Curve Blade\|Demonsorrow Curve Blade]] | 90,469 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Void Scythe\|Void Scythe]] | 95,318 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Foul Feyslayer Sword\|Foul Feyslayer Sword]] | 115,145 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Loremaster’s Aide\|Loremaster’s Aide]] | 120,600 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Holy Avenger\|Holy Avenger]] | 120,630 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Unholy Vindicator\|Unholy Vindicator]] | 120,630 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Sword of Revealing\|Sword of Revealing]] | 121,115 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Bastard’s Sting\|Bastard’s Sting]] | 123,035 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Death Blade\|Death Blade]] | 133,915 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Elemental Fork\|Elemental Fork]] | 139,920 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Icicle Bow\|Icicle Bow]] | 152,800 gp | Specific Weapon |
@@ -1292,6 +1334,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Sylvan Scimitar\|Sylvan Scimitar]] | 47,315gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Explosive Bolt\|Explosive Bolt]] | 50 gp each | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Domain Rods\|Domain Rods]] | 50,308 to 161,105 gp (by rod) | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Hushing Arrow\|Hushing Arrow]] | 547 gp (hushing arrow), 1,047 gp (greater hushing arrow) | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Deep Fey Sword\|Deep Fey Sword]] | 58,735 to 82,735 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Gremmin Arrow\|Gremmin Arrow]] | 60 gp each | Specific Weapon |
 

@@ -341,6 +341,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Cure Critical Wounds\|Cure Critical Wounds]]:         | Cures 4d8 damage +1/level (max +20).                                                                                  |
 | [[rangoric-srd/spells/Deadman’s Contingency\|Deadman’s Contingency]] (M F): | Set one of a list of contingencies for your demise. |
 | [[rangoric-srd/spells/Death Ward\|Death Ward]]:                             | Grants immunity to death spells and negative energy effects.                                                          |
+| [[rangoric-srd/spells/Deathless\|Deathless]]: | Prevents target from dying due to hit point damage. |
 | [[rangoric-srd/spells/Debilitating Portent\|Debilitating Portent]]: | Inflicts an ill fate on a creature, halving its damage when it attacks or casts a spell |
 | [[rangoric-srd/spells/Dimensional Anchor\|Dimensional Anchor]]:             | Bars extradimensional movement.                                                                                       |
 | [[rangoric-srd/spells/Discern Lies\|Discern Lies]]:                         | Reveals deliberate falsehoods.                                                                                        |

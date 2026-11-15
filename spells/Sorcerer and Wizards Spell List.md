@@ -759,6 +759,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Contagion\|Contagion]]:                                               | Infects subject with chosen disease.                                                                                               |
 |               | [[rangoric-srd/spells/Contingent Venom\|Contingent Venom]] (M): | As languid venom, but with a triggering condition. |
 |               | [[rangoric-srd/spells/Cursed Treasure\|Cursed Treasure]] (M): | Target object curses the next creature to touch it |
+|               | [[rangoric-srd/spells/Deathless\|Deathless]]: | Prevents target from dying due to hit point damage. |
 |               | [[rangoric-srd/spells/Enervation\|Enervation]]:                                             | Subject gains 1d4 negative levels.                                                                                                 |
 |               | [[rangoric-srd/spells/False Life, Greater\|False Life, Greater]] (M): | Gain 2d10 temporary hp + 1/level. |
 |               | [[rangoric-srd/spells/Familiar Melding\|Familiar Melding]]: | Possess your familiar. |
