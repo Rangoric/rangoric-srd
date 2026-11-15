@@ -3,75 +3,75 @@ srd-type: "monster"
 section: "Monsters"
 size: "Large"
 creature-type: "Magical Beast"
-hit-dice: "10d10+70 (125 hp)"
-initiative: "+0"
+hit-dice: "8d10+56 (100 hp)"
+initiative: "+1"
 speed: "30 ft. (6 squares)"
-armor-class: "19 (–1 size, +10 natural), touch 9, flat-footed 19"
-base-attack: "+10"
-cmb: "+17 (+19 bull rush, +21 grapple)"
-cmd: "27 (29 vs. bull rush)"
-attack: "Bite +15 melee (2d6+6)"
-full-attack: "Bite +15 melee (2d6+6); 2 claws +10 melee (1d6+3)"
+armor-class: "21 (+1 Dex, +11 natural, –1 size), touch 10, flat-footed 20"
+base-attack: "+8"
+cmb: "+16 (+20 grapple)"
+cmd: "27"
+attack: "Bite +14 melee (2d6+7) or claw +15 melee (1d8+7 plus grab)"
+full-attack: "Bite +14 melee (2d6+7) and 2 claws +15 melee (1d8+7 plus grab)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Improved grab, rend 2d6+9"
-special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +14, Ref +7, Will +4"
-abilities: "Str 23, Dex 10, Con 24, Int 3, Wis 12, Cha 8"
-skills: "Fieldcraft +6, Perception +13, Stealth +2"
-skill-ranks: "Fieldcraft 2, Perception 5, Stealth 3"
-feats: "Cleave, Power Attack, Improved Bull Rush, Track"
+special-attacks: "Rend (2 claws, 1d8+10)"
+special-qualities: "Darkvision 60 ft., low-light vision, scent, double damage against objects"
+saves: "Fort +13, Ref +7, Will +4"
+abilities: "Str 25, Dex 13, Con 24, Int 3, Wis 14, Cha 8"
+skills: "Fieldcraft +6, Perception +13"
+skill-ranks: "Fieldcraft 1, Perception 4"
+feats: "Awesome Blow, Improved Bull Rush, Power Attack, Weapon Focus (claw)"
 environment: "Temperate marshes"
-organization: "Solitary"
+organization: "Solitary (plus bonded creatures if any)"
 challenge-rating: 8
-treasure: "None"
+treasure: "Incidental"
 alignment: "Usually neutral"
 advancement: "11–15 HD (Large); 16–30 HD (Huge)"
 level-adjustment: "+5 (cohort)"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Gray Render|Gray Render (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Gray Render|Gray Render (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Gray Render
 
   - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 10d10+70 (125 hp)
-  - **Initiative**: +0
+  - **Hit Dice**: 8d10+56 (100 hp)
+  - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 19 (–1 size, +10 natural), touch 9, flat-footed 19
-  - **Base Attack**: +10; **CMB**: +17 (+19 bull rush, +21 grapple); **CMD**: 27 (29 vs. bull rush)
-  - **Attack**: Bite +15 melee (2d6+6)
-  - **Full Attack**: Bite +15 melee (2d6+6); 2 claws +10 melee (1d6+3)
+  - **Armor Class**: 21 (+1 Dex, +11 natural, –1 size), touch 10, flat-footed 20
+  - **Base Attack**: +8; **CMB**: +16 (+20 grapple); **CMD**: 27
+  - **Attack**: Bite +14 melee (2d6+7) or claw +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: Bite +14 melee (2d6+7) and 2 claws +15 melee (1d8+7 plus [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Grab|Improved grab]], rend 2d6+9
-  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +14, Ref +7, Will +4
-  - **Abilities**: Str 23, Dex 10, Con 24, Int 3, Wis 12, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +2
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Track|Track]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws, 1d8+10)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], double damage against objects
+  - **Saves**: Fort +13, Ref +7, Will +4
+  - **Abilities**: Str 25, Dex 13, Con 24, Int 3, Wis 14, Cha 8
+  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +13
+  - **Feats**: [[rangoric-srd/feats/Awesome Blow|Awesome Blow]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
   - **Environment**: Temperate marshes
-  - **Organization**: Solitary
+  - **Organization**: Solitary (plus bonded creatures if any)
   - **Challenge Rating**: 8
-  - **Treasure**: None
+  - **Treasure**: Incidental
   - **Alignment**: Usually neutral
   - **Advancement**: 11–15 HD (Large); 16–30 HD (Huge)
   - **Level Adjustment**: +5 (cohort)
 
-A gray render stands about 9 feet tall in spite of its hunched posture and is about 4 feet wide. It weighs about 4,000 pounds.
+Standing over 9 feet tall and weighing in excess of 4,000 pounds, a gray render is a solitary and savage predator. Renders are gifted with immense strength, and some reports claim to have witnessed a gray render uprooting a fully grown tree and tearing it to splinters in order to catch prey hiding within. Gray renders actively avoid forming groups or communities with their own kind, and perhaps only tolerate the presence of other renders when it is time to mate. Some sages claim they are asexual, but it is more likely they are hermaphrodites able to self-fertilize, and reproduce only rarely. Each render produces one offspring and carries it for a time in a pouch, but thereafter the young render must fend for itself.
 
-Gray renders are never found in groups. Each of these asexual creatures produces one offspring and carries it for a time in a pouch, but thereafter the young render must fend for itself.
+Despite its solitary existence, a gray render often develops an affectionate bond with other creatures, typically a herd of herbivores or a small tribe of humanoids, but in some cases a solitary denizen of its swamp. The render acts as a guardian for this creature or creatures, never straying more than a mile away, running to protect them if they are attacked, and providing an offering of meat once each day, as might a domesticated cat. A gray render never harms its protected creatures, and retreats in confusion if they attack it. Most animal “pets” grow to accept its presence, and primitive humanoid “pets” often believe their guardian is a sign of favor from the gods. A render's bond may last from a few months to as long as 10 years, after which it wanders to a new territory and ignores its former favorites.
 
-A unique quality of the gray render is its tendency to bond with, protect, and provide for another creature (or group of creatures) native to its surroundings. Whether accepted or not, the render always attempts to remain fairly close, watching over its adopted charge(s) and daily bringing an offering of meat. It never willingly harms adopted creatures and retreats if they attack it.
+Renders are generally not malicious, and only attack if hungry or if they or their pets are threatened. A render protecting its pets fights to the death.
+
+Gray Renders speak Giant.
 
 ### Combat
 
 A gray render attacks to kill, whether to bring down prey or to protect itself or those it has adopted. When hunting, it sometimes attempts to [[rangoric-srd/skills/Stealth|hide]] and wait for prey to wander close.
 
-**Improved Grab (Ex)**: To use this ability, a gray render must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity.
-
-**Rend (Ex)**: A gray render that wins a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check after a successful bite attack establishes a hold, latching onto the opponent’s body and tearing the flesh. This attack automatically deals 2d6+9 points of damage.
-
-**Skills**: Gray renders have a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks due to their six keen eyes.
+**Double Damage Against Objects (Ex)**: A gray render that makes a full attack against an object or structure deals double damage.

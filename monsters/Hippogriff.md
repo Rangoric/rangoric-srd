@@ -3,56 +3,58 @@ srd-type: "monster"
 section: "Monsters"
 size: "Large"
 creature-type: "Magical Beast"
-hit-dice: "3d10+9 (25 hp)"
+hit-dice: "3d10+6 (22 hp)"
 initiative: "+2"
-speed: "50 ft. (10 squares), fly 100 ft. (average)"
-armor-class: "15 (–1 size, +2 Dex, +4 natural), touch 11, flat-footed 13"
+speed: "40 ft. (8 squares), fly 100 ft. (average)"
+armor-class: "14 (+2 Dex, +1 dodge, +2 natural, –1 size), touch 12, flat-footed 11"
 base-attack: "+3"
-cmb: "+8"
-cmd: "21"
-attack: "Claw +6 melee (1d4+4)"
-full-attack: "2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2)"
+cmb: "+6"
+cmd: "19"
+attack: "Bite +4 melee (1d6+2) or claw +4 melee (1d4+2)"
+full-attack: "Bite +4 melee (1d6+2) and 2 claws +4 melee (1d4+2)"
 space-reach: "10 ft./5 ft."
 special-attacks: "—"
 special-qualities: "Darkvision 60 ft., low-light vision, scent"
-saves: "Fort +6, Ref +5, Will +2"
-abilities: "Str 18, Dex 15, Con 16, Int 2, Wis 13, Cha 8"
-skills: "Perception +11"
-skill-ranks: "Perception 3"
+saves: "Fort +5, Ref +5, Will +2"
+abilities: "Str 15, Dex 15, Con 14, Int 2, Wis 12, Cha 9"
+skills: "Acrobatics +5, Perception +9"
+skill-ranks: "Acrobatics 2, Perception 1"
 feats: "Dodge, Wingover"
-environment: "Temperate hills"
+environment: "Temperate hills or plains"
 organization: "Solitary, pair, or flight (7–12)"
 challenge-rating: 2
 treasure: "None"
 alignment: "Always neutral"
 advancement: "4–6 HD (Large); 7–9 HD (Huge)"
 level-adjustment: "—"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Hippogriff (Monster)|Hippogriff (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Hippogriff|Hippogriff (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Hippogriff
 
   - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^magical-beast|Magical Beast]]
-  - **Hit Dice**: 3d10+9 (25 hp)
+  - **Hit Dice**: 3d10+6 (22 hp)
   - **Initiative**: +2
-  - **Speed**: 50 ft. (10 squares), fly 100 ft. (average)
-  - **Armor Class**: 15 (–1 size, +2 Dex, +4 natural), touch 11, flat-footed 13
-  - **Base Attack**: +3; **CMB**: +8; **CMD**: 21
-  - **Attack**: Claw +6 melee (1d4+4)
-  - **Full Attack**: 2 claws +6 melee (1d4+4) and bite +1 melee (1d8+2)
+  - **Speed**: 40 ft. (8 squares), fly 100 ft. (average)
+  - **Armor Class**: 14 (+2 Dex, +1 dodge, +2 natural, –1 size), touch 12, flat-footed 11
+  - **Base Attack**: +3; **CMB**: +6; **CMD**: 19
+  - **Attack**: Bite +4 melee (1d6+2) or claw +4 melee (1d4+2)
+  - **Full Attack**: Bite +4 melee (1d6+2) and 2 claws +4 melee (1d4+2)
   - **Space/Reach**: 10 ft./5 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: Darkvision 60 ft., low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +6, Ref +5, Will +2
-  - **Abilities**: Str 18, Dex 15, Con 16, Int 2, Wis 13, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]]
+  - **Saves**: Fort +5, Ref +5, Will +2
+  - **Abilities**: Str 15, Dex 15, Con 14, Int 2, Wis 12, Cha 9
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +9
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Wingover|Wingover]]
-  - **Environment**: Temperate hills
+  - **Environment**: Temperate hills or plains
   - **Organization**: Solitary, pair, or flight (7–12)
   - **Challenge Rating**: 2
   - **Treasure**: None
@@ -60,18 +62,16 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 4–6 HD (Large); 7–9 HD (Huge)
   - **Level Adjustment**: —
 
-Hippogriffs are aggressive flying creatures that combine features of horses and giant eagles. Voracious omnivores, hippogriffs will hunt humanoids as readily as any other meal. A typical hippogriff is 9 feet long, has a wingspan of 20 feet, and weighs 1,000 pounds.
+The hippogriff bears the wings, forelegs, and head of a great raptor bird and the tail and body of a magnificent horse. As horses are a preferred meal for griffons, sages claim some flesh-warping [[rangoric-srd/classes/Wizard|wizard]] with an ironic sense of humor long ago created this unfortunate fusion of horse and hawk as a joke.
+
+A hippogriff's feathers bear coloration similar to those of a hawk or an eagle; however, some breeders have managed to produce specimens with stark white or coal black feathers. A hippogriff's torso and hind end are most often bay, chestnut, or gray, with some coats bearing pinto or even palomino coloration. Hippogriffs measure 11 feet long and weigh upward of 1,500 pounds.
+
+Territorial, hippogriffs fiercely protect the lands under their domain. Hippogriffs must also watch the skies for other predators, as they are a preferred meal of griffons, wyverns, and young dragons. Hippogriffs nest in sweeping grasslands, rugged hills, and flowing prairies. Exceptionally hardy hippogriffs make their home nestled into niches on canyon walls, from which they comb the rocky deserts for coyotes, deer, and the occasional humanoid. Hippogriffs prefer mammalian prey, yet they graze after every meal of flesh to aid their digestion. Their dietary habits can be dangerous to both ranchers and their livestock, so ranching communities often set bounties on them. Victims of these hunts are often taxidermied, and preserved hippogriffs frequently decorate frontier taverns and remote outposts.
+
+Far easier to train than griffons, yet easily as intelligent as horses, hippogriffs are trained as mounts by some elite companies of mounted soldiers, patrolling the skies and swooping down on unsuspecting enemies. Although they are magical beasts, if captured young, hippogriffs can be trained using Handle Animal as if they were animals. An adult hippogriff is more difficult to train, and attempts to do so follow the normal rules for training magical beasts using the skill. A hippogriff saddle must be specially crafted so as to not impact the movement of the creature's wings—these saddles are always exotic saddles.
+
+Hippogriffs lay eggs rather than birthing live young—as a general rule, a hippogriff nest only contains one egg at a time. A hippogriff's egg is worth 200 gp, but a healthy young hippogriff is worth 500 gp. A fully trained hippogriff mount can command prices of up to 5,000 gp or more. A hippogriff can carry 198 pounds as a light load, 399 pounds as a medium load, and 600 pounds as a heavy load.
 
 ### Combat
 
 Hippogriffs dive at their prey and strike with their clawed forelegs. When they cannot dive, they slash with claws and beak. Mated pairs and flights of these creatures attack in concert, diving repeatedly to drive away or kill intruders. Hippogriffs fight to the death to defend their nests and their hatchlings, which are prized as aerial mounts and fetch a handsome price in many civilized areas.
-
-**Skills**: Hippogriffs have a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-### Training a Hippogriff
-
-A hippogriff requires training before it can bear a rider in combat. Training a hippogriff requires six weeks of work and a DC 25 [[rangoric-srd/skills/Animal Handling|Animal Handling]] check. Riding a hippogriff requires an exotic saddle. A hippogriff can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on an [[rangoric-srd/skills/Animal Handling|Animal Handling]] check.
-
-Hippogriff eggs are worth 2,000 gp apiece on the open market, while young are worth 3,000 gp each. Professional trainers charge 1,000 gp to rear or train a hippogriff.
-
-**Carrying Capacity**: A light load for a hippogriff is up to 300 pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds.
