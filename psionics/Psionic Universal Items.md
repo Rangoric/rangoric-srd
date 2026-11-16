@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Psionics"
 based-on:
   - "[[fantasy srd 3.5/psionics/Psionic Universal Items|Psionic Universal Items (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -176,7 +176,7 @@ Standard universal items are described below.
   - [[rangoric-srd/magic-items/universal-items/Skin of the Spider|Skin of the Spider]]
   - [[rangoric-srd/magic-items/universal-items/Skin of the Troll|Skin of the Troll]]
   - [[rangoric-srd/magic-items/universal-items/Ring of Self-Sufficiency|Ring of Self-Sufficiency]]
-  - [[rangoric-srd/magic-items/universal-items/Shards|Shards]]
+  - [[rangoric-srd/magic-items/universal-items/Shards +1|Shards]]
   - [[rangoric-srd/magic-items/universal-items/Third Eyes|Third Eyes]]
   - [[rangoric-srd/magic-items/universal-items/Conceal|Conceal]]
   - [[rangoric-srd/magic-items/universal-items/Concentrate|Concentrate]]

@@ -45,9 +45,9 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 17  | [[rangoric-srd/magic-items/wondrous-items/Dust of Dryness\|Dust of dryness]]                             | 850 gp       |
 | 18  | [[rangoric-srd/magic-items/wondrous-items/Bag of Tricks\|Bag of tricks, gray]]                         | 900 gp       |
 | 19  | [[rangoric-srd/magic-items/wondrous-items/Hand of the Mage\|Hand of the mage]]                            | 900 gp       |
-| 20  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +1]]                         | 1,000 gp     |
-| 21  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance\|Cloak of resistance +1]]                      | 1,000 gp     |
-| 22  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 1st-level spell]]             | 1,000 gp     |
+| 20  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +1\|Bracers of armor +1]]                         | 1,000 gp     |
+| 21  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance +1\|Cloak of resistance +1]]                      | 1,000 gp     |
+| 22  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 1st-Level Spell\|Pearl of power, 1st-level spell]]             | 1,000 gp     |
 | 23  | [[rangoric-srd/magic-items/wondrous-items/Phylactery of Faithfulness\|Phylactery of faithfulness]]                  | 1,000 gp     |
 | 24  | [[rangoric-srd/magic-items/wondrous-items/Salve of Slipperiness\|Salve of slipperiness]]                       | 1,000 gp     |
 | 25  | [[rangoric-srd/magic-items/wondrous-items/Elixir of Fire Breath\|Elixir of fire breath]]                       | 1,100 gp     |
@@ -60,7 +60,7 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 32  | [[rangoric-srd/magic-items/wondrous-items/Hat of Disguise\|Hat of disguise]]                             | 1,800 gp     |
 | 33  | [[rangoric-srd/magic-items/wondrous-items/Pipes of Sounding\|Pipes of sounding]]                           | 1,800 gp     |
 | 34  | [[rangoric-srd/magic-items/wondrous-items/Efficient Quiver\|Efficient quiver]]                            | 1,800 gp     |
-| 35  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of natural armor +1]]                  | 2,000 gp     |
+| 35  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +1\|Amulet of natural armor +1]]                  | 2,000 gp     |
 | 36  | [[rangoric-srd/magic-items/wondrous-items/Handy Haversack\|Handy haversack]]                             | 2,000 gp     |
 | 37  | [[rangoric-srd/magic-items/wondrous-items/Horn of Fog\|Horn of fog]]                                 | 2,000 gp     |
 | 38  | [[rangoric-srd/magic-items/wondrous-items/Elemental Gem\|Elemental gem]]                               | 2,250 gp     |
@@ -84,19 +84,19 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 56  | [[rangoric-srd/magic-items/wondrous-items/Lens of Detection\|Lens of detection]]                           | 3,500 gp     |
 | 57  | [[rangoric-srd/magic-items/wondrous-items/Vestment, Druid’s\|Vestment, druid’s]]                           | 3,750 gp     |
 | 58  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Figurine of wondrous power, silver raven]]    | 3,800 gp     |
-| 59  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Health\|Amulet of health +2]]                         | 4,000 gp     |
-| 60  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +2]]                         | 4,000 gp     |
-| 61  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma\|Cloak of Charisma +2]]                        | 4,000 gp     |
-| 62  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance\|Cloak of resistance +2]]                      | 4,000 gp     |
+| 59  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Health +2\|Amulet of health +2]]                         | 4,000 gp     |
+| 60  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +2\|Bracers of armor +2]]                         | 4,000 gp     |
+| 61  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma +2\|Cloak of Charisma +2]]                        | 4,000 gp     |
+| 62  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance +2\|Cloak of resistance +2]]                      | 4,000 gp     |
 | 63  | [[rangoric-srd/magic-items/wondrous-items/Gauntlets of Ogre Power\|Gauntlets of ogre power]]                     | 4,000 gp     |
 | 64  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Arrow Snaring\|Gloves of arrow snaring]]                     | 4,000 gp     |
-| 65  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity\|Gloves of Dexterity +2]]                      | 4,000 gp     |
-| 66  | [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect\|Headband of intellect +2]]                    | 4,000 gp     |
+| 65  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity +2\|Gloves of Dexterity +2]]                      | 4,000 gp     |
+| 66  | [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect +2\|Headband of intellect +2]]                    | 4,000 gp     |
 | 67  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Ioun stone, clear spindle]]                   | 4,000 gp     |
 | 68  | [[rangoric-srd/magic-items/wondrous-items/Restorative Ointment\|Restorative ointment]]                        | 4,000 gp     |
 | 69  | [[rangoric-srd/magic-items/wondrous-items/Marvelous Pigments\|Marvelous pigments]]                          | 4,000 gp     |
-| 70  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 2nd-level spell]]             | 4,000 gp     |
-| 71  | [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom\|Periapt of Wisdom +2]]                        | 4,000 gp     |
+| 70  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 2nd-Level Spell\|Pearl of power, 2nd-level spell]]             | 4,000 gp     |
+| 71  | [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom +2\|Periapt of Wisdom +2]]                        | 4,000 gp     |
 | 72  | [[rangoric-srd/magic-items/wondrous-items/Stone Salve\|Stone salve]]                                 | 4,000 gp     |
 | 73  | [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs\|Necklace of fireballs type III]]              | 4,350 gp     |
 | 74  | [[rangoric-srd/magic-items/wondrous-items/Circlet of Persuasion\|Circlet of persuasion]]                       | 4,500 gp     |
@@ -113,7 +113,7 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 85  | [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of striding and springing]]             | 5,500 gp     |
 | 86  | [[rangoric-srd/magic-items/wondrous-items/Wind Fan\|Wind fan]]                                    | 5,500 gp     |
 | 87  | [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs\|Necklace of fireballs type V]]                | 5,850 gp     |
-| 88  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of mighty fists +1]]                   | 6,000 gp     |
+| 88  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +1\|Amulet of mighty fists +1]]                   | 6,000 gp     |
 | 89  | [[rangoric-srd/magic-items/wondrous-items/Horseshoes of a Zephyr\|Horseshoes of a zephyr]]                      | 6,000 gp     |
 | 90  | [[rangoric-srd/magic-items/wondrous-items/Pipes of Haunting\|Pipes of haunting]]                           | 6,000 gp     |
 | 91  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Swimming and Climbing\|Gloves of swimming and climbing]]             | 6,250 gp     |
@@ -133,7 +133,7 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | --- | ------------------------------------------------------------------------------------------------ | ------------ |
 | 01  | [[rangoric-srd/magic-items/wondrous-items/Boots of Levitation\|Boots of levitation]]                         | 7,500 gp     |
 | 02  | [[rangoric-srd/magic-items/wondrous-items/Harp of Charming\|Harp of charming]]                            | 7,500 gp     |
-| 03  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of natural armor +2]]                  | 8,000 gp     |
+| 03  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +2\|Amulet of natural armor +2]]                  | 8,000 gp     |
 | 04  | [[rangoric-srd/magic-items/wondrous-items/Golem Manual\|Golem manual, flesh]]                         | 8,000 gp     |
 | 05  | [[rangoric-srd/magic-items/wondrous-items/Hand of Glory\|Hand of glory]]                               | 8,000 gp     |
 | 06  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Ioun stone, deep red sphere]]                 | 8,000 gp     |
@@ -146,14 +146,14 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 13  | [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs\|Necklace of fireballs type VI]]               | 8,100 gp     |
 | 14  | [[rangoric-srd/magic-items/wondrous-items/Candle of Invocation\|Candle of invocation]]                        | 8,400 gp     |
 | 15  | [[rangoric-srd/magic-items/wondrous-items/Necklace of Fireballs\|Necklace of fireballs type VII]]              | 8,700 gp     |
-| 16  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +3]]                         | 9,000 gp     |
-| 17  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance\|Cloak of resistance +3]]                      | 9,000 gp     |
+| 16  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +3\|Bracers of armor +3]]                         | 9,000 gp     |
+| 17  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance +3\|Cloak of resistance +3]]                      | 9,000 gp     |
 | 18  | [[rangoric-srd/magic-items/wondrous-items/Decanter of Endless Water\|Decanter of endless water]]                   | 9,000 gp     |
 | 19  | [[rangoric-srd/magic-items/wondrous-items/Necklace of Adaptation\|Necklace of adaptation]]                      | 9,000 gp     |
-| 20  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 3rd-level spell]]             | 9,000 gp     |
+| 20  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 3rd-Level Spell\|Pearl of power, 3rd-level spell]]             | 9,000 gp     |
 | 21  | [[rangoric-srd/magic-items/artifacts/Talisman of the Sphere\|Talisman of the sphere]] | 9,000 gp     |
 | 22  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Figurine of wondrous power, serpentine owl]]  | 9,100 gp     |
-| 23  | [[rangoric-srd/magic-items/wondrous-items/Strand of Prayer Beads\|Strand of prayer beads, lesser]]              | 9,600 gp     |
+| 23  | [[rangoric-srd/magic-items/wondrous-items/Strand of Prayer Beads, Lesser\|Strand of prayer beads, lesser]]              | 9,600 gp     |
 | 24  | [[rangoric-srd/magic-items/wondrous-items/Bag of Holding\|Bag of holding type IV]]                      | 10,000 gp    |
 | 25  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Figurine of wondrous power, bronze griffon]]  | 10,000 gp    |
 | 26  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Figurine of wondrous power, ebony fly]]       | 10,000 gp    |
@@ -179,22 +179,22 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 46  | [[rangoric-srd/magic-items/wondrous-items/Horn of the Tritons\|Horn of the tritons]]                         | 15,100 gp    |
 | 47  | [[rangoric-srd/magic-items/wondrous-items/Pearl of the Sirines\|Pearl of the sirines]]                        | 15,300 gp    |
 | 48  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Figurine of wondrous power, onyx dog]]        | 15,500 gp    |
-| 49  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Health\|Amulet of health +4]]                         | 16,000 gp    |
-| 50  | [[rangoric-srd/magic-items/wondrous-items/Belt of Giant Strength\|Belt of giant Strength +4]]                   | 16,000 gp    |
+| 49  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Health +4\|Amulet of health +4]]                         | 16,000 gp    |
+| 50  | [[rangoric-srd/magic-items/wondrous-items/Belt of Giant Strength +4\|Belt of giant Strength +4]]                   | 16,000 gp    |
 | 51  | [[rangoric-srd/magic-items/wondrous-items/Boots, Winged\|Boots, winged]]                               | 16,000 gp    |
-| 52  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +4]]                         | 16,000 gp    |
-| 53  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma\|Cloak of Charisma +4]]                        | 16,000 gp    |
-| 54  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance\|Cloak of resistance +4]]                      | 16,000 gp    |
-| 55  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity\|Gloves of Dexterity +4]]                      | 16,000 gp    |
-| 56  | [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect\|Headband of intellect +4]]                    | 16,000 gp    |
-| 57  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 4th-level spell]]             | 16,000 gp    |
-| 58  | [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom\|Periapt of Wisdom +4]]                        | 16,000 gp    |
+| 52  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +4\|Bracers of armor +4]]                         | 16,000 gp    |
+| 53  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma +4\|Cloak of Charisma +4]]                        | 16,000 gp    |
+| 54  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance +4\|Cloak of resistance +4]]                      | 16,000 gp    |
+| 55  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity +4\|Gloves of Dexterity +4]]                      | 16,000 gp    |
+| 56  | [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect +4\|Headband of intellect +4]]                    | 16,000 gp    |
+| 57  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 4th-Level Spell\|Pearl of power, 4th-level spell]]             | 16,000 gp    |
+| 58  | [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom +4\|Periapt of Wisdom +4]]                        | 16,000 gp    |
 | 59  | [[rangoric-srd/magic-items/wondrous-items/Scabbard of Keen Edges\|Scabbard of keen edges]]                      | 16,000 gp    |
 | 60  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Figurine of wondrous power, golden lions]]    | 16,500 gp    |
 | 61  | [[rangoric-srd/magic-items/wondrous-items/Chime of Interruption\|Chime of interruption]]                       | 16,800 gp    |
 | 62  | [[rangoric-srd/magic-items/wondrous-items/Broom of Flying\|Broom of flying]]                             | 17,000 gp    |
 | 63  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Figurine of wondrous power, marble elephant]] | 17,000 gp    |
-| 64  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of natural armor +3]]                  | 18,000 gp    |
+| 64  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +3\|Amulet of natural armor +3]]                  | 18,000 gp    |
 | 65  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Ioun stone, iridescent spindle]]              | 18,000 gp    |
 | 66  | [[rangoric-srd/magic-items/wondrous-items/Bracelet of Friends\|Bracelet of friends]]                         | 19,000 gp    |
 | 67  | [[rangoric-srd/magic-items/wondrous-items/Carpet of Flying\|Carpet of flying, 5 ft. by 5 ft.]]            | 20,000 gp    |
@@ -209,14 +209,14 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 76  | [[rangoric-srd/magic-items/wondrous-items/Mask of the Skull\|Mask of the skull]]                           | 22,000 gp    |
 | 77  | [[rangoric-srd/magic-items/wondrous-items/Mattock of the Titans\|Mattock of the titans]]                       | 23,348 gp    |
 | 78  | [[rangoric-srd/magic-items/wondrous-items/Circlet of Blasting, Major\|Circlet of blasting, major]]                  | 23,760 gp    |
-| 79  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of mighty fists +2]]                   | 24,000 gp    |
+| 79  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +2\|Amulet of mighty fists +2]]                   | 24,000 gp    |
 | 80  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Displacement, Minor\|Cloak of displacement, minor]]                | 24,000 gp    |
 | 81  | [[rangoric-srd/magic-items/wondrous-items/Helm of Underwater Action\|Helm of underwater action]]                   | 24,000 gp    |
 | 82  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater\|Bracers of archery, greater]]                 | 25,000 gp    |
-| 83  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +5]]                         | 25,000 gp    |
-| 84  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance\|Cloak of resistance +5]]                      | 25,000 gp    |
+| 83  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +5\|Bracers of armor +5]]                         | 25,000 gp    |
+| 84  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Resistance +5\|Cloak of resistance +5]]                      | 25,000 gp    |
 | 85  | [[rangoric-srd/magic-items/wondrous-items/Eyes of Doom\|Eyes of doom]]                                | 25,000 gp    |
-| 86  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 5th-level spell]]             | 25,000 gp    |
+| 86  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 5th-Level Spell\|Pearl of power, 5th-level spell]]             | 25,000 gp    |
 | 87  | [[rangoric-srd/magic-items/wondrous-items/Maul of the Titans\|Maul of the titans]]                          | 25,305 gp    |
 | 88  | [[rangoric-srd/magic-items/wondrous-items/Strand of Prayer Beads\|Strand of prayer beads]]                      | 25,800 gp    |
 | 89  | [[rangoric-srd/magic-items/wondrous-items/Cloak of the Bat\|Cloak of the bat]]                            | 26,000 gp    |
@@ -225,12 +225,12 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 92  | [[rangoric-srd/magic-items/wondrous-items/Helm of Telepathy\|Helm of telepathy]]                           | 27,000 gp    |
 | 93  | [[rangoric-srd/magic-items/wondrous-items/Periapt of Proof against Poison\|Periapt of proof against poison]]             | 27,000 gp    |
 | 94  | [[rangoric-srd/magic-items/wondrous-items/Robe of Scintillating Colors\|Robe of scintillating colors]]                | 27,000 gp    |
-| 95  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health\|Manual of bodily health +1]]                  | 27,500 gp    |
-| 96  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise\|Manual of gainful exercise +1]]               | 27,500 gp    |
-| 97  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action\|Manual of quickness in action +1]]            | 27,500 gp    |
-| 98  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought\|Tome of clear thought +1]]                    | 27,500 gp    |
-| 99  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence\|Tome of leadership and influence +1]]         | 27,500 gp    |
-| 100 | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding\|Tome of understanding +1]]                    | 27,500 gp    |
+| 95  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health +1\|Manual of bodily health +1]]                  | 27,500 gp    |
+| 96  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise +1\|Manual of gainful exercise +1]]               | 27,500 gp    |
+| 97  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action +1\|Manual of quickness in action +1]]            | 27,500 gp    |
+| 98  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought +1\|Tome of clear thought +1]]                    | 27,500 gp    |
+| 99  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence +1\|Tome of leadership and influence +1]]         | 27,500 gp    |
+| 100 | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding +1\|Tome of understanding +1]]                    | 27,500 gp    |
 
 **Table: MAJOR WONDROUS ITEMS**
 
@@ -243,19 +243,19 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 05  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Ioun stone, pale green prism]]                   | 30,000 gp    |
 | 06  | [[rangoric-srd/magic-items/wondrous-items/Lantern of Revealing\|Lantern of revealing]]                           | 30,000 gp    |
 | 07  | [[rangoric-srd/magic-items/wondrous-items/Robe of Blending\|Robe of blending]]                               | 30,000 gp    |
-| 08  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of natural armor +4]]                     | 32,000 gp    |
+| 08  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +4\|Amulet of natural armor +4]]                     | 32,000 gp    |
 | 09  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Proof against Detection and Location\|Amulet of proof against detection and location]] | 35,000 gp    |
 | 10  | [[rangoric-srd/magic-items/wondrous-items/Carpet of Flying\|Carpet of flying, 5 ft. by 10 ft.]]              | 35,000 gp    |
 | 11  | [[rangoric-srd/magic-items/wondrous-items/Golem Manual\|Golem manual, iron]]                             | 35,000 gp    |
-| 12  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Health\|Amulet of health +6]]                            | 36,000 gp    |
-| 13  | [[rangoric-srd/magic-items/wondrous-items/Belt of Giant Strength\|Belt of giant Strength +6]]                      | 36,000 gp    |
-| 14  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +6]]                            | 36,000 gp    |
-| 15  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma\|Cloak of Charisma +6]]                           | 36,000 gp    |
-| 16  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity\|Gloves of Dexterity +6]]                         | 36,000 gp    |
-| 17  | [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect\|Headband of intellect +6]]                       | 36,000 gp    |
+| 12  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Health +6\|Amulet of health +6]]                            | 36,000 gp    |
+| 13  | [[rangoric-srd/magic-items/wondrous-items/Belt of Giant Strength +6\|Belt of giant Strength +6]]                      | 36,000 gp    |
+| 14  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +6\|Bracers of armor +6]]                            | 36,000 gp    |
+| 15  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Charisma +6\|Cloak of Charisma +6]]                           | 36,000 gp    |
+| 16  | [[rangoric-srd/magic-items/wondrous-items/Gloves of Dexterity +6\|Gloves of Dexterity +6]]                         | 36,000 gp    |
+| 17  | [[rangoric-srd/magic-items/wondrous-items/Headband of Intellect +6\|Headband of intellect +6]]                       | 36,000 gp    |
 | 18  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Ioun stone, vibrant purple prism]]               | 36,000 gp    |
-| 19  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 6th-level spell]]                | 36,000 gp    |
-| 20  | [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom\|Periapt of Wisdom +6]]                           | 36,000 gp    |
+| 19  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 6th-Level Spell\|Pearl of power, 6th-level spell]]                | 36,000 gp    |
+| 20  | [[rangoric-srd/magic-items/wondrous-items/Periapt of Wisdom +6\|Periapt of Wisdom +6]]                           | 36,000 gp    |
 | 21  | [[rangoric-srd/magic-items/wondrous-items/Scarab of Protection\|Scarab of protection]]                           | 38,000 gp    |
 | 22  | [[rangoric-srd/magic-items/Magic Wondrous Items\|Ioun stone, lavender and green ellipsoid]]       | 40,000 gp    |
 | 23  | [[rangoric-srd/magic-items/wondrous-items/Ring Gates\|Ring gates]]                                     | 40,000 gp    |
@@ -263,74 +263,74 @@ This is a catch-all category for anything that doesn’t fall into the other gro
 | 25  | [[rangoric-srd/magic-items/wondrous-items/Golem Manual\|Golem manual, greater stone]]                    | 44,000 gp    |
 | 26  | [[rangoric-srd/magic-items/wondrous-items/Orb of Storms\|Orb of storms]]                                  | 48,000 gp    |
 | 27  | [[rangoric-srd/magic-items/wondrous-items/Boots of Teleportation\|Boots of teleportation]]                         | 49,000 gp    |
-| 28  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +7]]                            | 49,000 gp    |
-| 29  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 7th-level spell]]                | 49,000 gp    |
-| 30  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of natural armor +5]]                     | 50,000 gp    |
+| 28  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +7\|Bracers of armor +7]]                            | 49,000 gp    |
+| 29  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 7th-Level Spell\|Pearl of power, 7th-level spell]]                | 49,000 gp    |
+| 30  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +5\|Amulet of natural armor +5]]                     | 50,000 gp    |
 | 31  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Displacement, Major\|Cloak of displacement, major]]                   | 50,000 gp    |
 | 32  | [[rangoric-srd/magic-items/wondrous-items/Crystal Ball\|Crystal ball with see invisibility]]             | 50,000 gp    |
 | 33  | [[rangoric-srd/magic-items/wondrous-items/Horn of Valhalla\|Horn of Valhalla]]                               | 50,000 gp    |
 | 34  | [[rangoric-srd/magic-items/wondrous-items/Crystal Ball\|Crystal ball with detect thoughts]]              | 51,000 gp    |
 | 35  | [[rangoric-srd/magic-items/wondrous-items/Carpet of Flying\|Carpet of flying, 6 ft. by 9 ft.]]               | 53,000 gp    |
-| 36  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of mighty fists +3]]                      | 54,000 gp    |
+| 36  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +3\|Amulet of mighty fists +3]]                      | 54,000 gp    |
 | 37  | [[rangoric-srd/magic-items/wondrous-items/Wings of Flying\|Wings of flying]]                                | 54,000 gp    |
 | 38  | [[rangoric-srd/magic-items/wondrous-items/Cloak of Etherealness\|Cloak of etherealness]]                          | 55,000 gp    |
 | 39  | [[rangoric-srd/magic-items/wondrous-items/Instant Fortress\|Instant fortress]]                               | 55,000 gp    |
-| 40  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health\|Manual of bodily health +2]]                     | 55,000 gp    |
-| 41  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise\|Manual of gainful exercise +2]]                  | 55,000 gp    |
-| 42  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action\|Manual of quickness in action +2]]               | 55,000 gp    |
-| 43  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought\|Tome of clear thought +2]]                       | 55,000 gp    |
-| 44  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence\|Tome of leadership and influence +2]]            | 55,000 gp    |
-| 45  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding\|Tome of understanding +2]]                       | 55,000 gp    |
+| 40  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health +2\|Manual of bodily health +2]]                     | 55,000 gp    |
+| 41  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise +2\|Manual of gainful exercise +2]]                  | 55,000 gp    |
+| 42  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action +2\|Manual of quickness in action +2]]               | 55,000 gp    |
+| 43  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought +2\|Tome of clear thought +2]]                       | 55,000 gp    |
+| 44  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence +2\|Tome of leadership and influence +2]]            | 55,000 gp    |
+| 45  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding +2\|Tome of understanding +2]]                       | 55,000 gp    |
 | 46  | [[rangoric-srd/magic-items/wondrous-items/Eyes of Charming\|Eyes of charming]]                               | 56,000 gp    |
 | 47  | [[rangoric-srd/magic-items/wondrous-items/Robe of Stars\|Robe of stars]]                                  | 58,000 gp    |
 | 48  | [[rangoric-srd/magic-items/wondrous-items/Carpet of Flying\|Carpet of flying, 10 ft. by 10 ft.]]             | 60,000 gp    |
 | 49  | [[rangoric-srd/magic-items/wondrous-items/Darkskull\|Darkskull]]                                      | 60,000 gp    |
 | 50  | [[rangoric-srd/magic-items/wondrous-items/Cube of Force\|Cube of force]]                                  | 62,000 gp    |
-| 51  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of armor +8]]                            | 64,000 gp    |
-| 52  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 8th-level spell]]                | 64,000 gp    |
+| 51  | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +8\|Bracers of armor +8]]                            | 64,000 gp    |
+| 52  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 8th-Level Spell\|Pearl of power, 8th-level spell]]                | 64,000 gp    |
 | 53  | [[rangoric-srd/magic-items/wondrous-items/Crystal Ball\|Crystal ball with telepathy]]                    | 70,000 gp    |
 | 54  | [[rangoric-srd/magic-items/wondrous-items/Horn of Blasting, Greater\|Horn of blasting, greater]]                      | 70,000 gp    |
-| 55  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, two spells]]                     | 70,000 gp    |
+| 55  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, Two Spells\|Pearl of power, two spells]]                     | 70,000 gp    |
 | 56  | [[rangoric-srd/magic-items/wondrous-items/Helm of Teleportation\|Helm of teleportation]]                          | 73,500 gp    |
 | 57  | [[rangoric-srd/magic-items/wondrous-items/Gem of Seeing\|Gem of seeing]]                                  | 75,000 gp    |
 | 58  | [[rangoric-srd/magic-items/wondrous-items/Robe of the Archmagi\|Robe of the archmagi]]                           | 75,000 gp    |
 | 59  | [[rangoric-srd/magic-items/wondrous-items/Mantle of Faith\|Mantle of faith]]                                | 76,000 gp    |
 | 60  | [[rangoric-srd/magic-items/wondrous-items/Crystal Ball\|Crystal ball with true seeing]]                  | 80,000 gp    |
-| 61  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power\|Pearl of power, 9th-level spell]]                | 81,000 gp    |
+| 61  | [[rangoric-srd/magic-items/wondrous-items/Pearl of Power, 9th-Level Spell\|Pearl of power, 9th-level spell]]                | 81,000 gp    |
 | 62  | [[rangoric-srd/magic-items/wondrous-items/Well of Many Worlds\|Well of many worlds]]                            | 82,000 gp    |
-| 63  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health\|Manual of bodily health +3]]                     | 82,500 gp    |
-| 64  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise\|Manual of gainful exercise +3]]                  | 82,500 gp    |
-| 65  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action\|Manual of quickness in action +3]]               | 82,500 gp    |
-| 66  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought\|Tome of clear thought +3]]                       | 82,500 gp    |
-| 67  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence\|Tome of leadership and influence +3]]            | 82,500 gp    |
-| 68  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding\|Tome of understanding +3]]                       | 82,500 gp    |
+| 63  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health +3\|Manual of bodily health +3]]                     | 82,500 gp    |
+| 64  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise +3\|Manual of gainful exercise +3]]                  | 82,500 gp    |
+| 65  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action +3\|Manual of quickness in action +3]]               | 82,500 gp    |
+| 66  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought +3\|Tome of clear thought +3]]                       | 82,500 gp    |
+| 67  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence +3\|Tome of leadership and influence +3]]            | 82,500 gp    |
+| 68  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding +3\|Tome of understanding +3]]                       | 82,500 gp    |
 | 69  | [[rangoric-srd/magic-items/wondrous-items/Apparatus of the Crab\|Apparatus of the crab]]                          | 90,000 gp    |
 | 70  | [[rangoric-srd/magic-items/wondrous-items/Mantle of Spell Resistance\|Mantle of spell resistance]]                     | 90,000 gp    |
 | 71  | [[#^mirror-of-opposition\|Mirror of opposition]]                                                    | 92,000 gp    |
-| 72  | [[rangoric-srd/magic-items/wondrous-items/Strand of Prayer Beads\|Strand of prayer beads, greater]]                | 95,800 gp    |
-| 73  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of mighty fists +4]]                      | 96,000 gp    |
+| 72  | [[rangoric-srd/magic-items/wondrous-items/Strand of Prayer Beads, Greater\|Strand of prayer beads, greater]]                | 95,800 gp    |
+| 73  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +4\|Amulet of mighty fists +4]]                      | 96,000 gp    |
 | 74  | [[rangoric-srd/magic-items/wondrous-items/Eyes of Petrification\|Eyes of petrification]]                          | 98,000 gp    |
 | 75  | [[rangoric-srd/magic-items/wondrous-items/Bowl of Commanding Water Elementals\|Bowl of commanding water elementals]]            | 100,000 gp   |
 | 76  | [[rangoric-srd/magic-items/wondrous-items/Brazier of Commanding Fire Elementals\|Brazier of commanding fire elementals]]          | 100,000 gp   |
 | 77  | [[rangoric-srd/magic-items/wondrous-items/Censer of Controlling Air Elementals\|Censer of controlling air elementals]]           | 100,000 gp   |
 | 78  | [[rangoric-srd/magic-items/wondrous-items/Stone of Controlling Earth Elementals\|Stone of controlling earth elementals]]          | 100,000 gp   |
-| 79  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health\|Manual of bodily health +4]]                     | 110,000 gp   |
-| 80  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise\|Manual of gainful exercise +4]]                  | 110,000 gp   |
-| 81  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action\|Manual of quickness in action +4]]               | 110,000 gp   |
-| 82  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought\|Tome of clear thought +4]]                       | 110,000 gp   |
-| 83  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence\|Tome of leadership and influence +4]]            | 110,000 gp   |
-| 84  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding\|Tome of understanding +4]]                       | 110,000 gp   |
+| 79  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health +4\|Manual of bodily health +4]]                     | 110,000 gp   |
+| 80  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise +4\|Manual of gainful exercise +4]]                  | 110,000 gp   |
+| 81  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action +4\|Manual of quickness in action +4]]               | 110,000 gp   |
+| 82  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought +4\|Tome of clear thought +4]]                       | 110,000 gp   |
+| 83  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence +4\|Tome of leadership and influence +4]]            | 110,000 gp   |
+| 84  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding +4\|Tome of understanding +4]]                       | 110,000 gp   |
 | 85  | [[rangoric-srd/magic-items/wondrous-items/Amulet of the Planes\|Amulet of the planes]]                           | 120,000 gp   |
 | 86  | [[rangoric-srd/magic-items/wondrous-items/Robe of Eyes\|Robe of eyes]]                                   | 120,000 gp   |
 | 87  | [[rangoric-srd/magic-items/wondrous-items/Helm of Brilliance\|Helm of brilliance]]                             | 125,000 gp   |
-| 88  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health\|Manual of bodily health +5]]                     | 137,500 gp   |
-| 89  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise\|Manual of gainful exercise +5]]                  | 137,500 gp   |
-| 90  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action\|Manual of quickness in action +5]]               | 137,500 gp   |
-| 91  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought\|Tome of clear thought +5]]                       | 137,500 gp   |
-| 92  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence\|Tome of leadership and influence +5]]            | 137,500 gp   |
-| 93  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding\|Tome of understanding +5]]                       | 137,500 gp   |
+| 88  | [[rangoric-srd/magic-items/wondrous-items/Manual of Bodily Health +5\|Manual of bodily health +5]]                     | 137,500 gp   |
+| 89  | [[rangoric-srd/magic-items/wondrous-items/Manual of Gainful Exercise +5\|Manual of gainful exercise +5]]                  | 137,500 gp   |
+| 90  | [[rangoric-srd/magic-items/wondrous-items/Manual of Quickness in Action +5\|Manual of quickness in action +5]]               | 137,500 gp   |
+| 91  | [[rangoric-srd/magic-items/wondrous-items/Tome of Clear Thought +5\|Tome of clear thought +5]]                       | 137,500 gp   |
+| 92  | [[rangoric-srd/magic-items/wondrous-items/Tome of Leadership and Influence +5\|Tome of leadership and influence +5]]            | 137,500 gp   |
+| 93  | [[rangoric-srd/magic-items/wondrous-items/Tome of Understanding +5\|Tome of understanding +5]]                       | 137,500 gp   |
 | 94  | [[rangoric-srd/magic-items/wondrous-items/Efreeti Bottle\|Efreeti bottle]]                                 | 145,000 gp   |
-| 95  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of mighty fists +5]]                      | 150,000 gp   |
+| 95  | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +5\|Amulet of mighty fists +5]]                      | 150,000 gp   |
 | 96  | [[rangoric-srd/magic-items/wondrous-items/Chaos Diamond\|Chaos diamond]]                                  | 160,000 gp   |
 | 97  | [[rangoric-srd/magic-items/wondrous-items/Cubic Gate\|Cubic gate]]                                     | 164,000 gp   |
 | 98  | [[rangoric-srd/magic-items/wondrous-items/Iron Flask\|Iron flask]]                                     | 170,000 gp   |

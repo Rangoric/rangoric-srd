@@ -44,31 +44,31 @@ To generate *charms* randomly, roll on the table.
 
 | Minor | Medium | Major | Charm | Market Price |
 | --- | --- | --- | --- | --- |
-| 01-10 | - |  | [[rangoric-srd/magic-items/charms/Luck Charm\|Luck charm]] (+1) | 2,500 gp |
-| 11-15 | 01-04 | - | [[rangoric-srd/magic-items/charms/Bone Charm\|Bone charm]] (+2) | 4,000 gp |
-| 16-20 | 05-08 | - | [[rangoric-srd/magic-items/charms/Bull Charm\|Bull charm]] (+2) | 4,000 gp |
-| 21-25 | 09-12 | - | [[rangoric-srd/magic-items/charms/Cat Charm\|Cat charm]] (+2) | 4,000 gp |
-| 26-30 | 13-16 | - | [[rangoric-srd/magic-items/charms/Eagle Charm\|Eagle charm]] (+2) | 4,000 gp |
-| 31-35 | 17-20 | - | [[rangoric-srd/magic-items/charms/Fox Charm\|Fox charm]] (+2) | 4,000 gp |
-| 36-40 | 21-24 | - | [[rangoric-srd/magic-items/charms/Horse Charm\|Horse charm]] (+2) | 4,000 gp |
-| 41-45 | 25-28 | - | [[rangoric-srd/magic-items/charms/Owl Charm\|Owl charm]] (+2) | 4,000 gp |
-| 46-50 | 29-32 | 01-05 | [[rangoric-srd/magic-items/charms/Scale Charm\|Scale charm]] (+2) | 8,000 gp |
-| 51-55 | 33-36 | 06-10 | [[rangoric-srd/magic-items/charms/Luck Charm\|Luck charm]] (+2) | 10,000 gp |
-| 56-60 | 37-40 | 11-15 | [[rangoric-srd/magic-items/charms/Bone Charm\|Bone charm]] (+4) | 16,000 gp |
-| 61-65 | 41-44 | 16-20 | [[rangoric-srd/magic-items/charms/Bull Charm\|Bull charm]] (+4) | 16,000 gp |
-| 66-70 | 45-48 | 21-25 | [[rangoric-srd/magic-items/charms/Cat Charm\|Cat charm]] (+4) | 16,000 gp |
-| 71-75 | 49-52 | 26-30 | [[rangoric-srd/magic-items/charms/Eagle Charm\|Eagle charm]] (+4) | 16,000 gp |
-| 76-80 | 53-56 | 31-35 | [[rangoric-srd/magic-items/charms/Fox Charm\|Fox charm]] (+4) | 16,000 gp |
-| 81-85 | 57-60 | 36-40 | [[rangoric-srd/magic-items/charms/Horse Charm\|Horse charm]] (+4) | 16,000 gp |
-| 86-90 | 61-64 | 41-45 | [[rangoric-srd/magic-items/charms/Owl Charm\|Owl charm]] (+4) | 16,000 gp |
-| 91-95 | 65-68 | 46-50 | [[rangoric-srd/magic-items/charms/Luck Charm\|Luck charm]] (+3) | 22,500 gp |
-| 96-00 | 69-72 | 51-55 | [[rangoric-srd/magic-items/charms/Scale Charm\|Scale charm]] (+4) | 32,000 gp |
-| - | 73-76 | 56-60 | [[rangoric-srd/magic-items/charms/Bone Charm\|Bone charm]] (+6) | 36,000 gp |
-| - | 77-80 | 61-65 | [[rangoric-srd/magic-items/charms/Bull Charm\|Bull charm]] (+6) | 36,000 gp |
-| - | 81-84 | 66-70 | [[rangoric-srd/magic-items/charms/Cat Charm\|Cat charm]] (+6) | 36,000 gp |
-| - | 85-88 | 71-75 | [[rangoric-srd/magic-items/charms/Eagle Charm\|Eagle charm]] (+6) | 36,000 gp |
-| - | 89-92 | 76-80 | [[rangoric-srd/magic-items/charms/Fox Charm\|Fox charm]] (+6) | 36,000 gp |
-| - | 93-96 | 81-85 | [[rangoric-srd/magic-items/charms/Horse Charm\|Horse charm]] (+6) | 36,000 gp |
-| - | 97-00 | 86-90 | [[rangoric-srd/magic-items/charms/Owl Charm\|Owl charm]] (+6) | 36,000 gp |
-| - | - | 91-95 | [[rangoric-srd/magic-items/charms/Luck Charm\|Luck charm]] (+4) | 40,000 gp |
-| - | - | 96-00 | [[rangoric-srd/magic-items/charms/Scale Charm\|Scale charm]] (+6) | 72,000 gp |
+| 01-10 | - |  | [[rangoric-srd/magic-items/charms/Luck Charm +1\|Luck charm]] (+1) | 2,500 gp |
+| 11-15 | 01-04 | - | [[rangoric-srd/magic-items/charms/Bone Charm +2\|Bone charm]] (+2) | 4,000 gp |
+| 16-20 | 05-08 | - | [[rangoric-srd/magic-items/charms/Bull Charm +2\|Bull charm]] (+2) | 4,000 gp |
+| 21-25 | 09-12 | - | [[rangoric-srd/magic-items/charms/Cat Charm +2\|Cat charm]] (+2) | 4,000 gp |
+| 26-30 | 13-16 | - | [[rangoric-srd/magic-items/charms/Eagle Charm +2\|Eagle charm]] (+2) | 4,000 gp |
+| 31-35 | 17-20 | - | [[rangoric-srd/magic-items/charms/Fox Charm +2\|Fox charm]] (+2) | 4,000 gp |
+| 36-40 | 21-24 | - | [[rangoric-srd/magic-items/charms/Horse Charm +2\|Horse charm]] (+2) | 4,000 gp |
+| 41-45 | 25-28 | - | [[rangoric-srd/magic-items/charms/Owl Charm +2\|Owl charm]] (+2) | 4,000 gp |
+| 46-50 | 29-32 | 01-05 | [[rangoric-srd/magic-items/charms/Scale Charm +2\|Scale charm]] (+2) | 8,000 gp |
+| 51-55 | 33-36 | 06-10 | [[rangoric-srd/magic-items/charms/Luck Charm +2\|Luck charm]] (+2) | 10,000 gp |
+| 56-60 | 37-40 | 11-15 | [[rangoric-srd/magic-items/charms/Bone Charm +4\|Bone charm]] (+4) | 16,000 gp |
+| 61-65 | 41-44 | 16-20 | [[rangoric-srd/magic-items/charms/Bull Charm +4\|Bull charm]] (+4) | 16,000 gp |
+| 66-70 | 45-48 | 21-25 | [[rangoric-srd/magic-items/charms/Cat Charm +4\|Cat charm]] (+4) | 16,000 gp |
+| 71-75 | 49-52 | 26-30 | [[rangoric-srd/magic-items/charms/Eagle Charm +4\|Eagle charm]] (+4) | 16,000 gp |
+| 76-80 | 53-56 | 31-35 | [[rangoric-srd/magic-items/charms/Fox Charm +4\|Fox charm]] (+4) | 16,000 gp |
+| 81-85 | 57-60 | 36-40 | [[rangoric-srd/magic-items/charms/Horse Charm +4\|Horse charm]] (+4) | 16,000 gp |
+| 86-90 | 61-64 | 41-45 | [[rangoric-srd/magic-items/charms/Owl Charm +4\|Owl charm]] (+4) | 16,000 gp |
+| 91-95 | 65-68 | 46-50 | [[rangoric-srd/magic-items/charms/Luck Charm +3\|Luck charm]] (+3) | 22,500 gp |
+| 96-00 | 69-72 | 51-55 | [[rangoric-srd/magic-items/charms/Scale Charm +4\|Scale charm]] (+4) | 32,000 gp |
+| - | 73-76 | 56-60 | [[rangoric-srd/magic-items/charms/Bone Charm +6\|Bone charm]] (+6) | 36,000 gp |
+| - | 77-80 | 61-65 | [[rangoric-srd/magic-items/charms/Bull Charm +6\|Bull charm]] (+6) | 36,000 gp |
+| - | 81-84 | 66-70 | [[rangoric-srd/magic-items/charms/Cat Charm +6\|Cat charm]] (+6) | 36,000 gp |
+| - | 85-88 | 71-75 | [[rangoric-srd/magic-items/charms/Eagle Charm +6\|Eagle charm]] (+6) | 36,000 gp |
+| - | 89-92 | 76-80 | [[rangoric-srd/magic-items/charms/Fox Charm +6\|Fox charm]] (+6) | 36,000 gp |
+| - | 93-96 | 81-85 | [[rangoric-srd/magic-items/charms/Horse Charm +6\|Horse charm]] (+6) | 36,000 gp |
+| - | 97-00 | 86-90 | [[rangoric-srd/magic-items/charms/Owl Charm +6\|Owl charm]] (+6) | 36,000 gp |
+| - | - | 91-95 | [[rangoric-srd/magic-items/charms/Luck Charm +4\|Luck charm]] (+4) | 40,000 gp |
+| - | - | 96-00 | [[rangoric-srd/magic-items/charms/Scale Charm +6\|Scale charm]] (+6) | 72,000 gp |

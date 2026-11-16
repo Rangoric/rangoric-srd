@@ -1,0 +1,21 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Ring"
+caster-level: 16
+prerequisites: "Forge Ring, limited wish (Sorcery I–Sorcery III)"
+price: "30,000 gp"
+book: "Spells & Magic"
+based-on:
+  - "[[individual books/Spells & Magic v3.0/magic-items/Sorcery|Sorcery (Spells & Magic)]]"
+status: draft
+change: new
+pi-review: 2026-11-10
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Ring of Sorcery II
+
+This ring is a boon to sorcerers and bards, but wizards and other arcane spellcasters can also make limited use of it. The wearer of the ring gains a number of bonus spell levels, as determined by the strength of the ring. Spontaneous arcane spellcasters can use these levels to cast any combination of bonus spells per day whose total levels do not exceed the abilities of the ring worn. Arcane spellcasters that prepare spells may also use the ring, but they must decide how to divide the spell levels when spells are prepared. Preparing these spell levels takes double the normal time. Three varieties are the most common, granting 4, 8, and 12 bonus spell levels each.
+
+CL 16th; [[rangoric-srd/feats/Forge Ring|Forge Ring]], limited wish (Sorcery I–Sorcery III); Price 30,000 gp.

@@ -204,7 +204,7 @@ Standard rings are described below.
   - [[rangoric-srd/magic-items/rings/Ring of Counterspells|Ring of Counterspells]]
   - [[rangoric-srd/magic-items/rings/Ring of Djinni Calling|Ring of Djinni Calling]]
   - [[rangoric-srd/magic-items/rings/Ring of Elemental Command|Ring of Elemental Command]]
-  - [[rangoric-srd/magic-items/rings/Ring of Energy Resistance|Ring of Energy Resistance]]
+  - [[rangoric-srd/magic-items/rings/Ring of Energy Resistance, Minor|Ring of Energy Resistance]]
   - [[rangoric-srd/magic-items/rings/Ring of Evasion|Ring of Evasion]]
   - [[rangoric-srd/magic-items/rings/Ring of Feather Falling|Ring of Feather Falling]]
   - [[rangoric-srd/magic-items/rings/Ring of Force Shield|Ring of Force Shield]]
@@ -214,7 +214,7 @@ Standard rings are described below.
   - [[rangoric-srd/magic-items/rings/Ring of Jumping|Ring of Jumping]]
   - [[rangoric-srd/magic-items/rings/Ring of Improved Jumping|Ring of Improved Jumping]]
   - [[rangoric-srd/magic-items/rings/Ring of Mind Shielding|Ring of Mind Shielding]]
-  - [[rangoric-srd/magic-items/rings/Ring of Protection|Ring of Protection]]
+  - [[rangoric-srd/magic-items/rings/Ring of Protection +1|Ring of Protection]]
   - [[rangoric-srd/magic-items/rings/Ring of Ram|Ring of Ram]]
   - [[rangoric-srd/magic-items/rings/Ring of Regeneration|Ring of Regeneration]]
   - [[rangoric-srd/magic-items/rings/Ring of Shooting Stars|Ring of Shooting Stars]]
@@ -228,7 +228,7 @@ Standard rings are described below.
   - [[rangoric-srd/magic-items/rings/Ring of Telekinesis|Ring of Telekinesis]]
   - [[rangoric-srd/magic-items/rings/Ring of Three Wishes|Ring of Three Wishes]]
   - [[rangoric-srd/magic-items/rings/Ring of Water Walking|Ring of Water Walking]]
-  - [[rangoric-srd/magic-items/rings/Ring of Wizardry|Ring of Wizardry]]
+  - [[rangoric-srd/magic-items/rings/Ring of Wizardry I|Ring of Wizardry]]
   - [[rangoric-srd/magic-items/rings/Ring of X-Ray Vision|Ring of X-Ray Vision]]
 
 ###### More Rings
@@ -265,7 +265,7 @@ More rings, grouped by who can use them: rings any wearer can use, by price, the
 | [[rangoric-srd/magic-items/rings/Ring of the Sea Strider\|Ring of the Sea Strider]] | 14,000 gp |
 | [[rangoric-srd/magic-items/rings/Ring of Retribution\|Ring of Retribution]] | 15,000 gp |
 | [[rangoric-srd/magic-items/rings/Dungeon Ring\|Dungeon Ring]] | 16,000 gp (jailer's ring), 250 gp (prisoner's ring) |
-| [[rangoric-srd/magic-items/rings/Ring of Inner Fortitude\|Ring of Inner Fortitude]] | 18,000 gp (minor), 42,000 gp (major), 66,000 gp (greater) |
+| [[rangoric-srd/magic-items/rings/Ring of Inner Fortitude, Minor\|Ring of Inner Fortitude]] | 18,000 gp (minor), 42,000 gp (major), 66,000 gp (greater) |
 | [[rangoric-srd/magic-items/rings/Ring of Energy Shroud\|Ring of Energy Shroud]] | 19,500 gp |
 | [[rangoric-srd/magic-items/rings/Ring of Fire Drinking\|Ring of Fire Drinking]] | 20,000 gp |
 | [[rangoric-srd/magic-items/rings/Ring of Fey Luck\|Ring of Fey Luck]] | 27,000 gp |
@@ -280,7 +280,7 @@ More rings, grouped by who can use them: rings any wearer can use, by price, the
 
 | Class | Ring | Price |
 | --- | --- | --- |
-| Arcane casters (bard, sorcerer, wizard…) | [[rangoric-srd/magic-items/rings/Ring of Sorcery\|Ring of Sorcery]] | 15,000 gp (Sorcery I), 30,000 gp (Sorcery II), 65,000 gp (Sorcery III) |
+| Arcane casters (bard, sorcerer, wizard…) | [[rangoric-srd/magic-items/rings/Ring of Sorcery I\|Ring of Sorcery]] | 15,000 gp (Sorcery I), 30,000 gp (Sorcery II), 65,000 gp (Sorcery III) |
 | Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Lingering Blood Magic\|Ring of Lingering Blood Magic]] | 2,000 gp |
 | Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Powerful Blood Magic\|Ring of Powerful Blood Magic]] | 3,000 gp |
 | Bloodrager | [[rangoric-srd/magic-items/rings/Ring of Ancestral Blood Magic\|Ring of Ancestral Blood Magic]] | 4,000 gp |
@@ -289,8 +289,8 @@ More rings, grouped by who can use them: rings any wearer can use, by price, the
 | Gunslinger, Swashbuckler | [[rangoric-srd/magic-items/rings/Ring of Resilience\|Ring of Resilience]] | 15,000 gp |
 | Magus | [[rangoric-srd/magic-items/rings/Ring of Arcane Mastery\|Ring of Arcane Mastery]] | 20,000 gp |
 | Monk, Ninja | [[rangoric-srd/magic-items/rings/Ring of Ki Mastery\|Ring of Ki Mastery]] | 10,000 gp |
-| Oracle | [[rangoric-srd/magic-items/rings/Ring of Revelation\|Ring of Revelation]] | 10,000 gp (lesser), 16,000 gp (greater), 24,000 gp (superior) |
-| Spontaneous arcane casters (bard, sorcerer…) | [[rangoric-srd/magic-items/rings/Ring of Spell Knowledge\|Ring of Spell Knowledge]] | 1,500 gp (I), 6,000 gp (II), 13,500 gp (III), 24,000 gp (IV) |
+| Oracle | [[rangoric-srd/magic-items/rings/Ring of Revelation, Lesser\|Ring of Revelation]] | 10,000 gp (lesser), 16,000 gp (greater), 24,000 gp (superior) |
+| Spontaneous arcane casters (bard, sorcerer…) | [[rangoric-srd/magic-items/rings/Ring of Spell Knowledge I\|Ring of Spell Knowledge]] | 1,500 gp (I), 6,000 gp (II), 13,500 gp (III), 24,000 gp (IV) |
 | Summoner | [[rangoric-srd/magic-items/rings/Ring of Ectoplasmic Invigoration\|Ring of Ectoplasmic Invigoration]] | 12,000 gp |
 
 ##### Rods

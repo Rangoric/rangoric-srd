@@ -1,0 +1,21 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Epic Wondrous Item"
+slot: "headband"
+caster-level: 20
+prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, commune or legend lore"
+price: "1,440,000 gp"
+weight: "-"
+based-on:
+  - "[[fantasy srd 3.5/magic-items/wondrous-items/Headband of Epic Intellect|Headband of Epic Intellect (3.5)]]"
+status: draft
+change: modified
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/magic-item, epic]
+---
+
+# Headband of Epic Intellect +12
+
+This headband adds an enhancement bonus of +8 or higher to the wearer’s Intelligence score.  
+Caster Level: 20th; Prerequisites: Craft Wondrous Item, Craft Epic Wondrous Item, commune or legend lore; Market Price: 1,440,000 gp; Weight: -.

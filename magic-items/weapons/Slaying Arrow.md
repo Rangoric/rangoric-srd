@@ -4,14 +4,14 @@ section: "Magic Items"
 item-type: "Specific Weapon"
 aura: "Strong necromancy"
 caster-level: 13
-prerequisites: "Craft Magic Arms and Armor, finger of death (slaying arrow) or heightened finger of death (greater slaying arrow)"
-price: "2,282 gp (slaying arrow) or 4,057 gp (greater slaying arrow)"
-cost: "1,144 gp 5 sp + 91 XP (slaying arrow) or 2,032 gp + 162 XP (greater slaying arrow)"
+prerequisites: "Craft Magic Arms and Armor, finger of death"
+price: "2,282 gp"
+cost: "1,144 gp 5 sp + 91 XP"
 based-on:
   - "[[fantasy srd 3.5/magic-items/weapons/Slaying Arrow|Slaying Arrow (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/specific-weapons/Arrow, Slaying|Arrow, Slaying (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -22,7 +22,7 @@ This +1 arrow is keyed to a particular type or subtype of creature. If it strike
 
 A greater slaying arrow functions just like a normal slaying arrow, but the DC to avoid the death effect is 23.
 
-Strong necromancy; CL 13th; Craft Magic Arms and Armor, finger of death (slaying arrow) or heightened finger of death (greater slaying arrow); Price 2,282 gp (slaying arrow) or 4,057 gp (greater slaying arrow); Cost 1,144 gp 5 sp + 91 XP (slaying arrow) or 2,032 gp + 162 XP (greater slaying arrow).
+Strong necromancy; CL 13th; Craft Magic Arms and Armor, finger of death; Price 2,282 gp; Cost 1,144 gp 5 sp + 91 XP.
 
 | d%     | Designated Type or Subtype |
 | ------ | -------------------------- |

@@ -1144,7 +1144,7 @@ The following specific weapons usually are preconstructed with exactly the quali
 | 76–80  | 10–15  | —     | [[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying arrow]]                   | 2,282 gp     |
 | 81–90  | 16–24  | —     | [[rangoric-srd/magic-items/weapons/Adamantine Dagger\|Adamantine dagger]]               | 3,002 gp     |
 | 91–100 | 25–33  | —     | [[rangoric-srd/magic-items/weapons/Adamantine Battleaxe\|Adamantine battleaxe]]            | 3,010 gp     |
-| —      | 34–37  | —     | [[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying arrow (greater)]]         | 4,057 gp     |
+| —      | 34–37  | —     | [[rangoric-srd/magic-items/weapons/Slaying Arrow, Greater\|Slaying arrow (greater)]]         | 4,057 gp     |
 | —      | 38–40  | —     | [[rangoric-srd/magic-items/weapons/Shatterspike\|Shatterspike]]                    | 4,315 gp     |
 | —      | 41–46  | —     | [[rangoric-srd/magic-items/weapons/Dagger of Venom\|Dagger of venom]]                 | 8,302 gp     |
 | —      | 47–51  | —     | [[rangoric-srd/magic-items/weapons/Trident of Warning\|Trident of warning]]              | 10,115 gp    |
@@ -1189,16 +1189,22 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Alchemist’s Bullet\|Alchemist’s Bullet]] | 330 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Masterwork Cold Iron Longsword\|Masterwork Cold Iron Longsword]] | 330 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Arcane Eye Arrow\|Arcane Eye Arrow]] | 346 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Hushing Arrow\|Hushing Arrow]] | 547 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Grimdeath Arrow\|Grimdeath Arrow]] | 707 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Fear Arrow\|Fear Arrow]] | 746 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Suffocating Arrow\|Suffocating Arrow]] | 796 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Doom Bullet\|Doom Bullet]] | 1,031 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Hushing Arrow, Greater\|Hushing Arrow, Greater]] | 1,047 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Javelin of Lightning\|Javelin of Lightning]] | 1,500 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Rot Arrow\|Rot Arrow]] | 1,696 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Burrowing Bullet\|Burrowing Bullet]] | 1,722 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Dust Bolt\|Dust Bolt]] | 1,730 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying Arrow]] | 2,282 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Adamantine Dagger\|Adamantine Dagger]] | 3,002 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Adamantine Battleaxe\|Adamantine Battleaxe]] | 3,010 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Burrowing Bullet, Greater\|Burrowing Bullet, Greater]] | 3,447 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Oil of Brilliance\|Oil of Brilliance]] | 4,000 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Slaying Arrow, Greater\|Slaying Arrow, Greater]] | 4,057 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shatterspike\|Shatterspike]] | 4,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Retrieving Arrow\|Retrieving Arrow]] | 4,596 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Domination Bolts\|Domination Bolts]] | 5,675 gp | Specific Weapon |
@@ -1325,16 +1331,13 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Holy Devastator\|Holy Devastator]] | 4,620,315 gp | Epic Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Unholy Despoiler\|Unholy Despoiler]] | 4,650,315 gp | Epic Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Everwhirling Chain\|Everwhirling Chain]] | 5,220,325 gp | Epic Specific Weapon |
-| [[rangoric-srd/magic-items/weapons/Burrowing Bullet\|Burrowing Bullet]] | 1,722 gp (burrowing bullet) or 3,447 gp (greater burrowing bullet) | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Luck Blade\|Luck Blade]] | 22,060 gp (0 wishes), 62,360 gp (1 wish), 102,660 gp (2 wishes), 142,960 gp (3 wishes) | Specific Weapon |
-| [[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying Arrow]] | 2,282 gp (slaying arrow) or 4,057 gp (greater slaying arrow) | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Martial Gloves\|Martial Gloves]] | 2,303 to 50,303 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Screaming Bolt\|Screaming Bolt]] | 267gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Arrow of Seeing\|Arrow of Seeing]] | 360 gp (arrow); 21,000 gp (necklace) | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Sylvan Scimitar\|Sylvan Scimitar]] | 47,315gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Explosive Bolt\|Explosive Bolt]] | 50 gp each | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Domain Rods\|Domain Rods]] | 50,308 to 161,105 gp (by rod) | Specific Weapon |
-| [[rangoric-srd/magic-items/weapons/Hushing Arrow\|Hushing Arrow]] | 547 gp (hushing arrow), 1,047 gp (greater hushing arrow) | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Deep Fey Sword\|Deep Fey Sword]] | 58,735 to 82,735 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Gremmin Arrow\|Gremmin Arrow]] | 60 gp each | Specific Weapon |
 

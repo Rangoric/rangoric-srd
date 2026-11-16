@@ -7,11 +7,11 @@ aliases:
 aura: "Strong (no school)"
 caster-level: 17
 prerequisites: "Craft Rod, Maximize Spell feat"
-price: "14,000 gp (lesser), 54,000 gp (normal), 121,500 gp (greater)"
+price: "54,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/rods/Metamagic Rod, Maximize|Metamagic Rod, Maximize (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -20,4 +20,4 @@ tags: [rangoric, rangoric/magic-item]
 
 The wielder can cast up to three spells per day that are maximized as though using the [[rangoric-srd/feats/Maximize Spell|Maximize Spell]] feat.
 
-Strong (no school); CL 17th; Craft Rod, Maximize Spell feat; Price 14,000 gp (lesser), 54,000 gp (normal), 121,500 gp (greater).
+Strong (no school); CL 17th; Craft Rod, Maximize Spell feat; Price 54,000 gp.
