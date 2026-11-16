@@ -307,7 +307,7 @@ Slade armor provides a spell resistance for its wearer, applicable even against 
 
 Slade weapons are powerful. Any time a slade weapon strikes an opponent, it has the same effect as if the target had been hit by *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*. The dispel check is equal to 1d20 plus the amount of damage dealt. Slade weapons can be used against objects as well as creatures. Characters who wield slade weapons cannot cast spells, nor can they gain the use of any magic item (ring, bracers, etc.) affixed to the arm that holds the weapon.
 
-Unfortunately, slade weapons and armor cannot be enchanted in any way. The slade alloy can be made with adamantine instead of iron alloy, providing a natural enchantment of up to +3. Slade alloy has the hardness and hit points of whatever metal is used as the base. Slade objects can be affected by any sort of magic, whether it is for repair, telekinesis, or whatever. Slade simply cannot be placed into a *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding|bag of holding]]* or similar device.
+Unfortunately, slade weapons and armor cannot be enchanted in any way. The slade alloy can be made with adamantine instead of iron alloy, providing a natural enchantment of up to +3. Slade alloy has the hardness and hit points of whatever metal is used as the base. Slade objects can be affected by any sort of magic, whether it is for repair, telekinesis, or whatever. Slade simply cannot be placed into a *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* or similar device.
 
 | Slade Item | Market Price |
 |---|---|

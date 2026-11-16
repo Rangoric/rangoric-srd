@@ -116,7 +116,7 @@ Standard epic rods are described below.
   - [[rangoric-srd/magic-items/rods/Rod of Paradise|Rod of Paradise]]
   - [[rangoric-srd/magic-items/rods/Rod of The Path|Rod of The Path]]
   - [[rangoric-srd/magic-items/rods/Rod of Restless Death|Rod of Restless Death]]
-  - [[rangoric-srd/magic-items/rods/Rod of Wyrm|Rod of Wyrm]]
+  - [[rangoric-srd/magic-items/rods/Rod of Wyrm, White|Rod of Wyrm]]
 
 ### Scrolls
 

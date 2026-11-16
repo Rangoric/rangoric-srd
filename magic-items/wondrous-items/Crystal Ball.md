@@ -5,11 +5,12 @@ item-type: "Wondrous Item"
 aura: "Moderate divination"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, scrying (plus any additional spells put into item)"
+price: "42,000 gp"
 weight: "7 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Crystal Ball|Crystal Ball (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -23,11 +24,5 @@ Certain crystal balls have additional powers that can be used through the crysta
 | Crystal Ball Type                                      | Market Price |
 | ------------------------------------------------------ | ------------ |
 | Crystal ball                                           | 42,000 gp    |
-| Crystal ball with see invisibility                     | 50,000 gp    |
-| Crystal ball with detect thoughts (Will DC 13 negates) | 51,000 gp    |
-| Crystal ball with telepathy (\*)                       | 70,000 gp    |
-| Crystal ball with true seeing                          | 80,000 gp    |
 
-\* *The viewer is able to send and receive silent mental messages with the person appearing in the crystal ball. Once per day the character may attempt to implant a suggestion (as the spell, Will DC 14 negates) as well.*
-
-Moderate divination; CL 10th; Craft Wondrous Item, scrying (plus any additional spells put into item); Weight 7 lb.
+Moderate divination; CL 10th; Craft Wondrous Item, scrying (plus any additional spells put into item); Price 42,000 gp; Weight 7 lb.

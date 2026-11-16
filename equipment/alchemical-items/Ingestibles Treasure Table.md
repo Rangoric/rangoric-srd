@@ -56,7 +56,7 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 | d% | Item |
 |---|---|
 | 01-14 | [[rangoric-srd/equipment/alchemical-items/Elixir of Demihumankind\|Elixir of Demihumankind]] |
-| 15-28 | [[rangoric-srd/equipment/alchemical-items/Elixir of Life\|Elixir of Life]] |
+| 15-28 | [[rangoric-srd/equipment/alchemical-items/Elixir of Life, Impure\|Elixir of Life]] |
 | 29-44 | [[rangoric-srd/equipment/alchemical-items/Elixir of Purity\|Elixir of Purity]] |
 | 45-60 | [[rangoric-srd/equipment/alchemical-items/Tisane of Limb Rejoining\|Tisane of Limb Rejoining]] |
 | 61-75 | [[rangoric-srd/equipment/alchemical-items/Greater Antidote\|Greater Antidote]] |
