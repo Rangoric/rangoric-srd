@@ -327,7 +327,7 @@ tags: [rangoric, rangoric/rule]
 | 76–80 | 10–15 | — | *[[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying arrow]]* | 2,282 gp |
 | 81–90 | 16–24 | — | [[rangoric-srd/magic-items/weapons/Adamantine Dagger\|Adamantine dagger]] | 3,002 gp |
 | 91–100 | 25–33 | — | [[rangoric-srd/magic-items/weapons/Adamantine Battleaxe\|Adamantine battleaxe]] | 3,010 gp |
-| — | 34–37 | — | *[[rangoric-srd/magic-items/weapons/Slaying Arrow\|Slaying arrow (greater)]]* | 4,057 gp |
+| — | 34–37 | — | *[[rangoric-srd/magic-items/weapons/Slaying Arrow, Greater\|Slaying arrow (greater)]]* | 4,057 gp |
 | — | 38–40 | — | *[[rangoric-srd/magic-items/weapons/Shatterspike\|Shatterspike]]* | 4,315 gp |
 | — | 41–46 | — | *[[rangoric-srd/magic-items/weapons/Dagger of Venom\|Dagger of venom]]* | 8,302 gp |
 | — | 47–51 | — | *[[rangoric-srd/magic-items/weapons/Trident of Warning\|Trident of warning]]* | 10,115 gp |
@@ -582,14 +582,14 @@ tags: [rangoric, rangoric/rule]
 | 9–11 | [[rangoric-srd/magic-items/wondrous-items/Breastplate of Blinding\|Breastplate of Blinding]] | 600 |
 | 12–16 | [[rangoric-srd/magic-items/wondrous-items/Oil of Rust Protection\|Penelope’s Oil of Rust Protection]] | 750 |
 | 17–20 | [[rangoric-srd/magic-items/wondrous-items/Plentiful Quiver\|Quiver, Plentiful]] | 800 |
-| 21–25 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+1)]] | 1,000 |
+| 21–25 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +1\|Bracers of Armor (+1)]] | 1,000 |
 | 26–30 | [[rangoric-srd/magic-items/wondrous-items/Helm of Buoyancy\|Helm of Buoyancy]] | 1,100 |
 | 31–35 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Bashing\|Bracers of Bashing]] | 1,200 |
 | 36–40 | [[rangoric-srd/magic-items/wondrous-items/Quiver of the Moon\|Quiver of Khonshu]] | 1,200 |
 | 41 | [[rangoric-srd/magic-items/armor/Beaded Armor of Odor\|Beaded Armor of Odor]] | 1,500 |
-| 42–44 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of Natural Armor (+1)]] | 2,000 |
-| 45–48 | [[rangoric-srd/magic-items/rings/Ring of Protection\|Ring of Protection (+1)]] | 2,000 |
-| 49–52 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+2)]] | 4,000 |
+| 42–44 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +1\|Amulet of Natural Armor (+1)]] | 2,000 |
+| 45–48 | [[rangoric-srd/magic-items/rings/Ring of Protection +1\|Ring of Protection (+1)]] | 2,000 |
+| 49–52 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +2\|Bracers of Armor (+2)]] | 4,000 |
 | 53–57 | [[rangoric-srd/magic-items/wondrous-items/Gloves of Arrow Snaring\|Gloves of Arrow Snaring]] | 4,000 |
 | 58–60 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Hunter\|Mask of the Hunter]] | 4,000 |
 | 61–62 | [[rangoric-srd/magic-items/wondrous-items/Scabbard of Return\|Scabbard of Return]] | 4,000 |
@@ -599,20 +599,20 @@ tags: [rangoric, rangoric/rule]
 | 72–73 | [[rangoric-srd/magic-items/wondrous-items/Magnetic Aketon\|Magnetic Aketon]] | 5,000 |
 | 74–76 | [[rangoric-srd/magic-items/armor/Sycophant\|Sycophant (+1)]] | 5,000 |
 | 77–80 | [[rangoric-srd/magic-items/wondrous-items/Helm of Comprehend Languages and Read Magic\|Helm of Comprehending Languages and Reading Magic]] | 5,200 |
-| 81–85 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of Mighty Fists (+1)]] | 6,000 |
+| 81–85 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +1\|Amulet of Mighty Fists (+1)]] | 6,000 |
 | 86–90 | [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of Striding and Springing (+10)]] | 6,000 |
 | 91–95 | [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed\|Horseshoes of Speed (+10)]] | 6,000 |
-| 96–00 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed\|Leggings of Speed (+10)]] | 6,000 |
+| 96–00 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed +10\|Leggings of Speed (+10)]] | 6,000 |
 
 **Medium Wondrous Armor**
 
 | d% | Item | Market Price |
 |---|---|---|
-| 1–3 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of Natural Armor (+2)]] | 8,000 |
+| 1–3 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +2\|Amulet of Natural Armor (+2)]] | 8,000 |
 | 4–6 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Trickster\|Mask of the Trickster]] | 8,000 |
-| 7–9 | [[rangoric-srd/magic-items/rings/Ring of Protection\|Ring of Protection (+2)]] | 8,000 |
+| 7–9 | [[rangoric-srd/magic-items/rings/Ring of Protection +2\|Ring of Protection (+2)]] | 8,000 |
 | 10–12 | [[rangoric-srd/magic-items/rings/Ring of Force Shield\|Ring of Force Shield]] | 8,500 |
-| 13–15 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+3)]] | 9,000 |
+| 13–15 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +3\|Bracers of Armor (+3)]] | 9,000 |
 | 16–18 | [[rangoric-srd/magic-items/armor/Thornshield\|Thornshield]] | 9,153 |
 | 19 | [[rangoric-srd/magic-items/armor/Hedgehog Armor\|Hedgehog Armor]] | 9,175 |
 | 20–21 | [[rangoric-srd/magic-items/armor/Byrne of the Brave\|Byrne of the Brave]] | 9,250 |
@@ -620,33 +620,33 @@ tags: [rangoric, rangoric/rule]
 | 25–27 | [[rangoric-srd/magic-items/wondrous-items/Boots of Speed\|Boots of Speed]] | 12,000 |
 | 28–30 | [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of Striding and Springing (+20)]] | 12,000 |
 | 31–33 | [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed\|Horseshoes of Speed (+20)]] | 12,000 |
-| 34–36 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed\|Leggings of Speed (+20)]] | 12,000 |
+| 34–36 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed +20\|Leggings of Speed (+20)]] | 12,000 |
 | 37–39 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (1 element)]] | 12,000 |
 | 40–42 | [[rangoric-srd/magic-items/wondrous-items/Falcon Spaulders\|Falcon Spaulders]] | 12,175 |
 | 43–45 | [[rangoric-srd/magic-items/wondrous-items/Bull’s Helm\|Bull’s Helm]] | 13,155 |
 | 46–48 | [[rangoric-srd/magic-items/armor/Sycophant\|Sycophant (+3)]] | 15,000 |
 | 49–51 | Mask of the Nightlings | 15,200 |
 | 52–54 | [[rangoric-srd/magic-items/armor/Chainmail of Harmony\|Chainmail of Harmony]] | 15,800 |
-| 55–57 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+4)]] | 16,000 |
+| 55–57 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +4\|Bracers of Armor (+4)]] | 16,000 |
 | 58–59 | [[rangoric-srd/magic-items/wondrous-items/Scabbard of Keen Edges\|Scabbard of Keen Edges]] | 16,000 |
 | 60–61 | [[rangoric-srd/magic-items/armor/Emperor’s Scale\|Emperor’s Scale]] | 16,200 |
 | 62–63 | [[rangoric-srd/magic-items/armor/Aegis of the Stalwart Defender\|Aegis of the Stalwart Defender]] | 16,250 |
 | 64–65 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Balance\|Leggings of Balance]] | 17,250 |
 | 66–67 | [[rangoric-srd/magic-items/armor/Financier’s Mail\|Financier’s Mail]] | 17,650 |
-| 68–69 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of Natural Armor (+3)]] | 18,000 |
-| 70–71 | [[rangoric-srd/magic-items/rings/Ring of Protection\|Ring of Protection (+3)]] | 18,000 |
+| 68–69 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +3\|Amulet of Natural Armor (+3)]] | 18,000 |
+| 70–71 | [[rangoric-srd/magic-items/rings/Ring of Protection +3\|Ring of Protection (+3)]] | 18,000 |
 | 72 | [[rangoric-srd/magic-items/armor/Guild Leathers\|Guild Leathers]] | 18,910 |
 | 73 | [[rangoric-srd/magic-items/armor/Armor of the Undead\|Armor of the Undead]] | 20,000 |
 | 74–75 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (2 elements)]] | 21,000 |
 | 76 | [[rangoric-srd/magic-items/armor/Woven Assistant\|Woven Assistant]] | 21,386 |
 | 77–78 | [[rangoric-srd/magic-items/armor/Arcane Weave\|Arcane Weave]] | 23,850 |
 | 79 | [[rangoric-srd/magic-items/armor/Divine Weave\|Divine Weave]] | 23,850 |
-| 80–81 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of Mighty Fists (+2)]] | 24,000 |
+| 80–81 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +2\|Amulet of Mighty Fists (+2)]] | 24,000 |
 | 82 | [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of Striding & Springing (+30)]] | 24,000 |
 | 83 | [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed\|Horseshoes of Speed (+30)]] | 24,000 |
-| 84–85 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed\|Leggings of Speed (+30)]] | 24,000 |
+| 84–85 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed +30\|Leggings of Speed (+30)]] | 24,000 |
 | 86–87 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater\|Bracers of Archery, Greater]] | 25,000 |
-| 88–89 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+5)]] | 25,000 |
+| 88–89 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +5\|Bracers of Armor (+5)]] | 25,000 |
 | 90 | [[rangoric-srd/magic-items/armor/Mantle of the Stalwart Defender\|Mantle of the Stalwart Defender]] | 25,650 |
 | 91–92 | [[rangoric-srd/magic-items/armor/Nightwarden’s Leaf\|Nightwarden’s Leaf]] | 26,750 |
 | 93–94 | [[rangoric-srd/magic-items/wondrous-items/Helm of Telepathy\|Helm of Telepathy]] | 27,000 |
@@ -662,12 +662,12 @@ tags: [rangoric, rangoric/rule]
 | 3–4 | [[rangoric-srd/magic-items/armor/Magnetic Chain Mail of the Dwarves\|Magnetic chain mail of the dwarves]] | 30,000 |
 | 5–6 | [[rangoric-srd/magic-items/armor/Sycophant\|Sycophant (+6)]] | 30,000 |
 | 7–9 | [[rangoric-srd/magic-items/wondrous-items/Scabbard of Protection\|Scabbard of Protection]] | 31,000 |
-| 10–12 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of Natural Armor (+4)]] | 32,000 |
+| 10–12 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +4\|Amulet of Natural Armor (+4)]] | 32,000 |
 | 13–15 | [[rangoric-srd/magic-items/wondrous-items/Mask of Humanity\|Mask of Humanity]] | 32,000 |
-| 16–18 | [[rangoric-srd/magic-items/rings/Ring of Protection\|Ring of Protection (+4)]] | 32,000 |
+| 16–18 | [[rangoric-srd/magic-items/rings/Ring of Protection +4\|Ring of Protection (+4)]] | 32,000 |
 | 19–21 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (4 elements)]] | 33,000 |
 | 22–24 | [[rangoric-srd/magic-items/wondrous-items/Billowing Cloak\|Billowing Cloak]] | 36,000 |
-| 25–27 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+6)]] | 36,000 |
+| 25–27 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +6\|Bracers of Armor (+6)]] | 36,000 |
 | 28–30 | [[rangoric-srd/magic-items/wondrous-items/Mask of Beauty\|Mask of Beauty]] | 36,000 |
 | 31–32 | [[rangoric-srd/magic-items/armor/Werearmor\|Werearmor]] | 36,300 |
 | 33–34 | [[rangoric-srd/magic-items/armor/Winged Armor\|Winged armor]] | 38,150 |
@@ -677,11 +677,11 @@ tags: [rangoric, rangoric/rule]
 | 41–42 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Elves\|Mask of the Elves]] | 43,600 |
 | 43–44 | [[rangoric-srd/magic-items/armor/Mail of the Muse\|Mail of the Muse]] | 44,150 |
 | 45–46 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Dwarves\|Mask of the Dwarves]] | 48,000 |
-| 47–48 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+7)]] | 49,000 |
-| 49–50 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor\|Amulet of Natural Armor (+5)]] | 50,000 |
+| 47–48 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +7\|Bracers of Armor (+7)]] | 49,000 |
+| 49–50 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +5\|Amulet of Natural Armor (+5)]] | 50,000 |
 | 51–52 | [[rangoric-srd/magic-items/wondrous-items/Bandolier of Venom\|Bandolier of Venom (single)]] | 50,000 |
-| 53–54 | [[rangoric-srd/magic-items/rings/Ring of Protection\|Ring of Protection (+5)]] | 50,000 |
-| 55–56 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of Mighty Fists (+3)]] | 54,000 |
+| 53–54 | [[rangoric-srd/magic-items/rings/Ring of Protection +5\|Ring of Protection (+5)]] | 50,000 |
+| 55–56 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +3\|Amulet of Mighty Fists (+3)]] | 54,000 |
 | 57–58 | Mask of the Asherake | 54,000 |
 | 59–60 | [[rangoric-srd/magic-items/wondrous-items/Orle of Dominion\|Orle of Dominion]] | 54,000 |
 | 61–62 | [[rangoric-srd/magic-items/armor/Valkyrie Armor\|Valkyrie Armor]] | 54,370 |
@@ -689,22 +689,22 @@ tags: [rangoric, rangoric/rule]
 | 65–66 | [[rangoric-srd/magic-items/wondrous-items/Helm of Underwater Action\|Helm of Underwater Action]] | 57,000 |
 | 67–68 | [[rangoric-srd/magic-items/armor/Sycophant\|Sycophant (+12)]] | 60,000 |
 | 69–70 | [[rangoric-srd/magic-items/armor/Fiendish Barding, Greater\|Fiendish Barding, Greater]] | 63,800 |
-| 71–72 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor\|Bracers of Armor (+8)]] | 64,000 |
+| 71–72 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +8\|Bracers of Armor (+8)]] | 64,000 |
 | 73 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Gnomes\|Mask of the Gnomes]] | 66,000 |
 | 74 | [[rangoric-srd/magic-items/armor/Assassin’s Polished Plate\|Assassin’s Polished Plate]] | 68,504 |
 | 75–76 | [[rangoric-srd/magic-items/wondrous-items/Bandolier of Venom\|Bandolier of Venom (double)]] | 70,000 |
 | 77–78 | [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of Striding and Springing (+40)]] | 72,000 |
 | 79–80 | [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed\|Horseshoes of Speed (+40)]] | 72,000 |
-| 81–82 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed\|Leggings of Speed (+40)]] | 72,000 |
+| 81–82 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed +40\|Leggings of Speed (+40)]] | 72,000 |
 | 83–84 | [[rangoric-srd/magic-items/wondrous-items/Helm of Teleportation\|Helm of Teleportation]] | 73,500 |
 | 85 | [[rangoric-srd/magic-items/armor/Mail of Faith\|Mail of Faith]] | 81,650 |
 | 86 | [[rangoric-srd/magic-items/armor/Battle Plate\|Battle Plate]] | 92,650 |
-| 87–88 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of Mighty Fists (+4)]] | 96,000 |
+| 87–88 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +4\|Amulet of Mighty Fists (+4)]] | 96,000 |
 | 89–90 | [[rangoric-srd/magic-items/wondrous-items/Silk Robe of Sunbeams\|Silk Robe of Sunbeams]] | 99,150 |
 | 91–92 | [[rangoric-srd/magic-items/wondrous-items/Boots of the Raptor\|Boots of the Raptor]] | 100,000 |
 | 93–94 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Mobility\|Leggings of Mobility]] | 112,250 |
 | 95–96 | [[rangoric-srd/magic-items/wondrous-items/Helm of Brilliance\|Helm of Brilliance]] | 125,000 |
-| 97–98 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists\|Amulet of Mighty Fists (+5)]] | 150,000 |
+| 97–98 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +5\|Amulet of Mighty Fists (+5)]] | 150,000 |
 | 99–00 | [[rangoric-srd/magic-items/wondrous-items/Helm of Eyes\|Helm of Eyes]] | 161,000 |
 
 **Epic Wondrous Armor**
@@ -715,18 +715,18 @@ tags: [rangoric, rangoric/rule]
 | 7–12 | [[rangoric-srd/magic-items/wondrous-items/Boots of Swiftness\|Boots of Swiftness]] | 256,000 |
 | 13–18 | [[rangoric-srd/magic-items/rings/Ring of Ironskin\|Ring of Ironskin]] | 400,000 |
 | 19–25 | [[rangoric-srd/magic-items/rings/Ring of Weaponbreaking\|Ring of Weaponbreaking]] | 600,000 |
-| 26–30 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor\|Amulet of Epic Natural Armor (+6)]] | 720,000 |
-| 31–35 | [[rangoric-srd/magic-items/rings/Ring of Protection (Epic Ring)\|Ring of Epic Protection (+6)]] | 720,000 |
-| 36–40 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor\|Amulet of Epic Natural Armor (+7)]] | 980,000 |
-| 41–45 | [[rangoric-srd/magic-items/rings/Ring of Protection (Epic Ring)\|Ring of Epic Protection (+7)]] | 980,000 |
-| 46–50 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor\|Bracers of Epic Armor (+11)]] | 1,210,000 |
-| 51–55 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor\|Amulet of Epic Natural Armor (+8)]] | 1,280,000 |
-| 56–60 | [[rangoric-srd/magic-items/rings/Ring of Protection (Epic Ring)\|Ring of Epic Protection (+8)]] | 1,280,000 |
-| 61–65 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor\|Bracers of Epic Armor (+12)]] | 1,440,000 |
-| 66–70 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor\|Amulet of Epic Natural Armor (+9)]] | 1,620,000 |
-| 71–75 | [[rangoric-srd/magic-items/rings/Ring of Protection (Epic Ring)\|Ring of Epic Protection (+9)]] | 1,620,000 |
-| 76–80 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor\|Bracers of Epic Armor (+13)]] | 1,690,000 |
-| 81–85 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor\|Bracers of Epic Armor (+14)]] | 1,960,000 |
-| 86–90 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor\|Amulet of Epic Natural Armor (+10)]] | 2,000,000 |
-| 91–95 | [[rangoric-srd/magic-items/rings/Ring of Protection (Epic Ring)\|Ring of Epic Protection (+10)]] | 2,000,000 |
-| 96–00 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor\|Bracers of Epic Armor (+15)]] | 2,250,000 |
+| 26–30 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor +6\|Amulet of Epic Natural Armor (+6)]] | 720,000 |
+| 31–35 | [[rangoric-srd/magic-items/rings/Ring of Protection +6\|Ring of Epic Protection (+6)]] | 720,000 |
+| 36–40 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor +7\|Amulet of Epic Natural Armor (+7)]] | 980,000 |
+| 41–45 | [[rangoric-srd/magic-items/rings/Ring of Protection +7\|Ring of Epic Protection (+7)]] | 980,000 |
+| 46–50 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor +11\|Bracers of Epic Armor (+11)]] | 1,210,000 |
+| 51–55 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor +8\|Amulet of Epic Natural Armor (+8)]] | 1,280,000 |
+| 56–60 | [[rangoric-srd/magic-items/rings/Ring of Protection +8\|Ring of Epic Protection (+8)]] | 1,280,000 |
+| 61–65 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor +12\|Bracers of Epic Armor (+12)]] | 1,440,000 |
+| 66–70 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor +9\|Amulet of Epic Natural Armor (+9)]] | 1,620,000 |
+| 71–75 | [[rangoric-srd/magic-items/rings/Ring of Protection +9\|Ring of Epic Protection (+9)]] | 1,620,000 |
+| 76–80 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor +13\|Bracers of Epic Armor (+13)]] | 1,690,000 |
+| 81–85 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor +14\|Bracers of Epic Armor (+14)]] | 1,960,000 |
+| 86–90 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Epic Natural Armor +10\|Amulet of Epic Natural Armor (+10)]] | 2,000,000 |
+| 91–95 | [[rangoric-srd/magic-items/rings/Ring of Protection +10\|Ring of Epic Protection (+10)]] | 2,000,000 |
+| 96–00 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Epic Armor +15\|Bracers of Epic Armor (+15)]] | 2,250,000 |

@@ -22,6 +22,6 @@ The weapon channels and amplifies the wielder's *ki*, allowing her to use her sp
 
 After a successful strike with a *ki intensifying* weapon, the wielder can spend 1 [[rangoric-srd/classes/Monk#^monk-ki-pool|*ki* point]] as a swift action to perform a [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] to bull rush, disarm, reposition, or trip as a free action without provoking attacks of opportunity. Any bonuses or penalties applicable to the weapon attack also apply to this combat maneuver check. The wielder cannot move from her space as a part of the chosen maneuver.
 
-Only melee weapons can have the *ki intensifying* ability. It cannot be placed on an *[[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists|amulet of mighty fists]]* or similar non-weapon item. Weapons with the *[[rangoric-srd/magic-items/weapon-abilities/Ki Focus|ki focus]]* ability can be upgraded to be *ki intensifying*.
+Only melee weapons can have the *ki intensifying* ability. It cannot be placed on an *[[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +1|amulet of mighty fists]]* or similar non-weapon item. Weapons with the *[[rangoric-srd/magic-items/weapon-abilities/Ki Focus|ki focus]]* ability can be upgraded to be *ki intensifying*.
 
 Strong transmutation; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], creator must be a monk; Price +2 bonus.

@@ -1,0 +1,23 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Charm"
+caster-level: 10
+prerequisites: "Craft Charms and Bracelets, eagle’s splendor"
+price: "36,000 gp"
+book: "Faeries"
+based-on:
+  - "[[individual books/Faeries/charms/Eagle|Eagle (Faeries)]]"
+status: draft
+change: new
+pi-review: 2026-11-10
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Eagle Charm +6
+
+*A [[rangoric-srd/magic-items/charms/Charms|charm]], worn on a [[rangoric-srd/magic-items/charms/Charm Bracelet|charm bracelet]].*
+
+This eagle-shaped *charm* is carved from a small piece of moonstone. The figure has its wings fully extended, and the torso is drilled through with a silver rod and loop. A Charisma enhancement bonus of +2, +4, or +6 is granted by the *charm*.
+
+CL 10th; [[rangoric-srd/feats/Craft Charms and Bracelets|Craft Charms and Bracelets]], *[[rangoric-srd/spells/Eagle’s Splendor|eagle’s splendor]]*; Price 36,000 gp.

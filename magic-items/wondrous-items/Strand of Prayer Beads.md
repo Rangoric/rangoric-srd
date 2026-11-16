@@ -2,14 +2,14 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
-aura: "Faint, moderate or strong (many schools)"
-caster-level: 1
-prerequisites: "Craft Wondrous Items and one of the following spells per bead, as appropriate: bless (blessing)"
-price: "9,600 gp (lesser), 25,800 gp (standard), 95,800 gp (greater)"
+aura: "Moderate (many schools)"
+caster-level: 9
+prerequisites: "Craft Wondrous Items and one of the following spells per bead, as appropriate: cure serious wounds, remove blindness/ deafness, or remove disease (healing); righteous might (karma); chaos hammer, holy smite, order’s wrath, or unholy blight (smiting)"
+price: "25,800 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Strand of Prayer Beads|Strand of Prayer Beads (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -35,4 +35,4 @@ Each special bead can be used once per day, except for the bead of summons, whic
 
 The power of a special bead is lost if it is removed from the strand. Reduce the price of a strand of prayer beads that is missing one or more beads by the following amounts: bead of blessing –600 gp, bead of healing –9,000 gp, bead of karma –20,000 gp, bead of smiting –16,800 gp, bead of summons –20,000 gp, bead of wind walking –46,800 gp.
 
-Faint, moderate or strong (many schools); CL 1st (blessing), 5th (healing), 7th (smiting), 9th (karma), 11th (wind walking), 17th (summons); Craft Wondrous Items and one of the following spells per bead, as appropriate: bless (blessing); cure serious wounds, remove blindness/ deafness, or remove disease (healing); righteous might (karma); gate (summons); chaos hammer, holy smite, order’s wrath, or unholy blight (smiting), wind walk (wind walking); Price 9,600 gp (lesser), 25,800 gp (standard), 95,800 gp (greater).
+Moderate (many schools); CL 9th; Craft Wondrous Items and one of the following spells per bead, as appropriate: cure serious wounds, remove blindness/ deafness, or remove disease (healing); righteous might (karma); chaos hammer, holy smite, order’s wrath, or unholy blight (smiting); Price 25,800 gp.
