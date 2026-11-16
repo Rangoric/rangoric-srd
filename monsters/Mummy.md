@@ -3,64 +3,70 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Undead"
-hit-dice: "8d12+3 (55 hp)"
+hit-dice: "8d8+24 (60 hp)"
 initiative: "+0"
 speed: "20 ft. (4 squares)"
 armor-class: "20 (+10 natural), touch 10, flat-footed 20"
-base-attack: "+4"
-cmb: "+11"
-cmd: "21"
-attack: "Slam +11 melee (1d6+10 plus mummy rot)"
-full-attack: "Slam +11 melee (1d6+10 plus mummy rot)"
+base-attack: "+6"
+cmb: "+13"
+cmd: "23"
+attack: "Slam +14 melee (1d8+10 plus mummy rot)"
+full-attack: "Slam +14 melee (1d8+10 plus mummy rot)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Despair, mummy rot"
-special-qualities: "Damage reduction 5/–, darkvision 60 ft., undead traits, vulnerability to fire"
+special-attacks: "Despair (30 ft., paralyzed for 1d4 rounds, Will DC 16 negates)"
+special-qualities: "Darkvision 60 ft., damage reduction 5/-, undead traits, vulnerable to fire"
 saves: "Fort +4, Ref +2, Will +8"
-abilities: "Str 24, Dex 10, Con —, Int 6, Wis 14, Cha 15"
+abilities: "Str 24, Dex 10, Con —, Int 6, Wis 15, Cha 15"
 skills: "Perception +16, Stealth +11"
-skill-ranks: "Perception 8, Stealth 8"
-feats: "Great Fortitude, Skill Focus (Perception), Toughness"
+skill-ranks: "Perception 11, Stealth 8"
+feats: "Power Attack, Toughness, Skill Focus (Perception), Weapon Focus (slam)"
 environment: "Any"
-organization: "Solitary, warden squad (2–4), or guardian detail (6–10)"
+organization: "Solitary, warden squad (2–6), or guardian detail (7–12)"
 challenge-rating: 5
 treasure: "Standard"
 alignment: "Usually lawful evil"
 advancement: "9–16 HD (Medium); 17–24 HD (Large)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Mummy|Mummy (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Mummy|Mummy (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Mummy
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]]
-  - **Hit Dice**: 8d12+3 (55 hp)
+  - **Hit Dice**: 8d8+24 (60 hp)
   - **Initiative**: +0
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 20 (+10 natural), touch 10, flat-footed 20
-  - **Base Attack**: +4; **CMB**: +11; **CMD**: 21
-  - **Attack**: Slam +11 melee (1d6+10 plus mummy rot)
-  - **Full Attack**: Slam +11 melee (1d6+10 plus mummy rot)
+  - **Base Attack**: +6; **CMB**: +13; **CMD**: 23
+  - **Attack**: Slam +14 melee (1d8+10 plus [[rangoric-srd/rules/afflictions/Mummy Rot|mummy rot]])
+  - **Full Attack**: Slam +14 melee (1d8+10 plus [[rangoric-srd/rules/afflictions/Mummy Rot|mummy rot]])
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Despair, mummy rot
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/–, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to fire]]
+  - **Special Attacks**: Despair (30 ft., paralyzed for 1d4 rounds, Will DC 16 negates)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], vulnerable to fire
   - **Saves**: Fort +4, Ref +2, Will +8
-  - **Abilities**: Str 24, Dex 10, Con —, Int 6, Wis 14, Cha 15
+  - **Abilities**: Str 24, Dex 10, Con —, Int 6, Wis 15, Cha 15
   - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Feats All|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Toughness|Toughness]]
+  - **Feats**: [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (slam)
   - **Environment**: Any
-  - **Organization**: Solitary, warden squad (2–4), or guardian detail (6–10)
+  - **Organization**: Solitary, warden squad (2–6), or guardian detail (7–12)
   - **Challenge Rating**: 5
   - **Treasure**: Standard
   - **Alignment**: Usually lawful evil
   - **Advancement**: 9–16 HD (Medium); 17–24 HD (Large)
   - **Level Adjustment**: —
 
-Mummies are preserved corpses animated through the auspices of dark desert gods best forgotten.
+Created to guard the tombs of the honored dead, mummies are ever vigilant for those who would desecrate their sacred ground.
+
+Mummies are created through a rather lengthy and gruesome embalming process, during which all of the body's major organs are removed and replaced with dried herbs and flowers. After this process, the flesh is anointed with sacred oils and wrapped in purified linens. The creator then finishes the ritual with a *[[rangoric-srd/spells/Create Undead|create undead]]* spell.
+
+Although most mummies are created merely as guardians and remain loyal to their charge until their destruction, certain powerful mummies have much more free will. The majority are at least 10th-level [[rangoric-srd/classes/Cleric|clerics]], and are often kings or pharaohs who have called upon dark gods or sinister necromancers to bind their souls to their bodies after death—usually as a means to extend their rule beyond the grave, but at times simply to escape what they fear will be an eternity of torment in their own afterlife.
 
 Most mummies are 5 to 6 feet tall and weigh about 120 pounds.
 
@@ -68,14 +74,8 @@ Mummies can speak Common, but seldom bother to do so.
 
 ### Combat
 
-**Despair (Su)**: At the mere sight of a mummy, the viewer must succeed on a DC 16 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] with fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by the same mummy’s despair ability for 24 hours. The save DC is Charisma-based.
+**Despair (Su)**: All creatures within a 30-foot radius that see a mummy must make a DC 16 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] by fear for 1d4 rounds. Whether or not the save is successful, that creature cannot be affected again by the same mummy's despair ability for 24 hours. This is a paralysis and a mind-affecting fear affect. The save DC is Charisma-based.
 
-**Mummy Rot (Su)**: Supernatural disease - slam, Fortitude DC 16, incubation period 1 minute; damage 1d6 Con and 1d6 Cha. The save DC is Charisma-based.
+**Mummy Rot (Su)**: [[rangoric-srd/rules/afflictions/Mummy Rot|Mummy Rot]]: Curse and disease—slam—injury; *save* Fort DC 16; *onset* 1 minute; *frequency* 1/day; *effect* 1d6 Con damage and 1d6 Cha damage; *cure* —. The save DC is Charisma-based.
 
-Unlike normal diseases, mummy rot continues until the victim reaches Constitution 0 (and dies) or is cured as described below.
-
-Mummy rot is a powerful curse, not a natural disease. A character attempting to cast any conjuration (healing) spell on a creature afflicted with mummy rot must succeed on a DC 20 caster level check, or the spell has no effect on the afflicted character.
-
-To eliminate mummy rot, the curse must first be broken with [[rangoric-srd/spells/Break Enchantment|break enchantment]] or [[rangoric-srd/spells/Remove Curse|remove curse]] (requiring a DC 20 caster level check for either spell), after which a caster level check is no longer necessary to cast healing spells on the victim, and the mummy rot can be magically cured as any normal disease.
-
-An afflicted creature who dies of mummy rot shrivels away into sand and dust that blow away into nothing at the first wind.
+Mummy rot is both a curse and disease and can only be cured if the curse is first removed, at which point the disease can be magically removed. Even after the curse element of mummy rot is lifted, a creature suffering from it cannot recover naturally over time. Anyone casting a conjuration (healing) spell on the afflicted creature must succeed on a DC 20 caster level check, or the spell is wasted and the healing has no effect. Anyone who dies from mummy rot turns to dust and cannot be raised without a resurrection or greater magic.

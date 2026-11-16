@@ -1,62 +1,62 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/nightshade/Nightshade|Nightshade]]"
 size: "Gargantuan"
 creature-type: "Undead"
-subtypes:
-  - "Extraplanar"
-hit-dice: "25d12+50 (212 hp)"
+subtypes: ["Extraplanar", "Nightshade"]
+hit-dice: "25d8+200 (312 hp)"
 initiative: "+4"
 speed: "30 ft. (6 squares), burrow 60 ft."
-armor-class: "35 (–4 size, +29 natural), touch 6, flat-footed 35"
-base-attack: "+12"
-cmb: "+35"
-cmd: "45 (can't be tripped)"
-attack: "Bite +29 melee (4d6+21)"
-full-attack: "Bite +29 melee (4d6+21/19–20) and sting +24 melee (2d8+11/19–20 plus poison)"
-space-reach: "20 ft./15 ft."
-special-attacks: "Desecrating aura, energy drain, spell-like abilities, poison, summon undead, swallow whole"
-special-qualities: "Aversion to daylight, damage reduction 15/silver and magic, darkvision 60 ft., immunity to cold, spell resistance 31, telepathy 100 ft, tremorsense 60 ft., undead traits"
-saves: "Fort +12, Ref +10, Will +23"
-abilities: "Str 48, Dex 10, Con —, Int 20, Wis 20, Cha 18"
-skills: "Fieldcraft +33 (+35 following tracks), Arcana +33, Theology +33, Perception +33, Persuasion +32, Investigation +33, Sense Motive +33, Stealth +16"
-skill-ranks: "Arcana 25, Fieldcraft 25, Investigation 25, Perception 25, Persuasion 25, Sense Motive 25, Stealth 25, Theology 25"
-feats: "Blind-Fight, Combat Casting, Great Fortitude, Improved Critical (bite), Improved Critical (sting), Improved Initiative, Iron Will, Power Attack, Quicken Spell-Like Ability (cone of cold)"
-environment: "Plane of Shadow"
+armor-class: "33 (+27 natural, –4 size), touch 6, flat-footed 33"
+base-attack: "+18"
+cmb: "+37 (+41 grapple)"
+cmd: "47 (can't be tripped)"
+attack: "Bite +32 melee (4d10+18/19–20 plus 4d6 cold and grab) or sting +32 melee (4d6+18/19–20 plus 4d6 cold and poison)"
+full-attack: "Bite +32 melee (4d10+18/19–20 plus 4d6 cold and grab) and sting +32 melee (4d6+18/19–20 plus 4d6 cold and poison)"
+space-reach: "20 ft./20 ft."
+special-attacks: "Desecrating aura (30 ft.), channel negative energy (9d6, DC 31, 9/day), energy drain (1 level, DC 28), swallow whole (4d10+22 bludgeoning plus energy drain, AC 23, 31 hp), poison, spell-like abilities"
+special-qualities: "Darksense, darkvision 120 ft., detect magic, low-light vision, tremorsense 120 ft., telepathy 100 ft., damage reduction 15/good and silver, immunity to cold, undead traits, spell resistance 29, light aversion"
+saves: "Fort +16, Ref +10, Will +23"
+abilities: "Str 41, Dex 10, Con —, Int 20, Wis 21, Cha 23"
+skills: "Arcana +33, Athletics +40, Intimidation +34, Perception +33, Sense Motive +33, Stealth +16 (+24 in darkness), Theology +33"
+skill-ranks: "Arcana 25, Athletics 22, Intimidation 25, Perception 25, Sense Motive 25, Stealth 25, Theology 25"
+feats: "Combat Expertise, Command Undead, Critical Focus, Greater Vital Strike, Improved Critical (bite), Improved Critical (sting), Improved Initiative, Improved Vital Strike, Iron Will, Power Attack, Quicken Spell-Like Ability (cone of cold), Staggering Critical, Vital Strike"
+environment: "Any (Negative Energy Plane or Plane of Shadow)"
 organization: "Solitary or pair"
 challenge-rating: 18
 treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "26–50 HD (Colossal)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/nightshade/Nightshade|Nightshade]]"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Nightshade, Nightcrawler|Nightshade, Nightcrawler (PF1)]]"
   - "[[fantasy srd 3.5/monsters/nightshade/Nightcrawler|Nightcrawler (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Nightcrawler
 
-  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 25d12+50 (212 hp)
+  - Gargantuan [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Extraplanar, Nightshade)
+  - **Hit Dice**: 25d8+200 (312 hp)
   - **Initiative**: +4
   - **Speed**: 30 ft. (6 squares), burrow 60 ft.
-  - **Armor Class**: 35 (–4 size, +29 natural), touch 6, flat-footed 35
-  - **Base Attack**: +12; **CMB**: +35; **CMD**: 45 (can't be tripped)
-  - **Attack**: Bite +29 melee (4d6+21)
-  - **Full Attack**: Bite +29 melee (4d6+21/19–20) and sting +24 melee (2d8+11/19–20 plus poison)
-  - **Space/Reach**: 20 ft./15 ft.
-  - **Special Attacks**: Desecrating aura, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]], spell-like abilities, [[rangoric-srd/monsters/abilities/Poison|poison]], summon undead, [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]]
-  - **Special Qualities**: Aversion to daylight, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/silver and magic, darkvision 60 ft., immunity to cold, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +12, Ref +10, Will +23
-  - **Abilities**: Str 48, Dex 10, Con —, Int 20, Wis 20, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +33, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +33 (+35 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +33, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Persuasion|Persuasion]] +32, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +33
-  - **Unspent Skill Points**: 25
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Feats All|Improved Critical]] (sting), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/monsters/Monster Feats|Quicken Spell-Like Ability]] (cone of cold)
-  - **Environment**: Plane of Shadow
+  - **Armor Class**: 33 (+27 natural, –4 size), touch 6, flat-footed 33
+  - **Base Attack**: +18; **CMB**: +37 (+41 grapple); **CMD**: 47 (can't be tripped)
+  - **Attack**: Bite +32 melee (4d10+18/19–20 plus 4d6 cold and [[rangoric-srd/monsters/abilities/Grab|grab]]) or sting +32 melee (4d6+18/19–20 plus 4d6 cold and [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Full Attack**: Bite +32 melee (4d10+18/19–20 plus 4d6 cold and [[rangoric-srd/monsters/abilities/Grab|grab]]) and sting +32 melee (4d6+18/19–20 plus 4d6 cold and [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Space/Reach**: 20 ft./20 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|Desecrating aura]] (30 ft.), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|channel negative energy]] (9d6, DC 31, 9/day), [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 28), [[rangoric-srd/monsters/abilities/Swallow Whole|swallow whole]] (4d10+22 bludgeoning plus energy drain, AC 23, 31 hp), [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|Darksense]], [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 120 ft., detect magic, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 120 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 29, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^nightshade|light aversion]]
+  - **Saves**: Fort +16, Ref +10, Will +23
+  - **Abilities**: Str 41, Dex 10, Con —, Int 20, Wis 21, Cha 23
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +33, [[rangoric-srd/skills/Athletics|Athletics]] +40, [[rangoric-srd/skills/Intimidation|Intimidation]] +34, [[rangoric-srd/skills/Perception|Perception]] +33, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +33, [[rangoric-srd/skills/Stealth|Stealth]] +16 (+24 in darkness), [[rangoric-srd/skills/Theology|Theology]] +33
+  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (bite), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (sting), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (cone of cold), [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+  - **Environment**: Any (Negative Energy Plane or Plane of Shadow)
   - **Organization**: Solitary or pair
   - **Challenge Rating**: 18
   - **Treasure**: Standard
@@ -64,32 +64,22 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 26–50 HD (Colossal)
   - **Level Adjustment**: —
 
-A nightcrawler is a massive behemoth similar to a purple worm, though utterly black in color.
+Although the nightcrawler might appear to be little more than an immense and frightening vermin, with its centipede-like body and numerous glowing eyes, it is actually incredibly intelligent. When not cleansing the deep caverns of life, the nightcrawler spends its time plotting how best to carry out its own private stages of the overall nightshade plan to expunge life from all worlds, conferring with its undead minions and, when necessary, observing living creatures from afar while invisible to learn about hidden enclaves that its depredations might otherwise have missed.
 
-A nightcrawler measures about 7 feet in diameter and is 100 feet long from its toothy maw to the tip of its stinging tail. It weighs about 55,000 pounds.
+It would be one thing if the nightcrawlers remained in the deep caverns, for these regions are rife with foul life the world is better off without. Yet unfortunately for those who dwell upon the surface, nightcrawlers often crawl up through the tunnels to bring their devastation to the night above. Although they always retreat underground before the first tentative rays of dawn color the eastern skies, they can spread an incredible amount of ruin in the span of a few short hours each night.
 
-## Combat
+A nightcrawler is 60 feet long and weighs 10,000 pounds.
+
+Nightcrawlers speak Abyssal, Common and Infernal.
+
+### Combat
 
 A nightcrawler attacks by burrowing through the ground and emerging to strike.
 
 A nightcrawler’s natural weapons are treated as magic weapons for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
-**Energy Drain (Su)**: Living creatures inside a nightcrawler’s gizzard gain one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]] each round. The DC is 26 for the Fortitude save to remove a negative level. The save DC is Charisma-based. For each such negative level bestowed, the nightcrawler gains 5 temporary hit points.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th; concentration +24): Constant—*[[rangoric-srd/spells/Air Walk|air walk]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Magic Fang|magic fang]]*; At will—*[[rangoric-srd/spells/Contagion|contagion]]* (DC 20), *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]*, *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 20); 3/day—quickened *[[rangoric-srd/spells/Cone of Cold|cone of cold]]* (DC 21), *[[rangoric-srd/spells/Confusion|confusion]]* (DC 20), *[[rangoric-srd/spells/Haste|haste]]*, *[[rangoric-srd/spells/Hold Monster|hold monster]]* (DC 21); 1/day—*[[rangoric-srd/spells/Finger of Death|finger of death]]* (DC 23), *[[rangoric-srd/spells/Hold Monster, Mass|mass hold monster]]* (DC 25), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 23), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 8, 6 [[rangoric-srd/monsters/shadow/Greater Shadow|greater shadows]]).
 
-**Improved Grab (Ex)**: To use this ability, a nightcrawler must hit with its bite attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can try to swallow the opponent in the following round.
+**Energy Drain (Su)**: A creature that has been swallowed whole by a nightcrawler gains 1 negative level each round.
 
-**Poison (Ex)**: Injury, Fortitude DC 22, initial and secondary damage 2d6 Str. The save DC is Constitution-based.
-
-**Spell-Like Abilities**: Caster level 25th. The save DCs are Charisma-based.  
-
-At will - [[rangoric-srd/spells/Contagion|contagion]] (DC 18), [[rangoric-srd/spells/Deeper Darkness|deeper darkness]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/See Invisibility|see invisibility]], [[rangoric-srd/spells/Unholy Blight|unholy blight]] (DC 18);  
-
-3/day - [[rangoric-srd/spells/Cone of Cold|cone of cold]] (DC 19), [[rangoric-srd/spells/Confusion|confusion]] (DC 18), [[rangoric-srd/spells/Hold Monster|hold monster]] (DC 19);  
-
-1/day - [[rangoric-srd/spells/Finger of Death|finger of death]] (DC 21), [[rangoric-srd/spells/Hold Monster, Mass|mass hold monster]] (DC 23), [[rangoric-srd/spells/Plane Shift|plane shift]] (DC 21).  
-
-**Summon Undead (Su)**: A nightcrawler can summon undead creatures once per night: 9–16 [[rangoric-srd/monsters/shadow/Shadow|shadows]], 3–6 [[rangoric-srd/monsters/shadow/Shadow|greater shadows]], or 2–4 [[rangoric-srd/monsters/wraith/Wraith|dread wraiths]]. The undead arrive in 1d10 rounds and serve for 1 hour or until released.
-
-**Swallow Whole (Ex)**: A nightcrawler can try to swallow a grabbed opponent of Huge or smaller size by making a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check. Once inside, the opponent takes 2d8+12 points of bludgeoning damage plus 12 points of acid damage per round from the nightcrawler’s gizzard and is subject to the creature’s energy drain. A swallowed creature can cut its way out by using a light slashing or piercing weapon to deal 35 points of damage to the gizzard (AC 21). Once the creature exits, muscular action closes the hole; another swallowed opponent must cut its own way out.
-
-A nightcrawler’s interior can hold 2 Huge, 8 Large, 32 Medium, 128 Small, 512 Tiny or smaller opponents.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Su)**: Sting—injury; *save* Fort DC 28; *frequency* 1/round for 6 rounds; *effect* 1d4 Con drain and 1 negative level; *cure* 3 consecutive saves. The save DC is Charisma-based.

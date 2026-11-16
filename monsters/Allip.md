@@ -3,66 +3,71 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Undead"
-subtypes:
-  - "Incorporeal"
-hit-dice: "4d12 (26 hp)"
+subtypes: ["Incorporeal"]
+hit-dice: "4d8+12 (30 hp)"
 initiative: "+5"
-speed: "Fly 30 ft. (perfect) (6 squares)"
-armor-class: "15 (+1 Dex, +4 deflection), touch 15, flat-footed 14"
-base-attack: "+2"
-cmb: "—"
+speed: "fly 30 ft. (perfect)"
+armor-class: "14 (+3 deflection, +1 Dex), touch 14, flat-footed 13"
+base-attack: "+3"
+cmb: "+4"
 cmd: "17"
-attack: "Incorporeal touch +3 melee (1d4 Wisdom drain)"
-full-attack: "Incorporeal touch +3 melee (1d4 Wisdom drain)"
+attack: "Incorporeal touch +4 melee (1d4 Wisdom damage)"
+full-attack: "Incorporeal touch +4 melee (1d4 Wisdom damage)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Babble, madness, Wisdom drain"
-special-qualities: "Darkvision 60 ft., incorporeal traits, +2 turn resistance, undead traits"
-saves: "Fort +1, Ref +4, Will +4"
-abilities: "Str —, Dex 12, Con —, Int 11, Wis 11, Cha 18"
-skills: "Fieldcraft +4 (+6 following tracks), Intimidation +10, Perception +7, Investigation +7, Stealth +8"
-skill-ranks: "Fieldcraft 1, Intimidation 3, Investigation 4, Perception 4, Stealth 4"
+special-attacks: "Babble (60 ft., DC 15), touch of insanity"
+special-qualities: "Darkvision 60 ft., channel resistance +2, incorporeal, madness, undead traits"
+saves: "Fort +4, Ref +4, Will +4"
+abilities: "Str —, Dex 12, Con —, Int 11, Wis 11, Cha 16"
+skills: "Acrobatics +16, Intimidation +10, Perception +7, Stealth +8"
+skill-ranks: "Acrobatics 12, Intimidation 4, Perception 4, Stealth 4"
 feats: "Improved Initiative, Lightning Reflexes"
 environment: "Any"
-organization: "Solitary"
+organization: "Solitary, pair, or haunt (3–6)"
 challenge-rating: 3
-treasure: "None"
-alignment: "Always neutral evil"
+treasure: "Incidental"
+alignment: "Usually chaotic evil"
 advancement: "5–12 HD (Medium)"
 level-adjustment: "—"
+book: "Bestiary 3"
 based-on:
+  - "[[path srd 3.5/monsters/Allip|Allip (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Allip|Allip (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Allip
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]])
-  - **Hit Dice**: 4d12 (26 hp)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+  - **Hit Dice**: 4d8+12 (30 hp)
   - **Initiative**: +5
-  - **Speed**: Fly 30 ft. (perfect) (6 squares)
-  - **Armor Class**: 15 (+1 Dex, +4 deflection), touch 15, flat-footed 14
-  - **Base Attack**: +2; **CMB**: —; **CMD**: 17
-  - **Attack**: Incorporeal touch +3 melee (1d4 Wisdom drain)
-  - **Full Attack**: Incorporeal touch +3 melee (1d4 Wisdom drain)
+  - **Speed**: fly 30 ft. (perfect)
+  - **Armor Class**: 14 (+3 deflection, +1 Dex), touch 14, flat-footed 13
+  - **Base Attack**: +3; **CMB**: +4; **CMD**: 17
+  - **Attack**: Incorporeal touch +4 melee (1d4 Wisdom damage)
+  - **Full Attack**: Incorporeal touch +4 melee (1d4 Wisdom damage)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Babble, madness, Wisdom drain
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +1, Ref +4, Will +4
-  - **Abilities**: Str —, Dex 12, Con —, Int 11, Wis 11, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4 (+6 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Investigation|Investigation]] +7, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
+  - **Special Attacks**: Babble (60 ft., DC 15), touch of insanity
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], madness, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+  - **Saves**: Fort +4, Ref +4, Will +4
+  - **Abilities**: Str —, Dex 12, Con —, Int 11, Wis 11, Cha 16
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +8
   - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]]
   - **Environment**: Any
-  - **Organization**: Solitary
+  - **Organization**: Solitary, pair, or haunt (3–6)
   - **Challenge Rating**: 3
-  - **Treasure**: None
-  - **Alignment**: Always neutral evil
+  - **Treasure**: Incidental
+  - **Alignment**: Usually chaotic evil
   - **Advancement**: 5–12 HD (Medium)
   - **Level Adjustment**: —
 
-An allip is the spectral remains of someone driven to suicide by a madness that afflicted it in life. It craves only revenge and unrelentingly pursues those who tormented it in life and pushed it over the brink.
+Those who fall prey to madness and take their own lives sometimes find themselves lost on the path to the afterlife, trapped in a state between life and death. These unfortunates, known as allips, suffer from the violent and incurable insanity they faced in life and take out their terror, confusion, and rage upon the living. They reach out to those they encounter—possibly in wrath, but also perhaps oblivious to their own insane nature—spreading the psychoses that led to their own untimely deaths.
+
+In combat, allips relentlessly attack the nearest living creature, relying on their babble to let them close in before attacking with their touch of insanity. Many seem to be driven to states of ferocity upon witnessing the terror living creatures exhibit when facing their spectral forms, or when faced with the intangibility of their incorporeal states. While allips have no way to kill creatures, those knocked [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] by an allip's Wisdom-draining touch often emerge from the state suffering from insanity—a fate that many would say qualifies as worse than death.
+
+Allips often seek to harm those who played a part in causing their mad, unholy condition. When faced with such foes, an allip ignores all other targets that confront it in favor of its hated enemies, attacking them until its tormentors have been forced into a vacant stupor. Alas, such vengeance does not put the allip to rest, but simply serves to further fuel its madness as it finds itself trapped in a world now no longer even holding the satisfaction of vengeance.
 
 An allip cannot speak intelligibly.
 
@@ -70,8 +75,8 @@ An allip cannot speak intelligibly.
 
 An allip is unable to cause physical harm, although it doesn’t appear to know that. It keeps flailing away at enemies, yet it inflicts no wounds.
 
-**Babble (Su)**: An allip constantly mutters and whines to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed on a DC 16 Will save or be affected as though by a [[rangoric-srd/spells/Hypnotism|hypnotism]] spell for 2d4 rounds. This is a sonic mind-affecting compulsion effect. Creatures that successfully save cannot be affected by the same allip’s babble for 24 hours. The save DC is Charisma-based.
+**Babble (Su)**: An allip constantly mutters to itself, creating a hypnotic effect. All sane creatures within 60 feet of the allip must succeed at a DC 15 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinated]] for 2d4 rounds. While a target is fascinated, the allip can approach it without breaking the effect, but an attack by the allip does end the effect. Creatures that successfully save cannot be affected by the same allip's babble for 24 hours. This is a sonic, mind-affecting compulsion effect. The save DC is Charisma-based.
 
-**Madness (Su)**: Anyone targeting an allip with a thought detection, mind control, or telepathic ability makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.
+**Madness (Su)**: Anyone targeting an allip with a thought detection, mind control, or telepathic effect makes direct contact with its tortured mind and takes 1d4 points of Wisdom damage.
 
-**Wisdom Drain (Su)**: An allip causes 1d4 points of Wisdom drain each time it hits with its incorporeal touch attack. On each such successful attack, it gains 5 temporary hit points.
+**Touch of Insanity (Su)**: The touch of an allip deals 1d4 points of Wisdom damage (DC 15 Will negates). A successful critical hit causes 1d4 points of Wisdom damage and 1 point of Wisdom drain (instead of double Wisdom damage). With each successful attack, an allip gains 5 temporary hit points. The save DC is Charisma-based.

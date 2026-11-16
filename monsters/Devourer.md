@@ -3,68 +3,67 @@ srd-type: "monster"
 section: "Monsters"
 size: "Large"
 creature-type: "Undead"
-subtypes:
-  - "Extraplanar"
-hit-dice: "12d12 (78 hp)"
-initiative: "+4"
-speed: "30 ft. (6 squares)"
-armor-class: "24 (–1 size, +15 natural), touch 9, flat-footed 24"
-base-attack: "+6"
-cmb: "+16"
-cmd: "26"
-attack: "Claw +15 melee (1d6+9)"
-full-attack: "2 claws +15 melee (1d6+9)"
+subtypes: ["Extraplanar"]
+hit-dice: "14d8+70 (133 hp)"
+initiative: "+7"
+speed: "30 ft. (6 squares), fly 20 ft. (perfect)"
+armor-class: "25 (+3 Dex, +13 natural, –1 size), touch 12, flat-footed 22"
+base-attack: "+10"
+cmb: "+20"
+cmd: "33"
+attack: "Claw +18 melee (1d8+9 plus energy drain)"
+full-attack: "2 claws +18 melee (1d8+9 plus energy drain)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Energy drain, trap essence, spell-like abilities"
-special-qualities: "Darkvision 60 ft., spell deflection, spell resistance 21, undead traits"
-saves: "Fort +4, Ref +4, Will +11"
-abilities: "Str 28, Dex 10, Con —, Int 16, Wis 16, Cha 17"
-skills: "Athletics +24, Fieldcraft +18 (+20 following tracks), Perception +18, Persuasion +18, Investigation +18, Sense Motive +18, Stealth +11"
-skill-ranks: "Athletics 12, Fieldcraft 12, Investigation 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12"
-feats: "Blind-Fight, Combat Casting, Combat Expertise, Improved Initiative, Weapon Focus (claw)"
+special-attacks: "Devour soul, energy drain (1 level, DC 20), spell-like abilities"
+special-qualities: "Darkvision 60 ft., telepathy 100 ft., spell deflection, undead traits, spell resistance 22"
+saves: "Fort +9, Ref +7, Will +12"
+abilities: "Str 28, Dex 16, Con —, Int 19, Wis 16, Cha 21"
+skills: "Acrobatics +19, Arcana +21, Deception +19, Intimidation +19, Perception +20, Persuasion +14, Sense Motive +17, Stealth +6, Theology +18"
+skill-ranks: "Acrobatics 15, Arcana 14, Deception 11, Intimidation 11, Perception 14, Persuasion 6, Sense Motive 11, Stealth 4, Theology 11"
+feats: "Blind-Fight, Cleave, Combat Casting, Combat Expertise, Improved Initiative, Improved Sunder, Power Attack"
 environment: "Any"
 organization: "Solitary"
 challenge-rating: 11
-treasure: "None"
+treasure: "Standard"
 alignment: "Always neutral evil"
 advancement: "13–24 HD (Large); 25–36 HD (Huge)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Devourer|Devourer (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Devourer|Devourer (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Devourer
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 12d12 (78 hp)
-  - **Initiative**: +4
-  - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 24 (–1 size, +15 natural), touch 9, flat-footed 24
-  - **Base Attack**: +6; **CMB**: +16; **CMD**: 26
-  - **Attack**: Claw +15 melee (1d6+9)
-  - **Full Attack**: 2 claws +15 melee (1d6+9)
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Extraplanar)
+  - **Hit Dice**: 14d8+70 (133 hp)
+  - **Initiative**: +7
+  - **Speed**: 30 ft. (6 squares), fly 20 ft. (perfect)
+  - **Armor Class**: 25 (+3 Dex, +13 natural, –1 size), touch 12, flat-footed 22
+  - **Base Attack**: +10; **CMB**: +20; **CMD**: 33
+  - **Attack**: Claw +18 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
+  - **Full Attack**: 2 claws +18 melee (1d8+9 plus [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]])
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Energy Drain|Energy drain]], trap essence, spell-like abilities
-  - **Special Qualities**: Darkvision 60 ft., spell deflection, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +4, Ref +4, Will +11
-  - **Abilities**: Str 28, Dex 10, Con —, Int 16, Wis 16, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +24, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18 (+20 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +18, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+  - **Special Attacks**: Devour soul, [[rangoric-srd/monsters/abilities/Energy Drain|energy drain]] (1 level, DC 20), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., spell deflection, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
+  - **Saves**: Fort +9, Ref +7, Will +12
+  - **Abilities**: Str 28, Dex 16, Con —, Int 19, Wis 16, Cha 21
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +19, [[rangoric-srd/skills/Arcana|Arcana]] +21, [[rangoric-srd/skills/Deception|Deception]] +19, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +6, [[rangoric-srd/skills/Theology|Theology]] +18
+  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]
   - **Environment**: Any
   - **Organization**: Solitary
   - **Challenge Rating**: 11
-  - **Treasure**: None
+  - **Treasure**: Standard
   - **Alignment**: Always neutral evil
   - **Advancement**: 13–24 HD (Large); 25–36 HD (Huge)
   - **Level Adjustment**: —
 
-Devourers lurk on the Ethereal Plane and the Astral Plane, stalking both natives and travelers with equal sadistic glee.
-
-A devourer is about 9 feet tall and weighs 500 pounds.
+Devourers are the undead remnants of fiends and evil spellcasters who became lost beyond the farthest reaches of the multiverse. Returning with warped bodies, alien sentience, and a hunger for life, devourers threaten all souls with a terrifying, tormented annihilation. These withered corpses stand 10 feet tall but weigh a mere 200 pounds.
 
 Devourers speak Common.
 
@@ -72,14 +71,8 @@ Devourers speak Common.
 
 Even if it had no special abilities, a devourer would be a terrible opponent, for its bony claws can flay enemies alive.
 
-**Energy Drain (Su)**: Living creatures hit by a devourer’s claw attack or spectral hand ability gain one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]]. The DC is 19 for the Fortitude save to remove a negative level. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 18th): At will—*[[rangoric-srd/spells/Animate Dead|animate dead]]*<sup>4th</sup>, *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*<sup>4th</sup> (DC 19), *[[rangoric-srd/spells/Confusion|confusion]]*<sup>4th</sup> (DC 19), *[[rangoric-srd/spells/Control Undead|control undead]]*<sup>7th</sup> (DC 22), *[[rangoric-srd/spells/Death Knell|death knell]]*<sup>2nd</sup> (DC 17), *[[rangoric-srd/spells/Ghoul Touch|ghoul touch]]*<sup>2nd</sup> (DC 17), *[[rangoric-srd/spells/Inflict Serious Wounds|inflict serious wounds]]*<sup>3rd</sup> (DC 18), *[[rangoric-srd/spells/Planar Ally, Lesser|lesser planar ally]]*<sup>4th</sup>, *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]*<sup>1st</sup>, *[[rangoric-srd/spells/Spectral Hand|spectral hand]]*<sup>2nd</sup>, *[[rangoric-srd/spells/Suggestion|suggestion]]*<sup>3rd</sup> (DC 18), *[[rangoric-srd/spells/True Seeing|true seeing]]*<sup>6th</sup>, *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*<sup>3rd</sup> (DC 18).
 
-**Trap Essence (Su)**: The devourer is named for its ability to consume an enemy’s life essence. To do so, it must forgo its normal melee attacks and make a trap essence attack. This requires a normal attack roll but deals no damage. The he save DC is Charisma-based.
+**Devour Soul (Su)**: By making a touch attack as a standard action, a devourer can deal 12d6+18 points of damage as if using a slay living spell. A DC 22 Fortitude save reduces this damage to 3d6+18. The soul of a creature slain by this attack becomes trapped within the devourer's chest. The creature cannot be brought back to life until the devourer's destruction (or a spell deflection—see below) releases its soul. A devourer can hold only one soul at a time. The trapped essence provides a devourer with 5 essence points for each Hit Die possessed by the soul. A devourer must expend essence points when it uses a spell-like ability equal to the spell's level (for sake of ease, spell levels for its spell-like abilities are included in its stats in superscript). At the start of an encounter, a devourer generally has 3d4+3 essence points available. The trapped essence gains one permanent negative level for every 5 points of essence drained—these negative levels remain if the creature is brought back to life (but they do not stack with any negative levels imparted by being brought back to life). A soul that is completely consumed may only be restored to life by a miracle or wish. The save DC is Charisma-based.
 
-A slain creature’s essence is trapped within the devourer’s ribs, and the tiny figure takes on that victim’s features. The trapped essence cannot be [[rangoric-srd/spells/Raise Dead|raised]] or [[rangoric-srd/spells/Resurrection|resurrected]], but a [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Miracle|miracle]], or [[rangoric-srd/spells/Wish|wish]] spell frees it, as does destroying the devourer. A devourer can hold only one essence at a time.
-
-The trapped essence provides a devourer with enough power to use five spell-like abilities for each Hit Die or level of the trapped creature. As this energy is expended, the twisted soul fades away until it evaporates completely. The trapped essence gains one [[rangoric-srd/rules/Special Abilities and Conditions#Energy Drain and Negative Levels|negative level]] for every five times the devourer uses one of its spell-like abilities. When the essence’s number of negative levels equals the creature’s total Hit Dice or level, the essence is destroyed. If an essence is freed, the restored creature must succeed on a DC 19 Fortitude save for each negative level or that negative level becomes [[rangoric-srd/rules/Special Abilities and Conditions#^permanent-negative-levels|permanent]].
-
-**Spell-Like Abilities**: At the start of any encounter, the trapped essence within a devourer is assumed to have 3d4+3 levels (enough fuel for thirty to seventy-five uses). Once per round, a devourer can use one of the following abilities: [[rangoric-srd/spells/Confusion|confusion]] (DC 17), [[rangoric-srd/spells/Control Undead|control undead]] (DC 20), [[rangoric-srd/spells/Ghoul Touch|ghoul touch]](DC 15), [[rangoric-srd/spells/Planar Ally, Lesser|lesser planar ally]], [[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]] (DC 14), [[rangoric-srd/spells/Spectral Hand|spectral hand]], [[rangoric-srd/spells/Suggestion|suggestion]] (DC 16), [[rangoric-srd/spells/True Seeing|true seeing]]. Caster level 18th. The save DCs are Charisma-based.
-
-**Spell Deflection (Su)**: The trapped essence provides a measure of magical protection. If any of the following spells are cast at the devourer and overcome its spell resistance, they affect the imprisoned essence instead: [[rangoric-srd/spells/Banishment|banishment]], [[rangoric-srd/spells/Chaos Hammer|chaos hammer]], [[rangoric-srd/spells/Confusion|confusion]], [[rangoric-srd/spells/Crushing Despair|crushing despair]], [[rangoric-srd/spells/Detect Thoughts|detect thoughts]], [[rangoric-srd/spells/Dispel Evil|dispel evil]], [[rangoric-srd/spells/Dominate Person|dominate person]], [[rangoric-srd/spells/Fear|fear]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], [[rangoric-srd/spells/Holy Word|holy word]], [[rangoric-srd/spells/Spells H to L|hypnosis]], [[rangoric-srd/spells/Imprisonment|imprisonment]], [[rangoric-srd/spells/Magic Jar|magic jar]], [[rangoric-srd/spells/Maze|maze]], [[rangoric-srd/spells/Suggestion|suggestion]], [[rangoric-srd/spells/Trap the Soul|trap the soul]], or any form of charm or compulsion. In many cases, this deflection effectively neutralizes the spell. Some of these effects might eliminate the trapped essence, depriving the devourer of its spell-like abilities until it can consume another victim.
+**Spell Deflection (Su)**: If any of the following spells are cast at the devourer and overcome its spell resistance, they instead affect a devoured soul: banishment, chaos hammer, confusion, crushing despair, detect thoughts, dispel evil, dominate person, fear, geas/quest, holy word, hypnotism, imprisonment, magic jar, maze, suggestion, trap the soul, or any form of charm or compulsion. While none of these effects harms the soul, the caster makes a DC 25 caster level check when a spell is deflected—success indicates that the trapped soul is released from its prison and the creature whose body it belonged to can now be restored to life as normal.

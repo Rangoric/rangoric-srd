@@ -462,6 +462,22 @@ Natural weapons have types just as other weapons do. The most common are summari
 
 **Negative Energy Affinity (Ex)**: See [[rangoric-srd/monsters/abilities/Negative Energy Affinity|negative energy affinity]]. ^negative-energy-affinity
 
+**Nightshade Subtype**: Nightshades are monstrous undead composed of shadow and evil. ^nightshade
+
+*Traits*: A nightshade has the following traits.
+
+  - [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]].
+
+  - *Desecrating Aura (Su)*: All nightshades have a 30-foot-radius emanation equivalent to a *[[rangoric-srd/spells/Desecrate|desecrate]]* spell centered on a shrine of evil power. Undead within this radius (including the nightshade) gain a +2 profane bonus on attack and damage rolls and saving throws, as well as +2 hit points per die, and the save DC of channeled negative energy is increased by +6 (these adjustments are included for the nightshades in their entries). This aura can be negated by *[[rangoric-srd/spells/Dispel Evil|dispel evil]]*, but a nightshade can reactivate it on its turn as a free action. A desecrating aura suppresses and is suppressed by *[[rangoric-srd/spells/Consecrate|consecrate]]* or *[[rangoric-srd/spells/Hallow|hallow]]*; both effects are negated within any overlapping area of effect.
+
+  - *Channel Energy (Su)*: A nightshade can [[rangoric-srd/classes/Cleric|channel negative energy]] as a cleric of a level equal to its base CR. It can use this ability a number of times per day equal to 3 + its Charisma modifier.
+
+  - *Darksense (Ex)*: Nightshades gain *[[rangoric-srd/spells/True Seeing|true seeing]]* in dim light and darkness. Regardless of light conditions, they can detect living creatures and their health within 60 feet, as [[rangoric-srd/monsters/abilities/Blindsense|blindsense]] with *[[rangoric-srd/spells/Deathwatch|deathwatch]]* continuously active. *[[rangoric-srd/spells/Mind Blank|Mind blank]]* and *[[rangoric-srd/spells/Nondetection|nondetection]]* prevent the latter effect but not the nightshade's *[[rangoric-srd/spells/True Seeing|true seeing]]*.
+
+  - *Light Aversion (Ex)*: A nightshade in bright light becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]]; the penalties from this condition are doubled when the nightshade is in natural sunlight.
+
+  - *Summon (Sp)*: Nightshades can [[rangoric-srd/monsters/abilities/Summon|summon]] undead creatures. They can be summoned only within areas of darkness, and summoned undead cannot create spawn. The exact type and number of undead they can summon vary according to the nightshade in question, as detailed in each nightshade's entry.
+
 **Nonabilities**: Some creatures lack certain ability scores. These creatures do not have an ability score of 0—they lack the ability altogether. The modifier for a nonability is +0. Other effects of nonabilities are detailed below. ^nonabilities
 
 *Strength*: Any creature that can physically manipulate other objects has at least 1 point of Strength. A creature with no Strength score can’t exert force, usually because it has no physical body or because it doesn’t move. The creature automatically fails Strength checks. If the creature can attack, it applies its Dexterity modifier to its base attack bonus instead of a Strength modifier.

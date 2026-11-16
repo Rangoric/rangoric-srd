@@ -3,61 +3,62 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Undead"
-subtypes:
-  - "Incorporeal"
-hit-dice: "3d12 (19 hp)"
+subtypes: ["Incorporeal"]
+hit-dice: "3d8+6 (19 hp)"
 initiative: "+2"
-speed: "Fly 30 ft. (good) (8 squares)"
-armor-class: "13 (+2 Dex, +1 deflection), touch 13, flat-footed 11"
-base-attack: "+1"
-cmb: "—"
-cmd: "15"
-attack: "Incorporeal touch +3 melee (1d6 Str)"
-full-attack: "Incorporeal touch +3 melee (1d6 Str)"
+speed: "fly 40 ft. (good)"
+armor-class: "15 (+2 deflection, +2 Dex, +1 dodge), touch 15, flat-footed 12"
+base-attack: "+2"
+cmb: "+4"
+cmd: "17"
+attack: "Incorporeal touch +4 melee (1d6 Strength damage)"
+full-attack: "Incorporeal touch +4 melee (1d6 Strength damage)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Create spawn, strenght damage"
-special-qualities: "Darkvision 60 ft., incorporeal traits, +2 turn resistance, undead traits"
-saves: "Fort +1, Ref +3, Will +4"
-abilities: "Str —, Dex 14, Con —, Int 6, Wis 12, Cha 13"
-skills: "Perception +11, Investigation +7, Stealth +7*"
-skill-ranks: "Investigation 2, Perception 2, Stealth 2"
+special-attacks: "Create spawn"
+special-qualities: "Darkvision 60 ft., incorporeal, channel resistance +2, undead traits"
+saves: "Fort +3, Ref +3, Will +4"
+abilities: "Str —, Dex 14, Con —, Int 6, Wis 12, Cha 15"
+skills: "Acrobatics +11, Perception +8, Stealth +8 (+12 in dim light, +4 in bright light)"
+skill-ranks: "Acrobatics 6, Perception 4, Stealth 3"
 feats: "Dodge, Skill Focus (Perception)"
 environment: "Any"
-organization: "Solitary, gang (2-5), or swarm (6-11)"
+organization: "Solitary, pair, gang (3–6), or swarm (7–12)"
 challenge-rating: 3
-treasure: "None"
+treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "4-9 HD (Medium)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Shadow|Shadow (PF1)]]"
   - "[[fantasy srd 3.5/monsters/shadow/Shadow|Shadow (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Shadow
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]])
-  - **Hit Dice**: 3d12 (19 hp)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+  - **Hit Dice**: 3d8+6 (19 hp)
   - **Initiative**: +2
-  - **Speed**: Fly 30 ft. (good) (8 squares)
-  - **Armor Class**: 13 (+2 Dex, +1 deflection), touch 13, flat-footed 11
-  - **Base Attack**: +1; **CMB**: —; **CMD**: 15
-  - **Attack**: Incorporeal touch +3 melee (1d6 Str)
-  - **Full Attack**: Incorporeal touch +3 melee (1d6 Str)
+  - **Speed**: fly 40 ft. (good)
+  - **Armor Class**: 15 (+2 deflection, +2 Dex, +1 dodge), touch 15, flat-footed 12
+  - **Base Attack**: +2; **CMB**: +4; **CMD**: 17
+  - **Attack**: Incorporeal touch +4 melee (1d6 Strength damage)
+  - **Full Attack**: Incorporeal touch +4 melee (1d6 Strength damage)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Create spawn, strenght damage
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]]
-  - **Saves**: Fort +1, Ref +3, Will +4
-  - **Abilities**: Str —, Dex 14, Con —, Int 6, Wis 12, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Investigation|Investigation]] +7, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +7\*
+  - **Special Attacks**: Create spawn
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]]
+  - **Saves**: Fort +3, Ref +3, Will +4
+  - **Abilities**: Str —, Dex 14, Con —, Int 6, Wis 12, Cha 15
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +8 (+12 in dim light, +4 in bright light)
   - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Any
-  - **Organization**: Solitary, gang (2-5), or swarm (6-11)
+  - **Organization**: Solitary, pair, gang (3–6), or swarm (7–12)
   - **Challenge Rating**: 3
-  - **Treasure**: None
+  - **Treasure**: Standard
   - **Alignment**: Always chaotic evil
   - **Advancement**: 4-9 HD (Medium)
   - **Level Adjustment**: —
@@ -66,7 +67,7 @@ tags: [rangoric, rangoric/monster]
 
   - [[rangoric-srd/monsters/shadow/Greater Shadow|Greater Shadow]]
 
-A shadow can be difficult to see in dark or gloomy areas but stands out starkly in brightly illuminated places.
+The sinister shadow skirts the border between the gloom of darkness and the harsh truth of light. The shadow prefers to haunt ruins where civilization has moved on, where it hunts living creatures foolish enough to stumble into its territory. The shadow is an undead horror, and as such has no goals or outwardly visible motivations other than to sap life and vitality from living beings.
 
 A shadow is 5 to 6 feet tall and is weightless.
 
@@ -76,14 +77,6 @@ Shadows cannot speak intelligibly.
 
 Shadows lurk in dark places, waiting for living prey to happen by.
 
-**Strength Damage (Su)**: The touch of a shadow deals 1d6 points of Strength [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]] to a living foe. A creature reduced to Strength 0 by a shadow dies. This is a negative energy effect.
+**Create Spawn (Su)**: A humanoid creature killed by a shadow's Strength damage becomes a shadow under the control of its killer in 1d4 rounds.
 
-**Create Spawn (Su)**: Any humanoid reduced to Strength 0 by a shadow becomes a shadow under the control of its killer within 1d4 rounds.
-
-**Skills**: Shadows have a +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks and a +4 racial bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks.
-
-\*A shadow gains a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks in areas of shadowy illumination. In brightly lit areas, it takes a –4 penalty on Stealth checks.
-
-### Combat
-
-**Strength Damage (Su):** The touch of a greater shadow deals 1d8 points of Strength [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]] to a living foe.
+**Strength Damage (Su)**: A shadow's touch deals 1d6 points of Strength damage to a living creature. This is a negative energy effect. A creature dies if this Strength damage equals or exceeds its actual Strength score.
