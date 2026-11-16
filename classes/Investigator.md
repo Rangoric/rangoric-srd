@@ -124,3 +124,7 @@ The investigator must be able to see the target well enough to pick out a vital 
 **True Inspiration (Ex)**: At 20th level, an investigator can use inspiration on all skill checks—even ones he isn’t trained in—and all ability checks without spending inspiration. ^investigator-true-inspiration
 
 In addition, whenever he expends inspiration on an ability check, attack roll, saving throw, or skill check, he adds 2d6 rather than 1d6 to the result. Some talents can affect this. If using the [[rangoric-srd/class-options/investigator-talents/Amazing Inspiration (Investigator Talent)|amazing inspiration]] investigator talent, he rolls 2d8 instead. If using this with [[rangoric-srd/class-options/investigator-talents/Empathy (Investigator Talent)|empathy]], [[rangoric-srd/class-options/investigator-talents/Tenacious Inspiration (Investigator Talent)|tenacious inspiration]], [[rangoric-srd/class-options/investigator-talents/Underworld Inspiration (Investigator Talent)|underworld inspiration]], or a similar talent, he rolls two sets of inspiration dice and uses the higher of the two results. ^investigator-true-inspiration-2
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The investigator’s class bonuses, by race: ^investigator-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Investigator]]

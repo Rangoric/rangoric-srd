@@ -157,3 +157,9 @@ Bundles of alternate traits for elves of a particular background.
 - **Gray Elf**: Taller and grander than other elves, with a reputation for being aloof and arrogant; silver hair and amber eyes, or pale golden hair and violet eyes. +2 Dexterity, +2 Intelligence, −2 Strength, −2 Constitution.
 - **Wild Elf**: Barbaric and tribal, dressed in animal skins and simple plant weaves, with hair from black to light brown that turns silvery white with age. +2 Dexterity.
 - **Wood Elf**: More muscular than other elves, with yellow to coppery red hair, dressed in dark greens and earth tones to blend in with the forest. +2 Strength, +2 Dexterity, −2 Constitution.
+
+### Class Bonuses
+
+An elf gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Elf]]

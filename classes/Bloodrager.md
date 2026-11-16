@@ -146,3 +146,7 @@ Greater bloodrage counts as the barbarian’s greater rage ability for the purpo
 **Tireless Bloodrage (Su)**: At 17th level, a bloodrager’s bloodrage works as the barbarian’s [[rangoric-srd/classes/Barbarian#^barbarian-tireless-rage|tireless rage]]: he no longer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] at the end of his bloodrage. ^bloodrager-tireless-bloodrage
 
 **Mighty Bloodrage (Su)**: At 20th level, a bloodrager’s bloodrage gains the bonuses of the barbarian’s [[rangoric-srd/classes/Barbarian#^barbarian-mighty-rage|mighty rage]]. Furthermore, the spell he can apply to himself at the beginning of a bloodrage due to the [[rangoric-srd/classes/Bloodrager#^bloodrager-greater-bloodrage|greater bloodrage]] class feature is not limited to only spells of 2nd level or lower. ^bloodrager-mighty-bloodrage
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The bloodrager’s class bonuses, by race: ^bloodrager-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Bloodrager]]

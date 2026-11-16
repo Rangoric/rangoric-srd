@@ -200,3 +200,7 @@ Points from the arcanist reservoir are used to fuel many of the arcanist's power
 ![[rangoric-srd/class-options/arcanist-exploits/Suffering Knowledge (Exploit)]]
 
 **Magical Supremacy (Su)**: At 20th level, the arcanist learns how to convert her arcane reservoir into spells and back again. She can cast any spell she has prepared by expending a number of points from her arcane reservoir equal to 1 + the level of the spell to be cast instead of expending a spell slot. When she casts a spell in this fashion, she treats her caster level as 2 higher than normal, and the DCs of any saving throws associated with the spell increase by 2. She cannot further expend points from her arcane reservoir to enhance a spell cast in this way. ^arcanist-magical-supremacy
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The arcanist’s class bonuses, by race: ^arcanist-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Arcanist]]

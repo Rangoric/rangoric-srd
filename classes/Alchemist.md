@@ -135,4 +135,8 @@ The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveri
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Alchemist]]
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The alchemist’s class bonuses, by race: ^alchemist-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Alchemist]]
+
 **Alchemist Formulae**: Alchemists gain access to a variety of formulae, allowing them to make extracts of the spells on the [[rangoric-srd/spells/Alchemist Formula List|alchemist formula list]]. ^alchemist-formulae

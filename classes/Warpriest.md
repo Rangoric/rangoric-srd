@@ -229,4 +229,8 @@ When the warpriest uses this ability, he can also use his sacred weapon ability 
 
 **Aspect of War (Su)**: At 20th level, the warpriest can channel an aspect of war, growing in power and martial ability. After activating this ability, for 1 minute the warpriest treats his level as his base attack bonus, gains [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|DR]] 10/—, and can move at his full normal speed regardless of the armor he is wearing or his encumbrance. In addition, the blessings he calls upon don’t count against his daily limit during this time. ^warpriest-aspect-of-war
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The warpriest’s class bonuses, by race: ^warpriest-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Warpriest]]
+
 **Ex-Warpriests**: A warpriest who grossly violates the code of conduct required by his god loses all spells and class features, except for his armor, shield, weapon proficiencies, and bonus feats. He cannot thereafter gain levels as a warpriest of that god until he atones for his deeds (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell). ^warpriest-ex-warpriests

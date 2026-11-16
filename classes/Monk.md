@@ -152,6 +152,10 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Perfect Self**: At 20th level, a monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/chaotic, which allows her to ignore the first 10 points of damage from any attack made by a nonchaotic weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type. ^monk-perfect-self
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The monk’s class bonuses, by race: ^monk-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Monk]]
+
 ###### Ex-Monks
 
 A monk who becomes nonlawful cannot gain new levels as a monk but retains all monk abilities.

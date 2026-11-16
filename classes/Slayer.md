@@ -99,3 +99,7 @@ The slayer must be able to see the target well enough to pick out a vital spot a
 **Improved Quarry (Ex)**: At 19th level, the slayer's ability to hunt his quarry improves. He can now select a quarry as a free action, and can now take 20 while using [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to track his quarry, while moving at normal speed without penalty. His insight bonus to attack his quarry increases to +4. If his quarry is killed or dismissed, he can select a new one after 10 minutes have passed. ^slayer-improved-quarry
 
 **Master Slayer (Ex)**: At 20th level, the slayer becomes a master at capturing or killing his studied targets. As a standard action, he can make a single attack against a studied target at his full attack bonus, choosing one of the following effects: kill, knock unconscious for 1d4 hours, or paralyze for 2d6 rounds. If the attack succeeds, the target takes damage normally and must succeed at a Fortitude saving throw or suffer the additional effect. The DC for this save is 10 + 1/2 the slayer's level + the slayer's Intelligence modifier. Whether or not the target succeeds, it cannot be targeted by this ability again (by any slayer) for 24 hours. ^slayer-master-slayer
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The slayer’s class bonuses, by race: ^slayer-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Slayer]]

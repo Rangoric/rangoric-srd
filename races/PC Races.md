@@ -82,6 +82,17 @@ _Wizard_: Draconic.
 
 Each race lists alternate racial traits, notes in `races/racial-traits`. A character can exchange one or several of their race's normal traits for alternate ones, as each alternate trait says, but can't exchange the same racial trait more than once. A race's subtypes are bundles of its alternate traits. ^alternate-racial-traits
 
+##### Class Bonuses
+
+Members of a race gain bonuses from their training in some classes. Each race note's Class Bonuses section lists its race's, which are notes in `races/class-bonuses`, and each class note lists the ones for that class, by race. ^class-bonuses
+
+- **Every level, automatically**: a character gains their race's bonus for a class for each level they have in that class. There's no choosing among classes: a character with levels in several classes gains each listed class's bonus for that class's levels, so a dwarf fighter 2/cleric 3 has the dwarf fighter bonus twice and the dwarf cleric bonus three times.
+- **They add up**: unless a bonus says otherwise, the bonuses from each level stack. A bonus of +1/2, +1/3, +1/4 or +1/6 per level adds up the same way, and the total is rounded down (minimum 0): a 3rd-level dwarf alchemist adds 3/4 to his natural armor bonus when using his mutagen, which is +0, and a 4th-level one adds +1.
+- **Limits**: a bonus with a limit ("maximum bonus of +4", "to a minimum of 1 round") stops there; levels after that add nothing more to it.
+- **Choices**: when a bonus asks for a choice (a domain power, a weapon, an energy type), the choice is made at each level, and different levels can choose differently, unless the bonus says otherwise. A choice that can't be made yet, because the character doesn't have anything to choose from at that level, is made as soon as there is something.
+- **Companions**: a bonus given to an animal companion, mount, eidolon, familiar or spirit animal stays with the character: if the companion is ever replaced, the new one gains it.
+- **Only the classes listed**: a race has bonuses only for the classes its note lists, and levels in prestige classes give none. The monk's and summoner's bonuses also apply to the [[rangoric-srd/classes/Unchained Monk|unchained monk]] and [[rangoric-srd/classes/Unchained Summoner|unchained summoner]], where that class has the feature the bonus names.
+
 ##### Defensive Training
 
 A race with defensive training gets a +4 dodge bonus to Armor Class against monsters of the giant type. Any time a creature loses its Dexterity bonus (if any) to Armor Class, such as when it’s caught [[rangoric-srd/rules/Special Abilities and Conditions#^flat-footed|flat-footed]], it loses its dodge bonus, too. ^defensive-training

@@ -178,6 +178,10 @@ The types of Performance and their associated skills are: Act (Deception, Imitat
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Bard]]
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The bard’s class bonuses, by race: ^bard-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Bard]]
+
 ###### Ex-Bards
 
 A bard who becomes lawful in alignment cannot progress in levels as a bard, though he retains all his bard abilities.

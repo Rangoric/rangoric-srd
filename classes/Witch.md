@@ -92,6 +92,10 @@ A witch must commune with her familiar each day to prepare her spells. Familiars
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Witch]]
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The witch’s class bonuses, by race: ^witch-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Witch]]
+
 ##### Witch’s Familiar
 
 By forging strange bonds with unnameable beings, witches gain the service of a mystical advisor, a familiar to both serve her and reveal to her secrets unknown to most mortals. A familiar is an animal chosen by a witch to aid her in her spellcasting and grant her special powers. This uses Rangoric’s [[rangoric-srd/classes/Wizard#Familiars|familiar]] rules, except as noted below. A witch uses her level as her effective wizard level when determining the abilities of her familiar. A witch can choose any of the familiars available to a wizard including the centipede, crab, fox, octopus, scorpion, and spider.

@@ -109,6 +109,10 @@ Each attempt to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Unde
 
 **Bonus Languages**: A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race. ^cleric-bonus-languages
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The cleric’s class bonuses, by race: ^cleric-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Cleric]]
+
 ###### Ex-Clerics
 
 A cleric who grossly violates the code of conduct required by his god loses all spells and class features, except for armor and shield proficiencies and proficiency with simple weapons. He cannot thereafter gain levels as a cleric of that god until he atones (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description).

@@ -141,6 +141,10 @@ The summoner can use this ability for a number of rounds per day equal to his su
 
 **Twin Eidolon (Su)**: At 20th level, a summoner and his eidolon share a true connection. As a standard action, the summoner can assume the shape of his eidolon, copying all of its evolutions, form, and abilities. His Strength, Dexterity, and Constitution scores change to match the base scores of his eidolon. He can choose to have any gear that he carries become absorbed by his new form, as with spells from the [[rangoric-srd/rules/Special Abilities and Conditions#Polymorph|polymorph]] subschool. Items with continuous effects continue to function while absorbed in this way. The summoner loses his natural attacks and all racial traits (except bonus feats, skills, and languages) in favor of the abilities granted by his eidolon’s evolutions. The summoner retains all of his class features. The summoner can keep this form for a number of minutes per day equal to his summoner level. This duration does not need to be consecutive, but it must be spent in 1-minute increments. The summoner can end this effect as a free action. ^summoner-twin-eidolon
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The summoner’s class bonuses, by race: ^summoner-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Summoner]]
+
 ###### Eidolons
 
 An eidolon’s abilities are determined by the summoner’s level and by the choices made using its evolution pool. [[rangoric-srd/classes/Summoner#^table-eidolon-base-statistics|Table: Eidolon Base Statistics]] determines many of the base statistics of the eidolon. Each eidolon possesses a base form that modifies these base statistics. Eidolons are outsiders for the purpose of determining which spells affect them. ^summoner-eidolons
