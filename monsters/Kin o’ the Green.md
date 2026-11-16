@@ -93,7 +93,7 @@ Just as a vampire can no longer walk in sunlight, kin o’ the green cannot oper
 
 ### Sample Kin o’ the Green
 
-This example uses a 5th-level human fighter as the base creature.
+This example uses a 5th-level human fighter as the base creature. Its CMD includes the [[rangoric-srd/races/class-bonuses/Human Fighter (Class Bonus)|human fighter class bonus]], taken against disarm and trip at each fighter level.
 
 **Kin o’ the Green Human Fighter (1st Stage)**
 
@@ -102,7 +102,7 @@ This example uses a 5th-level human fighter as the base creature.
   - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 17 (+2 Dex, +1 natural, +4 scale mail), touch 12, flat-footed 15
-  - **Base Attack**: +5; **CMB**: +8; **CMD**: 20
+  - **Base Attack**: +5; **CMB**: +8; **CMD**: 20 (25 vs. disarm and trip)
   - **Attack**: Masterwork scimitar +10 melee (1d6+3) or throwing axe +8 ranged (1d6+3)
   - **Full Attack**: Masterwork scimitar +10 melee (1d6+3) or throwing axe +8 ranged (1d6+3)
   - **Space/Reach**: 5 ft./5 ft.

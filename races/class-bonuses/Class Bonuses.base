@@ -422,3 +422,14 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Human"
+    filters:
+      and:
+        - note.race == "Human"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
