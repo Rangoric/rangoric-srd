@@ -107,7 +107,7 @@ There is some overlap among the d20 classifications for items and those specific
 
 These are the high-end powerful items to come from alchemists. Unlike most other alchemical creations, these **cannot** be created simply by application of the [[rangoric-srd/skills/Craft|Craft]] (alchemy) skill. Also, they cannot be created just by magic or the use of the Create Wondrous Item feat. These are only attained by careful study and the use of the [[rangoric-srd/feats/Create Alchana|Create Alchana]], [[rangoric-srd/feats/Perfect Materials|Perfect Materials]], or [[rangoric-srd/feats/Create Greater Alchana|Create Greater Alchana]] feats.
 
-Minor Alchana (from Create Alchana feat) include solvents, [[rangoric-srd/equipment/alchemical-items/Temperant Baths|temperant baths]] (lesser), and various items like *[[rangoric-srd/equipment/alchemical-items/Steel Scrolls|steelscrolls]]* and *glass arrows*. Major Alchana (from Perfect Materials feat) include temperant baths (greater) and [[rangoric-srd/equipment/alchemical-items/Emerald Tablet|Emerald Tablets]]. Ultimate Alchana (from Create Greater Alchana feat) includes only the Five Alchemical Stones of Power.
+Minor Alchana (from Create Alchana feat) include solvents, [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|temperant baths]] (lesser), and various items like *[[rangoric-srd/equipment/alchemical-items/Steel Scrolls|steelscrolls]]* and *glass arrows*. Major Alchana (from Perfect Materials feat) include temperant baths (greater) and [[rangoric-srd/equipment/alchemical-items/Emerald Tablet|Emerald Tablets]]. Ultimate Alchana (from Create Greater Alchana feat) includes only the Five Alchemical Stones of Power.
 
 ### Chymicals & Compounds
 
@@ -129,7 +129,7 @@ Grown and fashioned from the natural world, all erlcana are plants, either livin
 
 **Herbal Restoratives:** While these lesser erlcana could be Ingestibles by use or even Powders & Dusts by form, their herbal creation and variable use make them a separate concern from either classification. Provided a restorative does not restore more quickly than normal healing, it can be crafted using [[rangoric-srd/skills/Profession|Profession]] (apothecary) or [[rangoric-srd/skills/Profession|Profession]] (herbalist).
 
-**Swathes:** These living plants either supplement magical items or carry their own magics. The lesser swathes cannot be crafted without the [[rangoric-srd/feats/Grow Swathe|Grow Swathe]] feat, and the greater swathes ([[rangoric-srd/equipment/alchemical-items/Swathe Helm|Swathelm]], [[rangoric-srd/equipment/alchemical-items/Cocoon Swathes|Cocoon Swathe]], [[rangoric-srd/monsters/Erlmantle|Erlmantles]]) only by Create Greater Erlcana.
+**Swathes:** These living plants either supplement magical items or carry their own magics. The lesser swathes cannot be crafted without the [[rangoric-srd/feats/Grow Swathe|Grow Swathe]] feat, and the greater swathes ([[rangoric-srd/equipment/alchemical-items/Swathe Helm|Swathelm]], [[rangoric-srd/equipment/alchemical-items/Cocoon Swathe, Greengifting|Cocoon Swathe]], [[rangoric-srd/monsters/Erlmantle|Erlmantles]]) only by Create Greater Erlcana.
 
 ### Ingestibles
 
