@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "body"
 aura: "Strong varied"
 caster-level: 14
 prerequisites: "Craft Wondrous Item, antimagic field, mage armor or shield of faith, creator must be of same alignment as robe"
@@ -9,8 +10,8 @@ price: "75,000 gp"
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Robe of the Archmagi|Robe of the Archmagi (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

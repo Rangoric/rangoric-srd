@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "wrists"
 aliases:
   - "Bracers of Epic Armor"
 caster-level: 20

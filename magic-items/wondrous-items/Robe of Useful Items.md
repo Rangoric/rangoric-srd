@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "body"
 aura: "Moderate transmutation"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, fabricate"
@@ -9,8 +10,8 @@ price: "7,000 gp"
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Robe of Useful Items|Robe of Useful Items (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

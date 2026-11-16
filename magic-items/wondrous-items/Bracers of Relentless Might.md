@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "wrists"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, bull’s strength, endurance, enlarge"
 price: "4,384,000 gp"

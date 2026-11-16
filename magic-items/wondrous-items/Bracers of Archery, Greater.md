@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "wrists"
 aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor"
@@ -10,8 +11,8 @@ weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Bracers of Archery, Greater|Bracers of Archery, Greater (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/wondrous-armor/Bracers of Archery, Greater|Bracers of Archery, Greater (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
