@@ -161,3 +161,9 @@ Bundles of alternate traits for gnomes of a particular background.
 **Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/gnome/Gnome#Subraces|monster Gnome]]'s subraces; each has the gnome's traits except as noted. The svirfneblin is a race of its own, the [[rangoric-srd/races/Svirfneblin|svirfneblin]].
 
 - **Forest Gnome**: The smallest gnomes, 2 to 2½ feet tall, with bark-colored or gray-green skin and brown, green or blue eyes; very long-lived, about 500 years on average. Pass without Trace (Su): a forest gnome can use *[[rangoric-srd/spells/Pass without Trace|pass without trace]]* on itself only, as a free action, with a caster level equal to its level. Hatred also covers orcs. +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]] checks, which improves to +8 in a wooded area. Languages: Common, Gnome, Elven and Sylvan, with Draconic, Dwarven, Giant, Goblin and Orc as bonus languages; a forest gnome can also speak with forest animals on a very basic level, in place of gnome magic's *speak with animals*.
+
+### Class Bonuses
+
+A gnome gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Gnome]]

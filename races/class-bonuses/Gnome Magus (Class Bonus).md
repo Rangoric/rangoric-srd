@@ -1,0 +1,19 @@
+---
+srd-type: "class-bonus"
+section: "Races"
+race: "Gnome"
+class: ["Magus"]
+book: "Advanced Race Guide"
+based-on:
+  - "[[path srd 3.5/races/Gnomes (Advanced Race Guide)#Favored Class Options|Gnomes, Favored Class Options (ARG)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/class-bonus]
+---
+
+# Gnome Magus
+
+*A [[rangoric-srd/races/Gnome|gnome]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Magus#^magus-class-bonuses|magus]] level.*
+
+Add one of the following weapon special abilities to the list of weapon special abilities the magus may add to his weapon using his [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]]: *[[rangoric-srd/magic-items/weapon-abilities/Defending|defending]], [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]], [[rangoric-srd/magic-items/weapon-abilities/Merciful|merciful]], [[rangoric-srd/magic-items/weapon-abilities/Mighty Cleaving|mighty cleaving]], [[rangoric-srd/magic-items/weapon-abilities/Vicious|vicious]]*; *[[rangoric-srd/magic-items/weapon-abilities/Allying|allying]], [[rangoric-srd/magic-items/weapon-abilities/Conductive|conductive]], [[rangoric-srd/magic-items/weapon-abilities/Corrosive|corrosive]], [[rangoric-srd/magic-items/weapon-abilities/Acid Burst|corrosive burst]], [[rangoric-srd/magic-items/weapon-abilities/Menacing|menacing]]*. Once an ability has been chosen with this bonus, it cannot be changed.
