@@ -98,6 +98,10 @@ Using a hex is a standard action that doesn’t provoke an attack of opportunity
 
 **Manifestation (Su)**: Upon reaching 20th level, a shaman undergoes a transformation as she manifests as a pinnacle of her main spirit. The nature of this manifestation depends on the shaman’s spirit, and is described in its entry. ^shaman-manifestation
 
+**Archetypes**: A shaman can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The shaman’s archetypes, with what each replaces: ^shaman-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Shaman]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The shaman’s class bonuses, by race: ^shaman-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Shaman]]
