@@ -22,7 +22,7 @@ Most gnomes encountered outside their home are warriors; the information in the 
 
 ### Combat
 
-Gnomes prefer misdirection and deception over direct confrontation. They would rather befuddle or embarrass foes (other than [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]] or [[rangoric-srd/monsters/Kobold|kobolds]]) than kill them. Gnomes make heavy use of illusion magic and carefully prepared ambushes and traps whenever they can.
+Gnomes prefer misdirection and deception over direct confrontation. They would rather befuddle or embarrass foes (other than [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^goblinoid|goblinoids]] or [[rangoric-srd/monsters/kobold/Kobold|kobolds]]) than kill them. Gnomes make heavy use of illusion magic and carefully prepared ambushes and traps whenever they can.
 
 **Gnome Traits (Ex)**: Gnomes have the racial traits of the [[rangoric-srd/races/Gnome|gnome]] race.
 

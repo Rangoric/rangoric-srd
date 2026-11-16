@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters H to I|Monsters H to I (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/monsters/hell-hound/Hell Hound|Hell Hound]]
   - [[rangoric-srd/monsters/High Fey Creature|High Fey Creature]]
   - [[rangoric-srd/monsters/Hippogriff|Hippogriff]]
-  - [[rangoric-srd/monsters/Hobgoblin|Hobgoblin]]
+  - [[rangoric-srd/monsters/hobgoblin/Hobgoblin|Hobgoblin]]
   - [[rangoric-srd/monsters/Homunculus|Homunculus]]
   - [[rangoric-srd/monsters/Howler|Howler]]
   - [[rangoric-srd/monsters/hydra/Hydra|Hydra]]

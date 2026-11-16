@@ -46,6 +46,8 @@ Bonus Languages:
 - Halfling
 - Orc
 
+Witch Hex: goblin [[rangoric-srd/classes/Witch|witches]] can take the [[rangoric-srd/class-options/hexes/Mud Witch (Hex)|mud witch]] hex.
+
 ### Age, Height and Weight
 
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].
@@ -106,3 +108,13 @@ A goblin can take any of these in place of the traits they replace (see [[rangor
 - **Arctic Goblin**: Wandering thieves, driven from place to place by irate neighbours. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. −2 Strength, +2 Constitution, −2 Charisma (and the kept +2 Dexterity). [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] checks. Skilled gives no bonus on Stealth checks.
 - **Desert Goblin**: Goblins whose arrival often heralds a horde of nomadic hobgoblins and bugbears. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks: desert goblins soak up gossip like sponges when they visit towns or settlements.
 - **Jungle Goblin**: Territorial tree-dwellers, natural climbers and accomplished leapers. A climb speed of 20 feet (see [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|movement modes]]); jungle goblins add their Dexterity modifier to Athletics checks to climb instead of their Strength modifier. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. +4 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks. Skilled gives no bonus on Stealth checks.
+
+**Oversized goblins.** A few goblins attain a much larger size than their kin. No one is exactly sure why they grow to be giants among their kind, but it's probably due to a combination of luck, diet, and constant access to food. These goblins are monsters among their own kind, not just in height, but also in girth and in strength. If not cast out for eating all of the tribe's food, oversized goblins often become the bosses of their tribes, and the most powerful of them become chiefs. Oversized goblins are Medium size, and grow to 4 to 5 feet tall. They tend to be particularly obese, weighing between 225 and 275 pounds. Instead of the normal racial ability score modifiers for goblins, oversized goblins gain a +2 bonus to Strength, a +2 bonus to Dexterity, and a –2 penalty to Charisma. The [[rangoric-srd/monsters/goblin/Goblin Chief|goblin chief]] is one. ^oversized-goblin
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)\|Winged Marauder]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |

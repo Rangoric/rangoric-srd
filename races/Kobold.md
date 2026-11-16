@@ -97,3 +97,12 @@ A kobold can take any of these in place of the traits they replace (see [[rangor
 - **Arctic Kobold**: Miners who tap geothermal vents for heat. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. −2 Strength, +2 Dexterity, −2 Constitution, −2 Wisdom: stronger than other kobolds, but weaker of will.
 - **Desert Kobold**: Scavengers who hide in the forgotten corners of oasis settlements and trading posts. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. −4 Strength, +2 Dexterity, −2 Wisdom: hardier than other kobolds, but weak-willed. No light sensitivity. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. Crafty gives no bonus on Profession (miner) checks: desert kobolds don't mine.
 - **Jungle Kobold**: Calmer, more generous kobolds living in ancient ruins on clouded mountain peaks. −4 Strength, +2 Dexterity, −2 Intelligence. Altitude Adaptation: jungle kobolds don't suffer altitude sickness and are always considered [[rangoric-srd/rules/Wilderness, Weather, and Environment#Mountain Travel|acclimated]] to high altitudes. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb, adding their Dexterity modifier instead of their Strength modifier. Crafty gives no bonus on Craft (trapmaking) or Profession (miner) checks.
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)\|Alchemical Trapper]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
+| [[rangoric-srd/class-options/archetypes/bard/Dragon Yapper (Archetype)\|Dragon Yapper]] | [[rangoric-srd/classes/Bard\|Bard]] |
