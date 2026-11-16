@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "shoulders"
 aura: "Faint illusion"
 caster-level: 3
 prerequisites: "Craft Wondrous Item, invisibility, creator must be an elf"

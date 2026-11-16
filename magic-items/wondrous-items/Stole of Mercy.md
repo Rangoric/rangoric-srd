@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "shoulders"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, Maximize Spell, Healing domain, good alignment"
 price: "32,000 gp"

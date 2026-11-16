@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "shoulders"
 aura: "Moderate illusion"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, Extend Spell, displacement"
@@ -9,8 +10,8 @@ price: "50,000 gp"
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Cloak of Displacement, Major|Cloak of Displacement, Major (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

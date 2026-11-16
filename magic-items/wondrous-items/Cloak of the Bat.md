@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "shoulders"
 aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, fly, polymorph"

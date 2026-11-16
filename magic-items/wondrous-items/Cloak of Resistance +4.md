@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "shoulders"
 aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, resistance, creator’s caster level must be at least three times the cloak’s bonus"

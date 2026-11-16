@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "shoulders"
 aliases:
   - "Cloak of Epic Charisma"
 caster-level: 20

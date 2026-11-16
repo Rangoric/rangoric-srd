@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "shoulders"
 aliases:
   - "Cloak of Charisma"
 aura: "Moderate transmutation"

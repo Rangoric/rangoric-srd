@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "shoulders"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, resistance, creator’s caster level must be three times the cloak’s bonus"
 price: "810,000 gp"
