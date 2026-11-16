@@ -138,6 +138,10 @@ Every four levels thereafter (9th, 13th, and 17th), the gunslinger picks up anot
 
 **True Grit (Ex)**: At 20th level, a gunslinger picks two deeds that she has access to and that she must spend grit to perform. She can perform these deeds for 1 grit point fewer (minimum 0) than usual. If the number of grit points to perform a deed is reduced to 0, the gunslinger can perform this deed as long as she has at least 1 grit point. If a deed could already be performed as long as she had at least 1 grit point, she can now perform that deed even when she has no grit points. ^gunslinger-true-grit
 
+**Archetypes**: A gunslinger can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The gunslinger’s archetypes, with what each replaces: ^gunslinger-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Gunslinger]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The gunslinger’s class bonuses, by race: ^gunslinger-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Gunslinger]]

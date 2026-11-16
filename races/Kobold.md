@@ -106,3 +106,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)\|Alchemical Trapper]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
 | [[rangoric-srd/class-options/archetypes/bard/Dragon Yapper (Archetype)\|Dragon Yapper]] | [[rangoric-srd/classes/Bard\|Bard]] |
+| [[rangoric-srd/class-options/archetypes/gunslinger/Bushwhacker (Archetype)\|Bushwhacker]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |

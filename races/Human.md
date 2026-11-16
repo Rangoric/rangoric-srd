@@ -139,3 +139,11 @@ Bundles of alternate traits for humans of a particular background.
 A human gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Human]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/gunslinger/Buccaneer (Archetype)\|Buccaneer]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
