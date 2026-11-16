@@ -510,6 +510,70 @@ A simple detect magic spell yields a misleading aura and strength, often indicat
   - [[rangoric-srd/magic-items/cursed-items/Vacuous Grimoire|Vacuous Grimoire]]
   - [[rangoric-srd/magic-items/cursed-items/–2 Sword, Cursed|–2 Sword, Cursed]]
 
+###### More Cursed Items
+
+These cursed items have no creation prerequisites or price. Instead, each names the ordinary magic items whose creation might result in it (its intended magic item), and it can be sold as the item it appears to be, provided the curse is not known to the buyer. They are grouped by what they appear to be.
+
+**Weapons**
+
+| Cursed item | Appears to be |
+| --- | --- |
+| [[rangoric-srd/magic-items/cursed-items/Arrowbreak Bow\|Arrowbreak Bow]] | +2 [[rangoric-srd/equipment/weapons/Shortbow\|shortbow]] |
+| [[rangoric-srd/magic-items/cursed-items/Biting Battleaxe\|Biting Battleaxe]] | +2 [[rangoric-srd/equipment/weapons/Battleaxe\|battleaxe]] |
+| [[rangoric-srd/magic-items/cursed-items/Buffoon's Sword\|Buffoon's Sword]] | *[[rangoric-srd/magic-items/weapons/Sword of Subtlety\|sword of subtlety]]* |
+| [[rangoric-srd/magic-items/cursed-items/Deadly Returns Throwing Axe\|Deadly Returns Throwing Axe]] | +2 *[[rangoric-srd/magic-items/weapon-abilities/Returning\|returning]]* [[rangoric-srd/equipment/weapons/Throwing Axe\|throwing axe]] |
+| [[rangoric-srd/magic-items/cursed-items/Heavy Hammer\|Heavy Hammer]] | +2 [[rangoric-srd/equipment/weapons/Warhammer\|warhammer]] |
+| [[rangoric-srd/magic-items/cursed-items/Nearfiring Bow\|Nearfiring Bow]] | +2 *[[rangoric-srd/magic-items/weapon-abilities/Distance\|distance]]* [[rangoric-srd/equipment/weapons/Shortbow\|shortbow]] |
+| [[rangoric-srd/magic-items/cursed-items/Ornery Pistol\|Ornery Pistol]] | any [[rangoric-srd/equipment/weapons/Pistol\|pistol]] |
+| [[rangoric-srd/magic-items/cursed-items/Unstable Musket\|Unstable Musket]] | +1 [[rangoric-srd/equipment/weapons/Musket\|musket]] |
+| [[rangoric-srd/magic-items/cursed-items/Unwieldy Glaive\|Unwieldy Glaive]] | +2 [[rangoric-srd/equipment/weapons/Glaive\|glaive]] |
+
+**Armor and shields**
+
+| Cursed item | Appears to be |
+| --- | --- |
+| [[rangoric-srd/magic-items/cursed-items/Gravesoul Armor\|Gravesoul Armor]] | +1 *[[rangoric-srd/magic-items/armor-abilities/Undead Controlling\|undead controlling]]* [[rangoric-srd/equipment/armor/Studded Leather\|studded leather]] |
+| [[rangoric-srd/magic-items/cursed-items/Planar Invasion Shield\|Planar Invasion Shield]] | *[[rangoric-srd/magic-items/armor/Absorbing Shield\|absorbing shield]]* |
+
+**Rings**
+
+| Cursed item | Appears to be |
+| --- | --- |
+| [[rangoric-srd/magic-items/cursed-items/Cannibal Ring\|Cannibal Ring]] | *[[rangoric-srd/magic-items/rings/Ring of Sustenance\|ring of sustenance]]* |
+| [[rangoric-srd/magic-items/cursed-items/Ring of Lifebleed\|Ring of Lifebleed]] | *[[rangoric-srd/magic-items/rings/Ring of Regeneration\|ring of regeneration]]* |
+| [[rangoric-srd/magic-items/cursed-items/Ring of Spell Devouring\|Ring of Spell Devouring]] | *[[rangoric-srd/magic-items/rings/Ring of Spell Storing\|ring of spell storing]]* (any) or a *[[rangoric-srd/magic-items/rings/Ring of Spell Turning\|ring of spell turning]]* |
+| [[rangoric-srd/magic-items/cursed-items/Ring of Truth\|Ring of Truth]] | *[[rangoric-srd/magic-items/rings/Ring of Mind Shielding\|ring of mind shielding]]*, *[[rangoric-srd/magic-items/rings/Ring of X-Ray Vision\|ring of x-ray vision]]* |
+
+**Rods and staffs**
+
+| Cursed item | Appears to be |
+| --- | --- |
+| [[rangoric-srd/magic-items/cursed-items/Rod of Arson\|Rod of Arson]] | *[[rangoric-srd/magic-items/rods/Rod of Flame Extinguishing\|rod of flame extinguishing]]* |
+| [[rangoric-srd/magic-items/cursed-items/Rod of Foiled Magic\|Rod of Foiled Magic]] | any [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods#Rods\|metamagic rod]] |
+| [[rangoric-srd/magic-items/cursed-items/Staff of Occasional Wonder\|Staff of Occasional Wonder]] | any [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands#Staffs\|staff]] |
+
+**Wondrous items**
+
+| Slot | Cursed item | Appears to be |
+| --- | --- | --- |
+| belt | [[rangoric-srd/magic-items/cursed-items/Belt of Weakness\|Belt of Weakness]] | *[[rangoric-srd/magic-items/wondrous-items/Belt of Mighty Constitution +2\|belt of mighty constitution]]* (any) |
+| belt | [[rangoric-srd/magic-items/cursed-items/Girdle of Opposite Gender\|Girdle of Opposite Gender]] | any belt |
+| eyes | [[rangoric-srd/magic-items/cursed-items/Eyes of Blindness\|Eyes of Blindness]] | any glasses or lenses |
+| head | [[rangoric-srd/magic-items/cursed-items/Hat of Hatreds\|Hat of Hatreds]] | *[[rangoric-srd/magic-items/wondrous-items/Hat of Disguise\|hat of disguise]]* |
+| head | [[rangoric-srd/magic-items/cursed-items/Mask of Ugliness\|Mask of Ugliness]] | any magical mask or a *[[rangoric-srd/magic-items/wondrous-items/Headband of Alluring Charisma +2\|headband of alluring charisma]]* |
+| headband | [[rangoric-srd/magic-items/cursed-items/Crown of Blindness\|Crown of Blindness]] | *[[rangoric-srd/magic-items/wondrous-items/Headband of Alluring Charisma +2\|headband of alluring charisma]]*, *[[rangoric-srd/magic-items/wondrous-items/Headband of Inspired Wisdom +2\|headband of inspired wisdom]]*, *[[rangoric-srd/magic-items/wondrous-items/Headband of Mental Prowess +2\|headband of mental prowess]]*, *[[rangoric-srd/magic-items/wondrous-items/Headband of Mental Superiority +2\|headband of mental superiority]]*, *[[rangoric-srd/magic-items/wondrous-items/Headband of Vast Intelligence +2\|headband of vast intelligence]]*, *[[rangoric-srd/magic-items/wondrous-items/Moon Circlet\|moon circlet]]* |
+| headband | [[rangoric-srd/magic-items/cursed-items/Headband of Stupidity\|Headband of Stupidity]] | *[[rangoric-srd/magic-items/wondrous-items/Headband of Vast Intelligence +4\|headband of vast intelligence +4]]* |
+| shoulders | [[rangoric-srd/magic-items/cursed-items/Cape of Anchoring\|Cape of Anchoring]] | *[[rangoric-srd/magic-items/wondrous-items/Cape of the Mountebank\|cape of the mountebank]]* |
+| shoulders | [[rangoric-srd/magic-items/cursed-items/Cloak of Immolation\|Cloak of Immolation]] | any cloak |
+| shoulders | [[rangoric-srd/magic-items/cursed-items/Pauldrons of the Jackass\|Pauldrons of the Jackass]] | any pauldrons |
+| shoulders | [[rangoric-srd/magic-items/cursed-items/Petrifying Cloak\|Petrifying Cloak]] | any cloak |
+| wrists | [[rangoric-srd/magic-items/cursed-items/Scattershot Bracers\|Scattershot Bracers]] | *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater\|bracers of archery, greater]]* or *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Lesser\|lesser]]* |
+| slotless | [[rangoric-srd/magic-items/cursed-items/Drums of Lethargy\|Drums of Lethargy]] | *drums of haste* |
+| slotless | [[rangoric-srd/magic-items/cursed-items/One-Way Window (Cursed Item)\|One-Way Window]] | *[[rangoric-srd/magic-items/wondrous-items/Mirror of Life Trapping\|mirror of life trapping]]*, *[[rangoric-srd/magic-items/wondrous-items/Mirror of Opposition\|mirror of opposition]]* |
+| slotless | [[rangoric-srd/magic-items/cursed-items/Riot Pipes\|Riot Pipes]] | *[[rangoric-srd/magic-items/wondrous-items/Pipes of Haunting\|pipes of haunting]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of the Sewers\|pipes of the sewers]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of Sounding\|pipes of sounding]]* |
+| slotless | [[rangoric-srd/magic-items/cursed-items/Unguent of Aging\|Unguent of Aging]] | *[[rangoric-srd/magic-items/wondrous-items/Unguent of Timelessness\|unguent of timelessness]]* |
+| slotless | [[rangoric-srd/magic-items/cursed-items/Unlucky Figurine\|Unlucky Figurine]] | any *[[rangoric-srd/magic-items/wondrous-items/Figurine of Wondrous Power, Bronze Griffon\|figurine of wondrous power]]* |
+
 ### Artifacts
 
 Artifacts are extremely powerful. Rather than merely another form of magic equipment, they are the sorts of legendary relics that whole campaigns can be based on. Each could be the center of a whole set of adventures—a quest to recover it, a fight against a opponent wielding it, a mission to cause its destruction, and so on.

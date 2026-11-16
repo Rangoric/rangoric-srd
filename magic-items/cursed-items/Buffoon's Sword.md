@@ -1,0 +1,22 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Cursed Item"
+aura: "Moderate divination"
+caster-level: 10
+intended-item: "sword of subtlety"
+book: ["Advanced Player's Guide", "Ultimate Equipment"]
+based-on:
+  - "[[path srd 3.5/items/cursed-items/Buffoon's Sword|Buffoon's Sword (PF1)]]"
+  - "[[path srd 3.5 foundry/items/cursed/Buffoon's Sword|Buffoon's Sword (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Buffoon's Sword
+
+This blade seems to be and behaves in all ways as a *[[rangoric-srd/magic-items/weapons/Sword of Subtlety|sword of subtlety]]* until actually used in combat. Once used in combat, it imposes a –10 penalty on all [[rangoric-srd/skills/Stealth|Stealth]] checks made by its wielder. It also makes it nearly impossible for the owner to tell a lie or engage in any other sort of subterfuge. Each time he does so, he must make a DC 15 Will saving throw to avoid blurting out the truth or taking some other involuntary action that spoils his attempted ruse. Only curse-ending magic can rid the wielder of the sword once its curse activates.
+
+Moderate divination; CL 10th; Intended magic item: *[[rangoric-srd/magic-items/weapons/Sword of Subtlety|sword of subtlety]]*.
