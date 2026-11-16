@@ -14,7 +14,7 @@ cmd: "18"
 attack: "Masterwork dogslicer +8 melee (1d4+5/19–20) or shortbow +10 ranged (1d4/×3)"
 full-attack: "Masterwork dogslicer +8 melee (1d4+5/19–20) and masterwork dogslicer +8 melee (1d4+2/19–20); or shortbow +10 ranged (1d4/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Sneak attack +3d6, debilitating injury"
+special-attacks: "Sneak attack +3d6 (+5 in the surprise round or before the target has acted), debilitating injury"
 special-qualities: "Darkvision 60 ft., evasion, danger sense +1, uncanny dodge, rogue talents (combat trick, surprise attack), trapfinding +2, weapon familiarity, finesse training (dogslicer), rogue's edge (Stealth)"
 saves: "Fort +3, Ref +9, Will +2"
 abilities: "Str 11, Dex 20, Con 14, Int 8, Wis 12, Cha 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +8 melee (1d4+5/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +10 ranged (1d4/×3)
   - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +8 melee (1d4+5/19–20) and [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +8 melee (1d4+2/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +10 ranged (1d4/×3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6, [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
+  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +3d6 (+5 in the surprise round or before the target has acted), [[rangoric-srd/classes/Rogue#^rogue-debilitating-injury|debilitating injury]]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Rogue#^rogue-uncanny-dodge|uncanny dodge]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]], [[rangoric-srd/class-options/rogue-talents/Surprise Attack (Rogue Talent)|surprise attack]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +2, [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)|weapon familiarity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (dogslicer), [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]] ([[rangoric-srd/skills/Stealth|Stealth]])
   - **Saves**: Fort +3, Ref +9, Will +2
   - **Abilities**: Str 11, Dex 20, Con 14, Int 8, Wis 12, Cha 8
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A goblin firestarter is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 5 levels of [[rangoric-srd/classes/Rogue|rogue]], one of the goblin rogues. Goblins adore theft, and are adept at slinking about undetected. Goblin sneaks are master ambushers and spectacular hiders. The most talented also incorporate their racial love of fire into their tactics.
+A goblin firestarter is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 5 levels of [[rangoric-srd/classes/Rogue|rogue]], one of the goblin rogues. Its sneak attack includes the [[rangoric-srd/races/class-bonuses/Goblin Rogue (Class Bonus)|goblin rogue class bonus]], taken at each rogue level. Goblins adore theft, and are adept at slinking about undetected. Goblin sneaks are master ambushers and spectacular hiders. The most talented also incorporate their racial love of fire into their tactics.
 
 A goblin firestarter speaks Goblin.
 

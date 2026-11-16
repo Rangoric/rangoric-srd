@@ -14,7 +14,7 @@ cmd: "15"
 attack: "Masterwork dagger +5 melee (1d3–3/19–20) or dagger +10 ranged (1d3–3/19–20)"
 full-attack: "Masterwork dagger +5/+0 melee (1d3–3/19–20); or dagger +10 ranged (1d3–3/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Channel negative energy 5/day (DC 16, 4d6), staff of order (4 rounds, 1/day), rebuke undead"
+special-attacks: "Channel negative energy 5/day (DC 16, 4d6, +8 against creatures denied their Dex bonus to AC), staff of order (4 rounds, 1/day), rebuke undead"
 special-qualities: "Darkvision 60 ft., crafty, light sensitivity"
 saves: "Fort +6, Ref +5, Will +9"
 abilities: "Str 4, Dex 16, Con 10, Int 10, Wis 16, Cha 14"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +5 melee (1d3–3/19–20) or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10 ranged (1d3–3/19–20)
   - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +5/+0 melee (1d3–3/19–20); or [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10 ranged (1d3–3/19–20)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 5/day (DC 16, 4d6), [[rangoric-srd/class-options/domains/Law Domain|staff of order]] (4 rounds, 1/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
+  - **Special Attacks**: [[rangoric-srd/classes/Cleric#^cleric-channel-energy|Channel negative energy]] 5/day (DC 16, 4d6, +8 against creatures denied their Dex bonus to AC), [[rangoric-srd/class-options/domains/Law Domain|staff of order]] (4 rounds, 1/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
   - **Saves**: Fort +6, Ref +5, Will +9
   - **Abilities**: Str 4, Dex 16, Con 10, Int 10, Wis 16, Cha 14
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A kobold devilspeaker is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 8 levels of [[rangoric-srd/classes/Cleric|cleric]]. Kobold devilspeakers are highly respected; some advise tribal chieftains, while others lead tribes outright.
+A kobold devilspeaker is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 8 levels of [[rangoric-srd/classes/Cleric|cleric]]. Its channel energy includes the [[rangoric-srd/races/class-bonuses/Kobold Cleric (Class Bonus)|kobold cleric class bonus]]. Kobold devilspeakers are highly respected; some advise tribal chieftains, while others lead tribes outright.
 
 Kobold priests are charged with ensuring both the spiritual and the physical welfare of a kobold tribe. These devilspeakers believe a tribe should work like a well-oiled machine, and while kobolds' natural cowardice sometimes gets in the way, devilspeakers keep their warriors fighting bravely—whether the troops like it or not. Devilspeakers keep spells like *[[rangoric-srd/spells/Animate Dead|animate dead]]* handy, turning fallen kobold warriors into zombies. These kobold zombies effectively soften up invading adventurers, and dig tirelessly in the mines.
 

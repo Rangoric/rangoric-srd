@@ -15,7 +15,7 @@ attack: "+1 rapier +15 melee (1d4+6/18–20)"
 full-attack: "+1 rapier +15/+10 melee (1d4+6/18–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Death attack (DC 12), sneak attack +3d6, weapon training (light blades +1)"
-special-qualities: "Darkvision 60 ft., bravery +1, evasion, danger sense +1, armor training 1, crafty, poison use, rogue talents (combat trick), trapfinding +1, light sensitivity, finesse training (rapier)"
+special-qualities: "Darkvision 60 ft., bravery +1, evasion, danger sense +1 (+2 dodge bonus to AC against traps), armor training 1, crafty, poison use, rogue talents (combat trick), trapfinding +1, light sensitivity, finesse training (rapier)"
 saves: "Fort +6, Ref +10, Will +2 (+1 vs. fear)"
 abilities: "Str 11, Dex 18, Con 12, Int 13, Wis 10, Cha 8"
 skills: "Craft (trapmaking) +3, Deception +11, Emulation +5, Engineering +2, Imitation +6, Intimidation +6, Linguistics +7, Perception +14, Profession (miner) +2, Sense Motive +6, Sleight of Hand +7, Stealth +17"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Rapier|rapier]] +15/+10 melee (1d4+6/18–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/prestige-classes/Assassin|Death attack]] (DC 12), [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] +3d6, [[rangoric-srd/classes/Fighter#^fighter-weapon-training|weapon training]] (light blades +1)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1, [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/rules/Afflictions#^poison-use|poison use]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Fighter#^fighter-bravery|bravery]] +1, [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]] +1 (+2 dodge bonus to AC against traps), [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] 1, [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/rules/Afflictions#^poison-use|poison use]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]] (rapier)
   - **Saves**: Fort +6, Ref +10, Will +2 (+1 vs. fear)
   - **Abilities**: Str 11, Dex 18, Con 12, Int 13, Wis 10, Cha 8
   - **Skills**: [[rangoric-srd/skills/Craft|Craft]] (trapmaking) +3, [[rangoric-srd/skills/Deception|Deception]] +11, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +2, [[rangoric-srd/skills/Imitation|Imitation]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Profession|Profession]] (miner) +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +17
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A kobold chieftain is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 5 levels of [[rangoric-srd/classes/Fighter|fighter]], 3 levels of [[rangoric-srd/classes/Rogue|rogue]], and 1 level of [[rangoric-srd/prestige-classes/Assassin|assassin]], one of the kobold leaders. Kobold leaders are the undisputed masters of their tribes.
+A kobold chieftain is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 5 levels of [[rangoric-srd/classes/Fighter|fighter]], 3 levels of [[rangoric-srd/classes/Rogue|rogue]], and 1 level of [[rangoric-srd/prestige-classes/Assassin|assassin]], one of the kobold leaders. It has the [[rangoric-srd/races/class-bonuses/Kobold Fighter (Class Bonus)|kobold fighter class bonus]] (+2 on damage rolls with weapon attacks against an opponent it is flanking or that is denied its Dexterity bonus to AC), and its danger sense includes the [[rangoric-srd/races/class-bonuses/Kobold Rogue (Class Bonus)|kobold rogue class bonus]]. Kobold leaders are the undisputed masters of their tribes.
 
 A kobold chieftain speaks Common, Dark Folk, Draconic, Dwarven, and Undercommon.
 

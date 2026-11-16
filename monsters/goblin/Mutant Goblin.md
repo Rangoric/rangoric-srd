@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A mutant goblin is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 3 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. This goblin has a bizarre amalgamation of asymmetrical parts, including dragonfly wings, a partial arm, and scales.
+A mutant goblin is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 3 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. It has the [[rangoric-srd/races/class-bonuses/Goblin Barbarian (Class Bonus)|goblin barbarian class bonus]]: +1 on critical hit confirmation rolls with its claws. This goblin has a bizarre amalgamation of asymmetrical parts, including dragonfly wings, a partial arm, and scales.
 
 A mutant goblin speaks Goblin.
 

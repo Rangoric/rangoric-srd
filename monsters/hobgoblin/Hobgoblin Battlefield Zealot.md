@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A hobgoblin battlefield zealot is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 2 levels of [[rangoric-srd/classes/Cleric|cleric]] and 1 level of [[rangoric-srd/classes/Fighter|fighter]], one of the hobgoblin overseers. Trusted with a small amount of authority, each sergeant or battlefield zealot commands and keeps tabs on fewer than a dozen warriors.
+A hobgoblin battlefield zealot is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 2 levels of [[rangoric-srd/classes/Cleric|cleric]] and 1 level of [[rangoric-srd/classes/Fighter|fighter]], one of the hobgoblin overseers. It has the [[rangoric-srd/races/class-bonuses/Hobgoblin Cleric (Class Bonus)|hobgoblin cleric class bonus]]: +1 damage with negative energy spells, inflict spells included. Trusted with a small amount of authority, each sergeant or battlefield zealot commands and keeps tabs on fewer than a dozen warriors.
 
 Zealots generally use their magic to aid their allies and provide healing, knowing that keeping their tougher allies in good health makes for a stronger army.
 

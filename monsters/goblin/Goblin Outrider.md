@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A goblin outrider is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 2 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the goblin riders. Goblins love riding ferocious mounts into battle.
+A goblin outrider is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 2 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the goblin riders. It has the [[rangoric-srd/races/class-bonuses/Goblin Ranger (Class Bonus)|goblin ranger class bonus]]: +1 on damage dealt to dogs and horses (and doglike and horselike creatures). Goblins love riding ferocious mounts into battle.
 
 A goblin outrider speaks Goblin.
 

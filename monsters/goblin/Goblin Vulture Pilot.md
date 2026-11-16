@@ -15,7 +15,7 @@ attack: "Dagger +3 melee (1d3–1/19–20) or bomb +9 ranged (2d6+3 fire plus ca
 full-attack: "Dagger +3 melee (1d3–1/19–20); or bomb +9 ranged (2d6+3 fire plus catch fire)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bomb 7/day (2d6+3 fire and catch fire, DC 15, 10-ft. radius)"
-special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +4, identify potions), discoveries (explosive bomb, sipping pet), poison use, swift alchemy"
+special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +4, identify potions), discoveries (explosive bomb, sipping pet), poison use, swift alchemy, resistance to fire 4"
 saves: "Fort +5, Ref +8, Will +2 (+2 against poison)"
 abilities: "Str 8, Dex 18, Con 13, Int 16, Wis 12, Cha 6"
 skills: "Acrobatics +8, Animal Handling +12, Athletics +3, Craft (alchemy) +10, Perception +8, Stealth +16"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +3 melee (1d3–1/19–20); or bomb +9 ranged (2d6+3 fire plus catch fire)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 7/day (2d6+3 fire and catch fire, DC 15, 10-ft. radius)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +4, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Explosive Bomb (Discovery)|explosive bomb]], [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)|sipping pet]]), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +4, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Explosive Bomb (Discovery)|explosive bomb]], [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)|sipping pet]]), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 4
   - **Saves**: Fort +5, Ref +8, Will +2 (+2 against poison)
   - **Abilities**: Str 8, Dex 18, Con 13, Int 16, Wis 12, Cha 6
   - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +16
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A goblin vulture pilot is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 4 levels of [[rangoric-srd/classes/Alchemist|alchemist]] (the [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)|winged marauder]] archetype). A goblin who controls the sky commands the respect of the tribe, due to her ability to drop beehives, bombs, and other unpleasant items onto enemies.
+A goblin vulture pilot is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 4 levels of [[rangoric-srd/classes/Alchemist|alchemist]] (the [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)|winged marauder]] archetype). Its fire resistance is the [[rangoric-srd/races/class-bonuses/Goblin Alchemist (Class Bonus)|goblin alchemist class bonus]]. A goblin who controls the sky commands the respect of the tribe, due to her ability to drop beehives, bombs, and other unpleasant items onto enemies.
 
 A goblin vulture pilot speaks Common, Giant, Gnoll, and Goblin.
 

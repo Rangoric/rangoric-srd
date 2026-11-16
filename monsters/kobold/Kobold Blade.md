@@ -63,6 +63,6 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A kobold blade is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 4 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the kobold fighters. Kobold warriors are more prudent than brave. They usually opt to attack from hiding with ranged weapons, and move into melee only when absolutely necessary—such as when the chief doesn't give them any other option.
+A kobold blade is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 4 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the kobold fighters. It has the [[rangoric-srd/races/class-bonuses/Kobold Fighter (Class Bonus)|kobold fighter class bonus]]: +2 on damage rolls with weapon attacks against an opponent it is flanking or that is denied its Dexterity bonus to AC. Kobold warriors are more prudent than brave. They usually opt to attack from hiding with ranged weapons, and move into melee only when absolutely necessary—such as when the chief doesn't give them any other option.
 
 A kobold blade speaks Common and Draconic.

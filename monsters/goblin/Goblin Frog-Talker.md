@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A goblin frog-talker is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 6 levels of [[rangoric-srd/classes/Witch|witch]]. The terrors of the swamp, frog-talkers frighten even the bravest goblin warriors with their eerie powers.
+A goblin frog-talker is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 6 levels of [[rangoric-srd/classes/Witch|witch]]. It has the [[rangoric-srd/races/class-bonuses/Goblin Witch (Class Bonus)|goblin witch class bonus]]: its familiar stores six more witch spells, of 1st or 2nd level. The terrors of the swamp, frog-talkers frighten even the bravest goblin warriors with their eerie powers.
 
 Frog-talkers are among the most feared of all goblins; most don't even want to be on the good sides of these [[rangoric-srd/classes/Witch|witches]]. Frog-talkers are cruel and fearless masters. It's said the frog-talkers bathe in mud and leeches every fortnight to renew their dedication to their patron, the god of filth and blood—and based on their pale complexions and emaciated frames, few doubt it. These mysterious witches often live alone, or surround themselves with acolytes and terrified goblin minions given to them by superstitious chieftains.
 

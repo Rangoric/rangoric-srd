@@ -103,6 +103,12 @@ An orc can take any of these in place of the traits they replace (see [[rangoric
 - **Desert Orc**: Martial orcs who live for battle, held back only by the burning sun. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. [[rangoric-srd/feats/Endurance|Endurance]] as a racial bonus feat.
 - **Jungle Orc**: Clans of hunters and gatherers who attack, take what they fancy and move on. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks: jungle orcs must be self-sufficient to survive.
 
+### Class Bonuses
+
+An orc gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Orc]]
+
 ### Racial Archetypes
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.

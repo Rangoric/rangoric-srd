@@ -111,6 +111,12 @@ A goblin can take any of these in place of the traits they replace (see [[rangor
 
 **Oversized goblins.** A few goblins attain a much larger size than their kin. No one is exactly sure why they grow to be giants among their kind, but it's probably due to a combination of luck, diet, and constant access to food. These goblins are monsters among their own kind, not just in height, but also in girth and in strength. If not cast out for eating all of the tribe's food, oversized goblins often become the bosses of their tribes, and the most powerful of them become chiefs. Oversized goblins are Medium size, and grow to 4 to 5 feet tall. They tend to be particularly obese, weighing between 225 and 275 pounds. Instead of the normal racial ability score modifiers for goblins, oversized goblins gain a +2 bonus to Strength, a +2 bonus to Dexterity, and a –2 penalty to Charisma. The [[rangoric-srd/monsters/goblin/Goblin Chief|goblin chief]] is one. ^oversized-goblin
 
+### Class Bonuses
+
+A goblin gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Goblin]]
+
 ### Racial Archetypes
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.

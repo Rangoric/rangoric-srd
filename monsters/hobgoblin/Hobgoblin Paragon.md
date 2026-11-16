@@ -9,7 +9,7 @@ initiative: "+8"
 speed: "60 ft. (12 squares)"
 armor-class: "22 (+2 armor, +1 deflection, +4 Dex, +1 dodge, +2 monk, +2 Wis), touch 20, flat-footed 17"
 base-attack: "+8"
-cmb: "+15"
+cmb: "+15 (+17 grapple and trip)"
 cmd: "32"
 attack: "+1 unarmed strike +14 melee (1d10+5) or +1 unarmed strike flurry of blows +14 melee (1d10+5) or masterwork javelin +13 ranged (1d6+4)"
 full-attack: "+1 unarmed strike +14/+9 melee (1d10+5); or +1 unarmed strike flurry of blows +14/+14/+9/+9/+4 melee (1d10+5); or masterwork javelin +13 ranged (1d6+4)"
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +8
   - **Speed**: 60 ft. (12 squares)
   - **Armor Class**: 22 (+2 armor, +1 deflection, +4 Dex, +1 dodge, +2 monk, +2 Wis), touch 20, flat-footed 17
-  - **Base Attack**: +8; **CMB**: +15; **CMD**: 32
+  - **Base Attack**: +8; **CMB**: +15 (+17 grapple and trip); **CMD**: 32
   - **Attack**: +1 [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +14 melee (1d10+5) or +1 unarmed strike flurry of blows +14 melee (1d10+5) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +13 ranged (1d6+4)
   - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Unarmed Strike|unarmed strike]] +14/+9 melee (1d10+5); or +1 unarmed strike flurry of blows +14/+14/+9/+9/+4 melee (1d10+5); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Javelin|javelin]] +13 ranged (1d6+4)
   - **Space/Reach**: 5 ft./5 ft.
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A hobgoblin paragon is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 11 levels of [[rangoric-srd/classes/Monk|monk]]. Though hobgoblins are innately drawn to combat and conflict, not all find a place as faceless members among the ranks of a military unit. Some seek to perfect their own bodies to become a one-person squadron, the pinnacle of martial mastery, and a temple to perfected technique and dedicated skill. These hobgoblins are austere, cruel, and completely confident in their ability.
+A hobgoblin paragon is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 11 levels of [[rangoric-srd/classes/Monk|monk]]. Its CMB includes the [[rangoric-srd/races/class-bonuses/Hobgoblin Monk (Class Bonus)|hobgoblin monk class bonus]], against grapple and trip. Though hobgoblins are innately drawn to combat and conflict, not all find a place as faceless members among the ranks of a military unit. Some seek to perfect their own bodies to become a one-person squadron, the pinnacle of martial mastery, and a temple to perfected technique and dedicated skill. These hobgoblins are austere, cruel, and completely confident in their ability.
 
 Many hobgoblin paragons join specialized teams of fellow hobgoblins within larger armies, though they live isolated lives, apart from their regimented kin, rather than feeling a true camaraderie. A large number of them instead travel the world, participating in tournaments of martial skill, from gladiatorial arenas to competitions in distant monasteries practicing foreign techniques. Others pursue more mercenary endeavors, selling their talents to the highest bidder so long as their contract involves dishing out pain to the weak or the unworthy. Whether as lone bodyguards of corrupt merchants or politicians, or high-ranking enforcers of the criminal underworld, a hobgoblin paragon willing to serve a well-paying master has no trouble finding employment wherever she might seek it.
 
@@ -75,4 +75,4 @@ A hobgoblin paragon speaks Common and Goblin.
 
 **During Combat**: Obsessed with martial prowess and proving herself superior to her enemies, the paragon seeks out a challenging opponent to square off against in one-on-one combat. If faced with many foes of equal ability, she rushes from one to another, using Spring Attack to get their attention and draw them to her.
 
-**Base Statistics**: Without bear's endurance and bull's strength, the paragon's statistics are **hp** 97; **Fort** +11; **Melee** +1 unarmed strike +14/+9 (1d10+3) or +1 flurry of blows +14/+14/+9/+9/+4 (1d10+3); **Ranged** masterwork javelin +13 (1d6+2); **Str** 14; **Con** 14; **CMB** +13; **CMD** 30.
+**Base Statistics**: Without bear's endurance and bull's strength, the paragon's statistics are **hp** 97; **Fort** +11; **Melee** +1 unarmed strike +14/+9 (1d10+3) or +1 flurry of blows +14/+14/+9/+9/+4 (1d10+3); **Ranged** masterwork javelin +13 (1d6+2); **Str** 14; **Con** 14; **CMB** +13 (+15 grapple and trip); **CMD** 30.

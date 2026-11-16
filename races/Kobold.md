@@ -98,6 +98,12 @@ A kobold can take any of these in place of the traits they replace (see [[rangor
 - **Desert Kobold**: Scavengers who hide in the forgotten corners of oasis settlements and trading posts. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. −4 Strength, +2 Dexterity, −2 Wisdom: hardier than other kobolds, but weak-willed. No light sensitivity. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks. Crafty gives no bonus on Profession (miner) checks: desert kobolds don't mine.
 - **Jungle Kobold**: Calmer, more generous kobolds living in ancient ruins on clouded mountain peaks. −4 Strength, +2 Dexterity, −2 Intelligence. Altitude Adaptation: jungle kobolds don't suffer altitude sickness and are always considered [[rangoric-srd/rules/Wilderness, Weather, and Environment#Mountain Travel|acclimated]] to high altitudes. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to climb, adding their Dexterity modifier instead of their Strength modifier. Crafty gives no bonus on Craft (trapmaking) or Profession (miner) checks.
 
+### Class Bonuses
+
+A kobold gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Kobold]]
+
 ### Racial Archetypes
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
