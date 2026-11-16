@@ -167,7 +167,7 @@ The spells an [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-spells|inqui
 | [[rangoric-srd/spells/Honeyed Tongue\|Honeyed Tongue]] (M): | Roll 2 dice when using Persuasion, take higher roll. |
 | [[rangoric-srd/spells/Howling Agony\|Howling Agony]] (M): | Screaming pain limits the target's actions. |
 | [[rangoric-srd/spells/Inflict Moderate Wounds\|Inflict Moderate Wounds]]: | Touch attack, 2d8 damage +1/level (max +10). |
-| [[rangoric-srd/spells/Inflict Pain\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
+| [[rangoric-srd/spells/Inflict Pain (Spell)\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
 | [[rangoric-srd/spells/Instrument of Agony\|Instrument of Agony]]: | Weapon exudes divine fury, granting a bonus on Intimidation checks. |
 | [[rangoric-srd/spells/Invisibility\|Invisibility]]: | Subject is [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] for 1 min./level or until it attacks. |
 | [[rangoric-srd/spells/Iron Stake\|Iron Stake]] (M): | Hurl a spike of cold iron at a foe |

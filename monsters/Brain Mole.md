@@ -72,7 +72,7 @@ Brain moles hunger for psionic energy. They hide in loose dirt and detritus on f
 
 Cascade Flu (Ex): Disease-bite; Fortitude DC 9, incubation period one day, damage psionic cascade (every time an afflicted character manifests a power, she must make a DC 16 Concentration check; on a failed check, a psionic cascade is triggered \[see Psionic Maladies\]). The save DC is Constitution-based.
 
-Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Power Leech|power leech]] (ML 5th, DC 14); 3/day - [[rangoric-srd/powers/Aversion|aversion]] (DC 12), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (DC 11). Manifester level 1st. The save DCs are Charisma-based.
+Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Power Leech|power leech]] (ML 5th, DC 14); 3/day - [[rangoric-srd/powers/Aversion (Power)|aversion]] (DC 12), [[rangoric-srd/powers/Mind Thrust|mind thrust]] (DC 11). Manifester level 1st. The save DCs are Charisma-based.
 
 Hide Mind (Su): A brain mole cannot be identified as psionic by divination spells or clairsentience powers.
 

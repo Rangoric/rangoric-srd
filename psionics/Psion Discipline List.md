@@ -91,7 +91,7 @@ tags: [rangoric, rangoric/overview]
 |       | [[rangoric-srd/powers/Second Chance\|Second Chance:]]                                           | Gain a reroll.                                                   |
 | 6     | [[rangoric-srd/powers/Precognition, Greater\|Precognition, Greater:]]                           | Gain +4 insight bonus to one roll.                               |
 | 7     | [[rangoric-srd/powers/Fate of One\|Fate of One:]]                                               | Reroll any roll you just failed.                                 |
-| 8     | [[rangoric-srd/powers/Hypercognition\|Hypercognition:]]                                         | You can deduce almost anything.                                  |
+| 8     | [[rangoric-srd/powers/Hypercognition (Power)\|Hypercognition:]]                                         | You can deduce almost anything.                                  |
 | 9     | [[rangoric-srd/powers/Metafaculty\|Metafaculty (X):]]                                           | You learn details about any one creature.                        |
 
 ##### Shaper (Metacreativity) Discipline Powers
@@ -104,7 +104,7 @@ tags: [rangoric, rangoric/overview]
 | 3     | [[rangoric-srd/powers/Concealing Amorpha, Greater\|Concealing Amorpha, Greater:]] | Quasi-real membrane grants you total concealment.            |
 |       | [[rangoric-srd/powers/Ectoplasmic Cocoon\|Ectoplasmic Cocoon (A):]]               | You encapsulate a foe so it can’t move.                      |
 | 4     | [[rangoric-srd/powers/Fabricate, Psionic\|Fabricate, Psionic:]]                   | Transforms raw goods to finished items.                      |
-|       | [[rangoric-srd/powers/Quintessence\|Quintessence:]]                               | You collapse a bit of time into a physical substance.        |
+|       | [[rangoric-srd/powers/Quintessence (Power)\|Quintessence:]]                               | You collapse a bit of time into a physical substance.        |
 | 5     | [[rangoric-srd/powers/Hail of Crystals\|Hail of Crystals (A):]]                   | A crystal explodes in an area, dealing 9d4 slashing damage.  |
 | 6     | [[rangoric-srd/powers/Crystallize\|Crystallize:]]                                 | Turn subject permanently to crystal.                         |
 |       | [[rangoric-srd/powers/Fabricate, Greater Psionic\|Fabricate, Greater Psionic:]]   | Transforms a lot of raw goods to finished items.             |
@@ -118,8 +118,8 @@ tags: [rangoric, rangoric/overview]
 | Level | Power Name                                                                            | Brief Description                                                            |
 | ----- | ------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------- |
 | 1     | [[rangoric-srd/powers/Charm, Psionic\|Charm, PsionicA:]]                            | Makes one person your friend.                                                |
-|       | [[rangoric-srd/powers/Mindlink\|MindlinkA:]]                                        | You forge a limited mental bond with another creature.                       |
-| 2     | [[rangoric-srd/powers/Aversion\|Aversion (A):]]                                     | Subject has aversion you specify.                                            |
+|       | [[rangoric-srd/powers/Mindlink (Power)\|MindlinkA:]]                                        | You forge a limited mental bond with another creature.                       |
+| 2     | [[rangoric-srd/powers/Aversion (Power)\|Aversion (A):]]                                     | Subject has aversion you specify.                                            |
 |       | [[rangoric-srd/powers/Brain Lock\|Brain Lock (A):]]                                 | Subject cannot move or take any mental actions.                              |
 |       | [[rangoric-srd/powers/Read Thoughts\|Read Thougths:]]                               | Detect surface thoughts of creatures in range.                               |
 |       | [[rangoric-srd/powers/Suggestion, Psionic\|Suggestion, Psionic:]]                   | Compels subject to follow stated course of action.                           |
@@ -131,7 +131,7 @@ tags: [rangoric, rangoric/overview]
 |       | [[rangoric-srd/powers/Modify Memory, Psionic\|Modify Memory, Psionic:]]             | Changes 5 minutes of subject’s memories.                                     |
 |       | [[rangoric-srd/powers/Schism\|Schism:]]                                             | Your partitioned mind can manifest lower level powers.                       |
 | 5     | [[rangoric-srd/powers/Metaconcert\|Metaconcert (A):]]                               | Mental concert of two or more increases the total power of the participants. |
-|       | [[rangoric-srd/powers/Mind Probe\|Mind Probe:]]                                     | You discover the subject’s secret thoughts.                                  |
+|       | [[rangoric-srd/powers/Mind Probe (Power)\|Mind Probe:]]                                     | You discover the subject’s secret thoughts.                                  |
 | 6     | [[rangoric-srd/powers/Mind Switch\|Mind Switch (A X):]]                             | You switch minds with another.                                               |
 | 7     | [[rangoric-srd/powers/Crisis of Life\|Crisis of Life (A):]]                         | Stop subject’s heart.                                                        |
 | 8     | [[rangoric-srd/powers/Mind Seed\|Mind Seed (X):]]                                   | Subject slowly becomes you.                                                  |

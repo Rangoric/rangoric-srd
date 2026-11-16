@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Inflict Pain"
 school: "Enchantment"
 descriptor:
   - "MindAffecting"

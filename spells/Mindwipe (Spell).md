@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Mindwipe"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:

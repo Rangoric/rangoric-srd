@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Aversion"
 school: "Enchantment"
 subschool: "Compulsion"
 descriptor:

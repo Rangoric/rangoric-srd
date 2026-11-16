@@ -310,7 +310,7 @@ The spells a [[rangoric-srd/classes/Hunter#^hunter-spells|hunter]] can learn: th
 | [[rangoric-srd/spells/Aqueous Orb\|Aqueous Orb]] (M): | Creates rolling sphere of water. |
 | [[rangoric-srd/spells/Ash Storm\|Ash Storm]] (M): | Hamper vision and movement. |
 | [[rangoric-srd/spells/Aspect of the Stag\|Aspect of the Stag]]: | +2 AC against attacks of opportunity and increases speed. |
-| [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
+| [[rangoric-srd/spells/Aversion (Spell)\|Aversion]]: | Cause the target to avoid an object or location. |
 | [[rangoric-srd/spells/Battle Trance\|Battle Trance]]: | You are transformed into a single-minded force of destruction. |
 | [[rangoric-srd/spells/Bleed for Your Master\|Bleed for Your Master]]: | Compel a companion to take damage for you |
 | [[rangoric-srd/spells/Blessing of the Mole\|Blessing of the Mole]]: | 1 ally/level gains darkvision and a +2 Stealth bonus. |

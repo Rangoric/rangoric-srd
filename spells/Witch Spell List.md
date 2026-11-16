@@ -290,7 +290,7 @@ The spells a [[rangoric-srd/classes/Witch#^witch-spells|witch]] can learn. Her [
 | [[rangoric-srd/spells/Ash Storm\|Ash Storm]] (M): | Hamper vision and movement. |
 | [[rangoric-srd/spells/Aura of Cannibalism\|Aura of Cannibalism]] (M): | Sap the strength of those around you. |
 | [[rangoric-srd/spells/Aura Sight\|Aura Sight]]: | Alignment auras become visible to you. |
-| [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
+| [[rangoric-srd/spells/Aversion (Spell)\|Aversion]]: | Cause the target to avoid an object or location. |
 | [[rangoric-srd/spells/Babble\|Babble]]: | Target becomes nauseated and causes nearby creatures to become fascinated. |
 | [[rangoric-srd/spells/Barrow Haze\|Barrow Haze]]: | Fog obscures the vision of others and extends the range of your hexes. |
 | [[rangoric-srd/spells/Bestow Curse\|Bestow Curse]]: | –6 to an ability score; –4 on attack rolls, saves, and checks; or 50% chance of losing each action. |
@@ -328,7 +328,7 @@ The spells a [[rangoric-srd/classes/Witch#^witch-spells|witch]] can learn. Her [
 | [[rangoric-srd/spells/Hostile Levitation\|Hostile Levitation]] (M): | Levitates the targeted creature up off the ground. |
 | [[rangoric-srd/spells/Howling Agony\|Howling Agony]] (M): | Screaming pain limits the target's actions. |
 | [[rangoric-srd/spells/Improve Trap\|Improve Trap]]: | Improves a trap with one specific element of the trap chosen at the time of casting. |
-| [[rangoric-srd/spells/Inflict Pain\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
+| [[rangoric-srd/spells/Inflict Pain (Spell)\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
 | [[rangoric-srd/spells/Iron Stake\|Iron Stake]] (M): | Hurl a spike of cold iron at a foe |
 | [[rangoric-srd/spells/Isolate\|Isolate]]: | Make a creature invisible and silent to their allies. |
 | [[rangoric-srd/spells/Ki Leech\|Ki Leech]]: | Add to your ki pool when you critically hit. |
@@ -650,7 +650,7 @@ The spells a [[rangoric-srd/classes/Witch#^witch-spells|witch]] can learn. Her [
 | [[rangoric-srd/spells/Reincarnate Spy\|Reincarnate Spy]] (M): | As reincarnate, but creating a body similar to that of a chosen creature, and you secretly keep part of the body. |
 | [[rangoric-srd/spells/Scouring Winds\|Scouring Winds]]: | Winds block vision and deal 3d6 damage per round. |
 | [[rangoric-srd/spells/Scrying, Greater\|Scrying, Greater]]: | As scrying, but faster and longer. |
-| [[rangoric-srd/spells/Shadow Body\|Shadow Body]]: | Turn your body into a living shadow. |
+| [[rangoric-srd/spells/Shadow Body (Spell)\|Shadow Body]]: | Turn your body into a living shadow. |
 | [[rangoric-srd/spells/Summon Monster VII\|Summon Monster VII]]: | Calls extraplanar creature to fight for you. |
 | [[rangoric-srd/spells/Symbol of Stunning\|Symbol of Stunning]] (M): | Triggered rune stuns nearby creatures. |
 | [[rangoric-srd/spells/Symbol of Weakness\|Symbol of Weakness]] (M): | Triggered rune weakens nearby creatures. |

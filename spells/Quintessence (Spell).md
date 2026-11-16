@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Quintessence"
 school: "Illusion"
 subschool: "Glamer"
 level:

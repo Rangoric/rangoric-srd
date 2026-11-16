@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Mindlink"
 school: "Divination"
 descriptor:
   - "MindAffecting"

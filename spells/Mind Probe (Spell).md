@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Mind Probe"
 school: "Divination"
 descriptor:
   - "MindAffecting"

@@ -175,7 +175,7 @@ The spells an [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemist]] ca
 | [[rangoric-srd/spells/Gaseous Form\|Gaseous Form]]: | Subject becomes insubstantial and can fly slowly. |
 | [[rangoric-srd/spells/Haste\|Haste]]: | One creature/level moves faster, +1 on attack rolls, AC, and Reflex saves. |
 | [[rangoric-srd/spells/Heroism\|Heroism]]: | Gives +2 bonus on attack rolls, saves, skill checks. |
-| [[rangoric-srd/spells/Hypercognition\|Hypercognition]]: | Rapidly recall everything you know about a subject. |
+| [[rangoric-srd/spells/Hypercognition (Spell)\|Hypercognition]]: | Rapidly recall everything you know about a subject. |
 | [[rangoric-srd/spells/Infuse Self\|Infuse Self]] (M): | Assume the form of a native outsider |
 | [[rangoric-srd/spells/Lightning Lash Bomb Admixture\|Lightning Lash Bomb Admixture]]: | Empowers bombs you throw with a ward that deals lightning damage each time those damaged by the bomb move more than 5 feet. |
 | [[rangoric-srd/spells/Marionette Possession\|Marionette Possession]] (F): | As magic jar, but limited to line of sight. |

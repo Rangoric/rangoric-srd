@@ -25,10 +25,10 @@ Every game tag used in `rangoric-srd`: what it means, what it goes on, and how m
 
 | Tag | Goes on | Means | Home | Notes | Status |
 | --- | --- | --- | --- | --- | --- |
-| `core` | Skills | Generally useful to an adventurer; bought with core points | [[rangoric-srd/skills/Skills Overview\|Skills Overview]] | 26 skills | In use (2026-10-30) |
+| `core` | Skills | Generally useful to an adventurer; bought with core points | [[rangoric-srd/skills/Skills Overview\|Skills Overview]] | 27 skills | In use (2026-10-30) |
 | `background` | Skills | Useful to a normal person; 1 background point per level, and the first one picked is a class skill | [[rangoric-srd/skills/Skills Overview\|Skills Overview]] | 7 skills (Craft, Profession, Performance, Appraise, Animal Handling, Linguistics, Lore) | In use (2026-10-30) |
-| `knowledge` | Skills | A knowledge skill. Rules can say "any Knowledge skill" or "all Knowledge skills" | [[rangoric-srd/skills/Knowledge\|Knowledge]] | 8 skills (Arcana, Dungeoneering, Lore, Nature, Psionics, Society, Tactics, Theology) | In use (2026-10-30) |
-| `magic` | Skills | A Magic skill: Arcana, Theology, Nature, Psionics. A "Magic skill check" uses whichever one fits (Identifying Magic), and each casting class lists its own | [[rangoric-srd/skills/Identifying Magic\|Identifying Magic]] | 4 skills | In use (2026-10-30) |
+| `knowledge` | Skills | A knowledge skill. Rules can say "any Knowledge skill" or "all Knowledge skills" | [[rangoric-srd/skills/Knowledge\|Knowledge]] | 9 skills (Arcana, Dungeoneering, Lore, Nature, Psionics, Psychic, Society, Tactics, Theology) | In use (2026-10-30) |
+| `magic` | Skills | A Magic skill: Arcana, Theology, Nature, Psionics, Psychic. A "Magic skill check" uses whichever one fits (Identifying Magic), and each casting class lists its own | [[rangoric-srd/skills/Identifying Magic\|Identifying Magic]] | 5 skills | In use (2026-10-30) |
 | `first-aid` | Actions | A First Aid action: either Fieldcraft or Medicine can make the check | [[rangoric-srd/actions/First Aid\|First Aid]] | 8 actions | In use (2026-10-31) |
 | `fighter-bonus` | Feats | A fighter can take it as a bonus feat, including the epic fighter's list. Pathfinder's Combat type will be a tag of its own | [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats\|Feats Overview]] | 598 feats | In use (2026-11-01) |
 | `item-creation` | Feats | An item creation feat: lets its owner make a kind of magic or psionic item | [[rangoric-srd/feats/Feats Overview#Item Creation Feats\|Feats Overview]] | 39 feats | In use (2026-11-01) |

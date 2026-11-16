@@ -1,10 +1,12 @@
 ---
 srd-type: "rule"
 section: "Rules"
+book: "Occult Adventures"
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
   - "[[fantasy srd 3.5/psionics/Psionics|Psionics (3.5)]]"
   - "[[fantasy srd 3.5/skills/Concentration|Concentration (3.5)]]"
+  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Components (Unrecorded)|Components (PF1 Foundry)]]"
 status: draft
 change: new
 pi-review: 2026-10-24
@@ -31,6 +33,7 @@ In this table, *level* is the level of the spell you're casting or the power you
 | Distracted by a spell or power in some other way | its save DC + level |
 | [[rangoric-srd/rules/conditions/Grappled (Condition)\|Grappled]] or [[rangoric-srd/rules/conditions/Pinned (Condition)\|pinned]] | 20 + level |
 | Casting a spell with a somatic component while grappled | 50 + level |
+| Casting a spell with a [[rangoric-srd/spells/Magic Overview#^thought-component|thought component]] | The distraction’s DC + 10 |
 | Vigorous motion | 10 + level |
 | Violent motion | 15 + level |
 | High wind carrying blinding rain or sleet | 5 + level |
@@ -48,5 +51,7 @@ In this table, *level* is the level of the spell you're casting or the power you
 **Grappled or Pinned**: Which spells can be cast at all is in the [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]] and [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]] conditions, and under Spell Components in [[rangoric-srd/combat/Combat Actions#^spell-components|Combat Actions]].
 
 **On the Defensive**: Casting a spell, manifesting a power, or using a spell-like or psi-like ability on the defensive doesn't provoke attacks of opportunity, but takes this check. Failure loses the spell or power; a spell-like ability counts as used.
+
+**Thought Components**: A psychic spell’s thought component adds 10 to the DC of every Concentration check made while casting it. A caster who takes a move action to center herself just before she begins casting uses the normal DCs instead. A psychic spell has no somatic component, so the DC for casting with a somatic component while grappled doesn’t apply to it.
 
 **Without a Display**: Why a manifester might leave out a power's display is in [[rangoric-srd/psionics/Power Description Format|Power Description Format]]. If the check fails, the power manifests with its display.

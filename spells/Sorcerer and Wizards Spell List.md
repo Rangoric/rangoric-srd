@@ -97,7 +97,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Discern Next of Kin\|Discern Next of Kin]] (F): | Read the target's mind to learn about its family. |
 |               | [[rangoric-srd/spells/Heightened Awareness\|Heightened Awareness]] (M): | Your recall and ability to process information improve. |
 |               | [[rangoric-srd/spells/Identify\|Identify]] (M):                                                                                                                                                                                    | Determines properties of magic item.                                                                                                                                                                                                                                            |
-|               | [[rangoric-srd/spells/Mindlink\|Mindlink]]: | Communicate a great deal of information in an instant. |
+|               | [[rangoric-srd/spells/Mindlink (Spell)\|Mindlink]]: | Communicate a great deal of information in an instant. |
 |               | [[rangoric-srd/spells/See Alignment\|See Alignment]] (M): | Pick an alignment; in your sight, creatures and items with that alignment emit a ghostly radiance. |
 |               | [[rangoric-srd/spells/True Strike\|True Strike]]:                                                                                                                                                                                  | +20 on your next attack roll.                                                                                                                                                                                                                                                  |
 | Enchantment   | [[rangoric-srd/spells/Aphasia\|Aphasia]]: | Prevent a target from understanding language. |
@@ -144,7 +144,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Magic Aura\|Magic Aura]]:                                                                                                                                                                                    | Alters object’s magic aura.                                                                                                                                                                                                                                                     |
 |               | [[rangoric-srd/spells/Negative Reaction\|Negative Reaction]]: | Targeted creature may not positively influence anyone. |
 |               | [[rangoric-srd/spells/Open and Shut\|Open and Shut]] (F): | Obfuscate whether a door is open or closed. |
-|               | [[rangoric-srd/spells/Quintessence\|Quintessence]]: | Mask any flaws of or damage to a creature or object. |
+|               | [[rangoric-srd/spells/Quintessence (Spell)\|Quintessence]]: | Mask any flaws of or damage to a creature or object. |
 |               | [[rangoric-srd/spells/Shadow Weapon\|Shadow Weapon]]: | Create a quasi-real masterwork weapon. |
 |               | [[rangoric-srd/spells/Silent Image\|Silent Image]]:                                                                                                                                                                                | Creates minor illusion of your design.                                                                                                                                                                                                                                          |
 |               | [[rangoric-srd/spells/Trinket\|Trinket]] (M): | Small items seem valuable enough to trade up to 50 gp. |
@@ -498,7 +498,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Tongues\|Tongues]]:                                                                                                                                                                                                                   | Speak any language.                                                                                            |
 |               | [[rangoric-srd/spells/Unravel Destiny\|Unravel Destiny]]: | Target suffers a penalty to multiple rules for every hero point they possess. |
 |               | [[rangoric-srd/spells/Voluminous Vocabulary\|Voluminous Vocabulary]] (M): | Grant ability to speak, read, and write one or more languages for 8 hours. |
-| Enchantment   | [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
+| Enchantment   | [[rangoric-srd/spells/Aversion (Spell)\|Aversion]]: | Cause the target to avoid an object or location. |
 |               | [[rangoric-srd/spells/Babble\|Babble]]: | Target becomes nauseated and causes nearby creatures to become fascinated. |
 |               | [[rangoric-srd/spells/Bleed for Your Master\|Bleed for Your Master]]: | Compel a companion to take damage for you |
 |               | [[rangoric-srd/spells/Contagious Zeal\|Contagious Zeal]]: | Grant bonuses and temporary hit points that spread from creature to creature. |
@@ -507,7 +507,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Halting Gaze\|Halting Gaze]]: | Daze a subject each round with a gaze attack. |
 |               | [[rangoric-srd/spells/Heroism\|Heroism]]:                                                                                                                                                                                                                   | Gives +2 bonus on attack rolls, saves, skill checks.                                                           |
 |               | [[rangoric-srd/spells/Hold Person\|Hold Person]]:                                                                                                                                                                                                           | Paralyzes one humanoid for 1 round/level.                                                                      |
-|               | [[rangoric-srd/spells/Inflict Pain\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
+|               | [[rangoric-srd/spells/Inflict Pain (Spell)\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
 |               | [[rangoric-srd/spells/Intractable Grip\|Intractable Grip]]: | Subject cannot properly hold objects. |
 |               | [[rangoric-srd/spells/Luck of the Fey\|Luck of the Fey]] (M): | Forces a reroll of one die roll. |
 |               | [[rangoric-srd/spells/Matchmaker\|Matchmaker]] (M): | Cause two creatures to fall in love. |
@@ -675,7 +675,7 @@ tags: [rangoric, rangoric/overview]
 | Divination    | [[rangoric-srd/spells/Arcane Eye\|Arcane Eye]]:                                             | [[rangoric-srd/rules/conditions/Invisibility (Condition)\|Invisible]] floating eye moves 30 ft./round.                  |
 |               | [[rangoric-srd/spells/Detect Scrying\|Detect Scrying]]:                                     | Alerts you of magical eavesdropping.                                                                                               |
 |               | [[rangoric-srd/spells/High Albatross\|High Albatross]] (M): | A bird gives you *clairvoyance* over a large area. |
-|               | [[rangoric-srd/spells/Hypercognition\|Hypercognition]]: | Rapidly recall everything you know about a subject. |
+|               | [[rangoric-srd/spells/Hypercognition (Spell)\|Hypercognition]]: | Rapidly recall everything you know about a subject. |
 |               | [[rangoric-srd/spells/Insect Spies\|Insect Spies]] (M): | Use magic beetles as spies. |
 |               | [[rangoric-srd/spells/Locate Creature\|Locate Creature]]:                                   | Indicates direction to familiar creature.                                                                                          |
 |               | [[rangoric-srd/spells/Meticulous Match\|Meticulous Match]]: | Determine if two things are identical. |
@@ -700,7 +700,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Hollow Heroism\|Hollow Heroism]]: | Provide a heroism effect that you can reverse at any time |
 |               | [[rangoric-srd/spells/Laughing Gas\|Laughing Gas]] (M): | Fog makes those inside laugh helplessly. |
 |               | [[rangoric-srd/spells/Malicious Spite\|Malicious Spite]] (M): | Target is compelled to plot against another. |
-|               | [[rangoric-srd/spells/Mindwipe\|Mindwipe]]: | Erase a portion of the target’s mind and experiences, inflicting negative levels. |
+|               | [[rangoric-srd/spells/Mindwipe (Spell)\|Mindwipe]]: | Erase a portion of the target’s mind and experiences, inflicting negative levels. |
 |               | [[rangoric-srd/spells/Moonstruck\|Moonstruck]] (M): | Subject is enraged and confused. |
 |               | [[rangoric-srd/spells/Nap\|Nap]] (M F): | Wizard only. Each hour of sleep counts as two, at a cost in Con and Will. |
 |               | [[rangoric-srd/spells/Overwhelming Grief\|Overwhelming Grief]]: | Grieving target can take no actions and is denied its Dex bonus. |
@@ -808,7 +808,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Symbol of Slowing\|Symbol of Slowing]] (M): | Triggered rune slows creatures. |
 |               | [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
 |               | [[rangoric-srd/spells/Tailwind\|Tailwind]]: | Create a current of wind to enhance or impede flight |
-|               | [[rangoric-srd/spells/Telekinetic Maneuver\|Telekinetic Maneuver]]: | Perform a telekinetic combat maneuver. |
+|               | [[rangoric-srd/spells/Telekinetic Maneuver (Spell)\|Telekinetic Maneuver]]: | Perform a telekinetic combat maneuver. |
 |               | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M): | Take the form and some of the powers of a Small or Medium vermin. |
 
 ##### 5th-Level Sorcerer/Wizard Spells
@@ -854,7 +854,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Discern Route\|Discern Route]] (M): | Learn the destination of a fey road. |
 |               | [[rangoric-srd/spells/Gaze Trigger\|Gaze Trigger]]: | Casts a spell readied within a magic mirror. |
 |               | [[rangoric-srd/spells/Glimpse of Truth\|Glimpse of Truth]] (M): | Gain true seeing for 1 round. |
-|               | [[rangoric-srd/spells/Mind Probe\|Mind Probe]]: | Learn answers from a subject’s memories. |
+|               | [[rangoric-srd/spells/Mind Probe (Spell)\|Mind Probe]]: | Learn answers from a subject’s memories. |
 |               | [[rangoric-srd/spells/Prying Eyes\|Prying Eyes]]:                       | 1d4 +1/level floating eyes scout for you.                                                              |
 |               | [[rangoric-srd/spells/Symbol of Scrying\|Symbol of Scrying]] (M): | Triggered rune activates scrying sensor. |
 |               | [[rangoric-srd/spells/Telepathic Bond\|Telepathic Bond]]:               | Link lets allies communicate.                                                                          |
@@ -884,7 +884,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Sending\|Sending]]:                               | Delivers short message anywhere, instantly.                                                            |
 |               | [[rangoric-srd/spells/Shieldbreaker\|Shieldbreaker]]: | Special *magic missile* destroys shield spells and *brooches of shielding*. |
 |               | [[rangoric-srd/spells/Sonic Thrust\|Sonic Thrust]]: | Sound moves targets away from you. |
-|               | [[rangoric-srd/spells/Wall of Ectoplasm\|Wall of Ectoplasm]] (M): | Wall of spirits blocks movement on Material Plane and Ethereal Plane and causes fear. |
+|               | [[rangoric-srd/spells/Wall of Ectoplasm (Spell)\|Wall of Ectoplasm]] (M): | Wall of spirits blocks movement on Material Plane and Ethereal Plane and causes fear. |
 |               | [[rangoric-srd/spells/Wall of Force\|Wall of Force]]:                   | Wall is immune to damage.                                                                              |
 |               | [[rangoric-srd/spells/Wall of Sound\|Wall of Sound]] (M): | Sonic wall deflects and damages creatures. |
 | Illusion      | [[rangoric-srd/spells/Appearance of Life, Greater\|Appearance of Life, Greater]] (M): | As appearance of life, but deceiveing all of the senses |
@@ -1175,7 +1175,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Polymorph, Greater\|Polymorph, Greater]] (M): | Gives one willing subject a new, more powerful form. |
 |               | [[rangoric-srd/spells/Resonating Word\|Resonating Word]]: | Target is damaged, staggered, and stunned. |
 |               | [[rangoric-srd/spells/Reverse Gravity\|Reverse Gravity]]:                           | Objects and creatures fall upward.                                                                                                           |
-|               | [[rangoric-srd/spells/Shadow Body\|Shadow Body]]: | Turn your body into a living shadow. |
+|               | [[rangoric-srd/spells/Shadow Body (Spell)\|Shadow Body]]: | Turn your body into a living shadow. |
 |               | [[rangoric-srd/spells/Shapechanger’s Gift, Greater\|Shapechanger’s Gift, Greater]] (M): | Temporarily change a target into an animal, elemental, fey, humanoid, monstrous humanoid, or vermin |
 |               | [[rangoric-srd/spells/Spell Barrage\|Spell Barrage]]: | Unleash many spells in one rapid burst. |
 |               | [[rangoric-srd/spells/Statue\|Statue]]:                                             | Subject can become a statue at will.                                                                                                         |

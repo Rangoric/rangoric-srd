@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Phrenic Creature|Phrenic Creature (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -28,7 +28,7 @@ Psi-Like Abilities (Sp): A phrenic creature possesses the psi-like abilities ind
 | 1-2   | 3/day - [[rangoric-srd/powers/Precognition, Defensive\|defensive precognition]]; 1/day - [[rangoric-srd/powers/Force Screen\|force screen]] |
 | 3-4   | 3/day - [[rangoric-srd/psionics/Psion Discipline List\|empty mind]], [[rangoric-srd/powers/Mind Thrust\|mind thrust]]                       |
 | 5-6   | 1/day - [[rangoric-srd/powers/Body Adjustment\|body adjustment]], [[rangoric-srd/powers/Brain Lock\|brain lock]]                            |
-| 7-8   | 1/day - [[rangoric-srd/powers/Aversion\|aversion]], [[rangoric-srd/powers/Powers A to C\|blast]]                                            |
+| 7-8   | 1/day - [[rangoric-srd/powers/Aversion (Power)\|aversion]], [[rangoric-srd/powers/Powers A to C\|blast]]                                            |
 | 9-10  | 3/day - [[rangoric-srd/powers/Intellect Fortress\|intellect fortress]]; 1/day - [[rangoric-srd/powers/Psychic Crush\|psychic crush]]        |
 | 11-12 | 1/day - [[rangoric-srd/powers/Dominate, Psionic\|psionic dominate]]                                                                           |
 | 13-14 | 1/day - [[rangoric-srd/powers/Energy Current\|energy current]], [[rangoric-srd/powers/Tower of Iron Will\|tower of iron will]]              |

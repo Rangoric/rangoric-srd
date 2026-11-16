@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells M to O|Spells M to O (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -90,12 +90,12 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Mind Blank|Mind Blank]]
   - [[rangoric-srd/spells/Mind Blank, Communal|Mind Blank, Communal]]
   - [[rangoric-srd/spells/Mind Fog|Mind Fog]]
-  - [[rangoric-srd/spells/Mind Probe|Mind Probe]]
+  - [[rangoric-srd/spells/Mind Probe (Spell)|Mind Probe]]
   - [[rangoric-srd/spells/Mind Swap|Mind Swap]]
-  - [[rangoric-srd/spells/Mindlink|Mindlink]]
+  - [[rangoric-srd/spells/Mindlink (Spell)|Mindlink]]
   - [[rangoric-srd/spells/Mindlocked Messenger|Mindlocked Messenger]]
   - [[rangoric-srd/spells/Mindscape Door|Mindscape Door]]
-  - [[rangoric-srd/spells/Mindwipe|Mindwipe]]
+  - [[rangoric-srd/spells/Mindwipe (Spell)|Mindwipe]]
   - [[rangoric-srd/spells/Minions of Death|Minions of Death]]
   - [[rangoric-srd/spells/Minor Creation|Minor Creation]]
   - [[rangoric-srd/spells/Minor Dream|Minor Dream]]

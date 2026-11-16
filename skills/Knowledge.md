@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/overview]
 
 The Knowledge skills (the [[rangoric-srd/Tag Register|tag]] *knowledge*) each cover a body of lore, possibly an academic or even scientific discipline:
 
-- Core skills: [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Dungeoneering|Dungeoneering]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Psionics (Skill)|Psionics]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Tactics|Tactics]], [[rangoric-srd/skills/Theology|Theology]].
+- Core skills: [[rangoric-srd/skills/Arcana|Arcana]], [[rangoric-srd/skills/Dungeoneering|Dungeoneering]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Psionics (Skill)|Psionics]], [[rangoric-srd/skills/Psychic (Skill)|Psychic]], [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Tactics|Tactics]], [[rangoric-srd/skills/Theology|Theology]].
 - Background skill: [[rangoric-srd/skills/Lore|Lore]], one narrow subject per skill.
 
 These rules apply to every Knowledge skill.

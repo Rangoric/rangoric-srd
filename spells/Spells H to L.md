@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells H to L|Spells H to L (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -94,7 +94,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Hunter’s Howl|Hunter’s Howl]]
   - [[rangoric-srd/spells/Hydraulic Push|Hydraulic Push]]
   - [[rangoric-srd/spells/Hydraulic Torrent|Hydraulic Torrent]]
-  - [[rangoric-srd/spells/Hypercognition|Hypercognition]]
+  - [[rangoric-srd/spells/Hypercognition (Spell)|Hypercognition]]
   - [[rangoric-srd/spells/Hypnotic Pattern|Hypnotic Pattern]]
   - [[rangoric-srd/spells/Hypnotism|Hypnotism]]
   - [[rangoric-srd/spells/Ice Body|Ice Body]]
@@ -129,7 +129,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Inflict Minor Wounds|Inflict Minor Wounds]]
   - [[rangoric-srd/spells/Inflict Moderate Wounds|Inflict Moderate Wounds]]
   - [[rangoric-srd/spells/Inflict Moderate Wounds, Mass|Inflict Moderate Wounds, Mass]]
-  - [[rangoric-srd/spells/Inflict Pain|Inflict Pain]]
+  - [[rangoric-srd/spells/Inflict Pain (Spell)|Inflict Pain]]
   - [[rangoric-srd/spells/Inflict Pain, Mass|Inflict Pain, Mass]]
   - [[rangoric-srd/spells/Inflict Serious Wounds|Inflict Serious Wounds]]
   - [[rangoric-srd/spells/Inflict Serious Wounds, Mass|Inflict Serious Wounds, Mass]]

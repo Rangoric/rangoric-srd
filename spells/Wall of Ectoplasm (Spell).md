@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Wall of Ectoplasm"
 school: "Evocation"
 level:
   - "Clr 5"

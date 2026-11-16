@@ -36,4 +36,4 @@ Saving Throw: Will negates (harmless)
 Power Resistance: Yes (harmless)  
 Power Points: 1  
 
-You protect the subject’s thoughts from analysis. While the duration lasts, the subject gains a +10 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]] checks against those attempting to discern its true intentions with [[rangoric-srd/skills/Sense Motive|Sense Motive]]. It also gains a +4 bonus on its saving throw against any power or spell used to read its mind (such as [[rangoric-srd/powers/Read Thoughts|read thoughts]] or [[rangoric-srd/powers/Mind Probe|mind probe]]).
+You protect the subject’s thoughts from analysis. While the duration lasts, the subject gains a +10 circumstance bonus on [[rangoric-srd/skills/Deception|Deception]] checks against those attempting to discern its true intentions with [[rangoric-srd/skills/Sense Motive|Sense Motive]]. It also gains a +4 bonus on its saving throw against any power or spell used to read its mind (such as [[rangoric-srd/powers/Read Thoughts|read thoughts]] or [[rangoric-srd/powers/Mind Probe (Power)|mind probe]]).

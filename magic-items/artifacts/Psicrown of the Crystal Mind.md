@@ -4,8 +4,8 @@ section: "Magic Items"
 item-type: "Psionic Major Artifact"
 based-on:
   - "[[fantasy srd 3.5/magic-items/artifacts/Psicrown of the Crystal Mind|Psicrown of the Crystal Mind (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -34,13 +34,13 @@ The power points in the Psicrown of the Crystal Mind can be used to manifest any
 
   - [[rangoric-srd/powers/Float|Float]]
 
-  - [[rangoric-srd/powers/Mindlink|Mindlink]]
+  - [[rangoric-srd/powers/Mindlink (Power)|Mindlink]]
 
   - [[rangoric-srd/powers/Inertial Barrier|Inertial barrier]]
 
   - [[rangoric-srd/powers/Telekinetic Force|Telekinetic force]]
 
-  - [[rangoric-srd/powers/Telekinetic Maneuver|Telekinetic maneuver]]
+  - [[rangoric-srd/powers/Telekinetic Maneuver (Power)|Telekinetic maneuver]]
 
   - [[rangoric-srd/powers/Telekinetic Thrust|Telekinetic thrust]]
 

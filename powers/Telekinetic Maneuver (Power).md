@@ -1,6 +1,8 @@
 ---
 srd-type: "power"
 section: "Psionic Powers"
+aliases:
+  - "Telekinetic Maneuver"
 discipline: "Psychokinesis"
 descriptor:
   - "Force"

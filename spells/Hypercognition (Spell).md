@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Hypercognition"
 school: "Divination"
 level:
   - "Alc 3"

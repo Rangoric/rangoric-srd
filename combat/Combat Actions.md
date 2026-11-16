@@ -207,6 +207,8 @@ Most spells require 1 standard action to cast. You can cast such a spell either 
 
 To cast a spell with a somatic (S) component, you must gesture freely with at least one hand. You can’t cast a spell of this type while bound, [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]], or with both your hands full or occupied. While [[rangoric-srd/rules/conditions/Grappled (Condition)|grappled]], you can, with a successful [[rangoric-srd/rules/Concentration (Check)|Concentration check]].
 
+A psychic spellcaster provides thought and emotion components instead of verbal and somatic ones, and can cast while pinned or paralyzed; see [[rangoric-srd/spells/Magic Overview#^psychic-components|Psychic Components]].
+
 To cast a spell with a material (M), focus (F), or divine focus (DF) component, you have to have the proper materials, as described by the spell. Unless these materials are elaborate preparing these materials is a free action. For material components and focuses whose costs are not listed, you can assume that you have them if you have your spell component pouch.
 
 Some spells have an experience point (XP) component and entail an experience point cost to you. No spell can restore the lost XP. You cannot spend so much XP that you lose a level, so you cannot cast the spell unless you have enough XP to spare. However, you may, on gaining enough XP to achieve a new level, immediately spend the XP on casting the spell rather than keeping it to advance a level. The XP are expended when you cast the spell, whether or not the casting succeeds.

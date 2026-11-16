@@ -80,7 +80,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Feat Leech\|Feat Leech (A):]]                                     | Borrow another’s psionic or metapsionic feats.                                      |
 | [[rangoric-srd/powers/Id Insinuation\|Id Insinuation (A):]]                             | Swift tendrils of thought disrupt and confuse your target.                          |
 | [[rangoric-srd/powers/Identify, Psionic\|Identify, Psionic:]]                           | Learn the properties of a psionic item.                                             |
-| [[rangoric-srd/powers/Inflict Pain\|Inflict Pain (A):]]                                 | Telepathic stab gives your foe -4 on attack rolls, or -2 if he makes the save.      |
+| [[rangoric-srd/powers/Inflict Pain (Power)\|Inflict Pain (A):]]                                 | Telepathic stab gives your foe -4 on attack rolls, or -2 if he makes the save.      |
 | [[rangoric-srd/powers/Knock, Psionic\|Knock, Psionic:]]                                 | Opens locked or psionically sealed door.                                            |
 | [[rangoric-srd/powers/Levitate, Psionic\|Levitate, Psionic:]]                           | You move up and down via mental support.                                            |
 | [[rangoric-srd/powers/Mental Disruption\|Mental Disruption (A):]]                       | Daze creatures within 10 feet for 1 round.                                          |
@@ -135,13 +135,13 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Energy Adaptation\|Energy Adaptation (A):]]                   | Your body converts energy to harmless light.                                                               |
 | [[rangoric-srd/powers/Freedom of Movement, Psionic\|Freedom of Movement, Psionic:]] | You cannot be held or otherwise rendered immobile.                                                         |
 | [[rangoric-srd/powers/Intellect Fortress\|Intellect Fortress (A):]]                 | Those inside fortress take only half damage from all powers and psi-like abilities until your next action. |
-| [[rangoric-srd/powers/Mindwipe\|Mindwipe (A):]]                                     | Subject’s recent experiences wiped away, bestowing negative levels.                                        |
+| [[rangoric-srd/powers/Mindwipe (Power)\|Mindwipe (A):]]                                     | Subject’s recent experiences wiped away, bestowing negative levels.                                        |
 | [[rangoric-srd/powers/Personality Parasite\|Personality Parasite:]]                 | Subject’s mind calves self-antagonistic splinter personality for 1 round/level.                            |
 | [[rangoric-srd/powers/Power Leech\|Power Leech:]]                                   | Drain 1d6 power points/round while you maintain concentration; you gain 1/round.                           |
 | [[rangoric-srd/powers/Psychic Reformation\|Psychic Reformation (X):]]               | Subject can choose skills, feats, and powers anew for previous levels.                                     |
-| [[rangoric-srd/powers/Telekinetic Maneuver\|Telekinetic Maneuver (A):]]             | Telekinetically bull rush, disarm, grapple, or trip your target.                                           |
+| [[rangoric-srd/powers/Telekinetic Maneuver (Power)\|Telekinetic Maneuver (A):]]             | Telekinetically bull rush, disarm, grapple, or trip your target.                                           |
 | [[rangoric-srd/powers/Trace Teleport\|Trace Teleport (A):]]                         | Learn destination of subject’s teleport.                                                                   |
-| [[rangoric-srd/powers/Wall of Ectoplasm\|Wall of Ectoplasm:]]                       | You create a protective barrier.                                                                           |
+| [[rangoric-srd/powers/Wall of Ectoplasm (Power)\|Wall of Ectoplasm:]]                       | You create a protective barrier.                                                                           |
 
 ##### 5th-Level Psion/Wilder Powers
 
@@ -203,7 +203,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Matter Manipulation\|Matter Manipulation (X):]]         | Increase or decrease an object’s base hardness by 5.                     |
 | [[rangoric-srd/powers/Mind Blank, Psionic\|Mind Blank, Psionic:]]             | Subject immune to mental/emotional effects, scrying, and remote viewing. |
 | [[rangoric-srd/powers/Recall Death\|Recall Death:]]                           | Subject dies or takes 5d6 damage.                                        |
-| [[rangoric-srd/powers/Shadow Body\|Shadow Body:]]                             | You become a living shadow (not the creature).                           |
+| [[rangoric-srd/powers/Shadow Body (Power)\|Shadow Body:]]                             | You become a living shadow (not the creature).                           |
 | [[rangoric-srd/powers/Teleport, Psionic Greater\|Teleport, Psionic Greater:]] | As psionic teleport, but no range limit and no off-target arrival.       |
 | [[rangoric-srd/powers/True Metabolism\|True Metabolism:]]                     | You regenerate 10 hit points/round.                                      |
 

@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Psionic Powers"
 based-on:
   - "[[fantasy srd 3.5/powers/Powers G to P|Powers G to P (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -20,14 +20,14 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/powers/Hail of Crystals|Hail of Crystals]]
   - [[rangoric-srd/powers/Hammer|Hammer]]
   - [[rangoric-srd/powers/Hustle|Hustle]]
-  - [[rangoric-srd/powers/Hypercognition|Hypercognition]]
+  - [[rangoric-srd/powers/Hypercognition (Power)|Hypercognition]]
   - [[rangoric-srd/powers/Id Insinuation|Id Insinuation]]
   - [[rangoric-srd/powers/Identify, Psionic|Identify, Psionic]]
   - [[rangoric-srd/powers/Immovability|Immovability]]
   - [[rangoric-srd/powers/Incarnate|Incarnate]]
   - [[rangoric-srd/powers/Inertial Armor|Inertial Armor]]
   - [[rangoric-srd/powers/Inertial Barrier|Inertial Barrier]]
-  - [[rangoric-srd/powers/Inflict Pain|Inflict Pain]]
+  - [[rangoric-srd/powers/Inflict Pain (Power)|Inflict Pain]]
   - [[rangoric-srd/powers/Insanity (Power)|Insanity (Power)]]
   - [[rangoric-srd/powers/Intellect Fortress|Intellect Fortress]]
   - [[rangoric-srd/powers/Iron Body, Psionic|Iron Body, Psionic]]
@@ -50,15 +50,15 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/powers/Microcosm|Microcosm]]
   - [[rangoric-srd/powers/Mind Blank, Personal|Mind Blank, Personal]]
   - [[rangoric-srd/powers/Mind Blank, Psionic|Mind Blank, Psionic]]
-  - [[rangoric-srd/powers/Mind Probe|Mind Probe]]
+  - [[rangoric-srd/powers/Mind Probe (Power)|Mind Probe]]
   - [[rangoric-srd/powers/Mind Seed|Mind Seed]]
   - [[rangoric-srd/powers/Mind Switch|Mind Switch]]
   - [[rangoric-srd/powers/Mind Switch, True|Mind Switch, True]]
   - [[rangoric-srd/powers/Mind Thrust|Mind Thrust]]
   - [[rangoric-srd/powers/Mind Trap|Mind Trap]]
-  - [[rangoric-srd/powers/Mindlink|Mindlink]]
+  - [[rangoric-srd/powers/Mindlink (Power)|Mindlink]]
   - [[rangoric-srd/powers/Mindlink, Thieving|Mindlink, Thieving]]
-  - [[rangoric-srd/powers/Mindwipe|Mindwipe]]
+  - [[rangoric-srd/powers/Mindwipe (Power)|Mindwipe]]
   - [[rangoric-srd/powers/Minor Creation, Psionic|Minor Creation, Psionic]]
   - [[rangoric-srd/powers/Missive|Missive]]
   - [[rangoric-srd/powers/Missive, Mass|Missive, Mass]]

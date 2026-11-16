@@ -72,7 +72,7 @@ Cerebriliths favor telepathic attacks, usually beginning a battle by launching a
 
 A cerebrilith’s natural weapons, as well as any weapons it wields, are treated as Chaotic-aligned and Evil-aligned for the purpose of overcoming damage reduction.
 
-Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Brain Lock|brain lock]] (any nonmindless, DC 17\*), [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Ego Whip|ego whip]] (2d4, DC 19\*), [[rangoric-srd/powers/Id Insinuation|id insinuation]] (four targets, DC 20\*), [[rangoric-srd/powers/Mind Trap|mind trap]](5 rounds\*); 3/day - [[rangoric-srd/powers/Dominate, Psionic|psionic dominate]] (24 hours, DC 20\*), [[rangoric-srd/powers/Ectoplasmic Form|ectoplasmic form]], [[rangoric-srd/powers/Mind Probe|mind probe]] (DC 20); 1/day - [[rangoric-srd/powers/Mind Thrust|mind thrust]] (9d10, DC 20\*). Manifester level 9th. The save DCs are Charisma-based.
+Psi-Like **Abilities:** At will - [[rangoric-srd/powers/Brain Lock|brain lock]] (any nonmindless, DC 17\*), [[rangoric-srd/powers/Detect Psionics|detect psionics]], [[rangoric-srd/powers/Ego Whip|ego whip]] (2d4, DC 19\*), [[rangoric-srd/powers/Id Insinuation|id insinuation]] (four targets, DC 20\*), [[rangoric-srd/powers/Mind Trap|mind trap]](5 rounds\*); 3/day - [[rangoric-srd/powers/Dominate, Psionic|psionic dominate]] (24 hours, DC 20\*), [[rangoric-srd/powers/Ectoplasmic Form|ectoplasmic form]], [[rangoric-srd/powers/Mind Probe (Power)|mind probe]] (DC 20); 1/day - [[rangoric-srd/powers/Mind Thrust|mind thrust]] (9d10, DC 20\*). Manifester level 9th. The save DCs are Charisma-based.
 
 \*Includes augmentation for the cerebrilith’s manifester level.
 

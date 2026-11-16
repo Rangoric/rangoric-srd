@@ -124,7 +124,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Obscure Poison\|Obscure Poison]] (M): | Make it harder to detect a poison or venomous creature. |
 | [[rangoric-srd/spells/Open and Shut\|Open and Shut]] (F): | Obfuscate whether a door is open or closed. |
 | [[rangoric-srd/spells/Play Instrument\|Play Instrument]]: | Play instrument as if you were skilled. |
-| [[rangoric-srd/spells/Quintessence\|Quintessence]]: | Mask any flaws of or damage to a creature or object. |
+| [[rangoric-srd/spells/Quintessence (Spell)\|Quintessence]]: | Mask any flaws of or damage to a creature or object. |
 | [[rangoric-srd/spells/Recharge Innate Magic\|Recharge Innate Magic]]: | You channel magic energy into your own aura, recharging your innate magic abilities. |
 | [[rangoric-srd/spells/Remove Fear\|Remove Fear]]:                       | Suppresses fear or gives +4 on saves against fear for one subject + one per four levels.                    |
 | [[rangoric-srd/spells/Restful Sleep\|Restful Sleep]] (M): | Gain more hit points while sleeping. |
@@ -170,7 +170,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Anonymous Interaction\|Anonymous Interaction]]: | Creatures forget details about you and conversations with you. |
 | [[rangoric-srd/spells/Anticipate Thoughts\|Anticipate Thoughts]]: | Gain increasing bonuses to AC and on attack rolls and damage rolls against one creature. |
 | [[rangoric-srd/spells/Apport Object\|Apport Object]]: | Send or receive a small object via teleportation. |
-| [[rangoric-srd/spells/Aversion\|Aversion]]: | Cause the target to avoid an object or location. |
+| [[rangoric-srd/spells/Aversion (Spell)\|Aversion]]: | Cause the target to avoid an object or location. |
 | [[rangoric-srd/spells/Babble\|Babble]]: | Target becomes nauseated and causes nearby creatures to become fascinated. |
 | [[rangoric-srd/spells/Beacon of Guilt\|Beacon of Guilt]]: | Cursed object highlights creatures that attempt to take it. |
 | [[rangoric-srd/spells/Bestow Insight\|Bestow Insight]]: | Target gains a +2 insight bonus on skill checks with a skill you have at least one rank in and is considered trained in that skill. |
@@ -353,7 +353,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Haunting Choir\|Haunting Choir]]: | Spirits cause wracking pain to listeners. |
 | [[rangoric-srd/spells/Hillsong\|Hillsong]] (M): | Give temporary Halfling traits to a subject. |
 | [[rangoric-srd/spells/Hollow Heroism\|Hollow Heroism]]: | Provide a heroism effect that you can reverse at any time |
-| [[rangoric-srd/spells/Hypercognition\|Hypercognition]]: | Rapidly recall everything you know about a subject. |
+| [[rangoric-srd/spells/Hypercognition (Spell)\|Hypercognition]]: | Rapidly recall everything you know about a subject. |
 | [[rangoric-srd/spells/Illusory Script\|Illusory Script]] (M):     | Only intended reader can decipher.                                                                                 |
 | [[rangoric-srd/spells/Infuse Self\|Infuse Self]] (M): | Assume the form of a native outsider |
 | [[rangoric-srd/spells/Instant Fake\|Instant Fake]] (M): | Provide a short-term replica of an object. |
