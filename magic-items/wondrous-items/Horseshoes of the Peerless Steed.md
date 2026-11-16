@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "feet"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, Animal Handling skill, haste, spell resistance"
 price: "217,000 gp"

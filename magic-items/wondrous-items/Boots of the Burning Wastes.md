@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "feet"
 aliases:
   - "Boots of the Valley of Fire"
 caster-level: 5

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "feet"
 aura: "Moderate conjuration"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, teleport"
@@ -9,8 +10,8 @@ price: "49,000 gp"
 weight: "3 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Boots of Teleportation|Boots of Teleportation (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

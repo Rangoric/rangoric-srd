@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "legs"
 aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Craft Magic Arms and Armor, dimensional anchor"

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "legs"
 aura: "Faint transmutation"
 caster-level: 3
 prerequisites: "Craft Wondrous Item, haste, expeditious retreat, jump"
