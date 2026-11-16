@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "feet"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, Spell Focus (Transmutation), slow"
 price: "72,000 gp"

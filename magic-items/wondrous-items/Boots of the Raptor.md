@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "feet"
 aura: "Moderate transmutation"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, expeditious retreat, greater magic fang"

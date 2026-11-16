@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "feet"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, cat’s grace, expeditious retreat, haste, jump"
 price: "256,000 gp"

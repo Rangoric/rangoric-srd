@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "legs"
 aliases:
   - "Leggings of Speed"
 aura: "Faint transmutation"

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "feet"
 aura: "Faint transmutation"
 caster-level: 4
 prerequisites: "Craft Wondrous Item, spider climb"
@@ -9,8 +10,8 @@ price: "4,800 gp"
 weight: "1/2 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Slippers of Spider Climbing|Slippers of Spider Climbing (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

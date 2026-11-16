@@ -99,7 +99,7 @@ To determine if an item has the resizing ability, roll d%. A result of 01-70 ind
 
 ##### Magic Items on the Body
 
-Many magic items need to be donned by a character who wants to employ them or benefit from their abilities. It’s possible for a creature with a humanoid-shaped body to wear as many as 14 magic items at the same time. However, each of those items must be worn on (or over) a particular part of the body, known as a “slot.”
+Many magic items need to be donned by a character who wants to employ them or benefit from their abilities. It’s possible for a creature with a humanoid-shaped body to wear as many as 15 magic items at the same time. However, each of those items must be worn on (or over) a particular part of the body, known as a “slot.”
 
 A humanoid-shaped body can be decked out in magic gear consisting of one item from each of the following groups, keyed to which slot on the body the item is worn. A wondrous item’s slot is its `slot` property, and the [[rangoric-srd/magic-items/wondrous-items/Wondrous Items Index.base|Wondrous Items Index]] groups the wondrous items by it.
 
@@ -112,6 +112,7 @@ A humanoid-shaped body can be decked out in magic gear consisting of one item fr
   - **Hands**: gauntlets and gloves.
   - **Head**: caps, circlets, crowns, halos, hats, helms, hoods, laurels, masks, veils, wigs, and other non-headband slot items that can be worn on the head.
   - **Headband**: bands, headbands, phylacteries, and other non-head-slot items that can be worn on the head.
+  - **Legs**: greaves, leggings, trousers, and other items worn on the legs.
   - **Neck**: amulets, brooches, medallions, necklaces, periapts, and scarabs.
   - **Ring (up to two)**: rings.
   - **Shoulders**: capes and cloaks.

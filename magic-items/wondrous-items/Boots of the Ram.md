@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "feet"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, bull’s strength, telekinesis"
 price: "8,600 gp"
