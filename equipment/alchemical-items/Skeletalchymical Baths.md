@@ -24,7 +24,7 @@ tags: [rangoric, rangoric/alchemical-item]
 
 *Alchana; Special*
 
-Like the [[rangoric-srd/equipment/alchemical-items/Temperant Baths|temperant baths]], skeletalchymical baths are not portable items but large tubs of chymicals usually found in a laboratory. As the next step beyond the [[rangoric-srd/equipment/alchemical-items/Bone Balms|bone balms]], necromantic alchemists created full chymical immersives whose effects would permanently enhance and change the structure and integrity of bone.
+Like the [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser|temperant baths]], skeletalchymical baths are not portable items but large tubs of chymicals usually found in a laboratory. As the next step beyond the [[rangoric-srd/equipment/alchemical-items/Bone Balms|bone balms]], necromantic alchemists created full chymical immersives whose effects would permanently enhance and change the structure and integrity of bone.
 
 Found in 20-gallon tubs, the skeletalchymical baths are filled with [[rangoric-srd/equipment/alchemical-items/Aqua Metallorum|aqua metallorum]] and various other chymicals, plus substances more common to necromancy. After treatment, bones take on a somewhat sparkling, metallic look. Their composition and weight remain the same, but the bones are able to withstand stresses as if they were made of steel. For objects, this means they gain a Hardness of 10 with 30 hit points/inch of thickness. If applied to skeletons that have been or will be made undead, this treatment grants a +5 to its Hardness and natural armor.
 
