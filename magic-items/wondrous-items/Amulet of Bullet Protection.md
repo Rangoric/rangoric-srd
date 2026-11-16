@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "neck"
 aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, divine favor, creator's caster level must be at least three times the amulet's bonus"

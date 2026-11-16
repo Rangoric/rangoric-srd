@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "neck"
 aura: "Moderate conjuration"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, heal"

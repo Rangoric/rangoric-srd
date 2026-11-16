@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "neck"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, The Eye"
 price: "8,000 gp"
