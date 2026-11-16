@@ -202,3 +202,16 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Warpriest"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/warpriest")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
