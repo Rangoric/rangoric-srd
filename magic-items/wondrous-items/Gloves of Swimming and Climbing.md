@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "hands"
 aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, bull’s strength, cat’s grace"

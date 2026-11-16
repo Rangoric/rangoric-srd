@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "hands"
 aliases:
   - "Gloves of Dexterity"
 aura: "Moderate transmutation"

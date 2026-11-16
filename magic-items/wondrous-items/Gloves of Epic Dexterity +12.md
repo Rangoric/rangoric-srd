@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "hands"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, cat’s grace"
 price: "1,440,000 gp"

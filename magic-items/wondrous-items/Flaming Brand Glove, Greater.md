@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "hands"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, Maximize Spell, flame blade, resist energy"
 price: "38,000 gp"

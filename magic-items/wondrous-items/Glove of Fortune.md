@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "hands"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, detect thoughts, dispel magic"
 price: "31,500 gp"
