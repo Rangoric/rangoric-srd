@@ -1,0 +1,28 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "headband"
+aura: "Moderate transmutation"
+caster-level: 8
+prerequisites: "Craft Wondrous Item, owl's wisdom"
+price: "4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6)"
+cost: "2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6)"
+weight: "1 lb."
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/wondrous-items/Headband of Inspired Wisdom|Headband of Inspired Wisdom (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Headband of Inspired Wisdom +2|Headband of Inspired Wisdom +2 (PF1 F)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Headband of Inspired Wisdom +4|Headband of Inspired Wisdom +4 (PF1 F)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Headband of Inspired Wisdom +6|Headband of Inspired Wisdom +6 (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-15
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Headband of Inspired Wisdom
+
+This simple bronze headband is decorated with an intricate pattern of fine green etchings. The headband grants the wearer an enhancement bonus to Wisdom of +2, +4, or +6. Treat this as a temporary ability bonus for the first 24 hours the headband is worn.
+
+Moderate transmutation; CL 8th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Owl’s Wisdom|owl's wisdom]]*; Price 4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6); Cost 2,000 gp (+2), 8,000 gp (+4), 18,000 gp (+6); Weight 1 lb.

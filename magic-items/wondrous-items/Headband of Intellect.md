@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "headband"
 aura: "Moderate transmutation"
 caster-level: 8
 prerequisites: "Craft Wondrous Item, fox’s cunning"
 price: "4,000 gp (+2), 16,000 gp (+4), 36,000 gp (+6)"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Headband of Intellect|Headband of Intellect (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

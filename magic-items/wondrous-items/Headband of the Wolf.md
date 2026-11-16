@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "headband"
 aura: "Faint transmutation"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, bloodhound, creator must have the animal focus class feature"
