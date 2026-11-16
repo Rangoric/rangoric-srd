@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "hands"
 aliases:
   - "Gloves of Epic Dexterity"
 caster-level: 20
