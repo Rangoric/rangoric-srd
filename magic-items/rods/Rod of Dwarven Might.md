@@ -1,0 +1,29 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Rod"
+aura: "Strong transmutation"
+caster-level: 19
+prerequisites: "Craft Magic Arms and Armor, Craft Rod, bull's strength, telekinesis, creator must be a dwarf"
+price: "80,000 gp"
+cost: "40,000 gp"
+book: "Advanced Race Guide"
+based-on:
+  - "[[path srd 3.5/items/core-race/Rod of Dwarven Might|Rod of Dwarven Might (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Rod of Dwarven Might|Rod of Dwarven Might (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Rod of Dwarven Might
+
+This dwarven version of the more famous *[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]* has no spell-like powers; however, when wielded by a dwarf, it increases all AC, attack roll, CMD, CMB, and saving throw bonuses from a [[rangoric-srd/races/Dwarf|dwarf]]'s racial traits by +1. The rod shares the mundane powers of a *[[rangoric-srd/magic-items/rods/Rod of Lordly Might|rod of lordly might]]*, but its magical weapon forms are tailored to dwarven preferences.
+
+- In its normal form, the rod can be used as a *+1 returning light hammer*.
+- When button 1 is pushed, the rod becomes a *+3 dwarven longhammer*.
+- When button 2 is pushed, the rod becomes a *+4 dwarven waraxe*.
+- When button 3 is pushed, the rod becomes a *+2 light crossbow* or *+2 heavy crossbow*.
+
+Strong transmutation; CL 19th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Craft Rod|Craft Rod]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, creator must be a dwarf; Price 80,000 gp; Cost 40,000 gp.

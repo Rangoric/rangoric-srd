@@ -412,3 +412,47 @@ More metamagic rods, each working as the metamagic rods above (lesser, normal, a
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Thundering\|Thundering]] | [[rangoric-srd/feats/Thundering Spell\|Thundering Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Dazing\|Dazing]] | [[rangoric-srd/feats/Dazing Spell\|Dazing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Echoing\|Echoing]] | [[rangoric-srd/feats/Echoing Spell\|Echoing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
+
+###### More Rods
+
+More rods, grouped by who can use them: rods any wielder can use, by price, then rods that work with a class feature or a race.
+
+**Any wielder**
+
+| Rod | Price |
+| --- | --- |
+| [[rangoric-srd/magic-items/rods/Rod of Thunderous Force\|Rod of Thunderous Force]] | 5,400 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Ice\|Rod of Ice]] | 8,500 gp |
+| [[rangoric-srd/magic-items/rods/Conduit Rod\|Conduit Rod]] | 12,000 gp |
+| [[rangoric-srd/magic-items/rods/Grounding Rod\|Grounding Rod]] | 12,000 gp |
+| [[rangoric-srd/magic-items/rods/Trap-Stealer's Rod\|Trap-Stealer's Rod]] | 13,500 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Balance\|Rod of Balance]] | 15,000 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Escape\|Rod of Escape]] | 15,000 gp |
+| [[rangoric-srd/magic-items/rods/Rod of the Setting Sun\|Rod of the Setting Sun]] | 15,000 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Expertise\|Rod of Expertise]] | 16,000 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Ruin\|Rod of Ruin]] | 16,000 gp |
+| [[rangoric-srd/magic-items/rods/Sapling Rod\|Sapling Rod]] | 16,650 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Beguiling\|Rod of Beguiling]] | 18,000 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Nettles\|Rod of Nettles]] | 18,000 gp |
+| [[rangoric-srd/magic-items/rods/Suzerain Scepter\|Suzerain Scepter]] | 20,000 gp |
+| [[rangoric-srd/magic-items/rods/Fiery Nimbus Rod\|Fiery Nimbus Rod]] | 22,305 gp |
+| [[rangoric-srd/magic-items/rods/Earthbind Rod\|Earthbind Rod]] | 26,500 gp |
+| [[rangoric-srd/magic-items/rods/Rod of the Aboleth\|Rod of the Aboleth]] | 29,000 gp |
+| [[rangoric-srd/magic-items/rods/Liberator's Rod\|Liberator's Rod]] | 30,000 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Steadfast Resolve\|Rod of Steadfast Resolve]] | 38,305 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Nonresistance\|Rod of Nonresistance]] | 40,000 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Destruction\|Rod of Destruction]] | 57,100 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Shadows\|Rod of Shadows]] | 64,305 gp |
+| [[rangoric-srd/magic-items/rods/Rod of Mind Mastery\|Rod of Mind Mastery]] | 67,000 gp |
+| [[rangoric-srd/magic-items/rods/Scepter of Heaven\|Scepter of Heaven]] | 74,000 gp |
+
+**With a class feature or a race**
+
+| For | Rod | Price |
+| --- | --- | --- |
+| Dwarves | [[rangoric-srd/magic-items/rods/Rod of Dwarven Might\|Rod of Dwarven Might]] | 80,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Grasping Hexes\|Rod of Grasping Hexes]] | 3,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Interminable Hexes\|Rod of Interminable Hexes]] | 3,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Potent Hexes\|Rod of Potent Hexes]] | 9,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Voracious Hexes\|Rod of Voracious Hexes]] | 32,500 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Abrupt Hexes\|Rod of Abrupt Hexes]] | 35,000 gp |
