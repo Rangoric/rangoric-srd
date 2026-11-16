@@ -87,6 +87,12 @@ An ifrit can take any of these in place of the traits they replace (see [[rangor
 | [[rangoric-srd/races/racial-traits/Hypnotic|Hypnotic]] | Fire affinity |
 | [[rangoric-srd/races/racial-traits/Wildfire Heart|Wildfire Heart]] | Energy resistance |
 
+### Class Bonuses
+
+An ifrit gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Ifrit]]
+
 ### Racial Archetypes
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.

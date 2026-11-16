@@ -96,3 +96,9 @@ A tiefling can take any of these in place of the traits they replace (see [[rang
 | [[rangoric-srd/races/racial-traits/Scaled Skin|Scaled Skin]] | Fiendish resistance |
 | [[rangoric-srd/races/racial-traits/Soul Seer|Soul Seer]] | Spell-like ability and fiendish sorcery |
 | [[rangoric-srd/races/racial-traits/Vestigial Wings|Vestigial Wings]] | Skilled |
+
+### Class Bonuses
+
+A tiefling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Tiefling]]

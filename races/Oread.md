@@ -87,3 +87,9 @@ An oread can take any of these in place of the traits they replace (see [[rangor
 | [[rangoric-srd/races/racial-traits/Mountain-Born|Mountain-Born]] | Spell-like ability |
 | [[rangoric-srd/races/racial-traits/Elemental Vitality|Stone in the Blood]] | Earth affinity |
 | [[rangoric-srd/races/racial-traits/Treacherous Earth|Treacherous Earth]] | Spell-like ability |
+
+### Class Bonuses
+
+An oread gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Oread]]

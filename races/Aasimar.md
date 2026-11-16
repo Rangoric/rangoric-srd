@@ -91,3 +91,9 @@ An aasimar can take any of these in place of the traits they replace (see [[rang
 | [[rangoric-srd/races/racial-traits/Incorruptible|Incorruptible]] | Spell-like ability |
 | [[rangoric-srd/races/racial-traits/Scion of Humanity|Scion of Humanity]] | The Celestial language, and alters the native subtype |
 | [[rangoric-srd/races/racial-traits/Truespeaker|Truespeaker]] | Skilled |
+
+### Class Bonuses
+
+An aasimar gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Aasimar]]
