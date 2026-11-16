@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters G|Monsters G (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/monsters/Girallon|Girallon]]
   - [[rangoric-srd/monsters/Gnoll|Gnoll]]
   - [[rangoric-srd/monsters/gnome/Gnome|Gnome]]
-  - [[rangoric-srd/monsters/Goblin|Goblin]]
+  - [[rangoric-srd/monsters/goblin/Goblin|Goblin]]
   - [[rangoric-srd/monsters/golem/Golem|Golem]]
   - [[rangoric-srd/monsters/Gorgon|Gorgon]]
   - [[rangoric-srd/monsters/Gray Render|Gray Render]]

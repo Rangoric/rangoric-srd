@@ -89,7 +89,7 @@ A barghest advances in Hit Dice by consuming corpses in this fashion. For every 
 
 The barghest only advances by consuming the corpses of creatures whose Hit Dice or levels are equal to or greater than its own current total. A barghest that reaches 9 Hit Dice through feeding immediately becomes a greater barghest upon completion of the act.
 
-**Change Shape (Su)**: A barghest can assume the shape of a [[rangoric-srd/monsters/Goblin|goblin]] or a [[rangoric-srd/monsters/Wolf|wolf]] as a standard action. In goblin form, a barghest cannot use its natural weapons but can wield weapons and wear armor. In wolf form, a barghest loses its claw attacks but retains its bite attack.
+**Change Shape (Su)**: A barghest can assume the shape of a [[rangoric-srd/monsters/goblin/Goblin|goblin]] or a [[rangoric-srd/monsters/Wolf|wolf]] as a standard action. In goblin form, a barghest cannot use its natural weapons but can wield weapons and wear armor. In wolf form, a barghest loses its claw attacks but retains its bite attack.
 
 **Pass Without Trace (Ex)**: A barghest in wolf form can use [[rangoric-srd/spells/Pass without Trace|pass without trace]] (as the spell) as a free action.
 

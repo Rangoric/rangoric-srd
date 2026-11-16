@@ -137,3 +137,29 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Alchemist"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/alchemist")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Bard"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/bard")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC

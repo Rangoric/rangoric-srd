@@ -174,6 +174,10 @@ The types of Performance and their associated skills are: Act (Deception, Imitat
 
 **Jack-of-All-Trades (Ex)**: At 10th level, the bard can use any skill, even if the skill normally requires him to be trained. At 16th level, the bard considers all skills to be class skills. At 19th level, the bard can take 10 on any skill check, even if it is not normally allowed. ^bard-jack-of-all-trades
 
+**Archetypes**: A bard can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The bard’s archetypes, with what each replaces: ^bard-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Bard]]
+
 ###### Ex-Bards
 
 A bard who becomes lawful in alignment cannot progress in levels as a bard, though he retains all his bard abilities.

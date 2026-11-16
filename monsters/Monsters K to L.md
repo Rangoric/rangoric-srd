@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters K to L|Monsters K to L (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/overview]
 ## Kobold - Lycanthrope
 
   - [[rangoric-srd/monsters/Kin o’ the Green|Kin o’ the Green]]
-  - [[rangoric-srd/monsters/Kobold|Kobold]]
+  - [[rangoric-srd/monsters/kobold/Kobold|Kobold]]
   - [[rangoric-srd/monsters/Korred|Korred]]
   - [[rangoric-srd/monsters/Kraken|Kraken]]
   - [[rangoric-srd/monsters/Krenshar|Krenshar]]

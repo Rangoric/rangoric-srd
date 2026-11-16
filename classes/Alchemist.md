@@ -131,4 +131,8 @@ The discoveries are listed in [[rangoric-srd/class-options/discoveries/Discoveri
 
 ![[rangoric-srd/class-options/discoveries/True Mutagen (Grand Discovery)]]
 
+**Archetypes**: An alchemist can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The alchemist’s archetypes, with what each replaces: ^alchemist-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Alchemist]]
+
 **Alchemist Formulae**: Alchemists gain access to a variety of formulae, allowing them to make extracts of the spells on the [[rangoric-srd/spells/Alchemist Formula List|alchemist formula list]]. ^alchemist-formulae
