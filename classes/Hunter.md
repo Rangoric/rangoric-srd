@@ -193,3 +193,7 @@ The hunter and her companion can attempt to [[rangoric-srd/skills/Intimidation|d
 **Master Hunter (Ex)**: At 20th level, a hunter becomes a master hunter, able to track down foes with ease. She can always move at full speed while using [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] to follow tracks without penalty. ^hunter-master-hunter
 
 Additionally, each day when the hunter regains her spells, she chooses one [[rangoric-srd/classes/Hunter#^hunter-animal-focus|animal focus]] to be active on herself for the entire day. This focus is in addition to using her animal focus class ability (including the additional focus ability she is able to use on herself if her animal companion is dead).
+
+**Archetypes**: A hunter can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The hunter’s archetypes, with what each replaces: ^hunter-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Hunter]]
