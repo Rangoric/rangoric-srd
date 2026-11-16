@@ -85,3 +85,11 @@ A ratfolk can take any of these in place of the traits they replace (see [[rango
 | [[rangoric-srd/races/racial-traits/Scent (Ratfolk Trait)|Scent]] | Tinker |
 | [[rangoric-srd/races/racial-traits/Skulk|Skulk]] | Tinker |
 | [[rangoric-srd/races/racial-traits/Unnatural|Unnatural]] | Rodent empathy |
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/gunslinger/Gulch Gunner (Archetype)\|Gulch Gunner]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
