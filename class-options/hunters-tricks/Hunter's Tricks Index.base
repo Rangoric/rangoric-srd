@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/hunters-tricks")
+    - note.option-type == "hunter's trick"
+views:
+  - type: table
+    name: "Hunter's tricks"
+    order:
+      - file.name
+      - note.ability-type
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC

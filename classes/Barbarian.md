@@ -93,6 +93,10 @@ The rage powers are listed in [[rangoric-srd/class-options/rage-powers/Rage Powe
 
 **Mighty Rage (Ex)**: At 20th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +8, and his morale bonus on Will saves increases to +4. The penalty to AC remains at –2. ^barbarian-mighty-rage
 
+**Archetypes**: A barbarian can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The barbarian’s archetypes, with what each replaces: ^barbarian-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Barbarian]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The barbarian’s class bonuses, by race: ^barbarian-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Barbarian]]

@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters T to Z|Monsters T to Z (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/monsters/tojanida/Tojanida|Tojanida]]
   - [[rangoric-srd/monsters/Treant|Treant]]
   - [[rangoric-srd/monsters/Triton|Triton]]
-  - [[rangoric-srd/monsters/Troglodyte|Troglodyte]]
+  - [[rangoric-srd/monsters/troglodyte/Troglodyte|Troglodyte]]
   - [[rangoric-srd/monsters/troll/Troll|Troll]]
   - [[rangoric-srd/monsters/unicorn/Unicorn|Unicorn]]
   - [[rangoric-srd/monsters/Vampire|Vampire]]
