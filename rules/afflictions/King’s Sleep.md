@@ -1,7 +1,7 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Core Rulebook"
+book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "ingested"
 save: "Fortitude DC 19"
@@ -15,6 +15,7 @@ aliases:
   - "King's Sleep"
 based-on:
   - "[[path srd 3.5/afflictions/King's Sleep|King's Sleep (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
 change: new
 pi-review: 2026-11-13
