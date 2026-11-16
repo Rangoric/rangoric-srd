@@ -86,3 +86,11 @@ An ifrit can take any of these in place of the traits they replace (see [[rangor
 | [[rangoric-srd/races/racial-traits/Forge-Hardened|Forge-Hardened]] | Spell-like ability |
 | [[rangoric-srd/races/racial-traits/Hypnotic|Hypnotic]] | Fire affinity |
 | [[rangoric-srd/races/racial-traits/Wildfire Heart|Wildfire Heart]] | Energy resistance |
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/sorcerer/Wishcrafter (Archetype)\|Wishcrafter]] | [[rangoric-srd/classes/Sorcerer\|Sorcerer]] |

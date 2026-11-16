@@ -23,6 +23,8 @@ Your bloodline is blessed by a celestial power, either from a celestial ancestor
 
 **Bloodline Arcana**: Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/evil equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Empyreal (Mutated Bloodline)|empyreal mutated bloodline]].
+
 ## Bloodline Powers
 
 Your celestial heritage grants you a great many powers, but they come at a price. The lords of the higher planes are watching you and your actions closely.

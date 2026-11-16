@@ -23,6 +23,8 @@ Your bloodline carries the lingering stain of ancient serpent races that ruled w
 
 **Bloodline Arcana**: Your powers of compulsion can affect even bestial creatures. Whenever you cast a mind-affecting or language-dependent spell, it affects animals, magical beasts, and monstrous humanoids as if they were humanoids who understood your language.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Envenomed (Mutated Bloodline)|envenomed mutated bloodline]].
+
 ## Bloodline Powers
 
 The treacherous and yet hypnotic serpent's blood that flows through you taints your magic with a sinuous and seductive grace.

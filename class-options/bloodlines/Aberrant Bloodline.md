@@ -23,6 +23,8 @@ There is a taint in your blood, one that is alien and bizarre. You tend to think
 
 **Bloodline Arcana**: Whenever you cast a spell of the polymorph subschool, increase the duration of the spell by 50% (minimum 1 round). This bonus does not stack with the increase granted by the Extend Spell feat.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Warped (Mutated Bloodline)|warped mutated bloodline]].
+
 ## Bloodline Powers
 
 Aberrant sorcerers show increasing signs of their tainted heritage as they increase in level, although they are only visible when used.

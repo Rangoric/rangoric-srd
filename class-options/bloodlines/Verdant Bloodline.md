@@ -23,6 +23,8 @@ Your progenitors infused themselves with raw plant life, binding it into their o
 
 **Bloodline Arcana**: Whenever you cast a spell with a range of personal, your skin toughens, granting you a natural armor bonus equal to the spell's level for 1d4 rounds. This bonus does not stack with any other natural armor bonuses you might have.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Groveborn (Mutated Bloodline)|groveborn mutated bloodline]].
+
 ## Bloodline Powers
 
 The power of living things infuses every aspect of your magic, as you draw power from nature and its life energies flow through you.

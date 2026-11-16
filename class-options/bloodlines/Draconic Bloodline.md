@@ -23,6 +23,8 @@ At some point in your family's history, a dragon interbred with your bloodline, 
 
 **Bloodline Arcana**: Whenever you cast a spell with an energy descriptor that matches your draconic bloodline's energy type, that spell deals +1 point of damage per die rolled.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Linnorm (Mutated Bloodline)|linnorm mutated bloodline]].
+
 ## Bloodline Powers
 
 The power of dragons flows through you and manifests in a number of ways. At 1st level, you must select one of the chromatic or metallic dragon types. This choice cannot be changed. A number of your abilities grant resistances and deal damage based on your dragon type, as noted on the following table.

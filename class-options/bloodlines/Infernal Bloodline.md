@@ -23,6 +23,8 @@ Somewhere in your family's history, a relative made a deal with a devil, and tha
 
 **Bloodline Arcana**: Whenever you cast a spell of the charm subschool, increase the spell's DC by +2.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Pit-Touched (Mutated Bloodline)|pit-touched mutated bloodline]].
+
 ## Bloodline Powers
 
 You can draw upon the power of Hell, although you must be wary of its corrupting influence. Such power does not come without a price.

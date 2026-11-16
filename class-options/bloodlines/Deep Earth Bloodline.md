@@ -23,6 +23,8 @@ The echoing cave-songs and the rumble and creak of primal spirits deep below the
 
 **Bloodline Arcana**: Whenever you and the target of your spell are both underground, increase the spell's save DC by +1.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Bedrock (Mutated Bloodline)|bedrock mutated bloodline]].
+
 ## Bloodline Powers
 
 The powers of the living rock are within you, and your communion with the strength of stone is refined and enhanced as your power grows.

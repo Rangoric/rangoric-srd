@@ -23,6 +23,8 @@ The capricious nature of the fey runs in your family due to some intermingling o
 
 **Bloodline Arcana**: Whenever you cast a spell of the compulsion subschool, increase the spell's DC by +2.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Sylvan (Mutated Bloodline)|sylvan mutated bloodline]].
+
 ## Bloodline Powers
 
 You have always had a tie to the natural world, and as your power increases, so does the influence of the fey over your magic.

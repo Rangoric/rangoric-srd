@@ -23,6 +23,8 @@ Your family has always been skilled in the eldritch art of magic. While many of 
 
 **Bloodline Arcana**: Whenever you apply a metamagic feat to a spell that increases the slot used by at least one level, increase the spell's DC by +1. This bonus does not stack with itself and does not apply to spells modified by the Heighten Spell feat.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Sage (Mutated Bloodline)|sage mutated bloodline]].
+
 ## Bloodline Powers
 
 Magic comes naturally to you, but as you gain levels you must take care to prevent the power from overwhelming you.

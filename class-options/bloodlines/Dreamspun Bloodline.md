@@ -23,6 +23,8 @@ Your family is a long line of dreamers, who dream not as ordinary mortals do but
 
 **Bloodline Arcana**: Whenever you target a single creature with a spell, you gain an insight bonus equal to half the spell's level (minimum +1) for 1 round to your AC and saving throws against any spell or attack made by that creature.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Visionary (Mutated Bloodline)|visionary mutated bloodline]].
+
 ## Bloodline Powers
 
 You reach out into and through the world of dreams to touch the minds and destinies of those around you.

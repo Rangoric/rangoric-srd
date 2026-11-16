@@ -23,6 +23,8 @@ Generations ago, a demon spread its filth into your heritage. While it does not 
 
 **Bloodline Arcana**: Whenever you cast a spell of the summoning subschool, the creatures summoned gain DR/good equal to 1/2 your sorcerer level (minimum 1). This does not stack with any DR the creature might have.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Brutal (Mutated Bloodline)|brutal mutated bloodline]].
+
 ## Bloodline Powers
 
 While some would say that you are possessed, you know better. The demonic influence in your blood grows as you gain power.
