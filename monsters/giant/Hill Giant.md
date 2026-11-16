@@ -1,77 +1,78 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
 size: "Large"
-creature-type: "Giant"
-hit-dice: "12d8+48 (102 hp)"
+creature-type: "Humanoid"
+subtypes: ["Giant"]
+hit-dice: "10d8+40 (85 hp)"
 initiative: "–1"
-speed: "30 ft. in hide armor (6 squares); base speed 40 ft."
-armor-class: "20 (–1 size, –1 Dex, +9 natural, +3 hide armor), touch 8, flat-footed 20"
-base-attack: "+9"
-cmb: "+17 (+19 bull rush, +19 sunder)"
-cmd: "26 (28 vs. bull rush and sunder)"
-attack: "Greatclub +16 melee (2d8+10) or slam +15 melee (1d4+7) or rock +8 ranged (2d6+7)"
-full-attack: "Greatclub +16/+11 melee (2d8+10) or 2 slams +15 melee (1d4+7) or rock +8 ranged (2d6+7)"
+speed: "40 ft. (8 squares) (30 ft. in armor)"
+armor-class: "21 (+4 armor, –1 Dex, +9 natural, –1 size), touch 8, flat-footed 21"
+base-attack: "+7"
+cmb: "+15"
+cmd: "24"
+attack: "Greatclub +14 melee (2d8+10) or slam +13 melee (1d8+7) or rock +6 ranged (1d8+10)"
+full-attack: "Greatclub +14/+9 melee (2d8+10); or 2 slams +13 melee (1d8+7); or rock +6 ranged (1d8+10)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Rock throwing"
+special-attacks: "Rock throwing (120 ft.)"
 special-qualities: "Low-light vision, rock catching"
-saves: "Fort +12, Ref +3, Will +4"
+saves: "Fort +11, Ref +2, Will +3"
 abilities: "Str 25, Dex 8, Con 19, Int 6, Wis 10, Cha 7"
-skills: "Athletics +16, Perception +9"
-skill-ranks: "Athletics 6, Perception 6"
-feats: "Cleave, Improved Bull Rush, Power Attack, Improved Sunder, Weapon Focus (greatclub)"
+skills: "Athletics +10, Intimidation +12, Perception +6"
+skill-ranks: "Athletics 3, Intimidation 11, Perception 3"
+feats: "Cleave, Intimidating Prowess, Martial Weapon Proficiency (greatclub), Power Attack, Weapon Focus (greatclub)"
 environment: "Temperate hills"
-organization: "Solitary, gang (2–5), band (6–9 plus 35% noncombatants), hunting/raiding party (6–9 plus 2–4 dire wolves), or tribe (21–30 plus 35% noncombatants plus 12–30 dire wolves, 2–4 ogres, and 12–22 orcs)"
+organization: "Solitary, gang (2–5), band (6–8), raiding party (9–12 plus 1d4 dire wolves), tribe (13–30 plus 35% noncombatants plus 1 barbarian or fighter chief of 4th–6th level, 11–16 dire wolves, 1–4 ogres, and 13–20 orc slaves), or hunting/raiding party (6–9 plus 2–4 dire wolves)"
 challenge-rating: 7
-treasure: "Standard"
+treasure: "Standard (hide armor, greatclub, other treasure)"
 alignment: "Often chaotic evil"
 advancement: "By character class"
 level-adjustment: "+4"
+group: "[[rangoric-srd/monsters/giant/Giant|Giant]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Giant, Hill|Giant, Hill (PF1)]]"
   - "[[fantasy srd 3.5/monsters/giant/Hill Giant|Hill Giant (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-15
 tags: [rangoric, rangoric/monster]
 ---
 
 # Hill Giant
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^giant|Giant]]
-  - **Hit Dice**: 12d8+48 (102 hp)
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Giant)
+  - **Hit Dice**: 10d8+40 (85 hp)
   - **Initiative**: –1
-  - **Speed**: 30 ft. in hide armor (6 squares); base speed 40 ft.
-  - **Armor Class**: 20 (–1 size, –1 Dex, +9 natural, +3 hide armor), touch 8, flat-footed 20
-  - **Base Attack**: +9; **CMB**: +17 (+19 bull rush, +19 sunder); **CMD**: 26 (28 vs. bull rush and sunder)
-  - **Attack**: Greatclub +16 melee (2d8+10) or slam +15 melee (1d4+7) or rock +8 ranged (2d6+7)
-  - **Full Attack**: Greatclub +16/+11 melee (2d8+10) or 2 slams +15 melee (1d4+7) or rock +8 ranged (2d6+7)
+  - **Speed**: 40 ft. (8 squares) (30 ft. in armor)
+  - **Armor Class**: 21 (+4 armor, –1 Dex, +9 natural, –1 size), touch 8, flat-footed 21
+  - **Base Attack**: +7; **CMB**: +15; **CMD**: 24
+  - **Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +14 melee (2d8+10) or slam +13 melee (1d8+7) or rock +6 ranged (1d8+10)
+  - **Full Attack**: [[rangoric-srd/equipment/weapons/Greatclub|Greatclub]] +14/+9 melee (2d8+10); or 2 slams +13 melee (1d8+7); or rock +6 ranged (1d8+10)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Rock throwing
-  - **Special Qualities**: Low-light vision, rock catching
-  - **Saves**: Fort +12, Ref +3, Will +4
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rock Throwing|Rock throwing]] (120 ft.)
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Rock Catching|rock catching]]
+  - **Saves**: Fort +11, Ref +2, Will +3
   - **Abilities**: Str 25, Dex 8, Con 19, Int 6, Wis 10, Cha 7
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +16, [[rangoric-srd/skills/Perception|Perception]] +9
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatclub)
+  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +6
+  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Martial Weapon Proficiency|Martial Weapon Proficiency]] (greatclub), [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greatclub)
   - **Environment**: Temperate hills
-  - **Organization**: Solitary, gang (2–5), band (6–9 plus 35% noncombatants), hunting/raiding party (6–9 plus 2–4 dire wolves), or tribe (21–30 plus 35% noncombatants plus 12–30 dire wolves, 2–4 ogres, and 12–22 orcs)
+  - **Organization**: Solitary, gang (2–5), band (6–8), raiding party (9–12 plus 1d4 dire wolves), tribe (13–30 plus 35% noncombatants plus 1 barbarian or fighter chief of 4th–6th level, 11–16 dire wolves, 1–4 ogres, and 13–20 orc slaves), or hunting/raiding party (6–9 plus 2–4 dire wolves)
   - **Challenge Rating**: 7
-  - **Treasure**: Standard
+  - **Treasure**: Standard (hide armor, greatclub, other treasure)
   - **Alignment**: Often chaotic evil
   - **Advancement**: By character class
   - **Level Adjustment**: +4
 
-Skin color among hill giants ranges from light tan to deep ruddy brown. Their hair is brown or black, with eyes the same color. Hill giants wear layers of crudely prepared hides with the fur left on. They seldom wash or repair their garments, preferring to simply add more hides as their old ones wear out.
+Skin color among hill giants ranges from light tan to deep, ruddy brown. Their hair is brown or black, with eyes the same color. Hill giants wear layers of crudely prepared hides with the fur left on. They seldom wash or repair their garments, preferring simply to add more hides as their old ones wear out. Adults are around 10 feet tall and weigh about 1,100 pounds. Hill giants can live to be 200 years old, but almost never do.
 
-Adults are about 10-1/2 feet tall and weigh about 1,100 pounds. Hill giants can live to be 200 years old.
+Hill giants prefer to fight from high, rocky outcroppings, where they can pelt opponents with rocks and boulders while limiting the risk to themselves. Hill giants love to make overrun attacks against smaller creatures when they first join battle. Thereafter, they stand fast and swing away with their massive clubs.
 
-## Combat
+Hill giants are the most nomadic of all the humanoid giant species, preferring to travel from one settlement to the next in order to raid and pillage. While they prefer temperate climates, they'll travel far from their preferred environment so long as the raiding is plentiful and successful. They are, as a whole, incredibly selfish creatures and rarely engage in battles they don't automatically know they'll win. Hill giants are known for shoving one another at terrifying foes and won't hesitate to sacrifice a clanmate to save their own skins. Roving bands of hill giants are common in temperate hills, and their constant aggression makes them one of the more feared dangers in this climate.
 
-Hill giants prefer to fight from high, rocky outcroppings, where they can pelt opponents with rocks and boulders while limiting the risk to themselves.
+Solitary, non-evil hill giants are very rare but can sometimes be found in other humanoid societies, though they are almost never accepted in central cities or population centers. They do best as laborers and soldiers in outlying frontier towns, and often serve as rudimentary diplomats to negotiate with marauding hill giant bands. Unfortunately, hill giants who shed their racial lifestyle for civilization are mocked and often killed on sight by their nomadic brethren. Still, these “civilized” hill giants can find their place within society and many have managed to live peaceful, uneventful lives.
 
-Hill giants love to make [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]] attacks against smaller creatures when they first join battle. Thereafter, they stand fast and swing away with their massive clubs.
-
-**Rock Throwing (Ex)**: The range increment is 120 feet for a hill giant’s thrown rocks.
+Hill giants speak Giant.
 
 ## Hill Giants as Characters
 
