@@ -40,4 +40,4 @@ Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 
 ### Description
 
-The gnoll is built as an example race and described no further; what gnolls are like, and their size, is in the monster [[rangoric-srd/monsters/Gnoll|Gnoll]] entry.
+The gnoll is built as an example race and described no further; what gnolls are like, and their size, is in the monster [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]] entry.

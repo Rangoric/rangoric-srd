@@ -41,4 +41,4 @@ Level Adjustment: +1 (see [[rangoric-srd/monsters/Monsters as Races#^level-adjus
 
 ### Description
 
-The lizardfolk is built as an example race and described no further; what lizardfolk are like, and their size, is in the monster [[rangoric-srd/monsters/Lizardfolk|Lizardfolk]] entry.
+The lizardfolk is built as an example race and described no further; what lizardfolk are like, and their size, is in the monster [[rangoric-srd/monsters/lizardfolk/Lizardfolk|Lizardfolk]] entry.
