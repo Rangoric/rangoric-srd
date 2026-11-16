@@ -8,6 +8,7 @@ based-on:
   - "[[path srd 3.5/items/adventuring-gear/Swashbuckler's Kit|Swashbuckler's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Hunter's Kit|Hunter's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Brawler's Kit|Brawler's Kit (PF1)]]"
+  - "[[path srd 3.5 foundry/items/gear/Kit, Kineticist's|Kit, Kineticist's (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -53,6 +54,7 @@ tags: [rangoric, rangoric/overview]
 | Ink (1 oz. vial)         | 8 gp    | —           |
 | Inkpen                   | 1 sp    | —           |
 | Jug, clay                | 3 cp    | 9 lb.       |
+| Kineticist’s kit         | 8 gp    | 22 lb.      |
 | Ladder, 10-foot          | 5 cp    | 20 lb.      |
 | Lamp, common             | 1 sp    | 1 lb.       |
 | Lantern, bullseye        | 12 gp   | 3 lb.       |
@@ -278,6 +280,8 @@ Caltrops may not be effective against unusual opponents.
 **Ink**: This is black ink. You can buy ink in other colors, but it costs twice as much.
 
 **Jug, Clay**: This basic ceramic jug is fitted with a stopper and holds 1 gallon of liquid.
+
+**Kineticist’s Kit**: A starting kit for a [[rangoric-srd/classes/Kineticist|kineticist]]. It includes a backpack, a belt pouch, a blanket, torches (10), trail rations (5 days), and a waterskin.
 
 **Lamp, Common**: A lamp clearly illuminates a 15-foot radius, provides shadowy illumination out to a 30-foot radius, and burns for 6 hours on a pint of oil. You can carry a lamp in one hand.
 

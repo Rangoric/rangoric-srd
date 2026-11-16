@@ -1,0 +1,30 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "wild talent"
+class: ["Kineticist"]
+element: ["aether", "air", "water"]
+talent-type: "utility"
+talent-level: 6
+burn: "0"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Suffocate|Suffocate (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/class-option]
+---
+
+# Suffocate
+
+*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+
+  - **Elements**: [[rangoric-srd/class-options/elements/Aether Element|aether]], [[rangoric-srd/class-options/elements/Air Element|air]], or [[rangoric-srd/class-options/elements/Water Element|water]]
+  - **Type**: utility (Sp)
+  - **Level**: 6
+  - **Burn**: 0
+  - **Saving Throw**: Fortitude partial
+  - **Spell Resistance**: yes
+
+You use aether to choke a creature within 120 feet, air to create an area of unbreathable air around it, or water to fill its throat with water. If your target needs to breathe, it must hold its breath for as long as you concentrate. On each of its turns, it can attempt a Fortitude save in order to speak, but it can breathe only if your concentration breaks, you leave the 120-foot range, or you break line of effect. You can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] when activating this wild talent in order to expel the air from your target’s lungs. If you do so and the target fails its first Fortitude save, it becomes [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]] and is reduced to 0 hit points, and on its second failed Fortitude save, it falls [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]] and is reduced to –1 hit points.

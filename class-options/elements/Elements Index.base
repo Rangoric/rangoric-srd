@@ -1,0 +1,15 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/elements")
+views:
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.option-type
+      - note.class
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
