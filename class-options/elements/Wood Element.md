@@ -1,0 +1,25 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "element"
+class: ["Kineticist"]
+book: "Ultimate Wilderness"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Wood Element|Wood Element (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/class-option]
+---
+
+# Wood Element
+
+*An [[rangoric-srd/class-options/elements/Elements|element]] a [[rangoric-srd/classes/Kineticist|kineticist]] can choose with [[rangoric-srd/classes/Kineticist#^kineticist-elemental-focus|elemental focus]] or [[rangoric-srd/classes/Kineticist#^kineticist-expanded-element|expanded element]].*
+
+Kineticists who focus on the concept of wood as an element are known as phytokineticists. Phytokineticists share a strong bond with the [[rangoric-srd/rules/Planes#The Fey Realm|fey realm]] and channel the power of primordial life. As there is no Elemental Plane of Wood, the phytokineticist draws upon pockets of vital energy that form when the Elemental Planes grind against the borders of the fey realm.
+
+**Class Skills**: A phytokineticist adds [[rangoric-srd/skills/Animal Handling|Animal Handling]] and [[rangoric-srd/skills/Nature|Nature]] to her list of class skills.
+
+**Kinetic Blasts and Defense**: Simple blasts: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]], [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]]. Composite blasts: [[rangoric-srd/class-options/wild-talents/Autumn Blast|autumn blast]], [[rangoric-srd/class-options/wild-talents/Positive Admixture|positive admixture]], [[rangoric-srd/class-options/wild-talents/Spring Blast|spring blast]], [[rangoric-srd/class-options/wild-talents/Summer Blast|summer blast]], [[rangoric-srd/class-options/wild-talents/Verdant Blast|verdant blast]], [[rangoric-srd/class-options/wild-talents/Winter Blast|winter blast]]. Defense: [[rangoric-srd/class-options/wild-talents/Flesh of Wood|flesh of wood]].
+
+**Wild Talents**: 1st—[[rangoric-srd/class-options/wild-talents/Basic Phytokinesis|basic phytokinesis]], [[rangoric-srd/class-options/wild-talents/Kinetic Cover|kinetic cover]], [[rangoric-srd/class-options/wild-talents/Photokinetic Infusion|photokinetic infusion]]†, [[rangoric-srd/class-options/wild-talents/Pushing Infusion|pushing infusion]]†, [[rangoric-srd/class-options/wild-talents/Roots|roots]], [[rangoric-srd/class-options/wild-talents/Wood Healer|wood healer]], [[rangoric-srd/class-options/wild-talents/Woodland Step|woodland step]]; 2nd—[[rangoric-srd/class-options/wild-talents/Entangling Infusion|entangling infusion]]†, [[rangoric-srd/class-options/wild-talents/Foxfire|foxfire]], [[rangoric-srd/class-options/wild-talents/Merciful Foliage|merciful foliage]]; 3rd—[[rangoric-srd/class-options/wild-talents/Brachiation|brachiation]], [[rangoric-srd/class-options/wild-talents/Foxfire Infusion|foxfire infusion]]†, [[rangoric-srd/class-options/wild-talents/Impale|impale]]†, [[rangoric-srd/class-options/wild-talents/Thorn Flesh|thorn flesh]], [[rangoric-srd/class-options/wild-talents/Warp Wood (Wild Talent)|warp wood]]; 4th—[[rangoric-srd/class-options/wild-talents/Greensight (Wild Talent)|greensight]], [[rangoric-srd/class-options/wild-talents/Healing Burst|healing burst]], [[rangoric-srd/class-options/wild-talents/Herbal Antivenom|herbal antivenom]], [[rangoric-srd/class-options/wild-talents/Plant Disguise|plant disguise]], [[rangoric-srd/class-options/wild-talents/Shape Wood|shape wood]], [[rangoric-srd/class-options/wild-talents/Toxic Infusion|toxic infusion]]†; 5th—[[rangoric-srd/class-options/wild-talents/Plant Puppet|plant puppet]], [[rangoric-srd/class-options/wild-talents/Spore Infusion|spore infusion]]†, [[rangoric-srd/class-options/wild-talents/Wild Growth|wild growth]], [[rangoric-srd/class-options/wild-talents/Woodland Step, Greater|woodland step, greater]]; 6th—[[rangoric-srd/class-options/wild-talents/Deadly Earth|deadly earth]]†, [[rangoric-srd/class-options/wild-talents/Green Tongue|green tongue]]; 7th—[[rangoric-srd/class-options/wild-talents/Green Tongue, Greater|green tongue, greater]], [[rangoric-srd/class-options/wild-talents/Toxic Infusion, Greater|toxic infusion, greater]]†, [[rangoric-srd/class-options/wild-talents/Tree Step|tree step]]; 8th—[[rangoric-srd/class-options/wild-talents/Wood Soldiers|wood soldiers]]; 9th—[[rangoric-srd/class-options/wild-talents/Forest Siege|forest siege]]. Infusion wild talents are marked with a dagger (†); the others are utility wild talents.
