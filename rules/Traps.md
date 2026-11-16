@@ -182,6 +182,8 @@ Some traps include optional features that can make them considerably more deadly
 
 The costs listed for mechanical traps are market prices; those for magic traps are raw material costs. A trap whose name is a link has a note of its own with its full entry, and lists no cost. Caster level and class for the spells used to produce the trap effects are provided in the entries for magic device traps and spell traps. For all other spells used (in triggers, for example), the caster level is assumed to be the minimum required.
 
+Rangers set traps of their own, improvised on the spot and without a CR: the [[rangoric-srd/class-options/ranger-traps/Ranger Traps|ranger traps]].
+
 ###### CR 1/3 Traps
 
 **[[rangoric-srd/rules/traps/Tripwire Trap|Tripwire Trap]]**: CR 1/3; mechanical; location trigger; automatic reset. Its full entry is in its note.

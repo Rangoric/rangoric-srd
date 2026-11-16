@@ -98,3 +98,42 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Fighter"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/fighter")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Ranger"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/ranger")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Druid"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/druid")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC

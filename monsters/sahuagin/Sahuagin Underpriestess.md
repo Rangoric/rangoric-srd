@@ -14,7 +14,7 @@ cmd: "19"
 attack: "Masterwork trident +10 melee (1d8+6) or bite +9 melee (1d4+2) or masterwork underwater heavy crossbow +6 ranged (1d10/19–20)"
 full-attack: "Masterwork trident +10 melee (1d8+6) and bite +4 melee (1d4+2); or masterwork underwater heavy crossbow +6 ranged (1d10/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Blood frenzy, channel negative energy 3/day (DC 12, 2d6), destructive smite (+2, 7/day), rebuke undead, smite (+4, +4 damage, 1/day), rebuke water creatures, turn fire creatures"
+special-attacks: "Blood frenzy, channel negative energy 3/day (DC 12, 2d6), destructive smite (+2, 7/day), rebuke undead, smite (+4, +4 damage, 1/day), rebuke water creatures, turn fire creatures (3/day)"
 special-qualities: "Blindsense 30 ft., darkvision 60 ft., light blindness, speak with sharks"
 saves: "Fort +7, Ref +4, Will +11 (+2 vs. good)"
 abilities: "Str 18, Dex 10, Con 17, Int 14, Wis 18, Cha 11"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +10 melee (1d8+6) or bite +9 melee (1d4+2) or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +6 ranged (1d10/19–20)
   - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Trident|trident]] +10 melee (1d8+6) and bite +4 melee (1d4+2); or [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] underwater heavy crossbow +6 ranged (1d10/19–20)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] 3/day (DC 12, 2d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+2, 7/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +4 damage, 1/day), [[rangoric-srd/class-options/domains/Water Domain|rebuke water creatures, turn fire creatures]]
+  - **Special Attacks**: [[rangoric-srd/monsters/sahuagin/Sahuagin|Blood frenzy]], [[rangoric-srd/classes/Cleric#^cleric-channel-energy|channel negative energy]] 3/day (DC 12, 2d6), [[rangoric-srd/class-options/domains/Destruction Domain|destructive smite]] (+2, 7/day), [[rangoric-srd/classes/Cleric#^cleric-turn-or-rebuke-undead|rebuke undead]], [[rangoric-srd/class-options/domains/Destruction Domain|smite]] (+4, +4 damage, 1/day), [[rangoric-srd/class-options/domains/Water Domain|rebuke water creatures, turn fire creatures]] (3/day)
   - **Special Qualities**: [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] 30 ft., [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Light Blindness|light blindness]], [[rangoric-srd/monsters/sahuagin/Sahuagin|speak with sharks]]
   - **Saves**: Fort +7, Ref +4, Will +11 (+2 vs. good)
   - **Abilities**: Str 18, Dex 10, Con 17, Int 14, Wis 18, Cha 11

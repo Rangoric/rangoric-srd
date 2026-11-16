@@ -147,3 +147,9 @@ Through 3rd level, a ranger has no caster level. At 4th level and higher, his ca
 **Improved Quarry (Ex)**: At 19th level, the ranger’s ability to hunt his quarry improves. He can now select a quarry as a free action, and can now take 20 while using Fieldcraft to track his quarry, while moving at normal speed without penalty. His insight bonus to attack his quarry increases to +4. If his quarry is killed or dismissed, he can select a new one after 10 minutes have passed.
 
 **Master Hunter (Ex)**: A ranger of 20th level becomes a master hunter. He can always move at full speed while using Fieldcraft to follow tracks without penalty. He can, as a standard action, make a single attack against a favored enemy at his full attack bonus. If the attack hits, the target takes damage normally and must make a Fortitude save or die. The DC of this save is equal to 10 + 1/2 the ranger’s level + the ranger’s Wisdom modifier. A ranger can choose instead to deal an amount of nonlethal damage equal to the creature’s current hit points. A successful save negates this damage. A ranger can use this ability once per day against each favored enemy type he possesses, but not against the same creature more than once in a 24-hour period.
+
+**Archetypes**: A ranger can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The ranger’s archetypes, with what each replaces: ^ranger-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Ranger]]
+
+**Ranger Traps**: Some rangers set improvised traps, learned with the [[rangoric-srd/class-options/archetypes/ranger/Trapper (Archetype)|trapper]] archetype or a feat; the traps and how they’re set are in [[rangoric-srd/class-options/ranger-traps/Ranger Traps|Ranger Traps]]. ^ranger-traps
