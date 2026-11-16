@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "shoulders"
 aliases:
   - "Cloak of Epic Resistance"
 caster-level: 20

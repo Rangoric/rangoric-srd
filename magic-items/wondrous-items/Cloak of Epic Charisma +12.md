@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "shoulders"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, charm monster"
 price: "1,440,000 gp"

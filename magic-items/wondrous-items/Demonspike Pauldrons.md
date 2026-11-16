@@ -1,0 +1,26 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "shoulders"
+aura: "Moderate necromancy"
+caster-level: 7
+prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, bleed"
+price: "14,350 gp"
+cost: "7,175 gp"
+weight: "8 lbs."
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/wondrous-items/Demonspike Pauldrons|Demonspike Pauldrons (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Demonspike Pauldrons|Demonspike Pauldrons (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Demonspike Pauldrons
+
+These black iron pauldrons are studded with jagged spikes of various lengths. *Demonspike pauldrons* act as *+2 [[rangoric-srd/equipment/armor/Armor Spikes|armor spikes]]* and also deal 1d2 [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]] damage on a successful grapple attack or melee attack made with the pauldrons. If these pauldrons are worn with normal armor spikes, increase the damage done by the armor spikes to 1d6 (Small) or 1d8 (Medium), and use the greater of the two enhancement bonuses to attack and damage—either from the armor spikes (if any) or the *demonspike pauldrons*.
+
+Moderate necromancy; CL 7th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Bleed|bleed]]*; Price 14,350 gp; Cost 7,175 gp; Weight 8 lbs.

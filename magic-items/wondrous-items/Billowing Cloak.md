@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "shoulders"
 aura: "Moderate illusion"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, displacement"
