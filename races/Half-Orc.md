@@ -157,3 +157,9 @@ Bundles of alternate traits for half-orcs of a particular background.
 - **Arctic Half-Orc**: Children of arctic orc herders and human [[rangoric-srd/classes/Barbarian|barbarians]], often emissaries for their tribes. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. Low-light vision in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
 - **Desert Half-Orc**: Lean and hardy rather than muscular, and more socially adept than most half-orcs. +2 Constitution, −2 Intelligence, and +2 to one ability score. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. Low-light vision in place of darkvision. [[rangoric-srd/feats/Run|Run]] as a racial bonus feat.
 - **Jungle Half-Orc**: Born where jungle orcs meet humans. Low-light vision in place of darkvision. +2 racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks.
+
+### Class Bonuses
+
+A half-orc gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Half-Orc]]

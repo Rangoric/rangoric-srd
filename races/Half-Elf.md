@@ -113,6 +113,7 @@ A half-elf can take any of these in place of the traits they replace (see [[rang
 | Trait | Replaces |
 | --- | --- |
 | [[rangoric-srd/races/racial-traits/Ancestral Arms|Ancestral Arms]] | Adaptability |
+| [[rangoric-srd/races/racial-traits/Arcane Training|Arcane Training]] | Adaptability |
 | [[rangoric-srd/races/racial-traits/Drow Magic|Drow Magic]] | Adaptability |
 | [[rangoric-srd/races/racial-traits/Drow-Blooded|Drow-Blooded]] | Low-light vision |
 | [[rangoric-srd/races/racial-traits/Dual Minded|Dual Minded]] | Adaptability |
@@ -126,7 +127,7 @@ A half-elf can take any of these in place of the traits they replace (see [[rang
 Bundles of alternate traits for half-elves of a particular background.
 
 - **Drow-Descended**: Clearly bearing the features of their dark elf parents, and seen as a threat whatever their intent: [[rangoric-srd/races/racial-traits/Drow-Blooded|Drow-Blooded]] and [[rangoric-srd/races/racial-traits/Drow Magic|Drow Magic]].
-- **Elf-Raised**: Embraced by their elven relatives and raised with traditional elven training: [[rangoric-srd/races/racial-traits/Ancestral Arms|Ancestral Arms]]. (Arcane training, which is built on favored class, isn't in Rangoric.)
+- **Elf-Raised**: Embraced by their elven relatives and raised with traditional elven training: [[rangoric-srd/races/racial-traits/Ancestral Arms|Ancestral Arms]] and [[rangoric-srd/races/racial-traits/Arcane Training|Arcane Training]] (both in place of adaptability).
 - **Human-Raised**: Born and raised in accepting human communities: [[rangoric-srd/races/racial-traits/Integrated|Integrated]] and [[rangoric-srd/races/racial-traits/Wary|Wary]].
 
 **Racial variants.** None has ability scores of its own; all keep the half-elf's +2 to one ability score.
@@ -136,6 +137,12 @@ Bundles of alternate traits for half-elves of a particular background.
 - **Arctic Half-Elf**: Wanderers who carry messages and rumors between communities. [[rangoric-srd/races/racial-traits/Cold Endurance|Cold Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks.
 - **Desert Half-Elf**: Diplomats and negotiators for their human or elf communities. [[rangoric-srd/races/racial-traits/Heat Endurance|Heat Endurance]]. +2 racial bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. Keen senses covers Investigation only.
 - **Jungle Half-Elf**: Born where elves bring in human blood to invigorate their families, or want a mixed-race emissary. +2 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
+
+### Class Bonuses
+
+A half-elf gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Half-Elf]]
 
 ### Racial Archetypes
 
