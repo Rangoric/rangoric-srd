@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "belt"
 aura: "Moderate abjuration"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, mage armor, resist energy"

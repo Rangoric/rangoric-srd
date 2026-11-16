@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "belt"
 aliases:
   - "Belt of Giant Strength"
 aura: "Moderate transmutation"
