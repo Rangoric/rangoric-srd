@@ -41,10 +41,10 @@ tags: [rangoric, rangoric/rule]
 | 76–80 | [[rangoric-srd/magic-items/weapon-abilities/Iconic\|Iconic]] | +2,000 |
 | 81–86 | [[rangoric-srd/magic-items/armor-abilities/Imprinted (Armor Special Ability)\|Imprinted]] | +2,000 |
 | 87–92 | [[rangoric-srd/magic-items/weapon-abilities/Signal Flare\|Signal Flare]] | +2,000 |
-| 93–94 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings\|Gadlings, Bracing]] | +10,880 |
-| 95–96 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings\|Gadlings, Cheetah]] | +10,880 |
-| 97–98 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings\|Gadlings, Mirrored]] | +10,880 |
-| 99–00 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings\|Gadlings, Resistance]] | +10,880 |
+| 93–94 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings, Bracing\|Gadlings, Bracing]] | +10,880 |
+| 95–96 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings, Cheetah\|Gadlings, Cheetah]] | +10,880 |
+| 97–98 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings, Mirrored\|Gadlings, Mirrored]] | +10,880 |
+| 99–00 | [[rangoric-srd/magic-items/weapon-abilities/Gadlings, Resistance\|Gadlings, Resistance]] | +10,880 |
 
 **Minor Weapon Special Abilities**
 
@@ -362,10 +362,10 @@ tags: [rangoric, rangoric/rule]
 | Barbarians | [[rangoric-srd/magic-items/weapons/Axe of the Berserker\|Axe of the Berserker]], [[rangoric-srd/magic-items/weapons/Chaosbringer\|Chaosbringer]] |
 | Bards | [[rangoric-srd/magic-items/weapons/Flute Sword\|Flute Sword]], [[rangoric-srd/magic-items/weapons/Harp Bow\|Harp Bow]], [[rangoric-srd/magic-items/weapons/Requiem Flute\|Requiem Flute]], [[rangoric-srd/magic-items/weapons/Slapstick\|Slapstick]] |
 | Blackguards | [[rangoric-srd/magic-items/weapons/Unholy Despoiler\|Unholy Despoiler]], [[rangoric-srd/magic-items/weapons/Unholy Vindicator\|Unholy Vindicator]] |
-| Clerics | [[rangoric-srd/magic-items/weapons/Death Blade\|Death Blade]], [[rangoric-srd/magic-items/weapons/Domain Rods\|Domain Rods]], [[rangoric-srd/magic-items/weapons/Finaldeath\|Finaldeath]], [[rangoric-srd/magic-items/weapons/Scabrous Mace\|Scabrous Mace]] |
+| Clerics | [[rangoric-srd/magic-items/weapons/Death Blade\|Death Blade]], [[rangoric-srd/magic-items/weapons/Domain Rod, Air\|Domain Rods]], [[rangoric-srd/magic-items/weapons/Finaldeath\|Finaldeath]], [[rangoric-srd/magic-items/weapons/Scabrous Mace\|Scabrous Mace]] |
 | Druids | [[rangoric-srd/magic-items/weapons/Elemental Fork\|Elemental Fork]], [[rangoric-srd/magic-items/weapons/Staff of the Summoner\|Staff of the Summoner]], [[rangoric-srd/magic-items/weapons/Stormcaller\|Stormcaller]], [[rangoric-srd/magic-items/weapons/Sylvan Scimitar\|Sylvan Scimitar]] |
 | Fighters | [[rangoric-srd/magic-items/weapons/Shatterspike\|Shatterspike]], [[rangoric-srd/magic-items/weapons/Sword of Power\|Sword of Power]] |
-| Monks | [[rangoric-srd/magic-items/weapons/Gauntlets of the Master\|Gauntlets of the Master]], [[rangoric-srd/magic-items/weapons/Martial Gloves\|Martial Gloves]] |
+| Monks | [[rangoric-srd/magic-items/weapons/Gauntlets of the Master\|Gauntlets of the Master]], [[rangoric-srd/magic-items/weapons/Martial Gloves +1\|Martial Gloves]] |
 | Paladins | [[rangoric-srd/magic-items/weapons/Hammer of the Sun\|Hammer of the Sun]], [[rangoric-srd/magic-items/weapons/Holy Avenger\|Holy Avenger]], [[rangoric-srd/magic-items/weapons/Holy Devastator\|Holy Devastator]], [[rangoric-srd/magic-items/weapons/Soulcleanser\|Soulcleanser]] |
 | Rangers | [[rangoric-srd/magic-items/weapons/Razor of Flensing\|Razor of Flensing]], [[rangoric-srd/magic-items/weapons/Trickle Sword\|Trickle Sword]] |
 | Rogues | [[rangoric-srd/magic-items/weapons/Backstabber\|Backstabber Sword]], [[rangoric-srd/magic-items/weapons/Dagger of Venom\|Dagger of Venom]], [[rangoric-srd/magic-items/weapons/Picker Picker\|Picker Picker]], [[rangoric-srd/magic-items/weapons/Sword of Subtlety\|Sword of Subtlety]] |
@@ -621,7 +621,7 @@ tags: [rangoric, rangoric/rule]
 | 28–30 | [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of Striding and Springing (+20)]] | 12,000 |
 | 31–33 | [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed\|Horseshoes of Speed (+20)]] | 12,000 |
 | 34–36 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed +20\|Leggings of Speed (+20)]] | 12,000 |
-| 37–39 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (1 element)]] | 12,000 |
+| 37–39 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding, 1 Element\|Resistant Padding (1 element)]] | 12,000 |
 | 40–42 | [[rangoric-srd/magic-items/wondrous-items/Falcon Spaulders\|Falcon Spaulders]] | 12,175 |
 | 43–45 | [[rangoric-srd/magic-items/wondrous-items/Bull’s Helm\|Bull’s Helm]] | 13,155 |
 | 46–48 | [[rangoric-srd/magic-items/armor/Sycophant\|Sycophant (+3)]] | 15,000 |
@@ -637,7 +637,7 @@ tags: [rangoric, rangoric/rule]
 | 70–71 | [[rangoric-srd/magic-items/rings/Ring of Protection +3\|Ring of Protection (+3)]] | 18,000 |
 | 72 | [[rangoric-srd/magic-items/armor/Guild Leathers\|Guild Leathers]] | 18,910 |
 | 73 | [[rangoric-srd/magic-items/armor/Armor of the Undead\|Armor of the Undead]] | 20,000 |
-| 74–75 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (2 elements)]] | 21,000 |
+| 74–75 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding, 2 Elements\|Resistant Padding (2 elements)]] | 21,000 |
 | 76 | [[rangoric-srd/magic-items/armor/Woven Assistant\|Woven Assistant]] | 21,386 |
 | 77–78 | [[rangoric-srd/magic-items/armor/Arcane Weave\|Arcane Weave]] | 23,850 |
 | 79 | [[rangoric-srd/magic-items/armor/Divine Weave\|Divine Weave]] | 23,850 |
@@ -650,7 +650,7 @@ tags: [rangoric, rangoric/rule]
 | 90 | [[rangoric-srd/magic-items/armor/Mantle of the Stalwart Defender\|Mantle of the Stalwart Defender]] | 25,650 |
 | 91–92 | [[rangoric-srd/magic-items/armor/Nightwarden’s Leaf\|Nightwarden’s Leaf]] | 26,750 |
 | 93–94 | [[rangoric-srd/magic-items/wondrous-items/Helm of Telepathy\|Helm of Telepathy]] | 27,000 |
-| 95–96 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (3 elements)]] | 27,000 |
+| 95–96 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding, 3 Elements\|Resistant Padding (3 elements)]] | 27,000 |
 | 97–98 | [[rangoric-srd/magic-items/armor/Fiendish Barding\|Fiendish Barding]] | 27,400 |
 | 99–00 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Orcs\|Mask of the Orcs]] | 27,600 |
 
@@ -665,13 +665,13 @@ tags: [rangoric, rangoric/rule]
 | 10–12 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +4\|Amulet of Natural Armor (+4)]] | 32,000 |
 | 13–15 | [[rangoric-srd/magic-items/wondrous-items/Mask of Humanity\|Mask of Humanity]] | 32,000 |
 | 16–18 | [[rangoric-srd/magic-items/rings/Ring of Protection +4\|Ring of Protection (+4)]] | 32,000 |
-| 19–21 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (4 elements)]] | 33,000 |
+| 19–21 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding, 4 Elements\|Resistant Padding (4 elements)]] | 33,000 |
 | 22–24 | [[rangoric-srd/magic-items/wondrous-items/Billowing Cloak\|Billowing Cloak]] | 36,000 |
 | 25–27 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +6\|Bracers of Armor (+6)]] | 36,000 |
 | 28–30 | [[rangoric-srd/magic-items/wondrous-items/Mask of Beauty\|Mask of Beauty]] | 36,000 |
 | 31–32 | [[rangoric-srd/magic-items/armor/Werearmor\|Werearmor]] | 36,300 |
 | 33–34 | [[rangoric-srd/magic-items/armor/Winged Armor\|Winged armor]] | 38,150 |
-| 35–36 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding\|Resistant Padding (5 elements)]] | 39,000 |
+| 35–36 | [[rangoric-srd/magic-items/wondrous-items/Resistant Padding, 5 Elements\|Resistant Padding (5 elements)]] | 39,000 |
 | 37–38 | Mask of the Dover | 39,600 |
 | 39–40 | [[rangoric-srd/magic-items/armor/Sycophant\|Sycophant (+8)]] | 40,000 |
 | 41–42 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Elves\|Mask of the Elves]] | 43,600 |
@@ -679,7 +679,7 @@ tags: [rangoric, rangoric/rule]
 | 45–46 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Dwarves\|Mask of the Dwarves]] | 48,000 |
 | 47–48 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +7\|Bracers of Armor (+7)]] | 49,000 |
 | 49–50 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Natural Armor +5\|Amulet of Natural Armor (+5)]] | 50,000 |
-| 51–52 | [[rangoric-srd/magic-items/wondrous-items/Bandolier of Venom\|Bandolier of Venom (single)]] | 50,000 |
+| 51–52 | [[rangoric-srd/magic-items/wondrous-items/Bandolier of Venom, Single Strip\|Bandolier of Venom (single)]] | 50,000 |
 | 53–54 | [[rangoric-srd/magic-items/rings/Ring of Protection +5\|Ring of Protection (+5)]] | 50,000 |
 | 55–56 | [[rangoric-srd/magic-items/wondrous-items/Amulet of Mighty Fists +3\|Amulet of Mighty Fists (+3)]] | 54,000 |
 | 57–58 | Mask of the Asherake | 54,000 |
@@ -692,7 +692,7 @@ tags: [rangoric, rangoric/rule]
 | 71–72 | [[rangoric-srd/magic-items/wondrous-items/Bracers of Armor +8\|Bracers of Armor (+8)]] | 64,000 |
 | 73 | [[rangoric-srd/magic-items/wondrous-items/Mask of the Gnomes\|Mask of the Gnomes]] | 66,000 |
 | 74 | [[rangoric-srd/magic-items/armor/Assassin’s Polished Plate\|Assassin’s Polished Plate]] | 68,504 |
-| 75–76 | [[rangoric-srd/magic-items/wondrous-items/Bandolier of Venom\|Bandolier of Venom (double)]] | 70,000 |
+| 75–76 | [[rangoric-srd/magic-items/wondrous-items/Bandolier of Venom, Double Strip\|Bandolier of Venom (double)]] | 70,000 |
 | 77–78 | [[rangoric-srd/magic-items/wondrous-items/Boots of Striding and Springing\|Boots of Striding and Springing (+40)]] | 72,000 |
 | 79–80 | [[rangoric-srd/magic-items/wondrous-items/Horseshoes of Speed\|Horseshoes of Speed (+40)]] | 72,000 |
 | 81–82 | [[rangoric-srd/magic-items/wondrous-items/Leggings of Speed +40\|Leggings of Speed (+40)]] | 72,000 |

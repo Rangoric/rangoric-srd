@@ -264,7 +264,7 @@ More rings, grouped by who can use them: rings any wearer can use, by price, the
 | [[rangoric-srd/magic-items/rings/Steelhand Circle\|Steelhand Circle]] | 12,000 gp |
 | [[rangoric-srd/magic-items/rings/Ring of the Sea Strider\|Ring of the Sea Strider]] | 14,000 gp |
 | [[rangoric-srd/magic-items/rings/Ring of Retribution\|Ring of Retribution]] | 15,000 gp |
-| [[rangoric-srd/magic-items/rings/Dungeon Ring\|Dungeon Ring]] | 16,000 gp (jailer's ring), 250 gp (prisoner's ring) |
+| [[rangoric-srd/magic-items/rings/Dungeon Ring, Jailer's\|Dungeon Ring]] | 16,000 gp (jailer's ring), 250 gp (prisoner's ring) |
 | [[rangoric-srd/magic-items/rings/Ring of Inner Fortitude, Minor\|Ring of Inner Fortitude]] | 18,000 gp (minor), 42,000 gp (major), 66,000 gp (greater) |
 | [[rangoric-srd/magic-items/rings/Ring of Energy Shroud\|Ring of Energy Shroud]] | 19,500 gp |
 | [[rangoric-srd/magic-items/rings/Ring of Fire Drinking\|Ring of Fire Drinking]] | 20,000 gp |

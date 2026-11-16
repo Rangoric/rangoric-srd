@@ -163,7 +163,7 @@ Standard universal items are described below.
   - [[rangoric-srd/magic-items/universal-items/Psionatrix of psychometabolism|Psionatrix of psychometabolism]]
   - [[rangoric-srd/magic-items/universal-items/Psionatrix of psychoportation|Psionatrix of psychoportation]]
   - [[rangoric-srd/magic-items/universal-items/Psionatrix of telepathy|Psionatrix of telepathy]]
-  - [[rangoric-srd/magic-items/universal-items/Psionic Restraints|Psionic Restraints]]
+  - [[rangoric-srd/magic-items/universal-items/Psionic Restraints, Lesser|Psionic Restraints]]
   - [[rangoric-srd/magic-items/universal-items/Psychoactive Skins|Psychoactive Skins]]
   - [[rangoric-srd/magic-items/universal-items/Skin of the Claw|Skin of the Claw]]
   - [[rangoric-srd/magic-items/universal-items/Skin of the Defender|Skin of the Defender]]

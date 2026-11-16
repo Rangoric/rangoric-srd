@@ -1,0 +1,20 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Epic Rod"
+caster-level: 37
+prerequisites: "Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, Improved Heighten Spell, improved heightened polymorph, creator must be same alignment as dragon type"
+price: "1,782,200 gp"
+cost: "891,400 gp + 27,816 XP"
+based-on:
+  - "[[fantasy srd 3.5/magic-items/rods/Rod of Wyrm|Rod of Wyrm (3.5)]]"
+status: draft
+change: modified
+pi-review: scanned 2026-10-15
+tags: [rangoric, rangoric/magic-item, epic]
+---
+
+# Rod of Wyrm, Blue
+
+Any of the various rods in this series functions as a +5 quarterstaff. Upon casting the rod to the ground (a standard action) and uttering a command word, the rod grows into a specific type of dragon (depending on the specific type of rod) by the end of the round. The dragon created is a wyrm and obeys the commands of the owner. The dragon returns to rod form (a full-round action) whenever the wielder desires, or whenever it moves farther than 500 feet from the owner. If the dragon form is slain, it returns to rod form and cannot be activated again for three days. A wyrm rod only functions if the possessor is of the same alignment as the dragon type.  
+Caster Level: 37th; Prerequisites: Craft Rod, Craft Epic Rod, Craft Magic Arms and Armor, Craft Epic Magic Arms and Armor, Improved Heighten Spell, improved heightened polymorph, creator must be same alignment as dragon type; Market Price: 1,782,200 gp; Cost to Create: 891,400 gp + 27,816 XP.
