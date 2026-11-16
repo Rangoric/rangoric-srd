@@ -4,6 +4,7 @@ section: "Magic Items"
 based-on:
   - "[[fantasy srd 3.5/magic-items/Magic Item Basics|Magic Item Basics (3.5)]]"
   - "[[individual books/Faeries/rules/Magic Items#Magic Item Special Ability—Resizing|Magic Items (Faeries)]]"
+  - "[[path srd 3.5/rules/core-rulebook/magic-items/Magic Items (Magic Items)|Magic Items (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -98,25 +99,27 @@ To determine if an item has the resizing ability, roll d%. A result of 01-70 ind
 
 ##### Magic Items on the Body
 
-Many magic items need to be donned by a character who wants to employ them or benefit from their abilities. It’s possible for a creature with a humanoid-shaped body to wear as many as twelve magic items at the same time. However, each of those items must be worn on (or over) a particular part of the body.
+Many magic items need to be donned by a character who wants to employ them or benefit from their abilities. It’s possible for a creature with a humanoid-shaped body to wear as many as 14 magic items at the same time. However, each of those items must be worn on (or over) a particular part of the body, known as a “slot.”
 
-A humanoid-shaped body can be decked out in magic gear consisting of one item from each of the following groups, keyed to which place on the body the item is worn.
+A humanoid-shaped body can be decked out in magic gear consisting of one item from each of the following groups, keyed to which slot on the body the item is worn. A wondrous item’s slot is its `slot` property, and the [[rangoric-srd/magic-items/wondrous-items/Wondrous Items Index.base|Wondrous Items Index]] groups the wondrous items by it.
 
-  - One headband, hat, helmet, or phylactery on the head
-  - One pair of eye lenses or goggles on or over the eyes
-  - One amulet, brooch, medallion, necklace, periapt, or scarab around the neck
-  - One vest, vestment, or shirt on the torso
-  - One robe or suit of armor on the body (over a vest, vestment, or shirt)
-  - One belt around the waist (over a robe or suit of armor)
-  - One cloak, cape, or mantle around the shoulders (over a robe or suit of armor)
-  - One pair of bracers or bracelets on the arms or wrists
-  - One glove, pair of gloves, or pair of gauntlets on the hands
-  - One ring on each hand (or two rings on one hand)
-  - One pair of boots or shoes on the feet
+  - **Armor**: suits of armor.
+  - **Belt**: belts and girdles.
+  - **Body**: robes and vestments.
+  - **Chest**: mantles, shirts, and vests.
+  - **Eyes**: eyes, glasses, and goggles.
+  - **Feet**: boots, shoes, and slippers.
+  - **Hands**: gauntlets and gloves.
+  - **Head**: caps, circlets, crowns, halos, hats, helms, hoods, laurels, masks, veils, wigs, and other non-headband slot items that can be worn on the head.
+  - **Headband**: bands, headbands, phylacteries, and other non-head-slot items that can be worn on the head.
+  - **Neck**: amulets, brooches, medallions, necklaces, periapts, and scarabs.
+  - **Ring (up to two)**: rings.
+  - **Shoulders**: capes and cloaks.
+  - **Wrists**: bracelets and bracers.
 
-Of course, a character may carry or possess as many items of the same type as he wishes. However, additional items beyond those listed above have no effect.
+Of course, a character may carry or possess as many items of the same type as he wishes. However, additional items beyond those in the slots listed above have no effect.
 
-Some items can be worn or carried without taking up space on a character’s body. The description of an item indicates when an item has this property.
+Some items can be worn or carried without taking up a slot on a character’s body. The description of an item indicates when an item has this property.
 
 ##### Saving Throws Against Magic Item Powers
 

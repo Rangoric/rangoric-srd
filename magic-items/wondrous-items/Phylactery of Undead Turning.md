@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "headband"
 aura: "Moderate necromancy [good]"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, 10th-level cleric"
 price: "11,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Phylactery of Undead Turning|Phylactery of Undead Turning (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
