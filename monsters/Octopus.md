@@ -73,4 +73,4 @@ These bottom-dwelling sea creatures are dangerous only to their prey. If disturb
 
 **Jet (Ex)**: An octopus can jet backward once per round as a full-round action, at a speed of 200 feet. It must move in a straight line while jetting, and does not provoke attacks of opportunity when it does so.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1 Str; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Octopus Venom|Octopus Venom]]: Bite—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1 Str; *cure* 1 save.

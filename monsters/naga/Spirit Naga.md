@@ -83,4 +83,4 @@ Spirit nagas meet foes boldly so as to use their [[rangoric-srd/monsters/abiliti
 
 **Charming Gaze (Su)**: As charm person, 30 feet, Will DC 20 negates. The save DC is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 20; *frequency* 1/round for 6 rounds; *effect* 1d4 Con damage; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spirit Naga Venom|Spirit Naga Venom]]: Bite—injury; *save* Fort DC 20; *frequency* 1/round for 6 rounds; *effect* 1d4 Con damage; *cure* 1 save.

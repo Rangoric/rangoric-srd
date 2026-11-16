@@ -83,4 +83,4 @@ An aranea avoids physical combat and uses its webs and spells when it can. In a 
 
 **Change Shape (Su)**: An aranea can take the form of a Small or Medium humanoid or spider-humanoid hybrid. In humanoid form, an aranea cannot use its bite, web, or poison. In spider-humanoid hybrid form, an aranea looks like a humanoid with spidery fangs and spinnerets, with the latter typically located at the small of its back. The aranea retains its bite attack, webs, and poison in this form, and can wield weapons and wear armor. When in humanoid or hybrid form, an aranea's speed is 30 feet and it has no climb speed.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 14; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Aranea Venom|Aranea Venom]]: Bite—injury; *save* Fort DC 14; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 1 save.

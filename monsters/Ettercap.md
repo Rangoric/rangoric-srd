@@ -70,7 +70,7 @@ Ettercaps speak Common.
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 15; *frequency* 1/round for 10 rounds; *effect* 1d2 Dex; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Ettercap Venom|Ettercap Venom]]: Bite—injury; *save* Fort DC 15; *frequency* 1/round for 10 rounds; *effect* 1d2 Dex; *cure* 2 consecutive saves. The save DC is Constitution-based.
 
 **Spider Empathy (Ex)**: This ability functions as the druid's wild empathy, save that an ettercap can only use this ability on spiders. An ettercap gains a +4 racial bonus on this check. Spiders are mindless, but this empathic communication imparts on them a modicum of implanted intelligence, allowing ettercaps to train giant spiders and use them as guardians.
 

@@ -68,4 +68,4 @@ Monitor lizards are large enough to pose a threat to humans, and in some societi
 
 Monitor lizards can be aggressive, using their powerful jaws to tear at prey or enemies.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 14; *onset* 1 minute; *frequency* 1/hour for 6 hours; *effect* 1d2 Dex damage; *cure* 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Monitor Lizard Venom|Monitor Lizard Venom]]: Bite—injury; *save* Fort DC 14; *onset* 1 minute; *frequency* 1/hour for 6 hours; *effect* 1d2 Dex damage; *cure* 1 save. The save DC is Constitution-based.

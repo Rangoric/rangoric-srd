@@ -82,6 +82,6 @@ A hellwasp-inhabited creature is easy to spot, since its skin crawls with the fo
 
 A [[rangoric-srd/spells/Remove Disease|remove disease]] or [[rangoric-srd/spells/Heal (Spell)|heal]] spell cast on an inhabited victim forces the hellwasp swarm to abandon its host.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Swarm—injury; *save* Fort DC 20; *frequency* 1/round for 6 rounds; *effect* 1d6 Dex; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Hellwasp Swarm Venom|Hellwasp Swarm Venom]]: Swarm—injury; *save* Fort DC 20; *frequency* 1/round for 6 rounds; *effect* 1d6 Dex; *cure* 2 consecutive saves.
 
 **Hive Mind (Ex)**: Any hellwasp swarm with at least 1 hit point per Hit Die (or 12 hit points, for a standard hellwasp swarm) forms a hive mind, giving it an Intelligence of 6. When a hellwasp swarm is reduced below this hit point threshold, it becomes mindless.
