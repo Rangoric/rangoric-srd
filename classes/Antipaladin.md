@@ -139,6 +139,10 @@ Should the antipaladin’s fiendish servant die or be banished, the antipaladin 
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Antipaladin]]
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The antipaladin’s class bonuses, by race: ^antipaladin-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Antipaladin]]
+
 ###### Ex-Antipaladins
 
 An antipaladin who ceases to be chaotic evil, who willfully commits a good act, or who violates the code of conduct loses all antipaladin spells and class features (including the fiendish boon, but not weapon, armor, and shield proficiencies). He may not progress any further in levels as an antipaladin. He regains his abilities and advancement potential if he atones for his violations (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell), as appropriate.

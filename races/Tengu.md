@@ -81,3 +81,9 @@ A tengu can take any of these in place of the traits they replace (see [[rangori
 | [[rangoric-srd/races/racial-traits/Claw Attack|Claw Attack]] | Swordtrained |
 | [[rangoric-srd/races/racial-traits/Exotic Weapon Training|Exotic Weapon Training]] | Swordtrained |
 | [[rangoric-srd/races/racial-traits/Gliding Wings|Glide]] | Gifted linguist |
+
+### Class Bonuses
+
+A tengu gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Tengu]]

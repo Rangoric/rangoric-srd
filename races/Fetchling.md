@@ -85,3 +85,9 @@ A fetchling can take any of these in place of the traits they replace or modify 
 | [[rangoric-srd/races/racial-traits/Shadow Magic|Shadow Magic]] | Skilled |
 | [[rangoric-srd/races/racial-traits/Subtle Manipulator|Subtle Manipulator]] | Modifies: spell-like abilities |
 | [[rangoric-srd/races/racial-traits/World Walker|World Walker]] | Modifies: skilled |
+
+### Class Bonuses
+
+A fetchling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Fetchling]]
