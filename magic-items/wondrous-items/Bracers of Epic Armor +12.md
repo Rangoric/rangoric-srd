@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "wrists"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, mage armor, creator’s caster level must be twice the bracers’ bonus"
 price: "1,440,000 gp"

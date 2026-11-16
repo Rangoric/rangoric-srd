@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "body"
 aura: "Strong evocation"
 caster-level: 15
 prerequisites: "Craft Magic Arms and Armor, Craft Wondrous Item, sunburst, heal, death ward, daylight, must be created in broad daylight"

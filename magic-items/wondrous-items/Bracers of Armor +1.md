@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "wrists"
 aliases:
   - "Bracers of Armor"
 aura: "Moderate conjuration"

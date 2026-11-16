@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "wrists"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, endurance"
 price: "1,000,000 gp"

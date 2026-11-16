@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "wrists"
 aura: "Moderate conjuration"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, mage armor, creator’s caster level must be at least two times that of the bonus placed in the bracers"
