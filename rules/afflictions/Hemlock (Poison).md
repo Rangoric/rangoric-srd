@@ -1,7 +1,7 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Core Rulebook"
+book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "ingested"
 save: "Fortitude DC 18"
@@ -13,6 +13,7 @@ cure: "2 consecutive saves"
 price: "2,500 gp"
 based-on:
   - "[[path srd 3.5/afflictions/Hemlock|Hemlock (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
 status: draft
 change: new
 pi-review: 2026-11-13

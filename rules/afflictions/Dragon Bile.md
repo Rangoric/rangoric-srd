@@ -1,7 +1,7 @@
 ---
 srd-type: "affliction"
 section: "Rules"
-book: "Core Rulebook"
+book: ["Core Rulebook", "Ultimate Equipment"]
 affliction-type: "poison"
 delivery: "contact"
 save: "Fortitude DC 26"
@@ -11,6 +11,7 @@ effect: "1d3 Str"
 price: "1,500 gp"
 based-on:
   - "[[path srd 3.5/afflictions/Dragon Bile|Dragon Bile (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
   - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
 status: draft
 change: new
