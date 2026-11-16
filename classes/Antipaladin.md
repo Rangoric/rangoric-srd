@@ -135,6 +135,10 @@ Should the antipaladin’s fiendish servant die or be banished, the antipaladin 
 
 **Associates**: While he may adventure with evil or neutral allies, an antipaladin avoids working with good characters or with anyone who consistently attempts to do good deeds. Under exceptional circumstances, an antipaladin can ally with good associates, but only to defeat them from within and bring ruin to their ranks. An antipaladin does not need an *[[rangoric-srd/spells/Atonement|atonement]]* spell during such an unusual alliance as long as his nefarious goals are met in the end—evil cares only about results. An antipaladin may accept only henchmen, followers, or cohorts who are chaotic evil. ^antipaladin-associates
 
+**Archetypes**: An antipaladin can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The antipaladin’s archetypes, with what each replaces: ^antipaladin-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Antipaladin]]
+
 ###### Ex-Antipaladins
 
 An antipaladin who ceases to be chaotic evil, who willfully commits a good act, or who violates the code of conduct loses all antipaladin spells and class features (including the fiendish boon, but not weapon, armor, and shield proficiencies). He may not progress any further in levels as an antipaladin. He regains his abilities and advancement potential if he atones for his violations (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell), as appropriate.
