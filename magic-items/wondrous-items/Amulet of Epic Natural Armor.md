@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "neck"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, barkskin, creator’s caster level must be three times the amulet’s bonus"
 price: "720,000 gp (+6), 980,000 gp (+7), 1,280,000 gp (+8), 1,620,000 gp (+9), 2,000,000 gp (+10)"
@@ -9,8 +10,8 @@ weight: "-"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Amulet of Epic Natural Armor|Amulet of Epic Natural Armor (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/wondrous-armor/Amulet of Epic Natural Armor|Amulet of Epic Natural Armor (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

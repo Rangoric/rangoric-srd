@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "neck"
 aura: "Moderate transmutation"
 caster-level: 7
 prerequisites: "Craft Magic Arms and Armor, polymorph"

@@ -1,0 +1,28 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "neck"
+aura: "Moderate necromancy"
+caster-level: 9
+prerequisites: "Craft Wondrous Item, bestow curse, resist energy, resistance, creator must be a sorcerer of the accursed bloodline"
+price: "12,000 gp"
+cost: "6,000 gp"
+weight: "1 lb."
+book: "Advanced Class Guide"
+based-on:
+  - "[[path srd 3.5/items/wondrous-items/Amulet of the Blooded|Amulet of the Blooded (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Amulet of the Blooded, Accursed|Amulet of the Blooded, Accursed (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-15
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Amulet of the Blooded, Accursed
+
+Each different type of *amulet of the blooded* grants its wearer powers from one [[rangoric-srd/classes/Sorcerer|sorcerer]] [[rangoric-srd/class-options/bloodlines/Bloodlines|bloodline]], but makes him vulnerable to attacks and effects that target creatures with the appropriate bloodline (such as a *[[rangoric-srd/magic-items/weapon-abilities/Blood-Hunting|blood-hunting]]* weapon). If a creature that already has the associated bloodline wears the amulet, the wearer does not gain the abilities listed below; instead, the effective level of his bloodline powers increases by 2. This effect does not stack with other abilities that increase the effective level of bloodline powers.
+
+**[[rangoric-srd/class-options/bloodlines/Accursed Bloodline|Accursed]]**: This swirling green malachite hangs from a chain of oxidized copper. Sinister, unblinking eyes are etched upon its surface. The wearer gains a +2 bonus on saving throws against charm, cold, fear, fire, and sleep effects. Three times per day as a standard action, the wearer can fix his gaze on any one creature within 60 feet. The target becomes [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 4 rounds unless it succeeds at a Will saving throw (DC 18). Only one target can be affected by the wearer's gaze at a time; if the wearer attempts to stagger a new opponent, the previous target immediately recovers whether the new attempt is successful or not.
+
+Moderate necromancy; CL 9th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bestow Curse|bestow curse]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Resistance|resistance]]*, creator must be a [[rangoric-srd/classes/Sorcerer|sorcerer]] of the [[rangoric-srd/class-options/bloodlines/Accursed Bloodline|accursed]] bloodline; Price 12,000 gp; Cost 6,000 gp; Weight 1 lb.
