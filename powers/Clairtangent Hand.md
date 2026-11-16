@@ -15,8 +15,8 @@ power-resistance: "No"
 power-points: "9"
 based-on:
   - "[[fantasy srd 3.5/powers/Clairtangent Hand|Clairtangent Hand (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -36,4 +36,4 @@ Power Points: 9
 
 You can emulate a [[rangoric-srd/powers/Far Hand|far hand]] effect at any distance while simultaneously emulating [[rangoric-srd/powers/Clairvoyant Sense|clairvoyant sens]]e to target your far hand; see the appropriate power descriptions. Clairtangent hand’s duration is up to 1 minute per level when used with a far hand effect.
 
-Augment: If you spend 8 additional power points, you can emulate clairvoyant sense in conjunction with either [[rangoric-srd/powers/Telekinetic Force|telekinetic force]], [[rangoric-srd/powers/Telekinetic Maneuver|telekinetic maneuver]], or [[rangoric-srd/powers/Telekinetic Thrust|telekinetic thrust]], but this power’s duration expires as soon as any of the noted telekinetic powers deals damage.
+Augment: If you spend 8 additional power points, you can emulate clairvoyant sense in conjunction with either [[rangoric-srd/powers/Telekinetic Force|telekinetic force]], [[rangoric-srd/powers/Telekinetic Maneuver (Power)|telekinetic maneuver]], or [[rangoric-srd/powers/Telekinetic Thrust|telekinetic thrust]], but this power’s duration expires as soon as any of the noted telekinetic powers deals damage.

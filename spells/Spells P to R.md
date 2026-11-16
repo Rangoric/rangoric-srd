@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells P to R|Spells P to R (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -140,7 +140,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Qualm|Qualm]]
   - [[rangoric-srd/spells/Quench|Quench]]
   - [[rangoric-srd/spells/Quieting Weapons|Quieting Weapons]]
-  - [[rangoric-srd/spells/Quintessence|Quintessence]]
+  - [[rangoric-srd/spells/Quintessence (Spell)|Quintessence]]
   - [[rangoric-srd/spells/Rage|Rage]]
   - [[rangoric-srd/spells/Raging Rubble|Raging Rubble]]
   - [[rangoric-srd/spells/Rain of Frogs|Rain of Frogs]]

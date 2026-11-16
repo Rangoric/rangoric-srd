@@ -1,6 +1,8 @@
 ---
 srd-type: "power"
 section: "Psionic Powers"
+aliases:
+  - "Mind Probe"
 discipline: "Telepathy"
 subdiscipline: "Charm"
 descriptor:
@@ -17,8 +19,8 @@ power-resistance: "Yes"
 power-points: "9"
 based-on:
   - "[[fantasy srd 3.5/powers/Mind Probe|Mind Probe (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---

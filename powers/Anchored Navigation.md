@@ -12,8 +12,8 @@ duration: "1 hour/level"
 power-points: "7"
 based-on:
   - "[[fantasy srd 3.5/powers/Anchored Navigation|Anchored Navigation (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -33,6 +33,6 @@ You know where you are in relation to a fixed starting point, which is essential
 
 You can also retrace your steps through a maze automatically while the power lasts, without resorting to a map.
 
-Anchored navigation grants you a [[rangoric-srd/powers/Mindlink|mindlink]] with one designated creature who remains within a 60-foot radius of the starting point, regardless of the distance between you and the creature. The use of anchored navigation is confined to the plane of existence where you manifest it.
+Anchored navigation grants you a [[rangoric-srd/powers/Mindlink (Power)|mindlink]] with one designated creature who remains within a 60-foot radius of the starting point, regardless of the distance between you and the creature. The use of anchored navigation is confined to the plane of existence where you manifest it.
 
 Augment: If you spend 6 additional power points, the effect of this power extends across all planar boundaries.

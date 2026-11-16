@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Telekinetic Maneuver"
 school: "Transmutation"
 level:
   - "Mag 4"

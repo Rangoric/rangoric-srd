@@ -1,6 +1,8 @@
 ---
 srd-type: "spell"
 section: "Spells"
+aliases:
+  - "Shadow Body"
 school: "Transmutation"
 subschool: "Polymorph"
 level:

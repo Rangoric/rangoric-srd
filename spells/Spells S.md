@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells S|Spells S (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -67,7 +67,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Severed Fate|Severed Fate]]
   - [[rangoric-srd/spells/Shades|Shades]]
   - [[rangoric-srd/spells/Shadow Anchor|Shadow Anchor]]
-  - [[rangoric-srd/spells/Shadow Body|Shadow Body]]
+  - [[rangoric-srd/spells/Shadow Body (Spell)|Shadow Body]]
   - [[rangoric-srd/spells/Shadow Bomb Admixture|Shadow Bomb Admixture]]
   - [[rangoric-srd/spells/Shadow Claws|Shadow Claws]]
   - [[rangoric-srd/spells/Shadow Conjuration|Shadow Conjuration]]

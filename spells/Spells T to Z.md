@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells T to Z|Spells T to Z (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Telekinesis|Telekinesis]]
   - [[rangoric-srd/spells/Telekinetic Assembly|Telekinetic Assembly]]
   - [[rangoric-srd/spells/Telekinetic Charge|Telekinetic Charge]]
-  - [[rangoric-srd/spells/Telekinetic Maneuver|Telekinetic Maneuver]]
+  - [[rangoric-srd/spells/Telekinetic Maneuver (Spell)|Telekinetic Maneuver]]
   - [[rangoric-srd/spells/Telekinetic Sphere|Telekinetic Sphere]]
   - [[rangoric-srd/spells/Telepathic Bond|Telepathic Bond]]
   - [[rangoric-srd/spells/Telepathy|Telepathy]]
@@ -177,7 +177,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Walk Through Space|Walk Through Space]]
   - [[rangoric-srd/spells/Wall of Antimagic|Wall of Antimagic]]
   - [[rangoric-srd/spells/Wall of Blindness-Deafness|Wall of Blindness-Deafness]]
-  - [[rangoric-srd/spells/Wall of Ectoplasm|Wall of Ectoplasm]]
+  - [[rangoric-srd/spells/Wall of Ectoplasm (Spell)|Wall of Ectoplasm]]
   - [[rangoric-srd/spells/Wall of Fire|Wall of Fire]]
   - [[rangoric-srd/spells/Wall of Force|Wall of Force]]
   - [[rangoric-srd/spells/Wall of Ice|Wall of Ice]]

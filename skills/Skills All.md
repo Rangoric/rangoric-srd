@@ -28,6 +28,7 @@ tags: [rangoric, rangoric/overview]
 |  |  |  | [[rangoric-srd/skills/Medicine\|Medicine]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Nature\|Nature]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] |  |  |
+|  |  |  | [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Society\|Society]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Tactics\|Tactics]] |  |  |
 |  |  |  | [[rangoric-srd/skills/Theology\|Theology]] |  |  |
@@ -60,6 +61,7 @@ Every skill is a Core skill or a Background skill; its tag (*core* or *backgroun
 | [[rangoric-srd/skills/Persuasion\|Persuasion]] |  |
 | [[rangoric-srd/skills/Piloting\|Piloting]] |  |
 | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] |  |
+| [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] |  |
 | [[rangoric-srd/skills/Sense Motive\|Sense Motive]] |  |
 | [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] |  |
 | [[rangoric-srd/skills/Society\|Society]] |  |
@@ -104,7 +106,8 @@ Every skill is a Core skill or a Background skill; its tag (*core* or *backgroun
 [[rangoric-srd/skills/Persuasion|Persuasion]]  
 [[rangoric-srd/skills/Piloting|Piloting]]  
 [[rangoric-srd/skills/Profession|Profession]]  
-[[rangoric-srd/skills/Psionics (Skill)|Psionics]]
+[[rangoric-srd/skills/Psionics (Skill)|Psionics]]  
+[[rangoric-srd/skills/Psychic (Skill)|Psychic]]
 
 [[rangoric-srd/skills/Sense Motive|Sense Motive]]  
 [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]  
@@ -141,6 +144,7 @@ Every skill is a Core skill or a Background skill; its tag (*core* or *backgroun
   - [[rangoric-srd/skills/Piloting|Piloting]]
   - [[rangoric-srd/skills/Profession|Profession]]
   - [[rangoric-srd/skills/Psionics (Skill)|Psionics]]
+  - [[rangoric-srd/skills/Psychic (Skill)|Psychic]]
   - [[rangoric-srd/skills/Sense Motive|Sense Motive]]
   - [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]]
   - [[rangoric-srd/skills/Society|Society]]

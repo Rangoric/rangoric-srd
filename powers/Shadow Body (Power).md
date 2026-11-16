@@ -1,6 +1,8 @@
 ---
 srd-type: "power"
 section: "Psionic Powers"
+aliases:
+  - "Shadow Body"
 discipline: "Psychometabolism"
 level:
   - "Psion/wilder 8"

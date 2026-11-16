@@ -41,4 +41,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will partial; see text
   - **Spell Resistance**: Yes
 
-This spell functions like [[rangoric-srd/spells/Inflict Pain|inflict pain]] except as noted above.
+This spell functions like [[rangoric-srd/spells/Inflict Pain (Spell)|inflict pain]] except as noted above.

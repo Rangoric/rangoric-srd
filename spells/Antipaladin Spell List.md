@@ -82,7 +82,7 @@ The spells an [[rangoric-srd/classes/Antipaladin#^antipaladin-spells|antipaladin
 | [[rangoric-srd/spells/Enemy’s Heart\|Enemy’s Heart]] (M): | You cut out an enemy's heart and consume it, absorbing that enemy's power as your own. |
 | [[rangoric-srd/spells/Hold Person\|Hold Person]]: | Paralyzes one humanoid for 1 round/level. |
 | [[rangoric-srd/spells/Improve Trap\|Improve Trap]]: | Improves a trap with one specific element of the trap chosen at the time of casting. |
-| [[rangoric-srd/spells/Inflict Pain\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
+| [[rangoric-srd/spells/Inflict Pain (Spell)\|Inflict Pain]]: | Target takes a –4 penalty on attack rolls, skill checks, and ability checks. |
 | [[rangoric-srd/spells/Invisibility\|Invisibility]]: | Subject is [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] for 1 min./level or until it attacks. |
 | [[rangoric-srd/spells/Ironskin\|Ironskin]] (M): | Harden your skin into iron. |
 | [[rangoric-srd/spells/Litany of Defense\|Litany of Defense]]: | Doubles armor's enhancement bonus. |

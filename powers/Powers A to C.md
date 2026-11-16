@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Psionic Powers"
 based-on:
   - "[[fantasy srd 3.5/powers/Powers A to C|Powers A to C (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -26,7 +26,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/powers/Attraction|Attraction]]
   - [[rangoric-srd/powers/Aura Alteration|Aura Alteration]]
   - [[rangoric-srd/powers/Aura Sight|Aura Sight]]
-  - [[rangoric-srd/powers/Aversion|Aversion]]
+  - [[rangoric-srd/powers/Aversion (Power)|Aversion]]
   - [[rangoric-srd/powers/Baleful Teleport|Baleful Teleport]]
   - [[rangoric-srd/powers/Banishment, Psionic|Banishment, Psionic]]
   - [[rangoric-srd/powers/Bend Reality|Bend Reality]]

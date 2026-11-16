@@ -275,7 +275,7 @@ The spells a [[rangoric-srd/classes/Magus#^magus-spells|magus]] can learn.
 | [[rangoric-srd/spells/Stoneskin\|Stoneskin]] (M): | Ignore 10 points of damage per attack. |
 | [[rangoric-srd/spells/Tail Current\|Tail Current]]: | Create a current in water to enhance or impede swimming |
 | [[rangoric-srd/spells/Tailwind\|Tailwind]]: | Create a current of wind to enhance or impede flight |
-| [[rangoric-srd/spells/Telekinetic Maneuver\|Telekinetic Maneuver]]: | Perform a telekinetic combat maneuver. |
+| [[rangoric-srd/spells/Telekinetic Maneuver (Spell)\|Telekinetic Maneuver]]: | Perform a telekinetic combat maneuver. |
 | [[rangoric-srd/spells/Vermin Shape I\|Vermin Shape I]] (M): | Take the form and some of the powers of a Small or Medium vermin. |
 | [[rangoric-srd/spells/Wall of Fire\|Wall of Fire]]: | Deals 2d4 fire damage out to 10 ft. and 1d4 out to 20 ft. Passing through wall deals 2d6 damage +1/level. |
 | [[rangoric-srd/spells/Wall of Ice\|Wall of Ice]]: | Ice plane creates wall with 15 hp +1/level, or hemisphere can trap creatures inside. |

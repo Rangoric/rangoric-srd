@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Psionic Powers"
 based-on:
   - "[[fantasy srd 3.5/powers/All Powers|All Powers (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -44,7 +44,7 @@ Many powers can be augmented in more than one way. When the Augment section cont
 | [[rangoric-srd/powers/Attraction\|Attraction]]                     | Telepathy        | Charm          | Mind-Affecting | Psion/wilder 1                    | Auditory                       |
 | [[rangoric-srd/powers/Aura Alteration\|Aura Alteration]]           | Telepathy        |                | Mind-Affecting | Psion/wilder 6                    | Material                       |
 | [[rangoric-srd/powers/Aura Sight\|Aura Sight]]                     | Clairsentience   |                |                | Psion/wilder 4                    | Visual                         |
-| [[rangoric-srd/powers/Aversion\|Aversion]]                         | Telepathy        | Compulsion     | Mind-Affecting | Telepath 2                        | Auditory and material          |
+| [[rangoric-srd/powers/Aversion (Power)\|Aversion]]                         | Telepathy        | Compulsion     | Mind-Affecting | Telepath 2                        | Auditory and material          |
 
 ### B
 
@@ -215,7 +215,7 @@ Many powers can be augmented in more than one way. When the Augment section cont
 | [[rangoric-srd/powers/Hail of Crystals\|Hail of Crystals]] | Metacreativity   | Creation       |            | Shaper 5                          | Auditory and visual   |
 | [[rangoric-srd/powers/Hammer\|Hammer]]                     | Psychometabolism |                |            | Psion/wilder 1, psychic warrior 1 | Auditory and material |
 | [[rangoric-srd/powers/Hustle\|Hustle]]                     | Psychometabolism |                |            | Egoist 3, psychic warrior 2       | Auditory              |
-| [[rangoric-srd/powers/Hypercognition\|Hypercognition]]     | Clairsentience   |                |            | Seer 8                            | Mental                |
+| [[rangoric-srd/powers/Hypercognition (Power)\|Hypercognition]]     | Clairsentience   |                |            | Seer 8                            | Mental                |
 
 ### I
 
@@ -227,7 +227,7 @@ Many powers can be augmented in more than one way. When the Augment section cont
 | [[rangoric-srd/powers/Incarnate\|Incarnate]]                   | Metacreativity   |                |                | Psion/wilder 5                    | Material            |
 | [[rangoric-srd/powers/Inertial Armor\|Inertial Armor]]         | Psychokinesis    |                |                | Psion/wilder 1, psychic warrior 1 | Visual; see text    |
 | [[rangoric-srd/powers/Inertial Barrier\|Inertial Barrier]]     | Psychokinesis    |                |                | Kineticist 4, psychic warrior 4   | Auditory and mental |
-| [[rangoric-srd/powers/Inflict Pain\|Inflict Pain]]             | Telepathy        |                | Mind-Affecting | Psion/wilder 2                    | Mental              |
+| [[rangoric-srd/powers/Inflict Pain (Power)\|Inflict Pain]]             | Telepathy        |                | Mind-Affecting | Psion/wilder 2                    | Mental              |
 | [[rangoric-srd/powers/Insanity (Power)\|Insanity]]             | Telepathy        | Compulsion     | Mind-Affecting | Psion/wilder 7                    | Mental              |
 | [[rangoric-srd/powers/Intellect Fortress\|Intellect Fortress]] | Psychokinesis    |                |                | Psion/wilder 4                    | Auditory            |
 | [[rangoric-srd/powers/Iron Body, Psionic\|Iron Body, Psionic]] | Metacreativity   | Creation       |                | Psion/wilder 8                    | Auditory            |
@@ -265,15 +265,15 @@ Many powers can be augmented in more than one way. When the Augment section cont
 | [[rangoric-srd/powers/Microcosm\|Microcosm]]                                         | Telepathy        | Compulsion     | Mind-Affecting                     | Psion/wilder 9                    | Material                       |
 | [[rangoric-srd/powers/Mind Blank, Personal\|Mind Blank, Personal]]                   | Telepathy        |                | Mind-Affecting                     | Psion/wilder 7, psychic warrior 6 | Olfactory                      |
 | [[rangoric-srd/powers/Mind Blank, Psionic\|Mind Blank, Psionic]]                     | Telepathy        |                | Mind-Affecting                     | Psion/wilder 8                    | Olfactory                      |
-| [[rangoric-srd/powers/Mind Probe\|Mind Probe]]                                       | Telepathy        | Charm          | Mind-Affecting                     | Telepath 5                        | Auditory, material, and visual |
+| [[rangoric-srd/powers/Mind Probe (Power)\|Mind Probe]]                                       | Telepathy        | Charm          | Mind-Affecting                     | Telepath 5                        | Auditory, material, and visual |
 | [[rangoric-srd/powers/Mind Seed\|Mind Seed]]                                         | Telepathy        | Compulsion     | Evil, Mind-Affecting               | Telepath 8                        | Mental                         |
 | [[rangoric-srd/powers/Mind Switch\|Mind Switch]]                                     | Telepathy        |                | Mind-Affecting                     | Telepath 6                        | Visual                         |
 | [[rangoric-srd/powers/Mind Switch, True\|Mind Switch, True]]                         | Telepathy        |                | Mind-Affecting                     | Telepath 9                        | Visual                         |
 | [[rangoric-srd/powers/Mind Thrust\|Mind Thrust]]                                     | Telepathy        |                | Mind-Affecting                     | Psion/wilder 1                    | Auditory                       |
 | [[rangoric-srd/powers/Mind Trap\|Mind Trap]]                                         | Telepathy        |                | Mind-Affecting                     | Psion/wilder 3                    | Auditory                       |
-| [[rangoric-srd/powers/Mindlink\|Mindlink]]                                           | Telepathy        |                | Mind-Affecting                     | Telepath 1                        | Mental                         |
+| [[rangoric-srd/powers/Mindlink (Power)\|Mindlink]]                                           | Telepathy        |                | Mind-Affecting                     | Telepath 1                        | Mental                         |
 | [[rangoric-srd/powers/Powers G to P\|Mindlink, Thieving]]                            | Telepathy        |                | Mind-Affecting                     | Telepath 4                        | Mental                         |
-| [[rangoric-srd/powers/Mindwipe\|Mindwipe]]                                           | Telepathy        |                | Mind-Affecting                     | Psion/wilder 4                    | Auditory, mental, and visual   |
+| [[rangoric-srd/powers/Mindwipe (Power)\|Mindwipe]]                                           | Telepathy        |                | Mind-Affecting                     | Psion/wilder 4                    | Auditory, mental, and visual   |
 | [[rangoric-srd/powers/Minor Creation, Psionic\|Minor Creation, Psionic]]             | Metacreativity   | Creation       |                                    | Shaper 1                          | Material                       |
 | [[rangoric-srd/powers/Missive\|Missive]]                                             | Telepathy        |                | Mind-Affecting, Language-Dependent | Psion/wilder 1                    | Mental                         |
 | [[rangoric-srd/powers/Missive, Mass\|Missive, Mass]]                                 | Telepathy        |                | Mind-Affecting, Language-Dependent | Psion/wilder 2                    | Mental                         |
@@ -329,7 +329,7 @@ Many powers can be augmented in more than one way. When the Augment section cont
 
 | Power                                                | Discipline     | Sub-discipline | Descriptor | Level    | Display            |
 | ---------------------------------------------------- | -------------- | -------------- | ---------- | -------- | ------------------ |
-| [[rangoric-srd/powers/Quintessence\|Quintessence]] | Metacreativity | Creation       |            | Shaper 4 | Material; see text |
+| [[rangoric-srd/powers/Quintessence (Power)\|Quintessence]] | Metacreativity | Creation       |            | Shaper 4 | Material; see text |
 
 ### R
 
@@ -356,7 +356,7 @@ Many powers can be augmented in more than one way. When the Augment section cont
 | [[rangoric-srd/powers/Sense Link, Forced\|Sense Link, Forced]]                                 | Telepathy        |                | Mind-Affecting                     | Psion/wilder 2                    | Visual                |
 | [[rangoric-srd/powers/Sensitivity to Psychic Impressions\|Sensitivity to Psychic Impressions]] | Clairsentience   |                |                                    | Seer 2                            | Auditory and material |
 | [[rangoric-srd/powers/Sequester, Psionic\|Sequester, Psionic]]                                 | Clairsentience   |                |                                    | Psion/wilder 7                    | None                  |
-| [[rangoric-srd/powers/Shadow Body\|Shadow Body]]                                               | Psychometabolism |                |                                    | Psion/wilder 8                    | Auditory              |
+| [[rangoric-srd/powers/Shadow Body (Power)\|Shadow Body]]                                               | Psychometabolism |                |                                    | Psion/wilder 8                    | Auditory              |
 | [[rangoric-srd/powers/Share Pain\|Share Pain]]                                                 | Psychometabolism |                |                                    | Psion/wilder 2                    | Material and mental   |
 | [[rangoric-srd/powers/Share Pain, Forced\|Share Pain, Forced]]                                 | Psychometabolism |                |                                    | Psion/wilder 3                    | Material and mental   |
 | [[rangoric-srd/powers/Shatter Mind Blank\|Shatter Mind Blank]]                                 | Telepathy        |                |                                    | Psion/wilder 5                    | Olfactory             |
@@ -376,7 +376,7 @@ Many powers can be augmented in more than one way. When the Augment section cont
 | Power                                                                                  | Discipline       | Sub-discipline | Descriptor     | Level                             | Display                       |
 | -------------------------------------------------------------------------------------- | ---------------- | -------------- | -------------- | --------------------------------- | ----------------------------- |
 | [[rangoric-srd/powers/Telekinetic Force\|Telekinetic Force]]                         | Psychokinesis    |                | Force          | Psion/wilder 3                    | Visual                        |
-| [[rangoric-srd/powers/Telekinetic Maneuver\|Telekinetic Maneuver]]                   | Psychokinesis    |                | Force          | Psion/wilder 4                    | Visual                        |
+| [[rangoric-srd/powers/Telekinetic Maneuver (Power)\|Telekinetic Maneuver]]                   | Psychokinesis    |                | Force          | Psion/wilder 4                    | Visual                        |
 | [[rangoric-srd/powers/Telekinetic Sphere, Psionic\|Telekinetic Sphere, Psionic]]     | Psychokinesis    |                | Force          | Kineticist 8                      | Material                      |
 | [[rangoric-srd/powers/Telekinetic Thrust\|Telekinetic Thrust]]                       | Psychokinesis    |                |                | Psion/wilder 3                    | Visual                        |
 | [[rangoric-srd/powers/Telempathic Projection\|Telempathic Projection]]               | Telepathy        | Charm          | Mind-Affecting | Psion/wilder 1                    | Visual                        |
@@ -420,6 +420,6 @@ Many powers can be augmented in more than one way. When the Augment section cont
 
 | Power                                                          | Discipline      | Sub-discipline | Descriptor | Level             | Display  |
 | -------------------------------------------------------------- | --------------- | -------------- | ---------- | ----------------- | -------- |
-| [[rangoric-srd/powers/Wall of Ectoplasm\|Wall of Ectoplasm]] | Metacreativity  | Creation       |            | Psion/wilder 4    | Visual   |
+| [[rangoric-srd/powers/Wall of Ectoplasm (Power)\|Wall of Ectoplasm]] | Metacreativity  | Creation       |            | Psion/wilder 4    | Visual   |
 | [[rangoric-srd/powers/Wall Walker\|Wall Walker]]             | Psychoportation |                |            | Psychic warrior 2 | Material |
 | [[rangoric-srd/powers/Weapon of Energy\|Weapon of Energy]]   | Psychokinesis   |                | see text   | Psychic warrior 4 | Visual   |

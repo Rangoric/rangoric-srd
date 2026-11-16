@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells A to B|Spells A to B (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -134,7 +134,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Aura of the Unremarkable|Aura of the Unremarkable]]
   - [[rangoric-srd/spells/Aura Sight|Aura Sight]]
   - [[rangoric-srd/spells/Avatar|Avatar]]
-  - [[rangoric-srd/spells/Aversion|Aversion]]
+  - [[rangoric-srd/spells/Aversion (Spell)|Aversion]]
   - [[rangoric-srd/spells/Awaken|Awaken]]
   - [[rangoric-srd/spells/Awaken Construct|Awaken Construct]]
   - [[rangoric-srd/spells/Awakening|Awakening]]

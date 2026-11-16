@@ -14,9 +14,9 @@ tags: [rangoric, rangoric/overview]
 
 # Identifying Magic
 
-The four **Magic skills** (the [[rangoric-srd/Tag Register|tag]] *magic*) identify magic, each its own kind: [[rangoric-srd/skills/Arcana|Arcana]] arcane spells, [[rangoric-srd/skills/Theology|Theology]] divine spells from gods, [[rangoric-srd/skills/Nature|Nature]] divine spells from nature, and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] psionic powers. A **Magic skill check** is a check with whichever of these skills fits:
+The five **Magic skills** (the [[rangoric-srd/Tag Register|tag]] *magic*) identify magic, each its own kind: [[rangoric-srd/skills/Arcana|Arcana]] arcane spells, [[rangoric-srd/skills/Theology|Theology]] divine spells from gods, [[rangoric-srd/skills/Nature|Nature]] divine spells from nature, [[rangoric-srd/skills/Psionics (Skill)|Psionics]] psionic powers, and [[rangoric-srd/skills/Psychic (Skill)|Psychic]] [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]]. A **Magic skill check** is a check with whichever of these skills fits:
 
-- **Who cast it, and how.** A wizard’s spell is Arcana, a cleric’s Theology, a druid’s Nature, a psion’s power Psionics.
+- **Who cast it, and how.** A wizard’s spell is Arcana, a cleric’s Theology, a druid’s Nature, a psion’s power Psionics, a psychic spellcaster’s spell Psychic.
 - **Your own spell list.** If the spell is on your own class’s spell list, you can also use your own Magic skill. Every cleric domain counts as part of the cleric’s list, not just the domains you chose.
 - **With no caster in view**: scrolls, wands and staffs go by who made them; spell traps, *glyph of warding* and *symbol* by who set them, or else the spell’s list; a potion, or a magic item’s properties, by its spells (any Magic skill whose casters have them, or your own list); a creature’s spell-like ability by the skill that identifies the creature.
 - **Your own Magic skill**: learning the school of an aura with *detect magic*, and drawing a diagram for *dimensional anchor*, use your own Magic skill, since you’re casting the spell.
@@ -92,6 +92,7 @@ A class that casts spells or manifests powers lists its Magic skill. Wherever a 
 | [[rangoric-srd/skills/Theology\|Theology]] | Cleric, paladin, adept; blackguard |
 | [[rangoric-srd/skills/Nature\|Nature]] | Druid, ranger |
 | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] | Psion, psychic warrior, wilder |
+| [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] | Classes that cast psychic spells |
 
 A prestige class lists a Magic skill only if it has spellcasting of its own. One that advances another class’s casting, such as the mystic theurge, uses the Magic skills of the classes it advances.
 

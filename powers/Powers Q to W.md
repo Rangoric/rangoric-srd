@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Psionic Powers"
 based-on:
   - "[[fantasy srd 3.5/powers/Powers Q to W|Powers Q to W (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Quintessence—Weapon of Energy
 
-  - [[rangoric-srd/powers/Quintessence|Quintessence]]
+  - [[rangoric-srd/powers/Quintessence (Power)|Quintessence]]
   - [[rangoric-srd/powers/Read Thoughts|Read Thoughts]]
   - [[rangoric-srd/powers/Reality Revision|Reality Revision]]
   - [[rangoric-srd/powers/Recall Agony|Recall Agony]]
@@ -30,7 +30,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/powers/Sense Link, Forced|Sense Link, Forced]]
   - [[rangoric-srd/powers/Sensitivity to Psychic Impressions|Sensitivity to Psychic Impressions]]
   - [[rangoric-srd/powers/Sequester, Psionic|Sequester, Psionic]]
-  - [[rangoric-srd/powers/Shadow Body|Shadow Body]]
+  - [[rangoric-srd/powers/Shadow Body (Power)|Shadow Body]]
   - [[rangoric-srd/powers/Share Pain|Share Pain]]
   - [[rangoric-srd/powers/Share Pain, Forced|Share Pain, Forced]]
   - [[rangoric-srd/powers/Shatter Mind Blank|Shatter Mind Blank]]
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/powers/Swarm of Crystals|Swarm of Crystals]]
   - [[rangoric-srd/powers/Synesthete|Synesthete]]
   - [[rangoric-srd/powers/Telekinetic Force|Telekinetic Force]]
-  - [[rangoric-srd/powers/Telekinetic Maneuver|Telekinetic Maneuver]]
+  - [[rangoric-srd/powers/Telekinetic Maneuver (Power)|Telekinetic Maneuver]]
   - [[rangoric-srd/powers/Telekinetic Sphere, Psionic|Telekinetic Sphere, Psionic]]
   - [[rangoric-srd/powers/Telekinetic Thrust|Telekinetic Thrust]]
   - [[rangoric-srd/powers/Telempathic Projection|Telempathic Projection]]
@@ -74,6 +74,6 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/powers/Ultrablast|Ultrablast]]
   - [[rangoric-srd/powers/Vampiric Blade|Vampiric Blade]]
   - [[rangoric-srd/powers/Vigor|Vigor]]
-  - [[rangoric-srd/powers/Wall of Ectoplasm|Wall of Ectoplasm]]
+  - [[rangoric-srd/powers/Wall of Ectoplasm (Power)|Wall of Ectoplasm]]
   - [[rangoric-srd/powers/Wall Walker|Wall Walker]]
   - [[rangoric-srd/powers/Weapon of Energy|Weapon of Energy]]

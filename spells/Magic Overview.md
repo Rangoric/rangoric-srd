@@ -1,11 +1,14 @@
 ---
 srd-type: "overview"
 section: "Spells"
-book: ["Ultimate Combat"]
+book: ["Ultimate Combat", "Occult Adventures"]
 based-on:
   - "[[fantasy srd 3.5/spells/Magic Overview|Magic Overview (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/magic/Casting Spells#Bringing Back the Dead|Bringing Back the Dead (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-combat/spell-lists/Communal Spells|Communal Spells (PF1)]]"
+  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Psychic Magic (Rules)|Psychic Magic (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Components (Unrecorded)|Components (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Undercasting Spells|Undercasting Spells (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -14,13 +17,13 @@ tags: [rangoric, rangoric/overview]
 
 ## Magic Overview
 
-A spell is a one-time magical effect. Spells come in two types: arcane (cast by bards, sorcerers, and wizards) and divine (cast by clerics, druids, and experienced paladins and rangers). Some spellcasters select their spells from a limited list of spells known, while others have access to a wide variety of options. Most spellcasters prepare their spells in advance—whether from a spellbook or through devout prayers and meditation— while some cast spells spontaneously without preparation. Despite these different ways that characters use to learn or prepare their spells, when it comes to casting them, the spells are very much alike.
+A spell is a one-time magical effect. Spells come in three types: arcane (cast by bards, sorcerers, and wizards), divine (cast by clerics, druids, and experienced paladins and rangers), and psychic (cast by psychics, mesmerists, occultists, mediums, and spiritualists; see [[rangoric-srd/spells/Magic Overview#Psychic Magic|Psychic Magic]], below). Some spellcasters select their spells from a limited list of spells known, while others have access to a wide variety of options. Most spellcasters prepare their spells in advance—whether from a spellbook or through devout prayers and meditation— while some cast spells spontaneously without preparation. Despite these different ways that characters use to learn or prepare their spells, when it comes to casting them, the spells are very much alike.
 
-Cutting across the categories of arcane and divine spells are the eight schools of magic. These schools represent the different ways that spells take effect.
+Cutting across the categories of arcane, divine, and psychic spells are the eight schools of magic. These schools represent the different ways that spells take effect.
 
 ### Casting Spells
 
-Whether a spell is arcane or divine, and whether a character prepares spells in advance or chooses them on the spot, casting a spell works the same way.
+Whether a spell is arcane, divine, or psychic, and whether a character prepares spells in advance or chooses them on the spot, casting a spell works the same way.
 
 ##### Choosing a Spell
 
@@ -38,7 +41,7 @@ To cast a spell, you must concentrate. If something interrupts your concentratio
 
 ##### Counterspells
 
-It is possible to cast any spell as a counterspell. By doing so, you are using the spell’s energy to disrupt the casting of the same spell by another character. Counterspelling works even if one spell is divine and the other arcane.
+It is possible to cast any spell as a counterspell. By doing so, you are using the spell’s energy to disrupt the casting of the same spell by another character. Counterspelling works even if the two spells are of different types (arcane, divine, or psychic).
 
 **How Counterspells Work**: To use a counterspell, you must select an opponent as the target of the counterspell. You do this by choosing the ready action. In doing so, you elect to wait to complete your action until your opponent tries to cast a spell. (You may still move your speed, since ready is a standard action.)
 
@@ -112,6 +115,30 @@ A bonus that isn’t named stacks with any bonus.
 
 **Instantaneous Effects**: Two or more spells with instantaneous durations work cumulatively when they affect the same target.
 
+### Psychic Magic
+
+Psychic magic is a third type of magic beside arcane and divine, drawn from the caster’s own being (her mind and desires, her life force, her spirit) rather than from arcane formulae or prayers to distant powers. A psychic spell works like any other spell, and metamagic feats and other rules that change spells or are triggered by them can usually be used with psychic spells too (but see Psychic Components, below). Psychic spellcasters aren’t affected by effects that target only arcane or divine spellcasters, and can’t use scrolls or other items, or feats, that only arcane or divine spellcasters can use. ^psychic-magic
+
+A spell’s type goes by who casts it. Many spells are on both psychic and arcane or divine spell lists: such a spell is psychic when a psychic spellcaster casts it, and arcane or divine when an arcane or divine spellcaster does. Psychic spells are identified with the [[rangoric-srd/skills/Psychic (Skill)|Psychic]] skill; see [[rangoric-srd/skills/Identifying Magic|Identifying Magic]].
+
+##### Psychic Components
+
+Psychic spells never have verbal or somatic components, and have material components only when a cost is given for them. Casting a psychic spell is a purely mental action, so it can be cast even while the caster is [[rangoric-srd/rules/conditions/Pinned (Condition)|pinned]] or [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. Focus components and XP costs work the same way for psychic spells as for other spells. When a spell calls for a material component with a cost, a psychic spellcaster can instead use any item that has significant meaning to her and is worth at least the component’s cost: a caster bringing her dead husband back with *[[rangoric-srd/spells/Raise Dead|raise dead]]* could use her 5,000 gp wedding ring. ^psychic-components
+
+In place of verbal and somatic components, psychic spells have components drawn from the caster’s inner being. When a psychic spellcaster casts a spell, its somatic component becomes an **emotion component** and its verbal component a **thought component**. An arcane or divine spellcaster casting the same spell uses its somatic and verbal components as normal.
+
+**Emotion Component**: A particular emotional state the caster must call up and focus to release the spell. A spell with an emotion component can’t be cast while the caster is under a non-harmless effect with the emotion or fear descriptor, even one whose emotion matches the one the spell needs: providing an emotion component takes being in control of your own feelings and impulses. ^emotion-component
+
+**Thought Component**: A mental construct the spell needs, such as picturing a wolf in vivid detail, down to the saliva dripping from its jaws, to take a wolf’s shape with *[[rangoric-srd/spells/Beast Shape I|beast shape]]*. Thought components make interruptions and distractions much harder to work through; see [[rangoric-srd/rules/Concentration (Check)|Concentration (Check)]]. ^thought-component
+
+Spell-like abilities never need thought or emotion components, just as they never need verbal, somatic, or material ones. Thought and emotion components take the place of verbal and somatic components only as components, not for other rules about verbal and somatic components: [[rangoric-srd/feats/Silent Spell|Silent Spell]] can’t leave out a thought component, for example. The Intuitive Spell and Logical Spell feats do that for emotion and thought components.
+
+##### Undercasting
+
+Some psychic spells can be undercast: the caster can cast the spell at the level she knows or as any lower-level version of it, using the spell slot for that version. An undercast spell is treated exactly like the lower-level version, including its effect, saving throw, and other variables. For example, a psychic spellcaster who adds *ego whip III* to her spells known can cast it as *ego whip I*, *II*, or *III*. Cast as *ego whip I*, it is that spell in every way: it uses that spell’s text and save DC, and the spell slot of *ego whip I*’s level. ^undercasting
+
+Whenever a spontaneous spellcaster adds a spell that can be undercast to his spells known, he can at once learn a new spell in place of each lower-level version of that spell he knows: he loses each earlier version and replaces it with another spell of the same level from his spell list.
+
 ### Spell Descriptions
 
 The description of each spell is presented in a standard format. Each category of information is explained and defined below.
@@ -128,13 +155,15 @@ Beneath the spell name is a line giving the [[rangoric-srd/spells/Schools of Mag
 
 Appearing on the same line as the school and subschool, when applicable, is a descriptor that further categorizes the spell in some way. Some spells have more than one descriptor.
 
-The descriptors are acid, air, chaotic, cold, cold iron, darkness, death, earth, electricity, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, sonic, and water.
+The descriptors are acid, air, chaotic, cold, cold iron, darkness, death, earth, electricity, emotion, evil, fear, fire, force, good, language-dependent, lawful, light, mind-affecting, sonic, and water.
 
 Most of these descriptors have no game effect by themselves, but they govern how the spell interacts with other spells, with special abilities, with unusual creatures, with alignment, and so on.
 
 A language-dependent spell uses intelligible language as a medium for communication. If the target cannot understand or cannot hear what the caster of a language-dependant spell says the spell fails.
 
 A mind-affecting spell works only against creatures with an Intelligence score of 1 or higher.
+
+A non-harmless effect with the emotion or fear descriptor keeps the creature it affects from providing [[rangoric-srd/spells/Magic Overview#^emotion-component|emotion components]] for psychic spells.
 
 A cold iron spell uses cold-wrought iron as its manifested effect against target creatures. This material is especially dangerous to fey (see [[rangoric-srd/equipment/Special Materials#Special Weapons Materials|cold iron]]), so a cold iron spell is far more dangerous when used by or against fey creatures. Damage a cold iron spell deals is cold iron damage: it counts as cold iron for overcoming damage reduction (DR/cold iron) and for a creature's weakness to cold iron, as fey have (Wilson 2026-11-11). ^cold-iron-descriptor
 
@@ -163,6 +192,8 @@ A spell’s components are what you must do or possess to cast it. The Component
 If the Components line includes F/DF or M/DF, the arcane version of the spell has a focus component or a material component (the abbreviation before the slash) and the divine version has a divine focus component (the abbreviation after the slash).
 
 **XP Cost (XP)**: Some powerful spells entail an experience point cost to you. No spell can restore the XP lost in this manner. You cannot spend so much XP that you lose a level, so you cannot cast the spell unless you have enough XP to spare. However, you may, on gaining enough XP to attain a new level, use those XP for casting a spell rather than keeping them and advancing a level. The XP are treated just like a material component—expended when you cast the spell, whether or not the casting succeeds.
+
+**Thought and Emotion**: A psychic spellcaster provides thought and emotion components in place of verbal and somatic ones; see [[rangoric-srd/spells/Magic Overview#^psychic-components|Psychic Components]].
 
 ##### Casting Time
 
