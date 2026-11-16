@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "body"
 aura: "Faint abjuration"
 caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, resist energy"

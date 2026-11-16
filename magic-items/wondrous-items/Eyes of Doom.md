@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "eyes"
 aura: "Moderate necromancy"
 caster-level: 11
 prerequisites: "Craft Wondrous Item, doom, deathwatch, fear"
 price: "25,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Eyes of Doom|Eyes of Doom (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

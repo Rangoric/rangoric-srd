@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "eyes"
 aura: "Moderate enchantment"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, Heighten Spell, charm person"
 price: "56,000 gp for a pair"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Eyes of Charming|Eyes of Charming (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

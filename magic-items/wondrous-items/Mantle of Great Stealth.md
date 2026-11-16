@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "chest"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, blur, invisibility, nondetection, silence"
 price: "242,000 gp"

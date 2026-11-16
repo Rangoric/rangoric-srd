@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "chest"
 aura: "Faint evocation"
 caster-level: 3
 prerequisites: "Craft Magic Arms and Armor, daylight"

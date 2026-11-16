@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "chest"
 aura: "Faint conjuration and transmutation"
 caster-level: 4
 prerequisites: "Craft Wondrous Item, knock, grease"
