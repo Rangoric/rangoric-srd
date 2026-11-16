@@ -138,6 +138,10 @@ In addition, upon reaching 4th level and every 4 levels thereafter, a swashbuckl
 
 **Swashbuckler Weapon Mastery (Ex)**: At 20th level, when a swashbuckler threatens a critical hit with a light or one-handed piercing melee weapon, that critical is automatically confirmed. Furthermore, the critical modifiers of such weapons increase by 1 (×2 becomes ×3, and so on). ^swashbuckler-weapon-mastery
 
+**Archetypes**: A swashbuckler can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The swashbuckler’s archetypes, with what each replaces: ^swashbuckler-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Swashbuckler]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The swashbuckler’s class bonuses, by race: ^swashbuckler-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Swashbuckler]]
