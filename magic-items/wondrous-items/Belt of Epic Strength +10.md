@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "belt"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, bull’s strength"
 price: "1,000,000 gp"

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "belt"
 aura: "Moderate divination"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, tongues, creator must be a dwarf"
@@ -9,8 +10,8 @@ price: "14,900 gp"
 weight: "1 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Belt of Dwarvenkind|Belt of Dwarvenkind (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

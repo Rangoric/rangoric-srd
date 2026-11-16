@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "belt"
 aliases:
   - "Belt of Epic Strength"
 caster-level: 20

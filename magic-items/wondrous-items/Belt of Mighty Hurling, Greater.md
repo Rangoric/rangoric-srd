@@ -1,0 +1,26 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "belt"
+aura: "Moderate transmutation"
+caster-level: 12
+prerequisites: "Craft Wondrous Item, bull's strength, longshot"
+price: "42,000 gp"
+cost: "21,000 gp"
+weight: "1 lb."
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/wondrous-items/Belt of Mighty Hurling, Greater|Belt of Mighty Hurling, Greater (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Belt of Mighty Hurling, Greater|Belt of Mighty Hurling, Greater (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Belt of Mighty Hurling, Greater
+
+This item functions as the *[[rangoric-srd/magic-items/wondrous-items/Belt of Mighty Hurling, Lesser|lesser belt of mighty hurling]]*, except it grants a +4 enhancement bonus to Strength and any thrown weapons its wearer hurls are treated as though they had the *[[rangoric-srd/magic-items/weapon-abilities/Returning|returning]]* quality. This does not apply to improvised ranged weapons, splash weapons, or weapons the wearer lacks proficiency with. Treat the bonus to Strength as a temporary ability bonus for the first 24 hours the belt is worn.
+
+Moderate transmutation; CL 12th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Longshot|longshot]]*; Price 42,000 gp; Cost 21,000 gp; Weight 1 lb.
