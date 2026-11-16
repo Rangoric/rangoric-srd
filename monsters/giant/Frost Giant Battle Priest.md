@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Frost Giant Battle Priest|Frost Giant Battle Priest (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A frost giant battle priest is a [[rangoric-srd/monsters/giant/Frost Giant|frost giant]] with 8 levels of [[rangoric-srd/classes/Cleric|cleric]]. Frost giant priests are as scheming as they are violent, controlling others through fear and tradition.
+
+A frost giant battle priest uses her powers seeking out those who would undercut her authority or that of the chief, through spying on, manipulating, and threatening the rest of the tribe. When needed, she's not averse to taking up her battleaxe and splitting a few heads.
 
 A frost giant battle priest speaks Abyssal, Common, and Giant.
 

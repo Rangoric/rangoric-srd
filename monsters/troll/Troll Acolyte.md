@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Troll Acolyte|Troll Acolyte (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A troll acolyte is a [[rangoric-srd/monsters/troll/Troll|troll]] with 2 levels of [[rangoric-srd/classes/Cleric|cleric]], one of the troll defenders. In small troll groups, one member is singled out to safeguard the tribe members and the wilderness they call home. Such a troll might have magical power or simply knowledge of the natural world.
+
+A troll acolyte has tested her devotion to a demon lord by searing her flesh with acid and fire so it must heal naturally, without regeneration.
 
 A troll acolyte speaks Giant.
 

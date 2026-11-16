@@ -65,6 +65,8 @@ tags: [rangoric, rangoric/monster]
 
 A hobgoblin paragon is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 11 levels of [[rangoric-srd/classes/Monk|monk]]. Though hobgoblins are innately drawn to combat and conflict, not all find a place as faceless members among the ranks of a military unit. Some seek to perfect their own bodies to become a one-person squadron, the pinnacle of martial mastery, and a temple to perfected technique and dedicated skill. These hobgoblins are austere, cruel, and completely confident in their ability.
 
+Many hobgoblin paragons join specialized teams of fellow hobgoblins within larger armies, though they live isolated lives, apart from their regimented kin, rather than feeling a true camaraderie. A large number of them instead travel the world, participating in tournaments of martial skill, from gladiatorial arenas to competitions in distant monasteries practicing foreign techniques. Others pursue more mercenary endeavors, selling their talents to the highest bidder so long as their contract involves dishing out pain to the weak or the unworthy. Whether as lone bodyguards of corrupt merchants or politicians, or high-ranking enforcers of the criminal underworld, a hobgoblin paragon willing to serve a well-paying master has no trouble finding employment wherever she might seek it.
+
 A hobgoblin paragon speaks Common and Goblin.
 
 ### Combat

@@ -65,4 +65,6 @@ tags: [rangoric, rangoric/monster]
 
 A hobgoblin sergeant is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 3 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the hobgoblin overseers. Trusted with a small amount of authority, each sergeant or battlefield zealot commands and keeps tabs on fewer than a dozen warriors.
 
+Sergeants are versatile warriors; they're capable of engaging in battle up close or at range, and smart and tough enough to lead the army's rank-and-file troops.
+
 A hobgoblin sergeant speaks Common, Giant, and Goblin.

@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Frost Giant Jarl|Frost Giant Jarl (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A frost giant jarl is a [[rangoric-srd/monsters/giant/Frost Giant|frost giant]] with 9 levels of [[rangoric-srd/classes/Ranger|ranger]]. Brutal lords of the frost giant tribes, jarls brook no argument from those beneath them.
+
+Jarls rule their tribes and subordinates with an iron fist—or a hammer to the skull. Jarls take and hold their positions through force. While many might wish to see their stations pass on to their progeny, heredity carries little weight in frost giant society, and jarls understand that their children can assume power only by violently seizing it. As a result, frost giant jarls are hard on their children, encouraging sibling rivalries in hopes that one child will eventually prove strong enough to rule.
 
 A frost giant jarl speaks Common and Giant.
 

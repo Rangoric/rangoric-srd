@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Fire Giant Queen|Fire Giant Queen (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A fire giant queen is a [[rangoric-srd/monsters/giant/Fire Giant|fire giant]] with 5 levels of [[rangoric-srd/classes/Fighter|fighter]] and 8 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]]. Strong, regal, and deadly, a queen among the fire giants takes her place in battle, and like the namesake chess piece moves decisively and with ruthless malice.
+
+Many fire giant queens rule their tribes alongside their husbands, whom they wed for life in marriages based on political power rather than romance. Other fire giant queens reign alone, bowing to no king and needing no partner to supplement their own considerable strength and power.
 
 A fire giant queen speaks Common, Giant, and Infernal.
 

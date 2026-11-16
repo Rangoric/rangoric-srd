@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Bugbear Cultist|Bugbear Cultist (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A bugbear cultist is a [[rangoric-srd/monsters/bugbear/Bugbear|bugbear]] with 6 levels of [[rangoric-srd/classes/Oracle|oracle]]. Bugbear cults are often small and short-lived, driven by strident cultists who hail themselves as prophets. The cultists consider themselves specially blessed with the power (and authority) to terrorize the world, and use their spells and curses as evidence of their special status. Most bugbear prophets rule over a small group of lesser creatures, often gullible goblins or kobolds, though sometimes they have a more unusual flock, such as dire apes, ettercaps, or howlers.
+
+Bugbears worship in divergent, sometimes contradictory ways, and no one would call their religion “organized.” Most of them simply utter occasional thanks to any demon lords whose names they happen to know. A cultist who comes along with a slightly formalized religious spiel and the ability to cast potent spells can sometimes convince other bugbears to follow him into a religious fervor. Cultists revere gods of battle, particularly demon lords. Their rituals vary wildly, and often involve violent blood sacrifices. A small number of especially conceited cultists consider themselves true prophets or living gods.
 
 A bugbear cultist speaks Common, Giant, Goblin, and Infernal.
 

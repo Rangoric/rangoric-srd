@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Frost Giant Raider|Frost Giant Raider (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,10 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A frost giant raider is a [[rangoric-srd/monsters/giant/Frost Giant|frost giant]] with 2 levels of [[rangoric-srd/classes/Barbarian|barbarian]]. Frost giant raiders are the terror of the north, racing out of the snow to rend and slaughter for the sheer joy of battle and conquest.
+
+Raiders are the shock troops of frost giant tribes, usually consisting of the tribe's toughest, most intimidating warriors. On raids, they exult in the fear that their mighty appearance causes, often breaking enemy lines with the sheer sight of their howling charge. Unlike frost giant [[rangoric-srd/classes/Ranger|rangers]], frost giant raiders are less concerned with stealth or tactics than with impressing each other via dramatic feats, and wiser jarls know when to rein in their troops lest frost giant bravado and a desire for bragging rights lose them a battle—or, more often, result in unnecessary destruction of valuable slaves and plunder.
+
+While larger tribes are usually ruled by a jarl or another powerful figure, in smaller tribes a raider might serve as a leader. Some raiders could even be chieftains who pledge fealty to a mighty jarl's larger clan. Since a frost giant tribe ruled by a mere raider is likely to be easy pickings for a more fearsome tribe looking to increase its holdings, raider-led tribes often find it safer to move out of their traditional homelands and into softer country, and thus they often come into conflict with smaller humanoids.
 
 A frost giant raider speaks Common and Giant.
 

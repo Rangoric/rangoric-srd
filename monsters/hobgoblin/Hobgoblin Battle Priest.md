@@ -65,6 +65,10 @@ tags: [rangoric, rangoric/monster]
 
 A hobgoblin battle priest is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 9 levels of [[rangoric-srd/classes/Cleric|cleric]]. Serving as spiritual leaders and sources of inspiration to the corps of a hobgoblin army, battle priests factor prominently in the hobgoblin arts of war. They tend to devote less effort toward healing and curing their allies' ailments than they do to imparting powerful effects to soldiers in preparation for battle.
 
+Battle priests' augmentations to their allies' strength, stamina, precision, and speed are vital to many hobgoblin tactics, and as such the [[rangoric-srd/classes/Cleric|clerics]] often serve as trusted advisors to commanders, consulting to determine what magical support would best serve the tactical situation.
+
+Like all hobgoblins, battle priests live for the adrenaline rush of open warfare, and during the heat of a skirmish they often turn their attention away from their allies—it is the task of the soldier to survive and drive his enemy before him, and a battle priest sees it as coddling weakness to tend to wounds among those soldiers not strong enough to grasp their own victory. Rather, battle priests employ their magic to debilitate their foes, channeling the wrath of their gods of war upon those who oppose them.
+
 A hobgoblin battle priest speaks Common and Goblin.
 
 ### Combat
