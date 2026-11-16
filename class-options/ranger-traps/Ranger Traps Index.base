@@ -1,0 +1,18 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/ranger-traps")
+    - note.option-type == "ranger trap"
+views:
+  - type: table
+    name: "Ranger traps"
+    order:
+      - file.name
+      - note.add-on
+      - note.ability-type
+      - note.trap-type
+      - note.status
+    sort:
+      - property: note.add-on
+        direction: ASC
+      - property: file.name
+        direction: ASC

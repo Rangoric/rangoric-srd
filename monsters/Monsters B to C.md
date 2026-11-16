@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters B to C|Monsters B to C (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/monsters/Blink Dog|Blink Dog]]
   - [[rangoric-srd/monsters/Bodak|Bodak]]
   - [[rangoric-srd/monsters/Bralani|Bralani]]
-  - [[rangoric-srd/monsters/Bugbear|Bugbear]]
+  - [[rangoric-srd/monsters/bugbear/Bugbear|Bugbear]]
   - [[rangoric-srd/monsters/Bulette|Bulette]]
   - [[rangoric-srd/monsters/Celestial Creature|Celestial Creature]]
   - [[rangoric-srd/monsters/Centaur|Centaur]]

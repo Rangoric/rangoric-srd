@@ -130,6 +130,10 @@ At 12th level, a druid can also use wild shape to change into a Huge elemental o
 
 **Timeless Body (Ex)**: After attaining 15th level, a druid no longer takes ability score penalties for aging and cannot be magically aged. Any penalties she may have already incurred, however, remain in place. Bonuses still accrue, and the druid still dies of old age when her time is up. ^druid-timeless-body
 
+**Archetypes**: A druid can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The druid’s archetypes, with what each replaces: ^druid-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Druid]]
+
 ###### Ex-Druids
 
 A druid who ceases to revere nature, changes to a prohibited alignment, or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description).
