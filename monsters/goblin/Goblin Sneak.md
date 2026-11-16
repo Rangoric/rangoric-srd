@@ -14,7 +14,7 @@ cmd: "14"
 attack: "Masterwork dogslicer +5 melee (1d4/19–20) or dogslicer +4 melee (1d4/19–20) or shortbow +6 ranged (1d4/×3)"
 full-attack: "Masterwork dogslicer +5 melee (1d4/19–20) and dogslicer +4 melee (1d4/19–20); or shortbow +6 ranged (1d4/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Sneak attack +1d6"
+special-attacks: "Sneak attack +1d6 (+2 in the surprise round or before the target has acted)"
 special-qualities: "Darkvision 60 ft., evasion, rogue talents (combat trick), trapfinding +1, weapon familiarity, finesse training"
 saves: "Fort +2, Ref +7, Will +1"
 abilities: "Str 11, Dex 19, Con 14, Int 8, Wis 12, Cha 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +5 melee (1d4/19–20) or [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +4 melee (1d4/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +6 ranged (1d4/×3)
   - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +5 melee (1d4/19–20) and [[rangoric-srd/equipment/weapons/Dogslicer|dogslicer]] +4 melee (1d4/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +6 ranged (1d4/×3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6
+  - **Special Attacks**: [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|Sneak attack]] +1d6 (+2 in the surprise round or before the target has acted)
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Rogue#^rogue-evasion|evasion]], [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] ([[rangoric-srd/class-options/rogue-talents/Combat Trick (Rogue Talent)|combat trick]]), [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]] +1, [[rangoric-srd/races/racial-traits/Weapon Familiarity (Goblin Trait)|weapon familiarity]], [[rangoric-srd/classes/Rogue#^rogue-finesse-training|finesse training]]
   - **Saves**: Fort +2, Ref +7, Will +1
   - **Abilities**: Str 11, Dex 19, Con 14, Int 8, Wis 12, Cha 8
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A goblin sneak is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 2 levels of [[rangoric-srd/classes/Rogue|rogue]], one of the goblin rogues. Goblins adore theft, and are adept at slinking about undetected. Goblin sneaks are master ambushers and spectacular hiders. The most talented also incorporate their racial love of fire into their tactics.
+A goblin sneak is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 2 levels of [[rangoric-srd/classes/Rogue|rogue]], one of the goblin rogues. Its sneak attack includes the [[rangoric-srd/races/class-bonuses/Goblin Rogue (Class Bonus)|goblin rogue class bonus]], taken at each rogue level. Goblins adore theft, and are adept at slinking about undetected. Goblin sneaks are master ambushers and spectacular hiders. The most talented also incorporate their racial love of fire into their tactics.
 
 A goblin sneak speaks Goblin.
 

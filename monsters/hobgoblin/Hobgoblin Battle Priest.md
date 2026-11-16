@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A hobgoblin battle priest is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 9 levels of [[rangoric-srd/classes/Cleric|cleric]]. Serving as spiritual leaders and sources of inspiration to the corps of a hobgoblin army, battle priests factor prominently in the hobgoblin arts of war. They tend to devote less effort toward healing and curing their allies' ailments than they do to imparting powerful effects to soldiers in preparation for battle.
+A hobgoblin battle priest is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 9 levels of [[rangoric-srd/classes/Cleric|cleric]]. It has the [[rangoric-srd/races/class-bonuses/Hobgoblin Cleric (Class Bonus)|hobgoblin cleric class bonus]]: +4 damage with negative energy spells, inflict spells included. Serving as spiritual leaders and sources of inspiration to the corps of a hobgoblin army, battle priests factor prominently in the hobgoblin arts of war. They tend to devote less effort toward healing and curing their allies' ailments than they do to imparting powerful effects to soldiers in preparation for battle.
 
 Battle priests' augmentations to their allies' strength, stamina, precision, and speed are vital to many hobgoblin tactics, and as such the [[rangoric-srd/classes/Cleric|clerics]] often serve as trusted advisors to commanders, consulting to determine what magical support would best serve the tactical situation.
 

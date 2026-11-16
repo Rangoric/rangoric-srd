@@ -63,6 +63,6 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A kobold battle master is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 7 levels of [[rangoric-srd/classes/Cavalier|cavalier]], one of the kobold riders. The boldest kobolds enjoy riding bizarre beasts into battle.
+A kobold battle master is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 7 levels of [[rangoric-srd/classes/Cavalier|cavalier]], one of the kobold riders. It has the [[rangoric-srd/races/class-bonuses/Kobold Cavalier (Class Bonus)|kobold cavalier class bonus]]: its mount’s speed is 15 feet higher when it charges or withdraws. The boldest kobolds enjoy riding bizarre beasts into battle.
 
 A kobold battle master speaks Common and Draconic.

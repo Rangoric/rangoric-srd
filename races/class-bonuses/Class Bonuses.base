@@ -433,3 +433,47 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Goblin"
+    filters:
+      and:
+        - note.race == "Goblin"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Hobgoblin"
+    filters:
+      and:
+        - note.race == "Hobgoblin"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Kobold"
+    filters:
+      and:
+        - note.race == "Kobold"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Orc"
+    filters:
+      and:
+        - note.race == "Orc"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC

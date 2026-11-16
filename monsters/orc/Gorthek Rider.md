@@ -9,7 +9,7 @@ initiative: "+0"
 speed: "20 ft. (4 squares)"
 armor-class: "19 (+9 armor), touch 10, flat-footed 19"
 base-attack: "+7"
-cmb: "+11"
+cmb: "+11 (+18 bull rush and overrun against a challenged target)"
 cmd: "21"
 attack: "+1 lance +12 melee (1d8+7/×3) or javelin +7 ranged (1d6+4)"
 full-attack: "+1 lance +12/+7 melee (1d8+7/×3); or javelin +7/+2 ranged (1d6+4)"
@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
   - **Initiative**: +0
   - **Speed**: 20 ft. (4 squares)
   - **Armor Class**: 19 (+9 armor), touch 10, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +11; **CMD**: 21
+  - **Base Attack**: +7; **CMB**: +11 (+18 bull rush and overrun against a challenged target); **CMD**: 21
   - **Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +12 melee (1d8+7/×3) or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7 ranged (1d6+4)
   - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Lance|lance]] +12/+7 melee (1d8+7/×3); or [[rangoric-srd/equipment/weapons/Javelin|javelin]] +7/+2 ranged (1d6+4)
   - **Space/Reach**: 5 ft./5 ft.
@@ -63,6 +63,6 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A gorthek rider is an [[rangoric-srd/monsters/orc/Orc|orc]] with 7 levels of [[rangoric-srd/classes/Cavalier|cavalier]], one of the orc seekers. Any orc warband needs skilled members such as scouts or gorthek riders to make first contact with the enemy.
+A gorthek rider is an [[rangoric-srd/monsters/orc/Orc|orc]] with 7 levels of [[rangoric-srd/classes/Cavalier|cavalier]], one of the orc seekers. Its CMB includes the [[rangoric-srd/races/class-bonuses/Orc Cavalier (Class Bonus)|orc cavalier class bonus]]. Any orc warband needs skilled members such as scouts or gorthek riders to make first contact with the enemy.
 
 A gorthek rider speaks Common and Orc.

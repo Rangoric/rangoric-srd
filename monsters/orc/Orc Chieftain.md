@@ -63,6 +63,6 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-An orc chieftain is an [[rangoric-srd/monsters/orc/Orc|orc]] with 10 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the orc rulers. Leadership of an orc tribe or horde falls not to the smartest or most canny, but to the strongest.
+An orc chieftain is an [[rangoric-srd/monsters/orc/Orc|orc]] with 10 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the orc rulers. It has the [[rangoric-srd/races/class-bonuses/Orc Fighter (Class Bonus)|orc fighter class bonus]]: its Constitution counts as 34 for when it dies, so it is dead at –34 hit points. Leadership of an orc tribe or horde falls not to the smartest or most canny, but to the strongest.
 
 An orc chieftain speaks Common and Orc.

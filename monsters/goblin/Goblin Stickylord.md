@@ -15,7 +15,7 @@ attack: "Heavy mace +4 melee (1d6–2) or light crossbow +12 ranged (1d6/19–20
 full-attack: "Heavy mace +4 melee (1d6–2); or light crossbow +12 ranged (1d6/19–20)"
 space-reach: "5 ft./5 ft."
 special-attacks: "Bomb 10/day (4d6+3 fire, DC 16)"
-special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +7, identify potions), discoveries (precise bombs [3 squares], tanglefoot bomb, wings), mutagen (+4/-2, +2 natural, 70 minutes), poison use, swift alchemy, swift poisoning, resistance to fire 5"
+special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +7, identify potions), discoveries (precise bombs [3 squares], tanglefoot bomb, wings), mutagen (+4/-2, +2 natural, 70 minutes), poison use, swift alchemy, swift poisoning, resistance to fire 7"
 saves: "Fort +7, Ref +12, Will +3 (+2 vs. fire, +4 vs. poison)"
 abilities: "Str 6, Dex 22, Con 13, Int 16, Wis 10, Cha 8"
 skills: "Animal Handling +10, Arcana +11, Craft (alchemy) +13, Emulation +5, Engineering +16, Fieldcraft +4, Intimidation +6 (+8 vs. goblins), Medicine +4, Nature +7, Perception +10, Sleight of Hand +11, Stealth +21"
@@ -50,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: [[rangoric-srd/equipment/weapons/Heavy Mace|Heavy mace]] +4 melee (1d6–2); or [[rangoric-srd/equipment/weapons/Light Crossbow|light crossbow]] +12 ranged (1d6/19–20)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 10/day (4d6+3 fire, DC 16)
-  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +7, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Precise Bombs (Discovery)|precise bombs]] \[3 squares\], [[rangoric-srd/class-options/discoveries/Tanglefoot Bomb (Discovery)|tanglefoot bomb]], [[rangoric-srd/class-options/discoveries/Wings (Discovery)|wings]]), [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 70 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-poisoning|swift poisoning]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 5
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +7, identify potions), [[rangoric-srd/classes/Alchemist#^alchemist-discovery|discoveries]] ([[rangoric-srd/class-options/discoveries/Precise Bombs (Discovery)|precise bombs]] \[3 squares\], [[rangoric-srd/class-options/discoveries/Tanglefoot Bomb (Discovery)|tanglefoot bomb]], [[rangoric-srd/class-options/discoveries/Wings (Discovery)|wings]]), [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 70 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-alchemy|swift alchemy]], [[rangoric-srd/classes/Alchemist#^alchemist-swift-poisoning|swift poisoning]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 7
   - **Saves**: Fort +7, Ref +12, Will +3 (+2 vs. fire, +4 vs. poison)
   - **Abilities**: Str 6, Dex 22, Con 13, Int 16, Wis 10, Cha 8
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +13, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +16, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Intimidation|Intimidation]] +6 (+8 vs. goblins), [[rangoric-srd/skills/Medicine|Medicine]] +4, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +21
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A goblin stickylord is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 7 levels of [[rangoric-srd/classes/Alchemist|alchemist]]. Even crazier than normal goblins, goblin stickylords love to glue victims in place before igniting them.
+A goblin stickylord is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 7 levels of [[rangoric-srd/classes/Alchemist|alchemist]]. Its fire resistance is the [[rangoric-srd/races/class-bonuses/Goblin Alchemist (Class Bonus)|goblin alchemist class bonus]]’s, which doesn’t stack with Flame Heart’s and is the higher. Even crazier than normal goblins, goblin stickylords love to glue victims in place before igniting them.
 
 Goblin stickylords are a decidedly bizarre breed of goblin [[rangoric-srd/classes/Alchemist|alchemists]]. Unlike normal goblin alchemists, who focus on spreading around as much fire and flame as possible, stickylords have learned the value of locking enemies in place and *then* burning them.
 

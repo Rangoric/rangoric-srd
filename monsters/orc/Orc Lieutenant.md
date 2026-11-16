@@ -63,6 +63,6 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-An orc lieutenant is an [[rangoric-srd/monsters/orc/Orc|orc]] with 5 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the orc commanders. The leaders of small orc warbands aren't much smarter or more cunning than the rank-and-file orc warriors they lead—but just a small advantage in strength is enough to let them take the best shares of treasure and slaves and lord their dominance over their fellow orcs. Orc commanders enforce discipline through intimidation and are not afraid to lead underlings to their deaths.
+An orc lieutenant is an [[rangoric-srd/monsters/orc/Orc|orc]] with 5 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the orc commanders. It has the [[rangoric-srd/races/class-bonuses/Orc Fighter (Class Bonus)|orc fighter class bonus]]: its Constitution counts as 22 for when it dies, so it is dead at –22 hit points. The leaders of small orc warbands aren't much smarter or more cunning than the rank-and-file orc warriors they lead—but just a small advantage in strength is enough to let them take the best shares of treasure and slaves and lord their dominance over their fellow orcs. Orc commanders enforce discipline through intimidation and are not afraid to lead underlings to their deaths.
 
 An orc lieutenant speaks Common and Orc.

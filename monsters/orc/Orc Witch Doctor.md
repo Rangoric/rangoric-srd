@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-An orc witch doctor is an [[rangoric-srd/monsters/orc/Orc|orc]] with 9 levels of [[rangoric-srd/classes/Witch|witch]] (the [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|scarred witch doctor]] archetype). Arcane spellcasters among orc tribes are frequently called witch doctors. Though many witch doctors are witches, some are sorcerers or magi.
+An orc witch doctor is an [[rangoric-srd/monsters/orc/Orc|orc]] with 9 levels of [[rangoric-srd/classes/Witch|witch]] (the [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)|scarred witch doctor]] archetype). It has the [[rangoric-srd/races/class-bonuses/Orc Witch (Class Bonus)|orc witch class bonus]]: its fetish mask, which functions as its familiar, stores nine more witch spells, of 1st to 4th level. Arcane spellcasters among orc tribes are frequently called witch doctors. Though many witch doctors are witches, some are sorcerers or magi.
 
 This witch doctor scars herself to get spells from her patron, a common practice among orc witches but one that's rarely practiced by non-orcs. The witch doctor draws her power from the enduring pain of these ritualistic scars, which also give her some measure of physical protection.
 

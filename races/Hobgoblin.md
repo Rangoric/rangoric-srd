@@ -94,3 +94,9 @@ A hobgoblin can take any of these in place of the traits they replace (see [[ran
 **Racial variants.** A variant's ability scores take the place of the hobgoblin's.
 
 - **Fire Hobgoblin**: Fire hobgoblins revel in pain and the sensations of battle; their favorite arts are strategy and tactics. [[rangoric-srd/races/racial-traits/Fire Race Traits|Fire Race Traits]]. +2 Dexterity, +2 Constitution, +2 Intelligence, −2 Charisma. [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|Low-light vision]] in place of darkvision (torchlight is their preferred lighting). No sneaky (no racial bonus on Stealth checks).
+
+### Class Bonuses
+
+A hobgoblin gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Hobgoblin]]

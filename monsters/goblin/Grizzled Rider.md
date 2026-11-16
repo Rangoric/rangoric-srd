@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A grizzled rider is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 6 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the goblin riders. Goblins love riding ferocious mounts into battle.
+A grizzled rider is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 6 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the goblin riders. It has the [[rangoric-srd/races/class-bonuses/Goblin Ranger (Class Bonus)|goblin ranger class bonus]]: +3 on damage dealt to dogs and horses (and doglike and horselike creatures). Goblins love riding ferocious mounts into battle.
 
 Goblin riders usually ride goblin dogs, wolves, or worgs, but might also ride exotic creatures like giant geckos.
 

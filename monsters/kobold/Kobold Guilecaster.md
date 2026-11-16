@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A kobold guilecaster is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 6 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]], one of the kobold sorcerers. Kobolds see sorcery as proof of their draconic heritage.
+A kobold guilecaster is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 6 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]], one of the kobold sorcerers. It has the [[rangoric-srd/races/class-bonuses/Kobold Sorcerer (Class Bonus)|kobold sorcerer class bonus]], taken for electricity at each sorcerer level: its spells that deal electricity damage (*lightning bolt*) deal 3 more. Kobolds see sorcery as proof of their draconic heritage.
 
 A kobold guilecaster speaks Draconic and Dwarven.
 

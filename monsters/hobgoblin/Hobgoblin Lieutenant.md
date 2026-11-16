@@ -14,7 +14,7 @@ cmd: "20"
 attack: "Masterwork sickles +8 melee (1d6+3) or longbow +7 ranged (1d8/×3)"
 full-attack: "2 masterwork sickles +8 melee (1d6+3); or longbow +7 ranged (1d8/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Combat style (two-weapon), favored enemy (elves +2, humans +4)"
+special-attacks: "Combat style (two-weapon), favored enemy (elves +2, humans +5)"
 special-qualities: "Darkvision 60 ft., favored terrain (plains +2), hunter's bond (companions), track +2, wild empathy +4"
 saves: "Fort +8, Ref +7, Will +3"
 abilities: "Str 16, Dex 15, Con 16, Int 10, Wis 12, Cha 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickles]] +8 melee (1d6+3) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +7 ranged (1d8/×3)
   - **Full Attack**: 2 [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|masterwork]] [[rangoric-srd/equipment/weapons/Sickle|sickles]] +8 melee (1d6+3); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +7 ranged (1d8/×3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2, humans +4)
+  - **Special Attacks**: [[rangoric-srd/classes/Ranger#^ranger-combat-style|Combat style]] (two-weapon), [[rangoric-srd/classes/Ranger#^ranger-favored-enemy|favored enemy]] (elves +2, humans +5)
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Ranger#^ranger-favored-terrain|favored terrain]] (plains +2), [[rangoric-srd/classes/Ranger#^ranger-hunters-bond|hunter's bond]] (companions), [[rangoric-srd/classes/Ranger|track]] +2, [[rangoric-srd/classes/Ranger|wild empathy]] +4
   - **Saves**: Fort +8, Ref +7, Will +3
   - **Abilities**: Str 16, Dex 15, Con 16, Int 10, Wis 12, Cha 8
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A hobgoblin lieutenant is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 5 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the hobgoblin leaders. Veteran soldiers become leaders of hobgoblin warbands. Some inspire their troops, but most lead by the lash.
+A hobgoblin lieutenant is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 5 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the hobgoblin leaders. Its favored enemy bonus against humans includes the [[rangoric-srd/races/class-bonuses/Hobgoblin Ranger (Class Bonus)|hobgoblin ranger class bonus]]. Veteran soldiers become leaders of hobgoblin warbands. Some inspire their troops, but most lead by the lash.
 
 In addition to leading squadrons, hobgoblin lieutenants are assigned elite missions that call for stealth—particularly scouting missions and sabotage.
 

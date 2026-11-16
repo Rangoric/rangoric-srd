@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A hobgoblin sergeant is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 3 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the hobgoblin overseers. Trusted with a small amount of authority, each sergeant or battlefield zealot commands and keeps tabs on fewer than a dozen warriors.
+A hobgoblin sergeant is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 3 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the hobgoblin overseers. It has the [[rangoric-srd/races/class-bonuses/Hobgoblin Fighter (Class Bonus)|hobgoblin fighter class bonus]]: a +1 circumstance bonus on critical hit confirmation rolls with its longsword. Trusted with a small amount of authority, each sergeant or battlefield zealot commands and keeps tabs on fewer than a dozen warriors.
 
 Sergeants are versatile warriors; they're capable of engaging in battle up close or at range, and smart and tough enough to lead the army's rank-and-file troops.
 

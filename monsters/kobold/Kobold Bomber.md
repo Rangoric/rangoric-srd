@@ -14,7 +14,7 @@ cmd: "12"
 attack: "Masterwork spear +2 melee (1d6–1/×3) or sling +5 ranged (1d3–1)"
 full-attack: "Masterwork spear +2 melee (1d6–1/×3); or sling +5 ranged (1d3–1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Bomb 6/day (1d6+2 fire, DC 13), bomb trap"
+special-attacks: "Bomb 7/day (1d6+2 fire, DC 13), bomb trap"
 special-qualities: "Darkvision 60 ft., alchemy (alchemy crafting +2, identify potions), crafty, mutagen (+4/-2, +2 natural, 20 minutes), poison use, light sensitivity"
 saves: "Fort +2, Ref +6, Will +1 (+2 vs. poison)"
 abilities: "Str 8, Dex 16, Con 8, Int 15, Wis 13, Cha 8"
@@ -49,7 +49,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +2 melee (1d6–1/×3) or [[rangoric-srd/equipment/weapons/Sling|sling]] +5 ranged (1d3–1)
   - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Spear|spear]] +2 melee (1d6–1/×3); or [[rangoric-srd/equipment/weapons/Sling|sling]] +5 ranged (1d3–1)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 6/day (1d6+2 fire, DC 13), [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)|bomb trap]]
+  - **Special Attacks**: [[rangoric-srd/classes/Alchemist#^alchemist-bomb|Bomb]] 7/day (1d6+2 fire, DC 13), [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)|bomb trap]]
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/classes/Alchemist#^alchemist-alchemy|alchemy]] (alchemy crafting +2, identify potions), [[rangoric-srd/races/Kobold|crafty]], [[rangoric-srd/classes/Alchemist#^alchemist-mutagen|mutagen]] (+4/-2, +2 natural, 20 minutes), [[rangoric-srd/classes/Alchemist#^alchemist-poison-use|poison use]], [[rangoric-srd/monsters/abilities/Light Sensitivity|light sensitivity]]
   - **Saves**: Fort +2, Ref +6, Will +1 (+2 vs. poison)
   - **Abilities**: Str 8, Dex 16, Con 8, Int 15, Wis 13, Cha 8
@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A kobold bomber is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 2 levels of [[rangoric-srd/classes/Alchemist|alchemist]] (the [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)|alchemical trapper]] archetype), one of the kobold tricksters. Kobold tricksters are experts at crafting deadly traps—both magical and mundane—and at striking from concealment while their enemies are distracted by the traps' effects.
+A kobold bomber is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 2 levels of [[rangoric-srd/classes/Alchemist|alchemist]] (the [[rangoric-srd/class-options/archetypes/alchemist/Alchemical Trapper (Archetype)|alchemical trapper]] archetype), one of the kobold tricksters. Its bombs per day include the [[rangoric-srd/races/class-bonuses/Kobold Alchemist (Class Bonus)|kobold alchemist class bonus]]. Kobold tricksters are experts at crafting deadly traps—both magical and mundane—and at striking from concealment while their enemies are distracted by the traps' effects.
 
 A kobold bomber speaks Common, Draconic, Gnome, and Goblin.
 
