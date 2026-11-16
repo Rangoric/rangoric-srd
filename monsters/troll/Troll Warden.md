@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Troll Warden|Troll Warden (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,5 +64,7 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A troll warden is a [[rangoric-srd/monsters/troll/Troll|troll]] with 2 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the troll defenders. In small troll groups, one member is singled out to safeguard the tribe members and the wilderness they call home. Such a troll might have magical power or simply knowledge of the natural world.
+
+Troll wardens are hunters, messengers, and scouts, tasked with exploring new lands, finding food, and relaying news.
 
 A troll warden speaks Giant.

@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Troll fury|Troll fury (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,10 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A troll fury is a [[rangoric-srd/monsters/troll/Troll|troll]] with 6 levels of [[rangoric-srd/classes/Druid|druid]] (the [[rangoric-srd/class-options/archetypes/druid/Troll Fury (Archetype)|troll fury]] archetype). The troll fury is an experienced steward of nature, watching over nearby troll individuals and tribes to make sure they don't consume too much game.
+
+A troll fury's first duty is to see to the welfare of her tribe, and to ensure its prosperity in the long term. Watching the lands around her carefully, monitoring the migration of game, and minding the lessons of her predecessors all let a troll fury anticipate times of plenty and times of need, and to stockpile or conserve as necessary. Though a troll fury never rushes into a decision that could endanger the tribe, she commands her own tribe or newcomers to their territory to move on if there's a risk that the hunting grounds will be overhunted. Wise tribes leave the area when she tells them to, but sometimes she must drive them away with fire and poison so the animals have time to repopulate.
+
+To a troll fury's mind, it's wiser to risk traveling to another land in the short term so exhausted lands can recover. This attitude, combined with her knowledge of natural environments, means she's the member of the tribe most likely to lead a migration. In larger tribes, a triumvirate or larger group of furies works together. Each concentrates on a particular area of expertise, but they all back one another up once one of them makes a decision that affects the tribe. This solidarity lets them cow even the most autocratic tribal leaders.
 
 A troll fury speaks Druidic and Giant.
 

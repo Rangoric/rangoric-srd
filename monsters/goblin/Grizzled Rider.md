@@ -65,6 +65,8 @@ tags: [rangoric, rangoric/monster]
 
 A grizzled rider is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 6 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the goblin riders. Goblins love riding ferocious mounts into battle.
 
+Goblin riders usually ride goblin dogs, wolves, or worgs, but might also ride exotic creatures like giant geckos.
+
 A grizzled rider speaks Goblin.
 
 ### Combat

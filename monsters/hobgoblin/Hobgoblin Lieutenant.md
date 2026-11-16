@@ -65,6 +65,8 @@ tags: [rangoric, rangoric/monster]
 
 A hobgoblin lieutenant is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 5 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the hobgoblin leaders. Veteran soldiers become leaders of hobgoblin warbands. Some inspire their troops, but most lead by the lash.
 
+In addition to leading squadrons, hobgoblin lieutenants are assigned elite missions that call for stealth—particularly scouting missions and sabotage.
+
 A hobgoblin lieutenant speaks Common and Goblin.
 
 ### Combat

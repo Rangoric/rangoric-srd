@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Troll Elder Matron|Troll Elder Matron (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A troll elder matron is a [[rangoric-srd/monsters/troll/Troll|troll]] with 10 levels of [[rangoric-srd/classes/Witch|witch]]. Mysterious and learned, the elder matron examines all troll younglings for the potential to learn magic.
+
+A troll elder matron serves her tribe as the fount of all magical knowledge. She is both her tribemates' fiercest protector and their harshest critic, doling out punishments to those who fail to achieve the (sometimes cryptic) goals she sets for them. Female trolls benefit from a matron's teachings almost exclusively, though she might set a promising young male on the path toward becoming a [[rangoric-srd/classes/Ranger|ranger]]. The matron often lives or travels with females nearing adulthood who are struggling with their studies; those she rejects as unworthy rejoin their sisters and never speak of the strange things they experienced while apprenticed to the matron. Even a troll monarch listens to an elder matron's counsel, for she has outlived many monarchs and watched generations of trolls be born, grow, and die.
 
 A troll elder matron speaks Abyssal, Giant, Goblin, and Orc.
 

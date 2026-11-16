@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Bugbear Bloodmage|Bugbear Bloodmage (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A bugbear bloodmage is a [[rangoric-srd/monsters/bugbear/Bugbear|bugbear]] with 10 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]]. The few bugbears who manifest a glimmer of arcane magical ability rarely pursue their gift. Such things get in the way of what is important: stalking, terrifying, and murdering prey. But those who pursue their gifts—and live to reach their full potential—become horrifying vessels of bloody doom.
+
+Arcane spellcasters among bugbears are typically [[rangoric-srd/classes/Sorcerer|sorcerers]]—few bugbears have enough interest or patience to follow arcane paths such as wizardry that require study or control. Bugbears call those with natural magical talent bloodmages, and treat their spellcasting ability the same as any skill—if it's useful for hurting, it's worth knowing. A typical bloodmage is interested in only spells that cause destruction and pain, plus a few supplemental spells to help her defend herself. Almost no bloodmages learn to create magic items.
 
 A bugbear bloodmage speaks Common and Goblin.
 

@@ -65,4 +65,6 @@ tags: [rangoric, rangoric/monster]
 
 A goblin commando is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 3 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the goblin warriors. Goblin warriors are the backbone of every goblin tribe, serving as hunters, raiders, and warlords.
 
+A goblin commando is a cut above a typical goblin warrior—braver, cleverer, and more persuasive. He uses fear and threats to keep other goblins in line.
+
 A goblin commando speaks Goblin.

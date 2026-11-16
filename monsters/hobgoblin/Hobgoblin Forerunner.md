@@ -65,4 +65,6 @@ tags: [rangoric, rangoric/monster]
 
 A hobgoblin forerunner is a [[rangoric-srd/monsters/hobgoblin/Hobgoblin|hobgoblin]] with 7 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the hobgoblin leaders. Veteran soldiers become leaders of hobgoblin warbands. Some inspire their troops, but most lead by the lash.
 
+Hobgoblin forerunners are masters of mounted combat, and lead the charge at the front of hobgoblin armies. They sometimes use yzobus as mounts.
+
 A hobgoblin forerunner speaks Common and Goblin.

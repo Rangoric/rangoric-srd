@@ -65,6 +65,8 @@ tags: [rangoric, rangoric/monster]
 
 A goblin chief is an [[rangoric-srd/races/Goblin#^oversized-goblin|oversized]] [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 10 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the goblin warriors. Goblin warriors are the backbone of every goblin tribe, serving as hunters, raiders, and warlords.
 
+A massive brute, the goblin chief gets the best food and treasure that the tribe collects. Some lesser goblins test their mighty chief by returning from a raid empty-handed but full-bellied—this almost always ends poorly for them.
+
 A goblin chief speaks Goblin.
 
 ### Combat

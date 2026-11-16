@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Bugbear Tyrant|Bugbear Tyrant (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,10 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A bugbear tyrant is a [[rangoric-srd/monsters/bugbear/Bugbear|bugbear]] with 12 levels of [[rangoric-srd/classes/Antipaladin|antipaladin]] (the [[rangoric-srd/class-options/archetypes/antipaladin/Fearmonger (Archetype)|fearmonger]] archetype). The bugbear tyrant is a mad agent of fear and murder. Once a solo marauder, he has gained such great power that cults have begun to grow around him as the chosen agent of a demon lord, and a crude bugbear nation is assembling to serve the tyrant. This is all beneath the tyrant's notice. He does not care who serves him, or what hopes or plans they make for themselves. His only mission is to spread terror and mayhem.
+
+Though he draws other bugbears to follow him by his charismatic presence, a bugbear tyrant truly makes his legend by defeating and torturing other creatures. Bugbears care far less about gaining territory or forcing surrender than they do about inflicting pain and collecting heads. They're quick to recognize and appreciate the cruelty in an [[rangoric-srd/classes/Antipaladin|antipaladin]]'s heart, and the supernatural ability to inflict pain on others that he brings to bear.
+
+The tyrant doesn't reserve his violence for enemies of the bugbear race. It doesn't take much for him to turn on his underlings and slice them up for fun, especially if he's growing bored.
 
 A bugbear tyrant speaks Abyssal, Common, and Goblin.
 

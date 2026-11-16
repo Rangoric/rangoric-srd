@@ -65,6 +65,8 @@ tags: [rangoric, rangoric/monster]
 
 A kobold devilspeaker is a [[rangoric-srd/monsters/kobold/Kobold|kobold]] with 8 levels of [[rangoric-srd/classes/Cleric|cleric]]. Kobold devilspeakers are highly respected; some advise tribal chieftains, while others lead tribes outright.
 
+Kobold priests are charged with ensuring both the spiritual and the physical welfare of a kobold tribe. These devilspeakers believe a tribe should work like a well-oiled machine, and while kobolds' natural cowardice sometimes gets in the way, devilspeakers keep their warriors fighting bravely—whether the troops like it or not. Devilspeakers keep spells like *[[rangoric-srd/spells/Animate Dead|animate dead]]* handy, turning fallen kobold warriors into zombies. These kobold zombies effectively soften up invading adventurers, and dig tirelessly in the mines.
+
 A kobold devilspeaker speaks Draconic.
 
 ### Combat

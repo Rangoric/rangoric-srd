@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Fire Giant King|Fire Giant King (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A fire giant king is a [[rangoric-srd/monsters/giant/Fire Giant|fire giant]] with 10 levels of [[rangoric-srd/classes/Ranger|ranger]]. A fire giant king is not content to loiter on his throne. He searches for his enemies and expands his territory with resourceful vigor.
+
+Fire giant kings rule over their volcanic dominions with a cruel and heavy hand. Most kings seek the hand of a queen to reign beside them, both to secure their own power and to provide heirs to accede to their thrones when they inevitably fall in battle. A fire giant king must always watch his back, however, for there are always claimants eager to seize his position.
 
 A fire giant king speaks Common and Giant.
 

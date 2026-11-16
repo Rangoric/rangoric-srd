@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Frost Giant Ice Mage|Frost Giant Ice Mage (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A frost giant ice mage is a [[rangoric-srd/monsters/giant/Frost Giant|frost giant]] with 6 levels of [[rangoric-srd/classes/Sorcerer|sorcerer]]. Frost giant sorcerers excel in harnessing the power of the elements and bolstering raiders in combat.
+
+Ice mages inherit the magic of the icy north. While some are tricksters and manipulators—perhaps using *[[rangoric-srd/spells/Enlarge Person|enlarge person]]* to grow to Huge size and trick travelers into thinking they're cloud giants—many act as support and artillery for their tribe's raiders, killing at a distance with the power of a storm or increasing their allies' size and ferocity. As powerful as [[rangoric-srd/classes/Sorcerer|sorcerers]] may be, frost giant society still places more value in physical strength and melee prowess, meaning sorcerers are usually advisors rather than leaders.
 
 A frost giant ice mage speaks Abyssal, Auran, Common, and Giant.
 

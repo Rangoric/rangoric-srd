@@ -34,7 +34,7 @@ based-on:
   - "[[path srd 3.5/monsters/Frost Giant Houndmaster|Frost Giant Houndmaster (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -64,6 +64,8 @@ tags: [rangoric, rangoric/monster]
   - **Level Adjustment**: —
 
 A frost giant houndmaster is a [[rangoric-srd/monsters/giant/Frost Giant|frost giant]] with 10 levels of [[rangoric-srd/classes/Druid|druid]] (the [[rangoric-srd/class-options/archetypes/druid/Arctic Druid (Archetype)|arctic druid]] archetype). Frost giants often use subjugated predators like wolves to help them chase down their quarry.
+
+A houndmaster is responsible for the care of the tribe's pets, frequently polar bears, wolves, and winter wolves. She is fond of pitting her charges against each other, allowing the packs to establish a functional hierarchy and ensuring that only the strongest survive to breed. Some houndmasters choose these pack leaders as animal companions.
 
 A frost giant houndmaster speaks Common, Druidic, Giant, and Sylvan.
 
