@@ -129,6 +129,10 @@ These bonuses to AC apply against touch attacks. She loses these bonuses while i
 
 **Improved Awesome Blow (Ex)**: At 20th level, the brawler can use her [[rangoric-srd/classes/Brawler#^brawler-awesome-blow|awesome blow]] ability as an attack rather than as a standard action. She may use it on creatures of any size. If the maneuver roll is a natural 20, the brawler can immediately attempt to confirm the critical by rolling another combat maneuver check with all the same modifiers as the one just rolled; if the confirmation roll is successful, the attack deals double damage, and the damage from hitting an obstacle (if any) is also doubled. ^brawler-improved-awesome-blow
 
+**Archetypes**: A brawler can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The brawler’s archetypes, with what each replaces: ^brawler-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Brawler]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The brawler’s class bonuses, by race: ^brawler-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Brawler]]
