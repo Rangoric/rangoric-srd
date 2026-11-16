@@ -73,3 +73,9 @@ A merfolk can take any of these in place of the traits they replace (see [[rango
 | [[rangoric-srd/races/racial-traits/Darkvision (Racial Trait)|Darkvision]] | Low-light vision |
 | [[rangoric-srd/races/racial-traits/Seasinger|Seasinger]] | Low-light vision |
 | [[rangoric-srd/races/racial-traits/Strongtail|Strongtail]] | Slow speed |
+
+### Class Bonuses
+
+A merfolk gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Merfolk]]
