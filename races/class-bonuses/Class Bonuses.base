@@ -400,3 +400,25 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Half-Elf"
+    filters:
+      and:
+        - note.race == "Half-Elf"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Half-Orc"
+    filters:
+      and:
+        - note.race == "Half-Orc"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
