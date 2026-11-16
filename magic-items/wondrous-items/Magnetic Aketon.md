@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "chest"
 aura: "Moderate transmutation"
 caster-level: 10
 prerequisites: "Craft Magic Arms and Armor, telekinesis"

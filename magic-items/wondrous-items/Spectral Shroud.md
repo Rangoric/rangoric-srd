@@ -1,0 +1,25 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "chest"
+aura: "Moderate necromancy"
+caster-level: 5
+prerequisites: "Craft Wondrous Item, hide from undead, see invisibility"
+price: "26,000 gp"
+cost: "13,000 gp"
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/wondrous-items/Spectral Shroud|Spectral Shroud (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Spectral Shroud|Spectral Shroud (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-15
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Spectral Shroud
+
+This thin, bleached cloth covers the wearer's entire torso. Some also cover the wearer's face, but don't interfere with the wearer's vision. The morbid burial shroud grants the wearer some affinity with the spectral dead. The wearer can discern invisible or ethereal creatures as though using *[[rangoric-srd/spells/See Invisibility|see invisibility]]*. Once per day, the wearer can become [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal]] for 10 rounds and gain a fly speed equal to half his base speed with perfect maneuverability. The wearer can't attack while incorporeal, but can dismiss the effect as a move action.
+
+Moderate necromancy; CL 5th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Hide from Undead|hide from undead]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*; Price 26,000 gp; Cost 13,000 gp.

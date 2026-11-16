@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "chest"
 aura: "Strong necromancy"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, arcane lock, poison"

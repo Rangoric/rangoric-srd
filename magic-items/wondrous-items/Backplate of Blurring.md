@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "chest"
 aura: "Faint illusion"
 caster-level: 2
 prerequisites: "Craft Magic Arms and Armor, blur"

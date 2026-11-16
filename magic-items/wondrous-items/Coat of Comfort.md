@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "chest"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, create food and water, endure elements, secret chest"
 price: "77,500 gp"
