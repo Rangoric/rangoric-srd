@@ -378,3 +378,25 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Gnome"
+    filters:
+      and:
+        - note.race == "Gnome"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Halfling"
+    filters:
+      and:
+        - note.race == "Halfling"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC

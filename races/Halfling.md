@@ -154,3 +154,9 @@ Bundles of alternate traits for halflings of a particular background.
 
 - **Deep Halfling**: Shorter and stockier halflings, about 2½ feet tall, who speak Dwarven fluently. Darkvision out to 60 feet (see [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]]). [[rangoric-srd/races/Dwarf#^dwarf-stonecunning|Stonecunning]], as the dwarf's. +2 racial bonus on [[rangoric-srd/skills/Appraise|Appraise]] and [[rangoric-srd/skills/Craft|Craft]] checks related to stone or metal. No sure-footed.
 - **Tallfellow**: Rare halflings, 4 feet tall or more, who generally speak Elven as well. Keen senses also gives +2 on [[rangoric-srd/skills/Investigation|Investigation]] checks, and a tallfellow who merely passes within 5 feet of a secret or concealed door is entitled to an Investigation check to notice it as if actively looking for it. No sure-footed.
+
+### Class Bonuses
+
+A halfling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Halfling]]
