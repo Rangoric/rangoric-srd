@@ -133,3 +133,9 @@ Bundles of alternate traits for humans of a particular background.
 **Racial variants.** Humans are adaptable enough to have only one variant.
 
 - **Aquatic Human**: Perhaps descendants of island cities that sank beneath the sea; they may replace or live alongside merfolk. [[rangoric-srd/races/racial-traits/Aquatic Race Traits|Aquatic Race Traits]], with a swim speed of 30 feet. [[rangoric-srd/races/racial-traits/Superior Low-Light Vision|Superior Low-Light Vision]].
+
+### Class Bonuses
+
+A human gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Human]]
