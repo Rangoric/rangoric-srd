@@ -74,6 +74,6 @@ The bulette is a cunning [[rangoric-srd/classes/Fighter|fighter]], surprising fo
 
 A bulette attacks anything it regards as edible, choosing the easiest or closest prey first. The only creatures it refuses to eat are elves (and it dislikes the taste of dwarves). When burrowing underground, a landshark relies on its [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] ability to detect prey. When it senses something edible (that is, senses movement), it breaks to the surface, crest first, and begins its attack.
 
-**Leap (Ex)**: A bulette can perform a special kind of pounce attack by jumping into combat. When a bulette charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but cannot make a bite attack.
+**Leap (Ex)**: A bulette can perform a special kind of pounce attack by jumping into combat. When a bulette charges, it can make a DC 20 [[rangoric-srd/skills/Athletics#Jumping|Athletics]] check to jump into the air and land next to its enemies. If it makes the Athletics check, it can follow up with four claw attacks against foes in reach, but cannot make a bite attack.
 
 **Savage Bite (Ex)**: A bulette's bite is particularly dangerous. It applies 1-1/2 times its Strength modifier to damage inflicted with its bite attack, and threatens a critical hit on a 19–20.

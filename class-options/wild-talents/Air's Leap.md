@@ -25,4 +25,4 @@ tags: [rangoric, rangoric/class-option]
   - **Level**: 1
   - **Burn**: 0
 
-You are always considered to have a running start when jumping, you add your kineticist level as a bonus on all [[rangoric-srd/skills/Acrobatics|Acrobatics]] checks to jump, you jump twice as far or high as the results of your check indicate, and you can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] when jumping to double the distance you jump again (to a total of four times as far).
+You are always considered to have a running start when jumping, you add your kineticist level as a bonus on all [[rangoric-srd/skills/Athletics#Jumping|Athletics]] checks to jump, you jump twice as far or high as the results of your check indicate, and you can accept 1 point of [[rangoric-srd/classes/Kineticist#^kineticist-burn|burn]] when jumping to double the distance you jump again (to a total of four times as far).
