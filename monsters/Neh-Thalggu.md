@@ -75,6 +75,6 @@ Neh-thalggus speak Abyssal, Aklo, Common, Draconic, Protean and Undercommon.
 
 **Brain Collection (Ex)**: A neh-thalggu can store up to seven humanoid brains and use them to enhance its knowledge and power. Each stored brain grants a neh-thalggu a cumulative +1 insight bonus to AC, concentration checks, and Knowledge checks. A neh-thalggu can extract a brain from a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] opponent with a coup de grace attack, or as a standard action from a body that has been dead for no more than 1 minute. A neh-thalggu that has fewer than seven brains gains one negative level for each missing brain. These negative levels can never become permanent, but they can only be removed by replacing one of its collected brains. The stats presented here assume a monster with a full collection.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 21; *frequency* 1/round for 6 rounds; *effect* 1d2 Str damage and staggered; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Neh-Thalggu Venom|Neh-Thalggu Venom]]: Bite—injury; *save* Fort DC 21; *frequency* 1/round for 6 rounds; *effect* 1d2 Str damage and staggered; *cure* 2 consecutive saves. The save DC is Constitution-based.
 
 **Strange Knowledge (Ex)**: All Knowledge skills are class skills for neh-thalggus.

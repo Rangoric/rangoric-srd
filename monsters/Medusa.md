@@ -80,4 +80,4 @@ A medusa tries to disguise its true nature until the intended victim is within r
 
 **Petrifying Gaze (Su)**: [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|Turn to stone]] permanently, 30 feet, Fortitude DC 16 negates. The save DC is Charisma-based.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 18; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Medusa Venom|Medusa Venom]]: Bite—injury; *save* Fort DC 18; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 2 consecutive saves. The save DC is Constitution-based.

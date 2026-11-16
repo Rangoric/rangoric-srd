@@ -71,4 +71,4 @@ These creatures are aggressive and territorial hunters, with arms reaching 10 fe
 
 An opponent can attack a giant octopus’s tentacles with a sunder attempt as if they were weapons. A giant octopus’s tentacles have 10 hit points each. If a giant octopus is currently grappling a target with the tentacle that is being attacked, it usually uses another limb to make its attack of opportunity against the opponent making the sunder attempt. Severing one of a giant octopus’s tentacles deals 5 points of damage to the creature. A giant octopus usually withdraws from combat if it loses four tentacles. The creature regrows severed limbs in 1d6+2 months.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 19; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 2 saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Octopus Venom|Giant Octopus Venom]]: Bite—injury; *save* Fort DC 19; *frequency* 1/round for 6 rounds; *effect* 1d3 Str; *cure* 2 saves.

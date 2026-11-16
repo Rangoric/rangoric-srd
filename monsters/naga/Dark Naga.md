@@ -83,4 +83,4 @@ Dark nagas prefer to fight from an elevated position where they get a good view 
 
 **Guarded Thoughts (Ex)**: Dark nagas are immune to any form of mind reading, such as that granted by detect thoughts. This ability also grants a +2 racial bonus on all saves against charm effects.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; *save* Fort DC 19; *frequency* 1 round; *effect* sleep for 2d4 minutes; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Dark Naga Venom|Dark Naga Venom]]: Sting—injury; *save* Fort DC 19; *frequency* 1 round; *effect* sleep for 2d4 minutes; *cure* 1 save.

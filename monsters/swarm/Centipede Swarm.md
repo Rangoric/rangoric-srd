@@ -70,4 +70,4 @@ tags: [rangoric, rangoric/monster]
 
 A centipede swarm seeks to surround and attack any living prey it encounters.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1d4 Dex damage; *cure* 1 save. The save DC is Constitution-based and includes a +2 racial bonus.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Centipede Swarm Venom|Centipede Swarm Venom]]: Bite—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1d4 Dex damage; *cure* 1 save. The save DC is Constitution-based and includes a +2 racial bonus.

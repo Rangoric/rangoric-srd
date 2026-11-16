@@ -70,4 +70,4 @@ The sight of a carpet of swarming spiders is unsettling indeed—particularly wh
 
 A spider swarm seeks to surround and attack any living prey it encounters.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Swarm—injury; *save* Fort DC 11; *frequency* 1/round for 2 rounds; *effect* 1d2 Str; *cure* 1 save. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Spider Swarm Venom|Spider Swarm Venom]]: Swarm—injury; *save* Fort DC 11; *frequency* 1/round for 2 rounds; *effect* 1d2 Str; *cure* 1 save. The save DC is Constitution-based.

@@ -75,6 +75,6 @@ The athach is a hulking, misshapen biped. Athachs speak a crude dialect of Giant
 
 Athachs charge into melee combat unless their opponents are out of reach, in which case they throw rocks. They sometimes try to overrun armored opponents to reach unarmored opponents in back ranks. With its first few melee attacks, an athach tends to flail about indiscriminately. After a few rounds, it concentrates on foes that have been hitting it most often and uses its bite on whoever has dealt it the most damage.
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 24; *frequency* 1/round for 6 rounds; *effect* 1d4 Str; *cure* 2 consecutive saves.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Athach Venom|Athach Venom]]: Bite—injury; *save* Fort DC 24; *frequency* 1/round for 6 rounds; *effect* 1d4 Str; *cure* 2 consecutive saves.
 
 **Swift Claw (Ex)**: An athach can attack with its claw as a swift action, even when the creature's movement would normally restrict it to one attack. This attack is made at a +19 bonus and deals 1d10+11 points of damage, regardless of what other attacks are made on the athach's turn.

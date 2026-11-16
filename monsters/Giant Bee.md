@@ -72,6 +72,6 @@ Giant bees are usually not aggressive except when defending themselves or their 
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Sting—injury; *save* Fort DC 12; *frequency* 1/round for 4 rounds; *effect* 1d2 Str; *cure* 1 save.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Giant Bee Venom|Giant Bee Venom]]: Sting—injury; *save* Fort DC 12; *frequency* 1/round for 4 rounds; *effect* 1d2 Str; *cure* 1 save.
 
 **Vulnerable to Smoke (Ex)**: Smoke from particularly smoky fires or effects (such as that created by a pyrotechnics spell) causes a giant bee to become [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] if it fails a DC 14 Fortitude save. This condition persists as long as the giant bee remains in the smoke, plus 1d4 rounds.

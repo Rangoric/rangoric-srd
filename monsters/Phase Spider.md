@@ -80,4 +80,4 @@ Phase spiders dwell and hunt on the Material Plane. Once a spider locates prey, 
 
 **Ethereal Jaunt (Su)**: A phase spider can shift from the Ethereal Plane to the Material Plane as a free action, and shift back again as a move action (or as part of a move action). The ability is otherwise identical to ethereal jaunt (CL 15th).
 
-**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: Bite—injury; *save* Fort DC 18; *frequency* 1/round for 8 rounds; *effect* 1d2 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Phase Spider Venom|Phase Spider Venom]]: Bite—injury; *save* Fort DC 18; *frequency* 1/round for 8 rounds; *effect* 1d2 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.

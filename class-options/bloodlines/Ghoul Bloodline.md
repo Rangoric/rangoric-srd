@@ -14,7 +14,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Ghoul Bloodline
 
-Sorcerers whose ancestors were afflicted by ghoul fever but somehow survived often end up with this bloodline.
+Sorcerers whose ancestors were afflicted by [[rangoric-srd/rules/afflictions/Ghoul Fever|ghoul fever]] but somehow survived often end up with this bloodline.
 
 Your connection to the hungering undead shapes your magic.
 
