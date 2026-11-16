@@ -3,82 +3,77 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Undead"
-subtypes:
-  - "Cold"
-hit-dice: "32d12 (208 hp)"
-initiative: "+12 (+8 Dex, +4 Improved Initiative)"
-speed: "60 ft."
-armor-class: "46 (+8 Dex, +28 natural)"
-base-attack: "+16"
-cmb: "+37"
-cmd: "55"
-attack: "Claw +40 (3d8+21/19-20 (+1d6 on critical hit) plus blight-fire) melee"
-full-attack: "2 claws +40 (3d8+21/19-20 (+1d6 on critical hit) plus blight-fire) melee, skull butt +32 (2d6+10 plus blightfire) melee"
+subtypes: ["Cold"]
+hit-dice: "20d8+180 (270 hp)"
+initiative: "+10"
+speed: "30 ft. (6 squares)"
+armor-class: "32 (+6 Dex, +16 natural), touch 16, flat-footed 26"
+base-attack: "+15"
+cmb: "+30"
+cmd: "46"
+attack: "Bite +30 melee (2d8+15 plus blightfire) or claw +30 melee (2d6+15 plus blightfire)"
+full-attack: "Bite +30 melee (2d8+15 plus blightfire) and 2 claws +30 melee (2d6+15 plus blightfire)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Rend 6d8+31, blightfire, spell-like abilities"
-special-qualities: "Undead traits, cold subtype, cold aura, SR 34, DR 10/-"
-skills: "Athletics +56 (+68 jumping), Intimidation +44, Theology +35, Perception +43"
-skill-ranks: "Athletics 32, Intimidation 32, Perception 32, Theology 32"
-feats: "Cleave, Improved Critical (claw), Improved Initiative, Power Attack, Weapon Focus (claw)"
-epic-feats: "Overwhelming Critical (claw), Blinding Speed, Epic Fortitude, Epic Weapon Focus (claw)"
-saves: "Fort +14, Ref +18, Will +24"
-abilities: "Str 52, Dex 27, Con -, Int 10, Wis 22, Cha 28"
-environment: "Any"
-organization: "Solitary or pair"
-challenge-rating: 23
+special-attacks: "Rend (2 claws 2d8+22), spell-like abilities"
+special-qualities: "Darkvision 60 ft., fast healing 10, aura of cold (10 ft.), channel resistance +4, damage reduction 15/bludgeoning and good, immunity to cold, undead traits, spell resistance 28, vulnerability to fire"
+saves: "Fort +15, Ref +14, Will +16"
+abilities: "Str 40, Dex 23, Con —, Int 11, Wis 18, Cha 29"
+skills: "Acrobatics +26, Intimidation +32, Perception +27, Stealth +29"
+skill-ranks: "Acrobatics 17, Intimidation 20, Perception 20, Stealth 20"
+feats: "Blind-Fight, Combat Reflexes, Critical Focus, Greater Vital Strike, Improved Initiative, Improved Vital Strike, Lightning Reflexes, Power Attack, Staggering Critical, Vital Strike"
+environment: "Any cold land"
+organization: "Solitary, pair, or incursion (3–6)"
+challenge-rating: 17
 treasure: "Standard"
-alignment: "Always chaotic evil"
-advancement: "33-42 HD (Medium-size); 43-55 HD (Huge)"
+alignment: "Usually chaotic evil"
+advancement: "—"
+level-adjustment: "—"
+book: "Bestiary 2"
 based-on:
-  - "[[fantasy srd 3.5/monsters/Winterwight|Winterwight (3.5)]]"
+  - "[[path srd 3.5/monsters/Winterwight|Winterwight (PF1)]]"
 status: draft
-change: modified
-pi-review: scanned 2026-10-15
+change: new
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Winterwight
 
-Medium-Size [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|Cold]])    
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Cold)
+  - **Hit Dice**: 20d8+180 (270 hp)
+  - **Initiative**: +10
+  - **Speed**: 30 ft. (6 squares)
+  - **Armor Class**: 32 (+6 Dex, +16 natural), touch 16, flat-footed 26
+  - **Base Attack**: +15; **CMB**: +30; **CMD**: 46
+  - **Attack**: Bite +30 melee (2d8+15 plus blightfire) or claw +30 melee (2d6+15 plus blightfire)
+  - **Full Attack**: Bite +30 melee (2d8+15 plus blightfire) and 2 claws +30 melee (2d6+15 plus blightfire)
+  - **Space/Reach**: 5 ft./5 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rend|Rend]] (2 claws 2d8+22), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10, aura of cold (10 ft.), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +4, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/bludgeoning and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to cold, [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, vulnerability to fire
+  - **Saves**: Fort +15, Ref +14, Will +16
+  - **Abilities**: Str 40, Dex 23, Con —, Int 11, Wis 18, Cha 29
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +32, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +29
+  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Greater Vital Strike|Greater Vital Strike]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Staggering Critical|Staggering Critical]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
+  - **Environment**: Any cold land
+  - **Organization**: Solitary, pair, or incursion (3–6)
+  - **Challenge Rating**: 17
+  - **Treasure**: Standard
+  - **Alignment**: Usually chaotic evil
+  - **Advancement**: —
+  - **Level Adjustment**: —
 
-Hit Dice: 32d12 (208 hp)      
-Initiative: +12 (+8 Dex, +4 [[rangoric-srd/feats/Improved Initiative|Improved Initiative]])      
-Speed: 60 ft.      
-AC: 46 (+8 Dex, +28 natural)      
-Base Attack: +16; CMB: +37; CMD: 55     
-Attack: Claw +40 (3d8+21/19-20 (+1d6 on critical hit) plus blight-fire) melee     
-Full Attack: 2 claws +40 (3d8+21/19-20 (+1d6 on critical hit) plus blight-fire) melee, skull butt +32 (2d6+10 plus blightfire) melee     
-Space/Reach: 5 ft./5 ft.      
-Special Attacks: Rend 6d8+31, blightfire, spell-like abilities      
-Special Qualities: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead traits]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^cold|cold subtype]], cold aura, [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] 34, [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 10/-     
-Skills: [[rangoric-srd/skills/Athletics|Athletics]] +56 (+68 jumping), [[rangoric-srd/skills/Intimidation|Intimidation]] +44, [[rangoric-srd/skills/Perception|Perception]] +43, [[rangoric-srd/skills/Theology|Theology]] +35     
-Feats: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)      
-Epic Feats: [[rangoric-srd/feats/Overwhelming Critical|Overwhelming Critical]] (claw), [[rangoric-srd/feats/Blinding Speed|Blinding Speed]], [[rangoric-srd/feats/Epic Fortitude|Epic Fortitude]], [[rangoric-srd/feats/Epic Weapon Focus|Epic Weapon Focus]] (claw)      
-Saves: Fort +14, Ref +18, Will +24      
-Abilities: Str 52, Dex 27, Con -, Int 10, Wis 22, Cha 28      
-Climate/Terrain: Any      
-Organization: Solitary or pair      
-Challenge Rating: 23      
-Treasure: Standard      
-Alignment: Always chaotic evil      
-Advancement: 33-42 HD (Medium-size); 43-55 HD (Huge)      
+The winterwight is an undead horror born from the coldest depths of the negative energy plane. Infused with the dark, cold magic that permeates this realm of death, the winterwight takes the form of a skeleton coated in armor of jagged ice.
 
-Winterwights speak Common and Infernal.
+Though it resembles an ordinary skeleton from a distance, the winterwight's frame is much sturdier than the average humanoid's, its frozen armor intertwining with its bone structure to form an incredibly hardy chassis. Sometimes called hatewraiths because of their insatiable lust for suffering, these frozen horrors are often found in areas that suffer from magical cold or frozen climates.
 
-A winterwight’s natural weapons are treated as epic for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+Winterwights are 7 feet tall and weigh 250 pounds.
 
-#### Combat
+Winterwights speak Common.
 
-Rend (Ex): If the winterwight hits with both of its claws, it latches onto the opponent’s body and tears the flesh. This attack automatically deals an additional 6d8+31 points of Damage.
+### Combat
 
-Blightfire (Su): When a winterwight deals Damage to a living opponent, a night-black flame begins to burn on the opponent’s body. If the opponent fails a Fortitude save (DC 35), it takes 4 points of permanent Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]. The opponent must continue to save every round for the next 4 rounds (5 rounds total) to avoid being permanently drained of an additional 4 points of Constitution per round. The creature regains 10 lost hit points whenever it drains 4 points of Constitution, gaining any excess hit points as temporary hit points. These temporary hit points last a maximum of 1 hour. If the opponent is slain by blightfire, only icy fragments of the victim remain. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 17th; concentration +26): Constant—*[[rangoric-srd/spells/Air Walk|air walk]]*; At will—*[[rangoric-srd/spells/Cone of Cold|cone of cold]]* (DC 24), *[[rangoric-srd/spells/Dimension Door|dimension door]]*, *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, *[[rangoric-srd/spells/Sleet Storm|sleet storm]]*, *[[rangoric-srd/spells/Wall of Ice|wall of ice]]*; 3/day—*[[rangoric-srd/spells/Polar Ray|polar ray]]*; 1/day—*[[rangoric-srd/spells/Control Weather|control weather]]*.
 
-Spell-Like Abilities: Caster level 23rd; save DC 19 + spell level. The save DCs are Charisma-based.  
+**Aura of Cold (Su)**: Winterwights are surrounded by a 10-foot radius of deathly chill. Any creatures within this area during the winterwight's turn takes 2d10 points of cold damage. All creatures of the cold subtype within this area (including the winterwight) are treated as having fast healing 10.
 
-At will - [[rangoric-srd/spells/Cone of Cold|cone of cold]], [[rangoric-srd/spells/Control Weather|control weather]], [[rangoric-srd/spells/Dimension Door|dimension door]], [[rangoric-srd/spells/Spell Immunity|spell immunity]] ([[rangoric-srd/spells/Fireball|fireball]]), [[rangoric-srd/spells/Sleet Storm|sleet storm]] (a winterwight is immune to the effects of a sleet storm spell), [[rangoric-srd/spells/Wall of Ice|wall of ice]].  
-
-Undead Traits: Immune to [[rangoric-srd/rules/Afflictions#Poison|poison]], sleep, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunning]], [[rangoric-srd/rules/Afflictions#Disease|disease]], death, effects, necromantic effects, mind-affecting effects, and any effect requiring a Fortitude save unless it also works on objects. Not subject to critical hits, subdual damage, ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|damage]], ability [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]], or [[rangoric-srd/rules/Special Abilities and Conditions#^energy-drained|energy drain]]. Negative energy heals. Not at risk of death from massive damage, but destroyed at 0 hit points or less. Darkvision 60 ft. Cannot be raised; resurrection works only if creature is willing.
-
-Cold Subtype: Immunity to cold. [[rangoric-srd/monsters/abilities/Vulnerabilities|Vulnerability to fire]] (takes half again as much (+50%) damage as normal from fire, regardless of whether a saving throw is allowed, or if the save is a success or failure).
-
-Cold Aura (Su): A 10-foot-radius spread cold aura surrounds a winterwight. All creatures of the cold subtype in the field (including the winterwight) are treated as if having [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]] +6 (if undead) and [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 10. Creatures subject to cold Damage take 2d10 points of cold Damage each round they remain within the cold aura.
+**Blightfire (Su)**: Whenever a winterwight damages a creature with a bite or claw, the wound erupts with tongues of black fire. For the next 5 rounds, the victim must make a DC 29 Fortitude saving throw at the start of its turn or take 1d6 points of Constitution drain. The winterwight gains 10 temporary hit points each time the creature fails a saving throw against blightfire. A creature cannot be affected by more than one instance of blightfire at a time. The save DC is Charisma-based.

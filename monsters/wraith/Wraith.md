@@ -3,59 +3,60 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Undead"
-subtypes:
-  - "Incorporeal"
-hit-dice: "5d12 (32 hp)"
+subtypes: ["Incorporeal"]
+hit-dice: "5d8+25 (47 hp)"
 initiative: "+7"
-speed: "Fly 60 ft. (good) (12 squares)"
-armor-class: "15 (+3 Dex, +2 deflection), touch 15, flat-footed 12"
-base-attack: "+2"
-cmb: "—"
-cmd: "17"
-attack: "Incorporeal touch +5 melee (1d4 plus 1d6 Constitution drain)"
-full-attack: "Incorporeal touch +5 melee (1d4 plus 1d6 Constitution drain)"
+speed: "fly 60 ft. (good)"
+armor-class: "18 (+5 deflection, +3 Dex), touch 18, flat-footed 15"
+base-attack: "+3"
+cmb: "+6"
+cmd: "21"
+attack: "Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)"
+full-attack: "Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Constitution drain, create spawn"
-special-qualities: "Darkvision 60 ft., daylight powerlessness, incorporeal traits, +2 turn resistance, undead traits, unnatural aura"
-saves: "Fort +1, Ref +4, Will +6"
-abilities: "Str —, Dex 16, Con —, Int 14, Wis 14, Cha 15"
-skills: "Fieldcraft +8 (+10 following tracks), Intimidation +10, Perception +13, Persuasion +7, Investigation+10, Sense Motive +10, Stealth +11"
-skill-ranks: "Fieldcraft 3, Intimidation 5, Investigation 5, Perception 5, Persuasion 2, Sense Motive 5, Stealth 5"
-feats: "Blind-Fight, Combat Reflexes, Improved Initiative (B), Skill Focus (Perception) (B)"
+special-attacks: "Create spawn"
+special-qualities: "Darkvision 60 ft., lifesense, unnatural aura (30 ft.), channel resistance +2, incorporeal, undead traits, sunlight powerlessness"
+saves: "Fort +6, Ref +4, Will +6"
+abilities: "Str —, Dex 16, Con —, Int 14, Wis 14, Cha 21"
+skills: "Acrobatics +7, Intimidation +13, Perception +10, Persuasion +10, Sense Motive +10, Stealth +11, Theology +7"
+skill-ranks: "Acrobatics 1, Intimidation 5, Perception 5, Persuasion 2, Sense Motive 5, Stealth 5, Theology 2"
+feats: "Blind-Fight, Combat Reflexes, Improved Initiative"
 environment: "Any"
-organization: "Solitary, gang (2–5), or pack (6–11)"
+organization: "Solitary, pair, gang (3–6), or pack (7–12)"
 challenge-rating: 5
 treasure: "None"
 alignment: "Always lawful evil"
 advancement: "6–10 HD (Medium)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Wraith|Wraith (PF1)]]"
   - "[[fantasy srd 3.5/monsters/wraith/Wraith|Wraith (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Wraith
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^incorporeal|Incorporeal]])
-  - **Hit Dice**: 5d12 (32 hp)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|Undead]] (Incorporeal)
+  - **Hit Dice**: 5d8+25 (47 hp)
   - **Initiative**: +7
-  - **Speed**: Fly 60 ft. (good) (12 squares)
-  - **Armor Class**: 15 (+3 Dex, +2 deflection), touch 15, flat-footed 12
-  - **Base Attack**: +2; **CMB**: —; **CMD**: 17
-  - **Attack**: Incorporeal touch +5 melee (1d4 plus 1d6 Constitution drain)
-  - **Full Attack**: Incorporeal touch +5 melee (1d4 plus 1d6 Constitution drain)
+  - **Speed**: fly 60 ft. (good)
+  - **Armor Class**: 18 (+5 deflection, +3 Dex), touch 18, flat-footed 15
+  - **Base Attack**: +3; **CMB**: +6; **CMD**: 21
+  - **Attack**: Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)
+  - **Full Attack**: Incorporeal touch +6 melee (1d6 negative energy plus 1d6 Con drain)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Constitution [[rangoric-srd/monsters/abilities/Ability Damage and Drain|drain]], create spawn
-  - **Special Qualities**: Darkvision 60 ft., daylight powerlessness, [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|incorporeal traits]], +2 [[rangoric-srd/monsters/abilities/Channel Resistance|turn resistance]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^undead|undead traits]], unnatural aura
-  - **Saves**: Fort +1, Ref +4, Will +6
-  - **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 14, Cha 15
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8 (+10 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Investigation|Investigation]]+10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B)
+  - **Special Attacks**: Create spawn
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Lifesense|lifesense]], [[rangoric-srd/monsters/abilities/Unnatural Aura|unnatural aura]] (30 ft.), [[rangoric-srd/monsters/abilities/Channel Resistance|channel resistance]] +2, [[rangoric-srd/monsters/abilities/Incorporeal|incorporeal]], [[rangoric-srd/monsters/abilities/Undead Traits|undead traits]], [[rangoric-srd/monsters/abilities/Sunlight Powerlessness|sunlight powerlessness]]
+  - **Saves**: Fort +6, Ref +4, Will +6
+  - **Abilities**: Str —, Dex 16, Con —, Int 14, Wis 14, Cha 21
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +7
+  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]]
   - **Environment**: Any
-  - **Organization**: Solitary, gang (2–5), or pack (6–11)
+  - **Organization**: Solitary, pair, gang (3–6), or pack (7–12)
   - **Challenge Rating**: 5
   - **Treasure**: None
   - **Alignment**: Always lawful evil
@@ -66,11 +67,9 @@ tags: [rangoric, rangoric/monster]
 
   - [[rangoric-srd/monsters/wraith/Dread Wraith|Dread Wraith]]
 
-Wraiths are incorporeal creatures born of evil and darkness.
+Wraiths are undead creatures born of evil and darkness. They hate light and living things, as they have lost much of their connection to their former lives.
 
-In some cases, the grim silhouette of a wraith might appear armored or outfitted with weapons. This appearance does not affect the creature’s AC or combat abilities but only reflects the shape it had in life.
-
-A wraith is about as tall as a human, while a dread wraith is roughly the size of an ogre. Since both are incorporeal, they are weightless.
+**Dread Wraith**: A wraith that exists for long enough and feeds on enough life force undergoes an unholy transformation, becoming a creature known as a dread wraith. This causes the wraith to increase in size and strength, and to inflict 2d6 points of negative energy damage and 1d8 Constitution drain with its incorporeal touch. You can create a dread wraith by applying the giant and advanced simple templates, or you can increase the basic wraith to a Large 16 HD undead.
 
 Wraiths speak Common and Infernal.
 
@@ -78,12 +77,12 @@ Wraiths speak Common and Infernal.
 
 Both the wraith and the dread wraith share the following abilities.
 
-**Unnatural Aura (Su)**: Animals, whether wild or domesticated, can sense the unnatural presence of a wraith at a distance of 30 feet. They will not willingly approach nearer than that and panic if forced to do so; they remain [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] as long as they are within that range.
+**Create Spawn (Su)**: A humanoid slain by a wraith becomes a wraith in 1d4 rounds. These spawn are less powerful than typical wraiths, and suffer a –2 penalty on all d20 rolls and checks, receive –2 hp per HD, and only drain 1d2 points of Constitution on a touch. Spawn are under the command of the wraith that created them until its death, at which point they lose their spawn penalties and become free-willed wraiths. They do not possess any of the abilities they had in life.
 
-**Daylight Powerlessness (Ex)**: Wraiths are utterly powerless in natural sunlight (not merely a [[rangoric-srd/spells/Daylight|daylight]] spell) and flee from it.
+**Constitution Drain (Su)**: Creatures hit by a wraith's touch attack must succeed on a DC 17 Fortitude save or take 1d6 points of Constitution drain. On each successful attack, the wraith gains 5 temporary hit points. The save DC is Charisma-based.
 
-### Wraith
+**Lifesense (Su)**: A wraith notices and locates living creatures within 60 feet, just as if it possessed the blindsight ability.
 
-**Constitution Drain (Su)**: Living creatures hit by a wraith’s incorporeal touch attack must succeed on a DC 14 Fortitude save or take 1d6 points of Constitution [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|drain]]. The save DC is Charisma-based. On each such successful attack, the wraith gains 5 temporary hit points.
+**Sunlight Powerlessness (Ex)**: A wraith caught in sunlight cannot attack and is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]].
 
-**Create Spawn (Su)**: Any humanoid slain by a wraith becomes a wraith in 1d4 rounds. Its body remains intact and inanimate, but its spirit is torn free from its corpse and transformed. Spawn are under the command of the wraith that created them and remain enslaved until its death. They do not possess any of the abilities they had in life.
+**Unnatural Aura (Su)**: Animals do not willingly approach within 30 feet of a wraith, unless a master makes a DC 25 Animal Handling or wild empathy check.
