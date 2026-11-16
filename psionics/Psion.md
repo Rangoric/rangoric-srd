@@ -92,7 +92,7 @@ Clairsentience: A psion who chooses clairsentience is known as a seer. Seers can
 
 Metacreativity: A psion specializing in metacreativity is known as a shaper. This discipline includes powers that draw ectoplasm or matter from the Astral Plane, creating semisolid and solid items such as armor, weapons, or animated constructs to do battle at the shaper’s command.
 
-Psychokinesis: Psions who specialize in psychokinesis are known as kineticists. They are the masters of powers that manipulate and transform matter and energy. Kineticists can attack with devastating blasts of energy.
+Psychokinesis: Psions who specialize in psychokinesis are known as kineticists. (They aren’t the [[rangoric-srd/classes/Kineticist|kineticist]] class.) They are the masters of powers that manipulate and transform matter and energy. Kineticists can attack with devastating blasts of energy.
 
 Psychometabolism: A psion who specializes in psychometabolism is known as an egoist. This discipline consists of powers that alter the psion’s psychobiology, or that of creatures near him. An egoist can both heal and transform himself into a fearsome fighter.
 

@@ -1,0 +1,28 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "wild talent"
+class: ["Kineticist"]
+element: ["air"]
+talent-type: "utility"
+talent-level: 1
+burn: "0"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Air Cushion|Air Cushion (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/class-option]
+---
+
+# Air Cushion
+
+*A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
+
+  - **Element**: [[rangoric-srd/class-options/elements/Air Element|air]]
+  - **Type**: utility (Sp)
+  - **Level**: 1
+  - **Burn**: 0
+
+You cushion a fall from any height. You are constantly under the effects of *[[rangoric-srd/spells/Feather Fall|feather fall]]*, and you count as one size category larger for the purpose of determining how you are affected by wind.
