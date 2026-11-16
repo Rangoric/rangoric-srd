@@ -205,6 +205,10 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **20 Ranks**: You gain a natural climb speed equal to your base speed on all surfaces. If you have both hands free, you gain a +8 racial bonus on Athletics checks to climb.
 
+### Jumping
+
+**20 Ranks**: You double the result of any Athletics check when jumping.
+
 ### Swimming
 
 **5 Ranks**: You gain a swim speed of 10 feet, but only in water with a swimming DC of 15 or lower.

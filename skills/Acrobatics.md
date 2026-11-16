@@ -153,7 +153,7 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 
 **15 Ranks**: You do not provoke attacks of opportunity when standing up from prone.
 
-**20 Ranks**: You double the result of any Acrobatics check when jumping and never fall prone at the end of a fall as long as you remain conscious.
+**20 Ranks**: You never fall prone at the end of a fall as long as you remain conscious.
 
 ### Flying
 

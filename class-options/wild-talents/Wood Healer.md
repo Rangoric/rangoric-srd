@@ -6,7 +6,7 @@ class: ["Kineticist"]
 element: ["wood"]
 talent-type: "utility"
 talent-level: 1
-burn: "1"
+burn: "1; see text"
 book: "Ultimate Wilderness"
 based-on:
   - "[[path srd 3.5 foundry/class-features/Wood Healer|Wood Healer (PF1 Foundry)]]"
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/class-option]
   - **Element**: [[rangoric-srd/class-options/elements/Wood Element|wood]]
   - **Type**: utility (Sp)
   - **Level**: 1
-  - **Burn**: 1
+  - **Burn**: 1; see text
   - **Prerequisite**: [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]]
   - **Saving Throw**: none
   - **Spell Resistance**: yes

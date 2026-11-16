@@ -3,7 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "wild talent"
 class: ["Kineticist"]
-element: ["aether", "air", "water"]
+element: ["aether", "air", "void", "water"]
 talent-type: "utility"
 talent-level: 6
 burn: "0"
@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 *A [[rangoric-srd/class-options/wild-talents/Wild Talents#Utility Wild Talents|utility wild talent]] of the [[rangoric-srd/classes/Kineticist|kineticist]].*
 
-  - **Elements**: [[rangoric-srd/class-options/elements/Aether Element|aether]], [[rangoric-srd/class-options/elements/Air Element|air]], or [[rangoric-srd/class-options/elements/Water Element|water]]
+  - **Elements**: [[rangoric-srd/class-options/elements/Aether Element|aether]], [[rangoric-srd/class-options/elements/Air Element|air]], [[rangoric-srd/class-options/elements/Void Element|void]], or [[rangoric-srd/class-options/elements/Water Element|water]]
   - **Type**: utility (Sp)
   - **Level**: 6
   - **Burn**: 0
