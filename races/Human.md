@@ -34,6 +34,8 @@ Bonus Languages:
 
 - Any (other than secret languages, such as Druidic)
 
+Sorcerer Bloodline: human [[rangoric-srd/classes/Sorcerer|sorcerers]] can take the [[rangoric-srd/class-options/bloodlines/Imperious Bloodline|imperious bloodline]].
+
 Paragon Class: [[rangoric-srd/classes/Human Paragon|Human Paragon]]
 
 ### Age, Height and Weight

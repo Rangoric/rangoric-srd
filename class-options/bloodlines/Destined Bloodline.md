@@ -23,6 +23,8 @@ Your family is destined for greatness in some way. Your birth could have been fo
 
 **Bloodline Arcana**: Whenever you cast a spell with a range of “personal,” you gain a luck bonus equal to the spell's level on all your saving throws for 1 round.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Karmic (Mutated Bloodline)|karmic mutated bloodline]].
+
 ## Bloodline Powers
 
 You are destined for great things, and the powers that you gain serve to protect you.

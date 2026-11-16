@@ -23,6 +23,8 @@ You have in your veins the ever-changing wildness of primal chaos, the raw essen
 
 **Bloodline Arcana**: Your magic of creation and changing is hard to unravel. The DC to dispel transmutation or conjuration (creation) spells that you cast is increased by +4.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Anarchic (Mutated Bloodline)|anarchic mutated bloodline]].
+
 ## Bloodline Powers
 
 Your ancestral immersion in primordial chaos begets your curiously warped magical talents.

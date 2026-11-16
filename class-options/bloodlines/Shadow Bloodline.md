@@ -23,6 +23,8 @@ Spirits from the shadow plane dally at times in the world of light, and such as 
 
 **Bloodline Arcana**: Whenever you cast a spell with the darkness descriptor or the shadow subschool, you gain a circumstance bonus on Stealth checks equal to the spell's level for 1d4 rounds.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Umbral (Mutated Bloodline)|umbral mutated bloodline]].
+
 ## Bloodline Powers
 
 Your benighted heritage infuses your mastery of magic with the essence of shadowstuff.

@@ -23,6 +23,8 @@ You trace your heritage to fierce and proud spirits of storm and sky, and living
 
 **Bloodline Arcana**: Whenever you cast a spell with the electricity or sonic descriptor, increase the save DC by 1.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Aerial (Mutated Bloodline)|aerial mutated bloodline]].
+
 ## Bloodline Powers
 
 Your mastery of the storm is reflected in the unique panoply of powers you manifest.

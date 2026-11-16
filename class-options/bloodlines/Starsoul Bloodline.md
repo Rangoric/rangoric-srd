@@ -23,6 +23,8 @@ You come from a line of stargazers and explorers who delved deeply into the dark
 
 **Bloodline Arcana**: Whenever you cast an evocation spell, targets that fail their saves are dazzled by tiny sparkling starlights for 1 round per level of the spell.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Void-Touched (Mutated Bloodline)|void-touched mutated bloodline]].
+
 ## Bloodline Powers
 
 Your skyward gaze and communion with the heavens focus and enhance your magical talents.

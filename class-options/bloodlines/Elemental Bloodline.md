@@ -27,6 +27,8 @@ The power of the elements resides in you, and at times you can hardly control it
 
 **Bloodline Arcana**: Whenever you cast a spell that deals energy damage, you can change the type of damage to match the type of your bloodline. This also changes the spell's type to match the type of your bloodline.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Primal (Mutated Bloodline)|primal mutated bloodline]].
+
 ## Bloodline Powers
 
 One of the four elements infuses your being, and you can draw upon its power in times of need. At first level, you must select one of the four elements: air, earth, fire, or water. This choice cannot be changed. A number of your abilities grant resistances and deal damage based on your element, as noted below.

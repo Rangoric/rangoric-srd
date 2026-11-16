@@ -23,6 +23,8 @@ Your family traces its heritage back to the ocean depths, whether scions of unde
 
 **Bloodline Arcana**: Whenever you cast a spell of the water type, your effective caster level is increased by one, and summoned creatures with a swim speed or the aquatic or water type gain a +1 morale bonus on attack and damage rolls.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Seaborn (Mutated Bloodline)|seaborn mutated bloodline]].
+
 ## Bloodline Powers
 
 Your seaborn magical talents awaken changes in you, both mystical and physical, as you develop your powers.

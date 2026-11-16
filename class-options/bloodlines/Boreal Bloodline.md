@@ -23,6 +23,8 @@ Descended from inhabitants of the lands of ice and snow, you count among your an
 
 **Bloodline Arcana**: Whenever you cast a spell with the cold descriptor, increase the spell's save DC by 1.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Rime-Blooded (Mutated Bloodline)|rime-blooded mutated bloodline]].
+
 ## Bloodline Powers
 
 Your connection to primeval winters grants you a mastery of cold magic that few can match, and a savagery that fewer still can withstand.

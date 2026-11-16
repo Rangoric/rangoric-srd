@@ -23,6 +23,8 @@ The taint of the grave runs through your family. Perhaps one of your ancestors b
 
 **Bloodline Arcana**: Some undead are susceptible to your mind-affecting spells. Corporeal undead that were once humanoids are treated as humanoids for the purposes of determining which spells affect them.
 
+**Mutated Bloodline**: a [[rangoric-srd/class-options/archetypes/sorcerer/Wildblooded (Archetype)|wildblooded]] sorcerer with this bloodline can have its mutated version, the [[rangoric-srd/class-options/bloodlines/Sanguine (Mutated Bloodline)|sanguine mutated bloodline]].
+
 ## Bloodline Powers
 
 You can call upon the foul powers of the afterlife. Unfortunately, the more you draw upon them, the closer you come to joining them.
