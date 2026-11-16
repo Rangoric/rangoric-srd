@@ -86,3 +86,9 @@ A sylph can take any of these in place of the traits they replace (see [[rangori
 | [[rangoric-srd/races/racial-traits/Thunderous Resilience|Thunderous Resilience]] | Energy resistance |
 | [[rangoric-srd/races/racial-traits/Weather Savvy|Weather Savvy]] | Spell-like ability |
 | [[rangoric-srd/races/racial-traits/Whispering Wind (Racial Trait)|Whispering Wind]] | Spell-like ability |
+
+### Class Bonuses
+
+A sylph gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Sylph]]

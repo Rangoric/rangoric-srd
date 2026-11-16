@@ -96,3 +96,9 @@ An undine can take any of these in place of the traits they replace (see [[rango
 | [[rangoric-srd/races/racial-traits/Ooze Breath|Ooze Breath]] | Spell-like ability |
 | [[rangoric-srd/races/racial-traits/Terrain Chameleon|Terrain Chameleon]] | Energy resistance |
 | [[rangoric-srd/races/racial-traits/Water Sense|Water Sense]] | Energy resistance |
+
+### Class Bonuses
+
+An undine gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Undine]]

@@ -477,3 +477,69 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Aasimar"
+    filters:
+      and:
+        - note.race == "Aasimar"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Tiefling"
+    filters:
+      and:
+        - note.race == "Tiefling"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Ifrit"
+    filters:
+      and:
+        - note.race == "Ifrit"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Oread"
+    filters:
+      and:
+        - note.race == "Oread"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Sylph"
+    filters:
+      and:
+        - note.race == "Sylph"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Undine"
+    filters:
+      and:
+        - note.race == "Undine"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
