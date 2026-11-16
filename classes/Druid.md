@@ -134,6 +134,10 @@ At 12th level, a druid can also use wild shape to change into a Huge elemental o
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Druid]]
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The druid’s class bonuses, by race: ^druid-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Druid]]
+
 ###### Ex-Druids
 
 A druid who ceases to revere nature, changes to a prohibited alignment, or teaches the Druidic language to a nondruid loses all spells and druid abilities (including her animal companion, but not including weapon, armor, and shield proficiencies). She cannot thereafter gain levels as a druid until she atones (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description).

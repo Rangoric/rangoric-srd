@@ -98,6 +98,10 @@ Using a hex is a standard action that doesn’t provoke an attack of opportunity
 
 **Manifestation (Su)**: Upon reaching 20th level, a shaman undergoes a transformation as she manifests as a pinnacle of her main spirit. The nature of this manifestation depends on the shaman’s spirit, and is described in its entry. ^shaman-manifestation
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The shaman’s class bonuses, by race: ^shaman-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Shaman]]
+
 ##### Spirit Animal
 
 By communing with the incredible powers of her spirit, the shaman forges a cherished bond with one specific servant of that spirit—known as a spirit animal. A spirit animal is a creature chosen by a shaman to serve as a conduit, allowing her to more fully access the magic of her spirit on a daily basis. The shaman’s spirit animal also grants her special powers. This uses Rangoric’s [[rangoric-srd/classes/Wizard#Familiars|familiar]] rules, and the spirit animal is treated as a familiar, except as noted below.

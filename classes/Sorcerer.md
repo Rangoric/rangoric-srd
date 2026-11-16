@@ -125,3 +125,7 @@ A character with more than one class that grants a familiar may have only one fa
 **Archetypes**: A sorcerer can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The sorcerer’s archetypes, with what each replaces: ^sorcerer-archetypes
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Sorcerer]]
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The sorcerer’s class bonuses, by race: ^sorcerer-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Sorcerer]]

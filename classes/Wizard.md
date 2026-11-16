@@ -101,6 +101,10 @@ These bonus feats are in addition to the feat that a character of any class gets
 
 A wizard begins play with a spellbook containing all 0-level wizard spells plus three 1st-level spells of your choice. For each point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to her own.
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The wizard’s class bonuses, by race: ^wizard-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Wizard]]
+
 ##### Arcane School
 
 A wizard can choose to specialize in one school of magic, gaining additional spells and powers based on that school. This choice must be made at 1st level, and once made, it cannot be changed. A wizard that does not select a school receives the universalist school instead. ^wizard-arcane-school

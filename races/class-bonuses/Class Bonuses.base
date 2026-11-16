@@ -1,0 +1,380 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/races/class-bonuses")
+views:
+  - type: table
+    name: "All class bonuses"
+    groupBy:
+      property: note.race
+      direction: ASC
+    order:
+      - file.name
+      - note.race
+      - note.class
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Dwarf"
+    filters:
+      and:
+        - note.race == "Dwarf"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Elf"
+    filters:
+      and:
+        - note.race == "Elf"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Alchemist"
+    filters:
+      and:
+        - note.class.contains("Alchemist")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Arcanist"
+    filters:
+      and:
+        - note.class.contains("Arcanist")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Barbarian"
+    filters:
+      and:
+        - note.class.contains("Barbarian")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Bard"
+    filters:
+      and:
+        - note.class.contains("Bard")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Bloodrager"
+    filters:
+      and:
+        - note.class.contains("Bloodrager")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Brawler"
+    filters:
+      and:
+        - note.class.contains("Brawler")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Cavalier"
+    filters:
+      and:
+        - note.class.contains("Cavalier")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Cleric"
+    filters:
+      and:
+        - note.class.contains("Cleric")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Druid"
+    filters:
+      and:
+        - note.class.contains("Druid")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Fighter"
+    filters:
+      and:
+        - note.class.contains("Fighter")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Gunslinger"
+    filters:
+      and:
+        - note.class.contains("Gunslinger")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Hunter"
+    filters:
+      and:
+        - note.class.contains("Hunter")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Inquisitor"
+    filters:
+      and:
+        - note.class.contains("Inquisitor")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Investigator"
+    filters:
+      and:
+        - note.class.contains("Investigator")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Magus"
+    filters:
+      and:
+        - note.class.contains("Magus")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Monk"
+    filters:
+      and:
+        - note.class.contains("Monk")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Oracle"
+    filters:
+      and:
+        - note.class.contains("Oracle")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Paladin"
+    filters:
+      and:
+        - note.class.contains("Paladin")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Ranger"
+    filters:
+      and:
+        - note.class.contains("Ranger")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Rogue"
+    filters:
+      and:
+        - note.class.contains("Rogue")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Shaman"
+    filters:
+      and:
+        - note.class.contains("Shaman")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Skald"
+    filters:
+      and:
+        - note.class.contains("Skald")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Slayer"
+    filters:
+      and:
+        - note.class.contains("Slayer")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Sorcerer"
+    filters:
+      and:
+        - note.class.contains("Sorcerer")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Summoner"
+    filters:
+      and:
+        - note.class.contains("Summoner")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Swashbuckler"
+    filters:
+      and:
+        - note.class.contains("Swashbuckler")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Warpriest"
+    filters:
+      and:
+        - note.class.contains("Warpriest")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Witch"
+    filters:
+      and:
+        - note.class.contains("Witch")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Wizard"
+    filters:
+      and:
+        - note.class.contains("Wizard")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Unchained Monk"
+    filters:
+      and:
+        - note.class.contains("Unchained Monk")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Unchained Summoner"
+    filters:
+      and:
+        - note.class.contains("Unchained Summoner")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC

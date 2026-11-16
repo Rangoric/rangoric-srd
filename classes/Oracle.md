@@ -125,3 +125,7 @@ At 2nd level, and every two levels thereafter, an oracle learns an additional sp
 **Revelation**: At 1st level, 3rd level, and every four levels thereafter (7th, 11th, and so on), an oracle uncovers a new secret about her mystery that grants her powers and abilities. The oracle must select a revelation from the list of revelations available to her [[rangoric-srd/class-options/mysteries/Mysteries|mystery]] (each revelation has its own note in [[rangoric-srd/class-options/revelations/Revelations|Revelations]]). If a revelation is chosen at a later level, the oracle gains all of the abilities and bonuses granted by that revelation based on her current level. Unless otherwise noted, activating the power of a revelation is a standard action. Unless otherwise noted, the DC to save against a revelation is equal to 10 + 1/2 the oracle’s level + the oracle’s Charisma modifier. Effects that duplicate spells use the oracle’s class level as her caster level. ^oracle-revelation
 
 **Final Revelation**: At 20th level, an oracle learns the final revelation about her mystery, granting her amazing powers and abilities. The nature of these bonuses depends upon the oracle's mystery. ^oracle-final-revelation
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The oracle’s class bonuses, by race: ^oracle-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Oracle]]

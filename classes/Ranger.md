@@ -152,4 +152,8 @@ Through 3rd level, a ranger has no caster level. At 4th level and higher, his ca
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Ranger]]
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The ranger’s class bonuses, by race: ^ranger-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Ranger]]
+
 **Ranger Traps**: Some rangers set improvised traps, learned with the [[rangoric-srd/class-options/archetypes/ranger/Trapper (Archetype)|trapper]] archetype or a feat; the traps and how they’re set are in [[rangoric-srd/class-options/ranger-traps/Ranger Traps|Ranger Traps]]. ^ranger-traps

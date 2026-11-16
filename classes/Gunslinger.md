@@ -137,3 +137,7 @@ The deeds, by the level they're gained (one note each; see [[rangoric-srd/class-
 Every four levels thereafter (9th, 13th, and 17th), the gunslinger picks up another type of firearm, gaining these bonuses for those types as well.
 
 **True Grit (Ex)**: At 20th level, a gunslinger picks two deeds that she has access to and that she must spend grit to perform. She can perform these deeds for 1 grit point fewer (minimum 0) than usual. If the number of grit points to perform a deed is reduced to 0, the gunslinger can perform this deed as long as she has at least 1 grit point. If a deed could already be performed as long as she had at least 1 grit point, she can now perform that deed even when she has no grit points. ^gunslinger-true-grit
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The gunslinger’s class bonuses, by race: ^gunslinger-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Gunslinger]]

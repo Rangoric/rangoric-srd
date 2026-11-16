@@ -168,4 +168,8 @@ As a standard action, the inquisitor can choose to learn a new bonus teamwork fe
 
 **Chaotic, Evil, Good, and Lawful Spells**: An inquisitor can't cast spells of an alignment opposed to her own or her deity’s (if she has one). Spells associated with particular alignments are indicated by the chaotic, evil, good and lawful descriptors in their spell descriptions. ^inquisitor-chaotic-evil-good-and-lawful-spells
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The inquisitor’s class bonuses, by race: ^inquisitor-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Inquisitor]]
+
 **Ex-Inquisitors**: An inquisitor who slips into corruption or changes to a prohibited alignment loses all spells and the judgment ability. She cannot thereafter gain levels as an inquisitor until she atones (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description). ^inquisitor-ex-inquisitors

@@ -197,3 +197,7 @@ Additionally, each day when the hunter regains her spells, she chooses one [[ran
 **Archetypes**: A hunter can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The hunter’s archetypes, with what each replaces: ^hunter-archetypes
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Hunter]]
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The hunter’s class bonuses, by race: ^hunter-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Hunter]]

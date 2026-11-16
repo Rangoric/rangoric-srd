@@ -208,3 +208,7 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 **Greater Spell Access (Su)**: At 19th level, the magus gains access to an expanded spell list. He learns and places 14 spells from the [[rangoric-srd/spells/Sorcerer and Wizards Spell List|wizard’s spell list]] into his spellbook as magus spells of their wizard level. He gains two of each of the following wizard spells not on the magus spell list: 0-level, 1st-level, 2nd-level, 3rd-level, 4th-level, 5th-level, and 6th-level. He can ignore the somatic component of these spells, casting them without the normal chance of spell failure. ^magus-greater-spell-access
 
 **True Magus (Su)**: At 20th level, the magus becomes a master of spells and combat. Whenever he uses his spell combat ability, he does not need to make a concentration check to cast the spell defensively. Whenever the magus uses spell combat and his spell targets the same creature as his melee attacks, he can choose to either increase the DC to resist the spell by +2, grant himself a +2 circumstance bonus on any checks made to overcome spell resistance, or grant himself a +2 circumstance bonus on all attack rolls made against the target during his turn. ^magus-true-magus
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The magus’s class bonuses, by race: ^magus-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Magus]]

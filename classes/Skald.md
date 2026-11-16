@@ -170,3 +170,7 @@ If a character already has [[rangoric-srd/classes/Skald#^skald-uncanny-dodge|unc
 **Archetypes**: A skald can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The skald’s archetypes, with what each replaces: ^skald-archetypes
 
 ![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Skald]]
+
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The skald’s class bonuses, by race: ^skald-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Skald]]

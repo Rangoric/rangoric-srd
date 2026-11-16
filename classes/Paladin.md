@@ -132,6 +132,10 @@ Should the paladin’s mount die, it immediately disappears, leaving behind any 
 
 **Associates**: While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an *[[rangoric-srd/spells/Atonement|atonement]]* spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good. ^paladin-associates
 
+**Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The paladin’s class bonuses, by race: ^paladin-class-bonuses
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Paladin]]
+
 ###### Ex-Paladins
 
 A paladin who ceases to be lawful good, who willfully commits an evil act, or who grossly violates the code of conduct loses all paladin spells and class features (including the service of the paladin’s mount and her divine bond, but not weapon, armor, and shield proficiencies). She may not progress any farther in levels as a paladin. She regains her abilities and advancement potential if she atones for her violations (see the *[[rangoric-srd/spells/Atonement|atonement]]* spell description), as appropriate.

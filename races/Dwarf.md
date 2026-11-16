@@ -154,3 +154,9 @@ Bundles of alternate traits for dwarves of a particular background.
 **Subraces from the 3.5 monster entry.** The [[rangoric-srd/monsters/dwarf/Dwarf#Subraces|monster Dwarf]]'s subraces; each has the dwarf's traits except as noted.
 
 - **Deep Dwarf**: Leaner dwarves of the far underground, standoffish with non-dwarves, with a reddish tinge to their skin, large washed-out blue eyes, and hair from bright red to straw blond. Hardy gives +3 in place of +2. Darkvision out to 90 feet. [[rangoric-srd/rules/Special Abilities and Conditions#Light Sensitivity|Light sensitivity]].
+
+### Class Bonuses
+
+A dwarf gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Dwarf]]
