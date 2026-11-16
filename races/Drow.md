@@ -95,3 +95,9 @@ A drow can take any of these in place of the traits they replace (see [[rangoric
 | [[rangoric-srd/races/racial-traits/Deep Stalker|Deep Stalker]] | Spell-like abilities |
 | [[rangoric-srd/races/racial-traits/Seducer|Seducer]] | Drow immunities |
 | [[rangoric-srd/races/racial-traits/Surface Infiltrator|Surface Infiltrator]] | Darkvision and light blindness |
+
+### Class Bonuses
+
+A drow gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Drow]]

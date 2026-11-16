@@ -86,3 +86,9 @@ A catfolk can take any of these in place of the traits they replace (see [[rango
 | [[rangoric-srd/races/racial-traits/Curiosity|Curiosity]] | Natural hunter |
 | [[rangoric-srd/races/racial-traits/Nimble Faller|Nimble Faller]] | Sprinter |
 | [[rangoric-srd/races/racial-traits/Scent (Catfolk Trait)|Scent]] | Low-light vision |
+
+### Class Bonuses
+
+A catfolk gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Catfolk]]

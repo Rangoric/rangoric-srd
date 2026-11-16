@@ -543,3 +543,80 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Catfolk"
+    filters:
+      and:
+        - note.race == "Catfolk"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Dhampir"
+    filters:
+      and:
+        - note.race == "Dhampir"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Drow"
+    filters:
+      and:
+        - note.race == "Drow"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Fetchling"
+    filters:
+      and:
+        - note.race == "Fetchling"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Ratfolk"
+    filters:
+      and:
+        - note.race == "Ratfolk"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Tengu"
+    filters:
+      and:
+        - note.race == "Tengu"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Antipaladin"
+    filters:
+      and:
+        - note.class.contains("Antipaladin")
+    order:
+      - file.name
+      - note.race
+    sort:
+      - property: file.name
+        direction: ASC
