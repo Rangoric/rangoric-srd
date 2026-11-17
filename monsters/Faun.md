@@ -3,75 +3,80 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Fey"
-hit-dice: "4d6 (16 hp)"
-initiative: "+1"
-speed: "50 ft. (10 squares)"
-armor-class: "14 (+1 Dex, +3 natural), touch 11, flat-footed 13"
-base-attack: "+2"
-cmb: "+1"
-cmd: "12"
-attack: "Hoof +3 melee (1d4)"
-full-attack: "2 hooves +3 melee (1d4)"
+hit-dice: "3d6+3 (13 hp)"
+initiative: "+3"
+speed: "30 ft. (6 squares)"
+armor-class: "16 (+3 Dex, +3 natural), touch 13, flat-footed 13"
+base-attack: "+1"
+cmb: "+3"
+cmd: "16"
+attack: "Dagger +4 melee (1d4+2/19–20) or shortbow +4 ranged (1d6/×3)"
+full-attack: "Dagger +4 melee (1d4+2/19–20); or shortbow +4 ranged (1d6/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Trample"
-special-qualities: "Jump, scent"
-saves: "Fort +1, Ref +6, Will +6"
-abilities: "Str 9, Dex 13, Con 10, Int 12, Wis 15, Cha 14"
-skills: "Athletics +6, Perception +12, Stealth +8"
-skill-ranks: "Athletics 4, Perception 4, Stealth 4"
-feats: "Skill Focus (Perception), Dodge, Mobility"
-environment: "Temperate forests and hills"
-organization: "Solitary, band (2–5), troop (6–11), or rade (12–20 plus 1 satyr and 1d10 korreds)"
-challenge-rating: "2"
-treasure: "Standard"
-alignment: "Usually neutral"
-advancement: "5–10 HD (Medium)"
-book: "Faeries"
+special-attacks: "Panpipes, spell-like abilities"
+special-qualities: "Low-light vision, damage reduction 2/cold iron"
+saves: "Fort +2, Ref +6, Will +5"
+abilities: "Str 14, Dex 16, Con 13, Int 11, Wis 14, Cha 17"
+skills: "Acrobatics +8, Deception +9, Fieldcraft +4, Perception +8, Performance (wind instruments) +11, Sense Motive +7, Stealth +9"
+skill-ranks: "Acrobatics 2, Deception 3, Fieldcraft 2, Perception 3, Performance (wind instruments) 8, Sense Motive 2, Stealth 3"
+feats: "Point Blank Shot, Weapon Finesse"
+environment: "Temperate forests"
+organization: "Solitary, pair, or band (3–8)"
+challenge-rating: 1
+treasure: "Standard (dagger, shortbow with 20 arrows, masterwork panpipes, other treasure)"
+alignment: "Usually chaotic good"
+advancement: "—"
+level-adjustment: "—"
+book: "Bestiary 3"
 based-on:
-  - "[[individual books/Faeries/creatures/Satyr|Satyr (Faeries)]]"
-  - "[[individual books/Faeries/tables/Table p121 Faun (Lesser Satyr)|Table p121 Faun (Lesser Satyr) (Faeries)]]"
+  - "[[path srd 3.5/monsters/Faun|Faun (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-11
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Faun
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 4d6 (16 hp)
-  - **Initiative**: +1
-  - **Speed**: 50 ft. (10 squares)
-  - **Armor Class**: 14 (+1 Dex, +3 natural), touch 11, flat-footed 13
-  - **Base Attack**: +2; **CMB**: +1; **CMD**: 12
-  - **Attack**: Hoof +3 melee (1d4)
-  - **Full Attack**: 2 hooves +3 melee (1d4)
+  - **Hit Dice**: 3d6+3 (13 hp)
+  - **Initiative**: +3
+  - **Speed**: 30 ft. (6 squares)
+  - **Armor Class**: 16 (+3 Dex, +3 natural), touch 13, flat-footed 13
+  - **Base Attack**: +1; **CMB**: +3; **CMD**: 16
+  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +4 melee (1d4+2/19–20) or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d6/×3)
+  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +4 melee (1d4+2/19–20); or [[rangoric-srd/equipment/weapons/Shortbow|shortbow]] +4 ranged (1d6/×3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Trample|Trample]]
-  - **Special Qualities**: Jump, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +1, Ref +6, Will +6
-  - **Abilities**: Str 9, Dex 13, Con 10, Int 12, Wis 15, Cha 14
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +6, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Temperate forests and hills
-  - **Organization**: Solitary, band (2–5), troop (6–11), or rade (12–20 plus 1 satyr and 1d10 korreds)
-  - **Challenge Rating**: 2
-  - **Treasure**: Standard
-  - **Alignment**: Usually neutral
-  - **Advancement**: 5–10 HD (Medium)
+  - **Special Attacks**: Panpipes, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 2/cold iron
+  - **Saves**: Fort +2, Ref +6, Will +5
+  - **Abilities**: Str 14, Dex 16, Con 13, Int 11, Wis 14, Cha 17
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +4, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +9
+  - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+  - **Environment**: Temperate forests
+  - **Organization**: Solitary, pair, or band (3–8)
+  - **Challenge Rating**: 1
+  - **Treasure**: Standard (dagger, shortbow with 20 arrows, masterwork panpipes, other treasure)
+  - **Alignment**: Usually chaotic good
+  - **Advancement**: —
+  - **Level Adjustment**: —
 
-Fauns are similar to standard [[rangoric-srd/monsters/Satyr|satyrs]] in appearance, but instead of the legs and horns of a goat they are of a deer or stag. While the features of a satyr are described as human-like, those of faun are distinctly elf-like, resulting in a slimmer and fairer humanoid torso. Fauns are not as boisterous as their satyr and [[rangoric-srd/monsters/Korred|korred]] cousins, but they still enjoy music and good food and drink.
+Often mistaken for satyrs, fauns are far more benevolent than their unpredictable cousins. Many people use the two names interchangeably, a fact that irritates both fauns and satyrs. The vast majority of fauns are male, although unlike satyrs, females of this species do exist—they're simply less common than male fauns.
 
-#### Combat
+While satyrs breeding with their seduced victims always produce full-blooded satyrs, fauns are the result of a willing pairing between satyrs and goodly fey or kindhearted humanoids such as humans or elves. Even in this case, the babies of such unions are usually stolen away and raised by their fey parent or some other sylvan foster family.
 
-While the timid fauns are more apt to simply flee rather than fight, they can use their powerful legs in combat when forced to do so. Even so, their primary purposes in fights tend to be to protect their young and their mates or to stun an opponent and then escape.
+Like satyrs, fauns enjoy wine, music, dancing, nature, and carnal pleasures. Gentle hedonists, fauns also have a dedicated connection to the countryside, helping hardworking humanoids who make peace with the land and take little more than they need. They help these frontier folk by fighting off significant threats and keeping less savory fey creatures away from their settlements. While they prefer to go unnoticed, in dire times a band of fauns may present themselves to villagers to warn their neighbors of an upcoming threat.
 
-**Jump (Ex)**: A faun jumps and leaps as if it had an 18 Strength and can at will simulate the effects of a *[[rangoric-srd/spells/Jump (Spell)|jump]]* spell.
+Fauns find nymphs exceptionally attractive, more so than all others who dare view them. Nymphs find beauty in fauns' good nature and steadfast dedication to the natural world, and often humor their advances before almost accidentally falling in love with them.
 
-**[[rangoric-srd/monsters/abilities/Scent|Scent]] (Ex)**: A faun can smell approaching attackers within 30 feet.
+As tall as a human, a faun stands on stark white goat legs and has short horns protruding from its head. It also has a short tail that swishes playfully when it is excited or entertained, and its hair falls gracefully around its horns and ears. Its humanoid torso is always lithe but chiseled because of its constant activity and play—fauns rarely laze about too long. Fauns stand nearly 6 feet tall and weigh little more than 150 pounds.
 
-**[[rangoric-srd/monsters/abilities/Trample|Trample]] (Ex)**: A faun’s powerful hind legs allow it, when fleeing a battle, to move up to its full speed and inflict double its normal hoof damage to any creatures of small or lesser sizes.
+Fauns speak Common and Sylvan.
 
-#### Treasure
+A different fey also called a faun is the [[rangoric-srd/monsters/Lesser Satyr|lesser satyr]].
 
-Fauns collect treasure and items that are easily transported, so large items or pieces of art are seldom found in their possession. They tend to avoid most treasures save easily transported objects. Their primary concern for collecting treasures is to be able to give gifts to fey friends who help protect them and their herds from harm or disturbance.
+### Combat
+
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 3rd; concentration +6): At will—*[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 13); 1/day—*[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 15), *[[rangoric-srd/spells/Sleep|sleep]]* (DC 14).
+
+**Panpipes (Su)**: Three times per day, a faun can use its masterwork panpipes to augment its spell-like abilities. Doing so is a swift action that increases the DC of the next spell-like ability it uses on its turn by +2.

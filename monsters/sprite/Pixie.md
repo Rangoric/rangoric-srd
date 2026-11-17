@@ -1,94 +1,95 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/sprite/Sprite|Sprite]]"
 size: "Small"
 creature-type: "Fey"
-hit-dice: "1d6 (3 hp)"
-initiative: "+4"
+hit-dice: "4d6+4 (18 hp)"
+initiative: "+5"
 speed: "20 ft. (4 squares), fly 60 ft. (good)"
-armor-class: "16 (+1 size, +4 Dex, +1 natural), touch 15, flat-footed 12"
-base-attack: "+0"
-cmb: "–3"
-cmd: "12"
-attack: "Short sword +5 melee (1d4–2/19–20) or longbow +5 ranged (1d6–2/x3)"
-full-attack: "Short sword +5 melee (1d4–2/19–20) or longbow +5 ranged (1d6–2)/x3"
+armor-class: "18 (+5 Dex, +1 dodge, +1 natural, +1 size), touch 17, flat-footed 12"
+base-attack: "+2"
+cmb: "–1"
+cmd: "15"
+attack: "Short sword +8 melee (1d4–2/19–20) or longbow +8 ranged (1d6–2/×3)"
+full-attack: "Short sword +8 melee (1d4–2/19–20); or longbow +8 ranged (1d6–2/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Spell-like abilities, special arrows"
-special-qualities: "Damage reduction 10/cold iron, greater invisibility, low-light vision, spell resistance 15"
-saves: "Fort +0, Ref +6, Will +4"
-abilities: "Str 7, Dex 18, Con 11, Int 16, Wis 15, Cha 16"
-skills: "Animal Handling +7 (+8 riding), Deception +7, Escape Artist +8, Perception +11, Investigation +9, Sense Motive +6, Stealth +12"
-skill-ranks: "Animal Handling 1, Deception 1, Escape Artist 1, Investigation 1, Perception 1, Sense Motive 1, Stealth 1"
-feats: "Dodge (B), Skill Focus (Perception), Weapon Finesse (B)"
+special-attacks: "Special arrows, spell-like abilities"
+special-qualities: "Low-light vision, invisibility, damage reduction 10/cold iron, spell resistance 15"
+saves: "Fort +2, Ref +9, Will +6"
+abilities: "Str 7, Dex 21, Con 12, Int 16, Wis 15, Cha 16"
+skills: "Acrobatics +18, Deception +10, Emulation +10, Escape Artist +12, Nature +10, Perception +9, Sense Motive +9, Stealth +16"
+skill-ranks: "Acrobatics 8, Deception 4, Emulation 4, Escape Artist 4, Nature 4, Perception 4, Sense Motive 4, Stealth 4"
+feats: "Dodge, Weapon Finesse"
 environment: "Temperate forests"
-organization: "Gang (2–4), band (6–11), or tribe (20–80)"
-challenge-rating: "4 (5 with irresistible dance)"
-treasure: "No coins; 50% goods; 50% items"
+organization: "Solitary, gang (2–4), band (6–11), or tribe (20–80)"
+challenge-rating: 4
+treasure: "Standard"
 alignment: "Always neutral good"
 advancement: "2–3 HD (Small)"
 level-adjustment: "+4 (+6 with irresistible dance)"
+group: "[[rangoric-srd/monsters/sprite/Sprite|Sprite]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Pixie|Pixie (PF1)]]"
   - "[[fantasy srd 3.5/monsters/sprite/Pixie|Pixie (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Pixie
 
   - Small [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 1d6 (3 hp)
-  - **Initiative**: +4
+  - **Hit Dice**: 4d6+4 (18 hp)
+  - **Initiative**: +5
   - **Speed**: 20 ft. (4 squares), fly 60 ft. (good)
-  - **Armor Class**: 16 (+1 size, +4 Dex, +1 natural), touch 15, flat-footed 12
-  - **Base Attack**: +0; **CMB**: –3; **CMD**: 12
-  - **Attack**: Short sword +5 melee (1d4–2/19–20) or longbow +5 ranged (1d6–2/x3)
-  - **Full Attack**: Short sword +5 melee (1d4–2/19–20) or longbow +5 ranged (1d6–2)/x3
+  - **Armor Class**: 18 (+5 Dex, +1 dodge, +1 natural, +1 size), touch 17, flat-footed 12
+  - **Base Attack**: +2; **CMB**: –1; **CMD**: 15
+  - **Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +8 melee (1d4–2/19–20) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +8 ranged (1d6–2/×3)
+  - **Full Attack**: [[rangoric-srd/equipment/weapons/Short Sword|Short sword]] +8 melee (1d4–2/19–20); or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +8 ranged (1d6–2/×3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Spell-like abilities, special arrows
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-  - **Saves**: Fort +0, Ref +6, Will +4
-  - **Abilities**: Str 7, Dex 18, Con 11, Int 16, Wis 15, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7 (+8 riding), [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +8, [[rangoric-srd/skills/Investigation|Investigation]] +9, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Unspent Skill Points**: 2
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse (B)]]
+  - **Special Attacks**: Special arrows, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], invisibility, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
+  - **Saves**: Fort +2, Ref +9, Will +6
+  - **Abilities**: Str 7, Dex 21, Con 12, Int 16, Wis 15, Cha 16
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +18, [[rangoric-srd/skills/Deception|Deception]] +10, [[rangoric-srd/skills/Emulation|Emulation]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +16
+  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Temperate forests
-  - **Organization**: Gang (2–4), band (6–11), or tribe (20–80)
-  - **Challenge Rating**: 4 (5 with irresistible dance)
-  - **Treasure**: No coins; 50% goods; 50% items
+  - **Organization**: Solitary, gang (2–4), band (6–11), or tribe (20–80)
+  - **Challenge Rating**: 4
+  - **Treasure**: Standard
   - **Alignment**: Always neutral good
   - **Advancement**: 2–3 HD (Small)
   - **Level Adjustment**: +4 (+6 with irresistible dance)
 
-Pixies wear bright clothing, often including a cap and shoes with curled and pointed toes.
+Perhaps the best-known and most elusive of all fey creatures, pixies live in the deepest, most pristine forests, but their insatiable curiosity often leads them far from home. Most pixies stand just over 2 feet tall—though they typically fly about the eye level of creatures they're conversing with in order to maintain eye contact—and weigh about 30 pounds. Pixies talk quickly and easily become overexcited.
 
-A pixie stands about 2-1/2 feet tall and weighs about 30 pounds.
+Strange beings both of and beyond the natural world, pixies have magic that occasionally favors them in strange ways. For example, one out of every 10 pixies exhibits an additional spell-like ability that it can use once per day (caster level 8th), usually *[[rangoric-srd/spells/Baleful Polymorph|baleful polymorph]]*, *[[rangoric-srd/spells/Beast Shape II|beast shape II]]* (Tiny creatures only), or even a powerful spell like *[[rangoric-srd/spells/Irresistible Dance|irresistible dance]]*. Alternatively, you can change the types of effects that pixie dust can have on arrows—as a general rule, these alternate effects should be mind-affecting effects. *[[rangoric-srd/spells/Confusion|Confusion]]*, *[[rangoric-srd/spells/Fear|fear]]*, *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]*, and *[[rangoric-srd/spells/Hypnotism|hypnotism]]* are all good choices for variant pixie arrow powers. You should take care when assigning alternate powers to a pixie, though, since doing so can create a threat that far exceeds what their physical statistics (and relatively low CR) can logically support.
+
+Pixies wear bright clothing, often including a cap and shoes with curled and pointed toes.
 
 Pixies speak Sylvan and Common, and may know other languages as well.
 
-## Combat
+### Combat
 
-The normally carefree pixies ferociously attack evil creatures and unwanted intruders. They take full advantage of their [[rangoric-srd/spells/Invisibility, Greater|invisibility]] and other abilities to harass and drive away opponents.
+The normally carefree pixies ferociously attack evil creatures and unwanted intruders. They take full advantage of their [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisibility]] and other abilities to harass and drive away opponents.
 
-**Greater Invisibility (Su)**: A pixie remains [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] even when it attacks. This ability is constant, but the pixie can suppress or resume it as a free action.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): Constant—*[[rangoric-srd/spells/Detect Chaos|detect chaos]], [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Law|detect law]]*; 1/day—*[[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* (DC 15), *[[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Entangle|entangle]]* (DC 14), *[[rangoric-srd/spells/Confusion, Lesser|lesser confusion]]* (DC 14), *[[rangoric-srd/spells/Permanent Image|permanent image]]* (DC 19; visual and auditory elements only), *[[rangoric-srd/spells/Shield|shield]]*.
 
-**Spell-Like Abilities**: Caster level 8th. The save DCs are Charisma-based.  
+**Invisibility (Su)**: A pixie remains invisible even when it attacks. This ability is constant, but the pixie can suppress or resume it as a free action.
 
-1/day - [[rangoric-srd/spells/Confusion, Lesser|lesser confusion]] (DC 14), [[rangoric-srd/spells/Dancing Lights|dancing lights]], [[rangoric-srd/spells/Detect Chaos|detect chaos]], [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Law|detect law]], [[rangoric-srd/spells/Detect Thoughts|detect thoughts]] (DC 15), [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Entangle|entangle]] (DC 14), [[rangoric-srd/spells/Permanent Image|permanent image]] (DC 19; visual and auditory elements only)
+**Special Arrows (Su)**: When a pixie fires an arrow from any bow, it can decide to change the arrow's properties by sprinkling it with magical pixie dust. Doing so is a free action as long as the pixie is the one who fires the arrow. A pixie can generate a number of uses of dust equal to its Charisma score each day (16 uses per day for most pixies)—the dust is useless to another creature unless the pixie gives the dust freely. In this case, the pixie chooses what effect the dust will have on an arrow when it is applied, and it takes a standard action to apply the dust to the arrow. Once pixie dust is applied to an arrow, the pixie's chosen effect persists on the arrow for only 1 round. As long as an arrow is altered in this way, it does not inflict damage when it hits—it only causes its new effect. A pixie can choose any one of the following three effects when dusting an arrow. Save DCs are Charisma-based.
 
-One pixie in ten can use [[rangoric-srd/spells/Irresistible Dance|irresistible dance]] (caster level 8th) once per day.
+*Charm*: The target must succeed on a DC 15 Will save or be affected as though by a *[[rangoric-srd/spells/Charm Monster|charm monster]]* spell for 10 minutes.
 
-**Special Arrows (Ex)**: Pixies sometimes employ arrows that deal no damage but can erase memory or put a creature to sleep.
+*Memory Loss*: The target must succeed on a DC 15 Will save or be affected by a *[[rangoric-srd/spells/Modify Memory|modify memory]]* spell (this effect can only eliminate the previous 5 minutes of memory—a pixie typically uses this ability to make the target forget it encountered the pixie so it won't chase the pixie when he flees).
 
-*Memory Loss*: An opponent struck by this arrow must succeed on a DC 15 Will save or lose all memory. The save DC is Charisma-based and includes a +2 racial bonus. The subject retains skills, languages, and class abilities but forgets everything else until he or she receives a [[rangoric-srd/spells/Heal (Spell)|heal]] spell or memory restoration with [[rangoric-srd/spells/Limited Wish|limited wish]], [[rangoric-srd/spells/Wish|wish]], or [[rangoric-srd/spells/Miracle|miracle]].
+*[[rangoric-srd/spells/Sleep|Sleep]]*: The target must succeed on a DC 15 Will save or fall asleep for 5 minutes.
 
-*Sleep*: Any opponent struck by this arrow, regardless of Hit Dice, must succeed on a DC 15 Fortitude save or be affected as though by a [[rangoric-srd/spells/Sleep|sleep]] spell. The save DC is Charisma-based and includes a +2 racial bonus.
+### Pixies as Characters
 
-## Pixies as Characters
-
-A pixie character exchanges its 1 HD of fey for its first class level.
+A pixie character begins with four levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]], which provide 4d6 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
 
 Pixie characters possess the following racial traits.
 
@@ -108,7 +109,7 @@ Pixie characters possess the following racial traits.
 
   - Special Attacks (see above): Spell-like abilities.
 
-  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, [[rangoric-srd/spells/Invisibility, Greater|greater invisibility]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 15 + class levels.
+  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, invisibility, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 15 + class levels.
 
   - Automatic Languages: Common, Sylvan. Bonus Languages: Elven, Gnome, Halfling.
 
