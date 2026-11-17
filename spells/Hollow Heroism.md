@@ -10,6 +10,7 @@ level:
   - "Blr 4"
   - "Brd 3"
   - "Inq 4"
+  - "Psy 4"
   - "Skd 3"
   - "Sor/Wiz 4"
   - "Sum 4"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting, Ruse\]*
 
-  - **Level**: Blr 4, Brd 3, Inq 4, Skd 3, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
+  - **Level**: Blr 4, Brd 3, Inq 4, Psy 4, Skd 3, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

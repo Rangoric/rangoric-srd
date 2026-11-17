@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Illusion 2"
+  - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Pattern) \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Illusion 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Illusion 2, Psy 2, Skd 2, Sor/Wiz 2
   - **Components**: V (Brd only), S, M; see text
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

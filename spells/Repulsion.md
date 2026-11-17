@@ -6,6 +6,7 @@ level:
   - "Clr 7"
   - "Inq 6"
   - "Protection 7"
+  - "Psy 7"
   - "Sor/Wiz 6"
   - "Sum 5"
   - "SumU 6"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 7, Inq 6, Protection 7, Sor/Wiz 6, Sum 5, SumU 6
+  - **Level**: Clr 7, Inq 6, Protection 7, Psy 7, Sor/Wiz 6, Sum 5, SumU 6
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: Up to 10 ft./level

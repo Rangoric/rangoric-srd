@@ -6,6 +6,7 @@ subschool: "Figment"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Psy 5"
   - "Sor/Wiz 5"
 casting-time: "10 minutes"
 range: "Close (25 ft. + 5 ft./2 levels)"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Mind-affecting\]*
 
-  - **Level**: Sor/Wiz 5
+  - **Level**: Psy 5, Sor/Wiz 5
   - **Components**: 
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

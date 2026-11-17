@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Travel 8"
   - "Wit 7"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 7, Travel 8, Wit 7
+  - **Level**: Psy 7, Sor/Wiz 7, Travel 8, Wit 7
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

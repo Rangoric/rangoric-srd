@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Alc 2"
   - "Brd 2"
+  - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Alc 2, Brd 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Brd 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

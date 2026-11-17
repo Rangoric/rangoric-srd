@@ -9,6 +9,7 @@ level:
   - "Animal 3"
   - "Drd 3"
   - "Hun 3"
+  - "Psy 4"
   - "Sha 3"
   - "Tot 3"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Animal 3, Drd 3, Hun 3, Sha 3, Tot 3
+  - **Level**: Animal 3, Drd 3, Hun 3, Psy 4, Sha 3, Tot 3
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

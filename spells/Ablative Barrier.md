@@ -9,6 +9,7 @@ level:
   - "Alc 2"
   - "Blr 2"
   - "Mag 2"
+  - "Psy 3"
   - "Sor/Wiz 3"
   - "Sum 2"
   - "SumU 3"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Alc 2, Blr 2, Mag 2, Sor/Wiz 3, Sum 2, SumU 3
+  - **Level**: Alc 2, Blr 2, Mag 2, Psy 3, Sor/Wiz 3, Sum 2, SumU 3
   - **Components**: V, S, M (a piece of metal cut from a shield)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

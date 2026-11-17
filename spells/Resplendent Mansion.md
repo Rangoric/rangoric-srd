@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Psy 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 9
+  - **Level**: Psy 9, Sor/Wiz 9
   - **Components**: V, S, F
   - **Casting Time**: 1 minute
   - **Range**: Long (400 ft. + 40 ft./level)

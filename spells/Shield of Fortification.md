@@ -6,6 +6,7 @@ level:
   - "Clr 2"
   - "Inq 1"
   - "Pal 1"
+  - "Psy 2"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 2, Inq 1, Pal 1
+  - **Level**: Clr 2, Inq 1, Pal 1, Psy 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

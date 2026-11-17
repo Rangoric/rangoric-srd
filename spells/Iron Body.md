@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Earth 8"
+  - "Psy 8"
   - "Sor/Wiz 8"
 components:
   - "V"
@@ -15,8 +16,8 @@ target: "You"
 duration: "1 min./level (D)"
 based-on:
   - "[[fantasy srd 3.5/spells/Iron Body|Iron Body (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Earth 8, Sor/Wiz 8
+  - **Level**: Earth 8, Psy 8, Sor/Wiz 8
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

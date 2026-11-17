@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Clr 9"
+  - "Psy 9"
   - "Sor/Wiz 9"
   - "Wit 9"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Clr 9, Sor/Wiz 9, Wit 9
+  - **Level**: Clr 9, Psy 9, Sor/Wiz 9, Wit 9
   - **Components**: V, S, F (a forked metal rod worth at least 500 gp)
   - **Casting Time**: 6 hours
   - **Range**: 0 ft.

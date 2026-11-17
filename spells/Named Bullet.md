@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Hun 3"
   - "Inq 4"
+  - "Psy 4"
   - "Rgr 3"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Hun 3, Inq 4, Rgr 3, Sor/Wiz 4, Wit 4
+  - **Level**: Hun 3, Inq 4, Psy 4, Rgr 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M/DF (an item from the selected creature or creature type)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

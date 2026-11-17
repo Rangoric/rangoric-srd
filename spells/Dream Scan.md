@@ -6,6 +6,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 6"
+  - "Psy 5"
   - "Skd 6"
   - "Sor/Wiz 6"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[MindAffecting\]*
 
-  - **Level**: Brd 6, Skd 6, Sor/Wiz 6
+  - **Level**: Brd 6, Psy 5, Skd 6, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Unlimited

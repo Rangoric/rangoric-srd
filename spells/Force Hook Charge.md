@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Blr 3"
   - "Mag 3"
+  - "Psy 4"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Blr 3, Mag 3
+  - **Level**: Blr 3, Mag 3, Psy 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 feet + 5 feet/2 levels)

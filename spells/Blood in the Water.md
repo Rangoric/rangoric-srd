@@ -5,6 +5,7 @@ school: "Necromancy"
 subschool: "Emotion"
 level:
   - "Clr 2"
+  - "Psy 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy (Emotion)*
 
-  - **Level**: Clr 2, Sor/Wiz 2
+  - **Level**: Clr 2, Psy 2, Sor/Wiz 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 20 ft.

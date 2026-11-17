@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Magic 9"
+  - "Psy 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -15,8 +16,8 @@ saving-throw: "Will negates (object)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Mage’s Disjunction|Mage’s Disjunction (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Magic 9, Sor/Wiz 9
+  - **Level**: Magic 9, Psy 9, Sor/Wiz 9
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

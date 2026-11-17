@@ -6,6 +6,7 @@ descriptor:
   - "Force"
 level:
   - "Mag 1"
+  - "Psy 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Force\]*
 
-  - **Level**: Mag 1, Sor/Wiz 1
+  - **Level**: Mag 1, Psy 1, Sor/Wiz 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

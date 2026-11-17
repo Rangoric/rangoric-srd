@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Psy 8"
   - "Sor/Wiz 8"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "Fortitude negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Temporal Stasis|Temporal Stasis (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 8
+  - **Level**: Psy 8, Sor/Wiz 8
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

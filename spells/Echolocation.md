@@ -9,6 +9,7 @@ level:
   - "Brd 4"
   - "Drd 4"
   - "Hun 4"
+  - "Psy 5"
   - "Skd 4"
   - "Sor/Wiz 5"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Sonic\]*
 
-  - **Level**: Alc 4, Brd 4, Drd 4, Hun 4, Skd 4, Sor/Wiz 5
+  - **Level**: Alc 4, Brd 4, Drd 4, Hun 4, Psy 5, Skd 4, Sor/Wiz 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

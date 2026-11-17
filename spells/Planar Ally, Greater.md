@@ -7,6 +7,7 @@ descriptor:
   - "see text for lesser planar ally"
 level:
   - "Clr 8"
+  - "Psy 8"
   - "Sha 8"
 effect: "Up to three called elementals or outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear."
 based-on:
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[see text for lesser planar ally\]*
 
-  - **Level**: Clr 8, Sha 8
+  - **Level**: Clr 8, Psy 8, Sha 8
   - **Effect**: Up to three called elementals or outsiders, totaling no more than 18 HD, no two of which can be more than 30 ft. apart when they appear.
 
 This spell functions like [[rangoric-srd/spells/Planar Ally, Lesser|lesser planar ally]], except that you may call a single creature of 18 HD or less, or up to three creatures of the same kind whose Hit Dice total no more than 18. The creatures agree to help you and request your return payment together.

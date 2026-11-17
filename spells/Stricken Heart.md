@@ -6,6 +6,7 @@ descriptor:
   - "Death"
 level:
   - "Inq 2"
+  - "Psy 2"
   - "Sha 3"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death\]*
 
-  - **Level**: Inq 2, Sha 3, Sor/Wiz 2, Wit 2
+  - **Level**: Inq 2, Psy 2, Sha 3, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

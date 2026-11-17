@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 1"
   - "Clr 1"
+  - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Brd 1, Clr 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Clr 1, Psy 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, M/DF (rabbit fur)
   - **Casting Time**: 1 standard action
   - **Range**: 50 ft.

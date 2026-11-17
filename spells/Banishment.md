@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 6"
   - "Inq 5"
+  - "Psy 7"
   - "Sha 6"
   - "Sor/Wiz 7"
   - "Sum 5"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 6, Inq 5, Sha 6, Sor/Wiz 7, Sum 5, SumU 6
+  - **Level**: Clr 6, Inq 5, Psy 7, Sha 6, Sor/Wiz 7, Sum 5, SumU 6
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

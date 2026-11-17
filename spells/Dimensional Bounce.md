@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Teleportation"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Sum 6"
   - "SumU 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Sor/Wiz 7, Sum 6, SumU 6, Wit 7
+  - **Level**: Psy 7, Sor/Wiz 7, Sum 6, SumU 6, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

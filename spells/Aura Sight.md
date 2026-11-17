@@ -6,6 +6,7 @@ level:
   - "Alc 3"
   - "Clr 3"
   - "Inq 4"
+  - "Psy 3"
   - "Sha 3"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 3, Clr 3, Inq 4, Sha 3, Sor/Wiz 3, Wit 3
+  - **Level**: Alc 3, Clr 3, Inq 4, Psy 3, Sha 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

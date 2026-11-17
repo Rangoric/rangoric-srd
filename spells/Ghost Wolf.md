@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Blr 4"
+  - "Psy 4"
   - "Sor/Wiz 4"
   - "Sum 2"
   - "SumU 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Blr 4, Sor/Wiz 4, Sum 2, SumU 2
+  - **Level**: Blr 4, Psy 4, Sor/Wiz 4, Sum 2, SumU 2
   - **Components**: V, S, F (dire wolf tooth)
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.

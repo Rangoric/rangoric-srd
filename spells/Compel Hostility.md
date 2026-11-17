@@ -11,6 +11,7 @@ level:
   - "Hun 1"
   - "Inq 1"
   - "Pal 1"
+  - "Psy 1"
   - "Rgr 1"
   - "Skd 1"
   - "Sum 1"
@@ -39,7 +40,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Brd 1, Clr 1, Hun 1, Inq 1, Pal 1, Rgr 1, Skd 1, Sum 1, SumU 1, Wit 1
+  - **Level**: Brd 1, Clr 1, Hun 1, Inq 1, Pal 1, Psy 1, Rgr 1, Skd 1, Sum 1, SumU 1, Wit 1
   - **Components**: V, S, M (a drop of your blood)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

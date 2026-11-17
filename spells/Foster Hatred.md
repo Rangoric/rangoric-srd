@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Apl 4"
   - "Inq 5"
+  - "Psy 6"
 components:
   - "S"
   - "DF"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion\]*
 
-  - **Level**: Apl 4, Inq 5
+  - **Level**: Apl 4, Inq 5, Psy 6
   - **Components**: S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

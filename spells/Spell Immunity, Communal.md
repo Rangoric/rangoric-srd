@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 5"
   - "Inq 5"
+  - "Psy 5"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 5, Inq 5
+  - **Level**: Clr 5, Inq 5, Psy 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

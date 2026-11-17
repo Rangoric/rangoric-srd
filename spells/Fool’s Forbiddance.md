@@ -6,6 +6,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 6"
+  - "Psy 8"
   - "Skd 6"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Mind-affecting\]*
 
-  - **Level**: Brd 6, Skd 6
+  - **Level**: Brd 6, Psy 8, Skd 6
   - **Components**: V, S, M (a ring of keys)
   - **Casting Time**: 1 standard action
   - **Range**: 10 ft.

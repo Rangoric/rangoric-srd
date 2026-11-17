@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 2"
   - "Pal 2"
+  - "Psy 2"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Clr 2, Pal 2
+  - **Level**: Clr 2, Pal 2, Psy 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -9,6 +9,7 @@ level:
   - "Apl 1"
   - "Brd 2"
   - "Inq 2"
+  - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Apl 1, Brd 2, Inq 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Apl 1, Brd 2, Inq 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 5 ft.

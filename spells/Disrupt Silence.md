@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Clr 3"
   - "Inq 3"
+  - "Psy 3"
   - "Skd 2"
 components:
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 2, Clr 3, Inq 3, Skd 2
+  - **Level**: Brd 2, Clr 3, Inq 3, Psy 3, Skd 2
   - **Components**: S, M (tiny silver bell, chime, or gong)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

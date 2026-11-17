@@ -7,6 +7,7 @@ descriptor:
   - "Curse"
   - "Mind-affecting"
 level:
+  - "Psy 1"
   - "Wit 1"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Curse, Mind-affecting\]*
 
-  - **Level**: Wit 1
+  - **Level**: Psy 1, Wit 1
   - **Components**: V, S, M (hair from a black cat)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

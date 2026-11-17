@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-Affecting"
 level:
+  - "Psy 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 5, Wit 5
+  - **Level**: Psy 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

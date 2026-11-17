@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 1"
   - "Enchantment 2"
+  - "Psy 2"
   - "Skd 1"
   - "Sor/Wiz 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 1, Enchantment 2, Skd 1, Sor/Wiz 2
+  - **Level**: Brd 1, Enchantment 2, Psy 2, Skd 1, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

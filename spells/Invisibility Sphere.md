@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 3"
+  - "Psy 3"
   - "Skd 3"
   - "Sor/Wiz 3"
   - "SumU 3"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 3, SumU 3
+  - **Level**: Brd 3, Psy 3, Skd 3, Sor/Wiz 3, SumU 3
   - **Components**: V, S, M
   - **Area**: 10-ft.-radius emanation around the creature or object touched
 

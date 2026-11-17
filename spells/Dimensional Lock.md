@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 8"
+  - "Psy 8"
   - "Sor/Wiz 8"
   - "Sum 6"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 8, Sor/Wiz 8, Sum 6
+  - **Level**: Clr 8, Psy 8, Sor/Wiz 8, Sum 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 3"
+  - "Psy 3"
   - "Skd 3"
   - "Sor/Wiz 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Pattern) \[Mind-affecting\]*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Psy 3, Skd 3, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

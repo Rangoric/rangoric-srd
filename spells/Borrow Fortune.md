@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Ora 3"
+  - "Psy 3"
 components:
   - "V"
 casting-time: "1 immediate action"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Ora 3
+  - **Level**: Ora 3, Psy 3
   - **Components**: V
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

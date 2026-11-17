@@ -8,6 +8,7 @@ level:
   - "Clr 6"
   - "Good 6"
   - "Inq 6"
+  - "Psy 6"
   - "War 6"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Clr 6, Good 6, Inq 6, War 6
+  - **Level**: Clr 6, Good 6, Inq 6, Psy 6, War 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -8,6 +8,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Clr 4"
+  - "Psy 4"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Emotion, Fear, Mind-affecting\]*
 
-  - **Level**: Clr 4
+  - **Level**: Clr 4, Psy 4
   - **Components**: V, S, M/DF (powdered bone)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

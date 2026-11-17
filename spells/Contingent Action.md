@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Brd 2"
+  - "Psy 3"
   - "Skd 2"
   - "Sor/Wiz 2"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Brd 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Psy 3, Skd 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Close (25 ft. + 5 ft./2 levels)

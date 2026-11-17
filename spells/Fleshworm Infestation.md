@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Clr 4"
   - "Inq 4"
+  - "Psy 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[Evil\]*
 
-  - **Level**: Clr 4, Inq 4, Sor/Wiz 4, Wit 4
+  - **Level**: Clr 4, Inq 4, Psy 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

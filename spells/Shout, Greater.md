@@ -6,6 +6,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 6"
+  - "Psy 8"
   - "Skd 6"
   - "Sor/Wiz 8"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Brd 6, Skd 6, Sor/Wiz 8
+  - **Level**: Brd 6, Psy 8, Skd 6, Sor/Wiz 8
   - **Components**: V, S, F
   - **Range**: 60 ft.
   - **Saving Throw**: Fortitude partial or Reflex negates (object); see text

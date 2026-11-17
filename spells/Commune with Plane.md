@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Clr 5"
   - "Hun 4"
+  - "Psy 5"
   - "Rgr 4"
   - "Sum 5"
   - "SumU 5"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 5, Hun 4, Rgr 4, Sum 5, SumU 5, Wit 5
+  - **Level**: Clr 5, Hun 4, Psy 5, Rgr 4, Sum 5, SumU 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Personal

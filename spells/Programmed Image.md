@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Figment"
 level:
   - "Brd 6"
+  - "Psy 6"
   - "Skd 6"
   - "Sor/Wiz 6"
 effect: "Visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 6, Skd 6, Sor/Wiz 6
+  - **Level**: Brd 6, Psy 6, Skd 6, Sor/Wiz 6
   - **Effect**: Visual figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)
   - **Duration**: Permanent until triggered, then 1 round/level
 

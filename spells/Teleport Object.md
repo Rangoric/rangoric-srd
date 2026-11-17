@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Teleportation"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Wit 7"
 range: "Touch"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Sor/Wiz 7, Wit 7
+  - **Level**: Psy 7, Sor/Wiz 7, Wit 7
   - **Range**: Touch
   - **Target**: One touched object of up to 50 lb./level and 3 cu. ft./level
   - **Saving Throw**: Will negates (object)

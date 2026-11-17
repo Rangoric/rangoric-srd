@@ -6,6 +6,7 @@ level:
   - "Alc 4"
   - "Apl 4"
   - "Hun 4"
+  - "Psy 4"
   - "Rgr 4"
   - "Sor/Wiz 4"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 4, Apl 4, Hun 4, Rgr 4, Sor/Wiz 4
+  - **Level**: Alc 4, Apl 4, Hun 4, Psy 4, Rgr 4, Sor/Wiz 4
   - **Components**: V, S, M (either a pinch of dried carrot or an agate)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

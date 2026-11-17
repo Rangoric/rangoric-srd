@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Blr 4"
   - "Mag 4"
+  - "Psy 4"
   - "Sor/Wiz 4"
   - "Sum 3"
   - "SumU 4"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 4, Mag 4, Sor/Wiz 4, Sum 3, SumU 4
+  - **Level**: Blr 4, Mag 4, Psy 4, Sor/Wiz 4, Sum 3, SumU 4
   - **Target**: One humanoid creature/level, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Reduce Person|reduce person]], except that it affects multiple creatures.

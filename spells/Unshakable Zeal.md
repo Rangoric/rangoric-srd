@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 5"
   - "Inq 6"
+  - "Psy 7"
   - "Skd 5"
 components:
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, MindAffecting\]*
 
-  - **Level**: Brd 5, Inq 6, Skd 5
+  - **Level**: Brd 5, Inq 6, Psy 7, Skd 5
   - **Components**: S, F
   - **Casting Time**: 1 standard action
   - **Range**: Touch

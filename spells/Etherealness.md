@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 9"
+  - "Psy 8"
   - "Sha 9"
   - "Sor/Wiz 9"
 range: "Touch; see text"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 9, Sha 9, Sor/Wiz 9
+  - **Level**: Clr 9, Psy 8, Sha 9, Sor/Wiz 9
   - **Range**: Touch; see text
   - **Targets**: You and one other touched creature per three levels
   - **Duration**: 1 min./level (D)

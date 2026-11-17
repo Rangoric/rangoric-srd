@@ -5,6 +5,7 @@ school: "Evocation"
 level:
   - "Clr 9"
   - "Destruction 9"
+  - "Psy 9"
 components:
   - "V"
   - "S"
@@ -16,8 +17,8 @@ saving-throw: "Fortitude negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Implosion|Implosion (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 9, Destruction 9
+  - **Level**: Clr 9, Destruction 9, Psy 9
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

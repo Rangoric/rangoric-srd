@@ -8,6 +8,7 @@ level:
   - "Hun 2"
   - "Inq 2"
   - "Pal 2"
+  - "Psy 2"
   - "Rgr 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Apl 2, Brd 2, Hun 2, Inq 2, Pal 2, Rgr 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Apl 2, Brd 2, Hun 2, Inq 2, Pal 2, Psy 2, Rgr 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, F (one to four adamantine bullets, each worth 61 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

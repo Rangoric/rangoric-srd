@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Figment"
 level:
   - "Brd 5"
+  - "Psy 5"
   - "Skd 5"
   - "Sor/Wiz 5"
 duration: "1 min./level (D)"
@@ -20,7 +21,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 5, Skd 5, Sor/Wiz 5
+  - **Level**: Brd 5, Psy 5, Skd 5, Sor/Wiz 5
   - **Duration**: 1 min./level (D)
 
 This spell functions like [[rangoric-srd/spells/Spells S|silent image]], except that the figment includes visual, auditory, olfactory, and thermal components, and the figment follows a script determined by you. The figment follows that script without your having to concentrate on it. The illusion can include intelligible speech if you wish.

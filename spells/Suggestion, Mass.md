@@ -8,6 +8,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 5"
+  - "Psy 5"
   - "Skd 5"
   - "Sor/Wiz 6"
   - "Wit 6"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Brd 5, Skd 5, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 5, Psy 5, Skd 5, Sor/Wiz 6, Wit 6
   - **Range**: Medium (100 ft. + 10 ft./level)
   - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
 

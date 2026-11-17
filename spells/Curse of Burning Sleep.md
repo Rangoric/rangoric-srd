@@ -6,6 +6,7 @@ descriptor:
   - "Curse"
   - "Fire"
 level:
+  - "Psy 4"
   - "Sha 4"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Curse, Fire\]*
 
-  - **Level**: Sha 4, Sor/Wiz 4, Wit 4
+  - **Level**: Psy 4, Sha 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (a feather and a drop of oil)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Brd 4"
   - "Clr 5"
+  - "Psy 4"
   - "Skd 4"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Brd 4, Clr 5, Skd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 4, Clr 5, Psy 4, Skd 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

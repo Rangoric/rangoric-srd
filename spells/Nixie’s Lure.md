@@ -10,6 +10,7 @@ level:
   - "Brd 4"
   - "Drd 3"
   - "Hun 3"
+  - "Psy 3"
   - "Skd 4"
   - "Sor/Wiz 3"
   - "Sum 4"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-affecting, Sonic\]*
 
-  - **Level**: Brd 4, Drd 3, Hun 3, Skd 4, Sor/Wiz 3, Sum 4, SumU 4, Wit 3
+  - **Level**: Brd 4, Drd 3, Hun 3, Psy 3, Skd 4, Sor/Wiz 3, Sum 4, SumU 4, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 300 ft.

@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Luck 7"
   - "Magic 7"
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Sum 5"
   - "SumU 6"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Luck 7, Magic 7, Sor/Wiz 7, Sum 5, SumU 6
+  - **Level**: Luck 7, Magic 7, Psy 7, Sor/Wiz 7, Sum 5, SumU 6
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

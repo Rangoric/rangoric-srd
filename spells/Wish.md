@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Universal"
 level:
+  - "Psy 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Universal*
 
-  - **Level**: Sor/Wiz 9
+  - **Level**: Psy 9, Sor/Wiz 9
   - **Components**: V, XP
   - **Casting Time**: 1 standard action
   - **Range**: See text

@@ -8,6 +8,7 @@ level:
   - "Clr 3"
   - "Drd 3"
   - "Hun 3"
+  - "Psy 3"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Clr 3, Drd 3, Hun 3
+  - **Level**: Clr 3, Drd 3, Hun 3, Psy 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

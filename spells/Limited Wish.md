@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Universal"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "None; see text"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Limited Wish|Limited Wish (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Universal*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Psy 7, Sor/Wiz 7
   - **Components**: V, S, XP
   - **Casting Time**: 1 standard action
   - **Range**: See text

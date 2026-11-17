@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 5"
+  - "Psy 5"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 5, Sor/Wiz 5
+  - **Level**: Clr 5, Psy 5, Sor/Wiz 5
   - **Components**: V, S, M (jacinth worth 1,000 gp)
   - **Casting Time**: 30 minutes
   - **Range**: Touch

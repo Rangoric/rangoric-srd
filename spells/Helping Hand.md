@@ -4,6 +4,7 @@ section: "Spells"
 school: "Evocation"
 level:
   - "Clr 3"
+  - "Psy 3"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 3
+  - **Level**: Clr 3, Psy 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 5 miles

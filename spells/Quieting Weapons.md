@@ -9,6 +9,7 @@ level:
   - "Hun 3"
   - "Inq 4"
   - "Mag 4"
+  - "Psy 4"
   - "Rgr 3"
   - "Skd 4"
   - "Sor/Wiz 4"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 4, Clr 4, Hun 3, Inq 4, Mag 4, Rgr 3, Skd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Clr 4, Hun 3, Inq 4, Mag 4, Psy 4, Rgr 3, Skd 4, Sor/Wiz 4
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

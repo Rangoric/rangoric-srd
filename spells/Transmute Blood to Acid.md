@@ -6,6 +6,7 @@ descriptor:
   - "Acid"
   - "Pain"
 level:
+  - "Psy 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Acid, Pain\]*
 
-  - **Level**: Sor/Wiz 9
+  - **Level**: Psy 9, Sor/Wiz 9
   - **Components**: V, S, M (a wax doll and a vial of acid worth 10 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

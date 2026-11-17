@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Psy 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 2, Wit 2
+  - **Level**: Psy 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Touch

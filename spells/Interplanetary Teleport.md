@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Clr 9"
+  - "Psy 9"
   - "Sor/Wiz 9"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Clr 9, Sor/Wiz 9
+  - **Level**: Clr 9, Psy 9, Sor/Wiz 9
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal and touch

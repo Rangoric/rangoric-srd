@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Figment"
 level:
+  - "Psy 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -16,8 +17,8 @@ saving-throw: "Will disbelief (if interacted with)"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Illusory Wall|Illusory Wall (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Psy 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

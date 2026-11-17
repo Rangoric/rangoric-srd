@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 9"
+  - "Psy 9"
   - "Sor/Wiz 9"
   - "Travel 9"
   - "Wit 9"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 9, Sor/Wiz 9, Travel 9, Wit 9
+  - **Level**: Clr 9, Psy 9, Sor/Wiz 9, Travel 9, Wit 9
   - **Components**: V, S, M
   - **Casting Time**: 30 minutes
   - **Range**: Touch

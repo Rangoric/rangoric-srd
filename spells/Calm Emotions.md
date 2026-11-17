@@ -10,6 +10,7 @@ level:
   - "Clr 2"
   - "Inq 2"
   - "Law 2"
+  - "Psy 2"
   - "Sha 2"
   - "Skd 2"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 2, Clr 2, Inq 2, Law 2, Sha 2, Skd 2
+  - **Level**: Brd 2, Clr 2, Inq 2, Law 2, Psy 2, Sha 2, Skd 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

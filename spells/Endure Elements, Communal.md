@@ -8,6 +8,7 @@ level:
   - "Drd 2"
   - "Hun 2"
   - "Pal 2"
+  - "Psy 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 3, Clr 2, Drd 2, Hun 2, Pal 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Alc 3, Clr 2, Drd 2, Hun 2, Pal 2, Psy 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

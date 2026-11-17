@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Psy 3"
   - "Sor/Wiz 3"
   - "Sum 3"
   - "SumU 3"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 3, Sum 3, SumU 3
+  - **Level**: Psy 3, Sor/Wiz 3, Sum 3, SumU 3
   - **Components**: V, S, M (a chameleon scale)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

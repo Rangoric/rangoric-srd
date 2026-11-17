@@ -7,6 +7,7 @@ descriptor:
   - "see text"
 level:
   - "Clr 4"
+  - "Psy 4"
   - "Sha 4"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[see text\]*
 
-  - **Level**: Clr 4, Sha 4
+  - **Level**: Clr 4, Psy 4, Sha 4
   - **Components**: V, S, DF, XP
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

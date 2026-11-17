@@ -6,6 +6,7 @@ subschool: "Creation"
 descriptor:
   - "Force"
 level:
+  - "Psy 2"
   - "Sor/Wiz 2"
   - "Sum 2"
   - "SumU 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Sor/Wiz 2, Sum 2, SumU 2
+  - **Level**: Psy 2, Sor/Wiz 2, Sum 2, SumU 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

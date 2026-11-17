@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 1"
   - "Luck 1"
+  - "Psy 1"
 components:
   - "V"
   - "S"
@@ -14,8 +15,8 @@ target: "You"
 duration: "1 min./level (D)"
 based-on:
   - "[[fantasy srd 3.5/spells/Entropic Shield|Entropic Shield (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 1, Luck 1
+  - **Level**: Clr 1, Luck 1, Psy 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

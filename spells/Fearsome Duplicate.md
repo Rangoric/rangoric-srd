@@ -6,6 +6,7 @@ subschool: "Figment"
 level:
   - "Brd 3"
   - "Inq 3"
+  - "Psy 3"
   - "Skd 3"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 3, Inq 3, Skd 3, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 3, Inq 3, Psy 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

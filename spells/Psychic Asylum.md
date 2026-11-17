@@ -6,6 +6,7 @@ subschool: "Phantasm"
 descriptor:
   - "MindAffecting"
 level:
+  - "Psy 5"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[MindAffecting\]*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Psy 5, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 swift action
   - **Range**: Personal

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 subschool: "Scrying"
 level:
+  - "Psy 3"
   - "Sor/Wiz 4"
   - "Wit 3"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Sor/Wiz 4, Wit 3
+  - **Level**: Psy 3, Sor/Wiz 4, Wit 3
   - **Components**: V, S, M (a hair, scale, or feather from your familiar)
   - **Casting Time**: 1 full round
   - **Range**: Long (400 ft. + 40 ft./level)

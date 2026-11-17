@@ -7,6 +7,7 @@ level:
   - "Alc 2"
   - "Apl 3"
   - "Clr 2"
+  - "Psy 2"
   - "Sor/Wiz 3"
   - "Wit 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 2, Apl 3, Clr 2, Sor/Wiz 3, Wit 2
+  - **Level**: Alc 2, Apl 3, Clr 2, Psy 2, Sor/Wiz 3, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch
