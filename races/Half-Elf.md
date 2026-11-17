@@ -151,3 +151,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/witch/Bonded Witch (Archetype)\|Bonded Witch]] | [[rangoric-srd/classes/Witch\|Witch]] |
+| [[rangoric-srd/class-options/archetypes/summoner/Wild Caller (Archetype)\|Wild Caller]] | [[rangoric-srd/classes/Summoner\|Summoner]] |

@@ -93,3 +93,11 @@ An oread can take any of these in place of the traits they replace (see [[rangor
 An oread gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Oread]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/summoner/Shaitan Binder (Archetype)\|Shaitan Binder]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
