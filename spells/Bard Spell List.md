@@ -108,7 +108,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Jitterbugs\|Jitterbugs]]: | You cause the target to perceive itself as being covered in creeping, crawling, stinging bugs. |
 | [[rangoric-srd/spells/Jury-Rig\|Jury-Rig]] (M): | Removes the broken condition from the targeted object. |
 | [[rangoric-srd/spells/Ki Arrow\|Ki Arrow]]: | Arrow deals damage as your unarmed strike. |
-| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Knowledge (nobility) ranks. |
+| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Society ranks. |
 | [[rangoric-srd/spells/Spells H to L\|Lesser Confusion]]:                | One creature is [[rangoric-srd/rules/Special Abilities and Conditions#^confused\|confused]] for 1 round. |
 | [[rangoric-srd/spells/Liberating Command\|Liberating Command]]: | Target makes an Escape Artist check as an immediate action and gains a bonus on it. |
 | [[rangoric-srd/spells/Lock Gaze\|Lock Gaze]]: | Compels the target to look only at you for the duration of the spell. |
@@ -234,7 +234,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Heroic Fortune\|Heroic Fortune]] (M): | Grants one hero point to a character |
 | [[rangoric-srd/spells/Heroism\|Heroism]]:                           | Gives +2 on attack rolls, saves, skill checks.                                                                                                                          |
 | [[rangoric-srd/spells/Hidden Presence\|Hidden Presence]] (M): | Prevent creatures from noticing your presence. |
-| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M): | Gain +10 on Bluff to send secret messages. |
+| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M): | Gain +10 on Deception to send secret messages. |
 | [[rangoric-srd/spells/Hold Person\|Hold Person]]:                   | Paralyzes one humanoid for 1 round/level.                                                                                                                               |
 | [[rangoric-srd/spells/Honeyed Tongue\|Honeyed Tongue]] (M): | Roll 2 dice when using Persuasion, take higher roll. |
 | [[rangoric-srd/spells/Hoodwink\|Hoodwink]] (M): | Distort all of the targets senses |

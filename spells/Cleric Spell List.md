@@ -174,7 +174,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/spells/Instant Armor\|Instant Armor]]: | Summon armor temporarily replacing your current attire. |
 | [[rangoric-srd/spells/Instrument of Agony\|Instrument of Agony]]: | Weapon exudes divine fury, granting a bonus on Intimidation checks. |
 | [[rangoric-srd/spells/Ironskin\|Ironskin]] (M): |  |
-| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Knowledge (nobility) ranks. |
+| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Society ranks. |
 | [[rangoric-srd/spells/Life Channel\|Life Channel]]: | When cast on a creature with negative energy affinity, the target is able to convert channeled positive energy into temporary hit points. |
 | [[rangoric-srd/spells/Life Pact\|Life Pact]] (M): | Affected creatures automatically donate hp to stabilize fallen ally. |
 | [[rangoric-srd/spells/Magic Boulder\|Magic Boulder]]: |  |

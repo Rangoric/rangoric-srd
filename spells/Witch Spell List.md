@@ -212,7 +212,7 @@ The spells a [[rangoric-srd/classes/Witch#^witch-spells|witch]] can learn. Her [
 | [[rangoric-srd/spells/Grasping Vine\|Grasping Vine]]: | Sprout a 20-ft long vine that can assist with numerous tasks. |
 | [[rangoric-srd/spells/Haunting Mists\|Haunting Mists]]: | Creatures are shaken and take Wis damage. |
 | [[rangoric-srd/spells/Hidden Presence\|Hidden Presence]] (M): | Prevent creatures from noticing your presence. |
-| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M): | Gain +10 on Bluff to send secret messages. |
+| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M): | Gain +10 on Deception to send secret messages. |
 | [[rangoric-srd/spells/Hold Person\|Hold Person]]: | Paralyzes one humanoid for 1 round/level. |
 | [[rangoric-srd/spells/Ice Slick\|Ice Slick]]: | Coat an area with thin ice, dealing cold damage and causing creatures to fall prone. |
 | [[rangoric-srd/spells/Inflict Moderate Wounds\|Inflict Moderate Wounds]]: | Touch attack, 2d8 damage +1/level (max +10). |

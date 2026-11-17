@@ -278,7 +278,7 @@ tags: [rangoric, rangoric/overview]
 |               | [[rangoric-srd/spells/Detect Magic, Greater\|Detect Magic, Greater]]: | As detect magic, but learn more information. |
 |               | [[rangoric-srd/spells/Detect Thoughts\|Detect Thoughts]]:               | Allows “listening” to surface thoughts.                                                                                                                                                     |
 |               | [[rangoric-srd/spells/Elemental Speech\|Elemental Speech]] (M): | Enables you to speak to elementals and some creatures. |
-|               | [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Knowledge (nobility) ranks. |
+|               | [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Society ranks. |
 |               | [[rangoric-srd/spells/Locate Object\|Locate Object]]:                   | Senses direction toward object (specific or type).                                                                                                                                          |
 |               | [[rangoric-srd/spells/Psychic Reading\|Psychic Reading]]: | Read surface thoughts to learn information about a subject. |
 |               | [[rangoric-srd/spells/Refracted Vision\|Refracted Vision]]: | Gain a distant viewpoint. |
