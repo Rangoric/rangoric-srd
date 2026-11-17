@@ -91,7 +91,7 @@ If a bonded object is damaged, it is restored to full hit points the next time t
 
 **Scribe Scroll**: At 1st level, a wizard gains [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]] as a bonus feat. ^wizard-scribe-scroll
 
-**Bonus Feats**: At 5th, 10th, 15th, and 20th level, a wizard gains a bonus feat. At each such opportunity, she can choose a metamagic feat, an item creation feat, or Spell Mastery. The wizard must still meet all prerequisites for a bonus feat, including caster level minimums.
+**Bonus Feats**: At 5th, 10th, 15th, and 20th level, a wizard gains a bonus feat. At each such opportunity, she can choose a metamagic feat, an item creation feat, or Spell Mastery. The wizard must still meet all prerequisites for a bonus feat, including caster level minimums. ^wizard-bonus-feats
 
 These bonus feats are in addition to the feat that a character of any class gets from advancing levels. The wizard is not limited to the categories of [[rangoric-srd/feats/Feats Item Creation|item creation feats]], [[rangoric-srd/feats/Feats Metamagic|metamagic feats]], or [[rangoric-srd/feats/Spell Mastery|Spell Mastery]] when choosing these feats.
 
@@ -100,6 +100,10 @@ These bonus feats are in addition to the feat that a character of any class gets
 **Spellbooks**: A wizard must study her spellbook each day to prepare her spells. She cannot prepare any spell not recorded in her spellbook, except for *[[rangoric-srd/spells/Read Magic|read magic]]*, which all wizards can prepare from memory. ^wizard-spellbooks
 
 A wizard begins play with a spellbook containing all 0-level wizard spells plus three 1st-level spells of your choice. For each point of Intelligence bonus the wizard has, the spellbook holds one additional 1st-level spell of your choice. At each new wizard level, she gains two new spells of any spell level or levels that she can cast (based on her new wizard level) for her spellbook. At any time, a wizard can also add spells found in other wizards’ spellbooks to her own.
+
+**Archetypes**: A wizard can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The wizard’s archetypes, with what each replaces: ^wizard-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Wizard]]
 
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The wizard’s class bonuses, by race: ^wizard-class-bonuses
 

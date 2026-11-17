@@ -163,3 +163,11 @@ Bundles of alternate traits for elves of a particular background.
 An elf gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Elf]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/wizard/Spellbinder (Archetype)\|Spellbinder]] | [[rangoric-srd/classes/Wizard\|Wizard]] |
