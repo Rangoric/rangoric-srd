@@ -31,7 +31,7 @@ As [[rangoric-srd/powers/Bend Reality|bend reality]], but with more farreaching 
 
   - Duplicate any psion power of 7th level or lower even if it’s a power prohibited to you.
 
-  - Undo the harmful effects of many other powers, such as [[rangoric-srd/powers/Microcosm|microcosm]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], or [[rangoric-srd/powers/Insanity (Power)|insanity]].
+  - Undo the harmful effects of many other powers, such as [[rangoric-srd/powers/Microcosm (Power)|microcosm]], [[rangoric-srd/spells/Geas-Quest|geas/quest]], or [[rangoric-srd/powers/Insanity (Power)|insanity]].
 
   - Create a nonpsionic item of up to 25,000 gp in value.
 

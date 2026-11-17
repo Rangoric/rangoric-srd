@@ -1,0 +1,37 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Abjuration"
+level:
+  - "Psy 5"
+components:
+  - "V"
+casting-time: "1 immediate action"
+range: "20 ft."
+area: "20-ft.-radius emanation centered on you"
+duration: "1 round"
+saving-throw: "None"
+spell-resistance: "Yes"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/spells/Intellect Fortress II|Intellect Fortress II (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/spell]
+---
+
+# Intellect Fortress II
+
+*Abjuration*
+
+  - **Level**: Psy 5
+  - **Components**: V
+  - **Casting Time**: 1 immediate action
+  - **Range**: 20 ft.
+  - **Area**: 20-ft.-radius emanation centered on you
+  - **Duration**: 1 round
+  - **Saving Throw**: None
+  - **Spell Resistance**: Yes
+
+This spell functions as *[[rangoric-srd/spells/Intellect Fortress I|intellect fortress I]]*, but in addition, any mind-affecting effects that deal damage have their damage reduced by half (before any reduction due to a successful save or other effect). This applies to both hit point damage and ability score damage. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

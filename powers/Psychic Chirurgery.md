@@ -37,11 +37,11 @@ Telepathy \[Mind-Affecting\]
 
 You can repair psychic damage or grant another creature knowledge of powers you know, depending on the version of this power you manifest.
 
-Repair Psychic Damage: You can remove any compulsions and charms affecting the subject. In fact, you can remove any instantaneous or permanent effect caused by a psychic power with psychic chirurgery. Unlike with [[rangoric-srd/powers/Aura Alteration|aura alteration]], these effects end or are negated as soon as this power is manifested, with no need for another saving throw.
+Repair Psychic Damage: You can remove any compulsions and charms affecting the subject. In fact, you can remove any instantaneous or permanent effect caused by a psychic power with psychic chirurgery. Unlike with [[rangoric-srd/powers/Aura Alteration (Power)|aura alteration]], these effects end or are negated as soon as this power is manifested, with no need for another saving throw.
 
 You can remove all [[rangoric-srd/rules/Special Abilities and Conditions#^negative-levels|negative levels]] affecting the subject, temporary and permanent, regardless of how it gained them.
 
-You can also remove all psionic effects penalizing the subject’s ability scores, heal all [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], and remove any [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]] affecting the subject. Psychic chirurgery negates all forms of insanity, confusion, the effect of such powers as [[rangoric-srd/powers/Microcosm|microcosm]], and so on.
+You can also remove all psionic effects penalizing the subject’s ability scores, heal all [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]], and remove any [[rangoric-srd/rules/Special Abilities and Conditions#^ability-drained|ability drain]] affecting the subject. Psychic chirurgery negates all forms of insanity, confusion, the effect of such powers as [[rangoric-srd/powers/Microcosm (Power)|microcosm]], and so on.
 
 Transfer Knowledge: If desired, you can use this power to directly transfer knowledge of a power you know to another psionic character. You can give a character knowledge of a power of any level that she can manifest, even if the power is not normally on the character’s power list. Knowledge of powers gained through psychic chirurgery does not count toward the maximum number of powers a character can know per level.
 

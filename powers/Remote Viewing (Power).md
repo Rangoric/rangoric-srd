@@ -1,6 +1,8 @@
 ---
 srd-type: "power"
 section: "Psionic Powers"
+aliases:
+  - "Remote Viewing"
 discipline: "Clairsentience"
 subdiscipline: "Scrying; see text"
 level:

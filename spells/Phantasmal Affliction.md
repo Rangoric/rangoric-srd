@@ -47,4 +47,4 @@ You cause the creature to believe she has a debilitating affliction. The target 
 
 Since the affliction exists entirely in the creature’s mind, phantasmal affliction is not affected by normal cures like neutralize poison or remove disease, or other effects like delay poison or the Medicine skill. Ordinary immunities do not apply in this case (though a creature immune to the affliction receives a +4 bonus on the Will save to disbelieve the illusion). Constitution damage from the affliction can’t kill the target. Instead, it causes the target to fall unconscious like other forms of ability damage. Phantasmal affliction is a spell effect and can be dispelled normally.
 
-Placebo effect counters and dispels phantasmal affliction.
+*[[rangoric-srd/spells/Placebo Effect|Placebo effect]]* counters and dispels phantasmal affliction.

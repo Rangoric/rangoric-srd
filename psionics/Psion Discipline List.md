@@ -68,7 +68,7 @@ tags: [rangoric, rangoric/overview]
 |       | [[rangoric-srd/powers/Teleport, Psionic\|Teleport, Psionic:]]                         | Instantly transports you as far as 100 miles/level.             |
 |       | [[rangoric-srd/powers/Teleport Trigger\|Teleport Trigger:]]                           | Predetermined event triggers teleport.                          |
 | 6     | [[rangoric-srd/powers/Banishment, Psionic\|Banishment, Psionic (A):]]                 | Banishes extraplanar creatures.                                 |
-| 7     | [[rangoric-srd/powers/Dream Travel\|Dream Travel (A):]]                               | Travel to other places through dreams.                          |
+| 7     | [[rangoric-srd/powers/Dream Travel (Power)\|Dream Travel (A):]]                               | Travel to other places through dreams.                          |
 |       | [[rangoric-srd/powers/Ethereal Jaunt, Psionic\|Ethereal Jaunt, Psionic:]]             | Become ethereal for 1 round/level.                              |
 | 8     | [[rangoric-srd/powers/Time Hop, Mass\|Time Hop, Mass (A):]]                           | Willing subjects hop forward in time.                           |
 | 9     | [[rangoric-srd/powers/Teleportation Circle, Psionic\|Teleportation Circle, Psionic:]] | Circle teleports any creatures inside to designated spot.       |
@@ -81,12 +81,12 @@ tags: [rangoric, rangoric/overview]
 | 1     | [[rangoric-srd/powers/Destiny Dissonance\|Destiny Dessonance:]]                                 | Your dissonant touch sickens a foe.                              |
 |       | [[rangoric-srd/powers/Precognition\|Precognition:]]                                             | Gain +2 insight bonus to one roll.                               |
 | 2     | [[rangoric-srd/powers/Clairvoyant Sense\|Clairvoyant Sense:]]                                   | See and hear a distant location.                                 |
-|       | [[rangoric-srd/powers/Object Reading\|Object Reading (A):]]                                     | Learn details about an object’s previous owner.                  |
+|       | [[rangoric-srd/powers/Object Reading (Power)\|Object Reading (A):]]                                     | Learn details about an object’s previous owner.                  |
 |       | [[rangoric-srd/powers/Sensitivity to Psychic Impressions\|Sensitivity to Psychic Impressions:]] | You can find out about an area’s past.                           |
 | 3     | [[rangoric-srd/powers/Escape Detection\|Escape Detection:]]                                     | You become difficult to detect with clairsentience powers.       |
 |       | [[rangoric-srd/powers/Fate Link\|Fate Link (A):]]                                               | You link the fates of two targets.                               |
 | 4     | [[rangoric-srd/powers/Anchored Navigation\|Anchored Navigation (A):]]                           | Establish a mishap-free teleport beacon.                         |
-|       | [[rangoric-srd/powers/Remote Viewing\|Remote Viewing (X):]]                                     | See, hear, and potentially interact with subjects at a distance. |
+|       | [[rangoric-srd/powers/Remote Viewing (Power)\|Remote Viewing (X):]]                                     | See, hear, and potentially interact with subjects at a distance. |
 | 5     | [[rangoric-srd/powers/Clairtangent Hand\|Clairtangent Hand (A):]]                               | Emulate far hand at a distance.                                  |
 |       | [[rangoric-srd/powers/Second Chance\|Second Chance:]]                                           | Gain a reroll.                                                   |
 | 6     | [[rangoric-srd/powers/Precognition, Greater\|Precognition, Greater:]]                           | Gain +4 insight bonus to one roll.                               |

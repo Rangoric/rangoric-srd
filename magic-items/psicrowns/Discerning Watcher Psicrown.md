@@ -10,8 +10,8 @@ prerequisites: "Craft Psicrown, aura sight, clairtangent hand, clairvoyant sense
 price: "51,469 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/psicrowns/Discerning Watcher Psicrown|Discerning Watcher Psicrown (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---
@@ -28,7 +28,7 @@ This psicrown has 450 power points. It is made from pure transparent crystal. It
 
   - [[rangoric-srd/powers/Darkvision, Psionic|Darkvision, psionic]]
 
-  - [[rangoric-srd/powers/Remote Viewing|Remote viewing]]
+  - [[rangoric-srd/powers/Remote Viewing (Power)|Remote viewing]]
 
   - [[rangoric-srd/powers/True Seeing, Psionic|True seeing, psionic]]
 

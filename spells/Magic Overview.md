@@ -135,7 +135,7 @@ Spell-like abilities never need thought or emotion components, just as they neve
 
 ##### Undercasting
 
-Some psychic spells can be undercast: the caster can cast the spell at the level she knows or as any lower-level version of it, using the spell slot for that version. An undercast spell is treated exactly like the lower-level version, including its effect, saving throw, and other variables. For example, a psychic spellcaster who adds *ego whip III* to her spells known can cast it as *ego whip I*, *II*, or *III*. Cast as *ego whip I*, it is that spell in every way: it uses that spell’s text and save DC, and the spell slot of *ego whip I*’s level. ^undercasting
+Some psychic spells can be undercast: the caster can cast the spell at the level she knows or as any lower-level version of it, using the spell slot for that version. An undercast spell is treated exactly like the lower-level version, including its effect, saving throw, and other variables. For example, a psychic spellcaster who adds *[[rangoric-srd/spells/Ego Whip III|ego whip III]]* to her spells known can cast it as *[[rangoric-srd/spells/Ego Whip I|ego whip I]]*, *[[rangoric-srd/spells/Ego Whip II|II]]*, or *[[rangoric-srd/spells/Ego Whip III|III]]*. Cast as *ego whip I*, it is that spell in every way: it uses that spell’s text and save DC, and the spell slot of *ego whip I*’s level. ^undercasting
 
 Whenever a spontaneous spellcaster adds a spell that can be undercast to his spells known, he can at once learn a new spell in place of each lower-level version of that spell he knows: he loses each earlier version and replaces it with another spell of the same level from his spell list.
 

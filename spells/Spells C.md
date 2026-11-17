@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells C|Spells C (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -51,6 +51,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Changeform|Changeform]]
   - [[rangoric-srd/spells/Changestaff|Changestaff]]
   - [[rangoric-srd/spells/Chaos Hammer|Chaos Hammer]]
+  - [[rangoric-srd/spells/Charge Object|Charge Object]]
   - [[rangoric-srd/spells/Charm Animal|Charm Animal]]
   - [[rangoric-srd/spells/Charm Monster|Charm Monster]]
   - [[rangoric-srd/spells/Charm Monster, Mass|Charm Monster, Mass]]
@@ -77,6 +78,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Cloud Shape|Cloud Shape]]
   - [[rangoric-srd/spells/Cloudkill|Cloudkill]]
   - [[rangoric-srd/spells/Codespeak|Codespeak]]
+  - [[rangoric-srd/spells/Cognitive Block|Cognitive Block]]
   - [[rangoric-srd/spells/Cold Ice Strike|Cold Ice Strike]]
   - [[rangoric-srd/spells/Color Spray|Color Spray]]
   - [[rangoric-srd/spells/Command|Command]]

@@ -12,8 +12,8 @@ duration: "Instantaneous and 1 min./level (D); see text"
 power-points: "17, XP"
 based-on:
   - "[[fantasy srd 3.5/powers/Metafaculty|Metafaculty (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/power]
 ---
@@ -29,7 +29,7 @@ Clairsentience
 **Duration:** Instantaneous and 1 min./level (D); see text  
 **Power Points:** 17, XP  
 
-You elevate your mind to a near-universal consciousness, cogitating countless impressions and predictions involving any creature you have seen before, whether personally or by means of another power such as [[rangoric-srd/powers/Remote Viewing|remote viewing]].
+You elevate your mind to a near-universal consciousness, cogitating countless impressions and predictions involving any creature you have seen before, whether personally or by means of another power such as [[rangoric-srd/powers/Remote Viewing (Power)|remote viewing]].
 
 This process gives you an uncannily accurate vision of the creature’s nature, activities, and whereabouts. When you manifest the power, you learn the following facts about the creature.
 
