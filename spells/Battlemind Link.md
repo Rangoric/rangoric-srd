@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Inq 4"
   - "Mes 4"
+  - "Occ 5"
   - "Psy 6"
   - "Sor/Wiz 6"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-affecting\]*
 
-  - **Level**: Inq 4, Mes 4, Psy 6, Sor/Wiz 6
+  - **Level**: Inq 4, Mes 4, Occ 5, Psy 6, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal and close (25 ft. + 5 ft./2 levels)

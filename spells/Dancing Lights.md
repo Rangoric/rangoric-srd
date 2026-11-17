@@ -8,6 +8,7 @@ level:
   - "Brd 0"
   - "Mag 0"
   - "Mes 0"
+  - "Occ 0"
   - "Psy 0"
   - "Sha 0"
   - "Skd 0"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Brd 0, Mag 0, Mes 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
+  - **Level**: Brd 0, Mag 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Wit 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

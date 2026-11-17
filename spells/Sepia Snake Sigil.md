@@ -7,6 +7,7 @@ descriptor:
   - "Force"
 level:
   - "Brd 3"
+  - "Occ 3"
   - "Skd 3"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Force\]*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 3, Occ 3, Skd 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Touch

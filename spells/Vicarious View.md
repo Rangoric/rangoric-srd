@@ -6,6 +6,7 @@ subschool: "Scrying"
 level:
   - "Brd 4"
   - "Mes 4"
+  - "Occ 4"
   - "Psy 4"
   - "Skd 4"
   - "Sor/Wiz 4"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Brd 4, Mes 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
+  - **Level**: Brd 4, Mes 4, Occ 4, Psy 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

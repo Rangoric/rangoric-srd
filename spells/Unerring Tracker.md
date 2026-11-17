@@ -6,6 +6,7 @@ level:
   - "Alc 5"
   - "Drd 6"
   - "Hun 4"
+  - "Occ 4"
   - "Rgr 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 5, Drd 6, Hun 4, Rgr 4
+  - **Level**: Alc 5, Drd 6, Hun 4, Occ 4, Rgr 4
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Personal

@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Alc 5"
   - "Drd 7"
+  - "Occ 5"
   - "Psy 7"
   - "Sor/Wiz 7"
   - "Wit 7"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 5, Drd 7, Psy 7, Sor/Wiz 7, Wit 7
+  - **Level**: Alc 5, Drd 7, Occ 5, Psy 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

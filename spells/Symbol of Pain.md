@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 5"
   - "Mes 5"
+  - "Occ 4"
   - "Sor/Wiz 5"
   - "Wit 5"
 based-on:
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 5, Mes 5, Sor/Wiz 5, Wit 5
+  - **Level**: Clr 5, Mes 5, Occ 4, Sor/Wiz 5, Wit 5
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that each creature within the radius of a symbol of pain instead suffers wracking pains that impose a –4 penalty on attack rolls, skill checks, and ability checks. These effects last for 1 hour after the creature moves farther than 60 feet from the symbol.
 

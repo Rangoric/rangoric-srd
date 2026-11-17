@@ -9,6 +9,7 @@ level:
   - "Apl 4"
   - "Inq 5"
   - "Mes 5"
+  - "Occ 5"
   - "Psy 6"
   - "Sor/Wiz 7"
   - "Spi 5"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment \[MindAffecting, Pain\]*
 
-  - **Level**: Apl 4, Inq 5, Mes 5, Psy 6, Sor/Wiz 7, Spi 5, Wit 7
+  - **Level**: Apl 4, Inq 5, Mes 5, Occ 5, Psy 6, Sor/Wiz 7, Spi 5, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

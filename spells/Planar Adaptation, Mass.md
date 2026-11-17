@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 6"
+  - "Occ 6"
   - "Psy 6"
   - "Sor/Wiz 7"
   - "Sum 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 6, Psy 6, Sor/Wiz 7, Sum 6, SumU 6
+  - **Level**: Clr 6, Occ 6, Psy 6, Sor/Wiz 7, Sum 6, SumU 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

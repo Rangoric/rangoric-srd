@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 1"
   - "Clr 1"
+  - "Occ 1"
   - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Clr 1, Psy 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Clr 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, M, M/DF (a document written in the language of the culture to be emulated)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

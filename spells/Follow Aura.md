@@ -9,6 +9,7 @@ descriptor:
   - "Lawful"
 level:
   - "Inq 2"
+  - "Occ 3"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Chaotic, Evil, Good, Lawful\]*
 
-  - **Level**: Inq 2
+  - **Level**: Inq 2, Occ 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

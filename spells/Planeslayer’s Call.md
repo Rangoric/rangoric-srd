@@ -6,6 +6,7 @@ subschool: "Compulsion"
 level:
   - "Clr 5"
   - "Inq 4"
+  - "Occ 4"
   - "Pal 4"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion)*
 
-  - **Level**: Clr 5, Inq 4, Pal 4
+  - **Level**: Clr 5, Inq 4, Occ 4, Pal 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: 20 ft.

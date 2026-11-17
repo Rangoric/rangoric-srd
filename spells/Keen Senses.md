@@ -6,6 +6,7 @@ level:
   - "Alc 1"
   - "Drd 1"
   - "Hun 1"
+  - "Occ 1"
   - "Rgr 1"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 1, Drd 1, Hun 1, Rgr 1
+  - **Level**: Alc 1, Drd 1, Hun 1, Occ 1, Rgr 1
   - **Components**: V, M/DF (a hawk's feather)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

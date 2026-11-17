@@ -10,6 +10,7 @@ level:
   - "Enchantment 6"
   - "Mes 4"
   - "Msl 4"
+  - "Occ 5"
   - "Psy 5"
   - "Sha 5"
   - "Skd 4"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 4, Enchantment 6, Mes 4, Msl 4, Psy 5, Sha 5, Skd 4, Sor/Wiz 5, Spi 5, Wit 5
+  - **Level**: Brd 4, Enchantment 6, Mes 4, Msl 4, Occ 5, Psy 5, Sha 5, Skd 4, Sor/Wiz 5, Spi 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

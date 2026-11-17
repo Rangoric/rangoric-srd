@@ -6,6 +6,7 @@ level:
   - "Apl 4"
   - "Clr 5"
   - "Inq 4"
+  - "Occ 4"
   - "Pal 4"
   - "Sor/Wiz 4"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apl 4, Clr 5, Inq 4, Pal 4, Sor/Wiz 4
+  - **Level**: Apl 4, Clr 5, Inq 4, Occ 4, Pal 4, Sor/Wiz 4
   - **Components**: V, S, M/DF (black powder)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

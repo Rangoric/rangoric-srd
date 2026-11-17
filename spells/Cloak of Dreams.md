@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 5"
   - "Mes 5"
+  - "Occ 6"
   - "Psy 6"
   - "Sha 7"
   - "Skd 5"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Brd 5, Mes 5, Psy 6, Sha 7, Skd 5, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 5, Mes 5, Occ 6, Psy 6, Sha 7, Skd 5, Sor/Wiz 6, Wit 6
   - **Components**: V, S, M (a rose petal and a drop of perfume)
   - **Casting Time**: 1 round
   - **Range**: 5 ft.

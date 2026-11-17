@@ -7,6 +7,7 @@ level:
   - "Brd 3"
   - "Inq 3"
   - "Mes 3"
+  - "Occ 3"
   - "Psy 3"
   - "Skd 3"
   - "Wit 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Brd 3, Inq 3, Mes 3, Psy 3, Skd 3, Wit 3
+  - **Level**: Brd 3, Inq 3, Mes 3, Occ 3, Psy 3, Skd 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

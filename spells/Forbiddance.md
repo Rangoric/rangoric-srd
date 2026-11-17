@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 6"
   - "Inq 6"
+  - "Occ 6"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 6, Inq 6
+  - **Level**: Clr 6, Inq 6, Occ 6
   - **Components**: V, S, M, DF
   - **Casting Time**: 6 rounds
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -8,6 +8,7 @@ level:
   - "Drd 3"
   - "Hun 3"
   - "Mes 3"
+  - "Occ 3"
   - "Psy 3"
   - "Wit 3"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Curse\]*
 
-  - **Level**: Drd 3, Hun 3, Mes 3, Psy 3, Wit 3
+  - **Level**: Drd 3, Hun 3, Mes 3, Occ 3, Psy 3, Wit 3
   - **Components**: V, S, M (a pinch of dust)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

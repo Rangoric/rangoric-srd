@@ -5,6 +5,7 @@ school: "Transmutation"
 descriptor:
   - "Variable"
 level:
+  - "Occ 6"
   - "Sor/Wiz 6"
   - "Sum 6"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Variable\]*
 
-  - **Level**: Sor/Wiz 6, Sum 6
+  - **Level**: Occ 6, Sor/Wiz 6, Sum 6
   - **Components**: V, S, M (a ball of pitch)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -9,6 +9,7 @@ level:
   - "Clr 2"
   - "Inq 2"
   - "Mes 2"
+  - "Occ 2"
   - "Pal 1"
   - "Psy 2"
   - "Skd 1"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[MindAffecting\]*
 
-  - **Level**: Brd 1, Clr 2, Inq 2, Mes 2, Pal 1, Psy 2, Skd 1, Sor/Wiz 2
+  - **Level**: Brd 1, Clr 2, Inq 2, Mes 2, Occ 2, Pal 1, Psy 2, Skd 1, Sor/Wiz 2
   - **Components**: V, S, M (thread from a tabard or livery)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

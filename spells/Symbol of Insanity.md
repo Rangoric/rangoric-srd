@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Clr 8"
+  - "Occ 6"
   - "Sor/Wiz 8"
   - "Wit 8"
 saving-throw: "Will negates"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Clr 8, Sor/Wiz 8, Wit 8
+  - **Level**: Clr 8, Occ 6, Sor/Wiz 8, Wit 8
   - **Saving Throw**: Will negates
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that all creatures within the radius of the symbol of insanity instead become permanently insane (as the insanity spell).

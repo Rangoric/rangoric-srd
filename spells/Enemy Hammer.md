@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Occ 6"
   - "Psy 6"
   - "Sor/Wiz 6"
   - "Spi 6"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Psy 6, Sor/Wiz 6, Spi 6
+  - **Level**: Occ 6, Psy 6, Sor/Wiz 6, Spi 6
   - **Components**: V, S, M (puppet strings)
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

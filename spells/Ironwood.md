@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Drd 6"
   - "Hun 6"
+  - "Occ 6"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 6, Hun 6
+  - **Level**: Drd 6, Hun 6, Occ 6
   - **Components**: V, S, M
   - **Casting Time**: 1 minute/lb. created
   - **Range**: 0 ft.

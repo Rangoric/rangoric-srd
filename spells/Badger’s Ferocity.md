@@ -6,6 +6,7 @@ level:
   - "Clr 3"
   - "Drd 3"
   - "Hun 2"
+  - "Occ 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Drd 3, Hun 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Clr 3, Drd 3, Hun 2, Occ 2, Rgr 2, Sor/Wiz 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Clr 7"
   - "Drd 7"
   - "Mes 6"
+  - "Occ 6"
   - "Psy 7"
   - "Sha 7"
   - "Skd 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Brd 6, Clr 7, Drd 7, Mes 6, Psy 7, Sha 7, Skd 6, Sor/Wiz 7, Wit 7
+  - **Level**: Brd 6, Clr 7, Drd 7, Mes 6, Occ 6, Psy 7, Sha 7, Skd 6, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Duration**: 1 hour/level

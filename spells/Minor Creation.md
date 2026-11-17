@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Occ 3"
   - "Psy 4"
   - "Sor/Wiz 4"
   - "Spi 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Psy 4, Sor/Wiz 4, Spi 3, Sum 3, SumU 3, Wit 4
+  - **Level**: Occ 3, Psy 4, Sor/Wiz 4, Spi 3, Sum 3, SumU 3, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 1 minute
   - **Range**: 0 ft.

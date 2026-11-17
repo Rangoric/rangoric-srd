@@ -9,6 +9,7 @@ level:
   - "Apl 2"
   - "Brd 2"
   - "Mes 2"
+  - "Occ 2"
   - "Psy 2"
   - "Sha 2"
   - "Skd 2"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Fear, Mind-Affecting\]*
 
-  - **Level**: Apl 2, Brd 2, Mes 2, Psy 2, Sha 2, Skd 2, Sor/Wiz 2, Spi 2, Wit 2
+  - **Level**: Apl 2, Brd 2, Mes 2, Occ 2, Psy 2, Sha 2, Skd 2, Sor/Wiz 2, Spi 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

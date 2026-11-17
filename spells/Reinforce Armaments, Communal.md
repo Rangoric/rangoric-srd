@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 2"
   - "Mag 2"
+  - "Occ 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 2, Mag 2, Sor/Wiz 2, Wit 2
+  - **Level**: Clr 2, Mag 2, Occ 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M/DF (a metal pin)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

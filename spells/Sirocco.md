@@ -9,6 +9,7 @@ level:
   - "Drd 6"
   - "Hun 6"
   - "Mag 6"
+  - "Occ 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Air, Fire\]*
 
-  - **Level**: Drd 6, Hun 6, Mag 6, Sor/Wiz 6
+  - **Level**: Drd 6, Hun 6, Mag 6, Occ 6, Sor/Wiz 6
   - **Components**: V, S, M/DF (handful of fine sand cast into the air)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

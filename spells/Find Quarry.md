@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Hun 4"
   - "Inq 4"
+  - "Occ 5"
   - "Rgr 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Hun 4, Inq 4, Rgr 4
+  - **Level**: Hun 4, Inq 4, Occ 5, Rgr 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal

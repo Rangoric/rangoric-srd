@@ -10,6 +10,7 @@ level:
   - "Drd 3"
   - "Hun 3"
   - "Mag 4"
+  - "Occ 3"
   - "Rgr 3"
   - "Sor/Wiz 4"
   - "Spi 3"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Blr 4, Clr 4, Drd 3, Hun 3, Mag 4, Rgr 3, Sor/Wiz 4, Spi 3
+  - **Level**: Blr 4, Clr 4, Drd 3, Hun 3, Mag 4, Occ 3, Rgr 3, Sor/Wiz 4, Spi 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 120 ft.

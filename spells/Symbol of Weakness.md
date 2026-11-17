@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 7"
+  - "Occ 5"
   - "Sor/Wiz 7"
   - "Wit 7"
 based-on:
@@ -18,7 +19,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 7, Sor/Wiz 7, Wit 7
+  - **Level**: Clr 7, Occ 5, Sor/Wiz 7, Wit 7
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that every creature within 60 feet of a symbol of weakness instead suffers crippling weakness that deals 3d6 points of Strength damage.
 

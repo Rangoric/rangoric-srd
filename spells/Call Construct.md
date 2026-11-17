@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Clr 8"
+  - "Occ 6"
   - "Psy 8"
   - "Sor/Wiz 8"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Clr 8, Psy 8, Sor/Wiz 8
+  - **Level**: Clr 8, Occ 6, Psy 8, Sor/Wiz 8
   - **Components**: V, S, M (a sapphire worth 1,000 or 5,000 gp; see text)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

@@ -6,6 +6,7 @@ subschool: "Teleportation"
 level:
   - "Brd 6"
   - "Mes 6"
+  - "Occ 6"
   - "Psy 6"
   - "Skd 6"
   - "Sor/Wiz 6"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Brd 6, Mes 6, Psy 6, Skd 6, Sor/Wiz 6, Spi 6
+  - **Level**: Brd 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 6, Spi 6
   - **Components**: V, S, M (a brass doorknob)
   - **Casting Time**: 1 minute
   - **Range**: Unlimited

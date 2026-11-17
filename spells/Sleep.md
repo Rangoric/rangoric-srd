@@ -9,6 +9,7 @@ level:
   - "Brd 1"
   - "Dream 1"
   - "Mes 1"
+  - "Occ 1"
   - "Psy 1"
   - "Sha 1"
   - "Skd 1"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 1, Dream 1, Mes 1, Psy 1, Sha 1, Skd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Dream 1, Mes 1, Occ 1, Psy 1, Sha 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M
   - **Casting Time**: 1 round
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Occ 1"
   - "Psy 1"
   - "Sor/Wiz 1"
 casting-time: "1 standard action"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Psy 1, Sor/Wiz 1
+  - **Level**: Occ 1, Psy 1, Sor/Wiz 1
   - **Component**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Occ 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Sor/Wiz 1, Wit 1
+  - **Level**: Occ 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M (a soft cloth)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

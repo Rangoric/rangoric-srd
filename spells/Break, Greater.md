@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Blr 4"
+  - "Occ 6"
   - "Psy 6"
   - "Sor/Wiz 6"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 4, Psy 6, Sor/Wiz 6
+  - **Level**: Blr 4, Occ 6, Psy 6, Sor/Wiz 6
   - **Components**: V, S, M (an unbroken platinum tuning fork worth 100 gp)
   - **Casting Time**: 1 round
   - **Range**: 30 ft.

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Blr 3"
   - "Mag 3"
+  - "Occ 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Electricity\]*
 
-  - **Level**: Blr 3, Mag 3, Sor/Wiz 3, Wit 3
+  - **Level**: Blr 3, Mag 3, Occ 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: 120 ft.

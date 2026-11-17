@@ -7,6 +7,7 @@ level:
   - "Blr 3"
   - "Brd 3"
   - "Mag 3"
+  - "Occ 3"
   - "Skd 3"
   - "Sor/Wiz 3"
   - "Spi 2"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Blr 3, Brd 3, Mag 3, Skd 3, Sor/Wiz 3, Spi 2, Sum 2, SumU 2
+  - **Level**: Blr 3, Brd 3, Mag 3, Occ 3, Skd 3, Sor/Wiz 3, Spi 2, Sum 2, SumU 2
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.

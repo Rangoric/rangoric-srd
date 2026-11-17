@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Mes 3"
+  - "Occ 3"
   - "Psy 3"
   - "Skd 3"
   - "Sor/Wiz 3"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Mes 3, Psy 3, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Mes 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3
   - **Components**: V, S, M
   - **Casting Time**: 1 minute or longer; see text
   - **Range**: Touch

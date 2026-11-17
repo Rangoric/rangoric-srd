@@ -9,6 +9,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Mes 4"
+  - "Occ 4"
   - "Psy 4"
   - "Sor/Wiz 4"
   - "Spi 4"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Mes 4, Psy 4, Sor/Wiz 4, Spi 4
+  - **Level**: Mes 4, Occ 4, Psy 4, Sor/Wiz 4, Spi 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

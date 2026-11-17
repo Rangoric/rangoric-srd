@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 2"
   - "Hun 2"
+  - "Occ 2"
   - "Psy 2"
   - "Wit 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Curse\]*
 
-  - **Level**: Drd 2, Hun 2, Psy 2, Wit 2
+  - **Level**: Drd 2, Hun 2, Occ 2, Psy 2, Wit 2
   - **Components**: V, S, M (a pinch of ash)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft/2 levels)

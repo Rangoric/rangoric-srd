@@ -6,6 +6,7 @@ descriptor:
   - "Force"
 level:
   - "Mag 5"
+  - "Occ 5"
   - "Psy 5"
   - "Sor/Wiz 5"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Mag 5, Psy 5, Sor/Wiz 5
+  - **Level**: Mag 5, Occ 5, Psy 5, Sor/Wiz 5
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

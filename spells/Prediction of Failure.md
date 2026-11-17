@@ -7,6 +7,7 @@ descriptor:
   - "Fear"
   - "Mind-affecting"
 level:
+  - "Occ 6"
   - "Psy 8"
   - "Sor/Wiz 8"
   - "Wit 8"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Curse, Fear, Mind-affecting\]*
 
-  - **Level**: Psy 8, Sor/Wiz 8, Wit 8
+  - **Level**: Occ 6, Psy 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

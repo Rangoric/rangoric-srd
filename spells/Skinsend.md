@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Alc 2"
+  - "Occ 2"
   - "Psy 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 2, Psy 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Occ 2, Psy 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Personal

@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 3"
   - "Inq 3"
+  - "Occ 3"
   - "Sha 3"
   - "Strength 3"
   - "War 3"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 3, Inq 3, Sha 3, Strength 3, War 3
+  - **Level**: Clr 3, Inq 3, Occ 3, Sha 3, Strength 3, War 3
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

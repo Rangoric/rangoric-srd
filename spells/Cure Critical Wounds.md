@@ -11,6 +11,7 @@ level:
   - "Healing 4"
   - "Hun 5"
   - "Inq 4"
+  - "Occ 4"
   - "Sha 4"
   - "Skd 4"
   - "Spi 4"
@@ -28,6 +29,6 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Alc 4, Brd 4, Clr 4, Drd 5, Healing 4, Hun 5, Inq 4, Sha 4, Skd 4, Spi 4, Tot 5, Wit 5
+  - **Level**: Alc 4, Brd 4, Clr 4, Drd 5, Healing 4, Hun 5, Inq 4, Occ 4, Sha 4, Skd 4, Spi 4, Tot 5, Wit 5
 
 This spell functions like [[rangoric-srd/spells/Spells C|cure light wounds]], except that it cures 4d8 points of damage +1 point per caster level (maximum +20).

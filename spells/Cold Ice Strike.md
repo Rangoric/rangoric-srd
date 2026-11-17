@@ -6,6 +6,7 @@ descriptor:
   - "Cold"
 level:
   - "Clr 6"
+  - "Occ 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Cold\]*
 
-  - **Level**: Clr 6, Sor/Wiz 6
+  - **Level**: Clr 6, Occ 6, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 swift action
   - **Range**: 30 ft.

@@ -9,6 +9,7 @@ level:
   - "Drd 2"
   - "Hun 2"
   - "Mag 2"
+  - "Occ 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
   - "Spi 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Air\]*
 
-  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Rgr 2, Sor/Wiz 2, Spi 2
+  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Occ 2, Rgr 2, Sor/Wiz 2, Spi 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

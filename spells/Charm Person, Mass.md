@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 4"
   - "Mes 4"
+  - "Occ 4"
   - "Psy 5"
   - "Skd 4"
   - "Sor/Wiz 5"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[MindAffecting\]*
 
-  - **Level**: Brd 4, Mes 4, Psy 5, Skd 4, Sor/Wiz 5, Wit 5
+  - **Level**: Brd 4, Mes 4, Occ 4, Psy 5, Skd 4, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

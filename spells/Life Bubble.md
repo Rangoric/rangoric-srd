@@ -6,6 +6,7 @@ level:
   - "Clr 5"
   - "Drd 4"
   - "Hun 3"
+  - "Occ 4"
   - "Psy 5"
   - "Rgr 3"
   - "Sor/Wiz 5"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 5, Drd 4, Hun 3, Psy 5, Rgr 3, Sor/Wiz 5
+  - **Level**: Clr 5, Drd 4, Hun 3, Occ 4, Psy 5, Rgr 3, Sor/Wiz 5
   - **Components**: V, S, M/DF (a bit of eggshell)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

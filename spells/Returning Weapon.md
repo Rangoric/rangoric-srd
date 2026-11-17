@@ -10,6 +10,7 @@ level:
   - "Hun 1"
   - "Inq 1"
   - "Mag 1"
+  - "Occ 1"
   - "Psy 2"
   - "Rgr 1"
   - "Skd 2"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Blr 1, Brd 2, Clr 2, Hun 1, Inq 1, Mag 1, Psy 2, Rgr 1, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Blr 1, Brd 2, Clr 2, Hun 1, Inq 1, Mag 1, Occ 1, Psy 2, Rgr 1, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Drd 9"
+  - "Occ 6"
   - "Psy 8"
   - "Sor/Wiz 8"
   - "Sum 6"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Drd 9, Psy 8, Sor/Wiz 8, Sum 6, Wit 8
+  - **Level**: Drd 9, Occ 6, Psy 8, Sor/Wiz 8, Sum 6, Wit 8
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 hour
   - **Range**: Close (25 ft. + 5 ft./2 levels)

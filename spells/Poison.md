@@ -10,6 +10,7 @@ level:
   - "Drd 3"
   - "Hun 3"
   - "Mes 4"
+  - "Occ 4"
   - "Sha 4"
   - "Wit 4"
 components:
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Poison\]*
 
-  - **Level**: Apl 4, Clr 4, Drd 3, Hun 3, Mes 4, Sha 4, Wit 4
+  - **Level**: Apl 4, Clr 4, Drd 3, Hun 3, Mes 4, Occ 4, Sha 4, Wit 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

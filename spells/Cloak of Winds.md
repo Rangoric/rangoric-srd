@@ -9,6 +9,7 @@ level:
   - "Drd 3"
   - "Hun 3"
   - "Mag 3"
+  - "Occ 3"
   - "Rgr 3"
   - "Sor/Wiz 3"
   - "Spi 3"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Air\]*
 
-  - **Level**: Blr 3, Drd 3, Hun 3, Mag 3, Rgr 3, Sor/Wiz 3, Spi 3
+  - **Level**: Blr 3, Drd 3, Hun 3, Mag 3, Occ 3, Rgr 3, Sor/Wiz 3, Spi 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

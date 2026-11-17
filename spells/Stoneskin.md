@@ -10,6 +10,7 @@ level:
   - "Hun 5"
   - "Inq 4"
   - "Mag 4"
+  - "Occ 4"
   - "Psy 4"
   - "Sha 5"
   - "Sor/Wiz 4"
@@ -38,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 4, Blr 4, Drd 5, Earth 6, Hun 5, Inq 4, Mag 4, Psy 4, Sha 5, Sor/Wiz 4, Strength 6, Sum 3, SumU 4
+  - **Level**: Alc 4, Blr 4, Drd 5, Earth 6, Hun 5, Inq 4, Mag 4, Occ 4, Psy 4, Sha 5, Sor/Wiz 4, Strength 6, Sum 3, SumU 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

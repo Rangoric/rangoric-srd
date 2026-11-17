@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 0"
   - "Inq 0"
+  - "Occ 0"
   - "Psy 0"
   - "Skd 0"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 0, Inq 0, Psy 0, Skd 0
+  - **Level**: Brd 0, Inq 0, Occ 0, Psy 0, Skd 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

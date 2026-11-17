@@ -22,6 +22,8 @@ Implements focused on evocation grant the ability to create and direct energy to
 
 **Implements**: Gloves, rod, staff, wand.
 
+**Spells**: the evocation spells on the occultist spell list: [[rangoric-srd/spells/Occultist Spell List#^occ0-evocation|knacks]], [[rangoric-srd/spells/Occultist Spell List#^occ1-evocation|1st]], [[rangoric-srd/spells/Occultist Spell List#^occ2-evocation|2nd]], [[rangoric-srd/spells/Occultist Spell List#^occ3-evocation|3rd]], [[rangoric-srd/spells/Occultist Spell List#^occ4-evocation|4th]], [[rangoric-srd/spells/Occultist Spell List#^occ5-evocation|5th]], [[rangoric-srd/spells/Occultist Spell List#^occ6-evocation|6th]].
+
 **Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into an evocation implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
 **Intense Focus (Su)**: The implement channels and enhances the effects of damaging evocations. A spellcaster who bears the implement can add the implement as an additional focus component for any of his damaging evocation spells that have an instantaneous duration or focus powers with an instantaneous duration. If he does so, the spell or focus power deals 1 additional point of damage of the same type to each creature for every 2 points of mental focus invested in the implement, to a maximum of 1 + 1 for every 2 occultist levels you possess. ^evocation-resonant-power

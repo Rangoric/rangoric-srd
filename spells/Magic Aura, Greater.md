@@ -6,6 +6,7 @@ subschool: "Glamer"
 level:
   - "Brd 3"
   - "Mes 3"
+  - "Occ 3"
   - "Psy 4"
   - "Skd 3"
   - "Sor/Wiz 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Mes 3, Occ 3, Psy 4, Skd 3, Sor/Wiz 4
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Clr 5"
   - "Inq 5"
+  - "Occ 5"
   - "Sha 5"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 5, Inq 5, Sha 5
+  - **Level**: Clr 5, Inq 5, Occ 5, Sha 5
   - **Components**: V, S, M, DF, XP
   - **Casting Time**: 10 minutes
   - **Range**: Personal

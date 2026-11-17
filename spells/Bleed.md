@@ -6,6 +6,7 @@ level:
   - "Clr 0"
   - "Inq 0"
   - "Mes 0"
+  - "Occ 0"
   - "Psy 0"
   - "Sha 0"
   - "Sor/Wiz 0"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 0, Inq 0, Mes 0, Psy 0, Sha 0, Sor/Wiz 0, Spi 0, Wit 0
+  - **Level**: Clr 0, Inq 0, Mes 0, Occ 0, Psy 0, Sha 0, Sor/Wiz 0, Spi 0, Wit 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -22,6 +22,8 @@ Implements used in conjuration allow the occultist to perform magic that transpo
 
 **Implements**: Bowl, brazier, compass, figurine, lantern, mirror.
 
+**Spells**: the conjuration spells on the occultist spell list: [[rangoric-srd/spells/Occultist Spell List#^occ0-conjuration|knacks]], [[rangoric-srd/spells/Occultist Spell List#^occ1-conjuration|1st]], [[rangoric-srd/spells/Occultist Spell List#^occ2-conjuration|2nd]], [[rangoric-srd/spells/Occultist Spell List#^occ3-conjuration|3rd]], [[rangoric-srd/spells/Occultist Spell List#^occ4-conjuration|4th]], [[rangoric-srd/spells/Occultist Spell List#^occ5-conjuration|5th]], [[rangoric-srd/spells/Occultist Spell List#^occ6-conjuration|6th]].
+
 **Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into a conjuration implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
 **Casting Focus (Su)**: The implement empowers the bearer’s ties to the worlds beyond, allowing his spells to maintain their power for a longer period of time. The bearer can add the implement as an additional focus component to any conjuration spell he casts that has a duration measured in rounds per level. If he does so, he adds 1 to his caster level for every 2 points of mental focus stored in the implement (to a maximum bonus equal to your occultist level). This increase applies only when determining the duration of the spell. Apply this increase after other effects that adjust a spell’s duration, such as [[rangoric-srd/feats/Extend Spell|Extend Spell]]. ^conjuration-resonant-power

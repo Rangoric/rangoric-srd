@@ -7,6 +7,7 @@ level:
   - "Clr 5"
   - "Inq 5"
   - "Magic 5"
+  - "Occ 5"
   - "Protection 5"
   - "Psy 5"
   - "Spi 5"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 5, Clr 5, Inq 5, Magic 5, Protection 5, Psy 5, Spi 5
+  - **Level**: Alc 5, Clr 5, Inq 5, Magic 5, Occ 5, Protection 5, Psy 5, Spi 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

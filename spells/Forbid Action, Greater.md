@@ -10,6 +10,7 @@ level:
   - "Clr 5"
   - "Inq 5"
   - "Mes 4"
+  - "Occ 5"
   - "Psy 5"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Clr 5, Inq 5, Mes 4, Psy 5
+  - **Level**: Clr 5, Inq 5, Mes 4, Occ 5, Psy 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. +5 ft./2 levels)

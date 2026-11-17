@@ -7,6 +7,7 @@ level:
   - "Alc 3"
   - "Brd 3"
   - "Mag 3"
+  - "Occ 3"
   - "Psy 3"
   - "Skd 3"
   - "Sor/Wiz 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Air 3, Alc 3, Brd 3, Mag 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3
+  - **Level**: Air 3, Alc 3, Brd 3, Mag 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3
   - **Components**: S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

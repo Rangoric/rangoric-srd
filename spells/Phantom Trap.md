@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Mes 2"
+  - "Occ 2"
   - "Psy 2"
   - "Sor/Wiz 2"
   - "Spi 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Mes 2, Psy 2, Sor/Wiz 2, Spi 2
+  - **Level**: Mes 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

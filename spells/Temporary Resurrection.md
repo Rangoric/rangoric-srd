@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Occ 6"
   - "Psy 7"
   - "Sor/Wiz 7"
   - "Wit 7"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Psy 7, Sor/Wiz 7, Wit 7
+  - **Level**: Occ 6, Psy 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S, M (diamond dust worth 500 gp)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

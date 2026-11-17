@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Creation"
 level:
+  - "Occ 2"
   - "Sum 2"
   - "SumU 2"
   - "Wit 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sum 2, SumU 2, Wit 2
+  - **Level**: Occ 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S, M, M/DF (a reed or twig)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

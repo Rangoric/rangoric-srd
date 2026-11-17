@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Drd 3"
   - "Hun 2"
+  - "Occ 2"
   - "Psy 2"
   - "Rgr 2"
   - "Skd 2"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Drd 3, Hun 2, Psy 2, Rgr 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Drd 3, Hun 2, Occ 2, Psy 2, Rgr 2, Skd 2, Sor/Wiz 2
   - **Components**: V, S, M (powdered metal and rare inks worth 100 gp)
   - **Casting Time**: 1 hour
   - **Range**: Touch

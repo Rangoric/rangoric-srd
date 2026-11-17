@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 8"
   - "Magic 6"
+  - "Occ 6"
   - "Protection 6"
   - "Psy 7"
   - "Sor/Wiz 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 8, Magic 6, Protection 6, Psy 7, Sor/Wiz 6
+  - **Level**: Clr 8, Magic 6, Occ 6, Protection 6, Psy 7, Sor/Wiz 6
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: 10 ft.

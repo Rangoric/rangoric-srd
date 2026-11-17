@@ -6,6 +6,7 @@ subschool: "Calling"
 descriptor:
   - "see text for lesser planar binding"
 level:
+  - "Occ 6"
   - "Psy 6"
   - "Sor/Wiz 6"
   - "Sum 5"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[see text for lesser planar binding\]*
 
-  - **Level**: Psy 6, Sor/Wiz 6, Sum 5, SumU 6
+  - **Level**: Occ 6, Psy 6, Sor/Wiz 6, Sum 5, SumU 6
   - **Components**: V, S
   - **Targets**: Up to three elementals or outsiders, totaling no more than 12 HD, no two of which can be more than 30 ft. apart when they appear
 

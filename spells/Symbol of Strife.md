@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Clr 9"
+  - "Occ 6"
   - "Sor/Wiz 9"
   - "Wit 9"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Clr 9, Sor/Wiz 9, Wit 9
+  - **Level**: Clr 9, Occ 6, Sor/Wiz 9, Wit 9
   - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond opal worth a total of 15,000 gp)
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.; see text

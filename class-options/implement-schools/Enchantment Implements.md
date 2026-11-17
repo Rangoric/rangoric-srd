@@ -22,6 +22,8 @@ Enchantment implements allow the occultist to befuddle the mind and charm his fo
 
 **Implements**: Censer, crown, helm, musical instrument, necklace.
 
+**Spells**: the enchantment spells on the occultist spell list: [[rangoric-srd/spells/Occultist Spell List#^occ0-enchantment|knacks]], [[rangoric-srd/spells/Occultist Spell List#^occ1-enchantment|1st]], [[rangoric-srd/spells/Occultist Spell List#^occ2-enchantment|2nd]], [[rangoric-srd/spells/Occultist Spell List#^occ3-enchantment|3rd]], [[rangoric-srd/spells/Occultist Spell List#^occ4-enchantment|4th]], [[rangoric-srd/spells/Occultist Spell List#^occ5-enchantment|5th]], [[rangoric-srd/spells/Occultist Spell List#^occ6-enchantment|6th]].
+
 **Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into an enchantment implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
 **Glorious Presence (Su)**: The implement invokes the presence of those who have worn it in the past. The implement’s wearer gains a +1 competence bonus on all Charisma-based skill checks and ability checks for every 2 points of mental focus invested in the implement, to a maximum bonus of 1 + 1 for every 4 occultist levels you possess. ^enchantment-resonant-power

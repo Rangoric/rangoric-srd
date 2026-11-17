@@ -10,6 +10,7 @@ level:
   - "Inq 4"
   - "Law 6"
   - "Mes 4"
+  - "Occ 4"
   - "Psy 5"
   - "Skd 4"
   - "Sor/Wiz 5"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 4, Inq 4, Law 6, Mes 4, Psy 5, Skd 4, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
+  - **Level**: Brd 4, Inq 4, Law 6, Mes 4, Occ 4, Psy 5, Skd 4, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
   - **Components**: V, S, M/DF
   - **Target**: One living creature
 

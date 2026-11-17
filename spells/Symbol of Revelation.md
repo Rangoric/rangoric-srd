@@ -6,6 +6,7 @@ descriptor:
   - "Death"
 level:
   - "Clr 4"
+  - "Occ 3"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Death\]*
 
-  - **Level**: Clr 4, Sor/Wiz 4, Wit 4
+  - **Level**: Clr 4, Occ 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.; see text

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Occ 5"
   - "Psy 5"
   - "Sor/Wiz 5"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Psy 5, Sor/Wiz 5
+  - **Level**: Occ 5, Psy 5, Sor/Wiz 5
   - **Components**: V, S, M
   - **Casting Time**: See text
   - **Range**: Close (25 ft. + 5 ft./2 levels)
