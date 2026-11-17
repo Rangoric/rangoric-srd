@@ -100,6 +100,10 @@ The slayer must be able to see the target well enough to pick out a vital spot a
 
 **Master Slayer (Ex)**: At 20th level, the slayer becomes a master at capturing or killing his studied targets. As a standard action, he can make a single attack against a studied target at his full attack bonus, choosing one of the following effects: kill, knock unconscious for 1d4 hours, or paralyze for 2d6 rounds. If the attack succeeds, the target takes damage normally and must succeed at a Fortitude saving throw or suffer the additional effect. The DC for this save is 10 + 1/2 the slayer's level + the slayer's Intelligence modifier. Whether or not the target succeeds, it cannot be targeted by this ability again (by any slayer) for 24 hours. ^slayer-master-slayer
 
+**Archetypes**: A slayer can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The slayer’s archetypes, with what each replaces: ^slayer-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Slayer]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The slayer’s class bonuses, by race: ^slayer-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Slayer]]
