@@ -163,3 +163,11 @@ Bundles of alternate traits for half-orcs of a particular background.
 A half-orc gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Half-Orc]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/summoner/Blood God Disciple (Archetype)\|Blood God Disciple]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
