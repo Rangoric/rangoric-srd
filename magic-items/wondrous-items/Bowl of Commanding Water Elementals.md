@@ -22,4 +22,6 @@ This large container is usually fashioned from blue or green semiprecious stone.
 
 If salt water is used, the elemental is Huge rather than Large (as if summon monster VII had been cast).
 
+The *[[rangoric-srd/magic-items/wondrous-items/Bowl of Conjuring Water Elementals|bowl of conjuring water elementals]]* is a lesser version of this item, calling its elementals as weaker summoning spells for a lower price.
+
 Strong conjuration; CL 13th; Craft Wondrous Item, summon monster VI, summon monster VII; Price 100,000 gp; Weight 3 lb.
