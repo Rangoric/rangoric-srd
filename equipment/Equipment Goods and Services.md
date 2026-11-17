@@ -11,6 +11,7 @@ based-on:
   - "[[path srd 3.5 foundry/items/gear/Kit, Kineticist's|Kit, Kineticist's (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Mesmerist's|Kit, Mesmerist's (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Psychic's|Kit, Psychic's (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/items/gear/Kit, Spiritualist's|Kit, Spiritualist's (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -95,6 +96,7 @@ tags: [rangoric, rangoric/overview]
 | Sledge                   | 1 gp    | 10 lb.      |
 | Soap (per lb.)           | 5 sp    | 1 lb.       |
 | Spade or shovel          | 2 gp    | 8 lb.       |
+| Spiritualist’s kit       | 50 gp   | 34 lb.      |
 | Spyglass                 | 1000 gp | 1 lb.       |
 | Swashbuckler’s kit       | 9 gp    | 29 lb.      |
 | Tent                     | 10 gp   | 20 lb. (1)  |
@@ -318,6 +320,8 @@ You can pour a pint of oil on the ground to cover an area 5 feet square, provide
 **Rope, Silk**: This rope has 4 hit points and can be burst with a DC 24 Strength check. It is so supple that it provides a +2 circumstance bonus on Fieldcraft checks.
 
 **Skald’s Kit**: A starting kit for a [[rangoric-srd/classes/Skald|skald]]. It includes a backpack, a bedroll, a belt pouch, a common musical instrument, a flint and steel, an iron pot, a mess kit, a mirror, rope, soap, torches (10), trail rations (5 days), and a waterskin.
+
+**Spiritualist’s Kit**: A starting kit for a [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]. It includes a backpack, a bedroll, a belt pouch, a censer, a flask of ectoplasmic residue, flint and steel, incense (10 sticks), an iron pot, magnetized paper, torches (10), trail rations (5 days), and a waterskin.
 
 **Spyglass**: Objects viewed through a spyglass are magnified to twice their size.
 
