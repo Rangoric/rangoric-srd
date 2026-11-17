@@ -80,9 +80,9 @@ As expected, all alchemists need to have at least the [[rangoric-srd/skills/Craf
 
 ### Basic Equipment
 
-The core rules generically lump alchemical equipment into a single [[rangoric-srd/equipment/Equipment Goods and Services|alchemist’s lab]], and that’s fine for the hobbyist or for expediency’s sake to keep the game moving. For those of you who are adopting the alchemists’ life, however, you’ll want to know more about what you’re working with beyond “beakers, bottles, and a miscellany of chemicals and substances.”
+The core rules generically lump alchemical equipment into a single [[rangoric-srd/equipment/gear/Alchemist's Lab|alchemist’s lab]], and that’s fine for the hobbyist or for expediency’s sake to keep the game moving. For those of you who are adopting the alchemists’ life, however, you’ll want to know more about what you’re working with beyond “beakers, bottles, and a miscellany of chemicals and substances.”
 
-**Alchemists’ Kit, Traveling:** This provides the alchemist in the field a +1 circumstance bonus for concocting substances on the fly. This is mandatory for the use of the [[rangoric-srd/feats/Crisis Creation|Crisis Creation]] feat, and its chymicals and solvents are exhausted after 5 uses. In all other ways, treat it as a [[rangoric-srd/equipment/Equipment Goods and Services|healer’s kit]].
+**Alchemists’ Kit, Traveling:** This provides the alchemist in the field a +1 circumstance bonus for concocting substances on the fly. This is mandatory for the use of the [[rangoric-srd/feats/Crisis Creation|Crisis Creation]] feat, and its chymicals and solvents are exhausted after 5 uses. In all other ways, treat it as a [[rangoric-srd/equipment/gear/Healer's Kit|healer’s kit]].
 
 **Alembic:** This glass device is important for the distillation and separation of liquids and spirits. It consists of the pear-shaped curcurbit or holding bell topped by a screw-on venting hood. Various tubes attach to the hood and empty its heated vapors into a waiting receptacle. Alembics come on ceramic or metal stands to be placed over a heat source. Most laboratories carry three or four alembics, though the minimal two required are in the Alchemist’s Lab (and one in the Alchemists’ Kit).
 

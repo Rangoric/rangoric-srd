@@ -92,7 +92,7 @@ Fieldcraft can take any [[rangoric-srd/actions/First Aid|First Aid]] action: sta
 
 **Action**: Varies. Throwing a grappling hook is a standard action that provokes an attack of opportunity. Tying a knot, tying a special knot, or tying a rope around yourself one-handed is a full-round action that provokes an attack of opportunity. Splicing two ropes together takes 5 minutes. Binding a character takes 1 minute.
 
-**Special**: A [[rangoric-srd/equipment/Equipment Goods and Services|silk rope]] helps with Fieldcraft checks, and so does casting [[rangoric-srd/spells/Animate Rope|animate rope]] on the rope you use. These bonuses stack.
+**Special**: A [[rangoric-srd/equipment/gear/Rope, Silk|silk rope]] helps with Fieldcraft checks, and so does casting [[rangoric-srd/spells/Animate Rope|animate rope]] on the rope you use. These bonuses stack.
 
 ### Advanced Uses
 

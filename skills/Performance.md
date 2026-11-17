@@ -40,7 +40,7 @@ Each of the nine categories of the Performance skill includes a variety of metho
 | 25         | Memorable performance. In a prosperous city, you can earn 1d6 gp/day. In time, you may come to the attention of noble patrons and develop a national reputation.           |
 | 30         | Extraordinary performance. In a prosperous city, you can earn 3d6 gp/day. In time, you may draw attention from distant potential patrons, or even from extraplanar beings. |
 
-A [[rangoric-srd/equipment/Equipment Goods and Services|masterwork musical instrument]] helps with Performance checks that involve its use.
+A [[rangoric-srd/equipment/gear/Musical Instrument, Masterwork|masterwork musical instrument]] helps with Performance checks that involve its use.
 
 **Action**: Varies. Trying to earn money by playing in public requires anywhere from an evening’s work to a full day’s performance. The bard’s special Perform-based abilities are described in that class’s description.
 

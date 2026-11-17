@@ -27,4 +27,4 @@ tags: [rangoric, rangoric/class-option]
   - **Saving Throw**: Fortitude negates; see text
   - **Spell Resistance**: no
 
-You transform a source of open flame within 120 feet into a cloud of choking smoke, filling a 20-foot-radius spread and affecting vision like a [[rangoric-srd/equipment/Equipment Goods and Services|smokestick]]. All creatures that begin their turns inside the area become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] as long as they remain in the smoke and for 1d4+1 rounds thereafter (Fortitude negates).
+You transform a source of open flame within 120 feet into a cloud of choking smoke, filling a 20-foot-radius spread and affecting vision like a [[rangoric-srd/equipment/gear/Smokestick|smokestick]]. All creatures that begin their turns inside the area become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] as long as they remain in the smoke and for 1d4+1 rounds thereafter (Fortitude negates).

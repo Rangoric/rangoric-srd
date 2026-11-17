@@ -18,6 +18,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Clangorous
 
-A shield with this ability rings loudly when struck in combat. As an immediate action when the wearer is hit by an attack, the wearer can activate the shield to create a deafening bang equivalent to a thunderstone. If the attack is a critical hit, the wearer can instead create a *[[rangoric-srd/spells/Sound Burst|sound burst]]* (Fortitude DC 13 partial). The wearer decides the area for either effect, but must include the attacker in the area. Neither ability affects the wearer.
+A shield with this ability rings loudly when struck in combat. As an immediate action when the wearer is hit by an attack, the wearer can activate the shield to create a deafening bang equivalent to a [[rangoric-srd/equipment/gear/Thunderstone|thunderstone]]. If the attack is a critical hit, the wearer can instead create a *[[rangoric-srd/spells/Sound Burst|sound burst]]* (Fortitude DC 13 partial). The wearer decides the area for either effect, but must include the attacker in the area. Neither ability affects the wearer.
 
 Moderate evocation; CL 7th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]*, *[[rangoric-srd/spells/Sound Burst|sound burst]]*; Price +1 bonus.

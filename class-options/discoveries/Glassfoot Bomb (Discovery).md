@@ -18,4 +18,4 @@ tags: [rangoric, rangoric/class-option]
 
 *An [[rangoric-srd/classes/Alchemist#^alchemist-discovery|alchemist discovery]]\*.*
 
-When the alchemist creates a bomb, he can choose to have it cover the ground in volatile jagged crystals in addition to its normal effects. These crystals act like [[rangoric-srd/equipment/Equipment Goods and Services|caltrops]], evaporating into a smelly but harmless gas in 2d6 rounds.
+When the alchemist creates a bomb, he can choose to have it cover the ground in volatile jagged crystals in addition to its normal effects. These crystals act like [[rangoric-srd/equipment/gear/Caltrops|caltrops]], evaporating into a smelly but harmless gas in 2d6 rounds.

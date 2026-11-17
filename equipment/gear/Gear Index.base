@@ -1,0 +1,134 @@
+filters:
+  or:
+    - file.inFolder("rangoric-srd/equipment/gear")
+    - file.hasTag("rangoric/gear")
+formulas:
+  gp: if(note.price.contains(" cp"), 0.01, if(note.price.contains(" sp"), 0.1, 1)) * number(note.price.split(" ")[0].replace(",", ""))
+views:
+  - type: table
+    name: All gear
+    groupBy:
+      property: note.gear-type
+      direction: ASC
+    order:
+      - file.name
+      - note.price
+      - note.weight
+      - note.book
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Adventuring Gear
+    filters:
+      and:
+        - note["gear-type"] == "adventuring gear"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Special Substances and Items
+    filters:
+      and:
+        - note["gear-type"] == "special substances and items"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Tools and Skill Kits
+    filters:
+      and:
+        - note["gear-type"] == "tools and skill kits"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Clothing
+    filters:
+      and:
+        - note["gear-type"] == "clothing"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Food, Drink, and Lodging
+    filters:
+      and:
+        - note["gear-type"] == "food, drink, and lodging"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Mounts and Related Gear
+    filters:
+      and:
+        - note["gear-type"] == "mounts and related gear"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Transport
+    filters:
+      and:
+        - note["gear-type"] == "transport"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Spellcasting and Services
+    filters:
+      and:
+        - note["gear-type"] == "spellcasting and services"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC

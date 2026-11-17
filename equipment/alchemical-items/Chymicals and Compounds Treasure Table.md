@@ -18,7 +18,7 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 
 | d% | Item |
 |---|---|
-| 01-05 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Acid (generic)]] |
+| 01-05 | [[rangoric-srd/equipment/gear/Acid\|Acid (generic)]] |
 | 06-09 | [[rangoric-srd/equipment/alchemical-items/Glazier’s Acid\|Glazier’s Acid]] |
 | 10-12 | [[rangoric-srd/equipment/alchemical-items/Lockblight Acid\|Lockblight Acid]] |
 | 13-15 | [[rangoric-srd/equipment/alchemical-items/Orc’s Drool Acid\|Orc’s Drool Acid]] |
@@ -46,7 +46,7 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 | d% | Item |
 |---|---|
 | 01-03 | [[rangoric-srd/equipment/alchemical-items/Weakening Acid\|Weakening Acid]] |
-| 04-07 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Acid (generic)]] |
+| 04-07 | [[rangoric-srd/equipment/gear/Acid\|Acid (generic)]] |
 | 08-10 | [[rangoric-srd/equipment/alchemical-items/Lockblight Acid\|Lockblight Acid]] |
 | 11-14 | [[rangoric-srd/equipment/alchemical-items/Masterwreck Acid\|Masterwreck Acid]] |
 | 15-17 | [[rangoric-srd/equipment/alchemical-items/Orc’s Drool Acid\|Orc’s Drool Acid]] |

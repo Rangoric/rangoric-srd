@@ -167,7 +167,7 @@ The following tasks do require checks.
 
 **Special**: If you are riding bareback, you take a –5 penalty on Animal Handling checks.
 
-A [[rangoric-srd/equipment/Equipment Goods and Services|military saddle]] helps with Animal Handling checks related to staying in the saddle.
+A [[rangoric-srd/equipment/gear/Saddle, Military|military saddle]] helps with Animal Handling checks related to staying in the saddle.
 
 The Animal Handling skill is a prerequisite for the feats [[rangoric-srd/feats/Mounted Archery|Mounted Archery]], [[rangoric-srd/feats/Mounted Combat|Mounted Combat]], [[rangoric-srd/feats/Ride-By Attack|Ride-By Attack]], [[rangoric-srd/feats/Spirited Charge|Spirited Charge]], [[rangoric-srd/feats/Trample|Trample]].
 

@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/skill, background]
 
 Appraising a rare or exotic item requires a successful check against DC 15, 20, or higher. If the check is successful, you estimate the value correctly; failure means you cannot estimate the item’s value.
 
-A [[rangoric-srd/equipment/Equipment Goods and Services|magnifying glass]] helps with Appraise checks on small or highly detailed items, such as a gem, and a [[rangoric-srd/equipment/Equipment Goods and Services|merchant’s scale]] helps with items valued by weight, including anything made of precious metals. These bonuses stack.
+A [[rangoric-srd/equipment/gear/Magnifying Glass|magnifying glass]] helps with Appraise checks on small or highly detailed items, such as a gem, and a [[rangoric-srd/equipment/gear/Scale, Merchant's|merchant’s scale]] helps with items valued by weight, including anything made of precious metals. These bonuses stack.
 
 **Action**: Appraising an item takes 1 minute (ten consecutive full-round actions).
 

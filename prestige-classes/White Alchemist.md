@@ -70,7 +70,7 @@ All of the following are class features of the white alchemist prestige class.
 
 *Important:* These feats are in addition to the feats a character of any class gets as she rises in level. The white alchemist is not limited to the list given here when choosing those feats.
 
-**Medicinals**: The white alchemist can boost the efficacy of any healing or curative substances, whether they are herbal, alchemical, or magical in nature (potions, herbal restoratives, [[rangoric-srd/actions/First Aid|first aid]] with a [[rangoric-srd/equipment/Equipment Goods and Services|healer’s kit]], etc.), due to expanded knowledge of healing and the body. ^white-alchemist-medicinals
+**Medicinals**: The white alchemist can boost the efficacy of any healing or curative substances, whether they are herbal, alchemical, or magical in nature (potions, herbal restoratives, [[rangoric-srd/actions/First Aid|first aid]] with a [[rangoric-srd/equipment/gear/Healer's Kit|healer’s kit]], etc.), due to expanded knowledge of healing and the body. ^white-alchemist-medicinals
 
 - *Enhance* (8th level): The curative gains a +1 per die of effectiveness for hit point restoration or it provides the victim a +1 competence bonus on an additional Fortitude save. ^white-alchemist-enhance-medicinals
 - *Perfect* (10th level): The curative operates at maximum efficiency and provides the best amount of healing or medicine it is designed to do (totally negate a poison, maximize a healing draught’s effects, etc.). ^white-alchemist-perfect-medicinals
