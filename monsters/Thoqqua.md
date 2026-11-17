@@ -2,61 +2,60 @@
 srd-type: "monster"
 section: "Monsters"
 size: "Medium"
-creature-type: "Elemental"
-subtypes:
-  - "Earth"
-  - "Extraplanar"
-  - "Fire"
-hit-dice: "3d8+3 (16 hp)"
+creature-type: "Outsider"
+subtypes: ["Earth", "Elemental", "Extraplanar", "Fire"]
+hit-dice: "3d10+6 (22 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares), burrow 20 ft."
-armor-class: "18 (+1 Dex, +7 natural), touch 11, flat-footed 17"
-base-attack: "+2"
+armor-class: "15 (+1 Dex, +4 natural), touch 11, flat-footed 14"
+base-attack: "+3"
 cmb: "+4"
 cmd: "15 (can't be tripped)"
-attack: "Slam +4 melee (1d6+3 plus 2d6 fire)"
-full-attack: "Slam +4 melee (1d6+3 plus 2d6 fire)"
+attack: "Slam +4 melee (1d6+1 plus burn)"
+full-attack: "Slam +4 melee (1d6+1 plus burn)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Heat, burn"
-special-qualities: "Darkvision 60 ft., elemental traits, immunity to fire, tremorsense 60 ft., vulnerability to cold"
-saves: "Fort +4, Ref +2, Will +2"
-abilities: "Str 15, Dex 13, Con 13, Int 6, Wis 12, Cha 10"
-skills: "Fieldcraft +6, Perception +8, Stealth +1"
-skill-ranks: "Fieldcraft 2, Perception 1, Stealth 0"
-feats: "Skill Focus (Perception), Track"
-environment: "Elemental Plane of Fire"
+special-attacks: "Burn (1d6, DC 13)"
+special-qualities: "Darkvision 60 ft., tremorsense 60 ft., molten body, immunity to fire, elemental traits, vulnerability to cold"
+saves: "Fort +5, Ref +4, Will +2"
+abilities: "Str 13, Dex 13, Con 15, Int 6, Wis 12, Cha 10"
+skills: "Acrobatics +7, Fieldcraft +7, Perception +10, Stealth +7"
+skill-ranks: "Acrobatics 3, Fieldcraft 3, Perception 6, Stealth 3"
+feats: "Nimble Moves, Skill Focus (Perception)"
+environment: "Any land (Elemental Plane of Fire)"
 organization: "Solitary or pair"
 challenge-rating: 2
 treasure: "None"
 alignment: "Usually neutral"
 advancement: "4–9 HD (Large)"
 level-adjustment: "—"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Thoqqua|Thoqqua (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Thoqqua|Thoqqua (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Thoqqua
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^earth|Earth]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
-  - **Hit Dice**: 3d8+3 (16 hp)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Earth, Elemental, Extraplanar, Fire)
+  - **Hit Dice**: 3d10+6 (22 hp)
   - **Initiative**: +1
   - **Speed**: 30 ft. (6 squares), burrow 20 ft.
-  - **Armor Class**: 18 (+1 Dex, +7 natural), touch 11, flat-footed 17
-  - **Base Attack**: +2; **CMB**: +4; **CMD**: 15 (can't be tripped)
-  - **Attack**: Slam +4 melee (1d6+3 plus 2d6 fire)
-  - **Full Attack**: Slam +4 melee (1d6+3 plus 2d6 fire)
+  - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
+  - **Base Attack**: +3; **CMB**: +4; **CMD**: 15 (can't be tripped)
+  - **Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
+  - **Full Attack**: Slam +4 melee (1d6+1 plus [[rangoric-srd/monsters/abilities/Burn|burn]])
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Heat, burn
-  - **Special Qualities**: Darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], immunity to fire, [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability to cold]]
-  - **Saves**: Fort +4, Ref +2, Will +2
-  - **Abilities**: Str 15, Dex 13, Con 13, Int 6, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +6, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Stealth|Stealth]] +1
-  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Track|Track]]
-  - **Environment**: Elemental Plane of Fire
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Burn|Burn]] (1d6, DC 13)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]] 60 ft., molten body, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]], [[rangoric-srd/monsters/abilities/Vulnerabilities|vulnerability]] to cold
+  - **Saves**: Fort +5, Ref +4, Will +2
+  - **Abilities**: Str 13, Dex 13, Con 15, Int 6, Wis 12, Cha 10
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7
+  - **Feats**: [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Environment**: Any land (Elemental Plane of Fire)
   - **Organization**: Solitary or pair
   - **Challenge Rating**: 2
   - **Treasure**: None
@@ -64,12 +63,18 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 4–9 HD (Large)
   - **Level Adjustment**: —
 
-A thoqqua is about 1 foot in diameter and 4 to 5 feet long. It weighs about 200 pounds.
+Thoqquas are cantankerous creatures of fire and slag. Their bodies generate incredible heat that allows them to burrow or melt through most surfaces, even solid rock. Thoqquas are native to the vast ash deserts and lava fields where the Plane of Fire abuts the Plane of Earth. There they consume ore and minerals, which their furnace-like bodies then smelt into armor plates that grant the creatures their natural armor—as outsiders, these creatures have no need to eat to survive, but a “starving” thoqqua generally has a lower natural armor bonus than a healthy one.
+
+A thoqqua's frontmost body segment tapers into a straight, horn-like beak that glows with a blistering heat. Steam and smoke constantly hiss from its joints, and from a distance a thoqqua can be mistaken for a strange metallic construct. Adult thoqquas are 5 feet long and weigh 200 pounds.
+
+Their fiery tempers make thoqquas dangerous to approach—they attack without thinking when startled or frustrated. If a thoqqua does not immediately chase away humanoids within its territory, then it gradually comes to view that settlement as property, and even guards it.
+
+Mephits seem to understand the thoqqua thought process, and occasionally broker deals with the simple-minded worms. The mephits say that the mountain-sized ancestors of modern thoqquas were servants of the elemental lords, and dug the first volcanoes in the young worlds of the Material Plane. These progenitor worms then retired to the worlds' cores, where their heat warms the planets even today. Thoqquas on the Material Plane do indeed congregate around volcanoes—though whether this is to protect a mineral-rich food site or a sacred place is unknown.
+
+Thoqquas understand Ignan but can't speak.
 
 ### Combat
 
 When a thoqqua is disturbed, its first instinct is to attack. Its favored tactic is to spring directly at a foe, either by bursting out of the rock or by coiling up its body and launching itself like a spring. (Treat this as a charge, even though the thoqqua does not need to move 10 feet before attacking.)
 
-**Heat (Ex)**: Merely touching or being touched by a thoqqua automatically deals 2d6 fire damage.
-
-**Burn (Ex)**: When a thoqqua hits with its slam attack, the opponent must succeed on a DC 12 Reflex save or catch fire. The save DC is Constitution-based. The flame burns for 1d4 rounds if not extinguished sooner. A burning creature can use a full-round action to put out the flame.
+**Molten Body (Su)**: A thoqqua's body is hot enough to melt stone. Anyone striking a thoqqua with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a thoqqua or is grappled by one takes 3d6 points of fire damage each round the grapple persists. A creature that strikes a thoqqua with a manufactured weapon can attempt a DC 13 Reflex save to pull the weapon away from the creature's molten body quickly enough to avoid having the weapon take 1d6 points of fire damage—damage caused to a weapon in this manner is not halved as is normal for damage caused to items, and ignores the first 5 points of hardness possessed by the item. As a result, most metal weapons can generally safely strike a thoqqua without taking much damage, but wooden weapons have a significant chance of burning away if used against one of these creatures. The save DC is Constitution-based.

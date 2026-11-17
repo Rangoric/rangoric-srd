@@ -2,16 +2,17 @@
 srd-type: "monster"
 section: "Monsters"
 based-on:
+  - "[[path srd 3.5/rules/bestiary/creature-types/Creature SubTypes|Creature Subtypes (PF1)]]"
   - "[[fantasy srd 3.5/monsters/inevitable/Inevitable|Inevitable (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Inevitable
 
-Inevitables are constructs whose sole aim is to enforce the natural laws of the universe.
+Inevitables are construct-like outsiders whose sole aim is to enforce the natural laws of the universe.
 
 Each type of inevitable is designed to find and punish a particular kind of transgression, hunting down a person or group that has violated a fundamental principle. When an inevitable is created, it receives its first mission, then finds the transgressors and metes out appropriate punishment. The sentence is usually death, although some inevitables insist on compensation to the wronged party instead, using geas and mark of justice to ensure compliance. From its first step, an inevitable focuses totally on its target. It continues its efforts no matter how cold the trail or hopeless the task.
 
@@ -21,17 +22,13 @@ Inevitables gladly sacrifice themselves to complete a mission, but they aren’t
 
 Inevitables tend to stick out in a crowd while they’re in observation mode, but they seem oblivious to the attention. Their forms vary, but all inevitables are gold-and-silver clockwork creatures, with gears and pistons where muscles would be on flesh-and-blood creatures. Their eyes glow with a golden radiance.
 
-Note that unlike most constructs, inevitables have an Intelligence score and can think, learn, and remember.
+Inevitables have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|inevitable subtype]]: constructed bodies, regeneration that chaotic weapons overcome, and truespeech.
 
 Inevitables speak Abyssal, Celestial, Infernal, and the native language of their first target.
 
 ### Combat
 
 Unless their very existence is threatened, inevitables focus completely on the transgressor they’ve been assigned to, ignoring other combatants completely. An inevitable might attack anyone who hinders its progress, but it won’t tarry beyond the point where it can reengage its quarry. Inevitables take self-defense very seriously; anyone who attacks an inevitable with what the creature perceives as deadly force is met with deadly force in return.
-
-An inevitable’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
-
-**Fast Healing (Ex)**: An inevitable heals a certain amount of damage each round (specified in each variety’s description) as long as it has at least 1 hit point. However, damage dealt by chaotic weapons heals at the normal rate.
 
   - [[rangoric-srd/monsters/inevitable/Kolyarut|Kolyarut]]
   - [[rangoric-srd/monsters/inevitable/Marut|Marut]]

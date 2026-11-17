@@ -1,63 +1,63 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]"
 size: "Large"
-creature-type: "Elemental"
-subtypes:
-  - "Air"
-  - "Extraplanar"
-hit-dice: "8d8+24 (60 hp)"
+creature-type: "Outsider"
+subtypes: ["Air", "Elemental", "Extraplanar"]
+hit-dice: "8d10+24 (68 hp)"
 initiative: "+11"
-speed: "Fly 100 ft. (perfect) (20 squares)"
-armor-class: "20 (–1 size, +7 Dex, +4 natural), touch 16, flat-footed 13"
-base-attack: "+6"
-cmb: "+9"
-cmd: "27"
-attack: "Slam +12 melee (2d6+2)"
-full-attack: "2 slams +12 melee (2d6+2)"
+speed: "fly 100 ft. (perfect)"
+armor-class: "21 (+7 Dex, +1 dodge, +4 natural, –1 size), touch 17, flat-footed 13"
+base-attack: "+8"
+cmb: "+13"
+cmd: "31"
+attack: "Slam +14 melee (1d8+4)"
+full-attack: "2 slams +14 melee (1d8+4)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Air mastery, whirlwind"
-special-qualities: "Damage reduction 5/–, darkvision 60 ft., elemental traits"
-saves: "Fort +5, Ref +13, Will +2"
-abilities: "Str 14, Dex 25, Con 16, Int 6, Wis 11, Cha 11"
-skills: "Perception +11"
-skill-ranks: "Perception 8"
-feats: "Combat Reflexes, Dodge, Flyby Attack, Improved Initiative (B), Weapon Finesse (B)"
+special-attacks: "Whirlwind (DC 18)"
+special-qualities: "Darkvision 60 ft., air mastery, damage reduction 5/-, elemental traits"
+saves: "Fort +9, Ref +13, Will +2"
+abilities: "Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11"
+skills: "Acrobatics +21, Escape Artist +15, Perception +11, Stealth +11, Theology +5"
+skill-ranks: "Acrobatics 13, Escape Artist 5, Perception 8, Stealth 5, Theology 4"
+feats: "Combat Reflexes, Dodge, Flyby Attack, Improved Initiative, Mobility, Weapon Finesse"
 environment: "Elemental Plane of Air"
-organization: "Solitary"
+organization: "Solitary, pair, or gang (3–8)"
 challenge-rating: 5
 treasure: "None"
 alignment: "Usually neutral"
 advancement: "9–15 HD (Large)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Elemental, Air, Large|Elemental, Air, Large (PF1)]]"
   - "[[fantasy srd 3.5/monsters/elemental/Air Elemental, Large|Air Elemental, Large (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Air Elemental, Large
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 8d8+24 (60 hp)
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+  - **Hit Dice**: 8d10+24 (68 hp)
   - **Initiative**: +11
-  - **Speed**: Fly 100 ft. (perfect) (20 squares)
-  - **Armor Class**: 20 (–1 size, +7 Dex, +4 natural), touch 16, flat-footed 13
-  - **Base Attack**: +6; **CMB**: +9; **CMD**: 27
-  - **Attack**: Slam +12 melee (2d6+2)
-  - **Full Attack**: 2 slams +12 melee (2d6+2)
+  - **Speed**: fly 100 ft. (perfect)
+  - **Armor Class**: 21 (+7 Dex, +1 dodge, +4 natural, –1 size), touch 17, flat-footed 13
+  - **Base Attack**: +8; **CMB**: +13; **CMD**: 31
+  - **Attack**: Slam +14 melee (1d8+4)
+  - **Full Attack**: 2 slams +14 melee (1d8+4)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Air mastery, whirlwind
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/–, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +5, Ref +13, Will +2
-  - **Abilities**: Str 14, Dex 25, Con 16, Int 6, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +11
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse (B)]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 18)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+  - **Saves**: Fort +9, Ref +13, Will +2
+  - **Abilities**: Str 18, Dex 25, Con 16, Int 6, Wis 11, Cha 11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +21, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +15, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +11, [[rangoric-srd/skills/Theology|Theology]] +5
+  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Elemental Plane of Air
-  - **Organization**: Solitary
+  - **Organization**: Solitary, pair, or gang (3–8)
   - **Challenge Rating**: 5
   - **Treasure**: None
   - **Alignment**: Usually neutral

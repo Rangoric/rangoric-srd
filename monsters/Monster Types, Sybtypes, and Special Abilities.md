@@ -338,6 +338,22 @@ An incorporeal creature moves silently and cannot be heard with Perception check
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|Incorporeality]] under Special Abilities.
 
+**Inevitable Subtype**: Inevitables are construct-like [[#^outsider|outsiders]] built by the axiomites to enforce law. ^inevitable
+
+*Traits*: An inevitable has the following traits.
+
+  - [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]].
+
+  - *Constructed*: Although inevitables are living outsiders, their bodies are constructed of physical components, and in many ways they function as constructs. For the purposes of effects targeting creatures by type (such as a [[rangoric-srd/classes/Ranger|ranger]]'s favored enemy and *[[rangoric-srd/magic-items/weapon-abilities/Bane (Weapon Special Ability)|bane]]* weapons), inevitables count as both outsiders and [[#^construct|constructs]]. They are immune to death effects, disease, mind-affecting effects, necromancy effects, paralysis, poison, sleep, stun, and any effect that requires a Fortitude save (unless the effect also works on objects, or is harmless). Inevitables are not subject to nonlethal damage, ability damage, ability drain, fatigue, exhaustion, or energy drain. They are not at risk of death from massive damage. They have bonus hit points as constructs of their size.
+
+  - *Saves*: An inevitable's good saving throws are Fortitude and Will.
+
+  - *Skills*: In addition to the class skills all outsiders have, inevitables have [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Intimidation|Intimidation]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] as class skills.
+
+  - *Regeneration (Ex)*: Inevitables have [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] (chaotic). The regeneration amount varies by the type of inevitable.
+
+  - *Truespeech (Su)*: An inevitable can speak with any creature that has a language, as if using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level 14th). This ability is always active.
+
 **Kitsune Subtype**: A humanoid subtype for [[rangoric-srd/races/Kitsune|kitsune]], who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
