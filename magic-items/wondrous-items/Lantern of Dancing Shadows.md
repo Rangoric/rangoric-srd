@@ -1,0 +1,28 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "none"
+aura: "Moderate transmutation"
+caster-level: 6
+prerequisites: "Craft Wondrous Item, darkness, mass ghostbane dirge, shadow conjuration"
+price: "41,000 gp"
+cost: "20,500 gp"
+weight: "2 lbs."
+book: "Advanced Race Guide"
+based-on:
+  - "[[path srd 3.5/items/featured-race/Lantern of Dancing Shadows|Lantern of Dancing Shadows (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Lantern of Dancing Shadows|Lantern of Dancing Shadows (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Lantern of Dancing Shadows
+
+This small lantern is made of thin, nearly transparent paper and black iron. The lantern burns for 6 hours on 1 pint of oil. The lantern's light causes the illumination level in a 30-foot radius to move one step toward dim light, from bright light to normal light, from normal light to dim light, or from darkness to dim light. The lantern has no effect in an area that is already in dim light. Nonmagical sources of light, such as torches and lanterns, do not increase the light level in the lantern's area. Magical light or darkness only change the light level in the lantern's area if they have a higher caster level than the lantern.
+
+Once per day, the lit *lantern of dancing shadows* can be commanded to create quasi-real illusions from the shadows cast by its light, as the *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]* spell. In addition, once per day, the lantern can be commanded to solidify shadows for a short period of time. These solidified shadows cause [[rangoric-srd/rules/Special Abilities and Conditions#^incorporeal|incorporeal]] creatures within the lantern's illumination radius (30 feet) to coalesce into semi-physical forms, as the *[[rangoric-srd/spells/Ghostbane Dirge, Mass|mass ghostbane dirge]]* spell.
+
+Moderate transmutation; CL 6th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Darkness|darkness]]*, *[[rangoric-srd/spells/Ghostbane Dirge, Mass|mass ghostbane dirge]]*, *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]*; Price 41,000 gp; Cost 20,500 gp; Weight 2 lbs.
