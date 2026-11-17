@@ -1,0 +1,22 @@
+---
+srd-type: "feat"
+section: "Feats"
+prerequisites: "Caster level 7th, mental focus class feature."
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/feats/Extend Resonant Power|Extend Resonant Power (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/feat]
+---
+
+# Extend Resonant Power
+
+You can share the benefits of your resonant powers with nearby allies.
+
+**Prerequisites**: Caster level 7th, [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] class feature.
+
+**Benefit**: Select an [[rangoric-srd/class-options/implement-schools/Implement Schools|implement school]]. When you place mental focus points into an implement of that school, you can choose to gain benefits from the resonant power as if you had placed only half as many points of mental focus into the implement. If you do, you can extend the same benefits to one additional ally within 30 feet at the time you invest mental focus. If the ally moves outside of the extended power’s range, the power is suppressed, but it resumes functioning once the ally moves within range again. You can spend 1 point of mental focus from your implement to pass the effect to a new target, so long as both the original target and the new one are within 30 feet. This feat can affect only one implement from a given school at a time, even if you have selected the same implement school more than once.
+
+**Special**: You can take this feat multiple times. Each time you take the feat, select a different implement school.

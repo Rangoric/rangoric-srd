@@ -10,6 +10,8 @@ based-on:
   - "[[path srd 3.5/items/adventuring-gear/Brawler's Kit|Brawler's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Kineticist's|Kit, Kineticist's (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Mesmerist's|Kit, Mesmerist's (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/items/gear/Kit, Occultist's|Kit, Occultist's (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/items/gear/Occultist's Implement|Occultist's Implement (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Psychic's|Kit, Psychic's (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Spiritualist's|Kit, Spiritualist's (PF1 Foundry)]]"
 status: draft
@@ -73,6 +75,8 @@ tags: [rangoric, rangoric/overview]
 | Mess kit                 | 2 sp    | 1 lb.       |
 | Mirror, small steel      | 10 gp   | 1/2 lb.     |
 | Mug/Tankard, clay        | 2 cp    | 1 lb.       |
+| Occultist’s implement    | 10 gp   | 1/2 lb.     |
+| Occultist’s kit          | 45 gp   | 32-1/2 lb.  |
 | Oil (1-pint flask)       | 1 sp    | 1 lb.       |
 | Paper (sheet)            | 4 sp    | —           |
 | Parchment (sheet)        | 2 sp    | —           |
@@ -306,6 +310,10 @@ For the same cost, you can buy manacles for a Small creature. For a Large creatu
 **Mesmerist’s Kit**: A starting kit for a [[rangoric-srd/classes/Mesmerist|mesmerist]]. It includes a backpack, a bedroll, a belt pouch, an entertainer’s outfit, flint and steel, a hypnotist’s locket, ink (1 ounce), an inkpen, an iron pot, stationery, torches (10), trail rations (5 days), and a waterskin.
 
 **Mess Kit**: This kit includes a plate, bowl, cup, fork, knife, and spoon, made of wood, horn, or tin. Each item has a handle or small hole, and can be tied together using the included leather cord.
+
+**Occultist’s Implement**: This bauble, bit of clothing, or relic has some minor historical significance. Though not especially valuable, it’s useful to an [[rangoric-srd/classes/Occultist|occultist]], who can use it as an [[rangoric-srd/classes/Occultist#^occultist-implements|implement]]. Any such item is nonmagical, even if it appears to be a rod or wand. Implements that already have a mundane version with a price higher than 10 gp (such as armor, shields, weapons, and tarot decks) use their normal item entries instead of this catchall.
+
+**Occultist’s Kit**: A starting kit for an [[rangoric-srd/classes/Occultist|occultist]]. It includes a backpack, a bedroll, a belt pouch, chalk (10 pieces), flint and steel, ink (1 ounce), an inkpen, an iron pot, a journal, occultist’s implements (2), torches (10), trail rations (5 days), and a waterskin.
 
 **Oil**: A pint of oil burns for 6 hours in a lantern. You can use a flask of oil as a splash weapon. Use the rules for alchemist’s fire, except that it takes a full round action to prepare a flask with a fuse. Once it is thrown, there is a 50% chance of the flask igniting successfully.
 

@@ -1,0 +1,22 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "focus power"
+class: ["Occultist"]
+implement-school: "Enchantment"
+level: 7
+ability-type: "Sp"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Binding Pattern|Binding Pattern (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/class-option]
+---
+
+# Binding Pattern
+
+*A focus power of [[rangoric-srd/class-options/implement-schools/Enchantment Implements|enchantment implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp).*
+
+As a standard action, you can expend 1 point of mental focus to create a binding pattern of psychic energy that causes a living creature to become [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]]. The target must be within 30 feet of you, and it can attempt a Will saving throw to negate the effect. If it fails the save, it is paralyzed for 1 round for every 2 occultist levels you possess. At the end of each of its turns, it can attempt another Will save to end the paralyzed effect and instead be [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for the remaining duration. This is a mind-affecting compulsion effect. You must be at least 7th level to select this focus power.

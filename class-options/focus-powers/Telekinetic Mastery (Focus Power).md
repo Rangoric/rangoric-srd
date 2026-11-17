@@ -1,0 +1,22 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "focus power"
+class: ["Occultist"]
+implement-school: "Transmutation"
+level: 9
+ability-type: "Sp"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Telekinetic Mastery|Telekinetic Mastery (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/class-option]
+---
+
+# Telekinetic Mastery
+
+*A focus power of [[rangoric-srd/class-options/implement-schools/Transmutation Implements|transmutation implements]], for the [[rangoric-srd/classes/Occultist|occultist]] (Sp).*
+
+As a standard action, you can expend 1 point of mental focus to grant yourself telekinetic power. This functions as *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, except you don’t need to concentrate on the effect to maintain it, and using any one of its effects is a standard action. This effect lasts for 1 round per occultist level you possess. You must be at least 9th level to select this focus power.
