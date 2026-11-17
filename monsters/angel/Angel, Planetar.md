@@ -1,110 +1,79 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/angel/Angel|Angel]]"
 size: "Large"
 creature-type: "Outsider"
-subtypes:
-  - "Angel"
-  - "Extraplanar"
-  - "Good"
-hit-dice: "14d8+70 (133 hp)"
+subtypes: ["Angel", "Extraplanar", "Good"]
+hit-dice: "17d10+136 (229 hp)"
 initiative: "+8"
 speed: "30 ft. (6 squares), fly 90 ft. (good)"
-armor-class: "32 (–1 size, +4 Dex, +19 natural), touch 13, flat-footed 28"
-base-attack: "+14"
-cmb: "+22 (+24 sunder)"
-cmd: "36 (38 vs. sunder)"
-attack: "+3 greatsword +23 melee (3d6+13/19–20) or slam +20 melee (2d8+10)"
-full-attack: "+3 greatsword +23/+18/+13 melee (3d6+13/19–20) or slam +20 melee (2d8+10)"
+armor-class: "32 (+4 Dex, +19 natural, –1 size; +4 deflection vs. evil), touch 13, flat-footed 28"
+base-attack: "+17"
+cmb: "+26"
+cmd: "40"
+attack: "+3 holy greatsword +27 melee (3d6+15/19–20) or slam +24 melee (2d8+12)"
+full-attack: "+3 holy greatsword +27/+22/+17 melee (3d6+15/19–20); or slam +24 melee (2d8+12)"
 space-reach: "10 ft./10 ft."
-special-attacks: "Spell-like abilities, spells"
-special-qualities: "Damage reduction 10/evil, darkvision 60 ft., low-light vision, immunity to acid, cold, and petrification, protective aura, regeneration 10, resistance to electricity 10 and fire 10, spell resistance 30, tongues"
-saves: "Fort +14 (+18 against poison), Ref +13, Will +15"
-abilities: "Str 25, Dex 19, Con 20, Int 22, Wis 23, Cha 22"
-skills: "Craft or Knowledge skills (any four) +23, Escape Artist +21, Fieldcraft +23 (+23 with bindings), Intimidation +23, Perception +23, Persuasion +23, Sense Motive +23, Investigation +23, Stealth +17"
-skill-ranks: "Craft or Knowledge skills (any four) 14, Escape Artist 14, Fieldcraft 14, Intimidation 14, Investigation 14, Perception 14, Persuasion 14, Sense Motive 14, Stealth 14"
-feats: "Blind-Fight, Cleave, Improved Initiative, Improved Sunder, Power Attack"
+special-attacks: "Spell-like abilities"
+special-qualities: "Darkvision 60 ft., detect evil, detect snares and pits, low-light vision, true seeing, regeneration 10 (evil weapons and effects), protective aura, change shape (alter self), damage reduction 10/evil, immunity to acid, cold and petrification, resistance to electricity 10 and fire 10, spell resistance 27"
+saves: "Fort +19, Ref +11, Will +19"
+abilities: "Str 27, Dex 19, Con 24, Int 22, Wis 25, Cha 24"
+skills: "Acrobatics +26, Craft (any one) +26, Intimidation +27, Medicine +24, Perception +27, Persuasion +27, Sense Motive +27, Society +23, Stealth +20, Theology +26"
+skill-ranks: "Acrobatics 21, Craft (any one) 17, Intimidation 17, Medicine 14, Perception 17, Persuasion 17, Sense Motive 17, Society 14, Stealth 17, Theology 17"
+feats: "Blind-Fight, Cleave, Great Fortitude, Improved Initiative, Improved Sunder, Iron Will, Lightning Reflexes, Power Attack, Toughness"
 environment: "Any good-aligned plane"
 organization: "Solitary or pair"
 challenge-rating: 16
-treasure: "No coins; double goods; standard items"
-alignment: "Always good (any)"
+treasure: "Double (+3 holy greatsword)"
+alignment: "Usually neutral good"
 advancement: "15–21 HD (Large); 22–42 HD (Huge)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/angel/Angel|Angel]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Angel, Planetar|Angel, Planetar (PF1)]]"
   - "[[fantasy srd 3.5/monsters/angel/Angel, Planetar|Angel, Planetar (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Angel, Planetar
 
-  - Large Outsider ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^angel|Angel]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^good|Good]])
-  - **Hit Dice**: 14d8+70 (133 hp)
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Angel, Extraplanar, Good)
+  - **Hit Dice**: 17d10+136 (229 hp)
   - **Initiative**: +8
   - **Speed**: 30 ft. (6 squares), fly 90 ft. (good)
-  - **Armor Class**: 32 (–1 size, +4 Dex, +19 natural), touch 13, flat-footed 28
-  - **Base Attack**: +14; **CMB**: +22 (+24 sunder); **CMD**: 36 (38 vs. sunder)
-  - **Attack**: +3 greatsword +23 melee (3d6+13/19–20) or slam +20 melee (2d8+10)
-  - **Full Attack**: +3 greatsword +23/+18/+13 melee (3d6+13/19–20) or slam +20 melee (2d8+10)
+  - **Armor Class**: 32 (+4 Dex, +19 natural, –1 size; +4 deflection vs. evil), touch 13, flat-footed 28
+  - **Base Attack**: +17; **CMB**: +26; **CMD**: 40
+  - **Attack**: +3 holy greatsword +27 melee (3d6+15/19–20) or slam +24 melee (2d8+12)
+  - **Full Attack**: +3 holy greatsword +27/+22/+17 melee (3d6+15/19–20); or slam +24 melee (2d8+12)
   - **Space/Reach**: 10 ft./10 ft.
-  - **Special Attacks**: Spell-like abilities, spells
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/evil, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], immunity to acid, cold, and petrification, protective aura, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10, [[rangoric-srd/monsters/abilities/Resistance|resistance to electricity]] 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 30, [[rangoric-srd/spells/Tongues|tongues]]
-  - **Saves**: Fort +14 (+18 against poison), Ref +13, Will +15
-  - **Abilities**: Str 25, Dex 19, Con 20, Int 22, Wis 23, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any four) +23, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +21, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +23 (+23 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +23, [[rangoric-srd/skills/Investigation|Investigation]] +23, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +23, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +17
-  - **Unspent Skill Points**: 28
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Power Attack|Power Attack]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., *[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]*, [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], *[[rangoric-srd/spells/True Seeing|true seeing]]*, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 10 (evil weapons and effects), protective aura, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/evil, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to acid, cold and petrification, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
+  - **Saves**: Fort +19, Ref +11, Will +19
+  - **Abilities**: Str 27, Dex 19, Con 24, Int 22, Wis 25, Cha 24
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +26, [[rangoric-srd/skills/Craft|Craft]] (any one) +26, [[rangoric-srd/skills/Intimidation|Intimidation]] +27, [[rangoric-srd/skills/Medicine|Medicine]] +24, [[rangoric-srd/skills/Perception|Perception]] +27, [[rangoric-srd/skills/Persuasion|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +27, [[rangoric-srd/skills/Society|Society]] +23, [[rangoric-srd/skills/Stealth|Stealth]] +20, [[rangoric-srd/skills/Theology|Theology]] +26
+  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]]
   - **Environment**: Any good-aligned plane
   - **Organization**: Solitary or pair
   - **Challenge Rating**: 16
-  - **Treasure**: No coins; double goods; standard items
-  - **Alignment**: Always good (any)
+  - **Treasure**: Double (+3 holy greatsword)
+  - **Alignment**: Usually neutral good
   - **Advancement**: 15–21 HD (Large); 22–42 HD (Huge)
   - **Level Adjustment**: —
 
-A planetar is nearly 9 feet tall and weighs about 500 pounds.
+Planetars are the generals of celestial armies. A typical planetar stands 9 feet tall and weighs 500 pounds. They focus on combat and the destruction of evil; though they understand diplomacy, a planetar would rather lead the charge against an army of fiends than negotiate peace.
 
-## Combat
+Planetars speak Celestial, Draconic and Infernal, and can speak with almost any creature by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^angel|truespeech]].
+
+### Combat
 
 Despite their vast array of magical powers, planetars are likely to wade into melee with their +3 greatswords. They particularly enjoy fighting fiends.
 
-A planetar’s natural weapons, as well as any weapons it wields, are treated as good-aligned for the purpose of overcoming damage reduction.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): Constant—*[[rangoric-srd/spells/Detect Evil|detect evil]]*, *[[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]]*, *[[rangoric-srd/spells/Discern Lies|discern lies]]* (DC 20), *[[rangoric-srd/spells/True Seeing|true seeing]]*; At will—*[[rangoric-srd/spells/Continual Flame|continual flame]]*, *[[rangoric-srd/spells/Dispel Magic|dispel magic]]*, *[[rangoric-srd/spells/Holy Smite|holy smite]]* (DC 21), *[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Restoration, Lesser|lesser restoration]]*, *[[rangoric-srd/spells/Remove Curse|remove curse]]*, *[[rangoric-srd/spells/Remove Disease|remove disease]]*, *[[rangoric-srd/spells/Remove Fear|remove fear]]* (DC 18), *[[rangoric-srd/spells/Speak with Dead|speak with dead]]* (DC 20); 3/day—*[[rangoric-srd/spells/Blade Barrier|blade barrier]]* (DC 21), *[[rangoric-srd/spells/Flame Strike|flame strike]]* (DC 22), *[[rangoric-srd/spells/Power Word Stun|power word stun]]*, *[[rangoric-srd/spells/Raise Dead|raise dead]]*, *[[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]]*; 1/day—*[[rangoric-srd/spells/Earthquake|earthquake]]* (DC 25), *[[rangoric-srd/spells/Restoration, Greater|greater restoration]]*, *[[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]]* (DC 25), *[[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]]*.
 
-**Regeneration**: A planetar takes damage from evil-aligned weapons and from spells and effects with the evil descriptor.
+**Spells prepared** (CL 16th): 8th—*[[rangoric-srd/spells/Earthquake|earthquake]]* (DC 25), *[[rangoric-srd/spells/Fire Storm|fire storm]]* (DC 25); 7th—*[[rangoric-srd/spells/Holy Word|holy word]]* (DC 24), *[[rangoric-srd/spells/Regenerate|regenerate]]* (2); 6th—*[[rangoric-srd/spells/Banishment|banishment]]* (DC 23), *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]]*, *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Cure Moderate Wounds, Mass|mass cure moderate wounds]]* (DC 23); 5th—*[[rangoric-srd/spells/Break Enchantment|break enchantment]]*, *[[rangoric-srd/spells/Dispel Evil|dispel evil]]* (2, DC 22), *[[rangoric-srd/spells/Plane Shift|plane shift]]* (DC 22), *[[rangoric-srd/spells/Righteous Might|righteous might]]*; 4th—*[[rangoric-srd/spells/Death Ward|death ward]]*, *[[rangoric-srd/spells/Dismissal|dismissal]]* (DC 21), *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]* (DC 21), *[[rangoric-srd/spells/Summon Monster IV|summon monster IV]]*; 3rd—*[[rangoric-srd/spells/Cure Serious Wounds|cure serious wounds]]* (2), *[[rangoric-srd/spells/Daylight|daylight]]*, *[[rangoric-srd/spells/Invisibility Purge|invisibility purge]]*, *[[rangoric-srd/spells/Summon Monster III|summon monster III]]*, *[[rangoric-srd/spells/Wind Wall|wind wall]]*; 2nd—*[[rangoric-srd/spells/Align Weapon|align weapon]]* (2), *[[rangoric-srd/spells/Bear’s Endurance|bear's endurance]]* (2), *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]]* (2), *[[rangoric-srd/spells/Eagle’s Splendor|eagle's splendor]]*; 1st—*[[rangoric-srd/spells/Bless|bless]]* (2), *[[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]* (4), *[[rangoric-srd/spells/Shield of Faith|shield of faith]]*; 0 (at will)—*[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Purify Food and Drink|purify food and drink]]*, *[[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*, *[[rangoric-srd/spells/Virtue|virtue]]*.
 
-**Spell-Like Abilities**: Caster level 17th. The save DCs are Charisma-based.  
-
-At will - [[rangoric-srd/spells/Continual Flame|continual flame]], [[rangoric-srd/spells/Dispel Magic|dispel magic]], [[rangoric-srd/spells/Holy Smite|holy smite]] (DC 20), [[rangoric-srd/spells/Spells H to L|invisibility]] (self only), [[rangoric-srd/spells/Restoration, Lesser|lesser restoration]] (DC 18), [[rangoric-srd/spells/Remove Curse|remove curse]] (DC 19), [[rangoric-srd/spells/Remove Disease|remove disease]] (DC 19), [[rangoric-srd/spells/Remove Fear|remove fear]] (DC 17), [[rangoric-srd/spells/Speak with Dead|speak with dead]] (DC 19); 3/day—[[rangoric-srd/spells/Blade Barrier|blade barrier]] (DC 22), [[rangoric-srd/spells/Flame Strike|flame strike]] (DC 21), [[rangoric-srd/spells/Polymorph|polymorph]] (self only), [[rangoric-srd/spells/Power Word Stun|power word stun]], [[rangoric-srd/spells/Raise Dead|raise dead]], [[rangoric-srd/spells/Waves of Fatigue|waves of fatigue]];
-
-1/day - [[rangoric-srd/spells/Earthquake|earthquake]] (DC 24), [[rangoric-srd/spells/Restoration, Greater|greater restoration]] (DC 23), [[rangoric-srd/spells/Charm Monster, Mass|mass charm monster]] (DC 24), [[rangoric-srd/spells/Waves of Exhaustion|waves of exhaustion]].
-
-The following abilities are always active on the planetar’s person, as the spells (caster level 17th): [[rangoric-srd/spells/Detect Evil|detect evil]], [[rangoric-srd/spells/Detect Snares and Pits|detect snares and pits]], [[rangoric-srd/spells/Discern Lies|discern lies]] (DC 20), [[rangoric-srd/spells/See Invisibility|see invisibility]], and [[rangoric-srd/spells/True Seeing|true seeing]]. They can be dispelled, but the planetar can reactivate them as a free action.
-
-**Spells**: Planetars can cast divine spells as 17th-level clerics. A planetar has access to two of the following domains: [[rangoric-srd/class-options/domains/Air Domain|Air]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Good Domain|Good]], [[rangoric-srd/class-options/domains/Law Domain|Law]], or [[rangoric-srd/class-options/domains/War Domain|War]] (plus any others from its deity). The save DCs are Wisdom-based.
-
-*Typical [[rangoric-srd/spells/Cleric Spell List|Cleric Spells]] Prepared (6/8/8/7/7/6/6/4/3/2; save DC 16 + spell level)*:  
-[[rangoric-srd/spells/Cleric Spell List|0]]—create water, detect magic, guidance, resistance (2), virtue;
-
-[[rangoric-srd/spells/Cleric Spell List|1st]]—bless (2), cause fear, divine favor (2), entropic shield, inflict light wounds\*, shield of faith;
-
-[[rangoric-srd/spells/Cleric Spell List|2nd]]—aid\*, align weapon, bear ’s endurance, bull’s strength (2), consecrate, eagle’s splendor, hold person;
-
-[[rangoric-srd/spells/Cleric Spell List|3rd]]—contagion\*, daylight, invisibility purge, prayer (2), summon monster III, wind wall;
-
-[[rangoric-srd/spells/Cleric Spell List|4th]]— death ward, dismissal, inflict critical wounds\*, neutralize poison (2), summon monster IV;
-
-[[rangoric-srd/spells/Cleric Spell List|5th]]— break enchantment, circle of doom\*, dispel evil, mark of justice, plane shift, righteous might;
-
-[[rangoric-srd/spells/Cleric Spell List|6th]]—banishment, greater dispel magic, harm\*, heal, heroes’ feast, mass cure moderate wounds;
-
-[[rangoric-srd/spells/Cleric Spell List|7th]]— dictum, disintegrate\*, holy word, regenerate;
-
-[[rangoric-srd/spells/Cleric Spell List|8th]]—holy aura\*, mass cure critical wounds, shield of law;
-
-[[rangoric-srd/spells/Cleric Spell List|9th]]—implosion, summon monster IX (good)\*.
-
-\*Domain spell. Domains: Destruction and Good.
+**Spells**: Planetars cast divine spells as 16th-level clerics. They do not gain access to domains or other cleric abilities.

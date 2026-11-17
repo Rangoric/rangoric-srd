@@ -33,7 +33,7 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | 9th Level                                                                                                                              |    |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -- |
 | [[rangoric-srd/monsters/Couatl\|Couatl]]                                                                                             | LG |
-| [[rangoric-srd/monsters/Leonal\|Leonal (guardinal)]]                                                                                 | NG |
+| [[rangoric-srd/monsters/agathion/Leonal\|Leonal (agathion)]]                                                                         | NG |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Roc\|roc]]                                         | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, elder (any)]]                                                                | N  |
 | [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)\|Devil, barbed]]                                                               | LE |

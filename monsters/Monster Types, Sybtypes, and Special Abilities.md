@@ -45,25 +45,51 @@ tags: [rangoric, rangoric/overview]
 
 **Alternate Form (Su)**: See [[rangoric-srd/monsters/abilities/Alternate Form|alternate form]]. ^alternate-form
 
+**Agathion Subtype**: Agathions are beast-aspect [[#^outsider|outsiders]] native to the neutral good-aligned Outer Planes. ^agathion
+
+*Traits*: An agathion has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]].
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to electricity and petrification.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to cold 10 and sonic 10.
+
+  - *Lay on Hands*: As a [[rangoric-srd/classes/Paladin|paladin]] whose level equals the agathion’s Hit Dice.
+
+  - +4 racial bonus on saves against poison.
+
+  - Except where otherwise noted, agathions speak Celestial, Infernal, and Draconic.
+
+  - *Speak with Animals (Su)*: This ability works like *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* (caster level equal to the agathion’s Hit Dice) but is a free action and does not require sound.
+
+  - *Truespeech (Su)*: All agathions can speak with any creature that has a language, as though using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level equal to the agathion’s Hit Dice). This ability is always active.
+
+  - Agathions have the [[#^good|good]] subtype, so their natural weapons and any weapons they wield count as good for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+
 **Air Subtype**: This subtype usually is used for [[#^elemental|elementals]] and [[#^outsider|outsiders]] with a connection to the Elemental Plane Air. Air creatures always have fly speeds and usually have perfect maneuverability. ^air
 
 **Amphibious (Ex)**: See [[rangoric-srd/monsters/abilities/Amphibious|amphibious]]. ^amphibious
 
 **Angel Subtype**: Angels are a race of celestials, or good [[#^outsider|outsiders]], native to the good-aligned Outer Planes. ^angel
 
-*Traits*: An angel possesses the following traits (unless otherwise noted in a creature’s entry).
+*Traits*: An angel possesses the following traits (unless otherwise noted in a creature's entry).
 
-  - Darkvision out to 60 feet and low-light vision.
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
 
-  - Immunity to acid, cold, and petrification.
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to acid, cold, and petrification.
 
-  - Resistance to electricity 10 and fire 10.
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to electricity 10 and fire 10.
 
-  -  +4 racial bonus on saves against poison.
+  - +4 racial bonus on saves against poison.
 
-  - Protective Aura (Su): Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel. Otherwise, it functions as a [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]] effect and a [[rangoric-srd/spells/Spells H to L|lesser globe of invulnerability]], both with a radius of 20 feet (caster level equals angel’s HD). (The defensive benefits from the circle are not included in an angel’s statistics block.)
+  - *Protective Aura (Su)*: Against attacks made or effects created by evil creatures, this ability provides a +4 deflection bonus to AC and a +4 resistance bonus on saving throws to anyone within 20 feet of the angel. Otherwise, it functions as a *[[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]]* effect and a *[[rangoric-srd/spells/Globe of Invulnerability, Lesser|lesser globe of invulnerability]]*, both with a radius of 20 feet (caster level equals angel’s HD). This aura can be dispelled, but the angel can create it again as a free action on its next turn. The defensive benefits from the circle are not included in an angel’s stat block.
 
-  - Tongues (Su): All angels can speak with any creature that has a language, as though using a [[rangoric-srd/spells/Tongues|tongues]] spell (caster level equal to angel’s Hit Dice). This ability is always active.
+  - *Truespeech (Su)*: All angels can speak with any creature that has a language, as though using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level equal to angel’s Hit Dice). This ability is always active.
+
+  - Except where otherwise noted, angels speak Celestial, Draconic, and Infernal.
+
+  - Angels have the [[#^good|good]] subtype, so their natural weapons and any weapons they wield count as good for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Animal Type**: An animal is a living, nonhuman creature, usually a vertebrate with no magical abilities and no innate capacity for language or culture. ^animal
 
@@ -97,24 +123,42 @@ tags: [rangoric, rangoric/overview]
 
 **Archon Subtype**: Archons are a race of celestials, or good [[#^outsider|outsiders]], native to lawful good-aligned Outer Planes. ^archon
 
-*Traits*: An archon possesses the following traits (unless otherwise noted in a creature’s entry).
+*Traits*: An archon possesses the following traits (unless otherwise noted in a creature's entry).
 
-  - Darkvision out to 60 feet and low-light vision.
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
 
-  - Aura of Menace (Su): A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a –2 penalty on attacks, AC, and saves for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
+  - *Aura of Menace (Su)*: A righteous aura surrounds archons that fight or get angry. Any hostile creature within a 20-foot radius of an archon must succeed on a Will save to resist its effects. The save DC varies with the type of archon, is Charisma-based, and includes a +2 racial bonus. Those who fail take a –2 penalty on attack rolls, on saves, and to AC for 24 hours or until they successfully hit the archon that generated the aura. A creature that has resisted or broken the effect cannot be affected again by the same archon’s aura for 24 hours.
 
-  - Immunity to electricity and petrification.
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to electricity and petrification.
 
-  - \+4 racial bonus on saves against poison.
+  - +4 racial bonus on saves against poison.
 
-  - [[rangoric-srd/spells/Magic Circle against Evil|Magic Circle against Evil]] (Su): A magic circle against evil effect always surrounds an archon (caster level equals the archon’s Hit Dice). (The defensive benefits from the circle are not included in an archon’s statistics block.)
+  - *Teleport (Sp)*: Archons can use *[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of carried objects.
 
-  - Teleport (Su): Archons can use [[rangoric-srd/spells/Teleport, Greater|greater teleport]] at will, as the spell (caster level 14th), except that the creature can transport only itself and up to 50 pounds of objects.
+  - *Truespeech (Su)*: All archons can speak with any creature that has a language, as though using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level 14th). This ability is always active.
 
-  - Tongues (Su): All archons can speak with any creature that has a language, as though using a [[rangoric-srd/spells/Tongues|tongues]] spell (caster level 14th). This ability is always active.
+  - Except where otherwise noted, archons speak Celestial, Draconic, and Infernal.
+
+  - Archons have the [[#^lawful|lawful]] and [[#^good|good]] subtypes, so their natural weapons and any weapons they wield count as lawful and good for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Augmented Subtype**: A creature receives this subtype whenever something happens to change its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature’s original type. A creature with the augmented subtype usually has the traits of its current type, but the features of its original type.  
  ^augmented
+
+**Azata Subtype**: Azatas are a race of celestials, or good [[#^outsider|outsiders]], native to chaotic good-aligned Outer Planes. ^azata
+
+*Traits*: An azata possesses the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to electricity and petrification.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to cold 10 and fire 10.
+
+  - *Truespeech (Su)*: All azatas can speak with any creature that has a language, as though using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level 14th). This ability is always active.
+
+  - Except where otherwise noted, azatas speak Celestial, Draconic, and Infernal.
+
+  - Azatas have the [[#^chaotic|chaotic]] and [[#^good|good]] subtypes, so their natural weapons and any weapons they wield count as chaotic and good for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Blindsense (Ex)**: See [[rangoric-srd/monsters/abilities/Blindsense|blindsense]]. ^blindsense
 
