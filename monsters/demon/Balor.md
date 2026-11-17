@@ -1,123 +1,93 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
 size: "Large"
 creature-type: "Outsider"
-subtypes:
-  - "Chaotic"
-  - "Extraplanar"
-  - "Evil"
-hit-dice: "20d8+200 (290 hp)"
+subtypes: ["Chaotic", "Demon", "Evil", "Extraplanar"]
+hit-dice: "20d10+260 (370 hp)"
 initiative: "+11"
 speed: "40 ft. (8 squares), fly 90 ft. (good)"
-armor-class: "35 (–1 size, +7 Dex, +19 natural), touch 16, flat-footed 28"
+armor-class: "36 (+4 deflection, +7 Dex, +16 natural, –1 size), touch 20, flat-footed 29"
 base-attack: "+20"
 cmb: "+33"
-cmd: "50"
-attack: "+1 vorpal longsword +33 melee (2d6+8/19–20)"
-full-attack: "+1 vorpal longsword +31/+26/+21/+16 melee (2d6+8/19–20) and +1 flaming whip +30/+25 melee (1d4+4 plus 1d6 fire plus entangle); or 2 slams +31 melee (1d10+7)"
-space-reach: "10 ft./10 ft. (20 ft. with +1 flaming whip)"
-special-attacks: "Death throes, entangle, spell-like abilities, summon demon, vorpal sword"
-special-qualities: "Damage reduction 15/cold iron and good, darkvision 60 ft., flaming body, immunity to electricity, fire, and poison, resistance to acid 10 and cold 10, spell resistance 28, telepathy 100 ft., true seeing"
-saves: "Fort +22, Ref +19, Will +19"
-abilities: "Str 35, Dex 25, Con 31, Int 24, Wis 24, Cha 26"
-skills: "Deception +31, Emulation +31 (+33 scrolls), Fieldcraft +30 (+32 following tracks), Imitation +30 (+32 acting), Intimidation +31, Knowledge skills (any two) +30, Theology +30 (+32 scrolls), Perception +38, Persuasion +31, Investigation +30, Sense Motive +30, Stealth +34"
-skill-ranks: "Deception 20, Emulation 20, Fieldcraft 20, Imitation 20, Intimidation 20, Investigation 20, Knowledge skills (any two) 20, Perception 20, Persuasion 20, Sense Motive 20, Stealth 20, Theology 20"
-feats: "Cleave, Improved Initiative, Improved Two-Weapon Fighting, Power Attack, Quicken Spell-Like Ability (telekinesis), Two-Weapon Fighting, Weapon Focus (longsword)"
+cmd: "54"
+attack: "+1 vorpal unholy longsword +31 melee (2d6+13) or +1 vorpal flaming whip +30 melee (1d4+7 plus 1d6 fire and entangle) or slam +31 melee (1d10+12)"
+full-attack: "+1 vorpal unholy longsword +31/+26/+21/+16 melee (2d6+13) and +1 vorpal flaming whip +30/+25/+20 melee (1d4+7 plus 1d6 fire and entangle); or 2 slams +31 melee (1d10+12)"
+space-reach: "10 ft./10 ft. (20 ft. with whip)"
+special-attacks: "Spell-like abilities"
+special-qualities: "Darkvision 60 ft., low-light vision, true seeing, flaming body, unholy aura (DC 26), telepathy 100 ft., death throes, vorpal strike, whip mastery, damage reduction 15/cold iron and good, immunity to electricity, fire and poison, resistance to acid 10 and cold 10, spell resistance 31"
+saves: "Fort +29, Ref +17, Will +25"
+abilities: "Str 35, Dex 25, Con 36, Int 24, Wis 24, Cha 27"
+skills: "Acrobatics +32, Deception +31, Emulation +31, Intimidation +31, Perception +38, Persuasion +31, Sense Motive +30, Society +27, Stealth +26, Theology +30"
+skill-ranks: "Acrobatics 24, Deception 20, Emulation 20, Intimidation 20, Perception 20, Persuasion 20, Sense Motive 20, Society 17, Stealth 20, Theology 20"
+feats: "Cleave, Combat Reflexes, Greater Two-Weapon Fighting, Improved Initiative, Improved Two-Weapon Fighting, Iron Will, Power Attack, Quicken Spell-Like Ability (telekinesis), Two-Weapon Fighting, Weapon Focus (longsword)"
 environment: "A chaotic evil-aligned plane"
-organization: "Solitary or troupe (1 balor, 1 marilith, and 2–5 hezrous)"
+organization: "Solitary, warband (1 balor and 2–5 glabrezus), or troupe (1 balor, 1 marilith, and 2–5 hezrous)"
 challenge-rating: 20
-treasure: "Standard coins; double goods; standard items, plus +1 vorpal greatsword and +1 flaming whip"
+treasure: "Standard (+1 unholy longsword, +1 flaming whip, other treasure)"
 alignment: "Always chaotic evil"
 advancement: "21–30 HD (Large); 31–60 HD (Huge)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Demon, Balor|Demon, Balor (PF1)]]"
   - "[[fantasy srd 3.5/monsters/demon/Balor|Balor (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Balor
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^chaotic|Chaotic]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^evil|Evil]])
-  - **Hit Dice**: 20d8+200 (290 hp)
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
+  - **Hit Dice**: 20d10+260 (370 hp)
   - **Initiative**: +11
   - **Speed**: 40 ft. (8 squares), fly 90 ft. (good)
-  - **Armor Class**: 35 (–1 size, +7 Dex, +19 natural), touch 16, flat-footed 28
-  - **Base Attack**: +20; **CMB**: +33; **CMD**: 50
-  - **Attack**: +1 vorpal longsword +33 melee (2d6+8/19–20)
-  - **Full Attack**: +1 vorpal longsword +31/+26/+21/+16 melee (2d6+8/19–20) and +1 flaming whip +30/+25 melee (1d4+4 plus 1d6 fire plus entangle); or 2 slams +31 melee (1d10+7)
-  - **Space/Reach**: 10 ft./10 ft. (20 ft. with +1 flaming whip)
-  - **Special Attacks**: Death throes, entangle, spell-like abilities, summon demon, vorpal sword
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 15/cold iron and good, darkvision 60 ft., flaming body, immunity to electricity, fire, and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/spells/True Seeing|true seeing]]
-  - **Saves**: Fort +22, Ref +19, Will +19
-  - **Abilities**: Str 35, Dex 25, Con 31, Int 24, Wis 24, Cha 26
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +31, [[rangoric-srd/skills/Emulation|Emulation]] +31 (+33 scrolls), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +30 (+32 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +30 (+32 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Investigation|Investigation]] +30, [[rangoric-srd/skills/Knowledge|Knowledge skills]] (any two) +30, [[rangoric-srd/skills/Perception|Perception]] +38, [[rangoric-srd/skills/Persuasion|Persuasion]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +30, [[rangoric-srd/skills/Stealth|Stealth]] +34, [[rangoric-srd/skills/Theology|Theology]] +30 (+32 scrolls)
-  - **Unspent Skill Points**: 40
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (telekinesis), [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
+  - **Armor Class**: 36 (+4 deflection, +7 Dex, +16 natural, –1 size), touch 20, flat-footed 29
+  - **Base Attack**: +20; **CMB**: +33; **CMD**: 54
+  - **Attack**: +1 vorpal unholy longsword +31 melee (2d6+13) or +1 vorpal flaming whip +30 melee (1d4+7 plus 1d6 fire and entangle) or slam +31 melee (1d10+12)
+  - **Full Attack**: +1 vorpal unholy longsword +31/+26/+21/+16 melee (2d6+13) and +1 vorpal flaming whip +30/+25/+20 melee (1d4+7 plus 1d6 fire and entangle); or 2 slams +31 melee (1d10+12)
+  - **Space/Reach**: 10 ft./10 ft. (20 ft. with whip)
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], *[[rangoric-srd/spells/True Seeing|true seeing]]*, flaming body, [[rangoric-srd/spells/Unholy Aura|unholy aura]] (DC 26), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., death throes, vorpal strike, whip mastery, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/cold iron and good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity, fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 31
+  - **Saves**: Fort +29, Ref +17, Will +25
+  - **Abilities**: Str 35, Dex 25, Con 36, Int 24, Wis 24, Cha 27
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +32, [[rangoric-srd/skills/Deception|Deception]] +31, [[rangoric-srd/skills/Emulation|Emulation]] +31, [[rangoric-srd/skills/Intimidation|Intimidation]] +31, [[rangoric-srd/skills/Perception|Perception]] +38, [[rangoric-srd/skills/Persuasion|Persuasion]] +31, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +30, [[rangoric-srd/skills/Society|Society]] +27, [[rangoric-srd/skills/Stealth|Stealth]] +26, [[rangoric-srd/skills/Theology|Theology]] +30
+  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Greater Two-Weapon Fighting|Greater Two-Weapon Fighting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Two-Weapon Fighting|Improved Two-Weapon Fighting]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (telekinesis), [[rangoric-srd/feats/Two-Weapon Fighting|Two-Weapon Fighting]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)
   - **Environment**: A chaotic evil-aligned plane
-  - **Organization**: Solitary or troupe (1 balor, 1 marilith, and 2–5 hezrous)
+  - **Organization**: Solitary, warband (1 balor and 2–5 glabrezus), or troupe (1 balor, 1 marilith, and 2–5 hezrous)
   - **Challenge Rating**: 20
-  - **Treasure**: Standard coins; double goods; standard items, plus +1 vorpal greatsword and +1 flaming whip
+  - **Treasure**: Standard (+1 unholy longsword, +1 flaming whip, other treasure)
   - **Alignment**: Always chaotic evil
   - **Advancement**: 21–30 HD (Large); 31–60 HD (Huge)
   - **Level Adjustment**: —
 
-A balor stands about 12 feet tall. Its skin is usually dark red. It weighs about 4,500 pounds.
+When folk whisper frightened tales of the demonic, what most envision is a towering figure of fire and flesh, a horned nightmare armed with flaming whip and sword flying through the night in search of its latest victim. The demon these folk fear is the balor, and that fear is justly placed, for few demons can match the mighty balor in strength or brutality.
 
-## Combat
+On the chaotic evil planes, most balors serve demon lords as generals or captains (those balors who don't are even more potent, and are known as balor lords). A balor typically commands vast legions of demons, and while it often lets these slavering and eager minions fight its battles, the balor is far from a coward. If presented with an opportunity to join a fight, few balors choose to resist.
+
+In combat, a balor relies upon its spell-like abilities to fight foes wise enough to avoid melee range, favoring destructive powers like *[[rangoric-srd/spells/Fire Storm|fire storm]]* or *[[rangoric-srd/spells/Implosion|implosion]]* and saving *[[rangoric-srd/spells/Dominate Monster|dominate monster]]* for use against the rare foe it would prefer to capture alive. A balor usually uses *[[rangoric-srd/spells/Telekinesis|telekinesis]]* to disarm ranged weapons or pull foes into melee—with the use of a quickened *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, a balor can use the latter tactic and still inflict a full-round attack on a hapless foe. A balor reduced to fewer than 50 hit points almost always seeks to flee via teleportation, but if that and flight prove impossible it seeks to position itself such that, if it is slain, its death throes are as devastating as possible to the enemy host.
+
+A balor stands 14 feet in height and weighs 4,500 pounds. Only the cruelest mortal souls can fuel the creation of a balor—unlike in the cases of most other demons, it often takes multiple souls of powerful villains to trigger the birthing of a new balor.
+
+Balors speak Abyssal, Celestial and Draconic.
+
+### Combat
 
 Balors love to join battle armed with their swords and whips. If they face stiff resistance, they may [[rangoric-srd/spells/Teleport, Greater|teleport]] away to loose a few spell-like effects at the foe.
 
 A balor’s +1 flaming whip is a long, flexible weapon with many tails tipped with hooks, spikes, and balls. The weapon deals bludgeoning and slashing damage, in addition to fire damage.
 
-A balor’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 20th): Constant—*[[rangoric-srd/spells/True Seeing|true seeing]]*, *[[rangoric-srd/spells/Unholy Aura|unholy aura]]* (DC 26); At will—*[[rangoric-srd/spells/Dominate Monster|dominate monster]]* (DC 27), *[[rangoric-srd/spells/Dispel Magic, Greater|greater dispel magic]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Power Word Stun|power word stun]], [[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 23); 3/day—quickened *[[rangoric-srd/spells/Telekinesis|telekinesis]]* (DC 23); 1/day—*[[rangoric-srd/spells/Blasphemy|blasphemy]]* (DC 25), *[[rangoric-srd/spells/Fire Storm|fire storm]]* (DC 26), *[[rangoric-srd/spells/Implosion|implosion]]* (DC 27), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 9, any 1 CR 19 or lower demon 100%).
 
-**Death Throes (Ex)**: When killed, a balor explodes in a blinding flash of light that deals 100 points of damage to anything within 100 feet (Reflex DC 30 half ). This explosion automatically destroys any weapons the balor is holding. The save DC is Constitution-based.
+**Death Throes (Su)**: When killed, a balor explodes in a blinding flash of fire that deals 100 points of damage (half fire, half unholy damage) to anything within 100 feet (Reflex DC 33 halves). The save DC is Constitution-based.
 
-**Entangle (Ex)**: A balor’s +1 flaming whip [[rangoric-srd/rules/Special Abilities and Conditions#^entangled|entangles]] foes much like an attack with a [[rangoric-srd/equipment/weapons/Net|net]]. The whip has 20 hit points. The whip needs no folding. If it hits, the balor can attempt a [[rangoric-srd/combat/Combat Maneuvers#Drag|drag]] combat maneuver check against the target as a free action; if it succeeds, it drags the target against its flaming body (see below). The target remains anchored against the balor’s body until it escapes the whip.
+**Entangle (Ex)**: If a balor strikes a Medium or smaller foe with its whip, the balor can immediately attempt a grapple check without provoking an attack of opportunity. If the balor wins the check, it draws the foe into an adjacent square. The foe gains the grappled condition, but the balor does not.
 
-**Spell-Like Abilities**: Caster level 20th. The save DCs are Charisma-based.  
+**Flaming Body (Su)**: A balor's body is covered in dancing flames. Anyone striking a balor with a natural weapon or unarmed strike takes 1d6 points of fire damage. A creature that grapples a balor or is grappled by one takes 6d6 points of fire damage each round the grapple persists.
 
-At will - [[rangoric-srd/spells/Blasphemy|blasphemy]] (DC 25), [[rangoric-srd/spells/Dominate Monster|dominate monster]] (DC 27), [[rangoric-srd/spells/Spells D to E|greater dispel magic]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]] (self plus 50 pounds of objects only), [[rangoric-srd/spells/Insanity (Spell)|insanity]] (DC 25), [[rangoric-srd/spells/Power Word Stun|power word stun]], [[rangoric-srd/spells/Telekinesis|telekinesis]] (DC 23), [[rangoric-srd/spells/Unholy Aura|unholy aura]] (DC 26);  
+**Vorpal Strike (Su)**: Any slashing weapon a balor wields (including its standard longsword and whip) gains the vorpal weapon quality. Weapons retain this quality for one hour after the balor releases the weapon, but after this the weapon reverts to its standard magical qualities, if any.
 
-1/day - [[rangoric-srd/spells/Fire Storm|fire storm]] (DC 26), [[rangoric-srd/spells/Implosion|implosion]] (DC 27).  
-
-**Vorpal Sword (Su)**: Every balor carries a +1 vorpal longsword that looks like a flame or a bolt of lightning.
-
-**Summon Demon (Sp)**: Once per day a balor can automatically summon 4d10 [[rangoric-srd/monsters/demon/Dretch|dretches]], 1d4 [[rangoric-srd/monsters/demon/Hezrou|hezrous]], or one [[rangoric-srd/monsters/demon/Nalfeshnee|nalfeshnee]], [[rangoric-srd/monsters/demon/Glabrezu|glabrezu]], [[rangoric-srd/monsters/demon/Marilith|marilith]], or balor. This ability is the equivalent of a 9th-level spell.
-
-**Flaming Body (Su)**: The body of a balor is wreathed in flame. Anyone [[rangoric-srd/rules/conditions/Grappled (Condition)|grappling]] a balor takes 6d6 points of fire damage each round.
-
-**True Seeing (Su)**: Balors have a continuous [[rangoric-srd/spells/True Seeing|true seeing]] ability, as the spell (caster level 20th).
-
-**Skills**: Balors have a +8 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-## Tactics Round-by-Round
-
-The balor is most effective as a ranged combatant, using its spell-like abilities to attack from a distance.
-
-*Prior to combat*: [[rangoric-srd/spells/Unholy Aura|Unholy aura]].
-
-*Round 1*: [[rangoric-srd/spells/Fire Storm|Fire storm]] or [[rangoric-srd/spells/Implosion|implosion]] and quickened [[rangoric-srd/spells/Telekinesis|telekinesis]], or summon additional demons. If the balor does not deem itself seriously threatened, it conserves abilities usable only once per day and uses [[rangoric-srd/spells/Blasphemy|blasphemy]] instead.
-
-*Round 2*: [[rangoric-srd/spells/Insanity (Spell)|Insanity]] or [[rangoric-srd/spells/Power Word Stun|power word stun]].
-
-*Round 3*: Full melee attack with weapons, including entangle with whip.
-
-*Round 4*: [[rangoric-srd/spells/Teleport, Greater|Teleport]] or fly away with entangled foe to reestablish range; repeat round 1 and continue.
-
-A balor who wants to drive off or neutralize a party without slaying its foes avoids lethal attacks.
-
-*Prior to combat*: [[rangoric-srd/spells/Unholy Aura|Unholy aura]].
-
-*Round 1*: [[rangoric-srd/spells/Dominate Monster|Dominate monster]].
-
-*Round 2*: [[rangoric-srd/spells/Power Word Stun|Power word stun]].
-
-*Round 3*: [[rangoric-srd/spells/Insanity (Spell)|Insanity]] or [[rangoric-srd/spells/Telekinesis|telekinesis]] to incapacitate or repel a dangerous opponent.
-
-*Round 4*: [[rangoric-srd/spells/Teleport, Greater|Teleport]] or fly away to reestablish range; repeat round 1 and continue.
+**Whip Mastery (Ex)**: A balor treats a whip as a light weapon for the purposes of two-weapon fighting, and can inflict lethal damage on a foe regardless of the foe's armor.

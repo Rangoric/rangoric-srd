@@ -16,4 +16,4 @@ You are well-versed in demonic lore.
 
 **Prerequisites**: [[rangoric-srd/skills/Theology|Theology]] 6 ranks.
 
-**Benefit**: You gain a +2 bonus on [[rangoric-srd/skills/Theology|Theology]] checks to know the powers and abilities of demons. Against creatures with the demon subtype that you recognize as demons, you gain a +2 morale bonus on attack rolls and on caster level checks to overcome spell resistance.
+**Benefit**: You gain a +2 bonus on [[rangoric-srd/skills/Theology|Theology]] checks to know the powers and abilities of demons. Against creatures with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demon|demon subtype]] that you recognize as demons, you gain a +2 morale bonus on attack rolls and on caster level checks to overcome spell resistance.
