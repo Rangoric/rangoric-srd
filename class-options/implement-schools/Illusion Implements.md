@@ -1,0 +1,47 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "implement school"
+class: ["Occultist"]
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Illusion|Illusion (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/class-features/Distortion|Distortion (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/class-features/Minor Figment|Minor Figment (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/class-option]
+---
+
+# Illusion Implements
+
+*An [[rangoric-srd/classes/Occultist#^occultist-implements|implement school]] of the [[rangoric-srd/classes/Occultist|occultist]].*
+
+Illusion implements allow the occultist to distort the senses and cloak creatures from sight.
+
+**Implements**: Crystal, hat, mask, prism, ring.
+
+**Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into an illusion implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
+
+**Distortion (Sp)**: The implement allows its bearer to distort his form and location, protecting him from harm. As a standard action, the bearer can gain a [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] miss chance equal to 5% for every point of mental focus invested in the implement (to a maximum of 5% + 5% for every 2 occultist levels you possess) until the next time the bearer makes an attack. If this miss chance reaches 50%, it doesn’t increase further, but the bearer gains all the benefits of [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisibility]]. Creatures with *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*, or similar abilities ignore the miss chance from this ability. ^illusion-resonant-power
+
+**Base Focus Power**: All occultists who learn to use illusion implements gain the following [[rangoric-srd/classes/Occultist#^occultist-focus-powers|focus power]].
+
+**Minor Figment (Sp)**: As a standard action, you can expend 1 point of mental focus to create a minor figment. This can function as either *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* or *[[rangoric-srd/spells/Minor Image|minor image]]*. In either case, the effect lasts for a number of rounds equal to your occultist level. If you are 7th level or higher, the figment lasts for a number of minutes equal to your occultist level, and you can cause the figment to change once during its duration when a specified condition occurs. ^illusion-base-focus-power
+
+## Focus Powers
+
+In addition to gaining the base focus power, occultists who learn to use illusion implements can select from the following focus powers when choosing the powers gained from their focus powers class feature.
+
+![[rangoric-srd/class-options/focus-powers/Cloak Image (Focus Power)]]
+
+![[rangoric-srd/class-options/focus-powers/Color Beam (Focus Power)]]
+
+![[rangoric-srd/class-options/focus-powers/Masquerade (Focus Power)]]
+
+![[rangoric-srd/class-options/focus-powers/Mirage (Focus Power)]]
+
+![[rangoric-srd/class-options/focus-powers/Shadow Beast (Focus Power)]]
+
+![[rangoric-srd/class-options/focus-powers/Unseen (Focus Power)]]
