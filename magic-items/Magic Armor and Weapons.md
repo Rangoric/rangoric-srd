@@ -505,6 +505,7 @@ Every specific armor and shield, by price:
 | [[rangoric-srd/magic-items/armor/Hero’s Hauberk\|Hero’s Hauberk]] | 16,600 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Winged Shield\|Winged Shield]] | 17,257 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Financier’s Mail\|Financier’s Mail]] | 17,650 gp | Specific Armor |
+| [[rangoric-srd/magic-items/armor/Bloodfeast Shield\|Bloodfeast Shield]] | 18,770 gp | Specific Shield |
 | [[rangoric-srd/magic-items/armor/Banded Mail of Luck\|Banded Mail of Luck]] | 18,900 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Catskin Leather\|Catskin Leather]] | 18,910 gp | Specific Armor |
 | [[rangoric-srd/magic-items/armor/Guild Leathers\|Guild Leathers]] | 18,910 gp | Specific Armor |
@@ -1220,6 +1221,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Hurricane Quarterstaff\|Hurricane Quarterstaff]] | 7,840 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Dagger of Venom\|Dagger of Venom]] | 8,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Martial Gloves +2\|Martial Gloves +2]] | 8,303 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Cave Dweller’s Greataxe\|Cave Dweller’s Greataxe]] | 8,305 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Dragontooth Longspear\|Dragontooth Longspear]] | 8,305 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Gloom Blade\|Gloom Blade]] | 8,810 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Frostbite Sling\|Frostbite Sling]] | 9,380 gp | Specific Weapon |
@@ -1276,6 +1278,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Mace of Terror\|Mace of Terror]] | 38,552 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Hellscourge\|Hellscourge]] | 39,305 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Dragon’s Doom\|Dragon’s Doom]] | 40,310 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Frostblood Axe\|Frostblood Axe]] | 40,310 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Shadow Sword\|Shadow Sword]] | 40,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Life-Drinker\|Life-Drinker]] | 40,320 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Stormcaller\|Stormcaller]] | 40,715 gp | Specific Weapon |
