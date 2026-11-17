@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Inq 2"
+  - "Mes 2"
   - "Psy 2"
   - "Sor/Wiz 2"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Inq 2, Psy 2, Sor/Wiz 2
+  - **Level**: Inq 2, Mes 2, Psy 2, Sor/Wiz 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

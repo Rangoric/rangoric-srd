@@ -8,6 +8,7 @@ level:
   - "Brd 1"
   - "Inq 1"
   - "Mag 1"
+  - "Mes 1"
   - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 1, Blr 1, Brd 1, Inq 1, Mag 1, Psy 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
+  - **Level**: Alc 1, Blr 1, Brd 1, Inq 1, Mag 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

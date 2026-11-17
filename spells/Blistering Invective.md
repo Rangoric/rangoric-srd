@@ -9,6 +9,7 @@ level:
   - "Alc 2"
   - "Brd 2"
   - "Inq 2"
+  - "Mes 2"
   - "Skd 2"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire, Language-dependent\]*
 
-  - **Level**: Alc 2, Brd 2, Inq 2, Skd 2
+  - **Level**: Alc 2, Brd 2, Inq 2, Mes 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

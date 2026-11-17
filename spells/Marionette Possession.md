@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Alc 3"
+  - "Mes 3"
   - "Psy 3"
   - "Sor/Wiz 3"
   - "Sum 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 3, Psy 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+  - **Level**: Alc 3, Mes 3, Psy 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
   - **Components**: V, S, F (a piece of paper with the target's name)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

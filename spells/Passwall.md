@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Mes 5"
   - "Psy 5"
   - "Sor/Wiz 5"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Psy 5, Sor/Wiz 5
+  - **Level**: Mes 5, Psy 5, Sor/Wiz 5
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Brd 3"
+  - "Mes 3"
   - "Skd 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Brd 3, Skd 3
+  - **Level**: Brd 3, Mes 3, Skd 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

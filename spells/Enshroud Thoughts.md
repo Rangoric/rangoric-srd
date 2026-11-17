@@ -9,6 +9,7 @@ level:
   - "Brd 2"
   - "Hun 3"
   - "Inq 2"
+  - "Mes 2"
   - "Psy 2"
   - "Rgr 3"
   - "Skd 2"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[MindAffecting\]*
 
-  - **Level**: Alc 2, Brd 2, Hun 3, Inq 2, Psy 2, Rgr 3, Skd 2, Wit 2
+  - **Level**: Alc 2, Brd 2, Hun 3, Inq 2, Mes 2, Psy 2, Rgr 3, Skd 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

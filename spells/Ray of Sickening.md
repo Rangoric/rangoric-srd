@@ -7,6 +7,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Hun 1"
+  - "Mes 1"
   - "Sor/Wiz 1"
   - "Sum 1"
   - "SumU 1"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Blr 1, Clr 1, Drd 1, Hun 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
+  - **Level**: Blr 1, Clr 1, Drd 1, Hun 1, Mes 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
   - **Components**: V, S, M (a drop of sweat)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

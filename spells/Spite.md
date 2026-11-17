@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Mes 3"
   - "Wit 4"
 components:
   - "V"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Wit 4
+  - **Level**: Mes 3, Wit 4
   - **Components**: V, S, M (rare inks worth 250 gp)
   - **Casting Time**: 1 round
   - **Range**: Personal

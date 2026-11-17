@@ -8,6 +8,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 4"
+  - "Mes 4"
   - "Psy 6"
   - "Skd 4"
   - "Sor/Wiz 6"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
 
-  - **Level**: Brd 4, Psy 6, Skd 4, Sor/Wiz 6
+  - **Level**: Brd 4, Mes 4, Psy 6, Skd 4, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

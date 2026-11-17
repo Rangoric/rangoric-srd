@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Brd 2"
+  - "Mes 2"
   - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Brd 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Touch

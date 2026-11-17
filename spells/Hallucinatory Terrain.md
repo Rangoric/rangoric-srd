@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 4"
+  - "Mes 4"
   - "Psy 4"
   - "Skd 4"
   - "Sor/Wiz 4"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 4, Psy 4, Skd 4, Sor/Wiz 4
+  - **Level**: Brd 4, Mes 4, Psy 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Long (400 ft. + 40 ft./level)

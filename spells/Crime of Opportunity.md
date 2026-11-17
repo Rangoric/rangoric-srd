@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Apl 1"
+  - "Mes 1"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Apl 1
+  - **Level**: Apl 1, Mes 1
   - **Components**: V, S, M (a slit purse)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

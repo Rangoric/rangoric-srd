@@ -10,6 +10,7 @@ level:
   - "Brd 3"
   - "Enchantment 5"
   - "Inq 4"
+  - "Mes 3"
   - "Psy 4"
   - "Skd 3"
   - "Sor/Wiz 4"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Brd 3, Enchantment 5, Inq 4, Psy 4, Skd 3, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 3, Enchantment 5, Inq 4, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Wit 4
   - **Components**: V
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

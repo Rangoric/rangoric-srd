@@ -5,6 +5,7 @@ school: "Abjuration"
 level:
   - "Clr 1"
   - "Inq 1"
+  - "Mes 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 1, Inq 1, Sor/Wiz 1, Wit 1
+  - **Level**: Clr 1, Inq 1, Mes 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

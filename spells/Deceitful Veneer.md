@@ -7,6 +7,7 @@ level:
   - "Apl 3"
   - "Brd 4"
   - "Inq 4"
+  - "Mes 4"
   - "Psy 4"
   - "Skd 4"
   - "Wit 5"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Apl 3, Brd 4, Inq 4, Psy 4, Skd 4, Wit 5
+  - **Level**: Apl 3, Brd 4, Inq 4, Mes 4, Psy 4, Skd 4, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

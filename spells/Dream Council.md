@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 6"
+  - "Mes 5"
   - "Psy 6"
   - "Skd 6"
   - "Sor/Wiz 7"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[MindAffecting\]*
 
-  - **Level**: Brd 6, Psy 6, Skd 6, Sor/Wiz 7
+  - **Level**: Brd 6, Mes 5, Psy 6, Skd 6, Sor/Wiz 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Unlimited

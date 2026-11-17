@@ -9,6 +9,7 @@ level:
   - "Clr 2"
   - "Fhn 2"
   - "Inq 2"
+  - "Mes 1"
   - "Pal 2"
   - "Psy 2"
   - "Skd 1"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 2, Apl 2, Brd 1, Clr 2, Fhn 2, Inq 2, Pal 2, Psy 2, Skd 1
+  - **Level**: Alc 2, Apl 2, Brd 1, Clr 2, Fhn 2, Inq 2, Mes 1, Pal 2, Psy 2, Skd 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

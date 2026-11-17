@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Mes 5"
   - "Psy 5"
   - "Sor/Wiz 5"
   - "Wit 5"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Psy 5, Sor/Wiz 5, Wit 5
+  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, M
   - **Casting Time**: 1 minute
   - **Range**: One mile

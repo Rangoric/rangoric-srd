@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Brd 4"
   - "Inq 4"
+  - "Mes 4"
   - "Psy 5"
   - "Skd 4"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Brd 4, Inq 4, Psy 5, Skd 4
+  - **Level**: Brd 4, Inq 4, Mes 4, Psy 5, Skd 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

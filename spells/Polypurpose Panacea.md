@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Alc 1"
+  - "Mes 1"
   - "Psy 1"
   - "Sor/Wiz 1"
 components:
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 1, Psy 1, Sor/Wiz 1
+  - **Level**: Alc 1, Mes 1, Psy 1, Sor/Wiz 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

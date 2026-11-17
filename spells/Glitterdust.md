@@ -7,6 +7,7 @@ level:
   - "Blr 2"
   - "Brd 2"
   - "Mag 2"
+  - "Mes 2"
   - "Skd 2"
   - "Sor/Wiz 2"
   - "Sum 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Blr 2, Brd 2, Mag 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+  - **Level**: Blr 2, Brd 2, Mag 2, Mes 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

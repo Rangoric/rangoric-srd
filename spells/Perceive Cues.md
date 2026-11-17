@@ -6,6 +6,7 @@ level:
   - "Alc 2"
   - "Hun 2"
   - "Inq 2"
+  - "Mes 2"
   - "Psy 2"
   - "Rgr 2"
   - "Wit 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Hun 2, Inq 2, Psy 2, Rgr 2, Wit 2
+  - **Level**: Alc 2, Hun 2, Inq 2, Mes 2, Psy 2, Rgr 2, Wit 2
   - **Components**: V, S, M (a drop of water)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 1"
   - "Hun 1"
+  - "Mes 1"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Drd 1, Hun 1
+  - **Level**: Drd 1, Hun 1, Mes 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

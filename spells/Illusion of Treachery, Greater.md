@@ -6,6 +6,7 @@ subschool: "Figment"
 level:
   - "Apl 4"
   - "Mag 6"
+  - "Mes 4"
   - "Psy 5"
   - "Sor/Wiz 6"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Apl 4, Mag 6, Psy 5, Sor/Wiz 6
+  - **Level**: Apl 4, Mag 6, Mes 4, Psy 5, Sor/Wiz 6
   - **Components**: S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

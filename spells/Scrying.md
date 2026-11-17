@@ -8,6 +8,7 @@ level:
   - "Clr 5"
   - "Drd 4"
   - "Hun 4"
+  - "Mes 3"
   - "Psy 4"
   - "Sha 4"
   - "Skd 3"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Brd 3, Clr 5, Drd 4, Hun 4, Psy 4, Sha 4, Skd 3, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 3, Clr 5, Drd 4, Hun 4, Mes 3, Psy 4, Sha 4, Skd 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M/DF, F
   - **Casting Time**: 1 hour
   - **Range**: See text

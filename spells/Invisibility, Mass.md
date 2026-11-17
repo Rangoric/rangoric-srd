@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Illusion 7"
+  - "Mes 6"
   - "Psy 7"
   - "Sor/Wiz 7"
   - "Sum 5"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Illusion 7, Psy 7, Sor/Wiz 7, Sum 5, SumU 6
+  - **Level**: Illusion 7, Mes 6, Psy 7, Sor/Wiz 7, Sum 5, SumU 6
   - **Components**: V, S, M
   - **Range**: Long (400 ft. + 40 ft./level)
   - **Targets**: Any number of creatures, no two of which can be more than 180 ft. apart

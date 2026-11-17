@@ -7,6 +7,7 @@ level:
   - "Brd 2"
   - "Clr 4"
   - "Inq 2"
+  - "Mes 2"
   - "Psy 3"
   - "Sha 4"
   - "Skd 2"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 3, Brd 2, Clr 4, Inq 2, Psy 3, Sha 4, Skd 2, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+  - **Level**: Alc 3, Brd 2, Clr 4, Inq 2, Mes 2, Psy 3, Sha 4, Skd 2, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
   - **Components**: V, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

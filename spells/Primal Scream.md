@@ -7,6 +7,7 @@ descriptor:
   - "Sonic"
 level:
   - "Brd 4"
+  - "Mes 4"
   - "Skd 4"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Mind-affecting, Sonic\]*
 
-  - **Level**: Brd 4, Skd 4
+  - **Level**: Brd 4, Mes 4, Skd 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

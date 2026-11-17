@@ -10,6 +10,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Inq 5"
+  - "Mes 5"
 components:
   - "V"
   - "S"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, Fear, Language-dependent, Mind-affecting\]*
 
-  - **Level**: Inq 5
+  - **Level**: Inq 5, Mes 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

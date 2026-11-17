@@ -8,6 +8,7 @@ level:
   - "Drd 1"
   - "Hun 1"
   - "Mag 1"
+  - "Mes 1"
   - "Psy 1"
   - "Rgr 1"
   - "Sha 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Alc 1, Drd 1, Hun 1, Mag 1, Psy 1, Rgr 1, Sha 1, Sor/Wiz 1, Wit 1
+  - **Level**: Alc 1, Drd 1, Hun 1, Mag 1, Mes 1, Psy 1, Rgr 1, Sha 1, Sor/Wiz 1, Wit 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

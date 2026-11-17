@@ -6,6 +6,7 @@ descriptor:
   - "Curse"
 level:
   - "Clr 5"
+  - "Mes 4"
   - "Psy 6"
   - "Sha 5"
   - "Sor/Wiz 6"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Clr 5, Psy 6, Sha 5, Sor/Wiz 6, Wit 5
+  - **Level**: Clr 5, Mes 4, Psy 6, Sha 5, Sor/Wiz 6, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

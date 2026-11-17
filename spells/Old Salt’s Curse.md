@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 5"
   - "Hun 5"
+  - "Mes 4"
   - "Wit 5"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Drd 5, Hun 5, Wit 5
+  - **Level**: Drd 5, Hun 5, Mes 4, Wit 5
   - **Components**: V, S, M (a flask of seawater)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

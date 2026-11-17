@@ -6,6 +6,7 @@ level:
   - "Alc 2"
   - "Brd 2"
   - "Inq 2"
+  - "Mes 2"
   - "Psy 2"
   - "Sha 2"
   - "Skd 2"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 2, Brd 2, Inq 2, Psy 2, Sha 2, Skd 2
+  - **Level**: Alc 2, Brd 2, Inq 2, Mes 2, Psy 2, Sha 2, Skd 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal
