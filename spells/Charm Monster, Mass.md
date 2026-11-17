@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 6"
+  - "Mes 6"
   - "Psy 8"
   - "Skd 6"
   - "Sor/Wiz 8"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-Affecting\]*
 
-  - **Level**: Brd 6, Psy 8, Skd 6, Sor/Wiz 8, Sum 6, Wit 8
+  - **Level**: Brd 6, Mes 6, Psy 8, Skd 6, Sor/Wiz 8, Sum 6, Wit 8
   - **Components**: V
   - **Targets**: One or more creatures, no two of which can be more than 30 ft. apart
   - **Duration**: One day/level

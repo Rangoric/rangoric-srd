@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 5"
   - "Clr 6"
+  - "Mes 5"
   - "Psy 6"
   - "Skd 5"
   - "Sor/Wiz 7"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing) \[Emotion\]*
 
-  - **Level**: Brd 5, Clr 6, Psy 6, Skd 5, Sor/Wiz 7
+  - **Level**: Brd 5, Clr 6, Mes 5, Psy 6, Skd 5, Sor/Wiz 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

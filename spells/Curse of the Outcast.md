@@ -11,6 +11,7 @@ level:
   - "Brd 4"
   - "Clr 6"
   - "Inq 4"
+  - "Mes 4"
   - "Skd 4"
   - "Wit 6"
 components:
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Curse, Emotion, MindAffecting\]*
 
-  - **Level**: Brd 4, Clr 6, Inq 4, Skd 4, Wit 6
+  - **Level**: Brd 4, Clr 6, Inq 4, Mes 4, Skd 4, Wit 6
   - **Components**: V, S, M (a handful of earthworms)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

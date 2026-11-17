@@ -7,6 +7,7 @@ descriptor:
   - "Pain"
 level:
   - "Brd 3"
+  - "Mes 3"
   - "Skd 3"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Mind-affecting, Pain\]*
 
-  - **Level**: Brd 3, Skd 3
+  - **Level**: Brd 3, Mes 3, Skd 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

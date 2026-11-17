@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 6"
+  - "Mes 6"
   - "Psy 7"
   - "Skd 6"
   - "Sor/Wiz 7"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 6, Psy 7, Skd 6, Sor/Wiz 7
+  - **Level**: Brd 6, Mes 6, Psy 7, Skd 6, Sor/Wiz 7
   - **Components**: V, S, M (a jade sphere worth 500 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

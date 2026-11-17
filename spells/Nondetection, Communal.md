@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Apl 4"
+  - "Mes 4"
   - "Psy 4"
   - "Sor/Wiz 4"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Apl 4, Psy 4, Sor/Wiz 4
+  - **Level**: Apl 4, Mes 4, Psy 4, Sor/Wiz 4
   - **Components**: V, S, M (diamond dust worth 25 gp per target)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

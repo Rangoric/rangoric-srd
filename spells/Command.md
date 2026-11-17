@@ -10,6 +10,7 @@ level:
   - "Apl 1"
   - "Clr 1"
   - "Inq 1"
+  - "Mes 1"
   - "Psy 1"
   - "Wit 1"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Apl 1, Clr 1, Inq 1, Psy 1, Wit 1
+  - **Level**: Apl 1, Clr 1, Inq 1, Mes 1, Psy 1, Wit 1
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

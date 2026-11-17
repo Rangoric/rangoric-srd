@@ -9,6 +9,7 @@ level:
   - "Animal 2"
   - "Drd 2"
   - "Hun 2"
+  - "Mes 2"
   - "Psy 2"
   - "Rgr 2"
   - "Tot 2"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Animal 2, Drd 2, Hun 2, Psy 2, Rgr 2, Tot 2
+  - **Level**: Animal 2, Drd 2, Hun 2, Mes 2, Psy 2, Rgr 2, Tot 2
   - **Components**: V, S
   - **Target**: One animal
 

@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Alc 4"
   - "Blr 4"
+  - "Mes 3"
   - "Psy 4"
   - "Sha 4"
   - "Sor/Wiz 4"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 4, Blr 4, Psy 4, Sha 4, Sor/Wiz 4, Wit 4
+  - **Level**: Alc 4, Blr 4, Mes 3, Psy 4, Sha 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (a drop of blood)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 1"
   - "Inq 1"
+  - "Mes 1"
   - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Sonic\]*
 
-  - **Level**: Brd 1, Inq 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Brd 1, Inq 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

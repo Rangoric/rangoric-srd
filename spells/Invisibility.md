@@ -10,6 +10,7 @@ level:
   - "Fpk 2"
   - "Inq 2"
   - "Mag 2"
+  - "Mes 2"
   - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -38,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Alc 2, Apl 2, Brd 2, Fpk 2, Inq 2, Mag 2, Psy 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Trickery 2
+  - **Level**: Alc 2, Apl 2, Brd 2, Fpk 2, Inq 2, Mag 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Sum 2, SumU 2, Trickery 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Personal or touch

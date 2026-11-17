@@ -6,6 +6,7 @@ subschool: "Figment"
 descriptor:
   - "Mind-affecting"
 level:
+  - "Mes 4"
   - "Psy 4"
   - "Sor/Wiz 4"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Mind-affecting\]*
 
-  - **Level**: Psy 4, Sor/Wiz 4
+  - **Level**: Mes 4, Psy 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: 0 ft.

@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 2"
+  - "Mes 2"
   - "Psy 2"
   - "Skd 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Brd 2, Psy 2, Skd 2
+  - **Level**: Brd 2, Mes 2, Psy 2, Skd 2
   - **Components**: V, S, M (lemon juice and a scrap of parchment)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

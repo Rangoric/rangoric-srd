@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Mes 2"
   - "Psy 2"
   - "Sor/Wiz 3"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Psy 2, Sor/Wiz 3
+  - **Level**: Mes 2, Psy 2, Sor/Wiz 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

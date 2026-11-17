@@ -9,6 +9,7 @@ level:
   - "Apl 1"
   - "Clr 1"
   - "Inq 1"
+  - "Mes 1"
   - "Sha 1"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Fear, Mind-Affecting\]*
 
-  - **Level**: Apl 1, Clr 1, Inq 1, Sha 1
+  - **Level**: Apl 1, Clr 1, Inq 1, Mes 1, Sha 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

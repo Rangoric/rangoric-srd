@@ -7,6 +7,7 @@ descriptor:
   - "Pain"
 level:
   - "Inq 1"
+  - "Mes 1"
   - "Psy 1"
   - "Sor/Wiz 1"
   - "Wit 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil, Pain\]*
 
-  - **Level**: Inq 1, Psy 1, Sor/Wiz 1, Wit 1
+  - **Level**: Inq 1, Mes 1, Psy 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Touch

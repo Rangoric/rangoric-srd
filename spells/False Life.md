@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Alc 2"
   - "Blr 2"
+  - "Mes 2"
   - "Psy 2"
   - "Sha 2"
   - "Sor/Wiz 2"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 2, Blr 2, Psy 2, Sha 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Blr 2, Mes 2, Psy 2, Sha 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Personal

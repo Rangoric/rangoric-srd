@@ -10,6 +10,7 @@ level:
   - "Brd 6"
   - "Clr 8"
   - "Drd 8"
+  - "Mes 6"
   - "Psy 8"
   - "Skd 6"
   - "Sor/Wiz 8"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, Mind-affecting\]*
 
-  - **Level**: Brd 6, Clr 8, Drd 8, Psy 8, Skd 6, Sor/Wiz 8
+  - **Level**: Brd 6, Clr 8, Drd 8, Mes 6, Psy 8, Skd 6, Sor/Wiz 8
   - **Components**: V, S, M/DF (a poppy flower)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Mag 4"
+  - "Mes 4"
   - "Sha 4"
   - "Sor/Wiz 4"
   - "SumU 4"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Mag 4, Sha 4, Sor/Wiz 4, SumU 4, Wit 4
+  - **Level**: Mag 4, Mes 4, Sha 4, Sor/Wiz 4, SumU 4, Wit 4
   - **Components**: V, S, M
   - **Duration**: 1 min./level
   - **Spell Resistance**: No

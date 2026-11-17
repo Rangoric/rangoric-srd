@@ -10,6 +10,7 @@ level:
   - "Apl 2"
   - "Clr 3"
   - "Inq 3"
+  - "Mes 2"
   - "Psy 3"
   - "Wit 3"
 components:
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Emotion, Mind-affecting\]*
 
-  - **Level**: Apl 2, Clr 3, Inq 3, Psy 3, Wit 3
+  - **Level**: Apl 2, Clr 3, Inq 3, Mes 2, Psy 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 level)

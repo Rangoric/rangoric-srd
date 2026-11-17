@@ -8,6 +8,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 6"
+  - "Mes 6"
   - "Psy 6"
   - "Skd 6"
   - "Sor/Wiz 7"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[LanguageDependent, MindAffecting\]*
 
-  - **Level**: Brd 6, Psy 6, Skd 6, Sor/Wiz 7, Wit 7
+  - **Level**: Brd 6, Mes 6, Psy 6, Skd 6, Sor/Wiz 7, Wit 7
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Mes 1"
   - "Psy 3"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Psy 3, Sor/Wiz 3, Wit 3
+  - **Level**: Mes 1, Psy 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a bit of sponge, damp with tears)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

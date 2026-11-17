@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 4"
+  - "Mes 4"
   - "Skd 4"
 components:
   - "V"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 4, Skd 4
+  - **Level**: Brd 4, Mes 4, Skd 4
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Personal

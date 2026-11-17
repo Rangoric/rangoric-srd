@@ -9,6 +9,7 @@ level:
   - "Drd 2"
   - "Hun 2"
   - "Inq 2"
+  - "Mes 2"
   - "Pal 2"
   - "Rgr 2"
   - "Wit 1"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Alc 2, Clr 2, Drd 2, Hun 2, Inq 2, Pal 2, Rgr 2, Wit 1
+  - **Level**: Alc 2, Clr 2, Drd 2, Hun 2, Inq 2, Mes 2, Pal 2, Rgr 2, Wit 1
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

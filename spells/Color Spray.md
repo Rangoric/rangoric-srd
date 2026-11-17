@@ -9,6 +9,7 @@ level:
   - "Blr 1"
   - "Illusion 1"
   - "Mag 1"
+  - "Mes 1"
   - "Psy 1"
   - "Sor/Wiz 1"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Pattern) \[Mind-Affecting\]*
 
-  - **Level**: Blr 1, Illusion 1, Mag 1, Psy 1, Sor/Wiz 1
+  - **Level**: Blr 1, Illusion 1, Mag 1, Mes 1, Psy 1, Sor/Wiz 1
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: 15 ft.
