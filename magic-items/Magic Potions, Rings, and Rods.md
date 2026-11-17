@@ -240,6 +240,7 @@ More rings, grouped by who can use them: rings any wearer can use, by price, the
 | Ring | Price |
 | --- | --- |
 | [[rangoric-srd/magic-items/rings/Ring of Arcane Signets\|Ring of Arcane Signets]] | 1,000 gp |
+| [[rangoric-srd/magic-items/rings/Bloodletting Thimble\|Bloodletting Thimble]] | 2,000 gp |
 | [[rangoric-srd/magic-items/rings/Ring of the Grasping Grave\|Ring of the Grasping Grave]] | 2,000 gp |
 | [[rangoric-srd/magic-items/rings/Ring of the Shuriken\|Ring of the Shuriken]] | 2,000 gp |
 | [[rangoric-srd/magic-items/rings/Ring of Ferocious Action\|Ring of Ferocious Action]] | 3,000 gp |
