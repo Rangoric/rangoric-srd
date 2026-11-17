@@ -101,3 +101,11 @@ A drow can take any of these in place of the traits they replace (see [[rangoric
 A drow gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Drow]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/cleric/Demonic Apostle (Archetype)\|Demonic Apostle]] | [[rangoric-srd/classes/Cleric\|Cleric]] |

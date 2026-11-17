@@ -69,7 +69,7 @@ The “+1” in the entries on this table represents that spell. Domain spells a
 
 All of the following are class features of the cleric.
 
-**Weapon and Armor Proficiency**: Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields). Clerics are also proficient with the favored weapon of their deity.
+**Weapon and Armor Proficiency**: Clerics are proficient with all simple weapons, with all types of armor (light, medium, and heavy), and with shields (except tower shields). Clerics are also proficient with the favored weapon of their deity. ^cleric-weapon-and-armor-proficiency
 
 A cleric who chooses the [[rangoric-srd/class-options/domains/War Domain|War]] domain receives the [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] feat related to his deity’s weapon as a bonus feat. He also receives the appropriate Martial Weapon Proficiency feat as a bonus feat, if the weapon falls into that category.
 
@@ -91,7 +91,7 @@ If a cleric is not devoted to a particular deity, he still selects two domains t
 
 Each domain gives the cleric access to a domain spell at each spell level he can cast, from 1st on up, as well as granted powers, some of which depend on the cleric’s level. The cleric gets the granted powers of both the domains selected, once he is of a high enough level. Unless otherwise noted, using a domain power is a standard action. With access to two domain spells at a given spell level, a cleric prepares one or the other each day in his domain spell slot. If a domain spell is not on the cleric spell list, a cleric can prepare it only in his domain spell slot. Domain spells can’t be used to cast spells spontaneously.
 
-**Spontaneous Casting**: A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that the cleric did not prepare ahead of time. The cleric can “lose” any prepared spell that is not an orison or domain spell in order to cast any cure spell of the same spell level or lower (a cure spell is any spell with “cure” in its name).
+**Spontaneous Casting**: A good cleric (or a neutral cleric of a good deity) can channel stored spell energy into healing spells that the cleric did not prepare ahead of time. The cleric can “lose” any prepared spell that is not an orison or domain spell in order to cast any cure spell of the same spell level or lower (a cure spell is any spell with “cure” in its name). ^cleric-spontaneous-casting
 
 An evil cleric (or a neutral cleric of an evil deity), can’t convert prepared spells to cure spells but can convert them to inflict spells (an inflict spell is one with “inflict” in its name).
 
@@ -108,6 +108,10 @@ A good cleric (or a neutral cleric who worships a good deity) can turn or destro
 Each attempt to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turn undead]] spends one use of the cleric’s channel energy.
 
 **Bonus Languages**: A cleric’s bonus language options include Celestial, Abyssal, and Infernal (the languages of good, chaotic evil, and lawful evil outsiders, respectively). These choices are in addition to the bonus languages available to the character because of his race. ^cleric-bonus-languages
+
+**Archetypes**: A cleric can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The cleric’s archetypes, with what each replaces: ^cleric-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Cleric]]
 
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The cleric’s class bonuses, by race: ^cleric-class-bonuses
 
