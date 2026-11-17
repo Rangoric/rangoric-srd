@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 4
 prerequisites: "Craft Wondrous Item, message"
 price: "5,000 gp"

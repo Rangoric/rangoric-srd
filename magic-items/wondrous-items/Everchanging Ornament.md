@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, detect scrying, major image"
 price: "2,000 gp"

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "chest"
 caster-level: 3
 prerequisites: "Craft Wondrous Item, detect poison, neutralize poison"
 price: "12,000 gp"

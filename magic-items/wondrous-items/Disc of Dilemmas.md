@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 9
 prerequisites: "Craft Wondrous Item, commune"
 price: "7,500 gp"

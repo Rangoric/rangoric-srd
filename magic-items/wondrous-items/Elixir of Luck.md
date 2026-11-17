@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate evocation"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, heroic fortune"

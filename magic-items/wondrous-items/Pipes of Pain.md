@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Faint enchantment and evocation"
 caster-level: 6
 prerequisites: "Craft Wondrous Item, creator must have the bardic music class feature, sound burst"

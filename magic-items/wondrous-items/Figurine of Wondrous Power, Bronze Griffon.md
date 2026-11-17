@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aliases:
   - "Figurines of Wondrous Power"
 aura: "Moderate transmutation"

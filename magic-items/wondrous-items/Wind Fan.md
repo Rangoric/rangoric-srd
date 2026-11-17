@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Faint evocation"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, gust of wind"
 price: "5,500 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Wind Fan|Wind Fan (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

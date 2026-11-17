@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Faint abjuration"
 caster-level: 5
 prerequisites: "Brew Potion, protection from energy"

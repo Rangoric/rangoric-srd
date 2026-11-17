@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate conjuration"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, major creation"

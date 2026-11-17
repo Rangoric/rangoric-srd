@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong conjuration and transmutation"
 caster-level: 15
 prerequisites: "Craft Wondrous Item, animate objects, etherealness, fly, plane shift"

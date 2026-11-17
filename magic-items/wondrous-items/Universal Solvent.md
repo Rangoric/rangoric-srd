@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong transmutation"
 caster-level: 20
 prerequisites: "Craft Wondrous Item, disintegrate"
 price: "50 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Universal Solvent|Universal Solvent (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

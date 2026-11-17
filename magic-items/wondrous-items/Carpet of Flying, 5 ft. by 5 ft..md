@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aliases:
   - "Carpet of Flying"
 aura: "Moderate transmutation"

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong transmutation"
 caster-level: 14
 prerequisites: "Craft Wondrous Item, flesh to stone, animate objects"

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aliases:
   - "Manual of Gainful Exercise"
 aura: "Strong evocation (if miracle is used)"

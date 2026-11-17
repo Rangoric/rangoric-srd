@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong abjuration and enchantment"
 caster-level: 16
 prerequisites: "Craft Construct, creator must be caster level 16th, antimagic field, geas/quest, symbol of stunning"

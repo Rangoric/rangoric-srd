@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 4
 prerequisites: "Craft Wondrous Item, eagle’s splendor"
 price: "8,000 gp"

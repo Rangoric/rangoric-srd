@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, wall of ice"
 price: "10,500 gp"

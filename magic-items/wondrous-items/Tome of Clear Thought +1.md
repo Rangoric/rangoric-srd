@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aliases:
   - "Tome of Clear Thought"
 aura: "Strong evocation (if miracle is used)"

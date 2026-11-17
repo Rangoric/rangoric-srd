@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong evocation (if miracle is used)"
 caster-level: 17
 prerequisites: "Craft Wondrous Item, miracle or wish"

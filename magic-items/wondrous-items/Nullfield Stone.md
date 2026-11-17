@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 11
 prerequisites: "Craft Wondrous Item, antimagic field"
 price: "5,900 gp"

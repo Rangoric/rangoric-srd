@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Faint enchantment and transmutation"
 caster-level: 6
 prerequisites: "Craft Wondrous Item, animal messenger, animate objects"

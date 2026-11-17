@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Epic Wondrous Item"
+slot: "none"
 caster-level: 40
 prerequisites: "Craft Wondrous Item, Craft Epic Wondrous Item, heroes’ feast"
 price: "288,000 gp"
 weight: "20 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Cabinet of Feasting|Cabinet of Feasting (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item, epic]
 ---

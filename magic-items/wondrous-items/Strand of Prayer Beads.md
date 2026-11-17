@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate (many schools)"
 caster-level: 9
 prerequisites: "Craft Wondrous Items and one of the following spells per bead, as appropriate: cure serious wounds, remove blindness/ deafness, or remove disease (healing); righteous might (karma); chaos hammer, holy smite, order’s wrath, or unholy blight (smiting)"
