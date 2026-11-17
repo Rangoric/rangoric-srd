@@ -1,88 +1,83 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
 size: "Tiny"
 creature-type: "Outsider"
-subtypes:
-  - "Chaotic"
-  - "Extraplanar"
-  - "Evil"
-hit-dice: "3d8 (13 hp)"
-initiative: "+7"
+subtypes: ["Chaotic", "Demon", "Evil", "Extraplanar"]
+hit-dice: "3d10 (16 hp)"
+initiative: "+6"
 speed: "20 ft. (4 squares), fly 50 ft. (perfect)"
-armor-class: "18 (+2 size, +3 Dex, +3 natural), touch 15, flat-footed 15"
+armor-class: "16 (+2 Dex, +2 natural, +2 size), touch 14, flat-footed 14"
 base-attack: "+3"
-cmb: "+4"
-cmd: "13"
-attack: "Claw +8 melee (1d3–1 plus poison)"
-full-attack: "2 claws +8 melee (1d3–1 plus poison) and bite +3 melee (1d4–1)"
+cmb: "+0"
+cmd: "12"
+attack: "Claw +7 melee (1d3–1 plus poison) or bite +7 melee (1d4–1)"
+full-attack: "2 claws +7 melee (1d3–1 plus poison) and bite +7 melee (1d4–1)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "Poison, spell-like abilities"
-special-qualities: "Alternate form, damage reduction 5/cold iron or good, darkvision 60 ft., fast healing 2, immunity to poison, resistance to fire 10"
-saves: "Fort +3, Ref +6, Will +4"
-abilities: "Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 10"
-skills: "Deception +6, Imitation +6 (+8 acting), Intimidation +6, Knowledge skill (any one) +6, Theology +6, Perception +7, Persuasion +0, Investigation +6, Stealth +23"
-skill-ranks: "Deception 3, Imitation 3, Intimidation 3, Investigation 3, Knowledge skill (any one) 3, Perception 3, Persuasion 0, Stealth 3, Theology 3"
+special-qualities: "Darkvision 60 ft., fast healing 2, telepathy touch, change shape (2 of the following forms: bat, Small centipede, toad, or wolf; polymorph), damage reduction 5/cold iron or good, immunity to electricity and poison, resistance to acid 10, cold 10 and fire 10"
+saves: "Fort +1, Ref +5, Will +4"
+abilities: "Str 8, Dex 14, Con 11, Int 11, Wis 12, Cha 11"
+skills: "Acrobatics +20, Deception +6, Intimidation +6, Perception +7, Stealth +16, Theology +6"
+skill-ranks: "Acrobatics 11, Deception 3, Intimidation 3, Perception 3, Stealth 3, Theology 3"
 feats: "Improved Initiative, Weapon Finesse"
 environment: "A chaotic evil-aligned plane"
-organization: "Solitary"
+organization: "Solitary or flock (2–12)"
 challenge-rating: 2
-treasure: "None"
+treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "4–6 HD (Tiny)"
 level-adjustment: "— (Improved Familiar)"
+group: "[[rangoric-srd/monsters/demon/Demon|Demon]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Demon, Quasit|Demon, Quasit (PF1)]]"
   - "[[fantasy srd 3.5/monsters/demon/Quasit|Quasit (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Quasit
 
-  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^chaotic|Chaotic]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^evil|Evil]])
-  - **Hit Dice**: 3d8 (13 hp)
-  - **Initiative**: +7
+  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Demon, Evil, Extraplanar)
+  - **Hit Dice**: 3d10 (16 hp)
+  - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares), fly 50 ft. (perfect)
-  - **Armor Class**: 18 (+2 size, +3 Dex, +3 natural), touch 15, flat-footed 15
-  - **Base Attack**: +3; **CMB**: +4; **CMD**: 13
-  - **Attack**: Claw +8 melee (1d3–1 plus poison)
-  - **Full Attack**: 2 claws +8 melee (1d3–1 plus poison) and bite +3 melee (1d4–1)
+  - **Armor Class**: 16 (+2 Dex, +2 natural, +2 size), touch 14, flat-footed 14
+  - **Base Attack**: +3; **CMB**: +0; **CMD**: 12
+  - **Attack**: Claw +7 melee (1d3–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +7 melee (1d4–1)
+  - **Full Attack**: 2 claws +7 melee (1d3–1 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +7 melee (1d4–1)
   - **Space/Reach**: 2-1/2 ft./0 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], spell-like abilities
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Alternate Form|Alternate form]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, immunity to poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to fire]] 10
-  - **Saves**: Fort +3, Ref +6, Will +4
-  - **Abilities**: Str 8, Dex 17, Con 10, Int 10, Wis 12, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Imitation|Imitation]] +6 (+8 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Investigation|Investigation]] +6, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +0, [[rangoric-srd/skills/Stealth|Stealth]] +23, [[rangoric-srd/skills/Theology|Theology]] +6
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 2, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] touch, [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (2 of the following forms: bat, Small centipede, toad, or wolf; polymorph), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron or good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to electricity and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10, cold 10 and fire 10
+  - **Saves**: Fort +1, Ref +5, Will +4
+  - **Abilities**: Str 8, Dex 14, Con 11, Int 11, Wis 12, Cha 11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +20, [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +16, [[rangoric-srd/skills/Theology|Theology]] +6
   - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: A chaotic evil-aligned plane
-  - **Organization**: Solitary
+  - **Organization**: Solitary or flock (2–12)
   - **Challenge Rating**: 2
-  - **Treasure**: None
+  - **Treasure**: Standard
   - **Alignment**: Always chaotic evil
   - **Advancement**: 4–6 HD (Tiny)
   - **Level Adjustment**: — (Improved Familiar)
 
-In its natural form, a quasit stands about 1-1/2 feet tall and weighs about 8 pounds.
+The quasit is perhaps the least powerful demon, yet it is not the least respected—even quasits hold themselves above the dretch horde, and true to their natures, dretches lack the courage or drive to prove the quasits wrong. A quasit's first role in life is that of a familiar to a spellcasting master, but those quasits who escape from this humiliating servitude become free-willed and much more dangerous.
+
+A typical quasit stands a foot and a half tall, and weighs only 8 pounds. Alone among the demonic horde, quasits do not form from the dead souls of evil mortals. Instead, they form from living souls—when a spellcaster seeks out a quasit to serve him as a familiar, his soul brushes against a chaotic evil plane and it reacts, carving from itself a quasit linked to that spellcaster's soul and forming a powerful bond between the two. Newly created quasits are birthed directly into the Material Plane, where they become familiars, and while bonded to their masters' wills, all quasits hate and loathe their lieges, as they can feel the pulse of their lords' souls and know that they could have been more. A quasit serves, yet it watches and waits for mistakes that might cost its master's life, or even better, an error that might let the quasit turn against its master.
+
+When a quasit's master dies, the quasit can attempt to follow the master's soul into the Outer Planes by making a DC 15 Will save. This functions as *[[rangoric-srd/spells/Plane Shift|plane shift]]*, but affects only the quasit and transports it to a chaotic evil plane and places its master's soul in the quasit's possession as a writhing larvae rather than using the evil master's soul to create new demonic life. In this manner, a quasit can use its newly captured soul to bargain with more powerful denizens of the lower planes, and perhaps secure a vile transformative “promotion” to a more powerful form of life in the process.
+
+Rarely, a quasit elects to ignore its master's death and instead remains on the Material Plane to seek other ways to entertain itself—usually settling in an urban area where there are plenty of folk to torment.
 
 Quasits speak Common and Abyssal.
 
-## Combat
+### Combat
 
-Although quasits thirst for victory and power as other demons do, they are cowards at heart. They typically attack from ambush, using their [[rangoric-srd/monsters/abilities/Alternate Form|alternate form]] ability and [[rangoric-srd/spells/Invisibility|invisibility]] to get within reach, then try to scuttle away. When retreating, they use their [[rangoric-srd/spells/Cause Fear|cause fear]] ability to deter pursuit.
+Although quasits thirst for victory and power as other demons do, they are cowards at heart. They typically attack from ambush, using their [[rangoric-srd/monsters/abilities/Change Shape|change shape]] ability and [[rangoric-srd/spells/Invisibility|invisibility]] to get within reach, then try to scuttle away. When retreating, they use their [[rangoric-srd/spells/Cause Fear|cause fear]] ability to deter pursuit.
 
-A quasit’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): At will—*[[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Invisibility|invisibility]]* (self only); 1/day—*[[rangoric-srd/spells/Cause Fear|cause fear]]* (30-foot radius, DC 11); 1/week—*[[rangoric-srd/spells/Commune|commune]]* (six questions).
 
-**Poison (Ex)**: Injury, Fortitude DC 13, initial damage 1d4 Dex, secondary damage 2d4 Dex. The save DC is Constitution-based and includes a +2 racial bonus.
-
-**Spell-Like Abilities**: Caster level 6th. The save DCs are Charisma-based.  
-
-At will - [[rangoric-srd/spells/Detect Good|detect good]], [[rangoric-srd/spells/Detect Magic|detect magic]], and [[rangoric-srd/spells/Invisibility|invisibility]] (self only);  
-
-1/day - [[rangoric-srd/spells/Spells C|cause fear]] (as the spell, except that its area is a 30-foot radius from the quasit, save DC 11).  
-
-Once per week a quasit can use [[rangoric-srd/spells/Commune|commune]] to ask six questions. The ability otherwise works as the spell (caster level 12th).
-
-**Alternate Form (Su)**: A quasit can assume another form at will as a standard action. Each quasit can assume one or two forms from the following list: [[rangoric-srd/monsters/Bat|bat]], Small or Medium [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede|monstrous centipede]], [[rangoric-srd/monsters/Toad|toad]], and [[rangoric-srd/monsters/Wolf|wolf]].
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Quasit Poison|Quasit Poison]]: Claw—injury; *save* Fort DC 13; *frequency* 1/round for 6 rounds; *effect* 1d2 Dex; *cure* 2 consecutive saves. The save DC is Constitution-based and includes a +2 racial bonus.

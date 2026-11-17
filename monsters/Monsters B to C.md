@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/overview]
 
   - [[rangoric-srd/monsters/barghest/Barghest|Barghest]]
   - [[rangoric-srd/monsters/Basilisk|Basilisk]]
+  - [[rangoric-srd/monsters/Bebilith|Bebilith]]
   - [[rangoric-srd/monsters/Behir|Behir]]
   - [[rangoric-srd/monsters/Belker|Belker]]
   - [[rangoric-srd/monsters/Blink Dog|Blink Dog]]

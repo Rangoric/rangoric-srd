@@ -50,4 +50,4 @@ As *[[rangoric-srd/spells/Summon Fey I|summon fey I]]*, except you can summon on
 | [[rangoric-srd/monsters/Fey-born Creature\|Fey-born]] [[rangoric-srd/monsters/Lillend\|lillend]] | CG |
 | [[rangoric-srd/monsters/Half-Fey Creature\|Half-fey]] [[rangoric-srd/monsters/dire-animal/Dire Bear\|dire bear]] | CN |
 | [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Athach\|athach]] | CE |
-| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/demon/Bebilith\|bebilith]] | CE |
+| [[rangoric-srd/monsters/Shadow-born Creature\|Shadow-born]] [[rangoric-srd/monsters/Bebilith\|bebilith]] | CE |

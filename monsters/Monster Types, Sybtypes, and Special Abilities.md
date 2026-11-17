@@ -190,6 +190,22 @@ tags: [rangoric, rangoric/overview]
 
 **Damage Reduction (Ex or Su)**: See [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]]. ^DR
 
+**Demon Subtype**: Demons are chaotic evil [[#^outsider|outsiders]] native to the chaotic evil-aligned Outer Planes. ^demon
+
+*Traits*: A demon has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to electricity and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to acid 10, cold 10, and fire 10.
+
+  - *Summon (Sp)*: Demons share the ability to [[rangoric-srd/monsters/abilities/Summon|summon]] others of their kind, typically another of their type or a small number of less powerful demons.
+
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
+
+  - Except where otherwise noted, demons speak Abyssal, Celestial, and Draconic.
+
+  - Demons have the [[#^chaotic|chaotic]] and [[#^evil|evil]] subtypes, so their natural weapons and any weapons they wield count as chaotic and evil for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+
 **Dhampir Subtype**: A humanoid subtype for [[rangoric-srd/races/Dhampir|dhampirs]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
 
 **Dragon Type**: A dragon is a reptilelike creature, usually winged, with magical or unusual abilities. ^dragon

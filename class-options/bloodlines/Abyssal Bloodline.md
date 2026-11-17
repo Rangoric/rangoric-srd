@@ -35,6 +35,6 @@ While some would say that you are possessed, you know better. The demonic influe
 
 **Strength of the Abyss (Ex)**: At 9th level, you gain a +2 inherent bonus to your Strength. This bonus increases to +4 at 13th level, and to +6 at 17th level.
 
-**Added Summonings (Su)**: At 15th level, whenever you summon a creature with the demon subtype or the fiendish template using a *summon monster* spell, you summon one additional creature of the same kind.
+**Added Summonings (Su)**: At 15th level, whenever you summon a creature with the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^demon|demon subtype]] or the fiendish template using a *summon monster* spell, you summon one additional creature of the same kind.
 
 **Demonic Might (Su)**: At 20th level, the power of the Abyss flows through you. You gain immunity to electricity and poison. You also gain resistance to acid 10, cold 10, and fire 10, and gain telepathy with a range of 60 feet (allowing you to communicate with any creature that can speak a language).
