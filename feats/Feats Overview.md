@@ -88,6 +88,10 @@ Metamagic feats cannot be used with all spells. See the specific feat descriptio
 
 A feat with the tag *performance* is used when you make a [[rangoric-srd/rules/Performance Combat#^performance-combat-check|performance combat check]], typically granting a special action that occurs when you make that check. Unless you have the [[rangoric-srd/feats/Masterful Display|Masterful Display]] feat, you can only apply the effect of one performance feat to each performance combat check you make. [[rangoric-srd/rules/Performance Combat#Performance Feats|Performance Combat]] lists them. ^performance-feats
 
+##### Stare Feats
+
+A feat with the tag *stare* adds an effect to the [[rangoric-srd/classes/Mesmerist#^mesmerist-painful-stare|painful stare]] of a mesmerist. When your painful stare deals damage, you can apply the effect of only one stare feat to it, chosen before the damage roll, unless you have [[rangoric-srd/feats/Compounded Pain|Compounded Pain]]. ^stare-feats
+
 ##### Style Feats
 
 A feat with the tag *style* sets a fighting stance. As a swift action, you can enter the stance of a style feat you have. You can't enter a stance before combat begins, but once you do, it lasts until you end it (a free action) or enter another. You can be in only one style's stance at a time. Feats that build on a style feat often work only "while using" that style, meaning while you are in its stance. ^style-feats

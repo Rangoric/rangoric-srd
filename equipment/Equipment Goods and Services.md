@@ -9,6 +9,7 @@ based-on:
   - "[[path srd 3.5/items/adventuring-gear/Hunter's Kit|Hunter's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Brawler's Kit|Brawler's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Kineticist's|Kit, Kineticist's (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/items/gear/Kit, Mesmerist's|Kit, Mesmerist's (PF1 Foundry)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Psychic's|Kit, Psychic's (PF1 Foundry)]]"
 status: draft
 change: modified
@@ -67,6 +68,7 @@ tags: [rangoric, rangoric/overview]
 | Amazing                  | 150 gp  | 1 lb.       |
 | Manacles                 | 15 gp   | 2 lb.       |
 | Manacles, masterwork     | 50 gp   | 2 lb.       |
+| Mesmerist’s kit          | 35 gp   | 26-1/2 lb.  |
 | Mess kit                 | 2 sp    | 1 lb.       |
 | Mirror, small steel      | 10 gp   | 1/2 lb.     |
 | Mug/Tankard, clay        | 2 cp    | 1 lb.       |
@@ -298,6 +300,8 @@ Caltrops may not be effective against unusual opponents.
 Most manacles have locks; add the cost of the lock you want to the cost of the manacles.
 
 For the same cost, you can buy manacles for a Small creature. For a Large creature, manacles cost ten times the indicated amount, and for a Huge creature, one hundred times this amount. Gargantuan, Colossal, Tiny, Diminutive, and Fine creatures can be held only by specially made manacles.
+
+**Mesmerist’s Kit**: A starting kit for a [[rangoric-srd/classes/Mesmerist|mesmerist]]. It includes a backpack, a bedroll, a belt pouch, an entertainer’s outfit, flint and steel, a hypnotist’s locket, ink (1 ounce), an inkpen, an iron pot, stationery, torches (10), trail rations (5 days), and a waterskin.
 
 **Mess Kit**: This kit includes a plate, bowl, cup, fork, knife, and spoon, made of wood, horn, or tin. Each item has a handle or small hole, and can be tied together using the included leather cord.
 

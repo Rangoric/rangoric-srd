@@ -1,0 +1,22 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "mesmerist trick"
+trick-type: "masterful trick"
+class: ["Mesmerist"]
+level: 12
+ability-type: "Su"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Greater Mask Misery|Greater Mask Misery (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/class-option]
+---
+
+# Greater Mask Misery
+
+*A mesmerist’s [[rangoric-srd/classes/Mesmerist#^mesmerist-masterful-tricks|masterful trick]] (Su).*
+
+This trick functions as the [[rangoric-srd/class-options/mesmerist-tricks/Mask Misery (Mesmerist Trick)|mask misery]] trick, but can be used to ignore greater conditions as well. A mesmerist must have the mask misery mesmerist trick to take greater mask misery.
