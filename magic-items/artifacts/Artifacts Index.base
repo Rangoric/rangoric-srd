@@ -1,0 +1,53 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/magic-items/artifacts")
+    - file.hasTag("rangoric/magic-item")
+views:
+  - type: table
+    name: All artifacts
+    groupBy:
+      property: note.item-type
+      direction: ASC
+    order:
+      - file.name
+      - note.slot
+      - note.caster-level
+      - note.aura
+      - note.weight
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Minor artifacts
+    filters:
+      and:
+        - note["item-type"].contains("Minor")
+    groupBy:
+      property: note.item-type
+      direction: ASC
+    order:
+      - file.name
+      - note.slot
+      - note.caster-level
+      - note.aura
+      - note.weight
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Major artifacts
+    filters:
+      and:
+        - note["item-type"].contains("Major")
+    groupBy:
+      property: note.item-type
+      direction: ASC
+    order:
+      - file.name
+      - note.slot
+      - note.caster-level
+      - note.aura
+      - note.weight
+    sort:
+      - property: file.name
+        direction: ASC
