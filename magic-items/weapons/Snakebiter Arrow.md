@@ -1,0 +1,24 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Specific Weapon"
+aura: "Strong divination"
+caster-level: 12
+prerequisites: "Craft Magic Arms and Armor, animate objects, poison, true strike"
+price: "306 gp"
+cost: "156 gp"
+book: "Monster Codex"
+based-on:
+  - "[[path srd 3.5/items/misc/Snakebiter Arrow|Snakebiter Arrow (PF1)]]"
+  - "[[path srd 3.5 foundry/items/magic-items/Snakebiter Arrow|Snakebiter Arrow (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Snakebiter Arrow
+
+This animated wood and metal snake squirms and hisses when handled, attempting to bite its holder just as a real snake might. To use the *snakebiter arrow* as a projectile, the bearer must first succeed at a DC 10 [[rangoric-srd/skills/Animal Handling|Animal Handling]] or [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] check to get the snake to shape itself into a +1 *[[rangoric-srd/magic-items/weapon-abilities/Seeking|seeking]]* [[rangoric-srd/equipment/weapons/Arrows|arrow]] or a +1 *seeking* [[rangoric-srd/equipment/weapons/Crossbow Bolts|bolt]] (this is considered a trick known by the snake) for 1 minute. Failure means the snake attacks the bearer for 1 round, using the statistics of a [[rangoric-srd/monsters/snake/Snake, Tiny Viper|Tiny viper]] familiar. A target struck by the projectile must succeed at a saving throw or be affected by a powerful variant [[rangoric-srd/rules/afflictions/Black Adder Venom|black adder venom]] (Fortitude DC 20). Normally, these items are carried in a pouch rather than a quiver to prevent them from getting loose.
+
+Strong divination; CL 12th; [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Poison|poison]]*, *[[rangoric-srd/spells/True Strike|true strike]]*; Price 306 gp; Cost 156 gp.

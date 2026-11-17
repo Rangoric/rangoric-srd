@@ -1189,6 +1189,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Greaser Arrow\|Greaser Arrow]] | 155 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Arrow of the Forest\|Arrow of the Forest]] | 167 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Eagle Arrow\|Eagle Arrow]] | 263 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Snakebiter Arrow\|Snakebiter Arrow]] | 306 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Silver Dagger, Masterwork\|Silver Dagger, Masterwork]] | 322 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Alchemist’s Bullet\|Alchemist’s Bullet]] | 330 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Masterwork Cold Iron Longsword\|Masterwork Cold Iron Longsword]] | 330 gp | Specific Weapon |
@@ -1268,6 +1269,7 @@ Every specific weapon, by price:
 | [[rangoric-srd/magic-items/weapons/Morningstar of Bloodletting\|Morningstar of Bloodletting]] | 32,000 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Antler Spear\|Antler Spear]] | 32,302 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Martial Gloves +4\|Martial Gloves +4]] | 32,303 gp | Specific Weapon |
+| [[rangoric-srd/magic-items/weapons/Serpent-Necked Flail\|Serpent-Necked Flail]] | 32,315 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Burning Wall Crossbow\|Burning Wall Crossbow]] | 32,350 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Star Sword\|Star Sword]] | 33,000 gp | Specific Weapon |
 | [[rangoric-srd/magic-items/weapons/Cutthroat’s Apprentice\|Cutthroat’s Apprentice]] | 33,910 gp | Specific Weapon |
