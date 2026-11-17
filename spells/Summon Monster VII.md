@@ -31,7 +31,7 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | 7th Level                                                                                                                        |    |
 | -------------------------------------------------------------------------------------------------------------------------------- | -- |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Elephant\|elephant]]                         | LG |
-| [[rangoric-srd/monsters/Avoral\|Avoral (guardinal)]]                                                                           | NG |
+| [[rangoric-srd/monsters/agathion/Avoral\|Avoral (agathion)]]                                                                   | NG |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/whale/Baleen Whale\|baleen whale (1)]]       | NG |
 | [[rangoric-srd/monsters/genie/Djinni\|Djinni (genie)]]                                                                         | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Huge (any)]]                                                           | N  |

@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/overview]
 
   - [[rangoric-srd/monsters/Gargoyle|Gargoyle]]
   - [[rangoric-srd/monsters/genie/Genie|Genie]]
-  - [[rangoric-srd/monsters/Ghaele|Ghaele]]
+  - [[rangoric-srd/monsters/azata/Ghaele|Ghaele]]
   - [[rangoric-srd/monsters/Ghost|Ghost]]
   - [[rangoric-srd/monsters/ghoul/Ghoul|Ghoul]]
   - [[rangoric-srd/monsters/giant/Giant|Giant]]

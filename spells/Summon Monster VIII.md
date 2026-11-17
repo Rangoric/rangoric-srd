@@ -32,7 +32,7 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dire-animal/Dire Bear\|dire bear]]                 | LG |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/whale/Cachalot Whale\|cachalot whale (1)]]         | NG |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dinosaur/Triceratops\|triceratops]]                | NG |
-| [[rangoric-srd/monsters/Lillend\|Lillend]]                                                                                           | CG |
+| [[rangoric-srd/monsters/azata/Lillend\|Lillend]]                                                                                     | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, greater (any)]]                                                              | N  |
 | [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Squid, Giant\|giant squid (1)]]                      | LE |
 | [[rangoric-srd/monsters/Hellcat (Bezekira)\|Hellcat]]                                                                                | LE |

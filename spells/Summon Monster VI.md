@@ -35,7 +35,7 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | -------------------------------------------------------------------------------------------------------------------------------------------- | -- |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Bear, Polar\|polar bear]]                                | LG |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/whale/Orca\|orca whale (1)]]                             | NG |
-| [[rangoric-srd/monsters/Bralani\|Bralani (eladrin)]]                                                                                       | CG |
+| [[rangoric-srd/monsters/azata/Bralani\|Bralani (azata)]]                                                                                   | CG |
 | [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dire-animal/Dire Lion\|dire lion]]                       | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Large (any)]]                                                                      | N  |
 | [[rangoric-srd/monsters/genie/Janni\|Janni (genie)]]                                                                                       | N  |
