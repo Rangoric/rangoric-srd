@@ -3,6 +3,7 @@ srd-type: "class-option"
 section: "Class Options"
 option-type: "order"
 class: ["Cavalier"]
+race: "[[rangoric-srd/races/Halfling|halflings]]"
 book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Halflings (Advanced Race Guide)#Order of the Paw (Cavalier)|Halflings (Advanced Race Guide) (PF1)]]"
@@ -17,6 +18,8 @@ tags: [rangoric, rangoric/class-option]
 *A [[rangoric-srd/classes/Cavalier#^cavalier-order|cavalier order]].*
 
 Only cavaliers who ride dogs or wolves are eligible to join this order. When they do, they pledge to defend their communities and other innocent folks by patrolling the wilderness and seeking out possible threats to both individuals and whole communities. These cavaliers hunt down potential danger with a ruthless efficiency and determination that others find surprising and even somewhat alarming.
+
+**Race**: an order of [[rangoric-srd/races/Halfling|halfling]] cavaliers, from the halfling's racial options.
 
 **Edicts**: The cavalier must strive to protect his community from rampaging monsters and fearsome conquerors alike. His first priority is to aid his own community, but he also is sworn to protect those who cannot protect themselves from such threats in the wild. He must never take any action that would put his community or an innocent creature in jeopardy. An order of the paw cavalier must take either a wolf or a dog as his mount.
 

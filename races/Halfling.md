@@ -47,6 +47,8 @@ Bonus Languages:
 - Goblin
 - Orc
 
+Cavalier Order: halfling [[rangoric-srd/classes/Cavalier|cavaliers]] can take the [[rangoric-srd/class-options/orders/Order of the Paw|order of the paw]].
+
 Paragon Class: [[rangoric-srd/classes/Halfling Paragon|Halfling Paragon]]
 
 ### Age, Height and Weight
