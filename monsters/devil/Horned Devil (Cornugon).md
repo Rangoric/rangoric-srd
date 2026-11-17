@@ -1,90 +1,81 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
 size: "Large"
 creature-type: "Outsider"
-subtypes:
-  - "Evil"
-  - "Extraplanar"
-  - "Lawful"
-hit-dice: "15d8+105 (172 hp)"
-initiative: "+7"
-speed: "20 ft. (4 squares), fly 50 ft. (average)"
-armor-class: "35 (–1 size, +7 Dex, +19 natural) touch 16, flat-footed 28"
+subtypes: ["Devil", "Evil", "Extraplanar", "Lawful"]
+hit-dice: "15d10+135 (217 hp)"
+initiative: "+8"
+speed: "30 ft. (6 squares), fly 50 ft. (average)"
+armor-class: "35 (+8 Dex, +18 natural, –1 size), touch 17, flat-footed 27"
 base-attack: "+15"
-cmb: "+26 (+28 sunder)"
-cmd: "43 (45 vs. sunder)"
-attack: "Spiked chain +25 melee (2d6+15 plus stun) or claw +24 melee (2d6+10) or tail +24 melee (2d6+10 plus infernal wound)"
-full-attack: "Spiked chain +25/+20/+15 melee (2d6+15 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound); or 2 claws +24 melee (2d6+10) and bite + 22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound)"
-space-reach: "10 ft./10 ft. (20 ft. with spiked chain)"
-special-attacks: "Fear aura, infernal wound, spell-like abilities, stun, summon devil"
-special-qualities: "Damage reduction 10/good and silver, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, regeneration 5, see in darkness, spell resistance 28, telepathy 100 ft."
-saves: "Fort +16, Ref +16, Will +15"
-abilities: "Str 31, Dex 25, Con 25, Int 14, Wis 18, Cha 22"
-skills: "Athletics +28, Deception +24, Fieldcraft +22 (+24 following tracks), Imitation +20 (+22 acting), Intimidation +24, Perception +22, Persuasion +24, Investigation +20, Sense Motive +22, Stealth +21"
-skill-ranks: "Athletics 15, Deception 15, Fieldcraft 15, Imitation 15, Intimidation 15, Investigation 15, Perception 15, Persuasion 15, Sense Motive 15, Stealth 15"
-feats: "Cleave, Improved Sunder, Iron Will, Multiattack, Power Attack, Weapon Focus (spiked chain)"
+cmb: "+26"
+cmd: "44"
+attack: "+1 unholy spiked chain +26 melee (2d6+11 plus stun) or claw +24 melee (2d6+10) or bite +24 melee (2d8+10) or tail +22 melee (2d6+5 plus infernal wound)"
+full-attack: "+1 unholy spiked chain +26/+21/+16 melee (2d6+11 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound); or 2 claws +24 melee (2d6+10) and bite +24 melee (2d8+10) and tail +22 melee (2d6+5 plus infernal wound)"
+space-reach: "10 ft./10 ft."
+special-attacks: "Fear aura (5 ft., DC 23), spell-like abilities"
+special-qualities: "Darkvision 60 ft., see in darkness, regeneration 5 (good weapons, good spells), telepathy 100 ft., damage reduction 10/good and silver, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 27"
+saves: "Fort +18, Ref +17, Will +13"
+abilities: "Str 31, Dex 27, Con 28, Int 14, Wis 22, Cha 23"
+skills: "Acrobatics +15, Arcana +20, Deception +24, Intimidation +24, Perception +24, Persuasion +21, Sense Motive +21, Stealth +22, Theology +20"
+skill-ranks: "Acrobatics 6, Arcana 15, Deception 15, Intimidation 15, Perception 15, Persuasion 12, Sense Motive 12, Stealth 15, Theology 15"
+feats: "Improved Bull Rush, Improved Sunder, Improved Vital Strike, Iron Will, Multiattack, Power Attack, Vital Strike, Weapon Focus (spiked chain)"
 environment: "A lawful evil-aligned plane"
-organization: "Solitary, team (2–4), or squad (6–10)"
+organization: "Solitary, pair, wing (3–10), team (2–4), or squad (6–10)"
 challenge-rating: 16
-treasure: "Standard coins; double goods; standard items"
+treasure: "Standard (+1 unholy spiked chain, other treasure)"
 alignment: "Always lawful evil"
 advancement: "16–20 HD (Large); 21–45 HD (Huge)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Devil, Horned|Devil, Horned (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Horned Devil (Cornugon)|Horned Devil (Cornugon) (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Horned Devil (Cornugon)
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^evil|Evil]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^lawful|Lawful]])
-  - **Hit Dice**: 15d8+105 (172 hp)
-  - **Initiative**: +7
-  - **Speed**: 20 ft. (4 squares), fly 50 ft. (average)
-  - **Armor Class**: 35 (–1 size, +7 Dex, +19 natural) touch 16, flat-footed 28
-  - **Base Attack**: +15; **CMB**: +26 (+28 sunder); **CMD**: 43 (45 vs. sunder)
-  - **Attack**: Spiked chain +25 melee (2d6+15 plus stun) or claw +24 melee (2d6+10) or tail +24 melee (2d6+10 plus infernal wound)
-  - **Full Attack**: Spiked chain +25/+20/+15 melee (2d6+15 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound); or 2 claws +24 melee (2d6+10) and bite + 22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound)
-  - **Space/Reach**: 10 ft./10 ft. (20 ft. with spiked chain)
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear aura]], infernal wound, spell-like abilities, stun, summon devil
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/good and silver, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5, see in darkness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 28, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
-  - **Saves**: Fort +16, Ref +16, Will +15
-  - **Abilities**: Str 31, Dex 25, Con 25, Int 14, Wis 18, Cha 22
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +28, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22 (+24 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +20 (+22 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Investigation|Investigation]] +20, [[rangoric-srd/skills/Perception|Perception]] +22, [[rangoric-srd/skills/Persuasion|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +22, [[rangoric-srd/skills/Stealth|Stealth]] +21
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spiked chain)
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
+  - **Hit Dice**: 15d10+135 (217 hp)
+  - **Initiative**: +8
+  - **Speed**: 30 ft. (6 squares), fly 50 ft. (average)
+  - **Armor Class**: 35 (+8 Dex, +18 natural, –1 size), touch 17, flat-footed 27
+  - **Base Attack**: +15; **CMB**: +26; **CMD**: 44
+  - **Attack**: +1 unholy spiked chain +26 melee (2d6+11 plus stun) or claw +24 melee (2d6+10) or bite +24 melee (2d8+10) or tail +22 melee (2d6+5 plus infernal wound)
+  - **Full Attack**: +1 unholy spiked chain +26/+21/+16 melee (2d6+11 plus stun) and bite +22 melee (2d8+5) and tail +22 melee (2d6+5 plus infernal wound); or 2 claws +24 melee (2d6+10) and bite +24 melee (2d8+10) and tail +22 melee (2d6+5 plus infernal wound)
+  - **Space/Reach**: 10 ft./10 ft.
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]] aura (5 ft., DC 23), [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (good weapons, good spells), [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good and silver, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
+  - **Saves**: Fort +18, Ref +17, Will +13
+  - **Abilities**: Str 31, Dex 27, Con 28, Int 14, Wis 22, Cha 23
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +20, [[rangoric-srd/skills/Deception|Deception]] +24, [[rangoric-srd/skills/Intimidation|Intimidation]] +24, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +21, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +21, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +20
+  - **Feats**: [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Sunder|Improved Sunder]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Multiattack|Multiattack]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (spiked chain)
   - **Environment**: A lawful evil-aligned plane
-  - **Organization**: Solitary, team (2–4), or squad (6–10)
+  - **Organization**: Solitary, pair, wing (3–10), team (2–4), or squad (6–10)
   - **Challenge Rating**: 16
-  - **Treasure**: Standard coins; double goods; standard items
+  - **Treasure**: Standard (+1 unholy spiked chain, other treasure)
   - **Alignment**: Always lawful evil
   - **Advancement**: 16–20 HD (Large); 21–45 HD (Huge)
   - **Level Adjustment**: —
 
-A horned devil is 9 feet tall and weighs about 600 pounds.
+Among the deadliest of the archdevils' warriors and able commanders of lesser fiends, horned devils spread infernal rule wherever they tread. These greater devils are trained, forged, and reforged to be among the most lethal, merciless, and obedient warriors in the multiverse. While rank-and-file horned devils are called cornugons, the greatest of their kind are known as malebranche.
 
-## Combat
+A typical horned devil rises to a hulking 9 feet tall, bears 14-foot-wide wings, and weighs 700 pounds.
+
+Horned devils speak Celestial, Common, Draconic and Infernal.
+
+### Combat
 
 Horned devils are bold fighters. They rarely retreat, even against overwhelming odds. They love to fight with their spiked chains, usually singling out the most powerful foes to stun and eliminate quickly.
 
-A horned devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming damage reduction.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 16th): At will—*[[rangoric-srd/spells/Dispel Chaos|dispel chaos]]* (DC 21), *[[rangoric-srd/spells/Dispel Good|dispel good]]* (DC 21), *[[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Persistent Image|persistent image]]* (DC 21); 3/day—*[[rangoric-srd/spells/Fireball|fireball]]* (DC 19), *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (DC 19); 1/day—[[rangoric-srd/monsters/abilities/Summon|summon]] (level 6, 3 [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)|barbed devils]], 35%).
 
-**Spell-Like Abilities**: Caster level 15th. The save DCs are Charisma-based.  
+**Infernal Wound (Su)**: The damage a horned devil deals with its tail causes persistent wounds that deal 2d6 points of bleed damage. Bleeding caused in this way is difficult to staunch—a DC 26 Medicine check stops the damage, and any attempt to heal a creature suffering from an infernal wound must succeed on a DC 26 caster level check or the spell does not function. Success indicates the healing works normally and stops all bleed effects.
 
-At will - [[rangoric-srd/spells/Dispel Chaos|dispel chaos]] (DC 21), [[rangoric-srd/spells/Dispel Good|dispel good]] (DC 21), [[rangoric-srd/spells/Magic Circle against Good|magic circle against good]], [[rangoric-srd/spells/Teleport, Greater|greater teleport]] (self plus 50 pounds of objects only); [[rangoric-srd/spells/Persistent Image|persistent image]] (DC 21)  
-
-3/day - [[rangoric-srd/spells/Fireball|fireball]] (DC 19), [[rangoric-srd/spells/Lightning Bolt|lightning bolt]] (DC 19).  
-
-**Fear Aura (Su)**: A horned devil can radiate a 5-foot-radius [[rangoric-srd/monsters/abilities/Fear|fear aura]] as a free action. A creature in the area must succeed on a DC 23 Will save or be affected as though by a [[rangoric-srd/spells/Fear|fear]] spell (caster level 15th). A creature that successfully saves cannot be affected again by the same horned devil’s aura for 24 hours. Other devils are immune to the aura. The save DC is Charisma-based.
-
-**Stun (Su)**: Whenever a horned devil hits with a spiked chain attack, the opponent must succeed on a DC 27 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. The save DC is Strength-based. This ability is a function of the horned devil, not of the spiked chain.
-
-**Infernal Wound (Su)**: The damage a horned devil deals with its tail attack causes a persistent wound. An injured creature loses 2 additional hit points each round. The wound does not heal naturally and resists healing spells. The continuing hit point loss can be stopped by a DC 24 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check, a cure spell, or a [[rangoric-srd/spells/Heal (Spell)|heal]] spell. However, a character attempting to cast a cure spell or a heal spell on a creature damaged by a horned devil’s tail must succeed on a DC 24 caster level check, or the spell has no effect on the injured character. A successful Fieldcraft check automatically stops the continuing hit point loss as well as restoring hit points. The check DC is Constitution-based.
-
-**Summon Devil (Sp)**: Once per day a horned devil can attempt to summon 2d10 [[rangoric-srd/monsters/devil/Lemure|lemures]] or 1d6 [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|bearded devils]] with a 50% chance of success, 1d6 barbed devils with a 35% chance of success, or another horned devil with a 20% chance of success. This ability is the equivalent of a 6th-level spell.
-
-**Regeneration (Ex)**: A horned devil takes normal damage from good-aligned silvered weapons, and from spells or effects with the good descriptor.
+**Stun (Su)**: Whenever a horned devil hits with a spiked chain attack, the opponent must succeed on a DC 27 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 1d4 rounds. This ability is a function of the horned devil, not of the spiked chain. The save DC is Strength-based.

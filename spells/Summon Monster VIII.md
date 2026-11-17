@@ -34,7 +34,7 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | [[rangoric-srd/monsters/Lillend\|Lillend]]                                                                                           | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, greater (any)]]                                                              | N  |
 | [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Squid, Giant\|giant squid (1)]]                      | LE |
-| [[rangoric-srd/monsters/devil/Hellcat (Bezekira)\|Hellcat]]                                                                          | LE |
+| [[rangoric-srd/monsters/Hellcat (Bezekira)\|Hellcat]]                                                                                | LE |
 | [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Colossal]] | NE |
 | [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Tiger\|dire tiger]]                 | CE |
 | [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Gargantuan]]     | CE |

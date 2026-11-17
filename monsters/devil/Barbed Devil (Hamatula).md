@@ -1,91 +1,85 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
 size: "Medium"
 creature-type: "Outsider"
-subtypes:
-  - "Evil"
-  - "Extraplanar"
-  - "Lawful"
-hit-dice: "12d8+72 (126 hp)"
+subtypes: ["Devil", "Evil", "Extraplanar", "Lawful"]
+hit-dice: "12d10+72 (138 hp)"
 initiative: "+6"
 speed: "30 ft. (6 squares)"
-armor-class: "29 (+6 Dex, +13 natural) touch 16, flat-footed 23"
+armor-class: "26 (+6 Dex, +10 natural), touch 16, flat-footed 20"
 base-attack: "+12"
-cmb: "+18 (+24 grapple)"
-cmd: "34 (36 vs. grapple)"
-attack: "Claw +18 melee (2d8+6 plus fear)"
-full-attack: "2 claws +18 melee (2d8+6 plus fear)"
+cmb: "+18 (+22 grapple)"
+cmd: "34"
+attack: "Claw +18 melee (2d8+6/19–20 plus fear and grab)"
+full-attack: "2 claws +18 melee (2d8+6/19–20 plus fear and grab)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Fear, improved grab, impale 3d8+9, summon devil"
-special-qualities: "Barbed defense, damage reduction 10/good, darkvision 60 ft., immunity to fire and poison, resistance to acid 10 and cold 10, see in darkness, spell resistance 23, spell-like abilities, telepathy 100 ft."
-saves: "Fort +14, Ref +14, Will +12"
-abilities: "Str 23, Dex 23, Con 23, Int 12, Wis 14, Cha 18"
-skills: "Fieldcraft +17 (+19 following tracks), Intimidation +19, Knowledge skill (any one) +16, Perception +23, Persuasion +19, Investigation +16, Sense Motive +17, Stealth +21"
-skill-ranks: "Fieldcraft 12, Intimidation 12, Investigation 12, Knowledge skill (any one) 12, Perception 12, Persuasion 12, Sense Motive 12, Stealth 12"
-feats: "Cleave, Improved Grapple, Iron Will, Power Attack, Skill Focus (Perception)"
+special-attacks: "Fear, impale 3d8+9, spell-like abilities"
+special-qualities: "Darkvision 60 ft., see in darkness, telepathy 100 ft., barbed defense, damage reduction 10/good, immunity to fire and poison, resistance to acid 10 and cold 10, spell resistance 22"
+saves: "Fort +14, Ref +14, Will +8"
+abilities: "Str 23, Dex 23, Con 22, Int 12, Wis 15, Cha 18"
+skills: "Acrobatics +15, Arcana +12, Fieldcraft +14, Intimidation +19, Perception +23, Persuasion +13, Sense Motive +17, Stealth +13, Theology +16"
+skill-ranks: "Acrobatics 6, Arcana 8, Fieldcraft 9, Intimidation 12, Perception 16, Persuasion 6, Sense Motive 16, Stealth 4, Theology 12"
+feats: "Cleave, Combat Reflexes, Improved Critical (claws), Iron Will, Power Attack, Skill Focus (Perception)"
 environment: "A lawful evil-aligned plane"
-organization: "Solitary, pair, team (3–5), or squad (6–10)"
+organization: "Solitary, pair, team (3–5), or squad (6–11)"
 challenge-rating: 11
 treasure: "Standard"
 alignment: "Always lawful evil"
-advancement: "13–24 (Medium); 25–36 HD (Large)"
+advancement: "13–24 HD (Medium); 25–36 HD (Large)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Devil, Barbed|Devil, Barbed (PF1)]]"
   - "[[fantasy srd 3.5/monsters/devil/Barbed Devil (Hamatula)|Barbed Devil (Hamatula) (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Barbed Devil (Hamatula)
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^evil|Evil]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^lawful|Lawful]])
-  - **Hit Dice**: 12d8+72 (126 hp)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Devil, Evil, Extraplanar, Lawful)
+  - **Hit Dice**: 12d10+72 (138 hp)
   - **Initiative**: +6
   - **Speed**: 30 ft. (6 squares)
-  - **Armor Class**: 29 (+6 Dex, +13 natural) touch 16, flat-footed 23
-  - **Base Attack**: +12; **CMB**: +18 (+24 grapple); **CMD**: 34 (36 vs. grapple)
-  - **Attack**: Claw +18 melee (2d8+6 plus fear)
-  - **Full Attack**: 2 claws +18 melee (2d8+6 plus fear)
+  - **Armor Class**: 26 (+6 Dex, +10 natural), touch 16, flat-footed 20
+  - **Base Attack**: +12; **CMB**: +18 (+22 grapple); **CMD**: 34
+  - **Attack**: Claw +18 melee (2d8+6/19–20 plus [[rangoric-srd/monsters/abilities/Fear|fear]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
+  - **Full Attack**: 2 claws +18 melee (2d8+6/19–20 plus [[rangoric-srd/monsters/abilities/Fear|fear]] and [[rangoric-srd/monsters/abilities/Grab|grab]])
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Fear, improved grab, impale 3d8+9, summon devil
-  - **Special Qualities**: Barbed defense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, darkvision 60 ft., immunity to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance to acid]] 10 and cold 10, see in darkness, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23, spell-like abilities, [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft.
-  - **Saves**: Fort +14, Ref +14, Will +12
-  - **Abilities**: Str 23, Dex 23, Con 23, Int 12, Wis 14, Cha 18
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +17 (+19 following tracks), [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Investigation|Investigation]] +16, [[rangoric-srd/skills/Knowledge|Knowledge skill]] (any one) +16, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +19, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +21
-  - **Unspent Skill Points**: 12
-  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Improved Grapple|Improved Grapple]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Fear|Fear]], impale 3d8+9, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/See in Darkness|see in darkness]], [[rangoric-srd/monsters/abilities/Telepathy|telepathy]] 100 ft., barbed defense, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/good, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire and poison, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
+  - **Saves**: Fort +14, Ref +14, Will +8
+  - **Abilities**: Str 23, Dex 23, Con 22, Int 12, Wis 15, Cha 18
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +15, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Intimidation|Intimidation]] +19, [[rangoric-srd/skills/Perception|Perception]] +23, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +13, [[rangoric-srd/skills/Theology|Theology]] +16
+  - **Feats**: [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claws), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: A lawful evil-aligned plane
-  - **Organization**: Solitary, pair, team (3–5), or squad (6–10)
+  - **Organization**: Solitary, pair, team (3–5), or squad (6–11)
   - **Challenge Rating**: 11
   - **Treasure**: Standard
   - **Alignment**: Always lawful evil
-  - **Advancement**: 13–24 (Medium); 25–36 HD (Large)
+  - **Advancement**: 13–24 HD (Medium); 25–36 HD (Large)
   - **Level Adjustment**: —
 
-A barbed devil is about 7 feet tall and weighs about 300 pounds.
+Sentinels of the infernal vaults, jailers of the darkest souls, and living weapons of the infernal forges, barbed devils—known as hamatulas to diabolists—enforce the strictures of the damned and safeguard the nefarious works of greater devils. A hamatula enjoys the feel of warm blood on its spines, and prefers to leap into melee when presented with an opportunity for battle.
 
-## Combat
+Hamatulas are collectors and organizers, and are favorite allies of greedy summoners as they often bring with them tempting treasures from the infernal vaults or know the paths to deadly riches. Left to their own devices, the lairs of these devils often bear the pierced trophies of their past victims, hung like perverse bug collections on bloodied walls. Most barbed devils stand upward of 7 feet tall and weigh 300 pounds, though their leanly muscled bodies appear much larger due to the constantly growing and adjusting spines that protrude from their razor-sharp bodies.
+
+Barbed devils speak Celestial, Common, Draconic and Infernal.
+
+### Combat
 
 Barbed devils eagerly fight with their claws, trying to impale their opponents. They use [[rangoric-srd/spells/Hold Person|hold person]] to immobilize those who avoid their hug attacks.
 
-A barbed devil’s natural weapons, as well as any weapons it wields, are treated as evil-aligned and lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th): At will—*[[rangoric-srd/spells/Teleport, Greater|greater teleport]]* (self plus 50 lbs. of objects only), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 17), *[[rangoric-srd/spells/Major Image|major image]]* (DC 17), *[[rangoric-srd/spells/Produce Flame|produce flame]], [[rangoric-srd/spells/Pyrotechnics|pyrotechnics]]* (DC 16), *[[rangoric-srd/spells/Scorching Ray|scorching ray]]* (2 rays only); 1/day—*[[rangoric-srd/spells/Order’s Wrath|order's wrath]]* (DC 18), [[rangoric-srd/monsters/abilities/Summon|summon]] (level 4, 1 [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)|barbed devil]] 35%), *[[rangoric-srd/spells/Unholy Blight|unholy blight]]* (DC 18).
 
-**Fear (Su)**: A creature hit by a barbed devil must succeed on a DC 20 Will save or be affected as though by [[rangoric-srd/spells/Fear|fear]] (caster level 9th). Whether or not the save is successful, that creature cannot be affected by that same barbed devil’s fear ability for 24 hours. The save DC is Charisma-based.
+**Barbed Defense (Su)**: A creature that strikes a hamatula with a melee weapon, an unarmed strike, or a natural weapon takes 1d8+6 points of piercing damage from the devil's barbs. Melee weapons with reach do not endanger a user in this way.
 
-**Impale (Ex)**: A barbed devil deals 3d8+9 points of piercing damage to a grabbed opponent with a successful [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] check.
+**Fear (Su)**: A barbed devil's fear attack affects any creature it damages with its claws. A DC 20 Will save resists this effect, otherwise the victim becomes [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based.
 
-**Improved Grab (Ex)**: To use this ability, a barbed devil must hit with a claw attack. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and can impale the opponent on its barbed body.
+**Grab (Ex)**: A barbed devil can use its grab attack against a foe of up to Medium size.
 
-**Summon Devil (Sp)**: Once per day a barbed devil can attempt to summon 1d6 [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|bearded devils]] or another barbed devil with a 35% chance of success. This ability is the equivalent of a 4th-level spell.
-
-**Barbed Defense (Su)**: Any creature striking a barbed devil with handheld weapons or natural weapons takes 1d8+6 points of piercing and slashing damage from the devil’s barbs. Note that weapons with exceptional reach, such as longspears, do not endanger their users in this way.
-
-**Spell-Like Abilities**: Caster level 12th. The save DCs are Charisma-based.  
-
-At will - [[rangoric-srd/spells/Teleport, Greater|greater teleport]] (self plus 50 pounds of objects only), [[rangoric-srd/spells/Hold Person|hold person]] (DC 16), [[rangoric-srd/spells/Major Image|major image]] (DC 17), [[rangoric-srd/spells/Scorching Ray|scorching ray]] (2 rays only).  
-
-1/day - [[rangoric-srd/spells/Order’s Wrath|order’s wrath]] (DC 18), [[rangoric-srd/spells/Unholy Blight|unholy blight]] (DC 18).
+**Impale (Ex)**: A barbed devil deals 3d8+9 points of piercing damage to a grabbed opponent with a successful grapple check.

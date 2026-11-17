@@ -206,6 +206,24 @@ tags: [rangoric, rangoric/overview]
 
   - Demons have the [[#^chaotic|chaotic]] and [[#^evil|evil]] subtypes, so their natural weapons and any weapons they wield count as chaotic and evil for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
+**Devil Subtype**: Devils are lawful evil [[#^outsider|outsiders]] native to the lawful evil-aligned Outer Planes. ^devil
+
+*Traits*: A devil has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to fire and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to acid 10 and cold 10.
+
+  - *[[rangoric-srd/monsters/abilities/See in Darkness|See in Darkness]] (Su)*: Some devils can see perfectly in darkness of any kind, even that created by a *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* spell.
+
+  - *Summon (Sp)*: Devils can [[rangoric-srd/monsters/abilities/Summon|summon]] others of their kind, typically another of their type or a small number of less powerful devils.
+
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
+
+  - Except where otherwise noted, devils speak Celestial, Draconic, and Infernal.
+
+  - Devils have the [[#^lawful|lawful]] and [[#^evil|evil]] subtypes, so their natural weapons and any weapons they wield count as lawful and evil for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+
 **Dhampir Subtype**: A humanoid subtype for [[rangoric-srd/races/Dhampir|dhampirs]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dhampir
 
 **Dragon Type**: A dragon is a reptilelike creature, usually winged, with magical or unusual abilities. ^dragon
