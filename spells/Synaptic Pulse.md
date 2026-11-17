@@ -1,0 +1,41 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Enchantment"
+subschool: "Compulsion"
+descriptor:
+  - "Mind-Affecting"
+level:
+  - "Mes 3"
+  - "Psy 3"
+components:
+  - "V"
+casting-time: "1 standard action"
+range: "30 ft."
+area: "30-ft.-radius spread centered on you"
+duration: "1 round"
+saving-throw: "Will negates"
+spell-resistance: "Yes"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/spells/Synaptic Pulse|Synaptic Pulse (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/spell]
+---
+
+# Synaptic Pulse
+
+*Enchantment (Compulsion) \[Mind-Affecting\]*
+
+  - **Level**: Mes 3, Psy 3
+  - **Components**: V
+  - **Casting Time**: 1 standard action
+  - **Range**: 30 ft.
+  - **Area**: 30-ft.-radius spread centered on you
+  - **Duration**: 1 round
+  - **Saving Throw**: Will negates
+  - **Spell Resistance**: Yes
+
+You emit a pulsating mental blast that stuns all creatures in range of your psychic shriek for 1 round.

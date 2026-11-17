@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Psionic Powers"
 based-on:
   - "[[fantasy srd 3.5/powers/Powers D to F|Powers D to F (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -43,7 +43,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/powers/Divert Teleport|Divert Teleport]]
   - [[rangoric-srd/powers/Divination, Psionic|Divination, Psionic]]
   - [[rangoric-srd/powers/Dominate, Psionic|Dominate, Psionic]]
-  - [[rangoric-srd/powers/Dream Travel|Dream Travel]]
+  - [[rangoric-srd/powers/Dream Travel (Power)|Dream Travel]]
   - [[rangoric-srd/powers/Duodimensional Claw|Duodimensional Claw]]
   - [[rangoric-srd/powers/Ecto Protection|Ecto Protection]]
   - [[rangoric-srd/powers/Ectoplasmic Cocoon|Ectoplasmic Cocoon]]

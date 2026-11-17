@@ -19,7 +19,7 @@ Some of the effects of spellblights can be somewhat beneficial. Crafty spellcast
 
 ## Gaining Spellblights
 
-For now, a creature gains a spellblight from a [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hit]] by a caster with [[rangoric-srd/feats/Blighted Critical|Blighted Critical]] (a random minor spellblight) or [[rangoric-srd/feats/Greater Blighted Critical|Greater Blighted Critical]] (a random major one), or from one of the spells that give a spellblight: *[[rangoric-srd/spells/Curse of Magic Negation|curse of magic negation]]*, *[[rangoric-srd/spells/Eldritch Fever|eldritch fever]]*, *[[rangoric-srd/spells/Steal Voice|steal voice]]* and *[[rangoric-srd/spells/Prediction of Failure|prediction of failure]]*.
+For now, a creature gains a spellblight from a [[rangoric-srd/combat/Combat Actions#^critical-hits|critical hit]] by a caster with [[rangoric-srd/feats/Blighted Critical|Blighted Critical]] (a random minor spellblight) or [[rangoric-srd/feats/Greater Blighted Critical|Greater Blighted Critical]] (a random major one), or from one of the spells that give a spellblight: *[[rangoric-srd/spells/Curse of Magic Negation|curse of magic negation]]*, *[[rangoric-srd/spells/Eldritch Fever|eldritch fever]]*, *[[rangoric-srd/spells/Steal Voice|steal voice]]*, *[[rangoric-srd/spells/Prediction of Failure|prediction of failure]]* and *[[rangoric-srd/spells/Dream Travel (Spell)|dream travel]]* (crossing to another plane).
 
 ## Removing Spellblights
 

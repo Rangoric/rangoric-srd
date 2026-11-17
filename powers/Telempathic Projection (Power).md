@@ -1,6 +1,8 @@
 ---
 srd-type: "power"
 section: "Psionic Powers"
+aliases:
+  - "Telempathic Projection"
 discipline: "Telepathy"
 subdiscipline: "Charm"
 descriptor:

@@ -221,6 +221,7 @@ The spells a [[rangoric-srd/classes/Shaman#^shaman-spells|shaman]] can prepare. 
 | [[rangoric-srd/spells/Slowing Mud\|Slowing Mud]] (M): | Targets are covered in mud that blinds them and acts like slow. |
 | [[rangoric-srd/spells/Solid Fog\|Solid Fog]]: | Blocks vision and slows movement. |
 | [[rangoric-srd/spells/Spike Stones\|Spike Stones]]: | Creatures in area take 1d8 damage, may be slowed. |
+| [[rangoric-srd/spells/Spirit-Bound Blade\|Spirit-Bound Blade]]: | Weapon becomes ghost touch and gains an ability by the emotion you choose. |
 | [[rangoric-srd/spells/Spit Venom\|Spit Venom]]: | Spit blinding black adder venom. |
 | [[rangoric-srd/spells/Thorn Body\|Thorn Body]]: | Your attackers take 1d6 +1 damage/level. |
 | [[rangoric-srd/spells/Tongues\|Tongues]]: | Speak any language. |

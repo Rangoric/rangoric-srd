@@ -1,0 +1,37 @@
+---
+srd-type: "spell"
+section: "Spells"
+school: "Divination"
+level:
+  - "Psy 4"
+components:
+  - "S"
+casting-time: "1 standard action"
+range: "Close (25 ft. + 5 ft./2 levels)"
+target: "One creature"
+duration: "Instantaneous"
+saving-throw: "Will half"
+spell-resistance: "Yes"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/spells/Mind Thrust IV|Mind Thrust IV (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/spell]
+---
+
+# Mind Thrust IV
+
+*Divination*
+
+  - **Level**: Psy 4
+  - **Components**: S
+  - **Casting Time**: 1 standard action
+  - **Range**: Close (25 ft. + 5 ft./2 levels)
+  - **Target**: One creature
+  - **Duration**: Instantaneous
+  - **Saving Throw**: Will half
+  - **Spell Resistance**: Yes
+
+This functions as *[[rangoric-srd/spells/Mind Thrust I|mind thrust I]]*, but the target takes 1d8 points of damage per caster level (maximum 15d8) and is fatigued for 1 round if it fails its save. This spell can be [[rangoric-srd/spells/Magic Overview#^undercasting|undercast]].

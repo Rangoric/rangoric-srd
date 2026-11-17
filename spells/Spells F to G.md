@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Spells"
 based-on:
   - "[[fantasy srd 3.5/spells/Spells F to G|Spells F to G (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -185,6 +185,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/spells/Grant|Grant]]
   - [[rangoric-srd/spells/Grasping Hand|Grasping Hand]]
   - [[rangoric-srd/spells/Grasping Vine|Grasping Vine]]
+  - [[rangoric-srd/spells/Grave Words|Grave Words]]
   - [[rangoric-srd/spells/Gravity Bow|Gravity Bow]]
   - [[rangoric-srd/spells/Grease|Grease]]
 

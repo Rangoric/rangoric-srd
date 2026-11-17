@@ -254,6 +254,7 @@ The spells a [[rangoric-srd/classes/Magus#^magus-spells|magus]] can learn.
 | [[rangoric-srd/spells/Dragon’s Breath\|Dragon’s Breath]] (M): | Gives you a dragon's breath weapon. |
 | [[rangoric-srd/spells/Elemental Body I\|Elemental Body I]] (M): | You become a Small elemental. |
 | [[rangoric-srd/spells/Enlarge Person, Mass\|Enlarge Person, Mass]]: | Enlarges several creatures. |
+| [[rangoric-srd/spells/Ethereal Fists\|Ethereal Fists]]: | Your unarmed strikes, claws and touch attacks harm ethereal creatures. |
 | [[rangoric-srd/spells/Fey Form I\|Fey Form I]] (M): | Assume the form of a Small or Medium fey creature |
 | [[rangoric-srd/spells/Fire Shield\|Fire Shield]]: | Creatures attacking you take fire damage; you’re protected from heat or cold. |
 | [[rangoric-srd/spells/Firefall\|Firefall]] (M): | Causes fire to burst up, dealing 2d6 fire damage. |

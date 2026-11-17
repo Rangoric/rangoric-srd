@@ -19,7 +19,7 @@ tags: [rangoric, rangoric/class-option]
 
 **Class Skills**: An oracle with the ascetic mystery adds [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], and [[rangoric-srd/skills/Escape Artist|Escape Artist]] to her list of class skills.
 
-**Bonus Spells**: *[[rangoric-srd/spells/Stone Fist|stone fist]]* (2nd), *[[rangoric-srd/spells/Glide|glide]]* (4th), *[[rangoric-srd/spells/Force Punch|force punch]]* (6th), *ethereal fists* (8th), *[[rangoric-srd/spells/Contact Other Plane|contact other plane]]* (10th), *[[rangoric-srd/spells/Legend Lore|legend lore]]* (12th), *[[rangoric-srd/spells/Vision|vision]]* (14th), *[[rangoric-srd/spells/Frightful Aspect|frightful aspect]]* (16th), *[[rangoric-srd/spells/Iron Body|iron body]]* (18th).
+**Bonus Spells**: *[[rangoric-srd/spells/Stone Fist|stone fist]]* (2nd), *[[rangoric-srd/spells/Glide|glide]]* (4th), *[[rangoric-srd/spells/Force Punch|force punch]]* (6th), *[[rangoric-srd/spells/Ethereal Fists|ethereal fists]]* (8th), *[[rangoric-srd/spells/Contact Other Plane|contact other plane]]* (10th), *[[rangoric-srd/spells/Legend Lore|legend lore]]* (12th), *[[rangoric-srd/spells/Vision|vision]]* (14th), *[[rangoric-srd/spells/Frightful Aspect|frightful aspect]]* (16th), *[[rangoric-srd/spells/Iron Body|iron body]]* (18th).
 
 ## Revelations
 

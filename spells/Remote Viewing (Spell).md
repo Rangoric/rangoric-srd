@@ -1,0 +1,45 @@
+---
+srd-type: "spell"
+section: "Spells"
+aliases:
+  - "Remote Viewing"
+school: "Divination"
+subschool: "Scrying"
+level:
+  - "Med 4"
+  - "Occ 5"
+  - "Psy 5"
+  - "Spi 5"
+components:
+  - "V"
+  - "S"
+  - "M"
+casting-time: "1 hour"
+range: "See text"
+target: "You"
+duration: "Instantaneous"
+saving-throw: "None"
+spell-resistance: "No"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/spells/Remote Viewing (Spell)|Remote Viewing (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/spell]
+---
+
+# Remote Viewing
+
+*Divination (Scrying)*
+
+  - **Level**: Med 4, Occ 5, Psy 5, Spi 5
+  - **Components**: V, S, M (incense)
+  - **Casting Time**: 1 hour
+  - **Range**: See text
+  - **Target**: You
+  - **Duration**: Instantaneous
+  - **Saving Throw**: None
+  - **Spell Resistance**: No
+
+Your body enters a trance as you send your psychic senses to a distant location and gain psychic impressions of that location. You must specify the distance and direction to the location you desire to view remotely. This spell doesn't allow you to see the visual appearance of the location's surface, so it isn't useful for casting spells like *[[rangoric-srd/spells/Teleport|teleport]]*, but it grants you a psychic impression of the location, which could give you deeper information. For example, a forest that is home to a tight-knit community of fey might appear as a city in the trees, or a beautiful palace ruled by an evil king and warded by *[[rangoric-srd/spells/Forbiddance|forbiddance]]* might appear as a dark fortress encased in insubstantial chains. During the 1 hour casting time of *remote viewing*, your real body is unconscious and helpless, and you are unaware of its surroundings.

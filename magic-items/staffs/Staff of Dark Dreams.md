@@ -28,6 +28,6 @@ This slender staff of oak so dark it seems black is shod with iron. Decorated wi
 
 - *[[rangoric-srd/spells/Nightmare (Spell)|Nightmare]]* (2 charges, DC 17)
 
-- *Dream travel* (2 charges)
+- *[[rangoric-srd/spells/Dream Travel (Spell)|Dream travel]]* (2 charges)
 
-CL 17th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), *[[rangoric-srd/spells/Cause Fear|cause fear]]*, *dream travel*, *[[rangoric-srd/spells/Fear|fear]]*, *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]*, *[[rangoric-srd/spells/Scare|scare]]*; Price 124,500 gp.
+CL 17th; [[rangoric-srd/feats/Craft Staff|Craft Staff]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), *[[rangoric-srd/spells/Cause Fear|cause fear]]*, *[[rangoric-srd/spells/Dream Travel (Spell)|dream travel]]*, *[[rangoric-srd/spells/Fear|fear]]*, *[[rangoric-srd/spells/Nightmare (Spell)|nightmare]]*, *[[rangoric-srd/spells/Scare|scare]]*; Price 124,500 gp.

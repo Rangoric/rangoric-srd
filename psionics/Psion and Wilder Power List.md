@@ -57,7 +57,7 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Sense Link\|Sense Link (A):]]                               | You sense what the subject senses (single sense).                      |
 | [[rangoric-srd/powers/Skate\|Skate:]]                                             | Subject slides skillfully along the ground.                            |
 | [[rangoric-srd/powers/Synesthete\|Synesthete:]]                                   | You receive one kind of sense when another sense is stimulated.        |
-| [[rangoric-srd/powers/Telempathic Projection\|Telempathic Projection:]]           | Alter the subject’s mood.                                              |
+| [[rangoric-srd/powers/Telempathic Projection (Power)\|Telempathic Projection:]]           | Alter the subject’s mood.                                              |
 | [[rangoric-srd/powers/Vigor\|Vigor (A):]]                                         | Gain 5 temporary hit points.                                           |
 
 ##### 2nd-Level Psion/Wilder Powers
@@ -164,7 +164,7 @@ tags: [rangoric, rangoric/overview]
 
 | Power Name                                                                            | Brief Description                                                               |
 | ------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| [[rangoric-srd/powers/Aura Alteration\|Aura Alteration (A):]]                       | Repairs psyche or makes subject seem to be something it is not.                 |
+| [[rangoric-srd/powers/Aura Alteration (Power)\|Aura Alteration (A):]]                       | Repairs psyche or makes subject seem to be something it is not.                 |
 | [[rangoric-srd/powers/Breath of the Black Dragon\|Breath of the Black Dragon (A):]] | Breathe acid for 11d6 damage.                                                   |
 | [[rangoric-srd/powers/Cloud Mind, Mass\|Cloud Mind, Mass]]                          | Erase knowledge of your presence from the minds of one creature/level.          |
 | [[rangoric-srd/powers/Contingency, Psionic\|Contingency, Psionic (X):]]             | Sets trigger condition for another power.                                       |
@@ -215,6 +215,6 @@ tags: [rangoric, rangoric/overview]
 | [[rangoric-srd/powers/Apopsi\|Apopsi (X):]]                           | You delete target’s psionic powers.                                     |
 | [[rangoric-srd/powers/Assimilate\|Assimilate:]]                       | Incorporate creature into your own body.                                |
 | [[rangoric-srd/powers/Etherealness, Psionic\|Etherealness, Psionic:]] | Become ethereal for 1 min./level.                                       |
-| [[rangoric-srd/powers/Microcosm\|Microcosm (A):]]                     | Creature or creature lives forevermore in world of his own imagination. |
+| [[rangoric-srd/powers/Microcosm (Power)\|Microcosm (A):]]                     | Creature or creature lives forevermore in world of his own imagination. |
 | [[rangoric-srd/powers/Reality Revision\|Reality Revision (X):]]       | As bend reality, but fewer limits.                                      |
 | [[rangoric-srd/powers/Timeless Body\|Timeless Body:]]                 | Ignore all harmful, and helpful, effects for 1 round.                   |
