@@ -92,7 +92,7 @@ A class that casts spells or manifests powers lists its Magic skill. Wherever a 
 | [[rangoric-srd/skills/Theology\|Theology]] | Cleric, paladin, adept; blackguard |
 | [[rangoric-srd/skills/Nature\|Nature]] | Druid, ranger |
 | [[rangoric-srd/skills/Psionics (Skill)\|Psionics]] | Psion, psychic warrior, wilder |
-| [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] | Psychic; other classes that cast psychic spells |
+| [[rangoric-srd/skills/Psychic (Skill)\|Psychic]] | Mesmerist, Psychic; other classes that cast psychic spells |
 
 A prestige class lists a Magic skill only if it has spellcasting of its own. One that advances another class’s casting, such as the mystic theurge, uses the Magic skills of the classes it advances.
 
