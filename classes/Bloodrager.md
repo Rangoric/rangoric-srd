@@ -147,6 +147,10 @@ Greater bloodrage counts as the barbarian’s greater rage ability for the purpo
 
 **Mighty Bloodrage (Su)**: At 20th level, a bloodrager’s bloodrage gains the bonuses of the barbarian’s [[rangoric-srd/classes/Barbarian#^barbarian-mighty-rage|mighty rage]]. Furthermore, the spell he can apply to himself at the beginning of a bloodrage due to the [[rangoric-srd/classes/Bloodrager#^bloodrager-greater-bloodrage|greater bloodrage]] class feature is not limited to only spells of 2nd level or lower. ^bloodrager-mighty-bloodrage
 
+**Archetypes**: A bloodrager can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The bloodrager’s archetypes, with what each replaces: ^bloodrager-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Bloodrager]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The bloodrager’s class bonuses, by race: ^bloodrager-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Bloodrager]]
