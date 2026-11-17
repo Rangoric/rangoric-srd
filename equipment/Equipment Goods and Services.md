@@ -9,6 +9,7 @@ based-on:
   - "[[path srd 3.5/items/adventuring-gear/Hunter's Kit|Hunter's Kit (PF1)]]"
   - "[[path srd 3.5/items/adventuring-gear/Brawler's Kit|Brawler's Kit (PF1)]]"
   - "[[path srd 3.5 foundry/items/gear/Kit, Kineticist's|Kit, Kineticist's (PF1 Foundry)]]"
+  - "[[path srd 3.5 foundry/items/gear/Kit, Psychic's|Kit, Psychic's (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -78,6 +79,7 @@ tags: [rangoric, rangoric/overview]
 | Pole 10-foot             | 2 sp    | 8 lb.       |
 | Pot, iron                | 5 sp    | 10 lb.      |
 | Pouch, belt (empty)      | 1 gp    | 1/2 lb. (1) |
+| Psychic’s kit            | 35 gp   | 27 lb.      |
 | Ram, portable            | 10 gp   | 20 lb.      |
 | Rations, trail (per day) | 5 sp    | 1 lb. (1)   |
 | Rope, hempen (50 ft.)    | 1 gp    | 10 lb.      |
@@ -302,6 +304,8 @@ For the same cost, you can buy manacles for a Small creature. For a Large creatu
 **Oil**: A pint of oil burns for 6 hours in a lantern. You can use a flask of oil as a splash weapon. Use the rules for alchemist’s fire, except that it takes a full round action to prepare a flask with a fuse. Once it is thrown, there is a 50% chance of the flask igniting successfully.
 
 You can pour a pint of oil on the ground to cover an area 5 feet square, provided that the surface is smooth. If lit, the oil burns for 2 rounds and deals 1d3 points of fire damage to each creature in the area.
+
+**Psychic’s Kit**: A starting kit for a [[rangoric-srd/classes/Psychic (Class)|psychic]]. It includes a backpack, a bedroll, a belt pouch, flint and steel, a prismatic crystal, torches (10), trail rations (5 days), and a waterskin.
 
 **Ram, Portable**: This iron-shod wooden beam gives you a +2 circumstance bonus on Strength checks made to break open a door and it allows a second person to help you without having to roll, increasing your bonus by 2.
 

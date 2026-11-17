@@ -1,0 +1,22 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "phrenic amplification"
+amplification-type: "major amplification"
+class: ["Psychic"]
+level: 11
+ability-type: "Su"
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/class-features/Space-rending Spell|Space-rending Spell (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/class-option]
+---
+
+# Space-Rending Spell
+
+*A psychic’s [[rangoric-srd/classes/Psychic (Class)#^psychic-major-amplifications|major amplification]] (Su).*
+
+The psychic can warp space with her mind, teleporting herself as she casts her linked spell. She teleports herself 10 feet per point she spends from her [[rangoric-srd/classes/Psychic (Class)#^psychic-phrenic-pool|phrenic pool]] (as *[[rangoric-srd/spells/Dimension Door|dimension door]]*). The maximum number of points she can spend in this way is equal to the linked spell’s level.
