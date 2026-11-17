@@ -3,57 +3,58 @@ srd-type: "monster"
 section: "Monsters"
 size: "Large"
 creature-type: "Dragon"
-hit-dice: "7d12+14 (59 hp)"
-initiative: "+1"
+hit-dice: "7d12+28 (73 hp)"
+initiative: "+5"
 speed: "20 ft. (4 squares), fly 60 ft. (poor)"
-armor-class: "18 (–1 size, +1 Dex, +8 natural), touch 10, flat-footed 17"
+armor-class: "19 (+1 Dex, +9 natural, –1 size), touch 10, flat-footed 18"
 base-attack: "+7"
 cmb: "+12 (+16 grapple)"
 cmd: "23"
-attack: "Sting +10 melee (1d6+4 plus poison) or talon +10 melee (2d6+4) or bite +10 melee (2d8+4)"
-full-attack: "Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4)"
+attack: "Sting +10 melee (1d6+4 plus poison) or bite +10 melee (2d6+4 plus grab) or wing +10 melee (1d6+2)"
+full-attack: "Sting +10 melee (1d6+4 plus poison) and bite +10 melee (2d6+4 plus grab) and 2 wings +5 melee (1d6+2)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Poison, improved grab"
-special-qualities: "Darkvision 60 ft., immunity to sleep and paralysis, low-light vision, scent"
-saves: "Fort +7, Ref +6, Will +6"
-abilities: "Str 19, Dex 12, Con 15, Int 6, Wis 12, Cha 9"
-skills: "Perception +17, Stealth +7"
-skill-ranks: "Perception 7, Stealth 7"
-feats: "Ability Focus (poison), Flyby Attack, Multiattack (B), Skill Focus (Perception)"
-environment: "Warm hills"
+special-attacks: "Rake (2 talons +10, 1d6+4), poison"
+special-qualities: "Darkvision 60 ft., low-light vision, scent, immunity to sleep and paralysis"
+saves: "Fort +9, Ref +6, Will +8"
+abilities: "Str 19, Dex 12, Con 18, Int 7, Wis 12, Cha 9"
+skills: "Acrobatics +5, Perception +18, Sense Motive +11, Stealth +7"
+skill-ranks: "Acrobatics 3, Perception 10, Sense Motive 7, Stealth 7"
+feats: "Flyby Attack, Improved Initiative, Iron Will, Skill Focus (Perception)"
+environment: "Temperate or warm hills"
 organization: "Solitary, pair, or flight (3–6)"
 challenge-rating: 6
 treasure: "Standard"
 alignment: "Usually neutral"
 advancement: "8–10 HD (Huge); 11–21 HD (Gargantuan)"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Wyvern|Wyvern (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Wyvern|Wyvern (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Wyvern
 
   - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
-  - **Hit Dice**: 7d12+14 (59 hp)
-  - **Initiative**: +1
+  - **Hit Dice**: 7d12+28 (73 hp)
+  - **Initiative**: +5
   - **Speed**: 20 ft. (4 squares), fly 60 ft. (poor)
-  - **Armor Class**: 18 (–1 size, +1 Dex, +8 natural), touch 10, flat-footed 17
+  - **Armor Class**: 19 (+1 Dex, +9 natural, –1 size), touch 10, flat-footed 18
   - **Base Attack**: +7; **CMB**: +12 (+16 grapple); **CMD**: 23
-  - **Attack**: Sting +10 melee (1d6+4 plus poison) or talon +10 melee (2d6+4) or bite +10 melee (2d8+4)
-  - **Full Attack**: Sting +10 melee (1d6+4 plus poison) and bite +8 melee (2d8+4) and 2 wings +8 melee (1d8+2) and 2 talons +8 melee (2d6+4)
+  - **Attack**: Sting +10 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or bite +10 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or wing +10 melee (1d6+2)
+  - **Full Attack**: Sting +10 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and bite +10 melee (2d6+4 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and 2 wings +5 melee (1d6+2)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Poison|Poison]], [[rangoric-srd/monsters/abilities/Grab|improved grab]]
-  - **Special Qualities**: Darkvision 60 ft., immunity to sleep and paralysis, low-light vision, [[rangoric-srd/monsters/abilities/Scent|scent]]
-  - **Saves**: Fort +7, Ref +6, Will +6
-  - **Abilities**: Str 19, Dex 12, Con 15, Int 6, Wis 12, Cha 9
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +7
-  - **Unspent Skill Points**: 14
-  - **Feats**: [[rangoric-srd/feats/Ability Focus|Ability Focus]] (poison), [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Multiattack|Multiattack (B)]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm hills
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Rake|Rake]] (2 talons +10, 1d6+4), [[rangoric-srd/monsters/abilities/Poison|poison]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Scent|scent]], immunity to sleep and [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]
+  - **Saves**: Fort +9, Ref +6, Will +8
+  - **Abilities**: Str 19, Dex 12, Con 18, Int 7, Wis 12, Cha 9
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +7
+  - **Feats**: [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Environment**: Temperate or warm hills
   - **Organization**: Solitary, pair, or flight (3–6)
   - **Challenge Rating**: 6
   - **Treasure**: Standard
@@ -61,9 +62,13 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 8–10 HD (Huge); 11–21 HD (Gargantuan)
   - **Level Adjustment**: —
 
-A distant cousin to the true dragons, the wyvern is a huge flying lizard with a poisonous stinger in its tail.
+Wyverns are nasty, brutish, and violent reptilian beasts akin to more powerful dragons. They are always aggressive and impatient, and are quick to resort to force in order to accomplish their goals. For this reason, dragons generally look down upon wyverns, considering their distant cousins nothing more than primitive savages with a distinct lack of style or wit. In most cases, this generalization is spot-on. Although far from animalistic in intellect, and capable of speech, most wyverns simply can't be bothered with the subtlety of diplomacy, and prefer to fight first and parley later, and even then only if faced with a foe they can neither defeat nor flee from.
 
-A wyvern’s body is 15 feet long, and dark brown to gray; half that length is tail. Its wingspan is about 20 feet. A wyvern weighs about one ton.
+Wyverns are territorial creatures. Though they occasionally hunt in small groups for large prey, they are generally solitary creatures, hunting in areas ranging in size from 100 to 200 square miles. Wyverns have been known to fight to the death among themselves for the right to hunt a territory rich with prey.
+
+Although constantly hungry and prone to mayhem, a wyvern that can be befriended (usually through a delicate combination of flattery, intimidation, food, and treasure) becomes a powerful ally. They often serve giants and monstrous humanoids as guardians, and some lizardfolk and boggard tribes even use them as mounts, although such arrangements are quite costly in terms of food and gold, for few are the wyverns who would willingly serve as steeds for lesser creatures for long.
+
+A wyvern is about 16 feet in length, half of which is tail. The average wyvern weighs 2,000 pounds. Its body is dark brown to gray, and its wingspan is about 20 feet.
 
 Wyverns speak Draconic, but usually don’t bother with anything more elaborate than a loud hiss or a deep-throated growl much like that of a bull alligator.
 
@@ -71,10 +76,4 @@ Wyverns speak Draconic, but usually don’t bother with anything more elaborate 
 
 Wyverns are rather stupid but always aggressive: They attack nearly anything that isn’t obviously more powerful than themselves. A wyvern dives from the air, snatching the opponent with its talons and stinging it to death.
 
-A wyvern can slash with its talons only when making a [[rangoric-srd/feats/Flyby Attack|flyby attack]].
-
-**Improved Grab (Ex)**: To use this ability, a wyvern must hit with its talons. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. If it succeeds on the grapple check, it establishes a hold and stings.
-
-**Poison (Ex)**: Injury, Fortitude DC 17, initial and secondary damage 2d6 Con. The save DC is Constitution-based.
-
-**Skills**: Wyverns have a +3 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
+**[[rangoric-srd/monsters/abilities/Poison|Poison]] (Ex)**: [[rangoric-srd/rules/afflictions/Wyvern Poison|Wyvern Poison]]: Sting—injury; *save* Fort DC 17; *frequency* 1/round for 6 rounds; *effect* 1d4 Con damage; *cure* 2 consecutive saves. The save DC is Constitution-based.
