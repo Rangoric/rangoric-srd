@@ -1,0 +1,27 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "none"
+aura: "Moderate transmutation"
+caster-level: 10
+prerequisites: "Craft Wondrous Item, control water, disintegrate"
+price: "1,600 gp"
+cost: "800 gp"
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/wondrous-items/Dust of Acid Consumption|Dust of Acid Consumption (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Dust of Acid Consumption|Dust of Acid Consumption (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Dust of Acid Consumption
+
+This brown dust is similar to *[[rangoric-srd/magic-items/wondrous-items/Dust of Dryness|dust of dryness]]*, but affects acid rather than water and absorbs less liquid. If it is thrown into acid, a volume of as much as 10 gallons is instantly transformed into nothingness, and the dust becomes a marble sized pellet floating or resting where it was thrown. If this pellet is hurled, it breaks and releases the same volume of acid, dealing 1d6 points of acid damage per gallon absorbed into the pellet (maximum 4d6), affecting all creatures within a 30-foot radius of its point of impact. This is a [[rangoric-srd/combat/Combat Special Attacks#Throw Splash Weapon|splash weapon]].
+
+If the dust is used against an [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^ooze|ooze]] that deals acid damage with its attacks, the creature must make a DC 18 Fortitude save or be destroyed. The dust deals 5d6 points of damage to the ooze even if its saving throw succeeds.
+
+Moderate transmutation; CL 10th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Control Water|control water]]*, *[[rangoric-srd/spells/Disintegrate|disintegrate]]*; Price 1,600 gp; Cost 800 gp.
