@@ -72,6 +72,12 @@ A changeling can take any of these in place of the traits they replace (see [[ra
 | [[rangoric-srd/races/racial-traits/Object of Desire|Object of Desire]] | Green widow |
 | [[rangoric-srd/races/racial-traits/Ocean's Daughter|Ocean's Daughter]] | Sea lungs |
 
+### Class Bonuses
+
+A changeling gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Changeling]]
+
 ### Racial Archetypes
 
 The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.

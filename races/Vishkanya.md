@@ -72,3 +72,9 @@ A vishkanya can take any of these in place of the traits they replace (see [[ran
 | --- | --- |
 | [[rangoric-srd/races/racial-traits/Sensual|Sensual]] | Keen senses |
 | [[rangoric-srd/races/racial-traits/Subtle Appearance|Subtle Appearance]] | Low-light vision |
+
+### Class Bonuses
+
+A vishkanya gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Vishkanya]]

@@ -620,3 +620,113 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Changeling"
+    filters:
+      and:
+        - note.race == "Changeling"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Duergar"
+    filters:
+      and:
+        - note.race == "Duergar"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Gillman"
+    filters:
+      and:
+        - note.race == "Gillman"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Grippli"
+    filters:
+      and:
+        - note.race == "Grippli"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Kitsune"
+    filters:
+      and:
+        - note.race == "Kitsune"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Merfolk"
+    filters:
+      and:
+        - note.race == "Merfolk"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Strix"
+    filters:
+      and:
+        - note.race == "Strix"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Svirfneblin"
+    filters:
+      and:
+        - note.race == "Svirfneblin"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Vanara"
+    filters:
+      and:
+        - note.race == "Vanara"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Vishkanya"
+    filters:
+      and:
+        - note.race == "Vishkanya"
+    order:
+      - file.name
+      - note.class
+    sort:
+      - property: file.name
+        direction: ASC

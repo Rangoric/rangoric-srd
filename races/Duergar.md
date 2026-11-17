@@ -82,3 +82,9 @@ A duergar can take any of these in place of the traits they replace. The four ma
 | [[rangoric-srd/races/racial-traits/Mountaineer (Racial Trait)|Mountaineer]] | Stability (through Dwarf Traits) |
 | [[rangoric-srd/races/racial-traits/Relentless|Relentless]] | Stability (through Dwarf Traits) |
 | [[rangoric-srd/races/racial-traits/Stubborn|Stubborn]] | Duergar immunities (through Dwarf Traits) |
+
+### Class Bonuses
+
+A duergar gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
+
+![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Duergar]]
