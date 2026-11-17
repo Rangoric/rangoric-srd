@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-You peer into the aura of one target creature or object, gaining valuable information about its condition and nature. Each round, choose one of the target's four auras. This spell functions similarly to the read aura occult skill unlock, but doesn't require checks and returns results on all the target's auras in an instant.
+You peer into the aura of one target creature or object, gaining valuable information about its condition and nature. Each round, choose one of the target's four [[rangoric-srd/rules/Auras|auras]]. This spell functions similarly to the [[rangoric-srd/skills/Perception#Read Aura|read aura]] occult skill unlock, but doesn't require checks and returns results on all the target's auras in an instant.
 
 **Alignment Aura**: You study the target's spiritual nature to determine its alignment. You also learn the type and power of its alignment aura, as *[[rangoric-srd/spells/Detect Evil|detect evil]]*.
 

@@ -1,12 +1,14 @@
 ---
 srd-type: "skill"
 section: "Skills"
+book: "Occult Adventures"
 key-ability: "Wis"
 based-on:
   - "[[path srd 3.5/skills/Sense Motive|Sense Motive (PF1)]]"
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Sense Motive|Sense Motive (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
+  - "[[path srd 3.5 foundry/rules/Skills#Prognostication|Prognostication (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -59,3 +61,26 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 **15 Ranks**: You can read surface thoughts as above after 1 round. In addition, when attacked, you can attempt a Sense Motive check as an immediate action opposed by your target's attack roll. A successful check grants a +2 insight bonus to your AC against attacks from that specific opponent for 1 minute.
 
 **20 Ranks**: You can read surface thoughts as above as a standard action. A successful check to gain an insight bonus to your AC also negates the attack that triggered it.
+
+## Occult Unlocks
+
+Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat; see [[rangoric-srd/skills/Skills Overview#^occult-unlocks|Occult Skill Unlocks]] for who can use them and how often.
+
+### Prognostication
+
+You are skilled in folk divination. The most common methods are cartomancy (reading cards), cheiromancy (reading palms), crystallomancy (crystal-gazing), extispicy (reading animal entrails), horoscopy (reading a creature’s birth stars), oneiromancy (interpreting dreams), osteomancy (reading cast bones) and pyromancy (reading flames).
+
+**Check**: Once per day, you can predict a creature’s fortune for the near future. You spend 10 minutes interpreting the means of divination at your disposal, then the GM attempts a secret Sense Motive check against a DC modified by the subject’s Hit Dice (see the table). The result can give you basic insight into the subject’s nature, including its alignment, class and levels or Hit Dice, and might reveal clues to its immediate future. Reading the immediate future as *[[rangoric-srd/spells/Augury|augury]]* has a chance of a meaningful reading equal to 60% plus 5% for every point by which the check result exceeds the DC (to a maximum of 90%). With one check, you learn everything whose DC you meet: for instance, with a result of 22 against a creature with 2 HD, you learn its alignment and class, but not its level, HD or fortune.
+
+| Task | DC |
+| --- | --- |
+| Determine alignment | 15 + creature’s HD |
+| Determine class | 20 + creature’s HD |
+| Determine level or HD | 25 + creature’s HD |
+| Determine fortune as *augury* | 25 + creature’s HD |
+
+**Action**: Reading a creature’s fortune takes 10 minutes of uninterrupted contemplation, and the subject must be present.
+
+**Try Again**: Yes. You can read a creature’s fortune repeatedly, but only once per 24 hours.
+
+**Special**: Items crafted for the sole purpose of prognostication give a +2 circumstance bonus on Sense Motive checks to prognosticate.

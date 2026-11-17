@@ -1,0 +1,22 @@
+---
+srd-type: "feat"
+section: "Feats"
+prerequisites: "Psychic Sensitivity or ability to cast psychic spells or use psychic spell-like abilities, character level 2nd."
+book: "Occult Adventures"
+based-on:
+  - "[[path srd 3.5 foundry/feats/Shatter Mental Mask|Shatter Mental Mask (PF1 Foundry)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/feat, fighter-bonus]
+---
+
+# Shatter Mental Mask
+
+You are adept at ripping away an opponent’s mental mask, exposing its true face during a psychic duel.
+
+**Prerequisites**: [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] or the ability to cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or use psychic spell-like abilities, character level 2nd.
+
+**Benefit**: While in a psychic duel, when you create an offensive manifestation that can be negated or halved only with a successful Will save, if your opponent fails that save, its [[rangoric-srd/rules/Mindscapes#Mental Masks|mental mask]] is shattered, revealing its true form.
+
+**Special**: If you have the Third Eye feat, your opponent’s mental mask is shattered even on a successful Will save.

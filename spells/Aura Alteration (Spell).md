@@ -41,7 +41,7 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: Will negates (harmless, object)
   - **Spell Resistance**: Yes
 
-You mask and manipulate the target creature's or object's aura, confounding those who would attempt to discern helpful information from it using the read aura occult skill unlock or the *[[rangoric-srd/spells/Analyze Aura|analyze aura]]* spell. You can change each of the following four auras with one casting of *aura alteration*.
+You mask and manipulate the target creature's or object's aura, confounding those who would attempt to discern helpful information from it using the [[rangoric-srd/skills/Perception#Read Aura|read aura]] occult skill unlock or the *[[rangoric-srd/spells/Analyze Aura|analyze aura]]* spell. You can change each of the following four auras with one casting of *aura alteration*.
 
 **Alignment Aura**: You can change the target's apparent alignment to thwart spells that detect alignment, such as *[[rangoric-srd/spells/Detect Evil|detect evil]]*. You can alter the alignment by up to one step on each alignment axis, but can't make the creature appear to have a diametrically opposed alignment. For instance, you couldn't make a lawful evil character appear to be chaotic or good. You can also adjust the power of the alignment aura up or down in level by a number of steps equal to 1/2 your level or fewer.
 

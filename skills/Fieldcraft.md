@@ -1,6 +1,7 @@
 ---
 srd-type: "skill"
 section: "Skills"
+book: "Occult Adventures"
 key-ability: "Wis"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
@@ -8,6 +9,7 @@ based-on:
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
   - "[[fantasy srd 3.5/skills/Heal (Skill)|Heal (Skill) (3.5)]]"
   - "[[fantasy srd 3.5/skills/Use Rope|Use Rope (3.5)]]"
+  - "[[path srd 3.5 foundry/rules/Skills#Dowsing|Dowsing (PF1 Foundry)]]"
 status: draft
 change: new
 pi-review: 2026-10-22
@@ -125,3 +127,29 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 **15 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the creature recovers hit point and ability damage as if it had rested for 3 days.
 
 **20 Ranks**: When you [[rangoric-srd/actions/Treat Deadly Wounds|treat deadly wounds]], the target recovers hit point and ability damage as if it had rested for 3 days with long-term care.
+
+## Occult Unlocks
+
+Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat; see [[rangoric-srd/skills/Skills Overview#^occult-unlocks|Occult Skill Unlocks]] for who can use them and how often.
+
+### Dowsing
+
+You channel mysterious forces in the nearby environment to locate hidden resources.
+
+**Check**: Once per day, you can follow a dowsing rod’s movements to locate a particular kind of place. Each attempt takes 10 minutes of intense concentration, after which you attempt a Fieldcraft check against the DC on the table below. The most distant thing you can detect by dowsing is 400 feet + 40 feet per rank you have in Fieldcraft. The rod’s directions last for up to 10 minutes. You choose one target each time you dowse, and on a successful check you learn the following.
+
+*Find Water*: The dowsing rod points toward the largest source of fresh water within range, including aquifers, lakes, ponds and springs.
+
+*Grave Dowsing*: The dowsing rod points toward the largest burial site, cairn or tomb within range.
+
+*Locate Metal and Gems*: You concentrate on a specific metal or mineral. On a successful check, the dowsing rod points to the largest quantity of it within range.
+
+| Dowsing Target | DC |
+| --- | --- |
+| Water | 15 |
+| Grave | 20 |
+| Mineral | 25 |
+
+**Action**: Dowsing takes 10 minutes to begin. Its results last for 10 minutes afterward.
+
+**Try Again**: Yes. You can dowse from the same place more than once, but still only once per day.

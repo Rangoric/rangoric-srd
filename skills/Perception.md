@@ -1,6 +1,7 @@
 ---
 srd-type: "skill"
 section: "Skills"
+book: "Occult Adventures"
 key-ability: "Wis"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
@@ -8,6 +9,7 @@ based-on:
   - "[[fantasy srd 3.5/skills/Listen|Listen (3.5)]]"
   - "[[path srd 3.5/skills/Perception|Perception (PF1)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
+  - "[[path srd 3.5 foundry/rules/Skills#Read Aura|Read Aura (PF1 Foundry)]]"
 status: draft
 change: new
 pi-review: 2026-10-18
@@ -105,3 +107,34 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 **15 Ranks**: You remain alert to sounds even in your sleep, and the normal DC increase to Perception checks when you are sleeping doesn't apply to you (this overlaps the [[rangoric-srd/feats/One Eye Open|One Eye Open]] feat). The distance modifier on the DC of your Perception checks is reduced to +1 per 40 feet.
 
 **20 Ranks**: You gain a +10 bonus on Perception checks to notice invisible creatures or objects. The distance modifier on the DC of Perception checks you attempt is reduced to +1 per 60 feet.
+
+## Occult Unlocks
+
+Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat; see [[rangoric-srd/skills/Skills Overview#^occult-unlocks|Occult Skill Unlocks]] for who can use them and how often.
+
+### Read Aura
+
+Your psychic sensitivity lets you read the psychic and magical [[rangoric-srd/rules/Auras|auras]] of creatures and objects.
+
+**Check**: Once per day, you can examine the natural aura of a creature or object to discern its alignment, emotions, health or magic. This takes 10 minutes of concentration, after which you attempt a Perception check. Each time, you pick one of the four auras to read: alignment, emotion, health or magic. The check’s result applies only to that aura. You must stay within 30 feet of the subject for the whole reading. Objects usually have only magic auras, though some also have alignment auras (and intelligent items have emotion auras). You can try to read a kind of aura an object doesn’t have, but you learn nothing. The DC depends on the aura, as shown on the table.
+
+*Read Alignment Aura*: You learn the subject’s alignment and the aura’s strength. An alignment aura’s strength depends on the creature’s Hit Dice or the item’s caster level, as described in *[[rangoric-srd/spells/Detect Evil|detect evil]]*.
+
+*Read Emotion Aura*: The colors within the subject’s aura reveal its emotional state. If you succeed, you learn its disposition and its attitude toward every creature within 30 feet of it. For a number of rounds equal to the amount by which you exceeded the DC, you gain a +2 circumstance bonus on Deception, Persuasion, Intimidation and Sense Motive checks against it.
+
+*Read Health Aura*: Watching the flow of vital force, you assess a creature’s physical condition. You learn whether it is unharmed or wounded, whether it is poisoned or diseased, and whether it is [[rangoric-srd/rules/Special Abilities and Conditions#^confused|confused]], [[rangoric-srd/rules/Special Abilities and Conditions#^disabled|disabled]], [[rangoric-srd/rules/Special Abilities and Conditions#^dying|dying]], [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]], [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]], [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]], [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] or [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]]. You also learn how many points it has in its [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]], [[rangoric-srd/classes/Gunslinger#^gunslinger-grit|grit]] or a similar resource.
+
+*Read Magic Aura*: You learn the number and power of all magical auras on a creature or object (see *[[rangoric-srd/spells/Detect Magic|detect magic]]* for a magic aura’s power). If you succeed, you can attempt [[rangoric-srd/skills/Identifying Magic|Magic skill]] checks to learn the auras’ schools or identify a magic item’s properties, as normal. If the item is affected by *[[rangoric-srd/spells/Magic Aura|magic aura]]* or a similar spell, you notice it and learn the item’s actual properties if your result exceeds the DC by 5 or more. If the spell is of a higher level (such as *[[rangoric-srd/spells/Aura Alteration (Spell)|aura alteration]]*), this threshold increases by 2 for every spell level above 1st.
+
+| Task | DC |
+| --- | --- |
+| Read alignment aura | 15 + creature’s HD or item’s caster level |
+| Read emotion aura | 20 + creature’s HD or item’s caster level* |
+| Read health aura | 15 + creature’s HD |
+| Read magic aura | 20 + creature’s HD or item’s caster level |
+
+\* Intelligent items only.
+
+**Action**: Reading an aura takes 10 minutes of study.
+
+**Try Again**: Yes. You can read a creature’s or object’s aura more than once, whether the same aura or a different one, but you can still attempt only one check to read an aura per day.
