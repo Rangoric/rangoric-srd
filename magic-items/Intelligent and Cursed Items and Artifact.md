@@ -304,6 +304,49 @@ All magic items with personalities desire to play an important role in whatever 
 
 Items with personalities are never totally controlled or silenced by the characters who possess them, even though they may never successfully control their possessors. They may be powerless to force their demands but remain undaunted and continue to air their wishes and demands.
 
+###### More Intelligent Items
+
+These intelligent items are grouped by what they are. Each lists its Ego and alignment; its full intelligence (ability scores, senses and language) is in its description.
+
+**Weapons**
+
+| Item | Price | Ego | Alignment |
+| --- | --- | --- | --- |
+| [[rangoric-srd/magic-items/intelligent-items/Hammer of Enemies\|Hammer of Enemies]] | 54,212 gp | 14 | chaotic neutral |
+| [[rangoric-srd/magic-items/intelligent-items/Lightning Bow\|Lightning Bow]] | 54,300 gp | 9 | neutral |
+| [[rangoric-srd/magic-items/intelligent-items/Singing Sword\|Singing Sword]] | 165,315 gp | 17 | chaotic good |
+
+**Armor and shields**
+
+| Item | Price | Ego | Alignment |
+| --- | --- | --- | --- |
+| [[rangoric-srd/magic-items/intelligent-items/Armor of the Shadow Lord\|Armor of the Shadow Lord]] | 117,160 gp | 14 | neutral |
+| [[rangoric-srd/magic-items/intelligent-items/Shield of the Mage\|Shield of the Mage]] | 14,500 gp | 6 | neutral |
+
+**Rings**
+
+| Item | Price | Ego | Alignment |
+| --- | --- | --- | --- |
+| [[rangoric-srd/magic-items/intelligent-items/Obsession Ring\|Obsession Ring]] | 116,500 gp | 11 | varies |
+
+**Rods**
+
+| Item | Price | Ego | Alignment |
+| --- | --- | --- | --- |
+| [[rangoric-srd/magic-items/intelligent-items/Harbinger Rod\|Harbinger Rod]] | 44,200 gp | 10 | lawful good |
+| [[rangoric-srd/magic-items/intelligent-items/Metamagician's Apprentice\|Metamagician's Apprentice]] | 93,605 gp | 20 | lawful neutral |
+| [[rangoric-srd/magic-items/intelligent-items/Rod That Should Not Be, Greater\|Rod That Should Not Be, Greater]] | 40,000 gp | 6 | chaotic neutral |
+| [[rangoric-srd/magic-items/intelligent-items/Rod That Should Not Be, Lesser\|Rod That Should Not Be, Lesser]] | 12,000 gp | 3 | chaotic evil |
+
+**Wondrous items**
+
+| Slot | Item | Price | Ego | Alignment |
+| --- | --- | --- | --- | --- |
+| head | [[rangoric-srd/magic-items/intelligent-items/Helmet of the Golden General\|Helmet of the Golden General]] | 62,000 gp | 14 | neutral good |
+| headband | [[rangoric-srd/magic-items/intelligent-items/Headband of the Sage\|Headband of the Sage]] | 71,300 gp | 20 | varies |
+| slotless | [[rangoric-srd/magic-items/intelligent-items/Chomper\|Chomper]] | none (cursed) | 17 | chaotic evil |
+| slotless | [[rangoric-srd/magic-items/intelligent-items/Lute of Discord\|Lute of Discord]] | 37,900 gp | 14 | chaotic neutral |
+
 ### Cursed Items
 
 Cursed items are magic items with some sort of potentially negative impact. Sometimes they’re directly bad for the user; sometimes they’re just inconvenient. Occasionally they mix bad with good, forcing characters to make difficult choices.
@@ -568,6 +611,7 @@ These cursed items have no creation prerequisites or price. Instead, each names 
 | shoulders | [[rangoric-srd/magic-items/cursed-items/Pauldrons of the Jackass\|Pauldrons of the Jackass]] | any pauldrons |
 | shoulders | [[rangoric-srd/magic-items/cursed-items/Petrifying Cloak\|Petrifying Cloak]] | any cloak |
 | wrists | [[rangoric-srd/magic-items/cursed-items/Scattershot Bracers\|Scattershot Bracers]] | *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater\|bracers of archery, greater]]* or *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Lesser\|lesser]]* |
+| slotless | [[rangoric-srd/magic-items/intelligent-items/Chomper\|Chomper]] | *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding III\|bag of holding III]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Drums of Lethargy\|Drums of Lethargy]] | *drums of haste* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/One-Way Window (Cursed Item)\|One-Way Window]] | *[[rangoric-srd/magic-items/wondrous-items/Mirror of Life Trapping\|mirror of life trapping]]*, *[[rangoric-srd/magic-items/wondrous-items/Mirror of Opposition\|mirror of opposition]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Riot Pipes\|Riot Pipes]] | *[[rangoric-srd/magic-items/wondrous-items/Pipes of Haunting\|pipes of haunting]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of the Sewers\|pipes of the sewers]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of Sounding\|pipes of sounding]]* |
@@ -588,21 +632,9 @@ Minor artifacts are not necessarily unique items. Even so, they are magic items 
 
 ###### Minor Artifact Descriptions
 
-Described below is a selection of the most well-known (not necessarily the most numerous) minor artifacts.
+Every minor artifact, grouped by type (epic minor, minor and psionic minor) and listed alphabetically, from the [[rangoric-srd/magic-items/artifacts/Artifacts Index.base|Artifacts Index]] (its All artifacts view lists every artifact).
 
-  - [[rangoric-srd/magic-items/artifacts/Bandoleer of Swords|Bandoleer of Swords]]
-  - [[rangoric-srd/magic-items/artifacts/Book of Infinite Spells|Book of Infinite Spells]]
-  - [[rangoric-srd/magic-items/artifacts/Dagger of Memory Snatching|Dagger of Memory Snatching]]
-  - [[rangoric-srd/magic-items/artifacts/Deck of Many Things|Deck of Many Things]]
-  - [[rangoric-srd/magic-items/artifacts/Hammer of Thunderbolts|Hammer of Thunderbolts]]
-  - [[rangoric-srd/magic-items/artifacts/Philosopher’s Stone|Philosopher’s Stone]]
-  - [[rangoric-srd/magic-items/artifacts/Sphere of Annihilation|Sphere of Annihilation]]
-  - [[rangoric-srd/magic-items/artifacts/Staff of the Magi|Staff of the Magi]]
-  - [[rangoric-srd/magic-items/artifacts/Talisman of Pure Good|Talisman of Pure Good]]
-  - [[rangoric-srd/magic-items/artifacts/Talisman of Reluctant Wishes|Talisman of Reluctant Wishes]]
-  - [[rangoric-srd/magic-items/artifacts/Talisman of the Sphere|Talisman of the Sphere]]
-  - [[rangoric-srd/magic-items/artifacts/Talisman of Ultimate Evil|Talisman of Ultimate Evil]]
-  - [[rangoric-srd/magic-items/artifacts/Tongue of the Demon|Tongue of the Demon]]
+![[rangoric-srd/magic-items/artifacts/Artifacts Index.base#Minor artifacts]]
 
 ##### Major Artifacts
 
@@ -612,13 +644,6 @@ Unlike all other magic items, major artifacts are not easily destroyed. Each sho
 
 ###### Major Artifact Descriptions
 
-  - [[rangoric-srd/magic-items/artifacts/Armor of Epic Totems|Armor of Epic Totems]]
-  - [[rangoric-srd/magic-items/artifacts/Flail of the Earth Mother|Flail of the Earth Mother]]
-  - [[rangoric-srd/magic-items/artifacts/Mail of Four Arms|Mail of Four Arms]]
-  - [[rangoric-srd/magic-items/artifacts/Robe of the Transcendent|Robe of the Transcendent]]
-  - [[rangoric-srd/magic-items/artifacts/Skill Blade|Skill Blade]]
-  - [[rangoric-srd/magic-items/artifacts/The Moaning Diamond|The Moaning Diamond]]
-  - [[rangoric-srd/magic-items/artifacts/The Orbs of Dragonkind|The Orbs of Dragonkind]]
-  - [[rangoric-srd/magic-items/artifacts/The Saint’s Mace|The Saint’s Mace]]
-  - [[rangoric-srd/magic-items/artifacts/The Shadowstaff|The Shadowstaff]]
-  - [[rangoric-srd/magic-items/artifacts/The Shield of the Sun|The Shield of the Sun]]
+Every major artifact, grouped by type (epic major, major and psionic major) and listed alphabetically, from the [[rangoric-srd/magic-items/artifacts/Artifacts Index.base|Artifacts Index]] (its All artifacts view lists every artifact).
+
+![[rangoric-srd/magic-items/artifacts/Artifacts Index.base#Major artifacts]]
