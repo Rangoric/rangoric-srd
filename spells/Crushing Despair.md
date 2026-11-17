@@ -12,6 +12,7 @@ level:
   - "Psy 4"
   - "Skd 3"
   - "Sor/Wiz 4"
+  - "Spi 4"
   - "Wit 4"
 components:
   - "V"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Blr 4, Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Wit 4
+  - **Level**: Blr 4, Brd 3, Mes 3, Psy 4, Skd 3, Sor/Wiz 4, Spi 4, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

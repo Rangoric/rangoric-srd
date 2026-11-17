@@ -8,6 +8,7 @@ level:
   - "Mes 1"
   - "Skd 1"
   - "Sor/Wiz 1"
+  - "Spi 1"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 1, Brd 1, Mes 1, Skd 1, Sor/Wiz 1
+  - **Level**: Blr 1, Brd 1, Mes 1, Skd 1, Sor/Wiz 1, Spi 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

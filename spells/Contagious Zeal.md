@@ -13,6 +13,7 @@ level:
   - "Psy 3"
   - "Skd 2"
   - "Sor/Wiz 3"
+  - "Spi 3"
 components:
   - "V"
   - "S"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Emotion, MindAffecting\]*
 
-  - **Level**: Brd 2, Clr 3, Inq 3, Psy 3, Skd 2, Sor/Wiz 3
+  - **Level**: Brd 2, Clr 3, Inq 3, Psy 3, Skd 2, Sor/Wiz 3, Spi 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

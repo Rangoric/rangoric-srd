@@ -9,6 +9,7 @@ level:
   - "Mes 5"
   - "Skd 5"
   - "Sor/Wiz 6"
+  - "Spi 6"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow)*
 
-  - **Level**: Alc 6, Brd 5, Mes 5, Skd 5, Sor/Wiz 6
+  - **Level**: Alc 6, Brd 5, Mes 5, Skd 5, Sor/Wiz 6, Spi 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

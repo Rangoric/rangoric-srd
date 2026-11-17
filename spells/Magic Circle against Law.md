@@ -11,6 +11,7 @@ level:
   - "Inq 3"
   - "Sha 3"
   - "Sor/Wiz 3"
+  - "Spi 3"
   - "Sum 3"
   - "SumU 3"
 based-on:
@@ -25,6 +26,6 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Chaotic\]*
 
-  - **Level**: Apl 3, Chaos 3, Clr 3, Inq 3, Sha 3, Sor/Wiz 3, Sum 3, SumU 3
+  - **Level**: Apl 3, Chaos 3, Clr 3, Inq 3, Sha 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3
 
 This spell functions like [[rangoric-srd/spells/Magic Circle against Evil|magic circle against evil]], except that it is similar to protection from law instead of protection from evil, and it can imprison a nonchaotic called creature.

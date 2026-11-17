@@ -6,6 +6,7 @@ level:
   - "Apl 4"
   - "Clr 6"
   - "Pal 4"
+  - "Spi 6"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Apl 4, Clr 6, Pal 4
+  - **Level**: Apl 4, Clr 6, Pal 4, Spi 6
   - **Components**: V, S, M (a drop of candle wax)
   - **Casting Time**: 1 minute
   - **Range**: 10 ft.

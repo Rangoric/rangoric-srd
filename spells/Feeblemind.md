@@ -9,6 +9,7 @@ level:
   - "Mes 5"
   - "Psy 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Wit 5"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Wit 5
+  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

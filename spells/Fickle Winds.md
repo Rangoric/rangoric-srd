@@ -10,6 +10,7 @@ level:
   - "Hun 3"
   - "Rgr 3"
   - "Sor/Wiz 5"
+  - "Spi 5"
 casting-time: "1 standard action"
 targets: "One or more Medium creatures/level, no two of which can be more than 30 ft. apart"
 duration: "1 minute/level (D)"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Clr 5, Drd 5, Hun 3, Rgr 3, Sor/Wiz 5
+  - **Level**: Clr 5, Drd 5, Hun 3, Rgr 3, Sor/Wiz 5, Spi 5
   - **Components**: 
   - **Casting Time**: 1 standard action
   - **Targets**: One or more Medium creatures/level, no two of which can be more than 30 ft. apart

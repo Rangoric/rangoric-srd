@@ -11,6 +11,7 @@ level:
   - "Brd 5"
   - "Skd 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow) \[Evil, Shadow\]*
 
-  - **Level**: Apl 4, Brd 5, Skd 5, Sor/Wiz 5
+  - **Level**: Apl 4, Brd 5, Skd 5, Sor/Wiz 5, Spi 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

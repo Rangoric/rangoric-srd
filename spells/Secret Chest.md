@@ -7,6 +7,7 @@ level:
   - "Mes 5"
   - "Psy 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Wit 5"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Wit 5
+  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
   - **Components**: V, S, F
   - **Casting Time**: 10 minutes
   - **Range**: See text

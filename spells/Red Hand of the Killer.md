@@ -10,6 +10,7 @@ level:
   - "Psy 5"
   - "Skd 4"
   - "Sor/Wiz 5"
+  - "Spi 4"
   - "Wit 5"
 components:
   - "V"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Brd 4, Clr 4, Inq 4, Pal 4, Psy 5, Skd 4, Sor/Wiz 5, Wit 5
+  - **Level**: Brd 4, Clr 4, Inq 4, Pal 4, Psy 5, Skd 4, Sor/Wiz 5, Spi 4, Wit 5
   - **Components**: V, S, M, F (a black candle)
   - **Casting Time**: 1 standard action
   - **Range**: SeeText

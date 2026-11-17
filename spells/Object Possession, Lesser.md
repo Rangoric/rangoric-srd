@@ -6,6 +6,7 @@ level:
   - "Mes 3"
   - "Psy 3"
   - "Sor/Wiz 4"
+  - "Spi 3"
   - "Wit 4"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Mes 3, Psy 3, Sor/Wiz 4, Wit 4
+  - **Level**: Mes 3, Psy 3, Sor/Wiz 4, Spi 3, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -6,6 +6,7 @@ level:
   - "Mes 5"
   - "Psy 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Wit 5"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Wit 5
+  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

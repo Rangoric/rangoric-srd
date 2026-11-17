@@ -11,6 +11,7 @@ level:
   - "Psy 5"
   - "Skd 4"
   - "Sor/Wiz 5"
+  - "Spi 5"
 components:
   - "V"
   - "S"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Sonic\]*
 
-  - **Level**: Blr 4, Brd 4, Mag 4, Psy 5, Skd 4, Sor/Wiz 5
+  - **Level**: Blr 4, Brd 4, Mag 4, Psy 5, Skd 4, Sor/Wiz 5, Spi 5
   - **Components**: V, S, M (a tuning fork and a quartz crystal)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

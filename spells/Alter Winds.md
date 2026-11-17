@@ -8,6 +8,7 @@ level:
   - "Drd 1"
   - "Hun 1"
   - "Sor/Wiz 1"
+  - "Spi 1"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Drd 1, Hun 1, Sor/Wiz 1
+  - **Level**: Drd 1, Hun 1, Sor/Wiz 1, Spi 1
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Touch

@@ -12,6 +12,7 @@ level:
   - "Psy 2"
   - "Skd 3"
   - "Sor/Wiz 3"
+  - "Spi 3"
   - "Sum 3"
   - "SumU 3"
   - "Wit 3"
@@ -38,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[Mind-affecting\]*
 
-  - **Level**: Alc 3, Brd 3, Inq 3, Mes 3, Psy 2, Skd 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+  - **Level**: Alc 3, Brd 3, Inq 3, Mes 3, Psy 2, Skd 3, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
   - **Components**: V, S, M (a handful of copper coins)
   - **Casting Time**: 1 standard action
   - **Range**: 40 ft.

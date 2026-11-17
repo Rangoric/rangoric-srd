@@ -6,6 +6,7 @@ level:
   - "Mes 4"
   - "Psy 4"
   - "Sor/Wiz 4"
+  - "Spi 3"
   - "Sum 4"
   - "SumU 4"
   - "Wit 4"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Mes 4, Psy 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
+  - **Level**: Mes 4, Psy 4, Sor/Wiz 4, Spi 3, Sum 4, SumU 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Psy 6"
+  - "Spi 5"
   - "Wit 7"
 components:
   - "V"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Psy 6, Wit 7
+  - **Level**: Psy 6, Spi 5, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

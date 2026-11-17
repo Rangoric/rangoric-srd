@@ -9,6 +9,7 @@ level:
   - "Psy 5"
   - "Skd 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Trickery 5"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 5, Mes 5, Psy 5, Skd 5, Sor/Wiz 5, Trickery 5
+  - **Level**: Brd 5, Mes 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5, Trickery 5
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

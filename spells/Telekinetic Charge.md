@@ -8,6 +8,7 @@ level:
   - "Blr 4"
   - "Psy 4"
   - "Sor/Wiz 4"
+  - "Spi 4"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Blr 4, Psy 4, Sor/Wiz 4
+  - **Level**: Blr 4, Psy 4, Sor/Wiz 4, Spi 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Mes 5"
   - "Psy 5"
   - "Sor/Wiz 5"
+  - "Spi 4"
   - "Wit 5"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Clr 5, Mes 5, Psy 5, Sor/Wiz 5, Wit 5
+  - **Level**: Clr 5, Mes 5, Psy 5, Sor/Wiz 5, Spi 4, Wit 5
   - **Components**: V, S, M (one Tiny or larger living creature)
   - **Casting Time**: 1 round
   - **Range**: Touch

@@ -13,6 +13,7 @@ level:
   - "Psy 6"
   - "Skd 5"
   - "Sor/Wiz 6"
+  - "Spi 6"
   - "Trickery 6"
 components:
   - "S"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment, Glamer)*
 
-  - **Level**: Alc 6, Brd 5, Illusion 6, Luck 6, Mag 6, Mes 5, Psy 6, Skd 5, Sor/Wiz 6, Trickery 6
+  - **Level**: Alc 6, Brd 5, Illusion 6, Luck 6, Mag 6, Mes 5, Psy 6, Skd 5, Sor/Wiz 6, Spi 6, Trickery 6
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

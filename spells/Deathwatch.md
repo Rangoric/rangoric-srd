@@ -6,6 +6,7 @@ descriptor:
   - "Evil"
 level:
   - "Clr 1"
+  - "Spi 1"
 components:
   - "V"
   - "S"
@@ -17,8 +18,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Deathwatch|Deathwatch (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 1
+  - **Level**: Clr 1, Spi 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

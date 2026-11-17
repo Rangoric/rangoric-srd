@@ -8,6 +8,7 @@ level:
   - "Psy 5"
   - "Sha 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Sum 4"
   - "SumU 5"
   - "Wit 5"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 5, Mag 5, Psy 5, Sha 5, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
+  - **Level**: Alc 5, Mag 5, Psy 5, Sha 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Wit 5
   - **Components**: V, S
   - **Range**: Personal
   - **Target**: You

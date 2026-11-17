@@ -6,6 +6,7 @@ descriptor:
   - "Force"
 level:
   - "Clr 4"
+  - "Spi 4"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Clr 4
+  - **Level**: Clr 4, Spi 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

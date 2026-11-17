@@ -10,6 +10,7 @@ level:
   - "Death 3"
   - "Sha 3"
   - "Sor/Wiz 4"
+  - "Spi 3"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Apl 3, Clr 3, Death 3, Sha 3, Sor/Wiz 4
+  - **Level**: Apl 3, Clr 3, Death 3, Sha 3, Sor/Wiz 4, Spi 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

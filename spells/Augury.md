@@ -6,6 +6,7 @@ level:
   - "Clr 2"
   - "Psy 2"
   - "Sha 2"
+  - "Spi 2"
   - "Wit 2"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 2, Psy 2, Sha 2, Wit 2
+  - **Level**: Clr 2, Psy 2, Sha 2, Spi 2, Wit 2
   - **Components**: V, S, M, F
   - **Casting Time**: 1 minute
   - **Range**: Personal

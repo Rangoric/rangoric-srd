@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Clr 5"
   - "Inq 5"
+  - "Spi 5"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 5, Inq 5
+  - **Level**: Clr 5, Inq 5, Spi 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

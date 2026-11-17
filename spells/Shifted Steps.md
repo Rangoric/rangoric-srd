@@ -15,6 +15,7 @@ level:
   - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
+  - "Spi 2"
 components:
   - "V"
   - "S"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer) \[Sonic\]*
 
-  - **Level**: Alc 2, Apl 2, Brd 2, Inq 2, Mag 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
+  - **Level**: Alc 2, Apl 2, Brd 2, Inq 2, Mag 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -7,6 +7,7 @@ level:
   - "Brd 4"
   - "Skd 4"
   - "Sor/Wiz 4"
+  - "Spi 4"
   - "Sum 3"
   - "SumU 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Brd 4, Skd 4, Sor/Wiz 4, Sum 3, SumU 3
+  - **Level**: Brd 4, Skd 4, Sor/Wiz 4, Spi 4, Sum 3, SumU 3
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -12,6 +12,7 @@ level:
   - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
+  - "Spi 2"
 components:
   - "S"
 casting-time: "1 standard action"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Brd 2, Clr 2, Mag 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Clr 2, Mag 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

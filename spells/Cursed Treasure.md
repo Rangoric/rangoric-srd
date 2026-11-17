@@ -9,6 +9,7 @@ level:
   - "Blr 4"
   - "Clr 3"
   - "Sor/Wiz 4"
+  - "Spi 3"
   - "Wit 3"
 components:
   - "V"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Apl 3, Blr 4, Clr 3, Sor/Wiz 4, Wit 3
+  - **Level**: Apl 3, Blr 4, Clr 3, Sor/Wiz 4, Spi 3, Wit 3
   - **Components**: V, S, M (a platinum piece)
   - **Casting Time**: 1 minute
   - **Range**: Touch

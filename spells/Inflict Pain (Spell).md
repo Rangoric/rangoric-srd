@@ -13,6 +13,7 @@ level:
   - "Mes 2"
   - "Psy 2"
   - "Sor/Wiz 3"
+  - "Spi 2"
   - "Wit 3"
 components:
   - "V"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment \[MindAffecting, Pain\]*
 
-  - **Level**: Apl 2, Inq 2, Mes 2, Psy 2, Sor/Wiz 3, Wit 3
+  - **Level**: Apl 2, Inq 2, Mes 2, Psy 2, Sor/Wiz 3, Spi 2, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

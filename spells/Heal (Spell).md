@@ -12,6 +12,7 @@ level:
   - "Healing 6"
   - "Inq 6"
   - "Sha 7"
+  - "Spi 6"
   - "Wit 7"
 components:
   - "V"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Alc 6, Clr 6, Drd 7, Healing 6, Inq 6, Sha 7, Wit 7
+  - **Level**: Alc 6, Clr 6, Drd 7, Healing 6, Inq 6, Sha 7, Spi 6, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch
