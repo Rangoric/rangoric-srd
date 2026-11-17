@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong conjuration, enchantment and transmutation"
 caster-level: 16
 prerequisites: "Craft Construct, creator must be caster level 16th, cloudkill, geas/quest, limited wish, polymorph any object"

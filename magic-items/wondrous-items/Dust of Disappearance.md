@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate illusion"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, greater invisibility"
 price: "3,500 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Dust of Disappearance|Dust of Disappearance (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

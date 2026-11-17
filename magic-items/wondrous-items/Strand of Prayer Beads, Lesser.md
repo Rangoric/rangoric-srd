@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Faint (many schools)"
 caster-level: 5
 prerequisites: "Craft Wondrous Items and one of the following spells per bead, as appropriate: bless (blessing); cure serious wounds, remove blindness/ deafness, or remove disease (healing)"

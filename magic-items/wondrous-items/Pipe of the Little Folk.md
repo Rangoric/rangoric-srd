@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, reduce person, bless"
 price: "14,000 gp"

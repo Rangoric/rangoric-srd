@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, secret chest"
 price: "2,250 gp"

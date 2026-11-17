@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong evocation and transmutation"
 caster-level: 19
 prerequisites: "Craft Wondrous Item, animate objects, continual flame, creator must have 5 ranks in the Engineering skill"

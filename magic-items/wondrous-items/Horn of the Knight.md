@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 13
 prerequisites: "Craft Wondrous Item, summon fey VI"
 price: "50,000 gp"

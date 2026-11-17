@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate necromancy"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, fear"
@@ -9,8 +10,8 @@ price: "30,000 gp"
 weight: "10 lb. for the pair"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Drums of Panic|Drums of Panic (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong transmutation"
 caster-level: 17
 prerequisites: "Craft Wondrous Item, creator must be able to cast spells of the spell level to be recalled"

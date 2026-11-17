@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Strong (many schools)"
 caster-level: 17
 prerequisites: "Craft Wondrous Items and one of the following spells per bead, as appropriate: cure serious wounds, remove blindness/ deafness, or remove disease (healing); righteous might (karma); gate (summons); wind walk (wind walking)"

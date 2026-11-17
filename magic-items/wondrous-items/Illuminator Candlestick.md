@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 17
 prerequisites: "Craft Wondrous Item, wish or miracle"
 price: "162,400 gp"

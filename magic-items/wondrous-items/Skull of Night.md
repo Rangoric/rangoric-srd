@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 9
 prerequisites: "Craft Necromantic Focus, Shadecall, access to a source of necromantic energy providing a bonus of at least +12"
 price: "46,000 gp"

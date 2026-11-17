@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate transmutation"
 caster-level: 11
 prerequisites: "Craft Wondrous Item, animate objects"

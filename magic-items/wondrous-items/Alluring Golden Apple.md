@@ -1,0 +1,26 @@
+---
+srd-type: "magic-item"
+section: "Magic Items"
+item-type: "Wondrous Item"
+slot: "none"
+aura: "Faint enchantment"
+caster-level: 4
+prerequisites: "Craft Wondrous Item, beguiling gift, hold person"
+price: "400 gp"
+cost: "200 gp"
+weight: "1 lb."
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/wondrous-items/Alluring Golden Apple|Alluring Golden Apple (PF1)]]"
+  - "[[path srd 3.5 foundry/items/wondrous/Alluring Golden Apple|Alluring Golden Apple (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-16
+tags: [rangoric, rangoric/magic-item]
+---
+
+# Alluring Golden Apple
+
+This enchanted apple appears to be made of solid gold. When dropped or thrown, it draws the attention of the nearest hostile creature within 20 feet. The creature must make a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] as if by *[[rangoric-srd/spells/Hold Person|hold person]]* as it focuses its undivided attention on the golden apple. If the creature makes its save on a later round, it realizes it has been affected by magic and the apple is not actually gold. While focusing on the apple, the target takes a –2 penalty on [[rangoric-srd/skills/Perception|Perception]] checks. The apple is consumed upon being dropped or thrown.
+
+Faint enchantment; CL 4th; [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], *[[rangoric-srd/spells/Beguiling Gift|beguiling gift]]*, *[[rangoric-srd/spells/Hold Person|hold person]]*; Price 400 gp; Cost 200 gp; Weight 1 lb.

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 5
 prerequisites: "Craft Wondrous Item, speak with dead, Monk of any level"
 price: "60,000 gp"

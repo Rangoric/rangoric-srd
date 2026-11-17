@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Faint divination"
 caster-level: 2
 prerequisites: "Craft Wondrous Item, true seeing"

@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate transmutation"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, animate objects, animate rope, entangle"
@@ -9,8 +10,8 @@ price: "21,000 gp"
 weight: "5 lb"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Rope of Entanglement|Rope of Entanglement (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

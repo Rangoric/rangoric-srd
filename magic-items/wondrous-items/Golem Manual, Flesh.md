@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate enchantment, necromancy [evil], and transmutation"
 caster-level: 8
 prerequisites: "Craft Construct, creator must be caster level 8th, animate dead, bull’s strength, geas/quest, limited wish"

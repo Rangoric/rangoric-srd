@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 10
 prerequisites: "Craft Wondrous Item, Craft Magic Arms and Armor, magic weapon"
 price: "30,000 gp"

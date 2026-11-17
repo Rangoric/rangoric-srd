@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate conjuration"
 caster-level: 7
 prerequisites: "Craft Wondrous Item, minor creation, 1 lb. of silver (this is in addition to the gp cost)"

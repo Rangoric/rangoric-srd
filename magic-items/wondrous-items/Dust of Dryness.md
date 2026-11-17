@@ -2,14 +2,15 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Moderate transmutation"
 caster-level: 11
 prerequisites: "Craft Wondrous Item, control water"
 price: "850 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Dust of Dryness|Dust of Dryness (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/magic-item]
 ---

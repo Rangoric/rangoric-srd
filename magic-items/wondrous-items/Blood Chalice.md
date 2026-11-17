@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 18
 prerequisites: "Craft Wondrous Item, vampiric touch"
 price: "120,000 gp"

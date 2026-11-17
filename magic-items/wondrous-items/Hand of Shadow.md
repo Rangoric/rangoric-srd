@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 7
 prerequisites: "Craft Necromantic Focus, access to a source of necromantic energy providing a bonus of at least +6"
 price: "6,000 gp"

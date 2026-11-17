@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 caster-level: 15
 prerequisites: "Craft Wondrous Item, antipathy"
 price: "120,000 gp"

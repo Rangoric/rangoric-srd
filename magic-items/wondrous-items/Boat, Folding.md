@@ -2,6 +2,7 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
+slot: "none"
 aura: "Faint transmutation"
 caster-level: 6
 prerequisites: "Craft Wondrous Item, fabricate, creator must have 1 rank in the Craft (shipmaking) skill"
