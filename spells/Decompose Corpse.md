@@ -6,6 +6,7 @@ level:
   - "Clr 1"
   - "Drd 1"
   - "Hun 1"
+  - "Psy 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 1, Drd 1, Hun 1, Sor/Wiz 1, Wit 1
+  - **Level**: Clr 1, Drd 1, Hun 1, Psy 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S, M (a pinch of dried toadstool)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

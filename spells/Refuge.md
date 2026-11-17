@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Clr 7"
+  - "Psy 8"
   - "Sor/Wiz 9"
   - "Wit 9"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Clr 7, Sor/Wiz 9, Wit 9
+  - **Level**: Clr 7, Psy 8, Sor/Wiz 9, Wit 9
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

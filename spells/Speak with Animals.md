@@ -6,6 +6,7 @@ level:
   - "Brd 3"
   - "Drd 1"
   - "Hun 1"
+  - "Psy 2"
   - "Rgr 1"
   - "Skd 3"
   - "Tot 2"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 3, Drd 1, Hun 1, Rgr 1, Skd 3, Tot 2
+  - **Level**: Brd 3, Drd 1, Hun 1, Psy 2, Rgr 1, Skd 3, Tot 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

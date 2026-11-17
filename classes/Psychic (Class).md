@@ -92,7 +92,7 @@ All of the following are class features of the psychic.
 
 **Weapon and Armor Proficiency**: A psychic is proficient with all simple weapons, but not with any type of armor or shield. ^psychic-proficiency
 
-**Spells**: A psychic casts [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] drawn from the psychic spell list. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a psychic must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a psychic’s spell is equal to 10 + the spell’s level + the psychic’s Intelligence modifier. ^psychic-spells
+**Spells**: A psychic casts [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] drawn from the [[rangoric-srd/spells/Psychic Spell List|psychic spell list]]. She can cast any spell she knows without preparing it ahead of time. To learn or cast a spell, a psychic must have an Intelligence score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a psychic’s spell is equal to 10 + the spell’s level + the psychic’s Intelligence modifier. ^psychic-spells
 
 A psychic can cast only a certain number of spells of each spell level per day. Her base daily spell allotment is given on [[rangoric-srd/classes/Psychic (Class)#^table-the-psychic|Table: The Psychic]]. In addition, she receives bonus spells per day if she has a high Intelligence score.
 

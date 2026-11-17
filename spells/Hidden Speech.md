@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Brd 2"
   - "Inq 3"
+  - "Psy 2"
   - "Skd 2"
   - "Wit 2"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Language-dependent\]*
 
-  - **Level**: Brd 2, Inq 3, Skd 2, Wit 2
+  - **Level**: Brd 2, Inq 3, Psy 2, Skd 2, Wit 2
   - **Components**: V, S, M/DF (a cipher written on a piece of parchment)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

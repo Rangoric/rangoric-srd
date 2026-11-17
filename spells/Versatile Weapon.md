@@ -7,6 +7,7 @@ level:
   - "Brd 2"
   - "Hun 2"
   - "Mag 3"
+  - "Psy 3"
   - "Rgr 2"
   - "Skd 2"
   - "Sor/Wiz 3"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 3, Brd 2, Hun 2, Mag 3, Rgr 2, Skd 2, Sor/Wiz 3
+  - **Level**: Blr 3, Brd 2, Hun 2, Mag 3, Psy 3, Rgr 2, Skd 2, Sor/Wiz 3
   - **Components**: V, S, M (iron filings)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

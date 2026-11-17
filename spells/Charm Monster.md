@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 3"
   - "Fpk 3"
+  - "Psy 4"
   - "Skd 3"
   - "Sor/Wiz 4"
   - "Sum 3"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-Affecting\]*
 
-  - **Level**: Brd 3, Fpk 3, Skd 3, Sor/Wiz 4, Sum 3, SumU 4, Wit 4
+  - **Level**: Brd 3, Fpk 3, Psy 4, Skd 3, Sor/Wiz 4, Sum 3, SumU 4, Wit 4
   - **Target**: One living creature
   - **Duration**: One day/level
 

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 5"
+  - "Psy 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 5, Sor/Wiz 5, Wit 5
+  - **Level**: Clr 5, Psy 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

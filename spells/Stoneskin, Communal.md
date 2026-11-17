@@ -7,6 +7,7 @@ level:
   - "Drd 6"
   - "Hun 6"
   - "Inq 5"
+  - "Psy 5"
   - "Sor/Wiz 5"
   - "Sum 4"
   - "SumU 5"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 5, Drd 6, Hun 6, Inq 5, Sor/Wiz 5, Sum 4, SumU 5
+  - **Level**: Alc 5, Drd 6, Hun 6, Inq 5, Psy 5, Sor/Wiz 5, Sum 4, SumU 5
   - **Components**: V, S, M (granite and diamond dust worth 100 gp per creature affected)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

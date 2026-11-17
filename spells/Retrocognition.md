@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Divination"
 level:
+  - "Psy 5"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Psy 5, Sor/Wiz 7
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Personal

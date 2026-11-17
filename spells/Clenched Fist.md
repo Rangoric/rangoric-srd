@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Force"
 level:
+  - "Psy 8"
   - "Sor/Wiz 8"
   - "Strength 8"
 components:
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Sor/Wiz 8, Strength 8
+  - **Level**: Psy 8, Sor/Wiz 8, Strength 8
   - **Components**: V, S, F/DF
 
 This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except that the hand can interpose itself, push, or strike one opponent that you select. The floating hand can move as far as 60 feet and can attack in the same round. Since this hand is directed by you, its ability to notice or attack [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]] or concealed creatures is no better than yours.

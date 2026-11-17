@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Alc 4"
   - "Apl 4"
+  - "Psy 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 4, Apl 4, Sor/Wiz 4
+  - **Level**: Alc 4, Apl 4, Psy 4, Sor/Wiz 4
   - **Components**: V, S, M (a pinch of dried carrot or an agate)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

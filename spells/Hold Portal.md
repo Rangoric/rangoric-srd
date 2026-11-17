@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Psy 1"
   - "Sor/Wiz 1"
 casting-time: "1 standard action"
 range: "Medium (100 ft. + 10 ft./level)"
@@ -12,8 +13,8 @@ saving-throw: "None"
 spell-resistance: "No"
 based-on:
   - "[[fantasy srd 3.5/spells/Hold Portal|Hold Portal (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 1
+  - **Level**: Psy 1, Sor/Wiz 1
   - **Component**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

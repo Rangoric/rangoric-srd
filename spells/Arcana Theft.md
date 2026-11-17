@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Mag 4"
+  - "Psy 5"
 components:
   - "V"
   - "S"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Mag 4
+  - **Level**: Mag 4, Psy 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

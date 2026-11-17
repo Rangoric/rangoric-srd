@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 7"
+  - "Psy 6"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 7, Sor/Wiz 7
+  - **Level**: Clr 7, Psy 6, Sor/Wiz 7
   - **Components**: V, S, M, DF (herbs and oils worth 2,000 gp per HD of target)
   - **Casting Time**: 24 hours
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Universal"
 level:
   - "Brd 0"
   - "Mag 0"
+  - "Psy 0"
   - "Skd 0"
   - "Sor/Wiz 0"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Universal*
 
-  - **Level**: Brd 0, Mag 0, Skd 0, Sor/Wiz 0
+  - **Level**: Brd 0, Mag 0, Psy 0, Skd 0, Sor/Wiz 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 10 ft.

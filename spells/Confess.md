@@ -8,6 +8,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Inq 2"
+  - "Psy 2"
 components:
   - "V"
   - "S"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Inq 2
+  - **Level**: Inq 2, Psy 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

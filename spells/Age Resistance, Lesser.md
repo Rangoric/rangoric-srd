@@ -6,6 +6,7 @@ level:
   - "Alc 3"
   - "Drd 4"
   - "Hun 4"
+  - "Psy 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 3, Drd 4, Hun 4, Sor/Wiz 4, Wit 4
+  - **Level**: Alc 3, Drd 4, Hun 4, Psy 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

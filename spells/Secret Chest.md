@@ -4,6 +4,7 @@ section: "Spells"
 school: "Conjuration"
 subschool: "Summoning"
 level:
+  - "Psy 5"
   - "Sor/Wiz 5"
   - "Wit 5"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Sor/Wiz 5, Wit 5
+  - **Level**: Psy 5, Sor/Wiz 5, Wit 5
   - **Components**: V, S, F
   - **Casting Time**: 10 minutes
   - **Range**: See text

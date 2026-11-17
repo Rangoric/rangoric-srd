@@ -9,6 +9,7 @@ level:
   - "Inq 1"
   - "Mag 1"
   - "Pal 1"
+  - "Psy 1"
   - "Rgr 1"
   - "Sor/Wiz 1"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 1, Apl 1, Hun 1, Inq 1, Mag 1, Pal 1, Rgr 1, Sor/Wiz 1
+  - **Level**: Alc 1, Apl 1, Hun 1, Inq 1, Mag 1, Pal 1, Psy 1, Rgr 1, Sor/Wiz 1
   - **Components**: V, S, M/DF (a piece of fletching)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

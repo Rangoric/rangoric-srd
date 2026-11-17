@@ -6,6 +6,7 @@ level:
   - "Alc 2"
   - "Apl 2"
   - "Hun 3"
+  - "Psy 2"
   - "Rgr 3"
   - "Sor/Wiz 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Apl 2, Hun 3, Rgr 3, Sor/Wiz 2
+  - **Level**: Alc 2, Apl 2, Hun 3, Psy 2, Rgr 3, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Brd 1"
   - "Mag 1"
+  - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
   - "Sum 1"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 1, Mag 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
+  - **Level**: Brd 1, Mag 1, Psy 1, Skd 1, Sor/Wiz 1, Sum 1, SumU 1, Wit 1
   - **Components**: V, S, M (a pinch of tree resin)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -6,6 +6,7 @@ subschool: "Summoning"
 level:
   - "Drd 3"
   - "Hun 3"
+  - "Psy 3"
   - "Sor/Wiz 3"
   - "Sum 3"
   - "SumU 3"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Drd 3, Hun 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+  - **Level**: Drd 3, Hun 3, Psy 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
   - **Components**: V, S, M (a lizard's tooth)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

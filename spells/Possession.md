@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Psy 5"
   - "Sor/Wiz 5"
   - "Sum 5"
   - "SumU 5"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 5, Sum 5, SumU 5, Wit 5
+  - **Level**: Psy 5, Sor/Wiz 5, Sum 5, SumU 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -6,6 +6,7 @@ level:
   - "Brd 1"
   - "Clr 3"
   - "Inq 3"
+  - "Psy 2"
   - "Skd 1"
   - "Sor/Wiz 2"
 components:
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Brd 1, Clr 3, Inq 3, Skd 1, Sor/Wiz 2
+  - **Level**: Brd 1, Clr 3, Inq 3, Psy 2, Skd 1, Sor/Wiz 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

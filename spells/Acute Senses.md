@@ -7,6 +7,7 @@ level:
   - "Brd 2"
   - "Hun 2"
   - "Inq 2"
+  - "Psy 2"
   - "Rgr 2"
   - "Skd 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Brd 2, Hun 2, Inq 2, Rgr 2, Skd 2
+  - **Level**: Alc 2, Brd 2, Hun 2, Inq 2, Psy 2, Rgr 2, Skd 2
   - **Components**: V, S, M (a glass lens)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -7,6 +7,7 @@ descriptor:
   - "see text for summon monster I"
 level:
   - "Clr 7"
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Sum 5"
   - "SumU 6"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text for summon monster I\]*
 
-  - **Level**: Clr 7, Sor/Wiz 7, Sum 5, SumU 6, Wit 7
+  - **Level**: Clr 7, Psy 7, Sor/Wiz 7, Sum 5, SumU 6, Wit 7
 
 This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster I]], except that you can summon one creature from the 7th-level list, 1d3 creatures of the same kind from the 6th-level list, or 1d4+1 creatures of the same kind from a lower-level list.
 

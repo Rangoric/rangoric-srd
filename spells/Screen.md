@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Illusion 9"
+  - "Psy 8"
   - "Sor/Wiz 8"
   - "Trickery 7"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Illusion 9, Sor/Wiz 8, Trickery 7
+  - **Level**: Illusion 9, Psy 8, Sor/Wiz 8, Trickery 7
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

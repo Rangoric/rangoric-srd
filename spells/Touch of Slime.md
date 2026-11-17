@@ -10,6 +10,7 @@ level:
   - "Blr 4"
   - "Drd 4"
   - "Hun 4"
+  - "Psy 4"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Disease\]*
 
-  - **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Sor/Wiz 4, Wit 4
+  - **Level**: Alc 4, Blr 4, Drd 4, Hun 4, Psy 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (a drop of acid and a black glass sphere)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

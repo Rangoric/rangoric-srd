@@ -6,6 +6,7 @@ subschool: "Teleportation"
 level:
   - "Clr 6"
   - "Drd 8"
+  - "Psy 7"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -16,8 +17,8 @@ saving-throw: "None or Will negates (harmless, object)"
 spell-resistance: "No or Yes (harmless, object)"
 based-on:
   - "[[fantasy srd 3.5/spells/Word of Recall|Word of Recall (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Clr 6, Drd 8
+  - **Level**: Clr 6, Drd 8, Psy 7
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Unlimited

@@ -8,6 +8,7 @@ level:
   - "Apl 4"
   - "Clr 4"
   - "Inq 4"
+  - "Psy 5"
   - "Sor/Wiz 5"
   - "Wit 4"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Apl 4, Clr 4, Inq 4, Sor/Wiz 5, Wit 4
+  - **Level**: Apl 4, Clr 4, Inq 4, Psy 5, Sor/Wiz 5, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

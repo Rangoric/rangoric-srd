@@ -8,6 +8,7 @@ level:
   - "Clr 6"
   - "Drd 6"
   - "Hun 6"
+  - "Psy 6"
   - "Wit 6"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 5, Clr 6, Drd 6, Hun 6, Wit 6
+  - **Level**: Alc 5, Clr 6, Drd 6, Hun 6, Psy 6, Wit 6
   - **Components**: V, S, M (a pinch of dust gathered from a gravestone or sacred shrine)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -7,6 +7,7 @@ level:
   - "Clr 1"
   - "Inq 1"
   - "Pal 1"
+  - "Psy 1"
   - "Sha 1"
   - "Sor/Wiz 1"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 1, Clr 1, Inq 1, Pal 1, Sha 1, Sor/Wiz 1
+  - **Level**: Alc 1, Clr 1, Inq 1, Pal 1, Psy 1, Sha 1, Sor/Wiz 1
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

@@ -6,6 +6,7 @@ subschool: "Summoning"
 descriptor:
   - "Acid"
 level:
+  - "Psy 6"
   - "Sor/Wiz 6"
   - "Sum 5"
   - "SumU 5"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[Acid\]*
 
-  - **Level**: Sor/Wiz 6, Sum 5, SumU 5
+  - **Level**: Psy 6, Sor/Wiz 6, Sum 5, SumU 5
   - **Components**: V, S, M (a flask of acid worth 10 gp)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 level)

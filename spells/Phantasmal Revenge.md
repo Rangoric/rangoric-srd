@@ -8,6 +8,7 @@ descriptor:
   - "Fear"
   - "Mind-affecting"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Emotion, Fear, Mind-affecting\]*
 
-  - **Level**: Sor/Wiz 7
+  - **Level**: Psy 7, Sor/Wiz 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch and unlimited; see text

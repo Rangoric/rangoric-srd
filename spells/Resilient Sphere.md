@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Force"
 level:
+  - "Psy 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -18,8 +19,8 @@ saving-throw: "Reflex negates"
 spell-resistance: "Yes"
 based-on:
   - "[[fantasy srd 3.5/spells/Resilient Sphere|Resilient Sphere (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Psy 4, Sor/Wiz 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

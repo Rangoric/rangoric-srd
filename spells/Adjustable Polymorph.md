@@ -7,6 +7,7 @@ level:
   - "Alc 4"
   - "Brd 4"
   - "Mag 4"
+  - "Psy 4"
   - "Sha 4"
   - "Skd 4"
   - "Sor/Wiz 4"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 4, Brd 4, Mag 4, Sha 4, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
+  - **Level**: Alc 4, Brd 4, Mag 4, Psy 4, Sha 4, Skd 4, Sor/Wiz 4, Sum 4, SumU 4, Wit 4
   - **Components**: V, S, M (a small piece of doppelganger flesh)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

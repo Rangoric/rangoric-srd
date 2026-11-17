@@ -7,6 +7,7 @@ level:
   - "Brd 2"
   - "Clr 3"
   - "Inq 3"
+  - "Psy 3"
   - "Skd 2"
   - "Sor/Wiz 3"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Blr 3, Brd 2, Clr 3, Inq 3, Skd 2, Sor/Wiz 3
+  - **Level**: Blr 3, Brd 2, Clr 3, Inq 3, Psy 3, Skd 2, Sor/Wiz 3
   - **Components**: V, S, M/DF (a scrap of parchment)
   - **Casting Time**: 1 minute
   - **Range**: Touch

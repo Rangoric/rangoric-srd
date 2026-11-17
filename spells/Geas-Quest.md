@@ -11,6 +11,7 @@ level:
   - "Clr 6"
   - "Enchantment 7"
   - "Inq 5"
+  - "Psy 6"
   - "Skd 6"
   - "Sor/Wiz 6"
   - "Wit 6"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Brd 6, Clr 6, Enchantment 7, Inq 5, Skd 6, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 6, Clr 6, Enchantment 7, Inq 5, Psy 6, Skd 6, Sor/Wiz 6, Wit 6
   - **Casting Time**: 10 minutes
   - **Target**: One living creature
   - **Saving Throw**: None

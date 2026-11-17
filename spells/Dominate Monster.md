@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-Affecting"
 level:
+  - "Psy 9"
   - "Sor/Wiz 9"
   - "Sum 6"
   - "Wit 9"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 9, Sum 6, Wit 9
+  - **Level**: Psy 9, Sor/Wiz 9, Sum 6, Wit 9
   - **Target**: One creature
 
 This spell functions like [[rangoric-srd/spells/Dominate Person|dominate person]], except that the spell is not restricted by creature type.

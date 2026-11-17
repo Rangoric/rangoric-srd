@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Luck 8"
+  - "Psy 8"
   - "Sor/Wiz 8"
   - "Wit 8"
 components:
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Luck 8, Sor/Wiz 8, Wit 8
+  - **Level**: Luck 8, Psy 8, Sor/Wiz 8, Wit 8
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

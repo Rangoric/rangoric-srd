@@ -6,6 +6,7 @@ level:
   - "Clr 4"
   - "Inq 3"
   - "Pal 3"
+  - "Psy 4"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 4, Inq 3, Pal 3
+  - **Level**: Clr 4, Inq 3, Pal 3, Psy 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

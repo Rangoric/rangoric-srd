@@ -7,12 +7,13 @@ descriptor:
   - "Fear"
   - "Mind-Affecting"
 level:
+  - "Psy 9"
   - "Sor/Wiz 9"
 targets: "Any number of creatures, no two of which can be more than 30 ft. apart"
 based-on:
   - "[[fantasy srd 3.5/spells/Weird|Weird (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Fear, Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 9
+  - **Level**: Psy 9, Sor/Wiz 9
   - **Targets**: Any number of creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Phantasmal Killer|phantasmal killer]], except it can affect more than one creature. Only the affected creatures see the phantasmal creatures attacking them, though you see the attackers as shadowy shapes.

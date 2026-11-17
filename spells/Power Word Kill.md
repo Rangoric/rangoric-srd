@@ -7,6 +7,7 @@ descriptor:
   - "Death"
   - "Mind-Affecting"
 level:
+  - "Psy 9"
   - "Sor/Wiz 9"
   - "War 9"
   - "Wit 9"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Death, Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 9, War 9, Wit 9
+  - **Level**: Psy 9, Sor/Wiz 9, War 9, Wit 9
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

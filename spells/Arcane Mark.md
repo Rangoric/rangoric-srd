@@ -4,6 +4,7 @@ section: "Spells"
 school: "Universal"
 level:
   - "Mag 0"
+  - "Psy 0"
   - "Sha 0"
   - "Sor/Wiz 0"
   - "Sum 0"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Universal*
 
-  - **Level**: Mag 0, Sha 0, Sor/Wiz 0, Sum 0, SumU 0, Wit 0
+  - **Level**: Mag 0, Psy 0, Sha 0, Sor/Wiz 0, Sum 0, SumU 0, Wit 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 0 ft.

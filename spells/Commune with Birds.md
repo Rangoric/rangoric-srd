@@ -6,6 +6,7 @@ level:
   - "Brd 2"
   - "Drd 1"
   - "Hun 1"
+  - "Psy 2"
   - "Rgr 1"
   - "Sha 2"
   - "Skd 2"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Drd 1, Hun 1, Rgr 1, Sha 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Drd 1, Hun 1, Psy 2, Rgr 1, Sha 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

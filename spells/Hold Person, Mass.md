@@ -6,6 +6,7 @@ subschool: "Compulsion"
 descriptor:
   - "Mind-Affecting"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Wit 7"
 targets: "One or more humanoid creatures, no two of which can be more than 30 ft. apart"
@@ -21,7 +22,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Sor/Wiz 7, Wit 7
+  - **Level**: Psy 7, Sor/Wiz 7, Wit 7
   - **Targets**: One or more humanoid creatures, no two of which can be more than 30 ft. apart
 
 This spell functions like [[rangoric-srd/spells/Hold Person|hold person]], except as noted above.

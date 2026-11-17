@@ -6,6 +6,7 @@ level:
   - "Alc 2"
   - "Blr 2"
   - "Mag 2"
+  - "Psy 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Blr 2, Mag 2, Sor/Wiz 2, Wit 2
+  - **Level**: Alc 2, Blr 2, Mag 2, Psy 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

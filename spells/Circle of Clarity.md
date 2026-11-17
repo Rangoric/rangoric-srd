@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 7"
+  - "Psy 7"
   - "Sha 8"
   - "Sor/Wiz 7"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 7, Sha 8, Sor/Wiz 7
+  - **Level**: Clr 7, Psy 7, Sha 8, Sor/Wiz 7
   - **Components**: V, S, F (a crystal lens worth 100 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

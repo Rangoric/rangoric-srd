@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Sum 5"
   - "SumU 6"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Sor/Wiz 7, Sum 5, SumU 6
+  - **Level**: Psy 7, Sor/Wiz 7, Sum 5, SumU 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

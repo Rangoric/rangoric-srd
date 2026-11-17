@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Apl 1"
   - "Clr 1"
+  - "Psy 1"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Apl 1, Clr 1
+  - **Level**: Apl 1, Clr 1, Psy 1
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Force"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Strength 7"
 components:
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Sor/Wiz 7, Strength 7
+  - **Level**: Psy 7, Sor/Wiz 7, Strength 7
   - **Components**: V, S, F/DF
 
 This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except the hand can also [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] one opponent that you select. The grasping hand gets one grapple attack per round. This attack does not provoke an attack of opportunity.

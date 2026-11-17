@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Alc 5"
+  - "Psy 7"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 5
+  - **Level**: Alc 5, Psy 7
   - **Components**: V, S, M (powdered diamond, emerald, ruby, and sapphire dust worth 500 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

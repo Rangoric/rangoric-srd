@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Blr 3"
   - "Clr 3"
+  - "Psy 3"
   - "Sor/Wiz 3"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Blr 3, Clr 3, Sor/Wiz 3
+  - **Level**: Blr 3, Clr 3, Psy 3, Sor/Wiz 3
   - **Components**: V, S, M/DF (chain link)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

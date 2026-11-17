@@ -6,6 +6,7 @@ descriptor:
   - "Water"
 level:
   - "Alc 4"
+  - "Psy 6"
   - "Sor/Wiz 6"
 components:
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Water\]*
 
-  - **Level**: Alc 4, Sor/Wiz 6
+  - **Level**: Alc 4, Psy 6, Sor/Wiz 6
   - **Components**: S, M (a mixture of oil and water)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Inq 3"
+  - "Psy 5"
   - "Wit 5"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Inq 3, Wit 5
+  - **Level**: Inq 3, Psy 5, Wit 5
   - **Components**: V, S, M (a cold iron nail)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

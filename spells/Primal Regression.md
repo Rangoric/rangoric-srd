@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Drd 6"
   - "Hun 6"
+  - "Psy 6"
   - "Wit 7"
 components:
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Drd 6, Hun 6, Wit 7
+  - **Level**: Drd 6, Hun 6, Psy 6, Wit 7
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

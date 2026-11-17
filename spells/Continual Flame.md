@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 3"
   - "Inq 3"
+  - "Psy 3"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Clr 3, Inq 3, Sor/Wiz 2
+  - **Level**: Clr 3, Inq 3, Psy 3, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 8"
+  - "Psy 8"
   - "Sor/Wiz 8"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 8, Sor/Wiz 8
+  - **Level**: Clr 8, Psy 8, Sor/Wiz 8
   - **Components**: V, S, M (a black gemstone of any kind worth 50 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

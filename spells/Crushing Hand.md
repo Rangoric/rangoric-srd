@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Force"
 level:
+  - "Psy 9"
   - "Sor/Wiz 9"
   - "Strength 9"
 components:
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Sor/Wiz 9, Strength 9
+  - **Level**: Psy 9, Sor/Wiz 9, Strength 9
   - **Components**: V, S, M, F/DF
 
 This spell functions like [[rangoric-srd/spells/Interposing Hand|interposing hand]], except that the hand can interpose itself, push, or crush one opponent that you select.

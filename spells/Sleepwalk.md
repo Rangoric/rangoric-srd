@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Inq 4"
+  - "Psy 4"
   - "Wit 4"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Inq 4, Wit 4
+  - **Level**: Inq 4, Psy 4, Wit 4
   - **Components**: V, S, M (a sprig of belladonna worth 100 gp)
   - **Casting Time**: 1 round
   - **Range**: Touch

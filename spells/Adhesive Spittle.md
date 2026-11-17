@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Alc 1"
+  - "Psy 1"
   - "Sor/Wiz 1"
   - "Wit 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Alc 1, Sor/Wiz 1, Wit 1
+  - **Level**: Alc 1, Psy 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 15 ft.

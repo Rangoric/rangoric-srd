@@ -7,6 +7,7 @@ descriptor:
   - "MindAffecting"
 level:
   - "Brd 5"
+  - "Psy 6"
   - "Skd 5"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[MindAffecting\]*
 
-  - **Level**: Brd 5, Skd 5
+  - **Level**: Brd 5, Psy 6, Skd 5
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Personal

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 9"
+  - "Psy 9"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 9
+  - **Level**: Clr 9, Psy 9
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

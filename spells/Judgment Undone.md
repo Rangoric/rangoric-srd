@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 9"
+  - "Psy 9"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 9
+  - **Level**: Clr 9, Psy 9
   - **Components**: V, S, M, F (diamonds worth 50,000 gp)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

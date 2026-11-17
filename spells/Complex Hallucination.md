@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 4"
   - "Mag 4"
+  - "Psy 4"
   - "Skd 4"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[MindAffecting\]*
 
-  - **Level**: Brd 4, Mag 4, Skd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 4, Mag 4, Psy 4, Skd 4, Sor/Wiz 4, Wit 4
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Psy 7"
   - "Sor/Wiz 7"
   - "Wit 7"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Sor/Wiz 7, Wit 7
+  - **Level**: Psy 7, Sor/Wiz 7, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

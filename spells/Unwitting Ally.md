@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 0"
+  - "Psy 1"
   - "Skd 0"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Charm) \[Mind-affecting\]*
 
-  - **Level**: Brd 0, Skd 0
+  - **Level**: Brd 0, Psy 1, Skd 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

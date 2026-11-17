@@ -5,6 +5,7 @@ school: "Evocation"
 descriptor:
   - "Fire"
 level:
+  - "Psy 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Sor/Wiz 2
+  - **Level**: Psy 2, Sor/Wiz 2
   - **Components**: V, S, M (pinch of saltpeter)
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Shadow"
 level:
+  - "Psy 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow)*
 
-  - **Level**: Sor/Wiz 4
+  - **Level**: Psy 4, Sor/Wiz 4
   - **Components**: V, S, M (an ice sculpture of the target plus powdered rubies worth 50 gp per HD of the simulacrum)
   - **Casting Time**: 1 hour
   - **Range**: 0 ft.

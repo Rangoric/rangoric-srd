@@ -7,6 +7,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 4"
+  - "Psy 4"
   - "Skd 4"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-affecting\]*
 
-  - **Level**: Brd 4, Skd 4, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 4, Psy 4, Skd 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (a few drops of river water)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 level:
+  - "Psy 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -15,8 +16,8 @@ target: "You"
 duration: "One day/level (D) or until discharged"
 based-on:
   - "[[fantasy srd 3.5/spells/Contingency|Contingency (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/spell]
 ---
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Sor/Wiz 6
+  - **Level**: Psy 6, Sor/Wiz 6
   - **Components**: V, S, M, F
   - **Casting Time**: At least 10 minutes; see text
   - **Range**: Personal

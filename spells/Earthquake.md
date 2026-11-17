@@ -9,6 +9,7 @@ level:
   - "Destruction 8"
   - "Drd 8"
   - "Earth 7"
+  - "Psy 8"
   - "Sha 8"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Earth\]*
 
-  - **Level**: Clr 8, Destruction 8, Drd 8, Earth 7, Sha 8
+  - **Level**: Clr 8, Destruction 8, Drd 8, Earth 7, Psy 8, Sha 8
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

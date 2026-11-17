@@ -6,6 +6,7 @@ level:
   - "Alc 2"
   - "Brd 2"
   - "Clr 3"
+  - "Psy 3"
   - "Skd 2"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 2, Brd 2, Clr 3, Skd 2, Sor/Wiz 3, Wit 3
+  - **Level**: Alc 2, Brd 2, Clr 3, Psy 3, Skd 2, Sor/Wiz 3, Wit 3
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

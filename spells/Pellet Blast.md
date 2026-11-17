@@ -6,6 +6,7 @@ subschool: "Creation"
 level:
   - "Blr 4"
   - "Mag 4"
+  - "Psy 3"
   - "Sor/Wiz 3"
   - "Sum 3"
   - "SumU 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Blr 4, Mag 4, Sor/Wiz 3, Sum 3, SumU 3
+  - **Level**: Blr 4, Mag 4, Psy 3, Sor/Wiz 3, Sum 3, SumU 3
   - **Components**: V, S, M (a handful of metal pellets or handful of cold iron, silver, or adamantine pellets; see descriptions for cost)
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

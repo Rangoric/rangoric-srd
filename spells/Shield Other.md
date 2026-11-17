@@ -7,6 +7,7 @@ level:
   - "Inq 2"
   - "Pal 2"
   - "Protection 2"
+  - "Psy 2"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 2, Inq 2, Pal 2, Protection 2
+  - **Level**: Clr 2, Inq 2, Pal 2, Protection 2, Psy 2
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

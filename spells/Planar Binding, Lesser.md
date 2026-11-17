@@ -6,6 +6,7 @@ subschool: "Calling"
 descriptor:
   - "see text"
 level:
+  - "Psy 5"
   - "Sor/Wiz 5"
   - "Sum 4"
   - "SumU 5"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling) \[see text\]*
 
-  - **Level**: Sor/Wiz 5, Sum 4, SumU 5
+  - **Level**: Psy 5, Sor/Wiz 5, Sum 4, SumU 5
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels); see text

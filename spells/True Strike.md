@@ -7,6 +7,7 @@ level:
   - "Blr 1"
   - "Inq 1"
   - "Mag 1"
+  - "Psy 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 1, Blr 1, Inq 1, Mag 1, Sor/Wiz 1
+  - **Level**: Alc 1, Blr 1, Inq 1, Mag 1, Psy 1, Sor/Wiz 1
   - **Components**: V, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal

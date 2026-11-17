@@ -8,6 +8,7 @@ descriptor:
   - "Mind-affecting"
 level:
   - "Brd 3"
+  - "Psy 4"
   - "Skd 3"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-dependent, Mind-affecting\]*
 
-  - **Level**: Brd 3, Skd 3, Sor/Wiz 4, Wit 4
+  - **Level**: Brd 3, Psy 4, Skd 3, Sor/Wiz 4, Wit 4
   - **Components**: 
   - **Duration**: 1 day/level or until completed
 

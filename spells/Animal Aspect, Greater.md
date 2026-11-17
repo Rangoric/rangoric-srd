@@ -9,6 +9,7 @@ level:
   - "Drd 3"
   - "Hun 3"
   - "Mag 3"
+  - "Psy 4"
   - "Rgr 3"
   - "Sor/Wiz 4"
 components:
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 3, Blr 3, Drd 3, Hun 3, Mag 3, Rgr 3, Sor/Wiz 4
+  - **Level**: Alc 3, Blr 3, Drd 3, Hun 3, Mag 3, Psy 4, Rgr 3, Sor/Wiz 4
   - **Components**: V, S, M/DF (a part of the animal)
   - **Casting Time**: 1 standard action
   - **Range**: Personal
