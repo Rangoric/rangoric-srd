@@ -3,120 +3,75 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Outsider"
-subtypes:
-  - "Native"
-hit-dice: "7d8+21 (52 hp)"
-initiative: "+2"
+subtypes: ["Native", "Shapechanger"]
+hit-dice: "10d10+60 (115 hp)"
+initiative: "+9"
 speed: "40 ft. (8 squares)"
-armor-class: "21 (+2 Dex, +9 natural), touch 12, flat-footed 19"
-base-attack: "+7"
-cmb: "+8"
-cmd: "21"
-attack: "Claw +8 melee (1d4+1)"
-full-attack: "2 claws +8 melee (1d4+1) and bite +3 melee (1d6)"
+armor-class: "25 (+5 Dex, +1 dodge, +9 natural), touch 16, flat-footed 19"
+base-attack: "+10"
+cmb: "+13"
+cmd: "29"
+attack: "+1 kukri +16 melee (1d4+4/15–20) or claw +15 melee (1d4+1) or bite +15 melee (1d6+1)"
+full-attack: "+1 kukri +16/+11 melee (1d4+4/15–20) and claw +10 melee (1d4+1) and bite +10 melee (1d6+1)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Detect thoughts, spells"
-special-qualities: "Change shape, damage reduction 15/good and piercing, darkvision 60 ft., spell resistance 27"
-saves: "Fort +8, Ref +7, Will +6"
-abilities: "Str 12, Dex 14, Con 16, Int 13, Wis 13, Cha 17"
-skills: "Deception +17*, Imitation +15 (+17 acting)*, Intimidation +13, Arcana +11, Perception +14, Performance (oratory) +13, Persuasion +13, Sense Motive +11, Stealth +13"
-skill-ranks: "Arcana 7, Deception 7, Imitation 7, Intimidation 7, Perception 7, Performance (oratory) 7, Persuasion 7, Sense Motive 7, Stealth 7"
-feats: "Combat Casting, Dodge, Skill Focus (Perception)"
-environment: "Warm marshes"
-organization: "Solitary"
+special-attacks: "Detect thoughts"
+special-qualities: "Darkvision 60 ft., change shape (any humanoid, alter self), damage reduction 15/good and piercing, spell resistance 25"
+saves: "Fort +9, Ref +12, Will +8"
+abilities: "Str 16, Dex 20, Con 22, Int 13, Wis 13, Cha 17"
+skills: "Deception +20, Imitation +24, Perception +14, Performance +16, Persuasion +16, Sense Motive +14, Stealth +18"
+skill-ranks: "Deception 10, Imitation 10, Perception 10, Performance 10, Persuasion 10, Sense Motive 10, Stealth 10"
+feats: "Combat Expertise, Dodge, Improved Critical (kukri), Improved Initiative, Weapon Finesse"
+environment: "Any"
+organization: "Solitary, pair, or cult (3–12)"
 challenge-rating: 10
-treasure: "Standard coins; double goods; standard items"
+treasure: "Double (+1 kukri, other treasure)"
 alignment: "Always lawful evil"
 advancement: "By character class"
 level-adjustment: "+7"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Rakshasa|Rakshasa (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Rakshasa|Rakshasa (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
-
 # Rakshasa
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^native|Native]])
-  - **Hit Dice**: 7d8+21 (52 hp)
-  - **Initiative**: +2
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Shapechanger)
+  - **Hit Dice**: 10d10+60 (115 hp)
+  - **Initiative**: +9
   - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 21 (+2 Dex, +9 natural), touch 12, flat-footed 19
-  - **Base Attack**: +7; **CMB**: +8; **CMD**: 21
-  - **Attack**: Claw +8 melee (1d4+1)
-  - **Full Attack**: 2 claws +8 melee (1d4+1) and bite +3 melee (1d6)
+  - **Armor Class**: 25 (+5 Dex, +1 dodge, +9 natural), touch 16, flat-footed 19
+  - **Base Attack**: +10; **CMB**: +13; **CMD**: 29
+  - **Attack**: +1 [[rangoric-srd/equipment/weapons/Kukri|kukri]] +16 melee (1d4+4/15–20) or claw +15 melee (1d4+1) or bite +15 melee (1d6+1)
+  - **Full Attack**: +1 [[rangoric-srd/equipment/weapons/Kukri|kukri]] +16/+11 melee (1d4+4/15–20) and claw +10 melee (1d4+1) and bite +10 melee (1d6+1)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/spells/Detect Thoughts|Detect thoughts]], spells
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and piercing, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 27
-  - **Saves**: Fort +8, Ref +7, Will +6
-  - **Abilities**: Str 12, Dex 14, Con 16, Int 13, Wis 13, Cha 17
-  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +17\*, [[rangoric-srd/skills/Imitation|Imitation]] +15 (+17 acting)\*, [[rangoric-srd/skills/Intimidation|Intimidation]] +13, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] (oratory) +13, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: Warm marshes
-  - **Organization**: Solitary
+  - **Special Attacks**: Detect thoughts
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Change Shape|change shape]] (any humanoid, alter self), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 25
+  - **Saves**: Fort +9, Ref +12, Will +8
+  - **Abilities**: Str 16, Dex 20, Con 22, Int 13, Wis 13, Cha 17
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +24, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Performance|Performance]] +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +18
+  - **Feats**: [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (kukri), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+  - **Environment**: Any
+  - **Organization**: Solitary, pair, or cult (3–12)
   - **Challenge Rating**: 10
-  - **Treasure**: Standard coins; double goods; standard items
+  - **Treasure**: Double (+1 kukri, other treasure)
   - **Alignment**: Always lawful evil
   - **Advancement**: By character class
   - **Level Adjustment**: +7
 
-A closer look at a rakshasa reveals that the palms of its hands are where the backs of the hands would be on a human.
+The rakshasa is an evil spirit that cloaks itself in the guise of a humanoid creature that it might walk unseen among its prey. They embody what is taboo among most societies, and in the shape of those it seeks to defile, a rakshasa gorges itself on these hideous acts. Were they human, these acts of cannibalism, blasphemy, and worse would mark them as criminals condemned to the cruelest of hells.
 
-A rakshasa is about the same height and weight as a human.
+When not disguised as a humanoid, the otherwise humanoid rakshasa has the head of an animal. Often, they possess the heads of great cats (such as a tiger or panther) or a snake (like a cobra or viper), yet other heads are not unknown—apes, jackals, vultures, elephants, mantises, lizards, rhinos, boars, and more are possible. In most cases, the type of head a rakshasa possesses speaks in some way to its personality—a tiger-headed rakshasa is stealthy and ravenous, while a boar-headed one might be gluttonous and crude. These changes rarely impact the rakshasa's base statistics, although there are more powerful variants of the standard rakshasa that possess multiple heads, more potent spellcasting powers, and additional deadly and unusual special abilities.
 
-Rakshasas speak Common, Infernal, and Undercommon.
+Rakshasas scoff at religion—they understand the power of the divine, but see themselves as the only thing worthy of worship from the mortal races. Rakshasa [[rangoric-srd/classes/Cleric|clerics]] are thus quite rare. Although rakshasas are outsiders, they are also very much creatures of the Material Plane, and many believe the first rakshasas chose this exile over some other role offered them by a long-forgotten god. Although they usually work alone, it isn't unheard of to find extended families of rakshasas working together to ruin a mortal civilization from the inside out over the course of many generations. A rakshasa is 6 feet tall and weighs 180 lbs.
 
 ### Combat
 
 In close combat, which a rakshasa disdains as ignoble, it employs its sharp claws and powerful bite. Whenever possible, it uses its other abilities to make such encounters unnecessary.
 
-**Detect Thoughts (Su)**: A rakshasa can continuously use [[rangoric-srd/spells/Detect Thoughts|detect thoughts]] as the spell (caster level 18th; Will DC 15 negates). It can suppress or resume this ability as a free action. The save DC is Charisma-based.
+**Spells known** (CL 7th): 3rd (5/day)—*[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (DC 16), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 16); 2nd (7/day)—*[[rangoric-srd/spells/Acid Arrow|acid arrow]]*, *[[rangoric-srd/spells/Invisibility|invisibility]]*, *[[rangoric-srd/spells/Minor Image|minor image]]*; 1st (7/day)—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 14), *[[rangoric-srd/spells/Mage Armor|mage armor]]*, *[[rangoric-srd/spells/Magic Missile|magic missile]]*, *[[rangoric-srd/spells/Shield|shield]]*, *[[rangoric-srd/spells/Silent Image|silent image]]*; 0—*[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 13), *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Mending|mending]]*, *[[rangoric-srd/spells/Message|message]]*, *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*.
 
-**Spells**: A rakshasa casts spells as a 7th-level sorcerer.  
-*Typical [[rangoric-srd/spells/Sorcerer and Wizards Spell List|Sorcerer Spells]] Known (6/7/7/5; save DC 13 + spell level)*:
-
-[[rangoric-srd/spells/Sorcerer and Wizards Spell List#0-Level Sorcerer/Wizard Spells (Cantrips)|0]] - [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Mage Hand|mage hand]], [[rangoric-srd/spells/Message|message]], [[rangoric-srd/spells/Read Magic|read magic]], [[rangoric-srd/spells/Resistance|resistance]], [[rangoric-srd/spells/Touch of Fatigue|touch of fatigue]];
-
-[[rangoric-srd/spells/Sorcerer and Wizards Spell List|1st]] - [[rangoric-srd/spells/Charm Person|charm person]], [[rangoric-srd/spells/Mage Armor|mage armor]], [[rangoric-srd/spells/Magic Missile|magic missile]], [[rangoric-srd/spells/Shield|shield]], [[rangoric-srd/spells/Silent Image|silent image]];
-
-[[rangoric-srd/spells/Sorcerer and Wizards Spell List#2nd-Level Sorcerer/Wizard Spells|2nd]] - [[rangoric-srd/spells/Bear’s Endurance|bear’s endurance]], [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Acid Arrow|acid arrow]];
-
-[[rangoric-srd/spells/Sorcerer and Wizards Spell List#3rd-Level Sorcerer/Wizard Spells|3rd]] - [[rangoric-srd/spells/Haste|haste]], [[rangoric-srd/spells/Suggestion|suggestion]].
-
-**Change Shape (Su)**: A rakshasa can assume any humanoid form, or revert to its own form, as a standard action. In humanoid form, a rakshasa loses its claw and bite attacks (although it often equips itself with weapons and armor instead). A rakshasa remains in one form until it chooses to assume a new one. A change in form cannot be [[rangoric-srd/spells/Dispel Magic|dispelled]], but the rakshasa reverts to its natural form when killed. A [[rangoric-srd/spells/True Seeing|true seeing]] spell reveals its natural form.
-
-**Skills**: A rakshasa has a +4 racial bonus on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Imitation|Imitation]] checks. \*When using change shape, a rakshasa gains an additional +10 circumstance bonus on Imitation checks. If reading an opponent’s mind, its circumstance bonus on Deception and Imitation checks increases by a further +4.
-
-### Rakshasas as Characters
-
-Rakshasa characters possess the following racial traits.
-
-  - \+2 Strength, +4 Dexterity, +6 Constitution, +2 Intelligence, +2 Wisdom, +6 Charisma.
-
-  - Medium size.
-
-  - A rakshasa’s base land speed is 40 feet.
-
-  - Darkvision out to 60 feet.
-
-  - Racial Hit Dice: A rakshasa begins with seven levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|outsider]], which provide 7d8 Hit Dice, a base attack bonus of +7, and base saving throw bonuses of Fort +5, Ref +5, and Will +5.
-
-  - Racial Skills: A rakshasa’s outsider levels give it skill points equal to 7 x (8 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Performance|Performance]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], and [[rangoric-srd/skills/Stealth|Stealth]]. A rakshasa has a +4 racial bonus on Deception and Imitation checks, and it can gain further bonuses by using change shape (+10 on Imitation checks) and detect thoughts (+4 on Deception and Imitation checks).
-
-  - Racial Feats: A rakshasa’s outsider levels give it three feats.
-
-  - \+9 natural armor bonus.
-
-  - Natural Weapons: Bite (1d6) and 2 claws (1d4).
-
-  - Detect Thoughts (Su): The save DC is 13 + the character’s Cha modifier.
-
-  - Spells: A rakshasa character casts spells as a 7th-level sorcerer. If the character takes additional levels of sorcerer, these levels stack with the rakshasa’s base spellcasting ability for spells known, spells per day, and other effects dependent on caster level. A rakshasa character likewise uses the sum of its racial spellcasting levels and class levels to determine the abilities of its familiar.
-
-  - Special Qualities (see above): [[rangoric-srd/monsters/abilities/Change Shape|Change shape]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 15/good and piercing, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] equal to 27 + class levels.
-
-  - Automatic Languages: Common, Infernal. Bonus Languages: Sylvan, Undercommon.
-
-  - Level adjustment +7.
+**Detect Thoughts (Su)**: A rakshasa can detect thoughts as per the spell of the same name (CL 18th). It can suppress or resume this ability as a free action. When a rakshasa uses this ability, it always functions as if it had spent three rounds concentrating and thus gains the maximum amount of information possible. A creature can resist this effect with a DC 18 Will save. The save DC is Charisma-based.

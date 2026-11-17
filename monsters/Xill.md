@@ -3,68 +3,70 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Outsider"
-subtypes:
-  - "Extraplanar"
-hit-dice: "5d8+10 (32 hp)"
-initiative: "+7"
+subtypes: ["Evil", "Extraplanar"]
+hit-dice: "9d10+18 (67 hp)"
+initiative: "+8"
 speed: "40 ft. (8 squares)"
-armor-class: "20 (+3 Dex, +7 natural), touch 13, flat-footed 17"
-base-attack: "+5"
-cmb: "+7 (+11 grapple)"
-cmd: "20"
-attack: "Short sword +7 melee (1d6+2/19–20) or claw +7 melee (1d4+2) or longbow +8 ranged (1d8/x3)"
-full-attack: "2 short swords +5 melee (1d6+2/19–20, 1d6+1/19–20) and 2 claws +5 melee (1d4+1); or 4 claws +5 melee (1d4+2, 1d4+1); or 2 longbows +4 ranged (1d8/x3)"
+armor-class: "21 (+4 Dex, +5 natural, +2 shield), touch 14, flat-footed 17"
+base-attack: "+9"
+cmb: "+12 (+16 grapple)"
+cmd: "26"
+attack: "Short sword +13 melee (1d6+3/19–20) or claw +13 melee (1d4+3 plus grab) or bite +12 melee (1d3+3 plus paralysis) or longbow +13 ranged (1d8/×3)"
+full-attack: "Short swords +13/+13/+8 melee (1d6+3/19–20) and claw +13 melee (1d4+3 plus grab) and bite +7 melee (1d3+1 plus paralysis); or 4 claws +13 melee (1d4+3 plus grab) and bite +12 melee (1d3+3 plus paralysis); or 2 longbows +13 ranged (1d8/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Implant, improved grab, paralysis"
-special-qualities: "Darkvision 60 ft., planewalk, spell resistance 21"
-saves: "Fort +6, Ref +7, Will +5"
-abilities: "Str 15, Dex 16, Con 15, Int 12, Wis 12, Cha 11"
-skills: "Acrobatics +11, Athletics +10, Escape Artist +11, Fieldcraft +9 (+13 with bindings), Intimidation +8, Perception +9, Persuasion +8, Sense Motive +9, Stealth +11"
-skill-ranks: "Acrobatics 5, Athletics 5, Escape Artist 5, Fieldcraft 5, Intimidation 5, Perception 5, Persuasion 5, Sense Motive 5, Stealth 5"
-feats: "Improved Initative, Multiattack (B), Multiweapon Fighting"
-environment: "Ethereal Plane"
-organization: "Solitary or gang (2–5)"
+special-attacks: "Implant, paralysis (1d4 hours, DC 16)"
+special-qualities: "Darkvision 60 ft., multiweapon mastery, planewalk, spell resistance 17"
+saves: "Fort +8, Ref +10, Will +6"
+abilities: "Str 17, Dex 18, Con 14, Int 15, Wis 12, Cha 11"
+skills: "Acrobatics +16, Arcana +14, Deception +12, Intimidation +12, Perception +13, Sense Motive +13, Stealth +14, Theology +14"
+skill-ranks: "Acrobatics 9, Arcana 9, Deception 9, Intimidation 9, Perception 9, Sense Motive 9, Stealth 7, Theology 9"
+feats: "Combat Reflexes, Improved Initiative, Iron Will, Weapon Focus (claw, short sword)"
+environment: "Any (Ethereal Plane)"
+organization: "Solitary, pair, or gang (3–6)"
 challenge-rating: 6
-treasure: "Standard"
+treasure: "Standard (heavy steel shield, 2 short swords, 2 longbows with 40 arrows, other treasure)"
 alignment: "Always lawful evil"
 advancement: "6–8 HD (Medium); 9–15 HD (Large)"
 level-adjustment: "+4"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Xill|Xill (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Xill|Xill (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
-
 # Xill
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 5d8+10 (32 hp)
-  - **Initiative**: +7
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Evil, Extraplanar)
+  - **Hit Dice**: 9d10+18 (67 hp)
+  - **Initiative**: +8
   - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 20 (+3 Dex, +7 natural), touch 13, flat-footed 17
-  - **Base Attack**: +5; **CMB**: +7 (+11 grapple); **CMD**: 20
-  - **Attack**: Short sword +7 melee (1d6+2/19–20) or claw +7 melee (1d4+2) or longbow +8 ranged (1d8/x3)
-  - **Full Attack**: 2 short swords +5 melee (1d6+2/19–20, 1d6+1/19–20) and 2 claws +5 melee (1d4+1); or 4 claws +5 melee (1d4+2, 1d4+1); or 2 longbows +4 ranged (1d8/x3)
+  - **Armor Class**: 21 (+4 Dex, +5 natural, +2 shield), touch 14, flat-footed 17
+  - **Base Attack**: +9; **CMB**: +12 (+16 grapple); **CMD**: 26
+  - **Attack**: Short sword +13 melee (1d6+3/19–20) or claw +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) or bite +12 melee (1d3+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]) or [[rangoric-srd/equipment/weapons/Longbow|longbow]] +13 ranged (1d8/×3)
+  - **Full Attack**: Short swords +13/+13/+8 melee (1d6+3/19–20) and claw +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +7 melee (1d3+1 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]); or 4 claws +13 melee (1d4+3 plus [[rangoric-srd/monsters/abilities/Grab|grab]]) and bite +12 melee (1d3+3 plus [[rangoric-srd/monsters/abilities/Paralysis|paralysis]]); or 2 [[rangoric-srd/equipment/weapons/Longbow|longbows]] +13 ranged (1d8/×3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Grab|improved grab]], [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralysis]]
-  - **Special Qualities**: Darkvision 60 ft., planewalk, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 21
-  - **Saves**: Fort +6, Ref +7, Will +5
-  - **Abilities**: Str 15, Dex 16, Con 15, Int 12, Wis 12, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Athletics|Athletics]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9 (+13 with bindings), [[rangoric-srd/skills/Intimidation|Intimidation]] +8, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +8, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Stealth|Stealth]] +11
-  - **Feats**: [[rangoric-srd/feats/Improved Initiative|Improved Initative]], [[rangoric-srd/feats/Multiattack|Multiattack (B)]], [[rangoric-srd/feats/Multiweapon Fighting|Multiweapon Fighting]]
-  - **Environment**: Ethereal Plane
-  - **Organization**: Solitary or gang (2–5)
+  - **Special Attacks**: Implant, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] (1d4 hours, DC 16)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Multiweapon Mastery|multiweapon mastery]], planewalk, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 17
+  - **Saves**: Fort +8, Ref +10, Will +6
+  - **Abilities**: Str 17, Dex 18, Con 14, Int 15, Wis 12, Cha 11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +16, [[rangoric-srd/skills/Arcana|Arcana]] +14, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14, [[rangoric-srd/skills/Theology|Theology]] +14
+  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw, short sword)
+  - **Environment**: Any (Ethereal Plane)
+  - **Organization**: Solitary, pair, or gang (3–6)
   - **Challenge Rating**: 6
-  - **Treasure**: Standard
+  - **Treasure**: Standard (heavy steel shield, 2 short swords, 2 longbows with 40 arrows, other treasure)
   - **Alignment**: Always lawful evil
   - **Advancement**: 6–8 HD (Medium); 9–15 HD (Large)
   - **Level Adjustment**: +4
 
+Xills are the scourge of the Ethereal Plane, conquering everything in their paths with only one purpose: to perpetuate their race at the expense of others. All xills are female and capable of fertilizing their own eggs, but require living hosts to incubate these eggs, which they inject into [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] victims by means of a grotesque ovipositor normally kept retracted behind their mandibles. Evil and alien, the plane-shifting xills possess impressive intelligence and a totalitarian, militaristic culture all their own. Though they see most other life forms as incubators, they particularly prize phase spiders for this purpose.
+
 A xill stands 4 to 5 feet tall and weighs about 100 pounds.
 
-Xills speak Infernal.
+Xills speak Common and Infernal.
 
 ### Combat
 
@@ -72,10 +74,8 @@ Xills are dangerous opponents, attacking with all four limbs. More civilized one
 
 Xills typically lie in wait on the Ethereal Plane for suitable prey to happen by, then ambush it using their planewalk ability. They make full use of their [[rangoric-srd/skills/Acrobatics|Acrobatics]] skill in combat: Usually, one or two distract physically powerful enemies by attacking, then assuming a defensive stance while their fellows maneuver to advantage.
 
-**Implant (Ex)**: As a standard action, a xill can lay eggs inside a [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] creature. The young emerge about 90 days later, literally devouring the host from inside. A remove disease spell rids a victim of the egg, as does a DC 25 Fieldcraft check. If the check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
+**Implant (Ex)**: As a standard action, a xill can lay 2d6 eggs in a [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] creature. A xill's eggs hatch in 24 hours, at which point the young consume the host from within, inflicting 1 point of Con damage per hour per young until the host dies. The young then emerge and planewalk to the Ethereal Plane, if possible, to mature. A *[[rangoric-srd/spells/Remove Disease|remove disease]]* spell (or similar effect) rids a victim of all implanted eggs or active young, or they can be cut out one at a time with DC 20 Medicine checks (each attempt takes 10 minutes). If a check fails, the healer can try again, but each attempt (successful or not) deals 1d4 points of damage to the patient.
 
-**Improved Grab (Ex)**: To use this ability, a xill must hit with one or more claw attacks. It can then attempt to start a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] as a free action without provoking an attack of opportunity. It receives a +2 bonus on the grapple check for each claw that hits. If it succeeds on the grapple check and maintains the hold in the next round, it automatically bites the foe at that time. The bite deals no damage but injects a paralyzing venom.
+**Multiweapon Mastery (Ex)**: A xill never takes penalties to an attack roll when fighting with multiple weapons, and treats claws as primary attacks even when also wielding weapons.
 
-**Paralysis (Ex)**: Those bitten by a xill must succeed on a DC 14 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 1d4 hours. The save DC is Constitution-based.
-
-**Planewalk (Su)**: These planar travelers like to slip between the folds of space to attack enemies as though from thin air. They can cross from the Ethereal Plane with a move action but take 2 rounds to cross back, during which time they are immobile. As a xill fades away, it becomes harder to hit: Opponents have a 20% miss chance in the first round and a 50% miss chance in the second. A xill can planewalk with a willing or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] creature.
+**Planewalk (Su)**: A xill can shift from the Ethereal Plane to the Material Plane as a move action. Shifting from the Material Plane to the Ethereal Plane takes 2 consecutive full-round actions, during which time the xill is immobile. As a xill fades away, it becomes harder to hit: opponents have a 20% miss chance in the first round and a 50% miss chance in the second. A xill can take a single willing or [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] creature with it when it switches planes.
