@@ -1,11 +1,13 @@
 ---
 srd-type: "skill"
 section: "Skills"
+book: "Occult Adventures"
 key-ability: "Int"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Appraise|Appraise (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
+  - "[[path srd 3.5 foundry/rules/Skills#Psychometry|Psychometry (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -51,3 +53,19 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 **15 Ranks**: Determining the most expensive object as above is a move action. You can substitute an Appraise check at a –10 penalty for a Will save to disbelieve a figment or glamer.
 
 **20 Ranks**: Determining the most expensive object as above is a move action, and if the check succeeds, you gain a +2 circumstance bonus on [[rangoric-srd/combat/Combat Maneuvers|combat maneuver]] checks to [[rangoric-srd/combat/Combat Maneuvers#Steal|steal]] that object or disarm a creature of that object for 1 minute.
+
+## Occult Unlocks
+
+Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat; see [[rangoric-srd/skills/Skills Overview#^occult-unlocks|Occult Skill Unlocks]] for who can use them and how often.
+
+### Psychometry
+
+You can read the psychic impressions left on objects or in places by previous owners and events.
+
+**Check**: Once per day, you can concentrate for 1 minute while touching an item or place, receiving flashes of insight about its nature and ownership. After the minute, you attempt a DC 15 Appraise check to decipher the visions. You learn one piece of information, chosen by the GM, about its historical significance or its last owner, such as a glimpse of the last owner’s appearance or emotional state when it last used the item. You learn one more piece for every 10 by which your result exceeds the DC, as long as you concentrate for 1 more minute for each piece. If you fail by less than 5, or the item has no significant psychic imprint, you learn nothing. If you fail by 5 or more, the item seems psychically significant even if it isn’t, and what you learn is wildly inaccurate.
+
+If you use psychometry on an item affected by *[[rangoric-srd/spells/Charge Object|charge object]]* or *[[rangoric-srd/spells/Implant False Reading|implant false reading]]*, you automatically learn all the information the spell imprinted, and you must also attempt a Will save. If the item is affected by *implant false reading*, on a success you realize the information is false and can learn the true information as well. On a failure, or if the item is affected by *charge object*, you believe the information is true.
+
+**Action**: Reading an object takes at least 1 minute of uninterrupted concentration.
+
+**Try Again**: Yes. Readings on an object or place always give the same results unless its circumstances or ownership have changed, but more checks might reach further back into its history. You don’t reroll the saving throw against a false imprint. You can still use psychometry only once per day.

@@ -1,6 +1,7 @@
 ---
 srd-type: "skill"
 section: "Skills"
+book: "Occult Adventures"
 key-ability: "Int"
 trained-only: true
 based-on:
@@ -10,6 +11,7 @@ based-on:
   - "[[fantasy srd 3.5/skills/Speak Language|Speak Language (3.5)]]"
   - "[[path srd 3.5/skills/Linguistics|Linguistics (PF1)]]"
   - "[[individual books/Faeries/skills/Speak Language (None; trained only)|Speak Language (Faeries)]]"
+  - "[[path srd 3.5 foundry/rules/Skills#Automatic Writing|Automatic Writing (PF1 Foundry)]]"
 status: draft
 change: new
 pi-review: 2026-10-22
@@ -99,3 +101,22 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 **15 Ranks**: You can decipher magical writings (as read magic) by succeeding at a Linguistics check (DC = 25 + caster level). If you identify a written magical trap in this way, you gain a +2 circumstance bonus on Engineering checks to disarm it.
 
 **20 Ranks**: You can attempt to decipher magical or nonmagical text at a rate of one page per round. If you instead spend 1 minute per page, roll twice and take the better result.
+
+## Occult Unlocks
+
+Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat; see [[rangoric-srd/skills/Skills Overview#^occult-unlocks|Occult Skill Unlocks]] for who can use them and how often.
+
+### Automatic Writing
+
+You can produce mysterious writing about the immediate future, under the influence of enigmatic guiding spirits or by unleashing your subconscious intuition.
+
+**Check**: Once per week, you can spend 1 hour posing questions while your hand unconsciously scribbles messages of varying legibility and accuracy. At the end of the hour, you attempt a Linguistics check to decipher their meanings. If you succeed, you gain information as though you had cast *[[rangoric-srd/spells/Augury|augury]]*. If you have 10 or more ranks in Linguistics, you can attempt a higher DC check to gain information as though you had cast *[[rangoric-srd/spells/Divination|divination]]* instead. The chance of producing coherent or meaningful writing equals 60% plus 5% for every 1 by which your check result exceeds the DC (to a maximum of 90%). You choose which DC you’re trying to meet before you attempt the check. The GM rolls the check and the d% roll secretly, so you can’t tell whether the messages are accurate.
+
+| Writing Results | Ranks Required | DC |
+| --- | --- | --- |
+| As *augury* | 1 | 20 |
+| As *divination* | 10 | 30 |
+
+**Action**: Automatic writing takes 1 hour.
+
+**Try Again**: Yes. You can try to learn more about a subject, but you can still attempt only one check per week.

@@ -1,10 +1,12 @@
 ---
 srd-type: "overview"
 section: "Skills"
+book: "Occult Adventures"
 based-on:
   - "[[path srd 3.5/rules/pathfinder-unchained/Skill Unlocks|Skill Unlocks (PF1 Unchained)]]"
   - "[[fantasy srd 3.5/skills/Skills Overview|Skills Overview (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
+  - "[[path srd 3.5 foundry/rules/Skills#Occult Skill Unlocks|Occult Skill Unlocks (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -28,6 +30,8 @@ tags: [rangoric, rangoric/overview]
 **Your First Background Skill**: The first Background skill you put a rank in counts as a class skill for you, so it gets the +3 bonus. Other Background skills are class skills only if your class lists them. ^first-background-skill
 
 **Skill Unlocks**: Reaching 5, 10, 15 and 20 ranks in a skill can unlock new abilities with it, listed in the Unlocks section of the skill’s note. The Knowledge skills share one set, in [[rangoric-srd/skills/Knowledge|Knowledge]], and the Magic skills share one, in [[rangoric-srd/skills/Identifying Magic|Identifying Magic]]. You get a skill’s unlocks only through the [[rangoric-srd/feats/Signature Skill|Signature Skill]] feat or a class feature such as the [[rangoric-srd/classes/Rogue#^rogue-edge|rogue’s edge]]. Once you have them, you gain each tier’s unlock as soon as you have enough ranks. ^skill-unlocks
+
+**Occult Skill Unlocks**: Eight skills also have an occult skill unlock, an esoteric use listed in the Occult Unlocks section of the skill’s note: automatic writing ([[rangoric-srd/skills/Linguistics#Automatic Writing|Linguistics]]), dowsing ([[rangoric-srd/skills/Fieldcraft#Dowsing|Fieldcraft]]), faith healing ([[rangoric-srd/skills/Medicine#Faith Healing|Medicine]]), hypnotism ([[rangoric-srd/skills/Persuasion#Hypnotism|Persuasion]]), phrenology ([[rangoric-srd/skills/Arcana#Phrenology|Arcana]]), prognostication ([[rangoric-srd/skills/Sense Motive#Prognostication|Sense Motive]]), psychometry ([[rangoric-srd/skills/Appraise#Psychometry|Appraise]]) and read aura ([[rangoric-srd/skills/Perception#Read Aura|Perception]]). You can use them only if you can cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or have the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat, and only in a skill you’re trained in, even one that can normally be used untrained. They aren’t skill unlocks: they don’t come through Signature Skill. You can’t take 10 on an occult skill unlock. Each takes intense concentration and strenuous effort, so you can use each one only once per day (or once per week, as its entry says), and the limit covers all its uses: if you use hypnotism to implant a suggestion, you can’t also use it to recall a memory that day. ^occult-unlocks
 
 **Using Skills**: To make a skill check, roll:
 

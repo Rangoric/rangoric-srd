@@ -1,6 +1,7 @@
 ---
 srd-type: "skill"
 section: "Skills"
+book: "Occult Adventures"
 key-ability: "Cha"
 based-on:
   - "[[path srd 3.5/skills/Diplomacy|Diplomacy (PF1)]]"
@@ -8,6 +9,7 @@ based-on:
   - "[[fantasy srd 3.5/skills/Diplomacy|Diplomacy (3.5)]]"
   - "[[fantasy srd 3.5/skills/Gather Information|Gather Information (3.5)]]"
   - "[[fantasy srd 3.5/epic/Epic Skills|Epic Skills (3.5)]]"
+  - "[[path srd 3.5 foundry/rules/Skills#Hypnotism|Hypnotism (PF1 Foundry)]]"
 status: draft
 change: new
 pi-review: 2026-10-22
@@ -90,3 +92,21 @@ You gain these only through [[rangoric-srd/feats/Signature Skill|Signature Skill
 **15 Ranks**: You can attempt to adjust a creature's attitude in 1 round with no penalty. If you take 1 minute to adjust a creature's attitude, the duration of the resulting change is measured in days, not hours. You can gather information in 10 minutes by taking a –5 penalty.
 
 **20 Ranks**: You can attempt to adjust a creature's attitude in 1 round with no penalty. If you take 1 minute to adjust a creature's attitude, the duration of the resulting change is measured in weeks, not hours. You can gather information in 1d4 minutes with no penalty.
+
+## Occult Unlocks
+
+Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] or the [[rangoric-srd/feats/Psychic Sensitivity|Psychic Sensitivity]] feat; see [[rangoric-srd/skills/Skills Overview#^occult-unlocks|Occult Skill Unlocks]] for who can use them and how often.
+
+### Hypnotism
+
+You use the power of suggestion and subtle psychic influence to alter a subject’s mind and dredge up repressed memories.
+
+**Check**: You can use hypnotism once per day. The DC of a Persuasion check to hypnotize is 20 + the subject’s Will save modifier against mind-affecting enchantment (compulsion) effects. Every use of hypnotism is a mind-affecting enchantment (compulsion) effect.
+
+*Implant Suggestion*: You can implant a suggested course of reasonable action in the mind of a willing creature, along with a defined trigger. You spend 1 minute inducing a trance-like state in the subject, then attempt a Persuasion check. If you succeed, you implant the course of action, as *[[rangoric-srd/spells/Suggestion|suggestion]]* with a duration of 10 minutes plus 10 more minutes for every 1 by which your result exceeds the DC. If the subject stops being willing, it can attempt a Will save once each round to shake off the effect (DC 10 + 1/2 your character level + your Charisma modifier). You can try to implant a suggestion subtly in the mind of an unwilling creature whose [[rangoric-srd/skills/Persuasion#Influencing Attitudes|attitude]] is indifferent or better after 1 minute of continuous, calm interaction with it, but the DC is 10 higher.
+
+*Recall Memory*: You can draw out forgotten memories from a willing subject. You spend 1 minute inducing a calming, trance-like state in the subject, then attempt a Persuasion check. If you succeed, the hypnotized creature can reroll any failed Intelligence or [[rangoric-srd/skills/Knowledge|Knowledge]] check to recall the forgotten information, with a +4 bonus. The information must be something the subject once knew or was exposed to.
+
+**Action**: Hypnotism takes 1 minute of calm interaction.
+
+**Try Again**: Yes. You can try to hypnotize the same creature more than once, but only once per day.
