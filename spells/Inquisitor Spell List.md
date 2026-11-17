@@ -172,7 +172,7 @@ The spells an [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-spells|inqui
 | [[rangoric-srd/spells/Invisibility\|Invisibility]]: | Subject is [[rangoric-srd/rules/conditions/Invisibility (Condition)\|invisible]] for 1 min./level or until it attacks. |
 | [[rangoric-srd/spells/Iron Stake\|Iron Stake]] (M): | Hurl a spike of cold iron at a foe |
 | [[rangoric-srd/spells/Knock\|Knock]]: | Opens locked or magically sealed door. |
-| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Knowledge (nobility) ranks. |
+| [[rangoric-srd/spells/Know Peerage\|Know Peerage]] (M): | Target uses your Society ranks. |
 | [[rangoric-srd/spells/Litany of Defense\|Litany of Defense]]: | Doubles armor's enhancement bonus. |
 | [[rangoric-srd/spells/Magic Siege Engine\|Magic Siege Engine]]: | Siege gains +1 on targeting and damage rolls. |
 | [[rangoric-srd/spells/Muffle Sound\|Muffle Sound]]: | Allies gain a bonus on Stealth checks but risk verbal spell failure. |
@@ -246,7 +246,7 @@ The spells an [[rangoric-srd/classes/Inquisitor (Class)#^inquisitor-spells|inqui
 | [[rangoric-srd/spells/Glyph of Warding\|Glyph of Warding]] (M): | Inscription harms those who pass it. |
 | [[rangoric-srd/spells/Halt Undead\|Halt Undead]]: | Immobilizes undead for 1 round/level. |
 | [[rangoric-srd/spells/Heroism\|Heroism]]: | Gives +2 bonus on attack rolls, saves, skill checks. |
-| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M): | Gain +10 on Bluff to send secret messages. |
+| [[rangoric-srd/spells/Hidden Speech\|Hidden Speech]] (M): | Gain +10 on Deception to send secret messages. |
 | [[rangoric-srd/spells/Hunter’s Eye\|Hunter’s Eye]]: | +20 on Perception checks to locate a target. |
 | [[rangoric-srd/spells/Improve Trap\|Improve Trap]]: | Improves a trap with one specific element of the trap chosen at the time of casting. |
 | [[rangoric-srd/spells/Inflict Serious Wounds\|Inflict Serious Wounds]]: | Touch attack, 3d8 damage +1/level (max +15). |
