@@ -1,0 +1,28 @@
+---
+srd-type: "class-option"
+section: "Class Options"
+option-type: "archetype"
+class: ["Wizard"]
+race: "Elf"
+replaces:
+  - "arcane bond (1st)"
+book: "Advanced Race Guide"
+based-on:
+  - "[[path srd 3.5/races/Elves (Advanced Race Guide)#Spellbinder (Wizard)|Elves, Spellbinder (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/class-option]
+---
+
+# Spellbinder
+
+*A [[rangoric-srd/classes/Wizard#^wizard-archetypes|wizard]] [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetype]] for [[rangoric-srd/races/Elf|elves]].*
+
+A spellbinder is an elven wizard who forges an [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] between himself and one or more wizard spells. These spells become so well understood by the spellbinder that he can prepare them in spell slots that already have other spells prepared in them.
+
+**Spell Bond (Su)**: At 1st level, a spellbinder selects any one spell that he knows as a bonded spell. As a full-round action, the spellbinder may replace a spell of the same or higher level as his bonded spell with his bonded spell. For example, a spellbinder who selects *[[rangoric-srd/spells/Magic Missile|magic missile]]* as his bonded spell could spend a full-round action to exchange any 1st-level or higher spell that he has prepared with *[[rangoric-srd/spells/Magic Missile|magic missile]]*. At 3rd level, and every two levels thereafter, a spellbinder may select another spell he knows and add it to his list of bonded spells, to a maximum of nine bonded spells at 17th level.
+
+Upon reaching 4th level, and every two levels thereafter, a spellbinder can choose to select a new spell as a bonded spell in place of one with which he is already bonded. In effect, the spellbinder loses the bond with the old spell (though it is still one of his spells known) in exchange for forging a spell bond with a new spell. The new spell's level must be the same as that of the spell being exchanged. A spellbinder may swap only one spell bond at any given level, and must choose whether or not to swap the spell bond at the same time that he gains two new spells known for the level. This ability replaces [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]].
+
+**Discoveries**: The following [[rangoric-srd/classes/Wizard#^wizard-arcane-discoveries|discoveries]] complement the spellbinder archetype: [[rangoric-srd/class-options/arcane-discoveries/Fast Study (Arcane Discovery)|Fast Study]], [[rangoric-srd/class-options/arcane-discoveries/Split Slot (Arcane Discovery)|Split Slot]].
