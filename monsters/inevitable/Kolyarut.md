@@ -1,93 +1,81 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/inevitable/Inevitable|Inevitable]]"
 size: "Medium"
-creature-type: "Construct"
-subtypes:
-  - "Extraplanar"
-  - "Lawful"
-hit-dice: "13d10+20 (91 hp)"
-initiative: "+1"
-speed: "20 ft. in banded mail (4 squares); base speed 30 ft."
-armor-class: "27 (+1 Dex, +10 natural, +6 banded mail) touch 11, flat-footed 26"
-base-attack: "+9"
-cmb: "+11"
-cmd: "22"
-attack: "Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13 melee (1d8+5/19–20) or slam +11 melee (1d6+3)"
-full-attack: "Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19–20) or slam +11/+6 melee (1d6+3)"
+creature-type: "Outsider"
+subtypes: ["Extraplanar", "Inevitable", "Lawful"]
+hit-dice: "12d10+92 (158 hp)"
+initiative: "+8"
+speed: "30 ft. (6 squares)"
+armor-class: "26 (+4 Dex, +12 natural), touch 14, flat-footed 22"
+base-attack: "+12"
+cmb: "+18"
+cmd: "32"
+attack: "+2 bastard sword +20 melee (1d10+8/19–20) or slam +18 melee (2d6+6)"
+full-attack: "+2 bastard sword +20/+15/+10 melee (1d10+8/19–20) and slam +13 melee (2d6+3); or 2 slams +18 melee (2d6+6)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Enervation ray, spell-like abilities, vampiric touch"
-special-qualities: "Construct traits, damage reduction 10/chaotic, darkvision 60 ft., fast healing 5, low-light vision, spell resistance 22"
-saves: "Fort +6, Ref +7, Will +7"
-abilities: "Str 14, Dex 13, Con —, Int 10, Wis 17, Cha 16"
-skills: "Fieldcraft +3 (+5 following tracks), Imitation +12, Perception +15, Persuasion +15, Investigation +8, Sense Motive +15"
-skill-ranks: "Fieldcraft 0, Imitation 5, Investigation 5, Perception 6, Persuasion 5, Sense Motive 5"
-feats: "Combat Casting, Great Fortitude, Lightning Reflexes, Quickened Spell-Like Ability (suggestion), Skill Focus (Perception)"
-environment: "A lawful-aligned plane"
-organization: "Solitary"
+special-attacks: "Spell-like abilities"
+special-qualities: "Darkvision 60 ft., low-light vision, regeneration 5 (chaotic), constructed, damage reduction 10/chaotic, spell resistance 23"
+saves: "Fort +14, Ref +10, Will +11"
+abilities: "Str 22, Dex 19, Con 23, Int 10, Wis 17, Cha 16"
+skills: "Fieldcraft +18, Imitation +22, Perception +24, Persuasion +22, Sense Motive +18, Theology +15"
+skill-ranks: "Fieldcraft 12, Imitation 12, Perception 16, Persuasion 12, Sense Motive 16, Theology 12"
+feats: "Combat Casting, Combat Reflexes, Improved Initiative, Lightning Reflexes, Quicken Spell-Like Ability (suggestion), Skill Focus (Perception)"
+environment: "Any"
+organization: "Solitary, pair, or inquisition (3–6)"
 challenge-rating: 12
-treasure: "None"
+treasure: "Standard (+2 bastard sword, other treasure)"
 alignment: "Always lawful neutral"
 advancement: "14–22 HD (Medium); 23–39 HD (Large)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/inevitable/Inevitable|Inevitable]]"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Inevitable, Kolyarut|Inevitable, Kolyarut (PF1)]]"
   - "[[fantasy srd 3.5/monsters/inevitable/Kolyarut|Kolyarut (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Kolyarut
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^lawful|Lawful]])
-  - **Hit Dice**: 13d10+20 (91 hp)
-  - **Initiative**: +1
-  - **Speed**: 20 ft. in banded mail (4 squares); base speed 30 ft.
-  - **Armor Class**: 27 (+1 Dex, +10 natural, +6 banded mail) touch 11, flat-footed 26
-  - **Base Attack**: +9; **CMB**: +11; **CMD**: 22
-  - **Attack**: Vampiric touch +11 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13 melee (1d8+5/19–20) or slam +11 melee (1d6+3)
-  - **Full Attack**: Vampiric touch +11/+6 melee touch (5d6) or enervation ray +10 ranged touch (as spell) or +2 longsword +13/+8 melee (1d8+5/19–20) or slam +11/+6 melee (1d6+3)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Extraplanar, Inevitable, Lawful)
+  - **Hit Dice**: 12d10+92 (158 hp)
+  - **Initiative**: +8
+  - **Speed**: 30 ft. (6 squares)
+  - **Armor Class**: 26 (+4 Dex, +12 natural), touch 14, flat-footed 22
+  - **Base Attack**: +12; **CMB**: +18; **CMD**: 32
+  - **Attack**: +2 [[rangoric-srd/equipment/weapons/Bastard Sword|bastard sword]] +20 melee (1d10+8/19–20) or slam +18 melee (2d6+6)
+  - **Full Attack**: +2 [[rangoric-srd/equipment/weapons/Bastard Sword|bastard sword]] +20/+15/+10 melee (1d10+8/19–20) and slam +13 melee (2d6+3); or 2 slams +18 melee (2d6+6)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Enervation ray, spell-like abilities, vampiric touch
-  - **Special Qualities**: [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct traits]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, darkvision 60 ft., [[rangoric-srd/monsters/abilities/Fast Healing|fast healing]] 5, low-light vision, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 22
-  - **Saves**: Fort +6, Ref +7, Will +7
-  - **Abilities**: Str 14, Dex 13, Con —, Int 10, Wis 17, Cha 16
-  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3 (+5 following tracks), [[rangoric-srd/skills/Imitation|Imitation]] +12, [[rangoric-srd/skills/Investigation|Investigation]] +8, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/monsters/Monster Feats|Quickened Spell-Like Ability]] (suggestion), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: A lawful-aligned plane
-  - **Organization**: Solitary
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] 5 (chaotic), [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|constructed]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/chaotic, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23
+  - **Saves**: Fort +14, Ref +10, Will +11
+  - **Abilities**: Str 22, Dex 19, Con 23, Int 10, Wis 17, Cha 16
+  - **Skills**: [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +18, [[rangoric-srd/skills/Imitation|Imitation]] +22, [[rangoric-srd/skills/Perception|Perception]] +24, [[rangoric-srd/skills/Persuasion|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +18, [[rangoric-srd/skills/Theology|Theology]] +15
+  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Quicken Spell-Like Ability|Quicken Spell-Like Ability]] (suggestion), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Environment**: Any
+  - **Organization**: Solitary, pair, or inquisition (3–6)
   - **Challenge Rating**: 12
-  - **Treasure**: None
+  - **Treasure**: Standard (+2 bastard sword, other treasure)
   - **Alignment**: Always lawful neutral
   - **Advancement**: 14–22 HD (Medium); 23–39 HD (Large)
   - **Level Adjustment**: —
 
-Kolyaruts mete out punishment to those who break bargains and oaths.
+Kolyaruts are enforcers of bargains, traveling to the very edges of the planes in order to punish oath-breakers and see that contracts are kept. They care little for the terms of the agreements in question, only that promises are fulfilled, debts are paid, and balance is maintained.
 
-Before beginning a mission against a deal-breaker, a kolyarut learns as much about the contract or oath as possible. It’s not interested in those who break deals accidentally or against their will— only those who willingly break contracts violate the principle that kolyaruts are created to uphold. If a written contract was broken, the kolyarut typically carries a copy of the contract with it.
+Least conspicuous of the inevitables, even in their natural form, kolyaruts are the size of tall humans, though they weigh far more because of their composition. Capable of using both *[[rangoric-srd/spells/Invisibility|invisibility]]* and *[[rangoric-srd/spells/Disguise Self|disguise self]]* to pass completely unnoticed through humanoid lands, kolyaruts most frequently appear as cloaked [[rangoric-srd/classes/Warrior|warriors]] bearing finely crafted bastard swords, allowing others to chalk up any metallic noises to the clanking of hidden armor until the moment when they pull back their hoods and let their quarries look upon their mechanical faces, understanding only too late the nature of the mysterious strangers.
 
-Kolyaruts are the most talkative of the inevitables, making credible attempts at social niceties such as proper greetings before getting down to the matter at hand. They can use disguise self to appear as almost any kind of humanoid—useful if they need to go undercover to catch their quarry.
+Perhaps because their missions can be the murkiest and most open to interpretation, kolyaruts are by far the most talkative of the inevitables, naturally possessing a courtly grace and an encyclopedic knowledge of social customs, which they use both to assist them in gathering information on their targets and in issuing challenges (or executing dignified sentences) on the battlefield. Though naturally as solitary as their kindred, kolyaruts are occasionally content to let members of other races tag along and assist them in achieving shared goals, though they have little problem abandoning or even exploiting these “comrades” if it brings them closer to fulfilling their mission.
 
-## Combat
+Kolyaruts communicate by [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|truespeech]].
+
+### Combat
 
 Like all inevitables, a kolyarut is patient enough to study a target before striking. It has a good idea of the deal-breaker’s abilities and defenses before it enters battle. When it fights, it tries to get the conflict over as soon as possible, minimizing excess bloodshed and mayhem. It doesn’t let concern for innocents delay or endanger its mission, however.
 
 A kolyarut’s favorite tactic is to use [[rangoric-srd/spells/Invisibility|invisibility]] or [[rangoric-srd/spells/Disguise Self|disguise self]] to sneak close, then eliminate the quarry with its vampiric touch ability before it can react. A kolyarut has no compunctions about using its vampiric touch ability on allies to increase its own power, if doing so helps it complete its mission.
 
-A kolyarut’s natural weapons, as well as any weapons it wields, are treated as lawful-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
-
-**Enervation Ray (Su)**: A kolyarut can fire a black enervation ray at targets within 200 feet. The effect is identical with the [[rangoric-srd/spells/Enervation|enervation]] spell (caster level 13th).
-
-**Spell-Like Abilities**: Caster level 13th. The save DCs are Charisma-based.  
-
-At will - [[rangoric-srd/spells/Discern Lies|discern lies]] (DC 17), [[rangoric-srd/spells/Disguise Self|disguise self]], [[rangoric-srd/spells/Fear|fear]] (DC 17), [[rangoric-srd/spells/Hold Person|hold person]] (DC 16), [[rangoric-srd/spells/Invisibility|invisibility]], [[rangoric-srd/spells/Locate Creature|locate creature]], [[rangoric-srd/spells/Suggestion|suggestion]] (DC 16);  
-
-1/day - [[rangoric-srd/spells/Hold Monster|hold monster]] (DC 17), [[rangoric-srd/spells/Mark of Justice|mark of justice]];  
-
-1/week - [[rangoric-srd/spells/Geas-Quest|geas/quest]].  
-
-**Vampiric Touch (Su)**: As a melee touch attack, a kolyarut can steal life force from its foe, as the [[rangoric-srd/spells/Vampiric Touch|vampiric touch]] spell (caster level 13th).
-
-**Skills**: A kolyarut has a +4 racial bonus on [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Persuasion|Persuasion]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +15): At will—*[[rangoric-srd/spells/Discern Lies|discern lies]]* (DC 17), *[[rangoric-srd/spells/Disguise Self|disguise self]]*, *[[rangoric-srd/spells/Enervation|enervation]]*, *[[rangoric-srd/spells/Fear|fear]]* (DC 17), *[[rangoric-srd/spells/Hold Person|hold person]]* (DC 16), *[[rangoric-srd/spells/Invisibility|invisibility]]* (self only), *[[rangoric-srd/spells/Locate Creature|locate creature]]*, *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 16), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*; 3/day—*[[rangoric-srd/spells/Hold Monster|hold monster]]* (DC 18), *[[rangoric-srd/spells/Mark of Justice|mark of justice]]*, quickened *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 16); 1/week—*[[rangoric-srd/spells/Geas-Quest|geas/quest]]*.

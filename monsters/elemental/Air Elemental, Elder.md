@@ -1,64 +1,63 @@
 ---
 srd-type: "monster"
 section: "Monsters"
-group: "[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]"
 size: "Huge"
-creature-type: "Elemental"
-subtypes:
-  - "Air"
-  - "Extraplanar"
-hit-dice: "24d8+96 (204 hp)"
+creature-type: "Outsider"
+subtypes: ["Air", "Elemental", "Extraplanar"]
+hit-dice: "16d10+64 (152 hp)"
 initiative: "+15"
-speed: "Fly 100 ft. (perfect) (20 squares)"
-armor-class: "27 (–2 size, +11 Dex, +8 natural), touch 19, flat-footed 16"
-base-attack: "+18"
-cmb: "+26"
-cmd: "47"
-attack: "Slam +27 melee (2d8+6)"
-full-attack: "2 slams +27 melee (2d8+6)"
+speed: "fly 100 ft. (perfect)"
+armor-class: "28 (+11 Dex, +1 dodge, +8 natural, –2 size), touch 20, flat-footed 16"
+base-attack: "+16"
+cmb: "+27"
+cmd: "49"
+attack: "Slam +25 melee (2d8+9)"
+full-attack: "2 slams +25 melee (2d8+9)"
 space-reach: "15 ft./15 ft."
-special-attacks: "Air mastery, whirlwind"
-special-qualities: "Damage reduction 10/–, darkvision 60 ft., elemental traits"
-saves: "Fort +12, Ref +25, Will +10"
-abilities: "Str 22, Dex 33, Con 18, Int 10, Wis 11, Cha 11"
-skills: "Perception +33"
-skill-ranks: "Perception 24"
-feats: "Blind-fight, Cleave, Combat Reflexes, Flyby Attack, Improved Initiative (B), Iron Will, Mobility, Power Attack, Skill Focus (Perception), Spring Attack, Weapon Finesse (B)"
+special-attacks: "Whirlwind (DC 27)"
+special-qualities: "Darkvision 60 ft., air mastery, damage reduction 10/-, elemental traits"
+saves: "Fort +14, Ref +21, Will +7"
+abilities: "Str 28, Dex 33, Con 18, Int 10, Wis 11, Cha 11"
+skills: "Acrobatics +34, Escape Artist +30, Perception +19, Stealth +22, Theology +19"
+skill-ranks: "Acrobatics 24, Escape Artist 16, Perception 16, Stealth 16, Theology 16"
+feats: "Blind-Fight, Cleave, Combat Reflexes, Dodge, Flyby Attack, Improved Initiative, Iron Will, Mobility, Power Attack, Weapon Finesse"
 environment: "Elemental Plane of Air"
-organization: "Solitary"
+organization: "Solitary, pair, or gang (3–8)"
 challenge-rating: 11
 treasure: "None"
 alignment: "Usually neutral"
 advancement: "25–48 HD (Huge)"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/elemental/Air Elemental|Air Elemental]]"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Elemental, Air, Elder|Elemental, Air, Elder (PF1)]]"
   - "[[fantasy srd 3.5/monsters/elemental/Air Elemental, Elder|Air Elemental, Elder (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
 # Air Elemental, Elder
 
-  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|Elemental]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^air|Air]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 24d8+96 (204 hp)
+  - Huge [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Air, Elemental, Extraplanar)
+  - **Hit Dice**: 16d10+64 (152 hp)
   - **Initiative**: +15
-  - **Speed**: Fly 100 ft. (perfect) (20 squares)
-  - **Armor Class**: 27 (–2 size, +11 Dex, +8 natural), touch 19, flat-footed 16
-  - **Base Attack**: +18; **CMB**: +26; **CMD**: 47
-  - **Attack**: Slam +27 melee (2d8+6)
-  - **Full Attack**: 2 slams +27 melee (2d8+6)
+  - **Speed**: fly 100 ft. (perfect)
+  - **Armor Class**: 28 (+11 Dex, +1 dodge, +8 natural, –2 size), touch 20, flat-footed 16
+  - **Base Attack**: +16; **CMB**: +27; **CMD**: 49
+  - **Attack**: Slam +25 melee (2d8+9)
+  - **Full Attack**: 2 slams +25 melee (2d8+9)
   - **Space/Reach**: 15 ft./15 ft.
-  - **Special Attacks**: Air mastery, whirlwind
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/–, darkvision 60 ft., [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
-  - **Saves**: Fort +12, Ref +25, Will +10
-  - **Abilities**: Str 22, Dex 33, Con 18, Int 10, Wis 11, Cha 11
-  - **Skills**: [[rangoric-srd/skills/Perception|Perception]] +33
-  - **Unspent Skill Points**: 24
-  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative (B)]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse (B)]]
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Whirlwind|Whirlwind]] (DC 27)
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/elemental/Air Elemental#^air-mastery|air mastery]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/-, [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^elemental|elemental traits]]
+  - **Saves**: Fort +14, Ref +21, Will +7
+  - **Abilities**: Str 28, Dex 33, Con 18, Int 10, Wis 11, Cha 11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +34, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +30, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Stealth|Stealth]] +22, [[rangoric-srd/skills/Theology|Theology]] +19
+  - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Flyby Attack|Flyby Attack]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Elemental Plane of Air
-  - **Organization**: Solitary
+  - **Organization**: Solitary, pair, or gang (3–8)
   - **Challenge Rating**: 11
   - **Treasure**: None
   - **Alignment**: Usually neutral

@@ -3,10 +3,11 @@ srd-type: "monster"
 section: "Monsters"
 group: "[[rangoric-srd/monsters/elemental/Elemental|Elemental]]"
 based-on:
+  - "[[path srd 3.5/monsters/Elemental, Fire|Elemental, Fire (PF1)]]"
   - "[[fantasy srd 3.5/monsters/elemental/Fire Elemental|Fire Elemental (3.5)]]"
-status: base
-change: copied
-pi-review: scanned 2026-10-15
+status: draft
+change: modified
+pi-review: 2026-11-16
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -27,17 +28,15 @@ Fire elementals speak Ignan, though they rarely choose to do so.
 
 A fire elemental is a fierce opponent that attacks its enemies directly and savagely. It takes joy in burning the creatures and objects of the Material Plane to ashes.
 
-**Burn (Ex)**: A fire elemental’s slam attack deals bludgeoning damage plus fire damage from the elemental’s flaming body. Those hit by a fire elemental‘s slam attack also must succeed on a Reflex save or catch on fire. The flame burns for 1d4 rounds. The save DC varies with the elemental’s size (see the table below). A burning creature can take a move action to put out the flame. The save DC is Constitution- based.
-
-Creatures hitting a fire elemental with natural weapons or unarmed attacks take fire damage as though hit by the elemental’s attack, and also catch on fire unless they succeed on a Reflex save.
+**Burn (Ex)**: A fire elemental’s slam attack sets those it hits alight ([[rangoric-srd/monsters/abilities/Burn|burn]]). The damage and save DC are in each fire elemental's stat block.
 
 **Fire Elemental Sizes**
 
-| Elemental | Height | Weight | Burn Save DC |
-| --------- | ------ | ------ | ------------ |
-| Small     | 4 ft.  | 1 lb.  | 11           |
-| Medium    | 8 ft.  | 2 lb.  | 14           |
-| Large     | 16 ft. | 4 lb.  | 17           |
-| Huge      | 32 ft. | 8 lb.  | 22           |
-| Greater   | 36 ft. | 10 lb. | 24           |
-| Elder     | 40 ft. | 12 lb. | 26           |
+| Elemental | Height | Weight |
+| --------- | ------ | ------ |
+| Small | 4 ft. | 1 lb. |
+| Medium | 8 ft. | 2 lb. |
+| Large | 16 ft. | 4 lb. |
+| Huge | 32 ft. | 8 lb. |
+| Greater | 36 ft. | 10 lb. |
+| Elder | 40 ft. | 12 lb. |
