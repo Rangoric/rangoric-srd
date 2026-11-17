@@ -3,84 +3,81 @@ srd-type: "monster"
 section: "Monsters"
 size: "Large"
 creature-type: "Outsider"
-subtypes:
-  - "Chaotic"
-  - "Evil"
-  - "Extraplanar"
-hit-dice: "6d8+12 (39 hp)"
-initiative: "+7"
+subtypes: ["Chaotic", "Evil", "Extraplanar"]
+hit-dice: "5d10+10 (37 hp)"
+initiative: "+6"
 speed: "60 ft. (12 squares)"
-armor-class: "17 (–1 size, +3 Dex, +5 natural), touch 12, flat-footed 14"
-base-attack: "+6"
-cmb: "+12"
-cmd: "25"
-attack: "Bite +10 melee (2d8+5)"
-full-attack: "Bite +10 melee (2d8+5) and 1d4 quills +5 melee (1d6+2)"
+armor-class: "15 (+2 Dex, +4 natural, –1 size), touch 11, flat-footed 13"
+base-attack: "+5"
+cmb: "+10"
+cmd: "22"
+attack: "Bite +13 melee (1d8+4) or quills +3 melee (1d4+2 plus pain)"
+full-attack: "Bite +8 melee (1d8+4) and quills +3 melee (1d4+2 plus pain)"
 space-reach: "10 ft./5 ft."
-special-attacks: "Quills, howl"
-special-qualities: "Darkvision 60 ft."
-saves: "Fort +7, Ref +8, Will +7"
-abilities: "Str 21, Dex 17, Con 15, Int 6, Wis 14, Cha 8"
-skills: "Athletics +14, Fieldcraft +11 (+13 following tracks), Perception +14, Investigation +7, Stealth +8"
-skill-ranks: "Athletics 6, Fieldcraft 6, Investigation 6, Perception 6, Stealth 6"
+special-attacks: "Howl"
+special-qualities: "Darkvision 60 ft., quill defense"
+saves: "Fort +6, Ref +6, Will +3"
+abilities: "Str 18, Dex 15, Con 15, Int 6, Wis 14, Cha 11"
+skills: "Acrobatics +10, Athletics +12 (+24 jumping), Perception +13, Stealth +6"
+skill-ranks: "Acrobatics 5, Athletics 5, Perception 8, Stealth 5"
 feats: "Combat Reflexes, Improved Initiative, Skill Focus (Perception)"
-environment: "A chaotic-aligned plane"
-organization: "Solitary, gang (2–4), or pack (6–10)"
+environment: "Lands of a chaotic evil-aligned plane"
+organization: "Solitary or pack (2–4)"
 challenge-rating: 3
-treasure: "None"
+treasure: "Incidental"
 alignment: "Always chaotic evil"
 advancement: "7–9 HD (Large); 11–18 HD (Huge)"
 level-adjustment: "+3 (cohort)"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Howler|Howler (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Howler|Howler (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
-
 # Howler
 
-  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^chaotic|Chaotic]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^evil|Evil]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 6d8+12 (39 hp)
-  - **Initiative**: +7
+  - Large [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Evil, Extraplanar)
+  - **Hit Dice**: 5d10+10 (37 hp)
+  - **Initiative**: +6
   - **Speed**: 60 ft. (12 squares)
-  - **Armor Class**: 17 (–1 size, +3 Dex, +5 natural), touch 12, flat-footed 14
-  - **Base Attack**: +6; **CMB**: +12; **CMD**: 25
-  - **Attack**: Bite +10 melee (2d8+5)
-  - **Full Attack**: Bite +10 melee (2d8+5) and 1d4 quills +5 melee (1d6+2)
+  - **Armor Class**: 15 (+2 Dex, +4 natural, –1 size), touch 11, flat-footed 13
+  - **Base Attack**: +5; **CMB**: +10; **CMD**: 22
+  - **Attack**: Bite +13 melee (1d8+4) or quills +3 melee (1d4+2 plus pain)
+  - **Full Attack**: Bite +8 melee (1d8+4) and quills +3 melee (1d4+2 plus pain)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: Quills, howl
-  - **Special Qualities**: Darkvision 60 ft.
-  - **Saves**: Fort +7, Ref +8, Will +7
-  - **Abilities**: Str 21, Dex 17, Con 15, Int 6, Wis 14, Cha 8
-  - **Skills**: [[rangoric-srd/skills/Athletics|Athletics]] +14, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +7, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +8
-  - **Unspent Skill Points**: 6
-  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Feats All|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
-  - **Environment**: A chaotic-aligned plane
-  - **Organization**: Solitary, gang (2–4), or pack (6–10)
+  - **Special Attacks**: Howl
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., quill defense
+  - **Saves**: Fort +6, Ref +6, Will +3
+  - **Abilities**: Str 18, Dex 15, Con 15, Int 6, Wis 14, Cha 11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +12 (+24 jumping), [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +6
+  - **Feats**: [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
+  - **Environment**: Lands of a chaotic evil-aligned plane
+  - **Organization**: Solitary or pack (2–4)
   - **Challenge Rating**: 3
-  - **Treasure**: None
+  - **Treasure**: Incidental
   - **Alignment**: Always chaotic evil
   - **Advancement**: 7–9 HD (Large); 11–18 HD (Huge)
   - **Level Adjustment**: +3 (cohort)
 
-Howlers live on planes where chaos and evil hold sway. A howler is about 8 feet long and weighs about 2,000 pounds.
+The howler is a native to the chaotic evil planes, Outer Planes where madness is the norm and cruelty is expected and often rewarded. The howler prowls these realms, serving the role of a hungry predator like a lion or tiger, save for the fact that the typical howler is much more intelligent than a big cat. Worse, howlers have little interest in eating their prey—they need not feed to live, but rather enjoy the process of stalking, mauling, and killing living creatures. In a way, the act of inflicting intense pain and madness upon mortal life is what fills a howler's life instead of the desire to feed.
 
-Although they are surprisingly intelligent, howlers do not speak—they only howl. If there is a language within the howls, as some have suggested, even spells cannot decipher it. Howlers understand Abyssal.
+The howler's mane of razor-sharp quills makes it a poor choice of mount for most creatures, but it serves quite well as a guardian or sentinel—especially for outsiders, who may not enjoy the creature's constant howling, but aren't adversely affected by the supernatural sounds. When a howler sees prey, the tenor of its howls changes—howlers cannot speak, but they can use their howls to communicate quite a bit of information if required. They understand the Abyssal tongue, and when serving demons as guardians, their howls can not only alert their masters to the presence of intruders, but also to their number, appearance, and weaknesses.
+
+A howler is about the size of a tiger—12 feet from snout to tail and weighing 6,000 pounds. They are normally pale in color, with darker quills and milky eyes.
 
 ### Combat
 
-Howlers attack in groups, for they are cowardly and cruel. They prefer to [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] into combat, race out, and then charge in again. A howler’s natural weapons, as well as any weapons it wields, are treated as chaotic-aligned and evil-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
-
-**Quills (Ex)**: A howler’s neck bristles with long quills. While biting, the creature thrashes about, striking with 1d4 of them. An opponent hit by a howler’s quill attack must succeed on a DC 16 Reflex save or have the quill break off in his or her flesh. Lodged quills impose a –1 penalty on attacks, saves, and checks per quill. The save DC is Dexterity-based.
-
-A quill can be removed safely with a DC 20 [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] check; otherwise, removing a quill deals an extra 1d6 points of damage.
-
-**Howl (Ex)**: All beings other than outsiders that hear the creature’s howling for an hour or longer are subject to its effect, though it does not help the howler in combat. Anyone within hearing range of a howler for a full hour must succeed on a DC 12 Will save or take 1 point of Wisdom damage. The save DC is Charisma-based. The save must be repeated for each hour of exposure. This is a sonic mind-affecting effect.
-
-### Training a Howler
+Howlers attack in groups, for they are cowardly and cruel. They prefer to [[rangoric-srd/combat/Combat Special Attacks#Charge|charge]] into combat, race out, and then charge in again.
 
 Although intelligent, a howler requires training before it can bear a rider in combat. To be trained, a howler must have a friendly attitude toward the trainer (this can be achieved through a successful [[rangoric-srd/skills/Persuasion|Persuasion]] check). Training a friendly howler requires six weeks of work and a DC 25 [[rangoric-srd/skills/Animal Handling|Animal Handling]] check. Riding a howler requires an exotic saddle. A howler can fight while carrying a rider, but the rider cannot also attack unless he or she succeeds on an [[rangoric-srd/skills/Animal Handling|Animal Handling]] check.
 
-**Carrying Capacity**: A light load for a howler is up to 460 pounds; a medium load, 461–920 pounds; and a heavy load, 921–1,380 pounds. A howler can drag 6,900 pounds.
+**Howl (Su)**: A howler's constant howling is a grating, exhausting baying that can drive listeners insane. All beings other than outsiders within 120 feet of a howling howler must succeed on a DC 12 Will save or become cursed by the creature's howl. Once a creature becomes cursed in this way, she takes no additional penalty for being exposed to additional howlers' howls until the current howler curse is lifted. This is a sonic mind-affecting effect. The save DC is Charisma-based.
+
+[[rangoric-srd/rules/afflictions/Howler Howl|Howler Howl]]: Howl—curse; *save* Fort DC 12 negates; *frequency* 1/hour; *effect* 1 Wis damage; *cure* 1 save. The save DC is Charisma-based.
+
+**Pain (Ex)**: Whenever a creature takes damage from a howler's quill attack or its quill defense, that creature must make a DC 14 Reflex save or a quill breaks off in its flesh, causing the target to become [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] until the quill is removed. Removing one quill requires a DC 15 Medicine check made as a full-round action. For every 5 by which the check is exceeded, one additional quill can be removed. On a failed check, a quill is still removed, but the process deals 1d4+1 points of damage to the victim. The save DC is Dexterity-based.
+
+**Quill Defense (Ex)**: Any creature that strikes a howler with a non-reach melee weapon, unarmed strike, or natural weapon takes 1d4+1 points of piercing damage from the howler's quills and suffers from the howler's pain attack.

@@ -1,72 +1,70 @@
 ---
-srd-type: monster
-section: Monsters
-size: Medium
-creature-type: Outsider
-subtypes:
-  - Chaotic
-  - Extraplanar
-hit-dice: 8d8+8 (44 hp)
-initiative: "+5"
-speed: 20 ft. (4 squares)
-armor-class: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
-base-attack: "+8"
-cmb: "+10"
-cmd: "22 (can't be tripped)"
-attack: Claw +10 melee (1d3+2 plus corporeal instability)
-full-attack: 2 claws +10 melee (1d3+2 plus corporeal instability)
-space-reach: 5 ft./5 ft.
-special-attacks: Corporeal instability
-special-qualities: Darkvision 60 ft., immunity to critical hits and transformation, spell resistance 15
-saves: Fort +7, Ref +7, Will +6
-abilities: Str 14, Dex 13, Con 13, Int 10, Wis 10, Cha 10
-skills: Acrobatics +12, Athletics +13, Escape Artist +12, Fieldcraft +11 (+13 with bindings, +13 following tracks), Perception +11, Investigation +11, Stealth +12
-skill-ranks: "Acrobatics 8, Athletics 8, Escape Artist 8, Fieldcraft 8, Investigation 8, Perception 8, Stealth 8"
-feats: Dodge, Improved Initiative, Mobility
-environment: Chaotic Neutral Plane
-organization: Solitary
+srd-type: "monster"
+section: "Monsters"
+size: "Medium"
+creature-type: "Outsider"
+subtypes: ["Chaotic", "Extraplanar"]
+hit-dice: "9d10+36 (85 hp)"
+initiative: "+6"
+speed: "20 ft. (4 squares)"
+armor-class: "20 (+2 Dex, +1 dodge, +7 natural), touch 13, flat-footed 17"
+base-attack: "+9"
+cmb: "+12"
+cmd: "25 (can't be tripped)"
+attack: "Claw +13 melee (1d6+3 plus corporeal instability)"
+full-attack: "4 claws +13 melee (1d6+3 plus corporeal instability)"
+space-reach: "5 ft./5 ft."
+special-attacks: "—"
+special-qualities: "Darkvision 60 ft., amorphous, resistant to transformation, spell resistance 18"
+saves: "Fort +9, Ref +8, Will +4"
+abilities: "Str 17, Dex 15, Con 16, Int 10, Wis 12, Cha 11"
+skills: "Acrobatics +14, Athletics +15 (+11 jumping), Escape Artist +14, Perception +13, Stealth +14"
+skill-ranks: "Acrobatics 9, Athletics 9, Escape Artist 9, Perception 9, Stealth 9"
+feats: "Dodge, Improved Initiative, Mobility, Toughness, Weapon Focus (claw)"
+environment: "Any"
+organization: "Solitary or invasion (2–5)"
 challenge-rating: 7
-treasure: None
-alignment: Always chaotic neutral
-advancement: 9–12 HD (Medium); 13–24 HD (Large)
-level-adjustment: —
+treasure: "None"
+alignment: "Always chaotic neutral"
+advancement: "9–12 HD (Medium); 13–24 HD (Large)"
+level-adjustment: "—"
+book: "Bestiary 2"
 based-on:
+  - "[[path srd 3.5/monsters/Chaos Beast|Chaos Beast (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Chaos Beast|Chaos Beast (3.5)]]"
 status: draft
 change: modified
-pi-review: 2026-10-15
-tags:
-  - rangoric
-  - rangoric/monster
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/monster]
 ---
-
 # Chaos Beast
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^chaotic|Chaotic]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]])
-  - **Hit Dice**: 8d8+8 (44 hp)
-  - **Initiative**: +5
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Chaotic, Extraplanar)
+  - **Hit Dice**: 9d10+36 (85 hp)
+  - **Initiative**: +6
   - **Speed**: 20 ft. (4 squares)
-  - **Armor Class**: 16 (+1 Dex, +5 natural), touch 11, flat-footed 15
-  - **Base Attack**: +8; **CMB**: +10; **CMD**: 22 (can't be tripped)
-  - **Attack**: Claw +10 melee (1d3+2 plus corporeal instability)
-  - **Full Attack**: 2 claws +10 melee (1d3+2 plus corporeal instability)
+  - **Armor Class**: 20 (+2 Dex, +1 dodge, +7 natural), touch 13, flat-footed 17
+  - **Base Attack**: +9; **CMB**: +12; **CMD**: 25 (can't be tripped)
+  - **Attack**: Claw +13 melee (1d6+3 plus corporeal instability)
+  - **Full Attack**: 4 claws +13 melee (1d6+3 plus corporeal instability)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Corporeal instability
-  - **Special Qualities**: Darkvision 60 ft., immunity to critical hits and transformation, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 15
-  - **Saves**: Fort +7, Ref +7, Will +6
-  - **Abilities**: Str 14, Dex 13, Con 13, Int 10, Wis 10, Cha 10
-  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +13, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +11 (+13 with bindings, +13 following tracks), [[rangoric-srd/skills/Investigation|Investigation]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Unspent Skill Points**: 8
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]]
-  - **Environment**: Chaotic Neutral Plane
-  - **Organization**: Solitary
+  - **Special Attacks**: —
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Amorphous|amorphous]], resistant to transformation, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 18
+  - **Saves**: Fort +9, Ref +8, Will +4
+  - **Abilities**: Str 17, Dex 15, Con 16, Int 10, Wis 12, Cha 11
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +14, [[rangoric-srd/skills/Athletics|Athletics]] +15 (+11 jumping), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +14, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Stealth|Stealth]] +14
+  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (claw)
+  - **Environment**: Any
+  - **Organization**: Solitary or invasion (2–5)
   - **Challenge Rating**: 7
   - **Treasure**: None
   - **Alignment**: Always chaotic neutral
   - **Advancement**: 9–12 HD (Medium); 13–24 HD (Large)
   - **Level Adjustment**: —
 
-The horrific creatures known as chaos beasts have mutable, ever-changing forms. A chaos beast’s dimensions vary, but it always weighs about 200 pounds.
+A chaos beast's form changes without any goal or purpose. Though at any particular second a chaos beast may appear to have dozens of limbs, whether claws, tentacles, stingers, and so on, the lightning-quick shifts of its body mean most of these are gone before it has a chance to use them, and its attacks are always treated as claws regardless of the creature's appearance.
+
+A chaos beast’s dimensions vary, but it always weighs about 200 pounds.
 
 Chaos beasts do not speak.
 
@@ -74,16 +72,10 @@ Chaos beasts do not speak.
 
 For all its fearsome appearances, whether it has claws, fangs, pincers, tentacles, or spines, a chaos beast does little physical harm. Regardless of form, the creature seems unable to manage more than two attacks per round. Its continual transmutations prevent the coordination needed to do more.
 
-A chaos beast’s claw attacks, as well as any weapons it wields, are treated as chaotic-aligned for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+**Corporeal Instability (Su)**: [[rangoric-srd/rules/afflictions/Corporeal Instability|Corporeal Instability]]: Claw—contact (curse); *save* Fort DC 17; *effect* amorphous body and 1 Wisdom drain per round (see below); *cure* 3 consecutive saves. The save DC is Constitution-based.
 
-**Corporeal Instability (Su)**: A blow from a chaos beast against a living creature can cause a terrible transformation. The creature must succeed on a DC 15 Fortitude save or become a spongy, amorphous mass. Unless the victim manages to control the effect (see below), its shape melts, flows, writhes, and boils. The save DC is Constitution-based.
+A creature cursed with an amorphous body becomes a spongy, shapeless mass. Unless the victim manages to control the effect (see below), its shape constantly melts, flows, writhes, and boils. An affected creature is unable to hold or use any item. Clothing, armor, helmets, and rings become useless. Large items worn or carried—armor, backpacks, even shirts—hamper more than help, reducing the victim's Dexterity score by 4. Speed is reduced to 10 feet or one-quarter normal, whichever is less. The victim gains the amorphous quality, but cannot cast spells or use magic items, and it attacks blindly, unable to distinguish friend from foe (–4 penalty on attack rolls and a 50% miss chance, regardless of the attack roll).
 
-An affected creature is unable to hold or use any item. Clothing, armor, rings, and helmets become useless. Large items worn or carried - armor, backpacks, even shirts - hamper more than help, reducing the victim’s Dexterity score by 4. Soft or misshapen feet and legs reduce speed to 10 feet or one-quarter normal, whichever is less. Searing pain courses along the nerves, so strong that the victim cannot act coherently. The victim cannot cast spells or use magic items, and it attacks blindly, unable to distinguish friend from foe (–4 penalty on attack rolls and a 50% miss chance, regardless of the attack roll).
+A victim can temporarily regain its own shape by taking a standard action to attempt a DC 15 Will save (this check DC does not vary for a chaos beast with different Hit Dice or ability scores). A success reestablishes the creature's normal form for 1 minute. Spells that change the victim's shape (such as *[[rangoric-srd/spells/Alter Self|alter self]]*, *beast shape*, *elemental body*, and *[[rangoric-srd/spells/Polymorph|polymorph]]*) do not remove the curse, but hold the creature in a stable form (which might not be its own form, depending on the spell) and prevent additional Wisdom drain for the duration of the spell; *[[rangoric-srd/spells/Shapechange|shapechange]]* and *[[rangoric-srd/spells/Stoneskin|stoneskin]]* have a similar effect. The victim takes 1 point of Wisdom drain from mental shock every round that it ends its turn in an amorphous shape—upon being drained to 1 Wisdom, further Wisdom drain ceases and the amorphous body effect is permanent until removed via magic (no further number of saving throws can cure the condition at this time).
 
-Each round the victim spends in an amorphous state causes 1 point of Wisdom drain from mental shock. If the victim’s Wisdom score falls to 0, it becomes a chaos beast.
-
-A victim can regain its own shape by taking a standard action to attempt a DC 15 Charisma check (this check DC does not vary for a chaos beast with different Hit Dice or ability scores). A success reestablishes the creature’s normal form for 1 minute. On a failure, the victim can still repeat this check each round until successful.
-
-Corporeal instability is not a disease or a curse and so is hard to remove. A [[rangoric-srd/spells/Shapechange|shapechange]] or [[rangoric-srd/spells/Stoneskin|stoneskin]] spell does not cure an afflicted creature but fixes its form for the duration of the spell. A [[rangoric-srd/spells/Restoration|restoration]], [[rangoric-srd/spells/Heal (Spell)|heal]], or [[rangoric-srd/spells/Restoration, Greater|greater restoration]] spell removes the affliction (a separate restoration is necessary to restore any drained points of Wisdom).
-
-**Immunity to Transformation (Ex)**: No mortal magic can permanently affect or fix a chaos beast’s form. Effects such as polymorphing or [[rangoric-srd/rules/Special Abilities and Conditions#^petrified|petrification]]force the creature into a new shape, but at the start of its next turn it immediately returns to its mutable form as a free action.
+**Resistant to Transformation (Ex)**: Transmutation effects, such as polymorphing or petrification, force a chaos beast into a new shape, but at the start of its next turn, it immediately returns to its normal form as a free action.
