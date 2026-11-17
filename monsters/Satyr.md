@@ -3,63 +3,71 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Fey"
-hit-dice: "5d6+5 (22 hp)"
-initiative: "+1"
+hit-dice: "8d6+16 (44 hp)"
+initiative: "+2"
 speed: "40 ft. (8 squares)"
-armor-class: "15 (+1 Dex, +4 natural), touch 11, flat-footed 14"
-base-attack: "+2"
-cmb: "+2"
-cmd: "14"
-attack: "Head butt +2 melee (1d6) or shortbow +3 ranged (1d6/x3)"
-full-attack: "Head butt +2 melee (1d6) and dagger –3 melee (1d4/19–20); or shortbow +3 ranged (1d6/x3)"
+armor-class: "18 (+2 Dex, +1 dodge, +5 natural), touch 13, flat-footed 15"
+base-attack: "+4"
+cmb: "+6"
+cmd: "18"
+attack: "Dagger +6 melee (1d4+2/19–20) or horns +1 melee (1d6+1) or short bow +6 ranged (1d6/×3)"
+full-attack: "Dagger +6 melee (1d4+2/19–20) and horns +1 melee (1d6+1); or short bow +6 ranged (1d6/×3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Pipes"
-special-qualities: "Damage reduction 5/cold iron, low-light vision"
-saves: "Fort +2, Ref +5, Will +5"
-abilities: "Str 10, Dex 13, Con 12, Int 12, Wis 13, Cha 13"
-skills: "Deception +9, Fieldcraft +9 (+11 aboveground), Imitation +9 (+11 acting), Intimidation +5, Nature +9, Perception +16, Performance (wind instruments) +12, Persuasion +1, Stealth +13"
-skill-ranks: "Deception 5, Fieldcraft 5, Imitation 5, Intimidation 1, Nature 5, Perception 5, Performance (wind instruments) 4, Persuasion 0, Stealth 5"
-feats: "Dodge, Mobility, Skill Focus (Perception) (B)"
+special-attacks: "Pipes, spell-like abilities"
+special-qualities: "Low-light vision, damage reduction 5/cold iron"
+saves: "Fort +4, Ref +8, Will +8"
+abilities: "Str 14, Dex 15, Con 15, Int 12, Wis 14, Cha 19"
+skills: "Deception +15, Fieldcraft +7, Imitation +9, Intimidation +9, Nature +10, Perception +18, Performance (wind instruments) +19, Persuasion +15, Stealth +17"
+skill-ranks: "Deception 8, Fieldcraft 2, Imitation 2, Intimidation 2, Nature 6, Perception 9, Performance (wind instruments) 15, Persuasion 8, Stealth 8"
+feats: "Dodge, Mobility, Skill Focus (Perception), Weapon Finesse"
 environment: "Temperate forests"
-organization: "Solitary, pair, band (3–5), or troop (6–11)"
-challenge-rating: "2 (without pipes) or 4 (with pipes)"
-treasure: "Standard"
+organization: "Solitary, pair, band (3–6), orgy (7–11), or troop (6–11)"
+challenge-rating: 4
+treasure: "Standard (dagger, short bow plus 20 arrows, masterwork panpipes, other treasure)"
 alignment: "Usually chaotic neutral"
 advancement: "6–10 HD (Medium)"
 level-adjustment: "+2"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Satyr|Satyr (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Satyr|Satyr (3.5)]]"
   - "[[individual books/Faeries/creatures/Satyr|Satyr (Faeries)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Satyr
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 5d6+5 (22 hp)
-  - **Initiative**: +1
+  - **Hit Dice**: 8d6+16 (44 hp)
+  - **Initiative**: +2
   - **Speed**: 40 ft. (8 squares)
-  - **Armor Class**: 15 (+1 Dex, +4 natural), touch 11, flat-footed 14
-  - **Base Attack**: +2; **CMB**: +2; **CMD**: 14
-  - **Attack**: Head butt +2 melee (1d6) or shortbow +3 ranged (1d6/x3)
-  - **Full Attack**: Head butt +2 melee (1d6) and dagger –3 melee (1d4/19–20); or shortbow +3 ranged (1d6/x3)
+  - **Armor Class**: 18 (+2 Dex, +1 dodge, +5 natural), touch 13, flat-footed 15
+  - **Base Attack**: +4; **CMB**: +6; **CMD**: 18
+  - **Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d4+2/19–20) or horns +1 melee (1d6+1) or short bow +6 ranged (1d6/×3)
+  - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +6 melee (1d4+2/19–20) and horns +1 melee (1d6+1); or short bow +6 ranged (1d6/×3)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Pipes
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 5/cold iron, low-light vision
-  - **Saves**: Fort +2, Ref +5, Will +5
-  - **Abilities**: Str 10, Dex 13, Con 12, Int 12, Wis 13, Cha 13
-  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +9 (+11 aboveground), [[rangoric-srd/skills/Imitation|Imitation]] +9 (+11 acting), [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Nature|Nature]] +9, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +1, [[rangoric-srd/skills/Stealth|Stealth]] +13
-  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) (B)
+  - **Special Attacks**: Pipes, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron
+  - **Saves**: Fort +4, Ref +8, Will +8
+  - **Abilities**: Str 14, Dex 15, Con 15, Int 12, Wis 14, Cha 19
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +7, [[rangoric-srd/skills/Imitation|Imitation]] +9, [[rangoric-srd/skills/Intimidation|Intimidation]] +9, [[rangoric-srd/skills/Nature|Nature]] +10, [[rangoric-srd/skills/Perception|Perception]] +18, [[rangoric-srd/skills/Performance|Performance]] (wind instruments) +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +15, [[rangoric-srd/skills/Stealth|Stealth]] +17
+  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Temperate forests
-  - **Organization**: Solitary, pair, band (3–5), or troop (6–11)
-  - **Challenge Rating**: 2 (without pipes) or 4 (with pipes)
-  - **Treasure**: Standard
+  - **Organization**: Solitary, pair, band (3–6), orgy (7–11), or troop (6–11)
+  - **Challenge Rating**: 4
+  - **Treasure**: Standard (dagger, short bow plus 20 arrows, masterwork panpipes, other treasure)
   - **Alignment**: Usually chaotic neutral
   - **Advancement**: 6–10 HD (Medium)
   - **Level Adjustment**: +2
+
+Satyrs, known in some regions as fauns, are debauched and hedonistic creatures of the deepest, most primeval parts of the woods. They adore wine, music, and carnal delights, and are renowned as rakes and smooth-talkers, wooing unwary maidens and shepherd boys and leaving a trail of awkward explanations and unplanned pregnancies in their wakes.
+
+Though their bodies are almost always those of attractive and well-built men, much of the satyrs' talent for seduction lies in their talent for music. With the aid of his eponymous pipes, a satyr is capable of weaving a wide variety of melodic spells designed to enchant others and bring them in line with his capricious desires.
+
+In addition to their constant frolicking, satyrs often act as guardians of the creatures in their forest homes, and any who manage to turn the satyr's lust to wrath are likely to find themselves facing down dangerous animals surrounding the faun. Still, while satyrs tend to value their own amusement well above the rights of others, they bear no ill will toward those they seduce. Children born from such encounters are always full-blooded satyrs, and are generally spirited away by their riotous kin soon after birth.
 
 A satyr’s hair is red or chestnut brown, while its hooves and horns are jet black. A satyr is about as tall and heavy as a half-elf.
 
@@ -71,17 +79,15 @@ The keen senses of a satyr make it almost impossible to surprise one in the wild
 
 Once engaged in battle, an unarmed satyr attacks with a powerful head butt. A satyr expecting trouble is likely to be armed with a bow and a dagger and typically looses arrows from hiding, weakening an enemy before closing.
 
-**Pipes (Su)**: Satyrs can play a variety of magical tunes on their pan pipes. Usually, only one satyr in a group carries pipes. When it plays, all creatures within a 60-foot spread (except satyrs) must succeed on a DC 13 Will save or be affected by [[rangoric-srd/spells/Charm Person|charm person]], [[rangoric-srd/spells/Sleep|sleep]], or [[rangoric-srd/spells/Fear|fear]] (caster level 10th; the satyr chooses the tune and its effect).
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): At will—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Dancing Lights|dancing lights]]*, *[[rangoric-srd/spells/Ghost Sound|ghost sound]]* (DC 14), *[[rangoric-srd/spells/Sleep|sleep]]* (DC 15), *[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 17); 1/day—*[[rangoric-srd/spells/Fear|fear]]* (DC 18), *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]*.
 
-In the hands of other beings, these pipes have no special powers. A creature that successfully saves against any of the pipe’s effects cannot be affected by the same set of pipes for 24 hours. The save DC is Charisma-based.
-
-**Skills**: Satyrs have a +4 racial bonus on [[rangoric-srd/skills/Stealth|Stealth]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Performance|Performance]] checks.
+**Pipes (Su)**: A satyr can focus and empower his magic by playing haunting melodies on his panpipes. When he plays, all creatures within a 60-foot radius must make a DC 18 Will save or be affected by *[[rangoric-srd/spells/Charm Person|charm person]]*, *[[rangoric-srd/spells/Fear|fear]]*, *[[rangoric-srd/spells/Sleep|sleep]]*, or *[[rangoric-srd/spells/Suggestion|suggestion]]*, depending on what tune the satyr chooses. A creature that successfully saves against any of the pipes' effects cannot be affected by the same set of pipes for 24 hours, but can still be affected by the satyr's other spell-like abilities as normal. The satyr's use of his pipes does not count toward his uses per day of his spell-like abilities, and if separated from them he may continue to use his standard abilities. The pipes themselves are masterwork, and a satyr can craft a replacement with 1 week of labor. The save DC is Charisma-based.
 
 ### Satyrkin
 
-Related fey are built on the satyr: the [[rangoric-srd/monsters/Faun|faun]] (lesser satyr) and the [[rangoric-srd/monsters/Korred|korred]] (greater satyr).
+Related fey are built on the satyr: the [[rangoric-srd/monsters/Lesser Satyr|lesser satyr]] (also called a faun) and the [[rangoric-srd/monsters/Greater Satyr|greater satyr]] (also called a korred). The [[rangoric-srd/monsters/Faun|faun]] and [[rangoric-srd/monsters/Korred|korred]] are different fey of the same names.
 
-Large populations of fey, such as korreds, were actually once other mortal races magically transformed into fey who have maintained their populations. Some suspect that whole tribes of humans or dwarves or other mortal races fled to the fey realm in the distant past, and the land made them part of it by wholly changing their people to these fey races as they are known today.
+Large populations of fey, such as greater satyrs, were actually once other mortal races magically transformed into fey who have maintained their populations. Some suspect that whole tribes of humans or dwarves or other mortal races fled to the fey realm in the distant past, and the land made them part of it by wholly changing their people to these fey races as they are known today.
 
 ### Satyrs as Characters
 
@@ -95,11 +101,11 @@ Satyr characters possess the following racial traits.
 
   - Low-light vision.
 
-  - Racial Hit Dice: A satyr begins with five levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]], which provide 5d8 Hit Dice, a base attack bonus of +2, and base saving throw bonuses of Fort +1, Ref +4, and Will +4.
+  - Racial Hit Dice: A satyr begins with eight levels of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]], which provide 8d6 Hit Dice, a base attack bonus of +4, and base saving throw bonuses of Fort +2, Ref +6, and Will +6.
 
-  - Racial Skills: A satyr’s fey levels give it skill points equal to 5 x (6 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Performance|Performance]], and [[rangoric-srd/skills/Stealth|Stealth]]. Satyrs have a +4 racial bonus on Stealth, Perception, and Performance checks.
+  - Racial Skills: A satyr’s fey levels give it skill points equal to 8 x (6 + Int modifier). Its class skills are [[rangoric-srd/skills/Deception|Deception]], [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Performance|Performance]], and [[rangoric-srd/skills/Stealth|Stealth]]. Satyrs have a +4 racial bonus on Stealth, Perception, and Performance checks.
 
-  - Racial Feats: A satyr’s fey levels give it two feats. A satyr receives [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) as a bonus feat.
+  - Racial Feats: A satyr’s fey levels give it four feats. A satyr receives [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception) as a bonus feat.
 
   - \+4 natural armor bonus.
 

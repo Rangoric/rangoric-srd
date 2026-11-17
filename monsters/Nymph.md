@@ -3,63 +3,66 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Fey"
-hit-dice: "6d6+6 (27 hp)"
-initiative: "+3"
+hit-dice: "8d6+32 (60 hp)"
+initiative: "+5"
 speed: "30 ft. (6 squares), swim 20 ft."
-armor-class: "17 (+3 Dex, +4 deflection), touch 17, flat-footed 14"
-base-attack: "+3"
-cmb: "+3"
-cmd: "21"
-attack: "Dagger +6 melee (1d4/19–20)"
-full-attack: "Dagger +6 melee (1d4/19–20)"
+armor-class: "23 (+7 deflection, +5 Dex, +1 dodge), touch 23, flat-footed 17"
+base-attack: "+4"
+cmb: "+9"
+cmd: "27"
+attack: "Masterwork dagger +10 melee (1d4/19–20)"
+full-attack: "Masterwork dagger +10 melee (1d4/19–20)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Blinding beauty, spells, spell-like abilities, stunning glance"
-special-qualities: "Damage reduction 10/cold iron, low-light vision, unearthly grace, wild empathy"
-saves: "Fort +7, Ref +12, Will +12"
-abilities: "Str 10, Dex 17, Con 12, Int 16, Wis 17, Cha 19"
-skills: "Animal Handling +13, Athletics +9 (+17 swimming), Escape Artist +12, Fieldcraft +12 (+14 with bindings), Perception +12, Persuasion +13, Sense Motive +12, Stealth +12"
-skill-ranks: "Animal Handling 6, Athletics 6, Escape Artist 6, Fieldcraft 6, Perception 6, Persuasion 6, Sense Motive 6, Stealth 6"
-feats: "Combat Casting, Dodge, Weapon Finesse"
-environment: "Temperate forests"
+special-attacks: "Blinding beauty (30 ft., DC 21), stunning glance, spell-like abilities"
+special-qualities: "Low-light vision, inspiration, unearthly grace, wild empathy +21, damage reduction 10/cold iron"
+saves: "Fort +13, Ref +18, Will +16"
+abilities: "Str 10, Dex 21, Con 18, Int 16, Wis 17, Cha 25"
+skills: "Animal Handling +15, Athletics +19, Escape Artist +16, Medicine +11, Nature +14, Perception +14, Persuasion +18, Sense Motive +14, Stealth +16"
+skill-ranks: "Animal Handling 5, Athletics 16, Escape Artist 8, Medicine 5, Nature 8, Perception 8, Persuasion 8, Sense Motive 8, Stealth 8"
+feats: "Agile Maneuvers, Combat Casting, Dodge, Weapon Finesse"
+environment: "Temperate forest"
 organization: "Solitary"
 challenge-rating: 7
-treasure: "Standard"
+treasure: "Standard (dagger, other treasure)"
 alignment: "Usually chaotic good"
 advancement: "7–12 HD (Medium)"
 level-adjustment: "+7"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Nymph|Nymph (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Nymph|Nymph (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Nymph
 
   - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|Fey]]
-  - **Hit Dice**: 6d6+6 (27 hp)
-  - **Initiative**: +3
+  - **Hit Dice**: 8d6+32 (60 hp)
+  - **Initiative**: +5
   - **Speed**: 30 ft. (6 squares), swim 20 ft.
-  - **Armor Class**: 17 (+3 Dex, +4 deflection), touch 17, flat-footed 14
-  - **Base Attack**: +3; **CMB**: +3; **CMD**: 21
-  - **Attack**: Dagger +6 melee (1d4/19–20)
-  - **Full Attack**: Dagger +6 melee (1d4/19–20)
+  - **Armor Class**: 23 (+7 deflection, +5 Dex, +1 dodge), touch 23, flat-footed 17
+  - **Base Attack**: +4; **CMB**: +9; **CMD**: 27
+  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10 melee (1d4/19–20)
+  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +10 melee (1d4/19–20)
   - **Space/Reach**: 5 ft./5 ft.
-  - **Special Attacks**: Blinding beauty, spells, spell-like abilities, stunning glance
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Damage Reduction|Damage reduction]] 10/cold iron, low-light vision, unearthly grace, wild empathy
-  - **Saves**: Fort +7, Ref +12, Will +12
-  - **Abilities**: Str 10, Dex 17, Con 12, Int 16, Wis 17, Cha 19
-  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +9 (+17 swimming), [[rangoric-srd/skills/Escape Artist|Escape Artist]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +12 (+14 with bindings), [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +12
-  - **Unspent Skill Points**: 6
-  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
-  - **Environment**: Temperate forests
+  - **Special Attacks**: Blinding beauty (30 ft., DC 21), stunning glance, [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], inspiration, unearthly grace, wild empathy +21, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/cold iron
+  - **Saves**: Fort +13, Ref +18, Will +16
+  - **Abilities**: Str 10, Dex 21, Con 18, Int 16, Wis 17, Cha 25
+  - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +15, [[rangoric-srd/skills/Athletics|Athletics]] +19, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +16, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Nature|Nature]] +14, [[rangoric-srd/skills/Perception|Perception]] +14, [[rangoric-srd/skills/Persuasion|Persuasion]] +18, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +14, [[rangoric-srd/skills/Stealth|Stealth]] +16
+  - **Feats**: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+  - **Environment**: Temperate forest
   - **Organization**: Solitary
   - **Challenge Rating**: 7
-  - **Treasure**: Standard
+  - **Treasure**: Standard (dagger, other treasure)
   - **Alignment**: Usually chaotic good
   - **Advancement**: 7–12 HD (Medium)
   - **Level Adjustment**: +7
+
+Many have lost their lives in vain search of the beauty of the nymph, and many more to the madness and obsession their grace has upon minds and bodies unprepared for their companionship. Yet the nymph herself is not a cruel creature—a guardian of nature's purest places and most beautiful realms, she treats those who respect her and her abode with kindness, and may even favor someone who takes her fancy with magical gifts. Yet those who would seek to abuse or harm her or her home quickly find that behind her beauty is a fierce protector more than capable of defending her charge.
 
 A nymph is about the height and weight of a female elf.
 
@@ -67,29 +70,18 @@ Nymphs speak Sylvan and Common.
 
 ### Combat
 
-**Blinding Beauty (Su)**: This ability affects all humanoids within 30 feet of a nymph. Those who look directly at a nymph must succeed on a DC 17 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] permanently as though by the blindness spell. A nymph can suppress or resume this ability as a free action. The save DC is Charisma-based.
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 8th): 1/day—*[[rangoric-srd/spells/Dimension Door|dimension door]]*.
 
-**Spell-Like Abilities**: Caster level 7th.  
+**Spells**: A nymph casts spells as a 7th-level [[rangoric-srd/classes/Druid|druid]], but cannot swap out prepared spells to cast summon spells.
 
-1/day - [[rangoric-srd/spells/Dimension Door|dimension door]].  
+**Spells prepared** (CL 7th): 4th—*[[rangoric-srd/spells/Summon Nature’s Ally IV|summon nature's ally IV]]*; 3rd—*[[rangoric-srd/spells/Call Lightning|call lightning]]* (DC 16), *[[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Water Breathing|water breathing]]*; 2nd—*[[rangoric-srd/spells/Barkskin|barkskin]], [[rangoric-srd/spells/Flame Blade|flame blade]], [[rangoric-srd/spells/Resist Energy|resist energy]], [[rangoric-srd/spells/Tree Shape|tree shape]]*; 1st—*[[rangoric-srd/spells/Charm Animal|charm animal]]* (DC 14), *[[rangoric-srd/spells/Endure Elements|endure elements]], [[rangoric-srd/spells/Entangle|entangle]]* (DC 14), *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]], [[rangoric-srd/spells/Produce Flame|produce flame]]*; 0—*[[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Guidance|guidance]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Stabilize (Spell)|stabilize]]*.
 
-**Spells**: A nymph casts divine spells as a 7th-level druid.  
-*Typical [[rangoric-srd/spells/Druid Spell List|Druid Spells]] Prepared (6/5/4/3/1, save DC 13 + spell level)*:
+**Blinding Beauty (Su)**: This ability affects all humanoids within 30 feet of a nymph. Those who look directly at a nymph must succeed on a DC 21 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] permanently. A nymph can suppress or resume this ability as a free action. The save DC is Charisma-based.
 
-[[rangoric-srd/spells/Druid Spell List|0]] - [[rangoric-srd/spells/Cure Minor Wounds|cure minor wounds]], [[rangoric-srd/spells/Detect Magic|detect magic]], [[rangoric-srd/spells/Flare|flare]], [[rangoric-srd/spells/Guidance|guidance]], [[rangoric-srd/spells/Light|light]], [[rangoric-srd/spells/Resistance|resistance]];
+**Inspiration (Su)**: A nymph can choose an intelligent creature to inspire and serve as a muse by giving that creature some token of her affection (typically a lock of her hair). As long as the nymph retains her favor for this creature and as long as the creature carries the nymph's token, the creature gains a +4 insight bonus on all Will saving throws, Craft checks, and Performance checks. A bard who has a nymph for a muse in this way can use his bardic performance for an additional number of rounds per day equal to his nymph muse's Charisma modifier. The nymph retains a link to her token and its carrier as if she had cast a *[[rangoric-srd/spells/Status|status]]* spell on the carrier. The nymph can end this effect at any time as a free action. A single nymph may only inspire one creature at a time in this manner.
 
-[[rangoric-srd/spells/Druid Spell List|1st]] - [[rangoric-srd/spells/Calm Animals|calm animal]], [[rangoric-srd/spells/Cure Light Wounds|cure light wounds]], [[rangoric-srd/spells/Entangle|entangle]], [[rangoric-srd/spells/Longstrider|longstrider]], [[rangoric-srd/spells/Speak with Animals|speak with animals]];
+**Stunning Glance (Su)**: As a standard action, a nymph can stun a creature within 30 feet with a look. The target must succeed on a DC 21 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 2d4 rounds. The save DC is Charisma-based.
 
-[[rangoric-srd/spells/Druid Spell List|2nd]] - [[rangoric-srd/spells/Barkskin|barkskin]], [[rangoric-srd/spells/Heat Metal|heat metal]], [[rangoric-srd/spells/Spells H to L|lesser restoration]], [[rangoric-srd/spells/Tree Shape|tree shape]];
+**Unearthly Grace (Su)**: A nymph adds her Charisma modifier as a racial bonus on all her saving throws, and as a deflection bonus to her Armor Class.
 
-[[rangoric-srd/spells/Druid Spell List|3rd]] - [[rangoric-srd/spells/Call Lightning|call lightning]], [[rangoric-srd/spells/Cure Moderate Wounds|cure moderate wounds]], [[rangoric-srd/spells/Protection from Evil|protection from energy]];
-
-[[rangoric-srd/spells/Druid Spell List|4th]] - [[rangoric-srd/spells/Rusting Grasp|rusting grasp]].
-
-**Stunning Glance (Su)**: As a standard action, a wrathful nymph can stun a creature within 30 feet with a look. The target creature must succeed on a DC 17 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^stunned|stunned]] for 2d4 rounds. The save DC is Charisma-based.
-
-**Unearthly Grace (Su)**: A nymph adds her Charisma modifier as a bonus on all her saving throws, and as a deflection bonus to her Armor Class. (The statistics block already reflects these bonuses).
-
-**Wild Empathy (Ex)**: This power works like the [[rangoric-srd/classes/Druid|druid’s]] wild empathy class feature, except that a nymph has a +6 racial bonus on the check.
-
-**Skills**: Like any creature with a [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^movement-modes|swim speed]], a nymph is better at swimming.
+**Wild Empathy (Su)**: This works like the druid's wild empathy class feature, except the nymph has a +6 racial bonus on the check. The nymph's effective druid level is equal to her HD for determining her total modifer to the check.

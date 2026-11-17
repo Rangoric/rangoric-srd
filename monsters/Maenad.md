@@ -2,93 +2,79 @@
 srd-type: "monster"
 section: "Monsters"
 size: "Medium"
-creature-type: "Humanoid"
-subtypes:
-  - "Maenad"
-  - "Psionic"
-hit-dice: "1d10+1 (6 hp)"
-initiative: "+0"
+creature-type: "Monstrous Humanoid"
+hit-dice: "9d10+45 (94 hp)"
+initiative: "+8"
 speed: "30 ft. (6 squares)"
-armor-class: "14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14"
-base-attack: "+1"
-cmb: "+2"
-cmd: "12"
-attack: "Longsword +3 melee (1d8+1/19-20) or longbow +1 ranged (1d8/x3)"
-full-attack: "Longsword +3 melee (1d8+1/19-20) or longbow +1 ranged (1d8/x3)"
+armor-class: "20 (+4 Dex, +1 dodge, +5 natural), touch 15, flat-footed 15"
+base-attack: "+9"
+cmb: "+13"
+cmd: "28"
+attack: "Bite +13 melee (1d6+4 plus poison) or claw +13 melee (1d4+4/19–20 plus poison)"
+full-attack: "Bite +13 melee (1d6+4 plus poison) and 2 claws +13 melee (1d4+4/19–20 plus poison)"
 space-reach: "5 ft./5 ft."
-special-attacks: "Psi-like abilities"
-special-qualities: "Outburst"
-saves: "Fort +3, Ref +0, Will -1"
-abilities: "Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8"
-skills: "Athletics +5"
-skill-ranks: "Athletics 1"
-feats: "Weapon Focus (longsword)"
-environment: "Warm hills"
-organization: "Party (2-4), squad (11-20 plus 2 3rd-level sergeants and 1 leader of 3rd-6th level), or band (30-100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)"
-challenge-rating: "1/2"
+special-attacks: "Infectious dance, poison, spell-like abilities"
+special-qualities: "Darkvision 60 ft., mad feast, immunity to calm emotions, resistance to fire 10, spell resistance 19"
+saves: "Fort +8, Ref +10, Will +9 (+13 vs. mind-affecting effects)"
+abilities: "Str 19, Dex 18, Con 20, Int 13, Wis 16, Cha 21"
+skills: "Deception +14, Imitation +11, Intimidation +17, Perception +15, Persuasion +14, Sense Motive +9"
+skill-ranks: "Deception 6, Imitation 3, Intimidation 11, Perception 9, Persuasion 5, Sense Motive 3"
+feats: "Dodge, Improved Critical (claw), Improved Initiative, Power Attack, Skill Focus (Persuasion)"
+environment: "Temperate forests or plains"
+organization: "Solitary, pair, or revel (3–12)"
+challenge-rating: 8
 treasure: "Standard"
-alignment: "Usually neutral"
-advancement: "By character class"
-level-adjustment: "+0"
+alignment: "Usually chaotic evil"
+advancement: "—"
+level-adjustment: "—"
+book: "Bestiary 4"
 based-on:
-  - "[[fantasy srd 3.5/monsters/Maenad|Maenad (3.5)]]"
+  - "[[path srd 3.5/monsters/Maenad|Maenad (PF1)]]"
 status: draft
-change: modified
-pi-review: scanned 2026-10-15
+change: new
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
 # Maenad
 
-Maenad, 1st-Level Warrior      
-Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|Humanoid]] (Maenad, Psionic)      
-**Hit Dice:** 1d10+1 (6 hp)     
-**Initiative:** +0     
-**Speed:** 30 ft. (6 squares)     
-**Armor Class:** 14 (+3 studded leather, +1 light shield), touch 10, flat-footed 14     
-**Base Attack:** +1; **CMB:** +2; **CMD:** 12     
-**Attack:** Longsword +3 melee (1d8+1/19-20) or longbow +1 ranged (1d8/x3)     
-Full **Attack:** Longsword +3 melee (1d8+1/19-20) or longbow +1 ranged (1d8/x3)     
-**Space/Reach:** 5 ft./5 ft.     
-**Special Attacks:** Psi-like abilities     
-**Special Qualities:** Outburst     
-**Saves:** Fort +3, Ref +0, Will -1      
-**Abilities:** Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8     
-**Skills:** [[rangoric-srd/skills/Athletics|Athletics]] +5     
-**Unspent Skill Points**: 1
-**Feats:** [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword)     
-**Environment:** Warm hills     
-**Organization:** Party (2-4), squad (11-20 plus 2 3rd-level sergeants and 1 leader of 3rd-6th level), or band (30-100 plus 150% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)     
-**Challenge Rating:** 1/2     
-Treasure: Standard     
-**Alignment:** Usually neutral     
-**Advancement:** By character class     
-**Level Adjustment:** +0     
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|Monstrous Humanoid]]
+  - **Hit Dice**: 9d10+45 (94 hp)
+  - **Initiative**: +8
+  - **Speed**: 30 ft. (6 squares)
+  - **Armor Class**: 20 (+4 Dex, +1 dodge, +5 natural), touch 15, flat-footed 15
+  - **Base Attack**: +9; **CMB**: +13; **CMD**: 28
+  - **Attack**: Bite +13 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) or claw +13 melee (1d4+4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Full Attack**: Bite +13 melee (1d6+4 plus [[rangoric-srd/monsters/abilities/Poison|poison]]) and 2 claws +13 melee (1d4+4/19–20 plus [[rangoric-srd/monsters/abilities/Poison|poison]])
+  - **Space/Reach**: 5 ft./5 ft.
+  - **Special Attacks**: Infectious dance, [[rangoric-srd/monsters/abilities/Poison|poison]], [[rangoric-srd/monsters/abilities/Spell-Like Abilities|spell-like abilities]]
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., mad feast, [[rangoric-srd/monsters/abilities/Immunity|immunity]] to *[[rangoric-srd/spells/Calm Emotions|calm emotions]]*, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 19
+  - **Saves**: Fort +8, Ref +10, Will +9 (+13 vs. mind-affecting effects)
+  - **Abilities**: Str 19, Dex 18, Con 20, Int 13, Wis 16, Cha 21
+  - **Skills**: [[rangoric-srd/skills/Deception|Deception]] +14, [[rangoric-srd/skills/Imitation|Imitation]] +11, [[rangoric-srd/skills/Intimidation|Intimidation]] +17, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +14, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
+  - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (claw), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion)
+  - **Environment**: Temperate forests or plains
+  - **Organization**: Solitary, pair, or revel (3–12)
+  - **Challenge Rating**: 8
+  - **Treasure**: Standard
+  - **Alignment**: Usually chaotic evil
+  - **Advancement**: —
+  - **Level Adjustment**: —
 
-Maenads typically stand more than 6 feet tall and weigh about 200 pounds; males are the same height as and only marginally heavier than maenad females. Maenads have no facial or body hair, and they prefer heavier clothing and armor if possible.
+Creatures of unbridled violence and decadence, maenads roam the world inviting others to join in on their debased revels. Though they can otherwise pass for humans, maenads appear bestial when raging or engaging in a bloody revel. They consume massive amounts of wine and food, cause fights, and tear their foes limb from limb. They control people's minds, subconsciously inviting them to engage in their bloody festivities and fostering urges that lead to excesses of hunger, lust, anger, and violence.
 
-Maenads speak their own language and Common.
+Maenads can live for thousands of years. They insinuate themselves into normal society before attempting to influence the community. They travel their entire lives in search of creatures to influence into debauchery, cannibalism, and gluttony.
 
-#### Combat
+Maenads speak Common and Sylvan.
 
-Psi-Like **Abilities:** 1/day - [[rangoric-srd/powers/Energy Ray|energy ray]]. A maenad can deal only sonic damage with this ability. Manifester level equal to 1/2 Hit Dice (minimum 1st). The save DC is Charisma-based.
+The psionic humanoid race of the same name is [[rangoric-srd/monsters/Maenad, Psionic|Maenad, Psionic]].
 
-Outburst (Ex): Once per day for up to 4 rounds a maenad can subjugate his mentality. He takes a -2 penalty to Intelligence and Wisdom but gains a +2 bonus to Strength.
+### Combat
 
-### Maenads as Characters
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 12th; concentration +17): At will—*[[rangoric-srd/spells/Murderous Command|murderous command]]* (DC 16), *[[rangoric-srd/spells/Polypurpose Panacea|polypurpose panacea]]*, *[[rangoric-srd/spells/Rage|rage]]*; 3/day—*[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Charm Monster|charm monster]]* (DC 19), *[[rangoric-srd/spells/Mad Hallucination|mad hallucination]]* (DC 17), *[[rangoric-srd/spells/Vampiric Touch|vampiric touch]]*.
 
-Maenad characters possess the following racial traits.
+**Infectious Dance (Su)**: Any creature viewing a dancing maenad from within 60 feet of her must succeed at a DC 19 Will save or be affected as if by *[[rangoric-srd/spells/Confusion|confusion]]* for 1 hour. For every four creatures affected by this ability, the maenad gains 1d10 temporary hit points and her Charisma score increases by 1; these benefits end if the affected creatures break free of the dance.
 
-  - Medium size.
+**Mad Feast (Su)**: As a full-round action, a maenad can conjure a supernatural feast. Creatures eating from this feast gain a +2 bonus to Strength and Constitution, 1d8 temporary hit points, and a +4 morale bonus on fear saves for 12 hours. Creatures affected also take a -4 penalty on Will saving throws (this penalty does not apply on saves against fear), and find it more compelling to engage in debauchery, excess, and violence.
 
-  - Maenad base land speed is 30 feet.
-
-  - Naturally Psionic: Maenads gain 2 bonus power points at 1st level.
-
-  -  Special Attacks (see above): Psi-like abilities.
-
-  - Special Qualities (see above): Outburst.
-
-  - Automatic Languages: Common, Maenad. Bonus Languages: Aquan, Draconic, Dwarven, Elven, Goblin.
-
-  - Level Adjustment: +0.
+**Poison (Ex)**: Bite—injury; save Fort DC 19; frequency 1/round for 6 rounds; effect 1d3 Con; cure 2 consecutive saves.
