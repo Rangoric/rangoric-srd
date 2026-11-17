@@ -20,4 +20,6 @@ tags: [rangoric, rangoric/magic-item]
 
 This device appears to be a normal container for holding burning coals. When a fire is lit in the brazier and the proper summoning words are spoken, a Large fire elemental appears. The summoning words require 1 full round to speak. In all ways the brazier functions as the summon monster VI spell. If brimstone is added, the elemental is Huge instead of Large, and the brazier works as a summon monster VII spell. Only one elemental can be summoned at a time. A new elemental requires a new fire, which cannot be lit until after the first elemental disappears (is dispelled, dismissed, or slain).
 
+The *[[rangoric-srd/magic-items/wondrous-items/Brazier of Conjuring Fire Elementals|brazier of conjuring fire elementals]]* is a lesser version of this item, calling its elementals as weaker summoning spells for a lower price.
+
 Strong conjuration; CL 13th; Craft Wondrous Item, summon monster VI, summon monster VII; Price 100,000 gp; Weight 5 lb.
