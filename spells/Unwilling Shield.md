@@ -6,6 +6,7 @@ level:
   - "Brd 5"
   - "Inq 5"
   - "Mes 5"
+  - "Occ 5"
   - "Psy 6"
   - "Skd 5"
   - "Sor/Wiz 6"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Brd 5, Inq 5, Mes 5, Psy 6, Skd 5, Sor/Wiz 6, Spi 6, Wit 6
+  - **Level**: Brd 5, Inq 5, Mes 5, Occ 5, Psy 6, Skd 5, Sor/Wiz 6, Spi 6, Wit 6
   - **Components**: V, S, M (ruby dust worth 250 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

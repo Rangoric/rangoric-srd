@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Occ 2"
   - "Psy 2"
   - "Sor/Wiz 2"
   - "Spi 2"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Psy 2, Sor/Wiz 2, Spi 2, Wit 2
+  - **Level**: Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

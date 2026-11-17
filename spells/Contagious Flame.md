@@ -6,6 +6,7 @@ descriptor:
   - "Fire"
 level:
   - "Mag 6"
+  - "Occ 6"
   - "Sor/Wiz 6"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Mag 6, Sor/Wiz 6
+  - **Level**: Mag 6, Occ 6, Sor/Wiz 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

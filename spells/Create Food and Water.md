@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Clr 3"
+  - "Occ 3"
   - "Sha 3"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Clr 3, Sha 3
+  - **Level**: Clr 3, Occ 3, Sha 3
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -8,6 +8,7 @@ level:
   - "Apl 2"
   - "Drd 2"
   - "Hun 2"
+  - "Occ 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Poison\]*
 
-  - **Level**: Apl 2, Drd 2, Hun 2, Sor/Wiz 2, Wit 2
+  - **Level**: Apl 2, Drd 2, Hun 2, Occ 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

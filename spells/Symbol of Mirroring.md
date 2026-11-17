@@ -7,6 +7,7 @@ descriptor:
   - "Death"
 level:
   - "Mes 2"
+  - "Occ 2"
   - "Sor/Wiz 2"
   - "Wit 2"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Death\]*
 
-  - **Level**: Mes 2, Sor/Wiz 2, Wit 2
+  - **Level**: Mes 2, Occ 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 100 gp)
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.; see text

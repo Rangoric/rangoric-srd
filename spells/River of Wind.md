@@ -9,6 +9,7 @@ level:
   - "Drd 4"
   - "Hun 4"
   - "Mag 4"
+  - "Occ 4"
   - "Sor/Wiz 4"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Air\]*
 
-  - **Level**: Blr 4, Drd 4, Hun 4, Mag 4, Sor/Wiz 4
+  - **Level**: Blr 4, Drd 4, Hun 4, Mag 4, Occ 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 120 ft.

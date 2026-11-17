@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Occ 4"
   - "Psy 4"
   - "Sor/Wiz 4"
   - "Spi 4"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Psy 4, Sor/Wiz 4, Spi 4, Wit 4
+  - **Level**: Occ 4, Psy 4, Sor/Wiz 4, Spi 4, Wit 4
   - **Components**: V, S, M (a glass or metal marble and a twisted loop of parchment)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -9,6 +9,7 @@ level:
   - "Clr 5"
   - "Drd 5"
   - "Hun 5"
+  - "Occ 5"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Air\]*
 
-  - **Level**: Alc 5, Clr 5, Drd 5, Hun 5
+  - **Level**: Alc 5, Clr 5, Drd 5, Hun 5, Occ 5
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

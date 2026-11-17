@@ -6,6 +6,7 @@ descriptor:
   - "Light"
 level:
   - "Alc 4"
+  - "Occ 4"
   - "Psy 4"
   - "Sor/Wiz 4"
   - "Wit 4"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Light\]*
 
-  - **Level**: Alc 4, Psy 4, Sor/Wiz 4, Wit 4
+  - **Level**: Alc 4, Occ 4, Psy 4, Sor/Wiz 4, Wit 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal and 30 ft. (see text)

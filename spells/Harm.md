@@ -6,6 +6,7 @@ level:
   - "Clr 6"
   - "Destruction 6"
   - "Inq 6"
+  - "Occ 6"
   - "Sha 7"
   - "Spi 6"
   - "Wit 7"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 6, Destruction 6, Inq 6, Sha 7, Spi 6, Wit 7
+  - **Level**: Clr 6, Destruction 6, Inq 6, Occ 6, Sha 7, Spi 6, Wit 7
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

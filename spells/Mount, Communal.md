@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Summoning"
 level:
   - "Mag 2"
+  - "Occ 2"
   - "Sor/Wiz 2"
   - "Sum 2"
   - "SumU 2"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning)*
 
-  - **Level**: Mag 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+  - **Level**: Mag 2, Occ 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S, M (a bit of horse hair)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

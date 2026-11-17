@@ -22,6 +22,8 @@ Transmutation implements can alter the properties of both objects and creatures.
 
 **Implements**: Belt, boots, sandals, vest, weapon.
 
+**Spells**: the transmutation spells on the occultist spell list: [[rangoric-srd/spells/Occultist Spell List#^occ0-transmutation|knacks]], [[rangoric-srd/spells/Occultist Spell List#^occ1-transmutation|1st]], [[rangoric-srd/spells/Occultist Spell List#^occ2-transmutation|2nd]], [[rangoric-srd/spells/Occultist Spell List#^occ3-transmutation|3rd]], [[rangoric-srd/spells/Occultist Spell List#^occ4-transmutation|4th]], [[rangoric-srd/spells/Occultist Spell List#^occ5-transmutation|5th]], [[rangoric-srd/spells/Occultist Spell List#^occ6-transmutation|6th]].
+
 **Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into a transmutation implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
 **Physical Enhancement (Su)**: The implement enhances its bearer’s body. When you invest mental focus in the implement, select a physical ability score. The implement grants a +2 temporary enhancement bonus to that physical ability score for every 3 points of mental focus invested in the implement (to a maximum of +2 at 1st level, plus an additional 2 for every 6 occultist levels you possess). ^transmutation-resonant-power

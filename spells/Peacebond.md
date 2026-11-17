@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Inq 1"
+  - "Occ 1"
   - "Psy 1"
   - "Sor/Wiz 1"
   - "Wit 1"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Inq 1, Psy 1, Sor/Wiz 1, Wit 1
+  - **Level**: Inq 1, Occ 1, Psy 1, Sor/Wiz 1, Wit 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

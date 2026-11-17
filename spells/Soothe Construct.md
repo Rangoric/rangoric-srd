@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Clr 4"
+  - "Occ 4"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Clr 4, Sor/Wiz 5
+  - **Level**: Clr 4, Occ 4, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

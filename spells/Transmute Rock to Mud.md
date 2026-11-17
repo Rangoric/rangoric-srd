@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Drd 5"
   - "Hun 5"
+  - "Occ 5"
   - "Sor/Wiz 5"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Drd 5, Hun 5, Sor/Wiz 5
+  - **Level**: Drd 5, Hun 5, Occ 5, Sor/Wiz 5
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

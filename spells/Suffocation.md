@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Occ 5"
   - "Psy 5"
   - "Sor/Wiz 5"
   - "Spi 5"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Psy 5, Sor/Wiz 5, Spi 5, Wit 5
+  - **Level**: Occ 5, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
   - **Components**: V, S, M (a vial containing a bit of the caster's breath)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

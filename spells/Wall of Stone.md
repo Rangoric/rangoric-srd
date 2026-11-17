@@ -11,6 +11,7 @@ level:
   - "Earth 5"
   - "Hun 6"
   - "Mag 5"
+  - "Occ 5"
   - "Sha 6"
   - "Sor/Wiz 5"
   - "Sum 4"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation) \[Earth\]*
 
-  - **Level**: Clr 5, Drd 6, Earth 5, Hun 6, Mag 5, Sha 6, Sor/Wiz 5, Sum 4, SumU 5
+  - **Level**: Clr 5, Drd 6, Earth 5, Hun 6, Mag 5, Occ 5, Sha 6, Sor/Wiz 5, Sum 4, SumU 5
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

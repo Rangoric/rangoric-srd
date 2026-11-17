@@ -7,6 +7,7 @@ level:
   - "Drd 5"
   - "Hun 5"
   - "Mag 5"
+  - "Occ 5"
   - "Sor/Wiz 5"
   - "Spi 5"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 5, Drd 5, Hun 5, Mag 5, Sor/Wiz 5, Spi 5
+  - **Level**: Clr 5, Drd 5, Hun 5, Mag 5, Occ 5, Sor/Wiz 5, Spi 5
   - **Components**: V, S, M (a dandelion seed)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

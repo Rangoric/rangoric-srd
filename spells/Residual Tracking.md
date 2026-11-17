@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Hun 1"
+  - "Occ 2"
   - "Rgr 1"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Hun 1, Rgr 1
+  - **Level**: Hun 1, Occ 2, Rgr 1
   - **Components**: V, S, M (a bit of plaster)
   - **Casting Time**: 1 minute
   - **Range**: Touch

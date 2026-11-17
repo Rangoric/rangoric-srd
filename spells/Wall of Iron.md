@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Mag 6"
+  - "Occ 6"
   - "Sor/Wiz 6"
   - "Sum 5"
   - "SumU 6"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Mag 6, Sor/Wiz 6, Sum 5, SumU 6
+  - **Level**: Mag 6, Occ 6, Sor/Wiz 6, Sum 5, SumU 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

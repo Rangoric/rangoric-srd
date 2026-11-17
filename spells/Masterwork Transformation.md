@@ -7,6 +7,7 @@ level:
   - "Clr 2"
   - "Drd 2"
   - "Hun 2"
+  - "Occ 2"
   - "Skd 2"
   - "Sor/Wiz 2"
   - "Wit 2"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 2, Clr 2, Drd 2, Hun 2, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Brd 2, Clr 2, Drd 2, Hun 2, Occ 2, Skd 2, Sor/Wiz 2, Wit 2
   - **Components**: V, S, M (see below)
   - **Casting Time**: 1 hour
   - **Range**: Touch

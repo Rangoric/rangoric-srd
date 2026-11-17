@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Drd 1"
   - "Hun 1"
+  - "Occ 1"
   - "Rgr 1"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 1, Hun 1, Rgr 1
+  - **Level**: Drd 1, Hun 1, Occ 1, Rgr 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

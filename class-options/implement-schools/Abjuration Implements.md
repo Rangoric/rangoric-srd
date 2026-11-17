@@ -22,6 +22,8 @@ Abjuration implements are objects associated with protection and wards.
 
 **Implements**: Amulet, armor, bell, bracers, brooch, cloak, holy symbol, shield.
 
+**Spells**: the abjuration spells on the occultist spell list: [[rangoric-srd/spells/Occultist Spell List#^occ0-abjuration|knacks]], [[rangoric-srd/spells/Occultist Spell List#^occ1-abjuration|1st]], [[rangoric-srd/spells/Occultist Spell List#^occ2-abjuration|2nd]], [[rangoric-srd/spells/Occultist Spell List#^occ3-abjuration|3rd]], [[rangoric-srd/spells/Occultist Spell List#^occ4-abjuration|4th]], [[rangoric-srd/spells/Occultist Spell List#^occ5-abjuration|5th]], [[rangoric-srd/spells/Occultist Spell List#^occ6-abjuration|6th]].
+
 **Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into an abjuration implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
 **Warding Talisman (Su)**: The implement wards against adverse effects. Whoever wears (or holds, for bells) the implement gains a +1 resistance bonus on saving throws for every 2 points of mental focus invested in the implement, to a maximum bonus of 1 + 1 for every 4 occultist levels you possess. ^abjuration-resonant-power

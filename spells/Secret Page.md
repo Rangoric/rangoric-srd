@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Brd 3"
   - "Mes 3"
+  - "Occ 3"
   - "Skd 3"
   - "Sor/Wiz 3"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 3, Mes 3, Skd 3, Sor/Wiz 3
+  - **Level**: Brd 3, Mes 3, Occ 3, Skd 3, Sor/Wiz 3
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Touch

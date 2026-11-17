@@ -6,6 +6,7 @@ descriptor:
   - "Shadow"
 level:
   - "Brd 4"
+  - "Occ 3"
   - "Skd 4"
   - "Spi 4"
   - "Wit 4"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Shadow\]*
 
-  - **Level**: Brd 4, Skd 4, Spi 4, Wit 4
+  - **Level**: Brd 4, Occ 3, Skd 4, Spi 4, Wit 4
   - **Components**: V, S, M (a branding iron and a strip of white silk worth 10 gp)
   - **Casting Time**: 10 minutes
   - **Range**: Touch

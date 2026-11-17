@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Blr 1"
+  - "Occ 1"
   - "Psy 1"
   - "Sor/Wiz 1"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 1, Psy 1, Sor/Wiz 1
+  - **Level**: Blr 1, Occ 1, Psy 1, Sor/Wiz 1
   - **Components**: V, S, M (a twig)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -9,6 +9,7 @@ level:
   - "Drd 2"
   - "Hun 2"
   - "Mag 2"
+  - "Occ 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Fire\]*
 
-  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Sor/Wiz 2
+  - **Level**: Blr 2, Drd 2, Hun 2, Mag 2, Occ 2, Sor/Wiz 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

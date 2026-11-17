@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Drd 2"
   - "Hun 2"
+  - "Occ 2"
   - "Rgr 2"
   - "Sor/Wiz 3"
   - "Wit 3"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Drd 2, Hun 2, Rgr 2, Sor/Wiz 3, Wit 3
+  - **Level**: Drd 2, Hun 2, Occ 2, Rgr 2, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a drop of honey)
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -6,6 +6,7 @@ level:
   - "Brd 4"
   - "Clr 4"
   - "Mes 4"
+  - "Occ 4"
   - "Skd 4"
   - "Sor/Wiz 4"
   - "Spi 4"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 4, Clr 4, Mes 4, Skd 4, Sor/Wiz 4, Spi 4
+  - **Level**: Brd 4, Clr 4, Mes 4, Occ 4, Skd 4, Sor/Wiz 4, Spi 4
   - **Components**: V, S, M (a drop of paint and a ball of clay)
   - **Casting Time**: 1 standard action
   - **Range**: 200 ft.

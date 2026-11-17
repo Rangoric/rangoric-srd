@@ -22,6 +22,8 @@ Illusion implements allow the occultist to distort the senses and cloak creature
 
 **Implements**: Crystal, hat, mask, prism, ring.
 
+**Spells**: the illusion spells on the occultist spell list: [[rangoric-srd/spells/Occultist Spell List#^occ0-illusion|knacks]], [[rangoric-srd/spells/Occultist Spell List#^occ1-illusion|1st]], [[rangoric-srd/spells/Occultist Spell List#^occ2-illusion|2nd]], [[rangoric-srd/spells/Occultist Spell List#^occ3-illusion|3rd]], [[rangoric-srd/spells/Occultist Spell List#^occ4-illusion|4th]], [[rangoric-srd/spells/Occultist Spell List#^occ5-illusion|5th]], [[rangoric-srd/spells/Occultist Spell List#^occ6-illusion|6th]].
+
 **Resonant Power**: Each time the occultist invests [[rangoric-srd/classes/Occultist#^occultist-mental-focus|mental focus]] into an illusion implement, the implement grants the following resonant power. The implement’s bearer gains the benefits of this power until the occultist refreshes his focus.
 
 **Distortion (Sp)**: The implement allows its bearer to distort his form and location, protecting him from harm. As a standard action, the bearer can gain a [[rangoric-srd/combat/Combat Modifiers#Concealment|concealment]] miss chance equal to 5% for every point of mental focus invested in the implement (to a maximum of 5% + 5% for every 2 occultist levels you possess) until the next time the bearer makes an attack. If this miss chance reaches 50%, it doesn’t increase further, but the bearer gains all the benefits of [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisibility]]. Creatures with *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, *[[rangoric-srd/spells/True Seeing|true seeing]]*, or similar abilities ignore the miss chance from this ability. ^illusion-resonant-power

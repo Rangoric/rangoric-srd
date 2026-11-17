@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 level:
+  - "Occ 6"
   - "Psy 6"
   - "Sor/Wiz 6"
 components:
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Psy 6, Sor/Wiz 6
+  - **Level**: Occ 6, Psy 6, Sor/Wiz 6
   - **Components**: V, S, M, F
   - **Casting Time**: At least 10 minutes; see text
   - **Range**: Personal

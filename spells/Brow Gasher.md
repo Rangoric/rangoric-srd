@@ -7,6 +7,7 @@ level:
   - "Hun 2"
   - "Inq 2"
   - "Mag 2"
+  - "Occ 2"
   - "Rgr 2"
   - "Sor/Wiz 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Blr 2, Hun 2, Inq 2, Mag 2, Rgr 2, Sor/Wiz 2
+  - **Level**: Blr 2, Hun 2, Inq 2, Mag 2, Occ 2, Rgr 2, Sor/Wiz 2
   - **Components**: : V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

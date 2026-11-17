@@ -6,6 +6,7 @@ level:
   - "Brd 4"
   - "Inq 4"
   - "Mes 4"
+  - "Occ 4"
   - "Psy 4"
   - "Sha 4"
   - "Skd 4"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Inq 4, Mes 4, Psy 4, Sha 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
+  - **Level**: Brd 4, Inq 4, Mes 4, Occ 4, Psy 4, Sha 4, Skd 4, Sor/Wiz 4, Spi 4, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: 40 ft.

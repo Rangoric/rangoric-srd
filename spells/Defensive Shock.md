@@ -8,6 +8,7 @@ level:
   - "Alc 2"
   - "Blr 2"
   - "Mag 2"
+  - "Occ 2"
   - "Sor/Wiz 2"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Electricity\]*
 
-  - **Level**: Alc 2, Blr 2, Mag 2, Sor/Wiz 2
+  - **Level**: Alc 2, Blr 2, Mag 2, Occ 2, Sor/Wiz 2
   - **Components**: V, S, M (a hollow metal sphere)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

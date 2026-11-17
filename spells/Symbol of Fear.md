@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Clr 6"
+  - "Occ 4"
   - "Sor/Wiz 6"
   - "Wit 6"
 saving-throw: "Will negates"
@@ -22,7 +23,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Fear, Mind-Affecting\]*
 
-  - **Level**: Clr 6, Sor/Wiz 6, Wit 6
+  - **Level**: Clr 6, Occ 4, Sor/Wiz 6, Wit 6
   - **Saving Throw**: Will negates
 
 This spell functions like [[rangoric-srd/spells/Symbol of Death|symbol of death]], except that all creatures within 60 feet of the symbol of fear instead become [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]] for 1 round per caster level.

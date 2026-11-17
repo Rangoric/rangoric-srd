@@ -6,6 +6,7 @@ descriptor:
   - "Cold"
 level:
   - "Mag 5"
+  - "Occ 5"
   - "Sha 6"
   - "Sor/Wiz 5"
   - "Water 6"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Cold\]*
 
-  - **Level**: Mag 5, Sha 6, Sor/Wiz 5, Water 6, Wit 6
+  - **Level**: Mag 5, Occ 5, Sha 6, Sor/Wiz 5, Water 6, Wit 6
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

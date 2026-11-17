@@ -4,6 +4,7 @@ section: "Spells"
 school: "Abjuration"
 level:
   - "Inq 1"
+  - "Occ 1"
   - "Sha 1"
   - "Wit 1"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Inq 1, Sha 1, Wit 1
+  - **Level**: Inq 1, Occ 1, Sha 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

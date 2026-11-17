@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Clr 4"
+  - "Occ 3"
   - "Sor/Wiz 4"
   - "Wit 4"
 components:
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Clr 4, Sor/Wiz 4, Wit 4
+  - **Level**: Clr 4, Occ 3, Sor/Wiz 4, Wit 4
   - **Components**: V, S, M (mercury and phosphorous, plus powdered diamond and opal worth a total of 1,000 gp)
 
 ## Saving Throw

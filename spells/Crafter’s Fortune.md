@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Alc 1"
+  - "Occ 1"
   - "Sor/Wiz 1"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 1, Sor/Wiz 1
+  - **Level**: Alc 1, Occ 1, Sor/Wiz 1
   - **Components**: V, S, F (a tool)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -7,6 +7,7 @@ level:
   - "Brd 2"
   - "Fpk 2"
   - "Mes 2"
+  - "Occ 2"
   - "Psy 2"
   - "Skd 2"
   - "Sor/Wiz 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 2, Fpk 2, Mes 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2
+  - **Level**: Brd 2, Fpk 2, Mes 2, Occ 2, Psy 2, Skd 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

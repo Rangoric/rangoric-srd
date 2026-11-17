@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Alc 6"
+  - "Occ 6"
   - "Sor/Wiz 7"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 6, Sor/Wiz 7
+  - **Level**: Alc 6, Occ 6, Sor/Wiz 7
   - **Components**: V, S, M
   - **Casting Time**: 1 round
   - **Range**: Touch

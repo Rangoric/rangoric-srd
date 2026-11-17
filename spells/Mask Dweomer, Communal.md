@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 subschool: "Glamer"
 level:
+  - "Occ 2"
   - "Psy 2"
   - "Wit 2"
 components:
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Psy 2, Wit 2
+  - **Level**: Occ 2, Psy 2, Wit 2
   - **Components**: V, S, M (a piece of gauze)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

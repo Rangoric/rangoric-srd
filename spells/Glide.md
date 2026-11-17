@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Drd 2"
   - "Hun 1"
+  - "Occ 2"
   - "Psy 2"
   - "Rgr 1"
   - "Sha 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Drd 2, Hun 1, Psy 2, Rgr 1, Sha 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
+  - **Level**: Drd 2, Hun 1, Occ 2, Psy 2, Rgr 1, Sha 2, Sor/Wiz 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S, M/DF (a leaf)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

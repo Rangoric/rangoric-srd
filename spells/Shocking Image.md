@@ -9,6 +9,7 @@ level:
   - "Blr 4"
   - "Brd 4"
   - "Mes 4"
+  - "Occ 4"
   - "Skd 4"
   - "Sor/Wiz 4"
 components:
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment) \[Electricity\]*
 
-  - **Level**: Blr 4, Brd 4, Mes 4, Skd 4, Sor/Wiz 4
+  - **Level**: Blr 4, Brd 4, Mes 4, Occ 4, Skd 4, Sor/Wiz 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -7,6 +7,7 @@ level:
   - "Apl 3"
   - "Mag 4"
   - "Mes 3"
+  - "Occ 4"
   - "Psy 4"
   - "Sor/Wiz 4"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Apl 3, Mag 4, Mes 3, Psy 4, Sor/Wiz 4
+  - **Level**: Apl 3, Mag 4, Mes 3, Occ 4, Psy 4, Sor/Wiz 4
   - **Components**: S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

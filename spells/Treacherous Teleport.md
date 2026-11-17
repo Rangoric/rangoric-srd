@@ -7,6 +7,7 @@ descriptor:
   - "Ruse"
 level:
   - "Mag 6"
+  - "Occ 6"
   - "Psy 6"
   - "Sor/Wiz 6"
   - "Spi 6"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation) \[Ruse\]*
 
-  - **Level**: Mag 6, Psy 6, Sor/Wiz 6, Spi 6, Sum 6, SumU 6, Wit 6
+  - **Level**: Mag 6, Occ 6, Psy 6, Sor/Wiz 6, Spi 6, Sum 6, SumU 6, Wit 6
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

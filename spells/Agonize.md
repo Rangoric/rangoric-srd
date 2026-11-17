@@ -7,6 +7,7 @@ descriptor:
   - "Pain"
 level:
   - "Clr 3"
+  - "Occ 3"
   - "Psy 4"
   - "Sor/Wiz 4"
   - "Sum 3"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Evil, Pain\]*
 
-  - **Level**: Clr 3, Psy 4, Sor/Wiz 4, Sum 3, SumU 4
+  - **Level**: Clr 3, Occ 3, Psy 4, Sor/Wiz 4, Sum 3, SumU 4
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

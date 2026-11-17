@@ -8,6 +8,7 @@ level:
   - "Blr 2"
   - "Clr 2"
   - "Mes 2"
+  - "Occ 2"
   - "Psy 2"
   - "Sor/Wiz 2"
   - "Spi 2"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Curse\]*
 
-  - **Level**: Blr 2, Clr 2, Mes 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
+  - **Level**: Blr 2, Clr 2, Mes 2, Occ 2, Psy 2, Sor/Wiz 2, Spi 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

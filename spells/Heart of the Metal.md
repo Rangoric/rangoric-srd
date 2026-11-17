@@ -6,6 +6,7 @@ descriptor:
   - "Earth"
 level:
   - "Mag 3"
+  - "Occ 3"
   - "Sor/Wiz 3"
   - "Wit 3"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Earth\]*
 
-  - **Level**: Mag 3, Sor/Wiz 3, Wit 3
+  - **Level**: Mag 3, Occ 3, Sor/Wiz 3, Wit 3
   - **Components**: V, S, M (a chunk of adamantine worth 100 gp, or a chunk of cold iron or silver worth 20 gp)
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

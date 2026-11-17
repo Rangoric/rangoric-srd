@@ -9,6 +9,7 @@ level:
   - "Drd 4"
   - "Hun 4"
   - "Mag 4"
+  - "Occ 4"
   - "Sha 4"
   - "Sor/Wiz 4"
   - "Water 5"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Cold\]*
 
-  - **Level**: Blr 4, Drd 4, Hun 4, Mag 4, Sha 4, Sor/Wiz 4, Water 5, Wit 4
+  - **Level**: Blr 4, Drd 4, Hun 4, Mag 4, Occ 4, Sha 4, Sor/Wiz 4, Water 5, Wit 4
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

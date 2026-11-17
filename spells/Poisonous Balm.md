@@ -10,6 +10,7 @@ level:
   - "Clr 4"
   - "Drd 5"
   - "Hun 5"
+  - "Occ 4"
   - "Wit 5"
 components:
   - "V"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing) \[Poison, Ruse\]*
 
-  - **Level**: Clr 4, Drd 5, Hun 5, Wit 5
+  - **Level**: Clr 4, Drd 5, Hun 5, Occ 4, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

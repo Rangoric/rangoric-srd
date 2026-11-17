@@ -7,6 +7,7 @@ level:
   - "Brd 1"
   - "Mag 1"
   - "Mes 1"
+  - "Occ 1"
   - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 1, Mag 1, Mes 1, Psy 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Mag 1, Mes 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

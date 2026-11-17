@@ -6,6 +6,7 @@ subschool: "Figment"
 level:
   - "Brd 6"
   - "Mes 6"
+  - "Occ 6"
   - "Psy 6"
   - "Skd 6"
   - "Sor/Wiz 6"
@@ -23,7 +24,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 6, Mes 6, Psy 6, Skd 6, Sor/Wiz 6
+  - **Level**: Brd 6, Mes 6, Occ 6, Psy 6, Skd 6, Sor/Wiz 6
   - **Effect**: Figment that cannot extend beyond a 20-ft. cube + one 10-ft. cube/level (S)
   - **Duration**: Permanent (D)
 
