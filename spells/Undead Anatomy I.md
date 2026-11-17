@@ -8,6 +8,7 @@ level:
   - "Blr 3"
   - "Mag 3"
   - "Sor/Wiz 3"
+  - "Spi 3"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 3, Blr 3, Mag 3, Sor/Wiz 3
+  - **Level**: Alc 3, Blr 3, Mag 3, Sor/Wiz 3, Spi 3
   - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

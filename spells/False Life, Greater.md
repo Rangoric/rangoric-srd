@@ -9,6 +9,7 @@ level:
   - "Psy 4"
   - "Sha 4"
   - "Sor/Wiz 4"
+  - "Spi 4"
   - "Wit 4"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 4, Blr 4, Mes 3, Psy 4, Sha 4, Sor/Wiz 4, Wit 4
+  - **Level**: Alc 4, Blr 4, Mes 3, Psy 4, Sha 4, Sor/Wiz 4, Spi 4, Wit 4
   - **Components**: V, S, M (a drop of blood)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

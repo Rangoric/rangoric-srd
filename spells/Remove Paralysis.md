@@ -8,6 +8,7 @@ level:
   - "Inq 2"
   - "Pal 2"
   - "Sha 2"
+  - "Spi 2"
 components:
   - "V"
   - "S"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Clr 2, Inq 2, Pal 2, Sha 2
+  - **Level**: Clr 2, Inq 2, Pal 2, Sha 2, Spi 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

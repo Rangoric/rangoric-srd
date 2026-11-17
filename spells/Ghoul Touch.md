@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Blr 2"
   - "Sor/Wiz 2"
+  - "Spi 2"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Blr 2, Sor/Wiz 2
+  - **Level**: Blr 2, Sor/Wiz 2, Spi 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

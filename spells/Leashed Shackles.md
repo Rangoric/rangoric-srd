@@ -8,6 +8,7 @@ level:
   - "Inq 4"
   - "Psy 6"
   - "Sor/Wiz 6"
+  - "Spi 6"
 components:
   - "V"
   - "S"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation \[Force\]*
 
-  - **Level**: Inq 4, Psy 6, Sor/Wiz 6
+  - **Level**: Inq 4, Psy 6, Sor/Wiz 6, Spi 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. +10 ft./level)

@@ -6,6 +6,7 @@ level:
   - "Alc 5"
   - "Psy 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Sum 4"
   - "SumU 5"
   - "Wit 5"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 5, Psy 5, Sor/Wiz 5, Sum 4, SumU 5, Wit 5
+  - **Level**: Alc 5, Psy 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Wit 5
   - **Components**: V
   - **Casting Time**: 10 minutes
   - **Range**: Personal

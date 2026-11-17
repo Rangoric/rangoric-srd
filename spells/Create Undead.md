@@ -10,6 +10,7 @@ level:
   - "Evil 6"
   - "Sha 6"
   - "Sor/Wiz 6"
+  - "Spi 6"
 components:
   - "V"
   - "S"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 6, Death 6, Evil 6, Sha 6, Sor/Wiz 6
+  - **Level**: Clr 6, Death 6, Evil 6, Sha 6, Sor/Wiz 6, Spi 6
   - **Components**: V, S, M
   - **Casting Time**: 1 hour
   - **Range**: Close (25 ft. + 5 ft./2 levels)

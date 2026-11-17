@@ -12,6 +12,7 @@ level:
   - "Sha 3"
   - "Skd 2"
   - "Sor/Wiz 2"
+  - "Spi 3"
   - "Wit 2"
 components:
   - "V"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Apl 2, Blr 2, Brd 2, Clr 3, Mes 2, Psy 2, Sha 3, Skd 2, Sor/Wiz 2, Wit 2
+  - **Level**: Apl 2, Blr 2, Brd 2, Clr 3, Mes 2, Psy 2, Sha 3, Skd 2, Sor/Wiz 2, Spi 3, Wit 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

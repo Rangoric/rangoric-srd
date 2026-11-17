@@ -9,6 +9,7 @@ level:
   - "Clr 5"
   - "Death 5"
   - "Sha 6"
+  - "Spi 5"
   - "Wit 6"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Death\]*
 
-  - **Level**: Apl 4, Clr 5, Death 5, Sha 6, Wit 6
+  - **Level**: Apl 4, Clr 5, Death 5, Sha 6, Spi 5, Wit 6
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

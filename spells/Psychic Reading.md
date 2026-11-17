@@ -9,6 +9,7 @@ level:
   - "Psy 1"
   - "Skd 2"
   - "Sor/Wiz 2"
+  - "Spi 1"
 components:
   - "V"
 casting-time: "1 standard action"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Inq 2, Mes 1, Psy 1, Skd 2, Sor/Wiz 2
+  - **Level**: Brd 2, Inq 2, Mes 1, Psy 1, Skd 2, Sor/Wiz 2, Spi 1
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

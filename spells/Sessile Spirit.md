@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Clr 5"
   - "Inq 4"
+  - "Spi 3"
   - "Wit 5"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 5, Inq 4, Wit 5
+  - **Level**: Clr 5, Inq 4, Spi 3, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

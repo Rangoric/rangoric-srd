@@ -10,6 +10,7 @@ level:
   - "Psy 0"
   - "Skd 0"
   - "Sor/Wiz 0"
+  - "Spi 0"
   - "Sum 0"
   - "SumU 0"
   - "Wit 0"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation \[Language-Dependent\]*
 
-  - **Level**: Brd 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0, Sum 0, SumU 0, Wit 0
+  - **Level**: Brd 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

@@ -6,6 +6,7 @@ level:
   - "Clr 4"
   - "Magic 4"
   - "Sha 4"
+  - "Spi 4"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Clr 4, Magic 4, Sha 4
+  - **Level**: Clr 4, Magic 4, Sha 4, Spi 4
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: Touch

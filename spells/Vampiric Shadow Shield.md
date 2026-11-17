@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Mag 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
 components:
   - "V"
   - "S"
@@ -25,7 +26,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Mag 5, Sor/Wiz 5
+  - **Level**: Mag 5, Sor/Wiz 5, Spi 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Creation"
 level:
   - "Sor/Wiz 4"
+  - "Spi 4"
   - "Sum 3"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Creation)*
 
-  - **Level**: Sor/Wiz 4, Sum 3
+  - **Level**: Sor/Wiz 4, Spi 4, Sum 3
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: 0 ft.

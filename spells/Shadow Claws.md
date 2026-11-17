@@ -12,6 +12,7 @@ level:
   - "Mag 2"
   - "Skd 2"
   - "Sor/Wiz 2"
+  - "Spi 2"
 components:
   - "V"
   - "S"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Shadow) \[Shadow\]*
 
-  - **Level**: Apl 1, Blr 2, Brd 2, Mag 2, Skd 2, Sor/Wiz 2
+  - **Level**: Apl 1, Blr 2, Brd 2, Mag 2, Skd 2, Sor/Wiz 2, Spi 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

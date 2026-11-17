@@ -7,6 +7,7 @@ level:
   - "Alc 5"
   - "Mag 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
 components:
   - "V"
   - "S"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 5, Mag 5, Sor/Wiz 5
+  - **Level**: Alc 5, Mag 5, Sor/Wiz 5, Spi 5
   - **Components**: V, S, M (a piece of the creature whose form you plan to assume)
   - **Casting Time**: 1 standard action
   - **Range**: Personal

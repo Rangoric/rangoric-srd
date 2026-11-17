@@ -9,6 +9,7 @@ level:
   - "Psy 6"
   - "Skd 4"
   - "Sor/Wiz 6"
+  - "Spi 6"
   - "Wit 6"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 4, Inq 6, Knowledge 7, Psy 6, Skd 4, Sor/Wiz 6, Wit 6
+  - **Level**: Brd 4, Inq 6, Knowledge 7, Psy 6, Skd 4, Sor/Wiz 6, Spi 6, Wit 6
   - **Components**: V, S, M, F
   - **Casting Time**: See text
   - **Range**: Personal

@@ -12,6 +12,7 @@ level:
   - "Psy 4"
   - "Skd 5"
   - "Sor/Wiz 5"
+  - "Spi 5"
 components:
   - "V"
   - "S"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[Mind-Affecting\]*
 
-  - **Level**: Alc 5, Brd 5, Mes 4, Psy 4, Skd 5, Sor/Wiz 5
+  - **Level**: Alc 5, Brd 5, Mes 4, Psy 4, Skd 5, Sor/Wiz 5, Spi 5
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Unlimited

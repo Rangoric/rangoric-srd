@@ -7,6 +7,7 @@ level:
   - "Clr 4"
   - "Psy 4"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Sum 5"
   - "SumU 5"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 5, Clr 4, Psy 4, Sor/Wiz 5, Sum 5, SumU 5
+  - **Level**: Alc 5, Clr 4, Psy 4, Sor/Wiz 5, Spi 5, Sum 5, SumU 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

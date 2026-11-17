@@ -7,6 +7,7 @@ level:
   - "Mes 4"
   - "Psy 4"
   - "Sor/Wiz 5"
+  - "Spi 5"
   - "Wit 5"
 components:
   - "V"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Inq 5, Mes 4, Psy 4, Sor/Wiz 5, Wit 5
+  - **Level**: Inq 5, Mes 4, Psy 4, Sor/Wiz 5, Spi 5, Wit 5
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

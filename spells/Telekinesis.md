@@ -6,6 +6,7 @@ level:
   - "Mag 5"
   - "Psy 4"
   - "Sor/Wiz 5"
+  - "Spi 5"
 components:
   - "V"
   - "S"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Mag 5, Psy 4, Sor/Wiz 5
+  - **Level**: Mag 5, Psy 4, Sor/Wiz 5, Spi 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

@@ -7,6 +7,7 @@ level:
   - "Blr 2"
   - "Psy 2"
   - "Sor/Wiz 2"
+  - "Spi 2"
   - "Sum 2"
   - "SumU 2"
 components:
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 2, Blr 2, Psy 2, Sor/Wiz 2, Sum 2, SumU 2
+  - **Level**: Alc 2, Blr 2, Psy 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -5,6 +5,7 @@ school: "Necromancy"
 level:
   - "Psy 2"
   - "Sor/Wiz 2"
+  - "Spi 2"
   - "Wit 2"
 components:
   - "V"
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Psy 2, Sor/Wiz 2, Wit 2
+  - **Level**: Psy 2, Sor/Wiz 2, Spi 2, Wit 2
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Medium (100 ft. + 10 ft./level)

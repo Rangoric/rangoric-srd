@@ -8,6 +8,7 @@ level:
   - "Psy 6"
   - "Skd 6"
   - "Sor/Wiz 6"
+  - "Spi 6"
   - "Wit 6"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 6, Brd 6, Psy 6, Skd 6, Sor/Wiz 6, Wit 6
+  - **Level**: Alc 6, Brd 6, Psy 6, Skd 6, Sor/Wiz 6, Spi 6, Wit 6
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

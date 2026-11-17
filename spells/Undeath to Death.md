@@ -6,6 +6,7 @@ level:
   - "Clr 6"
   - "Inq 6"
   - "Sor/Wiz 6"
+  - "Spi 6"
 components:
   - "V"
   - "S"
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 6, Inq 6, Sor/Wiz 6
+  - **Level**: Clr 6, Inq 6, Sor/Wiz 6, Spi 6
   - **Components**: V, S, M/DF
   - **Area**: Several undead creatures within a 40-ft.-radius burst
   - **Saving Throw**: Will negates

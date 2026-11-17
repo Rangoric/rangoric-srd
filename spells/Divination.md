@@ -8,6 +8,7 @@ level:
   - "Knowledge 4"
   - "Psy 4"
   - "Sha 4"
+  - "Spi 4"
   - "Wit 4"
 components:
   - "V"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 4, Inq 4, Knowledge 4, Psy 4, Sha 4, Wit 4
+  - **Level**: Clr 4, Inq 4, Knowledge 4, Psy 4, Sha 4, Spi 4, Wit 4
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Personal

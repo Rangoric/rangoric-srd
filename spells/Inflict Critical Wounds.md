@@ -7,6 +7,7 @@ level:
   - "Destruction 4"
   - "Inq 4"
   - "Sha 4"
+  - "Spi 4"
   - "Wit 5"
 based-on:
   - "[[fantasy srd 3.5/spells/Inflict Critical Wounds|Inflict Critical Wounds (3.5)]]"
@@ -20,6 +21,6 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 4, Destruction 4, Inq 4, Sha 4, Wit 5
+  - **Level**: Clr 4, Destruction 4, Inq 4, Sha 4, Spi 4, Wit 5
 
 This spell functions like [[rangoric-srd/spells/Inflict Light Wounds|inflict light wounds]], except that you deal 4d8 points of damage +1 point per caster level (maximum +20).

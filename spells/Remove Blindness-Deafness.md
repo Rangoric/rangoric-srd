@@ -9,6 +9,7 @@ level:
   - "Mes 3"
   - "Pal 3"
   - "Sha 3"
+  - "Spi 3"
   - "Wit 3"
 components:
   - "V"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Healing)*
 
-  - **Level**: Alc 3, Clr 3, Mes 3, Pal 3, Sha 3, Wit 3
+  - **Level**: Alc 3, Clr 3, Mes 3, Pal 3, Sha 3, Spi 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

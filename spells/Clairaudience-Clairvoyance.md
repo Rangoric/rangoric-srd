@@ -11,6 +11,7 @@ level:
   - "Sha 3"
   - "Skd 3"
   - "Sor/Wiz 3"
+  - "Spi 3"
   - "Wit 3"
 components:
   - "V"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination (Scrying)*
 
-  - **Level**: Brd 3, Knowledge 3, Mes 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Wit 3
+  - **Level**: Brd 3, Knowledge 3, Mes 3, Psy 3, Sha 3, Skd 3, Sor/Wiz 3, Spi 3, Wit 3
   - **Components**: V, S, F/DF
   - **Casting Time**: 10 minutes
   - **Range**: Long (400 ft. + 40 ft./level)
