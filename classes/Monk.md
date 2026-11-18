@@ -75,7 +75,7 @@ For the truly exemplary, martial skill transcends the battlefield—it is a life
 
 All of the following are class features of the monk.
 
-**Weapon and Armor Proficiency**: Monks are proficient with club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, and sling. Monks are not proficient with any armor or shields. When wearing armor, using a shield, or carrying a medium or heavy load, a monk loses her AC bonus, as well as her fast movement and flurry of blows abilities.
+**Weapon and Armor Proficiency**: Monks are proficient with club, crossbow (light or heavy), dagger, handaxe, javelin, kama, nunchaku, quarterstaff, sai, shuriken, siangham, and sling. Monks are not proficient with any armor or shields. When wearing armor, using a shield, or carrying a medium or heavy load, a monk loses her AC bonus, as well as her fast movement and flurry of blows abilities. ^monk-weapon-and-armor-proficiency
 
 **AC Bonus (Ex)**: When unarmored and unencumbered, the monk adds her Wisdom bonus (if any) to her AC and her CMD. In addition, a monk gains a +1 bonus to AC and CMD at 4th level. This bonus increases by 1 for every four monk levels thereafter, up to a maximum of +5 at 20th level. ^monk-ac-bonus
 
@@ -151,6 +151,10 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 **Empty Body (Su)**: At 19th level, a monk gains the ability to assume an ethereal state for 1 round per monk level per day, as though using the spell *[[rangoric-srd/spells/Etherealness|etherealness]]*. She may go ethereal on a number of different occasions during any single day, as long as the total number of rounds spent in an ethereal state does not exceed her monk level. She can also assume an ethereal state for 1 minute as a move action that consumes 3 points from her ki pool; this only affects the monk and cannot be used to make other creatures ethereal. ^monk-empty-body
 
 **Perfect Self**: At 20th level, a monk becomes a magical creature. She is forevermore treated as an outsider rather than as a humanoid (or whatever the monk’s creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/chaotic, which allows her to ignore the first 10 points of damage from any attack made by a nonchaotic weapon or by any natural attack made by a creature that doesn’t have similar damage reduction. Unlike other outsiders, the monk can still be brought back from the dead as if she were a member of her previous creature type. ^monk-perfect-self
+
+**Archetypes**: A monk can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The monk’s archetypes, with what each replaces: ^monk-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Monk]]
 
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The monk’s class bonuses, by race: ^monk-class-bonuses
 
