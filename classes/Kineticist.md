@@ -115,3 +115,7 @@ At 15th level, the kineticist can either select a new element or expand her unde
 **Omnikinesis (Su)**: At 20th level, a kineticist transcends the distinction between the different elements and can bend all creation to her will. By accepting 1 point of burn (in addition to any burn requirement of the kinetic blast she chooses), she can use any blast wild talent she doesn’t know. By accepting 1 point of burn as a standard action, she can change any of her wild talents into any other wild talent of the same category (such as simple blasts or defense) for 24 hours, ignoring any elemental requirements or restrictions (but not any other requirements or restrictions). ^kineticist-omnikinesis
 
 **Elements and Wild Talents**: The elements are in [[rangoric-srd/class-options/elements/Elements|Elements]], each with its own note, and the wild talents in [[rangoric-srd/class-options/wild-talents/Wild Talents|Wild Talents]], one note each.
+
+**Archetypes**: A kineticist can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The kineticist’s archetypes, with what each replaces: ^kineticist-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Kineticist]]

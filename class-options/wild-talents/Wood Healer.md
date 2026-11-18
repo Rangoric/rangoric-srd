@@ -30,6 +30,6 @@ tags: [rangoric, rangoric/class-option]
 
 This functions as [[rangoric-srd/class-options/wild-talents/Kinetic Healer|kinetic healer]], but you must base the amount of healing on your [[rangoric-srd/class-options/wild-talents/Positive Blast|positive blast]], not [[rangoric-srd/class-options/wild-talents/Wood Blast|wood blast]].
 
-A phytokineticist with positive blast as her first blast qualifies for the kinetic chirurgeon archetype and gains this utility talent instead of kinetic healer.
+A phytokineticist with positive blast as her first blast qualifies for the [[rangoric-srd/class-options/archetypes/kineticist/Kinetic Chirurgeon (Archetype)|kinetic chirurgeon]] archetype and gains this utility talent instead of kinetic healer.
 
 This wild talent counts as kinetic healer for prerequisites for selecting other kineticist wild talents.
