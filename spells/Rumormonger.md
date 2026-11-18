@@ -5,6 +5,7 @@ school: "Divination"
 level:
   - "Brd 2"
   - "Inq 2"
+  - "Med 1"
   - "Psy 3"
   - "Skd 2"
 components:
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 2, Inq 2, Psy 3, Skd 2
+  - **Level**: Brd 2, Inq 2, Med 1, Psy 3, Skd 2
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

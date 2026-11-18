@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 0"
+  - "Med 0"
   - "Mes 0"
   - "Psy 0"
   - "Skd 0"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0
+  - **Level**: Brd 0, Med 0, Mes 0, Psy 0, Skd 0, Sor/Wiz 0
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Personal

@@ -6,6 +6,7 @@ descriptor:
   - "Evil"
 level:
   - "Clr 1"
+  - "Med 1"
   - "Spi 1"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Evil\]*
 
-  - **Level**: Clr 1, Spi 1
+  - **Level**: Clr 1, Med 1, Spi 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: 30 ft.

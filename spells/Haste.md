@@ -7,6 +7,7 @@ level:
   - "Blr 3"
   - "Brd 3"
   - "Mag 3"
+  - "Med 2"
   - "Msl 3"
   - "Occ 3"
   - "Psy 3"
@@ -37,7 +38,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 3, Blr 3, Brd 3, Mag 3, Msl 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 2, SumU 3
+  - **Level**: Alc 3, Blr 3, Brd 3, Mag 3, Med 2, Msl 3, Occ 3, Psy 3, Skd 3, Sor/Wiz 3, Spi 3, Sum 2, SumU 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -9,6 +9,7 @@ level:
   - "Apl 1"
   - "Brd 1"
   - "Clr 1"
+  - "Med 1"
   - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -38,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Summoning) \[see text\]*
 
-  - **Level**: Apl 1, Brd 1, Clr 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Wit 1
+  - **Level**: Apl 1, Brd 1, Clr 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Wit 1
   - **Components**: V, S, F/DF
   - **Casting Time**: 1 round
   - **Range**: Close (25 ft. + 5 ft./2 levels)

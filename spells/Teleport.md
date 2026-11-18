@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Teleportation"
 level:
   - "Mag 5"
+  - "Med 4"
   - "Occ 5"
   - "Psy 5"
   - "Sor/Wiz 5"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Mag 5, Occ 5, Psy 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Travel 5, Wit 5
+  - **Level**: Mag 5, Med 4, Occ 5, Psy 5, Sor/Wiz 5, Spi 5, Sum 4, SumU 5, Travel 5, Wit 5
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal and touch

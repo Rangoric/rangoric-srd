@@ -9,6 +9,7 @@ descriptor:
 level:
   - "Clr 5"
   - "Inq 5"
+  - "Med 4"
   - "Mes 4"
   - "Occ 5"
   - "Psy 5"
@@ -26,7 +27,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Language-Dependent, Mind-Affecting\]*
 
-  - **Level**: Clr 5, Inq 5, Mes 4, Occ 5, Psy 5
+  - **Level**: Clr 5, Inq 5, Med 4, Mes 4, Occ 5, Psy 5
   - **Targets**: One creature/level, no two of which can be more than 30 ft. apart
   - **Duration**: 1 round/level
 

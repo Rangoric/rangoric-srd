@@ -6,6 +6,7 @@ level:
   - "Alc 1"
   - "Brd 1"
   - "Magic 2"
+  - "Med 1"
   - "Occ 1"
   - "Psy 1"
   - "Skd 1"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 1, Brd 1, Magic 2, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Wit 1
+  - **Level**: Alc 1, Brd 1, Magic 2, Med 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1, Wit 1
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 hour
   - **Range**: Touch

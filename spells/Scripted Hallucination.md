@@ -8,6 +8,7 @@ descriptor:
 level:
   - "Brd 5"
   - "Mag 5"
+  - "Med 4"
   - "Mes 5"
   - "Occ 5"
   - "Psy 5"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[MindAffecting\]*
 
-  - **Level**: Brd 5, Mag 5, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5
+  - **Level**: Brd 5, Mag 5, Med 4, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Long (400 ft. + 40 ft./level)

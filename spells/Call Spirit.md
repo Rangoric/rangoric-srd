@@ -5,6 +5,7 @@ school: "Conjuration"
 subschool: "Calling"
 level:
   - "Clr 5"
+  - "Med 3"
   - "Spi 5"
 components:
   - "V"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling)*
 
-  - **Level**: Clr 5, Spi 5
+  - **Level**: Clr 5, Med 3, Spi 5
   - **Components**: V, S
   - **Casting Time**: 10 minutes
   - **Range**: 10 ft.

@@ -9,6 +9,7 @@ level:
   - "Brd 0"
   - "Inq 0"
   - "Mag 0"
+  - "Med 0"
   - "Mes 0"
   - "Occ 0"
   - "Psy 0"
@@ -41,7 +42,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 0, Inq 0, Mag 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
+  - **Level**: Brd 0, Inq 0, Mag 0, Med 0, Mes 0, Occ 0, Psy 0, Sha 0, Skd 0, Sor/Wiz 0, Spi 0, Sum 0, SumU 0, Wit 0
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

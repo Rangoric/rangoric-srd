@@ -7,6 +7,7 @@ school: "Divination"
 level:
   - "Alc 3"
   - "Brd 3"
+  - "Med 2"
   - "Psy 2"
   - "Skd 3"
   - "Sor/Wiz 4"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 3, Brd 3, Psy 2, Skd 3, Sor/Wiz 4
+  - **Level**: Alc 3, Brd 3, Med 2, Psy 2, Skd 3, Sor/Wiz 4
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

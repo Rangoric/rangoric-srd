@@ -7,6 +7,7 @@ school: "Divination"
 descriptor:
   - "MindAffecting"
 level:
+  - "Med 3"
   - "Mes 4"
   - "Occ 4"
   - "Psy 4"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[MindAffecting\]*
 
-  - **Level**: Mes 4, Occ 4, Psy 4, Sor/Wiz 5
+  - **Level**: Med 3, Mes 4, Occ 4, Psy 4, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 minute
   - **Range**: Close (25 ft. + 5 ft./2 levels)

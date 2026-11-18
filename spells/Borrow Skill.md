@@ -4,6 +4,7 @@ section: "Spells"
 school: "Transmutation"
 level:
   - "Brd 1"
+  - "Med 1"
   - "Psy 1"
   - "Skd 1"
 components:
@@ -27,7 +28,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Brd 1, Psy 1, Skd 1
+  - **Level**: Brd 1, Med 1, Psy 1, Skd 1
   - **Components**: S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

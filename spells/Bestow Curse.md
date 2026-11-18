@@ -9,6 +9,7 @@ level:
   - "Blr 4"
   - "Clr 3"
   - "Fpk 3"
+  - "Med 2"
   - "Mes 3"
   - "Msl 3"
   - "Occ 3"
@@ -38,7 +39,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Curse\]*
 
-  - **Level**: Apl 3, Blr 4, Clr 3, Fpk 3, Mes 3, Msl 3, Occ 3, Sha 3, Sor/Wiz 4, Spi 3, Wit 3
+  - **Level**: Apl 3, Blr 4, Clr 3, Fpk 3, Med 2, Mes 3, Msl 3, Occ 3, Sha 3, Sor/Wiz 4, Spi 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

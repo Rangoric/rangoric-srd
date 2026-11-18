@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Necromancy"
 level:
+  - "Med 4"
   - "Mes 5"
   - "Occ 4"
   - "Psy 5"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Mes 5, Occ 4, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
+  - **Level**: Med 4, Mes 5, Occ 4, Psy 5, Sor/Wiz 5, Spi 5, Wit 5
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

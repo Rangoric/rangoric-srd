@@ -5,6 +5,7 @@ school: "Divination"
 descriptor:
   - "MindAffecting"
 level:
+  - "Med 4"
   - "Mes 4"
   - "Psy 5"
   - "Sor/Wiz 6"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[MindAffecting\]*
 
-  - **Level**: Mes 4, Psy 5, Sor/Wiz 6, Spi 6
+  - **Level**: Med 4, Mes 4, Psy 5, Sor/Wiz 6, Spi 6
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Personal

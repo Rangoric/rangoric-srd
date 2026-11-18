@@ -4,6 +4,7 @@ section: "Spells"
 school: "Necromancy"
 level:
   - "Clr 2"
+  - "Med 2"
   - "Occ 3"
   - "Sha 2"
   - "Sor/Wiz 3"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Clr 2, Occ 3, Sha 2, Sor/Wiz 3, Spi 2, Wit 2
+  - **Level**: Clr 2, Med 2, Occ 3, Sha 2, Sor/Wiz 3, Spi 2, Wit 2
   - **Components**: V, S, M/DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

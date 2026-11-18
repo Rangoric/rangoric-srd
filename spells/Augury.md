@@ -4,6 +4,7 @@ section: "Spells"
 school: "Divination"
 level:
   - "Clr 2"
+  - "Med 2"
   - "Occ 2"
   - "Psy 2"
   - "Sha 2"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 2, Occ 2, Psy 2, Sha 2, Spi 2, Wit 2
+  - **Level**: Clr 2, Med 2, Occ 2, Psy 2, Sha 2, Spi 2, Wit 2
   - **Components**: V, S, M, F
   - **Casting Time**: 1 minute
   - **Range**: Personal

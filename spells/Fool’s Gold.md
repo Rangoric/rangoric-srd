@@ -4,6 +4,7 @@ section: "Spells"
 school: "Illusion"
 level:
   - "Brd 1"
+  - "Med 1"
   - "Psy 1"
   - "Skd 1"
   - "Sor/Wiz 1"
@@ -30,7 +31,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion*
 
-  - **Level**: Brd 1, Psy 1, Skd 1, Sor/Wiz 1
+  - **Level**: Brd 1, Med 1, Psy 1, Skd 1, Sor/Wiz 1
   - **Components**: V, S, M (a copper piece or silver piece)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

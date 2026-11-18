@@ -7,6 +7,7 @@ level:
   - "Brd 4"
   - "Drd 5"
   - "Hun 4"
+  - "Med 3"
   - "Rgr 4"
   - "Skd 4"
 components:
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Calling)*
 
-  - **Level**: Brd 4, Drd 5, Hun 4, Rgr 4, Skd 4
+  - **Level**: Brd 4, Drd 5, Hun 4, Med 3, Rgr 4, Skd 4
   - **Components**: V, S, M, DF (offerings worth 500 gp plus payment, see text)
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)
