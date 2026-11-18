@@ -7,6 +7,7 @@ level:
   - "Drd 0"
   - "Hun 0"
   - "Inq 0"
+  - "Med 0"
   - "Occ 0"
   - "Sha 0"
   - "Spi 0"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 0, Drd 0, Hun 0, Inq 0, Occ 0, Sha 0, Spi 0, Sum 0, SumU 0, Tot 0, Wit 0
+  - **Level**: Clr 0, Drd 0, Hun 0, Inq 0, Med 0, Occ 0, Sha 0, Spi 0, Sum 0, SumU 0, Tot 0, Wit 0
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -6,6 +6,7 @@ level:
   - "Alc 5"
   - "Clr 4"
   - "Inq 4"
+  - "Med 3"
   - "Mes 3"
   - "Occ 4"
   - "Psy 4"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Alc 5, Clr 4, Inq 4, Mes 3, Occ 4, Psy 4, Sha 4, Sor/Wiz 5, Spi 5, Sum 4, SumU 5
+  - **Level**: Alc 5, Clr 4, Inq 4, Med 3, Mes 3, Occ 4, Psy 4, Sha 4, Sor/Wiz 5, Spi 5, Sum 4, SumU 5
   - **Components**: V, S, M/DF
   - **Casting Time**: 10 minutes
   - **Range**: See text

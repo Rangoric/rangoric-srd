@@ -6,6 +6,7 @@ subschool: "Figment"
 level:
   - "Brd 3"
   - "Hun 3"
+  - "Med 3"
   - "Occ 3"
   - "Rgr 3"
   - "Skd 3"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Figment)*
 
-  - **Level**: Brd 3, Hun 3, Occ 3, Rgr 3, Skd 3, Sor/Wiz 4
+  - **Level**: Brd 3, Hun 3, Med 3, Occ 3, Rgr 3, Skd 3, Sor/Wiz 4
   - **Components**: V, S, M (a scrap of vellum)
   - **Casting Time**: 1 minute
   - **Range**: Touch

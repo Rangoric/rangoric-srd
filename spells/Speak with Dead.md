@@ -7,6 +7,7 @@ descriptor:
 level:
   - "Clr 3"
   - "Inq 3"
+  - "Med 2"
   - "Psy 3"
   - "Sha 3"
   - "Spi 3"
@@ -33,7 +34,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy \[Language-Dependent\]*
 
-  - **Level**: Clr 3, Inq 3, Psy 3, Sha 3, Spi 3, Wit 3
+  - **Level**: Clr 3, Inq 3, Med 2, Psy 3, Sha 3, Spi 3, Wit 3
   - **Components**: V, S, DF
   - **Casting Time**: 10 minutes
   - **Range**: 10 ft.

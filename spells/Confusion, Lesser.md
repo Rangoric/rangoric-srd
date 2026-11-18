@@ -7,6 +7,7 @@ descriptor:
   - "Mind-Affecting"
 level:
   - "Brd 1"
+  - "Med 1"
   - "Mes 1"
   - "Psy 1"
   - "Skd 1"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Enchantment (Compulsion) \[Mind-Affecting\]*
 
-  - **Level**: Brd 1, Mes 1, Psy 1, Skd 1
+  - **Level**: Brd 1, Med 1, Mes 1, Psy 1, Skd 1
   - **Components**: V, S, DF
   - **Range**: Close (25 ft. + 5 ft./2 levels)
   - **Target**: One living creature

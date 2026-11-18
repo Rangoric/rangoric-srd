@@ -109,7 +109,7 @@ All of the following are class features of the medium.
 
 **Weapon and Armor Proficiency**: Mediums are proficient with all simple weapons, light armor, and medium armor, but not with shields. ^medium-proficiency
 
-**Spells**: A medium can cast a small number of [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] drawn from the medium spell list. To learn or cast a spell, a medium must have a Charisma score equal to at least 10 + the spell’s level. He can cast any spell he knows without preparing it ahead of time. The saving throw DC against a medium’s spell is equal to 10 + the spell level + the medium’s Charisma modifier. ^medium-spells
+**Spells**: A medium can cast a small number of [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] drawn from the [[rangoric-srd/spells/Medium Spell List|medium spell list]]. To learn or cast a spell, a medium must have a Charisma score equal to at least 10 + the spell’s level. He can cast any spell he knows without preparing it ahead of time. The saving throw DC against a medium’s spell is equal to 10 + the spell level + the medium’s Charisma modifier. ^medium-spells
 
 A medium can cast only a certain number of spells of each level per day. His base daily spell allotment is given on [[rangoric-srd/classes/Medium (Class)#^table-the-medium|Table: The Medium]]. In addition, he receives bonus spells per day if he has a high Charisma score.
 

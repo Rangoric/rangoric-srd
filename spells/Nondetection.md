@@ -9,6 +9,7 @@ level:
   - "Fpk 4"
   - "Hun 4"
   - "Inq 3"
+  - "Med 2"
   - "Mes 3"
   - "Msl 4"
   - "Occ 3"
@@ -41,7 +42,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Alc 3, Apl 3, Fhn 4, Fpk 4, Hun 4, Inq 3, Mes 3, Msl 4, Occ 3, Psy 3, Rgr 4, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Trickery 3
+  - **Level**: Alc 3, Apl 3, Fhn 4, Fpk 4, Hun 4, Inq 3, Med 2, Mes 3, Msl 4, Occ 3, Psy 3, Rgr 4, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Trickery 3
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

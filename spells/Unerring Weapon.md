@@ -6,6 +6,7 @@ level:
   - "Blr 1"
   - "Inq 1"
   - "Mag 1"
+  - "Med 1"
   - "Occ 2"
   - "Psy 1"
   - "Sor/Wiz 1"
@@ -32,7 +33,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Blr 1, Inq 1, Mag 1, Occ 2, Psy 1, Sor/Wiz 1, Wit 1
+  - **Level**: Blr 1, Inq 1, Mag 1, Med 1, Occ 2, Psy 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Evocation"
 level:
+  - "Med 3"
   - "Ora 3"
   - "Psy 3"
 components:
@@ -24,7 +25,7 @@ tags: [rangoric, rangoric/spell]
 
 *Evocation*
 
-  - **Level**: Ora 3, Psy 3
+  - **Level**: Med 3, Ora 3, Psy 3
   - **Components**: V
   - **Casting Time**: 1 immediate action
   - **Range**: Personal

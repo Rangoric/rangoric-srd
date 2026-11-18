@@ -5,6 +5,7 @@ school: "Transmutation"
 level:
   - "Alc 2"
   - "Mag 2"
+  - "Med 2"
   - "Mes 2"
   - "Occ 2"
   - "Psy 2"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Alc 2, Mag 2, Mes 2, Occ 2, Psy 2, Sha 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Wit 2
+  - **Level**: Alc 2, Mag 2, Med 2, Mes 2, Occ 2, Psy 2, Sha 2, Sor/Wiz 2, Spi 2, Sum 2, SumU 2, Wit 2
   - **Components**: V, S, F
   - **Casting Time**: 1 standard action
   - **Range**: Personal or close (25 ft. + 5 ft./2 levels)

@@ -6,6 +6,7 @@ level:
   - "Clr 2"
   - "Drd 1"
   - "Hun 1"
+  - "Med 1"
   - "Psy 1"
   - "Rgr 1"
   - "Wit 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Clr 2, Drd 1, Hun 1, Psy 1, Rgr 1, Wit 1
+  - **Level**: Clr 2, Drd 1, Hun 1, Med 1, Psy 1, Rgr 1, Wit 1
   - **Components**: V, S, M/DF (an owl's beak)
   - **Casting Time**: 1 full-round action
   - **Range**: Personal

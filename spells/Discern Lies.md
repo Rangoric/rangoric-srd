@@ -6,6 +6,7 @@ level:
   - "Alc 4"
   - "Clr 4"
   - "Inq 4"
+  - "Med 3"
   - "Pal 3"
   - "Psy 4"
   - "Wit 4"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 4, Clr 4, Inq 4, Pal 3, Psy 4, Wit 4
+  - **Level**: Alc 4, Clr 4, Inq 4, Med 3, Pal 3, Psy 4, Wit 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Transmutation"
 level:
+  - "Med 2"
   - "Occ 2"
   - "Psy 2"
   - "Sor/Wiz 2"
@@ -28,7 +29,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Occ 2, Psy 2, Sor/Wiz 2
+  - **Level**: Med 2, Occ 2, Psy 2, Sor/Wiz 2
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

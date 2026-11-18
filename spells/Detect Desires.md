@@ -9,6 +9,7 @@ level:
   - "Brd 2"
   - "Clr 3"
   - "Inq 3"
+  - "Med 2"
   - "Mes 3"
   - "Pal 3"
   - "Psy 2"
@@ -40,7 +41,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination \[MindAffecting\]*
 
-  - **Level**: Apl 2, Brd 2, Clr 3, Inq 3, Mes 3, Pal 3, Psy 2, Skd 2, Sor/Wiz 3, Spi 3, Wit 3
+  - **Level**: Apl 2, Brd 2, Clr 3, Inq 3, Med 2, Mes 3, Pal 3, Psy 2, Skd 2, Sor/Wiz 3, Spi 3, Wit 3
   - **Components**: V, S, F, F/DF
   - **Casting Time**: 1 standard action
   - **Range**: 60 ft.

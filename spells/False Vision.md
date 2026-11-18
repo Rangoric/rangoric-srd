@@ -5,6 +5,7 @@ school: "Illusion"
 subschool: "Glamer"
 level:
   - "Brd 5"
+  - "Med 4"
   - "Mes 5"
   - "Occ 5"
   - "Psy 5"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Glamer)*
 
-  - **Level**: Brd 5, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5, Trickery 5
+  - **Level**: Brd 5, Med 4, Mes 5, Occ 5, Psy 5, Skd 5, Sor/Wiz 5, Spi 5, Trickery 5
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

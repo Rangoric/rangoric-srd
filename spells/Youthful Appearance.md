@@ -6,6 +6,7 @@ subschool: "Polymorph"
 level:
   - "Alc 1"
   - "Brd 1"
+  - "Med 1"
   - "Occ 1"
   - "Psy 1"
   - "Skd 1"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation (Polymorph)*
 
-  - **Level**: Alc 1, Brd 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
+  - **Level**: Alc 1, Brd 1, Med 1, Occ 1, Psy 1, Skd 1, Sor/Wiz 1, Wit 1
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Touch

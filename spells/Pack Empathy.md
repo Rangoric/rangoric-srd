@@ -7,6 +7,7 @@ level:
   - "Drd 3"
   - "Hun 2"
   - "Inq 3"
+  - "Med 2"
   - "Rgr 2"
   - "Sor/Wiz 3"
   - "Spi 3"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Blr 3, Drd 3, Hun 2, Inq 3, Rgr 2, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
+  - **Level**: Blr 3, Drd 3, Hun 2, Inq 3, Med 2, Rgr 2, Sor/Wiz 3, Spi 3, Sum 3, SumU 3, Wit 3
   - **Components**: V, S
   - **Casting Time**: 1 standard action
   - **Range**: Close (25 ft. + 5 ft./2 levels)

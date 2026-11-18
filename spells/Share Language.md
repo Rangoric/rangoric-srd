@@ -7,6 +7,7 @@ level:
   - "Clr 2"
   - "Drd 2"
   - "Hun 2"
+  - "Med 1"
   - "Mes 1"
   - "Occ 2"
   - "Psy 1"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Brd 1, Clr 2, Drd 2, Hun 2, Mes 1, Occ 2, Psy 1, Skd 1, Sor/Wiz 2
+  - **Level**: Brd 1, Clr 2, Drd 2, Hun 2, Med 1, Mes 1, Occ 2, Psy 1, Skd 1, Sor/Wiz 2
   - **Components**: V, S, M (a page from a dictionary)
   - **Casting Time**: 1 standard action
   - **Range**: Touch

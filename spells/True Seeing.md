@@ -9,6 +9,7 @@ level:
   - "Inq 5"
   - "Knowledge 5"
   - "Mag 6"
+  - "Med 4"
   - "Mes 6"
   - "Occ 5"
   - "Psy 5"
@@ -40,7 +41,7 @@ tags: [rangoric, rangoric/spell]
 
 *Divination*
 
-  - **Level**: Alc 6, Clr 5, Drd 7, Inq 5, Knowledge 5, Mag 6, Mes 6, Occ 5, Psy 5, Sha 5, Sor/Wiz 6, Spi 6, Sum 5, SumU 6, Wit 6
+  - **Level**: Alc 6, Clr 5, Drd 7, Inq 5, Knowledge 5, Mag 6, Med 4, Mes 6, Occ 5, Psy 5, Sha 5, Sor/Wiz 6, Spi 6, Sum 5, SumU 6, Wit 6
   - **Components**: V, S, M
   - **Casting Time**: 1 standard action
   - **Range**: Touch

@@ -3,6 +3,7 @@ srd-type: "spell"
 section: "Spells"
 school: "Abjuration"
 level:
+  - "Med 4"
   - "Mes 5"
   - "Psy 5"
   - "Sor/Wiz 5"
@@ -29,7 +30,7 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration*
 
-  - **Level**: Mes 5, Psy 5, Sor/Wiz 5, Spi 5
+  - **Level**: Med 4, Mes 5, Psy 5, Sor/Wiz 5, Spi 5
   - **Components**: V, S, M
   - **Casting Time**: 10 minutes
   - **Range**: Close (25 ft. + 5 ft./2 levels)

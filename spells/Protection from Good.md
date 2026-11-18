@@ -11,6 +11,7 @@ level:
   - "Evil 1"
   - "Fhn 1"
   - "Inq 1"
+  - "Med 1"
   - "Sha 1"
   - "Sor/Wiz 1"
   - "Spi 1"
@@ -28,6 +29,6 @@ tags: [rangoric, rangoric/spell]
 
 *Abjuration \[Evil\]*
 
-  - **Level**: Apl 1, Blr 1, Clr 1, Evil 1, Fhn 1, Inq 1, Sha 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
+  - **Level**: Apl 1, Blr 1, Clr 1, Evil 1, Fhn 1, Inq 1, Med 1, Sha 1, Sor/Wiz 1, Spi 1, Sum 1, SumU 1
 
 This spell functions like [[rangoric-srd/spells/Protection from Evil|protection from evil]], except that the deflection and resistance bonuses apply to attacks from good creatures, and good summoned creatures cannot touch the subject.

@@ -6,6 +6,7 @@ subschool: "Teleportation"
 level:
   - "Drd 3"
   - "Hun 3"
+  - "Med 3"
   - "Mes 3"
   - "Psy 3"
   - "Rgr 3"
@@ -34,7 +35,7 @@ tags: [rangoric, rangoric/spell]
 
 *Conjuration (Teleportation)*
 
-  - **Level**: Drd 3, Hun 3, Mes 3, Psy 3, Rgr 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
+  - **Level**: Drd 3, Hun 3, Med 3, Mes 3, Psy 3, Rgr 3, Sor/Wiz 3, Sum 3, SumU 3, Wit 3
   - **Components**: V
   - **Casting Time**: 1 standard action
   - **Range**: Touch

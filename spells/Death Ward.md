@@ -9,6 +9,7 @@ level:
   - "Drd 5"
   - "Hun 5"
   - "Inq 4"
+  - "Med 4"
   - "Occ 4"
   - "Pal 4"
   - "Spi 4"
@@ -36,7 +37,7 @@ tags: [rangoric, rangoric/spell]
 
 *Necromancy*
 
-  - **Level**: Alc 4, Clr 4, Death 4, Drd 5, Hun 5, Inq 4, Occ 4, Pal 4, Spi 4, Wit 4
+  - **Level**: Alc 4, Clr 4, Death 4, Drd 5, Hun 5, Inq 4, Med 4, Occ 4, Pal 4, Spi 4, Wit 4
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch

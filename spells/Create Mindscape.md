@@ -6,6 +6,7 @@ subschool: "Phantasm"
 descriptor:
   - "MindAffecting"
 level:
+  - "Med 4"
   - "Mes 4"
   - "Psy 4"
   - "Sor/Wiz 5"
@@ -31,7 +32,7 @@ tags: [rangoric, rangoric/spell]
 
 *Illusion (Phantasm) \[MindAffecting\]*
 
-  - **Level**: Mes 4, Psy 4, Sor/Wiz 5
+  - **Level**: Med 4, Mes 4, Psy 4, Sor/Wiz 5
   - **Components**: V, S
   - **Casting Time**: 1 round
   - **Range**: Long (400 ft. + 40 ft./level)

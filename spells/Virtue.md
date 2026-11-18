@@ -8,6 +8,7 @@ level:
   - "Drd 0"
   - "Hun 0"
   - "Inq 0"
+  - "Med 0"
   - "Pal 1"
   - "Psy 0"
   - "Sha 0"
@@ -35,7 +36,7 @@ tags: [rangoric, rangoric/spell]
 
 *Transmutation*
 
-  - **Level**: Apo 0, Clr 0, Drd 0, Hun 0, Inq 0, Pal 1, Psy 0, Sha 0, Spi 0, Tot 0
+  - **Level**: Apo 0, Clr 0, Drd 0, Hun 0, Inq 0, Med 0, Pal 1, Psy 0, Sha 0, Spi 0, Tot 0
   - **Components**: V, S, DF
   - **Casting Time**: 1 standard action
   - **Range**: Touch
