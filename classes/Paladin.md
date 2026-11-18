@@ -62,11 +62,11 @@ The paladin’s class skills (and the key ability for each skill) are [[rangoric
 
 All of the following are class features of the paladin.
 
-**Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields).
+**Weapon and Armor Proficiency**: Paladins are proficient with all simple and martial weapons, with all types of armor (heavy, medium, and light), and with shields (except tower shields). ^paladin-weapon-and-armor-proficiency
 
 **Aura of Good (Ex)**: The power of a paladin’s aura of good (see the *[[rangoric-srd/spells/Detect Good|detect good]]* spell) is equal to her paladin level.
 
-**Detect Evil (Sp)**: At will, a paladin can use *[[rangoric-srd/spells/Detect Evil|detect evil]]*, as the spell. A paladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range.
+**Detect Evil (Sp)**: At will, a paladin can use *[[rangoric-srd/spells/Detect Evil|detect evil]]*, as the spell. A paladin can, as a move action, concentrate on a single item or individual within 60 feet and determine if it is evil, learning the strength of its aura as if having studied it for 3 rounds. While focusing on one individual or object, the paladin does not detect evil in any other object or individual within range. ^paladin-detect-evil
 
 **Smite Evil (Su)**: Once per day, a paladin can call out to the powers of good to aid her in her struggle against evil. As a swift action, the paladin chooses one target within sight to smite. If this target is evil, the paladin adds her Charisma bonus (if any) to her attack rolls and adds her paladin level to all damage rolls made against the target of her smite. If the target of smite evil is an outsider with the evil subtype, an evil-aligned dragon, or an undead creature, the bonus to damage on the first successful attack increases to 2 points of damage per level the paladin possesses. Regardless of the target, smite evil attacks automatically bypass any DR the creature might possess. ^paladin-smite-evil
 
@@ -94,7 +94,7 @@ These abilities are cumulative. For example, a 12th-level paladin's lay on hands
 
 **Turn Undead (Su)**: A paladin can spend a use of channel energy to [[rangoric-srd/combat/Combat Special Attacks#Turn or Rebuke Undead|turn undead]]. She turns undead as a cleric of three levels lower would. ^paladin-turn-undead
 
-**Spells**: Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the [[rangoric-srd/spells/Paladin Spell List|paladin spell list]]. A paladin must choose and prepare her spells in advance.
+**Spells**: Beginning at 4th level, a paladin gains the ability to cast a small number of divine spells, which are drawn from the [[rangoric-srd/spells/Paladin Spell List|paladin spell list]]. A paladin must choose and prepare her spells in advance. ^paladin-spells
 
 To prepare or cast a spell, a paladin must have a Charisma score equal to at least 10 + the spell level. The Difficulty Class for a saving throw against a paladin’s spell is 10 + the spell level + the paladin’s Charisma modifier.
 
@@ -131,6 +131,10 @@ Should the paladin’s mount die, it immediately disappears, leaving behind any 
 **Code of Conduct**: A paladin must be of lawful good alignment and loses all class features except proficiencies if she ever willingly commits an evil act. Additionally, a paladin’s code requires that she respect legitimate authority, act with honor (not lying, not cheating, not using poison, and so forth), help those in need (provided they do not use the help for evil or chaotic ends), and punish those who harm or threaten innocents. ^paladin-code-of-conudct
 
 **Associates**: While she may adventure with good or neutral allies, a paladin avoids working with evil characters or with anyone who consistently offends her moral code. Under exceptional circumstances, a paladin can ally with evil associates, but only to defeat what she believes to be a greater evil. A paladin should seek an *[[rangoric-srd/spells/Atonement|atonement]]* spell periodically during such an unusual alliance, and should end the alliance immediately should she feel it is doing more harm than good. A paladin may accept only henchmen, followers, or cohorts who are lawful good. ^paladin-associates
+
+**Archetypes**: A paladin can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The paladin’s archetypes, with what each replaces: ^paladin-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Paladin]]
 
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The paladin’s class bonuses, by race: ^paladin-class-bonuses
 

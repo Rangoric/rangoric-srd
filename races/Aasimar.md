@@ -105,3 +105,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/oracle/Purifier (Archetype)\|Purifier]] | [[rangoric-srd/classes/Oracle\|Oracle]] |
+| [[rangoric-srd/class-options/archetypes/paladin/Tranquil Guardian (Archetype)\|Tranquil Guardian]] | [[rangoric-srd/classes/Paladin\|Paladin]] |

@@ -171,3 +171,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/summoner/Blood God Disciple (Archetype)\|Blood God Disciple]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
+| [[rangoric-srd/class-options/archetypes/paladin/Redeemer (Archetype)\|Redeemer]] | [[rangoric-srd/classes/Paladin\|Paladin]] |
