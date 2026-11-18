@@ -153,3 +153,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | [[rangoric-srd/class-options/archetypes/witch/Bonded Witch (Archetype)\|Bonded Witch]] | [[rangoric-srd/classes/Witch\|Witch]] |
 | [[rangoric-srd/class-options/archetypes/summoner/Wild Caller (Archetype)\|Wild Caller]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
 | [[rangoric-srd/class-options/archetypes/alchemist/Bramble Brewer (Archetype)\|Bramble Brewer]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
+| [[rangoric-srd/class-options/archetypes/ranger/Wild Shadow (Archetype)\|Wild Shadow]] | [[rangoric-srd/classes/Ranger\|Ranger]] |
