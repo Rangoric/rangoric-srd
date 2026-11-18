@@ -110,3 +110,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/cleric/Fiendish Vessel (Archetype)\|Fiendish Vessel]] | [[rangoric-srd/classes/Cleric\|Cleric]] |
+| [[rangoric-srd/class-options/archetypes/magus/Fiend Flayer (Archetype)\|Fiend Flayer]] | [[rangoric-srd/classes/Magus\|Magus]] |

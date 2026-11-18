@@ -209,6 +209,10 @@ A magus can only enhance one weapon in this way at one time. If he uses this abi
 
 **True Magus (Su)**: At 20th level, the magus becomes a master of spells and combat. Whenever he uses his spell combat ability, he does not need to make a concentration check to cast the spell defensively. Whenever the magus uses spell combat and his spell targets the same creature as his melee attacks, he can choose to either increase the DC to resist the spell by +2, grant himself a +2 circumstance bonus on any checks made to overcome spell resistance, or grant himself a +2 circumstance bonus on all attack rolls made against the target during his turn. ^magus-true-magus
 
+**Archetypes**: A magus can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The magus’s archetypes, with what each replaces: ^magus-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Magus]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The magus’s class bonuses, by race: ^magus-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Magus]]
