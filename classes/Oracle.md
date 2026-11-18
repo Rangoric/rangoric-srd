@@ -126,6 +126,10 @@ At 2nd level, and every two levels thereafter, an oracle learns an additional sp
 
 **Final Revelation**: At 20th level, an oracle learns the final revelation about her mystery, granting her amazing powers and abilities. The nature of these bonuses depends upon the oracle's mystery. ^oracle-final-revelation
 
+**Archetypes**: An oracle can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The oracle’s archetypes, with what each replaces: ^oracle-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Oracle]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The oracle’s class bonuses, by race: ^oracle-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Oracle]]

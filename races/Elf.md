@@ -172,3 +172,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/wizard/Spellbinder (Archetype)\|Spellbinder]] | [[rangoric-srd/classes/Wizard\|Wizard]] |
 | [[rangoric-srd/class-options/archetypes/magus/Spell Dancer (Archetype)\|Spell Dancer]] | [[rangoric-srd/classes/Magus\|Magus]] |
+| [[rangoric-srd/class-options/archetypes/oracle/Ancient Lorekeeper (Archetype)\|Ancient Lorekeeper]] | [[rangoric-srd/classes/Oracle\|Oracle]] |
