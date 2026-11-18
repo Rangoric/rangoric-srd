@@ -125,3 +125,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/alchemist/Winged Marauder (Archetype)\|Winged Marauder]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
 | [[rangoric-srd/class-options/archetypes/alchemist/Fire Bomber (Archetype)\|Fire Bomber]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
+| [[rangoric-srd/class-options/archetypes/barbarian/Feral Gnasher (Archetype)\|Feral Gnasher]] | [[rangoric-srd/classes/Barbarian\|Barbarian]] |

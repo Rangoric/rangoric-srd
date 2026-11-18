@@ -61,7 +61,7 @@ The barbarian’s class skills (and the key ability for each skill) are [[rangor
 
 All of the following are class features of the barbarian.
 
-**Weapon and Armor Proficiency**: A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields).
+**Weapon and Armor Proficiency**: A barbarian is proficient with all simple and martial weapons, light armor, medium armor, and shields (except tower shields). ^barbarian-weapon-and-armor-proficiency
 
 **Fast Movement (Ex)**: A barbarian’s land speed is faster than the norm for his race by +10 feet. This benefit applies only when he is wearing no armor, light armor, or medium armor and not carrying a heavy load. Apply this bonus before modifying the barbarian’s speed because of any load carried or armor worn. This bonus stacks with any other bonuses to the barbarian’s land speed. ^barbarian-fast-movement
 
@@ -87,7 +87,7 @@ The rage powers are listed in [[rangoric-srd/class-options/rage-powers/Rage Powe
 
 **Greater Rage (Ex)**: At 11th level, a barbarian’s bonuses to Strength and Constitution during his rage each increase to +6, and his morale bonus on Will saves increases to +3. The penalty to AC remains at –2. ^barbarian-greater-rage
 
-**Indomitable Will (Ex)**: While in a rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his rage.
+**Indomitable Will (Ex)**: While in a rage, a barbarian of 14th level or higher gains a +4 bonus on Will saves to resist enchantment spells. This bonus stacks with all other modifiers, including the morale bonus on Will saves he also receives during his rage. ^barbarian-indomitable-will
 
 **Tireless Rage (Ex)**: At 17th level and higher, a barbarian no longer becomes [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] at the end of his rage. ^barbarian-tireless-rage
 
