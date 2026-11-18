@@ -1,11 +1,13 @@
 ---
 srd-type: "monster"
 section: "Monsters"
+book: "Bestiary 4"
 based-on:
   - "[[fantasy srd 3.5/monsters/formian/Formian|Formian (3.5)]]"
-status: base
-change: copied
-pi-review: scanned 2026-10-15
+  - "[[path srd 3.5 foundry/monster-abilities/Formian Traits|Formian Traits (PF1 Foundry)]]"
+status: draft
+change: modified
+pi-review: 2026-11-17
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -17,10 +19,18 @@ tags: [rangoric, rangoric/monster]
   - [[rangoric-srd/monsters/formian/Formian Myrmarch|Formian Myrmarch]]
   - [[rangoric-srd/monsters/formian/Formian Queen|Formian Queen]]
 
-A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety.
+A formian resembles a cross between an ant and a centaur. All formians are covered in a brownish-red carapace; size and appearance differs for each variety. Formians are a spacefaring race of insectlike creatures from a forest world that aggressively colonize other worlds.
 
 ### Combat
 
 Formians are generally aggressive, seeking to subdue all they encounter. If they perceive even the slightest threat to their hive-city or to their queen, they attack immediately and fight to the death. Any formian also attacks immediately if ordered to do so by a superior.
 
-**Hive Mind (Ex)**: All formians within 50 miles of their queen are in constant communication. If one is aware of a particular danger, they all are. If one in a group is not flatfooted, none of them are. No formian in a group is considered flanked unless all of them are.
+### Formian Traits
+
+A formian has the following traits, unless its entry says otherwise. ^formian-traits
+
+- [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Blindsense|blindsense]] 30 feet.
+- **Hive Mind (Ex)**: Formians share a telepathic bond with other members of their hive that enhances their hive mates’ perception. As long as a formian is within telepathic range of at least one hive mate, it gains a +4 racial bonus on initiative checks and Perception checks. If at least one formian disbelieves an illusion, all formians within its telepathic range are also considered to disbelieve that illusion. If one formian is aware of combatants, all other hive mates within the range of its telepathy are also aware of those combatants. All formians within 50 miles of their queen are in constant communication. No formian in a group is considered flanked unless all of them are. ^hive-mind
+- [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to sonic 10.
+- **Telepathic Caster (Ex)**: Due to a formian’s telepathic nature, if it casts spells it does so as spell-like abilities.
+- [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]] 60 ft.
