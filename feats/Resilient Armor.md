@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/feat]
 
 When you enhance your armor or shield, you gain a measure of damage reduction.
 
-**Prerequisites**: Divine bond (armor or shield), or [[rangoric-srd/classes/Warpriest#^warpriest-sacred-armor|sacred armor]] class feature.
+**Prerequisites**: Divine bond ([[rangoric-srd/class-options/archetypes/paladin/Divine Defender (Archetype)#^divine-defender-divine-bond|armor]] or [[rangoric-srd/class-options/archetypes/paladin/Sacred Shield (Archetype)#^sacred-shield-divine-bond|shield]]), or [[rangoric-srd/classes/Warpriest#^warpriest-sacred-armor|sacred armor]] class feature.
 
 **Benefit**: While your armor or shield is under the effect of your divine bond or your [[rangoric-srd/classes/Warpriest#^warpriest-sacred-armor|sacred armor]] ability, you gain an amount of [[rangoric-srd/rules/Special Abilities and Conditions#Damage Reduction|damage reduction]] equal to your armor’s enhancement bonus (including the bonus from your divine bond or sacred armor) against the first attack to strike you in each round. An [[rangoric-srd/equipment/Special Materials|adamantine]] weapon overcomes this damage reduction, but any attack against you made with such a weapon does not count against this effect’s duration.
