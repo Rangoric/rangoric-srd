@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/overview]
 
 # Ranger Traps
 
-The [[rangoric-srd/classes/Ranger|ranger]]’s traps: simple improvised traps that sometimes incorporate the ranger’s magical abilities, one note each. Rangers are legendary for their ability to hunt down and capture their prey, and some can create elaborate traps out of scraps, vines, and perhaps a little bit of specialized magic. A character learns how to set them with the [[rangoric-srd/class-options/archetypes/ranger/Trapper (Archetype)|trapper]] ranger archetype, which says how many it knows and how often it can set them, or with the Learn Ranger Trap feat. How traps work in general is in [[rangoric-srd/rules/Traps|traps]].
+The [[rangoric-srd/classes/Ranger|ranger]]’s traps: simple improvised traps that sometimes incorporate the ranger’s magical abilities, one note each. Rangers are legendary for their ability to hunt down and capture their prey, and some can create elaborate traps out of scraps, vines, and perhaps a little bit of specialized magic. A character learns how to set them with the [[rangoric-srd/class-options/archetypes/ranger/Trapper (Archetype)|trapper]] ranger archetype, which says how many it knows and how often it can set them, or with the [[rangoric-srd/feats/Learn Ranger Trap|Learn Ranger Trap]] feat. How traps work in general is in [[rangoric-srd/rules/Traps|traps]].
 
 ## Setting a Ranger Trap
 

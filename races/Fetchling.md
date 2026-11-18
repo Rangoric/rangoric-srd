@@ -99,3 +99,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/summoner/Shadow Caller (Archetype)\|Shadow Caller]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
+| [[rangoric-srd/class-options/archetypes/ranger/Dusk Stalker (Archetype)\|Dusk Stalker]] | [[rangoric-srd/classes/Ranger\|Ranger]] |
