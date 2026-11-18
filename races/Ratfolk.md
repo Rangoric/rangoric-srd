@@ -99,3 +99,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/gunslinger/Gulch Gunner (Archetype)\|Gulch Gunner]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
+| [[rangoric-srd/class-options/archetypes/alchemist/Plague Bringer (Archetype)\|Plague Bringer]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |

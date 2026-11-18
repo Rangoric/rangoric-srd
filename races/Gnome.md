@@ -175,3 +175,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/gunslinger/Experimental Gunsmith (Archetype)\|Experimental Gunsmith]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
+| [[rangoric-srd/class-options/archetypes/alchemist/Saboteur (Archetype)\|Saboteur]] | [[rangoric-srd/classes/Alchemist\|Alchemist]] |
