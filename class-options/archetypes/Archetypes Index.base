@@ -397,3 +397,42 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Kineticist"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/kineticist")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Medium"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/medium")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Mesmerist"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/mesmerist")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC

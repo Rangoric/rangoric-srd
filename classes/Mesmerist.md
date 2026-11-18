@@ -204,3 +204,7 @@ At 14th level, the mesmerist can instead expend one use of touch treatment to re
 ![[rangoric-srd/class-options/mesmerist-tricks/Vision of Blood (Mesmerist Trick)]]
 
 **Rule Minds (Su)**: At 20th level, a mesmerist can permanently mentally enslave a creature. When the mesmerist successfully affects the target of his hypnotic stare with an enchantment spell that requires a saving throw, he can force that creature to attempt a second Will saving throw with a DC equal to the spell’s DC. The DC is reduced by 5 if the creature isn’t a humanoid. If the creature fails, it becomes a permanent thrall to the mesmerist (as *[[rangoric-srd/spells/Dominate Monster|dominate monster]]*) until the mesmerist dies. If it succeeds, it can’t be affected by rule minds again for 24 hours. A mesmerist can have only one creature enthralled at a time. If he enthralls a new creature, the previous one is set free but is unaware that it was enthralled by the mesmerist. ^mesmerist-rule-minds
+
+**Archetypes**: A mesmerist can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The mesmerist’s archetypes, with what each replaces: ^mesmerist-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Mesmerist]]

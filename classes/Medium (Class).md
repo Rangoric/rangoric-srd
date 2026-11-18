@@ -157,6 +157,10 @@ During his seance, the medium can choose to channel a weaker spirit to gain its 
 
 **Astral Beacon (Su)**: At 20th level, a medium is an open connection to the Astral Plane and a shining beacon for spirits. As a free action, he can channel spirits of any of the five legends he did not contact via his seance. This ability lasts for 1 round and grants access to the intermediate, greater, and supreme spirit powers of the chosen spirits. Unlike trance of three, astral beacon allows spirits of the chosen legends (for instance, archmage) to gain influence over the medium until 24 hours from when the medium contacted his primary spirit. Also unlike trance of three, if the medium would incur influence by using one of the new spirits’ abilities, that influence is added to the medium’s total influence from that spirit rather than from his primary spirit. ^medium-astral-beacon
 
+**Archetypes**: A medium can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The medium’s archetypes, with what each replaces: ^medium-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Medium]]
+
 ###### Spirits
 
 A medium’s spirits are entities from the Astral Plane, echoes of heroes and villains from the distant past. All spirits arise from one of six legends: [[rangoric-srd/class-options/medium-spirits/Archmage Spirit|archmage]], [[rangoric-srd/class-options/medium-spirits/Champion Spirit|champion]], [[rangoric-srd/class-options/medium-spirits/Guardian Spirit|guardian]], [[rangoric-srd/class-options/medium-spirits/Hierophant Spirit|hierophant]], [[rangoric-srd/class-options/medium-spirits/Marshal Spirit|marshal]], or [[rangoric-srd/class-options/medium-spirits/Trickster Spirit|trickster]]. ^medium-spirits
