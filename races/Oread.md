@@ -101,3 +101,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/summoner/Shaitan Binder (Archetype)\|Shaitan Binder]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
+| [[rangoric-srd/class-options/archetypes/monk/Student of Stone (Archetype)\|Student of Stone]] | [[rangoric-srd/classes/Monk\|Monk]] |

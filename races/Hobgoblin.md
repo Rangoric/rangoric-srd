@@ -108,3 +108,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/cavalier/Fell Rider (Archetype)\|Fell Rider]] | [[rangoric-srd/classes/Cavalier\|Cavalier]] |
+| [[rangoric-srd/class-options/archetypes/monk/Ironskin Monk (Archetype)\|Ironskin Monk]] | [[rangoric-srd/classes/Monk\|Monk]] |

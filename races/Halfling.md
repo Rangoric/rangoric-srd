@@ -170,3 +170,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/oracle/Community Guardian (Archetype)\|Community Guardian]] | [[rangoric-srd/classes/Oracle\|Oracle]] |
+| [[rangoric-srd/class-options/archetypes/monk/Underfoot Adept (Archetype)\|Underfoot Adept]] | [[rangoric-srd/classes/Monk\|Monk]] |

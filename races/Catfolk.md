@@ -92,3 +92,11 @@ A catfolk can take any of these in place of the traits they replace (see [[rango
 A catfolk gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Catfolk]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/monk/Nimble Guardian (Archetype)\|Nimble Guardian]] | [[rangoric-srd/classes/Monk\|Monk]] |
