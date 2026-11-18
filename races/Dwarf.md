@@ -168,3 +168,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/cleric/Forgemaster (Archetype)\|Forgemaster]] | [[rangoric-srd/classes/Cleric\|Cleric]] |
+| [[rangoric-srd/class-options/archetypes/inquisitor/Exarch (Archetype)\|Exarch]] | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |
