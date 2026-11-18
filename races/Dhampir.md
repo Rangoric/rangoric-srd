@@ -103,3 +103,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/wizard/Cruoromancer (Archetype)\|Cruoromancer]] | [[rangoric-srd/classes/Wizard\|Wizard]] |
+| [[rangoric-srd/class-options/archetypes/inquisitor/Kinslayer (Archetype)\|Kinslayer]] | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |

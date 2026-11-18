@@ -100,3 +100,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/sorcerer/Wishcrafter (Archetype)\|Wishcrafter]] | [[rangoric-srd/classes/Sorcerer\|Sorcerer]] |
+| [[rangoric-srd/class-options/archetypes/inquisitor/Immolator (Archetype)\|Immolator]] | [[rangoric-srd/classes/Inquisitor (Class)\|Inquisitor]] |
