@@ -38,6 +38,7 @@ The [[rangoric-srd/classes/Unchained Monk|unchained monk]]’s ki powers. The cl
 - [[rangoric-srd/class-options/ki-powers/Ki Volley (Ki Power)|Ki Volley]]
 - [[rangoric-srd/class-options/ki-powers/Light Steps (Ki Power)|Light Steps]]
 - [[rangoric-srd/class-options/ki-powers/One Touch (Ki Power)|One Touch]]
+- [[rangoric-srd/class-options/ki-powers/Qinggong Power (Ki Power)|Qinggong Power]]
 - [[rangoric-srd/class-options/ki-powers/Quivering Palm (Ki Power)|Quivering Palm]]
 - [[rangoric-srd/class-options/ki-powers/Slow Fall (Ki Power)|Slow Fall]]
 - [[rangoric-srd/class-options/ki-powers/Sudden Speed (Ki Power)|Sudden Speed]]
