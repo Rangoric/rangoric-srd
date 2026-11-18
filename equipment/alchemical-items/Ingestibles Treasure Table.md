@@ -32,7 +32,7 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 
 | d% | Item |
 |---|---|
-| 01-04 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Antitoxin]] |
+| 01-04 | [[rangoric-srd/equipment/gear/Antitoxin\|Antitoxin]] |
 | 05-10 | [[rangoric-srd/equipment/alchemical-items/Feed of Elemental Resistance\|Feed of Elemental Resistance]] |
 | 11-14 | [[rangoric-srd/equipment/alchemical-items/Feed of Refreshment\|Feed of Refreshment]] |
 | 15-19 | [[rangoric-srd/equipment/alchemical-items/Feed of Restfulness\|Feed of Restfulness]] |

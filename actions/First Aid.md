@@ -28,6 +28,6 @@ The First Aid actions (tag *first-aid*) keep people alive and help them recover.
 
 **Try Again**: Varies. Generally, you can’t try again without proof that the first check failed. You can always try again to stabilize someone who is still alive.
 
-**Tools**: A [[rangoric-srd/equipment/Equipment Goods and Services|healer’s kit]] gives a +2 circumstance bonus on First Aid checks.
+**Tools**: A [[rangoric-srd/equipment/gear/Healer's Kit|healer’s kit]] gives a +2 circumstance bonus on First Aid checks.
 
 Medicine has more uses of its own, such as restoring hit points and surgery; see the skill.

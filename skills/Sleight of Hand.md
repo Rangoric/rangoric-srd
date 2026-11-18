@@ -50,7 +50,7 @@ The character can lift another’s weapon and perform major feats of legerdemain
 
 The armor check penalty doesn't apply to picking locks.
 
-Without a set of [[rangoric-srd/equipment/Equipment Goods and Services|thieves’ tools]] an Sleight of Hand check is harder, even if a simple tool is employed; masterwork thieves’ tools make it easier.
+Without a set of [[rangoric-srd/equipment/gear/Thieves' Tools|thieves’ tools]] an Sleight of Hand check is harder, even if a simple tool is employed; masterwork thieves’ tools make it easier.
 
 **Check**: The DC for opening a lock varies from 20 to 40, depending on the quality of the lock, as given on the table below.
 

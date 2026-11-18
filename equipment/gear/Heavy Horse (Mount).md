@@ -1,0 +1,23 @@
+---
+srd-type: "gear"
+section: "Equipment"
+gear-type: "mounts and related gear"
+price: "200 gp"
+weight: "—"
+based-on:
+  - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
+status: draft
+change: new
+pi-review: 2026-11-17
+tags: [rangoric, rangoric/gear]
+---
+
+# Heavy Horse (Mount)
+
+A horse (other than a pony) is suitable as a mount for a human, dwarf, elf, half-elf, or half-orc. A pony is smaller than a horse and is a suitable mount for a gnome or halfling.
+
+Warhorses and warponies can be ridden easily into combat. Light horses, ponies, and heavy horses are hard to control in combat.
+
+The animal is described in [[rangoric-srd/monsters/horse/Horse, Heavy|Horse, Heavy]].
+
+Price 200 gp; Weight —.

@@ -18,7 +18,7 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 
 | d% | Item |
 |---|---|
-| 01-05 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Alchemist’s Fire]] |
+| 01-05 | [[rangoric-srd/equipment/gear/Alchemist's Fire\|Alchemist’s Fire]] |
 | 06-09 | [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy\|Bloodiron Alloy (1 barrel temperant + worked item)]] |
 | 10-14 | [[rangoric-srd/equipment/alchemical-items/Chymissile Ammunition\|Chymissile Ammunition (1d4 Arrows)]] |
 | 15-18 | [[rangoric-srd/equipment/alchemical-items/Chymissile Ammunition\|Chymissile Ammunition (1d8 Sling bullets)]] |
@@ -29,25 +29,25 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 | 36-39 | [[rangoric-srd/equipment/alchemical-items/Siege Salts\|Siege Salts of Drying]] |
 | 40-44 | [[rangoric-srd/equipment/alchemical-items/Siege Salts\|Siege Salts of Fog]] |
 | 45-49 | [[rangoric-srd/equipment/alchemical-items/Siege Salts\|Siege Salts of Slumber]] |
-| 50-54 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Smokestick (1d6 sticks)]] |
+| 50-54 | [[rangoric-srd/equipment/gear/Smokestick\|Smokestick (1d6 sticks)]] |
 | 55-58 | [[rangoric-srd/equipment/alchemical-items/Smolder Bottle\|Smolder Bottle]] |
 | 59-62 | [[rangoric-srd/equipment/alchemical-items/Sophic Fire\|Sophic Fire (1d4 jars)]] |
 | 63-66 | [[rangoric-srd/equipment/alchemical-items/Steel Scrolls\|Steel Scrolls (1d4 blank or 1 with 1d4-level spell on it)]] |
-| 67-70 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Sunrod]] |
-| 71-74 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Tanglefoot Bag (1d4 bags)]] |
+| 67-70 | [[rangoric-srd/equipment/gear/Sunrod\|Sunrod]] |
+| 71-74 | [[rangoric-srd/equipment/gear/Tanglefoot Bag\|Tanglefoot Bag (1d4 bags)]] |
 | 75-78 | [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Lesser\|Temperant Baths, Lesser (8 types)]] |
 | 79-82 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Bone]] |
 | 83-86 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Leather]] |
 | 87-89 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Metals]] |
 | 90-93 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Stone]] |
 | 94-97 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Wood]] |
-| 97-00 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Thunderstone (1d4 stones)]] |
+| 97-00 | [[rangoric-srd/equipment/gear/Thunderstone\|Thunderstone (1d4 stones)]] |
 
 ## Medium
 
 | d% | Item |
 |---|---|
-| 01-04 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Alchemist’s Fire]] |
+| 01-04 | [[rangoric-srd/equipment/gear/Alchemist's Fire\|Alchemist’s Fire]] |
 | 05-08 | [[rangoric-srd/equipment/alchemical-items/Alkahest Solvent\|Alkahest Solvent]] |
 | 09-11 | [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy\|Bloodiron Alloy (1 barrel temperant + 1d3 5-pound bars of metal)]] |
 | 12-15 | [[rangoric-srd/equipment/alchemical-items/Bloodiron Alloy\|Bloodiron Alloy (1 barrel temperant + worked item)]] |
@@ -66,8 +66,8 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 | 61-63 | [[rangoric-srd/equipment/alchemical-items/Smolder Bottle\|Smolder Bottle]] |
 | 64-67 | [[rangoric-srd/equipment/alchemical-items/Sophic Fire\|Sophic Fire (1d4 jars)]] |
 | 68-71 | [[rangoric-srd/equipment/alchemical-items/Steel Scrolls\|Steel Scrolls (1d4 blank or 1 with 1d4-level spell on it)]] |
-| 72-75 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Sunrod]] |
-| 76-79 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Tanglefoot Bag (1d4 bags)]] |
+| 72-75 | [[rangoric-srd/equipment/gear/Sunrod\|Sunrod]] |
+| 76-79 | [[rangoric-srd/equipment/gear/Tanglefoot Bag\|Tanglefoot Bag (1d4 bags)]] |
 | 80-83 | [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Major\|Temperant Baths, Major]] |
 | 84-87 | [[rangoric-srd/equipment/alchemical-items/Temperant Bath, Minor\|Temperant Baths, Minor (5 types)]] |
 | 88-89 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Bone]] |
@@ -75,7 +75,7 @@ The catalog’s treasure table for this category, by treasure level: roll d% in 
 | 93-94 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Metals]] |
 | 95-96 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Stone]] |
 | 97-98 | [[rangoric-srd/equipment/alchemical-items/Temperant Pastes\|Temperant Pastes, Wood]] |
-| 99-00 | [[rangoric-srd/equipment/Equipment Goods and Services#Special Substances and Items\|Thunderstone (1d4 stones)]] |
+| 99-00 | [[rangoric-srd/equipment/gear/Thunderstone\|Thunderstone (1d4 stones)]] |
 
 ## Major
 

@@ -28,7 +28,7 @@ A successful Craft check related to woodworking in conjunction with the casting 
 
 When casting the spell minor creation, you must succeed on an appropriate Craft check to make a complex item.
 
-All crafts require [[rangoric-srd/equipment/Equipment Goods and Services|artisan’s tools]] to give the best chance of success: improvised tools make the check harder, and masterwork tools make it easier.
+All crafts require [[rangoric-srd/equipment/gear/Artisan's Tools|artisan’s tools]] to give the best chance of success: improvised tools make the check harder, and masterwork tools make it easier.
 
 To determine how much time and money it takes to make an item, follow these steps.
 
@@ -86,7 +86,7 @@ Craft (alchemy) is also the skill of the [[rangoric-srd/rules/alchemy-and-herbal
 
 You may voluntarily add +10 to the indicated DC to craft an item. This allows you to create the item more quickly (since you’ll be multiplying this higher DC by your Craft check result to determine progress). You must decide whether to increase the DC before you make each weekly or daily check.
 
-To make an item using Craft (alchemy), you must have alchemical equipment and be a spellcaster. If you are working in a city, you can buy what you need as part of the raw materials cost to make the item, but alchemical equipment is difficult or impossible to come by in some places. Purchasing and maintaining an [[rangoric-srd/equipment/Equipment Goods and Services|alchemist’s lab]] helps with Craft (alchemy) checks because you have the perfect tools for the job, but it does not affect the cost of any items made using the skill.
+To make an item using Craft (alchemy), you must have alchemical equipment and be a spellcaster. If you are working in a city, you can buy what you need as part of the raw materials cost to make the item, but alchemical equipment is difficult or impossible to come by in some places. Purchasing and maintaining an [[rangoric-srd/equipment/gear/Alchemist's Lab|alchemist’s lab]] helps with Craft (alchemy) checks because you have the perfect tools for the job, but it does not affect the cost of any items made using the skill.
 
 ## Advanced Uses
 

@@ -26,13 +26,13 @@ Medicine can take any [[rangoric-srd/actions/First Aid|First Aid]] action: stabi
 
 ## Restoring Hit Points
 
-**Check**: With a [[rangoric-srd/equipment/Equipment Goods and Services|healer’s kit]], a DC 15 check restores 1d4 hit points to a character who has lost some, up to his or her full normal total. This can be used successfully on a character only once per day.
+**Check**: With a [[rangoric-srd/equipment/gear/Healer's Kit|healer’s kit]], a DC 15 check restores 1d4 hit points to a character who has lost some, up to his or her full normal total. This can be used successfully on a character only once per day.
 
 **Action**: Full-round action.
 
 ## Reviving
 
-**Check**: With a [[rangoric-srd/equipment/Equipment Goods and Services|healer’s kit]], a DC 15 check removes the dazed, stunned or unconscious condition from a character. You can’t revive an unconscious character at –1 hit points or lower without first stabilizing him or her.
+**Check**: With a [[rangoric-srd/equipment/gear/Healer's Kit|healer’s kit]], a DC 15 check removes the dazed, stunned or unconscious condition from a character. You can’t revive an unconscious character at –1 hit points or lower without first stabilizing him or her.
 
 **Action**: Standard action.
 

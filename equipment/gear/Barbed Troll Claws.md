@@ -1,6 +1,7 @@
 ---
 srd-type: "gear"
 section: "Equipment"
+gear-type: "adventuring gear"
 price: "20 gp"
 weight: "4 lb."
 book: "Monster Codex"

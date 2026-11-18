@@ -25,7 +25,7 @@ Athletics covers climbing, jumping and swimming. It joins Climb, Jump and Swim. 
 
 An Athletics check that fails by 4 or less means that you make no progress, and one that fails by 5 or more means that you fall from whatever height you have already attained.
 
-A [[rangoric-srd/equipment/Equipment Goods and Services|climber’s kit]] helps with Athletics checks.
+A [[rangoric-srd/equipment/gear/Climber's Kit|climber’s kit]] helps with Athletics checks.
 
 The DC of the check depends on the conditions of the climb. Compare the task with those on the following table to determine an appropriate DC.
 
