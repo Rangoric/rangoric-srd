@@ -60,7 +60,7 @@ The fighter’s class skills (and the key ability for each skill) are [[rangoric
 
 All of the following are class features of the fighter.
 
-**Weapon and Armor Proficiency**: A fighter is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields).
+**Weapon and Armor Proficiency**: A fighter is proficient with all simple and martial weapons and with all armor (heavy, medium, and light) and shields (including tower shields). ^fighter-weapon-and-armor-proficiency
 
 **Bonus Feats**: At 1st level, a fighter gets a bonus combat-oriented feat in addition to the feat that any 1st-level character gets and the bonus feat granted to a human character. The fighter gains an additional bonus feat at 2nd level and every two fighter levels thereafter (4th, 6th, 8th, 10th, 12th, 14th, 16th, 18th, and 20th). These bonus feats must be [[rangoric-srd/feats/Feats Overview#Fighter Bonus Feats|fighter bonus feats]] (the tag *fighter-bonus*). A fighter must still meet all prerequisites for a bonus feat, including ability score and base attack bonus minimums. ^fighter-bonus-feats
 

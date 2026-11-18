@@ -116,3 +116,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/witch/Scarred Witch Doctor (Archetype)\|Scarred Witch Doctor]] | [[rangoric-srd/classes/Witch\|Witch]] |
+| [[rangoric-srd/class-options/archetypes/fighter/Dirty Fighter (Archetype)\|Dirty Fighter]] | [[rangoric-srd/classes/Fighter\|Fighter]] |
