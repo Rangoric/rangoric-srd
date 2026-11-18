@@ -131,7 +131,7 @@ In place of verbal and somatic components, psychic spells have components drawn 
 
 **Thought Component**: A mental construct the spell needs, such as picturing a wolf in vivid detail, down to the saliva dripping from its jaws, to take a wolf’s shape with *[[rangoric-srd/spells/Beast Shape I|beast shape]]*. Thought components make interruptions and distractions much harder to work through; see [[rangoric-srd/rules/Concentration (Check)|Concentration (Check)]]. ^thought-component
 
-Spell-like abilities never need thought or emotion components, just as they never need verbal, somatic, or material ones. Thought and emotion components take the place of verbal and somatic components only as components, not for other rules about verbal and somatic components: [[rangoric-srd/feats/Silent Spell|Silent Spell]] can’t leave out a thought component, for example. The Intuitive Spell and Logical Spell feats do that for emotion and thought components.
+Spell-like abilities never need thought or emotion components, just as they never need verbal, somatic, or material ones. Thought and emotion components take the place of verbal and somatic components only as components, not for other rules about verbal and somatic components: [[rangoric-srd/feats/Silent Spell|Silent Spell]] can’t leave out a thought component, for example. The [[rangoric-srd/feats/Intuitive Spell|Intuitive Spell]] and [[rangoric-srd/feats/Logical Spell|Logical Spell]] feats do that for thought and emotion components respectively.
 
 ##### Undercasting
 
