@@ -164,6 +164,10 @@ The spiritualist can use this ability once per day at 6th level, plus one additi
 
 **Empowered Consciousness (Su)**: At 20th level, while a spiritualist’s phantom is confined in her consciousness, she is immune to mind-affecting effects and spells and effects that involve [[rangoric-srd/rules/Possession (Rules)|possession]], such as *[[rangoric-srd/spells/Magic Jar|magic jar]]* and *[[rangoric-srd/spells/Possession|possession]]*. ^spiritualist-empowered-consciousness
 
+**Archetypes**: A spiritualist can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The spiritualist’s archetypes, with what each replaces: ^spiritualist-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Spiritualist]]
+
 ###### Phantoms
 
 A phantom was once a sentient, living creature that experienced great turmoil in life or during death. The power of its emotional trauma ripped it from the flow of spirits rushing toward the Astral Plane and the fates beyond, pulling it through the Ethereal Plane and toward the Negative Energy Plane. During the descent to nothingness and undeath, the spirit was able to break free, and made its way back to the Material Plane to find shelter within the consciousness of a powerful psychic spellcaster. That fusion created a spiritualist. ^spiritualist-phantoms

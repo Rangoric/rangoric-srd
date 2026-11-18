@@ -436,3 +436,42 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Occultist"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/occultist")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Psychic"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/psychic")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Spiritualist"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/class-options/archetypes/spiritualist")
+    order:
+      - file.name
+      - note.race
+      - note.replaces
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC
