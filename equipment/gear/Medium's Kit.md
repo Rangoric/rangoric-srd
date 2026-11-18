@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Medium’s Kit
 
-A starting kit for a [[rangoric-srd/classes/Medium (Class)|medium]]. It includes an automatic writing planchette, candles (10), candlesticks (10), holly and mistletoe, incense (10 sticks), a scholar’s outfit, a spell component pouch, and a wooden holy symbol.
+A starting kit for a [[rangoric-srd/classes/Medium (Class)|medium]]. It includes an automatic writing planchette, candles (10), [[rangoric-srd/equipment/gear/Candlestick|candlesticks]] (10), holly and mistletoe, incense (10 sticks), a scholar’s outfit, a spell component pouch, and a wooden holy symbol.
 
 Price 40 gp; Weight 14 lb.
