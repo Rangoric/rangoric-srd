@@ -19,4 +19,4 @@ You attack with the strength of a dragon, your telling blows striking fear into 
 
 **Benefit**: While using Dragon Style, you gain a bonus on unarmed strike damage rolls equal to half your Strength bonus. When you score a critical hit or a successful Stunning Fist attempt against an opponent while using this style, it is also [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 1d4 + your Strength bonus rounds.
 
-**Special**: This feat lets you take [[rangoric-srd/feats/Elemental Fist|Elemental Fist]] even if you don’t meet its prerequisites. If you don’t, choose one of its energy types; you can deal only that type with it until you meet its prerequisites.
+**Special**: This feat lets you take [[rangoric-srd/feats/Elemental Fist|Elemental Fist]] even if you don’t meet its prerequisites. If you don’t, choose one of its energy types; you can deal only that type with it until you meet its prerequisites. A monk with this feat can use Elemental Fist as if she were a [[rangoric-srd/class-options/archetypes/monk/Monk of the Four Winds (Archetype)|monk of the four winds]].

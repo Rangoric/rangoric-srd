@@ -139,6 +139,10 @@ The ki pool is replenished each morning after 8 hours of rest or meditation; the
 
 **Perfect Self**: At 20th level, a monk becomes a magical creature. He is forevermore treated as an outsider rather than a humanoid (or whatever his original creature type was) for the purpose of spells and magical effects. Additionally, the monk gains damage reduction 10/chaotic, which allows him to ignore the first 10 points of damage from any attack made by a nonchaotic weapon. Unlike other outsiders, the monk can still be brought back from the dead as if he were a member of his previous creature type. Finally, the monk gains the ability to enter a state of perfect calm. During this time, the monk can take no actions, but he does regain ki at the rate of 1 point per 10 minutes spent at calm. He cannot use this ability to gain an amount of ki in excess of his maximum. ^unchained-monk-perfect-self
 
+**Archetypes**: An unchained monk can take one or more of the [[rangoric-srd/classes/Monk#^monk-archetypes|monk]]’s [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others, when every feature an archetype replaces is one the unchained monk has by that name. The archetypes the unchained monk can take, with what each replaces: ^unchained-monk-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Unchained Monk]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The unchained monk’s class bonuses, by race: ^unchained-monk-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Unchained Monk]]

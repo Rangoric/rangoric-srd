@@ -19,4 +19,4 @@ You empower your strike with elemental energy
 
 **Benefit**: When you use Elemental Fist, choose acid, cold, electricity or fire. On a hit, the attack deals its normal damage plus 1d6 points of damage of that type. You must declare that you are using this feat before you make your attack roll (so a miss wastes the attempt). You can attempt an Elemental Fist attack once per day for every four character levels you have, and no more than once per round.
 
-**Special**: A [[rangoric-srd/classes/Monk|monk]] can attempt Elemental Fist a number of times per day equal to her monk level, plus one more time for every four levels she has in other classes.
+**Special**: A [[rangoric-srd/class-options/archetypes/monk/Monk of the Four Winds (Archetype)|monk of the four winds]] gains Elemental Fist as a bonus feat at 1st level, even if she doesn’t meet the prerequisites. A [[rangoric-srd/classes/Monk|monk]] can attempt Elemental Fist a number of times per day equal to her monk level, plus one more time for every four levels she has in other classes.
