@@ -70,6 +70,8 @@ Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overvi
 
 You are skilled in folk divination. The most common methods are cartomancy (reading cards), cheiromancy (reading palms), crystallomancy (crystal-gazing), extispicy (reading animal entrails), horoscopy (reading a creature’s birth stars), oneiromancy (interpreting dreams), osteomancy (reading cast bones) and pyromancy (reading flames).
 
+**Items that help**: a [[rangoric-srd/equipment/gear/Prognostication Manual|prognostication manual]].
+
 **Check**: Once per day, you can predict a creature’s fortune for the near future. You spend 10 minutes interpreting the means of divination at your disposal, then the GM attempts a secret Sense Motive check against a DC modified by the subject’s Hit Dice (see the table). The result can give you basic insight into the subject’s nature, including its alignment, class and levels or Hit Dice, and might reveal clues to its immediate future. Reading the immediate future as *[[rangoric-srd/spells/Augury|augury]]* has a chance of a meaningful reading equal to 60% plus 5% for every point by which the check result exceeds the DC (to a maximum of 90%). With one check, you learn everything whose DC you meet: for instance, with a result of 22 against a creature with 2 HD, you learn its alignment and class, but not its level, HD or fortune.
 
 | Task | DC |

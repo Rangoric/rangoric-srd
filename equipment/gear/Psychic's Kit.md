@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Psychic's Kit
 
-A starting kit for a [[rangoric-srd/classes/Psychic (Class)|psychic]]. It includes a backpack, a bedroll, a belt pouch, flint and steel, a prismatic crystal, torches (10), trail rations (5 days), and a waterskin.
+A starting kit for a [[rangoric-srd/classes/Psychic (Class)|psychic]]. It includes a backpack, a bedroll, a belt pouch, flint and steel, a [[rangoric-srd/equipment/gear/Prismatic Crystal|prismatic crystal]], torches (10), trail rations (5 days), and a waterskin.
 
 Price 35 gp; Weight 27 lb.

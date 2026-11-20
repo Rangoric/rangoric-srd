@@ -31,6 +31,8 @@ Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overvi
 
 You examine the skulls of intelligent creatures to analyze their psychological attributes, since the shape of the brain influences the shape of the skull.
 
+**Items that help**: a [[rangoric-srd/equipment/gear/Phrenologist's Kit|phrenologist's kit]].
+
 **Check**: Once per day, you can use your fingertips to examine the shape of a creature’s skull. Reading a skull takes 1 minute of concentration and scrutiny while you handle it. You can do this to a willing, [[rangoric-srd/rules/Special Abilities and Conditions#^helpless|helpless]] or paralyzed creature, or to decomposed remains (as long as the skull is intact or can be pieced together). It doesn’t work on creatures without discernible skulls, such as constructs, elementals, oozes or plants. After the minute, the GM attempts a secret Arcana check, against a DC usually modified by the subject’s Hit Dice. With one check, you learn everything whose DC you meet: for instance, with a result of 22 against a creature with 2 HD, you learn its race and age, gender, alignment and class, but not its level or HD.
 
 | Task | DC |

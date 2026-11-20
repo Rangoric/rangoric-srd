@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Spiritualist's Kit
 
-A starting kit for a [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]. It includes a backpack, a bedroll, a belt pouch, a censer, a flask of ectoplasmic residue, flint and steel, incense (10 sticks), an iron pot, magnetized paper, torches (10), trail rations (5 days), and a waterskin.
+A starting kit for a [[rangoric-srd/classes/Spiritualist (Class)|spiritualist]]. It includes a backpack, a bedroll, a belt pouch, a [[rangoric-srd/equipment/gear/Censer|censer]], a flask of [[rangoric-srd/equipment/alchemical-items/Ectoplasmic Residue|ectoplasmic residue]], flint and steel, [[rangoric-srd/equipment/gear/Incense|incense]] (10 sticks), an iron pot, [[rangoric-srd/equipment/alchemical-items/Magnetized Paper|magnetized paper]], torches (10), trail rations (5 days), and a waterskin.
 
 Price 50 gp; Weight 34 lb.
