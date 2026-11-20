@@ -109,3 +109,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/cleric/Demonic Apostle (Archetype)\|Demonic Apostle]] | [[rangoric-srd/classes/Cleric\|Cleric]] |
+| [[rangoric-srd/class-options/archetypes/fighter/Cavern Sniper (Archetype)\|Cavern Sniper]] | [[rangoric-srd/classes/Fighter\|Fighter]] |

@@ -78,3 +78,11 @@ A strix can take any of these in place of the traits they replace (see [[rangori
 A strix gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Strix]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/fighter/Airborne Ambusher (Archetype)\|Airborne Ambusher]] | [[rangoric-srd/classes/Fighter\|Fighter]] |
