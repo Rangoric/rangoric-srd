@@ -136,7 +136,7 @@ Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overvi
 
 You channel mysterious forces in the nearby environment to locate hidden resources.
 
-**Items that help**: a [[rangoric-srd/equipment/gear/Dowsing Rod|dowsing rod]].
+**Items that help**: a [[rangoric-srd/equipment/gear/Dowsing Rod|dowsing rod]], a [[rangoric-srd/magic-items/wondrous-items/Sensory Deprivation Hood|sensory deprivation hood]].
 
 **Check**: Once per day, you can follow a [[rangoric-srd/equipment/gear/Dowsing Rod|dowsing rod]]’s movements to locate a particular kind of place. Each attempt takes 10 minutes of intense concentration, after which you attempt a Fieldcraft check against the DC on the table below. The most distant thing you can detect by dowsing is 400 feet + 40 feet per rank you have in Fieldcraft. The rod’s directions last for up to 10 minutes. You choose one target each time you dowse, and on a successful check you learn the following.
 
