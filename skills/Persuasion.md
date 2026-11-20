@@ -101,6 +101,8 @@ Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overvi
 
 You use the power of suggestion and subtle psychic influence to alter a subject’s mind and dredge up repressed memories.
 
+**Items that help**: a [[rangoric-srd/equipment/gear/Hypnotist's Locket|hypnotist's locket]], a [[rangoric-srd/equipment/gear/Talking Board|talking board]] (recall memory on yourself).
+
 **Check**: You can use hypnotism once per day. The DC of a Persuasion check to hypnotize is 20 + the subject’s Will save modifier against mind-affecting enchantment (compulsion) effects. Every use of hypnotism is a mind-affecting enchantment (compulsion) effect.
 
 *Implant Suggestion*: You can implant a suggested course of reasonable action in the mind of a willing creature, along with a defined trigger. You spend 1 minute inducing a trance-like state in the subject, then attempt a Persuasion check. If you succeed, you implant the course of action, as *[[rangoric-srd/spells/Suggestion|suggestion]]* with a duration of 10 minutes plus 10 more minutes for every 1 by which your result exceeds the DC. If the subject stops being willing, it can attempt a Will save once each round to shake off the effect (DC 10 + 1/2 your character level + your Charisma modifier). You can try to implant a suggestion subtly in the mind of an unwilling creature whose [[rangoric-srd/skills/Persuasion#Influencing Attitudes|attitude]] is indifferent or better after 1 minute of continuous, calm interaction with it, but the DC is 10 higher.

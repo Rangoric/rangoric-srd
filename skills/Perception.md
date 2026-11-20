@@ -116,6 +116,8 @@ Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overvi
 
 Your psychic sensitivity lets you read the psychic and magical [[rangoric-srd/rules/Auras|auras]] of creatures and objects.
 
+**Items that help**: [[rangoric-srd/equipment/gear/Aura Goggles|aura goggles]], a [[rangoric-srd/equipment/gear/Prismatic Crystal|prismatic crystal]].
+
 **Check**: Once per day, you can examine the natural aura of a creature or object to discern its alignment, emotions, health or magic. This takes 10 minutes of concentration, after which you attempt a Perception check. Each time, you pick one of the four auras to read: alignment, emotion, health or magic. The check’s result applies only to that aura. You must stay within 30 feet of the subject for the whole reading. Objects usually have only magic auras, though some also have alignment auras (and intelligent items have emotion auras). You can try to read a kind of aura an object doesn’t have, but you learn nothing. The DC depends on the aura, as shown on the table.
 
 *Read Alignment Aura*: You learn the subject’s alignment and the aura’s strength. An alignment aura’s strength depends on the creature’s Hit Dice or the item’s caster level, as described in *[[rangoric-srd/spells/Detect Evil|detect evil]]*.
