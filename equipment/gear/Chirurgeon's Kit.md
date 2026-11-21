@@ -1,0 +1,20 @@
+---
+srd-type: "gear"
+section: "Equipment"
+gear-type: "adventuring gear"
+price: "400 gp"
+weight: "4 lb."
+book: "Ultimate Equipment"
+based-on:
+  - "[[path srd 3.5/items/adventuring-gear/Chirurgeon's Kit|Chirurgeon's Kit (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-20
+tags: [rangoric, rangoric/gear]
+---
+
+# Chirurgeon's Kit
+
+This sturdy leather case straps to the waist or thigh, or can be slung over a shoulder. It consists of a leather pouch, a [[rangoric-srd/equipment/gear/Healer's Kit|healer's kit]], a bottle of strong brandy, a *potion of [[rangoric-srd/spells/Cure Light Wounds|cure light wounds]]*, a [[rangoric-srd/equipment/gear/Vial|vial]] of smelling salts, and 2 doses each of alchemist's kindness, antiplague, [[rangoric-srd/equipment/gear/Antitoxin|antitoxin]], bloodblock, and soothe syrup.
+
+Price 400 gp; Weight 4 lb.

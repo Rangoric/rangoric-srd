@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Mesmerist's Kit
 
-A starting kit for a [[rangoric-srd/classes/Mesmerist|mesmerist]]. It includes a backpack, a bedroll, a belt pouch, an entertainer’s outfit, flint and steel, a [[rangoric-srd/equipment/gear/Hypnotist's Locket|hypnotist’s locket]], ink (1 ounce), an inkpen, an iron pot, [[rangoric-srd/equipment/gear/Stationery|stationery]], torches (10), trail rations (5 days), and a waterskin.
+A starting kit for a [[rangoric-srd/classes/Mesmerist|mesmerist]]. It includes a [[rangoric-srd/equipment/gear/Backpack|backpack]], a [[rangoric-srd/equipment/gear/Bedroll|bedroll]], a [[rangoric-srd/equipment/gear/Pouch, Belt|belt pouch]], an [[rangoric-srd/equipment/gear/Entertainer's Outfit|entertainer’s outfit]], [[rangoric-srd/equipment/gear/Flint and Steel|flint and steel]], a [[rangoric-srd/equipment/gear/Hypnotist's Locket|hypnotist’s locket]], [[rangoric-srd/equipment/gear/Ink|ink]] (1 ounce), an [[rangoric-srd/equipment/gear/Inkpen|inkpen]], an [[rangoric-srd/equipment/gear/Pot, Iron|iron pot]], [[rangoric-srd/equipment/gear/Stationery|stationery]], [[rangoric-srd/equipment/gear/Torch|torches]] (10), [[rangoric-srd/equipment/gear/Rations, Trail|trail rations]] (5 days), and a [[rangoric-srd/equipment/gear/Waterskin|waterskin]].
 
 Price 35 gp; Weight 26-1/2 lb.

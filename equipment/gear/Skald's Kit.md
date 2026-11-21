@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Skald's Kit
 
-A starting kit for a [[rangoric-srd/classes/Skald|skald]]. It includes a backpack, a bedroll, a belt pouch, a common musical instrument, a flint and steel, an iron pot, a mess kit, a mirror, rope, soap, torches (10), trail rations (5 days), and a waterskin.
+A starting kit for a [[rangoric-srd/classes/Skald|skald]]. It includes a [[rangoric-srd/equipment/gear/Backpack|backpack]], a [[rangoric-srd/equipment/gear/Bedroll|bedroll]], a [[rangoric-srd/equipment/gear/Pouch, Belt|belt pouch]], a [[rangoric-srd/equipment/gear/Musical Instrument, Common|common musical instrument]], a [[rangoric-srd/equipment/gear/Flint and Steel|flint and steel]], an [[rangoric-srd/equipment/gear/Pot, Iron|iron pot]], a [[rangoric-srd/equipment/gear/Mess Kit|mess kit]], a [[rangoric-srd/equipment/gear/Mirror, Small Steel|mirror]], [[rangoric-srd/equipment/gear/Rope, Hempen|rope]], [[rangoric-srd/equipment/gear/Soap|soap]], [[rangoric-srd/equipment/gear/Torch|torches]] (10), [[rangoric-srd/equipment/gear/Rations, Trail|trail rations]] (5 days), and a [[rangoric-srd/equipment/gear/Waterskin|waterskin]].
 
 Price 32 gp; Weight 32-1/2 lb.

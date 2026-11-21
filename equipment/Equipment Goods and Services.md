@@ -54,3 +54,5 @@ Sometimes the best solution for a problem is to hire someone else to take care o
 — *No weight, or no weight worth noting.*
 
 Gear whose weight is marked “less for Small characters” weighs one-quarter as much when made for Small characters, and containers made for Small characters also carry one-quarter the normal amount.
+
+Kits made for Small characters weigh about three-quarters as much.
