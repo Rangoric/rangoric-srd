@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Kineticist's Kit
 
-A starting kit for a [[rangoric-srd/classes/Kineticist|kineticist]]. It includes a backpack, a belt pouch, a blanket, torches (10), trail rations (5 days), and a waterskin.
+A starting kit for a [[rangoric-srd/classes/Kineticist|kineticist]]. It includes a [[rangoric-srd/equipment/gear/Backpack|backpack]], a [[rangoric-srd/equipment/gear/Pouch, Belt|belt pouch]], a [[rangoric-srd/equipment/gear/Blanket, Winter|blanket]], [[rangoric-srd/equipment/gear/Torch|torches]] (10), [[rangoric-srd/equipment/gear/Rations, Trail|trail rations]] (5 days), and a [[rangoric-srd/equipment/gear/Waterskin|waterskin]].
 
 Price 8 gp; Weight 22 lb.
