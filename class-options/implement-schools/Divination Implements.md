@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/class-option]
 
 Implements of the divination school grant powers related to foresight and remote viewing.
 
-**Implements**: Book, crystal ball, goggles, headband, lenses, planchette, tarot deck.
+**Implements**: Book, crystal ball, goggles, headband, lenses, planchette, [[rangoric-srd/equipment/gear/Tarot Deck|tarot deck]].
 
 **Spells**: the divination spells on the occultist spell list: [[rangoric-srd/spells/Occultist Spell List#^occ0-divination|knacks]], [[rangoric-srd/spells/Occultist Spell List#^occ1-divination|1st]], [[rangoric-srd/spells/Occultist Spell List#^occ2-divination|2nd]], [[rangoric-srd/spells/Occultist Spell List#^occ3-divination|3rd]], [[rangoric-srd/spells/Occultist Spell List#^occ4-divination|4th]], [[rangoric-srd/spells/Occultist Spell List#^occ5-divination|5th]], [[rangoric-srd/spells/Occultist Spell List#^occ6-divination|6th]].
 

@@ -1,0 +1,21 @@
+---
+srd-type: "gear"
+section: "Equipment"
+gear-type: "adventuring gear"
+price: "50 gp"
+weight: "3 lb."
+book: "Advanced Class Guide"
+based-on:
+  - "[[path srd 3.5/items/adventuring-gear/Roperunner|Roperunner (PF1)]]"
+  - "[[path srd 3.5 foundry/items/gear/Roperunner|Roperunner (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-20
+tags: [rangoric, rangoric/gear]
+---
+
+# Roperunner
+
+You can place this metal contraption onto a taut section of a rope connecting a high point to a lower one, allowing you to slide down the length of the rope with ease. Using a roperunner requires only one hand, leaving the other hand free during the descent. Attaching the roperunner to a rope is a move action. Beginning the descent is a swift action. You slide down the rope at a rate of 60 feet per round. This requires no action on your part, but you must move along the length of the rope in the downward direction. Retrieving the roperunner once you have come to a stop at the end of the rope is a move action. You can let go of the roperunner as a free action.
+
+Price 50 gp; Weight 3 lb.
