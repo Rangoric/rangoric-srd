@@ -33,7 +33,7 @@ Activating a scroll spell requires no material components or focus. (The creator
 
 To have any chance of activating a scroll spell, the scroll user must meet the following requirements.
 
-  - The spell must be of the correct type (arcane or divine). Arcane spellcasters (wizards, sorcerers, and bards) can only use scrolls containing arcane spells, and divine spellcasters (clerics, druids, paladins, and rangers) can only use scrolls containing divine spells. (The type of scroll a character creates is also determined by his or her class.)
+  - The spell must be of the correct type (arcane, divine or psychic). Arcane spellcasters (wizards, sorcerers, and bards) can only use scrolls containing arcane spells, divine spellcasters (clerics, druids, paladins, and rangers) can only use scrolls containing divine spells, and psychic spellcasters can only use scrolls containing [[rangoric-srd/spells/Magic Overview#^psychic-magic|psychic spells]] (see Psychic Scrolls, below). (The type of scroll a character creates is also determined by his or her class.)
 
   - The user must have the spell on his or her class list.
 
@@ -75,6 +75,16 @@ Many spells are either arcane or divine, depending on the class of the caster. S
 | ------- | ------ |
 | 01–70   | Arcane |
 | 71–100  | Divine |
+
+**Psychic Scrolls**: Psychic spellcasters scribe psychic scrolls just as arcane and divine spellcasters scribe theirs, and psychic scrolls follow all the rules for scrolls. The user of a psychic scroll provides all of the spell's components except material and focus components (which the scroll's creator provided), [[rangoric-srd/spells/Magic Overview#^thought-component|thought]] and [[rangoric-srd/spells/Magic Overview#^emotion-component|emotion]] components included. In a game with psychic magic, roll a random scroll's type on this table instead.
+
+**Table: SCROLL TYPES (WITH PSYCHIC MAGIC)**
+
+| d% roll | Type |
+| --- | --- |
+| 01–59 | Arcane |
+| 60–84 | Divine |
+| 85–100 | Psychic |
 
 **Table: NUMBER OF SPELLS ON A SCROLL**
 

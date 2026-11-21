@@ -291,6 +291,8 @@ More rings, grouped by who can use them: rings any wearer can use, by price, the
 | Magus | [[rangoric-srd/magic-items/rings/Ring of Arcane Mastery\|Ring of Arcane Mastery]] | 20,000 gp |
 | Monk, Ninja | [[rangoric-srd/magic-items/rings/Ring of Ki Mastery\|Ring of Ki Mastery]] | 10,000 gp |
 | Oracle | [[rangoric-srd/magic-items/rings/Ring of Revelation, Lesser\|Ring of Revelation]] | 10,000 gp (lesser), 16,000 gp (greater), 24,000 gp (superior) |
+| Psychic casters (medium, mesmerist, occultist, psychic, spiritualist) | [[rangoric-srd/magic-items/rings/Ring of Psychic Mastery\|Ring of Psychic Mastery]] | 50,000 gp |
+| Psychic casters (medium, mesmerist, occultist, psychic, spiritualist) | [[rangoric-srd/magic-items/rings/Ring of the Hidden Psyche\|Ring of the Hidden Psyche]] | 160,000 gp |
 | Spontaneous arcane casters (bard, sorcerer…) | [[rangoric-srd/magic-items/rings/Ring of Spell Knowledge I\|Ring of Spell Knowledge]] | 1,500 gp (I), 6,000 gp (II), 13,500 gp (III), 24,000 gp (IV) |
 | Summoner | [[rangoric-srd/magic-items/rings/Ring of Ectoplasmic Invigoration\|Ring of Ectoplasmic Invigoration]] | 12,000 gp |
 
@@ -398,19 +400,24 @@ More metamagic rods, each working as the metamagic rods above (lesser, normal, a
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Elemental\|Elemental]] | [[rangoric-srd/feats/Elemental Spell\|Elemental Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Flaring\|Flaring]] | [[rangoric-srd/feats/Flaring Spell\|Flaring Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Focused\|Focused]] | [[rangoric-srd/feats/Focused Spell\|Focused Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Furious\|Furious]] | [[rangoric-srd/feats/Furious Spell\|Furious Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Intensified\|Intensified]] | [[rangoric-srd/feats/Intensified Spell\|Intensified Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Lingering\|Lingering]] | [[rangoric-srd/feats/Lingering Spell\|Lingering Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Logical\|Logical]] | [[rangoric-srd/feats/Logical Spell\|Logical Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Piercing\|Piercing]] | [[rangoric-srd/feats/Piercing Spell\|Piercing Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Reach\|Reach]] | [[rangoric-srd/feats/Reach Spell\|Reach Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Rime\|Rime]] | [[rangoric-srd/feats/Rime Spell\|Rime Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Scarring\|Scarring]] | [[rangoric-srd/feats/Scarring Spell\|Scarring Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Selective\|Selective]] | [[rangoric-srd/feats/Selective Spell\|Selective Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Burning\|Burning]] | [[rangoric-srd/feats/Burning Spell\|Burning Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Concussive\|Concussive]] | [[rangoric-srd/feats/Concussive Spell\|Concussive Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Fearsome\|Fearsome]] | [[rangoric-srd/feats/Fearsome Spell\|Fearsome Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Persistent\|Persistent]] | [[rangoric-srd/feats/Persistent Spell\|Persistent Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Sickening\|Sickening]] | [[rangoric-srd/feats/Sickening Spell\|Sickening Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Thanatopic\|Thanatopic]] | [[rangoric-srd/feats/Thanatopic Spell\|Thanatopic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Threnodic\|Threnodic]] | [[rangoric-srd/feats/Threnodic Spell\|Threnodic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Thundering\|Thundering]] | [[rangoric-srd/feats/Thundering Spell\|Thundering Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Traumatic\|Traumatic]] | [[rangoric-srd/feats/Traumatic Spell\|Traumatic Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Dazing\|Dazing]] | [[rangoric-srd/feats/Dazing Spell\|Dazing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Echoing\|Echoing]] | [[rangoric-srd/feats/Echoing Spell\|Echoing Spell]] | 14,000 gp | 54,000 gp | 121,500 gp |
 
@@ -440,12 +447,14 @@ More rods, grouped by who can use them: rods any wielder can use, by price, then
 | [[rangoric-srd/magic-items/rods/Earthbind Rod\|Earthbind Rod]] | 26,500 gp |
 | [[rangoric-srd/magic-items/rods/Rod of the Aboleth\|Rod of the Aboleth]] | 29,000 gp |
 | [[rangoric-srd/magic-items/rods/Liberator's Rod\|Liberator's Rod]] | 30,000 gp |
+| [[rangoric-srd/magic-items/rods/Witching Rod\|Witching Rod]] | 31,000 gp |
 | [[rangoric-srd/magic-items/rods/Rod of Steadfast Resolve\|Rod of Steadfast Resolve]] | 38,305 gp |
 | [[rangoric-srd/magic-items/rods/Rod of Nonresistance\|Rod of Nonresistance]] | 40,000 gp |
 | [[rangoric-srd/magic-items/rods/Rod of Destruction\|Rod of Destruction]] | 57,100 gp |
 | [[rangoric-srd/magic-items/rods/Rod of Shadows\|Rod of Shadows]] | 64,305 gp |
 | [[rangoric-srd/magic-items/rods/Rod of Mind Mastery\|Rod of Mind Mastery]] | 67,000 gp |
 | [[rangoric-srd/magic-items/rods/Scepter of Heaven\|Scepter of Heaven]] | 74,000 gp |
+| [[rangoric-srd/magic-items/rods/Caduceus Rod\|Caduceus Rod]] | 142,000 gp |
 
 **With a class feature or a race**
 
@@ -457,3 +466,6 @@ More rods, grouped by who can use them: rods any wielder can use, by price, then
 | Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Potent Hexes\|Rod of Potent Hexes]] | 9,000 gp |
 | Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Voracious Hexes\|Rod of Voracious Hexes]] | 32,500 gp |
 | Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Abrupt Hexes\|Rod of Abrupt Hexes]] | 35,000 gp |
+| Kineticist | [[rangoric-srd/magic-items/rods/Overflowing Rod\|Overflowing Rod]] | 25,000 gp |
+| Kineticist | [[rangoric-srd/magic-items/rods/Hollow Rod\|Hollow Rod]] | 121,500 gp |
+| Occultist | [[rangoric-srd/magic-items/rods/Refocusing Rod\|Refocusing Rod]] | 5,000 gp |
