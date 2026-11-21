@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Occultist's Kit
 
-A starting kit for an [[rangoric-srd/classes/Occultist|occultist]]. It includes a backpack, a bedroll, a belt pouch, chalk (10 pieces), flint and steel, ink (1 ounce), an inkpen, an iron pot, a journal, occultist’s implements (2), torches (10), trail rations (5 days), and a waterskin.
+A starting kit for an [[rangoric-srd/classes/Occultist|occultist]]. It includes a backpack, a bedroll, a belt pouch, chalk (10 pieces), flint and steel, ink (1 ounce), an inkpen, an iron pot, a [[rangoric-srd/equipment/gear/Journal|journal]], occultist’s implements (2), torches (10), trail rations (5 days), and a waterskin.
 
 Price 45 gp; Weight 32-1/2 lb.

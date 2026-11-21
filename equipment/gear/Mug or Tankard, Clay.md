@@ -6,12 +6,15 @@ price: "2 cp"
 weight: "1 lb."
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
+  - "[[path srd 3.5/items/goods-and-services/Mug-Tankard|Mug-Tankard (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-17
+pi-review: 2026-11-20
 tags: [rangoric, rangoric/gear]
 ---
 
 # Mug or Tankard, Clay
+
+Whether it is a simple pottery cup or an elaborate drinking stein with a handle and decorative lid that flips up, this cup may be used to hold any sort of beverage. Tankards are commonly made out of clay or tin.
 
 Price 2 cp; Weight 1 lb.
