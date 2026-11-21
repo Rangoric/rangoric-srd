@@ -74,7 +74,7 @@ Occult skill unlocks need the ability to cast [[rangoric-srd/spells/Magic Overvi
 
 You apply esoteric principles to temporarily suspend or remove curses, diseases and ability damage.
 
-**Items that help**: a [[rangoric-srd/equipment/gear/Portable Sweat Lodge|portable sweat lodge]].
+**Items that help**: a [[rangoric-srd/equipment/gear/Portable Sweat Lodge|portable sweat lodge]], an [[rangoric-srd/magic-items/wondrous-items/Orgone Accumulator|orgone accumulator]].
 
 **Check**: You can use faith healing once per day. The DC and effect of the Medicine check depend on the task you attempt. You can’t use faith healing on yourself.
 

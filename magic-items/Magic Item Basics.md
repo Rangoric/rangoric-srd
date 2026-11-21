@@ -114,6 +114,8 @@ A humanoid-shaped body can be decked out in magic gear consisting of one item fr
   - **Headband**: bands, headbands, phylacteries, and other non-head-slot items that can be worn on the head.
   - **Legs**: greaves, leggings, trousers, and other items worn on the legs.
   - **Neck**: amulets, brooches, medallions, necklaces, periapts, and scarabs.
+
+    **Talismans**: These amulets are imbued with magic that protects their wearer against one specific danger. A talisman triggers automatically as soon as its condition is met. Although talismans occupy the neck slot, up to three talismans can be worn on one cord or chain, so that the wearer has more kinds of protection, but a wearer can benefit from only one talisman's effect at a time. If a talisman would trigger while its wearer is under another talisman's effect, it doesn't trigger and can still be used later. ^talismans
   - **Ring (up to two)**: rings.
   - **Shoulders**: capes and cloaks.
   - **Wrists**: bracelets and bracers.
