@@ -26,6 +26,8 @@ Constrictor snakes hunt by grabbing prey with their mouths and then squeezing it
 **Improved Grab (Ex)**: To use this ability, a constrictor snake must hit with its bite attack. It can then attempt to start a grapple as a free action without provoking an attack of opportunity. If it wins the grapple check, it establishes a hold and can constrict.
 
   - [[rangoric-srd/monsters/snake/Constrictor Snake, Giant|Constrictor Snake, Giant]]
+  - [[rangoric-srd/monsters/snake/Emperor Cobra|Emperor Cobra]]
+  - [[rangoric-srd/monsters/snake/Giant Anaconda|Giant Anaconda]]
   - [[rangoric-srd/monsters/snake/Viper Snake|Viper Snake]]
 
 #### Combat

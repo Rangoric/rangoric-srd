@@ -72,6 +72,7 @@ tags: [rangoric, rangoric/monster]
   - Duergar Monks: [[rangoric-srd/monsters/duergar/Duergar Anvil|Duergar Anvil]] (CR 1), [[rangoric-srd/monsters/duergar/Duergar Hammer|Duergar Hammer]] (CR 11)
   - Duergar Soldiers: [[rangoric-srd/monsters/duergar/Duergar Sergeant|Duergar Sergeant]] (CR 1), [[rangoric-srd/monsters/duergar/Duergar Captain|Duergar Captain]] (CR 8)
   - Duergar High Priest: [[rangoric-srd/monsters/duergar/Duergar High Priest|Duergar High Priest]] (CR 12)
+  - Duergar Mounts: [[rangoric-srd/monsters/Dark Spitter Beetle|Dark Spitter Beetle]] (CR 3), [[rangoric-srd/monsters/Juggernaut Beetle|Juggernaut Beetle]] (CR 14)
 
 Cousins to dwarves, duergar are foul-tempered creatures that loathe intruders to their underground realms—but not nearly as much as they do their kinfolk closer to the surface.
 

@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Yzobu
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature (a yzobu).*
+*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature (a [[rangoric-srd/monsters/Yzobu|yzobu]]).*
 
 - **Size**: Medium
 - **Speed**: 40 ft.

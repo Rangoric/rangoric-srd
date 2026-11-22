@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/class-option]
 
 # Gorthek
 
-*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature (a gorthek).*
+*An [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companion]] that a [[rangoric-srd/classes/Druid#^druid-animal-companion|druid]] can choose in place of a base creature (a [[rangoric-srd/monsters/Gorthek|gorthek]]).*
 
 - **Size**: Medium
 - **Speed**: 40 ft.

@@ -71,6 +71,7 @@ tags: [rangoric, rangoric/monster]
   - Ghoul Commander: [[rangoric-srd/monsters/ghoul/Ghoul Commander|Ghoul Commander]] (CR 8)
   - Ghoul Monarch: [[rangoric-srd/monsters/ghoul/Ghoul Monarch|Ghoul Monarch]] (CR 12)
   - [[rangoric-srd/monsters/ghoul/Ghoul Hound|Ghoul Hound]] (CR 1)
+  - [[rangoric-srd/monsters/Corpse Cat|Corpse Cat]]
 
 Ghouls are undead that haunt graveyards and eat corpses. Legends hold that the first ghouls were either cannibalistic humans whose unnatural hunger dragged them back from death or humans who in life fed on the rotting remains of their kin and died (and were reborn) from the foul disease—the true source of these undead scavengers is unclear.
 

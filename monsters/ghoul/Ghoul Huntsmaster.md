@@ -68,7 +68,7 @@ A ghoul huntsmaster speaks Common and Undercommon.
 
 ### Combat
 
-**Before Combat**: The huntsmaster casts longstrider and uses his wand of greater magic fang on himself as well as on his animal companion.
+**Before Combat**: The huntsmaster casts longstrider and uses his wand of greater magic fang on himself as well as on his [[rangoric-srd/monsters/Corpse Cat|animal companion]].
 
 **Base Statistics**: Without longstrider and greater magic fang, the huntsmaster's statistics are **Speed** 30 ft; **Melee** bite +12 (1d6+2 plus disease and paralysis), 2 claws +13 (1d8+2 plus paralysis).
 

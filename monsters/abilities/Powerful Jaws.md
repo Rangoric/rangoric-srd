@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["quality"]
+book: "Bestiary"
+based-on:
+  - "[[path srd 3.5/monsters/Marsupial, Thylacine|Marsupial, Thylacine (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Powerful Jaws
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “powerful jaws”, on the Special Qualities line.
+
+The creature's muscular jaws threaten a critical hit on a natural roll of 19 or 20. The [[rangoric-srd/monsters/Thylacine|thylacine]] has it.

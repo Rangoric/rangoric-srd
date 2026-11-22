@@ -14,6 +14,7 @@ tags: [rangoric, rangoric/overview]
 ## Dark Mantle - Devourer
 
   - [[rangoric-srd/monsters/Dark Creeper|Dark Creeper]]
+  - [[rangoric-srd/monsters/Dark Spitter Beetle|Dark Spitter Beetle]]
   - [[rangoric-srd/monsters/Dark Stalker|Dark Stalker]]
   - [[rangoric-srd/monsters/Darkmantle|Darkmantle]]
   - [[rangoric-srd/monsters/Delver|Delver]]

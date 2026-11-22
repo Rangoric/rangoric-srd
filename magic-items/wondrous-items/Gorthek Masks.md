@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Gorthek Masks
 
-This set consists of two masks of hammered iron, one sized for a gorthek's face and the other sized for the face of its [[rangoric-srd/monsters/orc/Orc|orc]] handler. To bond a gorthek with its handler, orcs permanently nail the *gorthek masks* to the respective wearers' faces. The magic functions only when the *gorthek masks* are affixed to one orc and one gorthek. It doesn't work with animals other than gortheks. There's only a 60% chance an orc's mask will function when affixed to a non-orc humanoid—and it's impossible to tell whether a mask will work until after it has been permanently attached.
+This set consists of two masks of hammered iron, one sized for a [[rangoric-srd/monsters/Gorthek|gorthek]]'s face and the other sized for the face of its [[rangoric-srd/monsters/orc/Orc|orc]] handler. To bond a gorthek with its handler, orcs permanently nail the *gorthek masks* to the respective wearers' faces. The magic functions only when the *gorthek masks* are affixed to one orc and one gorthek. It doesn't work with animals other than gortheks. There's only a 60% chance an orc's mask will function when affixed to a non-orc humanoid—and it's impossible to tell whether a mask will work until after it has been permanently attached.
 
 The orc's mask is fashioned with horns on the side, resembling those of a gorthek. With its bonded gorthek, the wearer gains the benefits of *[[rangoric-srd/spells/Speak with Animals|speak with animals]]* and a +10 competence bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks.
 

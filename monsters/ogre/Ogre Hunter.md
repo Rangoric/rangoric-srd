@@ -69,4 +69,4 @@ An ogre hunter speaks Giant.
 
 ### Combat
 
-**During Combat**: The hunter prefers to charge into melee to make use of his rhino hide charge bonus. If he has an advantage in the battle, he uses nonlethal attacks to capture prey alive, because live captives are more fun for him and his family. He sets his [[rangoric-srd/class-options/animal-companions/Wolf (Animal Companion)|wolf companion]] on any spellcasters who are bothering him. If he thinks he might be slain, he mercilessly carves through his foes, focusing on killing any humans first.
+**During Combat**: The hunter prefers to charge into melee to make use of his rhino hide charge bonus. If he has an advantage in the battle, he uses nonlethal attacks to capture prey alive, because live captives are more fun for him and his family. He sets his [[rangoric-srd/monsters/Wolf Companion|wolf companion]] on any spellcasters who are bothering him. If he thinks he might be slain, he mercilessly carves through his foes, focusing on killing any humans first.

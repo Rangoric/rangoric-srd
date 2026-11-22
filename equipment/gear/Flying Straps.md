@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/gear]
 
 # Flying Straps
 
-These crude straps are used to secure a goblin or other small creature to the underside of a [[rangoric-srd/monsters/dire-animal/Dire Bat|dire bat]] or giant vulture. These straps count as an exotic [[rangoric-srd/equipment/gear/Saddle, Exotic Riding|riding saddle]]. If the mount fails an [[rangoric-srd/skills/Acrobatics#Flying|Acrobatics]] check to fly, there's a 50% chance the straps break and the rider falls. Masterwork flying straps count as an exotic [[rangoric-srd/equipment/gear/Saddle, Exotic Military|military saddle]], and don't have a chance to break if the mount fails an Acrobatics check to fly.
+These crude straps are used to secure a goblin or other small creature to the underside of a [[rangoric-srd/monsters/dire-animal/Dire Bat|dire bat]] or [[rangoric-srd/monsters/Giant Vulture|giant vulture]]. These straps count as an exotic [[rangoric-srd/equipment/gear/Saddle, Exotic Riding|riding saddle]]. If the mount fails an [[rangoric-srd/skills/Acrobatics#Flying|Acrobatics]] check to fly, there's a 50% chance the straps break and the rider falls. Masterwork flying straps count as an exotic [[rangoric-srd/equipment/gear/Saddle, Exotic Military|military saddle]], and don't have a chance to break if the mount fails an Acrobatics check to fly.
 
 Price 10 gp; Weight 10 lb.

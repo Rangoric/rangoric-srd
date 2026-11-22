@@ -13,11 +13,13 @@ tags: [rangoric, rangoric/overview]
 
 ## Kobold - Lycanthrope
 
+  - [[rangoric-srd/monsters/Kangaroo|Kangaroo]]
   - [[rangoric-srd/monsters/Kin o’ the Green|Kin o’ the Green]]
   - [[rangoric-srd/monsters/kobold/Kobold|Kobold]]
   - [[rangoric-srd/monsters/Korred|Korred]]
   - [[rangoric-srd/monsters/Kraken|Kraken]]
   - [[rangoric-srd/monsters/Krenshar|Krenshar]]
+  - [[rangoric-srd/monsters/Kyrana|Kyrana]]
   - [[rangoric-srd/monsters/Lamia|Lamia]]
   - [[rangoric-srd/monsters/Lammasu|Lammasu]]
   - [[rangoric-srd/monsters/agathion/Leonal|Leonal]]

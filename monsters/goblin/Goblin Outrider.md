@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/monster]
   - **Environment**: Temperate forest and plains (usually coastal regions)
   - **Organization**: Solitary, or with other goblins (see [[rangoric-srd/monsters/goblin/Goblin|Goblin]])
   - **Challenge Rating**: 1
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), alchemist's fire (4), tanglefoot bags (2); other gear: studded leather, heavy wooden shield, masterwork dogslicer, shortbow with 20 masterwork arrows, tindertwigs (7), giant gecko mount, 2 gp)
+  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potions of cure light wounds (2), alchemist's fire (4), tanglefoot bags (2); other gear: studded leather, heavy wooden shield, masterwork dogslicer, shortbow with 20 masterwork arrows, tindertwigs (7), [[rangoric-srd/monsters/Giant Gecko|giant gecko]] mount, 2 gp)
   - **Alignment**: Usually neutral evil
   - **Advancement**: By character class
   - **Level Adjustment**: —
