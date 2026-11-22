@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/overview]
 
   - [[rangoric-srd/monsters/Kangaroo|Kangaroo]]
   - [[rangoric-srd/monsters/Kin o’ the Green|Kin o’ the Green]]
+  - [[rangoric-srd/monsters/King Crab|King Crab]]
   - [[rangoric-srd/monsters/kobold/Kobold|Kobold]]
   - [[rangoric-srd/monsters/Korred|Korred]]
   - [[rangoric-srd/monsters/Kraken|Kraken]]

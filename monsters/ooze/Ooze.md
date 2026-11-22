@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/ooze/Ooze|Ooze (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -19,7 +19,9 @@ Oozes attack any creatures they encounter. They lash out with pseudopods or simp
 
 **Blindsight (Ex)**: An ooze’s entire body is a primitive sensory organ that can ascertain prey by scent and vibration within 60 feet.
 
+  - [[rangoric-srd/monsters/ooze/Amoeba Swarm|Amoeba Swarm]]
   - [[rangoric-srd/monsters/ooze/Black Pudding|Black Pudding]]
   - [[rangoric-srd/monsters/ooze/Gelatinous Cube|Gelatinous Cube]]
+  - [[rangoric-srd/monsters/ooze/Giant Amoeba|Giant Amoeba]]
   - [[rangoric-srd/monsters/ooze/Gray Ooze|Gray Ooze]]
   - [[rangoric-srd/monsters/ooze/Ochre Jelly|Ochre Jelly]]
