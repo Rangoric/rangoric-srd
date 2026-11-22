@@ -3,59 +3,64 @@ srd-type: "monster"
 section: "Monsters"
 size: "Tiny"
 creature-type: "Animal"
-hit-dice: "1/4 d8 (1 hp)"
+hit-dice: "1d8–1 (3 hp)"
 initiative: "+2"
 speed: "10 ft. (2 squares), fly 40 ft. (average)"
-armor-class: "14 (+2 size, +2 Dex), touch 14, flat-footed 12"
+armor-class: "14 (+2 Dex, +2 size), touch 14, flat-footed 12"
 base-attack: "+0"
 cmb: "+0"
-cmd: "5"
-attack: "Claws +4 melee (1d2–5)"
-full-attack: "Claws +4 melee (1d2–5)"
+cmd: "6"
+attack: "Bite +4 melee (1d3–4)"
+full-attack: "Bite +4 melee (1d3–4)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
-saves: "Fort +2, Ref +4, Will +2"
-abilities: "Str 1, Dex 15, Con 10, Int 2, Wis 14, Cha 6"
-skills: "Perception +9"
-skill-ranks: "Perception 1"
-feats: "Skill Focus (Perception), Weapon Finesse (B)"
-environment: "Temperate forests"
-organization: "Solitary"
+saves: "Fort +1, Ref +4, Will +2"
+abilities: "Str 2, Dex 15, Con 8, Int 2, Wis 15, Cha 7"
+skills: "Acrobatics +6, Perception +3"
+skill-ranks: "Acrobatics 0, Perception 1"
+feats: "Skill Focus (Perception), Weapon Finesse"
+environment: "Any temperate"
+organization: "Solitary, pair, flock (3–12), or unkindness (13–100)"
 challenge-rating: "1/6"
+treasure: "None"
+alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Familiar, Raven|Familiar, Raven (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Raven|Raven (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
-
 # Raven
 
-  - Tiny Animal
-  - **Hit Dice**: 1/4 d8 (1 hp)
+  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
+  - **Hit Dice**: 1d8–1 (3 hp)
   - **Initiative**: +2
   - **Speed**: 10 ft. (2 squares), fly 40 ft. (average)
-  - **Armor Class**: 14 (+2 size, +2 Dex), touch 14, flat-footed 12
-  - **Base Attack**: +0; **CMB**: +0; **CMD**: 5
-  - **Attack**: Claws +4 melee (1d2–5)
-  - **Full Attack**: Claws +4 melee (1d2–5)
+  - **Armor Class**: 14 (+2 Dex, +2 size), touch 14, flat-footed 12
+  - **Base Attack**: +0; **CMB**: +0; **CMD**: 6
+  - **Attack**: Bite +4 melee (1d3–4)
+  - **Full Attack**: Bite +4 melee (1d3–4)
   - **Space/Reach**: 2-1/2 ft./0 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision
-  - **Saves**: Fort +2, Ref +4, Will +2
-  - **Abilities**: Str 1, Dex 15, Con 10, Int 2, Wis 14, Cha 6
-  - **Skills**: Perception +9
-  - **Feats**: Skill Focus (Perception), Weapon Finesse (B)
-  - **Environment**: Temperate forests
-  - **Organization**: Solitary
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
+  - **Saves**: Fort +1, Ref +4, Will +2
+  - **Abilities**: Str 2, Dex 15, Con 8, Int 2, Wis 15, Cha 7
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +6, [[rangoric-srd/skills/Perception|Perception]] +3
+  - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
+  - **Environment**: Any temperate
+  - **Organization**: Solitary, pair, flock (3–12), or unkindness (13–100)
   - **Challenge Rating**: 1/6
+  - **Treasure**: None
+  - **Alignment**: Usually neutral
   - **Advancement**: —
   - **Level Adjustment**: —
 
-These glossy black birds are about 2 feet long and have wingspans of about 4 feet. They combine both claws into a single attack.
+The raven is an omnivorous scavenger that eats carrion, insects, food waste, berries, and even small animals.
 
-The statistics presented here can describe most nonpredatory birds of similar size.
+These glossy black birds are about 2 feet long and have wingspans of about 4 feet.

@@ -6,60 +6,63 @@ creature-type: "Animal"
 hit-dice: "1d8 (4 hp)"
 initiative: "+3"
 speed: "10 ft. (2 squares), fly 60 ft. (average)"
-armor-class: "17 (+2 size, +3 Dex, +2 natural), touch 15, flat-footed 14"
+armor-class: "15 (+3 Dex, +2 size), touch 15, flat-footed 12"
 base-attack: "+0"
 cmb: "+1"
 cmd: "9"
-attack: "Talons +5 melee (1d4–2)"
-full-attack: "Talons +5 melee (1d4–2)"
+attack: "Talon +5 melee (1d4–2)"
+full-attack: "2 talons +5 melee (1d4–2)"
 space-reach: "2-1/2 ft./0 ft."
 special-attacks: "—"
 special-qualities: "Low-light vision"
 saves: "Fort +2, Ref +5, Will +2"
-abilities: "Str 6, Dex 17, Con 10, Int 2, Wis 14, Cha 6"
-skills: "Perception +17"
-skill-ranks: "Perception 1"
-feats: "Skill Focus (Perception), Weapon Finesse (B)"
+abilities: "Str 6, Dex 17, Con 11, Int 2, Wis 14, Cha 7"
+skills: "Acrobatics +7, Perception +14"
+skill-ranks: "Acrobatics 0, Perception 1"
+feats: "Weapon Finesse"
 environment: "Temperate forests"
 organization: "Solitary or pair"
 challenge-rating: "1/3"
+treasure: "None"
+alignment: "Usually neutral"
 advancement: "—"
 level-adjustment: "—"
+book: "Bestiary"
 based-on:
+  - "[[path srd 3.5/monsters/Familiar, Hawk|Familiar, Hawk (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Hawk|Hawk (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
-
 # Hawk
 
-  - Tiny Animal
+  - Tiny [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^animal|Animal]]
   - **Hit Dice**: 1d8 (4 hp)
   - **Initiative**: +3
   - **Speed**: 10 ft. (2 squares), fly 60 ft. (average)
-  - **Armor Class**: 17 (+2 size, +3 Dex, +2 natural), touch 15, flat-footed 14
+  - **Armor Class**: 15 (+3 Dex, +2 size), touch 15, flat-footed 12
   - **Base Attack**: +0; **CMB**: +1; **CMD**: 9
-  - **Attack**: Talons +5 melee (1d4–2)
-  - **Full Attack**: Talons +5 melee (1d4–2)
+  - **Attack**: Talon +5 melee (1d4–2)
+  - **Full Attack**: 2 talons +5 melee (1d4–2)
   - **Space/Reach**: 2-1/2 ft./0 ft.
   - **Special Attacks**: —
-  - **Special Qualities**: Low-light vision
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]]
   - **Saves**: Fort +2, Ref +5, Will +2
-  - **Abilities**: Str 6, Dex 17, Con 10, Int 2, Wis 14, Cha 6
-  - **Skills**: Perception +17
-  - **Feats**: Skill Focus (Perception), Weapon Finesse (B)
+  - **Abilities**: Str 6, Dex 17, Con 11, Int 2, Wis 14, Cha 7
+  - **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Perception|Perception]] +14
+  - **Feats**: [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
   - **Environment**: Temperate forests
   - **Organization**: Solitary or pair
   - **Challenge Rating**: 1/3
+  - **Treasure**: None
+  - **Alignment**: Usually neutral
   - **Advancement**: —
   - **Level Adjustment**: —
 
-**These creatures are similar to eagles but slightly smaller**: 1 to 2 feet long, with wingspans of 6 feet or less.
+Falconers prize these majestic birds as trained hunting companions if raised from chicks and properly instructed.
 
-#### Combat
+### Combat
 
 Hawks combine both talons into a single attack.
-
-**Skills**: Hawks have a +8 racial bonus on Perception checks.
