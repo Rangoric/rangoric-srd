@@ -31,6 +31,12 @@ Every piece of gear, substance, tool, outfit, food and lodging, mount and mountâ
 
 ![[rangoric-srd/equipment/gear/Gear Index.base#Clothing]]
 
+#### Entertainment
+
+Many adventurers like to sit down and play a game now and then to pass the time, or make some easy gold.
+
+![[rangoric-srd/equipment/gear/Gear Index.base#Entertainment]]
+
 #### Food, Drink, and Lodging
 
 ![[rangoric-srd/equipment/gear/Gear Index.base#Food, Drink, and Lodging]]

@@ -77,6 +77,20 @@ views:
       - property: file.name
         direction: ASC
   - type: table
+    name: Entertainment
+    filters:
+      and:
+        - note["gear-type"] == "entertainment"
+    order:
+      - file.name
+      - note.price
+      - note.weight
+    sort:
+      - property: formula.gp
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
     name: Food, Drink, and Lodging
     filters:
       and:

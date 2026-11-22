@@ -15,6 +15,6 @@ tags: [rangoric, rangoric/gear]
 
 # Entertainer's Kit
 
-This kit includes juggling balls, colored handkerchiefs, playing cards, clownish makeup, and other simple props for stage magicians and other street entertainers.
+This kit includes juggling balls, colored handkerchiefs, playing [[rangoric-srd/equipment/gear/Cards|cards]], clownish makeup, and other simple props for stage magicians and other street entertainers.
 
 Price 5 sp; Weight 3 lb.
