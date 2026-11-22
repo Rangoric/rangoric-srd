@@ -1,0 +1,24 @@
+---
+srd-type: "alchemical-item"
+section: "Equipment"
+book: "Ultimate Equipment"
+category: ["Alchemical Tool"]
+magical: false
+dc: "30"
+price: "60 gp"
+based-on:
+  - "[[path srd 3.5/items/alchemical-tools/Rusting Powder|Rusting Powder (PF1)]]"
+  - "[[path srd 3.5 foundry/items/gear/Rusting Powder|Rusting Powder (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/alchemical-item]
+---
+
+# Rusting Powder
+
+This flaky brown powder derived from rust monster fluids causes iron and similar metals to corrode and fall apart. If you apply a dose of rusting powder to a metal lock or trap as part of an [[rangoric-srd/skills/Engineering|Engineering]] check to disable a trap or a [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] check to pick a lock, you gain a +5 alchemical bonus to open the lock or disable the trap, but there is a 75% chance that the mechanism is destroyed and cannot be used afterward. If the check fails, the mechanism is destroyed. A destroyed lock cannot be unlocked (but still counts as locked for the purpose of opening the locked object). A destroyed trap mechanism immediately triggers the trap. If you fail the DC by 5 or more, the powder also lands on an object in your square (including possibly your armor or weapon), dealing 5 hit points of damage to the object.
+
+Rusting powder is sold in a paper tube; you apply it by tearing the ends off the tube and blowing the flakes into the target device. Rusting powder does not affect gold, silver, copper, bronze, brass, or mithral, but easily affects iron, steel, and adamantine.
+
+[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 30; Price 60 gp.
