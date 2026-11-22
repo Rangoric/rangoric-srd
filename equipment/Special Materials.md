@@ -41,6 +41,7 @@ based-on:
   - "[[path srd 3.5/items/special-materials/Griffon Mane|Griffon Mane (PF1)]]"
   - "[[path srd 3.5/items/special-materials/Living Steel|Living Steel (PF1)]]"
   - "[[path srd 3.5/items/special-materials/Viridium|Viridium (PF1)]]"
+  - "[[path srd 3.5/items/uncommon-race/Whipwood|Whipwood (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Primitive Armor and Weapons#Primitive Materials|Primitive Materials (PF1)]]"
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Bone|Bone (PF1)]]"
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Bronze|Bronze (PF1)]]"
@@ -49,7 +50,7 @@ based-on:
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Stone|Stone (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -366,6 +367,12 @@ Viridium weapons have half the hardness of their base weapon and have the [[rang
 | --- | --- |
 | Ammunition | +20 gp per item |
 | Weapon | +200 gp |
+
+**Whipwood**: [[rangoric-srd/races/Vanara|Vanara]] woodworkers craft this extremely flexible material in a time-consuming process. Whipwood is actually a composite of several bendable wooden fibers woven and fused together to form a flexible but sturdy unit. Only wooden weapons or weapons with wooden hafts (such as axes and spears) can be made out of whipwood. A creature wielding a whipwood weapon treats its [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] as +2 higher for the purpose of avoiding [[rangoric-srd/combat/Combat Maneuvers#Sunder|sunder]] attempts against that weapon. A whipwood weapon's hit points increase by +5. Whipwood loses its special qualities if under the effect of an *[[rangoric-srd/spells/Ironwood|ironwood]]* spell. ^whipwood
+
+| Type of Whipwood Item | Item Cost Modifier |
+| --- | --- |
+| Wooden or wood-hafted weapon | +500 gp |
 
 ##### Primitive Materials
 

@@ -5,7 +5,7 @@ based-on:
   - "[[fantasy srd 3.5/magic-items/Magic Potions, Rings, and Rods|Magic Potions, Rings, and Rods (3.5)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -409,6 +409,7 @@ More metamagic rods, each working as the metamagic rods above (lesser, normal, a
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Rime\|Rime]] | [[rangoric-srd/feats/Rime Spell\|Rime Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Scarring\|Scarring]] | [[rangoric-srd/feats/Scarring Spell\|Scarring Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Selective\|Selective]] | [[rangoric-srd/feats/Selective Spell\|Selective Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
+| [[rangoric-srd/magic-items/rods/Metamagic Rod, Toppling\|Toppling]] | [[rangoric-srd/feats/Toppling Spell\|Toppling Spell]] | 3,000 gp | 11,000 gp | 24,500 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Burning\|Burning]] | [[rangoric-srd/feats/Burning Spell\|Burning Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Concussive\|Concussive]] | [[rangoric-srd/feats/Concussive Spell\|Concussive Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
 | [[rangoric-srd/magic-items/rods/Metamagic Rod, Fearsome\|Fearsome]] | [[rangoric-srd/feats/Fearsome Spell\|Fearsome Spell]] | 9,000 gp | 32,500 gp | 73,000 gp |
