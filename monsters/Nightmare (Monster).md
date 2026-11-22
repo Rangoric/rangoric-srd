@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 Nightmares are flaming harbingers of death. They allow only the most evil of creatures to ride them, and are never mere mounts, but rather willing partners in destruction.
 
-The cauchemar is a more dangerous variant of the nightmare, particularly valued for its ability to enter the Ethereal Plane with its rider in addition to being able to use *[[rangoric-srd/spells/Plane Shift|plane shift]]* to invade other realities.
+The [[rangoric-srd/monsters/Cauchemar|cauchemar]] is a more dangerous variant of the nightmare, particularly valued for its ability to enter the Ethereal Plane with its rider in addition to being able to use *[[rangoric-srd/spells/Plane Shift|plane shift]]* to invade other realities.
 
 Nightmares speak Abyssal and Infernal.
 

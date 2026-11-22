@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters Dr to Dw|Monsters Dr to Dw (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -13,8 +13,11 @@ tags: [rangoric, rangoric/overview]
 
 ## Dragon - Dwarf
 
+  - [[rangoric-srd/monsters/Dracolisk|Dracolisk]]
   - [[rangoric-srd/monsters/Dragon, True|Dragon, True]]
   - [[rangoric-srd/monsters/chromatic-dragons/Chromatic Dragons|Chromatic Dragons]]
+  - [[rangoric-srd/monsters/Drow Noble|Drow Noble]]
+  - [[rangoric-srd/monsters/Drow, 1st-Level Warrior|Drow, 1st-Level Warrior]]
   - [[rangoric-srd/monsters/metallic-dragons/Metallic Dragons|Metallic Dragons]]
   - [[rangoric-srd/monsters/Dragon Turtle|Dragon Turtle]]
   - [[rangoric-srd/monsters/Dragonne|Dragonne]]

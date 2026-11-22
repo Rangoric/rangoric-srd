@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/golem/Golem|Golem (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -38,5 +38,7 @@ The creator must cast the spells personally, but they can come from outside sour
   - [[rangoric-srd/monsters/golem/Flesh Golem|Flesh Golem]]
   - [[rangoric-srd/monsters/golem/Force Guardian Golem|Force Guardian Golem]]
   - [[rangoric-srd/monsters/golem/Golem Armor (Construct)|Golem Armor (Construct)]]
+  - [[rangoric-srd/monsters/golem/Ice Golem|Ice Golem]]
   - [[rangoric-srd/monsters/golem/Iron Golem|Iron Golem]]
   - [[rangoric-srd/monsters/golem/Stone Golem|Stone Golem]]
+  - [[rangoric-srd/monsters/golem/Wood Golem|Wood Golem]]
