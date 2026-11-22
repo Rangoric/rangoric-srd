@@ -67,112 +67,132 @@ Each armor, shield and extra has its own note in the `armor` folder, linked from
 
 %% generated: armor table %%
 
-| Armor                                                                                  | Cost      | Armor/Shield Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
-| -------------------------------------------------------------------------------------- | --------- | ------------------ | ----------------- | ------------------- | --------------------------- | -------------- | -------------- | ---------- |
-| Light armor                                                                            |           |                    |                   |                     |                             |                |                |            |
-| [[rangoric-srd/equipment/armor/Fetish Armor\|Fetish]]                                  | 25 gp     | 0                  | +8                | 0                   | —                           | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Silken Web\|Silken web]]                                | 100 gp    | 0                  | +12               | 0                   | —                           | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Armored Robe\|Armored robe]]                            | 2 gp      | +1                 | +8                | 0                   | 3%                          | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]]                                  | 5 gp      | +1                 | +8                | 0                   | 5%                          | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Soft Leather Half Armor\|Soft leather half armor]]      | 5 gp      | +1                 | +8                | 0                   | 7%                          | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Quilled Aketon\|Aketon, quilled]]                       | 10 gp     | +1                 | +8                | 0                   | 9%                          | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Cleric's Vest\|Cleric's vest]]                          | 10 gp     | +1                 | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Woven Cord Armor\|Woven cord]]                          | 10 gp     | +1                 | +7                | –1                  | 5%                          | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Holy Vestments\|Holy vestments]]                        | 15 gp     | +1                 | +8                | –1                  | 5%                          | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Reversible Bardic Doublet\|Doublet, reversible bardic]] | 20 gp     | +1                 | +10               | 0                   | 7%                          | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Chainmail Corset\|Chainmail corset]]                    | 50 gp     | +1                 | +6                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 20 lb.     |
-| [[rangoric-srd/equipment/armor/Shadow Doublet\|Doublet, shadow]]                       | 50 gp     | +1                 | +8                | –1                  | 12%                         | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Bishop's Mantle\|Bishop's mantle]]                      | 100 gp    | +1                 | +8                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]]                                | 10 gp     | +2                 | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Barkskin Armor\|Barkskin]]                              | 20 gp     | +2                 | +6                | –1                  | 12%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Bardic Armor\|Bardic]]                                  | 25 gp     | +2                 | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Beaded Armor\|Beaded]]                                  | 25 gp     | +2                 | +6                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Reinforced Cleric's Robe\|Cleric's robe, reinforced]]   | 30 gp     | +2                 | +6                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Robe of Yew Leaves\|Robe of yew leaves]]                | 50 gp     | +2                 | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Fine Leather\|Fine leather]]                            | 100 gp    | +2                 | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Web Armor\|Web]]                                        | 100 gp    | +2                 | +8                | 0                   | 7%                          | 30 ft.         | 20 ft.         | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Elven Leafweave\|Elven leafweave]]                      | 1,350 gp  | +2                 | +6                | –2                  | 10%                         | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Buckskin Armor\|Buckskin]]                              | 15 gp     | +3                 | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Double Leather\|Double leather]]                        | 20 gp     | +3                 | +4                | –3                  | 20%                         | 30 ft.         | 20 ft.         | 20 lb.     |
-| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]]                      | 25 gp     | +3                 | +5                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 20 lb.     |
-| [[rangoric-srd/equipment/armor/Studded Web\|Studded web]]                              | 200 gp    | +3                 | +7                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Bone Exoskeleton\|Bone exoskeleton]]                    | 1,300 gp  | +3                 | +6                | –2                  | 15%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Chain Shirt\|Chain shirt]]                              | 100 gp    | +4                 | +4                | –2                  | 20%                         | 30 ft.         | 20 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Plated Leather\|Plated leather]]                        | 200 gp    | +4                 | +5                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Sap Hide\|Sap hide]]                                    | 450 gp    | +4                 | +6                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Silver Spiderweave\|Spiderweave, silver]]               | 1,500 gp  | +4                 | +4                | –2                  | 25%                         | 30 ft.         | 20 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Heartwood Shirt\|Heartwood shirt]]                      | 4,500 gp  | +4                 | +4                | –3                  | 25%                         | 30 ft.         | 20 ft.         | 25 lb.     |
-| Medium armor                                                                           |           |                    |                   |                     |                             |                |                |            |
-| [[rangoric-srd/equipment/armor/Bone Plate\|Bone plate]]                                | 15 gp     | +3                 | +4                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 22 lb.     |
-| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]]                                      | 15 gp     | +3                 | +4                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Clay Armor\|Clay armor]]                                | 25 gp     | +3                 | +4                | –3                  | 22%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Slat Armor\|Slat armor]]                                | 30 gp     | +3                 | +4                | –3                  | 25%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Crested Hide Mail\|Hide mail, crested]]                 | 50 gp     | +3                 | +5                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Fur-Lined Hide Mail\|Hide mail, fur-lined]]             | 50 gp     | +3                 | +5                | –3                  | 23%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Hauberk\|Hauberk]]                                      | 125 gp    | +3                 | +4                | –2                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Glacier Beast Hide\|Hide, glacier beast]]               | 500 gp    | +3                 | +6                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Oaken Tree Bark Armor\|Oaken tree bark armor]]          | 50 gp     | +4                 | +3                | –4                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Scale Mail\|Scale mail]]                                | 50 gp     | +4                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Wooden Plate\|Wooden plate]]                            | 50 gp     | +4                 | +3                | –4                  | 22%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Scaled Brigandine\|Brigandine, scaled]]                 | 100 gp    | +4                 | +3                | –4                  | 27%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Sculpted Scale Mail\|Sculpted scale mail]]              | 150 gp    | +4                 | +4                | –3                  | 22%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Aeroglass Plate\|Aeroglass plate]]                      | 1,000 gp  | +4                 | +4                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Woodweave Coat\|Woodweave coat]]                        | 1,500 gp  | +4                 | +3                | –3                  | 25%                         | 20 ft.         | 15 ft.         | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Bone Mail\|Bone mail]]                                  | 100 gp    | +5                 | +2                | –5                  | 27%                         | 20 ft.         | 15 ft.         | 35 lb.     |
-| [[rangoric-srd/equipment/armor/Ringmail\|Ringmail]]                                    | 100 gp    | +5                 | +4                | –3                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Chainmail\|Chainmail]]                                  | 150 gp    | +5                 | +2                | –5                  | 30%                         | 20 ft.         | 15 ft.         | 40 lb.     |
-| [[rangoric-srd/equipment/armor/Iron Mantle\|Iron mantle]]                              | 150 gp    | +5                 | +2                | –5                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Breastplate\|Breastplate]]                              | 200 gp    | +5                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Shock Shell\|Shock shell]]                              | 200 gp    | +5                 | +3                | –4                  | 35%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Traveler's Plate\|Traveler's plate]]                    | 350 gp    | +5                 | +4                | –4                  | 27%                         | 20 ft.         | 15 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Heraldic Coin Armor\|Heraldic coin armor]]              | 1,500 gp  | +5                 | +3                | –4                  | 30%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| [[rangoric-srd/equipment/armor/Rigid Breastplate\|Rigid breastplate]]                  | 350 gp    | +6                 | +3                | –5                  | 25%                         | 20 ft.         | 15 ft.         | 35 lb.     |
-| [[rangoric-srd/equipment/armor/Shalik Plate\|Shalik plate]]                            | 4,000 gp  | +7                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
-| Heavy armor                                                                            |           |                    |                   |                     |                             |                |                |            |
-| [[rangoric-srd/equipment/armor/Splint Mail\|Splint mail]]                              | 200 gp    | +6                 | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lb.     |
-| [[rangoric-srd/equipment/armor/Banded Mail\|Banded mail]]                              | 250 gp    | +6                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 35 lb.     |
-| [[rangoric-srd/equipment/armor/Taskmaster Armor\|Taskmaster armor]]                    | 400 gp    | +6                 | +1                | –5                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
-| [[rangoric-srd/equipment/armor/Steelwood Splint\|Splint, steelwood]]                   | 500 gp    | +6                 | +2                | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
-| [[rangoric-srd/equipment/armor/Gemstone Mail\|Gemstone mail]]                          | 700 gp    | +6                 | 0                 | –7                  | 37%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lb.     |
-| [[rangoric-srd/equipment/armor/Plant Fiber Plate\|Plant fiber plate]]                  | 500 gp    | +7                 | +1                | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
-| [[rangoric-srd/equipment/armor/Half-Plate\|Half-plate]]                                | 600 gp    | +7                 | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
-| [[rangoric-srd/equipment/armor/Articulated Half-Plate\|Articulated half-plate]]        | 800 gp    | +7                 | +1                | –6                  | 40%                         | 20 ft.         | 15 ft.         | 45 lb.     |
-| [[rangoric-srd/equipment/armor/Daggered Plate\|Daggered plate]]                        | 800 gp    | +7                 | 0                 | –7                  | 45%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
-| [[rangoric-srd/equipment/armor/Gnarled Mail\|Gnarled mail]]                            | 800 gp    | +7                 | 0                 | –7                  | 42%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
-| [[rangoric-srd/equipment/armor/Blue Bone Mail\|Blue bone mail]]                        | 1,500 gp  | +7                 | +2                | –5                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 35 lb.     |
-| [[rangoric-srd/equipment/armor/Lancer's Half-Plate\|Lancer's half-plate]]              | 2,000 gp  | +7                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
-| [[rangoric-srd/equipment/armor/Full Plate\|Full plate]]                                | 1,500 gp  | +8                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
-| [[rangoric-srd/equipment/armor/Armor of the Beetle\|Armor of the beetle]]              | 2,000 gp  | +9                 | 0                 | –8                  | 45%                         | 20 ft. (2)     | 15 ft. (2)     | 60 lb.     |
-| [[rangoric-srd/equipment/armor/Double Plate\|Double plate]]                            | 3,500 gp  | +12                | 0                 | –8                  | 50%                         | 15 ft. (2)     | 10 ft. (2)     | 100 lb.    |
-| Shields                                                                                |           |                    |                   |                     |                             |                |                |            |
-| [[rangoric-srd/equipment/armor/Light Wooden Shield\|Shield, light wooden]]             | 3 gp      | +1                 | —                 | –1                  | 5%                          | —              | —              | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Light Steel Shield\|Shield, light steel]]               | 9 gp      | +1                 | —                 | –1                  | 5%                          | —              | —              | 6 lb.      |
-| [[rangoric-srd/equipment/armor/Buckler\|Buckler]]                                      | 15 gp     | +1                 | —                 | –1                  | 5%                          | —              | —              | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Targe\|Shield, targe]]                                  | 20 gp     | +1                 | —                 | –1                  | 5%                          | —              | —              | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Lastthrow Shield\|Shield, lastthrow]]                   | 95 gp     | +1                 | —                 | –1                  | 15%                         | —              | —              | 4 lb.      |
-| [[rangoric-srd/equipment/armor/Heavy Wooden Shield\|Shield, heavy wooden]]             | 7 gp      | +2                 | —                 | –2                  | 15%                         | —              | —              | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Heavy Steel Shield\|Shield, heavy steel]]               | 20 gp     | +2                 | —                 | –2                  | 15%                         | —              | —              | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Dust Shield\|Shield, dust]]                             | 25 gp     | +2                 | —                 | –2                  | 15%                         | —              | —              | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Contoured Shield\|Shield, contoured]]                   | 75 gp     | +2                 | —                 | –2                  | 15%                         | —              | —              | 15 lb.     |
-| [[rangoric-srd/equipment/armor/Crossbow Shield\|Shield, crossbow]]                     | 85 gp     | +2                 | —                 | –1                  | 15%                         | —              | —              | 6 lb.      |
-| [[rangoric-srd/equipment/armor/Mountain Kite Shield\|Shield, mountain kite]]           | 100 gp    | +3                 | —                 | –3                  | 25%                         | —              | —              | 20 lb.     |
-| [[rangoric-srd/equipment/armor/Tower Shield\|Shield, tower]]                           | 30 gp     | +4 (3)             | +2                | –10                 | 50%                         | —              | —              | 45 lb.     |
-| Extras                                                                                 |           |                    |                   |                     |                             |                |                |            |
-| [[rangoric-srd/equipment/armor/Armor Spikes\|Armor spikes]]                            | +50 gp    | —                  | —                 | —                   | —                           | —              | —              | +10 lb.    |
-| [[rangoric-srd/equipment/armor/Bardic Cloak\|Bardic cloak]]                            | 100 gp    | —                  | —                 | —                   | —                           | —              | —              | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Bone Armor Spikes\|Bone armor spikes]]                  | +50 gp    | —                  | —                 | —                   | —                           | —              | —              | +7 lb.     |
-| [[rangoric-srd/equipment/armor/Breakaway Carapace\|Breakaway carapace]]                | 150 gp    | +4                 | —                 | –9                  | 85%                         | 15 ft.         | 10 ft.         | 25 lb.     |
-| [[rangoric-srd/equipment/armor/Coward's Shield\|Coward's Shield]]                      | 25 gp     | +1                 | +5                | —                   | 20%                         | —              | —              | 5 lb.      |
-| [[rangoric-srd/equipment/armor/Heavy Exoskeleton\|Exoskeleton, heavy]]                 | 27,000 gp | —                  | –1                | –2                  | 15%                         | —              | —              | 80 lb.     |
-| [[rangoric-srd/equipment/armor/Light Exoskeleton\|Exoskeleton, light]]                 | 3,000 gp  | —                  | –1                | –2                  | 5%                          | —              | —              | 40 lb.     |
-| [[rangoric-srd/equipment/armor/Medium Exoskeleton\|Exoskeleton, medium]]               | 12,000 gp | —                  | –1                | –2                  | 10%                         | —              | —              | 60 lb.     |
-| [[rangoric-srd/equipment/armor/Locked Gauntlet\|Gauntlet, locked]]                     | 8 gp      | —                  | —                 | Special             | (4)                         | —              | —              | +5 lb.     |
-| [[rangoric-srd/equipment/armor/Gorget\|Gorget]]                                        | 30 gp     | —                  | —                 | —                   | —                           | —              | —              | 2 lb.      |
-| [[rangoric-srd/equipment/armor/Shield Spikes\|Shield spikes]]                          | +10 gp    | —                  | —                 | —                   | —                           | —              | —              | +5 lb.     |
-| [[rangoric-srd/equipment/armor/Spaulders\|Spaulders]]                                  | 10 gp     | —                  | –2                | –1                  | 20%                         | —              | —              | 3 lb.      |
-| [[rangoric-srd/equipment/armor/Tonlet\|Tonlet]]                                        | 50 gp     | +2                 | –4                | –3                  | 10%                         | —              | —              | 10 lb.     |
-| [[rangoric-srd/equipment/armor/Short Tonlet\|Tonlet, Short]]                           | 75 gp     | +1                 | –2                | –1                  | 5%                          | —              | —              | 7 lb.      |
-| [[rangoric-srd/equipment/armor/Weapon Tether\|Weapon tether]]                          | 25 gp     | —                  | —                 | —                   | —                           | —              | —              | 2 lb.      |
+| Armor                                                                                          | Cost      | Armor/Shield Bonus | Maximum Dex Bonus | Armor Check Penalty | Arcane Spell Failure Chance | Speed (30 ft.) | Speed (20 ft.) | Weight (1) |
+| ---------------------------------------------------------------------------------------------- | --------- | ------------------ | ----------------- | ------------------- | --------------------------- | -------------- | -------------- | ---------- |
+| Light armor                                                                                    |           |                    |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Fetish Armor\|Fetish]]                                          | 25 gp     | 0                  | +8                | 0                   | —                           | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Silken Web\|Silken web]]                                        | 100 gp    | 0                  | +12               | 0                   | —                           | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Armored Robe\|Armored robe]]                                    | 2 gp      | +1                 | +8                | 0                   | 3%                          | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Padded Armor\|Padded]]                                          | 5 gp      | +1                 | +8                | 0                   | 5%                          | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Soft Leather Half Armor\|Soft leather half armor]]              | 5 gp      | +1                 | +8                | 0                   | 7%                          | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Quilled Aketon\|Aketon, quilled]]                               | 10 gp     | +1                 | +8                | 0                   | 9%                          | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Cleric's Vest\|Cleric's vest]]                                  | 10 gp     | +1                 | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Woven Cord Armor\|Woven cord]]                                  | 10 gp     | +1                 | +7                | –1                  | 5%                          | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Holy Vestments\|Holy vestments]]                                | 15 gp     | +1                 | +8                | –1                  | 5%                          | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Reversible Bardic Doublet\|Doublet, reversible bardic]]         | 20 gp     | +1                 | +10               | 0                   | 7%                          | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Silken Ceremonial Armor\|Silken Ceremonial]]                    | 30 gp     | +1                 | —                 | 0                   | 0%                          | 30 ft.         | 20 ft.         | 4 lb.      |
+| [[rangoric-srd/equipment/armor/Chainmail Corset\|Chainmail corset]]                            | 50 gp     | +1                 | +6                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 20 lb.     |
+| [[rangoric-srd/equipment/armor/Shadow Doublet\|Doublet, shadow]]                               | 50 gp     | +1                 | +8                | –1                  | 12%                         | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Bishop's Mantle\|Bishop's mantle]]                              | 100 gp    | +1                 | +8                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted Cloth]]                            | 100 gp    | +1                 | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Leather Armor\|Leather]]                                        | 10 gp     | +2                 | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Barkskin Armor\|Barkskin]]                                      | 20 gp     | +2                 | +6                | –1                  | 12%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Bardic Armor\|Bardic]]                                          | 25 gp     | +2                 | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Beaded Armor\|Beaded]]                                          | 25 gp     | +2                 | +6                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Reinforced Cleric's Robe\|Cleric's robe, reinforced]]           | 30 gp     | +2                 | +6                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Robe of Yew Leaves\|Robe of yew leaves]]                        | 50 gp     | +2                 | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Fine Leather\|Fine leather]]                                    | 100 gp    | +2                 | +8                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Web Armor\|Web]]                                                | 100 gp    | +2                 | +8                | 0                   | 7%                          | 30 ft.         | 20 ft.         | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Elven Leafweave\|Elven leafweave]]                              | 1,350 gp  | +2                 | +6                | –2                  | 10%                         | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Buckskin Armor\|Buckskin]]                                      | 15 gp     | +3                 | +6                | 0                   | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Double Leather\|Double leather]]                                | 20 gp     | +3                 | +4                | –3                  | 20%                         | 30 ft.         | 20 ft.         | 20 lb.     |
+| [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]]                                          | 20 gp     | +3                 | +3                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Parade Armor\|Parade]]                                          | 25 gp     | +3                 | +5                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 20 lb.     |
+| [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]]                              | 25 gp     | +3                 | +5                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 20 lb.     |
+| [[rangoric-srd/equipment/armor/Studded Web\|Studded web]]                                      | 200 gp    | +3                 | +7                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Bone Exoskeleton\|Bone exoskeleton]]                            | 1,300 gp  | +3                 | +6                | –2                  | 15%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]]                          | 60 gp     | +4                 | +3                | –2                  | 20%                         | 30 ft.         | 20 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Chain Shirt\|Chain shirt]]                                      | 100 gp    | +4                 | +4                | –2                  | 20%                         | 30 ft.         | 20 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Plated Leather\|Plated leather]]                                | 200 gp    | +4                 | +5                | –1                  | 15%                         | 30 ft.         | 20 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Sap Hide\|Sap hide]]                                            | 450 gp    | +4                 | +6                | –1                  | 10%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Silver Spiderweave\|Spiderweave, silver]]                       | 1,500 gp  | +4                 | +4                | –2                  | 25%                         | 30 ft.         | 20 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Heartwood Shirt\|Heartwood shirt]]                              | 4,500 gp  | +4                 | +4                | –3                  | 25%                         | 30 ft.         | 20 ft.         | 25 lb.     |
+| Medium armor                                                                                   |           |                    |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Bone Plate\|Bone plate]]                                        | 15 gp     | +3                 | +4                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 22 lb.     |
+| [[rangoric-srd/equipment/armor/Hide Armor\|Hide]]                                              | 15 gp     | +3                 | +4                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Clay Armor\|Clay armor]]                                        | 25 gp     | +3                 | +4                | –3                  | 22%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Slat Armor\|Slat armor]]                                        | 30 gp     | +3                 | +4                | –3                  | 25%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Crested Hide Mail\|Hide mail, crested]]                         | 50 gp     | +3                 | +5                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Fur-Lined Hide Mail\|Hide mail, fur-lined]]                     | 50 gp     | +3                 | +5                | –3                  | 23%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Hauberk\|Hauberk]]                                              | 125 gp    | +3                 | +4                | –2                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Glacier Beast Hide\|Hide, glacier beast]]                       | 500 gp    | +3                 | +6                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Armored Coat\|Armored Coat]]                                    | 50 gp     | +4                 | +3                | –2                  | 20%                         | 20 ft.         | 15 ft.         | 20 lb.     |
+| [[rangoric-srd/equipment/armor/Oaken Tree Bark Armor\|Oaken tree bark armor]]                  | 50 gp     | +4                 | +3                | –4                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Scale Mail\|Scale mail]]                                        | 50 gp     | +4                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Wooden Plate\|Wooden plate]]                                    | 50 gp     | +4                 | +3                | –4                  | 22%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Scaled Brigandine\|Brigandine, scaled]]                         | 100 gp    | +4                 | +3                | –4                  | 27%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Sculpted Scale Mail\|Sculpted scale mail]]                      | 150 gp    | +4                 | +4                | –3                  | 22%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Aeroglass Plate\|Aeroglass plate]]                              | 1,000 gp  | +4                 | +4                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Woodweave Coat\|Woodweave coat]]                                | 1,500 gp  | +4                 | +3                | –3                  | 25%                         | 20 ft.         | 15 ft.         | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Bone Mail\|Bone mail]]                                          | 100 gp    | +5                 | +2                | –5                  | 27%                         | 20 ft.         | 15 ft.         | 35 lb.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Horn\|Lamellar, horn]]                                | 100 gp    | +5                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Ringmail\|Ringmail]]                                            | 100 gp    | +5                 | +4                | –3                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Chainmail\|Chainmail]]                                          | 150 gp    | +5                 | +2                | –5                  | 30%                         | 20 ft.         | 15 ft.         | 40 lb.     |
+| [[rangoric-srd/equipment/armor/Iron Mantle\|Iron mantle]]                                      | 150 gp    | +5                 | +2                | –5                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Breastplate\|Breastplate]]                                      | 200 gp    | +5                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Shock Shell\|Shock shell]]                                      | 200 gp    | +5                 | +3                | –4                  | 35%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Kikko Armor\|Kikko]]                                            | 250 gp    | +5                 | +4                | –3                  | 20%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Traveler's Plate\|Traveler's plate]]                            | 350 gp    | +5                 | +4                | –4                  | 27%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Heraldic Coin Armor\|Heraldic coin armor]]                      | 1,500 gp  | +5                 | +3                | –4                  | 30%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| [[rangoric-srd/equipment/armor/Four-Mirror Armor\|Four-Mirror]]                                | 125 gp    | +6                 | +2                | –5                  | 30%                         | 20 ft.         | 15 ft.         | 45 lb.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]]                              | 150 gp    | +6                 | +3                | –5                  | 25%                         | 20 ft.         | 15 ft.         | 35 lb.     |
+| [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain Pattern]]                      | 250 gp    | +6                 | +3                | –4                  | 30%                         | 20 ft.         | 15 ft.         | 40 lb.     |
+| [[rangoric-srd/equipment/armor/Rigid Breastplate\|Rigid breastplate]]                          | 350 gp    | +6                 | +3                | –5                  | 25%                         | 20 ft.         | 15 ft.         | 35 lb.     |
+| [[rangoric-srd/equipment/armor/Agile Breastplate\|Agile Breastplate]]                          | 400 gp    | +6                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Shalik Plate\|Shalik plate]]                                    | 4,000 gp  | +7                 | +3                | –4                  | 25%                         | 20 ft.         | 15 ft.         | 30 lb.     |
+| Heavy armor                                                                                    |           |                    |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Splint Mail\|Splint mail]]                                      | 200 gp    | +6                 | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lb.     |
+| [[rangoric-srd/equipment/armor/Banded Mail\|Banded mail]]                                      | 250 gp    | +6                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 35 lb.     |
+| [[rangoric-srd/equipment/armor/Taskmaster Armor\|Taskmaster armor]]                            | 400 gp    | +6                 | +1                | –5                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
+| [[rangoric-srd/equipment/armor/Steelwood Splint\|Splint, steelwood]]                           | 500 gp    | +6                 | +2                | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
+| [[rangoric-srd/equipment/armor/Gemstone Mail\|Gemstone mail]]                                  | 700 gp    | +6                 | 0                 | –7                  | 37%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lb.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]]                                | 200 gp    | +7                 | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
+| [[rangoric-srd/equipment/armor/Plant Fiber Plate\|Plant fiber plate]]                          | 500 gp    | +7                 | +1                | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 40 lb.     |
+| [[rangoric-srd/equipment/armor/Half-Plate\|Half-plate]]                                        | 600 gp    | +7                 | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
+| [[rangoric-srd/equipment/armor/Articulated Half-Plate\|Articulated half-plate]]                | 800 gp    | +7                 | +1                | –6                  | 40%                         | 20 ft.         | 15 ft.         | 45 lb.     |
+| [[rangoric-srd/equipment/armor/Daggered Plate\|Daggered plate]]                                | 800 gp    | +7                 | 0                 | –7                  | 45%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
+| [[rangoric-srd/equipment/armor/Gnarled Mail\|Gnarled mail]]                                    | 800 gp    | +7                 | 0                 | –7                  | 42%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
+| [[rangoric-srd/equipment/armor/Blue Bone Mail\|Blue bone mail]]                                | 1,500 gp  | +7                 | +2                | –5                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 35 lb.     |
+| [[rangoric-srd/equipment/armor/Lancer's Half-Plate\|Lancer's half-plate]]                      | 2,000 gp  | +7                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
+| [[rangoric-srd/equipment/armor/Lamellar, Stone\|Lamellar, stone]]                              | 500 gp    | +8                 | 0                 | –7                  | 40%                         | 20 ft. (2)     | 15 ft. (2)     | 45 lb.     |
+| [[rangoric-srd/equipment/armor/Agile Half-Plate\|Agile Half-Plate]]                            | 850 gp    | +8                 | 0                 | –7                  | 40%                         | 20 ft.         | 15 ft.         | 55 lb.     |
+| [[rangoric-srd/equipment/armor/Full Plate\|Full plate]]                                        | 1,500 gp  | +8                 | +1                | –6                  | 35%                         | 20 ft. (2)     | 15 ft. (2)     | 50 lb.     |
+| [[rangoric-srd/equipment/armor/Stoneplate\|Stoneplate]]                                        | 1,800 gp  | +9                 | +1                | –6                  | 35%                         | 15 ft. (2)     | 10 ft. (2)     | 75 lb.     |
+| [[rangoric-srd/equipment/armor/Armor of the Beetle\|Armor of the beetle]]                      | 2,000 gp  | +9                 | 0                 | –8                  | 45%                         | 20 ft. (2)     | 15 ft. (2)     | 60 lb.     |
+| [[rangoric-srd/equipment/armor/Double Plate\|Double plate]]                                    | 3,500 gp  | +12                | 0                 | –8                  | 50%                         | 15 ft. (2)     | 10 ft. (2)     | 100 lb.    |
+| Shields                                                                                        |           |                    |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Light Wooden Shield\|Shield, light wooden]]                     | 3 gp      | +1                 | —                 | –1                  | 5%                          | —              | —              | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Light Steel Shield\|Shield, light steel]]                       | 9 gp      | +1                 | —                 | –1                  | 5%                          | —              | —              | 6 lb.      |
+| [[rangoric-srd/equipment/armor/Klar\|Klar]]                                                    | 12 gp     | +1                 | —                 | –1                  | 5%                          | —              | —              | 6 lb.      |
+| [[rangoric-srd/equipment/armor/Buckler\|Buckler]]                                              | 15 gp     | +1                 | —                 | –1                  | 5%                          | —              | —              | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Targe\|Shield, targe]]                                          | 20 gp     | +1                 | —                 | –1                  | 5%                          | —              | —              | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Light Wooden Quickdraw Shield\|Shield, light wooden quickdraw]] | 53 gp     | +1                 | —                 | –2                  | 5%                          | —              | —              | 6 lb.      |
+| [[rangoric-srd/equipment/armor/Light Steel Quickdraw Shield\|Shield, light steel quickdraw]]   | 59 gp     | +1                 | —                 | –2                  | 5%                          | —              | —              | 7 lb.      |
+| [[rangoric-srd/equipment/armor/Lastthrow Shield\|Shield, lastthrow]]                           | 95 gp     | +1                 | —                 | –1                  | 15%                         | —              | —              | 4 lb.      |
+| [[rangoric-srd/equipment/armor/Heavy Wooden Shield\|Shield, heavy wooden]]                     | 7 gp      | +2                 | —                 | –2                  | 15%                         | —              | —              | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Heavy Steel Shield\|Shield, heavy steel]]                       | 20 gp     | +2                 | —                 | –2                  | 15%                         | —              | —              | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Dust Shield\|Shield, dust]]                                     | 25 gp     | +2                 | —                 | –2                  | 15%                         | —              | —              | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Contoured Shield\|Shield, contoured]]                           | 75 gp     | +2                 | —                 | –2                  | 15%                         | —              | —              | 15 lb.     |
+| [[rangoric-srd/equipment/armor/Crossbow Shield\|Shield, crossbow]]                             | 85 gp     | +2                 | —                 | –1                  | 15%                         | —              | —              | 6 lb.      |
+| [[rangoric-srd/equipment/armor/Mountain Kite Shield\|Shield, mountain kite]]                   | 100 gp    | +3                 | —                 | –3                  | 25%                         | —              | —              | 20 lb.     |
+| [[rangoric-srd/equipment/armor/Tower Shield\|Shield, tower]]                                   | 30 gp     | +4 (3)             | +2                | –10                 | 50%                         | —              | —              | 45 lb.     |
+| Extras                                                                                         |           |                    |                   |                     |                             |                |                |            |
+| [[rangoric-srd/equipment/armor/Armor Spikes\|Armor spikes]]                                    | +50 gp    | —                  | —                 | —                   | —                           | —              | —              | +10 lb.    |
+| [[rangoric-srd/equipment/armor/Bardic Cloak\|Bardic cloak]]                                    | 100 gp    | —                  | —                 | —                   | —                           | —              | —              | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Bone Armor Spikes\|Bone armor spikes]]                          | +50 gp    | —                  | —                 | —                   | —                           | —              | —              | +7 lb.     |
+| [[rangoric-srd/equipment/armor/Breakaway Carapace\|Breakaway carapace]]                        | 150 gp    | +4                 | —                 | –9                  | 85%                         | 15 ft.         | 10 ft.         | 25 lb.     |
+| [[rangoric-srd/equipment/armor/Coward's Shield\|Coward's Shield]]                              | 25 gp     | +1                 | +5                | —                   | 20%                         | —              | —              | 5 lb.      |
+| [[rangoric-srd/equipment/armor/Heavy Exoskeleton\|Exoskeleton, heavy]]                         | 27,000 gp | —                  | –1                | –2                  | 15%                         | —              | —              | 80 lb.     |
+| [[rangoric-srd/equipment/armor/Light Exoskeleton\|Exoskeleton, light]]                         | 3,000 gp  | —                  | –1                | –2                  | 5%                          | —              | —              | 40 lb.     |
+| [[rangoric-srd/equipment/armor/Medium Exoskeleton\|Exoskeleton, medium]]                       | 12,000 gp | —                  | –1                | –2                  | 10%                         | —              | —              | 60 lb.     |
+| [[rangoric-srd/equipment/armor/Locked Gauntlet\|Gauntlet, locked]]                             | 8 gp      | —                  | —                 | Special             | (4)                         | —              | —              | +5 lb.     |
+| [[rangoric-srd/equipment/armor/Gorget\|Gorget]]                                                | 30 gp     | —                  | —                 | —                   | —                           | —              | —              | 2 lb.      |
+| [[rangoric-srd/equipment/weapons/Dwarven Boulder Helmet\|Helmet, dwarven boulder]]             | 20 gp     | —                  | —                 | —                   | +20%                        | —              | —              | +10 lb.    |
+| [[rangoric-srd/equipment/armor/Shield Spikes\|Shield spikes]]                                  | +10 gp    | —                  | —                 | —                   | —                           | —              | —              | +5 lb.     |
+| [[rangoric-srd/equipment/armor/Spaulders\|Spaulders]]                                          | 10 gp     | —                  | –2                | –1                  | 20%                         | —              | —              | 3 lb.      |
+| [[rangoric-srd/equipment/armor/Tonlet\|Tonlet]]                                                | 50 gp     | +2                 | –4                | –3                  | 10%                         | —              | —              | 10 lb.     |
+| [[rangoric-srd/equipment/armor/Short Tonlet\|Tonlet, Short]]                                   | 75 gp     | +1                 | –2                | –1                  | 5%                          | —              | —              | 7 lb.      |
+| [[rangoric-srd/equipment/armor/Weapon Tether\|Weapon tether]]                                  | 25 gp     | —                  | —                 | —                   | —                           | —              | —              | 2 lb.      |
 
 1 *Weight figures are for armor sized to fit Medium characters. Armor fitted for Small characters weighs half as much, and armor fitted for Large characters weighs twice as much.*
 
@@ -192,11 +212,17 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 
 ![[rangoric-srd/equipment/armor/Aeroglass Plate]]
 
+![[rangoric-srd/equipment/armor/Agile Breastplate]]
+
+![[rangoric-srd/equipment/armor/Agile Half-Plate]]
+
 ![[rangoric-srd/equipment/armor/Quilled Aketon]]
 
 ![[rangoric-srd/equipment/armor/Armor of the Beetle]]
 
 ![[rangoric-srd/equipment/armor/Armor Spikes]]
+
+![[rangoric-srd/equipment/armor/Armored Coat]]
 
 ![[rangoric-srd/equipment/armor/Armored Robe]]
 
@@ -270,6 +296,8 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 
 ![[rangoric-srd/equipment/armor/Fine Leather]]
 
+![[rangoric-srd/equipment/armor/Four-Mirror Armor]]
+
 ![[rangoric-srd/equipment/armor/Full Plate]]
 
 ![[rangoric-srd/equipment/armor/Locked Gauntlet]]
@@ -298,13 +326,33 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 
 ![[rangoric-srd/equipment/armor/Iron Mantle]]
 
+![[rangoric-srd/equipment/armor/Kikko Armor]]
+
+![[rangoric-srd/equipment/armor/Klar]]
+
+![[rangoric-srd/equipment/armor/Lamellar, Horn]]
+
+![[rangoric-srd/equipment/armor/Lamellar, Iron]]
+
+![[rangoric-srd/equipment/armor/Lamellar, Leather]]
+
+![[rangoric-srd/equipment/armor/Lamellar, Steel]]
+
+![[rangoric-srd/equipment/armor/Lamellar, Stone]]
+
 ![[rangoric-srd/equipment/armor/Lancer's Half-Plate]]
 
+![[rangoric-srd/equipment/armor/Mountain Pattern Armor]]
+
 ![[rangoric-srd/equipment/armor/Oaken Tree Bark Armor]]
+
+![[rangoric-srd/equipment/armor/Parade Armor]]
 
 ![[rangoric-srd/equipment/armor/Plant Fiber Plate]]
 
 ![[rangoric-srd/equipment/armor/Plated Leather]]
+
+![[rangoric-srd/equipment/armor/Quilted Cloth Armor]]
 
 ![[rangoric-srd/equipment/armor/Rigid Breastplate]]
 
@@ -336,7 +384,11 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 
 ![[rangoric-srd/equipment/armor/Light Steel Shield]]
 
+![[rangoric-srd/equipment/armor/Light Steel Quickdraw Shield]]
+
 ![[rangoric-srd/equipment/armor/Light Wooden Shield]]
+
+![[rangoric-srd/equipment/armor/Light Wooden Quickdraw Shield]]
 
 ![[rangoric-srd/equipment/armor/Mountain Kite Shield]]
 
@@ -345,6 +397,8 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 ![[rangoric-srd/equipment/armor/Tower Shield]]
 
 ![[rangoric-srd/equipment/armor/Shock Shell]]
+
+![[rangoric-srd/equipment/armor/Silken Ceremonial Armor]]
 
 ![[rangoric-srd/equipment/armor/Silken Web]]
 
@@ -360,6 +414,8 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 
 ![[rangoric-srd/equipment/armor/Steelwood Splint]]
 
+![[rangoric-srd/equipment/armor/Stoneplate]]
+
 ![[rangoric-srd/equipment/armor/Studded Web]]
 
 ![[rangoric-srd/equipment/armor/Taskmaster Armor]]
@@ -373,6 +429,8 @@ Any special benefits or accessories to the types of armor found on Table: Armor 
 ![[rangoric-srd/equipment/armor/Weapon Tether]]
 
 ![[rangoric-srd/equipment/armor/Web Armor]]
+
+![[rangoric-srd/equipment/armor/Wooden Armor]]
 
 ![[rangoric-srd/equipment/armor/Wooden Plate]]
 

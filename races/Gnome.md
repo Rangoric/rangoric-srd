@@ -33,7 +33,7 @@ Perks:
 - Illusion Resistance: +2 racial bonus on saving throws against illusions.
 - Keen Senses: +2 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 - Low-Light Vision: Gnomes have [[rangoric-srd/rules/Special Abilities and Conditions#Low-Light Vision|low-light vision]]. ^gnome-low-light-vision
-- Obsessive: +2 racial bonus on one [[rangoric-srd/skills/Craft|Craft]] skill of the gnome’s choice.
+- Obsessive: +2 racial bonus on one [[rangoric-srd/skills/Craft|Craft]] or [[rangoric-srd/skills/Profession|Profession]] skill of the gnome’s choice.
 - Weapon Familiarity: Gnomes treat any weapon with the word “gnome” in its name as a martial weapon.
 
 Languages:

@@ -42,6 +42,8 @@ based-on:
   - "[[path srd 3.5/items/special-materials/Living Steel|Living Steel (PF1)]]"
   - "[[path srd 3.5/items/special-materials/Viridium|Viridium (PF1)]]"
   - "[[path srd 3.5/items/uncommon-race/Whipwood|Whipwood (PF1)]]"
+  - "[[path srd 3.5/items/core-race/Darkleaf Cloth|Darkleaf Cloth (PF1)]]"
+  - "[[path srd 3.5/items/core-race/Wyroot|Wyroot (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Primitive Armor and Weapons#Primitive Materials|Primitive Materials (PF1)]]"
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Bone|Bone (PF1)]]"
   - "[[path srd 3.5/items/primitive-armor-and-weapons/Bronze|Bronze (PF1)]]"
@@ -117,6 +119,19 @@ Blood crystal has 10 hit points per inch of thickness and hardness 10.
 **Chromium**: Adding a small quantity of chromium to steel improves its ability to resist rust. Steel items, weapons, and armor containing chromium receive a +1 circumstance bonus to resist all types of rust attacks including the physical attacks of a [[rangoric-srd/monsters/Rust Monster|rust monster]] or the spell *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]*. Infusing steel with chromium increases the item’s cost by 10 gp per pound. ^chromium
 
 **Darkesite**: Extraterrestrial in nature, this bizarre, black cosmic mineral displays the uncanny ability to absorb light. Darkesite shields and armor retain their armor bonus against all light-based spells and effects directed specifically at the wearer, such as the spell *[[rangoric-srd/spells/Searing Light|searing light]]*. Darkesite does not negate light-based area of effect spells or powers, although darkesite armor grants a +1 bonus to saving throws against such forms of attack. A light darkesite shield costs 600 gp, and a heavy shield forged from the metal costs 1,000 gp. Similarly light, medium, and heavy armors crafted from darkesite cost +1,500 gp, +2,750 gp and +4,000 gp respectively. Darkesite weighs one quarter as much as steel, but it only possesses a hardness of 5 and 15 hit points per inch of thickness. ^darkesite
+
+**Darkleaf Cloth**: Darkleaf cloth is a special form of flexible material made by weaving together leaves and thin strips of bark from darkwood trees, then treating the resulting fabric with special alchemical processes. The resulting material is tough as cured hide but much lighter, making it an excellent material from which to create armor. Spell failure chances for armors made from darkleaf cloth decrease by 10% (to a minimum of 5%), maximum Dexterity bonuses increase by 2, and armor check penalties decrease by 3 (to a minimum of 0). ^darkleaf-cloth
+
+An item made from darkleaf cloth weighs half as much as the same item made from normal cured leather, furs, or hides. Items not primarily constructed of leather, fur, or hide are not meaningfully affected by being partially made of darkleaf cloth. As such padded, leather, studded leather, and hide armor can be made out of darkleaf cloth (although other types of armor made of leather or hide might be possible). Because darkleaf cloth remains flexible, it cannot be used to construct rigid items such as shields or metal armors. Armors fashioned from darkleaf cloth are always masterwork items as well; the masterwork cost is included in the prices given below.
+
+Darkleaf cloth has 20 hit points per inch of thickness and hardness 10.
+
+| Type of Darkleaf Cloth Item | Item Cost Modifier |
+| --- | --- |
+| Clothing | +500 gp |
+| Light armor | +750 gp |
+| Medium armor | +1,500 gp |
+| Other items | +375 gp/lb. |
 
 **Darkwood**: This rare magic wood is as hard as normal wood but very light. Any wooden or mostly wooden item (such as a bow, an arrow, or a spear) made from darkwood is considered a masterwork item and weighs only half as much as a normal wooden item of that type. Items not normally made of wood or only partially of wood (such as a battleaxe or a mace) either cannot be made from darkwood or do not gain any special benefit from being made of darkwood. The armor check penalty of a darkwood shield is lessened by 2 compared to an ordinary shield of its type. To determine the price of a darkwood item, use the original weight but add 10 gp per pound to the price of a masterwork version of that item.
 
@@ -373,6 +388,16 @@ Viridium weapons have half the hardness of their base weapon and have the [[rang
 | Type of Whipwood Item | Item Cost Modifier |
 | --- | --- |
 | Wooden or wood-hafted weapon | +500 gp |
+
+**Wyroot**: The root of the wyrwood tree has a peculiar quality. When a weapon constructed of wyroot confirms a critical hit, it absorbs some of the life force of the creature hit. The creature hit is unharmed and the wyroot weapon gains 1 life point. As a swift action, a wielder with a [[rangoric-srd/classes/Monk#^monk-ki-pool|ki pool]] or an [[rangoric-srd/classes/Magus#^magus-arcane-pool|arcane pool]] can absorb 1 life point from the wyroot weapon and convert it into either 1 ki point or 1 arcane pool point. A wyroot weapon can gain at most 1 life point per day, though more powerful wyroot weapons can gain up to 3 life points per day. A creature can convert life points from only one wyroot weapon per day. ^wyroot
+
+Wyroot can be used to construct any melee weapon made entirely of wood or a melee weapon with a wooden haft. Constructing a wyroot weapon that can gain 1 life point per day increases the weapon's cost by 1,000 gp, constructing one that can gain up to 2 life points per day increases the weapon's cost by 2,000 gp, and constructing one that can gain up to 3 life points per day increases the weapon's cost by 4,000 gp.
+
+| Type of Wyroot Item | Item Cost Modifier |
+| --- | --- |
+| Melee weapon that can gain 1 life point per day | +1,000 gp |
+| Melee weapon that can gain up to 2 life points per day | +2,000 gp |
+| Melee weapon that can gain up to 3 life points per day | +4,000 gp |
 
 ##### Primitive Materials
 
