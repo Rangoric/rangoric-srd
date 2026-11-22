@@ -14,6 +14,7 @@ tags: [rangoric, rangoric/overview]
 ## Dragon - Dwarf
 
   - [[rangoric-srd/monsters/Dracolisk|Dracolisk]]
+  - [[rangoric-srd/monsters/Dragon Horse|Dragon Horse]]
   - [[rangoric-srd/monsters/Dragon, True|Dragon, True]]
   - [[rangoric-srd/monsters/chromatic-dragons/Chromatic Dragons|Chromatic Dragons]]
   - [[rangoric-srd/monsters/drow/Drow Noble|Drow Noble]]
