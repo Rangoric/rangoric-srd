@@ -1,0 +1,43 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/monsters")
+    - note["creature-type"] == "Vermin"
+views:
+  - type: table
+    name: "In alphabetical order"
+    order:
+      - file.name
+      - note.size
+      - note.challenge-rating
+      - note.hit-dice
+      - note.environment
+      - note.group
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By group"
+    groupBy:
+      property: note.group
+      direction: ASC
+    order:
+      - file.name
+      - note.size
+      - note.challenge-rating
+      - note.environment
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "By challenge rating"
+    groupBy:
+      property: note.challenge-rating
+      direction: ASC
+    order:
+      - file.name
+      - note.size
+      - note.hit-dice
+      - note.environment
+    sort:
+      - property: file.name
+        direction: ASC
