@@ -1,0 +1,23 @@
+---
+srd-type: "alchemical-item"
+section: "Equipment"
+book: "Ultimate Equipment"
+category: ["Alchemical Tool"]
+magical: false
+dc: "25"
+price: "50 gp"
+weight: "10 lb."
+based-on:
+  - "[[path srd 3.5/items/alchemical-tools/Embalming Fluid|Embalming Fluid (PF1)]]"
+  - "[[path srd 3.5 foundry/items/gear/Embalming Fluid|Embalming Fluid (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/alchemical-item]
+---
+
+# Embalming Fluid
+
+This fluid is used to preserve corpses, whether for later dissection, taxidermy, necromancy, or magic such as *[[rangoric-srd/spells/Raise Dead|raise dead]]*. Embalming fluid is technically a poison, and using it makes a corpse unpalatable to most animals and vermin, though corpse-eating undead don't mind the taste. Treating a corpse with embalming fluid takes 1 hour and a successful DC 25 [[rangoric-srd/skills/Medicine|Medicine]] check. The embalmed corpse decays at half the normal rate (each day dead counts as half a day for the purpose of *[[rangoric-srd/spells/Raise Dead|raise dead]]*).
+
+[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 50 gp; Weight 10 lb.
