@@ -1,0 +1,16 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/animal-companions")
+    - note.option-type == "animal companion"
+views:
+  - type: table
+    name: "Animal companions"
+    order:
+      - file.name
+      - note.size
+      - note.speed
+      - note.advancement-level
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC

@@ -1,0 +1,14 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/class-options/companion-features")
+    - note.option-type == "companion feature"
+views:
+  - type: table
+    name: "Companion features"
+    order:
+      - file.name
+      - note.class
+      - note.book
+    sort:
+      - property: file.name
+        direction: ASC

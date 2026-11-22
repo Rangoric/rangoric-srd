@@ -7,6 +7,8 @@ skill-points: "4 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Druid|Druid (PF1)]]"
   - "[[fantasy srd 3.5/classes/Druid|Druid (3.5)]]"
+  - "[[path srd 3.5/classes/Druid#Animal Companions|Animal Companions (PF1)]]"
+  - "[[path srd 3.5 foundry/companion-features/Share Spells (Companion Feature, Advanced Player's Guide)|Share Spells (PF1 Foundry)]]"
 status: draft
 change: modified
 pi-review: 2026-11-06
@@ -96,6 +98,8 @@ A 1st-level druid’s companion is completely typical for its kind except as not
 
 A druid of 4th level or higher may select from alternative lists of animals (see below). Should she select an animal companion from one of these alternative lists, the creature gains abilities as if the character’s druid level were lower than it actually is. Subtract the value indicated in the appropriate list header from the character’s druid level and compare the result with the druid level entry on the table to determine the animal companion’s powers. (If this adjustment would reduce the druid’s effective level to 0 or lower, she can’t have that animal as a companion.)
 
+Instead of a base creature from these lists, a druid can choose one of the [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companions]] that have stat blocks of their own, which come with their own advancement. ^druid-pathfinder-companions
+
 **Nature Sense (Ex)**: A druid gains a +2 bonus on Nature and Fieldcraft checks. ^druid-nature-sense
 
 **Wild Empathy (Ex)**: A druid can improve the attitude of an animal. This ability functions just like a [[rangoric-srd/skills/Persuasion|Persuasion]] check made to improve the attitude of a person. The druid rolls 1d20 and adds her druid level and her Charisma modifier to determine the wild empathy check result. The typical domestic animal has a starting attitude of indifferent, while wild animals are usually unfriendly. ^druid-wild-empathy
@@ -144,17 +148,17 @@ A druid who ceases to revere nature, changes to a prohibited alignment, or teach
 
 ##### The Druid’s Animal Companion
 
-A druid’s animal companion is superior to a normal animal of its kind and has special powers, as described below.
+A druid’s animal companion is superior to a normal animal of its kind and has special powers, as described below. It remains an animal for the purpose of which spells can affect it. ^animal-companion-intro
 
 | Class Level | Bonus HD | Natural Armor Adj. | Str/Dex Adj. | Bonus Tricks | Special            |
 | ----------- | -------- | ------------------ | ------------ | ------------ | ------------------ |
-| 1st–2nd     | +0      | +0                | +0          | 1            | Link, share spells |
-| 3rd–5th     | +2      | +2                | +1          | 2            | Evasion            |
-| 6th–8th     | +4      | +4                | +2          | 3            | Devotion           |
-| 9th–11th    | +6      | +6                | +3          | 4            | Multiattack        |
-| 12th–14th   | +8      | +8                | +4          | 5            |                    |
-| 15th–17th   | +10     | +10               | +5          | 6            | Improved evasion   |
-| 18th–20th   | +12     | +12               | +6          | 7            |                    |
+| 1st–2nd     | +0      | +0                | +0          | 1            | [[rangoric-srd/class-options/companion-features/Link (Companion Feature)\|Link]], [[rangoric-srd/class-options/companion-features/Share Spells (Companion Feature)\|share spells]] |
+| 3rd–5th     | +2      | +2                | +1          | 2            | [[rangoric-srd/class-options/companion-features/Evasion (Companion Feature)\|Evasion]], [[rangoric-srd/class-options/companion-features/Ability Score Increase (Companion Feature)\|ability score increase]] (4th) |
+| 6th–8th     | +4      | +4                | +2          | 3            | [[rangoric-srd/class-options/companion-features/Devotion (Companion Feature)\|Devotion]] |
+| 9th–11th    | +6      | +6                | +3          | 4            | [[rangoric-srd/class-options/companion-features/Multiattack (Companion Feature)\|Multiattack]], [[rangoric-srd/class-options/companion-features/Ability Score Increase (Companion Feature)\|ability score increase]] (9th) |
+| 12th–14th   | +8      | +8                | +4          | 5            | [[rangoric-srd/class-options/companion-features/Ability Score Increase (Companion Feature)\|Ability score increase]] (14th) |
+| 15th–17th   | +10     | +10               | +5          | 6            | [[rangoric-srd/class-options/companion-features/Improved Evasion (Companion Feature)\|Improved evasion]] |
+| 18th–20th   | +12     | +12               | +6          | 7            | [[rangoric-srd/class-options/companion-features/Ability Score Increase (Companion Feature)\|Ability score increase]] (20th) |
 
 **Animal Companion Basics**: Use the base statistics for a creature of the companion’s kind, but make the following changes. ^animal-companion-basics
 
@@ -162,7 +166,7 @@ A druid’s animal companion is superior to a normal animal of its kind and has 
 
 *Bonus HD*: Extra eight-sided (d8) Hit Dice, each of which gains a Constitution modifier, as normal. Remember that extra Hit Dice improve the animal companion’s base attack and base save bonuses. An animal companion’s base attack bonus is the same as that of a druid of a level equal to the animal’s HD. An animal companion has good Fortitude and Reflex saves (treat it as a character whose level equals the animal’s HD). An animal companion gains additional skill points and feats for bonus HD as normal for advancing a monster’s Hit Dice. ^animal-companion-bonus-hd
 
-*Natural Armor Adj.*: The number noted here is an improvement to the animal companion’s existing natural armor bonus.
+*Natural Armor Adj.*: The number noted here is an improvement to the animal companion’s existing natural armor bonus. ^animal-companion-natural-armor
 
 *Str/Dex Adj.*: Add this value to the animal companion’s Strength and Dexterity scores.
 
@@ -170,15 +174,21 @@ A druid’s animal companion is superior to a normal animal of its kind and has 
 
 *Link (Ex)*: A druid can handle her animal companion as a free action, or push it as a move action, even if she doesn’t have any ranks in the Animal Handling skill. The druid gains a +4 circumstance bonus on all wild empathy checks and Animal Handling checks made regarding an animal companion. ^animal-companion-link
 
-*Share Spells (Ex)*: At the druid’s option, she may have any spell (but not any spell-like ability) she casts upon herself also affect her animal companion. The animal companion must be within 5 feet of her at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the animal companion if the companion moves farther than 5 feet away and will not affect the animal again, even if it returns to the druid before the duration expires. Additionally, the druid may cast a spell with a target of “You” on her animal companion (as a touch range spell) instead of on herself. A druid and her animal companion can share spells even if the spells normally do not affect creatures of the companion’s type (animal). ^animal-companion-share-spell
+*Share Spells (Ex)*: At the druid’s option, she may have any spell (but not any spell-like ability) she casts upon herself also affect her animal companion. The animal companion must be within 5 feet of her at the time of casting to receive the benefit. If the spell or effect has a duration other than instantaneous, it stops affecting the animal companion if the companion moves farther than 5 feet away and will not affect the animal again, even if it returns to the druid before the duration expires. Additionally, the druid may cast a spell with a target of “You” on her animal companion (as a touch range spell) instead of on herself. A druid and her animal companion can share spells even if the spells normally do not affect creatures of the companion’s type (animal). Spells cast in this way must come from a class that grants an animal companion. This ability does not allow the animal to share abilities that are not spells, even if they function like spells. ^animal-companion-share-spell
 
 *Evasion (Ex)*: If an animal companion is subjected to an attack that normally allows a Reflex saving throw for half damage, it takes no damage if it makes a successful saving throw. ^animal-companion-evasion
+
+*Ability Score Increase (Ex)*: The animal companion adds +1 to one of its ability scores. ^animal-companion-ability-score-increase
 
 *Devotion (Ex)*: An animal companion gains a +4 morale bonus on Will saves against enchantment spells and effects. ^animal-companion-devotion
 
 *Multiattack*: An animal companion gains Multiattack as a bonus feat if it has three or more natural attacks and does not already have that feat. If it does not have the requisite three or more natural attacks, the animal companion instead gains a second attack with its primary natural weapon, albeit at a –5 penalty. ^animal-companion-multiattack
 
 *Improved Evasion (Ex)*: When subjected to an attack that normally allows a Reflex saving throw for half damage, an animal companion takes no damage if it makes a successful saving throw and only half damage if the saving throw fails. ^animal-companion-improved-evasion
+
+*Animal Skills*: An animal companion can have ranks in any of the following skills: [[rangoric-srd/skills/Acrobatics|Acrobatics]]\* (Dex), [[rangoric-srd/skills/Athletics|Athletics]]\* (Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Perception|Perception]]\* (Wis), [[rangoric-srd/skills/Stealth|Stealth]]\* (Dex), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis). All of the skills marked with an (\*) are class skills for animal companions. An animal companion with an Intelligence of 3 or higher can put ranks into any skill. ^animal-companion-skills
+
+*Animal Feats*: An animal companion can select from the following feats: [[rangoric-srd/feats/Agile Maneuvers|Agile Maneuvers]], Armor Proficiency ([[rangoric-srd/feats/Armor Proficiency (Light)|light]], [[rangoric-srd/feats/Armor Proficiency (Medium)|medium]], and [[rangoric-srd/feats/Armor Proficiency (Heavy)|heavy]]), [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Reflexes|Combat Reflexes]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Endurance|Endurance]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Bull Rush|Improved Bull Rush]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Natural Armor|Improved Natural Armor]], [[rangoric-srd/feats/Improved Natural Attack|Improved Natural Attack]], [[rangoric-srd/feats/Improved Overrun|Improved Overrun]], [[rangoric-srd/feats/Intimidating Prowess|Intimidating Prowess]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Run|Run]], [[rangoric-srd/feats/Skill Focus|Skill Focus]], [[rangoric-srd/feats/Spring Attack|Spring Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], and [[rangoric-srd/feats/Weapon Focus|Weapon Focus]]. A companion that would have taken a feat for a bonus on a skill takes [[rangoric-srd/feats/Skill Focus|Skill Focus]] in that skill instead. An animal companion with an Intelligence of 3 or higher can select any feat it is physically capable of using. The GM might expand this list. ^animal-companion-feats
 
 ##### Alternative Animal Companions
 

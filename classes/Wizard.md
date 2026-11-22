@@ -85,6 +85,8 @@ A wizard can add additional magic abilities to her bonded object as if she has t
 
 If a bonded object is damaged, it is restored to full hit points the next time the wizard prepares her spells. If the object of an arcane bond is lost or destroyed, it can be replaced after 1 week in a special ritual that costs 200 gp per wizard level plus the cost of the masterwork item. This ritual takes 8 hours to complete. Items replaced in this way do not possess any of the additional enchantments of the previous bonded item. A wizard can designate an existing magic item as her bonded item. This functions in the same way as replacing a lost or destroyed item except that the new magic item retains its abilities while gaining the benefits and drawbacks of becoming a bonded item. ^wizard-familiar
 
+If a wizard’s familiar is dismissed, lost, or dies, it can be replaced 1 week later through a specialized ritual that costs 200 gp per wizard level. The ritual takes 8 hours to complete. (A sorcerer’s familiar follows the rule in the sorcerer’s note.) ^wizard-familiar-replacement
+
 **Arcane School**: At 1st level, a wizard chooses an arcane school, or takes the universalist school; see Arcane School, below. ^wizard-arcane-school-feature
 
 **Cantrips**: Wizards can prepare a number of cantrips, or 0-level spells, each day, as noted on Table: Wizard under “Spells per Day.” These spells are cast like any other spell, but they are not expended when cast and may be used again. A wizard can prepare a cantrip from an opposition school, but it uses up two of her available slots (see Arcane School, below). ^wizard-cantrips
@@ -146,6 +148,7 @@ Levels of different classes that are entitled to familiars stack for the purpose
 | Fox | Master gains a +2 bonus on Reflex saves |
 | Hawk      | Master gains a +3 bonus on [[rangoric-srd/skills/Perception\|Perception]] checks in bright light   |
 | Lizard    | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks                 |
+| Monkey | Master gains a +3 bonus on [[rangoric-srd/skills/Acrobatics\|Acrobatics]] checks |
 | Octopus | Master gains a +3 bonus on [[rangoric-srd/skills/Athletics\|Athletics]] checks to swim |
 | Owl       | Master gains a +3 bonus on Perception checks in shadows                                        |
 | Rat       | Master gains a +2 bonus on Fortitude saves                                               |
@@ -170,7 +173,7 @@ Levels of different classes that are entitled to familiars stack for the purpose
 
 *Saving Throws*: For each saving throw, use either the familiar’s base save bonus (Fortitude +2, Reflex +2, Will +0) or the master’s (as calculated from all his classes), whichever is better. The familiar uses its own ability modifiers to saves, and it doesn’t share any of the other bonuses that the master might have on saves.
 
-*Skills*: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use.
+*Skills*: For each skill in which either the master or the familiar has ranks, use either the normal skill ranks for an animal of that type or the master’s skill ranks, whichever are better. In either case, the familiar uses its own ability modifiers. Regardless of a familiar’s total skill modifiers, some skills may remain beyond the familiar’s ability to use. Familiars treat [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Perception|Perception]], and [[rangoric-srd/skills/Stealth|Stealth]] as class skills.
 
 **Familiar Ability Descriptions**: All familiars have special abilities (or impart abilities to their masters) depending on the master’s combined level in classes that grant familiars, as shown on the table below. The abilities given on the table are cumulative.
 
@@ -186,7 +189,7 @@ Levels of different classes that are entitled to familiars stack for the purpose
 
 *Empathic Link (Su)*: The master has an empathic link with his familiar out to a distance of up to 1 mile. The master cannot see through the familiar’s eyes, but they can communicate empathically. Because of the limited nature of the link, only general emotional content can be communicated. ^familiar-empathic-link
 
-Because of this empathic link, the master has the same connection to an item or place that his familiar does.
+Because of this empathic link, the master has the same connection to an item or place that his familiar does. ^familiar-empathic-link-connection
 
 *Deliver Touch Spells (Su)*: If the master is 3rd level or higher, a familiar can deliver touch spells for him. If the master and the familiar are in contact at the time the master casts a touch spell, he can designate his familiar as the “toucher.” The familiar can then deliver the touch spell just as the master could. As usual, if the master casts another spell before the touch is delivered, the touch spell dissipates. ^familiar-deliver-touch-spell
 
@@ -200,13 +203,13 @@ Because of this empathic link, the master has the same connection to an item or 
 
 | Master Class Level | Natural Armor Adj. | Int | Special                                                  |
 | ------------------ | ------------------ | --- | -------------------------------------------------------- |
-| 1st–2nd            | +1                | 6   | keen senses, improved evasion, share spells, empathic link |
-| 3rd–4th            | +2                | 7   | Deliver touch spells                                     |
-| 5th–6th            | +3                | 8   | Speak with master                                        |
-| 7th–8th            | +4                | 9   | Speak with animals of its kind                           |
+| 1st–2nd            | +1                | 6   | [[rangoric-srd/class-options/companion-features/Keen Senses (Familiar Feature)\|keen senses]], [[rangoric-srd/class-options/companion-features/Improved Evasion (Familiar Feature)\|improved evasion]], [[rangoric-srd/class-options/companion-features/Share Spells (Familiar Feature)\|share spells]], [[rangoric-srd/class-options/companion-features/Empathic Link (Familiar Feature)\|empathic link]] |
+| 3rd–4th            | +2                | 7   | [[rangoric-srd/class-options/companion-features/Deliver Touch Spells (Familiar Feature)\|Deliver touch spells]]                                     |
+| 5th–6th            | +3                | 8   | [[rangoric-srd/class-options/companion-features/Speak with Master (Familiar Feature)\|Speak with master]]                                        |
+| 7th–8th            | +4                | 9   | [[rangoric-srd/class-options/companion-features/Speak with Animals of Its Kind (Familiar Feature)\|Speak with animals of its kind]]                           |
 | 9th–10th           | +5                | 10  | —                                                        |
-| 11th–12th          | +6                | 11  | Spell resistance                                         |
-| 13th–14th          | +7                | 12  | Scry on familiar                                         |
+| 11th–12th          | +6                | 11  | [[rangoric-srd/class-options/companion-features/Spell Resistance (Familiar Feature)\|Spell resistance]]                                         |
+| 13th–14th          | +7                | 12  | [[rangoric-srd/class-options/companion-features/Scry on Familiar (Familiar Feature)\|Scry on familiar]]                                         |
 | 15th–16th          | +8                | 13  | —                                                        |
 | 17th–18th          | +9                | 14  | —                                                        |
 | 19th–20th          | +10               | 15  | —                                                        |
