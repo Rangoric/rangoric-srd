@@ -134,6 +134,10 @@ Uncanny Dodge (Ex): An ogre barbarian retains his Dex bonus to AC regardless of 
 
 These cousins of the ogre have the aquatic subtype. They dwell in freshwater lakes and rivers. They have a base land speed of 30 feet and a swim speed of 40 feet and are found only in aquatic environments. Instead of the typical ogre’s greatclub, they prefer to use longspears in melee (attack +8 melee, damage 1d8+7).
 
+### Ogre Mage
+
+The [[rangoric-srd/monsters/Ogre Mage|ogre mage]] is not an ogre and no longer a giant: it is an oni, and oni are native outsiders (with the giant, oni and shapechanger subtypes), so it has a note of its own.
+
 ### Ogres as Characters
 
 Ogre characters use the [[rangoric-srd/races/Ogre|ogre]] race, which has their racial traits and level adjustment.

@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/monster]
 # Gnome
 
   - [[rangoric-srd/monsters/gnome/Gnome, 1st-Level Warrior|Gnome, 1st-Level Warrior]]
-  - [[rangoric-srd/monsters/gnome/Svirfneblin, 1st-Level Warrior|Svirfneblin, 1st-Level Warrior]]
+  - [[rangoric-srd/monsters/gnome/Svirfneblin, 1st-Level Ranger|Svirfneblin, 1st-Level Ranger]]
 
 Gnomes stand 3 to 3-1/2 feet tall and weigh 40 to 45 pounds. Their skin color ranges from dark tan to woody brown, their hair is fair, and their eyes can be any shade of blue. Gnome males prefer short, carefully trimmed beards. Gnomes generally wear leather or earth tones, though they decorate their clothes with intricate stitching or fine jewelry. Gnomes reach adulthood at about age 40, and they live about 350 years, though some can live almost 500 years.
 
