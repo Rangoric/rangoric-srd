@@ -22,6 +22,7 @@ Adult giants are accomplished rock throwers, with the [[rangoric-srd/monsters/ab
 ### Giants
 
   - [[rangoric-srd/monsters/giant/Cloud Giant|Cloud Giant]]
+  - [[rangoric-srd/monsters/giant/Cyclops|Cyclops]]
   - [[rangoric-srd/monsters/giant/Fire Giant|Fire Giant]]
   - [[rangoric-srd/monsters/giant/Frost Giant|Frost Giant]]
   - [[rangoric-srd/monsters/giant/Hill Giant|Hill Giant]]

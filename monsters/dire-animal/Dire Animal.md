@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/dire-animal/Dire Animal|Dire Animal (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -18,6 +18,8 @@ Dire animals are larger, tougher, meaner versions of ordinary animals. Each kind
   - [[rangoric-srd/monsters/dire-animal/Dire Bat|Dire Bat]]
   - [[rangoric-srd/monsters/dire-animal/Dire Bear|Dire Bear]]
   - [[rangoric-srd/monsters/dire-animal/Dire Boar|Dire Boar]]
+  - [[rangoric-srd/monsters/dire-animal/Dire Crocodile|Dire Crocodile]]
+  - [[rangoric-srd/monsters/dire-animal/Dire Hyena|Dire Hyena]]
   - [[rangoric-srd/monsters/dire-animal/Dire Lion|Dire Lion]]
   - [[rangoric-srd/monsters/dire-animal/Dire Rat|Dire Rat]]
   - [[rangoric-srd/monsters/dire-animal/Dire Shark|Dire Shark]]

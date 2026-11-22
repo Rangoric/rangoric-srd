@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/swarm/Swarm|Swarm (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -33,9 +33,13 @@ A weapon with a special ability such as flaming or frost deals its full energy d
 
 A lit lantern can be used as a thrown weapon, dealing 1d4 points of fire damage to all creatures in squares adjacent to where it breaks.
 
+  - [[rangoric-srd/monsters/swarm/Army Ant Swarm|Army Ant Swarm]]
   - [[rangoric-srd/monsters/swarm/Bat Swarm|Bat Swarm]]
   - [[rangoric-srd/monsters/swarm/Centipede Swarm|Centipede Swarm]]
+  - [[rangoric-srd/monsters/swarm/Crab Swarm|Crab Swarm]]
   - [[rangoric-srd/monsters/swarm/Hellwasp Swarm|Hellwasp Swarm]]
+  - [[rangoric-srd/monsters/swarm/Leech Swarm|Leech Swarm]]
   - [[rangoric-srd/monsters/swarm/Locust Swarm|Locust Swarm]]
   - [[rangoric-srd/monsters/swarm/Rat Swarm|Rat Swarm]]
   - [[rangoric-srd/monsters/swarm/Spider Swarm|Spider Swarm]]
+  - [[rangoric-srd/monsters/swarm/Wasp Swarm|Wasp Swarm]]

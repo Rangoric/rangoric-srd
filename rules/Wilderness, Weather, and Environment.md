@@ -334,6 +334,8 @@ Yellow Mold (CR 6): If disturbed, a 5-foot square of this mold bursts forth with
 
 Brown Mold (CR 2): Brown mold feeds on warmth, drawing heat from anything around it. It normally comes in patches 5 feet in diameter, and the temperature is always cold in a 30-foot radius around it. Living creatures within 5 feet of it take 3d6 points of nonlethal cold damage. Fire brought within 5 feet of brown mold causes it to instantly double in size. Cold damage, such as from a [[rangoric-srd/spells/Cone of Cold|cone of cold]], instantly destroys it.
 
+[[rangoric-srd/monsters/Russet Mold|Russet Mold]] (CR 6): The spores of this fungus take root in those who come near it, and every creature it kills bursts a day later into new [[rangoric-srd/monsters/Vegepygmy|vegepygmies]].
+
 Phosphorescent Fungus (No CR): This strange underground fungus grows in clumps that look almost like stunted shrubbery. Drow elves cultivate it for food and light. It gives off a soft violet glow that illuminates underground caverns and passages as well as a candle does. Rare patches of fungus illuminate as well as a torch does.
 
 Shrieker (No CR): This human-sized purple mushroom emits a piercing sound that lasts for 1d3 rounds whenever there is movement or a light source within 10 feet. This shriek makes it impossible to hear any other sound within 50 feet. The sound attracts nearby creatures that are disposed to investigate it. Some creatures that live near shriekers learn that this noise means there is food or an intruder nearby. A shrieker can also be met as a [[rangoric-srd/monsters/fungus/Shrieker|creature]]. ^shrieker

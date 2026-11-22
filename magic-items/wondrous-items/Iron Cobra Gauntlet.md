@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Iron Cobra Gauntlet
 
-This elbow-length scaled metal gauntlet flares at the wrist like a cobra's hood. Up to three times per day, the wearer may transform the gauntlet into an iron cobra, which crawls from the wearer's wrist and obeys his commands, leaving behind a simple bracelet of linked scales. Whoever wears the bracelet is the iron cobra's master. The iron cobra can remain animated for a total of 1 hour per day.
+This elbow-length scaled metal gauntlet flares at the wrist like a cobra's hood. Up to three times per day, the wearer may transform the gauntlet into an [[rangoric-srd/monsters/Iron Cobra|iron cobra]], which crawls from the wearer's wrist and obeys his commands, leaving behind a simple bracelet of linked scales. Whoever wears the bracelet is the iron cobra's master. The iron cobra can remain animated for a total of 1 hour per day.
 
 If the snake is within hearing range of the master and commanded to revert to gauntlet form (a standard action), it travels to its master as fast as possible, crawls onto its master's arm, and as a free action reverts to its inactive shape. If the snake's duration expires before it can reach its master, it reverts to gauntlet form, but automatically melds with the bracelet if the two touch.
 

@@ -166,6 +166,20 @@ tags: [rangoric, rangoric/overview]
 
 **Breath Weapon (Su)**: See [[rangoric-srd/monsters/abilities/Breath Weapon|breath weapon]]. ^breath-weapon
 
+**Boggard Subtype**: Boggards are froglike [[#^humanoid|humanoids]] of rivers and marshes. ^boggard
+
+*Traits*: A boggard has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
+
+  - [[rangoric-srd/monsters/abilities/Hold Breath|Hold breath]] (four times its Constitution score in rounds).
+
+  - A swim speed of 30 feet.
+
+  - *Swamp Stride*, *Sticky Tongue* and *Terrifying Croak*, as described in the [[rangoric-srd/monsters/Boggard|boggard]]'s entry.
+
+  - Except where otherwise noted, boggards speak Boggard.
+
 **Catfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Catfolk|catfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^catfolk
 
 **Change Shape (Su)**: See [[rangoric-srd/monsters/abilities/Change Shape|change shape]]. ^change-shape
@@ -233,6 +247,24 @@ tags: [rangoric, rangoric/overview]
   - Constructs do not eat, sleep, or breathe.
 
 **Damage Reduction (Ex or Su)**: See [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]]. ^DR
+
+**Dark Folk Subtype**: Dark folk are reclusive subterranean [[#^humanoid|humanoids]] with an aversion to light. ^dark-folk
+
+*Traits*: A dark folk creature has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/See in Darkness|See in darkness]].
+
+  - [[rangoric-srd/monsters/abilities/Light Blindness|Light blindness]].
+
+  - [[rangoric-srd/races/racial-traits/Poison Use|Poison use]]: dark folk never risk accidentally poisoning themselves, and favor [[rangoric-srd/rules/afflictions/Black Smear|black smear]].
+
+  - *Death Throes (Su)*: When a dark folk creature is slain, its body combusts in a flash of light; what the flash does is in the creature's entry.
+
+  - Dark folk can use *[[rangoric-srd/spells/Darkness|darkness]]* or *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* and *[[rangoric-srd/spells/Detect Magic|detect magic]]* at will as spell-like abilities (the creature's entry has its list).
+
+  - Except where otherwise noted, dark folk speak Dark Folk.
+
+The [[rangoric-srd/monsters/Dark Creeper|dark creeper]] and [[rangoric-srd/monsters/Dark Stalker|dark stalker]] are dark folk.
 
 **Demon Subtype**: Demons are chaotic evil [[#^outsider|outsiders]] native to the chaotic evil-aligned Outer Planes. ^demon
 

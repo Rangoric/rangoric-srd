@@ -3,8 +3,8 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters E to F|Monsters E to F (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
 ---
@@ -14,6 +14,7 @@ tags: [rangoric, rangoric/overview]
 ## Eagle - Fungus
 
   - [[rangoric-srd/monsters/Eagle, Giant|Eagle, Giant]]
+  - [[rangoric-srd/monsters/Electric Eel|Electric Eel]]
   - [[rangoric-srd/monsters/elemental/Elemental|Elemental]]
   - [[rangoric-srd/monsters/Elf|Elf]]
   - [[rangoric-srd/monsters/Erlmantle|Erlmantle]]
@@ -27,5 +28,6 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/monsters/Fey-born Creature|Fey-born Creature]]
   - [[rangoric-srd/monsters/Fiendish Creature|Fiendish Creature]]
   - [[rangoric-srd/monsters/formian/Formian|Formian]]
+  - [[rangoric-srd/monsters/Froghemoth|Froghemoth]]
   - [[rangoric-srd/monsters/Frost Worm|Frost Worm]]
   - [[rangoric-srd/monsters/fungus/Fungus|Fungus]]

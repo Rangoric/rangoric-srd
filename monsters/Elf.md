@@ -115,6 +115,8 @@ The drow warrior presented here had the following ability scores before racial a
 
 **Challenge Rating**: Drow with levels in NPC classes have a CR equal to their character level. Drow with levels in PC classes have a CR equal to their character level +1.
 
+The [[rangoric-srd/monsters/Drow, 1st-Level Warrior|drow, 1st-level warrior]] and the [[rangoric-srd/monsters/Drow Noble|drow noble]] have notes of their own.
+
 #### Gray Elf
 
 Taller and grander in physical appearance than others of their race, gray elves have a reputation for being aloof and arrogant (even by elven standards). They have either silver hair and amber eyes or pale golden hair and violet eyes. They prefer clothing of white, silver, yellow, or gold, with cloaks of deep blue or purple.
