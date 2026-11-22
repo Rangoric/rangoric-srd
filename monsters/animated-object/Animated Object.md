@@ -3,9 +3,10 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/animated-object/Animated Object|Animated Object (3.5)]]"
+  - "[[path srd 3.5/items/building-and-modifying-constructs/Animated Object (Item)|Animated Object (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/monster]
 ---
 
@@ -42,3 +43,19 @@ Objects with two legs (statues, ladders) or a similar shape that allows faster m
 Objects might have additional modes of movement. A wooden object can float and has a swim speed equal to half its land speed. A rope or similar sinuous object has a climb speed equal to half its land speed. A sheetlike object can fly (clumsy maneuverability) at half its normal speed.
 
 **Trample (Ex)**: An animated object of at least Large size and with a hardness of at least 10 can [[rangoric-srd/combat/Combat Special Attacks|trample]] creatures two or more sizes smaller than itself, dealing damage equal to the object’s slam damage + 1-1/2 times its Strength bonus. Opponents who do not make attacks of opportunity against the object can attempt Reflex saves (DC 10 + 1/2 object’s HD + object’s Str modifier) to halve the damage.
+
+### Construction
+
+An animated object can be made permanent with the [[rangoric-srd/feats/Craft Construct|Craft Construct]] feat; its price follows its size.
+
+| Size | CR | Price | Cost |
+| --- | --- | --- | --- |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Tiny\|Tiny]] | 1/2 | 250 gp | 125 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Small\|Small]] | 2 | 2,000 gp | 1,000 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Medium\|Medium]] | 3 | 4,500 gp | 2,250 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Large\|Large]] | 5 | 12,500 gp | 6,250 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Huge\|Huge]] | 7 | 25,000 gp | 12,500 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Gargantuan\|Gargantuan]] | 9 | 40,000 gp | 20,000 gp |
+| [[rangoric-srd/monsters/animated-object/Animated Object, Colossal\|Colossal]] | 11 | 60,000 gp | 30,000 gp |
+
+CL 11th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Permanency|permanency]]*; Skill [[rangoric-srd/skills/Identifying Magic|Magic skill]] or appropriate [[rangoric-srd/skills/Craft|Craft]] skill; Price by size (above); Cost half the price.

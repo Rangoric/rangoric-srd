@@ -3,15 +3,16 @@ srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Wondrous Item"
 slot: "none"
-aura: "Moderate varied"
+aura: "Strong varied"
 caster-level: 12
 prerequisites: "Craft Wondrous Item, creator must be 12th level"
 price: "36,000 gp"
 based-on:
   - "[[fantasy srd 3.5/magic-items/wondrous-items/Ioun Stones|Ioun Stones (3.5)]]"
+  - "[[path srd 3.5/items/wondrous-items/Ioun Stone|Ioun Stone (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---
 
@@ -25,4 +26,4 @@ These crystalline stones always float in the air and must be within 3 feet of th
 
 Stored spells in the vibrant purple stone must be placed by a spellcaster but can be used by anyone (see ring of minor spell storing).
 
-Moderate varied; CL 12th; Craft Wondrous Item, creator must be 12th level; Price 36,000 gp.
+Strong varied; CL 12th; Craft Wondrous Item, creator must be 12th level; Price 36,000 gp.
