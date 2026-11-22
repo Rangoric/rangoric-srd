@@ -24,3 +24,5 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 *Exotic two-handed melee weapon (trip).* Cost 35 gp; Dmg 1d6 (S), 1d8 (M); Critical x3; Weight 15 lb.; Type Slashing. ^stats
 
 This single-bladed axe has a curved metal hook on the opposite side, allowing you to make trip attacks with the weapon. If you are tripped during your own trip attempt, you may drop the axe in order to avoid being tripped yourself.
+
+The one-handed [[rangoric-srd/equipment/weapons/Hooked Axe (Gladiator)|hooked axe (gladiator)]] is a different weapon.
