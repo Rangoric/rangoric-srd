@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/class]
 
 **Race**: only [[rangoric-srd/races/Nymph|nymphs]] can take levels in this class. A nymph who takes it has level adjustment +1 (see the race).
 
-**Racial classes**: as a rule of thumb, any monster can be played as a PC if the appropriate level adjustment can be determined (see [[rangoric-srd/monsters/Monsters as Races|Monsters as Races]]). That isn’t the only approach: a monster can also be broken down as if it were a class or prestige class, without the special abilities it gained through Hit Dice advancement, so that a character grows into the full monster level by level. The nymph racial class is built that way from the monster [[rangoric-srd/monsters/Nymph|nymph]]. ^racial-class
+**Racial classes**: as a rule of thumb, any monster can be played as a PC if the appropriate level adjustment can be determined (see [[rangoric-srd/monsters/Monsters as Races|Monsters as Races]]). That isn’t the only approach: a monster can also be broken down as if it were a class or prestige class, without the special abilities it gained through Hit Dice advancement, so that a character grows into the full monster level by level. The nymph racial class is built that way from the monster [[rangoric-srd/monsters/nymph/Nymph|nymph]]. ^racial-class
 
 ##### Game Rule Information
 
@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/class]
 
 **Hit Die:** d6. The Hit Dice column gives the nymph’s total Hit Dice: she gains her Hit Dice at the levels where the column changes (1d6 at 1st level, 9d6 by 20th).
 
-**Class Skills:** None are given for the racial class, so it has the skills of the monster [[rangoric-srd/monsters/Nymph|nymph]]: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
+**Class Skills:** None are given for the racial class, so it has the skills of the monster [[rangoric-srd/monsters/nymph/Nymph|nymph]]: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
 
 **Skill Points at Each Level:** 6 + Int modifier, as the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey type]].
 
@@ -68,7 +68,7 @@ tags: [rangoric, rangoric/class]
 
 **Spellcasting:** A nymph casts divine spells as a druid of the level the table shows (spellcasting ability only), from the [[rangoric-srd/classes/Druid|druid]]’s spell list, with the spells per day in the table. ^nymph-spellcasting
 
-**Blinding Beauty (Su):** At 4th level, a nymph gains the blinding beauty of the monster [[rangoric-srd/monsters/Nymph|nymph]]. ^nymph-blinding-beauty
+**Blinding Beauty (Su):** At 4th level, a nymph gains the blinding beauty of the monster [[rangoric-srd/monsters/nymph/Nymph|nymph]]. ^nymph-blinding-beauty
 
 **Dimension Door (Sp):** At 11th level, a nymph can use *[[rangoric-srd/spells/Dimension Door|dimension door]]* once per day. ^nymph-dimension-door
 

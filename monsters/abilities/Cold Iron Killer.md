@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["special attack"]
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Ankou|Ankou (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Cold Iron Killer
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “cold iron killer”, on the Special Attacks line.
+
+All of an ankou's natural weapons are treated as cold iron for the purpose of overcoming damage reduction. The [[rangoric-srd/monsters/Ankou|ankou]] has it.

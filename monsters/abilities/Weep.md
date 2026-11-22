@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["special attack"]
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Lampad|Lampad (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Weep
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “weep”, on the Special Attacks line.
+
+As a standard action, a lampad can unsettle those near her when she cries. Any creature within 30 feet who can hear a lampad weeping becomes [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] unless it succeeds at a DC 18 Will saving throw. This ability can't cause a creature to become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] or [[rangoric-srd/rules/Special Abilities and Conditions#^panicked|panicked]]. This is a mind-affecting fear effect that relies on audible components. The save DC is Charisma-based. The [[rangoric-srd/monsters/nymph/Lampad|lampad]] has it.

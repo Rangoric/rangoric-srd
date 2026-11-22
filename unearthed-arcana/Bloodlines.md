@@ -564,7 +564,7 @@ The bloodline of [[rangoric-srd/monsters/elemental/Water Elemental|elemental wat
 
 ### Fey
 
-Every culture tells stories of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]] creatures taking mortal lovers, so it's no surprise that individuals display fey bloodlines from time to time. Regardless of whether it descended from a [[rangoric-srd/monsters/Dryad|dryad]], [[rangoric-srd/monsters/Nymph|nymph]], [[rangoric-srd/monsters/Satyr|satyr]], or other kind of fey, a creature with a fey bloodline often has a personality that is both aloof and carefree.
+Every culture tells stories of [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fey|fey]] creatures taking mortal lovers, so it's no surprise that individuals display fey bloodlines from time to time. Regardless of whether it descended from a [[rangoric-srd/monsters/nymph/Dryad|dryad]], [[rangoric-srd/monsters/nymph/Nymph|nymph]], [[rangoric-srd/monsters/Satyr|satyr]], or other kind of fey, a creature with a fey bloodline often has a personality that is both aloof and carefree.
 
 **Fey Bloodline Traits**
 
