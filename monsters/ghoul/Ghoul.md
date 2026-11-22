@@ -27,9 +27,10 @@ treasure: "Standard"
 alignment: "Always chaotic evil"
 advancement: "3 HD (Medium)"
 level-adjustment: "—"
-book: "Bestiary"
+book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Ghoul|Ghoul (PF1)]]"
+  - "[[path srd 3.5/rules/monster-codex/ghouls/Ghouls (Ghouls)|Ghouls, society (PF1)]]"
   - "[[fantasy srd 3.5/monsters/ghoul/Ghoul|Ghoul (3.5)]]"
 status: draft
 change: modified
@@ -65,10 +66,27 @@ tags: [rangoric, rangoric/monster]
 **Also in this entry:**
 
   - [[rangoric-srd/monsters/ghoul/Ghast|Ghast]]
+  - Sneaky Ghouls: [[rangoric-srd/monsters/ghoul/Ghoul Creeper|Ghoul Creeper]] (CR 3), [[rangoric-srd/monsters/ghoul/Ghoul Stalker|Ghoul Stalker]] (CR 6)
+  - Ghoul Huntsmaster: [[rangoric-srd/monsters/ghoul/Ghoul Huntsmaster|Ghoul Huntsmaster]] (CR 7)
+  - Ghoul Commander: [[rangoric-srd/monsters/ghoul/Ghoul Commander|Ghoul Commander]] (CR 8)
+  - Ghoul Monarch: [[rangoric-srd/monsters/ghoul/Ghoul Monarch|Ghoul Monarch]] (CR 12)
+  - [[rangoric-srd/monsters/ghoul/Ghoul Hound|Ghoul Hound]] (CR 1)
 
 Ghouls are undead that haunt graveyards and eat corpses. Legends hold that the first ghouls were either cannibalistic humans whose unnatural hunger dragged them back from death or humans who in life fed on the rotting remains of their kin and died (and were reborn) from the foul disease—the true source of these undead scavengers is unclear.
 
 Ghouls lurk on the edges of civilization (in or near cemeteries or in city sewers) where they can find ample supplies of their favorite food. Though they prefer rotting bodies and often bury their victims for a while to improve their taste, they eat fresh kills if they are hungry enough. Though most surface ghouls live primitively, rumors speak of ghoul cities deep underground led by priests who worship ancient cruel gods or strange demon lords of hunger. These “civilized” ghouls are no less horrific in their eating habits, and in fact the concept of a well-laid ghoul banquet table is perhaps even more horrifying than the concept of taking a meal fresh from the coffin.
+
+Fear of flesh-hungry ghouls keeps people away from graveyards at night. Though the creatures can reason, they seldom listen to what the living say, and would much rather treat them as meals than as friends. Ghouls figure prominently in superstitious tales, and their hunger is legendary. Stories of cannibals turning into ravenous undead still stop many people from eating the dead even in the most desperate of circumstances.
+
+Always searching for the flesh of humanoids, ghouls thrive where people live, and their domains steadily expand as the creatures infect new victims with ghoul fever. This spread can be abrupt or gradual, but either way it stops only when someone seeks out and slays all of the ghouls. Potential victims have good reason to fear ghouls, as dying of ghoul fever is a horrifying fate. From the onset of the disease, an insatiable hunger overcomes the victim, yet her body begins to reject all normal food and drink. If denied food, the victim becomes increasingly desperate and violent as her hunger grows. Feeding the victim flesh from a corpse temporarily alleviates her cravings, but does not slow the onset of the disease. Eventually, the victim's mortal body fails entirely. After the victim finally dies, she wakes up at the next stroke of midnight, obsessed with the hunger for flesh.
+
+Most ghouls are so filled with self-loathing that they have little love for others of their kind. They have a natural tendency to form into packs for defense and hunting, but no trust or love is shared between the members of these packs. Though a ghoul might serve a leader loyally for years, it won't hesitate to betray its leader if doing so results in more frequent meals. Though ghasts are, in their most basic state, more powerful than other ghouls, they rarely take on leadership roles because of their overwhelming aggression. However, when a ghast rises, opportunistic ghouls emboldened by its presence might make attacks against elven communities they would otherwise avoid as difficult targets.
+
+Graveyards have a natural allure to ghouls, and many wind up spending their undead existence dwelling in such places. Small packs of ghouls often live in warrens carved beneath cemeteries where they can dig up corpses to satisfy their cravings for flesh. Graves settling unnaturally or sinkholes in a cemetery are sure signs of a ghoul pack. Some ghouls are content to survive on the flesh of the dead for years at a time, but eventually almost all of them start to hunt the living.
+
+Not all ghouls live in dark warrens under cemeteries, however. In some remote regions, entire cities or nations are populated by ghouls and other undead. The ghouls in these cities consider living humanoids little more than livestock. Though these nations of undead are often ruled by liches or other, more powerful undead, ghouls are known to hold positions of power or even rule in some such places. The rulers of these nations recognize that they cannot hope to win a war against the much more populous nations of living creatures, so arrangements are made with neighbors to trade for slaves or even just corpses. Larger undead nations use humans as slave labor, forcing them to work the farms to feed themselves so they can in turn be served up as meals for their undead masters.
+
+Aquatic ghouls, called lacedons, live within secluded reefs and underground caves near communities of underwater humanoids like grindylows, locathahs, or merfolk. Lacedons are as notorious in the folktales of undersea peoples as ghouls are in those of surface races. Lacedons who prefer easier targets to prey upon primarily dwell near shores or along trade routes, where they suffer through hunger for long stretches of time until a shipwreck provides them with a glorious, gory feast. Lacedons are also more mobile than other ghouls. If they catch the taste of humanoid blood carried by the currents, they can trace it for miles back to the source.
 
 **Ghast**: Ghasts are ghouls with the advanced monster template. A ghast's paralysis even affects elves. Ghasts roam in packs of their own kind or lead groups of common ghouls. The stink of death and corruption surrounding these creatures is overwhelming, granting them the stench extraordinary ability (10-foot radius, Fort DC 15 negates, [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d6+4 minutes).
 

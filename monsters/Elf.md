@@ -4,27 +4,27 @@ section: "Monsters"
 hit-dice: "1d10 (5 hp)"
 initiative: "+1"
 speed: "30 ft. (6 squares)"
-armor-class: "15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14 / 16 (+1 Dex, +4 chain shirt, +1 light shield) touch 11, flat-footed 15"
-base-attack: "+1 / +1"
-cmb: "+2 / +2"
-cmd: "13 / 13"
-attack: "Longsword +2 melee (1d8+1/19–20) or longbow +3 ranged (1d8/x3) / Rapier +3 melee (1d6+1/18–20) or hand crossbow +2 ranged (1d4/19–20)"
-full-attack: "Longsword +2 melee(1d8+1/19–20) or longbow +3 ranged (1d8/x3) / Rapier +3 melee (1d6+1/18–20) or hand crossbow +2 ranged (1d4/19–20)"
+armor-class: "15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14"
+base-attack: "+1"
+cmb: "+2"
+cmd: "13"
+attack: "Longsword +2 melee (1d8+1/19–20) or longbow +3 ranged (1d8/x3)"
+full-attack: "Longsword +2 melee(1d8+1/19–20) or longbow +3 ranged (1d8/x3)"
 space-reach: "5 ft./5 ft."
-special-attacks: "None / Poison, spell-like abilities"
-special-qualities: "Elven traits / Drow traits, spell resistance 7"
+special-attacks: "None"
+special-qualities: "Elven traits"
 saves: "Fort +2, Ref +1, Will –1*"
-abilities: "Str 13, Dex 13, Con 10, Int 12, Wis 9, Cha 8 / Str 13, Dex 13, Con 10, Int 10, Wis 9, Cha 10"
-skills: "Perception +2, Investigation +4, Stealth +1 / Perception +2, Investigation +1, Stealth +1"
-skill-ranks: "Investigation 1, Perception 1, Stealth 0 / Investigation 1, Perception 1, Stealth 1"
-feats: "Weapon Focus (longbow) / Weapon Focus (rapier)"
-environment: "Temperate forest (Half-elf: Temperate forests) (Aquatic: Temperate aquatic) (Gray: Temperate mountains) (Wild: Warm forests) (Wood: Temperate forests) / Underground"
-organization: "Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) / Squad (2–4), patrol (5–8 plus 2 2nd-level sergeants and 1 leader of 3rd–6th level), or band (20–50 plus 10% noncombatants plus 1 2nd-level sergeant per 5 adults, 2d4 6th-level lieutenants, and 1d4 9th-level captains)"
-challenge-rating: "½ / 1 (see text)"
+abilities: "Str 13, Dex 13, Con 10, Int 12, Wis 9, Cha 8"
+skills: "Perception +2, Investigation +4, Stealth +1"
+skill-ranks: "Investigation 1, Perception 1, Stealth 0"
+feats: "Weapon Focus (longbow)"
+environment: "Temperate forest (Half-elf: Temperate forests) (Aquatic: Temperate aquatic) (Gray: Temperate mountains) (Wild: Warm forests) (Wood: Temperate forests)"
+organization: "Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains)"
+challenge-rating: "½"
 treasure: "Standard"
-alignment: "Usually chaotic good (Wood: Usually neutral) / Usually neutral evil"
+alignment: "Usually chaotic good (Wood: Usually neutral)"
 advancement: "By character class"
-level-adjustment: "+0 / +1"
+level-adjustment: "+0"
 size: "Medium"
 creature-type: "Humanoid"
 subtypes:
@@ -39,31 +39,31 @@ tags: [rangoric, rangoric/monster]
 
 # Elf
 
-|                          | Elf, 1st-Level Warrior Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Elf)                                                                                       |  | Drow, 1st-Level Warrior Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Elf)                                                                                     |
-| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |  | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Hit Dice:**            | 1d10 (5 hp)                                                                                                                                                                                                                |  | 1d10 (5 hp)                                                                                                                                                                                                               |
-| **Initiative:**          | +1                                                                                                                                                                                                                       |  | +1                                                                                                                                                                                                                      |
-| **Speed:**               | 30 ft. (6 squares)                                                                                                                                                                                                        |  | 30 ft. (6 squares)                                                                                                                                                                                                       |
-| **Armor Class:**         | 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14                                                                                                                                                |  | 16 (+1 Dex, +4 chain shirt, +1 light shield) touch 11, flat-footed 15                                                                                                                                                    |
-| **Base Attack:** | +1 |  | +1 |
-| **CMB:** | +2 |  | +2 |
-| **CMD:** | 13 |  | 13 |
-| **Attack:**              | Longsword +2 melee (1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                            |  | Rapier +3 melee (1d6+1/18–20) or hand crossbow +2 ranged (1d4/19–20)                                                                                                                                                     |
-| **Full Attack:**         | Longsword +2 melee(1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                             |  | Rapier +3 melee (1d6+1/18–20) or hand crossbow +2 ranged (1d4/19–20)                                                                                                                                                     |
-| **Space/Reach:**         | 5 ft./5 ft.                                                                                                                                                                                                               |  | 5 ft./5 ft.                                                                                                                                                                                                              |
-| **Special Attacks:**     | None                                                                                                                                                                                                                      |  | [[rangoric-srd/monsters/abilities/Poison\|Poison]], spell-like abilities                                                                                                        |
-| **Special Qualities:**   | Elven traits                                                                                                                                                                                                              |  | Drow traits, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] 7                                                                                                        |
-| **Saves:**               | Fort +2, Ref +1, Will –1\*                                                                                                                                                                                                |  | Fort +2, Ref +1, Will –1\*                                                                                                                                                                                               |
-| **Abilities:**           | Str 13, Dex 13, Con 10, Int 12, Wis 9, Cha 8                                                                                                                                                                              |  | Str 13, Dex 13, Con 10, Int 10, Wis 9, Cha 10                                                                                                                                                                            |
-| **Skills:**              | [[rangoric-srd/skills/Investigation\|Investigation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +2, [[rangoric-srd/skills/Stealth\|Stealth]] +1                                                |  | [[rangoric-srd/skills/Investigation\|Investigation]] +1, [[rangoric-srd/skills/Perception\|Perception]] +2, [[rangoric-srd/skills/Stealth\|Stealth]] +1                                               |
-| **Feats:**               | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (longbow)                                                                                                                                                             |  | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (rapier)                                                                                                                                                             |
-| **Environment:**         | Temperate forest (Half-elf: Temperate forests) (Aquatic: Temperate aquatic) (Gray: Temperate mountains) (Wild: Warm forests) (Wood: Temperate forests)                                                                    |  | Underground                                                                                                                                                                                                              |
-| **Organization:**        | Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |  | Squad (2–4), patrol (5–8 plus 2 2nd-level sergeants and 1 leader of 3rd–6th level), or band (20–50 plus 10% noncombatants plus 1 2nd-level sergeant per 5 adults, 2d4 6th-level lieutenants, and 1d4 9th-level captains) |
-| **Challenge Rating:**    | ½                                                                                                                                                                                                                         |  | 1 (see text)                                                                                                                                                                                                             |
-| **Treasure:**            | Standard                                                                                                                                                                                                                  |  | Standard                                                                                                                                                                                                                 |
-| **Alignment:**           | Usually chaotic good (Wood: Usually neutral)                                                                                                                                                                              |  | Usually neutral evil                                                                                                                                                                                                     |
-| **Advancement:**         | By character class                                                                                                                                                                                                        |  | By character class                                                                                                                                                                                                       |
-| **Level Adjustment:**    | +0                                                                                                                                                                                                                       |  | +1                                                                                                                                                                                                                      |
+|                          | Elf, 1st-Level Warrior Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid\|Humanoid]] (Elf)                                                                                       |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hit Dice:**            | 1d10 (5 hp)                                                                                                                                                                                                                |
+| **Initiative:**          | +1                                                                                                                                                                                                                       |
+| **Speed:**               | 30 ft. (6 squares)                                                                                                                                                                                                        |
+| **Armor Class:**         | 15 (+1 Dex, +3 studded leather, +1 light shield), touch 11, flat-footed 14                                                                                                                                                |
+| **Base Attack:** | +1 |
+| **CMB:** | +2 |
+| **CMD:** | 13 |
+| **Attack:**              | Longsword +2 melee (1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                            |
+| **Full Attack:**         | Longsword +2 melee(1d8+1/19–20) or longbow +3 ranged (1d8/x3)                                                                                                                                                             |
+| **Space/Reach:**         | 5 ft./5 ft.                                                                                                                                                                                                               |
+| **Special Attacks:**     | None                                                                                                                                                                                                                      |
+| **Special Qualities:**   | Elven traits                                                                                                                                                                                                              |
+| **Saves:**               | Fort +2, Ref +1, Will –1\*                                                                                                                                                                                                |
+| **Abilities:**           | Str 13, Dex 13, Con 10, Int 12, Wis 9, Cha 8                                                                                                                                                                              |
+| **Skills:**              | [[rangoric-srd/skills/Investigation\|Investigation]] +4, [[rangoric-srd/skills/Perception\|Perception]] +2, [[rangoric-srd/skills/Stealth\|Stealth]] +1                                                |
+| **Feats:**               | [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (longbow)                                                                                                                                                             |
+| **Environment:**         | Temperate forest (Half-elf: Temperate forests) (Aquatic: Temperate aquatic) (Gray: Temperate mountains) (Wild: Warm forests) (Wood: Temperate forests)                                                                    |
+| **Organization:**        | Squad (2–4), company (11–20 plus 2 3rd-level sergeants and 1 leader of 3rd–6th level), or band (30–100 plus 20% noncombatants plus 1 3rd-level sergeant per 10 adults, 5 5th-level lieutenants, and 3 7th-level captains) |
+| **Challenge Rating:**    | ½                                                                                                                                                                                                                         |
+| **Treasure:**            | Standard                                                                                                                                                                                                                  |
+| **Alignment:**           | Usually chaotic good (Wood: Usually neutral)                                                                                                                                                                              |
+| **Advancement:**         | By character class                                                                                                                                                                                                        |
+| **Level Adjustment:**    | +0                                                                                                                                                                                                                       |
 
 Elves average 5 feet tall and typically weigh just over 100 pounds. They live on fruits and grains, though they occasionally hunt for fresh meat. Elves prefer colorful clothes, usually with a green-and-gray cloak that blends well with the colors of the forest.
 
@@ -111,11 +111,9 @@ Drow usually coat their arrows with a potent venom.
 
 Drow characters use the [[rangoric-srd/races/Drow|drow]] race, which has their racial traits, alternate racial traits, level adjustment and paragon class.
 
-The drow warrior presented here had the following ability scores before racial adjustments: Str 13, Dex 11, Con 12, Int 10, Wis 9, Cha 8.
-
 **Challenge Rating**: Drow with levels in NPC classes have a CR equal to their character level. Drow with levels in PC classes have a CR equal to their character level +1.
 
-The [[rangoric-srd/monsters/Drow, 1st-Level Warrior|drow, 1st-level warrior]] and the [[rangoric-srd/monsters/Drow Noble|drow noble]] have notes of their own.
+The [[rangoric-srd/monsters/drow/Drow, 1st-Level Warrior|drow, 1st-level warrior]] and the [[rangoric-srd/monsters/drow/Drow Noble|drow noble]] have notes of their own.
 
 #### Gray Elf
 

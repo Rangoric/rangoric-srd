@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/overview]
 
 [[rangoric-srd/monsters/Couatl, Psionic|Couatl, Psionic]][[rangoric-srd/monsters/Crysmal, Psionic|Crysmal, Psionic]]  
 [[rangoric-srd/monsters/Dromite|Dromite]]  
-[[rangoric-srd/monsters/Duergar, Psionic|Duergar, Psionic]]  
+[[rangoric-srd/monsters/duergar/Duergar, Psionic|Duergar, Psionic]]  
 [[rangoric-srd/monsters/Elan|Elan]]  
 [[rangoric-srd/monsters/Folugub|Folugub]]  
 
@@ -137,7 +137,7 @@ Some creatures may have particular powers that are manifested at a higher or low
   - [[rangoric-srd/monsters/Couatl, Psionic|Couatl, Psionic]]
   - [[rangoric-srd/monsters/Crysmal, Psionic|Crysmal, Psionic]]
   - [[rangoric-srd/monsters/Dromite|Dromite]]
-  - [[rangoric-srd/monsters/Duergar, Psionic|Duergar, Psionic]]
+  - [[rangoric-srd/monsters/duergar/Duergar, Psionic|Duergar, Psionic]]
   - [[rangoric-srd/monsters/Elan|Elan]]
   - [[rangoric-srd/monsters/Folugub|Folugub]]
   - [[rangoric-srd/monsters/Gray Glutton|Gray Glutton]]

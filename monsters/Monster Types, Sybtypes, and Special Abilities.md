@@ -176,7 +176,7 @@ tags: [rangoric, rangoric/overview]
 
   - A swim speed of 30 feet.
 
-  - *Swamp Stride*, *Sticky Tongue* and *Terrifying Croak*, as described in the [[rangoric-srd/monsters/Boggard|boggard]]'s entry.
+  - *Swamp Stride*, *Sticky Tongue* and *Terrifying Croak*, as described in the [[rangoric-srd/monsters/boggard/Boggard|boggard]]'s entry.
 
   - Except where otherwise noted, boggards speak Boggard.
 

@@ -12,7 +12,7 @@ tags: [rangoric, rangoric/monster]
 # Dwarf
 
   - [[rangoric-srd/monsters/dwarf/Dwarf, 1st-Level Warrior|Dwarf, 1st-Level Warrior]]
-  - [[rangoric-srd/monsters/dwarf/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]]
+  - [[rangoric-srd/monsters/duergar/Duergar, 1st-Level Warrior|Duergar, 1st-Level Warrior]]
 
 Dwarves favor earth tones in their clothing and prefer simple and functional garb. The skin can be very dark, but it is always some shade of tan or brown. Hair color can be black, gray, or brown. Dwarves average 4 feet tall and weigh as much as adult humans.
 

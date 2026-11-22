@@ -1,0 +1,22 @@
+---
+srd-type: "feat"
+section: "Feats"
+prerequisites: "Boggard, terrifying croak."
+book: "Monster Codex"
+based-on:
+  - "[[path srd 3.5/rules/monster-codex/boggards/New Rules (Boggards)#Throat Pouch|Throat Pouch (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-21
+tags: [rangoric, rangoric/feat, racial]
+---
+
+# Throat Pouch
+
+You can swell your throat to amplify and broadcast your vocalizations over vast distances.
+
+**Prerequisites**: [[rangoric-srd/monsters/boggard/Boggard|Boggard]], [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]].
+
+**Benefit**: The range of your [[rangoric-srd/monsters/boggard/Boggard#^terrifying-croak|terrifying croak]] ability increases by 5 feet for every 2 Hit Dice you have (maximum 30-foot increase). While speaking Boggard or wordlessly vocalizing, you can swell your throat pouch as a free action to reduce the Perception DC needed to hear your voice by an amount equal to your Hit Dice.
+
+**Special**: The benefits of Throat Pouch and any feats that use it as a prerequisite are available only while you're wearing light, medium, or no armor.

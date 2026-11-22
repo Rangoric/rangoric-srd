@@ -117,6 +117,10 @@ If a character already has uncanny dodge (see above) from a second class, the ch
 
 **Master Strike (Ex)**: Upon reaching 20th level, a rogue becomes incredibly deadly when dealing sneak attack damage. Each time the rogue deals sneak attack damage, she can choose one of the following three effects: the target can be put to sleep for 1d4 hours, [[rangoric-srd/rules/Special Abilities and Conditions#^paralyzed|paralyzed]] for 2d6 rounds, or slain. Regardless of the effect chosen, the target receives a Fortitude save to negate the additional effect. The DC of this save is equal to 10 + 1/2 the rogue's level + the rogue's Intelligence modifier. Once a creature has been the target of a master strike, regardless of whether or not the save is made, that creature is immune to that rogue's master strike for 24 hours. Creatures that are immune to sneak attack damage are also immune to this ability. ^rogue-master-strike
 
+**Archetypes**: A rogue can take one or more [[rangoric-srd/class-options/archetypes/Archetypes|archetypes]], which replace some of the class features above with others. The rogue’s archetypes, with what each replaces: ^rogue-archetypes
+
+![[rangoric-srd/class-options/archetypes/Archetypes Index.base#Rogue]]
+
 **Class Bonuses**: Members of some races gain a [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]] for each level they have in this class. The rogue’s class bonuses, by race: ^rogue-class-bonuses
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Rogue]]
