@@ -28,7 +28,7 @@ treasure: "None"
 alignment: "Always neutral"
 advancement: "None"
 level-adjustment: "—"
-group: "[[rangoric-srd/monsters/swarm/Swarm|Swarm]]"
+group: "[[rangoric-srd/monsters/centipede/Centipede|Centipede]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Swarm, Centipede|Swarm, Centipede (PF1)]]"
