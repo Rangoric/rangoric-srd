@@ -15,3 +15,36 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Alchemical weapons"
+    filters:
+      and:
+        - note.category.contains("Alchemical Weapon")
+    order:
+      - file.name
+      - note.price
+      - note.weight
+      - note.damage
+      - note.range
+      - note.critical
+      - note.damage-type
+      - note.special
+      - note.dc
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Fireworks"
+    filters:
+      and:
+        - note.category.contains("Firework")
+    order:
+      - file.name
+      - note.price
+      - note.weight
+      - note.damage
+      - note.range
+      - note.dc
+    sort:
+      - property: file.name
+        direction: ASC
