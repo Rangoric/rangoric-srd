@@ -81,7 +81,7 @@ Languages work as follows.
 | Orc                | Orcs                                               | Dwarven       |
 | Shadow             | Bogies                                             | —             |
 | Strix              | Strix                                              | —             |
-| Sylvan             | Dryads, brownies, leprechauns                      | Elven         |
+| Sylvan             | [[rangoric-srd/monsters/nymph/Dryad\|Dryads]], [[rangoric-srd/monsters/Brownie\|brownies]], [[rangoric-srd/monsters/Leprechaun\|leprechauns]]                      | Elven         |
 | Tengu              | Tengus                                             | —             |
 | Terran             | Xorns and other earth-based creatures              | Dwarven       |
 | Undercommon        | Drow                                               | Elven         |

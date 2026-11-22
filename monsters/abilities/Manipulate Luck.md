@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["special attack"]
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Huldra|Huldra (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Manipulate Luck
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “manipulate luck”, on the Special Attacks line.
+
+Once per day, a huldra can manipulate another creature's luck by spending a full-round action, during which the huldra must remain in physical contact with the target creature. When the huldra uses this ability, she must choose whether she is imparting good luck or bad luck. A creature granted good luck gains a +2 luck bonus on all saving throws, attack rolls, and skill checks, while a creature afflicted with bad luck takes a -4 penalty on all saving throws, attack rolls, and skill checks. A successful DC 17 Will save negates the effect. Huldras cannot be the target of this ability. This effect lasts for 24 hours and is a curse effect. The save DC is Charisma-based. The [[rangoric-srd/monsters/Huldra|huldra]] has it.

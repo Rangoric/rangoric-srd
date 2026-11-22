@@ -33,7 +33,7 @@ The power of the natural world saturates your being, and manifests itself when y
 
 **Blurring Movement (Su)**: At 8th level, you become a blur of motion when you move. As long as you move at least 10 feet, you gain the effects of *[[rangoric-srd/spells/Blur|blur]]* for 1 round.
 
-**Quickling Bloodrage (Sp)**: At 12th level, while bloodraging you’re treated as if you are under the effects of *[[rangoric-srd/spells/Haste|haste]]*.
+**[[rangoric-srd/monsters/Quickling|Quickling]] Bloodrage (Sp)**: At 12th level, while bloodraging you’re treated as if you are under the effects of *[[rangoric-srd/spells/Haste|haste]]*.
 
 **One with Nature (Su)**: At 16th level, creatures of the animal or plant types don’t attack you unless compelled to do so by magic or you attack them first. Three times per day, you can transport yourself from one tree to another tree, as *[[rangoric-srd/spells/Tree Stride|tree stride]]* with half the transport range. Moving from one tree to another in this manner is a move action. You gain these abilities even while not bloodraging.
 

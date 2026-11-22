@@ -27,6 +27,7 @@ treasure: "Standard (dagger, masterwork longbow with 20 arrows, other treasure)"
 alignment: "Usually chaotic good"
 advancement: "By character class"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/nymph/Nymphs|Nymphs]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dryad|Dryad (PF1)]]"
@@ -49,7 +50,7 @@ tags: [rangoric, rangoric/monster]
   - **Full Attack**: [[rangoric-srd/equipment/weapons/Dagger|Dagger]] +7 melee (1d4); or masterwork longbow +8 ranged (1d8)
   - **Space/Reach**: 5 ft./5 ft.
   - **Special Attacks**: [[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-like abilities]]
-  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], tree meld, wild empathy, woodcraft, [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, tree dependent
+  - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/monsters/abilities/Tree Meld|tree meld]], wild empathy, [[rangoric-srd/monsters/abilities/Woodcraft|woodcraft]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/cold iron, tree dependent
   - **Saves**: Fort +5, Ref +9, Will +7
   - **Abilities**: Str 10, Dex 19, Con 13, Int 14, Wis 15, Cha 18
   - **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +9, [[rangoric-srd/skills/Craft|Craft]] (sculpture) +11, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +13, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +8, [[rangoric-srd/skills/Nature|Nature]] +11, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Stealth|Stealth]] +16
@@ -76,10 +77,10 @@ Shy, intelligent, and resolute, dryads are as elusive as they are alluring—the
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 6th): Constant—*[[rangoric-srd/spells/Speak with Plants|speak with plants]]*; At will—*[[rangoric-srd/spells/Entangle|entangle]]* (DC 15), *[[rangoric-srd/spells/Tree Shape|tree shape]]*, *[[rangoric-srd/spells/Wood Shape|wood shape]]* (1 lb. only); 3/day—*[[rangoric-srd/spells/Charm Person|charm person]]* (DC 15), *[[rangoric-srd/spells/Deep Slumber|deep slumber]]* (DC 17), *[[rangoric-srd/spells/Tree Stride|tree stride]]*; 1/day—*[[rangoric-srd/spells/Suggestion|suggestion]]* (DC 17).
 
-**Tree Meld (Su)**: A dryad can meld with any tree, similar to how the spell *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* functions. She can remain melded with a tree as long as she wishes.
+**[[rangoric-srd/monsters/abilities/Tree Meld|Tree Meld]] (Su)**: A dryad can meld with any tree, similar to how the spell *[[rangoric-srd/spells/Meld into Stone|meld into stone]]* functions. She can remain melded with a tree as long as she wishes.
 
 **Tree Dependent (Su)**: A dryad is mystically bonded to a single, enormous tree and must never stray more than 300 yards from it. Most dryad trees are oak trees, but other trees function as well (often having subtle influences on a specific dryad's personality and appearance). A dryad who moves 300 yards beyond her bonded tree immediately becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]]. Every hour thereafter, she must make a DC 15 Fortitude save to resist becoming [[rangoric-srd/rules/Special Abilities and Conditions#^nauseated|nauseated]] for an hour. A dryad that is out of range of her bonded tree for 24 hours takes 1d6 points of Constitution damage, and another 1d6 points of Constitution damage every day that follows—eventually, this separation kills the dryad. A dryad can forge a new bond with a new tree by performing a 24-hour ritual and making a successful DC 20 Will save.
 
 **Wild Empathy (Su)**: This works like the druid's wild empathy class feature, except the dryad has a +6 racial bonus on the check. Dryads with druid levels add this racial modifier to their wild empathy checks.
 
-**Woodcraft (Ex)**: A dryad has a +6 racial bonus to Craft checks involving wood, and is always treated as if she had masterwork artisan's woodworking tools when making such checks.
+**[[rangoric-srd/monsters/abilities/Woodcraft|Woodcraft]] (Ex)**: A dryad has a +6 racial bonus to Craft checks involving wood, and is always treated as if she had masterwork artisan's woodworking tools when making such checks.

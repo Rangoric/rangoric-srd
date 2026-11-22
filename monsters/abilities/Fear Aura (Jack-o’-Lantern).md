@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["quality"]
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Jack-o'-Lantern|Jack-o'-Lantern (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Fear Aura (Jack-o’-Lantern)
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “fear”, on the Special Qualities line.
+
+Any creature within 30 feet of a jack-o'-lantern must succeed at a DC 13 Will save or be [[rangoric-srd/rules/Special Abilities and Conditions#^shaken|shaken]] for 2d6 minutes. If the Will save is successful, the creature is immune to that jack-o'-lantern's fear aura for 24 hours. This is a vision-based mind-affecting fear effect. The save DC is Charisma-based and includes a +4 racial bonus. The [[rangoric-srd/monsters/Jack-o’-Lantern|jack-o’-lantern]] has it.

@@ -26,7 +26,7 @@ The Faerie Woods is one of the most commonly visited regions by mortal outsiders
 
 ***Legends & Lore***
 
-*Common:* The Faerie Woods is home to an enormous population of [[rangoric-srd/monsters/Dryad|dryads]].
+*Common:* The Faerie Woods is home to an enormous population of [[rangoric-srd/monsters/nymph/Dryad|dryads]].
 
 *Uncommon:* Dryad oaks have a dual presence with their mortal world and the forest here in FaerieLand. Here in the Faerie Woods, dryads are able to leave their host tree for a number of days equal to their HD.
 
