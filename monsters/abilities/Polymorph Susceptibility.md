@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["defense"]
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Yaoguai|Yaoguai (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Polymorph Susceptibility
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “polymorph susceptibility”, on the Special Qualities line.
+
+The creature is immune to polymorph effects or effects that otherwise change its shape, but the attempt to alter its shape causes it great pain and it must attempt a saving throw if the effect allows it. If it fails its save or the effect doesn't allow a saving throw, the creature is [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] and loses its damage reduction and fast healing for 1d4 rounds. The [[rangoric-srd/monsters/Yaoguai|yaoguai]] has it.

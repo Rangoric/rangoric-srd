@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["special attack"]
+book: "Bestiary 3"
+based-on:
+  - "[[path srd 3.5/monsters/Sea Serpent, Deep|Sea Serpent, Deep (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Powerful Tail
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “powerful tail”, on the Special Attacks line.
+
+The creature's tail slap is always a primary attack. When the creature deals damage to an object with its tail slap or via constrict damage, it ignores the first 10 points of hardness that object possesses. The [[rangoric-srd/monsters/Deep Sea Serpent|deep sea serpent]] has it.

@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["quality"]
+book: "Bestiary 2"
+based-on:
+  - "[[path srd 3.5/monsters/Toad, Glacier|Toad, Glacier (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Bitter Cold
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “bitter cold”, on the Special Qualities line.
+
+All creatures within 20 feet of the creature take 1d6 points of cold damage each round on the creature's turn. The [[rangoric-srd/monsters/Glacier Toad|glacier toad]] has it.
