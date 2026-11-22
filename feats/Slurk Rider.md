@@ -13,7 +13,7 @@ tags: [rangoric, rangoric/feat, racial]
 
 # Slurk Rider
 
-You are skilled at riding slurks into battle.
+You are skilled at riding [[rangoric-srd/monsters/Slurk|slurks]] into battle.
 
 **Prerequisites**: [[rangoric-srd/races/Kobold|Kobold]].
 

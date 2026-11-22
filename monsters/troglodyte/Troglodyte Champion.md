@@ -63,6 +63,6 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A troglodyte champion is a [[rangoric-srd/monsters/troglodyte/Troglodyte|troglodyte]] with 6 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the troglodyte cavalry. These mounted warriors ride reptilian steeds such as giant monitor lizards or giant chameleons into combat.
+A troglodyte champion is a [[rangoric-srd/monsters/troglodyte/Troglodyte|troglodyte]] with 6 levels of [[rangoric-srd/classes/Fighter|fighter]], one of the troglodyte cavalry. These mounted warriors ride reptilian steeds such as giant monitor lizards or [[rangoric-srd/monsters/Giant Chameleon|giant chameleons]] into combat.
 
 A troglodyte champion speaks Draconic.

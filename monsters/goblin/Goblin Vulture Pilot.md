@@ -69,7 +69,7 @@ A goblin vulture pilot speaks Common, Giant, Gnoll, and Goblin.
 
 ### Combat
 
-**Before Combat**: The vulture pilot drinks a bouncy body extract, a false life extract, and a potion of barkskin, then feeds a potion of barkskin to her vulture companion.
+**Before Combat**: The vulture pilot drinks a bouncy body extract, a false life extract, and a potion of barkskin, then feeds a potion of barkskin to her [[rangoric-srd/monsters/Giant Vulture Companion|vulture companion]].
 
 **During Combat**: The pilot uses her bombs to scatter opponents on the ground, tanglefoot bags to hold tasty prizes in place, and alchemical splash weapons as the situation warrants.
 

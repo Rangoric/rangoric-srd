@@ -129,7 +129,7 @@ As a species, sahuagin are particularly prone to mutation. Most mutants perish i
 
 If a community of aquatic elves is located within 100 miles of a sahuagin community, about one in one hundred sahuagin looks just like an aquatic elf. Malenti have a swim speed of 40 feet, can remain out of water for 1 hour per point of Constitution, and have freshwater sensitivity and light sensitivity ([[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] in bright light).
 
-**Prehistoric Sahuagin**: Also known as adacthys, these sahuagin mutants are throwbacks to a more savage epoch; they're Large, have a +7 natural armor bonus, and can speak with aquatic dinosaurs and aquatic megafauna in addition to sharks. Adacthys are usually found in the same waters as prehistoric creatures.
+**Prehistoric Sahuagin**: Also known as adacthys, these sahuagin mutants are throwbacks to a more savage epoch; they're Large, have a +7 natural armor bonus, and can speak with aquatic dinosaurs and aquatic [[rangoric-srd/monsters/megafauna/Megafauna|megafauna]] in addition to sharks. Adacthys are usually found in the same waters as prehistoric creatures.
 
 **Shark-Blooded Sahuagin**: These sahuagin mutants have overly large maws filled with rows of shark-like teeth, as well as the fins and tail of an oversized shark. These abnormalities give them the appearance of monstrous merfolk, a base speed of 5 feet, a swim speed of 80 feet, a bite attack that deals 1d6 points of damage, and immunity to [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] attempts. Shark-blooded sahuagin are typically found in sahuagin communities with an unusually high number of shark guardians or near shark breeding grounds.
 

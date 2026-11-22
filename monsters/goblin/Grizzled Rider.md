@@ -58,14 +58,14 @@ tags: [rangoric, rangoric/monster]
   - **Environment**: Temperate forest and plains (usually coastal regions)
   - **Organization**: Solitary, or with other goblins (see [[rangoric-srd/monsters/goblin/Goblin|Goblin]])
   - **Challenge Rating**: 5
-  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potion of cure moderate wounds, +1 flaming arrows (5), alchemist's fire (2), tanglefoot bags (2); other gear: +1 chain shirt, +1 buckler, masterwork composite shortbow with 20 arrows, masterwork horsechopper, giant gecko mount, 81 gp)
+  - **Treasure**: NPC gear (combat gear: potion of bull's strength, potion of cure moderate wounds, +1 flaming arrows (5), alchemist's fire (2), tanglefoot bags (2); other gear: +1 chain shirt, +1 buckler, masterwork composite shortbow with 20 arrows, masterwork horsechopper, [[rangoric-srd/monsters/Giant Gecko|giant gecko]] mount, 81 gp)
   - **Alignment**: Usually neutral evil
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
 A grizzled rider is a [[rangoric-srd/monsters/goblin/Goblin|goblin]] with 6 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the goblin riders. It has the [[rangoric-srd/races/class-bonuses/Goblin Ranger (Class Bonus)|goblin ranger class bonus]]: +3 on damage dealt to dogs and horses (and doglike and horselike creatures). Goblins love riding ferocious mounts into battle.
 
-Goblin riders usually ride goblin dogs, wolves, or worgs, but might also ride exotic creatures like giant geckos.
+Goblin riders usually ride goblin dogs, wolves, or worgs, but might also ride exotic creatures like [[rangoric-srd/monsters/Giant Gecko|giant geckos]].
 
 A grizzled rider speaks Goblin.
 

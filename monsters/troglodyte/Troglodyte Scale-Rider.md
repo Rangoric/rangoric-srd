@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: By character class
   - **Level Adjustment**: —
 
-A troglodyte scale-rider is a [[rangoric-srd/monsters/troglodyte/Troglodyte|troglodyte]] with 5 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the troglodyte cavalry. These mounted warriors ride reptilian steeds such as giant monitor lizards or giant chameleons into combat.
+A troglodyte scale-rider is a [[rangoric-srd/monsters/troglodyte/Troglodyte|troglodyte]] with 5 levels of [[rangoric-srd/classes/Ranger|ranger]], one of the troglodyte cavalry. These mounted warriors ride reptilian steeds such as giant monitor lizards or [[rangoric-srd/monsters/Giant Chameleon|giant chameleons]] into combat.
 
 A troglodyte scale-rider speaks Draconic.
 
