@@ -28,3 +28,5 @@ A scarf chain is a thin weighted chain sewn into a silk scarf (included in the p
 Upon making and maintaining a successful grapple attack with a scarf chain, follow the normal rules for suffocation. Creatures grappled with this weapon are not able to speak or shout (and casting spells requiring verbal components is impossible). Also, while grappled by a scarf chain, a character takes the full weapon damage each round.
 
 A scarf chain can also be used to make trip and disarm attacks, giving its wielder a +1 bonus on those [[rangoric-srd/combat/Combat Maneuvers|combat maneuver checks]].
+
+The [[rangoric-srd/equipment/gear/Reinforced Scarf|reinforced scarf]] is a different item: a scarf reinforced with chain links that can be used like a length of chain.

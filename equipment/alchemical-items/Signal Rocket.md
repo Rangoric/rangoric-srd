@@ -2,7 +2,7 @@
 srd-type: "alchemical-item"
 section: "Equipment"
 book: "Monster Codex"
-category: ["Alchemical Weapon"]
+category: ["Alchemical Weapon", "Firework"]
 magical: false
 dc: "15"
 price: "100 gp"
