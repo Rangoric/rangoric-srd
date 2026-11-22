@@ -2,21 +2,24 @@
 srd-type: "magic-item"
 section: "Magic Items"
 item-type: "Cursed Item"
-aura: "Strong abjuration"
+aura: "Moderate transmutation"
 caster-level: 15
 price: "62,000 gp"
+slot: "shoulders"
 based-on:
   - "[[fantasy srd 3.5/magic-items/cursed-items/Cloak of Poisonousness|Cloak of Poisonousness (3.5)]]"
-status: base
-change: copied
-pi-review: scanned 2026-10-15
+  - "[[path srd 3.5/items/cursed-items/Poisonous Cloak|Poisonous Cloak (PF1)]]"
+  - "[[path srd 3.5 foundry/items/cursed/Poisonous Cloak|Poisonous Cloak (PF1 F)]]"
+status: draft
+change: modified
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/magic-item]
 ---
 
 # Cloak of Poisonousness
 
-This cloak is usually made of a woolen material, although it can be made of leather. A detect poison spell can reveal the presence of poison impregnated in the cloak’s fabric. The garment can be handled without harm, but as soon as it is actually donned the wearer is killed instantly unless she succeeds on a DC 28 Fortitude save.
+This cloak is usually made of wool, although it can be made of leather. A *[[rangoric-srd/spells/Detect Poison|detect poison]]* spell can reveal the presence of poison in the cloak’s fabric. The garment can be handled without harm, but as soon as it is actually donned, the wearer takes 4d6 points of Constitution damage unless she succeeds on a DC 28 Fortitude save.
 
-Once donned, a cloak of poisonousness can be removed only with a remove curse spell; doing this destroys the magical property of the cloak. If a neutralize poison spell is then used, it is possible to revive the victim with a raise dead or resurrection spell, but not before.
+Once donned, a *poisonous cloak* can be removed only with a *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell; doing this destroys the magical property of the cloak. If a *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]* spell is then used, it is possible to revive a dead victim with a *[[rangoric-srd/spells/Raise Dead|raise dead]]* or *[[rangoric-srd/spells/Resurrection|resurrection]]* spell.
 
-Strong abjuration; CL 15th; Create Wondrous Item, poison, and limited wish or miracle; Price 62,000 gp.
+Moderate transmutation; CL 15th; Create Wondrous Item, poison, and limited wish or miracle; Price 62,000 gp.

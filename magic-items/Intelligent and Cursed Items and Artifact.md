@@ -9,7 +9,7 @@ based-on:
   - "[[individual books/Arms & Armor v3.5/rules/Artifacts & Legends|Artifacts & Legends (Arms & Armor)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -593,7 +593,14 @@ These cursed items have no creation prerequisites or price. Instead, each names 
 | --- | --- |
 | [[rangoric-srd/magic-items/cursed-items/Rod of Arson\|Rod of Arson]] | *[[rangoric-srd/magic-items/rods/Rod of Flame Extinguishing\|rod of flame extinguishing]]* |
 | [[rangoric-srd/magic-items/cursed-items/Rod of Foiled Magic\|Rod of Foiled Magic]] | any [[rangoric-srd/magic-items/Magic Potions, Rings, and Rods#Rods\|metamagic rod]] |
+| [[rangoric-srd/magic-items/cursed-items/Staff of Magical Decline\|Staff of Magical Decline]] | any [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands#Staffs\|staff]] |
 | [[rangoric-srd/magic-items/cursed-items/Staff of Occasional Wonder\|Staff of Occasional Wonder]] | any [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands#Staffs\|staff]] |
+
+**Scrolls**
+
+| Cursed item | Appears to be |
+| --- | --- |
+| [[rangoric-srd/magic-items/cursed-items/Scroll of Blood Ink\|Scroll of Blood Ink]] | any [[rangoric-srd/magic-items/Magic Scrolls, Staffs, and Wands#Scrolls\|scroll]] |
 
 **Wondrous items**
 
@@ -611,11 +618,13 @@ These cursed items have no creation prerequisites or price. Instead, each names 
 | shoulders | [[rangoric-srd/magic-items/cursed-items/Pauldrons of the Jackass\|Pauldrons of the Jackass]] | any pauldrons |
 | shoulders | [[rangoric-srd/magic-items/cursed-items/Petrifying Cloak\|Petrifying Cloak]] | any cloak |
 | wrists | [[rangoric-srd/magic-items/cursed-items/Scattershot Bracers\|Scattershot Bracers]] | *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Greater\|bracers of archery, greater]]* or *[[rangoric-srd/magic-items/wondrous-items/Bracers of Archery, Lesser\|lesser]]* |
+| slotless | [[rangoric-srd/magic-items/cursed-items/Book of Perilous Journeys\|Book of Perilous Journeys]] | monster almanac |
 | slotless | [[rangoric-srd/magic-items/intelligent-items/Chomper\|Chomper]] | *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding III\|bag of holding III]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Drums of Lethargy\|Drums of Lethargy]] | *drums of haste* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Maniac Hand\|Maniac Hand]] | *[[rangoric-srd/magic-items/wondrous-items/Hand of Glory\|hand of glory]]*, *[[rangoric-srd/magic-items/wondrous-items/Hand of the Mage\|hand of the mage]]*, *[[rangoric-srd/magic-items/wondrous-items/Hand of Stone\|hand of stone]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Mirror of Soul Snaring\|Mirror of Soul Snaring]] | *[[rangoric-srd/magic-items/wondrous-items/Mirror of Life Trapping\|mirror of life trapping]]*, *[[rangoric-srd/magic-items/wondrous-items/Mirror of Opposition\|mirror of opposition]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Monkey's Paw (Cursed Item)\|Monkey's Paw (Cursed Item)]] | none (a unique cursed item) |
+| slotless | [[rangoric-srd/magic-items/cursed-items/Needful Doll\|Needful Doll]] | *[[rangoric-srd/magic-items/wondrous-items/Anatomy Doll\|anatomy doll]]*, *[[rangoric-srd/magic-items/wondrous-items/Ganji Doll\|ganji doll]]*, *[[rangoric-srd/magic-items/wondrous-items/Hexing Doll\|hexing doll]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/One-Way Window (Cursed Item)\|One-Way Window]] | *[[rangoric-srd/magic-items/wondrous-items/Mirror of Life Trapping\|mirror of life trapping]]*, *[[rangoric-srd/magic-items/wondrous-items/Mirror of Opposition\|mirror of opposition]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Riot Pipes\|Riot Pipes]] | *[[rangoric-srd/magic-items/wondrous-items/Pipes of Haunting\|pipes of haunting]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of the Sewers\|pipes of the sewers]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of Sounding\|pipes of sounding]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Unguent of Aging\|Unguent of Aging]] | *[[rangoric-srd/magic-items/wondrous-items/Unguent of Timelessness\|unguent of timelessness]]* |
