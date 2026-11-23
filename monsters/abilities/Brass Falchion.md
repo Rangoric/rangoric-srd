@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["quality"]
+book: "Bestiary 3"
+based-on:
+  - "[[path srd 3.5/monsters/Golem, Brass|Golem, Brass (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Brass Falchion
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “brass falchion”, on the Special Qualities line.
+
+A brass golem's falchion deals damage as a Huge falchion, but is actually a primary natural attack, not a manufactured weapon, and cannot be disarmed. The [[rangoric-srd/monsters/golem/Brass Golem|brass golem]] has it.

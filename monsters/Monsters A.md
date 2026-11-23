@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/overview]
 
   - [[rangoric-srd/monsters/Abaia|Abaia]]
   - [[rangoric-srd/monsters/Aboleth|Aboleth]]
+  - [[rangoric-srd/monsters/Abrakarn Viper|Abrakarn Viper]]
   - [[rangoric-srd/monsters/Achaierai|Achaierai]]
   - [[rangoric-srd/monsters/Adaro|Adaro]]
   - [[rangoric-srd/monsters/Adherer|Adherer]]

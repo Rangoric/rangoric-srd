@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/hag/Hag|Hag (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -20,8 +20,11 @@ Hags speak Giant and Common.
 Hags are tremendously strong. They are naturally resistant to spells and can cast magic of their own. Hags often gather to form coveys. A covey, usually containing one hag of each type, can use powers beyond those of the individual members.
 
   - [[rangoric-srd/monsters/hag/Annis|Annis]]
+  - [[rangoric-srd/monsters/hag/Blood Hag|Blood Hag]]
   - [[rangoric-srd/monsters/hag/Green Hag|Green Hag]]
+  - [[rangoric-srd/monsters/hag/Qallupilluk|Qallupilluk]]
   - [[rangoric-srd/monsters/hag/Sea Hag|Sea Hag]]
+  - [[rangoric-srd/monsters/hag/Winter Hag|Winter Hag]]
 
 ### Hag Covey
 

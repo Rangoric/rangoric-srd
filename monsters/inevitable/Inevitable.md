@@ -20,7 +20,7 @@ Inevitables are single-minded in pursuit of their quarry, but they are under ord
 
 Inevitables gladly sacrifice themselves to complete a mission, but they aren’t suicidal. Faced with impending defeat, they are likely to withdraw and seek a way to even the odds. They are determined but patient foes. They ally with others if that helps accomplish their mission, but they have a hard time keeping allies for long.
 
-Inevitables tend to stick out in a crowd while they’re in observation mode, but they seem oblivious to the attention. Their forms vary, but all inevitables are gold-and-silver clockwork creatures, with gears and pistons where muscles would be on flesh-and-blood creatures. Their eyes glow with a golden radiance.
+Inevitables tend to stick out in a crowd while they’re in observation mode, but they seem oblivious to the attention. Their forms vary, but all inevitables are gold-and-silver [[rangoric-srd/monsters/clockwork/Clockwork|clockwork]] creatures, with gears and pistons where muscles would be on flesh-and-blood creatures. Their eyes glow with a golden radiance.
 
 Inevitables have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^inevitable|inevitable subtype]]: constructed bodies, regeneration that chaotic weapons overcome, and truespeech.
 
