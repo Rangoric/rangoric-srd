@@ -4,6 +4,9 @@ filters:
         - file.inFolder("rangoric-srd/rules/afflictions")
         - file.hasTag("rangoric/affliction")
     - and:
+        - note.affliction-type == "drug"
+        - file.inFolder("rangoric-srd/equipment/alchemical-items")
+    - and:
         - note.affliction-type == "poison"
         - or:
             - file.inFolder("rangoric-srd/equipment/alchemical-items")
@@ -80,6 +83,67 @@ views:
       - note.frequency
       - note.effect
       - note.cure
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Drugs
+    filters:
+      and:
+        - note.affliction-type == "drug"
+    order:
+      - file.name
+      - note.delivery
+      - note.addiction
+      - note.save
+      - note.effect
+      - note.damage
+      - note.price
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Addictions
+    filters:
+      and:
+        - note.affliction-type == "disease"
+        - file.name.endsWith(" Addiction")
+    order:
+      - file.name
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+      - note.cure
+    sort:
+      - property: note.save
+        direction: ASC
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Infestations
+    filters:
+      and:
+        - note.affliction-type == "infestation"
+    order:
+      - file.name
+      - note.save
+      - note.onset
+      - note.frequency
+      - note.effect
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: Insanities
+    filters:
+      and:
+        - note.affliction-type == "insanity"
+    order:
+      - file.name
+      - note.save
+      - note.onset
+      - note.effect
     sort:
       - property: file.name
         direction: ASC

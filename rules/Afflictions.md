@@ -1,20 +1,29 @@
 ---
 srd-type: "overview"
 section: "Rules"
-book: "Core Rulebook"
+book: ["Core Rulebook", "Game Mastery Guide"]
 based-on:
   - "[[fantasy srd 3.5/rules/Special Abilities and Conditions|Special Abilities and Conditions (3.5)]]"
   - "[[path srd 3.5/rules/core-rulebook/glossary/Special Abilities|Special Abilities (PF1)]]"
   - "[[path srd 3.5/rules/ultimate-equipment/gear/Poisons|Poisons (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Drugs and Addiction (Drugs and Addiction)|Drugs and Addiction (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Drugs|Drugs (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Addiction|Addiction (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/drugs-and-addiction/Sample Drugs|Sample Drugs (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/Sanity and Madness|Sanity and Madness (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Going Insane|Going Insane (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Curing Insanity|Curing Insanity (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards#Infestations|Sample Hazards (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-15
+pi-review: 2026-11-22
 tags: [rangoric, rangoric/overview]
 ---
 
 # Afflictions
 
-Curses, diseases and poisons are afflictions. Each has a different effect, but they all work the same way. Every affliction gives a saving throw when it is contracted. On a success, the creature doesn’t suffer from the affliction and needs no further rolls. On a failure, the creature falls victim to the affliction and must deal with its effects.
+Curses, diseases, infestations, insanities and poisons are afflictions, and so are the addictions that [[#Drugs and Addiction|drugs]] cause. Each has a different effect, but they all work the same way. Every affliction gives a saving throw when it is contracted. On a success, the creature doesn’t suffer from the affliction and needs no further rolls. On a failure, the creature falls victim to the affliction and must deal with its effects.
 
 An affliction calls for more saving throws over time to avoid its effects. With most afflictions, enough saving throws made in a row remove it, and no further saves are needed. Some afflictions, usually supernatural ones, can’t be cured by saving throws alone and need powerful magic to remove. Each affliction is given as a short block of information.
 
@@ -22,7 +31,7 @@ An affliction calls for more saving throws over time to avoid its effects. With 
 
 **Name**: The affliction’s name.
 
-**Type**: The kind of affliction (curse, disease or poison) and how it is contracted, such as contact, ingested, inhaled, injury, spell or trap. ^affliction-type
+**Type**: The kind of affliction (curse, disease, infestation, insanity or poison) and how it is contracted, such as contact, ingested, inhaled, injury, spell or trap. ^affliction-type
 
 **Save**: The kind of saving throw that avoids contracting the affliction, and its DC. Unless noted otherwise, it is also the save to avoid the affliction’s effect once contracted, and the DC of any caster level check needed to end the affliction with magic, such as *[[rangoric-srd/spells/Remove Curse|remove curse]]* or *[[rangoric-srd/spells/Neutralize Poison|neutralize poison]]*. ^affliction-save
 
@@ -87,9 +96,66 @@ From a widespread plague to the bite of a dire rat, disease is a serious threat 
 
 Diseases rarely have a limited frequency, but most have a long onset time, and it can vary. Most diseases can be cured by a number of saves in a row or by spells such as *[[rangoric-srd/spells/Remove Disease|remove disease]]*. The saving throws against a disease can be rolled secretly, so the player doesn’t know whether it has taken hold.
 
+## Drugs and Addiction
+
+Drugs are alchemical items with two sides: a short-term effect, usually a benefit, and an amount of ability damage. Every dose also risks addiction, a disease whose severity depends on the drug. A drug isn’t a poison, and none of the poison rules apply to it. ^drugs
+
+**Taking a Drug**: A character who takes a drug gains its effect and takes its ability damage at once, and must make a Fortitude save at its addiction DC to avoid becoming addicted to it. The effect is what the drug does to body or mind; the damage is its side effects, and also how long a dose stays active: since [[rangoric-srd/rules/Special Abilities and Conditions#^ability-damaged|ability damage]] heals at 1 point per day, a drug that deals 1 point stays in a character’s system for 1 day, and one that deals more stays longer. Taking several doses at once rarely does any good, but taking another as the effect wears off renews the effect, adding to the damage and to the risk of addiction. ^taking-a-drug
+
+Each drug is given in these lines:
+
+- **Type**: How it is taken: contact, ingested, inhaled or injury, as for poisons.
+- **Addiction**: The addiction it causes (minor, moderate or severe), then the base DC of the save to resist addiction, and to overcome it. This DC can rise with repeated use.
+- **Price**: The price of one dose.
+- **Effect**: How long the drug lasts, and what it does.
+- **Damage**: The ability damage it deals.
+
+**Making Drugs**: A drug can be made with [[rangoric-srd/skills/Craft|Craft]] (alchemy). The DC to make a drug is equal to its addiction DC. Rolling a natural 1 on the check while making a drug exposes the crafter to it. ^making-drugs
+
+**Drunkenness**: Alcohol can be abused too. A character can drink a number of alcoholic drinks equal to 1 + twice his Constitution modifier; each drink past that leaves him [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1 hour. Particularly exotic or strong alcohol can be treated as a drug, and a character who regularly abuses alcohol might in time develop a moderate addiction. ^drunkenness
+
+### Addiction
+
+Each time a character takes a drug, he must make the save its Addiction line gives to resist becoming addicted. On a success he isn’t addicted, and the drug works as normal. On a failure he contracts the addiction it names. Several doses of the same drug in a short time make addiction harder to resist: the DC rises by +2 each time a character takes another dose while he still has ability damage from an earlier one. Keep track of how high the DC rises, even for a character who is already addicted, since it sets the DC to overcome the addiction. ^addiction
+
+Addiction comes in three degrees, [[rangoric-srd/rules/afflictions/Minor Addiction|minor]], [[rangoric-srd/rules/afflictions/Moderate Addiction|moderate]] and [[rangoric-srd/rules/afflictions/Severe Addiction|severe]], each a disease with a note of its own ([[#^table-addictions|Table: Addictions]]). Each gives a lasting penalty to ability scores for as long as the character has it. With a moderate or severe addiction, he also can’t naturally heal the ability damage dealt by the drug that caused it.
+
+Every addiction pushes its sufferer to keep taking the drug. While a character is benefiting from the drug he is addicted to, he doesn’t suffer his addiction’s effects: he still gets the drug’s effect and takes its ability damage as normal, but the addiction is held off. As soon as the drug’s effect ends, the addiction’s effects return. ^addiction-held-off
+
+**Curing Addiction**: An addiction is a disease, and can be cured like one, with spells such as *[[rangoric-srd/spells/Remove Disease|remove disease]]* or with Fortitude saves over time. Unlike other diseases, an addicted character can make a Fortitude save to overcome his addiction only after a day without the drug. The DC is the highest addiction DC his use of the drug has reached (not necessarily the DC that addicted him, if he kept taking it while addicted), and it drops by 2 for each day he goes without the drug, to no lower than the drug’s base addiction DC. Overcoming the addiction takes two or three consecutive successful saves, as its cure says. A character who takes a dose of the drug he is addicted to relapses at once: the DC returns to its highest, and any successful saves so far are lost. ^curing-addiction
+
+## Infestation
+
+Parasites such as [[rangoric-srd/rules/afflictions/Ear Seekers|ear seekers]] and [[rangoric-srd/rules/afflictions/Rot Grubs|rot grubs]] cause infestations, a kind of affliction like a disease. An infestation can be cured only by specific means: no number of successful saves ends it, so an infestation has no cure entry. A *[[rangoric-srd/spells/Remove Disease|remove disease]]* spell (or a similar effect) halts an infestation at once, but immunity to disease gives no protection, since the infestation is caused by the parasites themselves. Each infestation’s [[rangoric-srd/rules/Hazards|hazard]] says what else ends it. ^infestation
+
 ## Curse
 
 Careless rogues plundering a tomb, drunken heroes insulting a powerful wizard, and foolhardy adventurers who pick up ancient swords all might suffer from curses. These magic afflictions can have a wide variety of effects, from a simple penalty on certain checks to turning the victim into a toad. Some even make the victim slowly rot away, leaving nothing behind but dust. Unlike other afflictions, most curses can’t be cured by any number of successful saving throws. They can be cured with magic, usually spells such as *[[rangoric-srd/spells/Remove Curse|remove curse]]* and *[[rangoric-srd/spells/Break Enchantment|break enchantment]]*. Some curses cause a slow decline; others give a fixed penalty from the moment they are contracted that neither fades nor grows worse. Some magic items act like curses: see [[rangoric-srd/magic-items/Intelligent and Cursed Items and Artifact#Cursed Items|cursed items]].
+
+## Insanity
+
+Insanity is an affliction that strikes those who live through extraordinary physical, mental or spiritual anguish and trials. It can also come from exposure to particularly potent sources of horror, madness or alien natures, which the mind simply can’t withstand. Insanity is a mind-affecting effect. Each insanity has a note of its own, with its save, onset and effect ([[#^table-insanities|Table: Insanities]]); none has a frequency or cure entry, since every insanity is cured as below.
+
+**Going Insane**: A creature whose Intelligence, Wisdom or Charisma is reduced to 0 has suffered a tremendous shock and might go insane: when that score recovers from 0, it must save against an insanity, rolled on [[#^table-types-of-insanity|Table: Types of Insanity]] or chosen to fit what reduced the score. The save is rolled in secret: the victim shouldn’t know the result, nor which insanity might afflict him. Its effects play out naturally: some insanities (such as mania/phobia) take days or even months to show, while others (such as paranoia) are obvious at once. ^going-insane
+
+A creature can also risk insanity in extremely unusual situations, as the GM decides, even when its mental ability scores are unharmed. A character held prisoner for a long time might have to save against a phobia of open or closed spaces; someone repeatedly betrayed by allies, against paranoia; and a poor soul whose mind a powerful demon possessed, against psychosis when the demon is driven out. Magic can cause insanity too: the GM can have *[[rangoric-srd/spells/Insanity (Spell)|insanity]]* inflict one random insanity per 5 caster levels instead of its usual effect, and *[[rangoric-srd/spells/Bestow Curse|bestow curse]]* a single insanity, which is then a curse as well.
+
+A creature can suffer from several insanities at once. A creature afflicted by an insanity it already has instead adds +5 to that insanity’s current DC. ^multiple-insanities
+
+**Curing Insanity**: Every insanity has a DC that stands for its strength: the DC of the Will save to resist it when first exposed, and of the save to recover from it. Recovering naturally takes a long time: once per week, the creature makes a Will save against the insanity’s current DC. On a success, the DC drops by the creature’s Charisma bonus (minimum 1). The creature suffers the insanity’s full effects until its DC reaches 0; then it is cured, and the insanity vanishes completely. *[[rangoric-srd/spells/Restoration, Lesser|Lesser restoration]]* has no effect on insanity, but *[[rangoric-srd/spells/Restoration|restoration]]* reduces the current DC of one insanity affecting the target by the caster’s level. *[[rangoric-srd/spells/Restoration, Greater|Greater restoration]]*, *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Miracle|miracle]]* or *[[rangoric-srd/spells/Wish|wish]]* at once cures a target of all insanity. ^curing-insanity
+
+**Types of Insanity**: When a creature goes insane, roll on this table, or choose the insanity that fits the cause.
+
+**Table: Types of Insanity** ^table-types-of-insanity
+
+| d% | Insanity |
+| --- | --- |
+| 1–11 | [[rangoric-srd/rules/afflictions/Amnesia (Insanity)\|Amnesia]] |
+| 12–48 | [[rangoric-srd/rules/afflictions/Mania-Phobia (Insanity)\|Mania/Phobia]] |
+| 49–68 | [[rangoric-srd/rules/afflictions/Multiple Personality Disorder (Insanity)\|Multiple Personality Disorder]] |
+| 69–78 | [[rangoric-srd/rules/afflictions/Paranoia (Insanity)\|Paranoia]] |
+| 79–84 | [[rangoric-srd/rules/afflictions/Psychosis (Insanity)\|Psychosis]] |
+| 85–100 | [[rangoric-srd/rules/afflictions/Schizophrenia (Insanity)\|Schizophrenia]] |
 
 ## Treating an Affliction
 
@@ -126,3 +192,29 @@ By how each is delivered, then by DC, with the toxins and poison herbs of alchem
 **Table: Curses** ^table-curses
 
 ![[rangoric-srd/rules/afflictions/Afflictions Index.base#Curses]]
+
+### Sample Drugs
+
+The drugs of the [[rangoric-srd/equipment/alchemical-items/Alchemical Items Index.base|alchemical items]], A to Z ([[#Drugs and Addiction|drugs and addiction]]).
+
+**Table: Drugs** ^table-drugs
+
+![[rangoric-srd/rules/afflictions/Afflictions Index.base#Drugs]]
+
+### Addictions
+
+**Table: Addictions** ^table-addictions
+
+![[rangoric-srd/rules/afflictions/Afflictions Index.base#Addictions]]
+
+### Sample Infestations
+
+**Table: Infestations** ^table-infestations
+
+![[rangoric-srd/rules/afflictions/Afflictions Index.base#Infestations]]
+
+### Sample Insanities
+
+**Table: Insanities** ^table-insanities
+
+![[rangoric-srd/rules/afflictions/Afflictions Index.base#Insanities]]

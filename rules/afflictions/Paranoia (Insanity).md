@@ -1,0 +1,28 @@
+---
+srd-type: "affliction"
+section: "Rules"
+book: "Game Mastery Guide"
+affliction-type: "insanity"
+save: "Will DC 17"
+save-dc: 17
+onset: "2d6 days"
+effect: "–4 on Will saves and Cha-based skill checks; no aid from others"
+based-on:
+  - "[[path srd 3.5/afflictions/Paranoia|Paranoia (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/sanity-and-madness/Types of Insanity|Types of Insanity (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/affliction]
+---
+
+# Paranoia
+
+An insanity; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]], and how insanity is contracted and cured in [[rangoric-srd/rules/Afflictions#Insanity|insanity]].
+
+- **Type**: insanity
+- **Save**: Will DC 17
+- **Onset**: 2d6 days
+- **Effect**: –4 penalty on Will saves and Charisma-based skill checks; cannot receive benefit from or attempt the [[rangoric-srd/combat/Combat Special Attacks#Aid Another|aid another]] action; cannot willingly accept aid (including healing) from another creature unless he makes a Will save against his insanity's DC
+
+The paranoid character is convinced that the world and all that dwell within it are out to get him. Paranoid characters are typically argumentative or introverted.

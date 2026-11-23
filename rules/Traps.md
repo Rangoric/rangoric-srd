@@ -20,6 +20,8 @@ Magic traps are further divided into spell traps and magic device traps. Magic d
 
 Spell traps are simply spells that themselves function as traps. Creating a spell trap requires the services of a character who can cast the needed spell or spells, who is usually either the character creating the trap or an NPC spellcaster hired for the purpose.
 
+Dangers that belong to a place rather than being built, such as bad air or a cursed pool, are [[rangoric-srd/rules/Hazards|hazards]], not traps.
+
 ##### Mechanical Traps
 
 Dungeons are frequently equipped with deadly mechanical (nonmagical) traps. A trap typically is defined by its location and triggering conditions, how hard it is to spot before it goes off, how much damage it deals, and whether or not the heroes receive a saving throw to mitigate its effects. Traps that attack with arrows, sweeping blades, and other types of weaponry make normal attack rolls, with a specific attack bonus dictated by the trap’s design.
