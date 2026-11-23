@@ -28,6 +28,8 @@ From the PRD license page (raw `legacy prd unchained/OGL.html`). Paizo's books u
 >
 > **Open Content:** Except for material designated as Product Identity (see above), the game mechanics of this Paizo Publishing game product are Open Game Content, as defined in the Open Game License version 1.0a Section 1(d). No portion of this work other than the material designated as Open Game Content may be reproduced in any form without written permission.
 
+The ***GameMastery Guide*** prints the same declaration (checked against the book, 2026-11-22), its last sentence reading “(Elements that have previously been designated as Open Game Content or are in the public domain are not included in this declaration.)”
+
 ### Bastion Press
 
 > The entire contents of ***Alchemy & Herbalists*** is considered Open Content, except for the cover, artwork, and other graphic elements. The cover, artwork, and other graphic elements are Product Identity and owned solely by Bastion Press, Inc.

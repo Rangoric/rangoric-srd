@@ -1019,7 +1019,7 @@ The wind can create a stinging spray of sand or dust, fan a large fire, heel ove
 
 ### The Environment
 
-Environmental hazards specific to one kind of terrain (such as an avalanche, which occurs in the mountains) are described in Wilderness, above. Environmental hazards common to more than one setting are detailed below.
+Environmental hazards specific to one kind of terrain (such as an avalanche, which occurs in the mountains) are described in Wilderness, above. Environmental hazards common to more than one setting are detailed below, and the dangers of a single place, such as bad air or rot grubs, are in the [[rangoric-srd/rules/Hazards|hazards]] rules.
 
 ##### Acid Effects
 
