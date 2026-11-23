@@ -8,6 +8,7 @@ based-on:
   - "[[path srd 3.5/races/Gnomes|Gnomes (PF1)]]"
   - "[[path srd 3.5/rules/advanced-race-guide/race-builder/Racial Qualities|Racial Qualities (ARG)]]"
   - "[[individual books/Faeries/rules/Character Races|Character Races (Faeries)]]"
+  - "[[path srd 3.5/rules/advanced-player-s-guide/races/Racial Attitudes|Racial Attitudes (PF1 APG)]]"
 status: draft
 change: modified
 pi-review: 2026-11-10
@@ -92,6 +93,10 @@ Members of a race gain bonuses from their training in some classes. Each race no
 - **Choices**: when a bonus asks for a choice (a domain power, a weapon, an energy type), the choice is made at each level, and different levels can choose differently, unless the bonus says otherwise. A choice that can't be made yet, because the character doesn't have anything to choose from at that level, is made as soon as there is something.
 - **Companions**: a bonus given to an animal companion, mount, eidolon, familiar or spirit animal stays with the character: if the companion is ever replaced, the new one gains it.
 - **Only the classes listed**: a race has bonuses only for the classes its note lists, and levels in prestige classes give none. The monk's and summoner's bonuses also apply to the [[rangoric-srd/classes/Unchained Monk|unchained monk]] and [[rangoric-srd/classes/Unchained Summoner|unchained summoner]], where that class has the feature the bonus names.
+
+##### Racial Attitudes
+
+Members of a race often favor some classes and distrust others, but these are only the typical attitudes of the people a character grew up among, never limits on which classes a character can take or on how a character must think or act. ^racial-attitudes
 
 ##### Defensive Training
 
