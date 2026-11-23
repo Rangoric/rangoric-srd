@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Noble's Vigilant Pillbox
 
-This heart-shaped charm is set with three pearls: one white, one silver, and one black. Inside, a tiny compartment usually contains smelling salts or alchemist's kindness. Each pearl has a primary, passive ability and a secondary, active ability that activates if it is removed from the setting and swallowed (a standard action, as if drinking a potion). Swallowing a pearl destroys it. A command word activates the primary abilities of all three pearls for 1 round.
+This heart-shaped charm is set with three pearls: one white, one silver, and one black. Inside, a tiny compartment usually contains [[rangoric-srd/equipment/alchemical-items/Smelling Salts|smelling salts]] or [[rangoric-srd/equipment/alchemical-items/Alchemist's Kindness|alchemist's kindness]]. Each pearl has a primary, passive ability and a secondary, active ability that activates if it is removed from the setting and swallowed (a standard action, as if drinking a potion). Swallowing a pearl destroys it. A command word activates the primary abilities of all three pearls for 1 round.
 
 When activated, the white pearl detects poison in a 10-foot radius around the wearer, dulling to a dark gray if poison is within range. If swallowed, it grants the benefit of a *[[rangoric-srd/spells/Delay Poison|delay poison]]* spell.
 
