@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Rules"
 based-on:
   - "[[fantasy srd 3.5/rules/Treasure|Treasure (3.5)]]"
+  - "[[path srd 3.5/rules/core-rulebook/gamemastering/Designing Encounters#Placing Treasure|Designing Encounters (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -10,6 +11,39 @@ tags: [rangoric, rangoric/overview]
 ---
 
 ## Treasure
+
+##### Character Wealth by Level
+
+As characters gain levels, the amount of treasure they carry and use increases as well. The game assumes that all characters of equivalent level have roughly equal amounts of treasure and magic items. [[#^character-wealth-by-level|Table: Character Wealth by Level]] lists the amount of treasure each character is expected to have at a specific level. Note that this table assumes a standard fantasy game. Low-fantasy games might award only half this value, while high-fantasy games might double the value. It is assumed that some of this treasure is consumed in the course of an adventure (such as potions and scrolls), and that some of the less useful items are sold for half value so more useful gear can be purchased.
+
+The table can also be used to budget gear for characters starting above 1st level, such as a new character created to replace a dead one. Characters should spend no more than half their total wealth on any single item. For a balanced approach, characters that are built after 1st level should spend no more than 25% of their wealth on weapons, 25% on armor and protective devices, 25% on other magic items, 15% on disposable items like potions, scrolls, and wands, and 10% on ordinary gear and coins. Different character types might spend their wealth differently than these percentages suggest; for example, arcane casters might spend very little on weapons but a great deal more on other magic items and disposable items.
+
+**Table: CHARACTER WEALTH BY LEVEL**
+
+| Character Level | Wealth |
+| --- | --- |
+| 2 | 1,000 gp |
+| 3 | 3,000 gp |
+| 4 | 6,000 gp |
+| 5 | 10,500 gp |
+| 6 | 16,000 gp |
+| 7 | 23,500 gp |
+| 8 | 33,000 gp |
+| 9 | 46,000 gp |
+| 10 | 62,000 gp |
+| 11 | 82,000 gp |
+| 12 | 108,000 gp |
+| 13 | 140,000 gp |
+| 14 | 185,000 gp |
+| 15 | 240,000 gp |
+| 16 | 315,000 gp |
+| 17 | 410,000 gp |
+| 18 | 530,000 gp |
+| 19 | 685,000 gp |
+| 20 | 880,000 gp |
+^character-wealth-by-level
+
+*A 1st-level character has only the gear and gold it starts with.*
 
 ##### Monsters with Treasure
 
