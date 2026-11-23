@@ -27,6 +27,7 @@ treasure: "Standard (dagger, 6 darts, other treasure)"
 alignment: "Usually lawful evil"
 advancement: "—"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/gremlin/Gremlins|Gremlins]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Mite|Mite (PF1)]]"
@@ -65,7 +66,7 @@ Descended from even smaller fey, the mites are among the most pitiful and craven
 
 Mites, once closer to the strange realm of the fey, have grown larger and stockier after countless generations spent on the Material Plane. Yet still, their stature places them at the bottom of the pile in the dangerous caverns in which they live. Their traditional enemies are dwarves and gnomes, particularly the svirfneblin of the deep underground caves. The one thing that gives them a significant edge over an enemy in a fight is their natural ability to empathize with normally mindless vermin—mites are particularly fond of spiders, centipedes, and [[rangoric-srd/monsters/Cave Fisher|cave fishers]], and a mite colony usually has a few of these far more dangerous monsters on hand to defend the group.
 
-Although they have lost the supernatural ability to tinker with magic items, luck, or mechanical objects possessed by their more sinister and dangerous gremlin kin, mites retain the ability to perform minor magical tricks with *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, and often use these tricks to annoy their enemies. When faced with dangerous foes, a mite uses its *[[rangoric-srd/spells/Doom|doom]]* ability to hex a foe—a mite's eyes bulge hideously open when it uses this spell-like ability.
+Although they have lost the supernatural ability to tinker with magic items, luck, or mechanical objects possessed by their more sinister and dangerous [[rangoric-srd/monsters/gremlin/Gremlins|gremlin]] kin, mites retain the ability to perform minor magical tricks with *[[rangoric-srd/spells/Prestidigitation|prestidigitation]]*, and often use these tricks to annoy their enemies. When faced with dangerous foes, a mite uses its *[[rangoric-srd/spells/Doom|doom]]* ability to hex a foe—a mite's eyes bulge hideously open when it uses this spell-like ability.
 
 A mite is 3 feet tall and weighs 40 pounds.
 

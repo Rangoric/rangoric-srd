@@ -3,8 +3,8 @@ srd-type: "monster"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/naga/Naga|Naga (3.5)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/monster]
 ---
@@ -19,5 +19,7 @@ Nagas favor spells over other forms of combat. Because they are almost always fo
 
   - [[rangoric-srd/monsters/naga/Dark Naga|Dark Naga]]
   - [[rangoric-srd/monsters/naga/Guardian Naga|Guardian Naga]]
+  - [[rangoric-srd/monsters/naga/Lunar Naga|Lunar Naga]]
+  - [[rangoric-srd/monsters/naga/Royal Naga|Royal Naga]]
   - [[rangoric-srd/monsters/naga/Spirit Naga|Spirit Naga]]
   - [[rangoric-srd/monsters/naga/Water Naga|Water Naga]]
