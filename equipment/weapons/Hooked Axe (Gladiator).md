@@ -28,3 +28,5 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 The hooked end of this axe's blade can be used to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] foes or pull them off balance. A hooked axe can be used as a martial weapon (in which case it functions like a [[rangoric-srd/equipment/weapons/Battleaxe|battleaxe]]).
 
 You can make trip attacks with a hooked axe. A hooked axe is a [[rangoric-srd/equipment/Performance (Quality)|performance weapon]]. This is the one-handed gladiator’s weapon; the two-handed [[rangoric-srd/equipment/weapons/Hooked Axe|hooked axe]] is a different weapon.
+
+A hooked axe is a [[rangoric-srd/equipment/Equipment Weapons#^weapon-disarm|disarm]] weapon.

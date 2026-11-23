@@ -13,6 +13,8 @@ damage-type: "Slashing"
 special: ["double", "trip"]
 based-on:
   - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
+  - "[[path srd 3.5/items/eastern-armor-and-weapons/Monk's Spade|Monk's Spade (PF1)]]"
+  - "[[path srd 3.5 foundry/items/weapons/Monk's Spade|Monk's Spade (PF1 F)]]"
 status: draft
 change: new
 pi-review: 2026-11-11
