@@ -1,0 +1,85 @@
+---
+srd-type: "monster"
+section: "Monsters"
+size: "Medium"
+creature-type: "Construct"
+hit-dice: "15d10+50 (132 hp)"
+initiative: "+1"
+speed: "30 ft. (6 squares)"
+armor-class: "26 (+4 armor, +1 Dex, +11 natural), touch 11, flat-footed 25"
+base-attack: "+15"
+cmb: "+16"
+cmd: "27"
+attack: "Masterwork dagger +17 melee (1d4+1/19–20)"
+full-attack: "Masterwork dagger +17/+12/+7 melee (1d4+1/19–20)"
+space-reach: "5 ft./5 ft."
+special-attacks: "—"
+special-qualities: "Darkvision 60 ft., low-light vision, soul focus, damage reduction 10/adamantine and magic, construct traits, spell resistance 23, cemented mind, susceptible to mind-affecting effects"
+saves: "Fort +5, Ref +6, Will +7"
+abilities: "Str 13, Dex 13, Con —, Int 20, Wis 10, Cha 13"
+skills: "Arcana +26, Craft (sculptures) +20, Emulation +16, Engineering +20, Imitation +16, Perception +15"
+skill-ranks: "Arcana 18, Craft (sculptures) 12, Emulation 12, Engineering 12, Imitation 12, Perception 12"
+feats: "Combat Casting, Craft Construct, Greater Spell Focus (conjuration), Improved Iron Will, Iron Will, Skill Focus (Arcana), Spell Focus (conjuration), Spell Focus (enchantment), Toughness"
+environment: "Any land"
+organization: "Solitary or workshop (1 plus 2–8 other constructs)"
+challenge-rating: 12
+treasure: "Standard (mwk dagger, other treasure)"
+alignment: "Usually neutral"
+advancement: "—"
+level-adjustment: "—"
+group: "[[rangoric-srd/monsters/soulbound/Soulbound|Soulbound]]"
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Soulbound Shell (Monster)|Soulbound Shell (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-22
+tags: [rangoric, rangoric/monster]
+---
+
+# Soulbound Shell
+
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^construct|Construct]]
+  - **Hit Dice**: 15d10+50 (132 hp)
+  - **Initiative**: +1
+  - **Speed**: 30 ft. (6 squares)
+  - **Armor Class**: 26 (+4 armor, +1 Dex, +11 natural), touch 11, flat-footed 25
+  - **Base Attack**: +15; **CMB**: +16; **CMD**: 27
+  - **Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +17 melee (1d4+1/19–20)
+  - **Full Attack**: [[rangoric-srd/equipment/Equipment Weapons#Masterwork Weapons|Masterwork]] [[rangoric-srd/equipment/weapons/Dagger|dagger]] +17/+12/+7 melee (1d4+1/19–20)
+  - **Space/Reach**: 5 ft./5 ft.
+  - **Special Attacks**: —
+  - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]], [[rangoric-srd/monsters/abilities/Soul Focus (Soulbound Shell)|soul focus]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine and magic, [[rangoric-srd/monsters/abilities/Construct Traits|construct traits]], [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 23, [[rangoric-srd/monsters/abilities/Cemented Mind|cemented mind]], [[rangoric-srd/monsters/abilities/Susceptible to Mind-Affecting Effects|susceptible to mind-affecting effects]]
+  - **Saves**: Fort +5, Ref +6, Will +7
+  - **Abilities**: Str 13, Dex 13, Con —, Int 20, Wis 10, Cha 13
+  - **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +26, [[rangoric-srd/skills/Craft|Craft]] (sculptures) +20, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Engineering|Engineering]] +20, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Perception|Perception]] +15
+  - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (conjuration), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Arcana), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Toughness|Toughness]]
+  - **Environment**: Any land
+  - **Organization**: Solitary or workshop (1 plus 2–8 other constructs)
+  - **Challenge Rating**: 12
+  - **Treasure**: Standard (mwk dagger, other treasure)
+  - **Alignment**: Usually neutral
+  - **Advancement**: —
+  - **Level Adjustment**: —
+
+A soulbound shell is the perfected version of a soulbound mannequin, allowing the soul to retain its spellcasting.
+
+Soulbound shells speak Aklo, Common and Draconic.
+
+### Combat
+
+**Spells**: A spellbound shell casts spells as a 12th-level [[rangoric-srd/classes/Cleric|cleric]], [[rangoric-srd/classes/Witch|witch]], or [[rangoric-srd/classes/Wizard|wizard]], but does not gain any other class abilities.
+
+**Wizard spells prepared** (CL 12th; concentration +17): 6th—*[[rangoric-srd/spells/Beast Shape IV|beast shape IV]]*, *[[rangoric-srd/spells/Disintegrate|disintegrate]]* (DC 21); 5th—*[[rangoric-srd/spells/Cloudkill|cloudkill]]* (2, DC 22), *[[rangoric-srd/spells/Dominate Person|dominate person]]* (DC 21), *[[rangoric-srd/spells/Passwall|passwall]]*; 4th—*[[rangoric-srd/spells/Black Tentacles|black tentacles]]* (2), *[[rangoric-srd/spells/Fire Shield|fire shield]]*, *[[rangoric-srd/spells/Shout|shout]]* (DC 19); 3rd—*[[rangoric-srd/spells/Fly|fly]]*, *[[rangoric-srd/spells/Lightning Bolt|lightning bolt]]* (2, DC 18), *[[rangoric-srd/spells/Stinking Cloud|stinking cloud]]* (2, DC 20); 2nd—*[[rangoric-srd/spells/False Life|false life]]* (already cast), *[[rangoric-srd/spells/Glitterdust|glitterdust]]* (DC 19), *[[rangoric-srd/spells/Hideous Laughter|hideous laughter]]* (DC 18), *[[rangoric-srd/spells/Make Whole|make whole]]*, *[[rangoric-srd/spells/Mirror Image|mirror image]]*; 1st—*[[rangoric-srd/spells/Charm Person|charm person]]* (2, DC 17), *[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Grease|grease]]* (DC 18), *[[rangoric-srd/spells/Mage Armor|mage armor]]* (already cast), *[[rangoric-srd/spells/Unseen Servant|unseen servant]]*; 0—*[[rangoric-srd/spells/Acid Splash|acid splash]]*, *[[rangoric-srd/spells/Detect Magic|detect magic]]*, *[[rangoric-srd/spells/Mage Hand|mage hand]]*, *[[rangoric-srd/spells/Read Magic|read magic]]*.
+
+**[[rangoric-srd/monsters/abilities/Cemented Mind|Cemented Mind]] (Ex)**: A soulbound shell can never change its known or prepared spells.
+
+**[[rangoric-srd/monsters/abilities/Soul Focus (Soulbound Shell)|Soul Focus]] (Su)**: The soul bound to the shell lives within a gem inside its chest. As long as this soul focus remains intact, it can be used to animate another shell, at the same cost as creating a new soulbound shell, and retains its personality and memories. A soul focus has hardness 8, 12 hit points, and a break DC of 20.
+
+**[[rangoric-srd/monsters/abilities/Susceptible to Mind-Affecting Effects|Susceptible to Mind-Affecting Effects]] (Ex)**: A soulbound shell is not immune to mind-affecting effects.
+
+### Construction
+
+A soulbound shell is constructed from marble, a 5,000 gp gem for the soul focus, and the soul of a willing spellcaster of at least 12th level who dies at the culmination of the creation process and animates the stone shell.
+
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Magic Jar|magic jar]]*, *[[rangoric-srd/spells/Make Whole|make whole]]*, *[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]*, *[[rangoric-srd/spells/Stoneskin|stoneskin]]*; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture); Price 115,000 gp; Cost 60,000 gp.

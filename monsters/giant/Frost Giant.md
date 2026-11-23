@@ -103,7 +103,7 @@ As frost giants prefer the glory of combat over the tedium of work, they keep sl
 
 One of the few labors the giants take pride in is crafting weapons and armor. They manufacture excellent chain armor, which they prefer to plate, as plate makes noise and has joints that can freeze. For weaponry, they favor enormous greataxes, sometimes hafted with whole trees.
 
-Frost giants enjoy the company of creatures as brutal as themselves, and so take in other tundra creatures as exotic “pets.” They favor winter wolves, but frost worms, mammoths, polar bears, svathurims, and yetis are not unknown.
+Frost giants enjoy the company of creatures as brutal as themselves, and so take in other tundra creatures as exotic “pets.” They favor winter wolves, but frost worms, mammoths, polar bears, [[rangoric-srd/monsters/Svathurim|svathurims]], and yetis are not unknown.
 
 The vast majority of frost giants worship ancient giant deities of blood, ice, and war. The giants dedicate their battles to these gods out of respect, and appease them with sacrifices of slaves and treasure out of fear. More recently, some tribes have turned to the worship of demon lords of brutality, vengeance, and the deadly cold. This has caused something of a schism: the traditionalists accuse the demon-worshipers of turning their backs on their progenitors and becoming thralls to undeserving masters. Yet in truth, most frost giants will worship any god who caters to their desires.
 
