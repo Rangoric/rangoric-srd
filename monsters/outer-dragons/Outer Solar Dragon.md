@@ -1,0 +1,122 @@
+---
+srd-type: "monster"
+section: "Monsters"
+creature-type: "Dragon"
+subtypes: ["Fire"]
+group: "[[rangoric-srd/monsters/outer-dragons/Outer Dragons|Outer Dragons]]"
+environment: "Vacuum"
+organization: "Solitary"
+challenge-rating: [5, 7, 9, 10, 12, 13, 14, 16, 17, 18, 19, 21]
+treasure: "Triple"
+alignment: "Usually lawful neutral"
+advancement: "Wyrmling 8 HD; very young 10 HD; young 12 HD; juvenile 14 HD; young adult 16 HD; adult 18 HD; mature adult 20 HD; old 22 HD; very old 24 HD; ancient 26 HD; wyrm 28 HD; great wyrm 30+ HD"
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Dragon, Outer, Solar|Outer Solar Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Outer, Solar, Young|Young Outer Solar Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Outer, Solar, Adult|Adult Outer Solar Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Outer, Solar, Ancient|Ancient Outer Solar Dragon (PF1)]]"
+status: draft
+change: modified
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster]
+---
+
+# Outer Solar Dragon
+
+  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
+  - **Environment**: Vacuum
+  - **Organization**: Solitary
+  - **Challenge Ratings**: Wyrmling 5; very young 7; young 9; juvenile 10; young adult 12; adult 13; mature adult 14; old 16; very old 17; ancient 18; wyrm 19; great wyrm 21
+  - **Treasure**: Triple
+  - **Alignment**: Usually lawful neutral
+  - **Advancement**: Wyrmling 8 HD; very young 10 HD; young 12 HD; juvenile 14 HD; young adult 16 HD; adult 18 HD; mature adult 20 HD; old 22 HD; very old 24 HD; ancient 26 HD; wyrm 28 HD; great wyrm 30+ HD
+
+**Outer Solar Dragons by Age**
+
+| Age | Size | Hit Dice (hp) | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Alien Presence DC |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | S | 7d12+14 (59) | 14 | 17 | 12 | 13 | 10 | 15 | +7/+8 | 21 (25 vs. trip) | +10 | +6 | +8 | +7 | 2d10 (14) | — |
+| Very young | M | 9d12+27 (85) | 18 | 15 | 14 | 15 | 12 | 17 | +9/+13 | 25 (29 vs. trip) | +13 | +8 | +10 | +9 | 4d10 (16) | — |
+| Young | L | 11d12+44 (115) | 22 | 15 | 16 | 15 | 12 | 17 | +11/+18 | 30 (34 vs. trip) | +16 | +10 | +11 | +10 | 6d10 (18) | — |
+| Juvenile | L | 13d12+65 (149) | 24 | 15 | 18 | 17 | 14 | 19 | +13/+21 | 33 (37 vs. trip) | +19 | +12 | +12 | +12 | 8d10 (20) | 20 |
+| Young adult | H | 15d12+75 (172) | 26 | 13 | 18 | 17 | 14 | 19 | +15/+25 | 36 (40 vs. trip) | +21 | +13 | +12 | +13 | 10d10 (21) | 21 |
+| Adult | H | 17d12+102 (212) | 28 | 13 | 20 | 19 | 16 | 21 | +17/+28 | 39 (43 vs. trip) | +24 | +15 | +13 | +15 | 12d10 (23) | 23 |
+| Mature adult | H | 19d12+114 (237) | 30 | 13 | 20 | 19 | 16 | 21 | +19/+31 | 42 (46 vs. trip) | +27 | +16 | +14 | +16 | 14d10 (24) | 24 |
+| Old | G | 21d12+147 (283) | 32 | 11 | 22 | 21 | 18 | 23 | +21/+36 | 46 (50 vs. trip) | +28 | +18 | +14 | +18 | 16d10 (26) | 26 |
+| Very old | G | 23d12+161 (310) | 34 | 11 | 22 | 21 | 18 | 23 | +23/+39 | 49 (53 vs. trip) | +31 | +19 | +15 | +19 | 18d10 (27) | 27 |
+| Ancient | G | 25d12+200 (362) | 36 | 11 | 24 | 23 | 20 | 25 | +25/+42 | 52 (56 vs. trip) | +34 | +21 | +16 | +21 | 20d10 (29) | 29 |
+| Wyrm | G | 27d12+216 (391) | 38 | 9 | 24 | 23 | 20 | 25 | +27/+45 | 54 (58 vs. trip) | +37 | +22 | +16 | +22 | 22d10 (30) | 30 |
+| Great wyrm | C | 29d12+261 (449) | 40 | 9 | 26 | 25 | 22 | 27 | +29/+52 | 61 (65 vs. trip) | +36 | +24 | +17 | +24 | 24d10 (32) | 32 |
+
+**Outer Solar Dragon Abilities by Age**
+
+| Age | Speed | Initiative | Armor Class | Special Abilities | Caster Level | SR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | 50 ft., fly 150 ft. (average) | +7 | 18 (+3 Dex, +4 natural, +1 size), touch 14, flat-footed 15 | Channel life, immune to fire | — | — |
+| Very young | 50 ft., fly 150 ft. (average) | +6 | 19 (+2 Dex, +7 natural), touch 12, flat-footed 17 | Primal fire | — | — |
+| Young | 50 ft., fly 200 ft. (poor) | +6 | 21 (+2 Dex, +10 natural, –1 size), touch 11, flat-footed 19 | *[[rangoric-srd/spells/Detect Magic\|Detect magic]]* | 1st | — |
+| Juvenile | 50 ft., fly 200 ft. (poor) | +6 | 24 (+2 Dex, +13 natural, –1 size), touch 11, flat-footed 22 | Alien presence, *[[rangoric-srd/spells/Searing Light\|searing light]]* | 3rd | — |
+| Young adult | 50 ft., fly 200 ft. (poor) | +5 | 25 (+1 Dex, +16 natural, –2 size), touch 9, flat-footed 24 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] | 5th | 23 |
+| Adult | 50 ft., fly 200 ft. (poor) | +5 | 28 (+1 Dex, +19 natural, –2 size), touch 9, flat-footed 27 | *[[rangoric-srd/spells/Cup of Dust\|Cup of dust]]* | 7th | 24 |
+| Mature adult | 50 ft., fly 200 ft. (poor) | +5 | 31 (+1 Dex, +22 natural, –2 size), touch 9, flat-footed 30 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 10/magic | 9th | 25 |
+| Old | 50 ft., fly 250 ft. (clumsy) | +4 | 31 (+25 natural, –4 size), touch 6, flat-footed 31 | *[[rangoric-srd/spells/Blight\|Blight]]*, channel radiation | 11th | 27 |
+| Very old | 50 ft., fly 250 ft. (clumsy) | +4 | 34 (+28 natural, –4 size), touch 6, flat-footed 34 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 15/magic | 13th | 28 |
+| Ancient | 50 ft., fly 250 ft. (clumsy) | +4 | 37 (+31 natural, –4 size), touch 6, flat-footed 37 | *[[rangoric-srd/spells/Animate Plants\|Animate plants]]*, *[[rangoric-srd/spells/Major Creation\|major creation]]* | 15th | 29 |
+| Wyrm | 50 ft., fly 250 ft. (clumsy) | +3 | 39 (–1 Dex, +34 natural, –4 size), touch 5, flat-footed 39 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 20/magic | 17th | 30 |
+| Great wyrm | 50 ft., fly 250 ft. (clumsy) | +3 | 38 (–1 Dex, +37 natural, –8 size), touch 1, flat-footed 38 | Beam of light, *[[rangoric-srd/spells/Control Plants\|control plants]]* | 19th | 32 |
+
+
+**Outer Solar Dragon Attacks by Age**
+
+| Age | Space/Reach | Full Attack | Special Attacks |
+| --- | --- | --- | --- |
+| Wyrmling | 5 ft./5 ft. | bite +10 (1d6+3), 2 claws +10 (1d4+2) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. line, 2d10 fire, DC 14) |
+| Very young | 5 ft./5 ft. (10 ft. with bite) | bite +13 (1d8+6), 2 claws +13 (1d6+4), 2 wings +11 (1d4+2) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. line, 4d10 fire, DC 16) |
+| Young | 10 ft./5 ft. (10 ft. with bite) | bite +16 (1d8+9), 2 claws +16 (1d6+6), 2 wings +14 (1d6+3) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (80-ft. line, 6d10 fire, DC 18) |
+| Juvenile | 10 ft./5 ft. (10 ft. with bite) | bite +19 (2d6+10), 2 claws +19 (1d8+7), tail slap +17 (1d8+10), 2 wings +17 (1d6+3) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (80-ft. line, 8d10 fire, DC 20) |
+| Young adult | 15 ft./10 ft. (15 ft. with bite) | bite +21 (2d8+12), 2 claws +21 (2d6+8), tail slap +19 (2d6+12), 2 wings +19 (1d8+4) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 10d10 fire, DC 21), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+12, DC 21) |
+| Adult | 15 ft./10 ft. (15 ft. with bite) | bite +24 (2d8+13), 2 claws +24 (2d6+9), tail slap +22 (2d6+13), 2 wings +22 (1d8+4) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 12d10 fire, DC 23), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+13, DC 23) |
+| Mature adult | 15 ft./10 ft. (15 ft. with bite) | bite +27 (2d8+15), 2 claws +27 (2d6+10), tail slap +25 (2d6+15), 2 wings +25 (1d8+5) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (100-ft. line, 14d10 fire, DC 24), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+15, DC 24) |
+| Old | 20 ft./15 ft. (20 ft. with bite) | bite +28 (4d6+16), 2 claws +28 (2d8+11), tail slap +26 (2d8+16), 2 wings +26 (2d6+5) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 16d10 fire, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+16, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+16, DC 26) |
+| Very old | 20 ft./15 ft. (20 ft. with bite) | bite +31 (4d6+18), 2 claws +31 (2d8+12), tail slap +29 (2d8+18), 2 wings +29 (2d6+6) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 18d10 fire, DC 27), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+18, DC 27), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+18, DC 27) |
+| Ancient | 20 ft./15 ft. (20 ft. with bite) | bite +34 (4d6+19), 2 claws +34 (2d8+13), 2 wings +32 (2d6+6), tail slap +32 (2d8+19) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 20d10 fire, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+19, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+19, DC 29) |
+| Wyrm | 20 ft./15 ft. (20 ft. with bite) | bite +37 (4d6+21), 2 claws +37 (2d8+14), tail slap +35 (2d8+21), 2 wings +35 (2d6+7) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (120-ft. line, 22d10 fire, DC 30), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+21, DC 30), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+21, DC 30) |
+| Great wyrm | 30 ft./20 ft. (30 ft. with bite) | bite +36 (4d8+22), 2 claws +36 (4d6+15), tail slap +34 (4d6+22), 2 wings +34 (2d8+7) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (140-ft. line, 24d10 fire, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d8+22, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d8+22, DC 32) |
+
+**Outer Solar Dragon Skills and Feats by Age**
+
+| Age | Skills | Feats |
+| --- | --- | --- |
+| Wyrmling | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Arcana\|Arcana]] +11, [[rangoric-srd/skills/Nature\|Nature]] +11, [[rangoric-srd/skills/Perception\|Perception]] +10, [[rangoric-srd/skills/Persuasion\|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +10, [[rangoric-srd/skills/Society\|Society]] +11 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]] |
+| Very young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Arcana\|Arcana]] +14, [[rangoric-srd/skills/Nature\|Nature]] +14, [[rangoric-srd/skills/Perception\|Perception]] +13, [[rangoric-srd/skills/Persuasion\|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +13, [[rangoric-srd/skills/Society\|Society]] +14, [[rangoric-srd/skills/Theology\|Theology]] +14 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]] |
+| Young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Arcana\|Arcana]] +16, [[rangoric-srd/skills/Nature\|Nature]] +16, [[rangoric-srd/skills/Perception\|Perception]] +15, [[rangoric-srd/skills/Persuasion\|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +15, [[rangoric-srd/skills/Society\|Society]] +16, [[rangoric-srd/skills/Theology\|Theology]] +16 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]] |
+| Juvenile | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Arcana\|Arcana]] +19, [[rangoric-srd/skills/Medicine\|Medicine]] +18, [[rangoric-srd/skills/Nature\|Nature]] +19, [[rangoric-srd/skills/Perception\|Perception]] +18, [[rangoric-srd/skills/Persuasion\|Persuasion]] +20, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +18, [[rangoric-srd/skills/Society\|Society]] +19, [[rangoric-srd/skills/Theology\|Theology]] +19 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]] |
+| Young adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +11, [[rangoric-srd/skills/Arcana\|Arcana]] +21, [[rangoric-srd/skills/Medicine\|Medicine]] +20, [[rangoric-srd/skills/Nature\|Nature]] +21, [[rangoric-srd/skills/Perception\|Perception]] +20, [[rangoric-srd/skills/Persuasion\|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +20, [[rangoric-srd/skills/Society\|Society]] +21, [[rangoric-srd/skills/Theology\|Theology]] +21 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]] |
+| Adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +13, [[rangoric-srd/skills/Arcana\|Arcana]] +24, [[rangoric-srd/skills/Linguistics\|Linguistics]] +9, [[rangoric-srd/skills/Medicine\|Medicine]] +21, [[rangoric-srd/skills/Nature\|Nature]] +24, [[rangoric-srd/skills/Perception\|Perception]] +23, [[rangoric-srd/skills/Persuasion\|Persuasion]] +25, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +23, [[rangoric-srd/skills/Society\|Society]] +24, [[rangoric-srd/skills/Theology\|Theology]] +24 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]] |
+| Mature adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Arcana\|Arcana]] +26, [[rangoric-srd/skills/Medicine\|Medicine]] +25, [[rangoric-srd/skills/Nature\|Nature]] +26, [[rangoric-srd/skills/Perception\|Perception]] +25, [[rangoric-srd/skills/Persuasion\|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +25, [[rangoric-srd/skills/Society\|Society]] +26, [[rangoric-srd/skills/Theology\|Theology]] +26 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]] |
+| Old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Arcana\|Arcana]] +29, [[rangoric-srd/skills/Linguistics\|Linguistics]] +29, [[rangoric-srd/skills/Medicine\|Medicine]] +28, [[rangoric-srd/skills/Nature\|Nature]] +29, [[rangoric-srd/skills/Perception\|Perception]] +28, [[rangoric-srd/skills/Persuasion\|Persuasion]] +30, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +28, [[rangoric-srd/skills/Society\|Society]] +29, [[rangoric-srd/skills/Theology\|Theology]] +29 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]] |
+| Very old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Arcana\|Arcana]] +31, [[rangoric-srd/skills/Linguistics\|Linguistics]] +31, [[rangoric-srd/skills/Medicine\|Medicine]] +30, [[rangoric-srd/skills/Nature\|Nature]] +31, [[rangoric-srd/skills/Perception\|Perception]] +36, [[rangoric-srd/skills/Persuasion\|Persuasion]] +32, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +30, [[rangoric-srd/skills/Society\|Society]] +31, [[rangoric-srd/skills/Theology\|Theology]] +31 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception) |
+| Ancient | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Arcana\|Arcana]] +34, [[rangoric-srd/skills/Linguistics\|Linguistics]] +11, [[rangoric-srd/skills/Medicine\|Medicine]] +31, [[rangoric-srd/skills/Nature\|Nature]] +34, [[rangoric-srd/skills/Perception\|Perception]] +39, [[rangoric-srd/skills/Persuasion\|Persuasion]] +35, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +33, [[rangoric-srd/skills/Society\|Society]] +34, [[rangoric-srd/skills/Theology\|Theology]] +34 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Spell Focus\|Spell Focus]] (enchantment) |
+| Wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Arcana\|Arcana]] +36, [[rangoric-srd/skills/Linguistics\|Linguistics]] +36, [[rangoric-srd/skills/Medicine\|Medicine]] +35, [[rangoric-srd/skills/Nature\|Nature]] +36, [[rangoric-srd/skills/Perception\|Perception]] +41, [[rangoric-srd/skills/Persuasion\|Persuasion]] +37, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +35, [[rangoric-srd/skills/Society\|Society]] +36, [[rangoric-srd/skills/Theology\|Theology]] +36 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Spell Focus\|Spell Focus]] (enchantment), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]] |
+| Great wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Arcana\|Arcana]] +39, [[rangoric-srd/skills/Linguistics\|Linguistics]] +39, [[rangoric-srd/skills/Medicine\|Medicine]] +38, [[rangoric-srd/skills/Nature\|Nature]] +39, [[rangoric-srd/skills/Perception\|Perception]] +44, [[rangoric-srd/skills/Persuasion\|Persuasion]] +40, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +38, [[rangoric-srd/skills/Society\|Society]] +39, [[rangoric-srd/skills/Theology\|Theology]] +39 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Toughness\|Toughness]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Quick Channel\|Quick Channel]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Selective Channeling\|Selective Channeling]], [[rangoric-srd/feats/Silent Spell\|Silent Spell]], [[rangoric-srd/feats/Maximize Spell\|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception), [[rangoric-srd/feats/Spell Focus\|Spell Focus]] (enchantment), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]] |
+
+This regal dragon glows like the sun. Its burnished wings shimmer the color of flames, and a crown of horns decorates its head.
+
+Arrogant and proud, solar dragons see themselves as the originators of light and life in the vastness of space. They treat all living creatures as their own creations.
+
+Solar dragons speak Celestial, Common, and Draconic; adult and older solar dragons also speak Auran, Ignan, Sylvan, and Terran, and ancient and older ones Elven and Gnome.
+
+## Combat
+
+**Breath Weapon (Su)**: A solar dragon has a line-shaped breath weapon that deals 2d10 points of fire damage per age category (see the [[rangoric-srd/monsters/Dragon, True#Combat|rules for true dragons]]).
+
+**Alien Presence (Su)**: A creature that fails its saving throw against a solar dragon's alien presence is [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] for 5d6 rounds (or permanently if it has 4 Hit Dice or fewer).
+
+**Beam of Light (Su)**: A great wyrm solar dragon can transform itself into a beam of pure light and travel to any location it can see as a move action. This travel must be in a straight line, but otherwise the dragon can travel anywhere that light can enter.
+
+**Channel Life (Su)**: A solar dragon can channel positive energy a number of times per day equal to 3 + its Charisma modifier, using its age category + 2 as its cleric level. This energy can be used only to heal living creatures.
+
+**Channel Radiation (Su)**: An old or older solar dragon can use its channel life ability to instead channel radiation that deals an equal amount of damage to living creatures. A living creature that succeeds at a Fortitude save takes half damage.
+
+**Primal Fire (Su)**: A very young or older solar dragon's breath weapon can affect creatures normally immune or resistant to fire damage. A creature immune to fire damage still takes half damage from the breath weapon (no damage with a successful saving throw). A resistant creature's fire resistance is treated as 10 less than normal.

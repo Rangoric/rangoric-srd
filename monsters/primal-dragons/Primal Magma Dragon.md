@@ -1,0 +1,120 @@
+---
+srd-type: "monster"
+section: "Monsters"
+creature-type: "Dragon"
+subtypes: ["Extraplanar", "Fire"]
+group: "[[rangoric-srd/monsters/primal-dragons/Primal Dragons|Primal Dragons]]"
+environment: "Any mountains or underground (Plane of Fire)"
+organization: "Solitary"
+challenge-rating: [4, 6, 8, 9, 11, 12, 13, 15, 16, 17, 18, 20]
+treasure: "Triple"
+alignment: "Usually chaotic neutral"
+advancement: "Wyrmling 6 HD; very young 8 HD; young 10 HD; juvenile 12 HD; young adult 14 HD; adult 16 HD; mature adult 18 HD; old 20 HD; very old 22 HD; ancient 24 HD; wyrm 26 HD; great wyrm 28+ HD"
+book: "Bestiary 2"
+based-on:
+  - "[[path srd 3.5/monsters/Dragon, Primal, Magma|Primal Magma Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Primal, Magma, Young|Young Primal Magma Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Primal, Magma, Adult|Adult Primal Magma Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Primal, Magma, Ancient|Ancient Primal Magma Dragon (PF1)]]"
+status: draft
+change: modified
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster]
+---
+
+# Primal Magma Dragon
+
+  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^extraplanar|Extraplanar]], [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
+  - **Environment**: Any mountains or underground (Plane of Fire)
+  - **Organization**: Solitary
+  - **Challenge Ratings**: Wyrmling 4; very young 6; young 8; juvenile 9; young adult 11; adult 12; mature adult 13; old 15; very old 16; ancient 17; wyrm 18; great wyrm 20
+  - **Treasure**: Triple
+  - **Alignment**: Usually chaotic neutral
+  - **Advancement**: Wyrmling 6 HD; very young 8 HD; young 10 HD; juvenile 12 HD; young adult 14 HD; adult 16 HD; mature adult 18 HD; old 20 HD; very old 22 HD; ancient 24 HD; wyrm 26 HD; great wyrm 28+ HD
+
+**Primal Magma Dragons by Age**
+
+| Age | Size | Hit Dice (hp) | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Frightful Presence DC |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | T | 5d12+5 (37) | 13 | 16 | 13 | 12 | 12 | 11 | +5/+4 | 17 (21 vs. trip) | +8 | +5 | +7 | +7 | 2d6 (13) | — |
+| Very young | S | 7d12+14 (59) | 17 | 14 | 15 | 14 | 14 | 13 | +7/+9 | 21 (25 vs. trip) | +11 | +9 | +7 | +9 | 4d6 (15) | — |
+| Young | M | 9d12+27 (85) | 21 | 14 | 17 | 14 | 14 | 13 | +9/+14 | 26 (30 vs. trip) | +14 | +11 | +8 | +10 | 6d6 (17) | — |
+| Juvenile | M | 11d12+44 (115) | 23 | 14 | 19 | 16 | 16 | 15 | +11/+17 | 29 (33 vs. trip) | +17 | +13 | +9 | +12 | 8d6 (19) | — |
+| Young adult | L | 13d12+52 (136) | 25 | 12 | 19 | 16 | 16 | 15 | +13/+21 | 32 (36 vs. trip) | +19 | +14 | +9 | +13 | 10d6 (20) | — |
+| Adult | L | 15d12+75 (172) | 27 | 12 | 21 | 18 | 18 | 17 | +15/+24 | 35 (39 vs. trip) | +22 | +16 | +10 | +15 | 12d6 (22) | 20 |
+| Mature adult | L | 17d12+85 (195) | 29 | 12 | 21 | 18 | 18 | 17 | +17/+27 | 38 (42 vs. trip) | +25 | +17 | +11 | +16 | 14d6 (23) | 21 |
+| Old | H | 19d12+114 (237) | 31 | 10 | 23 | 20 | 20 | 19 | +19/+31 | 41 (45 vs. trip) | +27 | +19 | +11 | +18 | 16d6 (25) | 23 |
+| Very old | H | 21d12+126 (262) | 33 | 10 | 23 | 20 | 20 | 19 | +21/+34 | 44 (48 vs. trip) | +30 | +20 | +12 | +19 | 18d6 (26) | 24 |
+| Ancient | H | 23d12+161 (310) | 35 | 10 | 25 | 22 | 22 | 21 | +23/+37 | 47 (51 vs. trip) | +33 | +22 | +13 | +21 | 20d6 (28) | 26 |
+| Wyrm | H | 25d12+175 (337) | 37 | 8 | 25 | 22 | 22 | 21 | +25/+40 | 49 (53 vs. trip) | +36 | +23 | +13 | +22 | 22d6 (29) | 27 |
+| Great wyrm | G | 27d12+216 (391) | 39 | 8 | 27 | 24 | 24 | 23 | +27/+45 | 54 (58 vs. trip) | +37 | +25 | +14 | +24 | 24d6 (31) | 29 |
+
+**Primal Magma Dragon Abilities by Age**
+
+| Age | Speed | Initiative | Armor Class | Special Abilities | Caster Level | SR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | 40 ft., fly 100 ft. (average) | +7 | 19 (+3 Dex, +4 natural, +2 size), touch 15, flat-footed 16 | Immune to fire, vulnerable to cold | — | — |
+| Very young | 40 ft., fly 150 ft. (average) | +6 | 20 (+2 Dex, +7 natural, +1 size), touch 13, flat-footed 18 | *[[rangoric-srd/spells/Burning Hands\|Burning hands]]* | — | — |
+| Young | 40 ft., fly 150 ft. (average) | +6 | 22 (+2 Dex, +10 natural), touch 12, flat-footed 20 | Superheated | 1st | — |
+| Juvenile | 40 ft., fly 150 ft. (average) | +6 | 25 (+2 Dex, +13 natural), touch 12, flat-footed 23 | *[[rangoric-srd/spells/Scorching Ray\|Scorching ray]]* | 3rd | — |
+| Young adult | 40 ft., fly 200 ft. (poor) | +5 | 26 (+1 Dex, +16 natural, –1 size), touch 10, flat-footed 25 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] | 5th | 22 |
+| Adult | 40 ft., fly 200 ft. (poor) | +5 | 29 (+1 Dex, +19 natural, –1 size), touch 10, flat-footed 28 | [[rangoric-srd/monsters/abilities/Frightful Presence\|Frightful presence]], *[[rangoric-srd/spells/Wall of Fire\|wall of fire]]* | 7th | 23 |
+| Mature adult | 40 ft., fly 200 ft. (poor) | +5 | 32 (+1 Dex, +22 natural, –1 size), touch 10, flat-footed 31 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 10/magic | 9th | 24 |
+| Old | 40 ft., fly 200 ft. (poor) | +4 | 33 (+25 natural, –2 size), touch 8, flat-footed 33 | *[[rangoric-srd/spells/Fire Shield\|Fire shield]]* | 11th | 26 |
+| Very old | 40 ft., fly 200 ft. (poor) | +4 | 36 (+28 natural, –2 size), touch 8, flat-footed 36 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 15/magic | 13th | 27 |
+| Ancient | 40 ft., fly 200 ft. (poor) | +4 | 39 (+31 natural, –2 size), touch 8, flat-footed 39 | Magma breath, *[[rangoric-srd/spells/Delayed Blast Fireball\|delayed blast fireball]]* | 15th | 28 |
+| Wyrm | 40 ft., fly 200 ft. (poor) | +3 | 41 (–1 Dex, +34 natural, –2 size), touch 7, flat-footed 41 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 20/magic | 17th | 29 |
+| Great wyrm | 40 ft., fly 250 ft. (clumsy) | +3 | 42 (–1 Dex, +37 natural, –4 size), touch 5, flat-footed 42 | Magma tomb, *[[rangoric-srd/spells/Wall of Lava\|wall of lava]]* | 19th | 31 |
+
+
+**Primal Magma Dragon Attacks by Age**
+
+| Age | Space/Reach | Full Attack | Special Attacks |
+| --- | --- | --- | --- |
+| Wyrmling | 2-1/2 ft./0 ft. (5 ft. with bite) | bite +8 (1d4+1), 2 claws +8 (1d3+1) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (15-ft. cone, 2d6 fire, DC 13) |
+| Very young | 5 ft./5 ft. | bite +11 (1d6+4), 2 claws +11 (1d4+3) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (20-ft. cone, 4d6 fire, DC 15) |
+| Young | 5 ft./5 ft. (10 ft. with bite) | bite +17 (1d8+12 plus 3 fire), 2 claws +17 (1d6+8), 2 wings +12 (1d4+4) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (30-ft. cone, 6d6 fire, DC 17) |
+| Juvenile | 5 ft./5 ft. (10 ft. with bite) | bite +17 (1d8+9/19–20 plus 4 fire), 2 claws +17 (1d6+6), 2 wings +12 (1d4+3) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (30-ft. cone, 8d6 fire, DC 19) |
+| Young adult | 10 ft./5 ft. (10 ft. with bite) | bite +19 (2d6+10/19–20 plus 5 fire), 2 claws +19 (1d8+7/19–20), tail slap +14 (1d8+10), 2 wings +14 (1d6+3) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 10d6 fire, DC 20) |
+| Adult | 10 ft./5 ft. (10 ft. with bite) | bite +22 (2d6+12/19–20 plus 6 fire), 2 claws +22 (1d8+8/19–20), tail slap +17 (1d8+12), 2 wings +17 (1d6+4) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 12d6 fire, DC 22) |
+| Mature adult | 10 ft./5 ft. (10 ft. with bite) | bite +25 (2d6+13/19–20 plus 7 fire), 2 claws +25 (1d8+9/19–20), tail slap +23 (1d8+13), 2 wings +23 (1d6+4) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 14d6 fire, DC 23) |
+| Old | 15 ft./10 ft. (15 ft. with bite) | bite +27 (2d8+15/19–20 plus 8 fire), 2 claws +27 (2d6+10/19–20), tail slap +25 (2d6+15), 2 wings +25 (1d8+5) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 16d6 fire, DC 25), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+15, DC 25) |
+| Very old | 15 ft./10 ft. (15 ft. with bite) | bite +30 (2d8+16/19–20 plus 9 fire), 2 claws +30 (2d6+11/19–20), tail slap +28 (2d6+16), 2 wings +28 (1d8+5) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 18d6 fire, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+16, DC 26) |
+| Ancient | 15 ft./10 ft. (15 ft. with bite) | bite +33 (2d8+18/19–20 plus 10 fire), 2 claws +33 (2d6+12/19–20), tail slap +31 (2d6+18), 2 wings +31 (1d8+6) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 20d6 fire, DC 28), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+18, DC 28) |
+| Wyrm | 15 ft./10 ft. (15 ft. with bite) | bite +36 (2d8+19/19–20 plus 11 fire), 2 claws +36 (2d6+13/19–20), tail slap +34 (2d6+19), 2 wings +34 (1d8+6) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 22d6 fire, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+19, DC 29) |
+| Great wyrm | 20 ft./15 ft. (20 ft. with bite) | bite +37 (4d6+21/19–20 plus 12 fire), 2 claws +37 (2d8+14/19–20), tail slap +35 (2d8+21), 2 wings +35 (2d6+7) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 24d6 fire, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+21, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+21, DC 31) |
+
+**Primal Magma Dragon Skills and Feats by Age**
+
+| Age | Skills | Feats |
+| --- | --- | --- |
+| Wyrmling | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Athletics\|Athletics]] +9, [[rangoric-srd/skills/Intimidation\|Intimidation]] +8, [[rangoric-srd/skills/Perception\|Perception]] +9, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +9, [[rangoric-srd/skills/Stealth\|Stealth]] +19 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]] |
+| Very young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Athletics\|Athletics]] +13, [[rangoric-srd/skills/Intimidation\|Intimidation]] +11, [[rangoric-srd/skills/Perception\|Perception]] +12, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +12, [[rangoric-srd/skills/Stealth\|Stealth]] +16 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]] |
+| Young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Athletics\|Athletics]] +17, [[rangoric-srd/skills/Intimidation\|Intimidation]] +13, [[rangoric-srd/skills/Perception\|Perception]] +14, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +14, [[rangoric-srd/skills/Stealth\|Stealth]] +14 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]] |
+| Juvenile | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +16, [[rangoric-srd/skills/Athletics\|Athletics]] +20, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +13, [[rangoric-srd/skills/Intimidation\|Intimidation]] +16, [[rangoric-srd/skills/Perception\|Perception]] +17, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +17, [[rangoric-srd/skills/Stealth\|Stealth]] +16 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite) |
+| Young adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Athletics\|Athletics]] +23, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +14, [[rangoric-srd/skills/Intimidation\|Intimidation]] +18, [[rangoric-srd/skills/Perception\|Perception]] +19, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +19, [[rangoric-srd/skills/Stealth\|Stealth]] +13 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws) |
+| Adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +16, [[rangoric-srd/skills/Athletics\|Athletics]] +26, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +16, [[rangoric-srd/skills/Intimidation\|Intimidation]] +21, [[rangoric-srd/skills/Perception\|Perception]] +22, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +22, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +16, [[rangoric-srd/skills/Stealth\|Stealth]] +15 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]] |
+| Mature adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +18, [[rangoric-srd/skills/Athletics\|Athletics]] +29, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +18, [[rangoric-srd/skills/Intimidation\|Intimidation]] +23, [[rangoric-srd/skills/Perception\|Perception]] +24, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +24, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +18, [[rangoric-srd/skills/Stealth\|Stealth]] +17 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]] |
+| Old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +19, [[rangoric-srd/skills/Athletics\|Athletics]] +32, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +19, [[rangoric-srd/skills/Intimidation\|Intimidation]] +26, [[rangoric-srd/skills/Perception\|Perception]] +27, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +27, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +19, [[rangoric-srd/skills/Stealth\|Stealth]] +14, [[rangoric-srd/skills/Theology\|Theology]] +27 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]] |
+| Very old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +21, [[rangoric-srd/skills/Athletics\|Athletics]] +35, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +21, [[rangoric-srd/skills/Intimidation\|Intimidation]] +28, [[rangoric-srd/skills/Perception\|Perception]] +29, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +29, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +21, [[rangoric-srd/skills/Stealth\|Stealth]] +16, [[rangoric-srd/skills/Theology\|Theology]] +29 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Greater Vital Strike\|Greater Vital Strike]] |
+| Ancient | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +23, [[rangoric-srd/skills/Athletics\|Athletics]] +38, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +23, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +32, [[rangoric-srd/skills/Intimidation\|Intimidation]] +31, [[rangoric-srd/skills/Perception\|Perception]] +32, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +32, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +23, [[rangoric-srd/skills/Stealth\|Stealth]] +18, [[rangoric-srd/skills/Theology\|Theology]] +32 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Greater Vital Strike\|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush\|Improved Bull Rush]] |
+| Wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +24, [[rangoric-srd/skills/Athletics\|Athletics]] +41, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +24, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +34, [[rangoric-srd/skills/Intimidation\|Intimidation]] +33, [[rangoric-srd/skills/Perception\|Perception]] +34, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +34, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +24, [[rangoric-srd/skills/Stealth\|Stealth]] +19, [[rangoric-srd/skills/Theology\|Theology]] +34 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Greater Vital Strike\|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush\|Improved Bull Rush]], [[rangoric-srd/feats/Hover\|Hover]] |
+| Great wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +26, [[rangoric-srd/skills/Athletics\|Athletics]] +44, [[rangoric-srd/skills/Deception\|Deception]] +36, [[rangoric-srd/skills/Escape Artist\|Escape Artist]] +26, [[rangoric-srd/skills/Fieldcraft\|Fieldcraft]] +37, [[rangoric-srd/skills/Intimidation\|Intimidation]] +36, [[rangoric-srd/skills/Perception\|Perception]] +37, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +37, [[rangoric-srd/skills/Sleight of Hand\|Sleight of Hand]] +26, [[rangoric-srd/skills/Stealth\|Stealth]] +17, [[rangoric-srd/skills/Theology\|Theology]] +37 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Vital Strike\|Improved Vital Strike]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Greater Vital Strike\|Greater Vital Strike]], [[rangoric-srd/feats/Improved Bull Rush\|Improved Bull Rush]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Cleave\|Cleave]] |
+
+Between this dragon’s jet-black scales run glowing rivulets of lava, and veins aglow with heat shine in the membranes of its wings.
+
+Temperamental and prone to violent outbursts, magma dragons are regarded by most other dragons as dangerously insane—an assumption that, more often than not, proves correct. One can rarely predict a magma dragon's state of mind until it either attacks or attempts to engage in conversation. For their part, magma dragons can justify all of their actions—they just rarely feel the need to do so.
+
+Magma dragons speak Common, Draconic, and Ignan; adult and older magma dragons also speak Dwarven and Elven, and ancient and older ones Gnome and Halfling.
+
+## Combat
+
+**Breath Weapon (Su)**: A magma dragon has a cone-shaped breath weapon that deals 2d6 points of fire damage per age category (see the [[rangoric-srd/monsters/Dragon, True#Combat|rules for true dragons]]).
+
+**Magma Tomb (Su)**: Once per day, a great wyrm magma dragon can spit lava onto a target within 120 feet, dealing damage normally for its breath weapon. This magma cools instantly—it does not continue doing damage at this point but does entrap the victim (see universal monster rules in appendix; DC equals the dragon's breath weapon save DC, 3d6 minutes, hardness 8, hp 45).
+
+**Magma Breath (Su)**: Three times per day, an ancient or older magma dragon can breathe a cone of lava instead of fire. The damage is unchanged, but the magma clings to those it damages, dealing half damage each round thereafter for 1d3 rounds. After this magma cools, it crumbles to dust.
+
+**[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]] (Sp)**: A magma dragon gains the following spell-like abilities, usable at will (unless indicated otherwise) on reaching the listed age category. Very young—*[[rangoric-srd/spells/Burning Hands|burning hands]]*; Juvenile—*[[rangoric-srd/spells/Scorching Ray|scorching ray]]*; Adult—*[[rangoric-srd/spells/Wall of Fire|wall of fire]]*; Old—*[[rangoric-srd/spells/Fire Shield|fire shield]]* (warm shield, constant); Ancient—*[[rangoric-srd/spells/Delayed Blast Fireball|delayed blast fireball]]* (3/day); Great wyrm—*[[rangoric-srd/spells/Wall of Lava|wall of lava]]*.
+
+**Superheated (Su)**: At young age and older, a magma dragon's bite attack deals additional fire damage equal to its age category.

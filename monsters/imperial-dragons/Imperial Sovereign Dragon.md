@@ -1,0 +1,121 @@
+---
+srd-type: "monster"
+section: "Monsters"
+creature-type: "Dragon"
+group: "[[rangoric-srd/monsters/imperial-dragons/Imperial Dragons|Imperial Dragons]]"
+environment: "Any mountains"
+organization: "Solitary"
+challenge-rating: [7, 9, 11, 12, 14, 15, 16, 18, 19, 20, 21, 23]
+treasure: "Triple"
+alignment: "Usually neutral"
+advancement: "Wyrmling 9 HD; very young 11 HD; young 13 HD; juvenile 15 HD; young adult 17 HD; adult 19 HD; mature adult 21 HD; old 23 HD; very old 25 HD; ancient 27 HD; wyrm 29 HD; great wyrm 31+ HD"
+book: "Bestiary 3"
+based-on:
+  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign|Imperial Sovereign Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign, Young|Young Imperial Sovereign Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign, Adult|Adult Imperial Sovereign Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Imperial, Sovereign, Ancient|Ancient Imperial Sovereign Dragon (PF1)]]"
+status: draft
+change: modified
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster]
+---
+
+# Imperial Sovereign Dragon
+
+  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]]
+  - **Environment**: Any mountains
+  - **Organization**: Solitary
+  - **Challenge Ratings**: Wyrmling 7; very young 9; young 11; juvenile 12; young adult 14; adult 15; mature adult 16; old 18; very old 19; ancient 20; wyrm 21; great wyrm 23
+  - **Treasure**: Triple
+  - **Alignment**: Usually neutral
+  - **Advancement**: Wyrmling 9 HD; very young 11 HD; young 13 HD; juvenile 15 HD; young adult 17 HD; adult 19 HD; mature adult 21 HD; old 23 HD; very old 25 HD; ancient 27 HD; wyrm 29 HD; great wyrm 31+ HD
+
+**Imperial Sovereign Dragons by Age**
+
+| Age | Size | Hit Dice (hp) | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Frightful Presence DC |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | S | 8d12+16 (68) | 17 | 14 | 15 | 14 | 15 | 14 | +8/+10 | 22 (26 vs. trip) | +13 | +8 | +8 | +10 | 2d6 (16) | — |
+| Very young | M | 10d12+30 (95) | 21 | 12 | 17 | 16 | 17 | 16 | +10/+15 | 26 (30 vs. trip) | +16 | +10 | +10 | +12 | 4d6 (18) | — |
+| Young | L | 12d12+48 (126) | 25 | 12 | 19 | 16 | 17 | 16 | +12/+20 | 31 (35 vs. trip) | +19 | +12 | +11 | +13 | 6d6 (20) | — |
+| Juvenile | L | 14d12+70 (161) | 27 | 12 | 21 | 18 | 19 | 18 | +14/+23 | 34 (38 vs. trip) | +22 | +14 | +12 | +15 | 8d6 (22) | 21 |
+| Young adult | H | 16d12+80 (184) | 29 | 10 | 21 | 18 | 19 | 18 | +16/+27 | 37 (41 vs. trip) | +24 | +15 | +12 | +16 | 10d6 (23) | 22 |
+| Adult | H | 18d12+108 (225) | 31 | 10 | 23 | 20 | 21 | 20 | +18/+30 | 40 (44 vs. trip) | +27 | +17 | +13 | +18 | 12d6 (25) | 24 |
+| Mature adult | H | 20d12+120 (250) | 33 | 10 | 23 | 20 | 21 | 20 | +20/+33 | 43 (47 vs. trip) | +30 | +18 | +14 | +19 | 14d6 (26) | 25 |
+| Old | G | 22d12+154 (297) | 35 | 8 | 25 | 22 | 23 | 22 | +22/+38 | 47 (51 vs. trip) | +31 | +20 | +14 | +21 | 16d6 (28) | 27 |
+| Very old | G | 24d12+168 (324) | 37 | 8 | 25 | 22 | 23 | 22 | +24/+41 | 50 (54 vs. trip) | +34 | +21 | +15 | +22 | 18d6 (29) | 28 |
+| Ancient | G | 26d12+208 (377) | 39 | 8 | 27 | 24 | 25 | 24 | +26/+44 | 53 (57 vs. trip) | +37 | +23 | +16 | +24 | 20d6 (31) | 30 |
+| Wyrm | G | 28d12+224 (406) | 41 | 6 | 27 | 24 | 25 | 24 | +28/+47 | 55 (59 vs. trip) | +40 | +24 | +16 | +25 | 22d6 (32) | 31 |
+| Great wyrm | C | 30d12+270 (465) | 43 | 6 | 29 | 26 | 27 | 26 | +30/+54 | 62 (66 vs. trip) | +39 | +26 | +17 | +27 | 24d6 (34) | 33 |
+
+**Imperial Sovereign Dragon Abilities by Age**
+
+| Age | Speed | Initiative | Armor Class | Special Abilities | Caster Level | SR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | 50 ft., fly 150 ft. (average) | +6 | 20 (+2 Dex, +7 natural, +1 size), touch 13, flat-footed 18 | Dogmatic discordance | — | — |
+| Very young | 50 ft., fly 150 ft. (average) | +5 | 21 (+1 Dex, +10 natural), touch 11, flat-footed 20 | *[[rangoric-srd/spells/Detect Evil\|Detect evil]]/[[rangoric-srd/spells/Detect Good\|good]]* | — | — |
+| Young | 50 ft., fly 200 ft. (poor) | +5 | 23 (+1 Dex, +13 natural, –1 size), touch 10, flat-footed 22 | [[rangoric-srd/monsters/abilities/Change Shape\|Change shape]], violent retort | 1st | — |
+| Juvenile | 50 ft., fly 200 ft. (poor) | +5 | 26 (+1 Dex, +16 natural, –1 size), touch 10, flat-footed 25 | *[[rangoric-srd/spells/Calm Emotions\|Calm emotions]]*, [[rangoric-srd/monsters/abilities/Frightful Presence\|frightful presence]] | 3rd | — |
+| Young adult | 50 ft., fly 200 ft. (poor) | +4 | 27 (+19 natural, –2 size), touch 8, flat-footed 27 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] | 5th | 25 |
+| Adult | 50 ft., fly 200 ft. (poor) | +4 | 30 (+22 natural, –2 size), touch 8, flat-footed 30 | *[[rangoric-srd/spells/Tongues\|Tongues]]* | 7th | 26 |
+| Mature adult | 50 ft., fly 200 ft. (poor) | +4 | 33 (+25 natural, –2 size), touch 8, flat-footed 33 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 10/magic | 9th | 27 |
+| Old | 50 ft., fly 250 ft. (clumsy) | +3 | 33 (–1 Dex, +28 natural, –4 size), touch 5, flat-footed 33 | Golden armor, *[[rangoric-srd/spells/Sympathetic Vibration\|sympathetic vibration]]* | 11th | 29 |
+| Very old | 50 ft., fly 250 ft. (clumsy) | +3 | 36 (–1 Dex, +31 natural, –4 size), touch 5, flat-footed 36 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 15/magic | 13th | 30 |
+| Ancient | 50 ft., fly 250 ft. (clumsy) | +3 | 39 (–1 Dex, +34 natural, –4 size), touch 5, flat-footed 39 | *[[rangoric-srd/spells/Prismatic Spray\|Prismatic spray]]* | 15th | 31 |
+| Wyrm | 50 ft., fly 250 ft. (clumsy) | +2 | 41 (–2 Dex, +37 natural, –4 size), touch 4, flat-footed 41 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 20/magic | 17th | 32 |
+| Great wyrm | 50 ft., fly 250 ft. (clumsy) | +2 | 40 (–2 Dex, +40 natural, –8 size), touch 0, flat-footed 40 | Master counterspelling, *[[rangoric-srd/spells/Moment of Prescience\|moment of prescience]]* | 19th | 34 |
+
+
+**Imperial Sovereign Dragon Attacks by Age**
+
+| Age | Space/Reach | Full Attack | Special Attacks |
+| --- | --- | --- | --- |
+| Wyrmling | 5 ft./5 ft. | bite +13 (1d6+4), 2 claws +12 (1d4+3) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (20-ft. cone, 2d6 sonic, DC 16) |
+| Very young | 5 ft./5 ft. (10 ft. with bite and gore) | bite +16 (1d8+7), 2 claws +15 (1d6+5), gore +15 (1d6+7) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (30-ft. cone, 4d6 sonic, DC 18) |
+| Young | 10 ft./5 ft. (10 ft. with bite and gore) | bite +19 (2d6+10), 2 claws +18 (1d8+7), gore +18 (1d8+10), tail slap +16 (1d8+10) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 6d6 sonic, DC 20) |
+| Juvenile | 10 ft./5 ft. (10 ft. with bite and gore) | bite +22 (2d6+12), 2 claws +21 (1d8+8), gore +21 (1d8+12), tail slap +19 (1d8+12) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 8d6 sonic, DC 22) |
+| Young adult | 15 ft./10 ft. (15 ft. with bite and gore) | bite +24 (2d8+13), 2 claws +23 (2d6+9), gore +23 (2d6+13), tail slap +21 (2d6+13) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 10d6 sonic, DC 23), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+13, DC 23) |
+| Adult | 15 ft./10 ft. (15 ft. with bite and gore) | bite +27 (2d8+15/19–20), 2 claws +26 (2d6+10), gore +26 (2d6+15), tail slap +24 (2d6+15) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 12d6 sonic, DC 25), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+15, DC 25) |
+| Mature adult | 15 ft./10 ft. (15 ft. with bite and gore) | bite +30 (2d8+16/19–20), 2 claws +29 (2d6+11/19–20), gore +29 (2d6+16), tail slap +27 (2d6+16) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 14d6 sonic, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+16, DC 26) |
+| Old | 20 ft./15 ft. (20 ft. with bite and gore) | bite +31 (4d6+18/19–20), 2 claws +30 (2d8+12/19–20), gore +30 (2d8+18), tail slap +28 (2d8+18) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 16d6 sonic, DC 28), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+18, DC 28), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+18, DC 28) |
+| Very old | 20 ft./15 ft. (20 ft. with bite and gore) | bite +34 (4d6+19/19–20), 2 claws +33 (2d8+13/19–20), gore +33 (2d8+19), tail slap +31 (2d8+19) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 18d6 sonic, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+19, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+19, DC 29) |
+| Ancient | 20 ft./15 ft. (20 ft. with bite and gore) | bite +37 (4d6+21/19–20), 2 claws +37 (2d8+14/19–20), gore +36 (2d8+21), tail slap +34 (2d8+21) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 20d6 sonic, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+21, DC 31), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+21, DC 31) |
+| Wyrm | 20 ft./15 ft. (20 ft. with bite and gore) | bite +40 (4d6+22/19–20), 2 claws +40 (2d8+15/19–20), gore +39 (2d8+22), tail slap +37 (2d8+22) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 22d6 sonic, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+22, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+22, DC 32) |
+| Great wyrm | 30 ft./20 ft. (30 ft. with bite and gore) | bite +39 (4d8+24/19–20), 2 claws +39 (4d6+16/19–20), gore +38 (4d6+24), tail slap +36 (4d6+24) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (70-ft. cone, 24d6 sonic, DC 34), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d8+24, DC 34), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d8+24, DC 34) |
+
+**Imperial Sovereign Dragon Skills and Feats by Age**
+
+| Age | Skills | Feats |
+| --- | --- | --- |
+| Wyrmling | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Appraise\|Appraise]] +13, [[rangoric-srd/skills/Arcana\|Arcana]] +13, [[rangoric-srd/skills/Deception\|Deception]] +13, [[rangoric-srd/skills/Intimidation\|Intimidation]] +13, [[rangoric-srd/skills/Perception\|Perception]] +13, [[rangoric-srd/skills/Persuasion\|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +13 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]] |
+| Very young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +14, [[rangoric-srd/skills/Appraise\|Appraise]] +16, [[rangoric-srd/skills/Arcana\|Arcana]] +16, [[rangoric-srd/skills/Deception\|Deception]] +16, [[rangoric-srd/skills/Intimidation\|Intimidation]] +16, [[rangoric-srd/skills/Perception\|Perception]] +16, [[rangoric-srd/skills/Persuasion\|Persuasion]] +16, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +16, [[rangoric-srd/skills/Society\|Society]] +16 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]] |
+| Young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] –3, [[rangoric-srd/skills/Appraise\|Appraise]] +18, [[rangoric-srd/skills/Arcana\|Arcana]] +18, [[rangoric-srd/skills/Deception\|Deception]] +18, [[rangoric-srd/skills/Intimidation\|Intimidation]] +18, [[rangoric-srd/skills/Perception\|Perception]] +18, [[rangoric-srd/skills/Persuasion\|Persuasion]] +24, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +18, [[rangoric-srd/skills/Society\|Society]] +18 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Persuasion) |
+| Juvenile | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Appraise\|Appraise]] +21, [[rangoric-srd/skills/Arcana\|Arcana]] +21, [[rangoric-srd/skills/Deception\|Deception]] +21, [[rangoric-srd/skills/Intimidation\|Intimidation]] +21, [[rangoric-srd/skills/Perception\|Perception]] +21, [[rangoric-srd/skills/Persuasion\|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +21, [[rangoric-srd/skills/Society\|Society]] +21 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]] |
+| Young adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +11, [[rangoric-srd/skills/Appraise\|Appraise]] +23, [[rangoric-srd/skills/Arcana\|Arcana]] +23, [[rangoric-srd/skills/Deception\|Deception]] +23, [[rangoric-srd/skills/Intimidation\|Intimidation]] +23, [[rangoric-srd/skills/Perception\|Perception]] +23, [[rangoric-srd/skills/Persuasion\|Persuasion]] +29, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +23, [[rangoric-srd/skills/Society\|Society]] +23 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]] |
+| Adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] –8, [[rangoric-srd/skills/Appraise\|Appraise]] +26, [[rangoric-srd/skills/Arcana\|Arcana]] +26, [[rangoric-srd/skills/Deception\|Deception]] +26, [[rangoric-srd/skills/Intimidation\|Intimidation]] +26, [[rangoric-srd/skills/Medicine\|Medicine]] +26, [[rangoric-srd/skills/Perception\|Perception]] +26, [[rangoric-srd/skills/Persuasion\|Persuasion]] +32, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +26, [[rangoric-srd/skills/Society\|Society]] +26 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite) |
+| Mature adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Appraise\|Appraise]] +28, [[rangoric-srd/skills/Arcana\|Arcana]] +28, [[rangoric-srd/skills/Deception\|Deception]] +28, [[rangoric-srd/skills/Intimidation\|Intimidation]] +28, [[rangoric-srd/skills/Medicine\|Medicine]] +28, [[rangoric-srd/skills/Perception\|Perception]] +28, [[rangoric-srd/skills/Persuasion\|Persuasion]] +34, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +28, [[rangoric-srd/skills/Society\|Society]] +28 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws) |
+| Old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +10, [[rangoric-srd/skills/Appraise\|Appraise]] +31, [[rangoric-srd/skills/Arcana\|Arcana]] +31, [[rangoric-srd/skills/Deception\|Deception]] +31, [[rangoric-srd/skills/Intimidation\|Intimidation]] +31, [[rangoric-srd/skills/Medicine\|Medicine]] +31, [[rangoric-srd/skills/Perception\|Perception]] +31, [[rangoric-srd/skills/Persuasion\|Persuasion]] +37, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +31, [[rangoric-srd/skills/Society\|Society]] +31 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Iron Will\|Improved Iron Will]] |
+| Very old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +12, [[rangoric-srd/skills/Appraise\|Appraise]] +33, [[rangoric-srd/skills/Arcana\|Arcana]] +33, [[rangoric-srd/skills/Deception\|Deception]] +33, [[rangoric-srd/skills/Intimidation\|Intimidation]] +33, [[rangoric-srd/skills/Medicine\|Medicine]] +33, [[rangoric-srd/skills/Perception\|Perception]] +39, [[rangoric-srd/skills/Persuasion\|Persuasion]] +39, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +33, [[rangoric-srd/skills/Society\|Society]] +33 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Iron Will\|Improved Iron Will]] |
+| Ancient | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] –15, [[rangoric-srd/skills/Appraise\|Appraise]] +36, [[rangoric-srd/skills/Arcana\|Arcana]] +36, [[rangoric-srd/skills/Deception\|Deception]] +36, [[rangoric-srd/skills/Intimidation\|Intimidation]] +36, [[rangoric-srd/skills/Medicine\|Medicine]] +36, [[rangoric-srd/skills/Perception\|Perception]] +42, [[rangoric-srd/skills/Performance\|Performance]] (oratory) +33, [[rangoric-srd/skills/Persuasion\|Persuasion]] +42, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +36, [[rangoric-srd/skills/Society\|Society]] +36, [[rangoric-srd/skills/Theology\|Theology]] +36 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Iron Will\|Improved Iron Will]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (claws) |
+| Wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Appraise\|Appraise]] +38, [[rangoric-srd/skills/Arcana\|Arcana]] +38, [[rangoric-srd/skills/Deception\|Deception]] +38, [[rangoric-srd/skills/Intimidation\|Intimidation]] +38, [[rangoric-srd/skills/Medicine\|Medicine]] +38, [[rangoric-srd/skills/Perception\|Perception]] +44, [[rangoric-srd/skills/Persuasion\|Persuasion]] +44, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +38, [[rangoric-srd/skills/Society\|Society]] +38, [[rangoric-srd/skills/Theology\|Theology]] +38 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Iron Will\|Improved Iron Will]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (claws), [[rangoric-srd/feats/Power Attack\|Power Attack]] |
+| Great wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +15, [[rangoric-srd/skills/Appraise\|Appraise]] +41, [[rangoric-srd/skills/Arcana\|Arcana]] +41, [[rangoric-srd/skills/Deception\|Deception]] +41, [[rangoric-srd/skills/Intimidation\|Intimidation]] +41, [[rangoric-srd/skills/Medicine\|Medicine]] +41, [[rangoric-srd/skills/Perception\|Perception]] +47, [[rangoric-srd/skills/Performance\|Performance]] (oratory) +38, [[rangoric-srd/skills/Persuasion\|Persuasion]] +47, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +41, [[rangoric-srd/skills/Society\|Society]] +41, [[rangoric-srd/skills/Theology\|Theology]] +41 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (bite), [[rangoric-srd/feats/Iron Will\|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Skill Focus\|Skill Focus]] (Perception, Persuasion), [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Improved Iron Will\|Improved Iron Will]], [[rangoric-srd/feats/Weapon Focus\|Weapon Focus]] (claws), [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]] |
+
+This magnificent dragon is covered in splendid gold scales, and horns jut from its head like a crown.
+
+Guardians of balance, sovereign dragons, or lungwangs as they are also known, were placed in the skies by the gods themselves to safeguard harmony in the world.
+
+Sovereign dragons speak Celestial, Common, Draconic, and Infernal; adult and older sovereign dragons also speak Abyssal and Auran, and ancient and older ones Ignan and Terran.
+
+## Combat
+
+**Breath Weapon (Su)**: A sovereign dragon has a cone-shaped breath weapon that deals 2d6 points of sonic damage per age category (see the [[rangoric-srd/monsters/Dragon, True#Combat|rules for true dragons]]).
+
+**Change Shape (Su)**: A young or older sovereign dragon can assume any humanoid form three times per day as polymorph.
+
+**Dogmatic Discordance (Su)**: Good or evil creatures take a –2 penalty when making saving throws against a sovereign dragon's spells, spell-like abilities, breath weapon, and aura.
+
+**Golden Armor (Su)**: Once per day as a standard action, an old or older sovereign dragon can cover its form in golden armor, granting it a +4 armor bonus to AC and energy resistance 15 to one energy type, chosen at the time the armor is summoned. This armor lasts for a number of rounds equal to the dragon's age category. The sovereign dragon can dismiss the armor as a free action.
+
+**Master Counterspelling (Su)**: A great wyrm sovereign dragon can counterspell once per round as an immediate action. It need not know the spell it is countering, but can instead expend any spell that is one level higher to automatically counter the spell.
+
+**Violent Retort (Ex)**: When a young or older sovereign dragon takes damage from a melee attack critical hit, it can, as an immediate action, make a claw or tail slap attack against the creature that made the critical hit.

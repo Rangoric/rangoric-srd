@@ -1,0 +1,122 @@
+---
+srd-type: "monster"
+section: "Monsters"
+creature-type: "Dragon"
+subtypes: ["Fire"]
+group: "[[rangoric-srd/monsters/outer-dragons/Outer Dragons|Outer Dragons]]"
+environment: "Vacuum"
+organization: "Solitary"
+challenge-rating: [6, 8, 10, 11, 13, 14, 15, 17, 18, 19, 20, 22]
+treasure: "Triple"
+alignment: "Usually lawful neutral"
+advancement: "Wyrmling 8 HD; very young 10 HD; young 12 HD; juvenile 14 HD; young adult 16 HD; adult 18 HD; mature adult 20 HD; old 22 HD; very old 24 HD; ancient 26 HD; wyrm 28 HD; great wyrm 30+ HD"
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Dragon, Outer, Vortex|Outer Vortex Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Outer, Vortex, Young|Young Outer Vortex Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Outer, Vortex, Adult|Adult Outer Vortex Dragon (PF1)]]"
+  - "[[path srd 3.5/monsters/Dragon, Outer, Vortex, Ancient|Ancient Outer Vortex Dragon (PF1)]]"
+status: draft
+change: modified
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster]
+---
+
+# Outer Vortex Dragon
+
+  - [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^dragon|Dragon]] ([[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^fire|Fire]])
+  - **Environment**: Vacuum
+  - **Organization**: Solitary
+  - **Challenge Ratings**: Wyrmling 6; very young 8; young 10; juvenile 11; young adult 13; adult 14; mature adult 15; old 17; very old 18; ancient 19; wyrm 20; great wyrm 22
+  - **Treasure**: Triple
+  - **Alignment**: Usually lawful neutral
+  - **Advancement**: Wyrmling 8 HD; very young 10 HD; young 12 HD; juvenile 14 HD; young adult 16 HD; adult 18 HD; mature adult 20 HD; old 22 HD; very old 24 HD; ancient 26 HD; wyrm 28 HD; great wyrm 30+ HD
+
+**Outer Vortex Dragons by Age**
+
+| Age | Size | Hit Dice (hp) | Str | Dex | Con | Int | Wis | Cha | Base Attack/ CMB | CMD | Attack | Fort Save | Ref Save | Will Save | Breath Weapon DC | Alien Presence DC |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | S | 7d12+7 (52) | 13 | 16 | 13 | 14 | 13 | 14 | +7/+7 | 20 (24 vs. trip) | +9 | +8 | +8 | +6 | 2d8 (14) | — |
+| Very young | M | 9d12+18 (76) | 17 | 14 | 15 | 16 | 15 | 16 | +9/+12 | 24 (28 vs. trip) | +12 | +10 | +8 | +8 | 4d8 (16) | — |
+| Young | L | 11d12+33 (104) | 21 | 14 | 17 | 16 | 15 | 16 | +11/+17 | 29 (33 vs. trip) | +15 | +12 | +8 | +10 | 6d8 (18) | — |
+| Juvenile | L | 13d12+52 (136) | 23 | 14 | 19 | 18 | 17 | 18 | +13/+20 | 32 (36 vs. trip) | +18 | +14 | +12 | +11 | 8d8 (20) | 20 |
+| Young adult | H | 15d12+60 (157) | 25 | 12 | 19 | 18 | 17 | 18 | +15/+24 | 35 (39 vs. trip) | +20 | +15 | +12 | +12 | 10d8 (21) | 21 |
+| Adult | H | 17d12+85 (195) | 27 | 12 | 21 | 20 | 19 | 20 | +17/+27 | 38 (42 vs. trip) | +23 | +17 | +13 | +14 | 12d8 (23) | 23 |
+| Mature adult | H | 19d12+95 (218) | 29 | 12 | 21 | 20 | 19 | 20 | +19/+30 | 41 (45 vs. trip) | +26 | +18 | +14 | +15 | 14d8 (24) | 24 |
+| Old | G | 21d12+126 (262) | 31 | 10 | 23 | 22 | 21 | 22 | +21/+35 | 45 (49 vs. trip) | +27 | +20 | +14 | +17 | 16d8 (26) | 26 |
+| Very old | G | 23d12+138 (287) | 33 | 10 | 23 | 22 | 21 | 22 | +23/+38 | 48 (52 vs. trip) | +30 | +21 | +15 | +18 | 18d8 (27) | 27 |
+| Ancient | G | 25d12+175 (337) | 35 | 10 | 25 | 24 | 23 | 24 | +25/+41 | 51 (55 vs. trip) | +33 | +23 | +16 | +20 | 20d8 (29) | 29 |
+| Wyrm | G | 27d12+189 (364) | 37 | 8 | 25 | 24 | 23 | 24 | +27/+44 | 53 (57 vs. trip) | +36 | +24 | +16 | +21 | 22d8 (30) | 30 |
+| Great wyrm | C | 29d12+232 (420) | 39 | 8 | 27 | 26 | 25 | 26 | +29/+51 | 60 (64 vs. trip) | +35 | +26 | +17 | +23 | 24d8 (32) | 32 |
+
+**Outer Vortex Dragon Abilities by Age**
+
+| Age | Speed | Initiative | Armor Class | Special Abilities | Caster Level | SR |
+| --- | --- | --- | --- | --- | --- | --- |
+| Wyrmling | 60 ft., fly 150 ft. (good) | +7 | 20 (+3 Dex, +6 natural, +1 size), touch 14, flat-footed 17 | Agile, immunity to fire | — | — |
+| Very young | 60 ft., fly 150 ft. (good) | +6 | 21 (+2 Dex, +9 natural), touch 12, flat-footed 19 | *[[rangoric-srd/spells/Anticipate Peril\|Anticipate peril]]* | — | — |
+| Young | 60 ft., fly 200 ft. (good) | +6 | 23 (+2 Dex, +12 natural, –1 size), touch 11, flat-footed 21 | Galactic emissary | 1st | — |
+| Juvenile | 60 ft., fly 200 ft. (good) | +6 | 26 (+2 Dex, +15 natural, –1 size), touch 11, flat-footed 24 | Alien presence*,entropic shield* | 3rd | — |
+| Young adult | 60 ft., fly 200 ft. (good) | +5 | 27 (+1 Dex, +18 natural, –2 size), touch 9, flat-footed 26 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 5/magic, [[rangoric-srd/monsters/abilities/Spell Resistance\|spell resistance]] | 5th | 24 |
+| Adult | 60 ft., fly 200 ft. (good) | +5 | 30 (+1 Dex, +21 natural, –2 size), touch 9, flat-footed 29 | Fragmented strike | 7th | 25 |
+| Mature adult | 60 ft., fly 200 ft. (good) | +5 | 33 (+1 Dex, +24 natural, –2 size), touch 9, flat-footed 32 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 10/magic | 9th | 26 |
+| Old | 60 ft., fly 250 ft. (good) | +4 | 33 (+27 natural, –4 size), touch 6, flat-footed 33 | *[[rangoric-srd/spells/Dimension Door\|Dimension door]]* | 11th | 28 |
+| Very old | 60 ft., fly 250 ft. (good) | +4 | 36 (+30 natural, –4 size), touch 6, flat-footed 36 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 15/magic | 13th | 29 |
+| Ancient | 60 ft., fly 250 ft. (good) | +4 | 39 (+33 natural, –4 size), touch 6, flat-footed 39 | Collapsing breath, *[[rangoric-srd/spells/Teleport, Greater\|greater teleport]]* | 15th | 30 |
+| Wyrm | 60 ft., fly 250 ft. (good) | +3 | 41 (–1 Dex, +36 natural, –4 size), touch 5, flat-footed 41 | [[rangoric-srd/monsters/abilities/Damage Reduction\|DR]] 20/magic | 17th | 31 |
+| Great wyrm | 60 ft., fly 250 ft. (good) | +3 | 40 (–1 Dex, +39 natural, –8 size), touch 1, flat-footed 40 | *[[rangoric-srd/spells/Interplanetary Teleport\|Interplanetary teleport]]* | 19th | 33 |
+
+
+**Outer Vortex Dragon Attacks by Age**
+
+| Age | Space/Reach | Full Attack | Special Attacks |
+| --- | --- | --- | --- |
+| Wyrmling | 5 ft./5 ft. | bite +9 (1d6+1), 2 claws +9 (1d4+1) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (20-ft. cone, 2d8 fire, DC 14) |
+| Very young | 5 ft./5 ft. (10 ft. with bite) | bite +12 (1d8+4), 2 claws +12 (1d6+3), 2 wings +10 (1d4+1) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (30-ft. cone, 4d8 fire, DC 16) |
+| Young | 10 ft./5 ft. (10 ft. with bite) | bite +15 (2d6+7), 2 claws +15 (1d8+5), 2 wings +13 (1d6+2), tail slap +13 (1d8+7) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 6d8 fire, DC 18) |
+| Juvenile | 10 ft./5 ft. (10 ft. with bite) | bite +18 (2d6+9), 2 claws +18 (1d8+6), 2 wings +16 (1d6+3), tail slap +16 (1d8+9) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (40-ft. cone, 8d8 fire, DC 20) |
+| Young adult | 15 ft./10 ft. (15 ft. with bite) | bite +20 (2d8+10/19–20), 2 claws +20 (2d6+7), 2 wings +18 (1d8+3), tail slap +18 (2d6+10) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 10d8 fire, DC 21), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+10, DC 21) |
+| Adult | 15 ft./10 ft. (15 ft. with bite) | bite +23 (2d8+12/19–20), 2 claws +23 (2d6+8), 2 wings +21 (1d8+4), tail slap +21 (2d6+12) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 12d8 fire, DC 23), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+12, DC 23) |
+| Mature adult | 15 ft./10 ft. (15 ft. with bite) | bite +26 (2d8+13/19–20), 2 claws +26 (2d6+9), 2 wings +24 (1d8+4), tail slap +24 (2d6+13) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (50-ft. cone, 14d8 fire, DC 24), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (2d8+13, DC 24) |
+| Old | 20 ft./15 ft. (20 ft. with bite) | bite +27 (4d6+15/19–20), 2 claws +27 (2d8+10/19–20), 2 wings +25 (2d6+5), tail slap +25 (2d8+15) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 16d8 fire, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+15, DC 26), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+15, DC 26) |
+| Very old | 20 ft./15 ft. (20 ft. with bite) | bite +30 (4d6+16/19–20), 2 claws +30 (2d8+11/19–20), 2 wings +28 (2d6+5), tail slap +28 (2d8+16) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 18d8 fire, DC 27), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+16, DC 27), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+16, DC 27) |
+| Ancient | 20 ft./15 ft. (20 ft. with bite) | bite +33 (4d6+18/19–20), 2 claws +33 (2d8+12/19–20), 2 wings +31 (2d6+6), tail slap +31 (2d8+18) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 20d8 fire, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+18, DC 29), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+18, DC 29) |
+| Wyrm | 20 ft./15 ft. (20 ft. with bite) | bite +36 (4d6+19/19–20), 2 claws +36 (2d8+13/19–20), 2 wings +34 (2d6+6), tail slap +34 (2d8+19) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (60-ft. cone, 22d8 fire, DC 30), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d6+19, DC 30), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d6+19, DC 30) |
+| Great wyrm | 30 ft./20 ft. (30 ft. with bite) | bite +35 (4d8+21/19–20), 2 claws +35 (4d6+14/19–20), 2 wings +33 (2d8+7), tail slap +33 (4d6+21) | [[rangoric-srd/monsters/abilities/Breath Weapon\|Breath weapon]] (70-ft. cone, 24d8 fire, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|crush]] (4d8+21, DC 32), [[rangoric-srd/monsters/Dragon, True#Combat\|tail sweep]] (2d8+21, DC 32) |
+
+**Outer Vortex Dragon Skills and Feats by Age**
+
+| Age | Skills | Feats |
+| --- | --- | --- |
+| Wyrmling | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +19, [[rangoric-srd/skills/Arcana\|Arcana]] +12, [[rangoric-srd/skills/Deception\|Deception]] +12, [[rangoric-srd/skills/Intimidation\|Intimidation]] +12, [[rangoric-srd/skills/Perception\|Perception]] +11, [[rangoric-srd/skills/Persuasion\|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +11, [[rangoric-srd/skills/Theology\|Theology]] +12 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]] |
+| Very young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +18, [[rangoric-srd/skills/Arcana\|Arcana]] +15, [[rangoric-srd/skills/Deception\|Deception]] +15, [[rangoric-srd/skills/Intimidation\|Intimidation]] +15, [[rangoric-srd/skills/Perception\|Perception]] +14, [[rangoric-srd/skills/Persuasion\|Persuasion]] +15, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +14, [[rangoric-srd/skills/Theology\|Theology]] +15 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]] |
+| Young | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +18, [[rangoric-srd/skills/Arcana\|Arcana]] +17, [[rangoric-srd/skills/Deception\|Deception]] +17, [[rangoric-srd/skills/Intimidation\|Intimidation]] +17, [[rangoric-srd/skills/Perception\|Perception]] +16, [[rangoric-srd/skills/Persuasion\|Persuasion]] +17, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +16, [[rangoric-srd/skills/Theology\|Theology]] +17 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]] |
+| Juvenile | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +20, [[rangoric-srd/skills/Arcana\|Arcana]] +20, [[rangoric-srd/skills/Deception\|Deception]] +20, [[rangoric-srd/skills/Intimidation\|Intimidation]] +20, [[rangoric-srd/skills/Perception\|Perception]] +19, [[rangoric-srd/skills/Persuasion\|Persuasion]] +20, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +19, [[rangoric-srd/skills/Society\|Society]] +20, [[rangoric-srd/skills/Theology\|Theology]] +20 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]] |
+| Young adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +19, [[rangoric-srd/skills/Arcana\|Arcana]] +22, [[rangoric-srd/skills/Deception\|Deception]] +22, [[rangoric-srd/skills/Intimidation\|Intimidation]] +22, [[rangoric-srd/skills/Perception\|Perception]] +21, [[rangoric-srd/skills/Persuasion\|Persuasion]] +22, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +21, [[rangoric-srd/skills/Society\|Society]] +22, [[rangoric-srd/skills/Theology\|Theology]] +22 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite) |
+| Adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +21, [[rangoric-srd/skills/Arcana\|Arcana]] +25, [[rangoric-srd/skills/Deception\|Deception]] +25, [[rangoric-srd/skills/Intimidation\|Intimidation]] +25, [[rangoric-srd/skills/Perception\|Perception]] +24, [[rangoric-srd/skills/Persuasion\|Persuasion]] +25, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +24, [[rangoric-srd/skills/Society\|Society]] +25, [[rangoric-srd/skills/Theology\|Theology]] +25 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Snatch\|Snatch]] |
+| Mature adult | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +23, [[rangoric-srd/skills/Arcana\|Arcana]] +27, [[rangoric-srd/skills/Deception\|Deception]] +27, [[rangoric-srd/skills/Intimidation\|Intimidation]] +27, [[rangoric-srd/skills/Perception\|Perception]] +26, [[rangoric-srd/skills/Persuasion\|Persuasion]] +27, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +26, [[rangoric-srd/skills/Society\|Society]] +27, [[rangoric-srd/skills/Theology\|Theology]] +27 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite), [[rangoric-srd/feats/Snatch\|Snatch]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]] |
+| Old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +22, [[rangoric-srd/skills/Arcana\|Arcana]] +30, [[rangoric-srd/skills/Deception\|Deception]] +30, [[rangoric-srd/skills/Intimidation\|Intimidation]] +30, [[rangoric-srd/skills/Perception\|Perception]] +29, [[rangoric-srd/skills/Persuasion\|Persuasion]] +30, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +29, [[rangoric-srd/skills/Society\|Society]] +30, [[rangoric-srd/skills/Theology\|Theology]] +30 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Snatch\|Snatch]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]] |
+| Very old | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +24, [[rangoric-srd/skills/Arcana\|Arcana]] +32, [[rangoric-srd/skills/Deception\|Deception]] +32, [[rangoric-srd/skills/Intimidation\|Intimidation]] +32, [[rangoric-srd/skills/Perception\|Perception]] +31, [[rangoric-srd/skills/Persuasion\|Persuasion]] +32, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +31, [[rangoric-srd/skills/Society\|Society]] +32, [[rangoric-srd/skills/Theology\|Theology]] +32 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Snatch\|Snatch]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]] |
+| Ancient | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +26, [[rangoric-srd/skills/Arcana\|Arcana]] +35, [[rangoric-srd/skills/Deception\|Deception]] +35, [[rangoric-srd/skills/Intimidation\|Intimidation]] +35, [[rangoric-srd/skills/Nature\|Nature]] +35, [[rangoric-srd/skills/Perception\|Perception]] +34, [[rangoric-srd/skills/Persuasion\|Persuasion]] +35, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +34, [[rangoric-srd/skills/Society\|Society]] +35, [[rangoric-srd/skills/Theology\|Theology]] +35 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Snatch\|Snatch]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Staggering Critical\|Staggering Critical]] |
+| Wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +27, [[rangoric-srd/skills/Arcana\|Arcana]] +37, [[rangoric-srd/skills/Deception\|Deception]] +37, [[rangoric-srd/skills/Intimidation\|Intimidation]] +37, [[rangoric-srd/skills/Nature\|Nature]] +37, [[rangoric-srd/skills/Perception\|Perception]] +36, [[rangoric-srd/skills/Persuasion\|Persuasion]] +37, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +36, [[rangoric-srd/skills/Society\|Society]] +37, [[rangoric-srd/skills/Theology\|Theology]] +37 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Snatch\|Snatch]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Staggering Critical\|Staggering Critical]], [[rangoric-srd/feats/Hover\|Hover]] |
+| Great wyrm | [[rangoric-srd/skills/Acrobatics\|Acrobatics]] +27, [[rangoric-srd/skills/Appraise\|Appraise]] +40, [[rangoric-srd/skills/Arcana\|Arcana]] +40, [[rangoric-srd/skills/Deception\|Deception]] +40, [[rangoric-srd/skills/Intimidation\|Intimidation]] +40, [[rangoric-srd/skills/Nature\|Nature]] +40, [[rangoric-srd/skills/Perception\|Perception]] +39, [[rangoric-srd/skills/Persuasion\|Persuasion]] +40, [[rangoric-srd/skills/Sense Motive\|Sense Motive]] +39, [[rangoric-srd/skills/Society\|Society]] +40, [[rangoric-srd/skills/Theology\|Theology]] +40 | [[rangoric-srd/feats/Improved Initiative\|Improved Initiative]], [[rangoric-srd/feats/Multiattack\|Multiattack]], [[rangoric-srd/feats/Power Attack\|Power Attack]], [[rangoric-srd/feats/Great Fortitude\|Great Fortitude]], [[rangoric-srd/feats/Flyby Attack\|Flyby Attack]], [[rangoric-srd/feats/Wingover\|Wingover]], [[rangoric-srd/feats/Lightning Reflexes\|Lightning Reflexes]], [[rangoric-srd/feats/Improved Critical\|Improved Critical]] (bite, claws), [[rangoric-srd/feats/Snatch\|Snatch]], [[rangoric-srd/feats/Critical Focus\|Critical Focus]], [[rangoric-srd/feats/Quicken Spell\|Quicken Spell]], [[rangoric-srd/feats/Staggering Critical\|Staggering Critical]], [[rangoric-srd/feats/Hover\|Hover]], [[rangoric-srd/feats/Vital Strike\|Vital Strike]] |
+
+This dragon twists and whips with near untraceable speed. Its horns, crests along its neck, and wings emit a glow like starlight.
+
+Vortex dragons are the undisputed masters of travel across the galaxies, serving as messengers and observers for the greatest outer dragons and godlike entities in the great beyond.
+
+Vortex dragons speak Abyssal, Celestial, Common, Draconic, and Infernal; adult and older vortex dragons also speak Auran, and ancient and older ones Dwarven and Elven.
+
+## Combat
+
+**Breath Weapon (Su)**: A vortex dragon has a cone-shaped breath weapon that deals 2d8 points of fire damage per age category (see the [[rangoric-srd/monsters/Dragon, True#Combat|rules for true dragons]]).
+
+**Agile (Ex)**: Vortex dragons have good maneuverability when flying regardless of their age or size.
+
+**Alien Presence (Su)**: A vortex dragon's alien presence bends space. A creature that fails its saving throw treats all other creatures as if they were under the effects of blur (or displacement if the target has 4 or fewer Hit Dice) for 5d6 rounds.
+
+**Collapsing Breath (Su)**: Instead of a cone of fire, an ancient or older vortex dragon can suck a single target into its maw. If the target fails its Reflex save (DC equal to breath weapon), it is swallowed whole and takes 6d6 points of bludgeoning damage per round. A creature can cut itself out by dealing 30 points of damage with a light or one-handed piercing or slashing weapon. A vortex dragon's interior has an AC of 26.
+
+**Fragmented Strike (Su)**: An adult or older vortex dragon can strike with its bite through a rift in space. This allows it to make its bite attack against a target anywhere within the radius of its alien presence as long as the dragon can see the creature. This doesn't apply to attacks of opportunity.
+
+**Galactic Emissary (Su)**: A young or older vortex dragon halves the time of any starflight journey. In addition, it's immune to any effect that bars extradimensional travel.
