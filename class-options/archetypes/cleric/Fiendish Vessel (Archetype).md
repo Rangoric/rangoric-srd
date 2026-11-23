@@ -12,6 +12,7 @@ replaces:
 book: "Advanced Race Guide"
 based-on:
   - "[[path srd 3.5/races/Tieflings#Fiendish Vessel (Cleric)|Tieflings, Fiendish Vessel (PF1)]]"
+  - "[[path srd 3.5/races/Tieflings#Fiendish Patrons|Tieflings, Fiendish Patrons (PF1)]]"
 status: draft
 change: new
 pi-review: 2026-11-17
@@ -49,3 +50,34 @@ This tiny fiend acts like a perverse, manifest moral compass. Furthermore, this 
 *Extra Divination (Sp)*: At 13th level, the fiendish vessel can gain intelligence from her patron more often each day. She can use fiendish divination up to 3 times per day.
 
 **Fiendish Summoning**: When casting *[[rangoric-srd/spells/Summon Monster I|summon monster]]* spells, a fiendish vessel is limited to summoning [[rangoric-srd/monsters/Fiendish Creature|fiendish creatures]] and evil outsiders of the same alignment as her patron.
+
+## Fiendish Patrons
+
+The following describes some of the more common patrons. ^fiendish-patrons
+
+**Table: Archdevils**
+
+| Archdevil | AL | Areas of Concern | Domains | Favored Weapon |
+| --- | --- | --- | --- | --- |
+| Baalzebul | LE | Arrogance, flies, lies | [[rangoric-srd/class-options/domains/Air Domain\|Air]], [[rangoric-srd/class-options/domains/Death Domain\|Death]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Law Domain\|Law]] | [[rangoric-srd/equipment/weapons/Spear\|Spear]] |
+| Belial | LE | Adultery, deception, desire | [[rangoric-srd/class-options/domains/Charm Domain\|Charm]], [[rangoric-srd/class-options/domains/Destruction Domain\|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Law Domain\|Law]] | [[rangoric-srd/equipment/weapons/Ranseur\|Ranseur]] |
+| Dispater | LE | Cities, prisons, rulership | [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Law Domain\|Law]], [[rangoric-srd/class-options/domains/Nobility Domain\|Nobility]], [[rangoric-srd/class-options/domains/Trickery Domain\|Trickery]] | [[rangoric-srd/equipment/weapons/Heavy Mace\|Heavy mace]] |
+| Mephistopheles | LE | Contracts, devils, secrets | [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Knowledge Domain\|Knowledge]], [[rangoric-srd/class-options/domains/Law Domain\|Law]], [[rangoric-srd/class-options/domains/Rune Domain\|Rune]] | [[rangoric-srd/equipment/weapons/Trident\|Trident]] |
+
+**Table: Demon Lords**
+
+| Demon Lord | AL | Areas of Concern | Domains | Favored Weapon |
+| --- | --- | --- | --- | --- |
+| Abraxas | CE | Forbidden lore, magic, snakes | [[rangoric-srd/class-options/domains/Chaos Domain\|Chaos]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Knowledge Domain\|Knowledge]], [[rangoric-srd/class-options/domains/Magic Domain\|Magic]] | [[rangoric-srd/equipment/weapons/Whip\|Whip]] |
+| Baphomet | CE | Beasts, labyrinths, minotaurs | [[rangoric-srd/class-options/domains/Animal Domain\|Animal]], [[rangoric-srd/class-options/domains/Chaos Domain\|Chaos]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Strength Domain\|Strength]] | [[rangoric-srd/equipment/weapons/Glaive\|Glaive]] |
+| Dagon | CE | Deformity, the sea, sea monsters | [[rangoric-srd/class-options/domains/Chaos Domain\|Chaos]], [[rangoric-srd/class-options/domains/Destruction Domain\|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Water Domain\|Water]] | [[rangoric-srd/equipment/weapons/Trident\|Trident]] |
+| Shax | CE | Envy, lies, murder | [[rangoric-srd/class-options/domains/Chaos Domain\|Chaos]], [[rangoric-srd/class-options/domains/Destruction Domain\|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Nobility Domain\|Nobility]] | [[rangoric-srd/equipment/weapons/Dagger\|Dagger]] |
+
+**Table: The Four Horsemen**
+
+| Horseman | AL | Areas of Concern | Domains | Favored Weapon |
+| --- | --- | --- | --- | --- |
+| Apollyon | NE | Pestilence | [[rangoric-srd/class-options/domains/Air Domain\|Air]], [[rangoric-srd/class-options/domains/Darkness Domain\|Darkness]], [[rangoric-srd/class-options/domains/Destruction Domain\|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]] | [[rangoric-srd/equipment/weapons/Scythe\|Scythe]] |
+| Charon | NE | Death | [[rangoric-srd/class-options/domains/Death Domain\|Death]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Knowledge Domain\|Knowledge]], [[rangoric-srd/class-options/domains/Water Domain\|Water]] | [[rangoric-srd/equipment/weapons/Quarterstaff\|Quarterstaff]] |
+| Ruzhavel | NE | War | [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Fire Domain\|Fire]], [[rangoric-srd/class-options/domains/Strength Domain\|Strength]], [[rangoric-srd/class-options/domains/War Domain\|War]] | [[rangoric-srd/equipment/weapons/Greatsword\|Greatsword]] |
+| Morvathrex | NE | Famine | [[rangoric-srd/class-options/domains/Earth Domain\|Earth]], [[rangoric-srd/class-options/domains/Evil Domain\|Evil]], [[rangoric-srd/class-options/domains/Madness Domain\|Madness]], [[rangoric-srd/class-options/domains/Weather Domain\|Weather]] | [[rangoric-srd/equipment/weapons/Spiked Gauntlet\|Spiked gauntlet]] |
