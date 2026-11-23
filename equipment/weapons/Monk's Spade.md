@@ -10,7 +10,7 @@ damage-medium: "1d10/2d4"
 critical: "x2"
 weight-lb: 11
 damage-type: "Slashing"
-special: ["double", "trip"]
+special: ["double", "trip", "disarm"]
 based-on:
   - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Monk's Spade|Monk's Spade (PF1)]]"
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/double, weapon-group/mon
 
 # Monk's Spade
 
-*Exotic two-handed melee weapon (double, trip).* Cost 30 gp; Dmg 1d8/1d6 (S), 1d10/2d4 (M); Critical x2; Weight 11 lb.; Type Slashing. ^stats
+*Exotic two-handed melee weapon (double, trip, disarm).* Cost 30 gp; Dmg 1d8/1d6 (S), 1d10/2d4 (M); Critical x2; Weight 11 lb.; Type Slashing. ^stats
 
 (*Yue Ya Chan*): The monk’s spade is a stout staff topped at one end with a flat, sharpened spade head, and at the other with a crescent-shaped blade. Frequently, steel rings hang from the shovel blade, jingling like bells as it strikes in battle. The monk spade makes a good weapon for taking on multiple opponents or going against those on horseback. Bracing the weapon against an immobile surface, the wielder gets a +4 circumstance bonus to Armor Class against charging or mounted attacks.
 

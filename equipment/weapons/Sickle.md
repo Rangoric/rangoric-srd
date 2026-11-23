@@ -10,17 +10,18 @@ damage-medium: "1d6"
 critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
+special: ["trip"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/weapons/Sickle|Sickle (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades]
 ---
 
 # Sickle
 
-*Simple light melee weapon.* Cost 6 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
+*Simple light melee weapon (trip).* Cost 6 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
 
 A sickle can be used to make trip attacks. If you are tripped during your own trip attempt, you can drop the sickle to avoid being tripped.

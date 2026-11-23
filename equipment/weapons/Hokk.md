@@ -10,7 +10,7 @@ damage-medium: "1d6"
 critical: "x3"
 weight-lb: 3
 damage-type: "Slashing"
-special: ["trip"]
+special: ["trip", "disarm"]
 based-on:
   - "[[individual books/Arms & Armor v3.5/weapons/Hokk|Hokk (Arms & Armor)]]"
 status: draft
@@ -21,6 +21,6 @@ tags: [rangoric, rangoric/weapon, weapon-group/axes]
 
 # Hokk
 
-*Exotic one-handed melee weapon (trip).* Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Slashing. ^stats
+*Exotic one-handed melee weapon (trip, disarm).* Cost 10 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Weight 3 lb.; Type Slashing. ^stats
 
 The hokk is a small exotic melee weapon, consisting of a semicircular blade affixed with a crossbar hilt. Small hooks extend from the blade where it meets the handle. The hokk can be used to disarm an opponent in melee.

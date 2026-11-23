@@ -10,18 +10,19 @@ damage-medium: "1d10"
 critical: "x3"
 weight-lb: 12
 damage-type: "Piercing or slashing"
+special: ["trip"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/weapons/Halberd|Halberd (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---
 
 # Halberd
 
-*Martial two-handed melee weapon.* Cost 10 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 12 lb.; Type Piercing or slashing. ^stats
+*Martial two-handed melee weapon (trip).* Cost 10 gp; Dmg 1d8 (S), 1d10 (M); Critical x3; Weight 12 lb.; Type Piercing or slashing. ^stats
 
 If you use a ready action to set a halberd against a charge, you deal double damage on a successful hit against a charging character.
 

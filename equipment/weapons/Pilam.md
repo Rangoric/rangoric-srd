@@ -24,3 +24,5 @@ tags: [rangoric, rangoric/weapon, weapon-group/spears, weapon-group/thrown]
 *Simple one-handed melee weapon.* Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x3; Range Increment 20 ft.; Weight 4 lb.; Type Piercing. ^stats
 
 This is a stocky javelin with a 2 ft. long, barbed steel rod as a spearhead. Although less aerodynamic than a standard javelin, the pilam has tremendous penetrating power. Upon a critical hit, along with whatever critical damage and critical effect, the pilam penetrates and imbeds itself in the target’s shield (if it uses one) and weights it down as the spearhead bends, itself becoming useless. This does, however, make the shield encumbered and useless, negating its AC bonus. Extracting the pilam requires a Strength check (DC 15) and provokes an attack of opportunity. Because the spearhead often bends, becoming useless, the pilam is considered a disposable weapon so masterwork pilam are a rarity and magical ones are unheard of.
+
+See also the [[rangoric-srd/equipment/weapons/Pilum|pilum]], a similar thrown weapon that is a martial weapon.

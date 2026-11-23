@@ -89,7 +89,7 @@ The mesmerist’s class skills (and the key ability for each skill) are [[rangor
 
 All of the following are class features of the mesmerist.
 
-**Weapon and Armor Proficiency**: A mesmerist is proficient with all simple weapons, plus the [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]], [[rangoric-srd/equipment/weapons/Sap|sap]], sword cane, and [[rangoric-srd/equipment/weapons/Whip|whip]]. He is proficient with light armor, but not with shields. ^mesmerist-proficiency
+**Weapon and Armor Proficiency**: A mesmerist is proficient with all simple weapons, plus the [[rangoric-srd/equipment/weapons/Hand Crossbow|hand crossbow]], [[rangoric-srd/equipment/weapons/Sap|sap]], [[rangoric-srd/equipment/weapons/Sword Cane|sword cane]], and [[rangoric-srd/equipment/weapons/Whip|whip]]. He is proficient with light armor, but not with shields. ^mesmerist-proficiency
 
 **Spells**: A mesmerist casts [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic spells]] drawn from the [[rangoric-srd/spells/Mesmerist Spell List|mesmerist spell list]]. He can cast any spell he knows without preparing it ahead of time. To learn or cast a spell, a mesmerist must have a Charisma score equal to at least 10 + the spell’s level. The Difficulty Class for a saving throw against a mesmerist’s spell is equal to 10 + the spell’s level + the mesmerist’s Charisma modifier. ^mesmerist-spells
 

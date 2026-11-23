@@ -10,7 +10,7 @@ damage-medium: "1d6/1d6"
 critical: "19-20/x2"
 weight-lb: 3
 damage-type: "Bludgeoning"
-special: ["reach", "double", "trip"]
+special: ["reach", "double", "trip", "disarm"]
 based-on:
   - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Meteor Hammer|Meteor Hammer (PF1)]]"
@@ -23,7 +23,7 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/double, weapon-group/fla
 
 # Meteor Hammer
 
-*Exotic two-handed melee weapon (reach, double, trip).* Cost 8 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical 19-20/x2; Weight 3 lb.; Type Bludgeoning. ^stats
+*Exotic two-handed melee weapon (reach, double, trip, disarm).* Cost 8 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical 19-20/x2; Weight 3 lb.; Type Bludgeoning. ^stats
 
 (*Liu Xing Chui*): A meteor hammer is similar to a flying weight. The weapon consists of 15 feet of finely woven rope that branches at the end into two shorter lengths. Attached to each end of the branch is a heavy, ovoid weight made of steel. The wielder can spin the weighted branches alone, using them as an impromptu flail, spin the entire length of rope similar to a flying weight, or use some combination of the two techniques. In battle, the wielder resembles nothing short of a deadly, flashing-metal whirlwind.
 

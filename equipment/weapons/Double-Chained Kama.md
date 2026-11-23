@@ -12,7 +12,7 @@ damage-medium: "1d6/1d6"
 critical: "x2"
 weight-lb: 4
 damage-type: "Slashing"
-special: ["double", "monk", "reach", "trip"]
+special: ["double", "monk", "reach", "trip", "disarm"]
 book: ["Ultimate Combat", "Ultimate Equipment"]
 based-on:
   - "[[path srd 3.5/items/eastern-armor-and-weapons/Kama, Double-Chained|Kama, Double-Chained (PF1)]]"
@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails, weap
 
 # Double-Chained Kama
 
-*Exotic two-handed melee weapon (double, monk, reach, trip).* Cost 8 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 4 lb.; Type Slashing. ^stats
+*Exotic two-handed melee weapon (double, monk, reach, trip, disarm).* Cost 8 gp; Dmg 1d4/1d4 (S), 1d6/1d6 (M); Critical x2; Weight 4 lb.; Type Slashing. ^stats
 
 This weapon comprises a pair of [[rangoric-srd/equipment/weapons/Kama|kama]] connected with an 8-foot length of chain. The wielder can attack as if armed with a single kama in each hand or extend the chain to make a single reach attack. By swinging the rope, the wielder can whip the kama about to [[rangoric-srd/combat/Combat Maneuvers#Disarm|disarm]] or [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] opponents. Furthermore, if one of the weapons is dropped, the wielder can retrieve as a free action by pulling on the chain.
 

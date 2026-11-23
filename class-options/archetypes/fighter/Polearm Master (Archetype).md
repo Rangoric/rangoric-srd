@@ -31,7 +31,7 @@ The polearm master is schooled in the ancient wisdom that enemies are best faced
 
 **Flexible Flanker (Ex)**: At 9th level, a polearm master may choose any square adjacent to him and treat that square as his location for determining who he is flanking, even if that square is occupied by a creature, object, or solid barrier. This ability replaces weapon training 2.
 
-**Sweeping Fend (Ex)**: At 13th level, a polearm master can use any spear or pole arm to make a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] or [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] maneuver, though he takes a –4 penalty to his CMB when making such attempts. Weapons with the trip property do not incur this penalty on trip maneuvers. This ability replaces weapon training 3.
+**Sweeping Fend (Ex)**: At 13th level, a polearm master can use any spear or pole arm to make a [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] or [[rangoric-srd/combat/Combat Maneuvers#Trip|trip]] maneuver, though he takes a –4 penalty to his CMB when making such attempts. Weapons with the [[rangoric-srd/equipment/Equipment Weapons#^weapon-trip|trip]] property do not incur this penalty on trip maneuvers. This ability replaces weapon training 3.
 
 **Step Aside (Ex)**: At 17th level, when a creature threatened by a polearm master takes a 5-foot step into a square adjacent to him, he can take a 5-foot step as an immediate action. This 5-foot step must be subtracted from his movement on the next turn. He also gains a +2 dodge bonus to his AC against that opponent until the end of his next turn. This ability replaces weapon training 4.
 
