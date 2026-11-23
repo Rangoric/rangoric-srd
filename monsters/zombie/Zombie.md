@@ -174,3 +174,10 @@ Damage Reduction 5/Slashing: Zombies are lumbering masses of flesh.
 | **Alignment:**           | Always neutral evil                                                                                                                                 |  | Always neutral evil                                                                                                                                           |
 | **Advancement:**         | 16–20 HD (Huge)                                                                                                                                     |  | None                                                                                                                                                          |
 | **Level Adjustment:**    | —                                                                                                                                                   |  | —                                                                                                                                                             |
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/zombie/Alternate Zombie|Alternate Zombie]]. Also in this folder:
+
+  - [[rangoric-srd/monsters/zombie/Alternate Zombie|Alternate Zombie]]
+  - [[rangoric-srd/monsters/zombie/Human Zombie|Human Zombie]]
+  - [[rangoric-srd/monsters/zombie/Juju Zombie|Juju Zombie]]
+  - [[rangoric-srd/monsters/zombie/Zombie Lord|Zombie Lord]]

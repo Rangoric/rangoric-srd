@@ -78,3 +78,7 @@ An integral part of becoming a lich is creating a magic phylactery in which the 
 Each lich must make its own phylactery, which requires the [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]] feat. The character must be able to cast spells and have a caster level of 11th or higher. The phylactery costs 120,000 gp and 4,800 XP to create and has a caster level equal to that of its creator at the time of creation.
 
 The most common form of phylactery is a sealed metal box containing strips of parchment on which magical phrases have been transcribed. The box is Tiny and has 40 hit points, hardness 20, and a break DC of 40. Other forms of phylacteries can exist, such as rings, amulets, or similar items.
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]. Also in this folder:
+
+  - [[rangoric-srd/monsters/lich/Alternate Lich|Alternate Lich]]

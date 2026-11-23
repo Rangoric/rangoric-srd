@@ -27,6 +27,7 @@ treasure: "Standard"
 alignment: "Always evil (any)"
 advancement: "—"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/vampire/Vampire|Vampire]]"
 based-on:
   - "[[fantasy srd 3.5/monsters/Vampire Spawn|Vampire Spawn (3.5)]]"
 status: draft
@@ -86,4 +87,4 @@ Vampire spawn use their inhuman strength when engaging mortals, hammering their 
 
 ### Vampire Spawn Weaknesses
 
-Vampire spawn are vulnerable to all attacks and effects that repel or slay vampires. For details, see the [[rangoric-srd/monsters/Vampire#Vampire Weaknesses|Vampire]] entry.
+Vampire spawn are vulnerable to all attacks and effects that repel or slay vampires. For details, see the [[rangoric-srd/monsters/vampire/Vampire#Vampire Weaknesses|Vampire]] entry.

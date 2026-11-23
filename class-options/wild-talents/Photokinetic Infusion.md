@@ -30,4 +30,4 @@ tags: [rangoric, rangoric/class-option]
 
 Your blast damages living creatures with light. This deals normal damage to undead creatures but also deals minimum damage (1 point of damage per d6, can’t be increased by the 9th-level improvement to [[rangoric-srd/classes/Kineticist#^kineticist-metakinesis|metakinesis]]) to living creatures.
 
-Undead creatures that are particularly vulnerable to sunlight, such as [[rangoric-srd/monsters/Vampire|vampires]], take 1 extra point of damage per die from the infused blast.
+Undead creatures that are particularly vulnerable to sunlight, such as [[rangoric-srd/monsters/vampire/Vampire|vampires]], take 1 extra point of damage per die from the infused blast.

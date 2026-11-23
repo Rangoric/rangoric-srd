@@ -912,7 +912,7 @@ Though the origin of such a bloodline is almost too hideous to contemplate, ther
 
 ### Vampire
 
-The [[rangoric-srd/monsters/Vampire|vampire's]] powers of persuasion have led more than one weak-willed humanoid into its deadly clutch of intimacy. Though it seems impossible that any child could result from such a union, tales of humanoids possessing some of the vampire's physical and mental prowess abound. These pale, haunted creatures are inevitably cloaked in mystery and deception, for even good aligned descendants of vampires fear retribution from those mistaking them for the undead.
+The [[rangoric-srd/monsters/vampire/Vampire|vampire's]] powers of persuasion have led more than one weak-willed humanoid into its deadly clutch of intimacy. Though it seems impossible that any child could result from such a union, tales of humanoids possessing some of the vampire's physical and mental prowess abound. These pale, haunted creatures are inevitably cloaked in mystery and deception, for even good aligned descendants of vampires fear retribution from those mistaking them for the undead.
 
 **Vampire Bloodline Traits**
 
