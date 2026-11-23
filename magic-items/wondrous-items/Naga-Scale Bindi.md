@@ -28,9 +28,9 @@ This shining, jewel-like scale is usually worn on the forehead between the eyebr
 
 **Spirit naga**: Once per minute, the wearer can attempt to charm a single creature within 30 feet, as the spell *[[rangoric-srd/spells/Charm Person|charm person]]* (Will DC 19 negates). *Poison effect*: 1d4 Con damage.
 
-**Lunar naga**: Once per day, the wearer can spend a standard action to [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinate]] all creatures within 30 feet, as per the spell *[[rangoric-srd/spells/Hypnotism|hypnotism]]* (Will DC 19 negates). *Poison effect*: 1d3 Con and 1 Wis.
+**[[rangoric-srd/monsters/naga/Lunar Naga|Lunar naga]]**: Once per day, the wearer can spend a standard action to [[rangoric-srd/rules/Special Abilities and Conditions#^fascinated|fascinate]] all creatures within 30 feet, as per the spell *[[rangoric-srd/spells/Hypnotism|hypnotism]]* (Will DC 19 negates). *Poison effect*: 1d3 Con and 1 Wis.
 
-**Royal naga**: Once per day, the wearer can attempt to blind or deafen a single creature within 30 feet, as the spell *[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (Will DC 19 negates). *Poison effect*: 1d6 [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]].
+**[[rangoric-srd/monsters/naga/Royal Naga|Royal naga]]**: Once per day, the wearer can attempt to blind or deafen a single creature within 30 feet, as the spell *[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (Will DC 19 negates). *Poison effect*: 1d6 [[rangoric-srd/rules/conditions/Bleed (Condition)|bleed]].
 
 **Water naga**: The wearer gains a swim speed equal to its base land speed, and can breathe water or air. *Poison effect*: 1 Con.
 
