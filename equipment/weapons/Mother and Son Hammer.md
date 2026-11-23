@@ -10,7 +10,7 @@ damage-medium: "1d8/1d8"
 critical: "19-20/x2"
 weight-lb: 7
 damage-type: "Bludgeoning"
-special: ["reach", "double", "trip"]
+special: ["reach", "double", "trip", "disarm"]
 based-on:
   - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
 status: draft
@@ -21,7 +21,7 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/double, weapon-group/fla
 
 # Mother and Son Hammer
 
-*Exotic two-handed melee weapon (reach, double, trip).* Cost 7 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical 19-20/x2; Weight 7 lb.; Type Bludgeoning. ^stats
+*Exotic two-handed melee weapon (reach, double, trip, disarm).* Cost 7 gp; Dmg 1d6/1d6 (S), 1d8/1d8 (M); Critical 19-20/x2; Weight 7 lb.; Type Bludgeoning. ^stats
 
 (*Zi Mu Chui*): The mother and son hammer resembles the meteor hammer, but is much larger and heavier, each striking head being the size of a small melon, and the cord being replaced with a chain. This is a reach weapon, and can be used to strike opponents up to 10 feet away. Unlike other reach weapons, it can be used against adjacent foes. The wielder can also make disarm and trip attacks, and if tripped during a trip attempt, can drop the hammer to avoid being tripped. The mother and son hammer grants its wielder a +1 bonus to all trip and disarm attacks.
 

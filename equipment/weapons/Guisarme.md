@@ -10,19 +10,19 @@ damage-medium: "2d4"
 critical: "x3"
 weight-lb: 12
 damage-type: "Slashing"
-special: ["reach"]
+special: ["reach", "trip"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/weapons/Guisarme|Guisarme (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/pole-arms]
 ---
 
 # Guisarme
 
-*Martial two-handed melee weapon (reach).* Cost 9 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats
+*Martial two-handed melee weapon (reach, trip).* Cost 9 gp; Dmg 1d6 (S), 2d4 (M); Critical x3; Weight 12 lb.; Type Slashing. ^stats
 
 A guisarme has reach. You can strike opponents 10 feet away with it, but you can’t use it against an adjacent foe.
 

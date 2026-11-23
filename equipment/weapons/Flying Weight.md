@@ -11,7 +11,7 @@ critical: "19-20/x2"
 range-ft: 10
 weight-lb: 1.5
 damage-type: "Bludgeoning"
-special: ["reach", "trip"]
+special: ["reach", "trip", "disarm"]
 based-on:
   - "[[individual books/Arms & Armor v3.5/tables/Table 1.1 Weapons|Table 1.1: Weapons (Arms & Armor)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, eastern, weapon-group/flails, weapon-group/thr
 
 # Flying Weight
 
-*Exotic two-handed melee weapon (reach, trip).* Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Range Increment 10 ft.; Weight 1-1/2 lb.; Type Bludgeoning. ^stats
+*Exotic two-handed melee weapon (reach, trip, disarm).* Cost 5 gp; Dmg 1d4 (S), 1d6 (M); Critical 19-20/x2; Range Increment 10 ft.; Weight 1-1/2 lb.; Type Bludgeoning. ^stats
 
 (*Shuang Tao Fei Chui*): The flying weight is an oval or conical, egg-sized metal weight attached at the end of a cord of up to 15 feet in length. The flying weight is spun in the air and twirled around various parts of the body to gain tremendous momentum. The flying weight is a reach weapon that can strike opponents up to 15 feet away. Unlike other reach weapons, the weight can also strike at adjacent foes. The wielder makes trip and disarm attacks at a +1 bonus with a flying weight, and if tripped during a trip attempt, he can drop it to avoid being tripped. Characters may use the Weapon Finesse feat to add Dexterity instead of Strength modifiers to attack rolls with a flying weight.
 

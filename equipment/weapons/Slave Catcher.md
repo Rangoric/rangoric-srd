@@ -11,7 +11,7 @@ critical: "x2"
 range-ft: 15
 weight-lb: 8
 damage-type: "Bludgeoning"
-special: ["double", "trip"]
+special: ["double", "trip", "disarm"]
 based-on:
   - "[[individual books/Arms & Armor v3.5/weapons/Slave Catcher|Slave Catcher (Arms & Armor)]]"
 status: draft
@@ -22,7 +22,7 @@ tags: [rangoric, rangoric/weapon, weapon-group/double, weapon-group/flails, weap
 
 # Slave Catcher
 
-*Exotic two-handed melee weapon (double, trip).* Cost 25 gp; Dmg 1d3/1d3 (S), 1d4/1d4 (M); Critical x2; Range Increment 15 ft.; Weight 8 lb.; Type Bludgeoning. ^stats
+*Exotic two-handed melee weapon (double, trip, disarm).* Cost 25 gp; Dmg 1d3/1d3 (S), 1d4/1d4 (M); Critical x2; Range Increment 15 ft.; Weight 8 lb.; Type Bludgeoning. ^stats
 
 A slave catcher is composed of a staff with lengths of long, whiplike cord attached to both ends. The ends of these cords are split into lashes of many smaller strands tipped with small, spiked balls of iron.
 

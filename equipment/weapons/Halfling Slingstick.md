@@ -26,3 +26,5 @@ tags: [rangoric, rangoric/weapon, weapon-group/thrown]
 The halfling slingstick is a sturdy but very flexible switch of wood about two to three feet in length that splits into a Y shape at one end. The Y has a leather pocket stretched across it to hold any standard sling bullet. Attached to the opposite end is a one-foot cord that ends in a small loop, into which the barbed back edge of any standard broad headed bolt fits. There are usually leather-wrapped grips near both ends of the slingstick.
 
 The true advantage of the slingstick is its versatility, being able to project sling bullets and crossbow bolts. If the wielder has a sufficient number of attacks, she can easily switch between either forms of ammunition in the same combat round. Also, the whiplike action used to fire the weapon does not require a lot of space, making it a perfect ranged weapon in close-quarters combat.
+
+See also the [[rangoric-srd/equipment/weapons/Halfling Sling Staff|halfling sling staff]], a similar weapon that fires sling bullets and hurls stones.

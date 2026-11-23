@@ -10,18 +10,19 @@ damage-medium: "1d6"
 critical: "x2"
 weight-lb: 2
 damage-type: "Slashing"
+special: ["trip"]
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Weapons|Equipment Weapons (3.5)]]"
   - "[[individual books/Arms & Armor v3.5/weapons/Kama|Kama (Arms & Armor)]]"
-status: base
-change: copied
+status: draft
+change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/weapon, weapon-group/light-blades, weapon-group/monk, eastern]
 ---
 
 # Kama
 
-*Exotic light melee weapon.* Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
+*Exotic light melee weapon (trip).* Cost 2 gp; Dmg 1d4 (S), 1d6 (M); Critical x2; Weight 2 lb.; Type Slashing. ^stats
 
 The kama is a special monk weapon. This designation gives a monk wielding a kama special options.
 
