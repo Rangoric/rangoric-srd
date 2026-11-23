@@ -18,7 +18,7 @@ Nightshades can read and understand all forms of communication; however, they co
 
 ### Combat
 
-Each of the three known varieties of nightshade is a terrible creature with unique powers and abilities. Their tactics vary according to their abilities, but they all make liberal use of haste.
+Each of the four known varieties of nightshade is a terrible creature with unique powers and abilities. Their tactics vary according to their abilities, but they all make liberal use of haste.
 
 #### Nightshade Abilities
 
@@ -26,4 +26,5 @@ All nightshades have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Sp
 
   - [[rangoric-srd/monsters/nightshade/Nightcrawler|Nightcrawler]]
   - [[rangoric-srd/monsters/nightshade/Nightwalker|Nightwalker]]
+  - [[rangoric-srd/monsters/nightshade/Nightwave|Nightwave]]
   - [[rangoric-srd/monsters/nightshade/Nightwing|Nightwing]]
