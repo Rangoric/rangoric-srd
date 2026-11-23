@@ -81,9 +81,13 @@ A ratfolk can take any of these in place of the traits they replace (see [[rango
 
 | Trait | Replaces |
 | --- | --- |
+| [[rangoric-srd/races/racial-traits/Cheek Pouches|Cheek Pouches]] | Swarming |
+| [[rangoric-srd/races/racial-traits/Cleanliness|Cleanliness]] | Rodent empathy |
 | [[rangoric-srd/races/racial-traits/Cornered Fury|Cornered Fury]] | Swarming |
+| [[rangoric-srd/races/racial-traits/Lab Rat|Lab Rat]] | Tinker |
 | [[rangoric-srd/races/racial-traits/Scent (Ratfolk Trait)|Scent]] | Tinker |
 | [[rangoric-srd/races/racial-traits/Skulk|Skulk]] | Tinker |
+| [[rangoric-srd/races/racial-traits/Surface Sprinter|Surface Sprinter]] | Darkvision and the base speed of 20 feet |
 | [[rangoric-srd/races/racial-traits/Unnatural|Unnatural]] | Rodent empathy |
 
 ### Class Bonuses

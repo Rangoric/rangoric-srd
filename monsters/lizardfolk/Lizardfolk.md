@@ -72,6 +72,7 @@ tags: [rangoric, rangoric/monster]
   - Lizardfolk Champion: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Champion|Lizardfolk Champion]] (CR 10)
   - Lizardfolk Sorcerer: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Sorcerer|Lizardfolk Sorcerer]] (CR 12)
   - Lizardfolk Clutch Mother: [[rangoric-srd/monsters/lizardfolk/Lizardfolk Clutch Mother|Lizardfolk Clutch Mother]] (CR 13)
+  - [[rangoric-srd/monsters/lizardfolk/Lizard Scion|Lizard Scion]] (CR 5)
 
 Lizardfolk are proud and powerful reptilian predators that make their communal homes in scattered villages deep within swamps and marshes. Uninterested in colonization of the dry lands and content with the simple weapons and rituals that have served them well for millennia, lizardfolk are viewed by many other races as backwater savages, but within their isolated communities lizardfolk are actually a vibrant people filled with tradition and an oral history stretching back to before humans walked upright.
 

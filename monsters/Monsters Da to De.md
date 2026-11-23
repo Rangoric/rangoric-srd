@@ -13,9 +13,8 @@ tags: [rangoric, rangoric/overview]
 
 ## Dark Mantle - Devourer
 
-  - [[rangoric-srd/monsters/Dark Creeper|Dark Creeper]]
+  - [[rangoric-srd/monsters/dark-folk/Dark Folk|Dark Folk]]
   - [[rangoric-srd/monsters/Dark Spitter Beetle|Dark Spitter Beetle]]
-  - [[rangoric-srd/monsters/Dark Stalker|Dark Stalker]]
   - [[rangoric-srd/monsters/Darkmantle|Darkmantle]]
   - [[rangoric-srd/monsters/Death Dog|Death Dog]]
   - [[rangoric-srd/monsters/Death Worm|Death Worm]]
@@ -29,3 +28,4 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/monsters/devil/Devil|Devil]]
   - [[rangoric-srd/monsters/Devilfish|Devilfish]]
   - [[rangoric-srd/monsters/Devourer|Devourer]]
+  - [[rangoric-srd/monsters/Dhampir|Dhampir]]

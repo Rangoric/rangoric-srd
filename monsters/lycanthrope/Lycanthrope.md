@@ -23,9 +23,12 @@ A lycanthrope in animal form fights like the animal it resembles, although its b
 
 Finally, a natural lycanthrope (or an afflicted lycanthrope that has become aware of its affliction) can assume a hybrid form that is a mix of its humanoid and animal forms. A hybrid has hands and can use weapons, but it can also attack with its teeth and claws. A hybrid can spread lycanthropy with its bite, and it has the same damage reduction that its animal form possesses.
 
+  - [[rangoric-srd/monsters/lycanthrope/Werebat|Werebat]]
   - [[rangoric-srd/monsters/lycanthrope/Werebear|Werebear]]
   - [[rangoric-srd/monsters/lycanthrope/Wereboar|Wereboar]]
+  - [[rangoric-srd/monsters/lycanthrope/Werecrocodile|Werecrocodile]]
   - [[rangoric-srd/monsters/lycanthrope/Wererat|Wererat]]
+  - [[rangoric-srd/monsters/lycanthrope/Wereshark|Wereshark]]
   - [[rangoric-srd/monsters/lycanthrope/Weretiger|Weretiger]]
   - [[rangoric-srd/monsters/lycanthrope/Werewolf|Werewolf]]
   - [[rangoric-srd/monsters/lycanthrope/Lycanthrope, Werewolf Lord|Lycanthrope, Werewolf Lord]]

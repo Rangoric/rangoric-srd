@@ -73,6 +73,10 @@ tags: [rangoric, rangoric/monster]
   - Troll Fury: [[rangoric-srd/monsters/troll/Troll Fury|Troll Fury]] (CR 8)
   - Troll Elder Matron: [[rangoric-srd/monsters/troll/Troll Elder Matron|Troll Elder Matron]] (CR 10)
   - Troll Monarch: [[rangoric-srd/monsters/troll/Troll Monarch|Troll Monarch]] (CR 15)
+  - [[rangoric-srd/monsters/troll/Ice Troll|Ice Troll]] (CR 4)
+  - [[rangoric-srd/monsters/troll/Jotund Troll|Jotund Troll]] (CR 15)
+  - [[rangoric-srd/monsters/troll/Moss Troll|Moss Troll]] (CR 3)
+  - [[rangoric-srd/monsters/troll/Rock Troll|Rock Troll]] (CR 6)
   - [[rangoric-srd/monsters/troll/Sewer Troll|Sewer Troll]] (CR 2)
 
 Trolls possess incredibly sharp claws and amazing regenerative powers, allowing them to recover from nearly any wound. They are stooped, fantastically ugly, and astonishingly strong—combined with their claws, their strength allows them to literally tear apart flesh to feed their voracious appetites. Trolls stand about 14 feet tall, but their hunched postures often make them appear shorter. An adult troll weighs around 1,000 pounds.

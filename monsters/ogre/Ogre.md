@@ -73,6 +73,11 @@ tags: [rangoric, rangoric/monster]
   - Hunters: [[rangoric-srd/monsters/ogre/Ogre Hunter|Ogre Hunter]] (CR 9)
   - Destroyers: [[rangoric-srd/monsters/ogre/Ogre Destroyer|Ogre Destroyer]] (CR 10)
   - Kings: [[rangoric-srd/monsters/ogre/Ogre King|Ogre King]] (CR 13)
+  - [[rangoric-srd/monsters/ogre/Freshwater Merrow|Freshwater Merrow]] (CR 3)
+  - [[rangoric-srd/monsters/ogre/Ogrekin|Ogrekin]] (CR 2)
+  - [[rangoric-srd/monsters/ogre/Saltwater Merrow|Saltwater Merrow]] (CR 6)
+  - [[rangoric-srd/monsters/ogre/Troggle|Troggle]] (CR 4)
+  - [[rangoric-srd/monsters/ogre/Troggle Raider|Troggle Raider]] (CR 6)
 
 Stories are told of ogres—horrendous stories of brutality and savagery, cannibalism and torture. Of rape and dismemberment, necrophilia, incest, mutilation, and all manners of hideous murder. Those who have not encountered ogres know the stories as warnings. Those who have survived such encounters know these tales to be tame compared to the truth.
 
@@ -132,7 +137,7 @@ Uncanny Dodge (Ex): An ogre barbarian retains his Dex bonus to AC regardless of 
 
 ### Merrow
 
-These cousins of the ogre have the aquatic subtype. They dwell in freshwater lakes and rivers. They have a base land speed of 30 feet and a swim speed of 40 feet and are found only in aquatic environments. Instead of the typical ogre’s greatclub, they prefer to use longspears in melee (attack +8 melee, damage 1d8+7).
+These cousins of the ogre have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^aquatic|aquatic subtype]]. They are described in notes of their own: the [[rangoric-srd/monsters/ogre/Freshwater Merrow|freshwater merrow]] and the [[rangoric-srd/monsters/ogre/Saltwater Merrow|saltwater merrow]].
 
 ### Ogre Mage
 

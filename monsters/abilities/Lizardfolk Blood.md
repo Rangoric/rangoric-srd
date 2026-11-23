@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["quality"]
+book: "Monster Codex"
+based-on:
+  - "[[path srd 3.5/monsters/Lizard Scion|Lizard Scion (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Lizardfolk Blood
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “lizardfolk blood”, on the Special Qualities line.
+
+A lizard scion counts as a lizardfolk for all effects related to race. The [[rangoric-srd/monsters/lizardfolk/Lizard Scion|lizard scion]] has it.
