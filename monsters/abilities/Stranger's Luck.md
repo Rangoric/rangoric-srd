@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["quality"]
+book: "Bestiary 3"
+based-on:
+  - "[[path srd 3.5/monsters/Pale Stranger|Pale Stranger (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Stranger's Luck
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “stranger's luck”, on the Special Qualities line.
+
+A pale stranger gains a +3 luck bonus to AC and has no chance of misfire when using firearms. The [[rangoric-srd/monsters/Pale Stranger|pale stranger]] has it.

@@ -69,8 +69,11 @@ tags: [rangoric, rangoric/monster]
   - Sneaky Ghouls: [[rangoric-srd/monsters/ghoul/Ghoul Creeper|Ghoul Creeper]] (CR 3), [[rangoric-srd/monsters/ghoul/Ghoul Stalker|Ghoul Stalker]] (CR 6)
   - Ghoul Huntsmaster: [[rangoric-srd/monsters/ghoul/Ghoul Huntsmaster|Ghoul Huntsmaster]] (CR 7)
   - Ghoul Commander: [[rangoric-srd/monsters/ghoul/Ghoul Commander|Ghoul Commander]] (CR 8)
+  - Masked Murderer: [[rangoric-srd/monsters/ghoul/Masked Murderer|Masked Murderer]] (CR 8)
+  - Ancient Gravedigger: [[rangoric-srd/monsters/ghoul/Ancient Gravedigger|Ancient Gravedigger]] (CR 10)
   - Ghoul Monarch: [[rangoric-srd/monsters/ghoul/Ghoul Monarch|Ghoul Monarch]] (CR 12)
   - [[rangoric-srd/monsters/ghoul/Ghoul Hound|Ghoul Hound]] (CR 1)
+  - [[rangoric-srd/monsters/ghoul/Sootwing Bat|Sootwing Bat]] (CR 1/2)
   - [[rangoric-srd/monsters/Corpse Cat|Corpse Cat]]
 
 Ghouls are undead that haunt graveyards and eat corpses. Legends hold that the first ghouls were either cannibalistic humans whose unnatural hunger dragged them back from death or humans who in life fed on the rotting remains of their kin and died (and were reborn) from the foul disease—the true source of these undead scavengers is unclear.
