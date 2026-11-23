@@ -20,7 +20,7 @@ tags: [rangoric, rangoric/affliction]
 
 # Black Smear
 
-A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is a foul-smelling black paste distilled from deep-underground fungi, the favored poison of the [[rangoric-srd/monsters/Dark Creeper|dark creeper]] and the [[rangoric-srd/monsters/Dark Stalker|dark stalker]].
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is a foul-smelling black paste distilled from deep-underground fungi, the favored poison of the [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creeper]] and the [[rangoric-srd/monsters/dark-folk/Dark Stalker|dark stalker]].
 
 - **Type**: poison, injury
 - **Save**: Fortitude DC 15

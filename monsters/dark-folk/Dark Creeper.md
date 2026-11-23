@@ -28,6 +28,7 @@ treasure: "Standard (dagger, black poison [3 doses], other gear)"
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/dark-folk/Dark Folk|Dark Folk]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dark Creeper|Dark Creeper (PF1)]]"
@@ -66,7 +67,7 @@ Dark creepers lurk in the black places deep below the surface of the world, vent
 
 Dark creepers stand just under 4 feet tall and weigh 80 pounds. Their flesh is pale and moist, and their eyes are milky white. Dark creepers exude a foul stench of sweat and spoiled food, owing primarily to the fact that they never take off their clothing—instead piling on new layers when the outermost one grows too ragged.
 
-For all the mayhem and trouble a pack of dark creepers can cause, this is nothing compared to the dangers a tribe led by the taller, even more sinister [[rangoric-srd/monsters/Dark Stalker|dark stalkers]] represents. Dark creepers treat their tall, lithe masters almost like gods, presenting them with offerings and obeying their every whim. Invariably, several dark stalkers serve as leaders to dark creeper tribes, with all of the tribe's heavy work and labor falling on the diminutive shoulders of the creepers, freeing the dark stalkers for their own decadent pleasures. Yet the dark creepers themselves see no inherent imbalance in this arrangement—to a dark creeper, a life in the servitude of a dark stalker is a life fulfilled.
+For all the mayhem and trouble a pack of dark creepers can cause, this is nothing compared to the dangers a tribe led by the taller, even more sinister [[rangoric-srd/monsters/dark-folk/Dark Stalker|dark stalkers]] represents. Dark creepers treat their tall, lithe masters almost like gods, presenting them with offerings and obeying their every whim. Invariably, several dark stalkers serve as leaders to dark creeper tribes, with all of the tribe's heavy work and labor falling on the diminutive shoulders of the creepers, freeing the dark stalkers for their own decadent pleasures. Yet the dark creepers themselves see no inherent imbalance in this arrangement—to a dark creeper, a life in the servitude of a dark stalker is a life fulfilled.
 
 Dark creepers speak Dark Folk.
 

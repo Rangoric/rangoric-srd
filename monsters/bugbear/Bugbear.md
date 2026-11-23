@@ -72,6 +72,7 @@ tags: [rangoric, rangoric/monster]
   - Bugbear Sneaks: [[rangoric-srd/monsters/bugbear/Bugbear Lurker|Bugbear Lurker]] (CR 8), [[rangoric-srd/monsters/bugbear/Bugbear Shadow Sneak|Bugbear Shadow Sneak]] (CR 10)
   - Bugbear Bloodmage: [[rangoric-srd/monsters/bugbear/Bugbear Bloodmage|Bugbear Bloodmage]] (CR 11)
   - Bugbear Tyrant: [[rangoric-srd/monsters/bugbear/Bugbear Tyrant|Bugbear Tyrant]] (CR 13)
+  - [[rangoric-srd/monsters/bugbear/Wikkawak|Wikkawak]] (CR 4)
 
 The bugbear is the largest of the goblinoid races, a lumbering brute that stands at least a head taller than most humans. They are loners, preferring to live and kill on their own rather than form tribes of their own kind, yet it isn't uncommon to find small bands of bugbears working together, or dwelling in goblin or hobgoblin tribes where they function as elite guards or executioners. Bugbears do not form large warrens like goblins or nations like hobgoblins; they prefer smaller-scale mayhem that lets them keep their favorite acts (murder and torture) on a more personal level. Humans are a bugbear's favored prey, and most count the flesh of humanity as a dietary staple. Grisly trophies of ears or fingers are common bugbear decorations.
 

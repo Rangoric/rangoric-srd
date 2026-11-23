@@ -45,6 +45,8 @@ tags: [rangoric, rangoric/overview]
 
 **Alternate Form (Su)**: See [[rangoric-srd/monsters/abilities/Alternate Form|alternate form]]. ^alternate-form
 
+**Adlet Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Adlet|adlets]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^adlet
+
 **Agathion Subtype**: Agathions are beast-aspect [[#^outsider|outsiders]] native to the neutral good-aligned Outer Planes. ^agathion
 
 *Traits*: An agathion has the following traits (unless otherwise noted in a creature's entry).
@@ -264,7 +266,7 @@ tags: [rangoric, rangoric/overview]
 
   - Except where otherwise noted, dark folk speak Dark Folk.
 
-The [[rangoric-srd/monsters/Dark Creeper|dark creeper]] and [[rangoric-srd/monsters/Dark Stalker|dark stalker]] are dark folk.
+The [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creeper]] and [[rangoric-srd/monsters/dark-folk/Dark Stalker|dark stalker]] are dark folk.
 
 **Demon Subtype**: Demons are chaotic evil [[#^outsider|outsiders]] native to the chaotic evil-aligned Outer Planes. ^demon
 
@@ -463,6 +465,8 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
   - *Regeneration (Ex)*: Inevitables have [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] (chaotic). The regeneration amount varies by the type of inevitable.
 
   - *Truespeech (Su)*: An inevitable can speak with any creature that has a language, as if using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level 14th). This ability is always active.
+
+**Kasatha Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Kasatha|kasathas]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kasatha
 
 **Kitsune Subtype**: A humanoid subtype for [[rangoric-srd/races/Kitsune|kitsune]], who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
 
@@ -734,6 +738,8 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
 A stat block worked out under the older type rules keeps the numbers it was worked out with (Hit Dice, base attack, saves, feats and skill points).
 
+**Sasquatch Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Sasquatch|sasquatches]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^sasquatch
+
 **Scent (Ex)**: See [[rangoric-srd/monsters/abilities/Scent|scent]]. ^scent
 
 **Shapechanger Subtype**: A shapechanger has the supernatural ability to assume one or more alternate forms. Many magical effects allow some kind of shape shifting, and not every creature that can change shapes has the shapechanger subtype. ^shapechanger
@@ -743,6 +749,8 @@ A stat block worked out under the older type rules keeps the numbers it was work
   - Proficient with its natural weapons, with simple weapons, and with any weapons mentioned in the creature’s description.
 
   - Proficient with any armor mentioned in the creature’s description, as well as all lighter forms. If no form of armor is mentioned, the shapechanger is not proficient with armor. A shapechanger is proficient with shields if it is proficient with any type of armor.
+
+**Skulk Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Skulk|skulks]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^skulk
 
 **Sonic Attacks (Su)**: See [[rangoric-srd/monsters/abilities/Sonic Attacks|sonic attacks]]. ^sonic-attacks
 

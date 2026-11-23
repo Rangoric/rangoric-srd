@@ -71,6 +71,7 @@ tags: [rangoric, rangoric/monster]
   - Gnoll War Leaders: [[rangoric-srd/monsters/gnoll/Gnoll Sergeant|Gnoll Sergeant]] (CR 4), [[rangoric-srd/monsters/gnoll/Gnoll Lieutenant|Gnoll Lieutenant]] (CR 6)
   - Gnoll Devotees: [[rangoric-srd/monsters/gnoll/Gnoll Devotee|Gnoll Devotee]] (CR 5), [[rangoric-srd/monsters/gnoll/Gnoll Ravager|Gnoll Ravager]] (CR 11), [[rangoric-srd/monsters/gnoll/Gnoll Cleric|Gnoll Cleric]] (CR 12)
   - Gnoll Bouda: [[rangoric-srd/monsters/gnoll/Gnoll Bouda|Gnoll Bouda]] (CR 13)
+  - [[rangoric-srd/monsters/gnoll/Flind|Flind]] (CR 3)
 
 Gnolls are a race of hulking, humanoids that resemble hyenas in more than mere appearance; they show a striking affinity with the scavenging animals, to the point of keeping them as pets, and reflect many of the lesser creatures' behaviors.
 

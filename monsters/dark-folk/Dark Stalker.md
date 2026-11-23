@@ -28,6 +28,7 @@ treasure: "NPC gear (leather armor, short swords [2], black smear [6], other tre
 alignment: "Usually chaotic neutral"
 advancement: "—"
 level-adjustment: "—"
+group: "[[rangoric-srd/monsters/dark-folk/Dark Folk|Dark Folk]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Dark Stalker|Dark Stalker (PF1)]]"
@@ -78,6 +79,6 @@ Dark stalkers speak Dark Folk and Undercommon.
 
 **Death Throes (Su)**: When a dark stalker is slain, its body combusts in a flash of white-hot flame. This acts like a *[[rangoric-srd/spells/Fireball|fireball]]* that deals 3d6 points of fire damage to all creatures within a 20-foot-radius burst. A DC 15 Reflex save halves this damage. A dark stalker's gear and treasure are unaffected by this explosion. This save is Constitution-based.
 
-**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Dark stalkers are skilled in the use of poison and never risk accidentally poisoning themselves. Like their diminutive kin, the [[rangoric-srd/monsters/Dark Creeper|dark creepers]], dark stalkers use black poison on their weapons and generally carry six doses on them. The poison DC is Constitution-based. [[rangoric-srd/rules/afflictions/Black Smear|Black Smear]]: Weapon—injury; *save* Fort DC 15; *frequency* 1/round for 6 rounds; *effect* 1d2 Str; *cure* 1 save.
+**[[rangoric-srd/races/racial-traits/Poison Use|Poison Use]] (Ex)**: Dark stalkers are skilled in the use of poison and never risk accidentally poisoning themselves. Like their diminutive kin, the [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creepers]], dark stalkers use black poison on their weapons and generally carry six doses on them. The poison DC is Constitution-based. [[rangoric-srd/rules/afflictions/Black Smear|Black Smear]]: Weapon—injury; *save* Fort DC 15; *frequency* 1/round for 6 rounds; *effect* 1d2 Str; *cure* 1 save.
 
 **See in Darkness (Su)**: A dark stalker can see perfectly in darkness of any kind, including that created by deeper darkness.
