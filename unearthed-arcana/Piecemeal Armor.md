@@ -154,12 +154,12 @@ The following pieces of armor make up the piecemeal armor system, and are split 
 | *Heavy armor* | | | | | | | | |
 | [[rangoric-srd/equipment/armor/Agile Half-Plate\|Agile plate]] | 425 gp | +1 | +0 | –7 | 40% | 30 ft. | 20 ft. | 5 lbs. |
 | [[rangoric-srd/equipment/armor/Banded Mail\|Banded]] | 50 gp | +1 | +1 | –3 | 35% | 30 ft. | 20 ft. | 5 lbs. |
-| Kusari gusoku | 50 gp | +1 | +1 | –3 | 35% | 30 ft. | 20 ft. | 5 lbs. |
+| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]] | 50 gp | +1 | +1 | –3 | 35% | 30 ft. | 20 ft. | 5 lbs. |
 | [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]] | 50 gp | +1 | +0 | –4 | 40% | 30 ft. | 20 ft. | 10 lbs. |
-| O-yoroi | 250 gp | +1 | +2 | –5 | 35% | 30 ft. | 20 ft. | 5 lbs. |
+| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]] | 250 gp | +1 | +2 | –5 | 35% | 30 ft. | 20 ft. | 5 lbs. |
 | [[rangoric-srd/equipment/armor/Full Plate\|Plate]] | 375 gp | +1 | +1 | –7 | 35% | 30 ft. | 20 ft. | 10 lbs. |
 | [[rangoric-srd/equipment/armor/Splint Mail\|Splint]] | 50 gp | +1 | +0 | –4 | 40% | 30 ft. | 20 ft. | 5 lbs. |
-| Tatami-do | 100 gp | +1 | +3 | –5 | 35% | 30 ft. | 20 ft. | 5 lbs. |
+| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]] | 100 gp | +1 | +3 | –5 | 35% | 30 ft. | 20 ft. | 5 lbs. |
 
 1 *Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much.*
 
@@ -230,12 +230,12 @@ With the smallest area to protect, arm armor pieces tend to have the lowest armo
 | [[rangoric-srd/equipment/armor/Scale Mail\|Scale]] | 10 gp | +1 | +3 | –2 | 15% | 30 ft. | 20 ft. | 10 lbs. |
 | *Heavy armor* | | | | | | | | |
 | [[rangoric-srd/equipment/armor/Banded Mail\|Banded]] | 50 gp | +1 | +1 | –3 | 15% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
-| Kusari gusoku | 100 gp | +1 | +1 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
+| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]] | 100 gp | +1 | +1 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
 | [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]] | 50 gp | +1 | +1 | –4 | 20% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
 | [[rangoric-srd/equipment/armor/Full Plate\|Plate]] | 925 gp | +1 | +1 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 10 lbs. |
 | [[rangoric-srd/equipment/armor/Splint Mail\|Splint]] | 50 gp | +1 | +0 | –4 | 20% | 20 ft. (2) | 15 ft. (2) | 15 lbs. |
-| Tatami-do | 150 gp | +1 | +3 | –3 | 15% | 20 ft. (2) | 15 ft. (2) | 5 lbs. |
-| O-yoroi | 300 gp | +2 | +2 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 5 lbs. |
+| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]] | 150 gp | +1 | +3 | –3 | 15% | 20 ft. (2) | 15 ft. (2) | 5 lbs. |
+| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]] | 300 gp | +2 | +2 | –3 | 20% | 20 ft. (2) | 15 ft. (2) | 5 lbs. |
 
 1 *Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much.*
 
@@ -292,12 +292,12 @@ Heavier leg armor pieces slow down their wearers and provide higher armor check 
 | *Light armor* | | | | | | | | |
 | [[rangoric-srd/equipment/armor/Padded Armor\|Padded]] | 3 gp | +0 | +8 | 0 | 5% | 30 ft. | 20 ft. | 5 lbs. |
 | [[rangoric-srd/equipment/armor/Quilted Cloth Armor\|Quilted cloth]] | 50 gp | +0 | +8 | 0 | 10% | 30 ft. | 20 ft. | 10 lbs. |
-| Haramaki | 3 gp | +1 | +10 | 0 | 0% | 30 ft. | 20 ft. | 1 lb. |
+| [[rangoric-srd/equipment/armor/Haramaki\|Haramaki]] | 3 gp | +1 | +10 | 0 | 0% | 30 ft. | 20 ft. | 1 lb. |
 | [[rangoric-srd/equipment/armor/Leather Armor\|Leather]] | 5 gp | +1 | +6 | 0 | 10% | 30 ft. | 20 ft. | 10 lbs. |
 | [[rangoric-srd/equipment/armor/Silken Ceremonial Armor\|Silken ceremonial armor]] | 30 gp | +1 | +10 | 0 | 0% | 30 ft. | 20 ft. | 4 lbs. |
 | [[rangoric-srd/equipment/armor/Studded Leather\|Studded leather]] | 15 gp | +1 | +5 | 0 | 15% | 30 ft. | 20 ft. | 15 lbs. |
 | [[rangoric-srd/equipment/armor/Wooden Armor\|Wooden]] | 10 gp | +1 | +3 | –1 | 15% | 30 ft. | 20 ft. | 15 lbs. |
-| Lamellar cuirass | 15 gp | +2 | +4 | 0 | 5% | 30 ft. | 20 ft. | 8 lbs. |
+| [[rangoric-srd/equipment/armor/Lamellar Cuirass\|Lamellar cuirass]] | 15 gp | +2 | +4 | 0 | 5% | 30 ft. | 20 ft. | 8 lbs. |
 | [[rangoric-srd/equipment/armor/Lamellar, Leather\|Lamellar, leather]] | 30 gp | +2 | +3 | –2 | 20% | 30 ft. | 20 ft. | 10 lbs. |
 | *Medium armor* | | | | | | | | |
 | [[rangoric-srd/equipment/armor/Lamellar, Steel\|Lamellar, steel]] | 100 gp | +1 | +3 | –5 | 25% | 20 ft. | 15 ft. | 25 lbs. |
@@ -308,18 +308,18 @@ Heavier leg armor pieces slow down their wearers and provide higher armor check 
 | [[rangoric-srd/equipment/armor/Mountain Pattern Armor\|Mountain pattern]] | 150 gp | +3 | +3 | –4 | 30% | 20 ft. | 15 ft. | 20 lbs. |
 | [[rangoric-srd/equipment/armor/Armored Coat\|Armored coat]] | 50 gp | +4 | +3 | –2 | 20% | 20 ft. | 15 ft. | 20 lbs. |
 | [[rangoric-srd/equipment/armor/Chainmail\|Chain]] (3) | 100 gp | +4 | +4 | –2 | 30% | 30 ft. | 20 ft. | 25 lbs. |
-| Do-maru | 200 gp | +5 | +4 | –4 | 25% | 20 ft. | 15 ft. | 30 lbs. |
+| [[rangoric-srd/equipment/armor/Do-Maru\|Do-maru]] | 200 gp | +5 | +4 | –4 | 25% | 20 ft. | 15 ft. | 30 lbs. |
 | [[rangoric-srd/equipment/armor/Four-Mirror Armor\|Four-mirror armor]] | 20 gp | +5 | +4 | –5 | 30% | 20 ft. | 15 ft. | 40 lbs. |
 | *Heavy armor* | | | | | | | | |
 | [[rangoric-srd/equipment/armor/Banded Mail\|Banded]] | 150 gp | +4 | +1 | –2 | 35% | 20 ft. (2) | 15 ft. (2) | 20 lbs. |
-| Kusari gusoku | 200 gp | +4 | +1 | –7 | 35% | 20 ft. (2) | 15 ft. (2) | 20 lbs. |
+| [[rangoric-srd/equipment/armor/Kusari Gusoku\|Kusari gusoku]] | 200 gp | +4 | +1 | –7 | 35% | 20 ft. (2) | 15 ft. (2) | 20 lbs. |
 | [[rangoric-srd/equipment/armor/Lamellar, Iron\|Lamellar, iron]] | 100 gp | +4 | 0 | –7 | 40% | 20 ft. (2) | 15 ft. (2) | 15 lbs. |
 | [[rangoric-srd/equipment/armor/Splint Mail\|Splint]] | 100 gp | +4 | +0 | –3 | 40% | 20 ft. (2) | 15 ft. (2) | 25 lbs. |
-| Tatami-do | 500 gp | +4 | +4 | –6 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
-| O-yoroi | 750 gp | +5 | +2 | –6 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
+| [[rangoric-srd/equipment/armor/Tatami-Do\|Tatami-do]] | 500 gp | +4 | +4 | –6 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
+| [[rangoric-srd/equipment/armor/O-Yoroi\|O-yoroi]] | 750 gp | +5 | +2 | –6 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
 | [[rangoric-srd/equipment/armor/Agile Half-Plate\|Agile plate]] (3) | 400 gp | +6 | +3 | –4 | 25% | 20 ft. | 15 ft. | 25 lbs. |
 | [[rangoric-srd/equipment/armor/Full Plate\|Plate]] (3) | 200 gp | +6 | +3 | –4 | 35% | 20 ft. (2) | 15 ft. (2) | 30 lbs. |
-| Stone coat | 500 gp | +8 | 0 | –7 | 40% | 20 ft. (2) | 15 ft. (2) | 45 lbs. |
+| [[rangoric-srd/equipment/armor/Stone Coat\|Stone coat]] | 500 gp | +8 | 0 | –7 | 40% | 20 ft. (2) | 15 ft. (2) | 45 lbs. |
 
 1 *Weight figures are for armor pieces sized to fit Medium characters. Armor pieces fitted for Small characters weigh half as much, and armor pieces fitted for Large characters weigh twice as much.*
 
