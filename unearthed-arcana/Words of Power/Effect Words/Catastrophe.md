@@ -1,0 +1,32 @@
+---
+srd-type: "word-of-power"
+section: "Unearthed Arcana"
+word-type: "effect"
+word-group: "Destruction"
+school: "evocation [air]"
+book: "Ultimate Magic"
+based-on:
+  - "[[path srd 3.5/rules/ultimate-magic/words-of-power/Effect Words#Catastrophe|Catastrophe (PF1 Ultimate Magic)]]"
+status: draft
+change: new
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/word-of-power]
+---
+
+# Catastrophe
+
+*One of the effect words ([[rangoric-srd/unearthed-arcana/Words of Power/Effect Words#Destruction Words|Destruction group]]) of the [[rangoric-srd/unearthed-arcana/Words of Power/Words of Power|words of power]].*
+
+**School** evocation \[air\]
+
+**Level** cleric 9, druid 9, witch 9
+
+**Duration** 1 round/level
+
+**Saving Throw** see text
+
+**Spell Resistance** no
+
+**Target Restrictions** burst (emanation)
+
+This effect word causes heavy clouds to form in the sky above the area of wordspell with this effect word. The area is pelted by heavy rain and hail, obscuring vision and making ranged attacks impossible. Melee attacks take a 20% miss chance. Creatures in the area take 4d6 points of damage from pounding hail at the start of their turn. In addition, the caster can call down a bolt of lightning once per turn that deals 1d6 points of electricity damage per caster level. The caster can split this bolt to hit as many targets as she likes and can divide the damage dice up among the targets as she sees fit. The targets receive a Reflex save to halve the damage. Targets that fail are also knocked prone by the force of the blast. The ground in the area of a wordspell with this effect word is considered difficult terrain for the duration, but not for the caster.
