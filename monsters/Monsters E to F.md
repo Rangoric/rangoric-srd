@@ -15,6 +15,7 @@ tags: [rangoric, rangoric/overview]
 
   - [[rangoric-srd/monsters/Eagle, Giant|Eagle, Giant]]
   - [[rangoric-srd/monsters/Ecorche|Ecorche]]
+  - [[rangoric-srd/monsters/Ectoplasmic Creature|Ectoplasmic Creature]]
   - [[rangoric-srd/monsters/Electric Eel|Electric Eel]]
   - [[rangoric-srd/monsters/elemental/Elemental|Elemental]]
   - [[rangoric-srd/monsters/Elf|Elf]]

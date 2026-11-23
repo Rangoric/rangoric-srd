@@ -103,4 +103,7 @@ A skeleton is seldom garbed in anything more than the rotting remnants of any cl
   - [[rangoric-srd/monsters/skeleton/Advanced Megaraptor Skeleton|Advanced Megaraptor Skeleton]]
   - [[rangoric-srd/monsters/skeleton/Cloud Giant Skeleton|Cloud Giant Skeleton]]
   - [[rangoric-srd/monsters/skeleton/Young Adult Red Dragon Skeleton|Young Adult Red Dragon Skeleton]]
+  - [[rangoric-srd/monsters/skeleton/Alternate Skeleton|Alternate Skeleton]]
+  - [[rangoric-srd/monsters/skeleton/Human Skeleton|Human Skeleton]]
+  - [[rangoric-srd/monsters/skeleton/Skeletal Champion|Skeletal Champion]]
 

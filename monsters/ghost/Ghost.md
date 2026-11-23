@@ -84,3 +84,7 @@ A ghost has two home planes, the Material Plane and the Ethereal Plane. It is no
 When a ghost forms, all its equipment and carried items usually become ethereal along with it. In addition, the ghost retains 2d4 items that it particularly valued in life (provided they are not in another creature’s possession). The equipment works normally on the Ethereal Plane but passes harmlessly through material objects or creatures. A weapon of +1 or better magical enhancement, however, can harm material creatures when the ghost manifests, but any such attack has a 50% chance to fail unless the weapon is a ghost touch weapon (just as magic weapons can fail to harm the ghost).
 
 The original material items remain behind, just as the ghost’s physical remains do. If another creature seizes the original, the ethereal copy fades away. This loss invariably angers the ghost, who stops at nothing to return the item to its original resting place.
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/ghost/Alternate Ghost|Alternate Ghost]]. Also in this folder:
+
+  - [[rangoric-srd/monsters/ghost/Alternate Ghost|Alternate Ghost]]

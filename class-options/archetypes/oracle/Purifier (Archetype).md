@@ -37,7 +37,7 @@ The purifier seeks out signs of possession or mind control that manifest from un
 
 *Sin Eater (Su)*: At 11th level, a purifier can consume a curse, enchantment, or emotion effect by touch as a full-round action. She can do this a number of times per day equal to her Charisma modifier, and must make a Charisma check with a bonus equal to her oracle level against a DC of 11 + the caster level of the effect (or the Hit Dice of the creator for a supernatural effect). If the check succeeds, the effect is negated; however, the purifier is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 rounds.
 
-If the target is possessed (such as by a *[[rangoric-srd/spells/Magic Jar|magic jar]]* effect or a [[rangoric-srd/monsters/Ghost|ghost]]'s malevolence ability), the possessor is forced out on a successful check. Whether the check succeeds or fails, the possessor is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 2d4 rounds.
+If the target is possessed (such as by a *[[rangoric-srd/spells/Magic Jar|magic jar]]* effect or a [[rangoric-srd/monsters/ghost/Ghost|ghost]]'s malevolence ability), the possessor is forced out on a successful check. Whether the check succeeds or fails, the possessor is [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 2d4 rounds.
 
 **Sacred Scourge (Su)**: At 5th level, a purifier may channel holy power to harm evil outsiders as a [[rangoric-srd/classes/Cleric#^cleric-channel-energy|cleric]] of her level using the [[rangoric-srd/feats/Alignment Channel|Alignment Channel]] feat. She may use this ability a number of times per day equal to 1 + her Charisma modifier.
 

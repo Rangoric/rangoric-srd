@@ -55,7 +55,7 @@ A vampire uses all the base creature’s statistics and special abilities except
 
 *Dominate (Su)*: A vampire can crush an opponent’s will just by looking onto his or her eyes. This is similar to a [[rangoric-srd/monsters/abilities/Gaze|gaze]] attack, except that the vampire must use a standard action, and those merely looking at it are not affected. Anyone the vampire targets must succeed on a Will save or fall instantly under the vampire’s influence as though by a [[rangoric-srd/spells/Dominate Person|dominate person]] spell (caster level 12th). The ability has a range of 30 feet.
 
-*Create Spawn (Su)*: A [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]] slain by a vampire’s energy drain rises as a vampire spawn (see the [[rangoric-srd/monsters/Vampire Spawn|Vampire Spawn]] entry) 1d4 days after burial.
+*Create Spawn (Su)*: A [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoid]] or [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^monstrous-humanoid|monstrous humanoid]] slain by a vampire’s energy drain rises as a vampire spawn (see the [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]] entry) 1d4 days after burial.
 
 If the vampire instead drains the victim’s Constitution to 0 or lower, the victim returns as a spawn if it had 4 or less HD and as a vampire if it had 5 or more HD. In either case, the new vampire or spawn is under the command of the vampire that created it and remains enslaved until its master’s destruction. At any given time a vampire may have enslaved spawn totaling no more than twice its own Hit Dice; any spawn it creates that would exceed this limit are created as free-willed vampires or vampire spawn. A vampire that is enslaved may create and enslave spawn of its own, so a master vampire can control a number of lesser vampires in this fashion. A vampire may voluntarily free an enslaved spawn in order to enslave a new spawn, but once freed, a vampire or vampire spawn cannot be enslaved again.
 
@@ -120,3 +120,20 @@ Vampires are always evil, which causes characters of certain classes to lose som
 A vampire cleric has access to two of the following domains: [[rangoric-srd/class-options/domains/Chaos Domain|Chaos]], [[rangoric-srd/class-options/domains/Destruction Domain|Destruction]], [[rangoric-srd/class-options/domains/Evil Domain|Evil]], or [[rangoric-srd/class-options/domains/Trickery Domain|Trickery]].
 
 **Sorcerers and Wizards**: Vampire sorcerers and wizards retain their class abilities, but if a character has a familiar other than a [[rangoric-srd/monsters/Rat|rat]] or [[rangoric-srd/monsters/Bat|bat]], the link between them is broken, and the familiar shuns its former companion. The character can summon another familiar, but it must be a rat or bat.
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]. Also in this folder:
+
+  - [[rangoric-srd/monsters/vampire/Vampire Spawn|Vampire Spawn]]
+  - [[rangoric-srd/monsters/vampire/Alternate Vampire|Alternate Vampire]]
+  - [[rangoric-srd/monsters/vampire/Alternate Vampire Spawn|Alternate Vampire Spawn]]
+  - [[rangoric-srd/monsters/vampire/Jiang-Shi|Jiang-Shi]]
+  - [[rangoric-srd/monsters/vampire/Nosferatu|Nosferatu]]
+  - [[rangoric-srd/monsters/vampire/Vampire Seducer|Vampire Seducer]]
+  - [[rangoric-srd/monsters/vampire/Vampire Warrior|Vampire Warrior]]
+  - [[rangoric-srd/monsters/vampire/Vampire Savage|Vampire Savage]]
+  - [[rangoric-srd/monsters/vampire/Enlightened Vampire|Enlightened Vampire]]
+  - [[rangoric-srd/monsters/vampire/Vampire Lord|Vampire Lord]]
+  - [[rangoric-srd/monsters/vampire/Coffin Guard|Coffin Guard]]
+  - [[rangoric-srd/monsters/vampire/Weird Butler|Weird Butler]]
+  - [[rangoric-srd/monsters/vampire/Addle-Minded|Addle-Minded]]
+  - [[rangoric-srd/monsters/vampire/Repeatedly Drained|Repeatedly Drained]]

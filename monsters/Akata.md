@@ -75,6 +75,6 @@ Akatas hail from a strange, distant planet that long ago succumbed to a cataclys
 
 **[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Void Death|Void Death]]: Bite—injury; *save* Fort DC 12; *onset* 1 hour; *frequency* 1/day; *effect* 1d2 Dex damage and 1d2 Con damage; an infected creature who dies rises as a void zombie 2d4 hours later (see below); *cure* 2 consecutive saves.
 
-**Void Zombie (CR +1)**: A humanoid killed by [[rangoric-srd/rules/afflictions/Void Death|void death]] becomes a void zombie. A void zombie is a fast zombie that gains a secondary “tongue” attack (actually the larval akata's feeding tendril), dealing 1d6 points of damage. A void zombie also gains the following special attack.
+**Void Zombie (CR +1)**: A humanoid killed by [[rangoric-srd/rules/afflictions/Void Death|void death]] becomes a void zombie. A void zombie is a [[rangoric-srd/monsters/zombie/Alternate Zombie#Fast Zombie|fast zombie]] that gains a secondary “tongue” attack (actually the larval akata's feeding tendril), dealing 1d6 points of damage. A void zombie also gains the following special attack.
 
 **[[rangoric-srd/monsters/abilities/Blood Drain|Blood Drain]] (Ex)**: If a void zombie hits a living creature with its tongue attack, it drains blood, dealing 2 points of Strength damage before the tongue detaches.
