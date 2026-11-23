@@ -16,4 +16,4 @@ tags: [rangoric, rangoric/class-bonus]
 
 *An [[rangoric-srd/races/Aasimar|aasimar]] [[rangoric-srd/races/PC Races#^class-bonuses|class bonus]], gained for each [[rangoric-srd/classes/Oracle#^oracle-class-bonuses|oracle]] level.*
 
-Add +1/2 to the oracle's level for the purpose of determining the effects of one [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]].
+Add +1/6 to the oracle's level for the purpose of determining the effects of one [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]].
