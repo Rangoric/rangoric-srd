@@ -11,7 +11,7 @@ based-on:
   - "[[path srd 3.5 foundry/rules/rules/magic/magic-basics/Undercasting Spells|Undercasting Spells (PF1 Foundry)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-23
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -369,3 +369,5 @@ The terms “object” and “harmless” mean the same thing for spell resistan
 ##### Descriptive Text
 
 This portion of a spell description details what the spell does and how it works. If one of the previous entries in the description included “see text,” this is where the explanation is found.
+
+For advice on designing a new spell, see [[rangoric-srd/design-notes/Designing Spells|Designing Spells]].

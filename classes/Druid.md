@@ -11,7 +11,7 @@ based-on:
   - "[[path srd 3.5 foundry/companion-features/Share Spells (Companion Feature, Advanced Player's Guide)|Share Spells (PF1 Foundry)]]"
 status: draft
 change: modified
-pi-review: 2026-11-06
+pi-review: 2026-11-23
 tags: [rangoric, rangoric/class]
 ---
 
@@ -98,7 +98,7 @@ A 1st-level druid’s companion is completely typical for its kind except as not
 
 A druid of 4th level or higher may select from alternative lists of animals (see below). Should she select an animal companion from one of these alternative lists, the creature gains abilities as if the character’s druid level were lower than it actually is. Subtract the value indicated in the appropriate list header from the character’s druid level and compare the result with the druid level entry on the table to determine the animal companion’s powers. (If this adjustment would reduce the druid’s effective level to 0 or lower, she can’t have that animal as a companion.)
 
-Instead of a base creature from these lists, a druid can choose one of the [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companions]] that have stat blocks of their own, which come with their own advancement. ^druid-pathfinder-companions
+Instead of a base creature from these lists, a druid can choose one of the [[rangoric-srd/class-options/animal-companions/Animal Companions|animal companions]] that have stat blocks of their own, which come with their own advancement. A druid who would rather not have a traditional animal companion can choose a [[rangoric-srd/class-options/animal-companions/Animal Companions#Vermin Companions|vermin companion]] instead. ^druid-pathfinder-companions
 
 **Nature Sense (Ex)**: A druid gains a +2 bonus on Nature and Fieldcraft checks. ^druid-nature-sense
 

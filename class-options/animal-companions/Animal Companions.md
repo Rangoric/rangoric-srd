@@ -4,10 +4,12 @@ section: "Class Options"
 based-on:
   - "[[path srd 3.5/classes/Druid#Animal Choices|Animal Choices (PF1)]]"
   - "[[path srd 3.5/classes/Druid#Animal Companions|Animal Companions (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-magic/spellcasting-class-options/Druid (Spellcasting Class Options)#Vermin Companions|Vermin Companions (PF1 Ultimate Magic)]]"
 status: draft
 change: new
-pi-review: 2026-11-21
+pi-review: 2026-11-23
 tags: [rangoric, rangoric/overview]
+book: "Ultimate Magic"
 ---
 
 # Animal Companions
@@ -28,6 +30,14 @@ Each animal companion has a different starting size, speed, attack, ability scor
 - **Reptiles and snakes**: [[rangoric-srd/class-options/animal-companions/Crocodile (Animal Companion)|Crocodile]], [[rangoric-srd/class-options/animal-companions/Snake, Constrictor (Animal Companion)|Constrictor snake]], [[rangoric-srd/class-options/animal-companions/Snake, Viper (Animal Companion)|Viper snake]].
 - **Air and water**: [[rangoric-srd/class-options/animal-companions/Bird (Animal Companion)|Bird]], [[rangoric-srd/class-options/animal-companions/Shark (Animal Companion)|Shark]].
 - **Vermin**: [[rangoric-srd/class-options/animal-companions/Ant, Giant (Animal Companion)|Giant ant]], [[rangoric-srd/class-options/animal-companions/Beetle, Giant (Animal Companion)|Giant beetle]], [[rangoric-srd/class-options/animal-companions/Centipede, Giant (Animal Companion)|Giant centipede]], [[rangoric-srd/class-options/animal-companions/Crab, Giant (Animal Companion)|Giant crab]], [[rangoric-srd/class-options/animal-companions/Leech, Giant (Animal Companion)|Giant leech]], [[rangoric-srd/class-options/animal-companions/Mantis, Giant (Animal Companion)|Giant mantis]], [[rangoric-srd/class-options/animal-companions/Scorpion, Giant (Animal Companion)|Giant scorpion]], [[rangoric-srd/class-options/animal-companions/Slug, Giant (Animal Companion)|Giant slug]], [[rangoric-srd/class-options/animal-companions/Spider, Giant (Animal Companion)|Giant spider]], [[rangoric-srd/class-options/animal-companions/Wasp, Giant (Animal Companion)|Giant wasp]].
+
+## Vermin Companions
+
+In addition to the normal choices of animal companions, a druid who is so inclined may select a vermin as her companion. Vermin companions follow the same rules as animal companions, advancing their Hit Dice and other abilities per the [[rangoric-srd/classes/Druid#The Druid’s Animal Companion|animal companion base statistics table]]. Vermin companions can be trained as if they were animals using the [[rangoric-srd/skills/Animal Handling|Animal Handling]] skill.
+
+**Mindless**: Vermin companions have no Intelligence score and possess the mindless trait. In spite of this, vermin companions may learn one trick, plus additional bonus tricks. If a vermin animal companion gains an ability score increase (at 4 Hit Dice, 8 Hit Dice, and so on), the druid can apply this increase to the companion's Intelligence, changing it from — to 1, at which point the companion loses the mindless quality and is able to know up to 3 tricks per point of Intelligence, plus the additional bonus tricks. Vermin companions have no skill points or feats as long as they have the mindless quality.
+
+**Trip**: Because many vermin have multiple limbs, they are very difficult to trip. As a result, a CMD entry has been included for each, indicating the bonus to CMD such vermin receive against trip attacks.
 
 ![[rangoric-srd/class-options/animal-companions/Animal Companions Index.base]]
 
