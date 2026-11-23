@@ -717,3 +717,5 @@ There’s an obvious way for characters to compensate for the diminished flexibi
 One less obvious change posed by this variant is that lower-level spells retain more importance for high-level spellcasters. With the general recharge rules, even the most potent spellcaster can’t use her best spells more than two or three times in a major fight. Spells two, three, or four levels below the maximum get cast while the spellcaster waits for the heavy artillery to get reloaded.
 
 As the GM, you have to contend with other subtle changes wrought by this variant. Monsters with spell-like abilities usable at will are diminished somewhat, because true spellcasters can cast spells so frequently. Monsters with spell-like abilities aren’t actually weaker — and their Challenge Ratings needn’t go down as a result — but they feel less special and more like spellcasters with a static spell list.
+
+For recharging wands and other charged items, see [[rangoric-srd/unearthed-arcana/Campaign Systems/Magic Item Creation#Recharging Charged Items|Recharging Charged Items]].
