@@ -462,11 +462,11 @@ More rods, grouped by who can use them: rods any wielder can use, by price, then
 | For | Rod | Price |
 | --- | --- | --- |
 | Dwarves | [[rangoric-srd/magic-items/rods/Rod of Dwarven Might\|Rod of Dwarven Might]] | 80,000 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Grasping Hexes\|Rod of Grasping Hexes]] | 3,000 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Interminable Hexes\|Rod of Interminable Hexes]] | 3,000 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Potent Hexes\|Rod of Potent Hexes]] | 9,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Grasping Hexes\|Rod of Grasping Hexes]] | 11,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Interminable Hexes\|Rod of Interminable Hexes]] | 11,000 gp |
 | Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Voracious Hexes\|Rod of Voracious Hexes]] | 32,500 gp |
-| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Abrupt Hexes\|Rod of Abrupt Hexes]] | 35,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Potent Hexes\|Rod of Potent Hexes]] | 54,000 gp |
+| Hexes (witch, shaman) | [[rangoric-srd/magic-items/rods/Rod of Abrupt Hexes\|Rod of Abrupt Hexes]] | 75,500 gp |
 | Kineticist | [[rangoric-srd/magic-items/rods/Overflowing Rod\|Overflowing Rod]] | 25,000 gp |
 | Kineticist | [[rangoric-srd/magic-items/rods/Hollow Rod\|Hollow Rod]] | 121,500 gp |
 | Occultist | [[rangoric-srd/magic-items/rods/Refocusing Rod\|Refocusing Rod]] | 5,000 gp |

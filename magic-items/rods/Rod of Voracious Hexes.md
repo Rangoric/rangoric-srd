@@ -19,6 +19,6 @@ tags: [rangoric, rangoric/magic-item]
 
 # Rod of Voracious Hexes
 
-Three times per day when a wielder of this rod uses a [[rangoric-srd/classes/Witch#^witch-hex|hex]] (but not an advanced hex or grand hex), she can use this rod's power to target not only the hex's normal target, but also another target within 30 feet of the first. The hex must normally target a single creature within a range of at least 30 feet.
+Three times per day when a wielder of this rod uses a [[rangoric-srd/classes/Witch#^witch-hex|hex]] (but not a major hex or a grand hex), she can use this rod's power to target not only the hex's normal target, but also another target within 30 feet of the first. The hex must normally target a single creature within a range of at least 30 feet.
 
 Strong (no school); CL 17th; [[rangoric-srd/feats/Craft Rod|Craft Rod]], [[rangoric-srd/feats/Split Hex|Split Hex]], creator must have the hex class feature; Price 32,500 gp; Cost 16,250 gp.
