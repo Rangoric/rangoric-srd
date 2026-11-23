@@ -5,6 +5,7 @@ aliases: ["Duel"]
 book: "Ultimate Combat"
 based-on:
   - "[[path srd 3.5/rules/ultimate-combat/mastering-combat/Duels|Duels (PF1 UC)]]"
+  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spell Duels|Spell Duels (PF1 Ultimate Magic)]]"
 status: draft
 change: new
 pi-review: 2026-11-23
@@ -14,6 +15,8 @@ tags: [rangoric, rangoric/rules]
 # Duels
 
 There is no form of combat more civilized than the duel. Be it with steel or spells, duels are used to settle disputes in situations where a chaotic melee would be disruptive or even illegal. Although duels are often considered honorable, this does not necessarily make them any less deadly. Duels often permit combatants to engage in more even fights than the fracas of the battlefield, allowing the true skill, power, and wit of each to determine the victor.
+
+Duels fought only with spells have a variant of their own, with a dueling counter of its own and no dueling dodge, parry or resolve: see [[rangoric-srd/rules/Spell Duels|Spell Duels]].
 
 ## Starting a Duel
 

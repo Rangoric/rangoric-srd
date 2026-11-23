@@ -3,10 +3,12 @@ srd-type: "feat"
 section: "Feats"
 based-on:
   - "[[fantasy srd 3.5/feats/Improved Familiar|Improved Familiar (3.5)]]"
+  - "[[path srd 3.5/rules/ultimate-magic/updates/Updated Improved Familiar List|Updated Improved Familiar List (PF1 Ultimate Magic)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-23
 tags: [rangoric, rangoric/feat]
+book: "Ultimate Magic"
 ---
 
 # Improved Familiar
@@ -17,16 +19,29 @@ Prerequisites: Ability to acquire a new familiar, compatible alignment, sufficie
 
 Benefit: When choosing a familiar, the creatures listed below are also available to the spellcaster. The spellcaster may choose a familiar with an alignment up to one step away on each of the alignment axes (lawful through chaotic, good through evil).  
 
-|                |                |                          |
-| -------------- | -------------- | ------------------------ |
-| Familiar       | Alignment      | Arcane Spellcaster Level |
-| Shocker lizard | Neutral        | 5th                      |
-| Stirge         | Neutral        | 5th                      |
-| Formian worker | Lawful Neutral | 7th                      |
-| Imp            | Lawful Evil    | 7th                      |
-| Pseudodragon   | Neutral Good   | 7th                      |
-| Quasit         | Chaotic Evil   | 7th                      |
-|                |                |                          |
+| Familiar | Alignment | Arcane Spellcaster Level |
+| -------- | --------- | ------------------------ |
+| Arbiter inevitable | Lawful Neutral | 7th |
+| [[rangoric-srd/monsters/Brownie\|Brownie]] | Neutral | 7th |
+| Cacodaemon daemon | Neutral Evil | 7th |
+| Cassisian angel | Neutral Good | 7th |
+| Cythnigot qlippoth | Chaotic Evil | 7th |
+| [[rangoric-srd/monsters/dire-animal/Dire Rat\|Dire rat]] | Neutral | 3rd |
+| Entropic monkey (a) | Chaotic Neutral | 3rd |
+| Formian worker | Lawful Neutral | 7th |
+| Imp | Lawful Evil | 7th |
+| Lyrakien azata | Chaotic Good | 7th |
+| [[rangoric-srd/monsters/gremlin/Nuglub\|Nuglub gremlin]] | Chaotic Evil | 7th |
+| Paracletus aeon | Neutral | 7th |
+| Pseudodragon | Neutral Good | 7th |
+| Quasit | Chaotic Evil | 7th |
+| Resolute owl (a) | Lawful Neutral | 3rd |
+| Shocker lizard | Neutral | 5th |
+| Silvanshee agathion | Neutral Good | 7th |
+| Stirge | Neutral | 5th |
+| Voidworm protean | Chaotic Neutral | 7th |
+
+(a) Or other entropic or resolute animal from the standard familiar list.
 
 Improved familiars otherwise use the rules for regular familiars, with two exceptions: If the creature’s type is something other than animal, its type does not change; and improved familiars do not gain the ability to speak with other creatures of their kind (although many of them already have the ability to communicate).  
 

@@ -6,9 +6,10 @@ price: "15 gp"
 weight: "3 lb."
 based-on:
   - "[[fantasy srd 3.5/equipment/Equipment Goods and Services|Equipment Goods and Services (3.5)]]"
+  - "[[path srd 3.5/rules/ultimate-magic/mastering-magic/Spellbooks|Spellbooks (PF1 Ultimate Magic)]]"
 status: draft
 change: new
-pi-review: 2026-11-17
+pi-review: 2026-11-23
 tags: [rangoric, rangoric/gear]
 ---
 
@@ -17,3 +18,5 @@ tags: [rangoric, rangoric/gear]
 A spellbook has 100 pages of parchment, and each spell takes up one page per spell level (one page each for 0-level spells).
 
 Price 15 gp; Weight 3 lb.
+
+Twenty sample spellbooks, ready to find as loot or hand to a new character, are in [[rangoric-srd/equipment/spellbooks/Sample Spellbooks|Sample Spellbooks]].
