@@ -96,374 +96,144 @@ Finally, the character might not acknowledge the trait at all. A character might
 
 ##### Trait Descriptions
 
-Each trait in this section includes a benefit, a drawback, any special limitations regarding its selection by a character, and roleplaying ideas for how to incorporate it into your character's personality.
+Each trait in this section includes a benefit, a drawback, any special limitations regarding its selection by a character, and roleplaying ideas for how to incorporate it into your character's personality. Each trait has its own note, shown here in place.
 
 ###### Abrasive
 
-You are difficult and demanding in conversation, which tends to oppress those around you.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Intimidation|Intimidation]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Persuasion|Persuasion]] checks and [[rangoric-srd/skills/Deception|Deception]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be loud and abrupt or quiet and sinister, but either way, most find them disconcerting or irritating.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Abrasive#Abrasive]]
 
 ###### Absent Minded
 
-You are fascinated by knowledge and learning and are capable of pursuing complex trains of thought quite quickly. However, your preoccupation with such thoughts makes you a little less aware of your surroundings.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Knowledge|Knowledge]] checks (although this does not let you use a Knowledge skill untrained).
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might flit from idea to idea, trailing off in mid-sentence or mumbling their way through complex ideas. Conversely, characters with this trait might be extremely articulate but still allow their thoughts to move faster than the pace of a conversation.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Absent Minded#Absent Minded]]
 
 ###### Aggressive
 
-You are quick to initiate combat, and you tend to press the attack once battle is joined. Your enthusiasm makes you a dangerous foe, but you sometimes leave yourself open to blows that a more cautious warrior would avoid.
-
-**Benefit:** You gain a +2 bonus on initiative checks.
-
-**Drawback:** You take a -1 penalty to Armor Class.
-
-**Roleplaying Ideas:** Characters with this trait are often hotheaded and quick to anger, or simply think that the best defense is a quick offense.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Aggressive#Aggressive]]
 
 ###### Brawler
 
-You naturally move close to your opponents when fighting, instinctively grabbing and punching rather than striking with weapons.
-
-**Benefit:** You gain a +1 bonus on unarmed attack rolls and [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks.
-
-**Drawback:** You take a -1 penalty on all other attack rolls.
-
-**Special:** The bonus from this trait doesn't apply to natural weapons. A character with the [[rangoric-srd/feats/Improved Unarmed Strike|Improved Unarmed Strike]] feat can't select this trait (if a character with this trait later gains that feat, he loses the trait).
-
-**Roleplaying Ideas:** Characters with this trait often disdain the use of weapons entirely, and some eventually learn more refined martial arts based on their instinctive fighting techniques. Many brawlers might not even be consciously aware that they fight differently from other characters; they simply know that the best way to take someone out of a fight is to grab him or punch him in the face.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Brawler (Trait)#Brawler]]
 
 ###### Cautious
 
-You are cautious in combat, even a bit cowardly, and you take more care to defend yourself than others. However, this caution renders you susceptible to fear effects.
-
-**Benefit:** You gain an additional +1 dodge bonus to Armor Class whenever you [[rangoric-srd/combat/Combat Actions#^fighting-defensively-as-a-standard-action|fight defensively]] or take the [[rangoric-srd/combat/Combat Actions|total defense]] action.
-
-**Drawback:** You take a -1 penalty on saving throws made to resist fear effects.
-
-**Special:** You cannot select this trait if you have immunity to fear or fear effects. If you later gain immunity to fear, you lose the benefit of this trait.
-
-**Roleplaying Ideas:** Characters with this trait might consistently urge talking rather than fighting, or they might do little to encourage that their companions avoid combat and simply remain as far away from foes as possible, using ranged weapons or spells.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Cautious#Cautious]]
 
 ###### Detached
 
-You maintain a distance from events that keeps you grounded but limits your reaction speed.
-
-**Benefit:** You gain a +1 bonus on will saves.
-
-**Drawback:** You take a -1 penalty on Reflex saves.
-
-**Roleplaying Ideas:** Characters with this trait are likely to be quiet and restrained, but they might be vocal when others falter in their beliefs.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Detached#Detached]]
 
 ###### Dishonest
 
-You are naturally deceitful and insincere with others. You have a talent for lying, but have difficulty convincing others when you do speak truthfully.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Deception|Deception]] checks.
-
-**Drawback:** You take a -2 penalty on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be portrayed as crafty liars, or lying might simply be second nature to them, making actually telling the truth a difficult chore.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Dishonest#Dishonest]]
 
 ###### Distinctive
 
-You have some distinctive physical feature such as a scar, a prominent nose, a limp, or some similar characteristic that is hard to disguise or conceal.
-
-**Benefit:** You gain a +1 bonus on Reputation checks (see [[rangoric-srd/unearthed-arcana/Reputation|Reputation]]).
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Imitation|Imitation]] checks.
-
-**Special:** This trait is available only if your campaign includes the [[rangoric-srd/unearthed-arcana/Reputation|Reputation variant]].
-
-**Roleplaying Ideas:** Characters with this trait might be sensitive about it, or they might play up its presence to gather attention, sympathy, or notoriety.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Distinctive#Distinctive]]
 
 ###### Easygoing
 
-You are naturally friendly. Others feel comfortable around you, but this trait also makes it more difficult for you to be pushy or suspicious.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Intimidation|Intimidation]] checks and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be more easily manipulated in interactions with NPCs, or they might simply prefer not to argue and instead use their natural talent to learn more about the world around them.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Easygoing#Easygoing]]
 
 ###### Farsighted
 
-You have difficulty focusing on nearby objects, but your distance vision is more keen than normal.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-**Drawback:** You have a -2 penalty on [[rangoric-srd/skills/Investigation|Investigation]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be sensitive about it, or they might simply be oblivious to its presence, having never known any different way of experiencing the world.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Farsighted#Farsighted]]
 
 ###### Focused
 
-You can keep your attention on a task despite many distractions; however, events in the background pass you by.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-**Roleplaying Ideas:** Characters with this trait often seem single-minded or even obsessive in their focus on a specific task.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Focused#Focused]]
 
 ###### Hard of Hearing
 
-You have a slight hearing impairment, and to compensate, you have become more in tune with your other senses.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-**Drawback:** You take a -2 penalty on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be sensitive about it, or they might simply be oblivious to its presence, having never known any different way of experiencing the world.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Hard of Hearing#Hard of Hearing]]
 
 ###### Hardy
 
-You are made of tougher stuff than the average person, but you're not quite as quick to react to dangerous effects.
-
-**Benefit:** You gain a +1 bonus on Fortitude saves.
-
-**Drawback:** You take a -1 penalty on Reflex saves.
-
-**Roleplaying Ideas:** Characters with this trait might see their physical prowess as normal and look down on less hardy individuals, or they might see it as their duty to play the role of protector and help those less able to endure physical hardship.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Hardy#Hardy]]
 
 ###### Honest
 
-You are naturally straightforward and sincere. This quality helps you persuade people to your viewpoint, but you have difficulty telling lies and seeing deception in others.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Deception|Deception]] checks and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be naive and too unsophisticated to lie, or they might be aware of worldly matters and simply choose to take a higher ground.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Honest#Honest]]
 
 ###### Illiterate
 
-You cannot read, but you have devoted yourself to learning other skills.
-
-**Benefit:** Choose any one skill except [[rangoric-srd/skills/Linguistics|Linguistics]] or [[rangoric-srd/skills/Imitation|Imitation]]. You gain a +1 bonus on checks using that skill.
-
-**Drawback:** You are illiterate.
-
-**Special:** You can eliminate the negative effect of this trait by spending 2 skill points to become literate. Unlike with the barbarian, you cannot become literate by taking a level in any class other than barbarian.
-
-You can't select this trait if your character is already illiterate because of race, class, or any other reason.
-
-**Roleplaying Ideas:** Characters with this trait might be sensitive about not being able to read, or they might not value "book learnin'."
+![[rangoric-srd/traits/benefit-and-drawback-traits/Illiterate#Illiterate]]
 
 ###### Inattentive
 
-You are skilled at finishing simple tasks quickly, but you have a difficult time dealing with longer, more complex tasks.
-
-**Benefit:** Choose a skill that allows [[rangoric-srd/unearthed-arcana/Complex Skill Checks#Complex Skill Checks|complex skill checks]]. You gain a +1 bonus on simple skill checks made using the chosen skill.
-
-**Drawback:** You take a -4 penalty on any [[rangoric-srd/unearthed-arcana/Complex Skill Checks#Complex Skill Checks|complex skill checks]] made with the chosen skill.
-
-**Special:** You can take this trait more than once. Its effects do not stack. Instead, choose a new eligible skill each time you select this trait.
-
-This trait is available only if your campaign includes the [[rangoric-srd/unearthed-arcana/Complex Skill Checks#Complex Skill Checks|complex skill checks]] variant.
-
-**Roleplaying Ideas:** Characters with this trait might flit from subject to subject in conversation, or they might seem typical in most situations but leave most of their long-term projects perpetually unfinished.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Inattentive#Inattentive]]
 
 ###### Musclebound
 
-You are good at almost everything that requires strength, but less adept than most at tasks that require coordination.
-
-**Benefit:** You gain a +1 bonus on Strength-based skill checks and ability checks.
-
-**Drawback:** You take a -2 penalty on Dexterity-based skill checks and ability checks.
-
-**Roleplaying Ideas:** Characters with this trait are likely to solve problems with physical strength rather than through trickery or finesse.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Musclebound#Musclebound]]
 
 ###### Nearsighted
 
-You have difficulty focusing on distant objects, but your eye for detail is more keen than normal.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Investigation|Investigation]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Perception|Perception]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be sensitive about it, or they might simply be oblivious to its presence, having never known any different way of experiencing the world.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Nearsighted#Nearsighted]]
 
 ###### Nightsighted
 
-Your eyes are particularly well suited to using darkvision, but they are less well adapted to what others consider normal light.
-
-**Benefit:** Add 10 feet to the range of your darkvision.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Perception|Perception]] checks when in areas of bright light.
-
-**Special:** You must have darkvision as a racial ability to have this trait.
-
-**Roleplaying Ideas:** This trait might not affect a character's personality at all, but it might make the character prefer going on underground or nighttime adventures.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Nightsighted#Nightsighted]]
 
 ###### Passionate
 
-You are made of tougher stuff than the average person, but you are highly suggestible.
-
-**Benefit:** You gain a +1 bonus on Fortitude saves.
-
-**Drawback:** You take a -1 penalty on Will saves.
-
-**Roleplaying Ideas:** Characters with this trait might be gruff and place extreme value on overcoming physical obstacles, or conversely, their weakness against magical enchantments might leave them fascinated and fearful of such things.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Passionate#Passionate]]
 
 ###### Plucky
 
-You have a strength of will not reflected in your limited physical gifts.
-
-**Benefit:** You gain a +1 bonus on Will saves.
-
-**Drawback:** You take a -1 penalty on Fortitude saves.
-
-**Roleplaying Ideas:** Characters with this trait might be annoyingly positive-minded, or they might only show their mental resilience in times of dire need.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Plucky#Plucky]]
 
 ###### Polite
 
-You are courteous and well spoken.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
-
-**Drawback:** You take a -2 penalty on [[rangoric-srd/skills/Intimidation|Intimidation]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might be honestly polite and kind, or they might simply be adept at mimicking social conventions to get what they want.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Polite#Polite]]
 
 ###### Quick
 
-You are fast, but less sturdy than average members of your race.
-
-**Benefit:** Your base land speed increases by 10 feet (if you don't have a land speed, apply the benefit to whichever of your speeds is highest).
-
-**Drawback:** Subtract 1 from your hit points gained at each level, including 1st (a result of 0 is possible).
-
-**Special:** You must have a Constitution of 4 or higher to select this trait.
-
-**Roleplaying Ideas:** Characters with this trait typically try to stay away from physical combat, but a rare few might relish it, striving to see if their superior speed is enough to best hardier warriors.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Quick#Quick]]
 
 ###### Reckless
 
-You naturally sacrifice accuracy to put more power behind your blows.
-
-**Benefit:** You gain a +1 bonus on damage rolls after successful melee attacks.
-
-**Drawback:** You take a -1 penalty on melee attack rolls.
-
-**Roleplaying Ideas:** Characters with this trait might be loudly passionate about entering combat and overcoming foes through strength of arms, or they might be quiet and so desperate to avoid confrontation that they put extra effort into every blow in an attempt to end the encounter more quickly.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Reckless (Alternate)#Reckless]]
 
 ###### Relentless
 
-You don't know the meaning of the word "tired." You go all out until you simply can't continue.
-
-**Benefit:** You gain a +2 bonus on Constitution checks and similar checks made to continue tiring activities (see the [[rangoric-srd/feats/Endurance|Endurance]] feat for all the checks and saves to which this benefit applies).
-
-**Drawback:** Any effect or condition that would normally cause you to become [[rangoric-srd/rules/Special Abilities and Conditions#^fatigued|fatigued]] instead causes you to become [[rangoric-srd/rules/Special Abilities and Conditions#^exhausted|exhausted]].
-
-**Roleplaying Ideas:** Characters with this trait may see others as soft or weak, especially anyone who complains about being tired or fatigued. They might openly scoff at others' weaknesses or might quietly encourage them to "tough it out."
+![[rangoric-srd/traits/benefit-and-drawback-traits/Relentless (Trait)#Relentless]]
 
 ###### Saddleborn
 
-You are a natural in the saddle, but you have little patience for handling animals when not riding them.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks.
-
-**Roleplaying Ideas:** Characters with this trait rarely bother to consider animals as good for anything other than mounts, but they are extremely confident about their riding abilities.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Saddleborn#Saddleborn]]
 
 ###### Skinny
 
-You are very slender for your race.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Skills All|Escape Artist]] checks.
-
-**Drawback:** You take a -2 penalty to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]].
-
-**Roleplaying Ideas:** Skinny characters tend to be pushed around by tougher types, so those with this trait might be shy, or they might be very defensive when faced with such situations.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Skinny#Skinny]]
 
 ###### Slippery
 
-You are less adept at grappling and wrestling than others of your size and strength, but you are adept at slipping out of another's hold.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks to escape a [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] and on grapple checks to escape a grapple, and to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against being grappled.
-
-**Drawback:** You take a -1 penalty on all other [[rangoric-srd/combat/Combat Maneuvers#Grapple|grapple]] checks.
-
-**Roleplaying Ideas:** Characters with this trait might fear close combat, knowing they are less adept grapplers than most opponents. On the other hand, good escape artists with this trait might enjoy baiting larger foes into grappling them, knowing they can easily slip out of the grasp of most foes.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Slippery (Trait)#Slippery]]
 
 ###### Slow
 
-You are slow, but sturdier than average members of your race.
-
-**Benefit:** Add +1 to your hit points gained at each level.
-
-**Drawback:** Your base land speed is halved (round down to the nearest 5-foot interval).
-
-**Special:** You must have a base land speed of at least 20 feet to select this trait.
-
-**Roleplaying Ideas:** Characters with this trait tend to be relatively immobile in combat. They typically prefer to wear strong armor (or other protective devices), since it's hard for them to flee a fight.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Slow (Trait)#Slow]]
 
 ###### Specialized
 
-You have a knack for one kind of work or study, but other tasks are harder for you to accomplish.
-
-**Benefit:** Choose one specific [[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Knowledge|Knowledge]], or [[rangoric-srd/skills/Profession|Profession]] skill. You gain a +1 bonus on checks using the specified skill.
-
-**Drawback:** You take a -2 penalty on all other checks using the same skill ([[rangoric-srd/skills/Craft|Craft]], [[rangoric-srd/skills/Knowledge|Knowledge]], or [[rangoric-srd/skills/Profession|Profession]], based on the skill chosen).
-
-**Roleplaying Ideas:** Characters with this trait often see themselves as elite artists or experts rather than mere professionals, and they might regard their chosen vocation or study as more useful or interesting than other tasks.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Specialized#Specialized]]
 
 ###### Spellgifted
 
-You have a gift for casting spells from a certain school. Although your spells from this school are more potent than those of other casters, you are not as effective at casting spells from other schools.
-
-**Benefit:** Choose a school of magic. Add 1 to your caster level when casting spells from that school.
-
-**Drawback:** Reduce your caster level by 1 whenever you cast a spell that is not from your chosen school.
-
-**Roleplaying Ideas:** Characters with this trait might be loudly vocal about the merits of the school of magic that they understand most readily, or they might feel awkward and out of place around "normal" spellcasters as a result of their unusual aptitude.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Spellgifted#Spellgifted]]
 
 ###### Stout
 
-You are heavy for your race.
-
-**Benefit:** You gain a +2 bonus to your [[rangoric-srd/combat/Combat Maneuvers#Combat Maneuver Defense|CMD]] against [[rangoric-srd/combat/Combat Maneuvers#Bull Rush|bull rush]] and [[rangoric-srd/combat/Combat Maneuvers#Overrun|overrun]].
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks.
-
-**Roleplaying Ideas:** Overweight characters are often bullied, so those with this trait might be shy, or they might be very defensive when faced with such situations. Some turn to humor to defuse such situations, while others become bitter.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Stout (Trait)#Stout]]
 
 ###### Suspicious
 
-You are naturally suspicious of everyone and everything. While this trait makes you hard to fool, it makes others slightly less likely to agree with you or find you threatening.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Persuasion|Persuasion]] checks and [[rangoric-srd/skills/Intimidation|Intimidation]] checks.
-
-**Roleplaying Ideas:** This trait might express itself as comic levels of paranoia, or it might make the character quietly cautious about others.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Suspicious (Alternate)#Suspicious]]
 
 ###### Torpid
 
-You are sluggish and slow to react to danger, but also resistant to others' commands.
-
-**Benefit:** You gain a +1 bonus on saves against enchantment (compulsion) effects.
-
-**Drawback:** You take a -2 penalty on initiative checks.
-
-**Roleplaying Ideas:** Torpid characters may be seen as lazy, or as methodical and measured in their actions.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Torpid#Torpid]]
 
 ###### Uncivilized
 
-You relate better to animals than you do to people.
-
-**Benefit:** You gain a +1 bonus on [[rangoric-srd/skills/Animal Handling|Animal Handling]] checks and [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] checks.
-
-**Drawback:** You take a -1 penalty on [[rangoric-srd/skills/Deception|Deception]] and [[rangoric-srd/skills/Persuasion|Persuasion]] checks.
-
-**Roleplaying Ideas:** Characters with this trait are likely to feel awkward in many social situations; that might be expressed as shyness and quiet behavior, or it might be expressed through an overly exuberant need to participate in conversations.
+![[rangoric-srd/traits/benefit-and-drawback-traits/Uncivilized#Uncivilized]]
