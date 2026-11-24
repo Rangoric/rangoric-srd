@@ -1,0 +1,18 @@
+---
+srd-type: "trait"
+section: "Traits"
+trait-type: "magic"
+book: "Ultimate Campaign"
+based-on:
+  - "[[path srd 3.5/traits/Self-Taught Scholar|Self-Taught Scholar (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/trait]
+---
+
+# Self-Taught Scholar
+
+**Category**: [[rangoric-srd/traits/Character Traits#Magic Traits|magic trait]].
+
+Being self-taught has made it necessary for you to scour all documentation you can get your hands on. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on [[rangoric-srd/skills/Linguistics|Linguistics]] checks to decipher unfamiliar languages, and Linguistics is always a class skill for you. In addition, you gain a +1 trait bonus on [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]] checks made to decipher the writing on a scroll.
