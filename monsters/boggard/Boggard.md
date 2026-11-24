@@ -32,6 +32,7 @@ book: ["Bestiary", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/monsters/Boggard|Boggard (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/boggards/Boggards (Boggards)|Boggards, society (PF1)]]"
+  - "[[path srd 3.5/rules/monster-codex/boggards/New Rules (Boggards)#Alternate Racial Traits|New Rules (Boggards) (PF1)]]"
 status: draft
 change: new
 pi-review: 2026-11-21
@@ -102,6 +103,12 @@ Two beliefs are central to boggards' religious and spiritual experience. First, 
 Metamorphosis fascinates boggards, from the development of their young to the transformation of priest-kings. Those who parley with boggards can sometimes awe the creatures with transformative magic.
 
 **Priest-kings**: Boggards raised on a diet of blue dragonfly pulp sometimes develop into priest-kings. These boggards have only a +2 natural armor bonus but don't take the common boggard's –2 racial penalty to Dexterity and Intelligence. In addition, priest-kings receive a +4 racial bonus to Wisdom and gain the following spell-like abilities: 1/day—*[[rangoric-srd/spells/Fog Cloud|fog cloud]]*, *[[rangoric-srd/spells/Jump (Spell)|jump]]*, *[[rangoric-srd/spells/Summon Swarm|summon swarm]]*. The caster level for these effects is equal to the boggard's Hit Dice. This doesn't replace any of a boggard's other features, but it's extremely rare and available only at the GM's discretion. ^priest-kings
+
+The following racial traits may be selected instead of existing boggard racial traits.
+
+**Estivation**: Not all marshes are wet year-round, and some boggards have adapted to life in seasonal swamps where hot, arid conditions are common. A boggard with this racial trait can spend 1 hour burying herself in wet or soft earth and entering a state of suspended animation for an indefinite amount of time. While estivating, a boggard doesn't need to drink or eat, but takes a penalty on [[rangoric-srd/skills/Perception|Perception]] checks as if sleeping. Ending this dormant state is a full-round action. This racial trait replaces a boggard's racial bonus on [[rangoric-srd/skills/Athletics|Athletics]] checks to jump. ^estivation
+
+**Leaper**: Boggards in some regions have legs better suited to explosive movement on land rather than swift propulsion underwater. Boggards with this trait are always considered to have a running start when attempting [[rangoric-srd/skills/Athletics|Athletics]] checks to jump, and their swim speeds are reduced by 15 feet. ^leaper
 
 Boggards speak Boggard.
 
