@@ -6,10 +6,14 @@ based-on:
   - "[[individual books/Faeries/rules/FaerieLand’s Planar Characteristics|FaerieLand’s Planar Characteristics (Faeries)]]"
   - "[[individual books/Faeries/rules/Spells#Special Spell Effects|Spells (Faeries)]]"
   - "[[individual books/Faeries/tables/Table 14 FaerieLand Erratic Time Differential|Table 14 FaerieLand Erratic Time Differential (Faeries)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/What is a Plane-|What is a Plane? (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/Planar (Planar Adventures)|Planar Adventures (PF1)]]"
+  - "[[path srd 3.5/rules/game-mastery-guide/planar-adventures/Planar Traits|Planar Traits (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
+book: "Game Mastery Guide"
 ---
 ## Planes
 
@@ -230,6 +234,8 @@ Infinities may be broken into smaller infinities, and planes into smaller, relat
 Access to a layered plane from elsewhere usually happens on a specific layer: the first layer of the plane, which can be either the top layer or the bottom layer, depending on the specific plane. Most fixed access points (such as portals and natural vortices) reach this layer, which makes it the gateway for other layers of the plane. The plane shift spell also deposits the spellcaster on the first layer of the plane.
 
 ### Plane Descriptions
+
+Another cosmology, with each of its planes (the Outer Planes too) described in a note of its own, is in [[rangoric-srd/rules/planes/Cosmology|Cosmology]].
 
 ##### The Material Plane
 
