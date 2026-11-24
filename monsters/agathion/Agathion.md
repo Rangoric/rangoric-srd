@@ -19,5 +19,9 @@ Agathions speak Celestial, Infernal, and Draconic, though they can speak with al
 
 Agathions have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^agathion|agathion subtype]]: low-light vision, immunity to electricity and petrification, resistance to cold and sonic, lay on hands, a bonus on saves against poison, speak with animals, and truespeech.
 
+  - [[rangoric-srd/monsters/agathion/Silvanshee|Silvanshee]]
+  - [[rangoric-srd/monsters/agathion/Vulpinal|Vulpinal]]
   - [[rangoric-srd/monsters/agathion/Avoral|Avoral]]
   - [[rangoric-srd/monsters/agathion/Leonal|Leonal]]
+  - [[rangoric-srd/monsters/agathion/Cetaceal|Cetaceal]]
+  - [[rangoric-srd/monsters/agathion/Draconal|Draconal]]

@@ -30,6 +30,8 @@ Inevitables speak Abyssal, Celestial, Infernal, and the native language of their
 
 Unless their very existence is threatened, inevitables focus completely on the transgressor they’ve been assigned to, ignoring other combatants completely. An inevitable might attack anyone who hinders its progress, but it won’t tarry beyond the point where it can reengage its quarry. Inevitables take self-defense very seriously; anyone who attacks an inevitable with what the creature perceives as deadly force is met with deadly force in return.
 
+  - [[rangoric-srd/monsters/inevitable/Arbiter|Arbiter]]
   - [[rangoric-srd/monsters/inevitable/Kolyarut|Kolyarut]]
   - [[rangoric-srd/monsters/inevitable/Marut|Marut]]
   - [[rangoric-srd/monsters/inevitable/Zelekhut|Zelekhut]]
+  - [[rangoric-srd/monsters/inevitable/Lhaksharut|Lhaksharut]]

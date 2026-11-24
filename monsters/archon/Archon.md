@@ -23,5 +23,9 @@ Archons generally prefer to meet a foe head-on if it is prudent to do so, but if
 Archons have the [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^archon|archon subtype]]: darkvision and low-light vision, an aura of menace, immunity to electricity and petrification, a bonus on saves against poison, greater teleport at will, and truespeech.
 
   - [[rangoric-srd/monsters/archon/Lantern Archon|Lantern Archon]]
+  - [[rangoric-srd/monsters/archon/Harbinger Archon|Harbinger Archon]]
   - [[rangoric-srd/monsters/archon/Hound Archon|Hound Archon]]
+  - [[rangoric-srd/monsters/archon/Legion Archon|Legion Archon]]
+  - [[rangoric-srd/monsters/archon/Shield Archon|Shield Archon]]
   - [[rangoric-srd/monsters/archon/Trumpet Archon|Trumpet Archon]]
+  - [[rangoric-srd/monsters/archon/Star Archon|Star Archon]]

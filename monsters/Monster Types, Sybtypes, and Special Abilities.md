@@ -47,6 +47,20 @@ tags: [rangoric, rangoric/overview]
 
 **Adlet Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Adlet|adlets]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^adlet
 
+**Aeon Subtype**: Aeons are a race of neutral [[#^outsider|outsiders]] who roam the planes maintaining the balance of reality. ^aeon
+
+*Traits*: An aeon has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to cold, poison, and critical hits.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to electricity 10 and fire 10.
+
+  - *Envisaging (Su)*: Aeons communicate wordlessly, almost incomprehensibly. Caring little for the wants and desires of other creatures, they have no need to engage in exchanges of dialogue. Instead, aeons mentally scan beings for their thoughts and intentions, and then retaliate with flashes of psychic projections that emit a single concept in response to whatever the other being was thinking. The flash is usually a combination of a visual and aural stimulation, which displays how the aeon perceives future events might work out. For instance, an aeon seeking to raze a city communicates this concept to non-aeons by sending them a vivid image of the city crumbling to ash. An aeon's envisaging functions as a non-verbal form of telepathy. Aeons cannot read the thoughts of any creature immune to mind-affecting effects.
+
+  - *Extension of All (Ex)*: Through an aeon's connection to the multiverse, it gains access to strange and abstruse knowledge that filters through all existence. Much of the knowledge is timeless, comprised of events long past, present, and potentially even those yet to come. Aeons gain a racial bonus equal to half their racial Hit Dice on all [[rangoric-srd/skills/Knowledge|Knowledge]] checks. This same connection also binds them to other aeons. As a result, they can communicate with each other freely, over great distances as if using telepathy. This ability also works across planes, albeit less effectively, allowing the communication of vague impressions or feelings, not specific details or sights. Due to the vast scope of the aeon race's multiplanar concerns, though, even the most dire reports of a single aeon rarely inspire dramatic or immediate action.
+
+  - *Void Form (Su)*: Though aeons aren't incorporeal, their forms are only a semi-tangible manifestation of something greater. An aeon's void form grants it a deflection bonus equal to 1/4 its Hit Dice (rounded down).
+
 **Agathion Subtype**: Agathions are beast-aspect [[#^outsider|outsiders]] native to the neutral good-aligned Outer Planes. ^agathion
 
 *Traits*: An agathion has the following traits (unless otherwise noted in a creature's entry).
@@ -142,6 +156,30 @@ tags: [rangoric, rangoric/overview]
   - Except where otherwise noted, archons speak Celestial, Draconic, and Infernal.
 
   - Archons have the [[#^lawful|lawful]] and [[#^good|good]] subtypes, so their natural weapons and any weapons they wield count as lawful and good for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+
+**Asura Subtype**: Asuras are lawful evil [[#^outsider|outsiders]] that exist within reality but apart from it. ^asura
+
+*Traits*: An asura has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to curses, disease, and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to acid 10 and electricity 10.
+
+  - +2 racial bonus on saving throws against enchantment spells.
+
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
+
+  - *Elusive Aura (Su)*: Asuras exist within reality but apart from it. All but the least of asuras exude an aura that affects all creatures within the area as if by a *[[rangoric-srd/spells/Nondetection|nondetection]]* spell. The size of the aura is proportional to the asura’s power. The caster level check to attempt divination on creatures within the aura is 15 + the spell-like ability caster level of the asura creating the aura.
+
+  - *[[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] (Ex)*: The divine spark at the core of their being allows asuras to regenerate at varying rates. Good weapons and spells can kill an asura.
+
+  - *[[rangoric-srd/monsters/abilities/Spell Resistance|Spell Resistance]] (Ex)*: Most asuras are resistant to magic and have an SR equal to 11 + their CR. Only the weakest asuras lack this ability.
+
+  - *Summon (Sp)*: Asuras share the ability to [[rangoric-srd/monsters/abilities/Summon|summon]] others of their kind, typically another of their type or a small number of weaker asuras.
+
+  - An asura’s natural weapons, as well as any weapons it wields, are treated as lawful and evil for the purpose of overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
+
+  - +6 racial bonus on [[rangoric-srd/skills/Escape Artist|Escape Artist]] checks and a +4 racial bonus on [[rangoric-srd/skills/Perception|Perception]] checks.
 
 **Augmented Subtype**: A creature receives this subtype whenever something happens to change its original type. Some creatures (those with an inherited template) are born with this subtype; others acquire it when they take on an acquired template. The augmented subtype is always paired with the creature’s original type. A creature with the augmented subtype usually has the traits of its current type, but the features of its original type.  
  ^augmented
@@ -360,6 +398,22 @@ The [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creeper]] and [[rangoric
 
   - Dragons eat, sleep, and breathe.
 
+**Div Subtype**: Divs are neutral evil [[#^outsider|outsiders]] that sow misfortune and ruin. ^div
+
+*Traits*: A div has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to fire and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to acid 10 and electricity 10.
+
+  - *[[rangoric-srd/monsters/abilities/See in Darkness|See in Darkness]] (Su)*: Some divs can see perfectly in darkness of any kind, even that created by a *[[rangoric-srd/spells/Deeper Darkness|deeper darkness]]* spell.
+
+  - *Summon (Sp)*: Some divs share the ability to [[rangoric-srd/monsters/abilities/Summon|summon]] others of their kind. Each entry describes the success chance and type of divs summoned.
+
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
+
+  - Except where otherwise noted, divs speak Abyssal, Celestial, and Infernal.
+
 **Dwarf Subtype**: A humanoid subtype for [[rangoric-srd/races/Dwarf|dwarves]] and their kin, such as [[rangoric-srd/races/Duergar|duergar]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^dwarf
 
 **Earth Subtype**: This subtype usually is used for elementals and outsiders with a connection to the Elemental Plane of Earth. Earth creatures usually have burrow speeds, and most earth creatures can burrow through solid rock. Earth creatures with a burrow speed have [[rangoric-srd/monsters/abilities/Tremorsense|tremorsense]]. ^earth
@@ -497,6 +551,24 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
   - *Regeneration (Ex)*: Inevitables have [[rangoric-srd/monsters/abilities/Regeneration|regeneration]] (chaotic). The regeneration amount varies by the type of inevitable.
 
   - *Truespeech (Su)*: An inevitable can speak with any creature that has a language, as if using a *[[rangoric-srd/spells/Tongues|tongues]]* spell (caster level 14th). This ability is always active.
+
+**Kami Subtype**: Kami are a race of native [[#^outsider|outsiders]] who serve to protect what they refer to as “wards”—animals, plants, objects, and even locations—from being harmed or dishonored. All kami are outsiders with the [[#^native|native subtype]]. ^kami
+
+*Traits*: A kami has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immune]] to bleed, mind-affecting effects, petrification, and polymorph effects.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resist]] acid 10, electricity 10, fire 10.
+
+  - Although they are native outsiders, kami do not eat, drink, or breathe.
+
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
+
+  - *[[rangoric-srd/monsters/abilities/Fast Healing|Fast Healing]] (Ex)*: As long as a kami is within 120 feet of its ward, it gains fast healing. The amount of fast healing it gains depends on the type of kami.
+
+  - *Merge with Ward (Su)*: As a standard action, a kami can merge its body and mind with its ward. When merged, the kami can observe the surrounding region with its senses as if it were using its own body, as well as via any senses its ward might have. It has no control over its ward, nor can it communicate or otherwise take any action other than to emerge from its ward as a standard action. A kami must be adjacent to its ward to merge with or emerge from it. If its ward is a creature, plant, or object, the kami can emerge mounted on the creature provided the kami’s body is at least one size category smaller than the creature. If its ward is a location, the kami may emerge at any point within that location.
+
+  - *Ward (Su)*: A kami has a specific ward—a creature with a 2 or lower Intelligence (usually an animal or vermin), a plant (not a plant creature), an object, or a location. The type of ward is listed in parentheses in the kami’s stat block. Several of a kami’s abilities function only when it is either merged with its ward or within 120 feet of it. If a kami’s ward is portable and travels with the kami to another plane, the kami does not gain the extraplanar subtype on that other plane as long as its ward remains within 120 feet. If a ward is destroyed while a kami is merged with it, the kami dies (no save). If a ward is destroyed while a kami is not merged with it, the kami loses its merge with ward ability and its fast healing, and becomes permanently sickened.
 
 **Kasatha Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Kasatha|kasathas]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kasatha
 
@@ -698,6 +770,18 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 
   - Oozes eat and breathe, but do not sleep.
 
+**Oni Subtype**: An oni is an evil spirit who takes humanoid form to become a native [[#^outsider|outsider]]. ^oni
+
+*Traits*: An oni has the following traits (unless otherwise noted in a specific creature's entry).
+
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
+
+  - *[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)*: All oni are shapechangers with the [[#^shapechanger|shapechanger subtype]], but an oni takes only other shapes similar to its normal humanoid form.
+
+  - *Humanoid Shape*: As evil spirits clad in humanoid flesh, all oni possess a humanoid subtype.
+
+  - *[[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] (Ex)*: The rate of regeneration and damage type that suspends it depends on the type of oni, but is typically acid or fire.
+
 **Orc Subtype**: A humanoid subtype for [[rangoric-srd/races/Orc|orcs]]; [[rangoric-srd/races/Half-Orc|half-orcs]] have it too. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^orc
 
 **Outsider Type**: An outsider is at least partially composed of the essence (but not necessarily the material) of some plane other than the Material Plane. Some creatures start out as some other type and become outsiders when they attain a higher (or lower) state of spiritual existence. ^outsider
@@ -763,6 +847,74 @@ Mindless creatures do not gain feats, although they may have bonus feats. They g
 **Psionics (Sp)**: See [[rangoric-srd/monsters/abilities/Psionics (Monster Ability)|psionics]]. ^psionics
 
 **Rake (Ex)**: See [[rangoric-srd/monsters/abilities/Rake|rake]]. ^rake
+
+**Protean Subtype**: Proteans are serpentine [[#^outsider|outsiders]] of pure chaos. ^protean
+
+*Traits*: A protean has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Blindsense|Blindsense]] (distance varies by protean type).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to acid.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to electricity 10 and sonic 10.
+
+  - [[rangoric-srd/monsters/abilities/Constrict|Constrict]] and [[rangoric-srd/monsters/abilities/Grab|grab]] as special attacks.
+
+  - Supernatural [[rangoric-srd/monsters/abilities/Flight|flight]].
+
+  - *Freedom of Movement (Su)*: A protean has continuous *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, as per the spell.
+
+  - *Amorphous Anatomy (Ex)*: A protean's vital organs shift and change shape and position constantly. This grants it a 50% chance to ignore additional damage caused by critical hits and sneak attacks, and grants it immunity to polymorph effects (unless the protean is a willing target). A protean automatically recovers from physical blindness or deafness after 1 round by growing new sensory organs to replace those that were compromised.
+
+  - *[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)*: A protean's form is not fixed. Once per day as a standard action, a protean may change shape into any Small, Medium, or Large animal, elemental, giant, humanoid, magical beast, monstrous humanoid, ooze, plant, or vermin. A protean can resume its true form as a free action, and when it does so, it gains the effects of a *[[rangoric-srd/spells/Heal (Spell)|heal]]* spell (CL equal to the protean's HD).
+
+**Psychopomp Subtype**: Psychopomps are neutral [[#^outsider|outsiders]] native to Purgatory. ^psychopomp
+
+*Traits*: A psychopomp has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]].
+
+  - [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] 5/adamantine.
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to death effects, disease, and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to cold 10 and electricity 10.
+
+  - Psychopomps speak Abyssal, Celestial, and Infernal.
+
+  - *Spirit Touch (Ex)*: A psychopomp’s natural weapons, as well as any weapon it wields, are treated as though they had the [[rangoric-srd/magic-items/weapon-abilities/Ghost Touch (Weapon Special Ability)|ghost touch]] weapon special ability.
+
+  - *Spiritsense (Su)*: A psychopomp notices, locates, and can distinguish between living and undead creatures within 60 feet, just as if it had the [[rangoric-srd/monsters/abilities/Blindsight|blindsight]] ability. This sense does not allow it to detect objects, but it does allow it to notice living things that are not creatures (such as normal trees).
+
+**Qlippoth Subtype**: Qlippoth are chaotic evil [[#^outsider|outsiders]] from the deepest reaches of the Abyss. ^qlippoth
+
+*Traits*: A qlippoth has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to cold, mind-affecting effects, and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to acid 10, electricity 10, and fire 10.
+
+  - *[[rangoric-srd/monsters/abilities/Horrific Appearance|Horrific Appearance]] (Su)*: All qlippoth have such horrific and mind-rending shapes that those who gaze upon them suffer all manner of ill effects. A qlippoth can present itself as a standard action to assault the senses of all living creatures within 30 feet. The exact effects caused by a qlippoth's horrific appearance vary by the type of qlippoth. A successful Will save (DC 10 + 1/2 the qlippoth's Hit Dice + the qlippoth's Charisma modifier) reduces or negates the effect. This ability is a mind-affecting gaze attack.
+
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
+
+  - Except where otherwise noted, qlippoth speak Abyssal.
+
+**Rakshasa Subtype**: A rakshasa is a lawful evil spirit born into the Material Plane. A shapechanger that can walk with ease among humanoids, a rakshasa’s true form has animalistic features and strangely jointed limbs. All rakshasas are native to the Material Plane. ^rakshasa
+
+*Traits*: A rakshasa has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet.
+
+  - *[[rangoric-srd/monsters/abilities/Change Shape|Change Shape]] (Su)*: All rakshasas have the ability to change shape into any humanoid, as if using *[[rangoric-srd/spells/Alter Self|alter self]]*.
+
+  - *Detect Thoughts (Su)*: A rakshasa can *[[rangoric-srd/spells/Detect Thoughts|detect thoughts]]* as per the spell of the same name. This effect functions at CL 18th. A rakshasa can suppress or resume this ability as a free action. When a rakshasa uses this ability, it always functions as if it had spent 3 rounds concentrating and thus gains the maximum amount of information possible. The Will save DC to resist this effect is equal to 10 + 1/2 the rakshasa’s HD + the rakshasa’s Charisma modifier.
+
+  - *Enhanced Defenses (Ex)*: All rakshasas have [[rangoric-srd/monsters/abilities/Damage Reduction|DR]] that can be penetrated by good and piercing weapons only. The amount of damage reduction varies according to the specific rakshasa. In addition, rakshasas are exceptionally resistant to magic, and possess [[rangoric-srd/monsters/abilities/Spell Resistance|SR]] equal to their CR + 15.
+
+  - *Master of Deception (Ex)*: All rakshasas gain a +4 racial bonus on [[rangoric-srd/skills/Deception|Deception]] checks and a +8 racial bonus on [[rangoric-srd/skills/Imitation|Imitation]] checks.
+
+  - *Spellcasting*: All but the least of rakshasas have some level of spellcasting ability, and can cast spells as [[rangoric-srd/classes/Sorcerer|sorcerers]]. The rakshasa’s effective caster level as a sorcerer depends on its type, but is generally equal to its CR – 3.
 
 **Ratfolk Subtype**: A humanoid subtype for [[rangoric-srd/races/Ratfolk|ratfolk]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^ratfolk
 

@@ -99,15 +99,15 @@ Alien, unemotional, and distant, aeons are difficult to deal with because of the
 
 All aeons are immune to cold, poison, and critical hits, and have resistance to electricity and fire.
 
-**Akhana**: Concerned with the duality of death and life, akhanas hunt for imbalances and rectify them with strange, seemingly random, efficiency. They do not justify their decisions or goals, which many summoners find intensely frustrating.
+**[[rangoric-srd/monsters/aeons/Akhana|Akhana]]**: Concerned with the duality of death and life, akhanas hunt for imbalances and rectify them with strange, seemingly random, efficiency. They do not justify their decisions or goals, which many summoners find intensely frustrating.
 
-**Bythos**: Guardians of time and planar travel, bythos search for those who abuse time travel. They make deals with binders who have similar goals, and care nothing for the motivations of binders who do not share their concerns.
+**[[rangoric-srd/monsters/aeons/Bythos|Bythos]]**: Guardians of time and planar travel, bythos search for those who abuse time travel. They make deals with binders who have similar goals, and care nothing for the motivations of binders who do not share their concerns.
 
-**Paracletus**: The most common aeon to interact with mortal spellcasters, paracletus actively search out spellcasters with strong emotion and logical capabilities. Some paracletus become familiars, experimenting upon their bonded casters with their *emotion aura*.
+**[[rangoric-srd/monsters/aeons/Paracletus|Paracletus]]**: The most common aeon to interact with mortal spellcasters, paracletus actively search out spellcasters with strong emotion and logical capabilities. Some paracletus become familiars, experimenting upon their bonded casters with their *emotion aura*.
 
-**Pleroma**: Many binders believe pleromas are too powerful to call and bind, and even if such a task is possible, trying to deal with such creatures of creation and destruction may be impossible. Of all the aeons, pleromas employ logic and methods that are least describable.
+**[[rangoric-srd/monsters/aeons/Pleroma|Pleroma]]**: Many binders believe pleromas are too powerful to call and bind, and even if such a task is possible, trying to deal with such creatures of creation and destruction may be impossible. Of all the aeons, pleromas employ logic and methods that are least describable.
 
-**Theletos**: These guardians of freedom and fate often aid spellcasters in the pursuit of the former and the implementation of the latter, but like all aeons, their views on these subjects typically seem contradictory, and they are difficult to fully control or understand.
+**[[rangoric-srd/monsters/aeons/Theletos|Theletos]]**: These guardians of freedom and fate often aid spellcasters in the pursuit of the former and the implementation of the latter, but like all aeons, their views on these subjects typically seem contradictory, and they are difficult to fully control or understand.
 
 ### Agathion
 
@@ -119,15 +119,15 @@ Agathions are immune to electricity and petrification. They have resistance to c
 
 **[[rangoric-srd/monsters/agathion/Avoral|Avoral]]**: Often bound to serve as spies and scouts, avorals delight in the challenge of such activities when bound, as long as the cause is just and worthy of their attention. They hate being confined, so evil-aligned or neutral-aligned binders typically use imprisonment as punishment or coercion.
 
-**Cetaceal**: Protectors of good aquatic races, cetaceals are often called and bound by good spellcasters for protection of aquatic territories and to serve as ambassadors or emissaries. Unscrupulous binders often make deals with cetaceals on dry land, only letting them roam the water when a bargain for service is reached.
+**[[rangoric-srd/monsters/agathion/Cetaceal|Cetaceal]]**: Protectors of good aquatic races, cetaceals are often called and bound by good spellcasters for protection of aquatic territories and to serve as ambassadors or emissaries. Unscrupulous binders often make deals with cetaceals on dry land, only letting them roam the water when a bargain for service is reached.
 
-**Draconal**: Powerful, haughty, and removed from mortal affairs, these direct agents of the gods are often aggravating to deal with once bound. Patient pursuers of long-term plans, many draconals seek to wait out mortal spellcasters rather than bargain for their services. Those who wish to bind and use the power of a draconal must be epically powerful and have perfect timing, know the draconal's true name, or be lucky enough to have plans running in concert with the agathion's goals.
+**[[rangoric-srd/monsters/agathion/Draconal|Draconal]]**: Powerful, haughty, and removed from mortal affairs, these direct agents of the gods are often aggravating to deal with once bound. Patient pursuers of long-term plans, many draconals seek to wait out mortal spellcasters rather than bargain for their services. Those who wish to bind and use the power of a draconal must be epically powerful and have perfect timing, know the draconal's true name, or be lucky enough to have plans running in concert with the agathion's goals.
 
 **[[rangoric-srd/monsters/agathion/Leonal|Leonal]]**: Coveted as bound protectors and hunters, leonals are often straightforward in their negotiations with binders. They desire simple (and good) goals, as well as definitive terms for release from their obligations.
 
-**Silvanshee**: Curious but cautious, silvanshees are often bound as familiars by neutral good spellcasters. Sometimes large groups of them are summoned and bound by powerful spellcasters to serve as spies and scouts, especially in cities where they can meld into cat populations.
+**[[rangoric-srd/monsters/agathion/Silvanshee|Silvanshee]]**: Curious but cautious, silvanshees are often bound as familiars by neutral good spellcasters. Sometimes large groups of them are summoned and bound by powerful spellcasters to serve as spies and scouts, especially in cities where they can meld into cat populations.
 
-**Vulpinal**: These foxlike agathions deal with those who bind them into service with an outspoken friendliness. They often bluntly state their dissatisfaction with their current fate in the most diplomatic terms, frequently accompanied by a smile and a wink. They prefer to be used as messengers and emissaries in the service of good, and if bound for any other purpose, they trick their way into the resolution of their bargains as quickly as possible.
+**[[rangoric-srd/monsters/agathion/Vulpinal|Vulpinal]]**: These foxlike agathions deal with those who bind them into service with an outspoken friendliness. They often bluntly state their dissatisfaction with their current fate in the most diplomatic terms, frequently accompanied by a smile and a wink. They prefer to be used as messengers and emissaries in the service of good, and if bound for any other purpose, they trick their way into the resolution of their bargains as quickly as possible.
 
 ### Angels
 
@@ -137,11 +137,11 @@ Angels are immune to acid, cold, and petrification effects. They also have resis
 
 **[[rangoric-srd/monsters/angel/Angel, Astral Deva|Astral Deva]]**: Astral devas are the messengers of the gods of good—or, if one were to be cynical, the gossips of the heavens. The appropriate gift for an astral deva is knowledge of a place it cannot reach: a rival temple, the location of evil cultists, or some other evil that has a direct bearing on the Material Plane.
 
-**Cassisian**: The weakest sort of angels, cassisians serve as the messengers of more powerful angels, and frequently serve good spellcasters on the Material Plane as familiars. Formed from the souls of pious soldiers, they are often simply appeased with gifts that allow them to join the fray against evil creatures.
+**[[rangoric-srd/monsters/angel/Angel, Cassisian|Cassisian]]**: The weakest sort of angels, cassisians serve as the messengers of more powerful angels, and frequently serve good spellcasters on the Material Plane as familiars. Formed from the souls of pious soldiers, they are often simply appeased with gifts that allow them to join the fray against evil creatures.
 
-**Monadic Deva**: Watchers of the Ethereal Plane and the Elemental Planes, monadic devas usually serve those who summon them only in purposes that deal with their duties on those planes. Stubborn in their causes, they demand outrageous gifts of servitude toward their own lofty goals.
+**[[rangoric-srd/monsters/angel/Angel, Monadic Deva|Monadic Deva]]**: Watchers of the Ethereal Plane and the Elemental Planes, monadic devas usually serve those who summon them only in purposes that deal with their duties on those planes. Stubborn in their causes, they demand outrageous gifts of servitude toward their own lofty goals.
 
-**Movanic Deva**: Soldier angels who often patrol the Positive Energy Plane, Negative Energy Plane, and Material Plane, these devas battle undead and the strange creatures that hunt the hungry void. When summoned to the Material Plane, they serve as forthright soldiers for the cause of good, and are appeased with gifts that allow them greater power to hunt undead and sceaduinar.
+**[[rangoric-srd/monsters/angel/Angel, Movanic Deva|Movanic Deva]]**: Soldier angels who often patrol the Positive Energy Plane, Negative Energy Plane, and Material Plane, these devas battle undead and the strange creatures that hunt the hungry void. When summoned to the Material Plane, they serve as forthright soldiers for the cause of good, and are appeased with gifts that allow them greater power to hunt undead and sceaduinar.
 
 **[[rangoric-srd/monsters/angel/Angel, Planetar|Planetar]]**: As the leaders of celestial armies, planetars seek knowledge and information regarding the plans of their infernal foes. Providing valuable data regarding the movement of evil forces, the locations of caches of evil weapons, or the locations of portals to the netherworld gives the binder a +2 Charisma bonus when dealing with planetars.
 
@@ -157,9 +157,9 @@ All archons are immune to electricity and petrification attacks, and all have DR
 
 **[[rangoric-srd/monsters/archon/Lantern Archon|Lantern]]**: The least of the archons, lantern archons are friendly, and their greatest ambition is to see the cause of good advanced. To gain their favor, one should engage in a week's worth of charity or make a sincere offering worth 100 gp to a good cause in the name of Heaven.
 
-**Shield**: Solid, stoic, and often defensive even in personality, shield archons are highly skeptical of those who attempt to bind them, but if they can work in the defense of the common good or opposed to the machinations of fiends, they commonly ask their binder to care for and protect a shrine or temple as a gift for their service.
+**[[rangoric-srd/monsters/archon/Shield Archon|Shield]]**: Solid, stoic, and often defensive even in personality, shield archons are highly skeptical of those who attempt to bind them, but if they can work in the defense of the common good or opposed to the machinations of fiends, they commonly ask their binder to care for and protect a shrine or temple as a gift for their service.
 
-**Star**: Brilliant, wise, and constantly strategizing the protection of Heaven or the defeat of the forces of evil, star archons often chafe under the bindings of mortal spellcasters. Negotiations often devolve into the star archon blasting his binder for shortsightedness and wasting the archon's time. Star archons demand outrageous gifts even when the cause is just. Only when the archon's and the binder's goals work in close concert are the gifts the archon demands nearly attainable.
+**[[rangoric-srd/monsters/archon/Star Archon|Star]]**: Brilliant, wise, and constantly strategizing the protection of Heaven or the defeat of the forces of evil, star archons often chafe under the bindings of mortal spellcasters. Negotiations often devolve into the star archon blasting his binder for shortsightedness and wasting the archon's time. Star archons demand outrageous gifts even when the cause is just. Only when the archon's and the binder's goals work in close concert are the gifts the archon demands nearly attainable.
 
 **[[rangoric-srd/monsters/archon/Trumpet Archon|Trumpet]]**: Mighty warriors and messengers, trumpet archons are the leaders of Heaven's strike forces and the heralds of gods. To gain their favor, one must prove worthy of their presence; rather than making offerings of things, trumpet archons ask for sacrifices of service and time, and any binder who offers an exchange of services—and intends to keep her word—gains a +2 Charisma bonus. Those who renege on their bonds see their fortunes begin to vanish, and take a –2 Charisma penalty when dealings with good extraplanar creatures until they set matters right.
 
@@ -173,13 +173,13 @@ The *magic circle* needed to summon an azata is made of cold iron.
 
 **[[rangoric-srd/monsters/azata/Bralani|Bralani]]**: Bralani azatas are fierce and wild, and constantly seek to prove themselves in battle or in contests of wits. If a wizard suggests a game of strength, wits, or dexterity that the bralani has not played, or develops a new one for the bralani to take back to Elysium, he receives a +2 Charisma bonus when negotiating with the azata.
 
-**Brijidine**: Lovers of fire, poetry, and spicy food, a brijidine can be successfully wooed with rare (and fireproof) scrolls of poetry or a gourmet spicy dish. Binders should be aware, however, that brijidine have exotic, expensive, and particular tastes.
+**[[rangoric-srd/monsters/azata/Brijidine|Brijidine]]**: Lovers of fire, poetry, and spicy food, a brijidine can be successfully wooed with rare (and fireproof) scrolls of poetry or a gourmet spicy dish. Binders should be aware, however, that brijidine have exotic, expensive, and particular tastes.
 
 **[[rangoric-srd/monsters/azata/Ghaele|Ghaele]]**: Ghaeles are strong hunters, courtly and knightly, and pursue great foes. Offering them evidence of the binder's mighty hunts (at least 3 CR higher than the binder), or summoning them to a locale where they can pursue dragons or fiends provides a Charisma bonus to the caster.
 
 **[[rangoric-srd/monsters/azata/Lillend|Lillend]]**: The most artistic of the azatas, lillends love stories, histories, tales, poems, and songs. Offerings to summoned lillends include original songs, performances, or other art forms; they also adore magical instruments.
 
-**Lyrakien**: Musicians among the azata, lyrakien can be persuaded to service with gifts of wondrous musical instruments and rare bits of music—especially fey music.
+**[[rangoric-srd/monsters/azata/Lyrakien|Lyrakien]]**: Musicians among the azata, lyrakien can be persuaded to service with gifts of wondrous musical instruments and rare bits of music—especially fey music.
 
 ### Daemons
 
@@ -333,11 +333,11 @@ Genies seek and value power, though they are more brash and boastful than most. 
 
 Originally created by the axiomites as an unflinching army to fight the chaotic proteans, inevitables used to fight an explicit war against those creatures but now wage an indirect war against them. Most inevitables fight this war by tracking down and rectifying egregious violations of law. Incorruptible in its mission, when bound by a being who wishes to subvert it, an inevitable often waits the binder out. Inevitables simply refuse to deal with binders who wish to use them against their designed and decreed purpose.
 
-**Arbiter**: Arbiters are the scouts and spies of the inevitables, and are typically bound to serve as familiars to lawful spellcasters, especially those who fight the taint of protean chaos.
+**[[rangoric-srd/monsters/inevitable/Arbiter|Arbiter]]**: Arbiters are the scouts and spies of the inevitables, and are typically bound to serve as familiars to lawful spellcasters, especially those who fight the taint of protean chaos.
 
 **[[rangoric-srd/monsters/inevitable/Kolyarut|Kolyarut]]**: As the enforcers of bargains, kolyaruts can be bound into service to enforce a bargain. The binder needs to beware, though—if she fails to keep a bargain with a kolyarut, she can quickly become the subject of its punishment. Kolyaruts never bargain with known breakers of such agreements.
 
-**Lhaksharut**: Concerned with keeping the various planes separate, lhaksharuts often make deals with mortal spellcasters working in concert with those goals. They are always willing to destroy links between planes, but sometimes agree to let a gateway stay open and serve as its protector as long as such a mission serves its primary function in some way. They never work against the separation of the planes.
+**[[rangoric-srd/monsters/inevitable/Lhaksharut|Lhaksharut]]**: Concerned with keeping the various planes separate, lhaksharuts often make deals with mortal spellcasters working in concert with those goals. They are always willing to destroy links between planes, but sometimes agree to let a gateway stay open and serve as its protector as long as such a mission serves its primary function in some way. They never work against the separation of the planes.
 
 **[[rangoric-srd/monsters/inevitable/Marut|Marut]]**: Maruts hunt those who artificially extend their lives though powerful magic. They bargain with binders who call them for the express purpose of hunting down such a creature. All other bindings are stubbornly ignored, even under duress.
 
@@ -349,13 +349,13 @@ Slithering creatures of pure chaos, proteans claim they were the masters of the 
 
 Proteans are immune to acid and have resistance to electricity 10 and sonic 10. Their amorphous anatomy grants them immunity to polymorph effects and resistance to critical hits and sneak attack damage. They are protected by a continuous *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, as per the spell.
 
-**Imentesh**: These heralds of chaos often heed the call of binders who wish to utilize the power of proteans. In conversation they are often talkative, seemingly helpful, and polite, but they are always plotting their escape in order to unleash as much chaos as possible.
+**[[rangoric-srd/monsters/proteans/Imentesh|Imentesh]]**: These heralds of chaos often heed the call of binders who wish to utilize the power of proteans. In conversation they are often talkative, seemingly helpful, and polite, but they are always plotting their escape in order to unleash as much chaos as possible.
 
-**Keketar**: The most zealous of all the proteans, keketars see it as their sacred duty to return all existence to its true chaotic state. These creatures are extremely arrogant, and often seek to manipulate those foolish enough to bind them toward their own entropic purposes.
+**[[rangoric-srd/monsters/proteans/Keketar|Keketar]]**: The most zealous of all the proteans, keketars see it as their sacred duty to return all existence to its true chaotic state. These creatures are extremely arrogant, and often seek to manipulate those foolish enough to bind them toward their own entropic purposes.
 
-**Naunet**: These bestial proteans are hard to control. Those who bind these dangerous bundles of rage and destruction are lucky if they can wield the naunets' destructive power for their own purposes—at least for a short while.
+**[[rangoric-srd/monsters/proteans/Naunet|Naunet]]**: These bestial proteans are hard to control. Those who bind these dangerous bundles of rage and destruction are lucky if they can wield the naunets' destructive power for their own purposes—at least for a short while.
 
-**Voidworm**: To most other proteans, these tiny creatures aren't true proteans at all, just pale reflections of protean powers manifesting in the twisting currents of Limbo. Mortal spellcasters sometimes call these creatures to serve as familiars.
+**[[rangoric-srd/monsters/proteans/Voidworm|Voidworm]]**: To most other proteans, these tiny creatures aren't true proteans at all, just pale reflections of protean powers manifesting in the twisting currents of Limbo. Mortal spellcasters sometimes call these creatures to serve as familiars.
 
 ### Qlippoth
 
@@ -363,19 +363,19 @@ Only the most insane or desperate spellcasters dare to call and bind a qlippoth.
 
 Qlippoth are immune to cold, mind-affecting effects, and poison. They have resistance to acid 10, electricity 10, and fire 10. All but the least have an aura of fear and madness.
 
-**Augnagar**: Stupid and ravenous, these cannibalistic qlippoth rarely bargain with their binders, but can be threatened into what passes for qlippoth service.
+**[[rangoric-srd/monsters/qlippoth/Augnagar|Augnagar]]**: Stupid and ravenous, these cannibalistic qlippoth rarely bargain with their binders, but can be threatened into what passes for qlippoth service.
 
-**Chernobue**: These flopping and writhing things are only concerned with spreading their vile poison. They do not bargain with binders.
+**[[rangoric-srd/monsters/qlippoth/Chernobue|Chernobue]]**: These flopping and writhing things are only concerned with spreading their vile poison. They do not bargain with binders.
 
-**Cythnigot**: The most common type of qlippoth found on the Material Plane, cythnigots are called by some chaotic evil spellcasters to act as familiars; a cythnigot latches on to a Tiny animal familiar the spellcaster already has.
+**[[rangoric-srd/monsters/qlippoth/Cythnigot|Cythnigot]]**: The most common type of qlippoth found on the Material Plane, cythnigots are called by some chaotic evil spellcasters to act as familiars; a cythnigot latches on to a Tiny animal familiar the spellcaster already has.
 
-**Iathavos**: The powerful and singular iathavos never answers the call of a binder, even an epic one.
+**[[rangoric-srd/monsters/qlippoth/Iathavos|Iathavos]]**: The powerful and singular iathavos never answers the call of a binder, even an epic one.
 
-**Nyogoth**: These hungry, abyssal bottom feeders heed the calls of spellcasters, but typically only to find new things to eat in far-off places. Though not stupid, nyogoths are hard to reason with, and only respond when offered new and interesting things to eat.
+**[[rangoric-srd/monsters/qlippoth/Nyogoth|Nyogoth]]**: These hungry, abyssal bottom feeders heed the calls of spellcasters, but typically only to find new things to eat in far-off places. Though not stupid, nyogoths are hard to reason with, and only respond when offered new and interesting things to eat.
 
-**Shoggti**: Next to cythnigots, shoggti are the most common qlippoth found on the Material Plane. These masters of mind manipulation are always on the hunt for living slaves for their inexplicable plans. A shoggti quickly heeds the call of a binder, hoping to eventually turn her into its newest thrall.
+**[[rangoric-srd/monsters/qlippoth/Shoggti|Shoggti]]**: Next to cythnigots, shoggti are the most common qlippoth found on the Material Plane. These masters of mind manipulation are always on the hunt for living slaves for their inexplicable plans. A shoggti quickly heeds the call of a binder, hoping to eventually turn her into its newest thrall.
 
-**Thulgant**: These powerful qlippoth are too arrogant and self-important to answer the call of a spellcaster wishing to bind them.
+**[[rangoric-srd/monsters/qlippoth/Thulgant|Thulgant]]**: These powerful qlippoth are too arrogant and self-important to answer the call of a spellcaster wishing to bind them.
 
 ### Other Outsiders
 

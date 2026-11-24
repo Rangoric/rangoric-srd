@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["special attack"]
+book: "Bestiary 2"
+based-on:
+  - "[[path srd 3.5/monsters/Aeon, Bythos|Aeon, Bythos (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Confusion Gaze
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “confusion gaze”, on the Special Attacks line.
+
+Confusion for 1d4 rounds, 30 feet, Fortitude DC 24 negates. The save DC is Charisma-based. The [[rangoric-srd/monsters/aeons/Bythos|bythos]] has it.

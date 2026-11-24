@@ -141,7 +141,7 @@ These cousins of the ogre have the [[rangoric-srd/monsters/Monster Types, Sybtyp
 
 ### Ogre Mage
 
-The [[rangoric-srd/monsters/Ogre Mage|ogre mage]] is not an ogre and no longer a giant: it is an oni, and oni are native outsiders (with the giant, oni and shapechanger subtypes), so it has a note of its own.
+The [[rangoric-srd/monsters/onis/Ogre Mage|ogre mage]] is not an ogre and no longer a giant: it is an oni, and oni are native outsiders (with the giant, oni and shapechanger subtypes), so it has a note of its own.
 
 ### Ogres as Characters
 

@@ -31,7 +31,7 @@ tags: [rangoric, rangoric/designer-reference]
 | 67–68 | 1 [[rangoric-srd/monsters/Gorgon\|gorgon]] | 8 |
 | 69–72 | 1d4 [[rangoric-srd/monsters/Wyvern\|wyverns]] | 8 |
 | 73–78 | 1d6 [[rangoric-srd/monsters/troll/Troll\|trolls]] | 8 |
-| 79–80 | 1 [[rangoric-srd/monsters/Ogre Mage\|ogre mage]] | 8 |
+| 79–80 | 1 [[rangoric-srd/monsters/onis/Ogre Mage\|ogre mage]] | 8 |
 | 81–82 | 1 [[rangoric-srd/monsters/Roc\|roc]] | 9 |
 | 83–86 | 1d6 [[rangoric-srd/monsters/giant/Hill Giant\|hill giants]] | 10 |
 | 87–88 | 1 [[rangoric-srd/monsters/metallic-dragons/Silver Dragon\|silver dragon (young)]] | 10 |
