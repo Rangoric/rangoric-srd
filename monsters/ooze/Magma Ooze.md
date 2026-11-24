@@ -69,7 +69,7 @@ A typical magma ooze grows to 10 feet across and is about 6 inches thick.
 
 Differing types of molten stone and the nature of the magic that created them can influence what types of magma ooze form.
 
-**Brimstone**: Influenced by fiendish energy, brimstone magma oozes stink of evil, and the patterns of cooled stone and hot lava on their surfaces resemble tortured or demonic faces. They have the [[rangoric-srd/monsters/Fiendish Creature|fiendish creature]] simple template.
+**Brimstone**: Influenced by fiendish energy, brimstone magma oozes stink of evil, and the patterns of cooled stone and hot lava on their surfaces resemble tortured or demonic faces. They have the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish creature]] simple template.
 
 **Crystalline**: Formed from rock densely laced with rare minerals, crystalline magma oozes have hot gases trapped within their bodies. Striking a crystalline magma ooze with a non-reach melee weapon causes this gas to erupt, dealing 1d6 points of fire damage to the attacking creature.
 

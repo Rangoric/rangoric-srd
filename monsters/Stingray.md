@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 Often found buried in mud, sand, or sea grass, this normally passive creature raises its tail above its body like a scorpion when cornered or injured. Its stinger is a barbed spine with two grooves allowing the toxin to enter the wound. While often found in bays and estuaries, some breeds of stingray can make their home in rivers far upstream from salt water. Stingrays, like their larger manta ray cousins, use a form of electrolocation to find prey in the silt-laden waters.
 
-The stingray presented here is a relatively large member of the species; for smaller stingrays, apply the young creature template.
+The stingray presented here is a relatively large member of the species; for smaller stingrays, apply the [[rangoric-srd/monsters/simple-templates/Young Creature|young creature template]].
 
 ### Combat
 

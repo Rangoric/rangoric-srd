@@ -72,7 +72,7 @@ Pegasi mature at the same rate as horses. Professional trainers charge 1,000 gp 
 
 A light load for a pegasus is up to 300 pounds; a medium load, 301–600 pounds; and a heavy load, 601–900 pounds.
 
-In some pegasi, the blood of a mighty heroic stallion ancestor runs strong. These champions have the lifespan of a human, the advanced template, perfect flight maneuverability, fire resistance 10, a +4 racial bonus on saving throws against poison, and an immunity to petrification attacks. Some are able to speak a few words in Common or Celestial. They are fully aware of their superiority over common horses and pegasi, and need no training to fly with a rider, but only allow themselves to be ridden by great heroes.
+In some pegasi, the blood of a mighty heroic stallion ancestor runs strong. These champions have the lifespan of a human, the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced template]], perfect flight maneuverability, fire resistance 10, a +4 racial bonus on saving throws against poison, and an immunity to petrification attacks. Some are able to speak a few words in Common or Celestial. They are fully aware of their superiority over common horses and pegasi, and need no training to fly with a rider, but only allow themselves to be ridden by great heroes.
 
 ### Combat
 

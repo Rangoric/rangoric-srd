@@ -26,7 +26,7 @@ organization: "Hive (1 plus 300–5,000 formians)"
 challenge-rating: 17
 treasure: "Triple"
 alignment: "Always lawful neutral"
-advancement: "21–30 HD (Huge); 31–40 HD (Gargantuan)"
+advancement: "25–30 HD (Huge); 31–40 HD (Gargantuan)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/formian/Formian|Formian]]"
 book: "Bestiary 4"
@@ -61,7 +61,7 @@ tags: [rangoric, rangoric/monster]
   - **Challenge Rating**: 17
   - **Treasure**: Triple
   - **Alignment**: Always lawful neutral
-  - **Advancement**: 21–30 HD (Huge); 31–40 HD (Gargantuan)
+  - **Advancement**: 25–30 HD (Huge); 31–40 HD (Gargantuan)
   - **Level Adjustment**: —
 
 A formian queen is the embodiment of the hive and the key to its success, as a hive's fate is tied to her ability to both populate it and successfully guide it. The formian queen does this while her massive body is bound to a central chamber dedicated to her nearly constant egg laying. The queen's enormous abdomen squeezes out egg after egg as she meets with her myrmarchs to plan defense, strategy, and trade negotiations. While the queen may be sheltered, she is not blind. When necessary, she possesses the minds of her children to see for herself what occurs beyond her central chamber, and more active queens use this ability to confront intruders directly.

@@ -18,7 +18,7 @@ Creatures with the shadow-summoned creature template dwell on the [[rangoric-srd
 
 ### Creating a Shadow-Summoned Creature
 
-“Shadow-summoned creature” is a simple template. A shadow-summoned creature’s CR increases by +1. A shadow-summoned creature’s [[rangoric-srd/monsters/Advanced Creature|quick and rebuild rules]] are the same.
+“Shadow-summoned creature” is a simple template. A shadow-summoned creature’s CR increases by +1. A shadow-summoned creature’s [[rangoric-srd/monsters/simple-templates/Advanced Creature|quick and rebuild rules]] are the same.
 
 **Senses**: Gains [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|darkvision]] and [[rangoric-srd/monsters/abilities/Low-Light Vision|low-light vision]] 60 ft.
 

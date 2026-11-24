@@ -65,7 +65,7 @@ tags: [rangoric, rangoric/monster]
 
 As swift and agile as it is deadly, the deinonychus is a pack hunter, running with several of its kind to take down prey and rip it apart with their gutting talons.
 
-You can apply the young simple template to create statistics for smaller, more agile velociraptors. Conversely, you can either increase the deinonychus to Large size and its Hit Dice to 8 or simply apply the giant and advanced simple templates to create a formidable [[rangoric-srd/monsters/dinosaur/Megaraptor|megaraptor]].
+You can apply the [[rangoric-srd/monsters/simple-templates/Young Creature|young simple template]] to create statistics for smaller, more agile velociraptors. Conversely, you can either increase the deinonychus to Large size and its Hit Dice to 8 or simply apply the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant]] and [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced]] simple templates to create a formidable [[rangoric-srd/monsters/dinosaur/Megaraptor|megaraptor]].
 
 A deinonychus is bright green along its back and flanks, with a much lighter shade of the same color on its underside. The body has darker spots or stripes. Its tail extends straight out behind itself, held aloft by an intricate structure of bony supports, thus allowing its weight to be carried entirely by the back legs. It weighs about 600 pounds.
 

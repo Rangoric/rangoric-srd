@@ -34,14 +34,14 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | -------------------------------------------------------------------------------------------------------------------------------------- | -- |
 | [[rangoric-srd/monsters/Couatl\|Couatl]]                                                                                             | LG |
 | [[rangoric-srd/monsters/agathion/Leonal\|Leonal (agathion)]]                                                                         | NG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Roc\|roc]]                                         | CG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Roc\|roc]]                                         | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, elder (any)]]                                                                | N  |
 | [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)\|Devil, barbed]]                                                               | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Shark\|dire shark (1)]]             | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Gargantuan]] | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Shark\|dire shark (1)]]             | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Gargantuan]] | NE |
 | [[rangoric-srd/monsters/Night Hag\|Night hag]]                                                                                       | NE |
 | [[rangoric-srd/monsters/Bebilith\|Bebilith (demon)]]                                                                                 | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Colossal]]       | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Colossal]]       | CE |
 | [[rangoric-srd/monsters/demon/Hezrou\|Hezrou (demon)]]                                                                               | CE |
 
 1 *May be summoned only into an aquatic or watery environment.*

@@ -23,6 +23,6 @@ You gain the ability to summon powerful spiders.
 - ***Summon Monster***: 1st level, [[rangoric-srd/monsters/spider/Giant Crab Spider|giant crab spider]]\*; 4th level, [[rangoric-srd/monsters/spider/Giant Black Widow|giant black widow]]\*; 5th level, [[rangoric-srd/monsters/spider/Ogre Spider|ogre spider]]\*; 7th level, [[rangoric-srd/monsters/spider/Giant Tarantula|giant tarantula]]\*.
 - ***Summon Nature’s Ally***: 1st level, [[rangoric-srd/monsters/spider/Giant Crab Spider|giant crab spider]]; 4th level, [[rangoric-srd/monsters/spider/Giant Black Widow|giant black widow]]; 5th level, [[rangoric-srd/monsters/spider/Ogre Spider|ogre spider]]; 7th level, [[rangoric-srd/monsters/spider/Giant Tarantula|giant tarantula]].
 
-Creatures marked with an asterisk (\*) are summoned with the [[rangoric-srd/monsters/Celestial Creature|celestial template]] if you are good, and the [[rangoric-srd/monsters/Fiendish Creature|fiendish template]] if you are evil. If you are neutral, you may choose which template to apply to the creature.
+Creatures marked with an asterisk (\*) are summoned with the [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial template]] if you are good, and the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish template]] if you are evil. If you are neutral, you may choose which template to apply to the creature.
 
 Furthermore, when you summon spiders using *summon monster* or *summon nature’s ally*, the DC of the summoned monster’s poison and web effects increases by 2.

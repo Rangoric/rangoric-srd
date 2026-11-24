@@ -68,13 +68,13 @@ Though carefully studied by healers and naturalists focusing on oozes, living bo
 
 The boilborn detailed here is by far the most common, but as with diseases, other mutations exist. Use the following to represent some of the other virulent strains of these disgusting creatures.
 
-**Abyssal Boilborn (CR 3)**: Colored in hues of bruised blue and bloody red and smelling like bile and pus, this dangerous boilborn has squeezed through a rift from a chaotic evil-aligned plane. It has the [[rangoric-srd/monsters/Fiendish Creature|fiendish creature]] simple template and the [[rangoric-srd/monsters/Advanced Creature|advanced creature]] simple template, and infects its victims with demon fever.
+**Abyssal Boilborn (CR 3)**: Colored in hues of bruised blue and bloody red and smelling like bile and pus, this dangerous boilborn has squeezed through a rift from a chaotic evil-aligned plane. It has the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish creature]] simple template and the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature]] simple template, and infects its victims with demon fever.
 
 **Blindborn (CR 1)**: Pale greenish gray in color and slightly luminescent, this boilborn transmits blinding sickness (Fortitude DC 14) to creatures affected by its slam attack or death throes ability.
 
-**Infernal Boilborn (CR 3)**: Accompanied by the smell of brimstone, this black-skinned boilborn has the [[rangoric-srd/monsters/Advanced Creature|advanced creature]] simple template and the [[rangoric-srd/monsters/Fiendish Creature|fiendish creature]] simple template, and infects victims it slams or splatters upon with devil chills.
+**Infernal Boilborn (CR 3)**: Accompanied by the smell of brimstone, this black-skinned boilborn has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature]] simple template and the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish creature]] simple template, and infects victims it slams or splatters upon with devil chills.
 
-**Plagueborn (CR 2)**: Sickly yellow and wracked with perpetual palpitations that emit a fine mist, this boilborn has the giant simple template. Any creatures within 5 feet of a plagueborn must succeed at a DC 16 Fortitude save or contract cackle fever.
+**Plagueborn (CR 2)**: Sickly yellow and wracked with perpetual palpitations that emit a fine mist, this boilborn has the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant simple template]]. Any creatures within 5 feet of a plagueborn must succeed at a DC 16 Fortitude save or contract cackle fever.
 
 ### Combat
 

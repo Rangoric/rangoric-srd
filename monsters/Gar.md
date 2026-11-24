@@ -62,4 +62,4 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: —
   - **Level Adjustment**: —
 
-Gars are predatory fish that live in deep lakes and rivers. Sleek and swift, they regard anything their own size or smaller as food. A typical gar is 7 feet long and weighs 200 pounds. One species known as the alligator gar can grow to lengths of 10 feet. An alligator gar is a gar with the advanced creature template.
+Gars are predatory fish that live in deep lakes and rivers. Sleek and swift, they regard anything their own size or smaller as food. A typical gar is 7 feet long and weighs 200 pounds. One species known as the alligator gar can grow to lengths of 10 feet. An alligator gar is a gar with the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]].

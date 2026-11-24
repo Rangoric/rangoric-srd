@@ -54,7 +54,7 @@ tags: [rangoric, rangoric/monster]
   - **Skills**: [[rangoric-srd/skills/Escape Artist|Escape Artist]] +5, [[rangoric-srd/skills/Perception|Perception]] +9
   - **Feats**: [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
   - **Environment**: Warm land
-  - **Organization**: Solitary, pair, or family (2 adults and 1–2 calves with the young creature template)
+  - **Organization**: Solitary, pair, or family (2 adults and 1–2 calves with the [[rangoric-srd/monsters/simple-templates/Young Creature|young creature template]])
   - **Challenge Rating**: 3
   - **Treasure**: None
   - **Alignment**: Usually neutral

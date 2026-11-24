@@ -68,7 +68,7 @@ Rare in the extreme, kirin seldom meddle openly in worldly affairs, preferring a
 
 The wisest and most powerful kirin are known as emperor kirin, having earned this title through the respect of their peers and the strength of their powers. They resemble standard kirin, except their hooves give off sparks as they gallop through the air.
 
-Emperor kirin have the advanced creature simple template and additional racial Hit Dice. When advancing a kirin's Hit Dice to create an emperor kirin, make the following additional changes.
+Emperor kirin have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]] and additional racial Hit Dice. When advancing a kirin's Hit Dice to create an emperor kirin, make the following additional changes.
 
 - *CR*Increase by 1 + the number of additional HD.
 - *Breath Weapon*: Damage increases by 1d6 for every 2 additional HD.

@@ -26,7 +26,7 @@ organization: "Solitary, work crew (1 plus 6–12 workers), band (1 plus 3–15 
 challenge-rating: 7
 treasure: "Standard (10 darts, other treasure)"
 alignment: "Always lawful neutral"
-advancement: "7–9 HD (Medium); 10–12 HD (Large)"
+advancement: "11–12 HD (Large)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/formian/Formian|Formian]]"
 book: "Bestiary 4"
@@ -61,7 +61,7 @@ tags: [rangoric, rangoric/monster]
   - **Challenge Rating**: 7
   - **Treasure**: Standard (10 darts, other treasure)
   - **Alignment**: Always lawful neutral
-  - **Advancement**: 7–9 HD (Medium); 10–12 HD (Large)
+  - **Advancement**: 11–12 HD (Large)
   - **Level Adjustment**: —
 
 Formian taskmasters are merchants, traders, diplomats, and spies, and particularly talented taskmasters may even advise the queen. Taskmasters can often be found outside the hive engaging in commerce or routine diplomatic missions. While traveling, a taskmaster is usually accompanied by 3-5 workers and at least 5 warriors.

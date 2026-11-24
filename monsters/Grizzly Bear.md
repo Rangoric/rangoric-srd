@@ -65,4 +65,4 @@ A large, powerful omnivore, the grizzly bear inhabits many of the world's forest
 
 When faced with a foe or small group of threats, the grizzly attempts to subdue or kill with its claws. When it can, the bear tries to grab a single target to deal continual damage until that target is dead, [[rangoric-srd/rules/Special Abilities and Conditions#^unconscious|unconscious]], or escapes.
 
-To generate stats for a smaller bear (like a [[rangoric-srd/monsters/Bear, Black|black bear]]), you can apply the young simple template to the grizzly bear's stat block. To generate stats for a larger grizzly or a [[rangoric-srd/monsters/Bear, Polar|polar bear]], apply the advanced simple template to the grizzly's stats.
+To generate stats for a smaller bear (like a [[rangoric-srd/monsters/Bear, Black|black bear]]), you can apply the [[rangoric-srd/monsters/simple-templates/Young Creature|young simple template]] to the grizzly bear's stat block. To generate stats for a larger grizzly or a [[rangoric-srd/monsters/Bear, Polar|polar bear]], apply the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced simple template]] to the grizzly's stats.

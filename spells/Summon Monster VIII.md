@@ -29,17 +29,17 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 
 | 8th Level                                                                                                                              |    |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dire-animal/Dire Bear\|dire bear]]                 | LG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/whale/Cachalot Whale\|cachalot whale (1)]]         | NG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dinosaur/Triceratops\|triceratops]]                | NG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dire-animal/Dire Bear\|dire bear]]                 | LG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/whale/Cachalot Whale\|cachalot whale (1)]]         | NG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/dinosaur/Triceratops\|triceratops]]                | NG |
 | [[rangoric-srd/monsters/azata/Lillend\|Lillend]]                                                                                     | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, greater (any)]]                                                              | N  |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Squid, Giant\|giant squid (1)]]                      | LE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Squid, Giant\|giant squid (1)]]                      | LE |
 | [[rangoric-srd/monsters/Hellcat (Bezekira)\|Hellcat]]                                                                                | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Colossal]] | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Tiger\|dire tiger]]                 | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Gargantuan]]     | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dinosaur/Tyrannosaurus\|tyrannosaurus]]              | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Colossal]] | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Tiger\|dire tiger]]                 | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Gargantuan]]     | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dinosaur/Tyrannosaurus\|tyrannosaurus]]              | CE |
 | [[rangoric-srd/monsters/demon/Vrock\|Vrock (demon)]]                                                                                 | CE |
 
 1 *May be summoned only into an aquatic or watery environment.*

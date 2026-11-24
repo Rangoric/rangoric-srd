@@ -37,17 +37,17 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 
 | 2nd Level                                                                                                                              |    |
 | -------------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Bee\|giant bee]]                             | LG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Bombardier Beetle\|giant bombardier beetle]] | NG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Dog, Riding\|riding dog]]                          | NG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Eagle\|eagle]]                                     | CG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Bee\|giant bee]]                             | LG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Bombardier Beetle\|giant bombardier beetle]] | NG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Dog, Riding\|riding dog]]                          | NG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Eagle\|eagle]]                                     | CG |
 | [[rangoric-srd/monsters/devil/Lemure\|Lemure (devil)]]                                                                               | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Squid\|squid (1)]]                                   | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Wolf\|wolf]]                                         | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Large]]    | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Medium]]     | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/shark/Shark\|shark, Medium (1)]]                           | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Medium]]         | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snake/Viper Snake\|snake, Medium viper]]             | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Squid\|squid (1)]]                                   | LE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Wolf\|wolf]]                                         | LE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Large]]    | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Medium]]     | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/shark/Shark\|shark, Medium (1)]]                           | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-spider/Monstrous Spider\|monstrous spider, Medium]]         | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/snake/Viper Snake\|snake, Medium viper]]             | CE |
 
 1 *May be summoned only into an aquatic or watery environment.*

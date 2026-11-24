@@ -68,9 +68,9 @@ As undead, wights do not need to breathe, so they are sometimes found underwater
 
 The wight presented here is a typical example of its kind, but sometimes when a wight creates spawn from particularly unusual humanoids, the resulting wights are quite different in power, such as the following three variants.
 
-**Brute Wight (CR 5)**: Giants that are killed by wights become hunchbacked, simple-minded undead. Brute wights are giant advanced wights, but cannot create spawn of their own.
+**Brute Wight (CR 5)**: Giants that are killed by wights become hunchbacked, simple-minded undead. Brute wights are [[rangoric-srd/monsters/simple-templates/Giant Creature|giant]] [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced]] wights, but cannot create spawn of their own.
 
-**Cairn Wight (CR 4)**: Some societies deliberately create these specialized wights to serve as guardians for barrows or other burial sites. A cairn wight is an advanced wight that fights with a weapon, typically a sword, that channels its energy drain attack and affects creatures damaged by the weapon as if they had been struck by the wight's slam attack.
+**Cairn Wight (CR 4)**: Some societies deliberately create these specialized wights to serve as guardians for barrows or other burial sites. A cairn wight is an [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced]] wight that fights with a weapon, typically a sword, that channels its energy drain attack and affects creatures damaged by the weapon as if they had been struck by the wight's slam attack.
 
 **Frost Wight (CR 4)**: Wights created in cold environments sometimes become pale undead with blue-white eyes and ice in their hair. Frost wights have the cold subtype and their slam attacks deal 1d6 cold damage in addition to the normal effects. A creature touching a frost wight with natural weapons or unarmed strikes takes 1d6 cold damage.
 

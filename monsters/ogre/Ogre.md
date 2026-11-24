@@ -30,6 +30,7 @@ advancement: "By character class"
 level-adjustment: "+2"
 book: ["Bestiary", "Monster Codex"]
 based-on:
+  - "[[path srd 3.5/rules/monster-codex/ogres/New Rules (Ogres)|New Rules (Ogres) (PF1)]]"
   - "[[path srd 3.5/monsters/Ogre|Ogre (PF1)]]"
   - "[[path srd 3.5/rules/monster-codex/ogres/Ogres (Ogres)|Ogres, society (PF1)]]"
   - "[[fantasy srd 3.5/monsters/ogre/Ogre|Ogre (3.5)]]"
@@ -78,6 +79,7 @@ tags: [rangoric, rangoric/monster]
   - [[rangoric-srd/monsters/ogre/Saltwater Merrow|Saltwater Merrow]] (CR 6)
   - [[rangoric-srd/monsters/ogre/Troggle|Troggle]] (CR 4)
   - [[rangoric-srd/monsters/ogre/Troggle Raider|Troggle Raider]] (CR 6)
+  - Templates: [[rangoric-srd/monsters/ogre/Giantkin Ogre|Giantkin Ogre]], [[rangoric-srd/monsters/ogre/Pickin Ogre|Pickin Ogre]], [[rangoric-srd/monsters/ogre/Shaggra Ogre|Shaggra Ogre]], [[rangoric-srd/monsters/ogre/Thicken Ogre|Thicken Ogre]]
 
 Stories are told of ogres—horrendous stories of brutality and savagery, cannibalism and torture. Of rape and dismemberment, necrophilia, incest, mutilation, and all manners of hideous murder. Those who have not encountered ogres know the stories as warnings. Those who have survived such encounters know these tales to be tame compared to the truth.
 
@@ -142,6 +144,12 @@ These cousins of the ogre have the [[rangoric-srd/monsters/Monster Types, Sybtyp
 ### Ogre Mage
 
 The [[rangoric-srd/monsters/onis/Ogre Mage|ogre mage]] is not an ogre and no longer a giant: it is an oni, and oni are native outsiders (with the giant, oni and shapechanger subtypes), so it has a note of its own.
+
+### Ogre Templates
+
+Whether it's due to inbreeding, magical or alchemical experimentation, or strange environs, ogres are far more prone to mutations than other races. Ogres can survive with defects that would outright kill members of most other species. The [[rangoric-srd/monsters/ogre/Pickin Ogre|pickin]], [[rangoric-srd/monsters/ogre/Shaggra Ogre|shaggra]] and [[rangoric-srd/monsters/ogre/Thicken Ogre|thicken]] templates are a small sample of the mutations that might be seen among ogres in a clan.
+
+Ogres sometimes interbreed with other giants; the result is a [[rangoric-srd/monsters/ogre/Giantkin Ogre|giantkin ogre]].
 
 ### Ogres as Characters
 

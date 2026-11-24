@@ -66,7 +66,7 @@ Slime molds are revolting oozes that wallow in rot and decay. A perfect example 
 
 Slime molds are ovoid in shape, growing up to 12 feet in length and weighing more than 600 pounds. Their substance is normally a sickly greenish-brown, with the coloration varying depending on their environment and how recently they've fed. They instinctually keep their coating of fungus and other vegetable detritus exposed above them, granting the slime mold a distinctive, undulating gait rather than the fluid movement of most oozes.
 
-To reproduce, slime molds split off small patches of their bodies whenever they encounter thick beds of fungi or mold. Over several months, these tiny blobs acclimate to the rot and absorb each another, until a single slime mold (with the young creature simple template) sprouts its own garden and begins hunting live prey.
+To reproduce, slime molds split off small patches of their bodies whenever they encounter thick beds of fungi or mold. Over several months, these tiny blobs acclimate to the rot and absorb each another, until a single slime mold (with the [[rangoric-srd/monsters/simple-templates/Young Creature|young creature simple template]]) sprouts its own garden and begins hunting live prey.
 
 ### Combat
 

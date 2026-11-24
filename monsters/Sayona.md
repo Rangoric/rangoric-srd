@@ -73,7 +73,7 @@ Sayonas speak Abyssal, Common and Infernal.
 
 **[[rangoric-srd/monsters/abilities/Absorb Blood|Absorb Blood]] (Su)**: A sayona adjacent to a bleeding creature automatically accelerates the bleeding, dealing 1 point of Con damage to that creature once per round on its turn and absorbing the blood through its skin.
 
-**[[rangoric-srd/monsters/abilities/Create Spawn|Create Spawn]] (Su)**: When a sayona kills a humanoid or fey of Medium or Small size with its absorb blood or blood drain ability, the victim rises 24 hours later as a ghoul with the advanced creature simple template and the blood drain ability. The spawn is the sayona's slave until its master is destroyed.
+**[[rangoric-srd/monsters/abilities/Create Spawn|Create Spawn]] (Su)**: When a sayona kills a humanoid or fey of Medium or Small size with its absorb blood or blood drain ability, the victim rises 24 hours later as a ghoul with the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]] and the blood drain ability. The spawn is the sayona's slave until its master is destroyed.
 
 **[[rangoric-srd/monsters/abilities/Living Form|Living Form]] (Su)**: As a standard action, a sayona can transform into a young, beautiful person for 24 hours. It can only use this ability if it has absorbed or drained blood in the past hour. In this form, the sayona has the aura of a living creature instead of an undead (for the purpose of detect undead and similar effects), its fast healing increases to 10, positive energy attacks (such as channel energy) deal half damage to it, and it cannot use its fear cone or gaze attack. Exposure to holy water or positive energy attacks in this form reduces the duration of this transformation by 1d4 hours.
 

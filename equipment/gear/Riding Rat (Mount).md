@@ -15,7 +15,7 @@ tags: [rangoric, rangoric/gear]
 
 # Riding Rat (Mount)
 
-Horses, ponies, and other draft animals are ill-suited to living underground for long stretches, so the ratfolk bred a particularly strong type of dire rat to assist in pulling their wagons and serving as mounts for caravan scouts. As rodents, riding rats respond favorably to ratfolk's commands, and the animals' hardiness and omnivorous diet make them very easy to care for even on long journeys through inhospitable terrain. Use the statistics for a [[rangoric-srd/monsters/dire-animal/Dire Rat|dire rat]] with the giant simple template. A [[rangoric-srd/races/Ratfolk|ratfolk]] with the animal companion, mount, or similar class feature can select a riding rat as her mount.
+Horses, ponies, and other draft animals are ill-suited to living underground for long stretches, so the ratfolk bred a particularly strong type of dire rat to assist in pulling their wagons and serving as mounts for caravan scouts. As rodents, riding rats respond favorably to ratfolk's commands, and the animals' hardiness and omnivorous diet make them very easy to care for even on long journeys through inhospitable terrain. Use the statistics for a [[rangoric-srd/monsters/dire-animal/Dire Rat|dire rat]] with the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant simple template]]. A [[rangoric-srd/races/Ratfolk|ratfolk]] with the animal companion, mount, or similar class feature can select a riding rat as her mount.
 
 The animal is described in [[rangoric-srd/monsters/Riding Rats|Riding Rats]].
 
