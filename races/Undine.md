@@ -110,3 +110,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/bard/Watersinger (Archetype)\|Watersinger]] | [[rangoric-srd/classes/Bard\|Bard]] |
+| [[rangoric-srd/class-options/archetypes/druid/Undine Adept (Archetype)\|Undine Adept]] | [[rangoric-srd/classes/Druid\|Druid]] |

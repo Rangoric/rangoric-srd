@@ -100,3 +100,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/wizard/Wind Listener (Archetype)\|Wind Listener]] | [[rangoric-srd/classes/Wizard\|Wizard]] |
+| [[rangoric-srd/class-options/archetypes/druid/Sky Druid (Archetype)\|Sky Druid]] | [[rangoric-srd/classes/Druid\|Druid]] |
