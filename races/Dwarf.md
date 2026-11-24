@@ -134,6 +134,10 @@ A dwarf can take any of these in place of the traits they replace (see [[rangori
 | [[rangoric-srd/races/racial-traits/Wyrmscourged|Wyrmscourged]] | Defensive training, hatred, and stonecunning |
 | [[rangoric-srd/races/racial-traits/Xenophobic|Xenophobic]] | The dwarf's normal languages |
 
+### Race Traits
+
+Only dwarves can select these [[rangoric-srd/traits/Character Traits#Race Traits|race traits]]: [[rangoric-srd/traits/racial-traits/Brewmaster (Trait)|Brewmaster]], [[rangoric-srd/traits/racial-traits/Goldsniffer|Goldsniffer]] and [[rangoric-srd/traits/racial-traits/Tunnel Fighter|Tunnel Fighter]]. Any race can select a [[rangoric-srd/traits/Character Traits#Bloodline Race Traits|bloodline race trait]].
+
 ### Subtypes
 
 Bundles of alternate traits for dwarves of a particular background.

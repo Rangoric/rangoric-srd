@@ -136,6 +136,10 @@ A halfling can take any of these in place of the traits they replace (see [[rang
 | [[rangoric-srd/races/racial-traits/Wanderlust|Wanderlust]] | Fearless and halfling luck |
 | [[rangoric-srd/races/racial-traits/Warslinger|Warslinger]] | Sure-footed (Acrobatics and Athletics only) |
 
+### Race Traits
+
+Only halflings can select these [[rangoric-srd/traits/Character Traits#Race Traits|race traits]]: [[rangoric-srd/traits/racial-traits/Freedom Fighter|Freedom Fighter]] and [[rangoric-srd/traits/racial-traits/Well-Informed|Well-Informed]]. Any race can select a [[rangoric-srd/traits/Character Traits#Bloodline Race Traits|bloodline race trait]].
+
 ### Subtypes
 
 Bundles of alternate traits for halflings of a particular background.

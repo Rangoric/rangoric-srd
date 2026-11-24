@@ -1,0 +1,117 @@
+filters:
+  and:
+    - file.inFolder("rangoric-srd/traits")
+views:
+  - type: table
+    name: "All notes"
+    order:
+      - file.name
+      - note.srd-type
+      - note.trait-type
+      - note.race
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Combat traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/combat-traits")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Faith traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/faith-traits")
+    order:
+      - file.name
+      - note.trait-type
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Magic traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/magic-traits")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Social traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/social-traits")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Race traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/racial-traits")
+    groupBy:
+      property: note.race
+      direction: ASC
+    order:
+      - file.name
+      - note.race
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Bloodline race traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/bloodline-traits")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Regional traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/regional-traits")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC
+  - type: table
+    name: "Drawbacks"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/drawbacks")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC

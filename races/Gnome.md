@@ -141,6 +141,10 @@ A gnome can take any of these in place of the traits they replace (see [[rangori
 | [[rangoric-srd/races/racial-traits/Pyromaniac|Pyromaniac]] | Gnome magic and illusion resistance |
 | [[rangoric-srd/races/racial-traits/Warden of Nature|Warden of Nature]] | Defensive training and hatred |
 
+### Race Traits
+
+Only gnomes can select these [[rangoric-srd/traits/Character Traits#Race Traits|race traits]]: [[rangoric-srd/traits/racial-traits/Animal Friend|Animal Friend]] and [[rangoric-srd/traits/racial-traits/Rapscallion|Rapscallion]]. Any race can select a [[rangoric-srd/traits/Character Traits#Bloodline Race Traits|bloodline race trait]].
+
 ### Subtypes
 
 Bundles of alternate traits for gnomes of a particular background.
