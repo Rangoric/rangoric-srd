@@ -71,3 +71,5 @@ A half-celestial uses all the base creature’s statistics and special abilities
 **Alignment**: Always good (any).
 
 **Level Adjustment**: Same as base creature +4.
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/half-celestial/Alternate Half-Celestial|Alternate Half-Celestial]].

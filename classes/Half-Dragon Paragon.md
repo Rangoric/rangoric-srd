@@ -5,7 +5,7 @@ alignment: "Any"
 hit-die: "d12"
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
-race: "[[rangoric-srd/monsters/Half-Dragon|half-dragons]]"
+race: "[[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragons]]"
 based-on:
   - "[[fantasy srd 3.5/unearthed-arcana/Racial Paragon|Racial Paragon (3.5)]]"
 status: draft
@@ -18,7 +18,7 @@ tags: [rangoric, rangoric/class]
 
 ### Half-Dragon Paragon
 
-**Race**: only [[rangoric-srd/monsters/Half-Dragon|half-dragons]] (characters with the half-dragon template) can take levels in this class. It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
+**Race**: only [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragons]] (characters with the half-dragon template) can take levels in this class. It is a [[rangoric-srd/unearthed-arcana/Racial Paragon|racial paragon]] class; the rules all paragon classes share are there.
 
 Half-dragons are a diverse lot. Their dragon parents differ in attitudes and abilities depending on their kind, and the magical nature of dragons means that their other parent can be nearly anything. This diversity might seem to preclude the idea of a half-dragon paragon, but the overwhelming strength of the dragon heritage makes such paragons possible. Half-dragon paragons are defined in large part by the nature of their dragon parent, making a half-gold dragon much different from a half-red dragon — although both are gifted with extraordinary physical abilities and force of personality.
 

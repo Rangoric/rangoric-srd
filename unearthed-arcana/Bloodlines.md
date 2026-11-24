@@ -272,7 +272,7 @@ In times long past, [[rangoric-srd/monsters/chromatic-dragons/Blue Dragon|blue d
 
 ### Dragon, Brass
 
-Bards tell a popular tale of a lost desert traveler encountering a friendly woman who nurses him back to health before putting him on the path home. in the tale, this helpful individual turns out to be a powerful [[rangoric-srd/monsters/metallic-dragons/Brass Dragon|brass dragon]] who merely wants someone to talk to, and who, many months later, gives birth to a [[rangoric-srd/monsters/Half-Dragon|half-dragon]] child. The descendants of this chance encounter are often talkative and friendly.
+Bards tell a popular tale of a lost desert traveler encountering a friendly woman who nurses him back to health before putting him on the path home. in the tale, this helpful individual turns out to be a powerful [[rangoric-srd/monsters/metallic-dragons/Brass Dragon|brass dragon]] who merely wants someone to talk to, and who, many months later, gives birth to a [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] child. The descendants of this chance encounter are often talkative and friendly.
 
 **Brass Dragon Bloodline Traits**
 
@@ -336,7 +336,7 @@ When the playful copper dragon meets a like-minded creature, a long-term friends
 
 ### Dragon, Gold
 
-[[rangoric-srd/monsters/metallic-dragons/Gold Dragon|Gold dragons]] occasionally take more than a passing interest in mortals. Thanks to their ability to polymorph, some leave a lasting reminder of their presence in the form of a [[rangoric-srd/monsters/Half-Dragon|half-dragon]] child. Even many generations later, this draconic blood can manifest in the form of bloodline traits. Descendants of a gold dragon tend to get along well with other good-aligned creatures, displaying uncommon grace and courtesy.
+[[rangoric-srd/monsters/metallic-dragons/Gold Dragon|Gold dragons]] occasionally take more than a passing interest in mortals. Thanks to their ability to polymorph, some leave a lasting reminder of their presence in the form of a [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] child. Even many generations later, this draconic blood can manifest in the form of bloodline traits. Descendants of a gold dragon tend to get along well with other good-aligned creatures, displaying uncommon grace and courtesy.
 
 **Gold Dragon Bloodline Traits**
 
@@ -369,7 +369,7 @@ When the playful copper dragon meets a like-minded creature, a long-term friends
 
 ### Dragon, Green
 
-In certain rare instances, [[rangoric-srd/monsters/chromatic-dragons/Green Dragon|green dragons]] have been known to take control of (rather than simply devour) small enclaves of forest-dwelling humanoids. Some of those humanoids later give birth to [[rangoric-srd/monsters/Half-Dragon|half-dragon]] offspring, creating bloodlines that last centuries. Descendants of a green dragon are often voracious and belligerent, picking fights with little or no provocation.
+In certain rare instances, [[rangoric-srd/monsters/chromatic-dragons/Green Dragon|green dragons]] have been known to take control of (rather than simply devour) small enclaves of forest-dwelling humanoids. Some of those humanoids later give birth to [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] offspring, creating bloodlines that last centuries. Descendants of a green dragon are often voracious and belligerent, picking fights with little or no provocation.
 
 **Green Dragon Bloodline Traits**
 

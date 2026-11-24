@@ -25,6 +25,8 @@ Proxies are divine minions invested with a small portion of the deity’s power.
 
 Some spirits demonstrate their devotion to their deity by traveling to the deity’s home plane. Those that survive the journey across the planes become servants of their deity. While a few may remain disembodied spirits, most become petitioners through the divine will of their patron deity.
 
+Another version of the petitioner template, with the traits a petitioner gains on each Outer Plane, is [[rangoric-srd/monsters/Petitioner|Petitioner]].
+
 In general, petitioners appear in the form that they had when they died, though they may be remade by deities to fit the nature of their particular afterlife. In general, petitioners who become divine servants are creatures that originally had at least 1 Intelligence and 1 Wisdom.
 
 The following creature types may become petitioners depending on the deity: aberrations, animals, dragons, fey, giants, humanoids, magical beasts, monstrous humanoids, and plants, oozes, and vermin with sufficient ability scores. Constructs and undead are not usually made into petitioners, though the spirits of their original forms may be. Elementals and outsiders tend to meld with their native planes, and as such do not become petitioners. Their spirits may still be called back from the dead, however.

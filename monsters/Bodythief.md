@@ -66,9 +66,7 @@ Plants of frightfully advanced intellect, bodythieves cannot abide the irrationa
 
 Bodythieves are nearly immobile, though they can drag themselves along with their vines in extremis. When they must move large distances, they enlist the aid of their spawn.
 
-A creature with the pod-spawned template is a duplicate created by the bodythief. It resembles the original and has all its memories, but can't exhibit sincere emotion.
-
-Pod-spawned creatures can't reproduce and remain the same apparent age as their original at the time of replacement.
+A creature with the [[rangoric-srd/monsters/Pod-Spawned Creature|pod-spawned]] template is a duplicate created by the bodythief; the template and its sample, a pod-spawned guard captain, are in [[rangoric-srd/monsters/Pod-Spawned Creature|Pod-Spawned Creature]].
 
 Bodythiefs speak Common, Dwarven, Elven, Orc and Sylvan (can't speak any language).
 
@@ -76,84 +74,10 @@ Bodythiefs speak Common, Dwarven, Elven, Orc and Sylvan (can't speak any languag
 
 **Absorb Essence (Su)**: Creatures in a bodythief's stomach gain 4 negative levels (Fortitude DC 27 half) each round at the start of the bodythief's turn. A check to remove a negative level gained in this way is also DC 27. If the creature dies from the negative levels, its body disintegrates and the bodythief absorbs its life essence. This is a death effect.
 
-**[[rangoric-srd/monsters/abilities/Spawn Pod Creature|Spawn Pod Creature]] (Su)**: Once a bodythief has absorbed the life essence of a Large or smaller creature, it can begin growing a duplicate of that creature as a free action. Growing a Tiny or smaller duplicate takes 1 round, a Small duplicate 3 rounds, a Medium duplicate 5 rounds, and a Large duplicate 10 rounds. Duplicates are identical to the creature whose life essence has been devoured, but they are pod-spawned. They closely resemble the original creature and retain all its memories. The newly created spawn has none of the original creature's equipment, though the bodythief can vomit forth any surviving swallowed gear as a move action. As the duplicate hatches, the bodythief makes an Imitation check to determine the resemblance to the original. The duplicate must be grown within 24 hours of the original's digestion, or its essence and memories dissipate. Only a single duplicate can made of any given creature.
+**[[rangoric-srd/monsters/abilities/Spawn Pod Creature|Spawn Pod Creature]] (Su)**: Once a bodythief has absorbed the life essence of a Large or smaller creature, it can begin growing a duplicate of that creature as a free action. Growing a Tiny or smaller duplicate takes 1 round, a Small duplicate 3 rounds, a Medium duplicate 5 rounds, and a Large duplicate 10 rounds. Duplicates are identical to the creature whose life essence has been devoured, but they are [[rangoric-srd/monsters/Pod-Spawned Creature|pod-spawned]]. They closely resemble the original creature and retain all its memories. The newly created spawn has none of the original creature's equipment, though the bodythief can vomit forth any surviving swallowed gear as a move action. As the duplicate hatches, the bodythief makes an Imitation check to determine the resemblance to the original. The duplicate must be grown within 24 hours of the original's digestion, or its essence and memories dissipate. Only a single duplicate can made of any given creature.
 
 **[[rangoric-srd/monsters/abilities/Transfer|Transfer]] (Ex)**: A bodythief can transfer a creature grappled with a tentacle to its mouth with a move action and a successful grapple combat maneuver check.
 
 **[[rangoric-srd/monsters/abilities/Vexing Vines|Vexing Vines]] (Ex)**: Each of the bodythief's tentacle vines plus its bite attack can deliver its own attack of opportunity, giving the bodythief five attacks of opportunity per round. It cannot deliver attacks of opportunity with a portion of its body being used to grapple. The bodythief can give up an attack of opportunity with a tentacle to deflect a missile as though it had the Deflect Arrows feat.
 
-**Pod-Spawned Guard Captain**:
-
-- **CR**: 8
-- **XP**: 4,800
-- **Alignment**: LE
-- **Size**: Medium
-- **Creature type**: Plant
-- **Creature subtype**: augmented humanoid
-- **Init**: +5
-- **Senses**: low-light vision; Perception +3
-
-**Defense**
-
-- **AC**: 20, touch 11, flat-footed 19 (+7 armor, +1 Dex, +2 shield)
-- **HP**: 90 (9d10+36)
-- **Fortitude**: +8
-- **Reflex**: +4
-- **Will**: +4 (+2 vs. fear)
-- **Defensive abilities**: bravery +2
-- **Immune**: plant traits
-
-**Offense**
-
-- **Speed**: 30 ft.
-- **Melee**: +2 longsword +19/+14 (1d8+10/17–20)
-- **Ranged**: mwk light crossbow +12 (1d8+1/19–20/×2)
-- **Special attacks**: weapon training (heavy blades +2, crossbows +1)
-
-**Statistics**
-
-- **Strength**: 19
-- **Dexterity**: 13
-- **Constitution**: 14
-- **Intelligence**: 10
-- **Wisdom**: 12
-- **Charisma**: 4
-- **Base attack**: +9
-- **CMB**: +13
-- **CMD**: 24
-- **Feats**: Alertness, [[rangoric-srd/feats/Cleave|Cleave]], [[rangoric-srd/feats/Great Cleave|Great Cleave]], [[rangoric-srd/feats/Greater Weapon Focus|Greater Weapon Focus]] (longsword), [[rangoric-srd/feats/Improved Critical|Improved Critical]] (longsword), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (longsword), [[rangoric-srd/feats/Weapon Specialization|Weapon Specialization]] (longsword)
-- **Skills**: Climb +13, Perception +3, Ride +10, Sense Motive +3, Swim +13
-- **Languages**: Common
-- **Special qualities**: armor training 2, mimic
-
-**Ecology**
-
-- **Environment**: any
-- **Organization**: any
-- **Treasure**: NPC gear (+1 breastplate, heavy steel shield, +2 longsword, mwk light crossbow with 20 bolts, other treasure)
-
-**Creating a Pod-Spawned Creature**:
-
-"Pod-spawned" is an acquired template that can be added to any living creature (referred to hereafter as the base creature).
-
-**CR**: For creatures with no class levels or only NPC class levels, this is the same as that of the base creature. For creatures with PC class levels, this is the same as that of the base creature -1. Creatures with a significant number of spells, spell-like abilities, or supernatural abilities have their CR further reduced by 1.
-
-**Type**: Type changes to plant. Do not recalculate BAB, hit points, saves, or skill ranks.
-
-**Alignment**: Alignment changes to lawful evil.
-
-**Senses**: A pod-spawned creature gains low-light vision.
-
-**Defensive Abilities**: A pod-spawned creature gains plant traits.
-
-**Special Abilities (Ex)**:
-
-The pod-spawned creature gains the mimic ability.
-
-*Mimic* A pod-spawned creature retains all the knowledge of its original. It can impersonate the original perfectly except for its lack of emotion. This emotionlessness can be detected with a successful DC 20 Sense Motive check. A creature familiar with the original gains a +5 circumstance bonus on this check. If the pod-spawned creature feigns sincere emotion, the Sense Motive check is opposed by its Bluff check instead. Pod-spawned creatures resemble the original down to hair and blood. Noticing small physical imperfections requires a successful Perception check with a DC determined by the spawning bodythief's Disguise check, made when the pod hatches.
-
-**Ability Scores**: Cha -4.
-
-**Feats**: All feats are retained, even if the pod-spawned creature no longer qualifies for their prerequisites.
-
-**Special Abilities**: The creature loses any spellcasting ability and all spell-like and supernatural abilities.
+**Pod-Spawned Creature**: the pod-spawned template, with its sample the pod-spawned guard captain, is in [[rangoric-srd/monsters/Pod-Spawned Creature|Pod-Spawned Creature]].

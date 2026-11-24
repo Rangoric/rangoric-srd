@@ -83,3 +83,5 @@ A half-dragon uses all the base creature’s statistics and special abilities ex
 **Level Adjustment**: Same as base creature +3.
 
 **Paragon Class**: a character with the half-dragon template can advance as a [[rangoric-srd/classes/Half-Dragon Paragon|half-dragon paragon]].
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/half-dragon/Alternate Half-Dragon|Alternate Half-Dragon]].

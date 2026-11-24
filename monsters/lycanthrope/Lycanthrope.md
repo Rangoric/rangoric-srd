@@ -209,3 +209,5 @@ On a failed check, the character must remain in animal form until the next dawn,
 **Retry (Voluntary Change)**: A character can retry voluntary changes to animal form or hybrid form as often as he likes. Each attempt is a standard action. However, on a failed check to return to humanoid form, the character must remain in animal or hybrid form until the next dawn, when he automatically returns to humanoid form.
 
 **Special**: An afflicted lycanthrope cannot attempt a voluntary change until it becomes aware of its condition (see Lycanthropy as an Affliction).
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/lycanthrope/Alternate Lycanthrope|Alternate Lycanthrope]].
