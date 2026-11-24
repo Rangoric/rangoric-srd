@@ -120,6 +120,8 @@ At 2nd level, and every two levels thereafter, an oracle learns an additional sp
 
 ![[rangoric-srd/class-options/curses/Wasting Curse]]
 
+Other curses, some open only to oracles of certain races, are in [[rangoric-srd/class-options/curses/Oracle Curses|Oracle Curses]].
+
 **Orisons**: Oracles learn a number of orisons, or 0-level spells, as noted on [[rangoric-srd/classes/Oracle#^table-oracle-spells-known|Table: Oracle Spells Known]]. These spells are cast like any other spell, but they do not consume any slots and may be used again. ^oracle-orisons
 
 **Revelation**: At 1st level, 3rd level, and every four levels thereafter (7th, 11th, and so on), an oracle uncovers a new secret about her mystery that grants her powers and abilities. The oracle must select a revelation from the list of revelations available to her [[rangoric-srd/class-options/mysteries/Mysteries|mystery]] (each revelation has its own note in [[rangoric-srd/class-options/revelations/Revelations|Revelations]]). If a revelation is chosen at a later level, the oracle gains all of the abilities and bonuses granted by that revelation based on her current level. Unless otherwise noted, activating the power of a revelation is a standard action. Unless otherwise noted, the DC to save against a revelation is equal to 10 + 1/2 the oracle’s level + the oracle’s Charisma modifier. Effects that duplicate spells use the oracle’s class level as her caster level. ^oracle-revelation

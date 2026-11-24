@@ -7,7 +7,7 @@ based-on:
 status: draft
 change: new
 pi-review: 2026-11-02
-tags: [rangoric, rangoric/feat]
+tags: [rangoric, rangoric/feat, racial]
 ---
 
 # Shadow Shroud
