@@ -19,3 +19,5 @@ This is a wagon on runners for moving through snow and over ice. In general, two
 Price 20 gp; Weight 300 lb.
 
 See also the [[rangoric-srd/equipment/gear/Dog Sled|dog sled]], which a team of trained riding dogs pulls.
+
+See also the [[rangoric-srd/equipment/gear/Sleigh|sleigh]].
