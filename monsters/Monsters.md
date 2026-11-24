@@ -3,6 +3,7 @@ srd-type: "overview"
 section: "Monsters"
 based-on:
   - "[[fantasy srd 3.5/monsters/Monsters|Monsters (3.5)]]"
+  - "[[path srd 3.5/rules/bestiary/introduction/Introduction (Introduction)|Introduction (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
@@ -130,6 +131,8 @@ This shows the average level of a party of adventurers for which one creature wo
 ###### Treasure
 
 This line reflects how much wealth the creature owns. In most cases, a creature keeps valuables in its home or lair and has no treasure with it when it travels. Intelligent creatures that own useful, portable treasure (such as magic items) tend to carry and use these, leaving bulky items at home.
+
+The value of a creature’s treasure is given in these terms, measured against [[rangoric-srd/rules/Treasure#Using the Treasure Table|Treasure Values per Encounter]]. “Standard” treasure indicates the total value of the creature’s treasure is that of a CR equal to the average party level, as listed on that table. “Double” or “triple” treasure indicates the creature has double or triple this standard value. “Incidental” indicates the creature has half this standard value, and then only within the confines of its lair. “None” indicates that the creature normally has no treasure (as is typical for an unintelligent creature that has no real lair, although such creatures are often used to guard treasures of varying amounts). “NPC gear” indicates the monster has treasure as normal for an NPC of a level equal to the monster’s CR.
 
 ###### Alignment
 

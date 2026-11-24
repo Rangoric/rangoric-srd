@@ -75,7 +75,7 @@ Followers have different priorities from cohorts. When the character tries to at
 
 *Leadership Score*: A character’s base Leadership score equals his level plus any Charisma modifier. In order to take into account negative Charisma modifiers, this table allows for very low Leadership scores, but the character must still be 6th level or higher in order to gain the Leadership feat. Outside factors can affect a character’s Leadership score, as detailed above.
 
-*Cohort Level*: The character can attract a cohort of up to this level. Regardless of a character’s Leadership score, he can only recruit a cohort who is two or more levels lower than himself. The cohort should be equipped with gear appropriate for its level. A character can try to attract a cohort of a particular race, class, and alignment. The cohort’s alignment may not be opposed to the leader’s alignment on either the law-vs-chaos or good-vs-evil axis, and the leader takes a Leadership penalty if he recruits a cohort of an alignment different from his own.
+*Cohort Level*: The character can attract a cohort of up to this level. Regardless of a character’s Leadership score, he can only recruit a cohort who is two or more levels lower than himself. The cohort should be equipped with gear appropriate for its level. A character can try to attract a cohort of a particular race, class, and alignment. With the GM’s approval the cohort can be a similarly aligned monster: see [[rangoric-srd/rules/Monster Cohorts|Monster Cohorts]]. The cohort’s alignment may not be opposed to the leader’s alignment on either the law-vs-chaos or good-vs-evil axis, and the leader takes a Leadership penalty if he recruits a cohort of an alignment different from his own.
 
 Cohorts earn XP as follows:
 
