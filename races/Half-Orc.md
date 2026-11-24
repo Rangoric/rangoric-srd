@@ -173,3 +173,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | [[rangoric-srd/class-options/archetypes/summoner/Blood God Disciple (Archetype)\|Blood God Disciple]] | [[rangoric-srd/classes/Summoner\|Summoner]] |
 | [[rangoric-srd/class-options/archetypes/paladin/Redeemer (Archetype)\|Redeemer]] | [[rangoric-srd/classes/Paladin\|Paladin]] |
 | [[rangoric-srd/class-options/archetypes/barbarian/Hateful Rager (Archetype)\|Hateful Rager]] | [[rangoric-srd/classes/Barbarian\|Barbarian]] |
+| [[rangoric-srd/class-options/archetypes/rogue/Skulking Slayer (Archetype)\|Skulking Slayer]] | [[rangoric-srd/classes/Rogue\|Rogue]] |

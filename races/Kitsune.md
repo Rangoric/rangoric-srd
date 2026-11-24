@@ -77,3 +77,11 @@ A kitsune can take any of these in place of the traits they replace (see [[rango
 A kitsune gains these [[rangoric-srd/races/PC Races#^class-bonuses|class bonuses]] for each level in the class each one names.
 
 ![[rangoric-srd/races/class-bonuses/Class Bonuses.base#Kitsune]]
+
+### Racial Archetypes
+
+The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial archetypes]] available to members of this race.
+
+| Archetype | Class |
+| --- | --- |
+| [[rangoric-srd/class-options/archetypes/rogue/Kitsune Trickster (Archetype)\|Kitsune Trickster]] | [[rangoric-srd/classes/Rogue\|Rogue]] |

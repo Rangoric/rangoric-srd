@@ -100,3 +100,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/monk/Nimble Guardian (Archetype)\|Nimble Guardian]] | [[rangoric-srd/classes/Monk\|Monk]] |
+| [[rangoric-srd/class-options/archetypes/rogue/Cat Burglar (Archetype)\|Cat Burglar]] | [[rangoric-srd/classes/Rogue\|Rogue]] |
