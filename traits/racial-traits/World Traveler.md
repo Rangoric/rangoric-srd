@@ -1,0 +1,19 @@
+---
+srd-type: "trait"
+section: "Traits"
+trait-type: "race"
+race: "[[rangoric-srd/races/Human|Human]]"
+book: "Advanced Player's Guide"
+based-on:
+  - "[[path srd 3.5/traits/World Traveler|World Traveler (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/trait]
+---
+
+# World Traveler
+
+**Category**: [[rangoric-srd/traits/Character Traits#Race Traits|race trait]]. **Race**: [[rangoric-srd/races/Human|Human]].
+
+Your family has taken the love of travel to an extreme, roaming the world extensively. You've seen dozens of cultures and have learned to appreciate the diversity of what the world has to offer. Select one of the following skills: [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Society|Society]], or [[rangoric-srd/skills/Sense Motive|Sense Motive]]. You gain a +1 [[rangoric-srd/traits/Character Traits#^trait-bonus|trait bonus]] on that skill, and it is always a class skill for you.

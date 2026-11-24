@@ -122,6 +122,10 @@ A half-elf can take any of these in place of the traits they replace (see [[rang
 | [[rangoric-srd/races/racial-traits/Wary|Wary]] | Keen senses |
 | [[rangoric-srd/races/racial-traits/Water Child|Water Child]] | Adaptability |
 
+### Race Traits
+
+Only half-elves can select these [[rangoric-srd/traits/Character Traits#Race Traits|race traits]]: [[rangoric-srd/traits/racial-traits/Elven Reflexes|Elven Reflexes]] and [[rangoric-srd/traits/racial-traits/Failed Apprentice|Failed Apprentice]]. Any race can select a [[rangoric-srd/traits/Character Traits#Bloodline Race Traits|bloodline race trait]].
+
 ### Subtypes
 
 Bundles of alternate traits for half-elves of a particular background.

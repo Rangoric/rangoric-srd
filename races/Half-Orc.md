@@ -140,6 +140,10 @@ A half-orc can take any of these in place of the traits they replace (see [[rang
 | [[rangoric-srd/races/racial-traits/Squalid|Squalid]] | Orc ferocity |
 | [[rangoric-srd/races/racial-traits/Toothy|Toothy]] | Orc ferocity |
 
+### Race Traits
+
+Only half-orcs can select these [[rangoric-srd/traits/Character Traits#Race Traits|race traits]]: [[rangoric-srd/traits/racial-traits/Almost Human|Almost Human]], [[rangoric-srd/traits/racial-traits/Brute|Brute]], [[rangoric-srd/traits/racial-traits/Outcast|Outcast]] and [[rangoric-srd/traits/racial-traits/Scrapper|Scrapper]]. Any race can select a [[rangoric-srd/traits/Character Traits#Bloodline Race Traits|bloodline race trait]].
+
 ### Subtypes
 
 Bundles of alternate traits for half-orcs of a particular background.

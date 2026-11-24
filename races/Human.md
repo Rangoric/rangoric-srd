@@ -119,6 +119,10 @@ A human can take any of these in place of the traits they replace (see [[rangori
 | [[rangoric-srd/races/racial-traits/Mixed Heritage|Mixed Heritage]] | Bonus feat |
 | [[rangoric-srd/races/racial-traits/Silver Tongued|Silver Tongued]] | Skilled |
 
+### Race Traits
+
+Only humans can select these [[rangoric-srd/traits/Character Traits#Race Traits|race traits]]: [[rangoric-srd/traits/racial-traits/Scholar of Ruins|Scholar of Ruins]] and [[rangoric-srd/traits/racial-traits/World Traveler|World Traveler]]. Any race can select a [[rangoric-srd/traits/Character Traits#Bloodline Race Traits|bloodline race trait]].
+
 ### Subtypes
 
 Bundles of alternate traits for humans of a particular background.

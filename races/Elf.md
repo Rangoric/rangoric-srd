@@ -135,6 +135,10 @@ An elf can take any of these in place of the traits they replace (see [[rangoric
 | [[rangoric-srd/races/racial-traits/Urbanite|Urbanite]] | Keen senses |
 | [[rangoric-srd/races/racial-traits/Woodcraft|Woodcraft]] | Elven magic |
 
+### Race Traits
+
+Only elves can select these [[rangoric-srd/traits/Character Traits#Race Traits|race traits]]: [[rangoric-srd/traits/racial-traits/Forlorn|Forlorn]] and [[rangoric-srd/traits/racial-traits/Warrior of Old|Warrior of Old]]. Any race can select a [[rangoric-srd/traits/Character Traits#Bloodline Race Traits|bloodline race trait]].
+
 ### Subtypes
 
 Bundles of alternate traits for elves of a particular background.
