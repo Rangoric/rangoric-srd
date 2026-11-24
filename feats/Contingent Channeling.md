@@ -1,0 +1,21 @@
+---
+srd-type: "feat"
+section: "Feats"
+prerequisites: "True healer class feature, Selective Channeling."
+book: "Ultimate Combat"
+based-on:
+  - "[[path srd 3.5/feats/Contingent Channeling|Contingent Channeling (PF1)]]"
+  - "[[path srd 3.5 foundry/feats/Contingent Channeling|Contingent Channeling (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/feat]
+---
+
+# Contingent Channeling
+
+You can imbue others with your healing energy so that they can use it at the moment of greatest need.
+
+**Prerequisites**: [[rangoric-srd/class-options/archetypes/cleric/Merciful Healer (Archetype)|True healer]] class feature, [[rangoric-srd/feats/Selective Channeling|Selective Channeling]].
+
+**Benefit**: You can use a standard action to touch an ally and expend one of your daily uses of [[rangoric-srd/combat/Combat Special Attacks#^channel-energy|channel energy]] to create a repository of positive energy within that ally. This repository contains the same number and type of dice as normal for your channel energy feature, and it lasts for 1 minute. An ally who has such a repository can use an immediate action to roll the repository’s dice and regain a number of hit points equal to the result. If an ally who has such a repository is reduced to negative hit points, the repository triggers, allowing the ally to heal without using an action.
