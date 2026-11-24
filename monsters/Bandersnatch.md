@@ -81,7 +81,7 @@ Though no bandersnatch is ordinary, some are rarer than others. The most famous 
 
 **Magicbane Bandersnatch (+3 CR)**: These bandersnatches radiate an antimagic aura in a 20-foot radius. Should the aura be brought down, it returns automatically as a free action on the bandersnatch's next turn. Magicbane bandersnatches lack gaze and quick recovery.
 
-**Primal Bandersnatch (+2 CR)**: Primal bandersnatches have kept their ties to the ancient world of the fey. They have the extraplanar subtype, SR equal to 11 plus their CR, DR 10/cold iron, and the advanced creature simple template.
+**Primal Bandersnatch (+2 CR)**: Primal bandersnatches have kept their ties to the ancient world of the fey. They have the extraplanar subtype, SR equal to 11 plus their CR, DR 10/cold iron, and the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]].
 
 ### Combat
 

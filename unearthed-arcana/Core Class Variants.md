@@ -820,11 +820,11 @@ The planar ranger has all the standard [[rangoric-srd/classes/Ranger|ranger]] cl
 
 ###### Wild Empathy
 
-A planar ranger takes no penalty on wild empathy checks made to influence magical beasts with the [[rangoric-srd/monsters/Celestial Creature|celestial]] or [[rangoric-srd/monsters/Fiendish Creature|fiendish]] templates. However, he takes a -4 penalty when using this ability against animals.
+A planar ranger takes no penalty on wild empathy checks made to influence magical beasts with the [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] or [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] templates. However, he takes a -4 penalty when using this ability against animals.
 
 ###### Animal Companion
 
-A nonevil planar ranger may have a [[rangoric-srd/monsters/Celestial Creature|celestial]] version of a normal [[rangoric-srd/monsters/Animals|animal]] as his animal companion. A nongood ranger may have a [[rangoric-srd/monsters/Monsters E to F|fiendish]] version of a normal animal as his animal companion.
+A nonevil planar ranger may have a [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] version of a normal [[rangoric-srd/monsters/Animals|animal]] as his animal companion. A nongood ranger may have a [[rangoric-srd/monsters/Monsters E to F|fiendish]] version of a normal animal as his animal companion.
 
 ###### Spellcasting
 

@@ -49,7 +49,7 @@ This tiny fiend acts like a perverse, manifest moral compass. Furthermore, this 
 
 *Extra Divination (Sp)*: At 13th level, the fiendish vessel can gain intelligence from her patron more often each day. She can use fiendish divination up to 3 times per day.
 
-**Fiendish Summoning**: When casting *[[rangoric-srd/spells/Summon Monster I|summon monster]]* spells, a fiendish vessel is limited to summoning [[rangoric-srd/monsters/Fiendish Creature|fiendish creatures]] and evil outsiders of the same alignment as her patron.
+**Fiendish Summoning**: When casting *[[rangoric-srd/spells/Summon Monster I|summon monster]]* spells, a fiendish vessel is limited to summoning [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish creatures]] and evil outsiders of the same alignment as her patron.
 
 ## Fiendish Patrons
 

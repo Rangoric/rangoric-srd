@@ -69,9 +69,9 @@ Kamadans prefer underground lairs, but settle for rocky outcroppings or dens ins
 
 Though the above statistics represent the most common breed of kamadan, two rarer but more dangerous variants are detailed in brief below.
 
-**Dusk Kamadan (CR +1)**: A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the advanced creature template, and its snakes have a poisonous bite. *Dusk Kamadan Snake Venom*: Snakes—injury; *save* Fort DC 17; *frequency* 1/round for 6 rounds; *effect* 1d2 Con; *cure* 2 consecutive saves.
+**Dusk Kamadan (CR +1)**: A dusk kamadan has midnight black fur and snakes bearing black and red ring patterns on their bodies. A dusk kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]], and its snakes have a poisonous bite. *Dusk Kamadan Snake Venom*: Snakes—injury; *save* Fort DC 17; *frequency* 1/round for 6 rounds; *effect* 1d2 Con; *cure* 2 consecutive saves.
 
-**Polar Kamadan (CR +2)**: A polar kamadan has white fur with black spots like a snow leopard. Its snakes are furred as well. A polar kamadan has the advanced creature template and batlike wings that grant it a fly speed of 60 ft. (average). The breath weapon of a polar kamadan is particularly cold—those who succumb to it also suffer 1d4 points of Dexterity damage from numbness.
+**Polar Kamadan (CR +2)**: A polar kamadan has white fur with black spots like a snow leopard. Its snakes are furred as well. A polar kamadan has the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature template]] and batlike wings that grant it a fly speed of 60 ft. (average). The breath weapon of a polar kamadan is particularly cold—those who succumb to it also suffer 1d4 points of Dexterity damage from numbness.
 
 Kamadans speak Aklo.
 

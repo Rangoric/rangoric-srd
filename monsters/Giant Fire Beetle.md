@@ -65,7 +65,7 @@ Although nocturnal, the fire beetle lacks darkvision—it relies on its own glow
 
 Other variations on the common fire beetle exist. The two most common variants are detailed below.
 
-**Mining Beetle (CR 1/2)**: A mining beetle is an advanced fire beetle with the advanced simple template and a burrowing speed of 20 feet.
+**Mining Beetle (CR 1/2)**: A mining beetle is an advanced fire beetle with the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced simple template]] and a burrowing speed of 20 feet.
 
 **Flash Beetle (CR 1/2)**: A flash beetle is an advanced fire beetle that can create a bright flash of light once an hour. When a flash beetle does so, all creatures in a 10-foot burst must make a DC 12 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1d3 rounds. The save DC is Constitution-based.
 

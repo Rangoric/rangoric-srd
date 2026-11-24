@@ -75,6 +75,6 @@ Dire corbies speak Undercommon.
 
 **[[rangoric-srd/monsters/abilities/Leap|Leap]] (Ex)**: A dire corby can perform a special kind of pounce attack by jumping into combat. When a dire corby charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it succeeds at this Acrobatics check, it can make a full attack (two claw attacks, plus a rend attack if both claws hit) against foes in reach. If it fails, it can still make its one attack as normal for a charge.
 
-**Dread Corby**: These powerful dire corbies are the offspring of dire corbies and [[rangoric-srd/monsters/harpy/Harpy|harpies]]. They have the [[rangoric-srd/monsters/Advanced Creature|advanced]] template and gain the following special attack.
+**Dread Corby**: These powerful dire corbies are the offspring of dire corbies and [[rangoric-srd/monsters/harpy/Harpy|harpies]]. They have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced]] template and gain the following special attack.
 
 **Screech of Doom (Su)**: Once per day, a dread corby can shriek at a target within 30 feet. The target must make a DC 12 Will save or become [[rangoric-srd/rules/Special Abilities and Conditions#^frightened|frightened]] for 1d4 rounds. This is a sonic, mind-affecting fear effect. The save DC is Charisma-based.

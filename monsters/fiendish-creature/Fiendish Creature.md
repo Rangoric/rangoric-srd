@@ -57,3 +57,5 @@ base creature +1; HD 8 or more, as base creature +2.
 | 4–7        | 5                           | 5/magic          |
 | 8–11       | 10                          | 5/magic          |
 | 12 or more | 10                          | 10/magic         |
+
+The second version of this template is [[rangoric-srd/monsters/fiendish-creature/Alternate Fiendish Creature|Alternate Fiendish Creature]].

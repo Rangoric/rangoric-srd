@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
   - **Advancement**: 11–20 HD (Huge); 21–30 HD (Gargantuan)
   - **Level Adjustment**: —
 
-The sleek elasmosaurus is a long-necked, aquatic reptile. Although not technically a dinosaur, they and their kind are often found hunting in oceans and lakes in areas where dinosaurs are more common. You can create statistics for smaller, similar aquatic reptiles (such as the pleisosaurus) by applying the young simple template to the statistics presented above. An elasmosaurus is 45 feet long and weighs 4,000 pounds.
+The sleek elasmosaurus is a long-necked, aquatic reptile. Although not technically a dinosaur, they and their kind are often found hunting in oceans and lakes in areas where dinosaurs are more common. You can create statistics for smaller, similar aquatic reptiles (such as the pleisosaurus) by applying the [[rangoric-srd/monsters/simple-templates/Young Creature|young simple template]] to the statistics presented above. An elasmosaurus is 45 feet long and weighs 4,000 pounds.
 
 Though it resides primarily in the water, an elasmosaurus only breathes air. Observers who see only its head or tail might easily mistake it for a massive snake.
 

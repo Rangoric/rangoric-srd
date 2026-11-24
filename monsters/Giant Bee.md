@@ -66,7 +66,7 @@ Like their smaller cousins, giant bees fill their ecological niche by playing ma
 
 Giant bees grow to approximately 5 feet in length, with a similar wingspan. These creatures weigh 60 pounds and live in their adult form for nearly 10 years. Giant bees' stingers are not barbed like those of their diminutive counterparts, so these creatures can sting foes repeatedly and do not die after one sting.
 
-**Giant Bumblebee (CR 2)**: These bulky and aggressive giant bees have the advanced creature simple template. Their venom is deadly, and deals Constitution damage rather than Strength damage.
+**Giant Bumblebee (CR 2)**: These bulky and aggressive giant bees have the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]]. Their venom is deadly, and deals Constitution damage rather than Strength damage.
 
 Giant bees are usually not aggressive except when defending themselves or their hive.
 

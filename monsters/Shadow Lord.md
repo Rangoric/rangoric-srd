@@ -45,7 +45,7 @@ tags: [rangoric, rangoric/monster]
 
 **Spell-Like Abilities**: A shadow lord gains the following spell-like abilities, with a caster level equal to its Hit Dice: at will—*[[rangoric-srd/spells/Ray of Sickening|ray of sickening]]*; 3/day—*[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]*, *[[rangoric-srd/spells/Shadow Step|shadow step]]*; 1/day—*[[rangoric-srd/spells/Shadow Conjuration, Greater|greater shadow conjuration]]* (if the shadow lord has 11 or more Hit Dice), *[[rangoric-srd/spells/Shadow Walk|shadow walk]]*.
 
-A creature created with *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]* or *greater shadow conjuration* that would normally have a [[rangoric-srd/monsters/Celestial Creature|celestial]] or [[rangoric-srd/monsters/Fiendish Creature|fiendish]] template (such as a bear) instead gains the [[rangoric-srd/monsters/Shadow Creature|shadow creature]] template.
+A creature created with *[[rangoric-srd/spells/Shadow Conjuration|shadow conjuration]]* or *greater shadow conjuration* that would normally have a [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial]] or [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] template (such as a bear) instead gains the [[rangoric-srd/monsters/Shadow Creature|shadow creature]] template.
 
 **Special Qualities (Su)**: A shadow lord gains the following special quality.
 

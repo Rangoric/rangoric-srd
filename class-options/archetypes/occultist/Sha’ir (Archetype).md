@@ -30,7 +30,7 @@ A sha'ir works through minor servitor genies from the elemental planes instead o
 
 The elemental schools don't have [[rangoric-srd/classes/Occultist#^occultist-focus-powers|focus powers]] or resonant powers. Instead, the sha'ir considers all wizard spells of 6th level and lower from the lists corresponding to her jin's elemental schools to be on her occultist spell list. In addition, she adds additional spells to her list of spells known. For every spell level she can cast, she adds one spell from each jin's elemental school and one spell from each jin's non-elemental school.
 
-A jin in its natural form has the base statistics of a Small [[rangoric-srd/monsters/elemental/Elemental|elemental]] of the chosen type with the young simple template and without the air mastery, burn, drench, earth glide, earth mastery, vortex, water mastery, or whirlwind abilities.
+A jin in its natural form has the base statistics of a Small [[rangoric-srd/monsters/elemental/Elemental|elemental]] of the chosen type with the [[rangoric-srd/monsters/simple-templates/Young Creature|young simple template]] and without the air mastery, burn, drench, earth glide, earth mastery, vortex, water mastery, or whirlwind abilities.
 
 At 20th level, a sha'ir selects one of her jin and chooses one of its two schools instead of selecting an implement for [[rangoric-srd/classes/Occultist#^occultist-implement-mastery|implement mastery]].
 

@@ -63,4 +63,4 @@ tags: [rangoric, rangoric/monster]
 
 Rams are mountain-dwelling herd animals noted for their prominent horns.
 
-A typical ram stands about 3 feet tall, is 5 feet long, and weighs up to 300 pounds. You can create stats for smaller, similar animals (such as goats) by applying the young creature template to a ram.
+A typical ram stands about 3 feet tall, is 5 feet long, and weighs up to 300 pounds. You can create stats for smaller, similar animals (such as goats) by applying the [[rangoric-srd/monsters/simple-templates/Young Creature|young creature template]] to a ram.

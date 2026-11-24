@@ -57,3 +57,5 @@ If a celestial creature gains damage reduction, its natural weapons are treated 
 **Alignment**: Always good (any).
 
 **Level Adjustment**: Same as the base creature +2.
+
+The second version of this template is [[rangoric-srd/monsters/celestial-creature/Alternate Celestial Creature|Alternate Celestial Creature]].

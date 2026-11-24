@@ -63,7 +63,7 @@ tags: [rangoric, rangoric/monster]
 
 Poisonous frogs are a bright green color, with additional bright yellow, red, or blue markings. They are just over a foot long and weigh 10 pounds. The poison of poisonous frogs is often gathered by primitive tribes and used to coat darts and arrows for hunting.
 
-You can make a larger poison frog either by applying the giant simple template or by giving a normal [[rangoric-srd/monsters/Giant Frog|giant frog]] a poison frog's venomous bite.
+You can make a larger poison frog either by applying the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant simple template]] or by giving a normal [[rangoric-srd/monsters/Giant Frog|giant frog]] a poison frog's venomous bite.
 
 ### Combat
 

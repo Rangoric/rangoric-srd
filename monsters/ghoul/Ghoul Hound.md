@@ -64,7 +64,7 @@ tags: [rangoric, rangoric/monster]
 
 Ghouls keep ghoul hounds much as humans keep hunting dogs—some ghouls view these vicious beasts as little more than tools, while more sentimental ghouls treat them as favored pets. Ghoul hounds obediently follow their ghoul masters.
 
-**Grathkoll**: A larger breed of ghoul hound, the grathkoll can be ridden by a Medium creature. A grathkoll is a ghoul hound with the giant simple template and a +10 bonus to its base land speed. ^grathkoll
+**Grathkoll**: A larger breed of ghoul hound, the grathkoll can be ridden by a Medium creature. A grathkoll is a ghoul hound with the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant simple template]] and a +10 bonus to its base land speed. ^grathkoll
 
 ### Combat
 

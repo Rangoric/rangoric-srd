@@ -47,7 +47,7 @@ tags: [rangoric, rangoric/monster]
   - **Attack**: Gore +8 melee (2d6+9)
   - **Full Attack**: Gore +8 melee (2d6+9)
   - **Space/Reach**: 10 ft./5 ft.
-  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+12), [[rangoric-srd/monsters/Fiendish Creature|smite good]] 1/day as a swift action (+0 attack, +5 damage)
+  - **Special Attacks**: [[rangoric-srd/monsters/abilities/Powerful Charge|Powerful charge]] (gore, 4d6+12), [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|smite good]] 1/day as a swift action (+0 attack, +5 damage)
   - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/monsters/abilities/Scent|scent]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/good, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 10 and fire 10, [[rangoric-srd/monsters/abilities/Spell Resistance|spell resistance]] 10
   - **Saves**: Fort +10, Ref +4, Will +2
   - **Abilities**: Str 22, Dex 10, Con 19, Int 2, Wis 13, Cha 5

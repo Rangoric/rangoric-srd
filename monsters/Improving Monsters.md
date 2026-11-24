@@ -2,6 +2,7 @@
 srd-type: "overview"
 section: "Monsters"
 based-on:
+  - "[[path srd 3.5/rules/bestiary/monster-advancement/Templates|Templates (PF1)]]"
   - "[[fantasy srd 3.5/monsters/Improving Monsters|Improving Monsters (3.5)]]"
   - "[[path srd 3.5/rules/bestiary/monster-creation/Building the Monster|Building the Monster (PF1)]]"
   - "[[path srd 3.5/rules/bestiary/monster-advancement/Adding Racial Hit Dice|Adding Racial Hit Dice (PF1)]]"
@@ -22,6 +23,8 @@ Each of the monster entries describes a typical creature of its kind. However, t
 **Templates**: Both intelligent and nonintelligent creatures with an unusual heritage or an inflicted change in their essential nature may be modified with a template. Templates usually result in tougher monsters with capabilities that differ from those of their common kin.
 
 Each of these three methods for improving monsters is discussed in more detail below.
+
+A second version of the first two methods is in [[rangoric-srd/monsters/Adding Class Levels (Alternate)|Adding Class Levels (Alternate)]] (with [[rangoric-srd/monsters/Monster Roles|Monster Roles]]) and [[rangoric-srd/monsters/Adding Racial Hit Dice|Adding Racial Hit Dice]]. Simple templates, quick to add during play, are in [[rangoric-srd/monsters/simple-templates/Simple Templates|Simple Templates]], and simple class templates, which give a creature a class’s key features without class levels, in [[rangoric-srd/monsters/Modifying Monsters|Modifying Monsters]].
 
 ### Ability Score Arrays
 
@@ -121,9 +124,9 @@ Certain creatures are created by adding a template to an existing creature. A te
 
 ##### Acquired and Inherited Templates
 
-Some templates can be added to creatures anytime. Templates such as these are referred to as acquired templates, indicating that the creature did not always have the attributes of the template.
+Some templates can be added to creatures anytime. Templates such as these are referred to as acquired templates, indicating that the creature did not always have the attributes of the template. Some, like the [[rangoric-srd/monsters/lich/Lich|lich]], are the result of a creature’s choice and desire to transform; others, like the [[rangoric-srd/monsters/ghost/Ghost|ghost]], are the result of an external force acting upon it (when a tormented person dies and becomes a ghost, for example).
 
-Other templates, known as inherited templates, are part of a creature from the beginning of its existence. Creatures are born with these templates.
+Other templates, known as inherited templates, are part of a creature from the beginning of its existence. Creatures are born with these templates, such as the [[rangoric-srd/monsters/half-dragon/Half-Dragon|half-dragon]] and [[rangoric-srd/monsters/half-fiend/Half-Fiend|half-fiend]] templates, or created with them, and have never known life without them.
 
 It’s possible for a certain kind of template to be of either type.
 

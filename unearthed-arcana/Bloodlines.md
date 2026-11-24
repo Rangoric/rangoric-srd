@@ -117,7 +117,7 @@ Each description below includes some basic information to help the player and ga
 
 ### Celestial
 
-A character with a celestial bloodline can trace her heritage to beings of the Upper Planes, much like an [[rangoric-srd/monsters/planetouched/Aasimar|aasimar]] or [[rangoric-srd/monsters/Celestial Creature|celestial creature]]. Most [[rangoric-srd/monsters/angel/Angel|angels]], [[rangoric-srd/monsters/archon/Archon|archons]], guardinals, and eladrins have the ability to interbreed with [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoids]], and examples of celestial creatures descending from the heavens to live with mortals often appear in myth and legend. Descendants of such relationships often have silver or golden hair, a proud bearing, or a piercing stare.
+A character with a celestial bloodline can trace her heritage to beings of the Upper Planes, much like an [[rangoric-srd/monsters/planetouched/Aasimar|aasimar]] or [[rangoric-srd/monsters/celestial-creature/Celestial Creature|celestial creature]]. Most [[rangoric-srd/monsters/angel/Angel|angels]], [[rangoric-srd/monsters/archon/Archon|archons]], guardinals, and eladrins have the ability to interbreed with [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^humanoid|humanoids]], and examples of celestial creatures descending from the heavens to live with mortals often appear in myth and legend. Descendants of such relationships often have silver or golden hair, a proud bearing, or a piercing stare.
 
 **Celstial Bloodline Traits**
 

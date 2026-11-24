@@ -67,7 +67,7 @@ A death dog's saliva contains hundreds of tiny eggs that grow into flesh-devouri
 
 A typical death dog is 7 feet long, stands 4 feet tall at the shoulder, and weighs about 500 pounds. Death dogs may ally with hobgoblins and bugbears, though the goblinoids are not immune to the dogs' disease. Thus these alliances are often temporary.
 
-**Death Worg**: In the scrub borders between forests and deserts or plains and badlands, worgs and death dogs may mix. If a worg pack is resistant to disease, or an outcast worg takes control of a death dog pack, crossbreeding may occur. Most of these two-headed pups die before reaching adulthood, but those that survive are larger, tougher, smarter, and able to speak as well as a worg can (add the advanced creature simple template). These "death worgs" have worms infecting their brains, driving them mad with rage.
+**Death Worg**: In the scrub borders between forests and deserts or plains and badlands, worgs and death dogs may mix. If a worg pack is resistant to disease, or an outcast worg takes control of a death dog pack, crossbreeding may occur. Most of these two-headed pups die before reaching adulthood, but those that survive are larger, tougher, smarter, and able to speak as well as a worg can (add the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced creature simple template]]). These "death worgs" have worms infecting their brains, driving them mad with rage.
 
 Death worgs bully their packs into submission, raid caravans and humanoid settlements, and kill more than they can eat. Most death worgs live only a year or two into adulthood, slain in needless fights for dominance or dropping dead as their worm-ravaged brains stop working.
 

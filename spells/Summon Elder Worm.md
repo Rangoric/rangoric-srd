@@ -36,4 +36,4 @@ tags: [rangoric, rangoric/spell]
   - **Saving Throw**: None
   - **Spell Resistance**: No
 
-This spell functions as *[[rangoric-srd/spells/Summon Nature’s Ally VIII|summon nature's ally VIII]]*, except you summon a purple worm with the giant creature simple template.
+This spell functions as *[[rangoric-srd/spells/Summon Nature’s Ally VIII|summon nature's ally VIII]]*, except you summon a purple worm with the [[rangoric-srd/monsters/simple-templates/Giant Creature|giant creature simple template]].

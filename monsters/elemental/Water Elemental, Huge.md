@@ -26,7 +26,7 @@ organization: "Solitary, pair, or gang (3–8)"
 challenge-rating: 7
 treasure: "None"
 alignment: "Usually neutral"
-advancement: "17–20 HD (Huge)"
+advancement: "11–20 HD (Huge)"
 level-adjustment: "—"
 group: "[[rangoric-srd/monsters/elemental/Water Elemental|Water Elemental]]"
 book: "Bestiary"
@@ -61,5 +61,5 @@ tags: [rangoric, rangoric/monster]
   - **Challenge Rating**: 7
   - **Treasure**: None
   - **Alignment**: Usually neutral
-  - **Advancement**: 17–20 HD (Huge)
+  - **Advancement**: 11–20 HD (Huge)
   - **Level Adjustment**: —

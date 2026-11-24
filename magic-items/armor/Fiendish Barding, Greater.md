@@ -17,7 +17,7 @@ tags: [rangoric, rangoric/magic-item]
 
 # Fiendish Barding, Greater
 
-This suit of *+3 mithral heavy barding* resizes to fit on any Medium to Huge animal or magical beast. It transforms and infuses the creature with the essence of evil, giving them the [[rangoric-srd/monsters/Fiendish Creature|fiendish]] template while worn. Good-aligned creatures are immediately [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] when this armor is placed on them, suffering 1d4 points of Constitution damage, DC 16 Fortitude save to resist each hour.
+This suit of *+3 mithral heavy barding* resizes to fit on any Medium to Huge animal or magical beast. It transforms and infuses the creature with the essence of evil, giving them the [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature|fiendish]] template while worn. Good-aligned creatures are immediately [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] when this armor is placed on them, suffering 1d4 points of Constitution damage, DC 16 Fortitude save to resist each hour.
 
 A creature that already has the fiendish template that wears this armor, finds its fiendish powers increased, adding a +2 profane bonus to attack rolls, damage rolls, saving throws and skill checks.
 

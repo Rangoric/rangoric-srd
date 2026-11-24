@@ -30,17 +30,17 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 
 | 7th Level                                                                                                                        |    |
 | -------------------------------------------------------------------------------------------------------------------------------- | -- |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Elephant\|elephant]]                         | LG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Elephant\|elephant]]                         | LG |
 | [[rangoric-srd/monsters/agathion/Avoral\|Avoral (agathion)]]                                                                   | NG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/whale/Baleen Whale\|baleen whale (1)]]       | NG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/whale/Baleen Whale\|baleen whale (1)]]       | NG |
 | [[rangoric-srd/monsters/genie/Djinni\|Djinni (genie)]]                                                                         | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Huge (any)]]                                                           | N  |
 | [[rangoric-srd/monsters/Invisible Stalker\|Invisible stalker]]                                                                 | N  |
 | [[rangoric-srd/monsters/devil/Bone Devil (Osyluth)\|Devil, bone]]                                                              | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dinosaur/Megaraptor\|megaraptor]]              | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Huge]] | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dinosaur/Megaraptor\|megaraptor]]              | LE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Huge]] | NE |
 | [[rangoric-srd/monsters/demon/Babau\|Babau (demon)]]                                                                           | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Octopus, Giant\|giant octopus (1)]]            | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Girallon\|girallon]]                           | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Octopus, Giant\|giant octopus (1)]]            | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Girallon\|girallon]]                           | CE |
 
 1 *May be summoned only into an aquatic or watery environment.*

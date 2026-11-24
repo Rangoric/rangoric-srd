@@ -37,21 +37,21 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | 5th Level                                                                                                                         |    |
 | --------------------------------------------------------------------------------------------------------------------------------- | -- |
 | [[rangoric-srd/monsters/archon/Hound Archon\|Archon, hound]]                                                                    | LG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Bear, Brown\|brown bear]]                     | LG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Stag Beetle\|giant stag beetle]]        | NG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Sea Cat\|sea cat (1)]]                        | NG |
-| [[rangoric-srd/monsters/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Griffon\|griffon]]                            | CG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Bear, Brown\|brown bear]]                     | LG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Giant Stag Beetle\|giant stag beetle]]        | NG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Sea Cat\|sea cat (1)]]                        | NG |
+| [[rangoric-srd/monsters/celestial-creature/Celestial Creature\|Celestial]] [[rangoric-srd/monsters/Griffon\|griffon]]                            | CG |
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Medium (any)]]                                                          | N  |
 | [[rangoric-srd/monsters/Achaierai\|Achaierai]]                                                                                  | LE |
 | [[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)\|Devil, bearded]]                                                         | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dinosaur/Deinonychus\|deinonychus]]             | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Ape\|dire ape]]                | LE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Boar\|dire boar]]              | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/shark/Shark\|shark, Huge]]                            | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Large]] | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dinosaur/Deinonychus\|deinonychus]]             | LE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Ape\|dire ape]]                | LE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Boar\|dire boar]]              | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/shark/Shark\|shark, Huge]]                            | NE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-scorpion/Monstrous Scorpion\|monstrous scorpion, Large]] | NE |
 | [[rangoric-srd/monsters/Shadow Mastiff\|Shadow mastiff]]                                                                        | NE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Wolverine\|dire wolverine]]    | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Crocodile, Giant\|giant crocodile]]             | CE |
-| [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Tiger\|Tiger]]                                  | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/dire-animal/Dire Wolverine\|dire wolverine]]    | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Crocodile, Giant\|giant crocodile]]             | CE |
+| [[rangoric-srd/monsters/fiendish-creature/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Tiger\|Tiger]]                                  | CE |
 
 1 *May be summoned only into an aquatic or watery environment.*

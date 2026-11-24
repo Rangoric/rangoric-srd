@@ -66,4 +66,4 @@ Ponies are smaller breeds of horses better suited to halflings, gnomes, and dwar
 
 A light load for a pony is up to 100 pounds, a medium load is 101–200 pounds, and a heavy load is 201–300 pounds. A pony can drag 1,500 pounds.
 
-The statistics presented above are for a typical pony. Tougher ponies with the advanced simple template exist, but are relatively uncommon and, unlike horses, these creatures are not generally called “heavy ponies.” Like horses, ponies can be trained for combat with the Animal Handling skill, and such mounts often serve halflings, gnomes, and other small races as steeds in combat.
+The statistics presented above are for a typical pony. Tougher ponies with the [[rangoric-srd/monsters/simple-templates/Advanced Creature|advanced simple template]] exist, but are relatively uncommon and, unlike horses, these creatures are not generally called “heavy ponies.” Like horses, ponies can be trained for combat with the Animal Handling skill, and such mounts often serve halflings, gnomes, and other small races as steeds in combat.
