@@ -42,6 +42,6 @@ When this spell is cast upon a piece of rope from 5 to 30 feet long, one end of 
 
 Spells cannot be cast across the extradimensional interface, nor can area effects cross it. Those in the extradimensional space can see out of it as if a 3-foot-by- 5-foot window were centered on the rope. The window is present on the Material Plane, but it’s [[rangoric-srd/rules/conditions/Invisibility (Condition)|invisible]], and even creatures that can see the window can’t see through it. Anything inside the extradimensional space drops out when the spell ends. The rope can be climbed by only one person at a time. The rope trick spell enables climbers to reach a normal place if they do not climb all the way to the extradimensional space.
 
-*Note*: It is hazardous to create an extradimensional space within an existing extradimensional space or to take an extradimensional space into an existing one.
+*Note*: It is hazardous to create an extradimensional space within an existing extradimensional space or to take an extradimensional space into an existing one. See [[rangoric-srd/magic-items/Magic Item Basics#Extradimensional Spaces|Extradimensional Spaces]].
 
 *Material Component*: Powdered corn extract and a twisted loop of parchment.

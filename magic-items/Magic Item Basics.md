@@ -5,10 +5,12 @@ based-on:
   - "[[fantasy srd 3.5/magic-items/Magic Item Basics|Magic Item Basics (3.5)]]"
   - "[[individual books/Faeries/rules/Magic Items#Magic Item Special Ability—Resizing|Magic Items (Faeries)]]"
   - "[[path srd 3.5/rules/core-rulebook/magic-items/Magic Items (Magic Items)|Magic Items (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-equipment/wondrous-items/Extradimensional Spaces|Extradimensional Spaces (PF1)]]"
 status: draft
 change: modified
 pi-review: scanned 2026-10-15
 tags: [rangoric, rangoric/overview]
+book: "Ultimate Equipment"
 ---
 
 ## Magic Items
@@ -124,6 +126,8 @@ Of course, a character may carry or possess as many items of the same type as he
 
 Some items can be worn or carried without taking up a slot on a character’s body. The description of an item indicates when an item has this property.
 
+[[rangoric-srd/magic-items/Wondrous Items by Slot|Wondrous Items by Slot]] has a d% table for each slot and price band.
+
 ##### Saving Throws Against Magic Item Powers
 
 Magic items produce spells or spell-like effects. For a saving throw against a spell or spell-like effect from a magic item, the DC is 10 + the level of the spell or effect + the ability modifier of the minimum ability score needed to cast that level of spell.
@@ -157,6 +161,10 @@ Some items are cursed—incorrectly made, or corrupted by outside forces. Cursed
 Many items, particularly wands and staffs, are limited in power by the number of charges they hold. Normally, charged items have 50 charges at most. If such an item is found as a random part of a treasure, roll d% and divide by 2 to determine the number of charges left (round down, minimum 1). If the item has a maximum number of charges other than 50, roll randomly to determine how many charges are left.
 
 Prices listed are always for fully charged items. (When an item is created, it is fully charged.) For an item that’s worthless when its charges run out (which is the case for almost all charged items), the value of the partially used item is proportional to the number of charges left. For an item that has usefulness in addition to its charges, only part of the item’s value is based on the number of charges left.
+
+##### Extradimensional Spaces
+
+A number of spells and magic items utilize extradimensional spaces, such as *[[rangoric-srd/spells/Rope Trick|rope trick]]*, *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bags of holding]]*, *[[rangoric-srd/magic-items/wondrous-items/Handy Haversack|handy haversacks]]*, and *[[rangoric-srd/magic-items/wondrous-items/Portable Hole|portable holes]]*. These spells and magic items create a tiny pocket space that does not exist in any dimension. Such items do not function, however, inside another extradimensional space. If placed inside such a space, they cease to function until removed from the extradimensional space. For example, if a *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* is brought into a *[[rangoric-srd/spells/Rope Trick|rope trick]]*, the contents of the *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* become inaccessible until the *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* is taken outside the *[[rangoric-srd/spells/Rope Trick|rope trick]]*. The only exception to this is when a *[[rangoric-srd/magic-items/wondrous-items/Bag of Holding I|bag of holding]]* and a *[[rangoric-srd/magic-items/wondrous-items/Portable Hole|portable hole]]* interact, forming a rift to the astral plane, as noted in their descriptions.
 
 ### Magic Item Descriptions
 

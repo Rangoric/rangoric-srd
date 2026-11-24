@@ -7,10 +7,13 @@ based-on:
   - "[[individual books/Arms & Armor v3.5/rules/Cursed Items|Cursed Items (Arms & Armor)]]"
   - "[[individual books/Arms & Armor v3.5/rules/Specific Cursed Items|Specific Cursed Items (Arms & Armor)]]"
   - "[[individual books/Arms & Armor v3.5/rules/Artifacts & Legends|Artifacts & Legends (Arms & Armor)]]"
+  - "[[path srd 3.5/rules/ultimate-equipment/artifacts-and-other-items/Intelligent Items (Artifacts and Other Items)|Intelligent Items (PF1)]]"
+  - "[[path srd 3.5/rules/ultimate-equipment/artifacts-and-other-items/Cursed Items (Artifacts and Other Items)|Cursed Items (PF1)]]"
 status: draft
 change: modified
 pi-review: 2026-11-21
 tags: [rangoric, rangoric/overview]
+book: "Ultimate Equipment"
 ---
 
 ## Magic Items
@@ -347,6 +350,307 @@ These intelligent items are grouped by what they are. Each lists its Ego and ali
 | slotless | [[rangoric-srd/magic-items/intelligent-items/Chomper\|Chomper]] | none (cursed) | 17 | chaotic evil |
 | slotless | [[rangoric-srd/magic-items/intelligent-items/Lute of Discord\|Lute of Discord]] | 37,900 gp | 14 | chaotic neutral |
 
+##### Designing an Intelligent Item (Alternate)
+
+Use this method or the random one above, not both. This one builds an intelligent item by choosing its alignment, ability scores, senses and powers and adding up their prices and Ego.
+
+All intelligent magic items possess similar properties. All must have an alignment, mental ability scores, languages, senses, and at least one other special ability. These statistics and abilities can be improved during creation, increasing the item’s overall cost. Many of these abilities add to an item’s Ego score. Intelligent items with high Ego scores are difficult to control and can sometimes take control of their owners, making them dangerous to possess.
+
+An intelligent magic item has a base price increase of 500 gp. When determining the total value of an intelligent item, add this value to the sum of all its additional abilities’s prices before adding them to the magic item’s base price.
+
+###### Intelligent Item Alignment (Alternate)
+
+Any item with intelligence has an alignment. Note that intelligent weapons already have alignments, either stated or by implication. If you’re generating a random intelligent weapon, that weapon’s alignment must fit with any alignment-oriented special abilities it has.
+
+Any character whose alignment does not correspond to that of the item (except as noted by the asterisks on the table below) gains one negative level if he so much as picks up the item. Although this negative level never results in actual level loss, it remains as long as the item is in hand and cannot be overcome in any way (including by restoration spells). this negative level is cumulative with any other penalties the item might place on inappropriate wielders. items with ego scores of 20 to 29 bestow two negative levels. items with ego scores of 30 or higher bestow three negative levels.
+
+**Table: Intelligent Item Alignment**
+
+| d% | Alignment of Item |
+| --- | --- |
+| 01–10 | Chaotic good |
+| 11–20 | Chaotic neutral\* |
+| 21–35 | Chaotic evil |
+| 36–45 | Neutral evil\* |
+| 46–55 | Lawful evil |
+| 56–70 | Lawful good |
+| 71–80 | Lawful neutral\* |
+| 81–90 | Neutral good\* |
+| 91–100 | Neutral |
+
+\* The item can also be used by any character whose alignment corresponds to the non-neutral portion of the item’s alignment.
+
+###### Intelligent Item Ability Scores
+
+Intelligent magic items possess all three mental ability scores: Intelligence, Wisdom, and Charisma. Each one of these ability scores begins at a value of 10, but can be increased to as high as 20. The table below shows the cost to increase one of the item’s ability scores. This cost must be paid for each ability score raised above 10. For example, an intelligent magic item with a Intelligence 15, Wisdom 12, and Charisma 10 would cost at least 2,400 gp more than the base item (including the 500 gp for being an intelligent item).
+
+**Table: Intelligent Item Ability Scores**
+
+| Score | Base Price Modifier | Ego Modifier |
+| --- | --- | --- |
+| 10 | — | — |
+| 11 | +200 gp | — |
+| 12 | +500 gp | +1 |
+| 13 | +700 gp | +1 |
+| 14 | +1,000 gp | +2 |
+| 15 | +1,400 gp | +2 |
+| 16 | +2,000 gp | +3 |
+| 17 | +2,800 gp | +3 |
+| 18 | +4,000 gp | +4 |
+| 19 | +5,200 gp | +4 |
+| 20 | +8,000 gp | +5 |
+
+**Languages Spoken by Item**: Like a character, an intelligent item understands Common plus one additional language per point of Intelligence bonus. Choose appropriate languages, taking into account the item’s origin and purposes. If the item does not possess speech, it can still read and understand the languages it knows.
+
+###### Senses and Communication
+
+Every intelligent magic item begins with the ability to see and hear within 30 feet, as well as the ability to communicate emphatically with its owner. Empathy only allows the item to encourage or discourage certain actions through urges and emotions. Additional forms of communication and better senses increase the item’s cost and Ego score.
+
+**Empathy (Su)**: Empathy allows the item to encourage or discourage certain actions by communicating emotions and urges. It does not allow for verbal communication.
+
+**Speech (Su)**: An intelligent item with this ability can speak out loud using any of the languages it knows.
+
+**Telepathy (Su)**: Telepathy allows an intelligent item to hold private mental conversations with its wielder, regardless of their known languages. The wielder must be touching the item to communicate in this way.
+
+**Senses**: Senses allow an intelligent magic item to see and hear out to the listed distance. Adding darkvision or blindsense grants the use of those senses at the same range.
+
+**Read Languages (Ex)**: The item can read script in any language, regardless of its known languages.
+
+**Read Magic (Sp)**
+
+An intelligent magic item with this ability can read magical writings and scrolls as if through *read magic.* This ability does not allow the magic item to activate scrolls or other items. An intelligent magic item can suppress and resume this ability as a free action.
+
+**Table: Intelligent Item Senses and Communication**
+
+| Ability | Base Price Modifier | Ego Modifier |
+| --- | --- | --- |
+| Empathy | — | — |
+| Speech | +500 gp | — |
+| Telepathy | +1,000 gp | +1 |
+| Senses (30 ft.) | — | — |
+| Senses (60 ft.) | +500 gp | — |
+| Senses (120 ft.) | +1,000 gp | — |
+| Darkvision | +500 gp | — |
+| Blindsense | +5,000 gp | +1 |
+| Read languages | +1,000 gp | +1 |
+| *[[rangoric-srd/spells/Read Magic\|Read magic]]* | +2,000 gp | +1 |
+
+###### Intelligent Item Powers (Alternate)
+
+Each intelligent item should possess at least one power, although some might possess a host of powers. To find the item’s specific powers, roll on or choose from the table below. All powers function at the direction of the item, though intelligent items generally follow the wishes of their owner. Activating a power or concentrating on an active one is a standard action for the item. The caster level for these effects is equal to the item’s caster level. Save DCs are based on the item’s highest mental ability score.
+
+**Table: Intelligent Item Powers**
+
+| d% | Item Power | Base Price Modifier | Ego Modifier |
+| --- | --- | --- | --- |
+| 01–10 | Item can cast a 0-level spell at will | +1,000 gp | +1 |
+| 11–20 | Item can cast a 1st-level spell 3/day | +1,200 gp | +1 |
+| 21–25 | Item can use *[[rangoric-srd/spells/Magic Aura\|magic aura]]*on itself at will | +2,000 gp | +1 |
+| 26–35 | Item can cast a 2nd-level spell 1/day | +2,400 gp | +1 |
+| 36–45 | Item has 5 ranks in one skill\* | +2,500 gp | +1 |
+| 46–50 | Item can sprout limbs and move with a speed of 10 feet | +5,000 gp | +1 |
+| 51–55 | Item can cast a 3rd-level spell 1/day | +6,000 gp | +1 |
+| 56–60 | Item can cast a 2nd-level spell 3/day | +7,200 gp | +1 |
+| 61–70 | Item has 10 ranks in one skill\* | +10,000 gp | +2 |
+| 71–75 | Item can change shape into one other form of the same size | +10,000 gp | +2 |
+| 76–80 | Item can *fly,* as the spell, at a speed of 30 feet | +10,000 gp | +2 |
+| 81–85 | Item can cast a 4th-level spell 1/day | +11,200 gp | +2 |
+| 86–90 | Item can *[[rangoric-srd/spells/Teleport\|teleport]]* itself 1/day | +15,000 gp | +2 |
+| 91–95 | Item can cast a 3rd-level spell 3/day | +18,000 gp | +2 |
+| 96–100 | Item can cast a 4th-level spell 3/day | +33,600 gp | +2 |
+
+\* Intelligent items can only possess Intelligence-, Wisdom-, or Charisma-based skills, unless they also possess some form of ability to move.
+
+###### Special Purpose Items (Alternate)
+
+Some intelligent items have special purposes that guide their actions. Intelligent magic items with a special purpose gain a +2 Ego bonus. An item’s purpose must suit the type and alignment of the item. A magic item with a purpose should be treated as an individual with a goal, not a fanatical parody. For example, a purpose of "defeat/slay arcane spellcasters" doesn’t mean that an intelligent sword forces the wielder to kill every wizard she sees. Nor does it mean that the sword believes it is possible to kill every wizard, sorcerer, and bard in the world. It does mean that the item hates arcane spellcasters and wants to bring an end to the rule of a sorcerer-queen in a nearby land. Likewise, a purpose of "defend elves" doesn’t mean that if the wielder is an elf, he only wants to help the wielder. It means that the item wants to be used in furthering the cause of elves, stamping out their enemies and aiding their leaders. A purpose of "defeat/slay all" isn’t just a matter of self-preservation. It means that the item won’t rest (or let its wielder rest) until it places itself above all others.
+
+The table below has a number of sample purposes that a magic item might possess. If the wielder specifically ignores or goes against an intelligent item’s special purpose, the item gains a +4 bonus to its Ego until the wielder cooperates. This is in addition to the +2 Ego bonus gained by items with a special purpose.
+
+**Table: Intelligent Item Purpose**
+
+| d% | Purpose | Ego Modifier |
+| --- | --- | --- |
+| 01–20 | Defeat/slay diametrically opposed alignment\* | +2 |
+| 21–30 | Defeat/slay arcane spellcasters (including spellcasting monsters and those that use spell-like abilities) | +2 |
+| 31–40 | Defeat/slay divine spellcasters (including divine entities and servitors) | +2 |
+| 41–50 | Defeat/slay nonspellcasters | +2 |
+| 51–55 | Defeat/slay a particular creature type (see the *[[rangoric-srd/spells/Bane\|bane]]* special ability for choices) | +2 |
+| 56–60 | Defeat/slay a particular race or kind of creature | +2 |
+| 61–70 | Defend a particular race or kind of creature | +2 |
+| 71–80 | Defeat/slay the servants of a specific deity | +2 |
+| 81–90 | Defend the servants and interests of a specific deity | +2 |
+| 91–95 | Defeat/slay all (other than the item and the wielder) | +2 |
+| 96–100 | Choose one | +2 |
+
+\* The purpose of the neutral (N) version of this item is to preserve the balance by defeating/slaying powerful beings of the extreme alignments (LG, LE, CG, CE).
+
+###### Dedicated Powers
+
+A dedicated power operates only when an intelligent item is in pursuit of its special purpose. This determination is always made by the item. Unlike its other powers, an intelligent item can refuse to use its dedicated powers even if the owner is dominant (see Items Against Characters). The caster level for these effects is equal to the item’s caster level. Save DCs are based on the item’s highest mental ability score.
+
+**Table: Special Purpose Item Dedicated Powers**
+
+| d% | Dedicated Power | Base Price Modifier | Ego Modifier |
+| --- | --- | --- | --- |
+| 01–20 | Item can detect any special purpose foes within 60 feet | +10,000 gp | +1 |
+| 21–35 | Item can use a 4th-level spell at will | +56,000 gp | +2 |
+| 36–50 | Wielder gets +2 luck bonus on attacks, saves, and checks | +80,000 gp | +2 |
+| 51–65 | Item can use a 5th-level spell at will | +90,000 gp | +2 |
+| 66–80 | Item can use a 6th-level spell at will | +132,000 gp | +2 |
+| 81–95 | Item can use a 7th-level spell at will | +182,000 gp | +2 |
+| 96–100 | Item can use *[[rangoric-srd/spells/True Resurrection\|true resurrection]]* on wielder, once per month | +200,000 gp | +2 |
+
+###### Item Ego (Alternate)
+
+Ego is a measure of the total power and force of personality that an item possesses. An item’s Ego score is the sum of all of its Ego modifiers plus an additional bonus for the cost of the base magic item (excluding the cost of all of the intelligent item enhancements). An item’s Ego score helps determine whether the item or the character is dominant in their relationship, as detailed below.
+
+**Table: Ego Modifier by Base Value**
+
+| Base Magic Item Value | Ego Modifier |
+| --- | --- |
+| Up to 1,000 gp | — |
+| 1,001 gp to 5,000 gp | +1 |
+| 5,001 gp to 10,000 gp | +2 |
+| 10,001 gp to 20,000 gp | +3 |
+| 20,001 gp to 50,000 gp | +4 |
+| 50,001 gp to 100,000 gp | +6 |
+| 100,001 gp to 200,000 gp | +8 |
+| 200,001 gp and higher | +12 |
+
+###### Items against Characters (Alternate)
+
+When an item has an Ego of its own, it has a will of its own. The item is absolutely true to its alignment. If the character who possesses the item is not true to that alignment’s goals or the item’s special purpose, a personality conflict results—item against character. Similarly, any item with an Ego score of 20 or higher always considers itself superior to any character, and a personality conflict results if the possessor does not always agree with the item.
+
+When a personality conflict occurs, the possessor must make a Will saving throw (DC = the item’s Ego). If the possessor succeeds, she is dominant. If she fails, the item is dominant. Dominance lasts for 1 day or until a critical situation occurs (such as a major battle, a serious threat to either the item or the character, and so on, as determined by the GM). Should an item gain dominance, it resists the character’s desires and demands concessions such as any of the following:
+
+- Removal of associates or items whose alignment or personality is distasteful to the item.
+- The character divesting herself of all other magic items or items of a certain type.
+- Obedience from the character so the item can direct where they go for its own purposes.
+- Immediate seeking out and slaying of creatures hateful to the item.
+- Magical protections and devices to safeguard the item from molestation when it is not in use.
+- That the character carry the item with her on all occasions.
+- That the character relinquish the item to a more suitable possessor due to alignment differences or conduct.
+
+In extreme circumstances, the item can resort to even harsher measures, such as the following:
+
+- Force its possessor into combat.
+- Refuse to strike opponents.
+- Strike at its wielder or her associates.
+- Force its possessor to surrender to an opponent.
+- Cause itself to drop from the character’s grasp.
+
+Naturally, such actions are unlikely when harmony reigns between the character’s and item’s alignments or when their purposes and personalities are well matched. Even so, an item might wish to have a lesser character possess it in order to easily establish and maintain dominance over him, or a higher-level possessor so as to better accomplish its goals.
+
+All magic items with personalities desire to play an important role in whatever activity is under way, particularly combat. Such items are natural rivals, even with others of the same alignment. No intelligent item wants to share its wielder with other intelligent magic items. An intelligent item is aware of the presence of any other intelligent item within 60 feet, and such an intelligent item usually tries its best to mislead or distract its host so that she ignores or destroys the rival. Of course, alignment might change this sort of behavior.
+
+Items with personalities are never totally controlled or silenced by the characters that possess them, even though they might never successfully control their possessors. They might be powerless to force their demands, but most remain undaunted and continue to air their wishes and preferences.
+
+**Table: Intelligent Item Personality Quirks**
+
+| d% | Personality Trait |
+| --- | --- |
+| 01 | Always agrees with people, but changes its mind quickly |
+| 02 | Is very noisy about treasure |
+| 03 | Act mysteriously and answers questions poetically |
+| 04 | Doesn’t like new people |
+| 05 | Makes token bets about minor things |
+| 06 | Refers to itself in the third person |
+| 07 | Bargains for the use of some of its powers |
+| 08 | Constantly asks how things taste and smell |
+| 09 | Yells when it is excited |
+| 10 | Know-it-all |
+| 11 | Is polite but obviously insincere |
+| 12 | Constantly apologizes as a verbal tic |
+| 13 | Makes a lot of threats it cannot back up |
+| 14 | Very mellow; advises people to take a philosophical approach to both success and failure |
+| 15 | Says as little as possible |
+| 16 | Snickers or laughs at the misfortunes of others |
+| 17 | Calls people by the wrong name, though often consistently |
+| 18 | Prays a lot |
+| 19 | Is quick to praise people even for little things |
+| 20 | Often appears surprised and slightly offended when spoken to |
+| 21 | Does not like to make decisions |
+| 22 | Has a list of numbered rules or maxims covering different situations and quotes them when appropriate |
+| 23 | Tells people the "real" reason they are doing things |
+| 24 | Asks for advice or opinions about very unlikely situations |
+| 25 | Speaks with great formality; never uses contractions and employs bigger words than necessary |
+| 26 | Easily distracted by minor events in the area |
+| 27 | Usually needs someone to explain a joke or metaphor |
+| 28 | Has a particular core belief, potentially a rather odd one, and steadfastly looks at everything through the lens of that opinion |
+| 29 | Likes to count things and has fun with numbers |
+| 30 | Always tries to find compromise |
+| 31 | Is always talking to itself |
+| 32 | Very bad liar |
+| 33 | Asks rude questions without realizing they cause offense |
+| 34 | Grumbles and complains about its form and plight |
+| 35 | Very sensitive about criticism or conflict |
+| 36 | Absent-minded |
+| 37 | Blames a particular type of creature for its troubles |
+| 38 | Intellectual bully |
+| 39 | Makes allusions to events from history or mythology without bothering to explain them |
+| 40 | Hates a particular terrain type and complains loudly while within that terrain |
+| 41 | Constantly ask questions about things that are outside its vision |
+| 42 | Makes a list of things for its wearer or wielder to accomplish each day |
+| 43 | Cannot keep a secret |
+| 44 | Seems slightly surprised when anyone else has a good idea or does something productive |
+| 45 | Often whines |
+| 46 | Easily angered |
+| 47 | Constantly warns about the danger of disease |
+| 48 | Has a stock phrase |
+| 49 | Habitually mumbles a word that rhymes with the final word other people speak before they pause |
+| 50 | Delighted by puns and other sorts of word games |
+| 51 | Makes animal noises when feeling threatened or excited |
+| 52 | A lover or literature and poetry, it takes any opportunity to spout of a line or two of prose or verse |
+| 53 | Very superstitious |
+| 54 | Spurs on its wielder or wearer to brave or foolhardy acts |
+| 55 | Never uses one word when 10 will do |
+| 56 | Constantly asks to be destroyed, but panics if taken seriously |
+| 57 | Always has a reason why something will not work |
+| 58 | Claims to be in love with the bearer |
+| 59 | Tells boring stories about something mundane |
+| 60 | Constantly suggests ways to make activities more "fun" and "exciting" |
+| 61 | Collects words from languages it doesn’t know, and uses them in place of words in the language it most commonly uses |
+| 62 | Dotes on its wearer or wielder |
+| 63 | Often ignores its wearer or wielder |
+| 64 | Loathes itself |
+| 65 | Occasionally chants annoying little rhymes |
+| 66 | Acts as if it is friends with, but obviously hates, its wearer or wielder |
+| 67 | Openly scornful of organized religion and believes all gods are selfish liars |
+| 68 | Gets angrier and more determined with each setback |
+| 69 | Thinks most objects are intelligent items |
+| 70 | Lacks a moral compass when making plans and often proposes horrific solutions to minor problems |
+| 71 | Falls quiet for stretches where it will not talk to anyone for days |
+| 72 | Believes it is losing its mind |
+| 73 | Constantly name-drops a famous past bearer |
+| 74 | Has terrible syntax and diction |
+| 75 | Never tires of learning new and interesting bits of information |
+| 76 | Complains about smells that no one else notices |
+| 77 | Wants to be dipped in ale, wine, or other forms of alcohol, and when it is, acts drunk |
+| 78 | Loves to sing but is tone deaf |
+| 79 | Blames everyone else for its plight |
+| 80 | Is a seemingly endless font of gossip—though most details are fabricated |
+| 81 | Treats all others as lesser forms of intelligence |
+| 82 | Very cheerful; tries to raise downcast spirits with song, jokes, and uplifting stories |
+| 83 | Grows more and more relaxed the worse things get; conversely, on edge and nervous when things seem to go well |
+| 84 | Constantly remembers details wrong |
+| 85 | Makes up stories |
+| 86 | Avoids speaking with creatures other than its wielder or wearer |
+| 87 | Has a need for constant attention |
+| 88 | Is a little unhinged when away from its wielder or wearer |
+| 89 | Questions others about their background in order to determine if they are "suitable" |
+| 90 | Is often confused by the deeds of others and regularly asks about the reason for certain actions |
+| 91 | Very jealous and possessive about its wielder or wearer |
+| 92 | Continually mentions a heroic battle it participated in and how nothing else compares |
+| 93 | Diagnoses everyone with a mania, fixation, or curse, but is often wrong |
+| 94 | Explains simple things that don’t need explanations |
+| 95 | Wishes it was free from its item and seeks someone who can perform such a task |
+| 96 | Believe it is a trapped god |
+| 97 | Has an imaginary ethereal friend |
+| 98 | Is afraid of the dark |
+| 99 | Admonishes people for using profanity |
+| 100 | Rarely talks but frequently emits a drone of insane giggles |
+
 ### Cursed Items
 
 Cursed items are magic items with some sort of potentially negative impact. Sometimes they’re directly bad for the user; sometimes they’re just inconvenient. Occasionally they mix bad with good, forcing characters to make difficult choices.
@@ -629,6 +933,193 @@ These cursed items have no creation prerequisites or price. Instead, each names 
 | slotless | [[rangoric-srd/magic-items/cursed-items/Riot Pipes\|Riot Pipes]] | *[[rangoric-srd/magic-items/wondrous-items/Pipes of Haunting\|pipes of haunting]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of the Sewers\|pipes of the sewers]]*, *[[rangoric-srd/magic-items/wondrous-items/Pipes of Sounding\|pipes of sounding]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Unguent of Aging\|Unguent of Aging]] | *[[rangoric-srd/magic-items/wondrous-items/Unguent of Timelessness\|unguent of timelessness]]* |
 | slotless | [[rangoric-srd/magic-items/cursed-items/Unlucky Figurine\|Unlucky Figurine]] | any *[[rangoric-srd/magic-items/wondrous-items/Figurine of Wondrous Power, Bronze Griffon\|figurine of wondrous power]]* |
+
+##### Cursed Items (Alternate)
+
+A magic item creation check that fails by 5 or more rolls on the Cursed Item Drawbacks table below to find the curse, and the last table names a specific cursed item by roll.
+
+Cursed items are any magic items with some sort of potentially negative impact on the user. Occasionally, they mix bad with good, forcing characters to make difficult choices. Cursed items are almost never made intentionally. Instead, they are the result of rushed work, inexperienced crafters, or a lack of proper components. While many of these items still function, they either do not work as intended or come with serious drawbacks. When a magic item creation skill check fails by 5 or more, roll on Cursed Items Drawbacks table to determine the type of curse possessed by the item.
+
+**Identifying Cursed Items**: Cursed items are identified like any other magic item, with one exception: unless the check made to identify the item exceeds the DC by 10 or more, the curse is not detected. If the check is not made by 10 or more, but still succeeds, all that is revealed is the item crafter’s original intent. If the item is known to be cursed, the nature of the curse can be determined using the standard DC to identify the item.
+
+**Removing Cursed Items**: While some cursed items can simply be discarded, others force a compulsion upon the user to keep the item, no matter the costs. Others reappear even if discarded or are impossible to throw away. These items can only be discarded after the character or item is targeted by a *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell or similar magic. the dc of the caster level check to undo the curse is equal to 10 + the cursed item’s caster level. if the spell is successful, the item can be discarded on the following round, but the curse reasserts itself if the item is used again.
+
+###### Common Cursed Item Effects
+
+The following are some of the most common cursed item effects. GMs should feel free to invent new cursed item effects to fit specific items.
+
+**Delusion**: The user believes the item is what it appears to be, yet it actually has no magical power other than to deceive. The user is mentally fooled into thinking the item is functioning and cannot be convinced otherwise without the casting of *[[rangoric-srd/spells/Remove Curse|remove curse]]*.
+
+**Opposite Effect or Target**: These cursed items malfunction so that they either do the opposite of what the creator intended or target the user instead of someone else. The interesting point to keep in mind here is that these items aren’t always bad to have—some have powerful applications once the effect is fully understood. Opposite-effect items include weapons that impose penalties on attack and damage rolls rather than bonuses. Just as a character shouldn’t necessarily immediately know what the enhancement bonus of a noncursed magic item is, she shouldn’t immediately know that a weapon is cursed. Once she knows, however, the item can be discarded unless it possesses some ability that compels the wielder to keep and use it. In such cases, a *[[rangoric-srd/spells/Remove Curse|remove curse]]* spell is generally needed to get rid of the item.
+
+**Intermittent Functioning**
+
+The three varieties of intermittent functioning items all function perfectly as intended—at least some of the time. The three varieties are unreliable, dependent, and uncontrolled items.
+
+> *Unreliable*Each time the item is activated, there is a 5% chance (01–05 on d%) that it does not function.
+>
+> *Dependent*: The item only functions in certain situations. To determine the situation, select or roll on the following table.
+
+**Table: Dependent Item Situation**
+
+| d% | Situation |
+| --- | --- |
+| 01–03 | Temperature below freezing |
+| 04–05 | Temperature above freezing |
+| 06–10 | During the day |
+| 11–15 | During the night |
+| 16–20 | In direct sunlight |
+| 21–25 | Out of direct sunlight |
+| 26–34 | Underwater |
+| 35–37 | Out of water |
+| 38–45 | Underground |
+| 46–55 | Aboveground |
+| 56–60 | Within 10 feet of a random creature type |
+| 61–64 | Within 10 feet of a random race or kind of creature |
+| 65–72 | Within 10 feet of an arcane spellcaster |
+| 73–80 | Within 10 feet of a divine spellcaster |
+| 81–85 | In the hands of a nonspellcaster |
+| 86–90 | In the hands of a spellcaster |
+| 91–95 | In the hands of a creature of a particular alignment |
+| 96 | In the hands of a creature of a particular gender |
+| 97–99 | On holy days or during particular astrological events |
+| 100 | More than 100 miles from a particular site |
+
+> *Uncontrolled*An uncontrolled item occasionally activates at random times. Roll d% every day. On a result of 01–05, the item activates at some random point during that day.
+
+**Requirement**
+
+Some items have stringent requirements that must be met for them to be usable. To keep an item with this kind of curse functioning, one or more of the following conditions must be met.
+
+- Character must eat twice as much as normal.
+- Character must sleep twice as much as normal.
+- Character must undergo a specific quest (one time only, and the item functions normally thereafter).
+- Character must sacrifice (destroy) 100 gp in valuables per day.
+- Character must sacrifice (destroy) 2,000 gp worth of magic items each week.
+- Character must discard all other magic items.
+- Character must worship a particular deity.
+- Character must change her name to a specific name. The item only works for characters of that name.
+- Character must take a level in a specific class at the next opportunity if not of that class already.
+- Character must have a minimum number of ranks in a particular skill.
+- Character must sacrifice some part of her life energy (2 points of Constitution) one time. If the character gets the Constitution points back (such as from a *[[rangoric-srd/spells/Restoration|restoration]]*spell), the item ceases functioning. (the item does not cease functioning if the character receives a constitution increase caused by level gain, a *wish,* or the use of a magic item.)
+- Item must be cleansed with holy water each day.
+- Item must be used to kill a living creature each day.
+- Item must be bathed in volcanic lava once per month.
+- Item must be used at least once a day, or it won’t function again for its current possessor.
+- Item must have a particular spell cast upon it each day (such as *[[rangoric-srd/spells/Bless|bless]]*, *[[rangoric-srd/spells/Atonement|atonement]]*, or *[[rangoric-srd/spells/Animate Objects|animate objects]]*).
+
+Requirements are so dependent upon suitability to the individual item that they should never be determined randomly. An intelligent item with a requirement often imposes its requirement through its personality. If the requirement is not met, the item ceases to function. If it is met, usually the item functions for one day before the requirement must be met again (although some requirements are one time only, others monthly, and still others continuous).
+
+**Drawback**
+
+Items with drawbacks are usually still beneficial to the possessor, but carry some negative aspect. Although sometimes drawbacks occur only when the item is used (or held, in the case of some weapons), usually the drawback remains with the character for as long as she has the item.
+
+Unless otherwise indicated, drawbacks remain in effect as long as the item is possessed. The DC to save against any of these effects is usually equal to 10 + the item’s caster level.
+
+**Table: Cursed Item Drawbacks**
+
+| d% | Drawback |
+| --- | --- |
+| 01–04 | Character’s hair grows 1 inch longer every hour. |
+| 05–09 | Character either shrinks 6 inches (01–50 on d%) or grows that much taller (51–100). Only happens once. |
+| 10–13 | Temperature around item is 10° F cooler than normal. |
+| 14–17 | Temperature around item is 10° F warmer than normal. |
+| 18–21 | Character’s hair color changes. |
+| 22–25 | Character’s skin color changes. |
+| 26–29 | Character now bears some identifying mark (tattoo, weird glow, or the like). |
+| 30–32 | Character’s gender changes. |
+| 33–34 | Character’s race or kind changes. |
+| 35 | Character is afflicted with a random disease that cannot be cured. |
+| 36–39 | Item continually emits a disturbing sound (moaning, weeping, screaming, cursing, insults). |
+| 40 | Item looks ridiculous (garishly colored, silly shape, glows bright pink). |
+| 41–45 | Character becomes selfishly possessive. |
+| 46–49 | Character becomes paranoid about losing the item and afraid of damage occurring to it. |
+| 50–51 | Character’s alignment changes. |
+| 52–54 | Character must attack nearest creature (5% chance \[01–05 on d%\] each day). |
+| 55–57 | Character is *stunned* for 1d4 rounds once item function is finished (or randomly, 1/day). |
+| 58–60 | Character’s vision is blurry (–2 penalty on attack rolls, saves, and skill checks requiring vision). |
+| 61–64 | Character gains one negative level. |
+| 65 | Character gains two *negative levels*. |
+| 66–70 | Character must make a *Will* save each day or take 1 point of *Intelligence* damage. |
+| 71–75 | Character must make a *Will* save each day or take 1 point of *Wisdom* damage. |
+| 76–80 | Character must make a *Will* save each day or take 1 point of *Charisma* damage. |
+| 81–85 | Character must make a *Fortitude* save each day or take 1 point of *Constitution* damage. |
+| 86–90 | Character must make a *Fortitude* save each day or take 1 point of Strength damage. |
+| 91–95 | Character must make a *Fortitude* save each day or take 1 point of *Dexterity* damage. |
+| 96 | Character is polymorphed into a specific creature (5% chance \[01–05 on d%\] each day). |
+| 97 | Character cannot cast arcane spells. |
+| 98 | Character cannot cast divine spells. |
+| 99 | Character cannot cast any spells. |
+| 100 | Either pick one of the above that’s appropriate or create a drawback specifically for that item. |
+
+**Table: Common Item Curses**
+
+| d% | Curse |
+| --- | --- |
+| 01–15 | Delusion |
+| 16–35 | Opposite effect or target |
+| 36–45 | Intermittent functioning |
+| 46–60 | Requirement |
+| 61–75 | Drawback |
+| 76–90 | Completely different effect |
+| 91–100 | Substitute specific cursed item on the Specific Cursed Items table |
+
+**Table: Common Item Curses (Alternate)**
+
+| d% | Item |
+| --- | --- |
+| 01–02 | [[rangoric-srd/magic-items/cursed-items/–2 Sword, Cursed\|–2 cursed sword]] |
+| 03–04 | [[rangoric-srd/magic-items/cursed-items/Amulet of Inescapable Location\|Amulet of inescapable location]] |
+| 05–06 | [[rangoric-srd/magic-items/cursed-items/Armor of Arrow Attraction\|Armor of arrow attraction]] |
+| 07–08 | [[rangoric-srd/magic-items/cursed-items/Armor of Rage\|Armor of rage]] |
+| 09–10 | [[rangoric-srd/magic-items/cursed-items/Arrowbreak Bow\|Arrowbreak bow]] |
+| 11–12 | [[rangoric-srd/magic-items/cursed-items/Bag of Devouring\|Bag of devouring]] |
+| 13–14 | [[rangoric-srd/magic-items/cursed-items/Belt of Weakness\|Belt of weakness]] |
+| 15–16 | [[rangoric-srd/magic-items/cursed-items/Sword, Berserking\|Berserking sword]] |
+| 17–18 | [[rangoric-srd/magic-items/cursed-items/Biting Battleaxe\|Biting battleaxe]] |
+| 19–20 | [[rangoric-srd/magic-items/cursed-items/Boots of Dancing\|Boots of dancing]] |
+| 21–22 | [[rangoric-srd/magic-items/cursed-items/Bracers of Defenselessness\|Bracers of defenselessness]] |
+| 23–24 | [[rangoric-srd/magic-items/cursed-items/Broom of Animated Attack\|Broom of animated attack]] |
+| 25–26 | [[rangoric-srd/magic-items/cursed-items/Cape of Anchoring\|Cape of anchoring]] |
+| 27–28 | [[rangoric-srd/magic-items/cursed-items/Spear, Cursed Backbiter\|Cursed backbiter spear]] |
+| 29–30 | [[rangoric-srd/magic-items/cursed-items/Crystal Hypnosis Ball\|Crystal hypnosis ball]] |
+| 31–32 | [[rangoric-srd/magic-items/cursed-items/Deadly Returns Throwing Axe\|Deadly returns throwing axe]] |
+| 33–34 | [[rangoric-srd/magic-items/cursed-items/Drums of Lethargy\|Drums of lethargy]] |
+| 35–36 | [[rangoric-srd/magic-items/cursed-items/Dust of Sneezing and Choking\|Dust of sneezing and choking]] |
+| 37–38 | [[rangoric-srd/magic-items/cursed-items/Eyes of Blindness\|Eyes blindness]] |
+| 39–40 | [[rangoric-srd/magic-items/cursed-items/Flask of Curses\|Flask of curses]] |
+| 41–42 | [[rangoric-srd/magic-items/cursed-items/Gauntlets of Fumbling\|Gauntlets of fumbling]] |
+| 43 | [[rangoric-srd/magic-items/cursed-items/Headband of Stupidity\|Headband of stupidity]] |
+| 44–45 | [[rangoric-srd/magic-items/cursed-items/Heavy Hammer\|Heavy hammer]] |
+| 46–47 | [[rangoric-srd/magic-items/cursed-items/Helm of Opposite Alignment\|Helm of opposite alignment]] |
+| 48–49 | [[rangoric-srd/magic-items/cursed-items/Incense of Obsession\|Incense of obsession]] |
+| 50–51 | [[rangoric-srd/magic-items/cursed-items/Mace of Blood\|Mace of blood]] |
+| 52–53 | [[rangoric-srd/magic-items/cursed-items/Mask of Ugliness\|Mask of ugliness]] |
+| 54–55 | [[rangoric-srd/magic-items/cursed-items/Medallion of Thought Projection\|Medallion of thought projection]] |
+| 56–57 | [[rangoric-srd/magic-items/cursed-items/Nearfiring Bow\|Nearfiring bow]] |
+| 58 | [[rangoric-srd/magic-items/cursed-items/Necklace of Strangulation\|Necklace of strangulation]] |
+| 59–60 | [[rangoric-srd/magic-items/cursed-items/Net of Snaring\|Net of snaring]] |
+| 61–62 | [[rangoric-srd/magic-items/cursed-items/Ornery Pistol\|Ornery pistol]] |
+| 63–64 | [[rangoric-srd/magic-items/cursed-items/Pauldrons of the Jackass\|Pauldrons of the jackass]] |
+| 65–66 | [[rangoric-srd/magic-items/cursed-items/Periapt of Foul Rotting\|Periapt of foul rotting]] |
+| 67–68 | [[rangoric-srd/magic-items/cursed-items/Petrifying Cloak\|Petrifying cloak]] |
+| 69–70 | [[rangoric-srd/magic-items/cursed-items/Cloak of Poisonousness\|Poisonous cloak]] |
+| 71–72 | [[rangoric-srd/magic-items/cursed-items/Potion of Poison\|Potion of poison]] |
+| 73–74 | [[rangoric-srd/magic-items/cursed-items/Ring of Clumsiness\|Ring of clumsiness]] |
+| 75–76 | [[rangoric-srd/magic-items/cursed-items/Ring of Lifebleed\|Ring of life bleed]] |
+| 77–78 | [[rangoric-srd/magic-items/cursed-items/Ring of Spell Devouring\|Ring of spell devouring]] |
+| 79–80 | [[rangoric-srd/magic-items/cursed-items/Robe of Powerlessness\|Robe of powerlessness]] |
+| 81–82 | [[rangoric-srd/magic-items/cursed-items/Robe of Vermin\|Robe of vermin]] |
+| 83–84 | [[rangoric-srd/magic-items/cursed-items/Rod of Foiled Magic\|Rod of foiled magic]] |
+| 85–86 | [[rangoric-srd/magic-items/cursed-items/Scarab of Death\|Scarab of death]] |
+| 87–88 | [[rangoric-srd/magic-items/cursed-items/Scattershot Bracers\|Scattershot bracers]] |
+| 89–90 | [[rangoric-srd/magic-items/cursed-items/Staff of Occasional Wonder\|Staff of occasional wonder]] |
+| 91–92 | [[rangoric-srd/magic-items/cursed-items/Stone of Weight (Loadstone)\|Stone of weight]] |
+| 93–94 | [[rangoric-srd/magic-items/cursed-items/Unguent of Aging\|Unguent of aging]] |
+| 95–96 | [[rangoric-srd/magic-items/cursed-items/Unlucky Figurine\|Unlucky figurine]] |
+| 97 | [[rangoric-srd/magic-items/cursed-items/Unstable Musket\|Unstable musket]] |
+| 98–99 | [[rangoric-srd/magic-items/cursed-items/Unwieldy Glaive\|Unwieldy glaive]] |
+| 100 | [[rangoric-srd/magic-items/cursed-items/Vacuous Grimoire\|Vacuous grimoire]] |
 
 ### Artifacts
 
