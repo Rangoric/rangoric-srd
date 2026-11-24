@@ -71,7 +71,7 @@ tags: [rangoric, rangoric/overview]
 [[rangoric-srd/monsters/Uvuudaum|Uvuudaum]]  
 [[rangoric-srd/monsters/Vermiurge|Vermiurge]]  
 [[rangoric-srd/epic/Epic Monsters|Winter Wight]]  
-[[rangoric-srd/monsters/Worm That Walks|Worm that Walks]]  
+[[rangoric-srd/monsters/Worm That Walks (Epic)|Worm That Walks (Epic)]]  
 
   - [[rangoric-srd/monsters/Abomination|Abomination]]
   - [[rangoric-srd/monsters/Anaxim|Anaxim]]

@@ -85,3 +85,5 @@ A half-fiend uses all the base creature’s statistics and special abilities exc
 **Alignment**: Always evil (any).
 
 **Level Adjustment**: +4.
+
+Pathfinder’s version of this template is [[rangoric-srd/monsters/half-fiend/Alternate Half-Fiend|Alternate Half-Fiend]].

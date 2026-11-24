@@ -14,10 +14,10 @@ tags: [rangoric, rangoric/overview]
 ## Hag - Invisible Stalker
 
   - [[rangoric-srd/monsters/hag/Hag|Hag]]
-  - [[rangoric-srd/monsters/Half-Celestial|Half-Celestial]]
-  - [[rangoric-srd/monsters/Half-Dragon|Half-Dragon]]
+  - [[rangoric-srd/monsters/half-celestial/Half-Celestial|Half-Celestial]]
+  - [[rangoric-srd/monsters/half-dragon/Half-Dragon|Half-Dragon]]
   - [[rangoric-srd/monsters/Half-Fey Creature|Half-Fey Creature]]
-  - [[rangoric-srd/monsters/Half-Fiend|Half-Fiend]]
+  - [[rangoric-srd/monsters/half-fiend/Half-Fiend|Half-Fiend]]
   - [[rangoric-srd/monsters/Halfling|Halfling]]
   - [[rangoric-srd/monsters/Hangman Tree|Hangman Tree]]
   - [[rangoric-srd/monsters/Harionago|Harionago]]
