@@ -17,3 +17,5 @@ tags: [rangoric, rangoric/gear]
 This is a wagon on runners for moving through snow and over ice. In general, two horses (or other beasts of burden) draw it. A sled comes with the harness needed to pull it.
 
 Price 20 gp; Weight 300 lb.
+
+See also the [[rangoric-srd/equipment/gear/Dog Sled|dog sled]], which a team of trained riding dogs pulls.

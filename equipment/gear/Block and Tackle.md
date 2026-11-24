@@ -18,3 +18,5 @@ tags: [rangoric, rangoric/gear]
 Whether it is used to hoist treasure from a pit or move supplies, a simple block-and-tackle pulley, when it is properly secured, adds a +5 circumstance bonus on Strength checks to lift heavy objects. Securing the pulley requires 1 minute.
 
 Price 5 gp; Weight 5 lb.
+
+See also the [[rangoric-srd/equipment/gear/Pulley|pulley]], a simpler version.

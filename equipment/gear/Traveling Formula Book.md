@@ -16,6 +16,6 @@ tags: [rangoric, rangoric/gear]
 
 # Traveling Formula Book
 
-This is the alchemist equivalent of a traveling spellbook for wizards (a traveling formula book and a traveling spellbook are essentially the same item).
+This is the alchemist equivalent of a [[rangoric-srd/equipment/gear/Traveling Spellbook|traveling spellbook]] for wizards (a traveling formula book and a traveling spellbook are essentially the same item).
 
 Price 10 gp; Weight 1 lb.

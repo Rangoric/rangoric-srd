@@ -1,0 +1,22 @@
+---
+srd-type: "alchemical-item"
+section: "Equipment"
+book: ["Advanced Player's Guide", "Ultimate Equipment"]
+category: ["Alchemical Remedy"]
+magical: false
+dc: "25"
+price: "50 gp/vial"
+based-on:
+  - "[[path srd 3.5/items/goods-and-services/Antiplague|Antiplague (PF1)]]"
+  - "[[path srd 3.5 foundry/items/gear/Antiplague|Antiplague (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/alchemical-item]
+---
+
+# Antiplague
+
+If you drink a vial of this foul-tasting, milky tonic, you gain a +5 alchemical bonus on Fortitude saving throws against disease for the next hour. If already infected, you may also make two saving throws (without the +5 bonus) that day and use the better result.
+
+[[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 25; Price 50 gp/vial.
