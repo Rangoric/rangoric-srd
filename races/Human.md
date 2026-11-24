@@ -148,3 +148,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/gunslinger/Buccaneer (Archetype)\|Buccaneer]] | [[rangoric-srd/classes/Gunslinger\|Gunslinger]] |
 | [[rangoric-srd/class-options/archetypes/monk/Wanderer (Archetype)\|Wanderer]] | [[rangoric-srd/classes/Monk\|Monk]] |
+| [[rangoric-srd/class-options/archetypes/druid/Feral Child (Archetype)\|Feral Child]] | [[rangoric-srd/classes/Druid\|Druid]] |
