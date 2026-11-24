@@ -95,3 +95,4 @@ The [[rangoric-srd/class-options/archetypes/Archetypes#Racial Archetypes|racial 
 | Archetype | Class |
 | --- | --- |
 | [[rangoric-srd/class-options/archetypes/oracle/Shigenjo (Archetype)\|Shigenjo]] | [[rangoric-srd/classes/Oracle\|Oracle]] |
+| [[rangoric-srd/class-options/archetypes/rogue/Swordmaster (Archetype)\|Swordmaster]] | [[rangoric-srd/classes/Rogue\|Rogue]] |
