@@ -28,7 +28,7 @@ treasure: "Standard"
 alignment: "Always lawful evil"
 advancement: "9–16 HD (Medium)"
 level-adjustment: "+6"
-group: "[[rangoric-srd/monsters/devil/Devil|Devil]]"
+group: "[[rangoric-srd/monsters/devil/kytons/Kyton|Kyton]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Kyton|Kyton (PF1)]]"

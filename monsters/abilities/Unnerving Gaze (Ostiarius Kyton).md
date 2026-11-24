@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["special attack"]
+book: "Bestiary 4"
+based-on:
+  - "[[path srd 3.5/monsters/Kyton, Ostiarius|Kyton, Ostiarius (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Unnerving Gaze (Ostiarius Kyton)
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “unnerving gaze”, on the Special Attacks line.
+
+A creature that succumbs to an ostiarius's unnerving gaze becomes [[rangoric-srd/rules/Special Abilities and Conditions#^sickened|sickened]] for 1d4 rounds. This is a mind-affecting fear effect. The save DC is Charisma-based. The [[rangoric-srd/monsters/devil/kytons/Ostiarius Kyton|ostiarius kyton]] has it.

@@ -250,6 +250,20 @@ tags: [rangoric, rangoric/overview]
 
 **Damage Reduction (Ex or Su)**: See [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]]. ^DR
 
+**Daemon Subtype**: Daemons are neutral evil [[#^outsider|outsiders]] that eat souls and thrive on disaster and ruin. ^daemon
+
+*Traits*: A daemon has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to acid, death effects, disease, and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to cold 10, electricity 10, and fire 10.
+
+  - *Summon (Sp)*: Daemons share the ability to [[rangoric-srd/monsters/abilities/Summon|summon]] others of their kind, typically another of their type or a small number of less powerful daemons.
+
+  - [[rangoric-srd/monsters/abilities/Telepathy|Telepathy]].
+
+  - Except where otherwise noted, daemons speak Abyssal, Draconic, and Infernal.
+
 **Dark Folk Subtype**: Dark folk are reclusive subterranean [[#^humanoid|humanoids]] with an aversion to light. ^dark-folk
 
 *Traits*: A dark folk creature has the following traits (unless otherwise noted in a creature's entry).
@@ -267,6 +281,24 @@ tags: [rangoric, rangoric/overview]
   - Except where otherwise noted, dark folk speak Dark Folk.
 
 The [[rangoric-srd/monsters/dark-folk/Dark Creeper|dark creeper]] and [[rangoric-srd/monsters/dark-folk/Dark Stalker|dark stalker]] are dark folk.
+
+**Demodand Subtype**: Demodands are chaotic evil [[#^outsider|outsiders]] who stalk the Abyss. ^demodand
+
+*Traits*: A demodand has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to acid and poison.
+
+  - [[rangoric-srd/monsters/abilities/Resistance|Resistance]] to cold 10 and fire 10.
+
+  - *Summon (Sp)*: Demodands share the ability to [[rangoric-srd/monsters/abilities/Summon|summon]] others of their kind, typically another of their type or a small number of less powerful demodands.
+
+  - *Faith-Stealing Strike (Su)*: When a demodand’s natural attack or melee weapon damages a creature capable of casting divine spells, that creature must make a Will saving throw or be unable to cast any divine spells for 1 round. Once a creature makes this save, it is immune to further faith-stealing strikes from that particular demodand for 24 hours. The save DC is Charisma-based.
+
+  - *Heretical Soul (Ex)*: All demodands gain a +4 bonus on saving throws against divine spells. In addition, any attempt to scry on a demodand using divine magic automatically fails. The caster can see the scried area normally, but the demodand simply does not appear.
+
+  - Except where otherwise noted, demodands speak Abyssal, Celestial, and Common.
+
+  - Demodands have the [[#^chaotic|chaotic]] and [[#^evil|evil]] subtypes, so their natural weapons and any weapons they wield count as chaotic and evil for overcoming [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]].
 
 **Demon Subtype**: Demons are chaotic evil [[#^outsider|outsiders]] native to the chaotic evil-aligned Outer Planes. ^demon
 
@@ -469,6 +501,18 @@ Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|In
 **Kasatha Subtype**: A humanoid subtype for [[rangoric-srd/monsters/Kasatha|kasathas]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kasatha
 
 **Kitsune Subtype**: A humanoid subtype for [[rangoric-srd/races/Kitsune|kitsune]], who also have the [[#^shapechanger|shapechanger subtype]]. It has no rules of its own; rules that name it, such as a racial hatred, use it. ^kitsune
+
+**Kyton Subtype**: Kytons are lawful evil [[#^outsider|outsiders]] native to the Plane of Shadow who feed on fear and pain. ^kyton
+
+*Traits*: A kyton has the following traits (unless otherwise noted in a creature's entry).
+
+  - [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 feet.
+
+  - *[[rangoric-srd/monsters/abilities/Regeneration|Regeneration]] (Ex)*: How much a kyton regenerates depends on its kind. Good weapons, good spells, and silver weapons neutralize it.
+
+  - [[rangoric-srd/monsters/abilities/Immunity|Immunity]] to cold.
+
+  - *Unnerving Gaze (Su)*: All kytons have a gaze attack that manipulates the perceptions of those who look upon them. An unnerving gaze has a range of 30 feet and can be negated by a Will save; what it does depends on the kind of kyton. All kytons are immune to the unnerving gazes of other kytons. An unnerving gaze is always a mind-affecting fear effect. The save DC is Charisma-based.
 
 **Lawful**: A subtype usually applied only to outsiders native to the lawful-aligned Outer Planes. Most creatures that have this subtype also have lawful alignments; however, if their alignments change, they still retain the subtype. Any effect that depends on alignment affects a creature with this subtype as if the creature has a lawful alignment, no matter what its alignment actually is. The creature also suffers effects according to its actual alignment. A creature with the lawful subtype overcomes damage reduction as if its natural weapons and any weapons it wields were lawful-aligned (see Damage Reduction, above). ^lawful
 
