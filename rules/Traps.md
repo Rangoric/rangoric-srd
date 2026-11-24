@@ -8,7 +8,7 @@ based-on:
   - "[[path srd 3.5/afflictions/Bestow Curse Trap|Bestow Curse Trap (PF1)]]"
 status: draft
 change: modified
-pi-review: scanned 2026-10-15
+pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -20,7 +20,7 @@ Magic traps are further divided into spell traps and magic device traps. Magic d
 
 Spell traps are simply spells that themselves function as traps. Creating a spell trap requires the services of a character who can cast the needed spell or spells, who is usually either the character creating the trap or an NPC spellcaster hired for the purpose.
 
-Dangers that belong to a place rather than being built, such as bad air or a cursed pool, are [[rangoric-srd/rules/Hazards|hazards]], not traps.
+Dangers that belong to a place rather than being built, such as bad air or a cursed pool, are [[rangoric-srd/rules/Hazards|hazards]], not traps. Places where unquiet spirits act like traps are [[rangoric-srd/rules/Haunts|haunts]].
 
 ##### Mechanical Traps
 

@@ -7,7 +7,7 @@ based-on:
   - "[[path srd 3.5/rules/game-mastery-guide/hazards/Sample Hazards|Sample Hazards (PF1)]]"
 status: draft
 change: new
-pi-review: 2026-11-22
+pi-review: 2026-11-24
 tags: [rangoric, rangoric/overview]
 ---
 
@@ -17,7 +17,7 @@ The adventuring world is filled with dangers beyond dragons and ravening fiends.
 
 Hazards fall into three main categories: environmental, living, and magical. Environmental hazards include subterranean threats like cave-ins and wilderness dangers like forest fires. Living hazards are creatures that are generally too passive to be considered monsters, but are still a threat to unwary adventurers, such as dangerous molds, slimes, and fungi. Magical hazards are the most unpredictable, and can be the legacy of arcane experimentation, strange underground radiations, or ancient enchantments gone awry.
 
-Hazards have challenge ratings like traps or monsters. A typical hazard triggers if a creature ventures near or into it, causing hit point damage, ability damage or drain, or some other harmful effect. Most can be detected by wary and knowledgeable PCs. Every hazard should have a means of escape or a way to eliminate the hazard, if not both.
+Hazards have challenge ratings like traps or monsters. A typical hazard triggers if a creature ventures near or into it, causing hit point damage, ability damage or drain, or some other harmful effect. Most can be detected by wary and knowledgeable PCs. Every hazard should have a means of escape or a way to eliminate the hazard, if not both. [[rangoric-srd/rules/Disasters|Disasters]] are larger still: each is an adventure of its own rather than an encounter.
 
 The dangers of the wild and of dungeons, such as [[rangoric-srd/rules/Wilderness, Weather, and Environment#Cave-Ins and Collapses (CR 8)|cave-ins]] and [[rangoric-srd/rules/Wilderness, Weather, and Environment#Slimes, Molds, and Fungi|slimes, molds and fungi]], are in their own rules. Hazards that cause an affliction point to its note; how afflictions work is in [[rangoric-srd/rules/Afflictions|afflictions]].
 
