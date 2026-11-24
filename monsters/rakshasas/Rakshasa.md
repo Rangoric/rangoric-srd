@@ -3,7 +3,7 @@ srd-type: "monster"
 section: "Monsters"
 size: "Medium"
 creature-type: "Outsider"
-subtypes: ["Native", "Shapechanger"]
+subtypes: ["Native", "Rakshasa", "Shapechanger"]
 hit-dice: "10d10+60 (115 hp)"
 initiative: "+9"
 speed: "40 ft. (8 squares)"
@@ -39,7 +39,7 @@ tags: [rangoric, rangoric/monster]
 ---
 # Rakshasa
 
-  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Shapechanger)
+  - Medium [[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^outsider|Outsider]] (Native, Rakshasa, Shapechanger)
   - **Hit Dice**: 10d10+60 (115 hp)
   - **Initiative**: +9
   - **Speed**: 40 ft. (8 squares)
@@ -61,6 +61,14 @@ tags: [rangoric, rangoric/monster]
   - **Alignment**: Always lawful evil
   - **Advancement**: By character class
   - **Level Adjustment**: +7
+
+**Also in this entry:**
+
+  - [[rangoric-srd/monsters/rakshasas/Dandasuka|Dandasuka]]
+  - [[rangoric-srd/monsters/rakshasas/Maharaja|Maharaja]]
+  - [[rangoric-srd/monsters/rakshasas/Marai|Marai]]
+  - [[rangoric-srd/monsters/rakshasas/Raktavarna|Raktavarna]]
+  - [[rangoric-srd/monsters/rakshasas/Tataka|Tataka]]
 
 The rakshasa is an evil spirit that cloaks itself in the guise of a humanoid creature that it might walk unseen among its prey. They embody what is taboo among most societies, and in the shape of those it seeks to defile, a rakshasa gorges itself on these hideous acts. Were they human, these acts of cannibalism, blasphemy, and worse would mark them as criminals condemned to the cruelest of hells.
 

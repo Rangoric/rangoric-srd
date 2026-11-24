@@ -14,6 +14,7 @@ tags: [rangoric, rangoric/overview]
 ## Kobold - Lycanthrope
 
   - [[rangoric-srd/monsters/Kamadan|Kamadan]]
+  - [[rangoric-srd/monsters/kamis/Kami|Kami]]
   - [[rangoric-srd/monsters/Kangaroo|Kangaroo]]
   - [[rangoric-srd/monsters/Kappa|Kappa]]
   - [[rangoric-srd/monsters/Kapre|Kapre]]

@@ -33,4 +33,4 @@ tags: [rangoric, rangoric/designer-reference]
 | 93–94 | 1 [[rangoric-srd/monsters/Intellect Devourer\|intellect devourer (body theft)]] | 8 |
 | 95–96 | 1 [[rangoric-srd/monsters/vampire/Alternate Vampire\|vampire]] | 9 |
 | 97–98 | 1 [[rangoric-srd/monsters/Night Hag\|night hag]] | 9 |
-| 99–100 | 1 [[rangoric-srd/monsters/Rakshasa\|rakshasa]] | 10 |
+| 99–100 | 1 [[rangoric-srd/monsters/rakshasas/Rakshasa\|rakshasa]] | 10 |

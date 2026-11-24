@@ -28,6 +28,7 @@ treasure: "Double (chain shirt, greatsword, composite longbow [+7 Str] with 20 a
 alignment: "Usually lawful evil"
 advancement: "By character class"
 level-adjustment: "+7"
+group: "[[rangoric-srd/monsters/onis/Oni|Oni]]"
 book: "Bestiary"
 based-on:
   - "[[path srd 3.5/monsters/Oni, Ogre Mage|Oni, Ogre Mage (PF1)]]"

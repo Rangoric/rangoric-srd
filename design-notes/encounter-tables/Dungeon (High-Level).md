@@ -35,7 +35,7 @@ tags: [rangoric, rangoric/designer-reference]
 | 79–82 | 1 [[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)\|barbed devil]] | 11 |
 | 83–86 | 1 [[rangoric-srd/monsters/Devourer\|devourer]] | 11 |
 | 87–88 | 1 [[rangoric-srd/monsters/demon/Hezrou\|hezrou]] | 11 |
-| 89–92 | 1d4 [[rangoric-srd/monsters/Rakshasa\|rakshasas]] | 12 |
+| 89–92 | 1d4 [[rangoric-srd/monsters/rakshasas/Rakshasa\|rakshasas]] | 12 |
 | 93–94 | 1 [[rangoric-srd/monsters/lich/Alternate Lich\|lich]] | 12 |
 | 95–96 | 1 [[rangoric-srd/monsters/demon/Glabrezu\|glabrezu]] | 13 |
 | 97–98 | 1 [[rangoric-srd/monsters/devil/Ice Devil (Gelugon)\|ice devil]] | 13 |
