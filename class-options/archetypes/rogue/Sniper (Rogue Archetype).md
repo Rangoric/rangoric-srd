@@ -5,7 +5,7 @@ option-type: "archetype"
 class: ["Rogue"]
 replaces:
   - "trapfinding (1st)"
-  - "trap sense (3rd–18th)"
+  - "danger sense (3rd–18th)"
 book: "Advanced Player's Guide"
 based-on:
   - "[[path srd 3.5/archetypes/Sniper|Sniper (PF1)]]"
@@ -23,7 +23,7 @@ Some say that the sniper is the worst kind of assassin: a killer who waits silen
 
 **Accuracy (Ex)**: At 1st level, a sniper halves all range increment penalties when making ranged attacks with a bow or crossbow. This ability replaces [[rangoric-srd/classes/Rogue#^rogue-trapfinding|trapfinding]].
 
-**Deadly Range (Ex)**: At 3rd level, a sniper increases the range at which she can apply her [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] damage by 10 feet. This range increases by 10 feet for every 3 levels after 3rd. This ability replaces [[rangoric-srd/classes/Rogue#^rogue-trap-sense|trap sense]].
+**Deadly Range (Ex)**: At 3rd level, a sniper increases the range at which she can apply her [[rangoric-srd/classes/Rogue#^rogue-sneak-attack|sneak attack]] damage by 10 feet. This range increases by 10 feet for every 3 levels after 3rd. This ability replaces [[rangoric-srd/classes/Rogue#^rogue-trap-sense|danger sense]].
 
 **Rogue Talents**: The following [[rangoric-srd/classes/Rogue#^rogue-talents|rogue talents]] complement the sniper archetype: [[rangoric-srd/class-options/rogue-talents/Camouflage (Rogue Talent)|camouflage]], [[rangoric-srd/class-options/rogue-talents/Snap Shot (Rogue Talent)|snap shot]], [[rangoric-srd/class-options/rogue-talents/Sniper's Eye (Rogue Talent)|sniper's eye]], and [[rangoric-srd/class-options/rogue-talents/Weapon Training (Rogue Talent)|weapon training]].
 
