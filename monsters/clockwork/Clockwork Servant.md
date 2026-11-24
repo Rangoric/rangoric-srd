@@ -74,3 +74,7 @@ Clockwork servants are about 5 feet tall and weigh over 400 pounds.
 **Net (Ex)**: As a standard action, a clockwork servant can launch a net from its shoulder. The launcher itself can contain up to five nets—loading a folded net into the launcher is a standard action. Some clockwork servants are outfitted with masterwork or even magic nets, although the clockwork servant presented here is armed with standard nets.
 
 **[[rangoric-srd/monsters/abilities/Repair Clockwork|Repair Clockwork]] (Ex)**: Clockwork servants are adept at repairing other clockwork constructs. As a standard action that does not provoke an attack of opportunity, a clockwork servant can repair damage done to either itself or an adjacent clockwork creature, healing 1d10 points of damage to the target.
+
+### Construction
+
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]* and *[[rangoric-srd/spells/Make Whole|make whole]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 7,500 gp (13,500 gp for an intelligent servant); Cost 4,000 gp (7,000 gp for an intelligent clockwork servant).

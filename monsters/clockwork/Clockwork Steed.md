@@ -68,3 +68,7 @@ These tireless constructs were designed by engineers as a replacement for normal
 ### Combat
 
 **[[rangoric-srd/monsters/abilities/Powerful Kick|Powerful Kick]] (Ex)**: As a standard action, the clockwork steed can make two hoof attacks with its rear hooves; if both hit, it can perform an awesome blow combat maneuver as the Awesome Blow feat. A clockwork steed gains a +4 racial bonus on this combat maneuver check.
+
+### Construction
+
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Bull’s Strength|bull's strength]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 29,000 gp (33,500 gp for a clockwork charger); Cost 16,000 gp (18,750 gp for a clockwork charger).

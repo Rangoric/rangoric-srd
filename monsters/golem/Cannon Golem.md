@@ -78,3 +78,7 @@ A cannon golem's internal workings are a mechanical labyrinth; its extradimensio
 
 - Any spell with the water descriptor that affects a cannon golem renders its cannon unusable for 1 round (no save).
 - A *[[rangoric-srd/spells/Heat Metal|heat metal]]* spell causes the golem's cannon to instantly backfire, dealing 6d6 points of damage to the golem and staggering it for 1 round (no save).
+
+### Construction
+
+CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Plane Shift|plane shift]]* or *[[rangoric-srd/spells/Secret Chest|secret chest]]*, creator must be caster level 17th; Skill [[rangoric-srd/skills/Craft|Craft]] (siege engine) and [[rangoric-srd/skills/Engineering|Engineering]] DC 25; Price 200,000 gp; Cost 105,000 gp.

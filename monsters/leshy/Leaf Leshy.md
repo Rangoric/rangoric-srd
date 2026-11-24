@@ -76,3 +76,7 @@ Leaf leshys speak Druidic and Sylvan.
 **[[rangoric-srd/monsters/abilities/Glide|Glide]] (Ex)**: A leaf leshy cannot use its fly speed to hover. When flying, a leaf leshy must end its movement at least 5 feet lower in elevation than it started.
 
 **Seedpods (Ex)**: Leaf leshys sprout explosive acorns, pine cones, or other seedpods, and can hurl these as ranged attacks. A seedpod has a range increment of 10 feet and detonates on contact to deal 1 point of bludgeoning damage (this damage is not modified by Strength). Anyone struck by a seedpod must succeed at a DC 11 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^deafened|deafened]] for 1 round. The save DC is Constitution-based.
+
+### Creation
+
+CL 5th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, *[[rangoric-srd/spells/Magic Stone|magic stone]]*, *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]*; Skill [[rangoric-srd/skills/Nature|Nature]] DC 12; Price 1,000 gp; Cost 500 gp.

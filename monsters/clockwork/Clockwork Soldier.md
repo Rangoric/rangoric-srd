@@ -76,3 +76,7 @@ Clockwork soldiers are among the most efficient constructs of their kind. They a
 **[[rangoric-srd/monsters/abilities/Proficient|Proficient]] (Ex)**: A clockwork soldier is proficient with all simple and martial weapons.
 
 **[[rangoric-srd/monsters/abilities/Standby|Standby]] (Ex)**: A clockwork soldier can place itself on standby as a standard action. While on standby, a clockwork soldier cannot move or take any actions. It remains aware of its surroundings but takes a –4 penalty on Perception checks. Time spent on standby does not count against the soldier's wind-down duration. A clockwork soldier can exit standby as a swift action—if it does so to initiate combat, it gains a +4 racial bonus on its Initiative check.
+
+### Construction
+
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]* and *[[rangoric-srd/spells/Heroism|heroism]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 37,000 gp; Cost 19,000 gp.

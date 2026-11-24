@@ -24,7 +24,7 @@ feats: "Bleeding Critical, Combat Expertise, Combat Reflexes, Craft Construct, C
 environment: "Any (a chaotic evil-aligned plane: the Abyss)"
 organization: "Solitary (unique)"
 challenge-rating: 30
-treasure: "Triple (Scepter of Shibaxet, other treasure)"
+treasure: "Triple (Scepter of Pazuzu, other treasure)"
 alignment: "Usually chaotic evil"
 advancement: "—"
 level-adjustment: "—"
@@ -58,7 +58,7 @@ tags: [rangoric, rangoric/monster]
   - **Environment**: Any (a chaotic evil-aligned plane: the Abyss)
   - **Organization**: Solitary (unique)
   - **Challenge Rating**: 30
-  - **Treasure**: Triple (Scepter of Shibaxet, other treasure)
+  - **Treasure**: Triple ([[rangoric-srd/magic-items/artifacts/Scepter of Pazuzu|Scepter of Pazuzu]], other treasure)
   - **Alignment**: Usually chaotic evil
   - **Advancement**: —
   - **Level Adjustment**: —

@@ -78,3 +78,7 @@ Implacable automatons of elemental fire and extraplanar brass, brass golems stan
 
 - A magical attack that deals cold damage slows a brass golem (as per the *[[rangoric-srd/spells/Slow|slow]]* spell) for 1d6 rounds, with no saving throw.
 - A magical attack that deals fire damage breaks any *[[rangoric-srd/spells/Slow|slow]]* effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A brass golem gets no save against fire effects.
+
+### Construction
+
+CL 17th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Incendiary Cloud|incendiary cloud]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/See Invisibility|see invisibility]]*, creator must be caster level 17th; Skill [[rangoric-srd/skills/Craft|Craft]] (armor) or [[rangoric-srd/skills/Craft|Craft]] (blacksmithing) DC 22; Price 180,000 gp; Cost 100,000 gp.

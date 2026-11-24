@@ -75,3 +75,7 @@ Created from a massive quantity of the purest mithral, this golem is a thing of 
 - Hitting a mithral golem in fluid form with any spell of 6th level or higher with the cold descriptor causes the golem to take 10d6 points of damage (no save) and lose the use of its fluid form ability for 24 hours.
 
 **[[rangoric-srd/monsters/abilities/Quickness|Quickness]] (Ex)**: A mithral golem is incredibly quick. It can take an extra move action during its turn each round. This means it can move up to its speed and still make a full attack.
+
+### Construction
+
+CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Haste|haste]]*, *[[rangoric-srd/spells/Polymorph Any Object|polymorph any object]]*, *[[rangoric-srd/spells/Wish|wish]]*, creator must be caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) DC 25; Price 250,000 gp; Cost 150,000 gp.

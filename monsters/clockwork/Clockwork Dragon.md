@@ -74,3 +74,7 @@ The basic chassis and internal workings of the clockwork dragons are highly adap
 **[[rangoric-srd/monsters/abilities/Efficient Winding (Clockwork Dragon)|Efficient Winding]] (Ex)**: Built for long and dangerous missions, a clockwork dragon can function for 3 days per Hit Die each time it's wound.
 
 **[[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Dragon)|Self-Destruction]] (Ex)**: When a clockwork dragon's hit points are reduced to 10% of its total (17 in the case of most clockwork dragons) or less but are still above 0, the creature self-destructs on its next turn, bursting into an explosion of metal scraps and steam that deals 10d6 points of slashing damage plus 10d6 points of fire damage to all creatures within a 20-foot-radius burst. A successful DC 22 Reflex save halves the damage. The save is Charisma-based.
+
+### Construction
+
+CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, and *[[rangoric-srd/spells/Limited Wish|limited wish]]*, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 300,000 gp; Cost 162,500 gp.

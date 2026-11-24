@@ -72,3 +72,7 @@ The clockwork goliath towers over most creatures and buildings; standing at a he
 **[[rangoric-srd/monsters/abilities/Cannon|Cannon]] (Ex)**: One of a goliath's arms ends in a cannon. The goliath may use this as one of its four slam attacks, or it can use it to fire cannonballs. A cannon has a range increment of 100 feet, and deals 6d6 points of bludgeoning and piercing damage on a hit with a ×4 critical modifier. A clockwork goliath's cannon can hold up to 12 cannonballs—reloading a single cannonball is a standard action.
 
 **[[rangoric-srd/monsters/abilities/Self-Destruction (Clockwork Goliath)|Self-Destruction]] (Su)**: When a goliath's hit points are reduced to 10% its total (21 hp for most clockwork goliaths) or less but still above 0, it self-destructs on its next turn, bursting in an explosion of metal scraps and steam that deals 12d6 points of slashing damage plus 12d6 points of fire damage to all creatures within a 20-foot-radius burst. A successful DC 24 Reflex save halves the damage. The save is Constitution-based.
+
+### Construction
+
+CL 18th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], [[rangoric-srd/feats/Gunsmithing|Gunsmithing]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, and *[[rangoric-srd/spells/Limited Wish|limited wish]]*, creator must be at least caster level 18th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 25; Price 300,000 gp; Cost 160,000 gp.

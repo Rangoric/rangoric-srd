@@ -78,3 +78,7 @@ Seaweed leshys speak Druidic and Sylvan.
 **[[rangoric-srd/monsters/abilities/Air Cyst|Air Cyst]] (Su)**: Seaweed leshys constantly grow small bulbs filled with air. As a move action, they can detach a bulb and give it to another creature. If consumed as a standard action, this air cyst grants water breathing (as the spell) for 10 minutes. Seaweed leshys can have a maximum of four usable air cysts at any one time, and air cysts regrow at a rate of one per 24 hours.
 
 **Water Jet (Ex)**: A seaweed leshy can expel a high-pressure jet of water from its mouth to a range of 30 feet. It must make a ranged touch attack to strike a target—if it hits, the blast deals 1 point of bludgeoning damage (this damage is not modified by Strength). In addition, the creature hit must make a DC 15 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^blinded|blinded]] by the water for 1 round. The save DC is Dexterity-based.
+
+### Creation
+
+CL 10th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Summon Nature’s Ally III|summon nature's ally III]]*, *[[rangoric-srd/spells/Water Breathing|water breathing]]*; Skill [[rangoric-srd/skills/Nature|Nature]] DC 16; Price 4,500 gp; Cost 2,250 gp.

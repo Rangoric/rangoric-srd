@@ -71,4 +71,6 @@ Growing the body takes 1 year. One creator, typically the creature who becomes t
 
 If the skill checks are successful, the cultivators then perform a special ritual within a day of the cultivation. This ritual takes 24 hours to perform and must be led by the creature that is to become the master of the barometz. At the ritual's climax, there's a 50% chance that the attempt to create a barometz succeeds—if this final check fails, no appropriate spirit is close enough to answer the call. The plant body rots and the creators must begin anew with fresh materials. At the GM's discretion, this final chance for success might increase to 75% or even 100% for particularly magical areas where the necessary spirits are more common. Discovering such a rare and magical site should be the focus of its own adventure.
 
-- Barometz (Item)
+### Creation
+
+CL 15th; [[rangoric-srd/skills/Nature|Nature]] 15 ranks, *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Entangle|entangle]]*, *[[rangoric-srd/spells/Ironwood|ironwood]]*, *[[rangoric-srd/spells/Summon Nature’s Ally VII|summon nature's ally VII]]*; Skill [[rangoric-srd/skills/Nature|Nature]] DC 25; Price 80,500 gp; Cost 40,200 gp.

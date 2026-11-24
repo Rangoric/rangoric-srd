@@ -74,3 +74,7 @@ Tupilaqs must be created in secrecy—if any other person discovers the tupilaq 
 **[[rangoric-srd/monsters/abilities/Seek Target|Seek Target]] (Su)**: A tupilaq's creator can place a drop of blood, lock of hair, or other portion of a creature's body in the tupilaq's maw as a standard action. From that point on, the tupilaq constantly knows what direction that creature is located in, and gains a +20 insight bonus on all Perception checks made to locate the creature. A new target cannot be assigned to a tupilaq in this manner until its previous target is dead.
 
 **[[rangoric-srd/monsters/abilities/Shearing Jaws|Shearing Jaws]] (Ex)**: All tupilaqs are crafted with oversized jaws capable of tearing and pulling. A tupilaq applies twice its Strength modifier to damage with a successful bite attack and threatens a critical hit on a roll of 19–20. A tupilaq is treated as Large for all checks made to move a grappled opponent.
+
+### Construction
+
+CL 8th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Keen Edge|keen edge]]*, *[[rangoric-srd/spells/Locate Creature|locate creature]]*, creator must be caster level 8th, creation must be done in complete secrecy; Skill [[rangoric-srd/skills/Craft|Craft]] (scrimshaw) DC 20; Price 21,000 gp; Cost 10,875 gp.
