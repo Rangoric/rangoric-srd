@@ -73,3 +73,7 @@ This golem is a walking alchemical nightmare, capable of inflicting all manner o
 **Immunity to Magic (Ex)**: An alchemical golem is immune to spells or spell-like abilities that allow spell resistance, save for spells with the sonic descriptor. Shatter damages an alchemical golem as if it were a crystalline creature.
 
 **[[rangoric-srd/monsters/abilities/Splash|Splash]] (Ex)**: Any strike on an alchemical golem with a non-reach melee weapon deals 1 point of acid, cold, electricity, or fire damage (determine type randomly) to the attacker. This amount increases to 1d6 points of damage if the attack is a critical hit.
+
+### Construction
+
+CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*, *[[rangoric-srd/spells/Major Creation|major creation]]*, *[[rangoric-srd/spells/Resist Energy|resist energy]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, creator must be caster level 10th; Skill [[rangoric-srd/skills/Craft|Craft]] (alchemy) DC 20; Price 33,000 gp; Cost 18,000 gp.

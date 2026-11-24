@@ -73,3 +73,7 @@ Bone golems are most often crafted as guardians of tombs—and sometimes formed 
 - Magical effects that heal living creatures slow a bone golem (as the *[[rangoric-srd/spells/Slow|slow]]* spell) for 1d4 rounds (no save).
 - A magical attack that deals negative energy damage breaks any *[[rangoric-srd/spells/Slow|slow]]* effect on the golem and heals 1 point of damage for every 3 points of damage the attack would otherwise deal. If the healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A bone golem gets no saving throw against attacks that deal negative energy damage.
 - A *[[rangoric-srd/spells/Raise Dead|raise dead]]*, *[[rangoric-srd/spells/Resurrection|resurrection]]*, or *[[rangoric-srd/spells/True Resurrection|true resurrection]]* spell negates its DR and immunity to magic for 1 minute.
+
+### Construction
+
+CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, and either *[[rangoric-srd/spells/Animate Dead|animate dead]]* or *[[rangoric-srd/spells/Animate Objects|animate objects]]*, creator must be at least caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Medicine|Medicine]] DC 15; Price 41,000 gp; Cost 21,000 gp.

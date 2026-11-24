@@ -74,3 +74,7 @@ Fossil golems are often used to guard caverns and other natural fortifications. 
 - A *[[rangoric-srd/spells/Stone to Flesh|stone to flesh]]* spell negates its damage reduction and petrification ability for 1 round.
 
 **Petrification (Su)**: The attacks of a fossil golem gradually turn living flesh to stone. Each time the golem hits a target with one of its natural attacks, the target must make a DC 19 Fortitude save or take 1d6 points of Dexterity drain. A creature that is reduced to 0 Dexterity by this attack turns completely to stone, as if by a *[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]* spell. Casting *[[rangoric-srd/spells/Stone to Flesh|stone to flesh]]* on the creature removes all Dexterity drain caused by this attack. The save DC is Constitution-based and includes a +2 racial bonus.
+
+### Construction
+
+CL 15th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Flesh to Stone|flesh to stone]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Limited Wish|limited wish]]*, *[[rangoric-srd/spells/Stone Shape|stone shape]]*, creator must be at least caster level 15th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) or [[rangoric-srd/skills/Medicine|Medicine]] DC 20; Price 125,000 gp; Cost 65,000 gp.

@@ -84,3 +84,7 @@ A humanoid figure of mithral and steel, a clockwork mage has large crystal ball 
 - *Necromancy*: 1st—*[[rangoric-srd/spells/Cause Fear|cause fear]]* (DC 11), *[[rangoric-srd/spells/Ray of Enfeeblement|ray of enfeeblement]]* (DC 11); 2nd—*[[rangoric-srd/spells/Blindness-Deafness|blindness/deafness]]* (DC 13), *[[rangoric-srd/spells/Scare|scare]]* (DC 13); 3rd—*[[rangoric-srd/spells/Ray of Exhaustion|ray of exhaustion]]* (DC 14)
 
 - *Transmutation*: 1st—*[[rangoric-srd/spells/Expeditious Retreat|expeditious retreat]]*, *[[rangoric-srd/spells/Reduce Person|reduce person]]* (DC 11); 2nd—*[[rangoric-srd/spells/Alter Self|alter self]]*, *[[rangoric-srd/spells/Spider Climb|spider climb]]*; 3rd—*[[rangoric-srd/spells/Haste|haste]]*
+
+### Construction
+
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, and *[[rangoric-srd/spells/Mnemonic Enhancer|mnemonic enhancer]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 84,000 gp; Cost 43,000 gp.

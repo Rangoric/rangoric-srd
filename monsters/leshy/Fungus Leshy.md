@@ -78,3 +78,7 @@ Fungus leshys speak Druidic and Sylvan.
 **Puffball (Ex)**: A fungus leshy can spit a puffball as a standard action. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target struck (but not adjacent targets) with the fungus leshy's spores. The puffball has a range increment of 20 feet.
 
 **[[rangoric-srd/monsters/abilities/Spores (Fungus Leshy)|Spores]] (Ex)**: A fungus leshy is riddled with molds and spores. Anytime a fungus leshy takes damage, a cloud of spores bursts from its body, forcing all adjacent creatures to make a DC 14 Fortitude save or have their vision reduced to 10 feet for 1 minute. Spending a full-round action to wash one's eyes with water ends this effect. The save DC is Constitution-based.
+
+### Creation
+
+CL 8th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, *[[rangoric-srd/spells/Obscuring Mist|obscuring mist]]*, *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Summon Nature’s Ally II|summon nature's ally II]]*; Skill [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] or [[rangoric-srd/skills/Nature|Nature]] DC 14; Price 2,500 gp; Cost 1,250 gp.

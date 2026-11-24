@@ -73,3 +73,7 @@ Made using one of the hardest and most precious substances, the adamantine golem
 **Immunity to Magic (Ex)**: An adamantine golem is immune to any spell or spell-like ability that allows spell resistance, except as noted below.
 
 - *[[rangoric-srd/spells/Transmute Metal to Wood|Transmute metal to wood]]* slows an adamantine golem for 1d4 rounds, during which time its damage reduction is reduced to 15/adamantine (no save).
+
+### Construction
+
+CL 20th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Crushing Hand|crushing hand]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Heal (Spell)|heal]]*, *[[rangoric-srd/spells/Stoneskin|stoneskin]]*, *[[rangoric-srd/spells/Wish|wish]]*, creator must be caster level 20th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculpture) DC 35; Price 600,000 gp; Cost 350,000 gp.

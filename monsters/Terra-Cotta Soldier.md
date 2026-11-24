@@ -74,3 +74,7 @@ Unlike most constructs, a terra-cotta soldier carries within its form a spark of
 **[[rangoric-srd/monsters/abilities/Keen Weapons|Keen Weapons]] (Su)**: After it has engaged in at least 1 round of combat, a terra-cotta soldier's weapons automatically gain the benefits of keen weapon (CL 6th). This effect persists until the end of the battle.
 
 **[[rangoric-srd/monsters/abilities/Rank Fighting|Rank Fighting]] (Ex)**: Whenever a terra-cotta soldier is adjacent to another terra-cotta soldier, it gains a +2 dodge bonus to its AC and a +2 bonus on saving throws, attack rolls, and damage rolls.
+
+### Construction
+
+CL 9th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Cat’s Grace|cat's grace]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Keen Edge|keen edge]]*, creator must be caster level 9th; Skill [[rangoric-srd/skills/Craft|Craft]] (pottery) or [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 14; Price 19,500 gp; Cost 10,000 gp.

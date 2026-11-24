@@ -76,3 +76,7 @@ Clockwork leviathans are 25 feet long and weigh just over 3 tons.
 **[[rangoric-srd/monsters/abilities/Grind (Clockwork Leviathan)|Grind]] (Ex)**: A clockwork leviathan deals an additional 1d8+16 points of slashing damage when it makes a successful grapple check because of the myriad twisting gears and churning pistons that make up its jagged underbelly.
 
 **[[rangoric-srd/monsters/abilities/Swallow Whole|Swallow Whole]] (Ex)**: A clockwork leviathan's interior is filled with injurious grinding gears and superheated water—in addition to taking damage, a swallowed creature must hold its breath or risk drowning as long as it remains inside a clockwork leviathan's “stomach.”
+
+### Construction
+
+CL 12th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Freedom of Movement|freedom of movement]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Heat Metal|heat metal]]*, and *[[rangoric-srd/spells/Limited Wish|limited wish]]*, creator must be at least caster level 12th; Skill [[rangoric-srd/skills/Craft|Craft]] (clockwork) DC 20; Price 130,000 gp; Cost 70,000 gp.

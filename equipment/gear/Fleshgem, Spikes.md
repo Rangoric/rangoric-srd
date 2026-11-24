@@ -1,0 +1,21 @@
+---
+srd-type: "gear"
+section: "Equipment"
+gear-type: "adventuring gear"
+price: "50 gp"
+weight: "5 lb."
+book: "Advanced Race Guide"
+based-on:
+  - "[[path srd 3.5/items/featured-race/Fleshgem|Fleshgem (PF1)]]"
+  - "[[path srd 3.5 foundry/items/gear/Fleshgem, spikes|Fleshgem, spikes (PF1 F)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/gear]
+---
+
+# Fleshgem, Spikes
+
+An [[rangoric-srd/races/Oread|oread]] adventurer discovered these small green gemstones when, after suffering a wound from falling on some jagged stones while exploring a cavern, she noticed pieces of beautiful green crystal growing from her skin. Oread jewelers found that these crystals, dubbed fleshgems, seemed to feed on the elemental energy that permeates an oread's flesh, growing from tiny chips of stone into large, elaborate gemstones. Essentially harmless, implanting fleshgems became a unique racial method of body alteration among oreads, equivalent to tattoos and piercings among other humanoids. Decorative fleshgems cost 1 gp and are merely ornamental. Fleshgem spikes, on the other hand, grow into elaborate crystalline shards that function as [[rangoric-srd/equipment/armor/Armor Spikes|armor spikes]], but the oread wearing them cannot wear armor over the spikes and even normal clothing requires special holes or seams to allow the spikes to stick out. Implanting a set of fleshgem spikes takes 10 minutes, and the resulting shard takes about a week to grow to full size. Removing a fleshgem takes 1 minute; the person removing the gem must make a successful DC 15 [[rangoric-srd/skills/Medicine|Medicine]] check to avoid dealing 1d4 points of damage to the oread. The fleshgem spikes can be sundered or destroyed as if the growths were a worn object (hardness 1, 5 hp), but unless the embedded root of the fleshgem is removed, the shards grow back 1 week later.
+
+Price 50 gp; Weight 5 lb.

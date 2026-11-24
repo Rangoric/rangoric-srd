@@ -80,3 +80,7 @@ A typical glass golem is 10 feet tall and weighs 2,500 pounds.
 - A magical attack that deals fire damage ends any slow effect on the golem and heals 1 point of damage for each 3 points of damage the attack would otherwise deal. If the amount of healing would cause the golem to exceed its full normal hit points, it gains any excess as temporary hit points. A glass golem gets no saving throw against fire effects.
 
 **[[rangoric-srd/monsters/abilities/Reflect Spells|Reflect Spells]] (Ex)**: As a free action once every 1d4 rounds, a glass golem can align its internal structure to enhance its resistance to magic for 1 round. During this time, the golem reflects spells (even spells that function differently against the golem as described in its immune to magic ability) as if under the effect of a spell turning spell.
+
+### Construction
+
+CL 10th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Flame Strike|flame strike]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Spell Turning|spell turning]]*, creator must be caster level 10th; Skill [[rangoric-srd/skills/Craft|Craft]] (sculptures) DC 17; Price 33,000 gp (glass), 39,400 gp (stained glass); Cost 17,000 gp (glass golem), 20,200 gp (stained glass golem).

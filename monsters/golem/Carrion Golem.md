@@ -78,3 +78,7 @@ Carrion golems are made from the partially decayed parts of numerous dead creatu
 **[[rangoric-srd/monsters/abilities/Plague Carrier|Plague Carrier]] (Ex)**: When a carrion golem is created, its creator infects it with a specific disease. The carrion golem can then infect those it strikes with its slams with this disease—most carrion golems inflict [[rangoric-srd/rules/afflictions/Filth Fever|filth fever]]. The save DC is Constitution-based and includes a +2 racial bonus.
 
 **[[rangoric-srd/monsters/abilities/Disease|Disease]] (Ex)**: [[rangoric-srd/rules/afflictions/Filth Fever|Filth Fever]]: Slam—injury; *save* Fort DC 14; *onset* 1d3 days; *frequency* 1/day; *effect* 1d3 Dex damage and 1d3 Con damage; *cure* 2 consecutive saves.
+
+### Construction
+
+CL 7th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Dead|animate dead]]*, *[[rangoric-srd/spells/Contagion|contagion]]*, *[[rangoric-srd/spells/False Life|false life]]*, *[[rangoric-srd/spells/Gentle Repose|gentle repose]]*, *[[rangoric-srd/spells/Geas, Lesser|lesser geas]]*, creator must be caster level 7th; Skill [[rangoric-srd/skills/Craft|Craft]] (leather) or [[rangoric-srd/skills/Medicine|Medicine]] DC 13; Price 10,500 gp; Cost 5,500 gp.

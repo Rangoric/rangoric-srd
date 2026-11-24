@@ -76,3 +76,7 @@ Forged from thousands of gears, the clockwork golem is a precision creation. In 
 - A *[[rangoric-srd/spells/Rusting Grasp|rusting grasp]]* spell deals damage to a clockwork golem normally, and makes the golem [[rangoric-srd/rules/Special Abilities and Conditions#^staggered|staggered]] for 1d6 rounds (no save).
 
 **[[rangoric-srd/monsters/abilities/Wall of Gears|Wall of Gears]] (Su)**: As a standard action, a clockwork golem can fold into a whirling wall of grinding gears measuring 10 feet by 10 feet or 5 feet by 20 feet. Anyone passing through the wall takes 15d6 points of slashing damage. If the wall appears in a creature's space, that creature can attempt a DC 18 Reflex save to leap to one side and avoid the damage entirely. The clockwork golem can take no actions while in this form except to resume its normal form as a move action. A clockwork golem's AC and immunities remain the same while it is in this form.
+
+### Construction
+
+CL 15th; [[rangoric-srd/feats/Craft Construct|Craft Construct]], *[[rangoric-srd/spells/Animate Objects|animate objects]]*, *[[rangoric-srd/spells/Blade Barrier|blade barrier]]*, *[[rangoric-srd/spells/Geas-Quest|geas/quest]]*, *[[rangoric-srd/spells/Grease|grease]]*, *[[rangoric-srd/spells/Telekinesis|telekinesis]]*, creator must be caster level 15th; Skill [[rangoric-srd/skills/Craft|Craft]] (clocks) or [[rangoric-srd/skills/Craft|Craft]] (locks) DC 20; Price 120,000 gp; Cost 65,000 gp.

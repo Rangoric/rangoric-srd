@@ -80,3 +80,7 @@ Gourd leshys speak Druidic and Sylvan.
 **[[rangoric-srd/monsters/abilities/Keepsake|Keepsake]] (Su)**: Gourd leshys can pop off the top of their heads and store a single Fine-sized object such as a dagger or potion inside. While within the leshy's head, the item is warded by nondetection. In addition, after 24 hours, the item within is cleaned and polished, and, if damaged, repaired as if by a mending spell. Both spell effects have a caster level equal to twice the leshy's Hit Dice (CL 2nd for most gourd leshys).
 
 **[[rangoric-srd/monsters/abilities/Seed|Seed]] (Ex)**: A gourd leshy can hurl its seeds as a ranged attack. If it hits, this attack deals 1 point of damage (this damage is not modified by Strength) and affects the target with the gourd leshy's ensnare ability. This attack has a 10-foot range increment.
+
+### Creation
+
+CL 6th; [[rangoric-srd/skills/Nature|Nature]] 5 ranks, *[[rangoric-srd/spells/Entangle|entangle]]*, *[[rangoric-srd/spells/Plant Growth|plant growth]]*, *[[rangoric-srd/spells/Summon Nature’s Ally I|summon nature's ally I]]*; Skill [[rangoric-srd/skills/Nature|Nature]] DC 13; Price 1,500 gp; Cost 750 gp.
