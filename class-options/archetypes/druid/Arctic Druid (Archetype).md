@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/class-option]
 
 An arctic druid watches over the stark landscape of the far frozen reaches of the world, tending the stunted and rugged life that ekes out its survival in the least habitable climes.
 
-**Arctic Native (Ex)**: At 2nd level, an arctic druid gains a bonus on initiative checks and [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks equal to 1/2 her druid level in cold or icy terrain, and she cannot be tracked in cold or icy terrain. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
+**Arctic Native (Ex)**: At 2nd level, an arctic druid gains a bonus on initiative checks and [[rangoric-srd/skills/Nature|Nature]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] checks equal to 1/2 her druid level in cold or icy terrain, and she cannot be tracked in cold or icy terrain. This ability replaces [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]].
 
 **Icewalking (Ex)**: At 3rd level, an arctic druid suffers no penalty to speed or on [[rangoric-srd/skills/Acrobatics|Acrobatics]], [[rangoric-srd/skills/Athletics|Athletics]] (climbing), or [[rangoric-srd/skills/Stealth|Stealth]] checks in snowy or icy terrain or weather conditions and can walk across snow crusts or thin ice without breaking through. This ability replaces [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]].
 
