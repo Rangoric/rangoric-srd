@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["special attack"]
+book: "Monster Codex"
+based-on:
+  - "[[path srd 3.5/monsters/Slaugrak|Slaugrak (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Vicious Jaws
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “vicious jaws”, on the Special Attacks line.
+
+A slaugrak's bite attack threatens a critical hit on a roll of 19–20. The [[rangoric-srd/monsters/Slaugrak|slaugrak]] has it.

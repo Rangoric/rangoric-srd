@@ -536,7 +536,7 @@ An incorporeal creature moves silently and cannot be heard with Perception check
 
 Also see [[rangoric-srd/rules/Special Abilities and Conditions#Incorporeality|Incorporeality]] under Special Abilities.
 
-**Inevitable Subtype**: Inevitables are construct-like [[#^outsider|outsiders]] built by the axiomites to enforce law. ^inevitable
+**Inevitable Subtype**: Inevitables are construct-like [[#^outsider|outsiders]] built by the [[rangoric-srd/monsters/Axiomite|axiomites]] to enforce law. ^inevitable
 
 *Traits*: An inevitable has the following traits.
 

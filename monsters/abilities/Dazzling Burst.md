@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Su"]
+kind: ["special attack"]
+book: "Bestiary 2"
+based-on:
+  - "[[path srd 3.5/monsters/D'ziriak|D'ziriak (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Dazzling Burst
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Supernatural]] (Su). In a stat block*: “dazzling burst”, on the Special Attacks line.
+
+Once per day, a d'ziriak can cause its body to flare with intense, colorful light as a swift action. Non-d'ziriaks within a 20-foot radius must make a DC 13 Fortitude save or be [[rangoric-srd/rules/Special Abilities and Conditions#^dazzled|dazzled]] for 1 minute. After using this ability, the d'ziriak's brilliant glow is extinguished for 24 hours. This ability is a light effect, and creatures that cannot see are immune to it. The save DC is Constitution-based. The [[rangoric-srd/monsters/D'ziriak|d'ziriak]] has it.
