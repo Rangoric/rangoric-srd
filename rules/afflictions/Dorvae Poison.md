@@ -1,0 +1,28 @@
+---
+srd-type: "affliction"
+section: "Rules"
+book: "Bestiary 4"
+affliction-type: "poison"
+delivery: "injury"
+save: "Fortitude DC 20"
+save-dc: 20
+frequency: "1/round for 12 rounds"
+effect: "1d4 Wis and susceptibility to lesser geas"
+cure: "3 saves"
+based-on:
+  - "[[path srd 3.5/monsters/Dorvae|Dorvae (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-24
+tags: [rangoric, rangoric/affliction]
+---
+
+# Dorvae Poison
+
+A poison; how afflictions work, and what each line means, is in [[rangoric-srd/rules/Afflictions#The Affliction Block|afflictions]]. It is the poison of the [[rangoric-srd/monsters/Dorvae|dorvae]]. It is delivered by the dorvae's writhing snakes.
+
+- **Type**: poison, injury
+- **Save**: Fortitude DC 20
+- **Frequency**: 1/round for 12 rounds
+- **Effect**: 1d4 Wisdom damage, and on the first failed save the target is susceptible to the dorvae's *[[rangoric-srd/spells/Geas, Lesser|lesser geas]]* no matter its Hit Dice for 24 hours
+- **Cure**: 3 saves

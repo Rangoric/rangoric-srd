@@ -59,7 +59,7 @@ All outsiders love that which makes them strong. They seek to promote those qual
 - Demons love suffering.
 - Devils love souls of any sort.
 - Elementals love power.
-- Inevitables and axiomites hate chaos and are focused on their goals.
+- Inevitables and [[rangoric-srd/monsters/Axiomite|axiomites]] hate chaos and are focused on their goals.
 - Proteans love chaos and want to return the multiverse to its original chaotic state.
 - Qlippoth hate all intelligent life, as it is the engine of sin, and want it destroyed.
 
@@ -331,7 +331,7 @@ Genies seek and value power, though they are more brash and boastful than most. 
 
 ### Inevitables
 
-Originally created by the axiomites as an unflinching army to fight the chaotic proteans, inevitables used to fight an explicit war against those creatures but now wage an indirect war against them. Most inevitables fight this war by tracking down and rectifying egregious violations of law. Incorruptible in its mission, when bound by a being who wishes to subvert it, an inevitable often waits the binder out. Inevitables simply refuse to deal with binders who wish to use them against their designed and decreed purpose.
+Originally created by the [[rangoric-srd/monsters/Axiomite|axiomites]] as an unflinching army to fight the chaotic proteans, inevitables used to fight an explicit war against those creatures but now wage an indirect war against them. Most inevitables fight this war by tracking down and rectifying egregious violations of law. Incorruptible in its mission, when bound by a being who wishes to subvert it, an inevitable often waits the binder out. Inevitables simply refuse to deal with binders who wish to use them against their designed and decreed purpose.
 
 **[[rangoric-srd/monsters/inevitable/Arbiter|Arbiter]]**: Arbiters are the scouts and spies of the inevitables, and are typically bound to serve as familiars to lawful spellcasters, especially those who fight the taint of protean chaos.
 
