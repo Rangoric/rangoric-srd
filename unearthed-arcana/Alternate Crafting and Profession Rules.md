@@ -82,7 +82,7 @@ The following are the categories of crafting difficulties and the items within t
 
 **Mundane Items**: Typical household items such as iron pots.
 
-**Vehicles**: Cart, raft.
+**Vehicles**: Cart, [[rangoric-srd/equipment/gear/Raft|raft]].
 
 **Weapons**: Simple weapons (except crossbows).
 
@@ -94,7 +94,7 @@ The following are the categories of crafting difficulties and the items within t
 
 **Mundane Items**: Most adventuring gear.
 
-**Vehicles**: Chariot, light; chariot, medium; chariot, heavy; rowboat; sleigh; wagon, light; wagon, medium; wagon, heavy.
+**Vehicles**: [[rangoric-srd/equipment/gear/Chariot, Light|Chariot, light]]; [[rangoric-srd/equipment/gear/Chariot, Medium|chariot, medium]]; [[rangoric-srd/equipment/gear/Chariot, Heavy|chariot, heavy]]; rowboat; [[rangoric-srd/equipment/gear/Sleigh|sleigh]]; wagon, light; wagon, medium; wagon, heavy.
 
 **Weapons**: Martial weapons and crossbows.
 
