@@ -22,8 +22,9 @@ Benefit: When choosing a familiar, the creatures listed below are also available
 | Familiar | Alignment | Arcane Spellcaster Level |
 | -------- | --------- | ------------------------ |
 | Arbiter inevitable | Lawful Neutral | 7th |
+| [[rangoric-srd/monsters/devil/kytons/Augur Kyton\|Augur kyton]] | Lawful Evil | 7th |
 | [[rangoric-srd/monsters/Brownie\|Brownie]] | Neutral | 7th |
-| Cacodaemon daemon | Neutral Evil | 7th |
+| [[rangoric-srd/monsters/daemons/Cacodaemon\|Cacodaemon daemon]] | Neutral Evil | 7th |
 | Cassisian angel | Neutral Good | 7th |
 | Cythnigot qlippoth | Chaotic Evil | 7th |
 | [[rangoric-srd/monsters/dire-animal/Dire Rat\|Dire rat]] | Neutral | 3rd |

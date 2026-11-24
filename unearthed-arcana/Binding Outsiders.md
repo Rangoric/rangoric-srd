@@ -187,27 +187,27 @@ All daemons have a common goal: bringing death, destruction, and pain to mortals
 
 Daemons are immune to acid, death effects, disease, and poison, and all are vulnerable to good and/or silver weapons. They have resistance to cold 10, electricity 10, and fire 10.
 
-**Astradaemon**: Powerful but relatively dim hunters of souls, astradaemons can only be bribed into service by two things—a feast of souls and the promise to spread death.
+**[[rangoric-srd/monsters/daemons/Astradaemon|Astradaemon]]**: Powerful but relatively dim hunters of souls, astradaemons can only be bribed into service by two things—a feast of souls and the promise to spread death.
 
-**Cacodaemon**: Savage and hungry, most cacodaemons cannot suppress their savage natures long enough to make deals. At best, the binder can trick a cacodaemon toward actions in concert with her purposes.
+**[[rangoric-srd/monsters/daemons/Cacodaemon|Cacodaemon]]**: Savage and hungry, most cacodaemons cannot suppress their savage natures long enough to make deals. At best, the binder can trick a cacodaemon toward actions in concert with her purposes.
 
-**Ceustodaemon**: The most common daemons summoned to the Material Plane, ceustodaemons are relatively easy to deal with, though none know if this is because of some deliberate action by more powerful daemons. They are often called guardian daemons, as they are frequently bound to that task.
+**[[rangoric-srd/monsters/daemons/Ceustodaemon|Ceustodaemon]]**: The most common daemons summoned to the Material Plane, ceustodaemons are relatively easy to deal with, though none know if this is because of some deliberate action by more powerful daemons. They are often called guardian daemons, as they are frequently bound to that task.
 
-**Derghodaemon**: No one summons a derghodaemon unless they are stupid, desperate for the services of a savage killer, or both. Less intelligent than cacodaemons and twice as vicious, derghodaemons do not deal with any creature, and relentlessly attempt to escape their binding, usually with brute force.
+**[[rangoric-srd/monsters/daemons/Derghodaemon|Derghodaemon]]**: No one summons a derghodaemon unless they are stupid, desperate for the services of a savage killer, or both. Less intelligent than cacodaemons and twice as vicious, derghodaemons do not deal with any creature, and relentlessly attempt to escape their binding, usually with brute force.
 
-**Hydrodaemon**: On their home plane, these vile creatures swim the River Styx; on the Material Plane, they are often called to serve as guardians in swamps and sanctuaries of unscrupulous spellcasters. More pliable than most of their fiendish kin, hydrodaemons take treasure and the promise of souls as gifts for their services.
+**[[rangoric-srd/monsters/daemons/Hydrodaemon|Hydrodaemon]]**: On their home plane, these vile creatures swim the River Styx; on the Material Plane, they are often called to serve as guardians in swamps and sanctuaries of unscrupulous spellcasters. More pliable than most of their fiendish kin, hydrodaemons take treasure and the promise of souls as gifts for their services.
 
-**Leukodaemon**: Leukodaemons are the deacons of a daemon lord of Pestilence, and on the rare occasions that they are summoned, they make any deal a binder wants, as long as it somehow results in the spreading of disease and devastation.
+**[[rangoric-srd/monsters/daemons/Leukodaemon|Leukodaemon]]**: Leukodaemons are the deacons of a daemon lord of Pestilence, and on the rare occasions that they are summoned, they make any deal a binder wants, as long as it somehow results in the spreading of disease and devastation.
 
-**Meladaemon**: As deacons of a daemon lord of Famine, meladaemons are rarely summoned by mortal spellcasters, and typically only agree to actions aligned with their own agendas or those of their lord.
+**[[rangoric-srd/monsters/daemons/Meladaemon|Meladaemon]]**: As deacons of a daemon lord of Famine, meladaemons are rarely summoned by mortal spellcasters, and typically only agree to actions aligned with their own agendas or those of their lord.
 
-**Olethrodaemon**: The mammoth olethrodaemons often make deals with mortals wishing to evoke devastation on rival lands, sometimes even asking only half the normal offering for the privilege. Even those olethrodaemons serving one of the daemon lords as paragons can be summoned, though it is often assumed that such a feat is done only at their master's whim.
+**[[rangoric-srd/monsters/daemons/Olethrodaemon|Olethrodaemon]]**: The mammoth olethrodaemons often make deals with mortals wishing to evoke devastation on rival lands, sometimes even asking only half the normal offering for the privilege. Even those olethrodaemons serving one of the daemon lords as paragons can be summoned, though it is often assumed that such a feat is done only at their master's whim.
 
-**Piscodaemon**: Lovers of misery, especially that of the strong and powerful, piscodaemons eagerly make deals with mortals who wish to use them as soldiers against the powers of good—especially armies composed of or led by paladins.
+**[[rangoric-srd/monsters/daemons/Piscodaemon|Piscodaemon]]**: Lovers of misery, especially that of the strong and powerful, piscodaemons eagerly make deals with mortals who wish to use them as soldiers against the powers of good—especially armies composed of or led by paladins.
 
-**Purrodaemon**: Steadfast servants of a daemon lord of War, purrodaemons may be the easiest deacon daemons to summon. It seems their master often gives them leave to spread war on the Material Plane, but their service to any binder is often brief and violent, for both daemon and spellcaster.
+**[[rangoric-srd/monsters/daemons/Purrodaemon|Purrodaemon]]**: Steadfast servants of a daemon lord of War, purrodaemons may be the easiest deacon daemons to summon. It seems their master often gives them leave to spread war on the Material Plane, but their service to any binder is often brief and violent, for both daemon and spellcaster.
 
-**Thanadaemon**: As deacons of a daemon lord of Death, thanadaemons are hardly ever summoned by mortal spellcasters, and when they are, the event portends a near-apocalyptic end of mortal life.
+**[[rangoric-srd/monsters/daemons/Thanadaemon|Thanadaemon]]**: As deacons of a daemon lord of Death, thanadaemons are hardly ever summoned by mortal spellcasters, and when they are, the event portends a near-apocalyptic end of mortal life.
 
 ### Demons
 
@@ -227,25 +227,25 @@ All demons are immune to electricity and poison effects. Many have other resista
 
 **[[rangoric-srd/monsters/demon/Marilith|Marilith]]**: Either powerful magic weapons (+2 enchantment or greater) or the promise of the command of armies of cults can lure a marilith; any offer less than this earns the caster a –6 penalty on the Charisma check.
 
-**Kalavakus**: These horned demons almost always barter for slaves in return of their services.
+**[[rangoric-srd/monsters/demon/Kalavakus|Kalavakus]]**: These horned demons almost always barter for slaves in return of their services.
 
 **[[rangoric-srd/monsters/demon/Nabasu|Nabasu]]**: These demons love nothing more than devouring or enslaving humanoids so they can grow fatter and stronger.
 
 **[[rangoric-srd/monsters/demon/Nalfeshnee|Nalfeshnee]]**: These demons love knowledge, especially that within their specialties of manipulation and greed. Nalfeshnees bargain knowledge for knowledge, but never give more than they gain.
 
-**Omox**: These slimy demons enjoy the destruction of beautiful things. For their services, they often take “gifts” that involve the destruction of beautiful things—in particular an attractive young man or woman as sacrifice.
+**[[rangoric-srd/monsters/demon/Omox|Omox]]**: These slimy demons enjoy the destruction of beautiful things. For their services, they often take “gifts” that involve the destruction of beautiful things—in particular an attractive young man or woman as sacrifice.
 
 **[[rangoric-srd/monsters/demon/Quasit|Quasit]]**: Even more pathetic than the dretch, the quasit seeks only the assurance that it can return to the Abyss when its task is complete.
 
 **[[rangoric-srd/monsters/demon/Shadow Demon|Shadow Demon]]**: The shadow demon asks merely for the shell of a beautiful person to wear for the duration of its servitude. It does not care whether that shell is pure or impure.
 
-**Shemhazian**: These powerful demons serve mortal spellcasters for only one price—when their service is done, they get to kill and devour the binder. This makes attempts to control them very rare. Sometimes they demand the life of the binder's family or friends as well.
+**[[rangoric-srd/monsters/demon/Shemhazian|Shemhazian]]**: These powerful demons serve mortal spellcasters for only one price—when their service is done, they get to kill and devour the binder. This makes attempts to control them very rare. Sometimes they demand the life of the binder's family or friends as well.
 
 **[[rangoric-srd/monsters/demon/Succubus|Succubus]]**: The primary joy of the succubus is in destroying innocence and love; offering a child, virgin, or a beloved family member of the caster suffices to gain the interest of the succubus.
 
 **[[rangoric-srd/monsters/demon/Vrock|Vrock]]**: The vrock loves to despoil and befoul things of great beauty. Artwork worth at least 250 gp or a living, intelligent creature to destroy are equally desirable sacrifices. As their dance of ruin attack is more powerful the more vrocks are involved, they are often conjured and bribed in groups.
 
-**Vrolikai**: These transformed nabasus hate being summoned to the Material Plane, believing their time there is over and they are meant for greater things. When summoned, they typically ask for twice the normal amount in gifts. These demands are often accompanied by outrageous, sometimes impossible demands. They can eventually be reasoned with, but only when binders demonstrate power over them.
+**[[rangoric-srd/monsters/demon/Vrolikai|Vrolikai]]**: These transformed nabasus hate being summoned to the Material Plane, believing their time there is over and they are meant for greater things. When summoned, they typically ask for twice the normal amount in gifts. These demands are often accompanied by outrageous, sometimes impossible demands. They can eventually be reasoned with, but only when binders demonstrate power over them.
 
 ### Devils
 
@@ -257,25 +257,25 @@ Note that all devils are immune to fire and poison; the blasted landscapes of th
 
 Additionally, one can enhance summoning for specific kinds of devils by appealing to those devils' specific natures.
 
-**Accuser Devil**: Popular among conjurers and summoners as spies and infiltrators, accuser devils often forgo haggling on gifts for their services, as the information they gain is worth more than any gift of treasure the binder can offer.
+**[[rangoric-srd/monsters/devil/Accuser Devil|Accuser Devil]]**: Popular among conjurers and summoners as spies and infiltrators, accuser devils often forgo haggling on gifts for their services, as the information they gain is worth more than any gift of treasure the binder can offer.
 
 **[[rangoric-srd/monsters/devil/Barbed Devil (Hamatula)|Barbed Devil]]**: Extraordinarily jealous of their duties and even more so of their time, barbed devils may grudgingly accept offers of rare treasures and gems worth more than 2,000 gp, with the usual +2 Charisma bonus to summoning—but only when the task takes less than 24 hours to complete. If the service takes any longer, the binder takes a –2 Charisma penalty.
 
 **[[rangoric-srd/monsters/devil/Bearded Devil (Barbazu)|Bearded Devil]]**: The best way to attract the eye of a bearded devil is to offer a restrained victim for its bloody use, so that it might painfully murder its target.
 
-**Belier Devil**: These massive masterminds are rarely summoned to the Material Plane, but when they are, they often try to finagle their way out of such circumstances as quickly as possible.
+**[[rangoric-srd/monsters/devil/Belier Devil|Belier Devil]]**: These massive masterminds are rarely summoned to the Material Plane, but when they are, they often try to finagle their way out of such circumstances as quickly as possible.
 
 **[[rangoric-srd/monsters/devil/Bone Devil (Osyluth)|Bone Devil]]**: These devils adore secrets and infernal lore, and those who provide hellish tomes or evidence of influential mortal vices gain a +2 Charisma bonus on their summoning checks.
 
 **[[rangoric-srd/monsters/devil/Erinyes|Erinyes]]**: As the spirits of corrupted angels, erinyes are bitter and rage against the heavens. To entice an erinyes, offer it a significant holy item for it to despoil, or the cleric of a good-aligned god to ravish and ruin.
 
-**Handmaiden Devil**: Deals made with handmaiden devils are often extremely hard bargains. They typically ask for the unthinkable, such as the lives of innocent children—the younger the better.
+**[[rangoric-srd/monsters/devil/Handmaiden Devil|Handmaiden Devil]]**: Deals made with handmaiden devils are often extremely hard bargains. They typically ask for the unthinkable, such as the lives of innocent children—the younger the better.
 
 **[[rangoric-srd/monsters/devil/Horned Devil (Cornugon)|Horned Devil]]**: As the elite of Hell's armies, horned devils value strength and daunting power; anyone who offers them an intimidating weapon enchanted to +2 or better gains the +2 Charisma bonus.
 
 **[[rangoric-srd/monsters/devil/Ice Devil (Gelugon)|Ice Devil]]**: As the schemers and planners of Hell's devils, laboring in their personal machinations, gelugons are extraordinarily difficult to summon. However, casters willing to offer an exchange of services—one in which the caster is likely to see the short end of the deal—may earn a Charisma bonus. Those who renege on their bargains with gelugons often learn what it means to displease Hell.
 
-**Immolation Devil**: These devils often ask for lands on the Material Plane as gifts. If such lands are granted, they use these places to launch attacks on neighbors, further expanding the territory of Hell.
+**[[rangoric-srd/monsters/devil/Immolation Devil|Immolation Devil]]**: These devils often ask for lands on the Material Plane as gifts. If such lands are granted, they use these places to launch attacks on neighbors, further expanding the territory of Hell.
 
 **[[rangoric-srd/monsters/devil/Imp|Imp]]**: Imps prefer small and bloody sacrifices that show the binder's desire to do evil—for instance, a heart torn from a living dove grants a +2 Charisma modifier on the summoning check.
 

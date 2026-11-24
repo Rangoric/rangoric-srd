@@ -13,6 +13,7 @@ tags: [rangoric, rangoric/overview]
 
 ## Dark Mantle - Devourer
 
+  - [[rangoric-srd/monsters/daemons/Daemon|Daemon]]
   - [[rangoric-srd/monsters/dark-folk/Dark Folk|Dark Folk]]
   - [[rangoric-srd/monsters/Dark Spitter Beetle|Dark Spitter Beetle]]
   - [[rangoric-srd/monsters/Darkmantle|Darkmantle]]
@@ -22,6 +23,7 @@ tags: [rangoric, rangoric/overview]
   - [[rangoric-srd/monsters/Decapus|Decapus]]
   - [[rangoric-srd/monsters/Deep Sea Serpent|Deep Sea Serpent]]
   - [[rangoric-srd/monsters/Delver|Delver]]
+  - [[rangoric-srd/monsters/demodands/Demodand|Demodand]]
   - [[rangoric-srd/monsters/demon/Demon|Demon]]
   - [[rangoric-srd/monsters/Derhii|Derhii]]
   - [[rangoric-srd/monsters/Derro|Derro]]

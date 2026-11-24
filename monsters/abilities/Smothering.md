@@ -1,0 +1,19 @@
+---
+srd-type: "monster-ability"
+section: "Monsters"
+ability-type: ["Ex"]
+kind: ["special attack"]
+book: "Bestiary 2"
+based-on:
+  - "[[path srd 3.5/monsters/Demon, Omox|Demon, Omox (PF1)]]"
+status: draft
+change: new
+pi-review: 2026-11-23
+tags: [rangoric, rangoric/monster-ability]
+---
+
+# Smothering
+
+*[[rangoric-srd/monsters/Monster Types, Sybtypes, and Special Abilities#^special-abilities|Extraordinary]] (Ex). In a stat block*: “smothering”, on the Special Attacks line.
+
+An omox can use its grab ability against a creature of any size. When it grabs a foe, it attempts to flow over and into the victim's mouth and nose to smother it. Each round the omox maintains its grapple, its victim cannot breathe or speak. See the rules for [[rangoric-srd/rules/Wilderness, Weather, and Environment#Suffocation|suffocation]] for how long a victim can hold its breath and the consequences of suffocation. The [[rangoric-srd/monsters/demon/Omox|omox]] has it.

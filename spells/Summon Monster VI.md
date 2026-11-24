@@ -41,7 +41,7 @@ This spell functions like [[rangoric-srd/spells/Summon Monster I|summon monster 
 | [[rangoric-srd/monsters/elemental/Elemental\|Elemental, Large (any)]]                                                                      | N  |
 | [[rangoric-srd/monsters/genie/Janni\|Janni (genie)]]                                                                                       | N  |
 | [[rangoric-srd/monsters/Chaos Beast\|Chaos beast]]                                                                                         | CN |
-| [[rangoric-srd/monsters/devil/Chain Devil (Kyton)\|Devil, chain]]                                                                          | LE |
+| [[rangoric-srd/monsters/devil/kytons/Chain Devil (Kyton)\|Devil, chain]]                                                                          | LE |
 | [[rangoric-srd/monsters/Xill\|Xill]]                                                                                                       | LE |
 | [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/monstrous-centipede/Monstrous Centipede\|monstrous centipede, Gargantuan]]     | NE |
 | [[rangoric-srd/monsters/Fiendish Creature\|Fiendish]] [[rangoric-srd/monsters/Rhinoceros\|rhinoceros]]                                   | NE |
