@@ -96,3 +96,5 @@ Those with 2 or more Hit Dice have statistics based on these Hit Dice plus Hit D
 A monster with Hit Dice of 1 or less, a level adjustment, and class levels adds its class levels and level adjustment together when determining experience needed (class level + level adjustment).
 
 A monster with more than one Hit Die, a level adjustment, and class levels adds its Hit Dice, class levels, and level adjustment together when determining experience needed (HD + level adjustment + class level).
+
+**Another way to play a monster**: [[rangoric-srd/unearthed-arcana/Monsters as Player Characters|Monsters as Player Characters]] is an optional rule that treats the monster’s CR as its class levels instead of using level adjustment.

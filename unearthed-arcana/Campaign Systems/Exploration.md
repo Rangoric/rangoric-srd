@@ -76,7 +76,7 @@ The effect of getting lost is the same as in the [[rangoric-srd/rules/Wilderness
 
 Natural disasters can occur anywhere. Untamed regions are often home to a wide variety of monsters. You can instill a bit of additional danger into your exploration sessions by including random encounters, whether they take the form of natural hazards or monsters that dwell in the terrain.
 
-Roll on the following table once per day (or once per hex, if the PCs enter multiple hexes in a single day). For hazards, see [[#Hazards|Hazards]]. For monster encounters, in most cases the PCs face off against a creature appropriate to the terrain, but a nearby famine, drought, war, or plague may force a monster out of its normal territory and into a strange environment.
+Roll on the following table once per day (or once per hex, if the PCs enter multiple hexes in a single day). For hazards, see [[#Hazards|Hazards]]. For monster encounters, in most cases the PCs face off against a creature appropriate to the terrain, but a nearby famine, drought, war, or plague may force a monster out of its normal territory and into a strange environment. The [[rangoric-srd/design-notes/Encounter Tables|Encounter Tables]] give ready-made tables of monster encounters for several terrains.
 
 | d%     | Result       |
 |--------|--------------|
