@@ -16,6 +16,8 @@ tags: [rangoric, rangoric/overview]
 
 This is a catch-all category for anything that doesn’t fall into the other groups. Anyone can use a wondrous item (unless specified otherwise in the description).
 
+[[rangoric-srd/magic-items/Wondrous Items by Slot|Wondrous Items by Slot]] lists them again by body slot and price band, with a d% table for each.
+
 **Physical Description**: Varies.
 
 **Activation**: Usually use activated or command word, but details vary from item to item.

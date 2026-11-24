@@ -12,6 +12,8 @@ tags: [rangoric, rangoric/overview]
 
 ## Treasure
 
+The [[rangoric-srd/rules/Treasure Generator|Treasure Generator]] is a second way to roll a hoard, by treasure type A to I, with its own coin, goods and item tables. Use its tables or the ones here for a reward, not a mix of the two.
+
 ##### Character Wealth by Level
 
 As characters gain levels, the amount of treasure they carry and use increases as well. The game assumes that all characters of equivalent level have roughly equal amounts of treasure and magic items. [[#^character-wealth-by-level|Table: Character Wealth by Level]] lists the amount of treasure each character is expected to have at a specific level. Note that this table assumes a standard fantasy game. Low-fantasy games might award only half this value, while high-fantasy games might double the value. It is assumed that some of this treasure is consumed in the course of an adventure (such as potions and scrolls), and that some of the less useful items are sold for half value so more useful gear can be purchased.
