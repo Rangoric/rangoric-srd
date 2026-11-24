@@ -115,3 +115,15 @@ views:
     sort:
       - property: file.name
         direction: ASC
+  - type: table
+    name: "Benefit and drawback traits"
+    filters:
+      and:
+        - file.inFolder("rangoric-srd/traits/benefit-and-drawback-traits")
+    order:
+      - file.name
+      - note.book
+      - note.status
+    sort:
+      - property: file.name
+        direction: ASC

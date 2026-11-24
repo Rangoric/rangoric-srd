@@ -94,3 +94,9 @@ Religion traits are tied to specific deities. They are listed with the faith tra
 Drawbacks are traits in reverse. Instead of granting you a boon, they grant you a negative effect, typically in particular circumstances. If you choose to take a drawback, you can take a third trait that you have access to. You don't have to take a drawback.
 
 ![[rangoric-srd/traits/Traits Index.base#Drawbacks]]
+
+## Benefit and Drawback Traits
+
+Another system of traits, an optional rule, pairs every trait's benefit with a drawback: see the optional [[rangoric-srd/unearthed-arcana/Traits|Traits]] rule.
+
+![[rangoric-srd/traits/Traits Index.base#Benefit and drawback traits]]
