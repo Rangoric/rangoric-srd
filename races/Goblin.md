@@ -48,6 +48,8 @@ Bonus Languages:
 
 Witch Hex: goblin [[rangoric-srd/classes/Witch|witches]] can take the [[rangoric-srd/class-options/hexes/Mud Witch (Hex)|mud witch]] hex.
 
+Oracle Curse: goblin [[rangoric-srd/classes/Oracle|oracles]] can take the [[rangoric-srd/class-options/curses/Infested Curse|infested]] curse.
+
 ### Age, Height and Weight
 
 How these numbers are used is in [[rangoric-srd/rules/Alignment and Description#Vital Statistics|Vital Statistics]]. Starting age dice are by [[rangoric-srd/rules/Alignment and Description#^starting-age-groups|class group]]; each age category brings the [[rangoric-srd/rules/Alignment and Description#^aging-effects|aging effects]].

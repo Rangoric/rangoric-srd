@@ -1,7 +1,7 @@
 ---
 srd-type: "overview"
 section: "Class Options"
-book: "Advanced Player's Guide"
+book: ["Advanced Player's Guide", "Monster Codex"]
 based-on:
   - "[[path srd 3.5/classes/Oracle#Oracle's Curse (Ex)|Oracle (PF1)]]"
 status: draft
@@ -12,6 +12,8 @@ tags: [rangoric, rangoric/overview]
 
 # Oracle Curses
 
-The curses an [[rangoric-srd/classes/Oracle|oracle]] chooses from with the [[rangoric-srd/classes/Oracle#^oracle-curse|oracle’s curse]] class feature, one note each. The class note says how a curse works (chosen at 1st level, can’t be removed or dispelled without the aid of a deity, and which level it uses); each curse note says only its hindrance and what it grants at 1st, 5th, 10th and 15th level.
+The curses an [[rangoric-srd/classes/Oracle|oracle]] chooses from with the [[rangoric-srd/classes/Oracle#^oracle-curse|oracle’s curse]] class feature, one note each. The class note says how a curse works (chosen at 1st level, can’t be removed or dispelled without the aid of a deity, and which level it uses); each curse note says only its hindrance and what it grants as the oracle rises in level (most at 1st, 5th, 10th and 15th level).
 
 [[rangoric-srd/class-options/curses/Clouded Vision Curse|Clouded Vision]], [[rangoric-srd/class-options/curses/Deaf Curse|Deaf]], [[rangoric-srd/class-options/curses/Haunted Curse|Haunted]], [[rangoric-srd/class-options/curses/Lame Curse|Lame]], [[rangoric-srd/class-options/curses/Tongues Curse|Tongues]], and [[rangoric-srd/class-options/curses/Wasting Curse|Wasting]].
+
+Two more curses come with particular peoples: [[rangoric-srd/class-options/curses/Cold-Blooded Curse|Cold-Blooded]], common among lizardfolk but open to any oracle, and [[rangoric-srd/class-options/curses/Infested Curse|Infested]], available only to goblin oracles.
