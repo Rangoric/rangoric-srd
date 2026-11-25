@@ -119,6 +119,9 @@ Half-orc characters use the [[rangoric-srd/races/Half-Orc|half-orc]] race, which
 These half-orcs with class levels are described on their own:
 
   - Barbarians: [[rangoric-srd/monsters/orc/Axe Warrior|Axe Warrior]] (CR 2), [[rangoric-srd/monsters/orc/Double Axe Fury|Double Axe Fury]] (CR 10), [[rangoric-srd/monsters/orc/Undead Hunter|Undead Hunter]] (CR 15), [[rangoric-srd/monsters/orc/Death Dealer|Death Dealer]] (CR 18)
+  - Bards: [[rangoric-srd/monsters/orc/Chameleon (Monster)|Chameleon (Monster)]] (CR 10), [[rangoric-srd/monsters/orc/Rival Explorer|Rival Explorer]] (CR 17)
   - Fighters: [[rangoric-srd/monsters/orc/Traitorous Brigand|Traitorous Brigand]] (CR 2), [[rangoric-srd/monsters/orc/Brutal Warlord|Brutal Warlord]] (CR 12), [[rangoric-srd/monsters/orc/Failed Disciple|Failed Disciple]] (CR 17)
+  - Monks: [[rangoric-srd/monsters/orc/Axe Dancer|Axe Dancer]] (CR 7), [[rangoric-srd/monsters/orc/Cautious Hunter|Cautious Hunter]] (CR 9)
   - Paladins: [[rangoric-srd/monsters/orc/Honorable Outcast|Honorable Outcast]] (CR 1), [[rangoric-srd/monsters/orc/Saintly Knight|Saintly Knight]] (CR 8)
   - Rangers: [[rangoric-srd/monsters/orc/Border Guard|Border Guard]] (CR 3), [[rangoric-srd/monsters/orc/Desert Stalker|Desert Stalker]] (CR 13), [[rangoric-srd/monsters/orc/Angel Slayer|Angel Slayer]] (CR 14)
+  - Rogues: [[rangoric-srd/monsters/orc/Skulking Brute|Skulking Brute]] (CR 1), [[rangoric-srd/monsters/orc/Mage Slayer|Mage Slayer]] (CR 15)
