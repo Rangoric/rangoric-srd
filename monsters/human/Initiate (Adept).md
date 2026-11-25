@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Summon familiar (toad)"
 saves: "Fort +4, Ref +1, Will +4 (+2 vs. good)"
 abilities: "Str 10, Dex 11, Con 12, Int 8, Wis 13, Cha 11"
-skills: "Arcana +5, Society +3, Theology +5"
-skill-ranks: "Arcana 3, Society 1, Theology 3"
+skills: "Arcana +3, Mysticism +5, Society +3, Theology +5"
+skill-ranks: "Arcana 1, Mysticism 3, Society 1, Theology 3"
 feats: "Combat Casting, Great Fortitude, Scribe Scroll"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (toad)
 - **Saves**: Fort +4, Ref +1, Will +4 (+2 vs. good)
 - **Abilities**: Str 10, Dex 11, Con 12, Int 8, Wis 13, Cha 11
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Theology|Theology]] +5
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Society|Society]] +3, [[rangoric-srd/skills/Theology|Theology]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

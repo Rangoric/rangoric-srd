@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 29 rounds/day (move action; countersong, di
 special-qualities: "Bardic knowledge +5, jack-of-all-trades (use any skill), lore master 1/day, versatile performance (act, keyboard, oratory)"
 saves: "Fort +4, Ref +9, Will +9 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 14, Con 12, Int 10, Wis 14, Cha 24"
-skills: "Arcana +11, Deception +21, Imitation +10, Perception +15, Perform (act) +16, Perform (keyboard) +20, Perform (oratory) +16, Persuasion +20, Sense Motive +10, Sleight of Hand +10, Society +9, Theology +13"
-skill-ranks: "Arcana 8, Deception 13, Imitation 2, Perception 10, Perform (act) 13, Perform (keyboard) 17, Perform (oratory) 13, Persuasion 10, Sense Motive 5, Sleight of Hand 5, Society 6, Theology 10"
+skills: "Arcana +11, Deception +21, Imitation +10, Mysticism +10, Perception +15, Perform (act) +16, Perform (keyboard) +20, Perform (oratory) +16, Persuasion +20, Sense Motive +10, Sleight of Hand +10, Society +9, Theology +13"
+skill-ranks: "Arcana 8, Deception 13, Imitation 2, Mysticism 7, Perception 10, Perform (act) 13, Perform (keyboard) 17, Perform (oratory) 13, Persuasion 10, Sense Motive 5, Sleight of Hand 5, Society 6, Theology 10"
 feats: "Point Blank Shot, Precise Shot, Skill Focus (Deception, Imitation), Weapon Finesse, Weapon Focus (blowgun)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +5, [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]] (use any skill), [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act, keyboard, oratory)
 - **Saves**: Fort +4, Ref +9, Will +9 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 14, Con 12, Int 10, Wis 14, Cha 24
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (act) +16, Perform (keyboard) +20, Perform (oratory) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Theology|Theology]] +13
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +21, [[rangoric-srd/skills/Imitation|Imitation]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +15, Perform (act) +16, Perform (keyboard) +20, Perform (oratory) +16, [[rangoric-srd/skills/Persuasion|Persuasion]] +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +10, [[rangoric-srd/skills/Society|Society]] +9, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception, Imitation), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (blowgun)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

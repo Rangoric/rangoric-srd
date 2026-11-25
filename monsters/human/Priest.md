@@ -17,8 +17,8 @@ special-attacks: "Channel positive energy 5/day (DC 14, 5d6), staff of order (4 
 special-qualities: "Healer's blessing"
 saves: "Fort +9, Ref +5, Will +11"
 abilities: "Str 14, Dex 12, Con 14, Int 8, Wis 18, Cha 10"
-skills: "Arcana +11, Medicine +10, Perception +8, Persuasion +5, Sense Motive +8, Theology +10"
-skill-ranks: "Arcana 9, Medicine 3, Perception 1, Persuasion 2, Sense Motive 1, Theology 8"
+skills: "Medicine +10, Mysticism +11, Perception +8, Persuasion +5, Sense Motive +8, Theology +10"
+skill-ranks: "Medicine 3, Mysticism 9, Perception 1, Persuasion 2, Sense Motive 1, Theology 8"
 feats: "Armor Proficiency (Heavy), Craft Magic Arms and Armor, Extra Channel, Shield Focus, Toughness, Vital Strike"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/domains/Healing Domain|Healer's blessing]]
 - **Saves**: Fort +9, Ref +5, Will +11
 - **Abilities**: Str 14, Dex 12, Con 14, Int 8, Wis 18, Cha 10
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Theology|Theology]] +10
+- **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +8, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +8, [[rangoric-srd/skills/Theology|Theology]] +10
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Craft Magic Arms and Armor|Craft Magic Arms and Armor]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

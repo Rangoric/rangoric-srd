@@ -17,8 +17,8 @@ special-attacks: "Channel negative energy 6/day (DC 14, 2d6), rebuke undead"
 special-qualities: "—"
 saves: "Fort +4, Ref +2, Will +5"
 abilities: "Str 10, Dex 13, Con 12, Int 8, Wis 15, Cha 16"
-skills: "Arcana +3, Linguistics +4, Perception +3, Sense Motive +6, Theology +4"
-skill-ranks: "Arcana 1, Linguistics 2, Perception 1, Sense Motive 1, Theology 2"
+skills: "Linguistics +4, Mysticism +3, Perception +3, Sense Motive +6, Theology +4"
+skill-ranks: "Linguistics 2, Mysticism 1, Perception 1, Sense Motive 1, Theology 2"
 feats: "Alignment Channel, Combat Casting, Selective Channeling"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Saves**: Fort +4, Ref +2, Will +5
 - **Abilities**: Str 10, Dex 13, Con 12, Int 8, Wis 15, Cha 16
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Skills**: [[rangoric-srd/skills/Linguistics|Linguistics]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +6, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Alignment Channel|Alignment Channel]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

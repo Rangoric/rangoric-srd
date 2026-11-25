@@ -18,8 +18,8 @@ special-attacks: "It was meant to be (1/day)"
 special-qualities: "Fated +3, bloodline arcana (gains a luck bonus to saves when casting personal-range spells), immunity to fire (120 points)"
 saves: "Fort +9, Ref +11, Will +10 (+2 vs. fear)"
 abilities: "Str 6, Dex 16, Con 12, Int 13, Wis 10, Cha 21"
-skills: "Acrobatics +9, Arcana +10, Athletics +0 (–8 jumping), Deception +13, Perception +13, Society +9"
-skill-ranks: "Acrobatics 1, Arcana 6, Athletics 2, Deception 5, Perception 10, Society 5"
+skills: "Acrobatics +9, Arcana +9, Athletics +0 (–8 jumping), Deception +13, Mysticism +10, Perception +13, Society +9"
+skill-ranks: "Acrobatics 1, Arcana 5, Athletics 2, Deception 5, Mysticism 6, Perception 10, Society 5"
 feats: "Combat Casting, Combat Expertise, Defensive Combat Training, Dodge, Eschew Materials, Great Fortitude, Lightning Reflexes, Mobility"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/bloodlines/Destined Bloodline|Fated]] +3, [[rangoric-srd/class-options/bloodlines/Destined Bloodline|bloodline arcana]] (gains a luck bonus to saves when casting personal-range spells), [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (120 points)
 - **Saves**: Fort +9, Ref +11, Will +10 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 16, Con 12, Int 13, Wis 10, Cha 21
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Athletics|Athletics]] +0 (–8 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Society|Society]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +0 (–8 jumping), [[rangoric-srd/skills/Deception|Deception]] +13, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Defensive Combat Training|Defensive Combat Training]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]]
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

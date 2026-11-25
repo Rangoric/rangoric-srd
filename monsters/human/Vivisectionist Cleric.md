@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 5/day (DC 17, 4d6), rebuke undead, dea
 special-qualities: "Aura"
 saves: "Fort +8, Ref +3, Will +11"
 abilities: "Str 12, Dex 10, Con 14, Int 8, Wis 17, Cha 14"
-skills: "Arcana +5, Medicine +9, Perception +7, Theology +6"
-skill-ranks: "Arcana 3, Medicine 3, Perception 1, Theology 4"
+skills: "Medicine +9, Mysticism +5, Perception +7, Theology +6"
+skill-ranks: "Medicine 3, Mysticism 3, Perception 1, Theology 4"
 feats: "Armor Proficiency (Heavy), Blind-Fight, Combat Casting, Command Undead, Improved Channel, Iron Will, Spell Focus (necromancy)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
 - **Saves**: Fort +8, Ref +3, Will +11
 - **Abilities**: Str 12, Dex 10, Con 14, Int 8, Wis 17, Cha 14
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Bloodline arcana (corporeal undead affected by humanoid-affecting spells), one of us, damage reduction 5/-, immunity to cold, nonlethal damage, paralysis and sleep"
 saves: "Fort +16, Ref +11, Will +18 (+4 morale bonus vs. undead spells and spell-like abilities)"
 abilities: "Str 8, Dex 14, Con 20, Int 10, Wis 12, Cha 27"
-skills: "Acrobatics +10, Arcana +13, Emulation +21, Intimidation +21, Perception +16, Theology +13"
-skill-ranks: "Acrobatics 5, Arcana 10, Emulation 10, Intimidation 10, Perception 12, Theology 10"
+skills: "Acrobatics +10, Arcana +13, Emulation +21, Intimidation +21, Mysticism +13, Perception +16, Theology +13"
+skill-ranks: "Acrobatics 5, Arcana 10, Emulation 10, Intimidation 10, Mysticism 10, Perception 12, Theology 10"
 feats: "Blind-Fight, Combat Casting, Dodge, Empower Spell, Eschew Materials, Great Fortitude, Greater Spell Focus (necromancy), Improved Initiative, Iron Will, Mobility, Quicken Spell, Silent Spell, Spell Focus (necromancy), Still Spell, Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/bloodlines/Undead Bloodline|Bloodline arcana]] (corporeal undead affected by humanoid-affecting spells), [[rangoric-srd/class-options/bloodlines/Undead Bloodline|one of us]], [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 5/-, immunity to cold, nonlethal damage, [[rangoric-srd/monsters/abilities/Paralysis|paralysis]] and sleep
 - **Saves**: Fort +16, Ref +11, Will +18 (+4 morale bonus vs. undead spells and spell-like abilities)
 - **Abilities**: Str 8, Dex 14, Con 20, Int 10, Wis 12, Cha 27
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Theology|Theology]] +13
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Emulation|Emulation]] +21, [[rangoric-srd/skills/Intimidation|Intimidation]] +21, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +16, [[rangoric-srd/skills/Theology|Theology]] +13
 - **Feats**: [[rangoric-srd/feats/Blind-Fight|Blind-Fight]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (necromancy), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (necromancy), [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

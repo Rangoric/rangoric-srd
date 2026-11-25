@@ -17,8 +17,8 @@ special-attacks: "—"
 special-qualities: "Summon familiar (smoke mephit)"
 saves: "Fort +3, Ref +1, Will +6"
 abilities: "Str 10, Dex 8, Con 12, Int 12, Wis 13, Cha 11"
-skills: "Arcana +6, Craft (alchemy) +10, Fieldcraft +14, Medicine +10, Nature +6, Profession (herbalist) +10, Society +6, Theology +6"
-skill-ranks: "Arcana 2, Craft (alchemy) 6, Fieldcraft 9, Medicine 8, Nature 2, Profession (herbalist) 6, Society 2, Theology 2"
+skills: "Craft (alchemy) +10, Fieldcraft +14, Medicine +10, Mysticism +6, Nature +6, Profession (herbalist) +10, Society +6, Theology +6"
+skill-ranks: "Craft (alchemy) 6, Fieldcraft 9, Medicine 8, Mysticism 2, Nature 2, Profession (herbalist) 6, Society 2, Theology 2"
 feats: "Brew Potion, Combat Casting, Craft Wand, Improved Familiar, Skill Focus (Fieldcraft)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (smoke mephit)
 - **Saves**: Fort +3, Ref +1, Will +6
 - **Abilities**: Str 10, Dex 8, Con 12, Int 12, Wis 13, Cha 11
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Skills**: [[rangoric-srd/skills/Craft|Craft]] (alchemy) +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +14, [[rangoric-srd/skills/Medicine|Medicine]] +10, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Profession|Profession]] (herbalist) +10, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Improved Familiar|Improved Familiar]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Fieldcraft)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

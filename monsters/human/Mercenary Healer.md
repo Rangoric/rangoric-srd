@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 6/day (DC 13, 1d6), rebuke undead, ins
 special-qualities: "Aura, +10 base speed from [[rangoric-srd/class-options/domains/Travel Domain|Travel domain]], agile feet (5/day), freedom of movement (1 rounds/day)"
 saves: "Fort +3, Ref +1, Will +4"
 abilities: "Str 8, Dex 12, Con 13, Int 10, Wis 14, Cha 17"
-skills: "Appraise +4, Arcana +4, Persuasion +7, Theology +4"
-skill-ranks: "Appraise 1, Arcana 1, Persuasion 1, Theology 1"
+skills: "Appraise +4, Mysticism +4, Persuasion +7, Theology +4"
+skill-ranks: "Appraise 1, Mysticism 1, Persuasion 1, Theology 1"
 feats: "Selective Channeling, Weapon Focus (light crossbow)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], +10 base speed from [[rangoric-srd/class-options/domains/Travel Domain|Travel domain]], [[rangoric-srd/class-options/domains/Travel Domain|agile feet]] (5/day), [[rangoric-srd/class-options/domains/Travel Domain|freedom of movement]] (1 rounds/day)
 - **Saves**: Fort +3, Ref +1, Will +4
 - **Abilities**: Str 8, Dex 12, Con 13, Int 10, Wis 14, Cha 17
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +4, [[rangoric-srd/skills/Mysticism|Mysticism]] +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +7, [[rangoric-srd/skills/Theology|Theology]] +4
 - **Feats**: [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (light crossbow)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

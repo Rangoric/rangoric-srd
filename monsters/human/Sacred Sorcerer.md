@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Bloodline arcana (summoned creatures gain DR 4/evil), wings of heaven (9 minutes/day), resistance to acid 10 and cold 10"
 saves: "Fort +5, Ref +8, Will +9"
 abilities: "Str 8, Dex 14, Con 12, Int 10, Wis 14, Cha 18"
-skills: "Animal Handling +5, Arcana +10, Fieldcraft +3, Linguistics +1, Medicine +6, Perception +9, Persuasion +5, Theology +1"
-skill-ranks: "Animal Handling 1, Arcana 7, Fieldcraft 1, Linguistics 1, Medicine 1, Perception 4, Persuasion 1, Theology 1"
+skills: "Animal Handling +5, Arcana +10, Fieldcraft +3, Linguistics +1, Medicine +6, Mysticism +10, Perception +9, Persuasion +5, Theology +1"
+skill-ranks: "Animal Handling 1, Arcana 7, Fieldcraft 1, Linguistics 1, Medicine 1, Mysticism 7, Perception 4, Persuasion 1, Theology 1"
 feats: "Combat Casting, Dodge, Eschew Materials, Lightning Reflexes, Mobility, Point Blank Shot, Toughness, Weapon Focus (ray)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|Bloodline arcana]] (summoned creatures gain DR 4/evil), [[rangoric-srd/class-options/bloodlines/Celestial Bloodline|wings of heaven]] (9 minutes/day), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to acid 10 and cold 10
 - **Saves**: Fort +5, Ref +8, Will +9
 - **Abilities**: Str 8, Dex 14, Con 12, Int 10, Wis 14, Cha 18
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Theology|Theology]] +1
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Medicine|Medicine]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +5, [[rangoric-srd/skills/Theology|Theology]] +1
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (ray)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

@@ -18,8 +18,8 @@ special-attacks: "+1 on attack rolls against goblinoid and reptilian humanoids"
 special-qualities: "Low-light vision, defensive training (+4 dodge bonus to AC vs. giants), bloodline arcana (+2 DC for compulsion spells), gnome magic, woodland stride"
 saves: "Fort +3, Ref +4, Will +10 (+2 vs. illusions)"
 abilities: "Str 6, Dex 14, Con 12, Int 12, Wis 14, Cha 18"
-skills: "Arcana +8, Deception +12, Emulation +11, Nature +5, Perception +10"
-skill-ranks: "Arcana 4, Deception 5, Emulation 4, Nature 1, Perception 5"
+skills: "Arcana +8, Deception +12, Emulation +11, Mysticism +8, Nature +5, Perception +10"
+skill-ranks: "Arcana 4, Deception 5, Emulation 4, Mysticism 4, Nature 1, Perception 5"
 feats: "Dodge, Eschew Materials, Greater Spell Focus (illusion), Iron Will, Mobility, Spell Focus (illusion)"
 environment: "Temperate hills"
 organization: "Solitary, or with other gnomes (see Gnome)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/races/Gnome#^defensive-training|defensive training]] (+4 dodge bonus to AC vs. giants), [[rangoric-srd/class-options/bloodlines/Fey Bloodline|bloodline arcana]] (+2 DC for compulsion spells), [[rangoric-srd/races/Gnome|gnome magic]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|woodland stride]]
 - **Saves**: Fort +3, Ref +4, Will +10 (+2 vs. illusions)
 - **Abilities**: Str 6, Dex 14, Con 12, Int 12, Wis 14, Cha 18
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +10
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Emulation|Emulation]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +10
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (illusion), [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (illusion)
 - **Environment**: Temperate hills
 - **Organization**: Solitary, or with other gnomes (see [[rangoric-srd/monsters/gnome/Gnome|Gnome]])

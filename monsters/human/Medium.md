@@ -17,8 +17,8 @@ special-attacks: "Channel positive energy 7/day (DC 14, 3d6), turn undead, calm 
 special-qualities: "—"
 saves: "Fort +5, Ref +3, Will +8"
 abilities: "Str 8, Dex 12, Con 10, Int 14, Wis 17, Cha 14"
-skills: "Arcana +6, Medicine +11, Perception +9, Persuasion +12, Profession (midwife) +9, Sense Motive +11, Theology +9"
-skill-ranks: "Arcana 1, Medicine 5, Perception 2, Persuasion 5, Profession (midwife) 4, Sense Motive 7, Theology 4"
+skills: "Medicine +11, Mysticism +6, Perception +9, Persuasion +12, Profession (midwife) +9, Sense Motive +11, Theology +9"
+skill-ranks: "Medicine 5, Mysticism 1, Perception 2, Persuasion 5, Profession (midwife) 4, Sense Motive 7, Theology 4"
 feats: "Extra Channel, Shield Focus, Skill Focus (Perception), Turn Undead"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Saves**: Fort +5, Ref +3, Will +8
 - **Abilities**: Str 8, Dex 12, Con 10, Int 14, Wis 17, Cha 14
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Profession|Profession]] (midwife) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Skills**: [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +6, [[rangoric-srd/skills/Perception|Perception]] +9, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Profession|Profession]] (midwife) +9, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +11, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Shield Focus|Shield Focus]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Turn Undead|Turn Undead]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

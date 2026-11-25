@@ -18,8 +18,8 @@ special-attacks: "Claws (2, 1d4+1 plus 1d6 electricity, treated as magic weapons
 special-qualities: "See invisibility, bloodline arcana (electricity spells deal +1 damage per die), resistance to electricity 10"
 saves: "Fort +10, Ref +10, Will +9"
 abilities: "Str 12, Dex 14, Con 18, Int 10, Wis 8, Cha 21"
-skills: "Acrobatics +10, Arcana +7, Deception +12, Intimidation +20, Linguistics +1, Perception +11"
-skill-ranks: "Acrobatics 5, Arcana 4, Deception 4, Intimidation 12, Linguistics 1, Perception 9"
+skills: "Acrobatics +10, Arcana +7, Deception +12, Intimidation +20, Linguistics +1, Mysticism +7, Perception +11"
+skill-ranks: "Acrobatics 5, Arcana 4, Deception 4, Intimidation 12, Linguistics 1, Mysticism 4, Perception 9"
 feats: "Combat Casting, Dodge, Eschew Materials, Greater Spell Focus (evocation), Improved Initiative, Lightning Reflexes, Maximize Spell, Mobility, Quick Draw, Spell Focus (evocation), Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: _[[rangoric-srd/spells/See Invisibility|See invisibility]]_, [[rangoric-srd/class-options/bloodlines/Draconic Bloodline|bloodline arcana]] (electricity spells deal +1 damage per die), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to electricity 10
 - **Saves**: Fort +10, Ref +10, Will +9
 - **Abilities**: Str 12, Dex 14, Con 18, Int 10, Wis 8, Cha 21
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Perception|Perception]] +11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +12, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 4/day (DC 15, 4d6), destructive aura (
 special-qualities: "Darkvision 60 ft., orc ferocity, aura, orc blood, weapon familiarity, immunity to fire (96 points)"
 saves: "Fort +8, Ref +2, Will +8 (+2 resistance vs. good)"
 abilities: "Str 18, Dex 10, Con 14, Int 8, Wis 14, Cha 12"
-skills: "Arcana +3, Intimidation +7, Perception +5"
-skill-ranks: "Arcana 1, Intimidation 3, Perception 3"
+skills: "Intimidation +7, Mysticism +3, Perception +5"
+skill-ranks: "Intimidation 3, Mysticism 1, Perception 3"
 feats: "Armor Proficiency (Heavy), Power Attack, Toughness, Weapon Focus (greataxe)"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other half-orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Cleric#^cleric-aura|aura]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (96 points)
 - **Saves**: Fort +8, Ref +2, Will +8 (+2 resistance vs. good)
 - **Abilities**: Str 18, Dex 10, Con 14, Int 8, Wis 14, Cha 12
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +5
+- **Skills**: [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +3, [[rangoric-srd/skills/Perception|Perception]] +5
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Toughness|Toughness]], [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (greataxe)
 - **Environment**: Temperate hills, mountains, or underground
 - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

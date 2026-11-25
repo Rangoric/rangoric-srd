@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 7/day (DC 20, 8d6), rebuke undead, reb
 special-qualities: "Aura, immunity to fire (120 points), resistance to cold 20, electricity 20 and fire 30"
 saves: "Fort +17, Ref +10, Will +20 (+2 vs. fear)"
 abilities: "Str 8, Dex 10, Con 18, Int 12, Wis 25, Cha 15"
-skills: "Acrobatics +1 (–3 when jumping), Arcana +9, Athletics +3, Linguistics +5, Nature +6, Perception +19, Persuasion +10, Stealth +7, Theology +14"
-skill-ranks: "Acrobatics 1, Arcana 5, Athletics 1, Linguistics 1, Nature 2, Perception 9, Persuasion 5, Stealth 1, Theology 10"
+skills: "Acrobatics +1 (–3 when jumping), Arcana +9, Athletics +3, Linguistics +5, Mysticism +9, Nature +6, Perception +19, Persuasion +10, Stealth +7, Theology +14"
+skill-ranks: "Acrobatics 1, Arcana 5, Athletics 1, Linguistics 1, Mysticism 5, Nature 2, Perception 9, Persuasion 5, Stealth 1, Theology 10"
 feats: "Augment Summoning, Combat Casting, Elemental Channel (air, water), Extra Channel, Improved Initiative, Lightning Reflexes, Spell Focus (conjuration)"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (120 points), [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20, electricity 20 and fire 30
 - **Saves**: Fort +17, Ref +10, Will +20 (+2 vs. fear)
 - **Abilities**: Str 8, Dex 10, Con 18, Int 12, Wis 25, Cha 15
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1 (–3 when jumping), [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +14
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +1 (–3 when jumping), [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +3, [[rangoric-srd/skills/Linguistics|Linguistics]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Nature|Nature]] +6, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +7, [[rangoric-srd/skills/Theology|Theology]] +14
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Elemental Channel|Elemental Channel]] (air, water), [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

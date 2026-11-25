@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 7/day (DC 13, 2d6), hand of the acolyt
 special-qualities: "Aura"
 saves: "Fort +4, Ref +0, Will +8"
 abilities: "Str 12, Dex 8, Con 13, Int 10, Wis 16, Cha 15"
-skills: "Arcana +7, Perception +6, Sense Motive +9"
-skill-ranks: "Arcana 4, Perception 3, Sense Motive 3"
+skills: "Arcana +7, Mysticism +7, Perception +6, Sense Motive +9"
+skill-ranks: "Arcana 4, Mysticism 4, Perception 3, Sense Motive 3"
 feats: "Extra Channel, Iron Will, Scribe Scroll, Selective Channeling, Spell Focus (enchantment)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]]
 - **Saves**: Fort +4, Ref +0, Will +8
 - **Abilities**: Str 12, Dex 8, Con 13, Int 10, Wis 16, Cha 15
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Perception|Perception]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9
 - **Feats**: [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

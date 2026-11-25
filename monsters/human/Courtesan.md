@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 31 rounds/day (move action; countersong, di
 special-qualities: "Bardic knowledge +6, jack-of-all-trades (use any skill), lore master 2/day, versatile performance (dance, string, wind)"
 saves: "Fort +6, Ref +10, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 9, Dex 14, Con 14, Int 12, Wis 10, Cha 20"
-skills: "Appraise +10, Arcana +10, Escape Artist +10, Knowledge +11, Perception +13, Perform (dance) +26, Perform (string) +22, Perform (wind) +20, Sense Motive +12, Sleight of Hand +12, Society +17, Stealth +17"
-skill-ranks: "Appraise 6, Arcana 6, Escape Artist 5, Knowledge 7, Perception 10, Perform (dance) 22, Perform (string) 18, Perform (wind) 16, Sense Motive 9, Sleight of Hand 7, Society 13, Stealth 12"
+skills: "Appraise +10, Arcana +10, Escape Artist +10, Knowledge +11, Mysticism +10, Perception +13, Perform (dance) +26, Perform (string) +22, Perform (wind) +20, Sense Motive +12, Sleight of Hand +12, Society +17, Stealth +17"
+skill-ranks: "Appraise 6, Arcana 6, Escape Artist 5, Knowledge 7, Mysticism 6, Perception 10, Perform (dance) 22, Perform (string) 18, Perform (wind) 16, Sense Motive 9, Sleight of Hand 7, Society 13, Stealth 12"
 feats: "Dodge, Mobility, Point Blank Shot, Precise Shot, Quick Draw, Skill Focus (Perform [dance]), Spell Focus (enchantment)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +6, [[rangoric-srd/classes/Bard#^bard-jack-of-all-trades|jack-of-all-trades]] (use any skill), [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 2/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (dance, string, wind)
 - **Saves**: Fort +6, Ref +10, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 9, Dex 14, Con 14, Int 12, Wis 10, Cha 20
-- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +11, [[rangoric-srd/skills/Perception|Perception]] +13, Perform (dance) +26, Perform (string) +22, Perform (wind) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
+- **Skills**: [[rangoric-srd/skills/Appraise|Appraise]] +10, [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Escape Artist|Escape Artist]] +10, [[rangoric-srd/skills/Knowledge|Knowledge]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +13, Perform (dance) +26, Perform (string) +22, Perform (wind) +20, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +12, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +12, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Precise Shot|Precise Shot]], [[rangoric-srd/feats/Quick Draw|Quick Draw]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perform \[dance\]), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

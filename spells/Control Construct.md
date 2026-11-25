@@ -36,4 +36,4 @@ _Transmutation_
 - **Saving Throw**: None (see text)
 - **Spell Resistance**: No
 
-You wrest the control of a construct from its master. For as long as you concentrate, you can control the construct as if you were its master. You must make a Arcana check each round to maintain control. The DC of the Arcana check is (10 + the construct's HD). If the construct's creator or master is present and trying to control the construct, you both must make opposed Arcana checks each round to control the construct.
+You wrest the control of a construct from its master. For as long as you concentrate, you can control the construct as if you were its master. You must make a Mysticism check each round to maintain control. The DC of the Mysticism check is (10 + the construct's HD). If the construct's creator or master is present and trying to control the construct, you both must make opposed Mysticism checks each round to control the construct.

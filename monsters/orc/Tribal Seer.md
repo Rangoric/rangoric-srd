@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Darkvision 60 ft., see invisibility, orc ferocity, arcane bond (falchion), forewarned, orc blood, weapon familiarity"
 saves: "Fort +5, Ref +4, Will +7"
 abilities: "Str 8, Dex 12, Con 14, Int 18, Wis 13, Cha 10"
-skills: "Arcana +12, Fieldcraft +3, Intimidation +6, Medicine +5, Nature +8, Perception +7, Persuasion +3, Sense Motive +3, Society +8, Theology +9"
-skill-ranks: "Arcana 5, Fieldcraft 2, Intimidation 3, Medicine 1, Nature 1, Perception 3, Persuasion 3, Sense Motive 2, Society 1, Theology 2"
+skills: "Arcana +11, Fieldcraft +3, Intimidation +6, Medicine +5, Mysticism +12, Nature +8, Perception +7, Persuasion +3, Sense Motive +3, Society +8, Theology +9"
+skill-ranks: "Arcana 4, Fieldcraft 2, Intimidation 3, Medicine 1, Mysticism 5, Nature 1, Perception 3, Persuasion 3, Sense Motive 2, Society 1, Theology 2"
 feats: "Brew Potion, Combat Casting, Improved Initiative, Scribe Scroll, Spell Focus (enchantment)"
 environment: "Temperate hills, mountains, or underground"
 organization: "Solitary, or with other half-orcs (see Orc)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft., _[[rangoric-srd/spells/See Invisibility|see invisibility]]_, [[rangoric-srd/races/Half-Orc#^half-orc-orc-ferocity|orc ferocity]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (falchion), [[rangoric-srd/class-options/arcane-schools/Divination School|forewarned]], [[rangoric-srd/races/Half-Orc#^half-orc-orc-blood|orc blood]], [[rangoric-srd/races/Half-Orc|weapon familiarity]]
 - **Saves**: Fort +5, Ref +4, Will +7
 - **Abilities**: Str 8, Dex 12, Con 14, Int 18, Wis 13, Cha 10
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +3, [[rangoric-srd/skills/Intimidation|Intimidation]] +6, [[rangoric-srd/skills/Medicine|Medicine]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Nature|Nature]] +8, [[rangoric-srd/skills/Perception|Perception]] +7, [[rangoric-srd/skills/Persuasion|Persuasion]] +3, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +8, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Brew Potion|Brew Potion]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
 - **Environment**: Temperate hills, mountains, or underground
 - **Organization**: Solitary, or with other half-orcs (see [[rangoric-srd/monsters/orc/Orc|Orc]])

@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 6/day (DC 15, 2d6), rebuke undead, fea
 special-qualities: "Darkvision 60 ft."
 saves: "Fort +7, Ref +2, Will +7"
 abilities: "Str 17, Dex 12, Con 10, Int 8, Wis 16, Cha 12"
-skills: "Arcana +8"
-skill-ranks: "Arcana 6"
+skills: "Mysticism +8"
+skill-ranks: "Mysticism 6"
 feats: "Combat Casting, Extra Channel, Improved Channel"
 environment: "Warm plains or desert"
 organization: "Solitary, or with other gnolls (see Gnoll)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/rules/Special Abilities and Conditions#Darkvision|Darkvision]] 60 ft.
 - **Saves**: Fort +7, Ref +2, Will +7
 - **Abilities**: Str 17, Dex 12, Con 10, Int 8, Wis 16, Cha 12
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8
+- **Skills**: [[rangoric-srd/skills/Mysticism|Mysticism]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Channel|Improved Channel]]
 - **Environment**: Warm plains or desert
 - **Organization**: Solitary, or with other gnolls (see [[rangoric-srd/monsters/gnoll/Gnoll|Gnoll]])

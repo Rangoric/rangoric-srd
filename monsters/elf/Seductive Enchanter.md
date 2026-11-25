@@ -18,8 +18,8 @@ special-attacks: "Aura of despair (8 rounds/day)"
 special-qualities: "Low-light vision, arcane bond (viper), elven magic, enchanting smile, weapon familiarity, immunity to sleep"
 saves: "Fort +4, Ref +6, Will +8 (+2 vs. enchantments)"
 abilities: "Str 10, Dex 16, Con 12, Int 18, Wis 8, Cha 12"
-skills: "Acrobatics +8, Arcana +15, Deception +9, Perception +9, Perform (dance) +4, Persuasion +6, Sense Motive +3, Society +11"
-skill-ranks: "Acrobatics 2, Arcana 8, Deception 5, Perception 7, Perform (dance) 0, Persuasion 2, Sense Motive 1, Society 4"
+skills: "Acrobatics +8, Arcana +15, Deception +9, Mysticism +15, Perception +9, Perform (dance) +4, Persuasion +6, Sense Motive +3, Society +11"
+skill-ranks: "Acrobatics 2, Arcana 8, Deception 5, Mysticism 8, Perception 7, Perform (dance) 0, Persuasion 2, Sense Motive 1, Society 4"
 feats: "Combat Casting, Craft Wand, Improved Initiative, Iron Will, Scribe Scroll, Spell Focus (enchantment)"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (viper), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/class-options/arcane-schools/Enchantment School|enchanting smile]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Saves**: Fort +4, Ref +6, Will +8 (+2 vs. enchantments)
 - **Abilities**: Str 10, Dex 16, Con 12, Int 18, Wis 8, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (dance) +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +11
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Deception|Deception]] +9, [[rangoric-srd/skills/Mysticism|Mysticism]] +15, [[rangoric-srd/skills/Perception|Perception]] +9, Perform (dance) +4, [[rangoric-srd/skills/Persuasion|Persuasion]] +6, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +3, [[rangoric-srd/skills/Society|Society]] +11
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

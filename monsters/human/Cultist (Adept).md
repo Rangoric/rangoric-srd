@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Summon familiar (raven, speaks Aklo)"
 saves: "Fort +5, Ref +6, Will +12"
 abilities: "Str 8, Dex 16, Con 10, Int 9, Wis 16, Cha 12"
-skills: "Acrobatics +7, Appraise +2, Arcana +7, Deception +17, Linguistics +0, Theology +9"
-skill-ranks: "Acrobatics 1, Appraise 3, Arcana 5, Deception 13, Linguistics 1, Theology 7"
+skills: "Acrobatics +7, Appraise +2, Arcana +6, Deception +17, Linguistics +0, Mysticism +7, Theology +9"
+skill-ranks: "Acrobatics 1, Appraise 3, Arcana 4, Deception 13, Linguistics 1, Mysticism 5, Theology 7"
 feats: "Combat Casting, Great Fortitude, Improved Initiative, Iron Will, Skill Focus (Deception), Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Adept|Summon familiar]] (raven, speaks Aklo)
 - **Saves**: Fort +5, Ref +6, Will +12
 - **Abilities**: Str 8, Dex 16, Con 10, Int 9, Wis 16, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +2, [[rangoric-srd/skills/Arcana|Arcana]] +7, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Appraise|Appraise]] +2, [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Deception|Deception]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +0, [[rangoric-srd/skills/Mysticism|Mysticism]] +7, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

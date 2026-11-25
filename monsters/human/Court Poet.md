@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 16 rounds/day (countersong, distraction, fa
 special-qualities: "Bardic knowledge +2, lore master 1/day, versatile performance (oratory)"
 saves: "Fort +4, Ref +4, Will +5 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 10, Con 12, Int 14, Wis 13, Cha 18"
-skills: "Arcana +10, Deception +15, Perception +5, Perform (oratory) +12, Persuasion +12, Sense Motive +9, Society +12, Stealth +6, Theology +9"
-skill-ranks: "Arcana 5, Deception 8, Perception 1, Perform (oratory) 7, Persuasion 5, Sense Motive 5, Society 7, Stealth 3, Theology 4"
+skills: "Arcana +10, Deception +15, Mysticism +10, Perception +5, Perform (oratory) +12, Persuasion +12, Sense Motive +9, Society +12, Stealth +6, Theology +9"
+skill-ranks: "Arcana 5, Deception 8, Mysticism 5, Perception 1, Perform (oratory) 7, Persuasion 5, Sense Motive 5, Society 7, Stealth 3, Theology 4"
 feats: "Arcane Strike, Great Fortitude, Skill Focus (Deception), Spell Focus (enchantment)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +2, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (oratory)
 - **Saves**: Fort +4, Ref +4, Will +5 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 10, Con 12, Int 14, Wis 13, Cha 18
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (oratory) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +10, [[rangoric-srd/skills/Deception|Deception]] +15, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (oratory) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +12, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +9, [[rangoric-srd/skills/Society|Society]] +12, [[rangoric-srd/skills/Stealth|Stealth]] +6, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Arcane Strike|Arcane Strike]], [[rangoric-srd/feats/Great Fortitude|Great Fortitude]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Deception), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

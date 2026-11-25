@@ -40,4 +40,4 @@ _Illusion (Figment) \[Mind-affecting\]_
 - **Saving Throw**: Will negates
 - **Spell Resistance**: Yes
 
-This spell functions as the _minor creation spell_, except the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Arcana check in place of any Craft check required to make a complex item.
+This spell functions as the _minor creation spell_, except the object created is a semi-real phantasm. Any creature that interacts with the object may make a Will save, with success causing the object to cease to exist. A gnome casting this spell may make a Mysticism check in place of any Craft check required to make a complex item.

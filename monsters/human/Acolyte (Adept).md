@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "—"
 saves: "Fort –1, Ref +1, Will +3"
 abilities: "Str 10, Dex 12, Con 8, Int 9, Wis 13, Cha 10"
-skills: "Animal Handling +7, Arcana +3, Medicine +7"
-skill-ranks: "Animal Handling 4, Arcana 1, Medicine 3"
+skills: "Animal Handling +7, Medicine +7, Mysticism +3"
+skill-ranks: "Animal Handling 4, Medicine 3, Mysticism 1"
 feats: "Skill Focus (Animal Handling), Toughness"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: —
 - **Saves**: Fort –1, Ref +1, Will +3
 - **Abilities**: Str 10, Dex 12, Con 8, Int 9, Wis 13, Cha 10
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +3, [[rangoric-srd/skills/Medicine|Medicine]] +7
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +7, [[rangoric-srd/skills/Medicine|Medicine]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +3
 - **Feats**: [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Animal Handling), [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

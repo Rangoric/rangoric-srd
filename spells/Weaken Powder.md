@@ -40,4 +40,4 @@ _Transmutation_
 - **Saving Throw**: Will negates (object)
 - **Spell Resistance**: Yes (object)
 
-Ammunition in the target [[rangoric-srd/equipment/Firearms|firearm]] generates less of an explosive charge when fired. With such ammunition, the firearm's range increment is halved and the firer takes a –2 penalty on damage rolls. If aware of this spell's effect prior to firing the altered ammunition (a DC 16 Arcana check to identify the spell being cast or similar effect), the firearm's user can spend a standard action to clear the altered ammunition from the firearm. Doing so destroys that ammunition.
+Ammunition in the target [[rangoric-srd/equipment/Firearms|firearm]] generates less of an explosive charge when fired. With such ammunition, the firearm's range increment is halved and the firer takes a –2 penalty on damage rolls. If aware of this spell's effect prior to firing the altered ammunition (a DC 16 Mysticism check to identify the spell being cast or similar effect), the firearm's user can spend a standard action to clear the altered ammunition from the firearm. Doing so destroys that ammunition.

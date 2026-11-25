@@ -114,7 +114,7 @@ Other forms of phylacteries can exist, such as rings, amulets, or similar items.
 
 **Abilities**: Int +2, Wis +2, Cha +2. Being undead, a lich has no Constitution score.
 
-**Skills**: Liches have a +8 racial bonus on Perception, Sense Motive, and Stealth checks. A lich always treats Athletics, Imitation, Acrobatics, Intimidation, Arcana, Theology, Perception, Sense Motive, and Stealth as class skills. Otherwise, skills are the same as the base creature.
+**Skills**: Liches have a +8 racial bonus on Perception, Sense Motive, and Stealth checks. A lich always treats Athletics, Imitation, Acrobatics, Intimidation, Arcana, Theology, Perception, Sense Motive, Mysticism, and Stealth as class skills. Otherwise, skills are the same as the base creature.
 
 Liches speak Abyssal, Aklo, Aquan, Celestial, Common, Draconic, Dwarven, Elven, Giant, Gnome, Goblin, Ignan, Infernal, Orc and Undercommon.
 

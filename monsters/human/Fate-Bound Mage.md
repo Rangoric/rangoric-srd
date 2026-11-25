@@ -18,8 +18,8 @@ special-attacks: "It was meant to be (2/day)"
 special-qualities: "Fated +5, spell turning, within reach 1/day, bloodline arcana (gain luck bonus to saves when casting personal-range spells), damage reduction 10/adamantine (150 points)"
 saves: "Fort +10, Ref +14, Will +18 (+5 vs. spells and spell-like abilities)"
 abilities: "Str 8, Dex 13, Con 12, Int 14, Wis 15, Cha 24"
-skills: "Acrobatics +11, Arcana +24, Deception +20, Intimidation +20, Perception +21, Persuasion +17, Society +15"
-skill-ranks: "Acrobatics 7, Arcana 19, Deception 10, Intimidation 10, Perception 16, Persuasion 7, Society 10"
+skills: "Acrobatics +11, Arcana +15, Deception +20, Intimidation +20, Mysticism +24, Perception +21, Persuasion +17, Society +15"
+skill-ranks: "Acrobatics 7, Arcana 10, Deception 10, Intimidation 10, Mysticism 19, Perception 16, Persuasion 7, Society 10"
 feats: "Combat Casting, Combat Expertise, Diehard, Dodge, Eschew Materials, Greater Spell Focus (evocation), Improved Initiative, Improved Lightning Reflexes, Iron Will, Lightning Reflexes, Maximize Spell, Mobility, Quicken Spell, Silent Spell, Spell Focus (evocation)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/bloodlines/Destined Bloodline|Fated]] +5, _[[rangoric-srd/spells/Spell Turning|spell turning]]_, [[rangoric-srd/class-options/bloodlines/Destined Bloodline|within reach]] 1/day, [[rangoric-srd/class-options/bloodlines/Destined Bloodline|bloodline arcana]] (gain luck bonus to saves when casting personal-range spells), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (150 points)
 - **Saves**: Fort +10, Ref +14, Will +18 (+5 vs. spells and spell-like abilities)
 - **Abilities**: Str 8, Dex 13, Con 12, Int 14, Wis 15, Cha 24
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +24, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Society|Society]] +15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +15, [[rangoric-srd/skills/Deception|Deception]] +20, [[rangoric-srd/skills/Intimidation|Intimidation]] +20, [[rangoric-srd/skills/Mysticism|Mysticism]] +24, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Persuasion|Persuasion]] +17, [[rangoric-srd/skills/Society|Society]] +15
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Combat Expertise|Combat Expertise]], [[rangoric-srd/feats/Diehard|Diehard]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Improved Lightning Reflexes|Improved Lightning Reflexes]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

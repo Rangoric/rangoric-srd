@@ -18,8 +18,8 @@ special-attacks: "Wild shape 7/day, rebuke water creatures, turn fire creatures 
 special-qualities: "A thousand faces, nature bond (Water domain), nature sense, timeless body, trackless step, wild empathy +15, woodland stride, immunity to poison, resistance to cold 20"
 saves: "Fort +14, Ref +9, Will +18 (+4 vs. fey and plant-targeted effects)"
 abilities: "Str 14, Dex 14, Con 14, Int 10, Wis 22, Cha 8"
-skills: "Acrobatics +8, Animal Handling +9, Arcana +17, Craft (woodworking) +11, Fieldcraft +22, Medicine +14, Nature +15, Perception +21, Society +9"
-skill-ranks: "Acrobatics 3, Animal Handling 7, Arcana 14, Craft (woodworking) 8, Fieldcraft 13, Medicine 5, Nature 12, Perception 12, Society 6"
+skills: "Acrobatics +8, Animal Handling +9, Craft (woodworking) +11, Fieldcraft +22, Medicine +14, Mysticism +17, Nature +15, Perception +21, Society +9"
+skill-ranks: "Acrobatics 3, Animal Handling 7, Craft (woodworking) 8, Fieldcraft 13, Medicine 5, Mysticism 14, Nature 12, Perception 12, Society 6"
 feats: "Armor Proficiency (Heavy), Augment Summoning, Combat Casting, Empower Spell, Improved Vital Strike, Natural Spell, Power Attack, Spell Focus (conjuration), Vital Strike"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Druid#^druid-a-thousand-faces|A thousand faces]], [[rangoric-srd/classes/Druid#^druid-nature-bond|nature bond]] ([[rangoric-srd/class-options/domains/Water Domain|Water domain]]), [[rangoric-srd/classes/Druid#^druid-nature-sense|nature sense]], [[rangoric-srd/classes/Druid#^druid-timeless-body|timeless body]], [[rangoric-srd/classes/Druid#^druid-trackless-step|trackless step]], [[rangoric-srd/classes/Druid#^druid-wild-empathy|wild empathy]] +15, [[rangoric-srd/classes/Druid#^druid-woodland-stride|woodland stride]], [[rangoric-srd/classes/Druid#^druid-venom-immunity|immunity to poison]], [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
 - **Saves**: Fort +14, Ref +9, Will +18 (+4 vs. fey and plant-targeted effects)
 - **Abilities**: Str 14, Dex 14, Con 14, Int 10, Wis 22, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Craft|Craft]] (woodworking) +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Society|Society]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +8, [[rangoric-srd/skills/Animal Handling|Animal Handling]] +9, [[rangoric-srd/skills/Craft|Craft]] (woodworking) +11, [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] +22, [[rangoric-srd/skills/Medicine|Medicine]] +14, [[rangoric-srd/skills/Mysticism|Mysticism]] +17, [[rangoric-srd/skills/Nature|Nature]] +15, [[rangoric-srd/skills/Perception|Perception]] +21, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Improved Vital Strike|Improved Vital Strike]], [[rangoric-srd/feats/Natural Spell|Natural Spell]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Vital Strike|Vital Strike]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

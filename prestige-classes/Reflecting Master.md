@@ -39,7 +39,7 @@ To qualify to become a reflecting master, a character must fulfill all the follo
 
 ###### Class Skills
 
-The reflecting master’s class skill (and its key ability) is [[rangoric-srd/skills/Arcana|Arcana]] (Int).
+The reflecting master’s class skills (and the key ability for each) are [[rangoric-srd/skills/Arcana|Arcana]] (Int) and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 3 + Int modifier.
 

@@ -17,4 +17,4 @@ You are highly sensitive to magic and changes in a person’s demeanor.
 
 **Prerequisites**: [[rangoric-srd/classes/Oracle#^oracle-mystery|Mystery]] class feature.
 
-**Benefit**: You get a +2 bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks and [[rangoric-srd/skills/Arcana|Arcana]] checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.
+**Benefit**: You get a +2 bonus on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks and [[rangoric-srd/skills/Mysticism|Mysticism]] checks. If you have 10 or more ranks in one of these skills, the bonus increases to +4 for that skill.

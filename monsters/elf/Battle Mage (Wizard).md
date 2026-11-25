@@ -18,8 +18,8 @@ special-attacks: "Hand of the apprentice (6/day)"
 special-qualities: "Low-light vision, arcane bond (rapier), elven magic, weapon familiarity, immunity to sleep"
 saves: "Fort +2, Ref +3, Will +3 (+2 vs. enchantments)"
 abilities: "Str 12, Dex 15, Con 12, Int 17, Wis 10, Cha 8"
-skills: "Acrobatics +4, Arcana +9, Athletics +2, Perception +5, Society +7, Stealth +4"
-skill-ranks: "Acrobatics 2, Arcana 3, Athletics 1, Perception 2, Society 1, Stealth 2"
+skills: "Acrobatics +4, Arcana +9, Athletics +2, Mysticism +9, Perception +5, Society +7, Stealth +4"
+skill-ranks: "Acrobatics 2, Arcana 3, Athletics 1, Mysticism 3, Perception 2, Society 1, Stealth 2"
 feats: "Combat Casting, Point Blank Shot, Scribe Scroll"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|arcane bond]] (rapier), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Saves**: Fort +2, Ref +3, Will +3 (+2 vs. enchantments)
 - **Abilities**: Str 12, Dex 15, Con 12, Int 17, Wis 10, Cha 8
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +4
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +4, [[rangoric-srd/skills/Arcana|Arcana]] +9, [[rangoric-srd/skills/Athletics|Athletics]] +2, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Perception|Perception]] +5, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Stealth|Stealth]] +4
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Point Blank Shot|Point Blank Shot]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

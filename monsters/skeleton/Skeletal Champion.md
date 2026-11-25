@@ -91,7 +91,7 @@ Some skeletons retain their intelligence and cunning, making them formidable [[r
 
 **BAB**: Its BAB for racial HD equals 3/4 of its HD.
 
-**Skills**: Gains skill ranks per racial Hit Die equal to 4 + its Int modifier. Class skills for racial HD are Athletics, Imitation, Acrobatics, Intimidation, Arcana, Theology, Perception, Sense Motive, Arcana, and Stealth. Skills gained from class levels remain unchanged.
+**Skills**: Gains skill ranks per racial Hit Die equal to 4 + its Int modifier. Class skills for racial HD are Athletics, Imitation, Acrobatics, Intimidation, Arcana, Theology, Perception, Sense Motive, Mysticism, and Stealth. Skills gained from class levels remain unchanged.
 
 **Feats**: A skeletal champion gains Improved Initiative as a bonus feat.
 

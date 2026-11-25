@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (change energy damage spells to cold), elf blood, immunity to fire (120 points) and sleep, resistance to cold 20"
 saves: "Fort +6, Ref +6, Will +12 (+2 vs. enchantments)"
 abilities: "Str 8, Dex 15, Con 14, Int 10, Wis 12, Cha 22"
-skills: "Acrobatics +11, Arcana +8, Athletics +4, Linguistics +1, Perception +19, Persuasion +11, Theology +8"
-skill-ranks: "Acrobatics 6, Arcana 5, Athletics 2, Linguistics 1, Perception 15, Persuasion 2, Theology 5"
+skills: "Acrobatics +11, Arcana +8, Athletics +4, Linguistics +1, Mysticism +8, Perception +19, Persuasion +11, Theology +8"
+skill-ranks: "Acrobatics 6, Arcana 5, Athletics 2, Linguistics 1, Mysticism 5, Perception 15, Persuasion 2, Theology 5"
 feats: "Combat Casting, Dodge, Empower Spell, Eschew Materials, Greater Spell Focus (evocation), Improved Initiative, Iron Will, Nimble Moves, Silent Spell, Skill Focus (Perception), Spell Focus (evocation)"
 environment: "Temperate forests"
 organization: "Solitary, or with other half-elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Elemental Bloodline|bloodline arcana]] (change energy damage spells to cold), [[rangoric-srd/races/Half-Elf#^half-elf-elven-blood|elf blood]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to fire (120 points) and sleep, [[rangoric-srd/monsters/abilities/Resistance|resistance]] to cold 20
 - **Saves**: Fort +6, Ref +6, Will +12 (+2 vs. enchantments)
 - **Abilities**: Str 8, Dex 15, Con 14, Int 10, Wis 12, Cha 22
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Athletics|Athletics]] +4, [[rangoric-srd/skills/Linguistics|Linguistics]] +1, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Perception|Perception]] +19, [[rangoric-srd/skills/Persuasion|Persuasion]] +11, [[rangoric-srd/skills/Theology|Theology]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (evocation), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Nimble Moves|Nimble Moves]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception), [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation)
 - **Environment**: Temperate forests
 - **Organization**: Solitary, or with other half-elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

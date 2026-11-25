@@ -40,7 +40,7 @@ You detect psionic auras. A psionic aura is given off by any active or permanent
 
 2nd Round: Number of different psionic auras and the strength of the most potent aura.
 
-3rd Round: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make [[rangoric-srd/skills/Psionics (Skill)|Psionics]] checks to determine the discipline involved in each aura. (Make one check per aura; DC 15 + power level, or 15 + one-half manifester level for an effect that is not created by a power, such as that of a psionic item.)
+3rd Round: The strength and location of each aura. If the items or creatures bearing the auras are in line of sight, you can make [[rangoric-srd/skills/Mysticism|Mysticism]] checks to determine the discipline involved in each aura. (Make one check per aura; DC 15 + power level, or 15 + one-half manifester level for an effect that is not created by a power, such as that of a psionic item.)
 
 Psionically charged locations, multiple disciplines, or strong local psionic emanations may confuse or conceal weaker auras.
 

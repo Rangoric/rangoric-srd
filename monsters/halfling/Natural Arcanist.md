@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Spell turning, arcane bond (ring of protection), bloodline arcana (+1 DC for metamagic spells that increase spell level), metamagic adept (4/day), new arcana, school power (+2 DC for evocation spells), damage reduction 10/adamantine (150 points)"
 saves: "Fort +11, Ref +12, Will +16 (+2 vs. fear)"
 abilities: "Str 6, Dex 16, Con 14, Int 12, Wis 10, Cha 24"
-skills: "Acrobatics +9, Arcana +12, Athletics +0 (–8 jumping), Deception +18, Emulation +18, Perception +12, Society +9"
-skill-ranks: "Acrobatics 1, Arcana 8, Athletics 2, Deception 8, Emulation 8, Perception 9, Society 5"
+skills: "Acrobatics +9, Arcana +12, Athletics +0 (–8 jumping), Deception +18, Emulation +18, Mysticism +12, Perception +12, Society +9"
+skill-ranks: "Acrobatics 1, Arcana 8, Athletics 2, Deception 8, Emulation 8, Mysticism 8, Perception 9, Society 5"
 feats: "Combat Casting, Dodge, Empower Spell, Eschew Materials, Improved Counterspell, Iron Will, Maximize Spell, Quicken Spell, Silent Spell, Still Spell, Toughness"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: _[[rangoric-srd/spells/Spell Turning|Spell turning]]_, [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|arcane bond]] (ring of protection), [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|bloodline arcana]] (+1 DC for metamagic spells that increase spell level), [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|metamagic adept]] (4/day), [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|new arcana]], [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|school power]] (+2 DC for evocation spells), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/adamantine (150 points)
 - **Saves**: Fort +11, Ref +12, Will +16 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 16, Con 14, Int 12, Wis 10, Cha 24
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +0 (–8 jumping), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +9
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +9, [[rangoric-srd/skills/Arcana|Arcana]] +12, [[rangoric-srd/skills/Athletics|Athletics]] +0 (–8 jumping), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Emulation|Emulation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Society|Society]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Improved Counterspell|Improved Counterspell]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Maximize Spell|Maximize Spell]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Silent Spell|Silent Spell]], [[rangoric-srd/feats/Still Spell|Still Spell]], [[rangoric-srd/feats/Toughness|Toughness]]
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

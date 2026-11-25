@@ -18,8 +18,8 @@ special-attacks: "Channel negative energy 4/day (DC 18, 8d6), scythe of evil (7 
 special-qualities: "Aura, death's embrace"
 saves: "Fort +14, Ref +7, Will +17"
 abilities: "Str 15, Dex 12, Con 18, Int 10, Wis 24, Cha 8"
-skills: "Arcana +11, Deception +5, Intimidation +5, Perception +20, Society +6, Theology +9"
-skill-ranks: "Arcana 8, Deception 3, Intimidation 3, Perception 10, Society 3, Theology 6"
+skills: "Deception +5, Intimidation +5, Mysticism +11, Perception +20, Society +6, Theology +9"
+skill-ranks: "Deception 3, Intimidation 3, Mysticism 8, Perception 10, Society 3, Theology 6"
 feats: "Combat Casting, Command Undead, Critical Focus, Extra Channel, Improved Channel, Improved Critical (scythe), Improved Initiative, Spell Focus (evocation), Weapon Focus (scythe)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/class-options/domains/Death Domain|death's embrace]]
 - **Saves**: Fort +14, Ref +7, Will +17
 - **Abilities**: Str 15, Dex 12, Con 18, Int 10, Wis 24, Cha 8
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +11, [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +9
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +5, [[rangoric-srd/skills/Intimidation|Intimidation]] +5, [[rangoric-srd/skills/Mysticism|Mysticism]] +11, [[rangoric-srd/skills/Perception|Perception]] +20, [[rangoric-srd/skills/Society|Society]] +6, [[rangoric-srd/skills/Theology|Theology]] +9
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Command Undead (Feat)|Command Undead]], [[rangoric-srd/feats/Critical Focus|Critical Focus]], [[rangoric-srd/feats/Extra Channel|Extra Channel]], [[rangoric-srd/feats/Improved Channel|Improved Channel]], [[rangoric-srd/feats/Improved Critical|Improved Critical]] (scythe), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (evocation), [[rangoric-srd/feats/Weapon Focus|Weapon Focus]] (scythe)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

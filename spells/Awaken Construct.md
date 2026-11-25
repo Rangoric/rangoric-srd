@@ -40,7 +40,7 @@ _Transmutation_
 - **Saving Throw**: Will negates
 - **Spell Resistance**: No
 
-You amplify the animating force of a construct to more closely resemble a true soul, granting the construct humanlike sentience. To do so, you must succeed at a Arcana check (DC = 15 + the construct's current Hit Dice). If the construct's master (if any) is present, this is an opposed Arcana check. You have no special empathy or connection with a creature you awaken-it is a free-willed creature. Golems previously under another creature's control, either as shield guardians or a golem crafter's creations, break all connections with that creature.
+You amplify the animating force of a construct to more closely resemble a true soul, granting the construct humanlike sentience. To do so, you must succeed at a Mysticism check (DC = 15 + the construct's current Hit Dice). If the construct's master (if any) is present, this is an opposed Mysticism check. You have no special empathy or connection with a creature you awaken-it is a free-willed creature. Golems previously under another creature's control, either as shield guardians or a golem crafter's creations, break all connections with that creature.
 
 Roll 3d6 to determine the Intelligence score of the awakened construct, and increase its Charisma score by 2d6. It gains feats and skill points according to its new Intelligence score, and the skill points are assigned appropriately for its function, as determined by the GM.
 

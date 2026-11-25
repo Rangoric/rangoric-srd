@@ -24,7 +24,7 @@ _A [[rangoric-srd/classes/Rogue#^rogue-archetypes|rogue]] [[rangoric-srd/class-o
 
 An eldritch raider is a rogue who seeks to unravel the mysteries of the destruction of the gillmen's homeland. They explore old ruins that date back to the days of the old human empire and track down relics and lore from its glory days. An eldritch raider has the following class features.
 
-**Class Skills**: An eldritch raider adds [[rangoric-srd/skills/Arcana|Arcana]] to her list of [[rangoric-srd/classes/Rogue#Class Skills|class skills]] and removes [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Performance|Performance]], and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] from her list of class skills.
+**Class Skills**: An eldritch raider adds [[rangoric-srd/skills/Arcana|Arcana]] and [[rangoric-srd/skills/Mysticism|Mysticism]] to her list of [[rangoric-srd/classes/Rogue#Class Skills|class skills]] and removes [[rangoric-srd/skills/Imitation|Imitation]], [[rangoric-srd/skills/Performance|Performance]], and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] from her list of class skills.
 
 **Skill Ranks per Level**: 6 + Int modifier.
 

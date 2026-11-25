@@ -17,8 +17,8 @@ special-attacks: "Bardic performance 18 rounds/day (countersong, distraction, fa
 special-qualities: "Bardic knowledge +1, bloodline arcana, versatile performance (act), woodland stride"
 saves: "Fort +3, Ref +6, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 13, Con 10, Int 14, Wis 12, Cha 18"
-skills: "Arcana +8, Deception +16, Emulation +16, Imitation +16, Intimidation +10, Linguistics +6, Nature +7, Perception +5, Perform (act) +16, Perform (oratory) +12, Persuasion +10, Sense Motive +10, Sleight of Hand +13, Society +7, Theology +7"
-skill-ranks: "Arcana 5, Deception 9, Emulation 8, Imitation 9, Intimidation 3, Linguistics 1, Nature 2, Perception 1, Perform (act) 11, Perform (oratory) 7, Persuasion 3, Sense Motive 6, Sleight of Hand 9, Society 2, Theology 2"
+skills: "Arcana +8, Deception +16, Emulation +16, Imitation +16, Intimidation +10, Linguistics +6, Mysticism +10, Nature +7, Perception +5, Perform (act) +16, Perform (oratory) +12, Persuasion +10, Sense Motive +10, Sleight of Hand +13, Society +7, Theology +7"
+skill-ranks: "Arcana 5, Deception 9, Emulation 8, Imitation 9, Intimidation 3, Linguistics 1, Mysticism 7, Nature 2, Perception 1, Perform (act) 11, Perform (oratory) 7, Persuasion 3, Sense Motive 6, Sleight of Hand 9, Society 2, Theology 2"
 feats: "Eschew Materials, Extra Performance, Skill Focus (Emulation, Perform [act]), Skill Focus (Sleight of Hand)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Bard|Bardic knowledge]] +1, [[rangoric-srd/class-options/bloodlines/Fey Bloodline|bloodline arcana]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (act), [[rangoric-srd/class-options/bloodlines/Fey Bloodline|woodland stride]]
 - **Saves**: Fort +3, Ref +6, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 13, Con 10, Int 14, Wis 12, Cha 18
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (act) +16, Perform (oratory) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +13, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +7
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Deception|Deception]] +16, [[rangoric-srd/skills/Emulation|Emulation]] +16, [[rangoric-srd/skills/Imitation|Imitation]] +16, [[rangoric-srd/skills/Intimidation|Intimidation]] +10, [[rangoric-srd/skills/Linguistics|Linguistics]] +6, [[rangoric-srd/skills/Mysticism|Mysticism]] +10, [[rangoric-srd/skills/Nature|Nature]] +7, [[rangoric-srd/skills/Perception|Perception]] +5, Perform (act) +16, Perform (oratory) +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +10, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +10, [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] +13, [[rangoric-srd/skills/Society|Society]] +7, [[rangoric-srd/skills/Theology|Theology]] +7
 - **Feats**: [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Emulation, Perform \[act\]), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Sleight of Hand)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

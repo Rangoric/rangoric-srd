@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Arcane bond (familiar [rat named Slivikin]), bloodline arcana (+1 DC for metamagic spells that increase spell level)"
 saves: "Fort +3, Ref +2, Will +3"
 abilities: "Str 10, Dex 14, Con 13, Int 12, Wis 8, Cha 17"
-skills: "Arcana +5, Deception +7, Intimidation +7, Perception +2, Sense Motive –1, Society +5"
-skill-ranks: "Arcana 1, Deception 1, Intimidation 1, Perception 2, Sense Motive 2, Society 1"
+skills: "Deception +7, Intimidation +7, Mysticism +5, Perception +2, Sense Motive –1, Society +5"
+skill-ranks: "Deception 1, Intimidation 1, Mysticism 1, Perception 2, Sense Motive 2, Society 1"
 feats: "Combat Casting, Eschew Materials, Iron Will, Skill Focus (Perception)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|Arcane bond]] (familiar \[rat named Slivikin\]), [[rangoric-srd/class-options/bloodlines/Arcane Bloodline|bloodline arcana]] (+1 DC for metamagic spells that increase spell level)
 - **Saves**: Fort +3, Ref +2, Will +3
 - **Abilities**: Str 10, Dex 14, Con 13, Int 12, Wis 8, Cha 17
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +5, [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] –1, [[rangoric-srd/skills/Society|Society]] +5
+- **Skills**: [[rangoric-srd/skills/Deception|Deception]] +7, [[rangoric-srd/skills/Intimidation|Intimidation]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +5, [[rangoric-srd/skills/Perception|Perception]] +2, [[rangoric-srd/skills/Sense Motive|Sense Motive]] –1, [[rangoric-srd/skills/Society|Society]] +5
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Perception)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

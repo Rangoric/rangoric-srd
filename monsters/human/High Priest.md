@@ -17,8 +17,8 @@ special-attacks: "Channel positive energy 5/day (DC 18, 7d6), turn undead, calm 
 special-qualities: "Unity (2/day)"
 saves: "Fort +13, Ref +7, Will +18"
 abilities: "Str 8, Dex 10, Con 15, Int 12, Wis 24, Cha 14"
-skills: "Arcana +16, Linguistics +10, Medicine +11, Perception +15, Persuasion +13, Sense Motive +15, Society +10, Theology +16"
-skill-ranks: "Arcana 12, Linguistics 6, Medicine 1, Perception 5, Persuasion 6, Sense Motive 5, Society 6, Theology 12"
+skills: "Arcana +6, Linguistics +10, Medicine +11, Mysticism +16, Perception +15, Persuasion +13, Sense Motive +15, Society +10, Theology +16"
+skill-ranks: "Arcana 2, Linguistics 6, Medicine 1, Mysticism 12, Perception 5, Persuasion 6, Sense Motive 5, Society 6, Theology 12"
 feats: "Augment Summoning, Craft Rod, Craft Wand, Craft Wondrous Item, Leadership, Selective Channeling, Spell Focus (conjuration), Spell Penetration, Turn Undead"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -52,7 +52,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/class-options/domains/Community Domain|Unity]] (2/day)
 - **Saves**: Fort +13, Ref +7, Will +18
 - **Abilities**: Str 8, Dex 10, Con 15, Int 12, Wis 24, Cha 14
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +16, [[rangoric-srd/skills/Linguistics|Linguistics]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +16
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +6, [[rangoric-srd/skills/Linguistics|Linguistics]] +10, [[rangoric-srd/skills/Medicine|Medicine]] +11, [[rangoric-srd/skills/Mysticism|Mysticism]] +16, [[rangoric-srd/skills/Perception|Perception]] +15, [[rangoric-srd/skills/Persuasion|Persuasion]] +13, [[rangoric-srd/skills/Sense Motive|Sense Motive]] +15, [[rangoric-srd/skills/Society|Society]] +10, [[rangoric-srd/skills/Theology|Theology]] +16
 - **Feats**: [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Craft Rod|Craft Rod]], [[rangoric-srd/feats/Craft Wand|Craft Wand]], [[rangoric-srd/feats/Craft Wondrous Item|Craft Wondrous Item]], [[rangoric-srd/feats/Leadership|Leadership]], [[rangoric-srd/feats/Selective Channeling|Selective Channeling]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration), [[rangoric-srd/feats/Spell Penetration|Spell Penetration]], [[rangoric-srd/feats/Turn Undead|Turn Undead]]
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

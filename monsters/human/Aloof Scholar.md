@@ -18,8 +18,8 @@ special-attacks: "Bardic performance 25 rounds/day (move action; countersong, di
 special-qualities: "Live to tell the tale (1/day), bardic knowledge +4, deep pockets (200 gp), elven magic, lore master 1/day, master scribe, pathfinding, versatile performance (keyboard, oratory)"
 saves: "Fort +6, Ref +9, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)"
 abilities: "Str 8, Dex 14, Con 14, Int 12, Wis 12, Cha 16"
-skills: "Arcana +17, Linguistics +7, Perception +13, Perform (keyboard instruments) +7, Perform (oratory) +15, Profession (scribe) +9, Society +17, Stealth +12, Theology +17"
-skill-ranks: "Arcana 13, Linguistics 3, Perception 9, Perform (keyboard instruments) 3, Perform (oratory) 11, Profession (scribe) 5, Society 13, Stealth 7, Theology 13"
+skills: "Arcana +17, Linguistics +7, Mysticism +12, Perception +13, Perform (keyboard instruments) +7, Perform (oratory) +15, Profession (scribe) +9, Society +17, Stealth +12, Theology +17"
+skill-ranks: "Arcana 13, Linguistics 3, Mysticism 8, Perception 9, Perform (keyboard instruments) 3, Perform (oratory) 11, Profession (scribe) 5, Society 13, Stealth 7, Theology 13"
 feats: "Dodge, Extra Performance, Greater Spell Focus (enchantment), Improved Initiative, Mobility, Spell Focus (enchantment)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/prestige-classes/Wandering Chronicler|Live to tell the tale]] (1/day), [[rangoric-srd/classes/Bard|bardic knowledge]] +4, [[rangoric-srd/prestige-classes/Wandering Chronicler|deep pockets]] (200 gp), elven magic, [[rangoric-srd/classes/Bard#^bard-lore-master|lore master]] 1/day, [[rangoric-srd/prestige-classes/Wandering Chronicler|master scribe]], [[rangoric-srd/prestige-classes/Wandering Chronicler|pathfinding]], [[rangoric-srd/classes/Bard#^bard-versatile-performance|versatile performance]] (keyboard, oratory)
 - **Saves**: Fort +6, Ref +9, Will +8 (+4 vs. bardic performance, language-dependent, and sonic)
 - **Abilities**: Str 8, Dex 14, Con 14, Int 12, Wis 12, Cha 16
-- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, [[rangoric-srd/skills/Perception|Perception]] +13, Perform (keyboard instruments) +7, Perform (oratory) +15, [[rangoric-srd/skills/Profession|Profession]] (scribe) +9, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +17
+- **Skills**: [[rangoric-srd/skills/Arcana|Arcana]] +17, [[rangoric-srd/skills/Linguistics|Linguistics]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +12, [[rangoric-srd/skills/Perception|Perception]] +13, Perform (keyboard instruments) +7, Perform (oratory) +15, [[rangoric-srd/skills/Profession|Profession]] (scribe) +9, [[rangoric-srd/skills/Society|Society]] +17, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +17
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Extra Performance|Extra Performance]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Mobility|Mobility]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])

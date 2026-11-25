@@ -18,8 +18,8 @@ special-attacks: "Intense spells (+3 damage)"
 special-qualities: "Arcane bond (imp), damage reduction 10/magic (ranged weapon attack only; 30 points)"
 saves: "Fort +5, Ref +7, Will +10 (+2 vs. fear)"
 abilities: "Str 6, Dex 16, Con 12, Int 16, Wis 13, Cha 12"
-skills: "Acrobatics +5, Arcana +13, Athletics +0 (–4 jumping), Deception +6, Dungeoneering +9, Emulation +5, Engineering +7, Perception +10, Stealth +12, Theology +8"
-skill-ranks: "Acrobatics 2, Arcana 7, Athletics 2, Deception 2, Dungeoneering 3, Emulation 1, Engineering 1, Perception 6, Stealth 3, Theology 2"
+skills: "Acrobatics +5, Arcana +13, Athletics +0 (–4 jumping), Deception +6, Dungeoneering +9, Emulation +5, Engineering +7, Mysticism +13, Perception +10, Stealth +12, Theology +8"
+skill-ranks: "Acrobatics 2, Arcana 7, Athletics 2, Deception 2, Dungeoneering 3, Emulation 1, Engineering 1, Mysticism 7, Perception 6, Stealth 3, Theology 2"
 feats: "Combat Casting, Empower Spell, Improved Familiar, Improved Initiative, Iron Will, Scribe Scroll"
 environment: "Warm plains"
 organization: "Solitary, or with other halflings (see Halfling)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Wizard#^wizard-arcane-bond|Arcane bond]] (imp), [[rangoric-srd/monsters/abilities/Damage Reduction|damage reduction]] 10/magic (ranged weapon attack only; 30 points)
 - **Saves**: Fort +5, Ref +7, Will +10 (+2 vs. fear)
 - **Abilities**: Str 6, Dex 16, Con 12, Int 16, Wis 13, Cha 12
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +0 (–4 jumping), [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +8
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +5, [[rangoric-srd/skills/Arcana|Arcana]] +13, [[rangoric-srd/skills/Athletics|Athletics]] +0 (–4 jumping), [[rangoric-srd/skills/Deception|Deception]] +6, [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] +9, [[rangoric-srd/skills/Emulation|Emulation]] +5, [[rangoric-srd/skills/Engineering|Engineering]] +7, [[rangoric-srd/skills/Mysticism|Mysticism]] +13, [[rangoric-srd/skills/Perception|Perception]] +10, [[rangoric-srd/skills/Stealth|Stealth]] +12, [[rangoric-srd/skills/Theology|Theology]] +8
 - **Feats**: [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Empower Spell|Empower Spell]], [[rangoric-srd/feats/Improved Familiar|Improved Familiar]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Scribe Scroll|Scribe Scroll]]
 - **Environment**: Warm plains
 - **Organization**: Solitary, or with other halflings (see [[rangoric-srd/monsters/halfling/Halfling|Halfling]])

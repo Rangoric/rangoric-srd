@@ -18,8 +18,8 @@ special-attacks: "—"
 special-qualities: "Low-light vision, bloodline arcana (+2 DC for compulsion spells), elven magic, weapon familiarity, woodland stride, immunity to sleep"
 saves: "Fort +5, Ref +10, Will +12 (+2 vs. enchantments)"
 abilities: "Str 8, Dex 16, Con 10, Int 12, Wis 13, Cha 20"
-skills: "Acrobatics +7, Arcana +9 (+11 to identify magic item properties), Deception +18, Intimidation +18, Nature +5, Perception +12, Persuasion +15"
-skill-ranks: "Acrobatics 1, Arcana 5, Deception 10, Intimidation 10, Nature 1, Perception 8, Persuasion 7"
+skills: "Acrobatics +7, Arcana +6 (+11 to identify magic item properties), Deception +18, Intimidation +18, Mysticism +9, Nature +5, Perception +12, Persuasion +15"
+skill-ranks: "Acrobatics 1, Arcana 2, Deception 10, Intimidation 10, Mysticism 5, Nature 1, Perception 8, Persuasion 7"
 feats: "Dodge, Eschew Materials, Greater Spell Focus (enchantment), Improved Iron Will, Iron Will, Lightning Reflexes, Spell Focus (enchantment), Weapon Finesse"
 environment: "Temperate forest"
 organization: "Solitary, or with other elves (see Elf)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/monsters/abilities/Low-Light Vision|Low-light vision]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|bloodline arcana]] (+2 DC for compulsion spells), [[rangoric-srd/races/Elf|elven magic]], [[rangoric-srd/races/Elf|weapon familiarity]], [[rangoric-srd/class-options/bloodlines/Fey Bloodline|woodland stride]], [[rangoric-srd/monsters/abilities/Immunity|immunity]] to sleep
 - **Saves**: Fort +5, Ref +10, Will +12 (+2 vs. enchantments)
 - **Abilities**: Str 8, Dex 16, Con 10, Int 12, Wis 13, Cha 20
-- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +9 (+11 to identify magic item properties), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +15
+- **Skills**: [[rangoric-srd/skills/Acrobatics|Acrobatics]] +7, [[rangoric-srd/skills/Arcana|Arcana]] +6 (+11 to identify magic item properties), [[rangoric-srd/skills/Deception|Deception]] +18, [[rangoric-srd/skills/Intimidation|Intimidation]] +18, [[rangoric-srd/skills/Mysticism|Mysticism]] +9, [[rangoric-srd/skills/Nature|Nature]] +5, [[rangoric-srd/skills/Perception|Perception]] +12, [[rangoric-srd/skills/Persuasion|Persuasion]] +15
 - **Feats**: [[rangoric-srd/feats/Dodge|Dodge]], [[rangoric-srd/feats/Eschew Materials|Eschew Materials]], [[rangoric-srd/feats/Greater Spell Focus|Greater Spell Focus]] (enchantment), [[rangoric-srd/feats/Improved Iron Will|Improved Iron Will]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Lightning Reflexes|Lightning Reflexes]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (enchantment), [[rangoric-srd/feats/Weapon Finesse|Weapon Finesse]]
 - **Environment**: Temperate forest
 - **Organization**: Solitary, or with other elves (see [[rangoric-srd/monsters/elf/Elf|Elf]])

@@ -18,8 +18,8 @@ special-attacks: "Aura of madness (DC 19, 10 rounds/day), channel negative energ
 special-qualities: "Aura, insanity 5"
 saves: "Fort +10, Ref +3, Will +9 (+2 vs. good opponents)"
 abilities: "Str 16, Dex 8, Con 14, Int 10, Wis 18, Cha 12"
-skills: "Animal Handling +11, Arcana +8, Medicine +8, Nature +1, Perception +11, Theology +6"
-skill-ranks: "Animal Handling 7, Arcana 5, Medicine 1, Nature 1, Perception 7, Theology 3"
+skills: "Animal Handling +11, Medicine +8, Mysticism +8, Nature +1, Perception +11, Theology +6"
+skill-ranks: "Animal Handling 7, Medicine 1, Mysticism 5, Nature 1, Perception 7, Theology 3"
 feats: "Armor Proficiency (Heavy), Augment Summoning, Combat Casting, Improved Initiative, Power Attack, Spell Focus (conjuration)"
 environment: "Any"
 organization: "Solitary, or with other humans (see Human)"
@@ -53,7 +53,7 @@ tags: [rangoric, rangoric/monster]
 - **Special Qualities**: [[rangoric-srd/classes/Cleric#^cleric-aura|Aura]], [[rangoric-srd/class-options/domains/Madness Domain|insanity]] 5
 - **Saves**: Fort +10, Ref +3, Will +9 (+2 vs. good opponents)
 - **Abilities**: Str 16, Dex 8, Con 14, Int 10, Wis 18, Cha 12
-- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Arcana|Arcana]] +8, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +6
+- **Skills**: [[rangoric-srd/skills/Animal Handling|Animal Handling]] +11, [[rangoric-srd/skills/Medicine|Medicine]] +8, [[rangoric-srd/skills/Mysticism|Mysticism]] +8, [[rangoric-srd/skills/Nature|Nature]] +1, [[rangoric-srd/skills/Perception|Perception]] +11, [[rangoric-srd/skills/Theology|Theology]] +6
 - **Feats**: [[rangoric-srd/feats/Armor Proficiency (Heavy)|Armor Proficiency (Heavy)]], [[rangoric-srd/feats/Augment Summoning|Augment Summoning]], [[rangoric-srd/feats/Combat Casting|Combat Casting]], [[rangoric-srd/feats/Improved Initiative|Improved Initiative]], [[rangoric-srd/feats/Power Attack|Power Attack]], [[rangoric-srd/feats/Spell Focus|Spell Focus]] (conjuration)
 - **Environment**: Any
 - **Organization**: Solitary, or with other humans (see [[rangoric-srd/monsters/human/Human|Human]])
