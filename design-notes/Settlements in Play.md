@@ -172,11 +172,11 @@ Just as a settlement can have unusual qualities to enhance its statistics, it ca
 
 While it's nice to be prepared, and planning out cities can be fun in and of itself, it's not always possible to generate specific settlement stat blocks for every town and city that the PCs might visit. Sometimes the PCs decide to venture off in search of supplies instead of heading straight for the next dungeon, other times they make selling their newly acquired loot their highest priority. The following sample settlements are designed for precisely such occasions. Rather than a specific name, each of these sample settlements bears a generic title that indicates what kind of settlement it is or where it might be located. (Their stat blocks are not in the SRD yet.)
 
-- Capital City
-- City of Thieves
-- City-State of Intrigue
-- Creepy Backwoods Hamlet
-- Dwarven Trade Town
-- Elven Town
-- Failing Fishing Village
-- Sleepy Crossroads Thorp
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/Capital City|Capital City]]
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/City of Thieves|City of Thieves]]
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/City-State of Intrigue|City-State of Intrigue]]
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/Creepy Backwoods Hamlet|Creepy Backwoods Hamlet]]
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/Dwarven Trade Town|Dwarven Trade Town]]
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/Elven Town|Elven Town]]
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/Failing Fishing Village|Failing Fishing Village]]
+- [[rangoric-srd/unearthed-arcana/Kingdom Building/settlements/Sleepy Crossroads Thorp|Sleepy Crossroads Thorp]]
