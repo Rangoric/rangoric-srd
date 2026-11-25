@@ -71,7 +71,7 @@ Thanks to the bizarre energies that suffuse their homes, fungal crawlers are inc
 
 ### Combat
 
-**[[rangoric-srd/monsters/abilities/Leap|Leap]] (Ex)**: A fungal crawler can perform a special kind of pounce attack by jumping into combat. When a fungal crawler charges, it can make a DC 20 Acrobatics check to jump into the air and land next to its enemies. If it makes the Acrobatics check, it can follow up with four claw attacks against foes in reach, but it cannot make a bite attack.
+**[[rangoric-srd/monsters/abilities/Leap|Leap]] (Ex)**: A fungal crawler can perform a special kind of pounce attack by jumping into combat. When a fungal crawler charges, it can make a DC 20 Athletics check to jump into the air and land next to its enemies. If it makes the Athletics check, it can follow up with four claw attacks against foes in reach, but it cannot make a bite attack.
 
 **[[rangoric-srd/monsters/abilities/Plant Defenses|Plant Defenses]] (Ex)**: A fungal crawler is part plant and shares many of the immunities that plant creatures possess. A fungal crawler is immune to mind-affecting effects, paralysis, poison, polymorph, sleep, and stunning.
 

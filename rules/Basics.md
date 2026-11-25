@@ -79,7 +79,7 @@ etc...
 
 ##### Abilities and Spellcasters
 
-The ability that governs bonus spells depends on what type of spellcaster your character is: Intelligence for [[rangoric-srd/classes/Wizard|wizards]]; Wisdom for [[rangoric-srd/classes/Cleric|clerics]], [[rangoric-srd/classes/Druid|druids]], [[rangoric-srd/classes/Paladin|paladins]], and [[rangoric-srd/classes/Ranger|rangers]]; or Charisma for [[rangoric-srd/classes/Sorcerer|sorcerers]] and [[rangoric-srd/classes/Bard|bards]]. In addition to having a high ability score, a spellcaster must be of high enough class level to be able to cast spells of a given spell level. (See the [[rangoric-srd/classes/PC Classes|class descriptions]] for details.)
+The ability that governs bonus spells depends on what type of spellcaster your character is: Intelligence for [[rangoric-srd/classes/Wizard|wizards]]; Wisdom for [[rangoric-srd/classes/Cleric|clerics]], [[rangoric-srd/classes/Druid|druids]], and [[rangoric-srd/classes/Ranger|rangers]]; or Charisma for [[rangoric-srd/classes/Paladin|paladins]], [[rangoric-srd/classes/Sorcerer|sorcerers]], and [[rangoric-srd/classes/Bard|bards]]. In addition to having a high ability score, a spellcaster must be of high enough class level to be able to cast spells of a given spell level. (See the [[rangoric-srd/classes/PC Classes|class descriptions]] for details.)
 
 ### The Abilities
 
@@ -115,7 +115,7 @@ You apply your character’s Constitution modifier to:
 
   - Each roll of a Hit Die (though a penalty can never drop a result below 1—that is, a character always gains at least 1 hit point each time he or she advances in level).
   - Fortitude saving throws, for resisting poison and similar threats.
-  - [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] checks. [[rangoric-srd/spells/Magic Overview#Concentration|Concentration]] is a skill, important to spellcasters, that has Constitution as its key ability.
+  - [[rangoric-srd/rules/Concentration (Check)|Concentration checks]], which spellcasters make with their caster level plus their Constitution modifier.
 
 If a character’s Constitution score changes enough to alter his or her Constitution modifier, the character’s hit points also increase or decrease accordingly.
 
@@ -135,14 +135,14 @@ An animal has an Intelligence score of 1 or 2. A creature of humanlike intellige
 
 ##### Wisdom (Wis)
 
-Wisdom describes a character’s willpower, common sense, perception, and intuition. While Intelligence represents one’s ability to analyze information, Wisdom represents being in tune with and aware of one’s surroundings. Wisdom is the most important ability for [[rangoric-srd/classes/Cleric|clerics]] and [[rangoric-srd/classes/Druid|druids]], and it is also important for [[rangoric-srd/classes/Paladin|paladins]] and [[rangoric-srd/classes/Ranger|rangers]]. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score.
+Wisdom describes a character’s willpower, common sense, perception, and intuition. While Intelligence represents one’s ability to analyze information, Wisdom represents being in tune with and aware of one’s surroundings. Wisdom is the most important ability for [[rangoric-srd/classes/Cleric|clerics]] and [[rangoric-srd/classes/Druid|druids]], and it is also important for [[rangoric-srd/classes/Ranger|rangers]]. If you want your character to have acute senses, put a high score in Wisdom. Every creature has a Wisdom score.
 
 You apply your character’s Wisdom modifier to:
 
   - Will saving throws (for negating the effect of charm person and other spells).
   - [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Profession|Profession]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks. These are the skills that have Wisdom as their key ability.
 
-[[rangoric-srd/classes/Cleric|Clerics]], [[rangoric-srd/classes/Druid|druids]], [[rangoric-srd/classes/Paladin|paladins]], and [[rangoric-srd/classes/Ranger|rangers]] get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, paladin, or ranger spell is 10 + the spell’s level.
+[[rangoric-srd/classes/Cleric|Clerics]], [[rangoric-srd/classes/Druid|druids]], and [[rangoric-srd/classes/Ranger|rangers]] get bonus spells based on their Wisdom scores. The minimum Wisdom score needed to cast a cleric, druid, or ranger spell is 10 + the spell’s level.
 
 ##### Charisma (Cha)
 
@@ -154,6 +154,6 @@ You apply your character’s Charisma modifier to:
   - Checks that represent attempts to influence others.
   - Turning checks for [[rangoric-srd/classes/Cleric|clerics]] and [[rangoric-srd/classes/Paladin|paladins]] attempting to turn zombies, vampires, and other undead.
 
-[[rangoric-srd/classes/Sorcerer|Sorcerers]] and [[rangoric-srd/classes/Bard|bards]] get bonus spells based on their Charisma scores. The minimum Charisma score needed to cast a sorcerer or bard spell is 10 + the spell’s level.
+[[rangoric-srd/classes/Paladin|Paladins]], [[rangoric-srd/classes/Sorcerer|sorcerers]], and [[rangoric-srd/classes/Bard|bards]] get bonus spells based on their Charisma scores. The minimum Charisma score needed to cast a paladin, sorcerer, or bard spell is 10 + the spell’s level.
 
 When an ability score changes, all attributes associated with that score change accordingly. A character does not retroactively get additional skill points for previous levels if she increases her intelligence.

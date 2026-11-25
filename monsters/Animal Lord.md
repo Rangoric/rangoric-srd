@@ -175,6 +175,7 @@ Shark lords have black eyes, pale skin, sharp teeth, and little to no body hair.
 Serpent lords tend to have unusual skin colors, often with stripes or other patterns), snakelike eyes, and forked tongues. Serpent lords gain the following ability.
 
 **Poison Immunity (Ex)**: Serpent lords are immune to poison. ^poison-immunity
+
 ### Combat
 
 **[[rangoric-srd/monsters/abilities/Spell-Like Abilities|Spell-Like Abilities]]** (CL 10th; concentration +12): At will—*[[rangoric-srd/spells/Charm Animal|charm animal]]* (cats only, DC 13).
