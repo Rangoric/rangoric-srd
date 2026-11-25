@@ -53,3 +53,12 @@ The svirfneblin warrior presented here had the following ability scores before r
 They are the smallest of all the gnomes, averaging 2 to 2-1/2 feet in height, but look just like regular gnomes except with bark-colored or gray-green skin, and eyes that can be brown or green as well as blue. A very long-lived people, forest gnomes have an average life expectancy of 500 years.
 
 Forest gnomes are a [[rangoric-srd/races/Gnome#Subtypes|subtype of the gnome race]], which has their traits.
+
+### NPCs
+
+These gnomes with class levels are described on their own:
+
+  - Barbarians: [[rangoric-srd/monsters/gnome/Glaive Rager|Glaive Rager]] (CR 7), [[rangoric-srd/monsters/gnome/Arcane Experimenter|Arcane Experimenter]] (CR 13)
+  - Fighters: [[rangoric-srd/monsters/gnome/Daring Bravo|Daring Bravo]] (CR 1), [[rangoric-srd/monsters/gnome/Fastidious Sharpshooter|Fastidious Sharpshooter]] (CR 7), [[rangoric-srd/monsters/gnome/Crime Lord|Crime Lord]] (CR 18)
+  - Paladins: [[rangoric-srd/monsters/gnome/Skirmishing Crusader|Skirmishing Crusader]] (CR 3), [[rangoric-srd/monsters/gnome/Giant Hunter (Monster)|Giant Hunter (Monster)]] (CR 14)
+  - Rangers: [[rangoric-srd/monsters/gnome/Tunnel Rat (Monster)|Tunnel Rat (Monster)]] (CR 5), [[rangoric-srd/monsters/gnome/Giant-Killer|Giant-Killer]] (CR 10)
