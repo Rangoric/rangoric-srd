@@ -7,6 +7,10 @@ views:
     order:
       - file.name
       - note.srd-type
+      - note.bab
+      - note.fort
+      - note.ref
+      - note.will
       - note.source
     sort:
       - property: file.name

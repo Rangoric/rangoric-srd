@@ -8,6 +8,10 @@ views:
       - file.name
       - note.srd-type
       - note.hit-die
+      - note.bab
+      - note.fort
+      - note.ref
+      - note.will
       - note.alignment
       - note.skill-points
       - note.source
