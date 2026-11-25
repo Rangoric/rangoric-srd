@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "4 + Int modifier"
 book: "Advanced Player's Guide"
 based-on:
@@ -25,6 +29,10 @@ While many warriors strive to perfect their art, spending all of their time honi
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Class Skills
 
 The cavalier’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis). His [[rangoric-srd/class-options/orders/Orders|order]] adds more.
@@ -33,28 +41,28 @@ The cavalier’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Cavalier** ^table-the-cavalier
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +0 | Challenge 1/day, mount, order, tactician |
-| 2nd | +2 | +3 | +0 | +0 | Order ability |
-| 3rd | +3 | +3 | +1 | +1 | Cavalier's charge |
-| 4th | +4 | +4 | +1 | +1 | Challenge 2/day, expert trainer |
-| 5th | +5 | +4 | +1 | +1 | Banner |
-| 6th | +6/+1 | +5 | +2 | +2 | Bonus feat |
-| 7th | +7/+2 | +5 | +2 | +2 | Challenge 3/day |
-| 8th | +8/+3 | +6 | +2 | +2 | Order ability |
-| 9th | +9/+4 | +6 | +3 | +3 | Greater tactician |
-| 10th | +10/+5 | +7 | +3 | +3 | Challenge 4/day |
-| 11th | +11/+6/+1 | +7 | +3 | +3 | Mighty charge |
-| 12th | +12/+7/+2 | +8 | +4 | +4 | Bonus feat, demanding challenge |
-| 13th | +13/+8/+3 | +8 | +4 | +4 | Challenge 5/day |
-| 14th | +14/+9/+4 | +9 | +4 | +4 | Greater banner |
-| 15th | +15/+10/+5 | +9 | +5 | +5 | Order ability |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | Challenge 6/day |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | Master tactician |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bonus feat |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Challenge 7/day |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Supreme charge |
+| Level | Special |
+| --- | --- |
+| 1st | Challenge 1/day, mount, order, tactician |
+| 2nd | Order ability |
+| 3rd | Cavalier's charge |
+| 4th | Challenge 2/day, expert trainer |
+| 5th | Banner |
+| 6th | Bonus feat |
+| 7th | Challenge 3/day |
+| 8th | Order ability |
+| 9th | Greater tactician |
+| 10th | Challenge 4/day |
+| 11th | Mighty charge |
+| 12th | Bonus feat, demanding challenge |
+| 13th | Challenge 5/day |
+| 14th | Greater banner |
+| 15th | Order ability |
+| 16th | Challenge 6/day |
+| 17th | Master tactician |
+| 18th | Bonus feat |
+| 19th | Challenge 7/day |
+| 20th | Supreme charge |
 
 ###### Class Features
 

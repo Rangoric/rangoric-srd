@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: "Advanced Class Guide"
 based-on:
@@ -27,6 +31,10 @@ Deadly even with nothing in her hands, a brawler eschews using the [[rangoric-sr
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Class Skills
 
 The brawler’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), and [[rangoric-srd/skills/Society|Society]] (Int).
@@ -35,28 +43,28 @@ The brawler’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Brawler** ^table-the-brawler
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Unarmed Damage | Special |
-| --- | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +2 | +0 | 1d6 | Brawler's cunning, martial flexibility, martial training, unarmed strike |
-| 2nd | +2 | +3 | +3 | +0 | 1d6 | Bonus combat feat, brawler's flurry (Two-Weapon Fighting) |
-| 3rd | +3 | +3 | +3 | +1 | 1d6 | Maneuver training 1 |
-| 4th | +4 | +4 | +4 | +1 | 1d8 | AC bonus +1, knockout 1/day |
-| 5th | +5 | +4 | +4 | +1 | 1d8 | Bonus combat feat, brawler's strike (magic), close weapon mastery |
-| 6th | +6/+1 | +5 | +5 | +2 | 1d8 | Martial flexibility (swift action) |
-| 7th | +7/+2 | +5 | +5 | +2 | 1d8 | Maneuver training 2 |
-| 8th | +8/+3 | +6 | +6 | +2 | 1d10 | Bonus combat feat, brawler's flurry (Improved Two-Weapon Fighting) |
-| 9th | +9/+4 | +6 | +6 | +3 | 1d10 | AC bonus +2, brawler's strike (cold iron and silver) |
-| 10th | +10/+5 | +7 | +7 | +3 | 1d10 | Martial flexibility (free action), knockout 2/day |
-| 11th | +11/+6/+1 | +7 | +7 | +3 | 1d10 | Bonus combat feat, maneuver training 3 |
-| 12th | +12/+7/+2 | +8 | +8 | +4 | 2d6 | Brawler's strike (alignment), martial flexibility (immediate action) |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | 2d6 | AC bonus +3 |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | 2d6 | Bonus combat feat |
-| 15th | +15/+10/+5 | +9 | +9 | +5 | 2d6 | Brawler's flurry (Greater Two-Weapon Fighting), maneuver training 4 |
-| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | 2d8 | Awesome blow, knockout 3/day |
-| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | 2d8 | Bonus combat feat, brawler's strike (adamantine) |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | 2d8 | AC bonus +4 |
-| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | 2d8 | Maneuver training 5 |
-| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | 2d10 | Bonus combat feat, improved awesome blow, martial flexibility (any number) |
+| Level | Unarmed Damage | Special |
+| --- | --- | --- |
+| 1st | 1d6 | Brawler's cunning, martial flexibility, martial training, unarmed strike |
+| 2nd | 1d6 | Bonus combat feat, brawler's flurry (Two-Weapon Fighting) |
+| 3rd | 1d6 | Maneuver training 1 |
+| 4th | 1d8 | AC bonus +1, knockout 1/day |
+| 5th | 1d8 | Bonus combat feat, brawler's strike (magic), close weapon mastery |
+| 6th | 1d8 | Martial flexibility (swift action) |
+| 7th | 1d8 | Maneuver training 2 |
+| 8th | 1d10 | Bonus combat feat, brawler's flurry (Improved Two-Weapon Fighting) |
+| 9th | 1d10 | AC bonus +2, brawler's strike (cold iron and silver) |
+| 10th | 1d10 | Martial flexibility (free action), knockout 2/day |
+| 11th | 1d10 | Bonus combat feat, maneuver training 3 |
+| 12th | 2d6 | Brawler's strike (alignment), martial flexibility (immediate action) |
+| 13th | 2d6 | AC bonus +3 |
+| 14th | 2d6 | Bonus combat feat |
+| 15th | 2d6 | Brawler's flurry (Greater Two-Weapon Fighting), maneuver training 4 |
+| 16th | 2d8 | Awesome blow, knockout 3/day |
+| 17th | 2d8 | Bonus combat feat, brawler's strike (adamantine) |
+| 18th | 2d8 | AC bonus +4 |
+| 19th | 2d8 | Maneuver training 5 |
+| 20th | 2d10 | Bonus combat feat, improved awesome blow, martial flexibility (any number) |
 
 ###### Class Features
 

@@ -5,6 +5,10 @@ aliases:
   - "Spiritualist"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Occult Adventures"
 based-on:
@@ -31,6 +35,10 @@ Becoming a spiritualist is not a calling—it’s a phenomenon. When a creature 
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Class Skills
 
 The spiritualist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Linguistics|Linguistics]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Profession|Profession]] (Wis), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
@@ -39,28 +47,28 @@ The spiritualist’s class skills (and the key ability for each skill) are [[ran
 
 **Table: The Spiritualist** ^table-the-spiritualist
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Etheric tether, knacks, phantom, shared consciousness | 1 | — | — | — | — | — |
-| 2nd | +1 | +3 | +0 | +3 | Bonded senses | 2 | — | — | — | — | — |
-| 3rd | +2 | +3 | +1 | +3 | Bonded manifestation | 3 | — | — | — | — | — |
-| 4th | +3 | +4 | +1 | +4 | Spiritual interference | 3 | 1 | — | — | — | — |
-| 5th | +3 | +4 | +1 | +4 | Detect undead | 4 | 2 | — | — | — | — |
-| 6th | +4 | +5 | +2 | +5 | Phantom recall 1/day | 4 | 3 | — | — | — | — |
-| 7th | +5 | +5 | +2 | +5 | Calm spirit 1/day | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +6 | +2 | +6 | Bonded manifestation increase | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +6 | +3 | +6 | See invisibility | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +7 | +3 | +7 | Fused consciousness, phantom recall 2/day | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +7 | +3 | +7 | Calm spirit 2/day | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +8 | +4 | +8 | Greater spiritual interference | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +8 | +4 | +8 | Bonded manifestation increase | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +9 | +4 | +9 | Phantom recall 3/day, spiritual bond | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +9 | +5 | +9 | Calm spirit 3/day | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +10 | +5 | +10 | Call spirit | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +10 | +5 | +10 | Dual bond | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +11 | +6 | +11 | Bonded manifestation increase, phantom recall 4/day | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +11 | +6 | +11 | Calm spirit 4/day | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +12 | +6 | +12 | Empowered consciousness | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Etheric tether, knacks, phantom, shared consciousness | 1 | — | — | — | — | — |
+| 2nd | Bonded senses | 2 | — | — | — | — | — |
+| 3rd | Bonded manifestation | 3 | — | — | — | — | — |
+| 4th | Spiritual interference | 3 | 1 | — | — | — | — |
+| 5th | Detect undead | 4 | 2 | — | — | — | — |
+| 6th | Phantom recall 1/day | 4 | 3 | — | — | — | — |
+| 7th | Calm spirit 1/day | 4 | 3 | 1 | — | — | — |
+| 8th | Bonded manifestation increase | 4 | 4 | 2 | — | — | — |
+| 9th | See invisibility | 5 | 4 | 3 | — | — | — |
+| 10th | Fused consciousness, phantom recall 2/day | 5 | 4 | 3 | 1 | — | — |
+| 11th | Calm spirit 2/day | 5 | 4 | 4 | 2 | — | — |
+| 12th | Greater spiritual interference | 5 | 5 | 4 | 3 | — | — |
+| 13th | Bonded manifestation increase | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Phantom recall 3/day, spiritual bond | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Calm spirit 3/day | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Call spirit | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Dual bond | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Bonded manifestation increase, phantom recall 4/day | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Calm spirit 4/day | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Empowered consciousness | 5 | 5 | 5 | 5 | 5 | 5 |
 
 **Table: Spiritualist Spells Known** ^table-spiritualist-spells-known
 
@@ -182,7 +190,7 @@ A phantom’s abilities are determined by the spiritualist’s level and the cho
 
 **BAB**: This is the phantom’s base attack bonus. A phantom’s base attack bonus is equal to its Hit Dice. Phantoms do not gain additional attacks using their natural weapons at higher base attack bonuses.
 
-**Good/Bad Saves**: These are the phantom’s base saving throw bonuses. A phantom possesses two good saving throws and one bad saving throw, determined by the phantom’s emotional focus.
+**Good/Poor Saves**: These are the phantom’s base saving throw bonuses. A phantom possesses two good saving throws and one poor saving throw, determined by the phantom’s emotional focus.
 
 **Skills**: This lists the phantom’s total skill ranks. A phantom can assign skill ranks to any skills, but it must possess the appropriate appendage to use some skills. Phantoms with Intelligence scores above the base value modify these totals as normal (a phantom gains a number of skill ranks equal to 2 + its Intelligence modifier per Hit Die). A phantom can’t have more ranks in a skill than it has Hit Dice. Phantom skill ranks are set once chosen.
 
@@ -214,7 +222,7 @@ A phantom’s abilities are determined by the spiritualist’s level and the cho
 
 **Table: Manifested Phantom’s Base Statistics** ^table-manifested-phantom-base-statistics
 
-| Class Level | HD | BAB | Good Saves | Bad Save | Skills | Feats | Armor Bonus | Dex/Cha Bonus | Slam Damage | Special |
+| Class Level | HD | BAB | Good Saves | Poor Save | Skills | Feats | Armor Bonus | Dex/Cha Bonus | Slam Damage | Special |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | 1st | 1 | +1 | +2 | +0 | 2 | 1 | +0 | +0 | 1d6 | Darkvision, link, share spells |
 | 2nd | 2 | +2 | +3 | +0 | 4 | 1 | +2 | +1 | 1d6 | — |

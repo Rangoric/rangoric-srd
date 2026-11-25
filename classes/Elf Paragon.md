@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "2 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Elf|elves]]"
@@ -40,11 +44,11 @@ Accomplished with both spell and blade, elves move through the world at a pace r
 
 **Table: The Elf Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                          | Spells per Day      |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------------------------------------------------------------------ | ------------------- |
-| 1st   | +0               | +0       | +2      | +0       | [[#^elf-paragon-elfsight\|Elfsight]], [[#^elf-paragon-resist-enchantments\|resist enchantments]] | —                   |
-| 2nd   | +1               | +0       | +3      | +0       | [[#^elf-paragon-weapon-focus\|Weapon Focus]]                                                     | +1 level of wizard |
-| 3rd   | +2               | +1       | +3      | +1       | [[#^elf-paragon-ability-boost\|Ability boost]] (Int +2)                                          | +1 level of wizard |
+| Level | Special                                                                                          | Spells per Day      |
+| ----- | ------------------------------------------------------------------------------------------------ | ------------------- |
+| 1st   | [[#^elf-paragon-elfsight\|Elfsight]], [[#^elf-paragon-resist-enchantments\|resist enchantments]] | —                   |
+| 2nd   | [[#^elf-paragon-weapon-focus\|Weapon Focus]]                                                     | +1 level of wizard |
+| 3rd   | [[#^elf-paragon-ability-boost\|Ability boost]] (Int +2)                                          | +1 level of wizard |
 
 Elf paragons have the following game statistics.
 
@@ -53,6 +57,10 @@ Elf paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
 
 ###### Class Skills
 

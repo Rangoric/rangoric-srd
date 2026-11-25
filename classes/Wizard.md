@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: "Ultimate Magic"
 based-on:
@@ -26,6 +30,10 @@ Beyond the veil of the mundane hide the secrets of absolute power. The works of 
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Class Skills
 
 The wizard’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Engineering|Engineering]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
@@ -34,28 +42,28 @@ The wizard’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: Wizard** ^table-the-wizard
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                        | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------ | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
-| 1st   | +0               | +0       | +0      | +2       | Arcane bond, arcane school, cantrips, Scribe Scroll | 3 | 1 | — | — | — | — | — | — | — | — |
-| 2nd   | +1               | +0       | +0      | +3       | — | 4 | 2 | — | — | — | — | — | — | — | — |
-| 3rd   | +1               | +1       | +1      | +3       | — | 4 | 2 | 1 | — | — | — | — | — | — | — |
-| 4th   | +2               | +1       | +1      | +4       | — | 4 | 3 | 2 | — | — | — | — | — | — | — |
-| 5th   | +2               | +1       | +1      | +4       | Bonus feat | 4 | 3 | 2 | 1 | — | — | — | — | — | — |
-| 6th   | +3               | +2       | +2      | +5       | — | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
-| 7th   | +3               | +2       | +2      | +5       | — | 4 | 4 | 3 | 2 | 1 | — | — | — | — | — |
-| 8th   | +4               | +2       | +2      | +6       | — | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th   | +4               | +3       | +3      | +6       | — | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 10th  | +5               | +3       | +3      | +7       | Bonus feat | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
-| 11th  | +5               | +3       | +3      | +7       | — | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
-| 12th  | +6/+1            | +4       | +4      | +8       | — | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
-| 13th  | +6/+1            | +4       | +4      | +8       | — | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 14th  | +7/+2            | +4       | +4      | +9       | — | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
-| 15th  | +7/+2            | +5       | +5      | +9       | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
-| 16th  | +8/+3            | +5       | +5      | +10      | — | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 17th  | +8/+3            | +5       | +5      | +10      | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 18th  | +9/+4            | +6       | +6      | +11      | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
-| 19th  | +9/+4            | +6       | +6      | +11      | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
-| 20th  | +10/+5           | +6       | +6      | +12      | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| Level | Special                        | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| ----- | ------------------------------ | ----------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- | ------------------- |
+| 1st   | Arcane bond, arcane school, cantrips, Scribe Scroll | 3 | 1 | — | — | — | — | — | — | — | — |
+| 2nd   | — | 4 | 2 | — | — | — | — | — | — | — | — |
+| 3rd   | — | 4 | 2 | 1 | — | — | — | — | — | — | — |
+| 4th   | — | 4 | 3 | 2 | — | — | — | — | — | — | — |
+| 5th   | Bonus feat | 4 | 3 | 2 | 1 | — | — | — | — | — | — |
+| 6th   | — | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 7th   | — | 4 | 4 | 3 | 2 | 1 | — | — | — | — | — |
+| 8th   | — | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th   | — | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
+| 10th  | Bonus feat | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
+| 11th  | — | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
+| 12th  | — | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
+| 13th  | — | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
+| 14th  | — | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
+| 15th  | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
+| 16th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
+| 17th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
+| 18th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
+| 19th  | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
+| 20th  | Bonus feat | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
 ###### Class Features
 

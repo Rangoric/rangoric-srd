@@ -3,6 +3,11 @@ srd-type: "class"
 section: "Classes"
 alignment: "Always chaotic good"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: good
+will: good
+progression: per-hit-die
 book: "Faeries"
 race: "[[rangoric-srd/races/Nymph|nymphs]]"
 based-on:
@@ -28,28 +33,28 @@ tags: [rangoric, rangoric/class]
 
 **Table: The Nymph Racial Class**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Hit Dice | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | 0 | +0 | +0 | +2 | 1d6 |  | 2 | - | - | - | - | - | - |
-| 2nd | 0 | +0 | +0 | +3 |  | Spellcasting (as 1st-level druid)\* | 3 | 1 | - | - | - | - | - |
-| 3rd | 0 | +0 | +1 | +3 |  | Spellcasting (as 2nd-level druid)\* | 4 | 2 | - | - | - | - | - |
-| 4th | 0 | +0 | +1 | +4 |  | [[#^nymph-blinding-beauty\|Blinding beauty]] | 4 | 2 | - | - | - | - | - |
-| 5th | 0 | +0 | +1 | +4 |  | Spellcasting (as 3rd-level druid)\* | 4 | 2 | 1 | - | - | - | - |
-| 6th | 0 | +0 | +2 | +5 | 2d6 |  | 4 | 2 | 1 | - | - | - | - |
-| 7th | 0 | +1 | +2 | +5 |  | Spellcasting (as 4th-level druid)\* | 5 | 3 | 2 | - | - | - | - |
-| 8th | 0 | +1 | +2 | +6 |  | Spellcasting (as 5th-level druid)\* | 5 | 3 | 2 | 1 | - | - | - |
-| 9th | 0 | +1 | +3 | +6 | 3d6 |  | 5 | 3 | 2 | 1 | - | - | - |
-| 10th | 0 | +1 | +3 | +7 |  | Spellcasting (as 6th-level druid)\* | 5 | 3 | 3 | 2 | - | - | - |
-| 11th | 0 | +1 | +3 | +7 |  | [[#^nymph-dimension-door\|Dimension door 1/day]] | 5 | 3 | 3 | 2 | - | - | - |
-| 12th | 0 | +1 | +4 | +8 |  | Spellcasting (as 7th-level druid)\* | 6 | 4 | 3 | 2 | 1 | - | - |
-| 13th | +1 | +2 | +4 | +8 | 4d6 |  | 6 | 4 | 3 | 2 | 1 | - | - |
-| 14th | +1 | +2 | +4 | +9 | 5d6 | Spellcasting (as 8th-level druid)\* | 6 | 4 | 3 | 3 | 2 | - | - |
-| 15th | +1 | +2 | +5 | +9 |  | [[#^nymph-unearthly-beauty\|Unearthly beauty]]\*\* | 6 | 4 | 3 | 3 | 2 | - | - |
-| 16th | +1 | +2 | +5 | +10 | 6d6 | Spellcasting (as 9th-level druid)\* | 6 | 4 | 4 | 3 | 2 | 1 | - |
-| 17th | +1 | +2 | +5 | +10 | 7d6 |  | 6 | 4 | 4 | 3 | 2 | 1 | - |
-| 18th | +1 | +2 | +6 | +11 | 8d6 | Spellcasting (as 10th-level druid)\* | 6 | 4 | 4 | 3 | 3 | 2 | - |
-| 19th | +1 | +3 | +6 | +11 |  | Spellcasting (as 11th-level druid)\* | 6 | 5 | 4 | 4 | 3 | 2 | 1 |
-| 20th | +1 | +3 | +6 | +12 | 9d6 |  | 6 | 5 | 4 | 4 | 3 | 2 | 1 |
+| Level | Hit Dice | Special | 0 | 1st | 2nd | 3rd | 4th | 5th | 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | 1d6 |  | 2 | - | - | - | - | - | - |
+| 2nd |  | Spellcasting (as 1st-level druid)\* | 3 | 1 | - | - | - | - | - |
+| 3rd |  | Spellcasting (as 2nd-level druid)\* | 4 | 2 | - | - | - | - | - |
+| 4th |  | [[#^nymph-blinding-beauty\|Blinding beauty]] | 4 | 2 | - | - | - | - | - |
+| 5th |  | Spellcasting (as 3rd-level druid)\* | 4 | 2 | 1 | - | - | - | - |
+| 6th | 2d6 |  | 4 | 2 | 1 | - | - | - | - |
+| 7th |  | Spellcasting (as 4th-level druid)\* | 5 | 3 | 2 | - | - | - | - |
+| 8th |  | Spellcasting (as 5th-level druid)\* | 5 | 3 | 2 | 1 | - | - | - |
+| 9th | 3d6 |  | 5 | 3 | 2 | 1 | - | - | - |
+| 10th |  | Spellcasting (as 6th-level druid)\* | 5 | 3 | 3 | 2 | - | - | - |
+| 11th |  | [[#^nymph-dimension-door\|Dimension door 1/day]] | 5 | 3 | 3 | 2 | - | - | - |
+| 12th |  | Spellcasting (as 7th-level druid)\* | 6 | 4 | 3 | 2 | 1 | - | - |
+| 13th | 4d6 |  | 6 | 4 | 3 | 2 | 1 | - | - |
+| 14th | 5d6 | Spellcasting (as 8th-level druid)\* | 6 | 4 | 3 | 3 | 2 | - | - |
+| 15th |  | [[#^nymph-unearthly-beauty\|Unearthly beauty]]\*\* | 6 | 4 | 3 | 3 | 2 | - | - |
+| 16th | 6d6 | Spellcasting (as 9th-level druid)\* | 6 | 4 | 4 | 3 | 2 | 1 | - |
+| 17th | 7d6 |  | 6 | 4 | 4 | 3 | 2 | 1 | - |
+| 18th | 8d6 | Spellcasting (as 10th-level druid)\* | 6 | 4 | 4 | 3 | 3 | 2 | - |
+| 19th |  | Spellcasting (as 11th-level druid)\* | 6 | 5 | 4 | 4 | 3 | 2 | 1 |
+| 20th | 9d6 |  | 6 | 5 | 4 | 4 | 3 | 2 | 1 |
 
 \* Spellcasting ability only. Use the druid’s spell list to determine spells.
 \*\* Unearthly beauty can be used once per day for up to 10 minutes.
@@ -57,6 +62,10 @@ tags: [rangoric, rangoric/class]
 **Alignment:** Always chaotic good.
 
 **Hit Die:** d6. The Hit Dice column gives the nymph’s total Hit Dice: she gains her Hit Dice at the levels where the column changes (1d6 at 1st level, 9d6 by 20th).
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per Hit Die), only at levels that give a Hit Die (see the Hit Dice column).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude, only at levels that give a Hit Die (see the Hit Dice column).
 
 **Class Skills:** None are given for the racial class, so it has the skills of the monster [[rangoric-srd/monsters/nymph/Nymph|nymph]]: [[rangoric-srd/skills/Animal Handling|Animal Handling]], [[rangoric-srd/skills/Athletics|Athletics]], [[rangoric-srd/skills/Escape Artist|Escape Artist]], [[rangoric-srd/skills/Fieldcraft|Fieldcraft]], [[rangoric-srd/skills/Mysticism|Mysticism]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Persuasion|Persuasion]], [[rangoric-srd/skills/Sense Motive|Sense Motive]], [[rangoric-srd/skills/Stealth|Stealth]].
 

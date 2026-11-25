@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d6"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Drow|drow]]"
@@ -44,11 +48,11 @@ That said, drow paragons often see fighters as ideal companions because they com
 
 **Table: The Drow Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                                        | Spells per Day                |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
-| 1st   | +0               | +0       | +2      | +0       | [[#^drow-paragon-improved-spell-like-abilities\|improved spell-like abilities]]                                                | +1 level of cleric or wizard |
-| 2nd   | +1               | +0       | +3      | +0       | [[#^drow-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^drow-paragon-light-sensitivity\|light sensitivity]] | —                             |
-| 3rd   | +2               | +1       | +3      | +1       | [[#^drow-paragon-ability-boost\|Ability boost]] (Dex +2)                                                                       | +1 level of cleric or wizard |
+| Level | Special                                                                                                                        | Spells per Day                |
+| ----- | ------------------------------------------------------------------------------------------------------------------------------ | ----------------------------- |
+| 1st   | [[#^drow-paragon-improved-spell-like-abilities\|improved spell-like abilities]]                                                | +1 level of cleric or wizard |
+| 2nd   | [[#^drow-paragon-improved-darkvision\|Improved darkvision]] (+30 ft.), [[#^drow-paragon-light-sensitivity\|light sensitivity]] | —                             |
+| 3rd   | [[#^drow-paragon-ability-boost\|Ability boost]] (Dex +2)                                                                       | +1 level of cleric or wizard |
 
 Drow paragons have the following game statistics.
 
@@ -57,6 +61,10 @@ Drow paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d6.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
 
 ###### Class Skills
 

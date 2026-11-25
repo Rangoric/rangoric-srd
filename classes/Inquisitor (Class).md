@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Within one step of her deity’s"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "6 + Int modifier"
 book: "Advanced Player's Guide"
 based-on:
@@ -28,6 +32,10 @@ Grim and determined, the inquisitor roots out enemies of the faith, using tricke
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Class Skills
 
 The inquisitor’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).
@@ -36,28 +44,28 @@ The inquisitor’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Inquisitor** ^table-the-inquisitor
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Domain, judgment 1/day, monster lore, orisons, stern gaze | 1 | — | — | — | — | — |
-| 2nd | +1 | +3 | +0 | +3 | Cunning initiative, *detect alignment*, track | 2 | — | — | — | — | — |
-| 3rd | +2 | +3 | +1 | +3 | Solo tactics, teamwork feat | 3 | — | — | — | — | — |
-| 4th | +3 | +4 | +1 | +4 | Judgment 2/day | 3 | 1 | — | — | — | — |
-| 5th | +3 | +4 | +1 | +4 | Bane, *discern lies* | 4 | 2 | — | — | — | — |
-| 6th | +4 | +5 | +2 | +5 | Teamwork feat | 4 | 3 | — | — | — | — |
-| 7th | +5 | +5 | +2 | +5 | Judgment 3/day | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +6 | +2 | +6 | Second judgment | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +6 | +3 | +6 | Teamwork feat | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +7 | +3 | +7 | Judgment 4/day | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +7 | +3 | +7 | Stalwart | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +8 | +4 | +8 | Greater bane, teamwork feat | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +8 | +4 | +8 | Judgment 5/day | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +9 | +4 | +9 | Exploit weakness | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +9 | +5 | +9 | Teamwork feat | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +10 | +5 | +10 | Judgment 6/day, third judgment | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +10 | +5 | +10 | Slayer | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +11 | +6 | +11 | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +11 | +6 | +11 | Judgment 7/day | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +12 | +6 | +12 | True judgment | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Domain, judgment 1/day, monster lore, orisons, stern gaze | 1 | — | — | — | — | — |
+| 2nd | Cunning initiative, *detect alignment*, track | 2 | — | — | — | — | — |
+| 3rd | Solo tactics, teamwork feat | 3 | — | — | — | — | — |
+| 4th | Judgment 2/day | 3 | 1 | — | — | — | — |
+| 5th | Bane, *discern lies* | 4 | 2 | — | — | — | — |
+| 6th | Teamwork feat | 4 | 3 | — | — | — | — |
+| 7th | Judgment 3/day | 4 | 3 | 1 | — | — | — |
+| 8th | Second judgment | 4 | 4 | 2 | — | — | — |
+| 9th | Teamwork feat | 5 | 4 | 3 | — | — | — |
+| 10th | Judgment 4/day | 5 | 4 | 3 | 1 | — | — |
+| 11th | Stalwart | 5 | 4 | 4 | 2 | — | — |
+| 12th | Greater bane, teamwork feat | 5 | 5 | 4 | 3 | — | — |
+| 13th | Judgment 5/day | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Exploit weakness | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Teamwork feat | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Judgment 6/day, third judgment | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Slayer | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Teamwork feat | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Judgment 7/day | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | True judgment | 5 | 5 | 5 | 5 | 5 | 5 |
 
 **Table: Inquisitor Spells Known** ^table-inquisitor-spells-known
 

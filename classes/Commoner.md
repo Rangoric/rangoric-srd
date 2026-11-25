@@ -2,6 +2,10 @@
 srd-type: "class"
 section: "Classes"
 hit-die: "d6"
+bab: weak
+fort: poor
+ref: poor
+will: poor
 skill-points: "2 + Int modifier"
 based-on:
   - "[[fantasy srd 3.5/classes/NPC Classes#Commoner|NPC Classes (3.5)]]"
@@ -16,6 +20,10 @@ tags: [rangoric, rangoric/class]
 
 **Hit Die**: d6.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Weak (1/2 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All poor.
+
 ## Class Skills
 
 The commoner’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
@@ -24,28 +32,28 @@ The commoner’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Commoner**
 
-| NPC Level | Base Attack Bonus | Fort Save | Ref Save | Will Save |
-| --------- | ----------------- | --------- | -------- | --------- |
-| 1st       | +0               | +0       | +0      | +0       |
-| 2nd       | +1               | +0       | +0      | +0       |
-| 3rd       | +1               | +1       | +1      | +1       |
-| 4th       | +2               | +1       | +1      | +1       |
-| 5th       | +2               | +1       | +1      | +1       |
-| 6th       | +3               | +2       | +2      | +2       |
-| 7th       | +3               | +2       | +2      | +2       |
-| 8th       | +4               | +2       | +2      | +2       |
-| 9th       | +4               | +3       | +3      | +3       |
-| 10th      | +5               | +3       | +3      | +3       |
-| 11th      | +5               | +3       | +3      | +3       |
-| 12th      | +6/+1            | +4       | +4      | +4       |
-| 13th      | +6/+1            | +4       | +4      | +4       |
-| 14th      | +7/+2            | +4       | +4      | +4       |
-| 15th      | +7/+2            | +5       | +5      | +5       |
-| 16th      | +8/+3            | +5       | +5      | +5       |
-| 17th      | +8/+3            | +5       | +5      | +5       |
-| 18th      | +9/+4            | +6       | +6      | +6       |
-| 19th      | +9/+4            | +6       | +6      | +6       |
-| 20th      | +10/+5           | +6       | +6      | +6       |
+| NPC Level |
+| --------- |
+| 1st       |
+| 2nd       |
+| 3rd       |
+| 4th       |
+| 5th       |
+| 6th       |
+| 7th       |
+| 8th       |
+| 9th       |
+| 10th      |
+| 11th      |
+| 12th      |
+| 13th      |
+| 14th      |
+| 15th      |
+| 16th      |
+| 17th      |
+| 18th      |
+| 19th      |
+| 20th      |
 
 ## Class Features
 

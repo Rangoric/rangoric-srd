@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "4 + Int modifier"
 book: "Advanced Class Guide"
 based-on:
@@ -27,6 +31,10 @@ While many ferocious combatants can tap into a deep reservoir of buried rage, bl
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Class Skills
 
 The bloodrager’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
@@ -35,28 +43,28 @@ The bloodrager’s class skills (and the key ability for each skill) are [[rango
 
 **Table: The Bloodrager** ^table-the-bloodrager
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +0 | Bloodline, bloodline power, bloodrage, fast movement | — | — | — | — |
-| 2nd | +2 | +3 | +0 | +0 | Uncanny dodge | — | — | — | — |
-| 3rd | +3 | +3 | +1 | +1 | Blood sanctuary | — | — | — | — |
-| 4th | +4 | +4 | +1 | +1 | Blood casting, bloodline power, eschew materials | 1 | — | — | — |
-| 5th | +5 | +4 | +1 | +1 | Improved uncanny dodge | 1 | — | — | — |
-| 6th | +6/+1 | +5 | +2 | +2 | Bloodline feat | 1 | — | — | — |
-| 7th | +7/+2 | +5 | +2 | +2 | Bloodline spell, damage reduction 1/— | 1 | 1 | — | — |
-| 8th | +8/+3 | +6 | +2 | +2 | Bloodline power | 1 | 1 | — | — |
-| 9th | +9/+4 | +6 | +3 | +3 | Bloodline feat | 2 | 1 | — | — |
-| 10th | +10/+5 | +7 | +3 | +3 | Bloodline spell, damage reduction 2/— | 2 | 1 | 1 | — |
-| 11th | +11/+6/+1 | +7 | +3 | +3 | Greater bloodrage | 2 | 1 | 1 | — |
-| 12th | +12/+7/+2 | +8 | +4 | +4 | Bloodline feat, bloodline power | 2 | 2 | 1 | — |
-| 13th | +13/+8/+3 | +8 | +4 | +4 | Bloodline spell, damage reduction 3/— | 3 | 2 | 1 | 1 |
-| 14th | +14/+9/+4 | +9 | +4 | +4 | Indomitable will | 3 | 2 | 1 | 1 |
-| 15th | +15/+10/+5 | +9 | +5 | +5 | Bloodline feat | 3 | 2 | 2 | 1 |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | Bloodline spell, bloodline power, damage reduction 4/— | 3 | 3 | 2 | 1 |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | Tireless bloodrage | 4 | 3 | 2 | 1 |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bloodline feat | 4 | 3 | 2 | 2 |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Damage reduction 5/— | 4 | 3 | 3 | 2 |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Bloodline power, mighty bloodrage | 4 | 4 | 3 | 2 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th |
+| --- | --- | --- | --- | --- | --- |
+| 1st | Bloodline, bloodline power, bloodrage, fast movement | — | — | — | — |
+| 2nd | Uncanny dodge | — | — | — | — |
+| 3rd | Blood sanctuary | — | — | — | — |
+| 4th | Blood casting, bloodline power, eschew materials | 1 | — | — | — |
+| 5th | Improved uncanny dodge | 1 | — | — | — |
+| 6th | Bloodline feat | 1 | — | — | — |
+| 7th | Bloodline spell, damage reduction 1/— | 1 | 1 | — | — |
+| 8th | Bloodline power | 1 | 1 | — | — |
+| 9th | Bloodline feat | 2 | 1 | — | — |
+| 10th | Bloodline spell, damage reduction 2/— | 2 | 1 | 1 | — |
+| 11th | Greater bloodrage | 2 | 1 | 1 | — |
+| 12th | Bloodline feat, bloodline power | 2 | 2 | 1 | — |
+| 13th | Bloodline spell, damage reduction 3/— | 3 | 2 | 1 | 1 |
+| 14th | Indomitable will | 3 | 2 | 1 | 1 |
+| 15th | Bloodline feat | 3 | 2 | 2 | 1 |
+| 16th | Bloodline spell, bloodline power, damage reduction 4/— | 3 | 3 | 2 | 1 |
+| 17th | Tireless bloodrage | 4 | 3 | 2 | 1 |
+| 18th | Bloodline feat | 4 | 3 | 2 | 2 |
+| 19th | Damage reduction 5/— | 4 | 3 | 3 | 2 |
+| 20th | Bloodline power, mighty bloodrage | 4 | 4 | 3 | 2 |
 
 **Table: Bloodrager Spells Known** ^table-bloodrager-spells-known
 

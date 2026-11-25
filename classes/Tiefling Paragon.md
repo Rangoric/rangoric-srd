@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: good
+will: good
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Tiefling|tieflings]]"
@@ -42,11 +46,11 @@ Tiefling paragons do not see themselves as fellows or champions of their race. I
 
 **Table: The Tiefling Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                                       |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | +0               | +2       | +2      | +2       | [[#^tiefling-paragon-improved-resistance\|Improved resistance]]                                                       |
-| 2nd   | +1               | +3       | +3      | +3       | [[#^tiefling-paragon-darkness\|Darkness]], [[#^tiefling-paragon-skill-bonus\|skill bonus]] |
-| 3rd   | +2               | +3       | +3      | +3       | [[#^tiefling-paragon-ability-boost\|Ability boost]] (Dex +2)                                                    |
+| Level | Special                                                                                                                       |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | [[#^tiefling-paragon-improved-resistance\|Improved resistance]]                                                       |
+| 2nd   | [[#^tiefling-paragon-darkness\|Darkness]], [[#^tiefling-paragon-skill-bonus\|skill bonus]] |
+| 3rd   | [[#^tiefling-paragon-ability-boost\|Ability boost]] (Dex +2)                                                    |
 
 Tiefling paragons have the following game statistics.
 
@@ -55,6 +59,10 @@ Tiefling paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All good.
 
 ###### Class Skills
 

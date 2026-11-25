@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: poor
+will: good
 skill-points: "2 + Int modifier"
 book: ["Advanced Player's Guide", "Ultimate Magic"]
 based-on:
@@ -27,6 +31,10 @@ While many who dabble in the arcane become adept at beckoning monsters from the 
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Class Skills
 
 The summoner’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
@@ -35,28 +43,28 @@ The summoner’s class skills (and the key ability for each skill) are [[rangori
 
 **Table: The Summoner** ^table-the-summoner
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Cantrips, eidolon, life link, *[[rangoric-srd/spells/Summon Monster I\|summon monster I]]* | 1 | — | — | — | — | — |
-| 2nd | +1 | +0 | +0 | +3 | Bond senses | 2 | — | — | — | — | — |
-| 3rd | +2 | +1 | +1 | +3 | *[[rangoric-srd/spells/Summon Monster II\|Summon monster II]]* | 3 | — | — | — | — | — |
-| 4th | +3 | +1 | +1 | +4 | Shield ally | 3 | 1 | — | — | — | — |
-| 5th | +3 | +1 | +1 | +4 | *[[rangoric-srd/spells/Summon Monster III\|Summon monster III]]* | 4 | 2 | — | — | — | — |
-| 6th | +4 | +2 | +2 | +5 | Maker's call | 4 | 3 | — | — | — | — |
-| 7th | +5 | +2 | +2 | +5 | *[[rangoric-srd/spells/Summon Monster IV\|Summon monster IV]]* | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +2 | +2 | +6 | Transposition | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +3 | +3 | +6 | *[[rangoric-srd/spells/Summon Monster V\|Summon monster V]]* | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +3 | +3 | +7 | Aspect | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +3 | +3 | +7 | *[[rangoric-srd/spells/Summon Monster VI\|Summon monster VI]]* | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +4 | +4 | +8 | Greater shield ally | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +4 | +4 | +8 | *[[rangoric-srd/spells/Summon Monster VII\|Summon monster VII]]* | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +4 | +4 | +9 | Life bond | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +5 | +5 | +9 | *[[rangoric-srd/spells/Summon Monster VIII\|Summon monster VIII]]* | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +5 | +5 | +10 | Merge forms | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +5 | +5 | +10 | *[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]* | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +6 | +6 | +11 | Greater aspect | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +6 | +6 | +11 | *[[rangoric-srd/spells/Gate\|Gate]]* | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +6 | +6 | +12 | Twin eidolon | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Cantrips, eidolon, life link, *[[rangoric-srd/spells/Summon Monster I\|summon monster I]]* | 1 | — | — | — | — | — |
+| 2nd | Bond senses | 2 | — | — | — | — | — |
+| 3rd | *[[rangoric-srd/spells/Summon Monster II\|Summon monster II]]* | 3 | — | — | — | — | — |
+| 4th | Shield ally | 3 | 1 | — | — | — | — |
+| 5th | *[[rangoric-srd/spells/Summon Monster III\|Summon monster III]]* | 4 | 2 | — | — | — | — |
+| 6th | Maker's call | 4 | 3 | — | — | — | — |
+| 7th | *[[rangoric-srd/spells/Summon Monster IV\|Summon monster IV]]* | 4 | 3 | 1 | — | — | — |
+| 8th | Transposition | 4 | 4 | 2 | — | — | — |
+| 9th | *[[rangoric-srd/spells/Summon Monster V\|Summon monster V]]* | 5 | 4 | 3 | — | — | — |
+| 10th | Aspect | 5 | 4 | 3 | 1 | — | — |
+| 11th | *[[rangoric-srd/spells/Summon Monster VI\|Summon monster VI]]* | 5 | 4 | 4 | 2 | — | — |
+| 12th | Greater shield ally | 5 | 5 | 4 | 3 | — | — |
+| 13th | *[[rangoric-srd/spells/Summon Monster VII\|Summon monster VII]]* | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Life bond | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | *[[rangoric-srd/spells/Summon Monster VIII\|Summon monster VIII]]* | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Merge forms | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | *[[rangoric-srd/spells/Summon Monster IX\|Summon monster IX]]* | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Greater aspect | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | *[[rangoric-srd/spells/Gate\|Gate]]* | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Twin eidolon | 5 | 5 | 5 | 5 | 5 | 5 |
 
 **Table: Summoner Spells Known** ^table-summoner-spells-known
 
@@ -157,7 +165,7 @@ An eidolon’s abilities are determined by the summoner’s level and by the cho
 
 **BAB**: This is the eidolon’s base attack bonus. An eidolon’s base attack bonus is equal to its Hit Dice. Eidolons do not gain additional attacks using their natural weapons for a high base attack bonus.
 
-**Good/Bad Saves**: These are the eidolon’s base saving throw bonuses. An eidolon possesses two good saving throws and one bad saving throw, determined by the creature’s base form.
+**Good/Poor Saves**: These are the eidolon’s base saving throw bonuses. An eidolon possesses two good saving throws and one poor saving throw, determined by the creature’s base form.
 
 **Skills**: This lists the eidolon’s total skill ranks. An eidolon can assign skill ranks to any skill, but it must possess the appropriate appendages to use some skills. Eidolons with Intelligence scores above the base value modify these totals as normal (an eidolon receives a number of skill ranks equal to 6 + its Intelligence modifier per HD). An eidolon cannot have more ranks in a skill than it has Hit Dice. Eidolon skill ranks are set once chosen, even if the creature changes when the summoner gains a new level.
 
@@ -191,7 +199,7 @@ An eidolon’s abilities are determined by the summoner’s level and by the cho
 
 **Table: Eidolon Base Statistics** ^table-eidolon-base-statistics
 
-| Class Level | HD  | BAB | Good Saves | Bad Save | Skills | Feats | Armor Bonus | Str/Dex Bonus | Evolution Pool | Max. Attacks | Special                        |
+| Class Level | HD  | BAB | Good Saves | Poor Save | Skills | Feats | Armor Bonus | Str/Dex Bonus | Evolution Pool | Max. Attacks | Special                        |
 |-------------|-----|-----|------------|----------|--------|-------|-------------|---------------|----------------|--------------|--------------------------------|
 | 1st         | 1   | +1  | +2         | +0       | 4      | 1     | +0          | +0            | 3              | 3            | Darkvision, link, share spells |
 | 2nd         | 2   | +2  | +3         | +0       | 8      | 1     | +2          | +1            | 4              | 3            | Evasion                        |

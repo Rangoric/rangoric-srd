@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Advanced Class Guide"
 based-on:
@@ -25,6 +29,10 @@ While some heroes speak to gods or consort with otherworldly muses, shamans comm
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
+
 ###### Class Skills
 
 The shaman’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Theology|Theology]] (Int).
@@ -33,28 +41,28 @@ The shaman’s class skills (and the key ability for each skill) are [[rangoric-
 
 **Table: The Shaman** ^table-the-shaman
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +0 | +2 | Orisons, spirit, spirit animal, spirit magic | 3 | 1 | — | — | — | — | — | — | — | — |
-| 2nd | +1 | +0 | +0 | +3 | Hex | 4 | 2 | — | — | — | — | — | — | — | — |
-| 3rd | +2 | +1 | +1 | +3 | — | 4 | 2 | 1 | — | — | — | — | — | — | — |
-| 4th | +3 | +1 | +1 | +4 | Hex, wandering spirit | 4 | 3 | 2 | — | — | — | — | — | — | — |
-| 5th | +3 | +1 | +1 | +4 | — | 4 | 3 | 2 | 1 | — | — | — | — | — | — |
-| 6th | +4 | +2 | +2 | +5 | Wandering hex | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
-| 7th | +5 | +2 | +2 | +5 | — | 4 | 4 | 3 | 2 | 1 | — | — | — | — | — |
-| 8th | +6/+1 | +2 | +2 | +6 | Hex, spirit (greater) | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
-| 9th | +6/+1 | +3 | +3 | +6 | — | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
-| 10th | +7/+2 | +3 | +3 | +7 | Hex | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
-| 11th | +8/+3 | +3 | +3 | +7 | — | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
-| 12th | +9/+4 | +4 | +4 | +8 | Hex, wandering spirit (greater) | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
-| 13th | +9/+4 | +4 | +4 | +8 | — | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
-| 14th | +10/+5 | +4 | +4 | +9 | Wandering hex (2 hexes) | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
-| 15th | +11/+6/+1 | +5 | +5 | +9 | — | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
-| 16th | +12/+7/+2 | +5 | +5 | +10 | Hex, spirit (true) | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
-| 17th | +12/+7/+2 | +5 | +5 | +10 | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
-| 18th | +13/+8/+3 | +6 | +6 | +11 | Hex | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
-| 19th | +14/+9/+4 | +6 | +6 | +11 | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
-| 20th | +15/+10/+5 | +6 | +6 | +12 | Hex, manifestation, wandering spirit (true) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
+| Level | Special | Spells per Day: 0 | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th | Spells per Day: 7th | Spells per Day: 8th | Spells per Day: 9th |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Orisons, spirit, spirit animal, spirit magic | 3 | 1 | — | — | — | — | — | — | — | — |
+| 2nd | Hex | 4 | 2 | — | — | — | — | — | — | — | — |
+| 3rd | — | 4 | 2 | 1 | — | — | — | — | — | — | — |
+| 4th | Hex, wandering spirit | 4 | 3 | 2 | — | — | — | — | — | — | — |
+| 5th | — | 4 | 3 | 2 | 1 | — | — | — | — | — | — |
+| 6th | Wandering hex | 4 | 3 | 3 | 2 | — | — | — | — | — | — |
+| 7th | — | 4 | 4 | 3 | 2 | 1 | — | — | — | — | — |
+| 8th | Hex, spirit (greater) | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | — | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — | — |
+| 10th | Hex | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — | — |
+| 11th | — | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — | — |
+| 12th | Hex, wandering spirit (greater) | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — | — |
+| 13th | — | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — | — |
+| 14th | Wandering hex (2 hexes) | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — | — |
+| 15th | — | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 | — |
+| 16th | Hex, spirit (true) | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 | — |
+| 17th | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 2 | 1 |
+| 18th | Hex | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 | 2 |
+| 19th | — | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 3 | 3 |
+| 20th | Hex, manifestation, wandering spirit (true) | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 | 4 |
 
 ###### Class Features
 

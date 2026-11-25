@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: ["Advanced Player's Guide", "Ultimate Magic", "Ultimate Combat", "Advanced Class Guide", "Advanced Race Guide", "Monster Codex", "Ultimate Wilderness", "Villain Codex"]
 based-on:
@@ -26,6 +30,10 @@ Whether secreted away in a smoky basement laboratory or gleefully experimenting 
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Class Skills
 
 The alchemist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex).
@@ -34,28 +42,28 @@ The alchemist’s class skills (and the key ability for each skill) are [[rangor
 
 **Table: The Alchemist** ^table-the-alchemist
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +2 | +0 | Alchemy, bomb 1d6, Brew Potion, mutagen, Throw Anything | 1 | — | — | — | — | — |
-| 2nd | +1 | +3 | +3 | +0 | Discovery, poison resistance +2, poison use | 2 | — | — | — | — | — |
-| 3rd | +2 | +3 | +3 | +1 | Bomb 2d6, swift alchemy | 3 | — | — | — | — | — |
-| 4th | +3 | +4 | +4 | +1 | Discovery | 3 | 1 | — | — | — | — |
-| 5th | +3 | +4 | +4 | +1 | Bomb 3d6, poison resistance +4 | 4 | 2 | — | — | — | — |
-| 6th | +4 | +5 | +5 | +2 | Discovery, swift poisoning | 4 | 3 | — | — | — | — |
-| 7th | +5 | +5 | +5 | +2 | Bomb 4d6 | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +6 | +6 | +2 | Discovery, poison resistance +6 | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +6 | +6 | +3 | Bomb 5d6 | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +7 | +7 | +3 | Discovery, poison immunity | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +7 | +7 | +3 | Bomb 6d6 | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +8 | +8 | +4 | Discovery | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +8 | +8 | +4 | Bomb 7d6 | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +9 | +9 | +4 | Discovery, persistent mutagen | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +9 | +9 | +5 | Bomb 8d6 | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +10 | +10 | +5 | Discovery | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +10 | +10 | +5 | Bomb 9d6 | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +11 | +11 | +6 | Discovery, instant alchemy | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +11 | +11 | +6 | Bomb 10d6 | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +12 | +12 | +6 | Grand discovery | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Extracts per Day: 1st | Extracts per Day: 2nd | Extracts per Day: 3rd | Extracts per Day: 4th | Extracts per Day: 5th | Extracts per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Alchemy, bomb 1d6, Brew Potion, mutagen, Throw Anything | 1 | — | — | — | — | — |
+| 2nd | Discovery, poison resistance +2, poison use | 2 | — | — | — | — | — |
+| 3rd | Bomb 2d6, swift alchemy | 3 | — | — | — | — | — |
+| 4th | Discovery | 3 | 1 | — | — | — | — |
+| 5th | Bomb 3d6, poison resistance +4 | 4 | 2 | — | — | — | — |
+| 6th | Discovery, swift poisoning | 4 | 3 | — | — | — | — |
+| 7th | Bomb 4d6 | 4 | 3 | 1 | — | — | — |
+| 8th | Discovery, poison resistance +6 | 4 | 4 | 2 | — | — | — |
+| 9th | Bomb 5d6 | 5 | 4 | 3 | — | — | — |
+| 10th | Discovery, poison immunity | 5 | 4 | 3 | 1 | — | — |
+| 11th | Bomb 6d6 | 5 | 4 | 4 | 2 | — | — |
+| 12th | Discovery | 5 | 5 | 4 | 3 | — | — |
+| 13th | Bomb 7d6 | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Discovery, persistent mutagen | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Bomb 8d6 | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Discovery | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Bomb 9d6 | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Discovery, instant alchemy | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Bomb 10d6 | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Grand discovery | 5 | 5 | 5 | 5 | 5 | 5 |
 
 ###### Class Features
 

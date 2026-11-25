@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any, although most favor neutrality"
 hit-die: "d6"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Halfling|halflings]]"
@@ -44,11 +48,11 @@ Halfling paragons enjoy a mixed lot of traveling companions — too many members
 
 **Table: The Halfling Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                  |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------------------------------------------------------------------------- |
-| 1st   | +0               | +0       | +2      | +0       | [[#^halfling-paragon-athletic-prowess\|Athletic prowess]], [[#^halfling-paragon-save-bonus\|save bonus]] |
-| 2nd   | +1               | +0       | +3      | +0       | [[#^halfling-paragon-thrown-weapon-mastery\|Thrown weapon mastery]]                                      |
-| 3rd   | +2               | +1       | +3      | +1       | [[#^halfling-paragon-ability-boost\|Ability boost]] (Dex +2)                                             |
+| Level | Special                                                                                                  |
+| ----- | -------------------------------------------------------------------------------------------------------- |
+| 1st   | [[#^halfling-paragon-athletic-prowess\|Athletic prowess]], [[#^halfling-paragon-save-bonus\|save bonus]] |
+| 2nd   | [[#^halfling-paragon-thrown-weapon-mastery\|Thrown weapon mastery]]                                      |
+| 3rd   | [[#^halfling-paragon-ability-boost\|Ability boost]] (Dex +2)                                             |
 
 Halfling paragons have the following game statistics.
 
@@ -57,6 +61,10 @@ Halfling paragons have the following game statistics.
 **Alignment:** Any, although most favor neutrality.
 
 **Hit Die:** d6.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
 
 ###### Class Skills
 

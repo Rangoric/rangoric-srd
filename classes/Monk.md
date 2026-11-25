@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any lawful"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: good
+will: good
 skill-points: "4 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Monk|Monk (PF1)]]"
@@ -25,6 +29,10 @@ For the truly exemplary, martial skill transcends the battlefield—it is a life
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: All good.
+
 ###### Class Skills
 - [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex)
 - [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha)
@@ -46,28 +54,28 @@ For the truly exemplary, martial skill transcends the battlefield—it is a life
 
 **Table: The Monk** ^table-the-monk
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                    | Flurry of Blows Attack Bonus | Unarmed Damage (1) | AC Bonus | Unarmored Speed Bonus |
-| ----- | ----------------- | --------- | -------- | --------- | ------------------------------------------ | ---------------------------- | ------------------ | -------- | --------------------- |
-| 1st   | +0               | +2       | +2      | +2       | Bonus feat, flurry of blows, stunning fist, unarmed strike | –1/–1 | 1d6                | +0 | +0 ft.               |
-| 2nd   | +1               | +3       | +3      | +3       | Bonus feat, evasion | +0/+0 | 1d6                | +0 | +0 ft.               |
-| 3rd   | +2               | +3       | +3      | +3       | Fast movement, maneuver training, still mind | +1/+1 | 1d6                | +0 | +10 ft.              |
-| 4th   | +3               | +4       | +4      | +4       | Ki pool (magic), slow fall 20 ft. | +2/+2 | 1d8                | +1 | +10 ft.              |
-| 5th   | +3               | +4       | +4      | +4       | High jump, purity of body | +3/+3 | 1d8                | +1 | +10 ft.              |
-| 6th   | +4               | +5       | +5      | +5       | Bonus feat, slow fall 30 ft. | +4/+4/–1 | 1d8                | +1 | +20 ft.              |
-| 7th   | +5               | +5       | +5      | +5       | Ki pool (cold iron/silver), wholeness of body | +5/+5/+0 | 1d8                | +1 | +20 ft.              |
-| 8th   | +6/+1            | +6       | +6      | +6       | Slow fall 40 ft. | +6/+6/+1/+1 | 1d10               | +2 | +20 ft.              |
-| 9th   | +6/+1            | +6       | +6      | +6       | Improved evasion | +7/+7/+2/+2 | 1d10               | +2 | +30 ft.              |
-| 10th  | +7/+2            | +7       | +7      | +7       | Bonus feat, ki pool (lawful), slow fall 50 ft. | +8/+8/+3/+3 | 1d10               | +2 | +30 ft.              |
-| 11th  | +8/+3            | +7       | +7      | +7       | Diamond body | +9/+9/+4/+4/–1 | 1d10               | +2 | +30 ft.              |
-| 12th  | +9/+4            | +8       | +8      | +8       | Abundant step, slow fall 60 ft. | +10/+10/+5/+5/+0 | 2d6                | +3 | +40 ft.              |
-| 13th  | +9/+4            | +8       | +8      | +8       | Diamond soul | +11/+11/+6/+6/+1 | 2d6                | +3 | +40 ft.              |
-| 14th  | +10/+5           | +9       | +9      | +9       | Bonus feat, slow fall 70 ft. | +12/+12/+7/+7/+2 | 2d6                | +3 | +40 ft.              |
-| 15th  | +11/+6/+1        | +9       | +9      | +9       | Quivering palm | +13/+13/+8/+8/+3/+3 | 2d6                | +3 | +50 ft.              |
-| 16th  | +12/+7/+2        | +10      | +10     | +10      | Ki pool (adamantine), slow fall 80 ft. | +14/+14/+9/+9/+4/+4/–1 | 2d8                | +4 | +50 ft.              |
-| 17th  | +12/+7/+2        | +10      | +10     | +10      | Timeless body, tongue of the sun and moon | +15/+15/+10/+10/+5/+5/+0 | 2d8                | +4 | +50 ft.              |
-| 18th  | +13/+8/+3        | +11      | +11     | +11      | Bonus feat, slow fall 90 ft. | +16/+16/+11/+11/+6/+6/+1 | 2d8                | +4 | +60 ft.              |
-| 19th  | +14/+9/+4        | +11      | +11     | +11      | Empty body | +17/+17/+12/+12/+7/+7/+2 | 2d8                | +4 | +60 ft.              |
-| 20th  | +15/+10/+5       | +12      | +12     | +12      | Perfect self, slow fall any distance | +18/+18/+13/+13/+8/+8/+3 | 2d10               | +5 | +60 ft.              |
+| Level | Special                                    | Flurry of Blows Attack Bonus | Unarmed Damage (1) | AC Bonus | Unarmored Speed Bonus |
+| ----- | ------------------------------------------ | ---------------------------- | ------------------ | -------- | --------------------- |
+| 1st   | Bonus feat, flurry of blows, stunning fist, unarmed strike | –1/–1 | 1d6                | +0 | +0 ft.               |
+| 2nd   | Bonus feat, evasion | +0/+0 | 1d6                | +0 | +0 ft.               |
+| 3rd   | Fast movement, maneuver training, still mind | +1/+1 | 1d6                | +0 | +10 ft.              |
+| 4th   | Ki pool (magic), slow fall 20 ft. | +2/+2 | 1d8                | +1 | +10 ft.              |
+| 5th   | High jump, purity of body | +3/+3 | 1d8                | +1 | +10 ft.              |
+| 6th   | Bonus feat, slow fall 30 ft. | +4/+4/–1 | 1d8                | +1 | +20 ft.              |
+| 7th   | Ki pool (cold iron/silver), wholeness of body | +5/+5/+0 | 1d8                | +1 | +20 ft.              |
+| 8th   | Slow fall 40 ft. | +6/+6/+1/+1 | 1d10               | +2 | +20 ft.              |
+| 9th   | Improved evasion | +7/+7/+2/+2 | 1d10               | +2 | +30 ft.              |
+| 10th  | Bonus feat, ki pool (lawful), slow fall 50 ft. | +8/+8/+3/+3 | 1d10               | +2 | +30 ft.              |
+| 11th  | Diamond body | +9/+9/+4/+4/–1 | 1d10               | +2 | +30 ft.              |
+| 12th  | Abundant step, slow fall 60 ft. | +10/+10/+5/+5/+0 | 2d6                | +3 | +40 ft.              |
+| 13th  | Diamond soul | +11/+11/+6/+6/+1 | 2d6                | +3 | +40 ft.              |
+| 14th  | Bonus feat, slow fall 70 ft. | +12/+12/+7/+7/+2 | 2d6                | +3 | +40 ft.              |
+| 15th  | Quivering palm | +13/+13/+8/+8/+3/+3 | 2d6                | +3 | +50 ft.              |
+| 16th  | Ki pool (adamantine), slow fall 80 ft. | +14/+14/+9/+9/+4/+4/–1 | 2d8                | +4 | +50 ft.              |
+| 17th  | Timeless body, tongue of the sun and moon | +15/+15/+10/+10/+5/+5/+0 | 2d8                | +4 | +50 ft.              |
+| 18th  | Bonus feat, slow fall 90 ft. | +16/+16/+11/+11/+6/+6/+1 | 2d8                | +4 | +60 ft.              |
+| 19th  | Empty body | +17/+17/+12/+12/+7/+7/+2 | 2d8                | +4 | +60 ft.              |
+| 20th  | Perfect self, slow fall any distance | +18/+18/+13/+13/+8/+8/+3 | 2d10               | +5 | +60 ft.              |
 
 1 *The value shown is for Medium monks. See Table: Small or Large Monk Unarmed Damage for Small or Large monks.*
 

@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: poor
+will: good
 skill-points: "4 + Int modifier. (Does not include the human's bonus skill point at each level.)"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Human|humans]]"
@@ -42,11 +46,11 @@ If human paragons have a downfall, it is that they see themselves capable of ove
 
 **Table: The Human Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                  | Spells per Day              |
-| ----- | ----------------- | --------- | -------- | --------- | -------------------------------------------------------- | --------------------------- |
-| 1st   | +0               | +0       | +0      | +2       | [[#^human-paragon-adaptive-learning\|Adaptive learning]] | —                           |
-| 2nd   | +1               | +0       | +0      | +3       | Bonus feat                                               | +1 level of existing class |
-| 3rd   | +2               | +1       | +1      | +3       | [[#^human-paragon-ability-boost\|Ability boost]] (+2)    | +1 level of existing class |
+| Level | Special                                                  | Spells per Day              |
+| ----- | -------------------------------------------------------- | --------------------------- |
+| 1st   | [[#^human-paragon-adaptive-learning\|Adaptive learning]] | —                           |
+| 2nd   | Bonus feat                                               | +1 level of existing class |
+| 3rd   | [[#^human-paragon-ability-boost\|Ability boost]] (+2)    | +1 level of existing class |
 
 Human paragons have the following game statistics.
 
@@ -55,6 +59,10 @@ Human paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Will, poor Fortitude and Reflex.
 
 ###### Class Skills
 

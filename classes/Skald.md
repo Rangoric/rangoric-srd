@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: good
+ref: poor
+will: good
 skill-points: "4 + Int modifier"
 book: "Advanced Class Guide"
 based-on:
@@ -27,6 +31,10 @@ Skalds are poets, historians, and keepers of lore who use their gifts for oratio
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Will, poor Reflex.
+
 ###### Class Skills
 
 The skald’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
@@ -35,28 +43,28 @@ The skald’s class skills (and the key ability for each skill) are [[rangoric-s
 
 **Table: The Skald** ^table-the-skald
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +2 | +0 | +2 | Bardic knowledge, cantrips, inspired rage +1 (+2 Str/Con), raging song, scribe scroll | 1 | — | — | — | — | — |
-| 2nd | +1 | +3 | +0 | +3 | Versatile performance, well-versed | 2 | — | — | — | — | — |
-| 3rd | +2 | +3 | +1 | +3 | Rage power, song of marching | 3 | — | — | — | — | — |
-| 4th | +3 | +4 | +1 | +4 | Inspired rage +2, uncanny dodge | 3 | 1 | — | — | — | — |
-| 5th | +3 | +4 | +1 | +4 | Spell kenning 1/day | 4 | 2 | — | — | — | — |
-| 6th | +4 | +5 | +2 | +5 | Rage power, song of strength | 4 | 3 | — | — | — | — |
-| 7th | +5 | +5 | +2 | +5 | Lore master 1/day, versatile performance | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +6 | +2 | +6 | Improved uncanny dodge, inspired rage +3 (+4 Str/Con) | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +6 | +3 | +6 | Rage power, DR 1/— | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +7 | +3 | +7 | Dirge of doom | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +7 | +3 | +7 | Spell kenning 2/day | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +8 | +4 | +8 | Inspired rage +4, rage power, versatile performance | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +8 | +4 | +8 | Lore master 2/day | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +9 | +4 | +9 | DR 2/—, song of the fallen | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +9 | +5 | +9 | Rage power | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +10 | +5 | +10 | Inspired rage +5 (+6 Str/Con) | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +10 | +5 | +10 | Spell kenning 3/day, versatile performance | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +11 | +6 | +11 | Rage power | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +11 | +6 | +11 | DR 3/—, lore master 3/day | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +12 | +6 | +12 | Inspired rage +6, master skald | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Bardic knowledge, cantrips, inspired rage +1 (+2 Str/Con), raging song, scribe scroll | 1 | — | — | — | — | — |
+| 2nd | Versatile performance, well-versed | 2 | — | — | — | — | — |
+| 3rd | Rage power, song of marching | 3 | — | — | — | — | — |
+| 4th | Inspired rage +2, uncanny dodge | 3 | 1 | — | — | — | — |
+| 5th | Spell kenning 1/day | 4 | 2 | — | — | — | — |
+| 6th | Rage power, song of strength | 4 | 3 | — | — | — | — |
+| 7th | Lore master 1/day, versatile performance | 4 | 3 | 1 | — | — | — |
+| 8th | Improved uncanny dodge, inspired rage +3 (+4 Str/Con) | 4 | 4 | 2 | — | — | — |
+| 9th | Rage power, DR 1/— | 5 | 4 | 3 | — | — | — |
+| 10th | Dirge of doom | 5 | 4 | 3 | 1 | — | — |
+| 11th | Spell kenning 2/day | 5 | 4 | 4 | 2 | — | — |
+| 12th | Inspired rage +4, rage power, versatile performance | 5 | 5 | 4 | 3 | — | — |
+| 13th | Lore master 2/day | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | DR 2/—, song of the fallen | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Rage power | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | Inspired rage +5 (+6 Str/Con) | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Spell kenning 3/day, versatile performance | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Rage power | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | DR 3/—, lore master 3/day | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Inspired rage +6, master skald | 5 | 5 | 5 | 5 | 5 | 5 |
 
 **Table: Skald Spells Known** ^table-skald-spells-known
 

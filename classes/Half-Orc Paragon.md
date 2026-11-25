@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any, although predominantly chaotic"
 hit-die: "d8"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Half-Orc|half-orcs]]"
@@ -42,11 +46,11 @@ Successful half-orc paragon adventurers often attract others of their race. Thes
 
 **Table: The Half-Orc Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                                     |
-| ----- | ----------------- | --------- | -------- | --------- | --------------------------------------------------------------------------------------------------------------------------- |
-| 1st   | +1               | +2       | +0      | +0       | [[#^half-orc-paragon-divided-ancestry\|Divided ancestry]], [[#^half-orc-paragon-monstrous-mien\|monstrous mien]] |
-| 2nd   | +2               | +3       | +0      | +0       | [[#^half-orc-paragon-rage\|Rage]]                                                                                     |
-| 3rd   | +3               | +3       | +1      | +1       | [[#^half-orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                                |
+| Level | Special                                                                                                                     |
+| ----- | --------------------------------------------------------------------------------------------------------------------------- |
+| 1st   | [[#^half-orc-paragon-divided-ancestry\|Divided ancestry]], [[#^half-orc-paragon-monstrous-mien\|monstrous mien]] |
+| 2nd   | [[#^half-orc-paragon-rage\|Rage]]                                                                                     |
+| 3rd   | [[#^half-orc-paragon-ability-boost\|Ability boost]] (Str +2)                                                                |
 
 Half-orc paragons have the following game statistics.
 
@@ -55,6 +59,10 @@ Half-orc paragons have the following game statistics.
 **Alignment:** Any, although predominantly chaotic.
 
 **Hit Die:** d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
 
 ###### Class Skills
 

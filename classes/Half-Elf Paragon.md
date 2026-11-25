@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: "Unearthed Arcana"
 race: "[[rangoric-srd/races/Half-Elf|half-elves]]"
@@ -40,11 +44,11 @@ Although their mixed heritage rarely leaves half-elves embittered, many can find
 
 **Table: The Half-Elf Paragon**
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special                                                                                                                             | Spells per Day              |
-| ----- | ----------------- | --------- | -------- | --------- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
-| 1st   | +0               | +0       | +2      | +0       | Bonus feat, [[#^half-elf-paragon-divided-ancestry\|divided ancestry]], [[#^half-elf-paragon-elven-vision\|elven vision]] | —                           |
-| 2nd   | +1               | +0       | +3      | +0       | [[#^half-elf-paragon-persuasion\|Persuasion]]                                                                                       | +1 level of existing class |
-| 3rd   | +2               | +1       | +3      | +1       | [[#^half-elf-paragon-ability-boost\|Ability boost]] (+2)                                                                            | —                           |
+| Level | Special                                                                                                                             | Spells per Day              |
+| ----- | ----------------------------------------------------------------------------------------------------------------------------------- | --------------------------- |
+| 1st   | Bonus feat, [[#^half-elf-paragon-divided-ancestry\|divided ancestry]], [[#^half-elf-paragon-elven-vision\|elven vision]] | —                           |
+| 2nd   | [[#^half-elf-paragon-persuasion\|Persuasion]]                                                                                       | +1 level of existing class |
+| 3rd   | [[#^half-elf-paragon-ability-boost\|Ability boost]] (+2)                                                                            | —                           |
 
 Half-elf paragons have the following game statistics.
 
@@ -53,6 +57,10 @@ Half-elf paragons have the following game statistics.
 **Alignment:** Any.
 
 **Hit Die:** d8.
+
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex, poor Fortitude and Will.
 
 ###### Class Skills
 

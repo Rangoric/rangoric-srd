@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any nonlawful"
 hit-die: "d8"
+bab: medium
+fort: poor
+ref: good
+will: good
 skill-points: "6 + Int modifier"
 based-on:
   - "[[path srd 3.5/classes/Bard|Bard (PF1)]]"
@@ -25,6 +29,10 @@ Untold wonders and secrets exist for those skillful enough to discover them. Thr
 
 **Hit Die**: d8.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Medium (3/4 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Reflex and Will, poor Fortitude.
+
 ###### Class Skills
 
 The bard’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Imitation|Imitation]] (Int), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Sleight of Hand|Sleight of Hand]] (Dex), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
@@ -33,28 +41,28 @@ The bard’s class skills (and the key ability for each skill) are [[rangoric-sr
 
 **Table: The Bard** ^table-the-bard
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +0 | +0 | +2 | +2 | Bardic knowledge, bardic performance, cantrips, countersong, distraction, fascinate, inspire courage +1 | 1 | — | — | — | — | — |
-| 2nd | +1 | +0 | +3 | +3 | Versatile performance, well-versed | 2 | — | — | — | — | — |
-| 3rd | +2 | +1 | +3 | +3 | Inspire competence +2 | 3 | — | — | — | — | — |
-| 4th | +3 | +1 | +4 | +4 | — | 3 | 1 | — | — | — | — |
-| 5th | +3 | +1 | +4 | +4 | Inspire courage +2, lore master 1/day | 4 | 2 | — | — | — | — |
-| 6th | +4 | +2 | +5 | +5 | Suggestion, versatile performance | 4 | 3 | — | — | — | — |
-| 7th | +5 | +2 | +5 | +5 | Inspire competence +3 | 4 | 3 | 1 | — | — | — |
-| 8th | +6/+1 | +2 | +6 | +6 | Dirge of doom | 4 | 4 | 2 | — | — | — |
-| 9th | +6/+1 | +3 | +6 | +6 | Inspire greatness | 5 | 4 | 3 | — | — | — |
-| 10th | +7/+2 | +3 | +7 | +7 | Jack-of-all-trades, versatile performance | 5 | 4 | 3 | 1 | — | — |
-| 11th | +8/+3 | +3 | +7 | +7 | Inspire competence +4, inspire courage +3, lore master 2/day | 5 | 4 | 4 | 2 | — | — |
-| 12th | +9/+4 | +4 | +8 | +8 | Soothing performance, song of freedom | 5 | 5 | 4 | 3 | — | — |
-| 13th | +9/+4 | +4 | +8 | +8 | — | 5 | 5 | 4 | 3 | 1 | — |
-| 14th | +10/+5 | +4 | +9 | +9 | Frightening tune, versatile performance | 5 | 5 | 4 | 4 | 2 | — |
-| 15th | +11/+6/+1 | +5 | +9 | +9 | Inspire competence +5, inspire heroics | 5 | 5 | 5 | 4 | 3 | — |
-| 16th | +12/+7/+2 | +5 | +10 | +10 | — | 5 | 5 | 5 | 4 | 3 | 1 |
-| 17th | +12/+7/+2 | +5 | +10 | +10 | Inspire courage +4, lore master 3/day | 5 | 5 | 5 | 4 | 4 | 2 |
-| 18th | +13/+8/+3 | +6 | +11 | +11 | Mass suggestion, versatile performance | 5 | 5 | 5 | 5 | 4 | 3 |
-| 19th | +14/+9/+4 | +6 | +11 | +11 | Inspire competence +6 | 5 | 5 | 5 | 5 | 5 | 4 |
-| 20th | +15/+10/+5 | +6 | +12 | +12 | Deadly performance | 5 | 5 | 5 | 5 | 5 | 5 |
+| Level | Special | Spells per Day: 1st | Spells per Day: 2nd | Spells per Day: 3rd | Spells per Day: 4th | Spells per Day: 5th | Spells per Day: 6th |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| 1st | Bardic knowledge, bardic performance, cantrips, countersong, distraction, fascinate, inspire courage +1 | 1 | — | — | — | — | — |
+| 2nd | Versatile performance, well-versed | 2 | — | — | — | — | — |
+| 3rd | Inspire competence +2 | 3 | — | — | — | — | — |
+| 4th | — | 3 | 1 | — | — | — | — |
+| 5th | Inspire courage +2, lore master 1/day | 4 | 2 | — | — | — | — |
+| 6th | Suggestion, versatile performance | 4 | 3 | — | — | — | — |
+| 7th | Inspire competence +3 | 4 | 3 | 1 | — | — | — |
+| 8th | Dirge of doom | 4 | 4 | 2 | — | — | — |
+| 9th | Inspire greatness | 5 | 4 | 3 | — | — | — |
+| 10th | Jack-of-all-trades, versatile performance | 5 | 4 | 3 | 1 | — | — |
+| 11th | Inspire competence +4, inspire courage +3, lore master 2/day | 5 | 4 | 4 | 2 | — | — |
+| 12th | Soothing performance, song of freedom | 5 | 5 | 4 | 3 | — | — |
+| 13th | — | 5 | 5 | 4 | 3 | 1 | — |
+| 14th | Frightening tune, versatile performance | 5 | 5 | 4 | 4 | 2 | — |
+| 15th | Inspire competence +5, inspire heroics | 5 | 5 | 5 | 4 | 3 | — |
+| 16th | — | 5 | 5 | 5 | 4 | 3 | 1 |
+| 17th | Inspire courage +4, lore master 3/day | 5 | 5 | 5 | 4 | 4 | 2 |
+| 18th | Mass suggestion, versatile performance | 5 | 5 | 5 | 5 | 4 | 3 |
+| 19th | Inspire competence +6 | 5 | 5 | 5 | 5 | 5 | 4 |
+| 20th | Deadly performance | 5 | 5 | 5 | 5 | 5 | 5 |
 
 **Table: Bard Spells Known** ^table-bard-spells-known
 

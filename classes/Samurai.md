@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any"
 hit-die: "d10"
+bab: full
+fort: good
+ref: poor
+will: poor
 skill-points: "4 + Int modifier"
 book: "Ultimate Combat"
 based-on:
@@ -25,6 +29,10 @@ Few warriors are more dedicated to honor and the code of the warrior than the sa
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude, poor Reflex and Will.
+
 ###### Class Skills
 
 The samurai’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis). His [[rangoric-srd/class-options/orders/Orders|order]] adds more.
@@ -33,28 +41,28 @@ The samurai’s class skills (and the key ability for each skill) are [[rangoric
 
 **Table: The Samurai** ^table-the-samurai
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special |
-| --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +0 | +0 | Challenge 1/day, mount, order, resolve |
-| 2nd | +2 | +3 | +0 | +0 | Order ability |
-| 3rd | +3 | +3 | +1 | +1 | Weapon expertise |
-| 4th | +4 | +4 | +1 | +1 | Challenge 2/day, mounted archer |
-| 5th | +5 | +4 | +1 | +1 | Banner |
-| 6th | +6/+1 | +5 | +2 | +2 | Bonus feat |
-| 7th | +7/+2 | +5 | +2 | +2 | Challenge 3/day |
-| 8th | +8/+3 | +6 | +2 | +2 | Order ability |
-| 9th | +9/+4 | +6 | +3 | +3 | Greater resolve |
-| 10th | +10/+5 | +7 | +3 | +3 | Challenge 4/day |
-| 11th | +11/+6/+1 | +7 | +3 | +3 | Honorable stand |
-| 12th | +12/+7/+2 | +8 | +4 | +4 | Bonus feat, demanding challenge |
-| 13th | +13/+8/+3 | +8 | +4 | +4 | Challenge 5/day |
-| 14th | +14/+9/+4 | +9 | +4 | +4 | Greater banner |
-| 15th | +15/+10/+5 | +9 | +5 | +5 | Order ability |
-| 16th | +16/+11/+6/+1 | +10 | +5 | +5 | Challenge 6/day |
-| 17th | +17/+12/+7/+2 | +10 | +5 | +5 | True resolve |
-| 18th | +18/+13/+8/+3 | +11 | +6 | +6 | Bonus feat |
-| 19th | +19/+14/+9/+4 | +11 | +6 | +6 | Challenge 7/day |
-| 20th | +20/+15/+10/+5 | +12 | +6 | +6 | Last stand |
+| Level | Special |
+| --- | --- |
+| 1st | Challenge 1/day, mount, order, resolve |
+| 2nd | Order ability |
+| 3rd | Weapon expertise |
+| 4th | Challenge 2/day, mounted archer |
+| 5th | Banner |
+| 6th | Bonus feat |
+| 7th | Challenge 3/day |
+| 8th | Order ability |
+| 9th | Greater resolve |
+| 10th | Challenge 4/day |
+| 11th | Honorable stand |
+| 12th | Bonus feat, demanding challenge |
+| 13th | Challenge 5/day |
+| 14th | Greater banner |
+| 15th | Order ability |
+| 16th | Challenge 6/day |
+| 17th | True resolve |
+| 18th | Bonus feat |
+| 19th | Challenge 7/day |
+| 20th | Last stand |
 
 ###### Class Features
 

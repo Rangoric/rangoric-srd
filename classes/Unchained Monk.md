@@ -3,6 +3,10 @@ srd-type: "class"
 section: "Classes"
 alignment: "Any lawful"
 hit-die: "d10"
+bab: full
+fort: good
+ref: good
+will: poor
 skill-points: "4 + Int modifier"
 book: "Pathfinder Unchained"
 based-on:
@@ -27,6 +31,10 @@ Physical and mental perfection—that is the life goal of every monk. For these 
 
 **Hit Die**: d10.
 
+**[[rangoric-srd/rules/Base Attack Bonus|Base Attack Bonus]]**: Full (1 per level).
+
+**[[rangoric-srd/rules/Saving Throws|Saving Throws]]**: Good Fortitude and Reflex, poor Will.
+
 ###### Class Skills
 
 The unchained monk’s class skills (and the key ability for each skill) are
@@ -49,28 +57,28 @@ The unchained monk’s class skills (and the key ability for each skill) are
 
 **Table: The Unchained Monk** ^table-the-unchained-monk
 
-| Level | Base Attack Bonus | Fort Save | Ref Save | Will Save | Special | Unarmed Damage | AC Bonus | Fast Movement |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| 1st | +1 | +2 | +2 | +0 | Bonus feat, flurry of blows (bonus attack), stunning fist, unarmed strike | 1d6 | +0 | +0 ft. |
-| 2nd | +2 | +3 | +3 | +0 | Bonus feat, evasion | 1d6 | +0 | +0 ft. |
-| 3rd | +3 | +3 | +3 | +1 | Fast movement, ki pool, ki strike (magic) | 1d6 | +0 | +10 ft. |
-| 4th | +4 | +4 | +4 | +1 | Ki power, still mind | 1d8 | +1 | +10 ft. |
-| 5th | +5 | +4 | +4 | +1 | Purity of body, style strike (1/round) | 1d8 | +1 | +10 ft. |
-| 6th | +6/+1 | +5 | +5 | +2 | Bonus feat, ki power | 1d8 | +1 | +20 ft. |
-| 7th | +7/+2 | +5 | +5 | +2 | Ki strike (cold iron/silver) | 1d8 | +1 | +20 ft. |
-| 8th | +8/+3 | +6 | +6 | +2 | Ki power | 1d10 | +2 | +20 ft. |
-| 9th | +9/+4 | +6 | +6 | +3 | Improved evasion, style strike | 1d10 | +2 | +30 ft. |
-| 10th | +10/+5 | +7 | +7 | +3 | Bonus feat, ki power, ki strike (lawful) | 1d10 | +2 | +30 ft. |
-| 11th | +11/+6/+1 | +7 | +7 | +3 | Flurry of blows (bonus attack) | 1d10 | +2 | +30 ft. |
-| 12th | +12/+7/+2 | +8 | +8 | +4 | Ki power | 2d6 | +3 | +40 ft. |
-| 13th | +13/+8/+3 | +8 | +8 | +4 | Style strike, tongue of the sun and moon | 2d6 | +3 | +40 ft. |
-| 14th | +14/+9/+4 | +9 | +9 | +4 | Bonus feat, ki power | 2d6 | +3 | +40 ft. |
-| 15th | +15/+10/+5 | +9 | +9 | +5 | Style strike (2/round) | 2d6 | +3 | +50 ft. |
-| 16th | +16/+11/+6/+1 | +10 | +10 | +5 | Ki power, ki strike (adamantine) | 2d8 | +4 | +50 ft. |
-| 17th | +17/+12/+7/+2 | +10 | +10 | +5 | Style strike, timeless body | 2d8 | +4 | +50 ft. |
-| 18th | +18/+13/+8/+3 | +11 | +11 | +6 | Bonus feat, ki power | 2d8 | +4 | +60 ft. |
-| 19th | +19/+14/+9/+4 | +11 | +11 | +6 | Flawless mind | 2d8 | +4 | +60 ft. |
-| 20th | +20/+15/+10/+5 | +12 | +12 | +6 | Ki power, perfect self | 2d10 | +5 | +60 ft. |
+| Level | Special | Unarmed Damage | AC Bonus | Fast Movement |
+| --- | --- | --- | --- | --- |
+| 1st | Bonus feat, flurry of blows (bonus attack), stunning fist, unarmed strike | 1d6 | +0 | +0 ft. |
+| 2nd | Bonus feat, evasion | 1d6 | +0 | +0 ft. |
+| 3rd | Fast movement, ki pool, ki strike (magic) | 1d6 | +0 | +10 ft. |
+| 4th | Ki power, still mind | 1d8 | +1 | +10 ft. |
+| 5th | Purity of body, style strike (1/round) | 1d8 | +1 | +10 ft. |
+| 6th | Bonus feat, ki power | 1d8 | +1 | +20 ft. |
+| 7th | Ki strike (cold iron/silver) | 1d8 | +1 | +20 ft. |
+| 8th | Ki power | 1d10 | +2 | +20 ft. |
+| 9th | Improved evasion, style strike | 1d10 | +2 | +30 ft. |
+| 10th | Bonus feat, ki power, ki strike (lawful) | 1d10 | +2 | +30 ft. |
+| 11th | Flurry of blows (bonus attack) | 1d10 | +2 | +30 ft. |
+| 12th | Ki power | 2d6 | +3 | +40 ft. |
+| 13th | Style strike, tongue of the sun and moon | 2d6 | +3 | +40 ft. |
+| 14th | Bonus feat, ki power | 2d6 | +3 | +40 ft. |
+| 15th | Style strike (2/round) | 2d6 | +3 | +50 ft. |
+| 16th | Ki power, ki strike (adamantine) | 2d8 | +4 | +50 ft. |
+| 17th | Style strike, timeless body | 2d8 | +4 | +50 ft. |
+| 18th | Bonus feat, ki power | 2d8 | +4 | +60 ft. |
+| 19th | Flawless mind | 2d8 | +4 | +60 ft. |
+| 20th | Ki power, perfect self | 2d10 | +5 | +60 ft. |
 
 ###### Class Features
 
