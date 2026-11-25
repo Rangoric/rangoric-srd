@@ -30,9 +30,7 @@ Hunters are warriors of the wilds that have forged close bonds with trusted anim
 
 ###### Class Skills
 
-The hunter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
-
-**Magic Skill**: [[rangoric-srd/skills/Nature|Nature]] is the hunter’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the hunter’s Magic skill checks and wherever a rule says “your Magic skill”.
+The hunter’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level**: 6 + Int modifier.
 

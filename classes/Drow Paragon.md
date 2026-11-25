@@ -60,7 +60,7 @@ Drow paragons have the following game statistics.
 
 ###### Class Skills
 
-The drow paragon's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The drow paragon's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level:** 4 + Int modifier.
 

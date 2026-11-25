@@ -40,7 +40,7 @@ As long as she has at least 1 point in her *ki* pool, a shigenjo can make a [[ra
 
 *Ki Curse*: Treat her oracle level as 5 higher for the purpose of determining the effects of her [[rangoric-srd/classes/Oracle#^oracle-curse|curse]] for the next round.
 
-*Ki Insight*: Gain a +4 insight bonus on [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]] checks for 1 round.
+*Ki Insight*: Gain a +4 insight bonus on [[rangoric-srd/skills/Mysticism|Mysticism]] checks for 1 round.
 
 This ability replaces the shigenjo's 7th-level [[rangoric-srd/classes/Oracle#^oracle-revelation|revelation]].
 

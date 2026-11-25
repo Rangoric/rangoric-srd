@@ -43,7 +43,7 @@ To qualify to become a dragon disciple, a character must fulfill all the followi
 
 ###### Class Skills
 
-The dragon disciple’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha).
+The dragon disciple’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Investigation|Investigation]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), and [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

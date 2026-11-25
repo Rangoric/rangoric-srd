@@ -41,7 +41,7 @@ To qualify to become a Shadeseer, a character must fulfill all the following cri
 
 ###### Class Skills
 
-The Shadeseer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int) and [[rangoric-srd/skills/Theology|Theology]] (Int).
+The Shadeseer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

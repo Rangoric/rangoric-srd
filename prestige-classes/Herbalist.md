@@ -41,7 +41,7 @@ To qualify to become an herbalist, a character must fulfill all the following cr
 
 ###### Class Skills
 
-The herbalist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha).
+The herbalist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), and [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

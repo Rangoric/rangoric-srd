@@ -25,7 +25,7 @@ tags: [rangoric, rangoric/class-option]
 
 For the urban ranger, the streets and sewers of the city are just as dangerous as the barren wastelands or the deep forests. An urban ranger has the following class features.
 
-**Urban Ranger**: At 1st level, an urban ranger adds [[rangoric-srd/skills/Engineering|Engineering]] to his list of class skills and removes [[rangoric-srd/skills/Nature|Nature]] from his list of class skills. His [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]] is [[rangoric-srd/skills/Society|Society]] instead of Nature.
+**Urban Ranger**: At 1st level, an urban ranger adds [[rangoric-srd/skills/Engineering|Engineering]] to his list of class skills and removes [[rangoric-srd/skills/Nature|Nature]] from his list of class skills.
 
 **Favored Community (Ex)**: At 3rd level, the urban ranger forms a bond with a community. While inside the limits of this community, he gains a +2 bonus on initiative checks and [[rangoric-srd/skills/Society|Society]], [[rangoric-srd/skills/Perception|Perception]], [[rangoric-srd/skills/Stealth|Stealth]], and [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] skill checks. An urban ranger traveling through his favored community leaves no trail and cannot be tracked (although he may leave a trail if he so desires).
 

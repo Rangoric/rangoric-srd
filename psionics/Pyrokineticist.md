@@ -31,7 +31,7 @@ Special: Must have set fire to a structure of any size just to watch it burn.
 
 ###### Class Skills
 
-The pyrokineticist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).  
+The pyrokineticist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).  
 
 Skill Points at Each Level: 2 + Int modifier.
 

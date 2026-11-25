@@ -29,7 +29,7 @@ Spellsingers practice [[rangoric-srd/rules/spellsinging/Spellsinging|spellsingin
 
 To qualify to become a spellsinger, a character must fulfill all the following criteria.
 
-**Skills**: [[rangoric-srd/skills/Performance|Performance]] 7 ranks, 5 ranks in a [[rangoric-srd/skills/Identifying Magic|Magic skill]].
+**Skills**: [[rangoric-srd/skills/Performance|Performance]] 7 ranks, [[rangoric-srd/skills/Mysticism|Mysticism]] 5 ranks.
 
 **Feats**: Any one [[rangoric-srd/feats/Feats Overview#Metamagic Feats|metamagic feat]].
 
@@ -39,7 +39,7 @@ To qualify to become a spellsinger, a character must fulfill all the following c
 
 ###### Class Skills
 
-The spellsinger’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), [[rangoric-srd/skills/Theology|Theology]] (Int).
+The spellsinger’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Engineering|Engineering]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Performance|Performance]] (Cha), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -74,7 +74,7 @@ Characters that play instruments treat their spellsongs as having a somatic and 
 
 To cast a spellsong, the character must meet the spell component requirements of the spell, which makes *[[rangoric-srd/spells/Silence|silence]]* incredibly effective against spellsingers. The spellsinger must make a [[rangoric-srd/skills/Performance|Performance]] check against DC 10 + the level of the spell being cast. If this fails, the spellsong is expended for the day, but it does not go off, much like a failed [[rangoric-srd/rules/Concentration (Check)|concentration check]]. If the Performance check succeeds, the spellsinger then makes whatever concentration checks are necessary and suffers all appropriate attacks of opportunity. If the concentration checks are successful, the spell is cast.
 
-A spellsinger casting spells appears to most people to simply be singing or playing a musical instrument, but anyone may make a [[rangoric-srd/skills/Identifying Magic|Magic skill]] check (DC 20 + the level of the spell being cast) to notice arcane undertones in the song.
+A spellsinger casting spells appears to most people to simply be singing or playing a musical instrument, but anyone may make a [[rangoric-srd/skills/Mysticism|Mysticism]] check (DC 20 + the level of the spell being cast) to notice arcane undertones in the song.
 
 Any spellsong with a duration of concentration requires the caster to keep making music of some type while concentrating. If the spellsinger is affected by *silence* while concentrating, any spells being maintained end immediately.
 

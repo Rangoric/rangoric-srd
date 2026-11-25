@@ -28,9 +28,7 @@ There are those who spend their lives poring over ancient tomes and texts, unloc
 
 ###### Class Skills
 
-The magus’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), and [[rangoric-srd/skills/Theology|Theology]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the magus’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the magus’s Magic skill checks and wherever a rule says “your Magic skill”.
+The magus’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Dungeoneering|Dungeoneering]] (Int), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Theology|Theology]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

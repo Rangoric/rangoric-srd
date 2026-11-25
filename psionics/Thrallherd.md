@@ -27,7 +27,7 @@ Psionics: Manifester level 5th and able to manifest mindlink.
 
 ###### Class Skills
 
-The thrallherd’s class skills are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Psionics (Skill)|Psionics]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).  
+The thrallherd’s class skills are [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), [[rangoric-srd/skills/Psionics (Skill)|Psionics]], and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).  
 
 Skill Points at Each Level: 2 + Int modifier.
 

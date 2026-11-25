@@ -18,9 +18,7 @@ tags: [rangoric, rangoric/class]
 
 ## Class Skills
 
-The adept’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis) and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int) and [[rangoric-srd/skills/Medicine|Medicine]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Theology|Theology]] is the adept’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the adept’s Magic skill checks and wherever a rule says “your Magic skill”.
+The adept’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

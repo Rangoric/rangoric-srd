@@ -38,7 +38,7 @@ To qualify to become a loremaster, a character must fulfill all the following cr
 
 ###### Class Skills
 
-The loremaster’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), and [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha).
+The loremaster’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 
@@ -71,7 +71,7 @@ All of the following are Class Features of the loremaster prestige class.
 
 **Bonus Languages**: A loremaster can choose any new language at 4th and 8th level.
 
-**Greater Lore (Ex)**: At 6th level, a loremaster gains the ability to understand magic items, as with the identify spell. She also gets a +10 circumstance bonus on Magic skill checks to [[rangoric-srd/skills/Identifying Magic#Advanced Uses|identify the properties of a magic item]].
+**Greater Lore (Ex)**: At 6th level, a loremaster gains the ability to understand magic items, as with the identify spell. She also gets a +10 circumstance bonus on Mysticism checks to [[rangoric-srd/skills/Mysticism#Advanced Uses|identify the properties of a magic item]].
 
 **True Lore (Ex)**: At 10th level, once per day a loremaster can use her knowledge to gain the effect of a legend lore spell or an analyze dweomer spell. Used as *legend lore*, it takes 1 minute, however much is already known about the subject.
 

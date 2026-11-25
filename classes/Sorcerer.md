@@ -23,9 +23,7 @@ tags: [rangoric, rangoric/class]
 
 ###### Class Skills
 
-The sorcerer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), and [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha).
-
-**Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the sorcerer’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the sorcerer’s Magic skill checks and wherever a rule says “your Magic skill”.
+The sorcerer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

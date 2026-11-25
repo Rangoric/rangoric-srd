@@ -35,7 +35,7 @@ To qualify to become an apothecary, a character must fulfill all the following c
 
 ###### Class Skills
 
-The apothecary’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
+The apothecary’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Medicine|Medicine]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Nature|Nature]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

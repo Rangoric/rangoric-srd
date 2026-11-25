@@ -31,7 +31,7 @@ The purifier seeks out signs of possession or mind control that manifest from un
 
 **Revelations**: A purifier must take the following [[rangoric-srd/classes/Oracle#^oracle-revelation|revelations]] at the listed levels.
 
-*See Sin (Sp)*: At 3rd level, a purifier gains a bonus equal to 1/2 her oracle level on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks to sense enchantments, which she can make as a full-round action. She also gains a bonus equal to 1/2 her oracle level on [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]] checks to identify enchantment school spells and spells with the curse or emotion descriptor.
+*See Sin (Sp)*: At 3rd level, a purifier gains a bonus equal to 1/2 her oracle level on [[rangoric-srd/skills/Sense Motive|Sense Motive]] checks to sense enchantments, which she can make as a full-round action. She also gains a bonus equal to 1/2 her oracle level on [[rangoric-srd/skills/Mysticism|Mysticism]] checks to identify enchantment school spells and spells with the curse or emotion descriptor.
 
 *Celestial Armor (Su)*: At 7th level, a purifier's armor takes on a golden or silvery sheen and becomes light as a feather. Her armor weighs half as much as long as she wears it, and she also gains [[rangoric-srd/classes/Fighter#^fighter-armor-training|armor training]] as a [[rangoric-srd/classes/Fighter|fighter]] 4 levels lower than her oracle level. At 11th level, a purifier gains [[rangoric-srd/feats/Armor Proficiency (Heavy)|heavy armor proficiency]].
 

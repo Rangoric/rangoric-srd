@@ -33,7 +33,7 @@ To qualify to become a spell scion, a character must fulfill the criteria given 
 
 ###### Class Skills
 
-The spell scion’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
+The spell scion’s class skills (and the key ability for each skill) are all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int) and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 

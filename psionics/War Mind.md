@@ -31,7 +31,7 @@ Special: Must have had some instruction by another war mind.
 
 ###### Class Skills
 
-The war mind’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]](Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).  
+The war mind’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]](Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).  
 
 Skill Points at Each Level: 2 + Int modifier.
 

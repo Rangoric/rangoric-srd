@@ -19,9 +19,8 @@ Hit Die: d6.
 
 ###### Class Skills
 
-The wilder’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]](Wis).  
+The wilder’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Meditation|Meditation]]\* (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]]\* (Int), and [[rangoric-srd/skills/Sense Motive|Sense Motive]](Wis).  
 
-**Magic Skill**: [[rangoric-srd/skills/Psionics (Skill)|Psionics]] is the wilder’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the wilder’s Magic skill checks and wherever a rule says “your Magic skill”.
 \*New skill or expanded use of existing skill.  
 
 Skill Points at Each Level: 4 + Int modifier.  

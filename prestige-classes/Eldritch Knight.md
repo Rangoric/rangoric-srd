@@ -36,7 +36,7 @@ To qualify to become an eldritch knight, a character must fulfill all the follow
 
 ###### Class Skills
 
-The eldritch knight’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
+The eldritch knight’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Society|Society]] (Int), and [[rangoric-srd/skills/Tactics|Tactics]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 

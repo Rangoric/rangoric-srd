@@ -29,9 +29,7 @@ While many ferocious combatants can tap into a deep reservoir of buried rage, bl
 
 ###### Class Skills
 
-The bloodrager’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
-
-**Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the bloodrager’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the bloodrager’s Magic skill checks and wherever a rule says “your Magic skill”.
+The bloodrager’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Animal Handling|Animal Handling]] (Cha), [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Investigation|Investigation]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Perception|Perception]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

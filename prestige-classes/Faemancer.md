@@ -41,7 +41,7 @@ To qualify to become a faemancer (abbreviated Fmc), a character must fulfill all
 
 ###### Class Skills
 
-The faemancer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
+The faemancer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Deception|Deception]] (Cha), [[rangoric-srd/skills/Intimidation|Intimidation]] (Cha), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

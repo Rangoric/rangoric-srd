@@ -27,7 +27,7 @@ tags: [rangoric, rangoric/class-option]
 
 **Bonus Feats**: [[rangoric-srd/feats/Focused Spell|Focused Spell]], [[rangoric-srd/feats/Heighten Spell|Heighten Spell]], [[rangoric-srd/feats/Intuitive Spell|Intuitive Spell]], [[rangoric-srd/feats/Iron Will|Iron Will]], [[rangoric-srd/feats/Logical Spell|Logical Spell]], [[rangoric-srd/feats/Quicken Spell|Quicken Spell]], [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Persuasion or Intimidation), [[rangoric-srd/feats/Skill Focus|Skill Focus]] (Sense Motive), [[rangoric-srd/feats/Spell Focus|Spell Focus]].
 
-**Bloodline Arcana**: Your sorcerer spells and spell-like abilities count as [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic]] instead of arcane. You use thought and emotion components instead of verbal and somatic components when casting your spells (see [[rangoric-srd/spells/Magic Overview#Psychic Components|Psychic Components]]). Your [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]] is [[rangoric-srd/skills/Psychic (Skill)|Psychic]] instead of Arcana.
+**Bloodline Arcana**: Your sorcerer spells and spell-like abilities count as [[rangoric-srd/spells/Magic Overview#Psychic Magic|psychic]] instead of arcane. You use thought and emotion components instead of verbal and somatic components when casting your spells (see [[rangoric-srd/spells/Magic Overview#Psychic Components|Psychic Components]]).
 
 ## Bloodline Powers
 

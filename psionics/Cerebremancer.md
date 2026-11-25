@@ -27,7 +27,7 @@ Psionics: Able to manifest 2nd-level powers.
 
 ###### Class Skills
 
-The cerebremancer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] Int and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).  
+The cerebremancer’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] Int, [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int).  
 
 Skill Points at Each Level: 2 + Int modifier.  
 

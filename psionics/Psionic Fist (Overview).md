@@ -31,7 +31,7 @@ Special: Still mind class feature.
 
 ###### Class Skills
 
-The Psionic Fist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]](Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).  
+The Psionic Fist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Athletics|Athletics]](Str), [[rangoric-srd/skills/Escape Artist|Escape Artist]] (Dex), [[rangoric-srd/skills/Meditation|Meditation]] (Wis), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Psionics (Skill)|Psionics]] (Int), [[rangoric-srd/skills/Sense Motive|Sense Motive]] (Wis), [[rangoric-srd/skills/Stealth|Stealth]] (Dex), and [[rangoric-srd/skills/Theology|Theology]] (Int).  
 
 Skill Points at Each Level: 4 + Int modifier.
 

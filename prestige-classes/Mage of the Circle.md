@@ -33,7 +33,7 @@ To qualify to become a mage of the circle (abbreviated Moc), a character must fu
 
 ###### Class Skills
 
-The mage of the circle’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Lore|Lore]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
+The mage of the circle’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Craft|Craft]] (Int), [[rangoric-srd/skills/Lore|Lore]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

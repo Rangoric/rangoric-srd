@@ -56,7 +56,7 @@ Elf paragons have the following game statistics.
 
 ###### Class Skills
 
-The elf paragon's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
+The elf paragon's class skills (and the key ability for each skill) are [[rangoric-srd/skills/Athletics|Athletics]] (Str), [[rangoric-srd/skills/Fieldcraft|Fieldcraft]] (Wis), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), [[rangoric-srd/skills/Perception|Perception]] (Wis), [[rangoric-srd/skills/Persuasion|Persuasion]] (Cha), and [[rangoric-srd/skills/Stealth|Stealth]] (Dex).
 
 **Skill Points at Each Level:** 2 + Int modifier.
 

@@ -37,7 +37,7 @@ To qualify to become a black alchemist, a character must fulfill all the followi
 
 ###### Class Skills
 
-The black alchemist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int) and [[rangoric-srd/skills/Nature|Nature]] (Int).
+The black alchemist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Arcana|Arcana]] (Int), [[rangoric-srd/skills/Mysticism|Mysticism]] (Int), and [[rangoric-srd/skills/Nature|Nature]] (Int).
 
 **Skill Points at Each Level**: 4 + Int modifier.
 

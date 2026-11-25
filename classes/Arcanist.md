@@ -29,9 +29,7 @@ Some spellcasters seek the secrets of magic, pursuing the power to make the impo
 
 ###### Class Skills
 
-The arcanist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), and all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int).
-
-**Magic Skill**: [[rangoric-srd/skills/Arcana|Arcana]] is the arcanist’s [[rangoric-srd/skills/Identifying Magic#Each class’s Magic skill|Magic skill]], used for the arcanist’s Magic skill checks and wherever a rule says “your Magic skill”.
+The arcanist’s class skills (and the key ability for each skill) are [[rangoric-srd/skills/Acrobatics|Acrobatics]] (Dex), [[rangoric-srd/skills/Emulation|Emulation]] (Cha), [[rangoric-srd/skills/Engineering|Engineering]] (Int), all [[rangoric-srd/skills/Knowledge|Knowledge skills]] (Int), and [[rangoric-srd/skills/Mysticism|Mysticism]] (Int).
 
 **Skill Points at Each Level**: 2 + Int modifier.
 
