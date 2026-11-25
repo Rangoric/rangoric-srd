@@ -101,8 +101,11 @@ Deep halflings are a [[rangoric-srd/races/Halfling#Subtypes|subtype of the halfl
 
 These halflings with class levels are described on their own:
 
+  - Adepts: [[rangoric-srd/monsters/halfling/Healer|Healer]] (CR 7)
   - Barbarians: [[rangoric-srd/monsters/halfling/Dog Rider|Dog Rider]] (CR 3), [[rangoric-srd/monsters/halfling/Cannibalistic Hunter|Cannibalistic Hunter]] (CR 9)
   - Bards: [[rangoric-srd/monsters/halfling/Taunting Comedian|Taunting Comedian]] (CR 3), [[rangoric-srd/monsters/halfling/Notorious Foil|Notorious Foil]] (CR 16)
+  - Clerics: [[rangoric-srd/monsters/halfling/Carousing Champion|Carousing Champion]] (CR 5), [[rangoric-srd/monsters/halfling/Elemental Priest|Elemental Priest]] (CR 15)
+  - Druids: [[rangoric-srd/monsters/halfling/Evasive Slip|Evasive Slip]] (CR 5), [[rangoric-srd/monsters/halfling/Sea Captain|Sea Captain]] (CR 7), [[rangoric-srd/monsters/halfling/Dark Nature Priest|Dark Nature Priest]] (CR 17)
   - Fighters: [[rangoric-srd/monsters/halfling/Murderous Halfling|Murderous Halfling]] (CR 3), [[rangoric-srd/monsters/halfling/Halfling Slinger|Halfling Slinger]] (CR 8), [[rangoric-srd/monsters/halfling/Arcane Pretender|Arcane Pretender]] (CR 13)
   - Monks: [[rangoric-srd/monsters/halfling/Nimble Shuriken Thrower|Nimble Shuriken Thrower]] (CR 5), [[rangoric-srd/monsters/halfling/Little Fist|Little Fist]] (CR 13)
   - Paladins: [[rangoric-srd/monsters/halfling/Dog Rider Knight|Dog Rider Knight]] (CR 6), [[rangoric-srd/monsters/halfling/Furious Crusader|Furious Crusader]] (CR 17)

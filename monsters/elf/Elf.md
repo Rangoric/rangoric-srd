@@ -93,8 +93,11 @@ Half-elf characters use the [[rangoric-srd/races/Half-Elf|half-elf]] race, which
 
 These half-elves with class levels are described on their own:
 
+  - Adepts: [[rangoric-srd/monsters/elf/Heretic|Heretic]] (CR 6)
   - Barbarians: [[rangoric-srd/monsters/elf/Wild Lancer|Wild Lancer]] (CR 4), [[rangoric-srd/monsters/elf/Raging Swimmer|Raging Swimmer]] (CR 8)
   - Bards: [[rangoric-srd/monsters/elf/Tavern Singer|Tavern Singer]] (CR 1/2), [[rangoric-srd/monsters/elf/Con Artist|Con Artist]] (CR 5)
+  - Clerics: [[rangoric-srd/monsters/elf/Shoreline Cleric|Shoreline Cleric]] (CR 3)
+  - Druids: [[rangoric-srd/monsters/elf/Cavern Defender|Cavern Defender]] (CR 4), [[rangoric-srd/monsters/elf/Mistress of High Places|Mistress of High Places]] (CR 10), [[rangoric-srd/monsters/elf/Hateful Scourge|Hateful Scourge]] (CR 16)
   - Fighters: [[rangoric-srd/monsters/elf/Adventuring Blacksmith|Adventuring Blacksmith]] (CR 5), [[rangoric-srd/monsters/elf/Pirate King|Pirate King]] (CR 14)
   - Monks: [[rangoric-srd/monsters/elf/Grove Guardian|Grove Guardian]] (CR 17)
   - Paladins: [[rangoric-srd/monsters/elf/Haughty Avenger|Haughty Avenger]] (CR 2), [[rangoric-srd/monsters/elf/Rider of the Steppe|Rider of the Steppe]] (CR 13), [[rangoric-srd/monsters/elf/Mithral Master|Mithral Master]] (CR 18)
@@ -149,6 +152,8 @@ These elves with class levels are described on their own:
 
   - Barbarians: [[rangoric-srd/monsters/elf/Forest Guardian|Forest Guardian]] (CR 5), [[rangoric-srd/monsters/elf/Graceful Slayer|Graceful Slayer]] (CR 16)
   - Bards: [[rangoric-srd/monsters/elf/Street Artist|Street Artist]] (CR 7), [[rangoric-srd/monsters/elf/Spellsword|Spellsword]] (CR 15)
+  - Clerics: [[rangoric-srd/monsters/elf/Shadow Cleric|Shadow Cleric]] (CR 17)
+  - Druids: [[rangoric-srd/monsters/elf/Island Defender|Island Defender]] (CR 6), [[rangoric-srd/monsters/elf/Creeping Death|Creeping Death]] (CR 14)
   - Fighters: [[rangoric-srd/monsters/elf/Cautious Archer|Cautious Archer]] (CR 4), [[rangoric-srd/monsters/elf/Griffon Rider|Griffon Rider]] (CR 9), [[rangoric-srd/monsters/elf/Elven Recluse|Elven Recluse]] (CR 16)
   - Monks: [[rangoric-srd/monsters/elf/Monastic Sniper|Monastic Sniper]] (CR 12), [[rangoric-srd/monsters/elf/Sword Savant|Sword Savant]] (CR 18)
   - Paladins: [[rangoric-srd/monsters/elf/Holy Archer|Holy Archer]] (CR 5), [[rangoric-srd/monsters/elf/Elven Honorblade|Elven Honorblade]] (CR 10)

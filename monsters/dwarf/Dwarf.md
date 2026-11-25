@@ -66,8 +66,11 @@ Mountain dwarves are the [[rangoric-srd/races/Dwarf#Subtypes|dwarf race]]'s moun
 
 These dwarves with class levels are described on their own:
 
+  - Adepts: [[rangoric-srd/monsters/dwarf/Guru|Guru]] (CR 4)
   - Barbarians: [[rangoric-srd/monsters/dwarf/Dwarven Rager|Dwarven Rager]] (CR 1), [[rangoric-srd/monsters/dwarf/Sundering Axe|Sundering Axe]] (CR 6), [[rangoric-srd/monsters/dwarf/Giant Slayer|Giant Slayer]] (CR 11), [[rangoric-srd/monsters/dwarf/Scarred Wanderer|Scarred Wanderer]] (CR 19)
   - Bards: [[rangoric-srd/monsters/dwarf/Gambler|Gambler]] (CR 6), [[rangoric-srd/monsters/dwarf/Tunnel Drummer|Tunnel Drummer]] (CR 13)
+  - Clerics: [[rangoric-srd/monsters/dwarf/War Priest|War Priest]] (CR 1)
+  - Druids: [[rangoric-srd/monsters/dwarf/Initiate of Flame|Initiate of Flame]] (CR 1/2), [[rangoric-srd/monsters/dwarf/Earthfather|Earthfather]] (CR 19)
   - Fighters: [[rangoric-srd/monsters/dwarf/Spell Hunter|Spell Hunter]] (CR 6), [[rangoric-srd/monsters/dwarf/Shieldbreaker (Monster)|Shieldbreaker (Monster)]] (CR 11), [[rangoric-srd/monsters/dwarf/Dwarven Arbalester|Dwarven Arbalester]] (CR 15)
   - Monks: [[rangoric-srd/monsters/dwarf/Steadfast Defender|Steadfast Defender]] (CR 8), [[rangoric-srd/monsters/dwarf/Improvised Hurler|Improvised Hurler]] (CR 14)
   - Paladins: [[rangoric-srd/monsters/dwarf/Hammer of Justice|Hammer of Justice]] (CR 4), [[rangoric-srd/monsters/dwarf/Forge Rider|Forge Rider]] (CR 11), [[rangoric-srd/monsters/dwarf/Axe Lord|Axe Lord]] (CR 16)

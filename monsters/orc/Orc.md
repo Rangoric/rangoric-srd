@@ -118,8 +118,11 @@ Half-orc characters use the [[rangoric-srd/races/Half-Orc|half-orc]] race, which
 
 These half-orcs with class levels are described on their own:
 
+  - Adepts: [[rangoric-srd/monsters/orc/Shaman (Adept)|Shaman (Adept)]] (CR 1/2), [[rangoric-srd/monsters/orc/Doom Prophet|Doom Prophet]] (CR 2)
   - Barbarians: [[rangoric-srd/monsters/orc/Axe Warrior|Axe Warrior]] (CR 2), [[rangoric-srd/monsters/orc/Double Axe Fury|Double Axe Fury]] (CR 10), [[rangoric-srd/monsters/orc/Undead Hunter|Undead Hunter]] (CR 15), [[rangoric-srd/monsters/orc/Death Dealer|Death Dealer]] (CR 18)
   - Bards: [[rangoric-srd/monsters/orc/Chameleon (Monster)|Chameleon (Monster)]] (CR 10), [[rangoric-srd/monsters/orc/Rival Explorer|Rival Explorer]] (CR 17)
+  - Clerics: [[rangoric-srd/monsters/orc/Wrath Priest|Wrath Priest]] (CR 7)
+  - Druids: [[rangoric-srd/monsters/orc/Savage Plant Sage|Savage Plant Sage]] (CR 3), [[rangoric-srd/monsters/orc/Castaway|Castaway]] (CR 11), [[rangoric-srd/monsters/orc/Rage Flame|Rage Flame]] (CR 18)
   - Fighters: [[rangoric-srd/monsters/orc/Traitorous Brigand|Traitorous Brigand]] (CR 2), [[rangoric-srd/monsters/orc/Brutal Warlord|Brutal Warlord]] (CR 12), [[rangoric-srd/monsters/orc/Failed Disciple|Failed Disciple]] (CR 17)
   - Monks: [[rangoric-srd/monsters/orc/Axe Dancer|Axe Dancer]] (CR 7), [[rangoric-srd/monsters/orc/Cautious Hunter|Cautious Hunter]] (CR 9)
   - Paladins: [[rangoric-srd/monsters/orc/Honorable Outcast|Honorable Outcast]] (CR 1), [[rangoric-srd/monsters/orc/Saintly Knight|Saintly Knight]] (CR 8)
