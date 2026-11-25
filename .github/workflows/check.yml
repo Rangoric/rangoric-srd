@@ -43,12 +43,13 @@ jobs:
           node-version: "22"
       - name: Frontmatter as the website reads it
         if: ${{ !cancelled() }}
-        # the versions in rangoric-srd-website's package-lock.json; keep them matching
+        # gray-matter and js-yaml at the versions in rangoric-srd-website's package-lock.json, and Prettier at the
+        # version in the workshop's batch.py (PRETTIER); keep them matching
         run: |
-          npm install --prefix "$RUNNER_TEMP/fm" --no-save --no-package-lock --silent gray-matter@4.0.3 js-yaml@4.3.2
+          npm install --prefix "$RUNNER_TEMP/fm" --no-save --no-package-lock --silent gray-matter@4.0.3 js-yaml@4.3.2 prettier@3.8.1
           NODE_PATH="$RUNNER_TEMP/fm/node_modules" node .github/scripts/check_frontmatter.cjs .
       - name: Formatting of the notes this change touches (Prettier; the version in the workshop's batch.py)
         if: ${{ !cancelled() && github.event_name == 'pull_request' }}
         run: |
           git diff -z --name-only --diff-filter=d "origin/${{ github.base_ref }}...HEAD" -- '*.md' \
-            | xargs -0 -r npx --yes prettier@3.8.1 --check
+            | xargs -0 -r "$RUNNER_TEMP/fm/node_modules/.bin/prettier" --check
